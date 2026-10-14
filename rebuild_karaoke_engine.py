@@ -39,9 +39,15 @@ html = html.replace(
     "const cats=['全部','生活','口說','科學','心理','職場','科技','收藏'];"
 )
 
-# Add YouTube iframe API script tag in <head>
+# Add YouTube iframe API script tag and synchronous video_lessons.js in <head>
+head_scripts = '<script src="https://www.youtube.com/iframe_api"></script>\\n<script src="./video_lessons.js?v=13"></script>\\n'
 if 'https://www.youtube.com/iframe_api' not in html:
-    html = html.replace('</head>', '<script src="https://www.youtube.com/iframe_api"></script>\n</head>')
+    html = html.replace('</head>', head_scripts + '</head>')
+
+# Force eager Service Worker update to v13 with immediate activation
+sw_old = "if('serviceWorker'in navigator&&location.protocol.startsWith('http')){window.addEventListener('load',()=>navigator.serviceWorker.register('./sw.js').then(reg=>{reg.addEventListener('updatefound',()=>{const nw=reg.installing;nw?.addEventListener('statechange',()=>{if(nw.state==='installed'&&navigator.serviceWorker.controller)toast('✦ 新版本已就緒，重新整理即可更新')})})}).catch(()=>{}))}"
+sw_new = "if('serviceWorker'in navigator&&location.protocol.startsWith('http')){window.addEventListener('load',()=>navigator.serviceWorker.register('./sw.js?v=13').then(reg=>{try{reg.update()}catch(e){}reg.addEventListener('updatefound',()=>{const nw=reg.installing;nw?.addEventListener('statechange',()=>{if(nw.state==='installed'&&navigator.serviceWorker.controller)toast('✦ 最新 50 部完整影片字幕已就緒！')})})}).catch(()=>{}))}"
+html = html.replace(sw_old, sw_new)
 
 # Add complete VoiceTube CSS with left-aligned subtitle stage and vivid word-by-word karaoke highlight
 vt_css = """
@@ -663,7 +669,10 @@ vt_modal_html = """
         <!-- Top: Transcript Follow-Along List -->
         <div class="vt-panel-card vt-transcript-card">
           <div class="vt-panel-head">
-            <span class="vt-panel-title">逐句字幕跟讀</span>
+            <div style="display:flex;align-items:center;gap:8px">
+              <span class="vt-panel-title">逐句字幕跟讀</span>
+              <span id="vtCueCountBadge" style="font-size:11px;color:#a49aff;font-weight:700;background:rgba(109,93,252,0.18);padding:2px 8px;border-radius:12px;border:1px solid rgba(109,93,252,0.3)"></span>
+            </div>
             <div style="display:flex;gap:6px">
               <button class="vt-pill-btn" onclick="adjustSubtitleSize(-1)">A-</button>
               <button class="vt-pill-btn" onclick="adjustSubtitleSize(1)">A+</button>
@@ -736,20 +745,23 @@ else:
 # VoiceTube Real-Time Synchronized Follow-Along & Karaoke Highlight Engine for 50 Videos
 vt_script = """
 // ── VOICETUBE SYNCHRONIZED FOLLOW-ALONG ENGINE (50 影片完整字幕 - 逐字連動 HIGHLIGHT) ──
-let PRELOADED_LESSONS = { lessons: {}, vocab: {} };
+let PRELOADED_LESSONS = window.PRELOADED_LESSONS || { lessons: {}, vocab: {} };
 
-// Asynchronously load the 50 full video lessons with complete untruncated subtitles
-fetch('./video_lessons.json').then(r => r.json()).then(data => {
-  PRELOADED_LESSONS = data;
-  console.log('[ENGLISHTUBE] 50 video lessons loaded:', Object.keys(data.lessons || {}).length);
-  if (current && current.id && PRELOADED_LESSONS.lessons?.[current.id]) {
-    current.cues = PRELOADED_LESSONS.lessons[current.id].cues;
-    renderVoiceTubeTranscript();
-    renderVoiceTubeVocab();
-  }
-}).catch(err => {
-  console.warn('Lessons fetch fallback:', err);
-});
+// Fallback asynchronous loader if script tag was delayed
+if (!window.PRELOADED_LESSONS || !Object.keys(window.PRELOADED_LESSONS.lessons || {}).length) {
+  fetch('./video_lessons.json?v=13').then(r => r.json()).then(data => {
+    window.PRELOADED_LESSONS = data;
+    PRELOADED_LESSONS = data;
+    console.log('[ENGLISHTUBE] 50 video lessons loaded via fallback:', Object.keys(data.lessons || {}).length);
+    if (current && current.id && PRELOADED_LESSONS.lessons?.[current.id]) {
+      current.cues = PRELOADED_LESSONS.lessons[current.id].cues;
+      renderVoiceTubeTranscript();
+      renderVoiceTubeVocab();
+    }
+  }).catch(err => {
+    console.warn('Lessons fetch fallback:', err);
+  });
+}
 
 let ytPlayer = null;
 let ytReady = false;
@@ -913,12 +925,15 @@ function syncSubtitleAndWords() {
     }
   }
 
-  // 2. Find matching sentence cue
+  // 2. Find matching sentence cue with smooth sentence bridging
   let matchIdx = -1;
   for (let i = 0; i < cues.length; i++) {
     const c = cues[i];
-    const dur = c.duration > 0 ? c.duration : (cues[i+1] ? Math.max(0.5, cues[i+1].start - c.start) : 5);
-    if (time >= c.start && time < c.start + dur) {
+    const nextStart = (i + 1 < cues.length) ? cues[i+1].start : (c.start + (c.duration || 5));
+    const dur = c.duration > 0 ? c.duration : Math.max(1.0, nextStart - c.start);
+    // Allow natural sentence bridge (up to next cue start) so subtitles don't vanish prematurely
+    const cueEnd = Math.max(c.start + dur, Math.min(c.start + dur + 1.2, nextStart));
+    if (time >= c.start && time < cueEnd) {
       matchIdx = i;
       break;
     }
@@ -1124,6 +1139,11 @@ function renderVoiceTubeTranscript() {
   const list = document.getElementById('vtTranscriptList');
   if (!list || !current?.cues) return;
   const cues = current.cues;
+  const countBadge = document.getElementById('vtCueCountBadge');
+  if (countBadge) {
+    const lastStart = cues.length ? cues[cues.length - 1].start : 0;
+    countBadge.textContent = `共 ${cues.length} 句（~${formatTime(lastStart)}）`;
+  }
   list.innerHTML = cues.map((c, i) => `
     <div class="vt-cue-row ${i === activeCueIdx ? 'active' : ''}" onclick="seekCue(${i})">
       <span class="vt-cue-play-btn">▶</span>
@@ -1265,7 +1285,8 @@ openVideo = function(id) {
   current = videos.find(v => v.id === id);
   if (!current) return;
 
-  const lessonData = PRELOADED_LESSONS.lessons?.[id];
+  const preloaded = (window.PRELOADED_LESSONS && Object.keys(window.PRELOADED_LESSONS.lessons || {}).length) ? window.PRELOADED_LESSONS : PRELOADED_LESSONS;
+  const lessonData = preloaded.lessons?.[id];
   if (lessonData && lessonData.cues && lessonData.cues.length) {
     current.cues = lessonData.cues;
     current.en = lessonData.cues.map(c => c.en);

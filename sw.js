@@ -1,12 +1,30 @@
-// ENGLISHTUBE Service Worker v11
-const CACHE='englishtube-v11';
-const STATIC=['./','./index.html','./manifest.webmanifest','./icon.svg','./icon-180.png','./icon-192.png','./icon-512.png','./video_lessons.json'];
+// ENGLISHTUBE Service Worker v13
+const CACHE='englishtube-v13';
+const STATIC=[
+  './',
+  './index.html',
+  './manifest.webmanifest',
+  './icon.svg',
+  './icon-180.png',
+  './icon-192.png',
+  './icon-512.png',
+  './video_lessons.js',
+  './video_lessons.json'
+];
 
-// Install: pre-cache static shell
-self.addEventListener('install',event=>{event.waitUntil(caches.open(CACHE).then(cache=>cache.addAll(STATIC)));self.skipWaiting()});
+// Install: pre-cache static shell & skip waiting immediately
+self.addEventListener('install',event=>{
+  event.waitUntil(caches.open(CACHE).then(cache=>cache.addAll(STATIC)));
+  self.skipWaiting();
+});
 
-// Activate: purge stale caches & claim clients immediately
-self.addEventListener('activate',event=>{event.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(k=>k!==CACHE).map(k=>caches.delete(k)))).then(()=>self.clients.claim()))});
+// Activate: purge ALL stale caches & claim clients immediately
+self.addEventListener('activate',event=>{
+  event.waitUntil(
+    caches.keys().then(keys=>Promise.all(keys.filter(k=>k!==CACHE).map(k=>caches.delete(k))))
+      .then(()=>self.clients.claim())
+  );
+});
 
 // Fetch: API=network-only, cross-origin=passthrough, static=stale-while-revalidate, nav fallback=index.html
 self.addEventListener('fetch',event=>{
