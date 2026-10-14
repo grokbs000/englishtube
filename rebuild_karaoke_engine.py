@@ -3,11 +3,41 @@ import subprocess, re, json
 # 1. Restore clean index.html from base fc7a0ed~1
 clean_base = subprocess.check_output(['git', 'show', 'fc7a0ed~1:index.html'], text=True)
 
-with open('video_lessons.json', 'r', encoding='utf-8') as f:
-    lessons_data = json.load(f)
-lessons_json = json.dumps(lessons_data, ensure_ascii=False)
+with open('catalog_50.json', 'r', encoding='utf-8') as f:
+    catalog = json.load(f)
+
+# Format catalog as JavaScript array for index.html
+js_videos = []
+for item in catalog:
+    js_videos.append({
+        'id': item['id'],
+        'title': item['title'],
+        'zh': item['zh'],
+        'cat': item['cat'],
+        'level': item['level'],
+        'duration': item['duration'],
+        'views': item['views'],
+        'emoji': item['emoji'],
+        'color': item['color'],
+        'desc': f"{item['speaker']} · {item['zh']}",
+        'url': f"https://www.youtube.com/watch?v={item['id']}",
+        'en': [],
+        'cn': [],
+        'words': []
+    })
+
+videos_js_code = "const videos = " + json.dumps(js_videos, ensure_ascii=False) + ";"
 
 html = clean_base
+
+# Replace videos array with 50 videos
+html = re.sub(r'const videos=\[[\s\S]*?\];', videos_js_code, html, count=1)
+
+# Update categories list to include all 50 video categories
+html = html.replace(
+    "const cats=['全部','生活','口說','科學','收藏'];",
+    "const cats=['全部','生活','口說','科學','心理','職場','科技','收藏'];"
+)
 
 # Add YouTube iframe API script tag in <head>
 if 'https://www.youtube.com/iframe_api' not in html:
@@ -16,7 +46,7 @@ if 'https://www.youtube.com/iframe_api' not in html:
 # Add complete VoiceTube CSS with left-aligned subtitle stage and vivid word-by-word karaoke highlight
 vt_css = """
 /* ═══════════════════════════════════════════════════════════════
-   VOICETUBE STYLE LEARNING STUDIO (跟讀影片標示字幕 - 逐字連動 HIGHLIGHT)
+   VOICETUBE STYLE LEARNING STUDIO (50 影片完整字幕 - 逐字連動 HIGHLIGHT)
    ═══════════════════════════════════════════════════════════════ */
 .modal {
   display: none;
@@ -703,10 +733,23 @@ else:
     if old_modal_start != -1 and old_modal_end != -1:
         html = html[:old_modal_start] + vt_modal_html + '\n' + html[old_modal_end:]
 
-# VoiceTube Real-Time Synchronized Follow-Along & Karaoke Highlight Engine
-vt_script = f"""
-// ── VOICETUBE SYNCHRONIZED FOLLOW-ALONG ENGINE (逐字連動 HIGHLIGHT) ──
-const PRELOADED_LESSONS = {lessons_json};
+# VoiceTube Real-Time Synchronized Follow-Along & Karaoke Highlight Engine for 50 Videos
+vt_script = """
+// ── VOICETUBE SYNCHRONIZED FOLLOW-ALONG ENGINE (50 影片完整字幕 - 逐字連動 HIGHLIGHT) ──
+let PRELOADED_LESSONS = { lessons: {}, vocab: {} };
+
+// Asynchronously load the 50 full video lessons with complete untruncated subtitles
+fetch('./video_lessons.json').then(r => r.json()).then(data => {
+  PRELOADED_LESSONS = data;
+  console.log('[ENGLISHTUBE] 50 video lessons loaded:', Object.keys(data.lessons || {}).length);
+  if (current && current.id && PRELOADED_LESSONS.lessons?.[current.id]) {
+    current.cues = PRELOADED_LESSONS.lessons[current.id].cues;
+    renderVoiceTubeTranscript();
+    renderVoiceTubeVocab();
+  }
+}).catch(err => {
+  console.warn('Lessons fetch fallback:', err);
+});
 
 let ytPlayer = null;
 let ytReady = false;
@@ -724,136 +767,135 @@ let lastTimeReceivedAt = performance.now();
 let isPlaying = false;
 
 // YouTube Iframe API ready callback
-window.onYouTubeIframeAPIReady = function() {{
+window.onYouTubeIframeAPIReady = function() {
   ytReady = true;
   console.log('[VoiceTube] YouTube Iframe API Ready');
-}};
+};
 
 // Native postMessage listener for YouTube iframe events
-window.addEventListener('message', function(e) {{
+window.addEventListener('message', function(e) {
   if (!e || typeof e.data !== 'string') return;
-  try {{
+  try {
     const msg = JSON.parse(e.data);
-    if (msg.event === 'infoDelivery' && msg.info) {{
-      if (typeof msg.info.currentTime === 'number') {{
+    if (msg.event === 'infoDelivery' && msg.info) {
+      if (typeof msg.info.currentTime === 'number') {
         lastVideoTime = msg.info.currentTime;
         lastTimeReceivedAt = performance.now();
-      }}
+      }
       if (msg.info.playerState === 1) isPlaying = true;
       if (msg.info.playerState === 2) isPlaying = false;
-    }}
-  }} catch(err) {{}}
-}});
+    }
+  } catch(err) {}
+});
 
-function initOrLoadPlayer(videoId) {{
+function initOrLoadPlayer(videoId) {
   const container = document.getElementById('playerContainer');
   if (!container) return;
   
-  // Wait if YT API is still loading
-  if (!window.YT || !window.YT.Player) {{
+  if (!window.YT || !window.YT.Player) {
     container.innerHTML = '<div style="display:flex;align-items:center;justify-content:center;height:100%;color:#a0a0c0;font-size:14px">載入 YouTube 播放器與即時字幕引擎中…</div>';
     let attempts = 0;
-    const waitTimer = setInterval(() => {{
+    const waitTimer = setInterval(() => {
       attempts++;
-      if (window.YT && window.YT.Player) {{
+      if (window.YT && window.YT.Player) {
         clearInterval(waitTimer);
         createYTPlayer(videoId);
-      }} else if (attempts > 50) {{
+      } else if (attempts > 50) {
         clearInterval(waitTimer);
         createYTPlayer(videoId);
-      }}
-    }}, 60);
+      }
+    }, 60);
     return;
-  }}
+  }
 
   createYTPlayer(videoId);
-}}
+}
 
-function createYTPlayer(videoId) {{
+function createYTPlayer(videoId) {
   const container = document.getElementById('playerContainer');
   if (!container) return;
   
-  if (ytPlayer && typeof ytPlayer.loadVideoById === 'function') {{
-    try {{
+  if (ytPlayer && typeof ytPlayer.loadVideoById === 'function') {
+    try {
       ytPlayer.loadVideoById(videoId);
       startContinuousSync();
       return;
-    }} catch(e) {{
+    } catch(e) {
       console.warn('Player reload fallback', e);
-    }}
-  }}
+    }
+  }
 
   container.innerHTML = '';
   const playerDiv = document.createElement('div');
   playerDiv.id = 'ytPlayerInstance';
   container.appendChild(playerDiv);
 
-  try {{
-    ytPlayer = new YT.Player('ytPlayerInstance', {{
+  try {
+    ytPlayer = new YT.Player('ytPlayerInstance', {
       videoId: videoId,
-      playerVars: {{
+      playerVars: {
         autoplay: 1,
         playsinline: 1,
         rel: 0,
         modestbranding: 1,
         enablejsapi: 1,
         origin: window.location.origin
-      }},
-      events: {{
-        onReady: function(event) {{
+      },
+      events: {
+        onReady: function(event) {
           event.target.playVideo();
           isPlaying = true;
           startContinuousSync();
-        }},
-        onStateChange: function(event) {{
-          if (event.data === 1) {{ // PLAYING
+        },
+        onStateChange: function(event) {
+          if (event.data === 1) { // PLAYING
             isPlaying = true;
             startContinuousSync();
-          }} else if (event.data === 2) {{ // PAUSED
+          } else if (event.data === 2) { // PAUSED
             isPlaying = false;
-          }}
-        }}
-      }}
-    }});
-  }} catch(e) {{
-    container.innerHTML = `<iframe id="fallbackIframe" src="https://www.youtube-nocookie.com/embed/${{videoId}}?autoplay=1&enablejsapi=1&rel=0&origin=${{encodeURIComponent(window.location.origin)}}" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="width:100%;height:100%;border:0"></iframe>`;
-  }}
+          }
+        }
+      }
+    });
+  } catch(e) {
+    container.innerHTML = `<iframe id="fallbackIframe" src="https://www.youtube-nocookie.com/embed/${videoId}?autoplay=1&enablejsapi=1&rel=0&origin=${encodeURIComponent(window.location.origin)}" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="width:100%;height:100%;border:0"></iframe>`;
+  }
 
   startContinuousSync();
-}}
+}
 
-function startContinuousSync() {{
+function startContinuousSync() {
   if (syncTimer) clearInterval(syncTimer);
   // High-frequency 30ms (approx 30 FPS) ticker for smooth word sweep
   syncTimer = setInterval(syncSubtitleAndWords, 30);
-}}
+}
 
-function stopSubtitleSync() {{
-  if (syncTimer) {{
+function stopSubtitleSync() {
+  if (syncTimer) {
     clearInterval(syncTimer);
     syncTimer = null;
-  }}
-}}
+  }
+}
 
-function getExactPlaybackTime() {{
+function getExactPlaybackTime() {
   let t = null;
-  if (ytPlayer && typeof ytPlayer.getCurrentTime === 'function') {{
-    try {{ t = ytPlayer.getCurrentTime(); }} catch(e) {{}}
-  }}
-  if (t != null && !isNaN(t) && t > 0) {{
+  if (ytPlayer && typeof ytPlayer.getCurrentTime === 'function') {
+    try { t = ytPlayer.getCurrentTime(); } catch(e) {}
+  }
+  if (t != null && !isNaN(t) && t > 0) {
     lastVideoTime = t;
     lastTimeReceivedAt = performance.now();
     return t;
-  }}
+  }
   // Smooth real-time time interpolation between update ticks
-  if (isPlaying) {{
+  if (isPlaying) {
     const dt = (performance.now() - lastTimeReceivedAt) / 1000;
     return lastVideoTime + (dt * currentPlaybackRate);
-  }}
+  }
   return lastVideoTime;
-}}
+}
 
-function syncSubtitleAndWords() {{
+function syncSubtitleAndWords() {
   const modal = document.getElementById('modal');
   if (!modal || !modal.classList.contains('open')) return;
 
@@ -862,36 +904,36 @@ function syncSubtitleAndWords() {{
   if (!cues.length) return;
 
   // 1. Single sentence repeat loop mode
-  if (repeatCueMode && activeCueIdx >= 0 && activeCueIdx < cues.length) {{
+  if (repeatCueMode && activeCueIdx >= 0 && activeCueIdx < cues.length) {
     const cur = cues[activeCueIdx];
     const dur = cur.duration > 0 ? cur.duration : 4.0;
-    if (time >= cur.start + dur - 0.1) {{
+    if (time >= cur.start + dur - 0.1) {
       seekCue(activeCueIdx);
       return;
-    }}
-  }}
+    }
+  }
 
   // 2. Find matching sentence cue
   let matchIdx = -1;
-  for (let i = 0; i < cues.length; i++) {{
+  for (let i = 0; i < cues.length; i++) {
     const c = cues[i];
     const dur = c.duration > 0 ? c.duration : (cues[i+1] ? Math.max(0.5, cues[i+1].start - c.start) : 5);
-    if (time >= c.start && time < c.start + dur) {{
+    if (time >= c.start && time < c.start + dur) {
       matchIdx = i;
       break;
-    }}
-  }}
+    }
+  }
 
-  if (matchIdx !== -1) {{
-    if (matchIdx !== activeCueIdx) {{
+  if (matchIdx !== -1) {
+    if (matchIdx !== activeCueIdx) {
       highlightVoiceTubeCue(matchIdx);
-    }}
+    }
     // 3. 字幕隨影片聲音逐字連動反白移動
     updateKaraokeWordHighlight(time, cues[matchIdx]);
-  }}
-}}
+  }
+}
 
-function highlightVoiceTubeCue(idx) {{
+function highlightVoiceTubeCue(idx) {
   activeCueIdx = idx;
   const cue = current?.cues?.[idx];
   if (!cue) return;
@@ -900,45 +942,44 @@ function highlightVoiceTubeCue(idx) {{
   const enStage = document.getElementById('vtActiveEn');
   const zhStage = document.getElementById('vtActiveZh');
   
-  if (enStage) {{
-    if (currentSubMode === 'zh' || currentSubMode === 'none') {{
+  if (enStage) {
+    if (currentSubMode === 'zh' || currentSubMode === 'none') {
       enStage.style.display = 'none';
-    }} else {{
+    } else {
       enStage.style.display = 'flex';
       enStage.innerHTML = tokenizeWords(cue.en || cue.text || '');
-    }}
-  }}
+    }
+  }
 
-  if (zhStage) {{
-    if (currentSubMode === 'en' || currentSubMode === 'none') {{
+  if (zhStage) {
+    if (currentSubMode === 'en' || currentSubMode === 'none') {
       zhStage.style.display = 'none';
-    }} else {{
+    } else {
       zhStage.style.display = 'block';
       zhStage.textContent = cue.zh || current.cn?.[idx] || '';
     }}
-  }}
 
   // 2. Highlight row in Right Transcript List
   const rows = document.querySelectorAll('.vt-cue-row');
-  rows.forEach((row, i) => {{
+  rows.forEach((row, i) => {
     row.classList.toggle('active', i === idx);
-  }});
+  });
 
   // 3. Smooth auto-scroll
-  if (autoScrollEnabled) {{
+  if (autoScrollEnabled) {
     const activeRow = document.querySelector('.vt-cue-row.active');
-    if (activeRow) {{
-      activeRow.scrollIntoView({{ behavior: 'smooth', block: 'center' }});
-    }}
-  }}
+    if (activeRow) {
+      activeRow.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    }
+  }
 
   // Update recording practice target
   const practiceTarget = document.getElementById('practiceSentenceTarget');
   if (practiceTarget) practiceTarget.textContent = cue.en || cue.text || '';
-}}
+}
 
 // ── 逐字連動 HIGHLIGHT 核心實作 ──
-function updateKaraokeWordHighlight(time, cue) {{
+function updateKaraokeWordHighlight(time, cue) {
   const words = document.querySelectorAll('#vtActiveEn .vt-word-token');
   if (!words.length) return;
 
@@ -950,290 +991,290 @@ function updateKaraokeWordHighlight(time, cue) {{
   // Character weight calculation for natural speaking cadence
   let totalChars = 0;
   const charWeights = [];
-  words.forEach(w => {{
+  words.forEach(w => {
     const len = parseInt(w.getAttribute('data-len') || '3', 10);
     charWeights.push(len);
     totalChars += len;
-  }});
+  });
 
   const targetPos = ratio * totalChars;
   let accumulated = 0;
   let activeWIdx = 0;
-  for (let i = 0; i < charWeights.length; i++) {{
+  for (let i = 0; i < charWeights.length; i++) {
     accumulated += charWeights[i];
-    if (accumulated >= targetPos) {{
+    if (accumulated >= targetPos) {
       activeWIdx = i;
       break;
-    }}
-  }}
+    }
+  }
 
   // 1. Update left subtitle stage words
-  words.forEach((w, i) => {{
-    if (i < activeWIdx) {{
+  words.forEach((w, i) => {
+    if (i < activeWIdx) {
       if (w.className !== 'vt-word-token passed') w.className = 'vt-word-token passed';
-    }} else if (i === activeWIdx) {{
+    } else if (i === activeWIdx) {
       if (w.className !== 'vt-word-token current') w.className = 'vt-word-token current';
-    }} else {{
+    } else {
       if (w.className !== 'vt-word-token future') w.className = 'vt-word-token future';
-    }}
-  }});
+    }
+  });
 
   // 2. Also update right transcript active row words
   const activeRowEn = document.querySelector('.vt-cue-row.active .vt-cue-en');
-  if (activeRowEn) {{
+  if (activeRowEn) {
     const miniWords = activeRowEn.querySelectorAll('.vt-mini-word');
-    if (miniWords.length === words.length) {{
-      miniWords.forEach((mw, i) => {{
-        if (i < activeWIdx) {{
+    if (miniWords.length === words.length) {
+      miniWords.forEach((mw, i) => {
+        if (i < activeWIdx) {
           if (mw.className !== 'vt-mini-word passed') mw.className = 'vt-mini-word passed';
-        }} else if (i === activeWIdx) {{
+        } else if (i === activeWIdx) {
           if (mw.className !== 'vt-mini-word current') mw.className = 'vt-mini-word current';
-        }} else {{
+        } else {
           if (mw.className !== 'vt-mini-word future') mw.className = 'vt-mini-word future';
-        }}
-      }});
-    }}
-  }}
-}}
+        }
+      });
+    }
+  }
+}
 
-function tokenizeWords(sentence) {{
+function tokenizeWords(sentence) {
   const parts = sentence.split(/(\\s+|[^\\w\\s'-]+)/);
   let wordCounter = 0;
-  return parts.map(part => {{
-    if (/^[a-zA-Z0-9'-]{{2,}}$/.test(part)) {{
+  return parts.map(part => {
+    if (/^[a-zA-Z0-9'-]{2,}$/.test(part)) {
       const clean = part.replace(/[^a-zA-Z]/g, '').toLowerCase();
       const idx = wordCounter++;
-      return `<span class="vt-word-token future" data-word-idx="${{idx}}" data-len="${{clean.length}}" onclick="lookupWord('${{clean}}')">${{escapeHTML(part)}}</span>`;
-    }} else if (/^[a-zA-Z]$/.test(part)) {{
+      return `<span class="vt-word-token future" data-word-idx="${idx}" data-len="${clean.length}" onclick="lookupWord('${clean}')">${escapeHTML(part)}</span>`;
+    } else if (/^[a-zA-Z]$/.test(part)) {
       const clean = part.toLowerCase();
       const idx = wordCounter++;
-      return `<span class="vt-word-token future" data-word-idx="${{idx}}" data-len="${{clean.length}}" onclick="lookupWord('${{clean}}')">${{escapeHTML(part)}}</span>`;
-    }} else {{
-      return `<span class="vt-punct">${{escapeHTML(part)}}</span>`;
-    }}
-  }}).join('');
-}}
+      return `<span class="vt-word-token future" data-word-idx="${idx}" data-len="${clean.length}" onclick="lookupWord('${clean}')">${escapeHTML(part)}</span>`;
+    } else {
+      return `<span class="vt-punct">${escapeHTML(part)}</span>`;
+    }
+  }).join('');
+}
 
-function tokenizeMiniWords(sentence) {{
+function tokenizeMiniWords(sentence) {
   const parts = sentence.split(/(\\s+|[^\\w\\s'-]+)/);
   let wordCounter = 0;
-  return parts.map(part => {{
-    if (/^[a-zA-Z0-9'-]+$/.test(part)) {{
-      return `<span class="vt-mini-word future" data-w="${{wordCounter++}}">${{escapeHTML(part)}}</span>`;
-    }} else {{
+  return parts.map(part => {
+    if (/^[a-zA-Z0-9'-]+$/.test(part)) {
+      return `<span class="vt-mini-word future" data-w="${wordCounter++}">${escapeHTML(part)}</span>`;
+    } else {
       return escapeHTML(part);
-    }}
-  }}).join('');
-}}
+    }
+  }).join('');
+}
 
-function stepCue(delta) {{
+function stepCue(delta) {
   if (!current?.cues?.length) return;
   let nextIdx = activeCueIdx + delta;
   if (nextIdx < 0) nextIdx = 0;
   if (nextIdx >= current.cues.length) nextIdx = current.cues.length - 1;
   seekCue(nextIdx);
-}}
+}
 
-function toggleRepeatCue() {{
+function toggleRepeatCue() {
   repeatCueMode = !repeatCueMode;
   const btn = document.getElementById('vtRepeatBtn');
   if (btn) btn.classList.toggle('active', repeatCueMode);
   toast(repeatCueMode ? '🔁 已開啟單句重複跟讀' : '單句重複已關閉');
-  if (repeatCueMode && activeCueIdx >= 0 && current?.cues?.[activeCueIdx]) {{
+  if (repeatCueMode && activeCueIdx >= 0 && current?.cues?.[activeCueIdx]) {
     seekCue(activeCueIdx);
-  }}
-}}
+  }
+}
 
-function toggleAutoScroll() {{
+function toggleAutoScroll() {
   autoScrollEnabled = !autoScrollEnabled;
   const btn = document.getElementById('autoScrollToggleBtn');
   if (btn) btn.textContent = '📜 自動捲動: ' + (autoScrollEnabled ? 'ON' : 'OFF');
   toast(autoScrollEnabled ? '自動捲動已開啟' : '自動捲動已暫停');
-}}
+}
 
-function setSubMode(mode) {{
+function setSubMode(mode) {
   currentSubMode = mode;
-  ['both', 'en', 'zh', 'none'].forEach(m => {{
+  ['both', 'en', 'zh', 'none'].forEach(m => {
     const b = document.getElementById('subMode' + m.charAt(0).toUpperCase() + m.slice(1));
     if (b) b.classList.toggle('active', m === mode);
-  }});
+  });
   if (activeCueIdx >= 0) highlightVoiceTubeCue(activeCueIdx);
   renderVoiceTubeTranscript();
-}}
+}
 
-function setPlayerSpeed(speed) {{
+function setPlayerSpeed(speed) {
   currentPlaybackRate = speed;
-  [0.75, 1.0, 1.25].forEach(s => {{
+  [0.75, 1.0, 1.25].forEach(s => {
     const b = document.getElementById('speed' + String(s).replace('.', ''));
     if (b) b.classList.toggle('active', s === speed);
-  }});
-  if (ytPlayer && typeof ytPlayer.setPlaybackRate === 'function') {{
+  });
+  if (ytPlayer && typeof ytPlayer.setPlaybackRate === 'function') {
     ytPlayer.setPlaybackRate(speed);
-  }}
+  }
   toast('播放速度：' + speed + '×');
-}}
+}
 
-function adjustSubtitleSize(delta) {{
+function adjustSubtitleSize(delta) {
   subtitleBaseSize = Math.max(18, Math.min(32, subtitleBaseSize + delta * 2));
   const enStage = document.getElementById('vtActiveEn');
   if (enStage) enStage.style.fontSize = subtitleBaseSize + 'px';
-}}
+}
 
-function renderVoiceTubeTranscript() {{
+function renderVoiceTubeTranscript() {
   const list = document.getElementById('vtTranscriptList');
   if (!list || !current?.cues) return;
   const cues = current.cues;
   list.innerHTML = cues.map((c, i) => `
-    <div class="vt-cue-row ${{i === activeCueIdx ? 'active' : ''}}" onclick="seekCue(${{i}})">
+    <div class="vt-cue-row ${i === activeCueIdx ? 'active' : ''}" onclick="seekCue(${i})">
       <span class="vt-cue-play-btn">▶</span>
       <div class="vt-cue-content">
-        <span class="vt-cue-en" style="display:${{currentSubMode === 'zh' ? 'none' : 'block'}}">${{tokenizeMiniWords(c.en || c.text || '')}}</span>
-        <span class="vt-cue-zh" style="display:${{currentSubMode === 'en' || currentSubMode === 'none' ? 'none' : 'block'}}">${{escapeHTML(c.zh || current.cn?.[i] || '')}}</span>
+        <span class="vt-cue-en" style="display:${currentSubMode === 'zh' ? 'none' : 'block'}">${tokenizeMiniWords(c.en || c.text || '')}</span>
+        <span class="vt-cue-zh" style="display:${currentSubMode === 'en' || currentSubMode === 'none' ? 'none' : 'block'}">${escapeHTML(c.zh || current.cn?.[i] || '')}</span>
       </div>
-      <span class="vt-cue-time">${{formatTime(c.start)}}</span>
+      <span class="vt-cue-time">${formatTime(c.start)}</span>
     </div>
   `).join('');
-}}
+}
 
-function renderVoiceTubeVocab() {{
+function renderVoiceTubeVocab() {
   const list = document.getElementById('vtVocabList');
   const countEl = document.getElementById('lessonWordCount');
   if (!list) return;
-  const vocabObj = PRELOADED_LESSONS.vocab || {{}};
+  const vocabObj = PRELOADED_LESSONS.vocab || {};
   const keys = Object.keys(vocabObj);
   if (countEl) countEl.textContent = keys.length;
   
-  list.innerHTML = keys.map(k => {{
+  list.innerHTML = keys.map(k => {
     const item = vocabObj[k];
     return `
       <div style="background:#11111f;border:1px solid #24243a;border-radius:8px;padding:8px 12px;display:flex;justify-content:space-between;align-items:center">
         <div>
-          <b style="color:#a49aff;font-size:15px">${{k}}</b> <small style="color:#777">${{item.ipa || ''}} ${{item.pos || ''}}</small>
-          <div style="font-size:12px;color:#c0c0d8;margin-top:2px">${{item.def || ''}}</div>
+          <b style="color:#a49aff;font-size:15px">${k}</b> <small style="color:#777">${item.ipa || ''} ${item.pos || ''}</small>
+          <div style="font-size:12px;color:#c0c0d8;margin-top:2px">${item.def || ''}</div>
         </div>
         <div style="display:flex;gap:4px">
-          <button class="save" onclick="say('${{k}}')">🔊</button>
-          <button class="save ${{savedWords.has(k) ? 'saved' : ''}}" onclick="toggleWord('${{k}}')">${{savedWords.has(k) ? '✓' : '＋'}}</button>
+          <button class="save" onclick="say('${k}')">🔊</button>
+          <button class="save ${savedWords.has(k) ? 'saved' : ''}" onclick="toggleWord('${k}')">${savedWords.has(k) ? '✓' : '＋'}</button>
         </div>
       </div>
     `;
-  }}).join('');
-}}
+  }).join('');
+}
 
-function switchVtTab(tab) {{
-  ['dict', 'vocab', 'practice'].forEach(t => {{
+function switchVtTab(tab) {
+  ['dict', 'vocab', 'practice'].forEach(t => {
     const btn = document.getElementById('tab' + t.charAt(0).toUpperCase() + t.slice(1));
     const pane = document.getElementById('vtPane' + t.charAt(0).toUpperCase() + t.slice(1));
     if (btn) btn.classList.toggle('active', t === tab);
     if (pane) pane.style.display = t === tab ? 'block' : 'none';
-  }});
-}}
+  });
+}
 
-function lookupWord(word) {{
+function lookupWord(word) {
   if (!word) return;
   switchVtTab('dict');
   const clean = word.toLowerCase().trim();
   const input = document.getElementById('dictInput');
   if (input) input.value = clean;
   
-  const vocab = PRELOADED_LESSONS.vocab || {{}};
+  const vocab = PRELOADED_LESSONS.vocab || {};
   const item = vocab[clean];
   const view = document.getElementById('vtWordView');
   if (!view) return;
 
   say(clean);
 
-  if (item) {{
+  if (item) {
     view.innerHTML = `
       <div class="vt-word-view">
         <div class="vt-word-main">
-          <span class="vt-word-term">${{clean}}</span>
-          <span class="vt-word-ipa">${{item.ipa || ''}}</span>
+          <span class="vt-word-term">${clean}</span>
+          <span class="vt-word-ipa">${item.ipa || ''}</span>
           <div class="vt-word-actions">
-            <button class="save" onclick="say('${{clean}}')">🔊 發音</button>
-            <button class="save ${{savedWords.has(clean) ? 'saved' : ''}}" onclick="toggleWord('${{clean}}')">${{savedWords.has(clean) ? '✓ 已收藏' : '＋ 收藏'}}</button>
+            <button class="save" onclick="say('${clean}')">🔊 發音</button>
+            <button class="save ${savedWords.has(clean) ? 'saved' : ''}" onclick="toggleWord('${clean}')">${savedWords.has(clean) ? '✓ 已收藏' : '＋ 收藏'}</button>
           </div>
         </div>
-        <div class="vt-word-pos">${{item.pos || '單字'}}</div>
-        <div class="vt-word-def">${{item.def || ''}}</div>
-        ${{item.ex ? `<div class="vt-word-ex">例句：${{item.ex}}</div>` : ''}}
+        <div class="vt-word-pos">${item.pos || '單字'}</div>
+        <div class="vt-word-def">${item.def || ''}</div>
+        ${item.ex ? `<div class="vt-word-ex">例句：${item.ex}</div>` : ''}
       </div>
     `;
-  }} else {{
+  } else {
     view.innerHTML = `
       <div class="vt-word-view">
         <div class="vt-word-main">
-          <span class="vt-word-term">${{clean}}</span>
+          <span class="vt-word-term">${clean}</span>
           <div class="vt-word-actions">
-            <button class="save" onclick="say('${{clean}}')">🔊 發音</button>
-            <button class="save ${{savedWords.has(clean) ? 'saved' : ''}}" onclick="toggleWord('${{clean}}')">${{savedWords.has(clean) ? '✓ 已收藏' : '＋ 收藏'}}</button>
+            <button class="save" onclick="say('${clean}')">🔊 發音</button>
+            <button class="save ${savedWords.has(clean) ? 'saved' : ''}" onclick="toggleWord('${clean}')">${savedWords.has(clean) ? '✓ 已收藏' : '＋ 收藏'}</button>
           </div>
         </div>
         <div class="vt-word-pos">英文字彙</div>
         <div class="vt-word-def">點擊上方 🔊 按鈕聆聽真人發音，或點擊「＋ 收藏」加入個人專屬生字本。</div>
       </div>
     `;
-  }}
-}}
+  }
+}
 
-function lookupCustomWord() {{
+function lookupCustomWord() {
   const val = document.getElementById('dictInput')?.value.trim();
   if (val) lookupWord(val);
-}}
+}
 
-function toggleLike() {{
+function toggleLike() {
   if (!current) return;
   const btn = document.getElementById('vtLikeBtn');
   const num = document.getElementById('vtLikes');
-  if (likedVideos.has(current.id)) {{
+  if (likedVideos.has(current.id)) {
     likedVideos.delete(current.id);
     btn?.classList.remove('liked');
     if (num) num.textContent = parseInt(num.textContent || 225) - 1;
-  }} else {{
+  } else {
     likedVideos.add(current.id);
     btn?.classList.add('liked');
     if (num) num.textContent = parseInt(num.textContent || 225) + 1;
     toast('👍 已按讚');
-  }}
+  }
   localStorage.setItem('et_liked', JSON.stringify([...likedVideos]));
-}}
+}
 
-function toggleSaveCurrent() {{
+function toggleSaveCurrent() {
   if (!current) return;
   toggleSave(current.id);
   const btn = document.getElementById('vtSaveBtn');
   if (btn) btn.classList.toggle('saved', saved.has(current.id));
-}}
+}
 
-function shareVideo() {{
-  if (navigator.share && current) {{
-    navigator.share({{
+function shareVideo() {
+  if (navigator.share && current) {
+    navigator.share({
       title: current.title,
       text: '來跟我一起在 ENGLISHTUBE 練習跟讀英文影片！',
       url: window.location.href
-    }}).catch(() => {{}});
-  }} else {{
+    }).catch(() => {});
+  } else {
     navigator.clipboard?.writeText(window.location.href);
     toast('✓ 學習連結已複製到剪貼簿');
-  }}
-}}
+  }
+}
 
 // Upgraded openVideo with VoiceTube data
 const _origOpenVideo = openVideo;
-openVideo = function(id) {{
+openVideo = function(id) {
   current = videos.find(v => v.id === id);
   if (!current) return;
 
   const lessonData = PRELOADED_LESSONS.lessons?.[id];
-  if (lessonData && lessonData.cues && lessonData.cues.length) {{
+  if (lessonData && lessonData.cues && lessonData.cues.length) {
     current.cues = lessonData.cues;
     current.en = lessonData.cues.map(c => c.en);
     current.cn = lessonData.cues.map(c => c.zh);
-  }} else {{
+  } else {
     current.cues = current.cues || [];
     current.en = current.en || [];
     current.cn = current.cn || [];
-  }}
+  }
 
   // Populate header info
   const titleEl = document.getElementById('modalTitle');
@@ -1261,39 +1302,39 @@ openVideo = function(id) {{
 
   document.getElementById('modal').classList.add('open');
   document.body.style.overflow = 'hidden';
-}};
+};
 
 // Override seekCue to use YouTube Iframe API
-seekCue = function(i) {{
+seekCue = function(i) {
   const cue = current?.cues?.[i];
   if (!cue) return;
   highlightVoiceTubeCue(i);
   lastVideoTime = cue.start;
   lastTimeReceivedAt = performance.now();
-  if (ytPlayer && typeof ytPlayer.seekTo === 'function') {{
+  if (ytPlayer && typeof ytPlayer.seekTo === 'function') {
     ytPlayer.seekTo(cue.start, true);
     ytPlayer.playVideo();
     isPlaying = true;
-  }} else {{
+  } else {
     const frame = document.querySelector('#playerContainer iframe');
-    if (frame && frame.contentWindow) {{
-      frame.contentWindow.postMessage(JSON.stringify({{event:'command',func:'seekTo',args:[cue.start,true]}}),'*');
-      frame.contentWindow.postMessage(JSON.stringify({{event:'command',func:'playVideo',args:[]}}),'*');
+    if (frame && frame.contentWindow) {
+      frame.contentWindow.postMessage(JSON.stringify({event:'command',func:'seekTo',args:[cue.start,true]}),'*');
+      frame.contentWindow.postMessage(JSON.stringify({event:'command',func:'playVideo',args:[]}),'*');
       isPlaying = true;
-    }}
-  }}
-}};
+    }
+  }
+};
 
 // Override closeModal to pause video
 const _origCloseModal = closeModal;
-closeModal = function() {{
+closeModal = function() {
   stopSubtitleSync();
   isPlaying = false;
-  if (ytPlayer && typeof ytPlayer.pauseVideo === 'function') {{
-    try {{ ytPlayer.pauseVideo(); }} catch(e) {{}}
-  }}
+  if (ytPlayer && typeof ytPlayer.pauseVideo === 'function') {
+    try { ytPlayer.pauseVideo(); } catch(e) {}
+  }
   _origCloseModal();
-}};
+};
 """
 
 # Append VoiceTube script right before closing </script>
@@ -1302,4 +1343,4 @@ html = html.replace('</script></body>', vt_script + '\n</script></body>')
 with open('index.html', 'w', encoding='utf-8') as f:
     f.write(html)
 
-print("index.html completely rebuilt with reliable karaoke word-by-word highlight engine!")
+print("index.html completely rebuilt with 50 full videos and reliable karaoke word highlight engine!")
