@@ -1,6 +1,6 @@
-// ENGLISHTUBE Service Worker v7
-const CACHE='englishtube-v7';
-const STATIC=['./','./index.html','./manifest.webmanifest','./icon.svg','./icon-180.png','./icon-192.png','./icon-512.png'];
+// ENGLISHTUBE Service Worker v8
+const CACHE='englishtube-v8';
+const STATIC=['./','./index.html','./manifest.webmanifest','./icon.svg','./icon-180.png','./icon-192.png','./icon-512.png','./video_lessons.json'];
 
 // Install: pre-cache static shell
 self.addEventListener('install',event=>{event.waitUntil(caches.open(CACHE).then(cache=>cache.addAll(STATIC)));self.skipWaiting()});

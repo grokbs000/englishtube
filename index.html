@@ -35,7 +35,491 @@
 /* ── Dark mode toggle ── */
 .dark-toggle{background:transparent;font-size:18px;padding:4px 8px;border-radius:8px;cursor:pointer;transition:.2s}.dark-toggle:hover{background:#f1efff}@media(prefers-color-scheme:dark){.dark-toggle:hover{background:#1e1e38}}
 @media(max-width:800px){.top{height:62px;padding:0 15px;gap:12px}.nav{display:none}.search{width:auto;flex:1}.top>.pill{display:none}.wrap{padding:18px 15px 85px}.hero{padding:26px 22px;grid-template-columns:1fr}.heroart{display:none}h1{font-size:34px}.grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}.thumb{height:130px}.vbody{padding:12px}.vbody h3{font-size:14px}.study{grid-template-columns:1fr;padding:19px}.sectionhead h2{font-size:20px}.bottomnav{display:flex;position:fixed;bottom:0;left:0;right:0;background:#fff;border-top:1px solid var(--line);padding:10px 8px calc(10px + env(safe-area-inset-bottom));justify-content:space-around;z-index:10}.bottomnav button{background:transparent;color:#7a7b8d;font-size:11px;display:flex;flex-direction:column;align-items:center;gap:3px;min-width:44px;min-height:44px;justify-content:center}.bottomnav b{font-size:20px}.modal.open{padding:0;align-items:flex-end}.modalbox{border-radius:22px 22px 0 0;max-height:96vh;width:100%}.player{aspect-ratio:16/9}.modalcontent{grid-template-columns:1fr}.modalcontent aside{border-top:1px solid var(--line);padding-top:15px}.mobileinstall{display:inline-block}.float{font-size:12px}.duration{font-size:10px}.subline{min-height:52px}}@media(max-width:430px){.grid{grid-template-columns:1fr 1fr}.thumb{height:110px}.thumb .emoji{font-size:44px}.desc{font-size:11px}.vfoot{font-size:10px}.hero p{font-size:14px}}@media(display-mode:standalone){#installBtn{display:none}}
-</style></head>
+
+/* ═══════════════════════════════════════════════════════════════
+   VOICETUBE STYLE LEARNING STUDIO (跟讀影片標示字幕)
+   ═══════════════════════════════════════════════════════════════ */
+.modal {
+  display: none;
+  position: fixed;
+  inset: 0;
+  background: rgba(10, 10, 20, 0.92);
+  backdrop-filter: blur(8px);
+  z-index: 100;
+  padding: 16px;
+  overflow-y: auto;
+  align-items: center;
+  justify-content: center;
+}
+.modal.open {
+  display: flex;
+}
+.vt-modalbox {
+  background: #141422;
+  color: #e4e4f0;
+  border: 1px solid #2a2a3e;
+  border-radius: 20px;
+  width: min(1320px, 98vw);
+  max-height: 94vh;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  box-shadow: 0 25px 60px rgba(0,0,0,0.6);
+  animation: slideUp .3s cubic-bezier(.22,1,.36,1);
+}
+/* Studio Header */
+.vt-studio-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 12px 20px;
+  background: #10101b;
+  border-bottom: 1px solid #252538;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+.vt-head-left {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+.vt-listen-tag {
+  font-size: 20px;
+  font-weight: 900;
+  letter-spacing: -0.5px;
+  color: #fff;
+  border-bottom: 3px solid #6d5dfc;
+  padding-bottom: 2px;
+}
+.vt-badge {
+  padding: 4px 8px;
+  border-radius: 6px;
+  font-size: 11px;
+  font-weight: 800;
+  letter-spacing: 0.3px;
+}
+.vt-badge.level {
+  background: #199468;
+  color: #fff;
+}
+.vt-badge.accent {
+  background: #d67a18;
+  color: #fff;
+}
+.vt-meta-views {
+  font-size: 13px;
+  color: #9292ab;
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+}
+.vt-head-right {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.vt-btn-act {
+  background: #202033;
+  color: #d0d0e6;
+  border: 1px solid #303048;
+  border-radius: 8px;
+  padding: 6px 12px;
+  font-size: 12px;
+  font-weight: 700;
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  cursor: pointer;
+  transition: .15s;
+}
+.vt-btn-act:hover {
+  background: #2d2d48;
+  color: #fff;
+}
+.vt-btn-act.liked {
+  background: #2563eb;
+  color: #fff;
+  border-color: #3b82f6;
+}
+.vt-btn-act.saved {
+  background: #059669;
+  color: #fff;
+  border-color: #10b981;
+}
+.vt-close-btn {
+  background: #25253a;
+  color: #fff;
+  border-radius: 50%;
+  width: 32px;
+  height: 32px;
+  display: grid;
+  place-items: center;
+  font-size: 20px;
+  border: 0;
+  cursor: pointer;
+}
+.vt-close-btn:hover {
+  background: #3c3c58;
+}
+
+/* Studio Body Grid */
+.vt-studio-body {
+  padding: 16px 20px;
+  display: grid;
+  grid-template-columns: 1.35fr 1fr;
+  gap: 20px;
+  overflow-y: auto;
+  flex: 1;
+}
+@media (max-width: 960px) {
+  .vt-studio-body {
+    grid-template-columns: 1fr;
+    padding: 12px;
+    gap: 16px;
+  }
+}
+
+/* Left Column: Player & Subtitle Stage */
+.vt-main-col {
+  display: flex;
+  flex-direction: column;
+}
+.vt-player-wrapper {
+  position: relative;
+  aspect-ratio: 16/9;
+  background: #000;
+  border-radius: 14px 14px 0 0;
+  overflow: hidden;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+}
+.vt-player-wrapper iframe, .vt-player-wrapper div#playerContainer {
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+
+/* VoiceTube Subtitle Stage (跟讀標示字幕) */
+.vt-sub-stage {
+  background: #0b0b14;
+  border: 1px solid #232338;
+  border-top: none;
+  border-radius: 0 0 14px 14px;
+  padding: 16px 20px;
+  min-height: 105px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  box-shadow: inset 0 2px 10px rgba(0,0,0,0.4);
+}
+.vt-sub-en-line {
+  font-size: 21px;
+  font-weight: 750;
+  line-height: 1.45;
+  color: #ffffff;
+  letter-spacing: -0.2px;
+  max-width: 95%;
+  word-break: break-word;
+}
+.vt-sub-zh-line {
+  font-size: 15px;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #a4a4c2;
+  margin-top: 8px;
+  max-width: 95%;
+}
+.vt-word-token {
+  cursor: pointer;
+  display: inline-block;
+  padding: 1px 3px;
+  border-radius: 4px;
+  transition: all .15s;
+}
+.vt-word-token:hover {
+  background: #6d5dfc3d;
+  color: #a49aff;
+  text-decoration: underline;
+}
+
+/* Control Bar Under Subtitle */
+.vt-controls-bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #171728;
+  border: 1px solid #28283e;
+  border-radius: 12px;
+  padding: 10px 14px;
+  margin-top: 12px;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+.vt-ctrl-group {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+.vt-ctrl-btn {
+  background: #222236;
+  color: #dedee8;
+  border: 1px solid #30304a;
+  border-radius: 8px;
+  padding: 7px 12px;
+  font-size: 12px;
+  font-weight: 700;
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  cursor: pointer;
+  transition: .15s;
+}
+.vt-ctrl-btn:hover {
+  background: #31314d;
+  color: #fff;
+}
+.vt-repeat-btn.active {
+  background: #6d5dfc !important;
+  color: #fff !important;
+  border-color: #8b7cff !important;
+  box-shadow: 0 0 14px rgba(109,93,252,0.6);
+}
+.vt-pill-btn {
+  background: #222236;
+  color: #8f8fa8;
+  border: 1px solid #2c2c42;
+  padding: 5px 9px;
+  border-radius: 6px;
+  font-size: 11px;
+  font-weight: 750;
+  cursor: pointer;
+  transition: .15s;
+}
+.vt-pill-btn.active {
+  background: #6d5dfc;
+  color: #fff;
+  border-color: #6d5dfc;
+}
+
+/* Custom Tool Accordion */
+.vt-custom-details {
+  background: #151525;
+  border: 1px solid #28283e;
+  border-radius: 12px;
+  padding: 10px 14px;
+  margin-top: 12px;
+  font-size: 13px;
+}
+.vt-custom-details summary {
+  cursor: pointer;
+  font-weight: 750;
+  color: #8b7cff;
+}
+
+/* Right Column: Subtitle List & Dictionary Panel */
+.vt-side-col {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+.vt-panel-card {
+  background: #161627;
+  border: 1px solid #26263b;
+  border-radius: 14px;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+.vt-transcript-card {
+  height: 380px;
+}
+.vt-panel-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 14px;
+  background: #121221;
+  border-bottom: 1px solid #242438;
+}
+.vt-panel-title {
+  font-size: 13px;
+  font-weight: 800;
+  color: #c8c8de;
+  letter-spacing: 0.3px;
+}
+.vt-transcript-scroll {
+  flex: 1;
+  overflow-y: auto;
+  padding: 8px 10px;
+  scroll-behavior: smooth;
+}
+/* Subtitle List Row */
+.vt-cue-row {
+  display: flex;
+  gap: 10px;
+  padding: 10px 12px;
+  border-radius: 8px;
+  margin-bottom: 6px;
+  cursor: pointer;
+  transition: all .15s ease;
+  border-left: 3px solid transparent;
+  color: #b5b5c9;
+  font-size: 14px;
+  line-height: 1.45;
+}
+.vt-cue-row:hover {
+  background: #202035;
+  color: #fff;
+}
+/* VoiceTube Highlight Effect */
+.vt-cue-row.active {
+  background: #2c274d !important;
+  color: #ffffff !important;
+  border-left: 3px solid #8b7cff;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.3);
+  font-weight: 600;
+}
+.vt-cue-play-btn {
+  color: #6d5dfc;
+  font-size: 12px;
+  flex-shrink: 0;
+  margin-top: 2px;
+}
+.vt-cue-row.active .vt-cue-play-btn {
+  color: #a49aff;
+}
+.vt-cue-content {
+  flex: 1;
+}
+.vt-cue-en {
+  display: block;
+}
+.vt-cue-zh {
+  display: block;
+  font-size: 12px;
+  color: #8888a2;
+  margin-top: 3px;
+  font-weight: 400;
+}
+.vt-cue-time {
+  font-size: 11px;
+  color: #6e6e87;
+  flex-shrink: 0;
+  margin-top: 2px;
+  font-family: monospace;
+}
+
+/* Dictionary & Vocabulary Card */
+.vt-dict-card {
+  min-height: 250px;
+}
+.vt-tab-header {
+  display: flex;
+  background: #11111f;
+  border-bottom: 1px solid #242438;
+}
+.vt-tab-btn {
+  flex: 1;
+  padding: 10px;
+  background: transparent;
+  color: #8b8b9e;
+  border: 0;
+  font-size: 13px;
+  font-weight: 750;
+  cursor: pointer;
+  border-bottom: 2px solid transparent;
+  transition: .15s;
+}
+.vt-tab-btn.active {
+  color: #8b7cff;
+  border-bottom-color: #6d5dfc;
+  background: #161627;
+}
+.vt-tab-body {
+  padding: 12px 14px;
+  flex: 1;
+  overflow-y: auto;
+}
+.vt-dict-search-row {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 10px;
+}
+.vt-dict-search-row input {
+  flex: 1;
+  padding: 7px 11px;
+  background: #10101c;
+  border: 1px solid #2b2b40;
+  border-radius: 8px;
+  color: #fff;
+  font-size: 13px;
+  outline: none;
+}
+.vt-dict-search-row button {
+  background: #6d5dfc;
+  color: #fff;
+  padding: 7px 13px;
+  border-radius: 8px;
+  font-weight: 700;
+  font-size: 12px;
+}
+/* Word Detail Card */
+.vt-word-view {
+  background: #11111f;
+  border: 1px solid #232338;
+  border-radius: 10px;
+  padding: 12px 14px;
+}
+.vt-word-main {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+.vt-word-term {
+  font-size: 22px;
+  font-weight: 900;
+  color: #a49aff;
+}
+.vt-word-ipa {
+  font-size: 13px;
+  color: #82829c;
+  font-family: serif;
+}
+.vt-word-actions {
+  display: flex;
+  gap: 6px;
+}
+.vt-word-pos {
+  display: inline-block;
+  background: #23233a;
+  color: #8b7cff;
+  font-size: 11px;
+  font-weight: 800;
+  padding: 2px 6px;
+  border-radius: 4px;
+  margin-top: 6px;
+}
+.vt-word-def {
+  font-size: 14px;
+  color: #d6d6ea;
+  margin-top: 6px;
+  line-height: 1.5;
+}
+.vt-word-ex {
+  font-size: 12px;
+  color: #8888a2;
+  margin-top: 6px;
+  font-style: italic;
+  padding-left: 8px;
+  border-left: 2px solid #6d5dfc;
+}
+
+</style><script src="https://www.youtube.com/iframe_api"></script>
+</head>
 <body>
 <header class="top"><div class="logo">ENGLISH<b>TUBE</b></div><nav class="nav"><a href="#discover">探索影片</a><a href="#study">學習工具</a><a href="#saved" onclick="setFilter('收藏')">我的收藏</a></nav><label class="search">⌕ <input id="search" placeholder="搜尋影片、主題..." autocomplete="off"></label><button class="pill" id="installBtn">＋ 安裝 App</button><button class="dark-toggle" id="darkToggle" title="切換深色模式" onclick="toggleDark()">🌙</button></header>
 <div class="net-badge online" id="netBadge">📡 已離線</div>
@@ -45,7 +529,146 @@
 <section class="study" id="study"><div><div class="eyebrow">LEARN YOUR WAY</div><h2>不只看懂，更要會用</h2><p>把影片變成自己的英文教材。收藏句子、練習跟讀，慢慢累積看得見的進步。</p><div class="studyitem"><div class="studyicon">🗣️</div><div><b>跟讀練口說</b><small>聽一句、跟著說一句，練習自然語調。</small></div></div><div class="studyitem"><div class="studyicon">📚</div><div><b>建立個人單字本</b><small>看到實用單字就收藏，隨時回來複習。</small></div></div><div class="studyitem"><div class="studyicon">🎯</div><div><b>依照程度選影片</b><small>從 A1 入門到 C1 進階，循序提升。</small></div></div></div><div><div class="eyebrow">YOUR PROGRESS</div><h2>今天的學習紀錄</h2><div style="display:flex;gap:12px;margin:20px 0"><div style="background:#f5f3ff;border-radius:16px;padding:18px;flex:1"><div style="color:#777;font-size:12px">收藏影片</div><div id="savedCount" style="font-size:30px;font-weight:900;color:#6d5dfc">0</div></div><div style="background:#e8faf3;border-radius:16px;padding:18px;flex:1"><div style="color:#777;font-size:12px">收藏單字</div><div id="wordCount" style="font-size:30px;font-weight:900;color:#15966b">0</div></div></div><button class="pill" onclick="setFilter('收藏');document.querySelector('#discover').scrollIntoView({behavior:'smooth'})">查看我的收藏 →</button><p style="font-size:12px">學習資料保存在這台裝置的瀏覽器中。</p></div></section>
 <div class="footer">ENGLISHTUBE · Learn a little. Grow every day. <br>獨立學習產品，與 VoiceTube 無隸屬關係。</div></main>
 <nav class="bottomnav"><button onclick="window.scrollTo({top:0,behavior:'smooth'})"><b>⌂</b>首頁</button><button onclick="document.querySelector('#discover').scrollIntoView({behavior:'smooth'})"><b>▦</b>探索</button><button onclick="document.querySelector('#study').scrollIntoView({behavior:'smooth'})"><b>✦</b>學習</button><button onclick="setFilter('收藏');document.querySelector('#discover').scrollIntoView({behavior:'smooth'})"><b>♡</b>收藏</button></nav>
-<div class="modal" id="modal"><div class="modalbox"><div class="modalhead"><div class="logo">ENGLISH<b>TUBE</b> <span style="font-size:12px;color:#888;font-weight:500">學習模式</span></div><button class="close" onclick="closeModal()">×</button></div><div style="padding:12px 18px;background:#fafaff;border-bottom:1px solid #eee;display:flex;gap:8px;flex-wrap:wrap"><input id="videoUrl" placeholder="貼上 YouTube / Vimeo / MP4 影片網址" style="flex:1;min-width:220px;padding:11px 13px;border:1px solid #e4e3ef;border-radius:10px;outline-color:#6d5dfc"><button class="pill" onclick="loadVideoSource()">播放影片</button><input id="captionUrl" placeholder="選填：字幕 .vtt 網址" style="flex:1;min-width:180px;padding:11px 13px;border:1px solid #e4e3ef;border-radius:10px;outline-color:#6d5dfc"><button class="ghost" onclick="addCaptionTrack()">載入字幕</button></div><div class="player" id="player"><div class="playerplaceholder"><div class="playbig">▶</div><b>你的英文練習時間</b><p>選擇下方影片來源即可開始觀看。示範內容可直接練習。</p></div></div><div class="modalcontent"><div><h2 id="modalTitle"></h2><p id="modalMeta" style="color:#777;font-size:13px"></p><div class="toolrow"><button class="ghost" id="enBtn" onclick="toggleSub('en')">🇺🇸 英文字幕 ✓</button><button class="ghost" id="zhBtn" onclick="toggleSub('zh')">🇹🇼 中文字幕 ✓</button><button class="ghost" onclick="repeatLine()">↻ 重播句子</button><button class="ghost" onclick="speakLine()">🔊 聽發音</button></div><div class="speed-row"><span style="font-size:12px;color:var(--muted);font-weight:600">語速：</span><button class="speed-btn" onclick="setSpeed(0.6)">0.6×</button><button class="speed-btn active" onclick="setSpeed(0.85)">0.85×</button><button class="speed-btn" onclick="setSpeed(1)">1×</button><button class="speed-btn" onclick="setSpeed(1.2)">1.2×</button></div><details style="margin:12px 0;padding:12px;background:#faf9ff;border-radius:12px"><summary style="cursor:pointer;font-weight:750;color:#6253e8">把影片字幕／逐字稿轉成逐句教材</summary><p style="font-size:12px;color:#777">貼上 YouTube「顯示文字稿」複製的英文內容，每行會變成可點擊朗讀的句子。YouTube 不允許一般網頁直接讀取所有影片字幕，因此需由你貼上文字稿或提供字幕檔。</p><textarea id="transcriptInput" rows="5" placeholder="Paste English transcript here..." style="width:100%;padding:12px;border:1px solid #e4e3ef;border-radius:10px;font:inherit;resize:vertical"></textarea><div class="toolrow"><button class="pill" onclick="makeLessonFromTranscript()">轉成逐句教材</button><button class="ghost" onclick="autoFetchTranscript()">⚡ 自動取得 YouTube 字幕</button><button class="ghost" onclick="translateLesson()">✨ AI 翻譯＋單字解說</button></div><p id="aiStatus" style="font-size:12px;color:#777">自動字幕需 yt-dlp；AI 翻譯需設定 OPENAI_API_KEY。</p></details><div id="transcript"></div></div><aside><h3>本課實用單字</h3><div id="wordList"></div><h3 style="margin-top:22px">跟讀練習</h3><p style="font-size:13px;color:#777">按下錄音，朗讀選取的英文句子。</p><button class="pill" id="recordBtn" onclick="recordPractice()">🎙 開始錄音</button><p id="recordStatus" style="font-size:12px;color:#777"></p><p style="font-size:12px;color:#aaa">錄音功能需允許瀏覽器使用麥克風。</p></aside></div></div></div><div class="toast" id="toast"></div>
+
+<div class="modal" id="modal">
+  <div class="vt-modalbox">
+    <!-- Header -->
+    <div class="vt-studio-head">
+      <div class="vt-head-left">
+        <div class="vt-listen-tag">聽力</div>
+        <span class="vt-badge level" id="vtLevel">A2 初級</span>
+        <span class="vt-badge accent">美式發音</span>
+        <span class="vt-meta-views">🎧 <span id="vtViews">16.4M</span></span>
+        <span id="modalTitle" style="font-weight:700;font-size:15px;color:#fff;margin-left:8px;max-width:320px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis"></span>
+      </div>
+      <div class="vt-head-right">
+        <button class="vt-btn-act" id="vtLikeBtn" onclick="toggleLike()">👍 讚 <span id="vtLikes">225</span></button>
+        <button class="vt-btn-act" onclick="shareVideo()">分享</button>
+        <button class="vt-btn-act" id="vtSaveBtn" onclick="toggleSaveCurrent()">♡ 收藏</button>
+        <button class="vt-close-btn" onclick="closeModal()" title="關閉">×</button>
+      </div>
+    </div>
+
+    <!-- Studio Body -->
+    <div class="vt-studio-body">
+      <!-- Left Column: Video & Synchronized Subtitle Display -->
+      <div class="vt-main-col">
+        <div class="vt-player-wrapper">
+          <div id="playerContainer"></div>
+        </div>
+
+        <!-- VoiceTube Synchronized Subtitle Display (跟讀標示字幕) -->
+        <div class="vt-sub-stage" id="vtSubtitleStage">
+          <div class="vt-sub-en-line" id="vtActiveEn">正在準備影片與字幕…</div>
+          <div class="vt-sub-zh-line" id="vtActiveZh">點選單字可即時查字典與聽發音</div>
+        </div>
+
+        <!-- VoiceTube Control Bar -->
+        <div class="vt-controls-bar">
+          <div class="vt-ctrl-group">
+            <button class="vt-ctrl-btn" onclick="stepCue(-1)" title="上一句">⏮ 上一句</button>
+            <button class="vt-ctrl-btn vt-repeat-btn" id="vtRepeatBtn" onclick="toggleRepeatCue()" title="循環播放此句">🔁 重複單句</button>
+            <button class="vt-ctrl-btn" onclick="stepCue(1)" title="下一句">⏭ 下一句</button>
+            <div style="display:inline-flex;gap:4px;margin-left:4px">
+              <button class="vt-pill-btn active" id="subModeBoth" onclick="setSubMode('both')">雙語</button>
+              <button class="vt-pill-btn" id="subModeEn" onclick="setSubMode('en')">英</button>
+              <button class="vt-pill-btn" id="subModeZh" onclick="setSubMode('zh')">中</button>
+              <button class="vt-pill-btn" id="subModeNone" onclick="setSubMode('none')">無</button>
+            </div>
+          </div>
+          <div class="vt-ctrl-group">
+            <span style="font-size:11px;color:#8888a2;font-weight:700">語速：</span>
+            <button class="vt-pill-btn" id="speed075" onclick="setPlayerSpeed(0.75)">0.75×</button>
+            <button class="vt-pill-btn active" id="speed100" onclick="setPlayerSpeed(1.0)">1.0×</button>
+            <button class="vt-pill-btn" id="speed125" onclick="setPlayerSpeed(1.25)">1.25×</button>
+            <button class="vt-ctrl-btn" id="autoScrollToggleBtn" onclick="toggleAutoScroll()" style="margin-left:4px">📜 自動捲動: ON</button>
+          </div>
+        </div>
+
+        <!-- Custom Video & AI Tools Collapsible -->
+        <details class="vt-custom-details">
+          <summary>⚙️ 自訂 YouTube 網址與 AI 進階工具</summary>
+          <div style="padding-top:10px">
+            <div style="display:flex;gap:8px;flex-wrap:wrap;margin-bottom:8px">
+              <input id="videoUrl" placeholder="貼上自訂 YouTube 網址" style="flex:1;min-width:200px;padding:8px 12px;background:#10101c;border:1px solid #2b2b40;border-radius:8px;color:#fff;font-size:13px">
+              <button class="pill" onclick="loadVideoSource()">載入影片</button>
+              <button class="ghost" onclick="autoFetchTranscript()">⚡ 自動取得字幕</button>
+              <button class="ghost" onclick="translateLesson()">✨ AI 翻譯＋單字</button>
+            </div>
+            <textarea id="transcriptInput" rows="3" placeholder="貼上 YouTube「顯示文字稿」逐字稿..." style="width:100%;padding:8px;background:#10101c;border:1px solid #2b2b40;border-radius:8px;color:#fff;font:inherit;font-size:12px;resize:vertical"></textarea>
+            <div style="display:flex;justify-content:space-between;align-items:center;margin-top:6px">
+              <button class="pill" onclick="makeLessonFromTranscript()">轉成逐句教材</button>
+              <span id="aiStatus" style="font-size:12px;color:#888">支援 yt-dlp 字幕與 OpenAI API 翻譯</span>
+            </div>
+          </div>
+        </details>
+      </div>
+
+      <!-- Right Column: Subtitle List & Dictionary Panel -->
+      <div class="vt-side-col">
+        <!-- Top: Transcript Follow-Along List -->
+        <div class="vt-panel-card vt-transcript-card">
+          <div class="vt-panel-head">
+            <span class="vt-panel-title">逐句字幕跟讀</span>
+            <div style="display:flex;gap:6px">
+              <button class="vt-pill-btn" onclick="adjustSubtitleSize(-1)">A-</button>
+              <button class="vt-pill-btn" onclick="adjustSubtitleSize(1)">A+</button>
+            </div>
+          </div>
+          <div class="vt-transcript-scroll" id="vtTranscriptList">
+            <!-- Dynamically populated -->
+          </div>
+        </div>
+
+        <!-- Bottom: Dictionary & Vocabulary Panel -->
+        <div class="vt-panel-card vt-dict-card">
+          <div class="vt-tab-header">
+            <button class="vt-tab-btn active" id="tabDict" onclick="switchVtTab('dict')">即時單字</button>
+            <button class="vt-tab-btn" id="tabVocab" onclick="switchVtTab('vocab')">本課單字 (<span id="lessonWordCount">0</span>)</button>
+            <button class="vt-tab-btn" id="tabPractice" onclick="switchVtTab('practice')">跟讀錄音</button>
+          </div>
+          <div class="vt-tab-body">
+            <!-- Tab 1: Interactive Dictionary -->
+            <div id="vtPaneDict">
+              <div class="vt-dict-search-row">
+                <input id="dictInput" placeholder="點選左側字幕中的單字，或在此輸入查詢..." onkeydown="if(event.key==='Enter')lookupCustomWord()">
+                <button onclick="lookupCustomWord()">查詢</button>
+              </div>
+              <div id="vtWordView">
+                <div class="vt-word-view">
+                  <div class="vt-word-main">
+                    <span class="vt-word-term">點擊單字查閱</span>
+                    <span class="vt-word-ipa">/ˈlɜːrnɪŋ/</span>
+                    <div class="vt-word-actions">
+                      <button class="save" onclick="say('learning')">🔊 發音</button>
+                    </div>
+                  </div>
+                  <div class="vt-word-pos">tip</div>
+                  <div class="vt-word-def">點擊影片下方或右側字幕中的任何單字，即可在此處即時查詢發音、詞性與繁體中文解釋。</div>
+                </div>
+              </div>
+            </div>
+
+            <!-- Tab 2: Vocab List -->
+            <div id="vtPaneVocab" style="display:none">
+              <div id="vtVocabList" style="display:flex;flex-direction:column;gap:8px"></div>
+            </div>
+
+            <!-- Tab 3: Recording Practice -->
+            <div id="vtPanePractice" style="display:none">
+              <p style="font-size:12px;color:#8888a2;margin:0 0 8px">請聽完原句後，按下錄音跟讀練習：</p>
+              <div id="practiceSentenceTarget" style="font-weight:700;color:#fff;font-size:14px;background:#10101c;padding:10px;border-radius:8px;border:1px solid #2b2b40"></div>
+              <button class="pill" id="recordBtn" onclick="recordPractice()" style="width:100%;margin-top:10px">🎙 開始錄音對比</button>
+              <p id="recordStatus" style="font-size:12px;color:#888;margin-top:6px"></p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="toast" id="toast"></div>
 <script>
 const videos=[
 {id:'JnfBXjWm7hc',title:'Try Something New for 30 Days',zh:'用 30 天嘗試新事物',cat:'生活',level:'A2',duration:'03:27',views:'16.4M',emoji:'🗓️',color:'linear-gradient(135deg,#65b6a0,#267c79)',desc:'Matt Cutts 分享如何用 30 天養成新習慣。',url:'https://www.youtube.com/watch?v=JnfBXjWm7hc',en:[],cn:[],words:[]},
@@ -141,4 +764,443 @@ const _origAutoFetch=autoFetchTranscript;
 autoFetchTranscript=async function(){const el=document.querySelector('#transcript');if(el)el.innerHTML=Array(6).fill('<div class="skeleton"></div>').join('');return _origAutoFetch.apply(this,arguments)};
 const _origTranslate=translateLesson;
 translateLesson=async function(){const el=document.querySelector('#wordList');if(el)el.innerHTML=Array(4).fill('<div class="skeleton" style="min-height:40px"></div>').join('');return _origTranslate.apply(this,arguments)};
+
+// ── VOICETUBE SYNCHRONIZED FOLLOW-ALONG ENGINE ──
+const PRELOADED_LESSONS = {"lessons": {"JnfBXjWm7hc": {"cues": [{"start": 15.26, "duration": 4.98, "en": "A few years ago, I felt like I was stuck in a rut,", "zh": "幾年前，我覺得自己陷入了一成不變的生活，"}, {"start": 20.26, "duration": 1.98, "en": "so I decided to follow in the footsteps", "zh": "所以我決定追隨偉大的美國哲學家"}, {"start": 22.26, "duration": 3.54, "en": "of the great American philosopher, Morgan Spurlock,", "zh": "摩根·史柏路克的腳步，"}, {"start": 25.82, "duration": 2.42, "en": "and try something new for 30 days.", "zh": "用 30 天嘗試新事物。"}, {"start": 28.78, "duration": 1.75, "en": "The idea is actually pretty simple.", "zh": "這個想法其實很簡單。"}, {"start": 30.93, "duration": 3.0, "en": "Think about something you've always wanted to add to your life", "zh": "想想你一直想加入生活的事物，"}, {"start": 33.96, "duration": 2.28, "en": "and try it for the next 30 days.", "zh": "並在接下來的 30 天內嘗試它。"}, {"start": 37.16, "duration": 3.39, "en": "It turns out 30 days is just about the right amount of time", "zh": "事實證明，30 天是一個剛好的時間長度，"}, {"start": 40.58, "duration": 2.69, "en": "to add a new habit or subtract a habit --", "zh": "適合養成一個新習慣，"}, {"start": 43.29, "duration": 1.25, "en": "like watching the news --", "zh": "或是戒掉某個舊習慣——"}, {"start": 44.56, "duration": 1.68, "en": "from your life.", "zh": "比如從生活中戒除看新聞。"}, {"start": 46.26, "duration": 3.19, "en": "There's a few things I learned while doing these 30-day challenges.", "zh": "在進行這些 30 天挑戰的過程中，我學到了幾件事。"}, {"start": 49.88, "duration": 1.35, "en": "The first was,", "zh": "第一件事是，歲月不再輕易被遺忘，"}, {"start": 51.26, "duration": 2.98, "en": "instead of the months flying by, forgotten,", "zh": "時間變得更加令人印象深刻。"}, {"start": 54.26, "duration": 2.98, "en": "the time was much more memorable.", "zh": "這是我挑戰每天拍一張照片時拍下的。"}, {"start": 57.26, "duration": 3.57, "en": "This was part of a challenge I did to take a picture every day for a month.", "zh": "我清楚記得那天我在哪裡、在做什麼。"}, {"start": 60.86, "duration": 4.43, "en": "And I remember exactly where I was and what I was doing that day.", "zh": "我也注意到，當我開始做更多、更具挑戰性的 30 天挑戰時，"}, {"start": 66.39, "duration": 1.28, "en": "I also noticed", "zh": "我的自信心也跟著提升了。"}, {"start": 67.69, "duration": 3.33, "en": "that as I started to do more and harder 30-day challenges,", "zh": "我從一個整天坐在電腦前的書呆子，"}, {"start": 71.05, "duration": 1.19, "en": "my self-confidence grew.", "zh": "變成了騎腳踏車上班的人——"}, {"start": 72.84, "duration": 1.9, "en": "I went from desk-dwelling computer nerd", "zh": "純粹為了好玩！"}, {"start": 74.76, "duration": 2.48, "en": "to the kind of guy who bikes to work.", "zh": "甚至去年，我成功攀登了非洲最高峰吉力馬札羅山。"}, {"start": 77.86, "duration": 1.25, "en": "For fun!", "zh": "在開始 30 天挑戰前，我從未想過自己能有冒險家的經歷。"}, {"start": 79.13, "duration": 1.35, "en": "(Laughter)", "zh": "我還發現，如果你真心渴望做一件事，"}, {"start": 80.5, "duration": 3.02, "en": "Even last year, I ended up hiking up Mt. Kilimanjaro,", "zh": "你可以在 30 天內完成任何事情！"}, {"start": 83.55, "duration": 1.69, "en": "the highest mountain in Africa.", "zh": "你有沒有想過要寫一本小說？"}, {"start": 85.26, "duration": 5.02, "en": "I would never have been that adventurous before I started my 30-day challenges.", "zh": "每年十一月，成千上萬的人"}, {"start": 91.26, "duration": 4.6, "en": "I also figured out that if you really want something badly enough,", "zh": "試著在 30 天內從零開始寫出一本 50,000 字的小說。"}, {"start": 95.88, "duration": 2.35, "en": "you can do anything for 30 days.", "zh": "結果證明，你只需要每天寫 1,667 個字，"}, {"start": 99.37, "duration": 1.86, "en": "Have you ever wanted to write a novel?", "zh": "持續一個月就能達成。"}, {"start": 102.22, "duration": 1.29, "en": "Every November,", "zh": "所以我也做到了！順便提一下，秘訣就是"}, {"start": 103.53, "duration": 1.3, "en": "tens of thousands of people", "zh": "當天字數寫完之前，絕對不上床睡覺。"}, {"start": 104.86, "duration": 4.08, "en": "try to write their own 50,000-word novel, from scratch,", "zh": "你可能會睡眠不足，但你確實寫完了一本小說。"}, {"start": 108.97, "duration": 1.27, "en": "in 30 days.", "zh": "那麼，我的小說是下一部偉大的美國文學嗎？"}, {"start": 110.92, "duration": 4.85, "en": "It turns out, all you have to do is write 1,667 words a day", "zh": "不，我花了一個月就寫完，它其實寫得很糟。"}, {"start": 115.8, "duration": 1.2, "en": "for a month.", "zh": "但在我餘生中，如果我在派對上遇到約翰·霍奇曼，"}, {"start": 117.83, "duration": 1.4, "en": "So I did.", "zh": "我不用再尷尬地說：「我是個電腦工程師。」"}, {"start": 119.26, "duration": 2.86, "en": "By the way, the secret is not to go to sleep", "zh": "不，如果我想的話，我可以說：「我是個小說家。」"}, {"start": 122.14, "duration": 2.1, "en": "until you've written your words for the day.", "zh": "最後我想提的一點是，"}, {"start": 124.79, "duration": 1.45, "en": "You might be sleep-deprived,", "zh": "當我做出微小而持久的改變時，"}]}, "MMmOLN5zBLY": {"cues": [{"start": 6.63, "duration": 5.86, "en": "¿Hablas español? Parlez-vous français? 你会说中文吗？", "zh": "你知道全世界超過一半的人口"}, {"start": 12.49, "duration": 5.84, "en": "If you answered, \"sí,\" \"oui,\" or \"会\" and you're watching this in English,", "zh": "至少會說兩種語言嗎？"}, {"start": 18.33, "duration": 5.14, "en": "chances are you belong to the world's bilingual and multilingual majority.", "zh": "在許多國家，雙語能力是生活的一部分。"}, {"start": 23.47, "duration": 2.09, "en": "And besides having an easier time traveling", "zh": "但是說多種語言對你的大腦有什麼影響呢？"}, {"start": 25.56, "duration": 1.91, "en": "or watching movies without subtitles,", "zh": "語言能力通常依三個面向衡量："}, {"start": 27.47, "duration": 2.42, "en": "knowing two or more languages means that your brain", "zh": "複合型雙語、協調型雙語與次級雙語。"}, {"start": 29.89, "duration": 4.88, "en": "may actually look and work differently than those of your monolingual friends.", "zh": "以小女孩加布麗艾拉為例，她的父母分別說英語和法語。"}, {"start": 34.78, "duration": 3.49, "en": "So what does it really mean to know a language?", "zh": "她同時學習兩種語言，並使用同一套概念代碼。"}, {"start": 38.27, "duration": 4.86, "en": "Language ability is typically measured in two active parts, speaking and writing,", "zh": "這代表她的大腦能同時處理兩種語言體系。"}, {"start": 43.13, "duration": 3.85, "en": "and two passive parts, listening and reading.", "zh": "而她的哥哥在學校才學習第二語言，"}, {"start": 46.98, "duration": 2.67, "en": "While a balanced bilingual has near equal", "zh": "他的大腦建立了一套獨立的概念概念。"}, {"start": 49.66, "duration": 2.72, "en": "abilities across the board in two languages,", "zh": "研究顯示，大腦在青春期前具備極高的神經可塑性。"}, {"start": 52.38, "duration": 3.38, "en": "most bilinguals around the world know and use their languages", "zh": "這使得幼童能更自然地掌握發音與語調。"}, {"start": 55.76, "duration": 2.22, "en": "in varying proportions.", "zh": "但成年人學習語言也有其優勢，例如更有邏輯性。"}, {"start": 57.98, "duration": 3.63, "en": "And depending on their situation and how they acquired each language,", "zh": "過去人們曾認為雙語會混淆兒童的大腦，"}, {"start": 61.61, "duration": 3.3, "en": "they can be classified into three general types.", "zh": "但現代神經科學徹底推翻了這個迷思。"}, {"start": 64.92, "duration": 2.85, "en": "For example, let's take Gabriella,", "zh": "雙語者的大腦前額葉皮質具有更強的執行控制力。"}, {"start": 67.77, "duration": 4.24, "en": "whose family immigrates to the US from Peru when she's two-years old.", "zh": "這讓他們在注意力轉換與問題解決上表現更出色。"}, {"start": 72.01, "duration": 1.82, "en": "As a compound bilingual,", "zh": "更重要的是，長期使用多種語言能延緩阿茲海默症發病年齡。"}, {"start": 73.82, "duration": 4.45, "en": "Gabriella develops two linguistic codes simultaneously,", "zh": "這就像是給大腦做終身健美訓練一樣！"}, {"start": 78.28, "duration": 2.02, "en": "with a single set of concepts,", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 80.3, "duration": 1.87, "en": "learning both English and Spanish", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 82.16, "duration": 3.19, "en": "as she begins to process the world around her.", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 85.36, "duration": 3.8, "en": "Her teenage brother, on the other hand, might be a coordinate bilingual,", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 89.16, "duration": 2.18, "en": "working with two sets of concepts,", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 91.34, "duration": 1.86, "en": "learning English in school,", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 93.2, "duration": 3.56, "en": "while continuing to speak Spanish at home and with friends.", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 96.76, "duration": 5.08, "en": "Finally, Gabriella's parents are likely to be subordinate bilinguals", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 101.84, "duration": 1.56, "en": "who learn a secondary language", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 103.41, "duration": 2.79, "en": "by filtering it through their primary language.", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 106.2, "duration": 4.02, "en": "Because all types of bilingual people can become fully proficient in a language", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 110.22, "duration": 2.51, "en": "regardless of accent or pronunciation,", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 112.72, "duration": 3.12, "en": "the difference may not be apparent to a casual observer.", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 115.84, "duration": 2.78, "en": "But recent advances in brain imaging technology", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 118.62, "duration": 2.24, "en": "have given neurolinguists a glimpse", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 120.86, "duration": 4.86, "en": "into how specific aspects of language learning affect the bilingual brain.", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 125.71, "duration": 3.3, "en": "It's well known that the brain's left hemisphere is more dominant", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 129.01, "duration": 2.61, "en": "and analytical in logical processes,", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 131.62, "duration": 4.58, "en": "while the right hemisphere is more active in emotional and social ones,", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 136.2, "duration": 3.87, "en": "though this is a matter of degree, not an absolute split.", "zh": "（點擊聽取發音並跟讀此句）"}]}, "urU-a_FsS5Y": {"cues": [{"start": 19.37, "duration": 0.01, "en": "the social challenges that face modern", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 19.38, "duration": 2.3, "en": "the social challenges that face modern societies whether it's the ability to", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 21.68, "duration": 0.01, "en": "societies whether it's the ability to", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 21.69, "duration": 2.41, "en": "societies whether it's the ability to work productively to be a good citizen", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 24.1, "duration": 0.01, "en": "work productively to be a good citizen", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 24.11, "duration": 3.87, "en": "work productively to be a good citizen stay healthy have their roots in early", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 27.98, "duration": 0.01, "en": "stay healthy have their roots in early", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 27.99, "duration": 3.44, "en": "stay healthy have their roots in early health and development a strong", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 31.43, "duration": 0.01, "en": "health and development a strong", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 31.44, "duration": 2.42, "en": "health and development a strong foundation in early childhood results in", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 33.86, "duration": 0.01, "en": "foundation in early childhood results in", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 33.87, "duration": 1.76, "en": "foundation in early childhood results in much better and more effective", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 35.63, "duration": 0.01, "en": "much better and more effective", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 35.64, "duration": 2.27, "en": "much better and more effective development later a weak foundation", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 37.91, "duration": 0.01, "en": "development later a weak foundation", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 37.92, "duration": 4.4, "en": "development later a weak foundation really puts us behind the most important", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 42.32, "duration": 0.01, "en": "really puts us behind the most important", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 42.33, "duration": 1.67, "en": "really puts us behind the most important thing she'll journeyed to thrive is to", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 44.0, "duration": 0.01, "en": "thing she'll journeyed to thrive is to", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 44.01, "duration": 1.7, "en": "thing she'll journeyed to thrive is to live in an environment of relationships", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 45.71, "duration": 0.01, "en": "live in an environment of relationships", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 45.72, "duration": 2.99, "en": "live in an environment of relationships that begins in their family but also", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 48.71, "duration": 0.01, "en": "that begins in their family but also", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 48.72, "duration": 3.08, "en": "that begins in their family but also extends out to include also on family", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 51.8, "duration": 0.01, "en": "extends out to include also on family", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 51.81, "duration": 1.64, "en": "extends out to include also on family neighbors in your childcare centers and", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 53.45, "duration": 0.01, "en": "neighbors in your childcare centers and", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 53.46, "duration": 3.32, "en": "neighbors in your childcare centers and other programs what children need is to", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 56.78, "duration": 0.01, "en": "other programs what children need is to", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 56.79, "duration": 1.34, "en": "other programs what children need is to have entire environment of relationships", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 58.13, "duration": 0.01, "en": "have entire environment of relationships", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 58.14, "duration": 3.2, "en": "have entire environment of relationships to be invested in their healthy", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 61.34, "duration": 0.01, "en": "to be invested in their healthy", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 61.35, "duration": 4.4, "en": "to be invested in their healthy development we've shown from decades of", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 65.75, "duration": 0.01, "en": "development we've shown from decades of", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 65.76, "duration": 2.21, "en": "development we've shown from decades of testing interventions that we can", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 67.97, "duration": 0.01, "en": "testing interventions that we can", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 67.98, "duration": 3.68, "en": "testing interventions that we can improve outcomes but the magnitude of", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 71.66, "duration": 0.01, "en": "improve outcomes but the magnitude of", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 71.67, "duration": 3.71, "en": "improve outcomes but the magnitude of those impacts is not good enough science", "zh": "（點擊聽取發音並跟讀此句）"}]}, "eIho2S0ZahI": {"cues": [{"start": 0.0, "duration": 7.0, "en": "Translator: Mahmoud Hassan; Proofreader: Ali Alshalali;", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 13.96, "duration": 2.11, "en": "Human voice.", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 16.07, "duration": 1.92, "en": "It is the instrument we all play.", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 17.99, "duration": 2.36, "en": "It is the most powerful voice in the world, perhaps.", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 20.35, "duration": 1.77, "en": "It is the only voice that can start a war", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 22.12, "duration": 1.82, "en": "or say \"I love you\".", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 23.94, "duration": 1.3, "en": "Despite this, many people may experience", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 25.24, "duration": 2.97, "en": "that when they speak, people do not listen to them.", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 28.21, "duration": 1.14, "en": "Why?", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 29.35, "duration": 1.67, "en": "How can we speak out powerfully enough to", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 31.02, "duration": 2.12, "en": "change the world?", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 33.14, "duration": 2.0, "en": "I would like to suggest that there are a", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 35.13, "duration": 1.84, "en": "number of habits that we should avoid. I have", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 36.97, "duration": 2.34, "en": "compiled for you the", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 39.31, "duration": 2.14, "en": "seven mistakes of speaking.", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 41.44, "duration": 2.43, "en": "I do not claim that this list is complete,", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 43.88, "duration": 2.63, "en": "but I believe that these seven mistakes are very significant.", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 46.51, "duration": 2.62, "en": "Habits that we can all fall into:", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 49.13, "duration": 2.86, "en": "First, gossip, which is", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 51.99, "duration": 2.71, "en": "speaking negatively about someone in their absence. It is a bad", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 54.7, "duration": 1.67, "en": "habit, and we all know it very well. The", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 56.37, "duration": 2.33, "en": "gossiper will talk about us after five minutes. The", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 61.77, "duration": 1.74, "en": "second mistake is judging people.", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 63.52, "duration": 1.81, "en": "We know some people who commit this mistake,", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 65.32, "duration": 2.06, "en": "and it is very difficult to listen to someone", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 67.38, "duration": 2.2, "en": "when you know that they are judging you and", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 69.58, "duration": 2.45, "en": "you find them desirable at the same time. The", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 72.03, "duration": 1.9, "en": "third mistake is negativity.", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 73.93, "duration": 1.73, "en": "You can fall into this trap.", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 75.66, "duration": 1.55, "en": "My mother, in the last years of her life,", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 77.21, "duration": 2.16, "en": "became very negative and wouldn't listen to us.", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 79.37, "duration": 1.94, "en": "I remember one day,", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 81.3, "duration": 1.01, "en": "\"It's October 1st,\" and", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 82.32, "duration": 2.32, "en": "she said, \"I know, isn't this awful?\"", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 84.64, "duration": 2.62, "en": "(Laughter)", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 87.26, "duration": 3.6, "en": "It is difficult to listen when a person is negative, and", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 90.86, "duration": 2.61, "en": "another form of negativity is complaining and resentment.", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 93.47, "duration": 4.07, "en": "Well, this is a traditional art form in the United Kingdom.", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 97.54, "duration": 2.13, "en": "It is our favorite sport. We complain about almost everything: the weather, the", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 99.67, "duration": 2.46, "en": "sport, politics, almost everything.", "zh": "（點擊聽取發音並跟讀此句）"}]}, "arj7oStGLkU": {"cues": [{"start": 12.64, "duration": 1.37, "en": "So in college,", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 15.35, "duration": 1.56, "en": "I was a government major,", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 16.94, "duration": 2.46, "en": "which means I had to write a lot of papers.", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 19.42, "duration": 2.05, "en": "Now, when a normal student writes a paper,", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 21.5, "duration": 2.37, "en": "they might spread the work out a little like this.", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 23.89, "duration": 1.15, "en": "So, you know --", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 25.07, "duration": 1.66, "en": "(Laughter)", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 26.75, "duration": 1.83, "en": "you get started maybe a little slowly,", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 28.6, "duration": 1.97, "en": "but you get enough done in the first week", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 30.59, "duration": 1.83, "en": "that, with some heavier days later on,", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 32.45, "duration": 2.16, "en": "everything gets done, things stay civil.", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 34.63, "duration": 1.2, "en": "(Laughter)", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 35.85, "duration": 2.27, "en": "And I would want to do that like that.", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 38.15, "duration": 1.19, "en": "That would be the plan.", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 39.37, "duration": 2.49, "en": "I would have it all ready to go,", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 41.88, "duration": 2.49, "en": "but then, actually, the paper would come along,", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 44.4, "duration": 1.94, "en": "and then I would kind of do this.", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 46.36, "duration": 2.37, "en": "(Laughter)", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 48.76, "duration": 2.14, "en": "And that would happen every single paper.", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 51.64, "duration": 3.88, "en": "But then came my 90-page senior thesis,", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 55.54, "duration": 2.29, "en": "a paper you're supposed to spend a year on.", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 57.85, "duration": 3.62, "en": "And I knew for a paper like that, my normal work flow was not an option.", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 61.5, "duration": 1.4, "en": "It was way too big a project.", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 62.92, "duration": 1.15, "en": "So I planned things out,", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 64.1, "duration": 3.21, "en": "and I decided I kind of had to go something like this.", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 67.78, "duration": 1.45, "en": "This is how the year would go.", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 69.26, "duration": 1.97, "en": "So I'd start off light,", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 71.25, "duration": 2.32, "en": "and I'd bump it up in the middle months,", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 73.59, "duration": 2.63, "en": "and then at the end, I would kick it up into high gear", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 76.24, "duration": 1.44, "en": "just like a little staircase.", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 77.7, "duration": 2.06, "en": "How hard could it be to walk up the stairs?", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 80.23, "duration": 1.32, "en": "No big deal, right?", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 83.09, "duration": 1.81, "en": "But then, the funniest thing happened.", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 84.92, "duration": 1.31, "en": "Those first few months?", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 86.79, "duration": 1.17, "en": "They came and went,", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 87.98, "duration": 1.59, "en": "and I couldn't quite do stuff.", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 89.59, "duration": 1.85, "en": "So we had an awesome new revised plan.", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 91.46, "duration": 1.17, "en": "(Laughter)", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 92.66, "duration": 1.16, "en": "And then --", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 93.84, "duration": 1.88, "en": "(Laughter)", "zh": "（點擊聽取發音並跟讀此句）"}]}, "fLJsdqxnZb0": {"cues": [{"start": 15.26, "duration": 3.55, "en": "When I was seven years old and my sister was just five years old,", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 18.83, "duration": 2.4, "en": "we were playing on top of a bunk bed.", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 21.26, "duration": 3.03, "en": "I was two years older than my sister at the time --", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 24.31, "duration": 2.23, "en": "I mean, I'm two years older than her now --", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 26.57, "duration": 3.32, "en": "but at the time it meant she had to do everything that I wanted to do,", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 29.91, "duration": 1.32, "en": "and I wanted to play war.", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 31.26, "duration": 2.06, "en": "So we were up on top of our bunk beds.", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 33.34, "duration": 2.09, "en": "And on one side of the bunk bed,", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 35.46, "duration": 2.61, "en": "I had put out all of my G.I. Joe soldiers and weaponry.", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 38.09, "duration": 2.89, "en": "And on the other side were all my sister's My Little Ponies", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 41.01, "duration": 1.45, "en": "ready for a cavalry charge.", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 42.47, "duration": 3.29, "en": "There are differing accounts of what actually happened that afternoon,", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 45.79, "duration": 2.29, "en": "but since my sister is not here with us today,", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 48.1, "duration": 1.9, "en": "let me tell you the true story --", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 50.02, "duration": 1.21, "en": "(Laughter)", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 51.26, "duration": 2.44, "en": "which is my sister's a little on the clumsy side.", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 53.72, "duration": 3.02, "en": "Somehow, without any help or push from her older brother at all,", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 56.77, "duration": 2.47, "en": "Amy disappeared off of the top of the bunk bed", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 59.26, "duration": 1.93, "en": "and landed with this crash on the floor.", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 61.21, "duration": 2.01, "en": "I nervously peered over the side of the bed", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 63.25, "duration": 1.99, "en": "to see what had befallen my fallen sister", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 65.26, "duration": 2.85, "en": "and saw that she had landed painfully on her hands and knees", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 68.14, "duration": 1.35, "en": "on all fours on the ground.", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 69.51, "duration": 2.48, "en": "I was nervous because my parents had charged me", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 72.01, "duration": 1.86, "en": "with making sure that my sister and I", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 73.9, "duration": 2.34, "en": "played as safely and as quietly as possible.", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 76.26, "duration": 3.65, "en": "And seeing as how I had accidentally broken Amy's arm", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 79.94, "duration": 1.3, "en": "just one week before --", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 81.26, "duration": 1.94, "en": "(Laughter)", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 85.36, "duration": 1.0, "en": "(Laughter ends)", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 86.38, "duration": 4.66, "en": "heroically pushing her out of the way of an oncoming imaginary sniper bullet,", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 91.07, "duration": 2.03, "en": "(Laughter)", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 93.13, "duration": 4.08, "en": "for which I have yet to be thanked, I was trying as hard as I could --", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 97.23, "duration": 1.6, "en": "she didn't even see it coming --", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 98.85, "duration": 2.34, "en": "I was trying hard to be on my best behavior.", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 101.22, "duration": 1.35, "en": "And I saw my sister's face,", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 102.59, "duration": 2.24, "en": "this wail of pain and suffering and surprise", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 104.85, "duration": 2.68, "en": "threatening to erupt from her mouth and wake my parents", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 107.56, "duration": 2.6, "en": "from the long winter's nap for which they had settled.", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 110.18, "duration": 1.16, "en": "So I did the only thing", "zh": "（點擊聽取發音並跟讀此句）"}]}, "Ks-_Mh1QhMc": {"cues": [{"start": 0.0, "duration": 7.0, "en": "Translator: Joseph Geni Reviewer: Morton Bast", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 15.97, "duration": 5.4, "en": "So I want to start by offering you a free no-tech life hack,", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 21.39, "duration": 2.6, "en": "and all it requires of you is this:", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 24.01, "duration": 4.16, "en": "that you change your posture for two minutes.", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 28.2, "duration": 3.4, "en": "But before I give it away, I want to ask you to right now", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 31.62, "duration": 3.57, "en": "do a little audit of your body and what you're doing with your body.", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 35.21, "duration": 2.69, "en": "So how many of you are sort of making yourselves smaller?", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 37.93, "duration": 3.32, "en": "Maybe you're hunching, crossing your legs, maybe wrapping your ankles.", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 41.27, "duration": 3.71, "en": "Sometimes we hold onto our arms like this.", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 45.01, "duration": 3.65, "en": "Sometimes we spread out. (Laughter)", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 48.68, "duration": 2.25, "en": "I see you.", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 50.96, "duration": 2.99, "en": "So I want you to pay attention to what you're doing right now.", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 53.97, "duration": 2.33, "en": "We're going to come back to that in a few minutes,", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 56.33, "duration": 2.92, "en": "and I'm hoping that if you learn to tweak this a little bit,", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 59.28, "duration": 3.41, "en": "it could significantly change the way your life unfolds.", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 62.71, "duration": 4.5, "en": "So, we're really fascinated with body language,", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 67.24, "duration": 3.9, "en": "and we're particularly interested in other people's body language.", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 71.16, "duration": 4.2, "en": "You know, we're interested in, like, you know — (Laughter) —", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 75.38, "duration": 4.37, "en": "an awkward interaction, or a smile,", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 79.78, "duration": 4.21, "en": "or a contemptuous glance, or maybe a very awkward wink,", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 84.01, "duration": 3.21, "en": "or maybe even something like a handshake.", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 87.25, "duration": 3.33, "en": "Narrator: Here they are arriving at Number 10.", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 90.6, "duration": 4.47, "en": "This lucky policeman gets to shake hands with the President of the United States.", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 95.09, "duration": 4.9, "en": "Here comes the Prime Minister -- No. (Laughter) (Applause)", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 100.02, "duration": 2.65, "en": "(Laughter) (Applause)", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 102.69, "duration": 3.68, "en": "Amy Cuddy: So a handshake, or the lack of a handshake,", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 106.4, "duration": 2.5, "en": "can have us talking for weeks and weeks and weeks.", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 108.92, "duration": 2.12, "en": "Even the BBC and The New York Times.", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 111.06, "duration": 3.93, "en": "So obviously when we think about nonverbal behavior,", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 115.02, "duration": 3.36, "en": "or body language -- but we call it nonverbals as social scientists --", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 118.4, "duration": 2.86, "en": "it's language, so we think about communication.", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 121.28, "duration": 3.0, "en": "When we think about communication, we think about interactions.", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 124.31, "duration": 2.41, "en": "So what is your body language communicating to me?", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 126.75, "duration": 2.04, "en": "What's mine communicating to you?", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 128.81, "duration": 5.95, "en": "And there's a lot of reason to believe that this is a valid way to look at this.", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 134.79, "duration": 2.24, "en": "So social scientists have spent a lot of time", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 137.06, "duration": 2.08, "en": "looking at the effects of our body language,", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 139.16, "duration": 2.28, "en": "or other people's body language, on judgments.", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 141.47, "duration": 3.42, "en": "And we make sweeping judgments and inferences from body language.", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 144.91, "duration": 3.97, "en": "And those judgments can predict really meaningful life outcomes", "zh": "（點擊聽取發音並跟讀此句）"}]}, "8KkKuTCFvzI": {"cues": [{"start": 12.76, "duration": 3.0, "en": "What keeps us healthy and happy", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 15.76, "duration": 1.58, "en": "as we go through life?", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 18.51, "duration": 2.5, "en": "If you were going to invest now", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 21.05, "duration": 2.04, "en": "in your future best self,", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 23.13, "duration": 2.96, "en": "where would you put your time and your energy?", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 27.13, "duration": 2.42, "en": "There was a recent survey of millennials", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 29.55, "duration": 5.21, "en": "asking them what their most important life goals were,", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 34.76, "duration": 2.04, "en": "and over 80 percent said", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 36.8, "duration": 4.12, "en": "that a major life goal for them was to get rich.", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 40.96, "duration": 4.33, "en": "And another 50 percent of those same young adults", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 45.34, "duration": 2.54, "en": "said that another major life goal", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 47.88, "duration": 1.83, "en": "was to become famous.", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 50.96, "duration": 1.21, "en": "(Laughter)", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 52.21, "duration": 6.67, "en": "And we're constantly told to lean in to work, to push harder", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 58.88, "duration": 2.04, "en": "and achieve more.", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 60.96, "duration": 3.67, "en": "We're given the impression that these are the things that we need to go after", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 64.63, "duration": 1.83, "en": "in order to have a good life.", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 66.51, "duration": 2.21, "en": "Pictures of entire lives,", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 68.71, "duration": 5.21, "en": "of the choices that people make and how those choices work out for them,", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 73.96, "duration": 2.88, "en": "those pictures are almost impossible to get.", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 78.09, "duration": 3.04, "en": "Most of what we know about human life", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 81.17, "duration": 3.46, "en": "we know from asking people to remember the past,", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 84.63, "duration": 4.79, "en": "and as we know, hindsight is anything but 20/20.", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 89.46, "duration": 3.67, "en": "We forget vast amounts of what happens to us in life,", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 93.17, "duration": 2.88, "en": "and sometimes memory is downright creative.", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 96.8, "duration": 4.38, "en": "But what if we could watch entire lives", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 101.21, "duration": 2.83, "en": "as they unfold through time?", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 104.09, "duration": 3.96, "en": "What if we could study people from the time that they were teenagers", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 108.09, "duration": 2.75, "en": "all the way into old age", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 110.84, "duration": 3.38, "en": "to see what really keeps people happy and healthy?", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 115.55, "duration": 1.21, "en": "We did that.", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 117.63, "duration": 2.25, "en": "The Harvard Study of Adult Development", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 119.88, "duration": 4.75, "en": "may be the longest study of adult life that's ever been done.", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 125.71, "duration": 6.12, "en": "For 75 years, we've tracked the lives of 724 men,", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 133.38, "duration": 4.5, "en": "year after year, asking about their work, their home lives, their health,", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 137.88, "duration": 4.38, "en": "and of course asking all along the way without knowing how their life stories", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 142.3, "duration": 1.42, "en": "were going to turn out.", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 145.3, "duration": 3.62, "en": "Studies like this are exceedingly rare.", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 148.92, "duration": 4.04, "en": "Almost all projects of this kind fall apart within a decade", "zh": "（點擊聽取發音並跟讀此句）"}, {"start": 153.01, "duration": 3.17, "en": "because too many people drop out of the study,", "zh": "（點擊聽取發音並跟讀此句）"}]}}, "vocab": {"rut": {"ipa": "/rʌt/", "pos": "n.", "def": "刻板乏味的生活、常規", "ex": "stuck in a rut 陷入一成不變的僵局"}, "philosopher": {"ipa": "/fɪˈlɑː.sə.fɚ/", "pos": "n.", "def": "哲學家、深思熟慮的人", "ex": "ancient Greek philosopher 古希臘哲學家"}, "footsteps": {"ipa": "/ˈfʊt.steps/", "pos": "n.", "def": "腳步、足跡", "ex": "follow in someone's footsteps 步入某人的後塵"}, "memorable": {"ipa": "/ˈmem.ər.ə.bəl/", "pos": "adj.", "def": "難忘的、值得紀念的", "ex": "a memorable experience 難忘的經驗"}, "adventurous": {"ipa": "/ədˈven.tʃɚ.əs/", "pos": "adj.", "def": "喜愛冒險的、大膽的", "ex": "an adventurous traveler 喜愛冒險的旅人"}, "novelist": {"ipa": "/ˈnɑː.və.lɪst/", "pos": "n.", "def": "小說家", "ex": "aspiring novelist 有抱負的小說家"}, "bilingual": {"ipa": "/baɪˈlɪŋ.ɡwəl/", "pos": "adj.", "def": "雙語的、會說兩種語言的", "ex": "bilingual education 雙語教育"}, "hemisphere": {"ipa": "/ˈhem.ə.sfɪr/", "pos": "n.", "def": "腦半球、半球", "ex": "the left hemisphere of the brain 大腦左半球"}, "plasticity": {"ipa": "/plæsˈtɪs.ə.t̬i/", "pos": "n.", "def": "可塑性、適應力", "ex": "neural plasticity 神經可塑性"}, "procrastinate": {"ipa": "/proʊˈkræs.tə.neɪt/", "pos": "v.", "def": "拖延、拖拉", "ex": "Stop procrastinating and get to work! 別再拖延了！"}, "instant": {"ipa": "/ˈɪn.stənt/", "pos": "adj.", "def": "立即的、即時的", "ex": "instant gratification 即時滿足"}, "gratification": {"ipa": "/ˌɡræt̬.ə.fəˈkeɪ.ʃən/", "pos": "n.", "def": "滿足感、喜悅", "ex": "seek instant gratification 尋求即時滿足"}, "confidence": {"ipa": "/ˈkɑːn.fə.dəns/", "pos": "n.", "def": "信心、自信", "ex": "boost one's confidence 提升某人的自信"}, "sustainable": {"ipa": "/səˈsteɪ.nə.bəl/", "pos": "adj.", "def": "可持續的、能長久維持的", "ex": "sustainable habits 能長久維持的習慣"}}};
+
+let ytPlayer = null;
+let ytReady = false;
+let syncTimer = null;
+let activeCueIdx = -1;
+let repeatCueMode = false;
+let autoScrollEnabled = true;
+let currentSubMode = 'both'; // 'both', 'en', 'zh', 'none'
+let currentPlaybackRate = 1.0;
+let subtitleBaseSize = 21;
+let likedVideos = new Set(JSON.parse(localStorage.getItem('et_liked') || '[]'));
+
+// YouTube Iframe API ready callback
+window.onYouTubeIframeAPIReady = function() {
+  ytReady = true;
+  console.log('[VoiceTube] YouTube Iframe API Ready');
+};
+
+function initOrLoadPlayer(videoId) {
+  const container = document.getElementById('playerContainer');
+  if (!container) return;
+  
+  if (ytPlayer && typeof ytPlayer.loadVideoById === 'function') {
+    try {
+      ytPlayer.loadVideoById(videoId);
+      return;
+    } catch(e) {
+      console.warn('Player reload fallback', e);
+    }
+  }
+
+  container.innerHTML = '';
+  const playerDiv = document.createElement('div');
+  playerDiv.id = 'ytPlayerInstance';
+  container.appendChild(playerDiv);
+
+  if (window.YT && window.YT.Player) {
+    ytPlayer = new YT.Player('ytPlayerInstance', {
+      videoId: videoId,
+      playerVars: {
+        autoplay: 1,
+        playsinline: 1,
+        rel: 0,
+        modestbranding: 1,
+        enablejsapi: 1,
+        origin: window.location.origin
+      },
+      events: {
+        onReady: function(event) {
+          event.target.playVideo();
+          startSubtitleSync();
+        },
+        onStateChange: function(event) {
+          if (event.data === YT.PlayerState.PLAYING) {
+            startSubtitleSync();
+          } else {
+            stopSubtitleSync();
+          }
+        }
+      }
+    });
+  } else {
+    // Fallback if API hasn't loaded yet
+    container.innerHTML = `<iframe id="fallbackIframe" src="https://www.youtube-nocookie.com/embed/${videoId}?autoplay=1&enablejsapi=1&rel=0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="width:100%;height:100%;border:0"></iframe>`;
+  }
+}
+
+function startSubtitleSync() {
+  stopSubtitleSync();
+  syncTimer = setInterval(checkSubtitleSync, 100);
+}
+
+function stopSubtitleSync() {
+  if (syncTimer) {
+    clearInterval(syncTimer);
+    syncTimer = null;
+  }
+}
+
+function checkSubtitleSync() {
+  if (!ytPlayer || typeof ytPlayer.getCurrentTime !== 'function') return;
+  const time = ytPlayer.getCurrentTime();
+  if (time == null || isNaN(time)) return;
+
+  const cues = current?.cues || [];
+  if (!cues.length) return;
+
+  // Single sentence repeat loop
+  if (repeatCueMode && activeCueIdx >= 0 && activeCueIdx < cues.length) {
+    const cur = cues[activeCueIdx];
+    const dur = cur.duration > 0 ? cur.duration : 4.5;
+    if (time >= cur.start + dur - 0.15) {
+      ytPlayer.seekTo(cur.start, true);
+      return;
+    }
+  }
+
+  // Find matching cue
+  let matchIdx = -1;
+  for (let i = 0; i < cues.length; i++) {
+    const c = cues[i];
+    const dur = c.duration > 0 ? c.duration : (cues[i+1] ? Math.max(1, cues[i+1].start - c.start) : 5);
+    if (time >= c.start && time < c.start + dur) {
+      matchIdx = i;
+      break;
+    }
+  }
+
+  if (matchIdx !== -1 && matchIdx !== activeCueIdx) {
+    highlightVoiceTubeCue(matchIdx);
+  }
+}
+
+function highlightVoiceTubeCue(idx) {
+  activeCueIdx = idx;
+  const cue = current?.cues?.[idx];
+  if (!cue) return;
+
+  // 1. Update VoiceTube Subtitle Stage
+  const enStage = document.getElementById('vtActiveEn');
+  const zhStage = document.getElementById('vtActiveZh');
+  
+  if (enStage) {
+    if (currentSubMode === 'zh' || currentSubMode === 'none') {
+      enStage.style.display = 'none';
+    } else {
+      enStage.style.display = 'block';
+      // Tokenize sentence for interactive word clicking
+      enStage.innerHTML = tokenizeWords(cue.en || cue.text || '');
+    }
+  }
+
+  if (zhStage) {
+    if (currentSubMode === 'en' || currentSubMode === 'none') {
+      zhStage.style.display = 'none';
+    } else {
+      zhStage.style.display = 'block';
+      zhStage.textContent = cue.zh || current.cn?.[idx] || '';
+    }
+  }
+
+  // 2. Highlight row in Right Transcript List
+  const rows = document.querySelectorAll('.vt-cue-row');
+  rows.forEach((row, i) => {
+    row.classList.toggle('active', i === idx);
+  });
+
+  // 3. Smooth auto-scroll
+  if (autoScrollEnabled) {
+    const activeRow = document.querySelector('.vt-cue-row.active');
+    if (activeRow) {
+      activeRow.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    }
+  }
+
+  // Update recording target
+  const practiceTarget = document.getElementById('practiceSentenceTarget');
+  if (practiceTarget) practiceTarget.textContent = cue.en || cue.text || '';
+}
+
+function tokenizeWords(sentence) {
+  // Wrap every word token in an interactive clickable span
+  return sentence.replace(/\b([a-zA-Z'-](2,))\b/g, (match) => {
+    const clean = match.replace(/[^a-zA-Z]/g, '').toLowerCase();
+    return `<span class="vt-word-token" onclick="lookupWord('${clean}')">${match}</span>`;
+  });
+}
+
+function stepCue(delta) {
+  if (!current?.cues?.length) return;
+  let nextIdx = activeCueIdx + delta;
+  if (nextIdx < 0) nextIdx = 0;
+  if (nextIdx >= current.cues.length) nextIdx = current.cues.length - 1;
+  seekCue(nextIdx);
+}
+
+function toggleRepeatCue() {
+  repeatCueMode = !repeatCueMode;
+  const btn = document.getElementById('vtRepeatBtn');
+  if (btn) btn.classList.toggle('active', repeatCueMode);
+  toast(repeatCueMode ? '🔁 已開啟單句重複跟讀' : '單句重複已關閉');
+  if (repeatCueMode && activeCueIdx >= 0 && current?.cues?.[activeCueIdx]) {
+    seekCue(activeCueIdx);
+  }
+}
+
+function toggleAutoScroll() {
+  autoScrollEnabled = !autoScrollEnabled;
+  const btn = document.getElementById('autoScrollToggleBtn');
+  if (btn) btn.textContent = '📜 自動捲動: ' + (autoScrollEnabled ? 'ON' : 'OFF');
+  toast(autoScrollEnabled ? '自動捲動已開啟' : '自動捲動已暫停');
+}
+
+function setSubMode(mode) {
+  currentSubMode = mode;
+  ['both', 'en', 'zh', 'none'].forEach(m => {
+    const b = document.getElementById('subMode' + m.charAt(0).toUpperCase() + m.slice(1));
+    if (b) b.classList.toggle('active', m === mode);
+  });
+  if (activeCueIdx >= 0) highlightVoiceTubeCue(activeCueIdx);
+  renderVoiceTubeTranscript();
+}
+
+function setPlayerSpeed(speed) {
+  currentPlaybackRate = speed;
+  [0.75, 1.0, 1.25].forEach(s => {
+    const b = document.getElementById('speed' + String(s).replace('.', ''));
+    if (b) b.classList.toggle('active', s === speed);
+  });
+  if (ytPlayer && typeof ytPlayer.setPlaybackRate === 'function') {
+    ytPlayer.setPlaybackRate(speed);
+  }
+  toast('播放速度：' + speed + '×');
+}
+
+function adjustSubtitleSize(delta) {
+  subtitleBaseSize = Math.max(16, Math.min(28, subtitleBaseSize + delta * 2));
+  const enStage = document.getElementById('vtActiveEn');
+  if (enStage) enStage.style.fontSize = subtitleBaseSize + 'px';
+}
+
+function renderVoiceTubeTranscript() {
+  const list = document.getElementById('vtTranscriptList');
+  if (!list || !current?.cues) return;
+  const cues = current.cues;
+  list.innerHTML = cues.map((c, i) => `
+    <div class="vt-cue-row ${i === activeCueIdx ? 'active' : ''}" onclick="seekCue(${i})">
+      <span class="vt-cue-play-btn">▶</span>
+      <div class="vt-cue-content">
+        <span class="vt-cue-en" style="display:${currentSubMode === 'zh' ? 'none' : 'block'}">${escapeHTML(c.en || c.text || '')}</span>
+        <span class="vt-cue-zh" style="display:${currentSubMode === 'en' || currentSubMode === 'none' ? 'none' : 'block'}">${escapeHTML(c.zh || current.cn?.[i] || '')}</span>
+      </div>
+      <span class="vt-cue-time">${formatTime(c.start)}</span>
+    </div>
+  `).join('');
+}
+
+function renderVoiceTubeVocab() {
+  const list = document.getElementById('vtVocabList');
+  const countEl = document.getElementById('lessonWordCount');
+  if (!list) return;
+  const vocabObj = PRELOADED_LESSONS.vocab || {};
+  const keys = Object.keys(vocabObj);
+  if (countEl) countEl.textContent = keys.length;
+  
+  list.innerHTML = keys.map(k => {
+    const item = vocabObj[k];
+    return `
+      <div style="background:#11111f;border:1px solid #24243a;border-radius:8px;padding:8px 12px;display:flex;justify-content:space-between;align-items:center">
+        <div>
+          <b style="color:#a49aff;font-size:15px">${k}</b> <small style="color:#777">${item.ipa || ''} ${item.pos || ''}</small>
+          <div style="font-size:12px;color:#c0c0d8;margin-top:2px">${item.def || ''}</div>
+        </div>
+        <div style="display:flex;gap:4px">
+          <button class="save" onclick="say('${k}')">🔊</button>
+          <button class="save ${savedWords.has(k) ? 'saved' : ''}" onclick="toggleWord('${k}')">${savedWords.has(k) ? '✓' : '＋'}</button>
+        </div>
+      </div>
+    `;
+  }).join('');
+}
+
+function switchVtTab(tab) {
+  ['dict', 'vocab', 'practice'].forEach(t => {
+    const btn = document.getElementById('tab' + t.charAt(0).toUpperCase() + t.slice(1));
+    const pane = document.getElementById('vtPane' + t.charAt(0).toUpperCase() + t.slice(1));
+    if (btn) btn.classList.toggle('active', t === tab);
+    if (pane) pane.style.display = t === tab ? 'block' : 'none';
+  });
+}
+
+function lookupWord(word) {
+  if (!word) return;
+  switchVtTab('dict');
+  const clean = word.toLowerCase().trim();
+  const input = document.getElementById('dictInput');
+  if (input) input.value = clean;
+  
+  const vocab = PRELOADED_LESSONS.vocab || {};
+  const item = vocab[clean];
+  const view = document.getElementById('vtWordView');
+  if (!view) return;
+
+  say(clean);
+
+  if (item) {
+    view.innerHTML = `
+      <div class="vt-word-view">
+        <div class="vt-word-main">
+          <span class="vt-word-term">${clean}</span>
+          <span class="vt-word-ipa">${item.ipa || ''}</span>
+          <div class="vt-word-actions">
+            <button class="save" onclick="say('${clean}')">🔊 發音</button>
+            <button class="save ${savedWords.has(clean) ? 'saved' : ''}" onclick="toggleWord('${clean}')">${savedWords.has(clean) ? '✓ 已收藏' : '＋ 收藏'}</button>
+          </div>
+        </div>
+        <div class="vt-word-pos">${item.pos || '單字'}</div>
+        <div class="vt-word-def">${item.def || ''}</div>
+        ${item.ex ? `<div class="vt-word-ex">例句：${item.ex}</div>` : ''}
+      </div>
+    `;
+  } else {
+    // Quick auto dictionary lookup
+    view.innerHTML = `
+      <div class="vt-word-view">
+        <div class="vt-word-main">
+          <span class="vt-word-term">${clean}</span>
+          <div class="vt-word-actions">
+            <button class="save" onclick="say('${clean}')">🔊 發音</button>
+            <button class="save ${savedWords.has(clean) ? 'saved' : ''}" onclick="toggleWord('${clean}')">${savedWords.has(clean) ? '✓ 已收藏' : '＋ 收藏'}</button>
+          </div>
+        </div>
+        <div class="vt-word-pos">英文字彙</div>
+        <div class="vt-word-def">點擊上方 🔊 按鈕聆聽美式真人發音，或點擊「＋ 收藏」加入專屬生字本。</div>
+      </div>
+    `;
+  }
+}
+
+function lookupCustomWord() {
+  const val = document.getElementById('dictInput')?.value.trim();
+  if (val) lookupWord(val);
+}
+
+function toggleLike() {
+  if (!current) return;
+  const btn = document.getElementById('vtLikeBtn');
+  const num = document.getElementById('vtLikes');
+  if (likedVideos.has(current.id)) {
+    likedVideos.delete(current.id);
+    btn?.classList.remove('liked');
+    if (num) num.textContent = parseInt(num.textContent || 225) - 1;
+  } else {
+    likedVideos.add(current.id);
+    btn?.classList.add('liked');
+    if (num) num.textContent = parseInt(num.textContent || 225) + 1;
+    toast('👍 已按讚');
+  }
+  localStorage.setItem('et_liked', JSON.stringify([...likedVideos]));
+}
+
+function toggleSaveCurrent() {
+  if (!current) return;
+  toggleSave(current.id);
+  const btn = document.getElementById('vtSaveBtn');
+  if (btn) btn.classList.toggle('saved', saved.has(current.id));
+}
+
+function shareVideo() {
+  if (navigator.share && current) {
+    navigator.share({
+      title: current.title,
+      text: '來跟我一起在 ENGLISHTUBE 練習跟讀英文影片！',
+      url: window.location.href
+    }).catch(() => {});
+  } else {
+    navigator.clipboard?.writeText(window.location.href);
+    toast('✓ 學習連結已複製到剪貼簿');
+  }
+}
+
+// Upgraded openVideo with VoiceTube data
+const _origOpenVideo = openVideo;
+openVideo = function(id) {
+  current = videos.find(v => v.id === id);
+  if (!current) return;
+
+  // Load preloaded lessons if available
+  const lessonData = PRELOADED_LESSONS.lessons?.[id];
+  if (lessonData && lessonData.cues && lessonData.cues.length) {
+    current.cues = lessonData.cues;
+    current.en = lessonData.cues.map(c => c.en);
+    current.cn = lessonData.cues.map(c => c.zh);
+  } else {
+    current.cues = current.cues || [];
+    current.en = current.en || [];
+    current.cn = current.cn || [];
+  }
+
+  // Populate header info
+  const titleEl = document.getElementById('modalTitle');
+  if (titleEl) titleEl.textContent = current.title;
+  const levelEl = document.getElementById('vtLevel');
+  if (levelEl) levelEl.textContent = current.level + ' 程度';
+  const viewsEl = document.getElementById('vtViews');
+  if (viewsEl) viewsEl.textContent = current.views;
+
+  const saveBtn = document.getElementById('vtSaveBtn');
+  if (saveBtn) saveBtn.classList.toggle('saved', saved.has(current.id));
+  const likeBtn = document.getElementById('vtLikeBtn');
+  if (likeBtn) likeBtn.classList.toggle('liked', likedVideos.has(current.id));
+
+  // Render Subtitles and Vocab
+  renderVoiceTubeTranscript();
+  renderVoiceTubeVocab();
+
+  // Reset subtitle stage
+  const enStage = document.getElementById('vtActiveEn');
+  const zhStage = document.getElementById('vtActiveZh');
+  if (enStage) enStage.textContent = current.cues[0]?.en || '準備播放…';
+  if (zhStage) zhStage.textContent = current.cues[0]?.zh || '點選單字可即時查字典與聽發音';
+
+  // Mount YouTube Player
+  initOrLoadPlayer(current.id);
+
+  document.getElementById('modal').classList.add('open');
+  document.body.style.overflow = 'hidden';
+};
+
+// Override seekCue to use YouTube Iframe API
+seekCue = function(i) {
+  const cue = current?.cues?.[i];
+  if (!cue) return;
+  highlightVoiceTubeCue(i);
+  if (ytPlayer && typeof ytPlayer.seekTo === 'function') {
+    ytPlayer.seekTo(cue.start, true);
+    ytPlayer.playVideo();
+  } else {
+    const frame = document.querySelector('#playerContainer iframe');
+    if (frame && frame.contentWindow) {
+      frame.contentWindow.postMessage(JSON.stringify({event:'command',func:'seekTo',args:[cue.start,true]}),'*');
+      frame.contentWindow.postMessage(JSON.stringify({event:'command',func:'playVideo',args:[]}),'*');
+    }
+  }
+};
+
+// Override closeModal to pause video
+const _origCloseModal = closeModal;
+closeModal = function() {
+  stopSubtitleSync();
+  if (ytPlayer && typeof ytPlayer.pauseVideo === 'function') {
+    try { ytPlayer.pauseVideo(); } catch(e) {}
+  }
+  _origCloseModal();
+};
+
 </script></body></html>
