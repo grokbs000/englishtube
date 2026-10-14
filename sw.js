@@ -1,5 +1,5 @@
 // ENGLISHTUBE Service Worker v5
-const CACHE='englishtube-v5';
+const CACHE='englishtube-v6';
 const STATIC=['./','./index.html','./manifest.webmanifest','./icon.svg','./icon-180.png','./icon-192.png','./icon-512.png'];
 
 // Install: pre-cache static shell
