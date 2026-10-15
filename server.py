@@ -41,6 +41,89 @@ class Handler(SimpleHTTPRequestHandler):
     def log_message(self,fmt,*args): print('[web]',fmt%args)
     def send_json(self,code,obj):
         data=json.dumps(obj,ensure_ascii=False).encode();self.send_response(code);self.send_header('Content-Type','application/json; charset=utf-8');self.send_header('Content-Length',str(len(data)));self.send_header('Cache-Control','no-store');self.end_headers();self.wfile.write(data)
+    def do_GET(self):
+        parsed = urllib.parse.urlparse(self.path)
+        if parsed.path == '/api/dict':
+            qs = urllib.parse.parse_qs(parsed.query)
+            word = (qs.get('word', [''])[0]).strip().lower()
+            self.lookup_dict(word)
+            return
+        # No-cache headers for index.html and sw.js to prevent stale SW cache
+        if parsed.path in ('/', '/index.html', '/sw.js'):
+            try:
+                filepath = ROOT / ('index.html' if parsed.path in ('/', '/index.html') else 'sw.js')
+                data = filepath.read_bytes()
+                ct = 'text/html; charset=utf-8' if parsed.path != '/sw.js' else 'application/javascript; charset=utf-8'
+                self.send_response(200)
+                self.send_header('Content-Type', ct)
+                self.send_header('Content-Length', str(len(data)))
+                self.send_header('Cache-Control', 'no-cache, no-store, must-revalidate')
+                self.send_header('Pragma', 'no-cache')
+                self.send_header('Expires', '0')
+                self.end_headers()
+                self.wfile.write(data)
+            except Exception as e:
+                self.send_error(500, str(e))
+            return
+        super().do_GET()
+
+    def lookup_dict(self, word):
+        if not word:
+            self.send_json(400, {'error': '請提供單字'})
+            return
+
+        cache_file = ROOT / 'dict_cache.json'
+        if cache_file.exists():
+            try:
+                with open(cache_file, 'r', encoding='utf-8') as f:
+                    c = json.load(f)
+                    if word in c and c[word].get('def'):
+                        self.send_json(200, c[word])
+                        return
+            except Exception:
+                pass
+
+        try:
+            url = f'https://dict.youdao.com/jsonapi?q={urllib.parse.quote(word)}'
+            req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+            with urllib.request.urlopen(req, timeout=3.5) as r:
+                d = json.loads(r.read())
+                ec = d.get('ec', {})
+                w_list = ec.get('word', [])
+                if w_list:
+                    w = w_list[0]
+                    usphone = w.get('usphone') or w.get('ukphone') or ''
+                    ipa = f'/{usphone}/' if usphone else ''
+                    trs = w.get('trs', [])
+                    defs = []
+                    for item in trs:
+                        for line in item.get('tr', []):
+                            txt = line.get('l', {}).get('i', [''])[0].strip()
+                            if txt: defs.append(txt)
+                    
+                    if defs:
+                        from opencc import OpenCC
+                        cc = OpenCC('s2twp')
+                        raw_def = '； '.join(defs[:3])
+                        clean_def = cc.convert(raw_def)
+                        pos_m = re.match(r'^([a-z]+\.)\s*(.*)', clean_def)
+                        pos = pos_m.group(1) if pos_m else '單字'
+                        clean_def = pos_m.group(2) if pos_m else clean_def
+                        res = {'word': word, 'ipa': ipa, 'pos': pos, 'def': clean_def, 'ex': ''}
+                        try:
+                            c = {}
+                            if cache_file.exists():
+                                with open(cache_file, 'r', encoding='utf-8') as f: c = json.load(f)
+                            c[word] = res
+                            with open(cache_file, 'w', encoding='utf-8') as f: json.dump(c, f, ensure_ascii=False, indent=2)
+                        except Exception: pass
+                        self.send_json(200, res)
+                        return
+        except Exception as e:
+            print('[dict error]', e)
+
+        self.send_json(200, {'word': word, 'ipa': '', 'pos': '單字', 'def': '點擊 🔊 聆聽真人發音，或點擊「＋ 收藏」加入單字庫。', 'ex': ''})
+
     def do_POST(self):
         try:
             n=int(self.headers.get('Content-Length','0')); data=json.loads(self.rfile.read(min(n,1_000_000)) or b'{}')

@@ -200,99 +200,293 @@
 
 /* VoiceTube Subtitle Stage (靠左對齊 + 左側裝飾條 + 逐字反白移動) */
 .vt-sub-stage {
-  background: #0d0d1a;
+  background: linear-gradient(180deg, #0a0a16 0%, #0d0d1e 100%);
   border: 1px solid #232338;
   border-top: none;
   border-left: 5px solid #6d5dfc;
   border-radius: 0 0 14px 14px;
-  padding: 18px 24px;
-  min-height: 115px;
+  padding: 20px 26px;
+  min-height: 130px;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: flex-start;
   text-align: left;
-  box-shadow: inset 0 2px 10px rgba(0,0,0,0.4);
+  box-shadow: inset 0 2px 16px rgba(0,0,0,0.5), 0 4px 20px rgba(109,93,252,0.08);
+  position: relative;
+  overflow: hidden;
+}
+.vt-sub-stage::before {
+  content: '';
+  position: absolute;
+  top: 0; left: 0; right: 0;
+  height: 1px;
+  background: linear-gradient(90deg, #6d5dfc44, transparent);
 }
 .vt-sub-en-line {
-  font-size: 23px;
-  font-weight: 750;
-  line-height: 1.6;
-  color: #ffffff;
+  font-size: 25px;
+  font-weight: 700;
+  line-height: 1.65;
+  color: #f0f0ff;
   letter-spacing: -0.2px;
   width: 100%;
   text-align: left;
   display: flex;
   flex-wrap: wrap;
   align-items: baseline;
-  gap: 3px 6px;
+  gap: 2px 4px;
 }
 .vt-sub-zh-line {
   font-size: 15px;
   font-weight: 500;
-  line-height: 1.5;
-  color: #9ea0be;
-  margin-top: 8px;
+  line-height: 1.6;
+  color: #8a8cb8;
+  margin-top: 10px;
   width: 100%;
   text-align: left;
+  letter-spacing: 0.3px;
 }
 
 /* ══════════ 逐字連動 HIGHLIGHT 核心樣式 ══════════ */
 .vt-word-token {
   cursor: pointer;
   display: inline-block;
-  padding: 2px 6px;
-  border-radius: 5px;
-  transition: background 0.08s ease, color 0.08s ease, transform 0.08s ease, box-shadow 0.08s ease;
-  line-height: 1.25;
+  padding: 3px 7px;
+  border-radius: 6px;
+  transition: background 0.08s ease, color 0.08s ease, transform 0.1s ease, box-shadow 0.08s ease;
+  line-height: 1.3;
 }
 /* 尚未說到的單字：低調微光 */
 .vt-word-token.future {
-  color: #6b6b85 !important;
+  color: #5c5c78 !important;
   font-weight: 500;
 }
 /* 已經講過的單字：清晰白字 */
 .vt-word-token.passed {
-  color: #ffffff !important;
-  font-weight: 700 !important;
+  color: #d8d8f0 !important;
+  font-weight: 600 !important;
 }
-/* 當前正在發音的單字：鮮明反白高亮焦點 (反白移動中) */
+/* 當前正在發音的單字：鮮明反白高亮焦點 */
 .vt-word-token.current {
-  background: #ffffff !important;
-  color: #0b0b18 !important;
+  background: linear-gradient(135deg, #a49aff, #6d5dfc) !important;
+  color: #ffffff !important;
   font-weight: 900 !important;
-  box-shadow: 0 0 16px rgba(255, 255, 255, 0.95), 0 2px 8px rgba(0,0,0,0.5);
-  transform: translateY(-2px) scale(1.08);
+  box-shadow: 0 0 20px rgba(109, 93, 252, 0.9), 0 3px 10px rgba(0,0,0,0.4);
+  transform: translateY(-3px) scale(1.1);
   display: inline-block;
 }
 .vt-word-token:hover {
-  background: rgba(109, 93, 252, 0.4) !important;
-  color: #a49aff !important;
+  background: rgba(109, 93, 252, 0.3) !important;
+  color: #c8c0ff !important;
   text-decoration: underline;
+  text-underline-offset: 3px;
+  transform: translateY(-1px);
 }
 .vt-punct {
-  color: #6b6b85;
-  margin-right: 2px;
+  color: #4a4a62;
+  margin-right: 1px;
 }
 
 /* 右側清單內微型逐字反白樣式 */
 .vt-mini-word {
   display: inline;
+  cursor: pointer;
+  border-radius: 3px;
+  padding: 0 1px;
   transition: color 0.1s ease, background 0.1s ease;
 }
-.vt-mini-word.future {
-  color: #8b8ba4;
-}
-.vt-mini-word.passed {
-  color: #ffffff;
-  font-weight: 600;
-}
+.vt-mini-word.future { color: #7070a4; }
+.vt-mini-word.passed { color: #d0d0f0; font-weight: 600; }
 .vt-mini-word.current {
   background: #6d5dfc !important;
   color: #ffffff !important;
   padding: 1px 4px;
   border-radius: 4px;
   font-weight: 800 !important;
+}
+.vt-mini-word:hover {
+  background: rgba(109, 93, 252, 0.35);
+  color: #fff !important;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+/* ══════════ 學習進度條 ══════════ */
+.vt-progress-bar-wrap {
+  height: 4px;
+  background: #1e1e35;
+  border-radius: 0;
+  overflow: hidden;
+  position: relative;
+}
+.vt-progress-bar-fill {
+  height: 100%;
+  background: linear-gradient(90deg, #6d5dfc, #a49aff);
+  transition: width 0.3s ease;
+  border-radius: 0 2px 2px 0;
+}
+.vt-progress-label {
+  font-size: 11px;
+  color: #8888a8;
+  font-weight: 700;
+  letter-spacing: 0.3px;
+}
+.vt-progress-label span {
+  color: #a49aff;
+  font-weight: 900;
+}
+
+/* ══════════ 克漏字遮字練習模式 ══════════ */
+.vt-word-token.cloze-hidden {
+  background: rgba(109, 93, 252, 0.15) !important;
+  color: transparent !important;
+  border-radius: 5px;
+  cursor: pointer;
+  user-select: none;
+  box-shadow: inset 0 0 0 1px rgba(109, 93, 252, 0.4);
+  min-width: 32px;
+  display: inline-block;
+  transition: all 0.2s ease;
+}
+.vt-word-token.cloze-hidden:hover {
+  background: rgba(109, 93, 252, 0.35) !important;
+  transform: scale(1.05);
+}
+.vt-word-token.cloze-revealed {
+  background: rgba(109, 93, 252, 0.2) !important;
+  color: #a49aff !important;
+  font-weight: 800 !important;
+  animation: vtPopFadeIn 0.2s ease;
+}
+.vt-cloze-active-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  padding: 4px 10px;
+  background: linear-gradient(135deg, rgba(109,93,252,0.3), rgba(164,154,255,0.15));
+  border: 1px solid rgba(109,93,252,0.5);
+  border-radius: 20px;
+  font-size: 11px;
+  font-weight: 800;
+  color: #a49aff;
+  animation: pulse 2s infinite;
+}
+.vt-word-popover {
+  position: fixed;
+  z-index: 99999;
+  min-width: 250px;
+  max-width: 360px;
+  background: rgba(20, 20, 36, 0.94);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border: 1px solid rgba(138, 120, 255, 0.4);
+  border-radius: 14px;
+  padding: 12px 15px;
+  box-shadow: 0 14px 40px rgba(0, 0, 0, 0.65), 0 0 24px rgba(109, 93, 252, 0.25);
+  color: #fff;
+  pointer-events: auto;
+  animation: vtPopFadeIn 0.15s cubic-bezier(0.16, 1, 0.3, 1);
+}
+@keyframes vtPopFadeIn {
+  from { opacity: 0; transform: translateY(6px) scale(0.96); }
+  to { opacity: 1; transform: translateY(0) scale(1); }
+}
+.vt-pop-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 8px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+  padding-bottom: 7px;
+}
+.vt-pop-title-row {
+  display: flex;
+  align-items: baseline;
+  gap: 8px;
+  overflow: hidden;
+}
+.vt-pop-word {
+  font-size: 18px;
+  font-weight: 800;
+  color: #fff;
+  letter-spacing: -0.2px;
+}
+.vt-pop-ipa {
+  font-size: 13px;
+  color: #9f96ff;
+  font-family: var(--mono, monospace);
+}
+.vt-pop-actions {
+  display: flex;
+  gap: 5px;
+  align-items: center;
+}
+.vt-pop-btn {
+  width: 28px;
+  height: 28px;
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.08);
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  font-size: 13px;
+  transition: all 0.12s ease;
+}
+.vt-pop-btn:hover {
+  background: var(--purple, #6d5dfc);
+  transform: scale(1.08);
+}
+.vt-pop-btn.saved {
+  background: #10b981;
+  border-color: #10b981;
+  color: #fff;
+}
+.vt-pop-close {
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  background: transparent;
+  border: 0;
+  color: #8888a2;
+  cursor: pointer;
+  font-size: 14px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 2px;
+}
+.vt-pop-close:hover { color: #fff; background: rgba(255,255,255,0.1); }
+.vt-pop-body {
+  display: flex;
+  align-items: baseline;
+  gap: 8px;
+  font-size: 14px;
+  line-height: 1.5;
+}
+.vt-pop-pos {
+  display: inline-block;
+  padding: 1px 7px;
+  border-radius: 6px;
+  background: rgba(109, 93, 252, 0.3);
+  color: #b8b0ff;
+  font-size: 11px;
+  font-weight: 700;
+  flex-shrink: 0;
+}
+.vt-pop-def {
+  color: #f0f0fa;
+  font-weight: 500;
+  word-break: break-word;
+}
+.vt-pop-hint {
+  font-size: 10px;
+  color: #80809c;
+  margin-top: 8px;
+  text-align: right;
+  display: block;
 }
 
 /* Control Bar Under Subtitle */
@@ -385,7 +579,17 @@
   overflow: hidden;
 }
 .vt-transcript-card {
-  height: 380px;
+  height: 420px;
+}
+/* Progress bar row above transcript */
+.vt-progress-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 6px 14px;
+  background: #0f0f1e;
+  border-bottom: 1px solid #1e1e30;
+  gap: 10px;
 }
 .vt-panel-head {
   display: flex;
@@ -570,7 +774,7 @@
   border-left: 2px solid #6d5dfc;
 }
 
-</style><script src="https://www.youtube.com/iframe_api"></script>\n<script src="./video_lessons.js?v=13"></script>\n</head>
+</style><script src="https://www.youtube.com/iframe_api"></script>\n<script src="./video_lessons.js"></script>\n</head>
 <body>
 <header class="top"><div class="logo">ENGLISH<b>TUBE</b></div><nav class="nav"><a href="#discover">探索影片</a><a href="#study">學習工具</a><a href="#saved" onclick="setFilter('收藏')">我的收藏</a></nav><label class="search">⌕ <input id="search" placeholder="搜尋影片、主題..." autocomplete="off"></label><button class="pill" id="installBtn">＋ 安裝 App</button><button class="dark-toggle" id="darkToggle" title="切換深色模式" onclick="toggleDark()">🌙</button></header>
 <div class="net-badge online" id="netBadge">📡 已離線</div>
@@ -618,21 +822,24 @@
         <div class="vt-controls-bar">
           <div class="vt-ctrl-group">
             <button class="vt-ctrl-btn" onclick="stepCue(-1)" title="上一句">⏮ 上一句</button>
-            <button class="vt-ctrl-btn vt-repeat-btn" id="vtRepeatBtn" onclick="toggleRepeatCue()" title="循環播放此句">🔁 重複單句</button>
+            <button class="vt-ctrl-btn vt-repeat-btn" id="vtRepeatBtn" onclick="toggleRepeatCue()" title="循環播放此句">🔁 重複</button>
             <button class="vt-ctrl-btn" onclick="stepCue(1)" title="下一句">⏭ 下一句</button>
             <div style="display:inline-flex;gap:4px;margin-left:4px">
               <button class="vt-pill-btn active" id="subModeBoth" onclick="setSubMode('both')">雙語</button>
-              <button class="vt-pill-btn" id="subModeEn" onclick="setSubMode('en')">英</button>
-              <button class="vt-pill-btn" id="subModeZh" onclick="setSubMode('zh')">中</button>
-              <button class="vt-pill-btn" id="subModeNone" onclick="setSubMode('none')">無</button>
+              <button class="vt-pill-btn" id="subModeEn" onclick="setSubMode('en')">英文</button>
+              <button class="vt-pill-btn" id="subModeZh" onclick="setSubMode('zh')">中文</button>
+              <button class="vt-pill-btn" id="subModeNone" onclick="setSubMode('none')">隱藏</button>
             </div>
+            <button class="vt-ctrl-btn" id="vtClozeBtn" onclick="toggleClozeMode()" title="克漏字遮字練習">🧩 克漏字</button>
           </div>
           <div class="vt-ctrl-group">
             <span style="font-size:11px;color:#8888a2;font-weight:700">語速：</span>
+            <button class="vt-pill-btn" id="speed050" onclick="setPlayerSpeed(0.5)">0.5×</button>
             <button class="vt-pill-btn" id="speed075" onclick="setPlayerSpeed(0.75)">0.75×</button>
             <button class="vt-pill-btn active" id="speed100" onclick="setPlayerSpeed(1.0)">1.0×</button>
             <button class="vt-pill-btn" id="speed125" onclick="setPlayerSpeed(1.25)">1.25×</button>
-            <button class="vt-ctrl-btn" id="autoScrollToggleBtn" onclick="toggleAutoScroll()" style="margin-left:4px">📜 自動捲動: ON</button>
+            <button class="vt-pill-btn" id="speed150" onclick="setPlayerSpeed(1.5)">1.5×</button>
+            <button class="vt-ctrl-btn" id="autoScrollToggleBtn" onclick="toggleAutoScroll()" style="margin-left:4px">📜 自動捲 ON</button>
           </div>
         </div>
 
@@ -664,10 +871,18 @@
               <span class="vt-panel-title">逐句字幕跟讀</span>
               <span id="vtCueCountBadge" style="font-size:11px;color:#a49aff;font-weight:700;background:rgba(109,93,252,0.18);padding:2px 8px;border-radius:12px;border:1px solid rgba(109,93,252,0.3)"></span>
             </div>
-            <div style="display:flex;gap:6px">
-              <button class="vt-pill-btn" onclick="adjustSubtitleSize(-1)">A-</button>
-              <button class="vt-pill-btn" onclick="adjustSubtitleSize(1)">A+</button>
+            <div style="display:flex;gap:6px;align-items:center">
+              <button class="vt-pill-btn" onclick="adjustSubtitleSize(-1)" title="字幕縮小">A-</button>
+              <button class="vt-pill-btn" onclick="adjustSubtitleSize(1)" title="字幕放大">A+</button>
             </div>
+          </div>
+          <!-- Learning Progress Bar -->
+          <div class="vt-progress-row">
+            <span class="vt-progress-label">學習進度 <span id="vtProgressPct">0%</span></span>
+            <span class="vt-progress-label"><span id="vtProgressSeen">0</span> / <span id="vtProgressTotal">0</span> 句</span>
+          </div>
+          <div class="vt-progress-bar-wrap">
+            <div class="vt-progress-bar-fill" id="vtProgressBar" style="width:0%"></div>
           </div>
           <div class="vt-transcript-scroll" id="vtTranscriptList">
             <!-- Dynamically populated -->
@@ -723,6 +938,26 @@
 </div>
 
 <div class="toast" id="toast"></div>
+
+<!-- 即時單字查詢懸浮氣泡 (Glassmorphic Word Popover) -->
+<div id="vtWordPopover" class="vt-word-popover" style="display:none">
+  <div class="vt-pop-header">
+    <div class="vt-pop-title-row">
+      <span class="vt-pop-word" id="vtPopWord">word</span>
+      <span class="vt-pop-ipa" id="vtPopIpa"></span>
+    </div>
+    <div class="vt-pop-actions">
+      <button class="vt-pop-btn" id="vtPopSayBtn" title="聆聽發音">🔊</button>
+      <button class="vt-pop-btn" id="vtPopSaveBtn" title="加入收藏">＋</button>
+      <button class="vt-pop-close" onclick="closeWordPopover()" title="關閉">✕</button>
+    </div>
+  </div>
+  <div class="vt-pop-body">
+    <span class="vt-pop-pos" id="vtPopPos">單字</span>
+    <span class="vt-pop-def" id="vtPopDef">查詢中…</span>
+  </div>
+  <small class="vt-pop-hint">點擊空白處關閉 · 側邊欄同步更新</small>
+</div>
 <script>
 const videos = [{"id": "JnfBXjWm7hc", "title": "Try Something New for 30 Days", "zh": "用 30 天嘗試新事物", "cat": "生活", "level": "A2", "duration": "03:27", "views": "16.4M", "emoji": "🗓️", "color": "linear-gradient(135deg,#65b6a0,#267c79)", "desc": "Matt Cutts · 用 30 天嘗試新事物", "url": "https://www.youtube.com/watch?v=JnfBXjWm7hc", "en": [], "cn": [], "words": []}, {"id": "MMmOLN5zBLY", "title": "The Benefits of a Bilingual Brain", "zh": "雙語大腦的優勢", "cat": "科學", "level": "B1", "duration": "05:03", "views": "18.7M", "emoji": "🧠", "color": "linear-gradient(135deg,#6869c9,#363e86)", "desc": "Mia Nacamulli · 雙語大腦的優勢", "url": "https://www.youtube.com/watch?v=MMmOLN5zBLY", "en": [], "cn": [], "words": []}, {"id": "eIho2S0ZahI", "title": "How to Speak So That People Want to Listen", "zh": "如何說話讓人願意聽", "cat": "口說", "level": "B2", "duration": "09:59", "views": "47.2M", "emoji": "🎤", "color": "linear-gradient(135deg,#8d77e9,#4e42a8)", "desc": "Julian Treasure · 如何說話讓人願意聽", "url": "https://www.youtube.com/watch?v=eIho2S0ZahI", "en": [], "cn": [], "words": []}, {"id": "arj7oStGLkU", "title": "Inside the Mind of a Master Procrastinator", "zh": "拖延大師的內心世界", "cat": "生活", "level": "B1", "duration": "14:04", "views": "72.6M", "emoji": "🐒", "color": "linear-gradient(135deg,#f6a56c,#e56b69)", "desc": "Tim Urban · 拖延大師的內心世界", "url": "https://www.youtube.com/watch?v=arj7oStGLkU", "en": [], "cn": [], "words": []}, {"id": "fLJsdqxnZb0", "title": "The Happy Secret to Better Work", "zh": "快樂工作的秘密", "cat": "生活", "level": "B1", "duration": "12:20", "views": "30.1M", "emoji": "😊", "color": "linear-gradient(135deg,#78b9e9,#4173b6)", "desc": "Shawn Achor · 快樂工作的秘密", "url": "https://www.youtube.com/watch?v=fLJsdqxnZb0", "en": [], "cn": [], "words": []}, {"id": "Ks-_Mh1QhMc", "title": "Your Body Language May Shape Who You Are", "zh": "肢體語言塑造你的自信", "cat": "口說", "level": "B2", "duration": "21:02", "views": "73.8M", "emoji": "💪", "color": "linear-gradient(135deg,#c99870,#82523d)", "desc": "Amy Cuddy · 肢體語言塑造你的自信", "url": "https://www.youtube.com/watch?v=Ks-_Mh1QhMc", "en": [], "cn": [], "words": []}, {"id": "8KkKuTCFvzI", "title": "What Makes a Good Life? Lessons from Harvard", "zh": "怎樣才是美好人生？", "cat": "生活", "level": "B1", "duration": "12:47", "views": "51.5M", "emoji": "❤️", "color": "linear-gradient(135deg,#e86580,#b63d5a)", "desc": "Robert Waldinger · 怎樣才是美好人生？", "url": "https://www.youtube.com/watch?v=8KkKuTCFvzI", "en": [], "cn": [], "words": []}, {"id": "iCvmsMzlF7o", "title": "The Power of Vulnerability", "zh": "脆弱的力量", "cat": "心理", "level": "B2", "duration": "20:19", "views": "65.2M", "emoji": "💖", "color": "linear-gradient(135deg,#e57373,#c2185b)", "desc": "Brené Brown · 脆弱的力量", "url": "https://www.youtube.com/watch?v=iCvmsMzlF7o", "en": [], "cn": [], "words": []}, {"id": "qp0HIF3SfI4", "title": "How Great Leaders Inspire Action", "zh": "偉大領袖如何激勵人心", "cat": "職場", "level": "B2", "duration": "18:04", "views": "63.1M", "emoji": "🎯", "color": "linear-gradient(135deg,#ba68c8,#7b1fa2)", "desc": "Simon Sinek · 偉大領袖如何激勵人心", "url": "https://www.youtube.com/watch?v=qp0HIF3SfI4", "en": [], "cn": [], "words": []}, {"id": "UF8uR6Z6KLc", "title": "Steve Jobs' Stanford Commencement Address", "zh": "賈伯斯史丹佛畢業典禮演講", "cat": "職場", "level": "B1", "duration": "15:04", "views": "45.8M", "emoji": "🍏", "color": "linear-gradient(135deg,#424242,#212121)", "desc": "Steve Jobs · 賈伯斯史丹佛畢業典禮演講", "url": "https://www.youtube.com/watch?v=UF8uR6Z6KLc", "en": [], "cn": [], "words": []}, {"id": "BPzbR4ETrMI", "title": "Why You Should Talk To Strangers", "zh": "為什麼你該試著和陌生人說話", "cat": "口說", "level": "A2", "duration": "11:57", "views": "4.2M", "emoji": "🤝", "color": "linear-gradient(135deg,#26a69a,#00695c)", "desc": "Kio Stark · 為什麼你該試著和陌生人說話", "url": "https://www.youtube.com/watch?v=BPzbR4ETrMI", "en": [], "cn": [], "words": []}, {"id": "Ge7c7otG2mk", "title": "Speak Like You're Playing a Video Game", "zh": "像玩電動一樣開口說英語", "cat": "口說", "level": "A2", "duration": "15:31", "views": "28.5M", "emoji": "🎮", "color": "linear-gradient(135deg,#ab47bc,#4a148c)", "desc": "Marianna Pascal · 像玩電動一樣開口說英語", "url": "https://www.youtube.com/watch?v=Ge7c7otG2mk", "en": [], "cn": [], "words": []}, {"id": "o_XVt5rdpFY", "title": "The Secrets of Learning a New Language", "zh": "學好外語的終極秘訣", "cat": "口說", "level": "B1", "duration": "10:46", "views": "17.9M", "emoji": "🌐", "color": "linear-gradient(135deg,#29b6f6,#01579b)", "desc": "Lýdia Machová · 學好外語的終極秘訣", "url": "https://www.youtube.com/watch?v=o_XVt5rdpFY", "en": [], "cn": [], "words": []}, {"id": "RcGyVTAoXEU", "title": "How to Make Stress Your Friend", "zh": "如何把壓力變成朋友", "cat": "心理", "level": "B2", "duration": "14:29", "views": "31.2M", "emoji": "🧘", "color": "linear-gradient(135deg,#ffa726,#e65100)", "desc": "Kelly McGonigal · 如何把壓力變成朋友", "url": "https://www.youtube.com/watch?v=RcGyVTAoXEU", "en": [], "cn": [], "words": []}, {"id": "-moW9jvvMr4", "title": "A Simple Way to Break a Bad Habit", "zh": "戒除壞習慣的簡單方法", "cat": "生活", "level": "B1", "duration": "09:25", "views": "19.8M", "emoji": "🚭", "color": "linear-gradient(135deg,#66bb6a,#1b5e20)", "desc": "Judson Brewer · 戒除壞習慣的簡單方法", "url": "https://www.youtube.com/watch?v=-moW9jvvMr4", "en": [], "cn": [], "words": []}, {"id": "P6FORpg0KVo", "title": "Make Learning as Addictive as Social Media", "zh": "讓學習像社群媒體一樣讓人上癮", "cat": "科技", "level": "B1", "duration": "12:55", "views": "8.4M", "emoji": "📱", "color": "linear-gradient(135deg,#26c6da,#006064)", "desc": "Luis Von Ahn · 讓學習像社群媒體一樣讓人上癮", "url": "https://www.youtube.com/watch?v=P6FORpg0KVo", "en": [], "cn": [], "words": []}, {"id": "lKsvLGdoIH8", "title": "The Hot Shot Rule for Better Leadership", "zh": "成為更好領導者的換位法則", "cat": "職場", "level": "B1", "duration": "07:49", "views": "3.1M", "emoji": "🔥", "color": "linear-gradient(135deg,#ff7043,#bf360c)", "desc": "Kat Cole · 成為更好領導者的換位法則", "url": "https://www.youtube.com/watch?v=lKsvLGdoIH8", "en": [], "cn": [], "words": []}, {"id": "Lp7E973zozc", "title": "How to Stop Screwing Yourself Over", "zh": "別再扯自己後腿了", "cat": "心理", "level": "B1", "duration": "21:39", "views": "34.5M", "emoji": "⏰", "color": "linear-gradient(135deg,#ec407a,#880e4f)", "desc": "Mel Robbins · 別再扯自己後腿了", "url": "https://www.youtube.com/watch?v=Lp7E973zozc", "en": [], "cn": [], "words": []}, {"id": "CKAyfGItpgg", "title": "How to Start Any Conversation the Right Way", "zh": "如何以正確的方式開啟對話", "cat": "口說", "level": "B1", "duration": "11:08", "views": "2.9M", "emoji": "💬", "color": "linear-gradient(135deg,#5c6bc0,#1a237e)", "desc": "Chris Fenning · 如何以正確的方式開啟對話", "url": "https://www.youtube.com/watch?v=CKAyfGItpgg", "en": [], "cn": [], "words": []}, {"id": "8WWrNbHvd44", "title": "The Growth Mindset of a Weed", "zh": "像野草一樣頑強的成長心態", "cat": "生活", "level": "B1", "duration": "15:49", "views": "1.8M", "emoji": "🌿", "color": "linear-gradient(135deg,#8bc34a,#33691e)", "desc": "Stephen Nobles · 像野草一樣頑強的成長心態", "url": "https://www.youtube.com/watch?v=8WWrNbHvd44", "en": [], "cn": [], "words": []}, {"id": "1uTRlM6MbMo", "title": "How to Present Your Ideas Effectively", "zh": "如何有效表達你的想法", "cat": "口說", "level": "A2", "duration": "06:34", "views": "1.2M", "emoji": "💡", "color": "linear-gradient(135deg,#fdd835,#f57f17)", "desc": "TED-Ed · 如何有效表達你的想法", "url": "https://www.youtube.com/watch?v=1uTRlM6MbMo", "en": [], "cn": [], "words": []}, {"id": "h6CmKF-mN2U", "title": "Which is Better: Buying or Renting a Home?", "zh": "買房還是租房好？", "cat": "生活", "level": "A2", "duration": "06:04", "views": "2.4M", "emoji": "🏡", "color": "linear-gradient(135deg,#4db6ac,#004d40)", "desc": "Ella Feldman · 買房還是租房好？", "url": "https://www.youtube.com/watch?v=h6CmKF-mN2U", "en": [], "cn": [], "words": []}, {"id": "JjhrN0FcHpM", "title": "Why is Queen Victoria So Controversial?", "zh": "維多利亞女王為何備受爭議？", "cat": "生活", "level": "B1", "duration": "06:20", "views": "1.5M", "emoji": "👑", "color": "linear-gradient(135deg,#ce93d8,#4a148c)", "desc": "Carolyn Harris · 維多利亞女王為何備受爭議？", "url": "https://www.youtube.com/watch?v=JjhrN0FcHpM", "en": [], "cn": [], "words": []}, {"id": "G3hXvByzLHs", "title": "6 Ways to Be More Persuasive", "zh": "6 個提升說服力的方法", "cat": "口說", "level": "A2", "duration": "06:03", "views": "3.1M", "emoji": "🎯", "color": "linear-gradient(135deg,#ff8a65,#d84315)", "desc": "TED-Ed · 6 個提升說服力的方法", "url": "https://www.youtube.com/watch?v=G3hXvByzLHs", "en": [], "cn": [], "words": []}, {"id": "z3Y-gsBKChc", "title": "Why AI Uses So Much Electricity", "zh": "為什麼 AI 算力消耗這麼多電力？", "cat": "科技", "level": "B1", "duration": "06:37", "views": "1.9M", "emoji": "⚡", "color": "linear-gradient(135deg,#ffd54f,#ff8f00)", "desc": "Sajan Saini · 為什麼 AI 算力消耗這麼多電力？", "url": "https://www.youtube.com/watch?v=z3Y-gsBKChc", "en": [], "cn": [], "words": []}, {"id": "jG7ULeWUfDw", "title": "Do We Actually Know How Magnets Work?", "zh": "我們真的知道磁鐵如何運作嗎？", "cat": "科學", "level": "A2", "duration": "05:47", "views": "2.2M", "emoji": "🧲", "color": "linear-gradient(135deg,#e57373,#b71c1c)", "desc": "Rachel Yang · 我們真的知道磁鐵如何運作嗎？", "url": "https://www.youtube.com/watch?v=jG7ULeWUfDw", "en": [], "cn": [], "words": []}, {"id": "N2uQWfV6Jr4", "title": "4 Ways to Fix Your Attention Span", "zh": "拯救專注力的 4 個實用方法", "cat": "心理", "level": "A2", "duration": "05:26", "views": "4.8M", "emoji": "🔍", "color": "linear-gradient(135deg,#4fc3f7,#0277bd)", "desc": "Shannon Odell · 拯救專注力的 4 個實用方法", "url": "https://www.youtube.com/watch?v=N2uQWfV6Jr4", "en": [], "cn": [], "words": []}, {"id": "EMbZ72cCAzI", "title": "How to Explain Something Complicated", "zh": "如何把複雜的事情說得簡單易懂", "cat": "口說", "level": "A2", "duration": "09:29", "views": "5.6M", "emoji": "🧩", "color": "linear-gradient(135deg,#81c784,#2e7d32)", "desc": "TED-Ed · 如何把複雜的事情說得簡單易懂", "url": "https://www.youtube.com/watch?v=EMbZ72cCAzI", "en": [], "cn": [], "words": []}, {"id": "I8XaYkRW1tA", "title": "Why Do Some People Have Better Direction Sense?", "zh": "為什麼有些人的方向感特別好？", "cat": "科學", "level": "A2", "duration": "05:54", "views": "3.4M", "emoji": "🧭", "color": "linear-gradient(135deg,#a1887f,#3e2723)", "desc": "Oliver Baumann · 為什麼有些人的方向感特別好？", "url": "https://www.youtube.com/watch?v=I8XaYkRW1tA", "en": [], "cn": [], "words": []}, {"id": "_gP3aXvNmv8", "title": "Ever Walk into a Room and Forget What You Needed?", "zh": "進了房間卻忘了要做什麼？門口效應", "cat": "生活", "level": "A2", "duration": "05:45", "views": "6.1M", "emoji": "🚪", "color": "linear-gradient(135deg,#b0bec5,#263238)", "desc": "Gabriel Radvansky · 進了房間卻忘了要做什麼？門口效應", "url": "https://www.youtube.com/watch?v=_gP3aXvNmv8", "en": [], "cn": [], "words": []}, {"id": "BSdEiOYvKpE", "title": "What Are Tariffs and How Do They Work?", "zh": "關稅到底是什麼？如何運作？", "cat": "職場", "level": "B1", "duration": "05:40", "views": "2.7M", "emoji": "📦", "color": "linear-gradient(135deg,#d4e157,#827717)", "desc": "TED-Ed · 關稅到底是什麼？如何運作？", "url": "https://www.youtube.com/watch?v=BSdEiOYvKpE", "en": [], "cn": [], "words": []}, {"id": "JOs-q7rXqdk", "title": "4 Ways to Tell a Great Story", "zh": "講述精彩故事的 4 個心法", "cat": "口說", "level": "A2", "duration": "05:06", "views": "4.1M", "emoji": "📖", "color": "linear-gradient(135deg,#ba68c8,#6a1b9a)", "desc": "TED-Ed · 講述精彩故事的 4 個心法", "url": "https://www.youtube.com/watch?v=JOs-q7rXqdk", "en": [], "cn": [], "words": []}, {"id": "2A1IEBFt6Xg", "title": "How Do Maglev Trains Work?", "zh": "磁浮列車的運作原理", "cat": "科技", "level": "B1", "duration": "06:28", "views": "2.9M", "emoji": "🚄", "color": "linear-gradient(135deg,#4dd0e1,#006064)", "desc": "Ning Zhao · 磁浮列車的運作原理", "url": "https://www.youtube.com/watch?v=2A1IEBFt6Xg", "en": [], "cn": [], "words": []}, {"id": "DbEZmLoGDbk", "title": "How a Broken Heart Affects Your Body", "zh": "心碎時身體會發生什麼事？", "cat": "心理", "level": "A2", "duration": "05:18", "views": "7.3M", "emoji": "💔", "color": "linear-gradient(135deg,#f06292,#880e4f)", "desc": "TED-Ed · 心碎時身體會發生什麼事？", "url": "https://www.youtube.com/watch?v=DbEZmLoGDbk", "en": [], "cn": [], "words": []}, {"id": "pyDZpDkU46Y", "title": "The Dark Origins of Fairy Tales", "zh": "童話故事的黑暗起源", "cat": "生活", "level": "B1", "duration": "05:31", "views": "8.5M", "emoji": "🏰", "color": "linear-gradient(135deg,#9575cd,#311b92)", "desc": "Claudia Schwabe · 童話故事的黑暗起源", "url": "https://www.youtube.com/watch?v=pyDZpDkU46Y", "en": [], "cn": [], "words": []}, {"id": "9Ff4S1FJdRM", "title": "Is AI Turning Us All into the Same Person?", "zh": "AI 會不會讓我們失去個性？", "cat": "科技", "level": "B2", "duration": "13:38", "views": "1.9M", "emoji": "🤖", "color": "linear-gradient(135deg,#42a5f5,#0d47a1)", "desc": "Sandra Matz · AI 會不會讓我們失去個性？", "url": "https://www.youtube.com/watch?v=9Ff4S1FJdRM", "en": [], "cn": [], "words": []}, {"id": "zYO9UbpEC9Y", "title": "How Bullying Spreads and How to Stop It", "zh": "霸凌如何擴散以及如何制止它", "cat": "心理", "level": "B2", "duration": "14:24", "views": "1.4M", "emoji": "🛡️", "color": "linear-gradient(135deg,#ef5350,#b71c1c)", "desc": "Amy Cuddy · 霸凌如何擴散以及如何制止它", "url": "https://www.youtube.com/watch?v=zYO9UbpEC9Y", "en": [], "cn": [], "words": []}, {"id": "owRN5fVLoEk", "title": "How to Hear Hard Feedback Gracefully", "zh": "優雅接受尖銳批評的四步驟", "cat": "職場", "level": "B1", "duration": "12:30", "views": "2.1M", "emoji": "👂", "color": "linear-gradient(135deg,#26a69a,#004d40)", "desc": "Chris Wheatley · 優雅接受尖銳批評的四步驟", "url": "https://www.youtube.com/watch?v=owRN5fVLoEk", "en": [], "cn": [], "words": []}, {"id": "81iS7JsTGmk", "title": "How 180 Strangers Built a Library Together", "zh": "180 位陌生人如何攜手建造圖書館", "cat": "生活", "level": "A2", "duration": "10:06", "views": "1.1M", "emoji": "📚", "color": "linear-gradient(135deg,#ffb74d,#e65100)", "desc": "Rebecca Toh · 180 位陌生人如何攜手建造圖書館", "url": "https://www.youtube.com/watch?v=81iS7JsTGmk", "en": [], "cn": [], "words": []}, {"id": "wUEl8KrMz14", "title": "Why Sitting Is Bad for You", "zh": "為什麼久坐對身體有害？", "cat": "生活", "level": "A2", "duration": "04:59", "views": "14.2M", "emoji": "🪑", "color": "linear-gradient(135deg,#81c784,#1b5e20)", "desc": "Murat Dalkilinç · 為什麼久坐對身體有害？", "url": "https://www.youtube.com/watch?v=wUEl8KrMz14", "en": [], "cn": [], "words": []}, {"id": "JAyuHIthHco", "title": "What If Everyone Stopped Eating Meat?", "zh": "如果全世界的人都不吃肉會怎樣？", "cat": "科學", "level": "B1", "duration": "04:37", "views": "9.1M", "emoji": "🥗", "color": "linear-gradient(135deg,#66bb6a,#2e7d32)", "desc": "TED-Ed · 如果全世界的人都不吃肉會怎樣？", "url": "https://www.youtube.com/watch?v=JAyuHIthHco", "en": [], "cn": [], "words": []}, {"id": "n6wpNhyreDE", "title": "The Chemistry of the Perfect Cookie", "zh": "完美巧克力餅乾背後的化學秘密", "cat": "科學", "level": "A2", "duration": "04:30", "views": "11.6M", "emoji": "🍪", "color": "linear-gradient(135deg,#d7ccc8,#4e342e)", "desc": "TED-Ed · 完美巧克力餅乾背後的化學秘密", "url": "https://www.youtube.com/watch?v=n6wpNhyreDE", "en": [], "cn": [], "words": []}, {"id": "oetVvR5RQUs", "title": "Why Is Being Scared So Fun?", "zh": "為什麼被嚇到會讓人覺得好玩？", "cat": "心理", "level": "A2", "duration": "04:29", "views": "5.3M", "emoji": "👻", "color": "linear-gradient(135deg,#ab47bc,#4a148c)", "desc": "Margee Kerr · 為什麼被嚇到會讓人覺得好玩？", "url": "https://www.youtube.com/watch?v=oetVvR5RQUs", "en": [], "cn": [], "words": []}, {"id": "ZQUxL4Jm1Lo", "title": "What Is Imposter Syndrome?", "zh": "冒牌者症候群是什麼？如何克服它", "cat": "心理", "level": "B1", "duration": "04:19", "views": "8.8M", "emoji": "🎭", "color": "linear-gradient(135deg,#ff7043,#bf360c)", "desc": "Elizabeth Cox · 冒牌者症候群是什麼？如何克服它", "url": "https://www.youtube.com/watch?v=ZQUxL4Jm1Lo", "en": [], "cn": [], "words": []}, {"id": "S3jqTWXwzJc", "title": "If You Had the Chance to Be Immortal", "zh": "如果你有機會長生不老，你會接受嗎？", "cat": "生活", "level": "B1", "duration": "05:40", "views": "6.7M", "emoji": "⏳", "color": "linear-gradient(135deg,#5c6bc0,#1a237e)", "desc": "TED-Ed · 如果你有機會長生不老，你會接受嗎？", "url": "https://www.youtube.com/watch?v=S3jqTWXwzJc", "en": [], "cn": [], "words": []}, {"id": "r63spwe1LCI", "title": "The Future of Sustainable Manufacturing", "zh": "未來永續製造的新想像", "cat": "科技", "level": "B1", "duration": "04:48", "views": "1.3M", "emoji": "🏭", "color": "linear-gradient(135deg,#26a69a,#00695c)", "desc": "Schendy Kernizan · 未來永續製造的新想像", "url": "https://www.youtube.com/watch?v=r63spwe1LCI", "en": [], "cn": [], "words": []}, {"id": "Hd8npxrnpuo", "title": "How AI Unleashed My Creativity", "zh": "AI 如何釋放我的創意潛能", "cat": "科技", "level": "B1", "duration": "07:03", "views": "1.6M", "emoji": "🎨", "color": "linear-gradient(135deg,#ec407a,#880e4f)", "desc": "Kelly A. Boesch · AI 如何釋放我的創意潛能", "url": "https://www.youtube.com/watch?v=Hd8npxrnpuo", "en": [], "cn": [], "words": []}, {"id": "9i1LVL3_xpU", "title": "Why We Blew Up Four Dams", "zh": "我們拆除四座大壩拯救河流的故事", "cat": "科學", "level": "B1", "duration": "12:57", "views": "2.1M", "emoji": "🌊", "color": "linear-gradient(135deg,#29b6f6,#01579b)", "desc": "Amy Cordalis · 我們拆除四座大壩拯救河流的故事", "url": "https://www.youtube.com/watch?v=9i1LVL3_xpU", "en": [], "cn": [], "words": []}, {"id": "tBfHI8sNWVU", "title": "The Three Words That Saved My Life", "zh": "拯救我人生的三個關鍵字", "cat": "職場", "level": "B1", "duration": "15:38", "views": "2.8M", "emoji": "👟", "color": "linear-gradient(135deg,#ffa726,#e65100)", "desc": "Blake Mycoskie · 拯救我人生的三個關鍵字", "url": "https://www.youtube.com/watch?v=tBfHI8sNWVU", "en": [], "cn": [], "words": []}, {"id": "jCbITOCoxpo", "title": "Drawing Shows You How It Felt", "zh": "新聞報導事實，畫筆記錄真實感受", "cat": "生活", "level": "B1", "duration": "08:19", "views": "1.2M", "emoji": "✏️", "color": "linear-gradient(135deg,#78909c,#263238)", "desc": "George Butler · 新聞報導事實，畫筆記錄真實感受", "url": "https://www.youtube.com/watch?v=jCbITOCoxpo", "en": [], "cn": [], "words": []}];
 let category='全部', query='', current=null, showEn=true,showZh=true, recorder=null,recordStream=null;
@@ -745,7 +980,54 @@ function closeModal(){document.querySelector('#modal').classList.remove('open');
 function renderLesson(){document.querySelector('#transcript').innerHTML=current.en.map((s,i)=>`<div class="subline" onclick="speakLine(${i})"><strong style="display:${showEn?'block':'none'}">${s}</strong><span style="display:${showZh?'block':'none'}">${current.cn[i]}</span><small style="color:#aaa">點擊聆聽 · ${i+1}</small></div>`).join('');document.querySelector('#wordList').innerHTML=current.words.map(w=>`<div style="padding:10px 0;border-bottom:1px solid #eee"><b style="color:#6355e8">${w[0]}</b><div style="font-size:13px;color:#777;margin:4px 0 8px">${w[1]}</div><button class="save ${savedWords.has(w[0])?'saved':''}" onclick="toggleWord('${w[0]}')">${savedWords.has(w[0])?'✓ 已收藏':'＋ 收藏單字'}</button><button class="save" onclick="say('${w[0].replace(/'/g,"\\'")}')">🔊</button></div>`).join('');document.querySelector('#enBtn').textContent='🇺🇸 英文字幕 '+(showEn?'✓':'○');document.querySelector('#zhBtn').textContent='🇹🇼 中文字幕 '+(showZh?'✓':'○')}
 function toggleSub(l){if(l==='en')showEn=!showEn;else showZh=!showZh;renderLesson()}
 function toggleWord(w){savedWords.has(w)?savedWords.delete(w):savedWords.add(w);persist();renderLesson();toast(savedWords.has(w)?`已收藏 ${w}`:'已移除單字')}
-function say(t){if(!('speechSynthesis'in window)){toast('此瀏覽器不支援語音播放');return}speechSynthesis.cancel();let u=new SpeechSynthesisUtterance(t);u.lang='en-US';u.rate=.85;speechSynthesis.speak(u)}
+// ════ 高品質 TTS 引擎：Google TTS 神經頁 + Web Speech 備檔 ════
+let _bestVoice = null;
+function _pickBestVoice() {
+  if (_bestVoice) return _bestVoice;
+  const voices = speechSynthesis.getVoices();
+  // Priority: Neural/Enhanced > Samantha > Alex > any en-US > any en
+  const priority = [
+    v => /neural|enhanced|premium/i.test(v.name) && v.lang.startsWith('en'),
+    v => /samantha/i.test(v.name),
+    v => /alex/i.test(v.name),
+    v => v.lang === 'en-US',
+    v => v.lang.startsWith('en'),
+  ];
+  for (const fn of priority) {
+    const found = voices.find(fn);
+    if (found) { _bestVoice = found; return found; }
+  }
+  return null;
+}
+speechSynthesis.addEventListener?.('voiceschanged', () => { _bestVoice = null; _pickBestVoice(); });
+
+const _ttsAudio = new Audio();
+function say(t) {
+  if (!t || !t.trim()) return;
+  const text = t.trim();
+  // Primary: Google TTS (neural quality)
+  try {
+    const url = 'https://tts1.gstatic.com/tts_sessions/en/synthesize?lang=en-US&text=' + encodeURIComponent(text) + '&speed=0.9&pitch=0';
+    _ttsAudio.pause();
+    _ttsAudio.src = url;
+    _ttsAudio.playbackRate = 1.0;
+    const p = _ttsAudio.play();
+    if (p) p.catch(() => _webSpeechFallback(text));
+    return;
+  } catch(e) {}
+  _webSpeechFallback(text);
+}
+function _webSpeechFallback(t) {
+  if (!('speechSynthesis' in window)) return;
+  speechSynthesis.cancel();
+  const u = new SpeechSynthesisUtterance(t);
+  u.lang = 'en-US';
+  u.rate = 0.85;
+  u.pitch = 1.0;
+  const v = _pickBestVoice();
+  if (v) u.voice = v;
+  speechSynthesis.speak(u);
+}
 function speakLine(i=0){if(current)say(current.en[i]||current.en[0])}
 function repeatLine(){speakLine(0);setTimeout(()=>speakLine(0),1800)}
 async function recordPractice(){let b=document.querySelector('#recordBtn'),s=document.querySelector('#recordStatus');if(recorder&&recorder.state==='recording'){recorder.stop();b.textContent='🎙 開始錄音';s.textContent='錄音已結束。可再次錄製練習。';return}try{recordStream=await navigator.mediaDevices.getUserMedia({audio:true});recorder=new MediaRecorder(recordStream);let chunks=[];recorder.ondataavailable=e=>chunks.push(e.data);recorder.onstop=()=>{let blob=new Blob(chunks,{type:'audio/webm'}),url=URL.createObjectURL(blob);s.innerHTML='錄音完成：<audio controls src="'+url+'" style="width:100%;margin-top:8px"></audio>';recordStream.getTracks().forEach(t=>t.stop())};recorder.start();b.textContent='■ 停止錄音';s.textContent='正在錄音，請朗讀：'+current.en[0]}catch(e){s.textContent='無法使用麥克風，請確認網站權限與 HTTPS 設定。'}}
@@ -758,8 +1040,29 @@ window.addEventListener('appinstalled',()=>{deferredPrompt=null;document.querySe
 // Hide install button when already running as standalone PWA
 if(window.matchMedia('(display-mode: standalone)').matches||navigator.standalone===true){document.querySelector('#installBtn').style.display='none'}
 document.querySelector('#installBtn').addEventListener('click',async()=>{if(deferredPrompt){deferredPrompt.prompt();const{outcome}=await deferredPrompt.userChoice;deferredPrompt=null;if(outcome==='accepted')toast('✓ 安裝中...')}else if(/iphone|ipad|ipod/i.test(navigator.userAgent)){toast('Safari：分享 → 加入主畫面')}else{toast('請從瀏覽器選單選擇「安裝應用程式」')}});
-// Register Service Worker
-if('serviceWorker'in navigator&&location.protocol.startsWith('http')){window.addEventListener('load',()=>navigator.serviceWorker.register('./sw.js?v=13').then(reg=>{try{reg.update()}catch(e){}reg.addEventListener('updatefound',()=>{const nw=reg.installing;nw?.addEventListener('statechange',()=>{if(nw.state==='installed'&&navigator.serviceWorker.controller)toast('✦ 最新 50 部完整影片字幕已就緒！')})})}).catch(()=>{}))}
+// Register Service Worker + auto-reload on new SW version
+if('serviceWorker'in navigator&&location.protocol.startsWith('http')){
+  window.addEventListener('load',()=>navigator.serviceWorker.register('./sw.js?v=16').then(reg=>{
+    try{reg.update()}catch(e){}
+    reg.addEventListener('updatefound',()=>{
+      const nw=reg.installing;
+      nw?.addEventListener('statechange',()=>{
+        if(nw.state==='installed'&&navigator.serviceWorker.controller)
+          toast('✦ 新版本就緒，即將重新載入…');
+      });
+    });
+  }).catch(()=>{}));
+  // Listen for SW_UPDATED message → reload to get latest index.html
+  navigator.serviceWorker.addEventListener('message', e => {
+    if (e.data && e.data.type === 'SW_UPDATED') {
+      console.log('[SW] Updated to', e.data.version, '— reloading');
+      window.location.reload();
+    }
+  });
+}
+
+
+
 
 // ENGLISHTUBE learning pipeline: timed captions, translation, vocabulary explanations.
 async function autoFetchTranscript(){
@@ -782,21 +1085,46 @@ function toggleDark(){const html=document.documentElement;const isDark=html.getA
 if(localStorage.getItem('et_dark')==='1'){document.documentElement.setAttribute('data-theme','dark');document.documentElement.style.colorScheme='dark';document.querySelector('#darkToggle').textContent='☀️'}
 
 // ── Speech Speed Control ──
-let speechRate=0.85;
-function setSpeed(r){speechRate=r;document.querySelectorAll('.speed-btn').forEach(b=>{b.classList.toggle('active',parseFloat(b.textContent)===r)});toast('語速：'+r+'×')}
-// Patch say() to use speechRate
-const _origSay=say;
-say=function(t){if(!('speechSynthesis'in window)){toast('此瀏覽器不支援語音播放');return}speechSynthesis.cancel();let u=new SpeechSynthesisUtterance(t);u.lang='en-US';u.rate=speechRate;speechSynthesis.speak(u)};
+let speechRate = 0.85;
+function setSpeed(r) {
+  speechRate = r;
+  document.querySelectorAll('.speed-btn').forEach(b => b.classList.toggle('active', parseFloat(b.textContent) === r));
+  toast('語速：' + r + '×');
+}
+// Google TTS respects playbackRate for speed control
+const _origSay = say;
+say = function(t) {
+  if (!t || !t.trim()) return;
+  const text = t.trim();
+  try {
+    const url = 'https://tts1.gstatic.com/tts_sessions/en/synthesize?lang=en-US&text=' + encodeURIComponent(text) + '&speed=0.9&pitch=0';
+    _ttsAudio.pause();
+    _ttsAudio.src = url;
+    _ttsAudio.playbackRate = Math.max(0.5, Math.min(2.0, speechRate));
+    const p = _ttsAudio.play();
+    if (p) p.catch(() => _webSpeechFallback(text));
+    return;
+  } catch(e) {}
+  _webSpeechFallback(text);
+};
 
 // ── Active Subtitle Highlight ──
-let activeLineIdx=-1;
-function highlightLine(i){document.querySelectorAll('.subline').forEach((el,j)=>{el.classList.toggle('active',j===i)});activeLineIdx=i;const el=document.querySelector('.subline.active');if(el)el.scrollIntoView({behavior:'smooth',block:'nearest'})}
-// Override speakLine to also highlight
-const _origSpeakLine=speakLine;
-speakLine=function(i=0){highlightLine(i);if(current)say(current.en[i]||current.en[0])};
+let activeLineIdx = -1;
+function highlightLine(i) {
+  document.querySelectorAll('.subline').forEach((el, j) => el.classList.toggle('active', j === i));
+  activeLineIdx = i;
+  const el = document.querySelector('.subline.active');
+  if (el) el.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+}
+const _origSpeakLine = speakLine;
+speakLine = function(i = 0) { highlightLine(i); if (current) say(current.en[i] || current.en[0]); };
 
-// ── Auto-advance to next line when speech ends ──
-if('speechSynthesis'in window){const _patchSay=say;say=function(t){speechSynthesis.cancel();let u=new SpeechSynthesisUtterance(t);u.lang='en-US';u.rate=speechRate;u.onend=()=>{if(activeLineIdx>=0&&current&&activeLineIdx<current.en.length-1){setTimeout(()=>{speakLine(activeLineIdx+1)},600)}};speechSynthesis.speak(u)}}
+// ── Auto-advance when Google TTS audio ends ──
+_ttsAudio.addEventListener('ended', () => {
+  if (activeLineIdx >= 0 && current && activeLineIdx < current.en.length - 1) {
+    setTimeout(() => { speakLine(activeLineIdx + 1); }, 500);
+  }
+});
 
 // ── Offline/Online Indicator ──
 function updateNetBadge(){const b=document.querySelector('#netBadge');if(!b)return;if(navigator.onLine){b.className='net-badge online';b.textContent='✓ 已連線'}else{b.className='net-badge offline';b.textContent='📡 已離線'}}
@@ -815,14 +1143,22 @@ let PRELOADED_LESSONS = window.PRELOADED_LESSONS || { lessons: {}, vocab: {} };
 
 // Fallback asynchronous loader if script tag was delayed
 if (!window.PRELOADED_LESSONS || !Object.keys(window.PRELOADED_LESSONS.lessons || {}).length) {
-  fetch('./video_lessons.json?v=13').then(r => r.json()).then(data => {
+  fetch('./video_lessons.json').then(r => r.json()).then(data => {
     window.PRELOADED_LESSONS = data;
     PRELOADED_LESSONS = data;
     console.log('[ENGLISHTUBE] 50 video lessons loaded via fallback:', Object.keys(data.lessons || {}).length);
-    if (current && current.id && PRELOADED_LESSONS.lessons?.[current.id]) {
-      current.cues = PRELOADED_LESSONS.lessons[current.id].cues;
-      renderVoiceTubeTranscript();
-      renderVoiceTubeVocab();
+    if (current && current.id) {
+      const lessonData = data.lessons?.[current.id];
+      if (lessonData && lessonData.cues && lessonData.cues.length) {
+        current.cues = lessonData.cues;
+        current.en   = lessonData.cues.map(c => c.en);
+        current.cn   = lessonData.cues.map(c => c.zh);
+        seenCues = new Set();
+        renderVoiceTubeTranscript();
+        renderVoiceTubeVocab();
+        updateProgressBar();
+        highlightVoiceTubeCue(0);
+      }
     }
   }).catch(err => {
     console.warn('Lessons fetch fallback:', err);
@@ -836,7 +1172,15 @@ let activeCueIdx = -1;
 let repeatCueMode = false;
 let autoScrollEnabled = true;
 let currentSubMode = 'both';
-let currentPlaybackRate = 1.0;
+let clozeMode = false;
+let seenCues = new Set();
+let currentPlaybackRate = (function() {
+  try {
+    const s = parseFloat(localStorage.getItem('et_playback_rate') || '1.0');
+    if ([0.5, 0.75, 1.0, 1.25, 1.5].includes(s)) return s;
+  } catch(e) {}
+  return 1.0;
+})();
 let subtitleBaseSize = 23;
 let likedVideos = new Set(JSON.parse(localStorage.getItem('et_liked') || '[]'));
 
@@ -896,6 +1240,11 @@ function createYTPlayer(videoId) {
   if (ytPlayer && typeof ytPlayer.loadVideoById === 'function') {
     try {
       ytPlayer.loadVideoById(videoId);
+      if (currentPlaybackRate && currentPlaybackRate !== 1.0) {
+        setTimeout(() => {
+          try { ytPlayer.setPlaybackRate(currentPlaybackRate); } catch(e){}
+        }, 300);
+      }
       startContinuousSync();
       return;
     } catch(e) {
@@ -922,12 +1271,18 @@ function createYTPlayer(videoId) {
       events: {
         onReady: function(event) {
           event.target.playVideo();
+          if (currentPlaybackRate && currentPlaybackRate !== 1.0) {
+            try { event.target.setPlaybackRate(currentPlaybackRate); } catch(e){}
+          }
           isPlaying = true;
           startContinuousSync();
         },
         onStateChange: function(event) {
           if (event.data === 1) { // PLAYING
             isPlaying = true;
+            if (currentPlaybackRate && currentPlaybackRate !== 1.0) {
+              try { event.target.setPlaybackRate(currentPlaybackRate); } catch(e){}
+            }
             startContinuousSync();
           } else if (event.data === 2) { // PAUSED
             isPlaying = false;
@@ -1057,6 +1412,13 @@ function highlightVoiceTubeCue(idx) {
   // Update recording practice target
   const practiceTarget = document.getElementById('practiceSentenceTarget');
   if (practiceTarget) practiceTarget.textContent = cue.en || cue.text || '';
+
+  // Track seen cues for progress
+  seenCues.add(idx);
+  updateProgressBar();
+
+  // Apply cloze mode if active
+  if (clozeMode) setTimeout(applyClozeModeToStage, 50);
 }
 
 // ── 逐字連動 HIGHLIGHT 核心實作 ──
@@ -1125,11 +1487,11 @@ function tokenizeWords(sentence) {
     if (/^[a-zA-Z0-9'-]{2,}$/.test(part)) {
       const clean = part.replace(/[^a-zA-Z]/g, '').toLowerCase();
       const idx = wordCounter++;
-      return `<span class="vt-word-token future" data-word-idx="${idx}" data-len="${clean.length}" onclick="lookupWord('${clean}')">${escapeHTML(part)}</span>`;
+      return `<span class="vt-word-token future" data-word-idx="${idx}" data-len="${clean.length}" onclick="handleWordClick(this, '${clean}', event)" title="點擊即時查字典與聽發音">${escapeHTML(part)}</span>`;
     } else if (/^[a-zA-Z]$/.test(part)) {
       const clean = part.toLowerCase();
       const idx = wordCounter++;
-      return `<span class="vt-word-token future" data-word-idx="${idx}" data-len="${clean.length}" onclick="lookupWord('${clean}')">${escapeHTML(part)}</span>`;
+      return `<span class="vt-word-token future" data-word-idx="${idx}" data-len="${clean.length}" onclick="handleWordClick(this, '${clean}', event)" title="點擊即時查字典與聽發音">${escapeHTML(part)}</span>`;
     } else {
       return `<span class="vt-punct">${escapeHTML(part)}</span>`;
     }
@@ -1141,7 +1503,8 @@ function tokenizeMiniWords(sentence) {
   let wordCounter = 0;
   return parts.map(part => {
     if (/^[a-zA-Z0-9'-]+$/.test(part)) {
-      return `<span class="vt-mini-word future" data-w="${wordCounter++}">${escapeHTML(part)}</span>`;
+      const clean = part.replace(/[^a-zA-Z]/g, '').toLowerCase();
+      return `<span class="vt-mini-word future" data-w="${wordCounter++}" onclick="handleWordClick(this, '${clean}', event)" title="點擊即時查字典與聽發音">${escapeHTML(part)}</span>`;
     } else {
       return escapeHTML(part);
     }
@@ -1169,8 +1532,56 @@ function toggleRepeatCue() {
 function toggleAutoScroll() {
   autoScrollEnabled = !autoScrollEnabled;
   const btn = document.getElementById('autoScrollToggleBtn');
-  if (btn) btn.textContent = '📜 自動捲動: ' + (autoScrollEnabled ? 'ON' : 'OFF');
+  if (btn) btn.textContent = '📜 自動捲 ' + (autoScrollEnabled ? 'ON' : 'OFF');
   toast(autoScrollEnabled ? '自動捲動已開啟' : '自動捲動已暫停');
+}
+
+// ══════════ 克漏字練習模式 ══════════
+function toggleClozeMode() {
+  clozeMode = !clozeMode;
+  const btn = document.getElementById('vtClozeBtn');
+  if (btn) {
+    btn.classList.toggle('vt-repeat-btn', clozeMode);
+    btn.classList.toggle('active', clozeMode);
+    btn.textContent = clozeMode ? '🧩 已開克漏' : '🧩 克漏字';
+  }
+  if (activeCueIdx >= 0) highlightVoiceTubeCue(activeCueIdx);
+  toast(clozeMode ? '🧩 克漏字模式：點擊空白譜出答案！' : '克漏字模式已關閉');
+}
+
+function applyClozeModeToStage() {
+  if (!clozeMode) return;
+  const tokens = document.querySelectorAll('#vtActiveEn .vt-word-token');
+  tokens.forEach(tok => {
+    if (!tok.classList.contains('cloze-revealed')) {
+      tok.classList.add('cloze-hidden');
+      const origClick = tok.onclick;
+      tok.onclick = (e) => {
+        e.stopPropagation();
+        tok.classList.remove('cloze-hidden');
+        tok.classList.add('cloze-revealed');
+        const word = tok.getAttribute('data-word-idx') ? tok.textContent.replace(/[^a-zA-Z]/g,'').toLowerCase() : '';
+        if (word) say(word);
+      };
+    }
+  });
+}
+
+// 更新進度條
+function updateProgressBar() {
+  const cues = current?.cues || [];
+  const total = cues.length;
+  if (!total) return;
+  const seen = seenCues.size;
+  const pct = Math.round((seen / total) * 100);
+  const bar = document.getElementById('vtProgressBar');
+  const pctEl = document.getElementById('vtProgressPct');
+  const seenEl = document.getElementById('vtProgressSeen');
+  const totalEl = document.getElementById('vtProgressTotal');
+  if (bar) bar.style.width = pct + '%';
+  if (pctEl) pctEl.textContent = pct + '%';
+  if (seenEl) seenEl.textContent = seen;
+  if (totalEl) totalEl.textContent = total;
 }
 
 function setSubMode(mode) {
@@ -1184,15 +1595,46 @@ function setSubMode(mode) {
 }
 
 function setPlayerSpeed(speed) {
-  currentPlaybackRate = speed;
-  [0.75, 1.0, 1.25].forEach(s => {
-    const b = document.getElementById('speed' + String(s).replace('.', ''));
-    if (b) b.classList.toggle('active', s === speed);
+  currentPlaybackRate = Number(speed);
+  try {
+    localStorage.setItem('et_playback_rate', String(currentPlaybackRate));
+  } catch(e) {}
+
+  [0.5, 0.75, 1.0, 1.25, 1.5].forEach(s => {
+    const key = String(s).replace('.', '').padEnd(3, '0');
+    const b = document.getElementById('speed' + key);
+    if (b) b.classList.toggle('active', Math.abs(s - currentPlaybackRate) < 0.01);
   });
+
+  // 1. YouTube Iframe API 原生呼叫
   if (ytPlayer && typeof ytPlayer.setPlaybackRate === 'function') {
-    ytPlayer.setPlaybackRate(speed);
+    try {
+      ytPlayer.setPlaybackRate(currentPlaybackRate);
+    } catch(err) {
+      console.warn('ytPlayer.setPlaybackRate error:', err);
+    }
   }
-  toast('播放速度：' + speed + '×');
+
+  // 2. 原生 postMessage 雙通道備援廣播
+  try {
+    const iframes = document.querySelectorAll('#playerContainer iframe, #player iframe, iframe');
+    iframes.forEach(iframe => {
+      if (iframe && iframe.contentWindow) {
+        iframe.contentWindow.postMessage(JSON.stringify({
+          event: 'command',
+          func: 'setPlaybackRate',
+          args: [currentPlaybackRate]
+        }), '*');
+      }
+    });
+  } catch(e) {}
+
+  // 3. 連動 Web Speech API 語音朗讀速度
+  if (typeof speechRate !== 'undefined') {
+    speechRate = currentPlaybackRate;
+  }
+
+  toast('播放速度：' + currentPlaybackRate + '×');
 }
 
 function adjustSubtitleSize(delta) {
@@ -1256,48 +1698,202 @@ function switchVtTab(tab) {
   });
 }
 
-function lookupWord(word) {
-  if (!word) return;
-  switchVtTab('dict');
+// Local runtime cache for dynamic word lookup
+let runtimeWordCache = JSON.parse(localStorage.getItem('et_word_cache') || '{}');
+
+function getWordData(word) {
+  if (!word) return null;
   const clean = word.toLowerCase().trim();
+  const preloaded = (window.PRELOADED_LESSONS && window.PRELOADED_LESSONS.vocab) ? window.PRELOADED_LESSONS.vocab : (typeof PRELOADED_LESSONS !== 'undefined' ? PRELOADED_LESSONS.vocab : {});
+  if (preloaded && preloaded[clean]) return preloaded[clean];
+  if (runtimeWordCache && runtimeWordCache[clean]) return runtimeWordCache[clean];
+  return null;
+}
+
+function handleWordClick(el, word, event) {
+  if (event) {
+    event.stopPropagation();
+    event.preventDefault();
+  }
+  lookupWord(word, el);
+}
+
+function closeWordPopover() {
+  const pop = document.getElementById('vtWordPopover');
+  if (pop) pop.style.display = 'none';
+}
+
+// Global click outside to dismiss popover
+document.addEventListener('click', function(e) {
+  const pop = document.getElementById('vtWordPopover');
+  if (!pop || pop.style.display === 'none') return;
+  if (!pop.contains(e.target) && !e.target.closest('.vt-word-token') && !e.target.closest('.vt-mini-word')) {
+    closeWordPopover();
+  }
+});
+
+// Escape key to dismiss popover
+document.addEventListener('keydown', function(e) {
+  if (e.key === 'Escape') closeWordPopover();
+});
+
+function positionPopover(pop, targetEl) {
+  if (!targetEl || !pop) return;
+  pop.style.display = 'block';
+  pop.style.visibility = 'hidden';
+  
+  const rect = targetEl.getBoundingClientRect();
+  const popRect = pop.getBoundingClientRect();
+  
+  // Default: Place above target element
+  let top = rect.top - popRect.height - 10;
+  let left = rect.left + (rect.width / 2) - (popRect.width / 2);
+
+  // If top is cut off by viewport edge, place below
+  if (top < 10) {
+    top = rect.bottom + 10;
+  }
+  
+  // Boundary clamping
+  const maxLeft = window.innerWidth - popRect.width - 14;
+  left = Math.max(14, Math.min(left, maxLeft));
+
+  pop.style.top = Math.round(top) + 'px';
+  pop.style.left = Math.round(left) + 'px';
+  pop.style.visibility = 'visible';
+}
+
+async function lookupWord(word, targetEl = null) {
+  if (!word) return;
+  const clean = word.toLowerCase().trim();
+  say(clean);
+
+  // 1. Instant lookup in memory/cache (0ms instant!)
+  let item = getWordData(clean);
+
+  // 2. Render to Floating Glassmorphic Popover
+  const pop = document.getElementById('vtWordPopover');
+  if (pop && targetEl) {
+    const popWord = document.getElementById('vtPopWord');
+    const popIpa = document.getElementById('vtPopIpa');
+    const popPos = document.getElementById('vtPopPos');
+    const popDef = document.getElementById('vtPopDef');
+    const saveBtn = document.getElementById('vtPopSaveBtn');
+    const sayBtn = document.getElementById('vtPopSayBtn');
+
+    if (popWord) popWord.textContent = clean;
+    if (popIpa) popIpa.textContent = item?.ipa || '';
+    if (popPos) popPos.textContent = item?.pos || (item ? '單字' : '查詢中');
+    if (popDef) popDef.textContent = item ? item.def : '即時檢索繁中釋義與用法中…';
+    
+    if (saveBtn) {
+      saveBtn.classList.toggle('saved', savedWords.has(clean));
+      saveBtn.textContent = savedWords.has(clean) ? '✓' : '＋';
+      saveBtn.onclick = (e) => {
+        e.stopPropagation();
+        toggleWord(clean);
+        saveBtn.classList.toggle('saved', savedWords.has(clean));
+        saveBtn.textContent = savedWords.has(clean) ? '✓' : '＋';
+      };
+    }
+    if (sayBtn) {
+      sayBtn.onclick = (e) => { e.stopPropagation(); say(clean); };
+    }
+
+    positionPopover(pop, targetEl);
+  }
+
+  // 3. Update right-side Dictionary View as well
   const input = document.getElementById('dictInput');
   if (input) input.value = clean;
-  
-  const vocab = PRELOADED_LESSONS.vocab || {};
-  const item = vocab[clean];
+  updateDictSidebar(clean, item);
+
+  // 4. If not found in preloaded cache, fetch from /api/dict asynchronously
+  if (!item || !item.def) {
+    try {
+      const resp = await fetch('/api/dict?word=' + encodeURIComponent(clean));
+      if (resp.ok) {
+        const data = await resp.json();
+        if (data && data.def) {
+          item = data;
+          runtimeWordCache[clean] = data;
+          try {
+            localStorage.setItem('et_word_cache', JSON.stringify(runtimeWordCache));
+          } catch(e) {}
+          
+          // Re-render Popover if still inspecting same word
+          if (pop && document.getElementById('vtPopWord')?.textContent === clean) {
+            const popIpa = document.getElementById('vtPopIpa');
+            const popPos = document.getElementById('vtPopPos');
+            const popDef = document.getElementById('vtPopDef');
+            if (popIpa) popIpa.textContent = item.ipa || '';
+            if (popPos) popPos.textContent = item.pos || '單字';
+            if (popDef) popDef.textContent = item.def;
+            if (targetEl) positionPopover(pop, targetEl);
+          }
+          // Re-render sidebar
+          updateDictSidebar(clean, item);
+        }
+      }
+    } catch(err) {
+      console.warn('API dict lookup error:', err);
+    }
+  }
+}
+
+function updateDictSidebar(clean, item) {
   const view = document.getElementById('vtWordView');
   if (!view) return;
 
-  say(clean);
+  // Get current active subtitle sentence as contextual example (教育重點：詞彙情境化)
+  const activeCue = current?.cues?.[activeCueIdx];
+  const ctxEn = activeCue ? (activeCue.en || activeCue.text || '') : '';
+  const ctxZh = activeCue ? (activeCue.zh || current?.cn?.[activeCueIdx] || '') : '';
 
-  if (item) {
+  // Highlight the looked-up word within context sentence
+  function ctxHighlight(sentence, word) {
+    if (!sentence || !word) return escapeHTML(sentence);
+    const re = new RegExp('\\b(' + word.replace(/[.*+?^${}()|[\]\\]/g,'\\$&') + ')\\b','gi');
+    return escapeHTML(sentence).replace(re,'<mark style="background:rgba(109,93,252,0.35);color:#c8c0ff;border-radius:3px;padding:0 2px">$1</mark>');
+  }
+
+  const ctxBlock = ctxEn ? `
+    <div style="margin-top:8px;padding:8px 10px;background:#0d0d20;border-radius:8px;border-left:2px solid #6d5dfc40">
+      <div style="font-size:12px;color:#8888a2;margin-bottom:3px;font-weight:700">📺 影片例句</div>
+      <div class="vt-word-ex" style="font-style:normal;border:0;padding:0;color:#b8b8d8;font-size:12px">${ctxHighlight(ctxEn, clean)}</div>
+      ${ctxZh ? `<div style="font-size:11px;color:#606090;margin-top:3px">${escapeHTML(ctxZh)}</div>` : ''}
+    </div>` : '';
+
+  if (item && item.def) {
     view.innerHTML = `
       <div class="vt-word-view">
         <div class="vt-word-main">
-          <span class="vt-word-term">${clean}</span>
-          <span class="vt-word-ipa">${item.ipa || ''}</span>
+          <span class="vt-word-term">${escapeHTML(clean)}</span>
+          <span class="vt-word-ipa">${escapeHTML(item.ipa || '')}</span>
           <div class="vt-word-actions">
             <button class="save" onclick="say('${clean}')">🔊 發音</button>
             <button class="save ${savedWords.has(clean) ? 'saved' : ''}" onclick="toggleWord('${clean}')">${savedWords.has(clean) ? '✓ 已收藏' : '＋ 收藏'}</button>
           </div>
         </div>
-        <div class="vt-word-pos">${item.pos || '單字'}</div>
-        <div class="vt-word-def">${item.def || ''}</div>
-        ${item.ex ? `<div class="vt-word-ex">例句：${item.ex}</div>` : ''}
+        <div class="vt-word-pos">${escapeHTML(item.pos || '單字')}</div>
+        <div class="vt-word-def">${escapeHTML(item.def || '')}</div>
+        ${item.ex ? `<div class="vt-word-ex">📌 ${escapeHTML(item.ex)}</div>` : ''}
+        ${ctxBlock}
       </div>
     `;
   } else {
     view.innerHTML = `
       <div class="vt-word-view">
         <div class="vt-word-main">
-          <span class="vt-word-term">${clean}</span>
+          <span class="vt-word-term">${escapeHTML(clean)}</span>
           <div class="vt-word-actions">
             <button class="save" onclick="say('${clean}')">🔊 發音</button>
             <button class="save ${savedWords.has(clean) ? 'saved' : ''}" onclick="toggleWord('${clean}')">${savedWords.has(clean) ? '✓ 已收藏' : '＋ 收藏'}</button>
           </div>
         </div>
-        <div class="vt-word-pos">英文字彙</div>
-        <div class="vt-word-def">點擊上方 🔊 按鈕聆聽真人發音，或點擊「＋ 收藏」加入個人專屬生字本。</div>
+        <div class="vt-word-pos">查詢中</div>
+        <div class="vt-word-def">正在即時檢索繁中釋義與用法中…</div>
+        ${ctxBlock}
       </div>
     `;
   }
@@ -1305,7 +1901,10 @@ function lookupWord(word) {
 
 function lookupCustomWord() {
   const val = document.getElementById('dictInput')?.value.trim();
-  if (val) lookupWord(val);
+  if (val) {
+    switchVtTab('dict');
+    lookupWord(val, document.getElementById('dictInput'));
+  }
 }
 
 function toggleLike() {
@@ -1361,6 +1960,21 @@ openVideo = function(id) {
     current.cues = current.cues || [];
     current.en = current.en || [];
     current.cn = current.cn || [];
+    // Defensive: if cues empty, retry after video_lessons.json loads async
+    if (!current.cues.length) {
+      setTimeout(() => {
+        const ldata = (window.PRELOADED_LESSONS?.lessons || {})[id];
+        if (ldata && ldata.cues && ldata.cues.length) {
+          current.cues = ldata.cues;
+          current.en   = ldata.cues.map(c => c.en);
+          current.cn   = ldata.cues.map(c => c.zh);
+          seenCues = new Set();
+          renderVoiceTubeTranscript();
+          updateProgressBar();
+          highlightVoiceTubeCue(0);
+        }
+      }, 600);
+    }
   }
 
   // Populate header info
@@ -1380,8 +1994,17 @@ openVideo = function(id) {
   renderVoiceTubeTranscript();
   renderVoiceTubeVocab();
 
+  // Synchronize speed button active state
+  [0.5, 0.75, 1.0, 1.25, 1.5].forEach(s => {
+    const key = String(s).replace('.', '').padEnd(3, '0');
+    const b = document.getElementById('speed' + key);
+    if (b) b.classList.toggle('active', Math.abs(s - currentPlaybackRate) < 0.01);
+  });
+
   // Reset subtitle stage
   activeCueIdx = 0;
+  seenCues = new Set();
+  updateProgressBar();
   highlightVoiceTubeCue(0);
 
   // Mount YouTube Player
@@ -1416,6 +2039,7 @@ seekCue = function(i) {
 const _origCloseModal = closeModal;
 closeModal = function() {
   stopSubtitleSync();
+  closeWordPopover();
   isPlaying = false;
   if (ytPlayer && typeof ytPlayer.pauseVideo === 'function') {
     try { ytPlayer.pauseVideo(); } catch(e) {}
