@@ -1057,7 +1057,7 @@ if(window.matchMedia('(display-mode: standalone)').matches||navigator.standalone
 document.querySelector('#installBtn').addEventListener('click',async()=>{if(deferredPrompt){deferredPrompt.prompt();const{outcome}=await deferredPrompt.userChoice;deferredPrompt=null;if(outcome==='accepted')toast('✓ 安裝中...')}else if(/iphone|ipad|ipod/i.test(navigator.userAgent)){toast('Safari：分享 → 加入主畫面')}else{toast('請從瀏覽器選單選擇「安裝應用程式」')}});
 // Register Service Worker + auto-reload on new SW version
 if('serviceWorker'in navigator&&location.protocol.startsWith('http')){
-  window.addEventListener('load',()=>navigator.serviceWorker.register('./sw.js?v=16').then(reg=>{
+  window.addEventListener('load',()=>navigator.serviceWorker.register('./sw.js?v=17').then(reg=>{
     try{reg.update()}catch(e){}
     reg.addEventListener('updatefound',()=>{
       const nw=reg.installing;
