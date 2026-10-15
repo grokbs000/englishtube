@@ -785,7 +785,7 @@
 <div class="footer">ENGLISHTUBE · Learn a little. Grow every day. <br>獨立學習產品，與 VoiceTube 無隸屬關係。</div></main>
 <nav class="bottomnav"><button onclick="window.scrollTo({top:0,behavior:'smooth'})"><b>⌂</b>首頁</button><button onclick="document.querySelector('#discover').scrollIntoView({behavior:'smooth'})"><b>▦</b>探索</button><button onclick="document.querySelector('#study').scrollIntoView({behavior:'smooth'})"><b>✦</b>學習</button><button onclick="setFilter('收藏');document.querySelector('#discover').scrollIntoView({behavior:'smooth'})"><b>♡</b>收藏</button></nav>
 
-<div class="modal" id="modal" onclick="if(event.target===this)closeModal()">
+<div class="modal" id="modal">
   <div class="vt-modalbox">
     <!-- Header -->
     <div class="vt-studio-head">
@@ -1043,7 +1043,8 @@ function speakLine(i=0){if(current)say(current.en[i]||current.en[0])}
 function repeatLine(){speakLine(0);setTimeout(()=>speakLine(0),1800)}
 async function recordPractice(){let b=document.querySelector('#recordBtn'),s=document.querySelector('#recordStatus');if(recorder&&recorder.state==='recording'){recorder.stop();b.textContent='🎙 開始錄音';s.textContent='錄音已結束。可再次錄製練習。';return}try{recordStream=await navigator.mediaDevices.getUserMedia({audio:true});recorder=new MediaRecorder(recordStream);let chunks=[];recorder.ondataavailable=e=>chunks.push(e.data);recorder.onstop=()=>{let blob=new Blob(chunks,{type:'audio/webm'}),url=URL.createObjectURL(blob);s.innerHTML='錄音完成：<audio controls src="'+url+'" style="width:100%;margin-top:8px"></audio>';recordStream.getTracks().forEach(t=>t.stop())};recorder.start();b.textContent='■ 停止錄音';s.textContent='正在錄音，請朗讀：'+current.en[0]}catch(e){s.textContent='無法使用麥克風，請確認網站權限與 HTTPS 設定。'}}
 let _toastTimer=null;function toast(t){const el=document.querySelector('#toast');el.textContent=t;el.style.display='block';clearTimeout(_toastTimer);_toastTimer=setTimeout(()=>el.style.display='none',2400)}
-document.querySelector('#modal').addEventListener('click',e=>{if(e.target.id==='modal')closeModal()});document.addEventListener('keydown',e=>{if(e.key==='Escape')closeModal()});
+// Escape key closes modal
+document.addEventListener('keydown',e=>{if(e.key==='Escape')closeModal()});
 // PWA install prompt handling
 let deferredPrompt=null;
 window.addEventListener('beforeinstallprompt',e=>{e.preventDefault();deferredPrompt=e;const btn=document.querySelector('#installBtn');btn.textContent='＋ 安裝 App';btn.style.display='';});
