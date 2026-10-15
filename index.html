@@ -785,7 +785,7 @@
 <div class="footer">ENGLISHTUBE · Learn a little. Grow every day. <br>獨立學習產品，與 VoiceTube 無隸屬關係。</div></main>
 <nav class="bottomnav"><button onclick="window.scrollTo({top:0,behavior:'smooth'})"><b>⌂</b>首頁</button><button onclick="document.querySelector('#discover').scrollIntoView({behavior:'smooth'})"><b>▦</b>探索</button><button onclick="document.querySelector('#study').scrollIntoView({behavior:'smooth'})"><b>✦</b>學習</button><button onclick="setFilter('收藏');document.querySelector('#discover').scrollIntoView({behavior:'smooth'})"><b>♡</b>收藏</button></nav>
 
-<div class="modal" id="modal">
+<div class="modal" id="modal" onclick="if(event.target===this)closeModal()">
   <div class="vt-modalbox">
     <!-- Header -->
     <div class="vt-studio-head">
@@ -976,7 +976,18 @@ function loadVideoSource(){const raw=document.querySelector('#videoUrl').value.t
 
 function makeLessonFromTranscript(){const raw=document.querySelector('#transcriptInput').value.trim();if(!raw){toast('請先貼上英文逐字稿');return}const lines=raw.replace(/\r/g,'').split(/\n+/).map(x=>x.trim()).filter(Boolean);const cues=[];for(const line of lines){const m=line.match(/^(?:(\d{1,2}:)?(\d{1,2}):(\d{2})(?:[.,](\d{1,3}))?) +(.+)$/);if(m){const start=(Number(m[1]?m[1].slice(0,-1):0)*3600)+(Number(m[2])*60)+Number(m[3])+(Number('0.'+(m[4]||'0')));cues.push({start,duration:0,text:m[5]})}else{const text=line.replace(/^\s*\d+\s*$/,'').trim();if(text)cues.push({start:null,duration:0,text})}}const sentences=cues.flatMap(c=>c.start===null?(c.text.match(/[^.!?]+[.!?]+|[^.!?]+$/g)||[c.text]).map(text=>({start:null,duration:0,text:text.trim()})):[c]).filter(c=>c.text.length>2).slice(0,300);if(!sentences.length){toast('沒有辨識到有效句子');return}current.cues=sentences.some(c=>c.start!==null)?sentences.filter(c=>c.start!==null):[];current.en=sentences.map(c=>c.text);current.cn=current.en.map(()=>'（請按「AI 翻譯＋單字解說」產生翻譯）');const counts={};current.en.join(' ').toLowerCase().match(/\b[a-z]{4,}\b/g)?.forEach(w=>{if(!['that','this','with','from','have','your','they','them','there','what','when','will','would','could','should','about','because','which','their','then','than','into','just','like','were','been','being','very','more','some','such','also','only','over','here','know','want','make','does','yourself'].includes(w))counts[w]=(counts[w]||0)+1});current.words=Object.entries(counts).sort((a,b)=>b[1]-a[1]).slice(0,12).map(([w])=>[w,'可使用 AI 產生詳細解說']);renderLesson();toast('教材已建立：'+sentences.length+' 句')}
 function addCaptionTrack(){const raw=document.querySelector('#captionUrl').value.trim();if(!raw){toast('請輸入 .vtt 字幕網址');return}let u;try{u=new URL(raw)}catch(e){toast('字幕網址格式不正確');return}if(!['https:','http:'].includes(u.protocol)||!u.pathname.toLowerCase().endsWith('.vtt')){toast('字幕必須是 HTTP/HTTPS 的 .vtt 網址');return}const v=document.querySelector('#nativeVideo');if(!v){toast('請先載入 MP4/WebM 影片，再加字幕');return}v.querySelectorAll('track').forEach(t=>t.remove());const t=document.createElement('track');t.kind='subtitles';t.label='English captions';t.srclang='en';t.src=u.href;t.default=true;v.appendChild(t);toast('字幕已載入（若來源允許跨站存取）')}
-function closeModal(){document.querySelector('#modal').classList.remove('open');document.body.style.overflow=''}
+function closeModal() {
+  document.querySelector('#modal').classList.remove('open');
+  document.body.style.overflow = '';
+  // Pause YouTube player
+  try { if (ytPlayer && typeof ytPlayer.pauseVideo === 'function') ytPlayer.pauseVideo(); } catch(e) {}
+  // Stop sync timer
+  if (syncTimer) { clearInterval(syncTimer); syncTimer = null; }
+  // Stop TTS
+  try { _ttsAudio.pause(); _ttsAudio.src = ''; } catch(e) {}
+  speechSynthesis.cancel();
+  isPlaying = false;
+}
 function renderLesson(){document.querySelector('#transcript').innerHTML=current.en.map((s,i)=>`<div class="subline" onclick="speakLine(${i})"><strong style="display:${showEn?'block':'none'}">${s}</strong><span style="display:${showZh?'block':'none'}">${current.cn[i]}</span><small style="color:#aaa">點擊聆聽 · ${i+1}</small></div>`).join('');document.querySelector('#wordList').innerHTML=current.words.map(w=>`<div style="padding:10px 0;border-bottom:1px solid #eee"><b style="color:#6355e8">${w[0]}</b><div style="font-size:13px;color:#777;margin:4px 0 8px">${w[1]}</div><button class="save ${savedWords.has(w[0])?'saved':''}" onclick="toggleWord('${w[0]}')">${savedWords.has(w[0])?'✓ 已收藏':'＋ 收藏單字'}</button><button class="save" onclick="say('${w[0].replace(/'/g,"\\'")}')">🔊</button></div>`).join('');document.querySelector('#enBtn').textContent='🇺🇸 英文字幕 '+(showEn?'✓':'○');document.querySelector('#zhBtn').textContent='🇹🇼 中文字幕 '+(showZh?'✓':'○')}
 function toggleSub(l){if(l==='en')showEn=!showEn;else showZh=!showZh;renderLesson()}
 function toggleWord(w){savedWords.has(w)?savedWords.delete(w):savedWords.add(w);persist();renderLesson();toast(savedWords.has(w)?`已收藏 ${w}`:'已移除單字')}
@@ -1266,6 +1277,8 @@ function createYTPlayer(videoId) {
         rel: 0,
         modestbranding: 1,
         enablejsapi: 1,
+        cc_load_policy: 1,
+        cc_lang_pref: 'en',
         origin: window.location.origin
       },
       events: {
