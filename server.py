@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Local ENGLISHTUBE web server + optional transcript/AI APIs."""
-import json, os, re, shutil, subprocess, tempfile, urllib.request, urllib.error
+import json, os, re, shutil, subprocess, tempfile, urllib.request, urllib.error, urllib.parse
 from pathlib import Path
 from http.server import ThreadingHTTPServer, SimpleHTTPRequestHandler
 from urllib.parse import urlparse
