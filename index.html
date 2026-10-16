@@ -870,13 +870,31 @@ html[data-theme='dark'] .seg-btn.active {
   display: flex;
   gap: 8px;
   overflow-x: auto;
-  padding: 6px 2px 12px;
-  scrollbar-width: none;
+  overflow-y: hidden;
+  padding: 6px 4px 10px;
+  margin-bottom: 4px;
+  scrollbar-width: thin;
+  scrollbar-color: rgba(109, 93, 252, 0.45) rgba(0, 0, 0, 0.04);
   -webkit-overflow-scrolling: touch;
+  scroll-behavior: smooth;
 }
 .vt-channel-nav::-webkit-scrollbar {
-  display: none;
+  height: 6px;
+  display: block;
 }
+.vt-channel-nav::-webkit-scrollbar-track {
+  background: rgba(0, 0, 0, 0.04);
+  border-radius: 6px;
+}
+.vt-channel-nav::-webkit-scrollbar-thumb {
+  background: rgba(109, 93, 252, 0.4);
+  border-radius: 6px;
+  transition: background .2s ease;
+}
+.vt-channel-nav::-webkit-scrollbar-thumb:hover {
+  background: rgba(109, 93, 252, 0.75);
+}
+
 .vt-channel-chip {
   display: inline-flex;
   align-items: center;
@@ -892,6 +910,7 @@ html[data-theme='dark'] .seg-btn.active {
   cursor: pointer;
   transition: all .2s cubic-bezier(.2,.8,.25,1);
   box-shadow: 0 2px 6px rgba(0,0,0,0.02);
+  flex-shrink: 0;
 }
 .vt-channel-chip:hover {
   border-color: var(--purple);
@@ -921,11 +940,28 @@ html[data-theme='dark'] .seg-btn.active {
   align-items: center;
   gap: 6px;
   overflow-x: auto;
-  padding: 2px 2px 14px;
-  scrollbar-width: none;
+  overflow-y: hidden;
+  padding: 4px 4px 10px;
+  scrollbar-width: thin;
+  scrollbar-color: rgba(109, 93, 252, 0.3) rgba(0, 0, 0, 0.03);
+  -webkit-overflow-scrolling: touch;
+  scroll-behavior: smooth;
 }
 .vt-level-nav::-webkit-scrollbar {
-  display: none;
+  height: 5px;
+  display: block;
+}
+.vt-level-nav::-webkit-scrollbar-track {
+  background: rgba(0, 0, 0, 0.03);
+  border-radius: 6px;
+}
+.vt-level-nav::-webkit-scrollbar-thumb {
+  background: rgba(109, 93, 252, 0.3);
+  border-radius: 6px;
+  transition: background .2s ease;
+}
+.vt-level-nav::-webkit-scrollbar-thumb:hover {
+  background: rgba(109, 93, 252, 0.65);
 }
 .vt-level-label {
   font-size: 12px;
@@ -1036,6 +1072,31 @@ html[data-theme='dark'] .vt-level-chip.active {
   background: #6d5dfc;
   border-color: #6d5dfc;
   color: #fff;
+}
+html[data-theme='dark'] .vt-channel-nav {
+  scrollbar-color: rgba(162, 155, 254, 0.5) rgba(255, 255, 255, 0.06);
+}
+html[data-theme='dark'] .vt-channel-nav::-webkit-scrollbar-track {
+  background: rgba(255, 255, 255, 0.06);
+}
+html[data-theme='dark'] .vt-channel-nav::-webkit-scrollbar-thumb {
+  background: rgba(162, 155, 254, 0.45);
+}
+html[data-theme='dark'] .vt-channel-nav::-webkit-scrollbar-thumb:hover {
+  background: rgba(162, 155, 254, 0.85);
+}
+
+html[data-theme='dark'] .vt-level-nav {
+  scrollbar-color: rgba(162, 155, 254, 0.4) rgba(255, 255, 255, 0.05);
+}
+html[data-theme='dark'] .vt-level-nav::-webkit-scrollbar-track {
+  background: rgba(255, 255, 255, 0.05);
+}
+html[data-theme='dark'] .vt-level-nav::-webkit-scrollbar-thumb {
+  background: rgba(162, 155, 254, 0.35);
+}
+html[data-theme='dark'] .vt-level-nav::-webkit-scrollbar-thumb:hover {
+  background: rgba(162, 155, 254, 0.75);
 }
 
 </style>
@@ -22616,6 +22677,26 @@ function renderNavBars() {
       `;
     }
   }
+
+  // Bind mouse wheel to horizontal scroll & auto center active chip
+  [chNav, lvlNav].forEach(el => {
+    if (el && !el._wheelBound) {
+      el._wheelBound = true;
+      el.addEventListener('wheel', e => {
+        if (e.deltaY !== 0 && !e.shiftKey) {
+          e.preventDefault();
+          el.scrollLeft += e.deltaY * 0.9;
+        }
+      }, { passive: false });
+    }
+  });
+
+  setTimeout(() => {
+    const activeCh = chNav?.querySelector('.vt-channel-chip.active');
+    if (activeCh) activeCh.scrollIntoView({ behavior: 'smooth', block: 'nearest', inline: 'center' });
+    const activeLvl = lvlNav?.querySelector('.vt-level-chip.active');
+    if (activeLvl) activeLvl.scrollIntoView({ behavior: 'smooth', block: 'nearest', inline: 'center' });
+  }, 10);
 }
 
 function render() {
@@ -22782,7 +22863,7 @@ if(window.matchMedia('(display-mode: standalone)').matches||navigator.standalone
 document.querySelector('#installBtn').addEventListener('click',async()=>{if(deferredPrompt){deferredPrompt.prompt();const{outcome}=await deferredPrompt.userChoice;deferredPrompt=null;if(outcome==='accepted')toast('✓ 安裝中...')}else if(/iphone|ipad|ipod/i.test(navigator.userAgent)){toast('Safari：分享 → 加入主畫面')}else{toast('請從瀏覽器選單選擇「安裝應用程式」')}});
 // Register Service Worker + auto-reload on new SW version
 if('serviceWorker'in navigator&&location.protocol.startsWith('http')){
-  window.addEventListener('load',()=>navigator.serviceWorker.register('./sw.js?v=27').then(reg=>{
+  window.addEventListener('load',()=>navigator.serviceWorker.register('./sw.js?v=28').then(reg=>{
     try{reg.update()}catch(e){}
     reg.addEventListener('updatefound',()=>{
       const nw=reg.installing;

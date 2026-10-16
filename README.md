@@ -6,7 +6,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-6d5dfc.svg)](./LICENSE)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://python.org)
 [![PWA Ready](https://img.shields.io/badge/PWA-Ready-brightgreen.svg)](https://web.dev/progressive-web-apps/)
-[![Service Worker](https://img.shields.io/badge/Service%20Worker-v27-orange.svg)](./sw.js)
+[![Service Worker](https://img.shields.io/badge/Service%20Worker-v28-orange.svg)](./sw.js)
 [![Golden Edition](https://img.shields.io/badge/Edition-Stage%201%20Golden%20(200%20Items)-6d5dfc.svg)](./index.html)
 
 ---
@@ -82,6 +82,10 @@
 | **👶 兒童初學 (Kids / A1 Beginner)** | **14 部** | 趣味顏色與形狀、農場動物對話、美味水果英文、早安問候基礎句型、快樂數字兒歌 |
 | **🎵 經典歌曲 (Music)** | **50 首** | Taylor Swift、Richard Marx、Backstreet Boys、Adele 等 100% 全時序卡拉OK雙語歌詞 |
 | **總計** | **200 部** | **完整的 A1 入門 (18部)、A2 初級 (60部)、B1 中級 (73部)、B2 中高級 (39部)、C1 高級 (10部)** |
+
+* **平滑水平捲軸與人因滾輪轉換（Sleek Scrollbar & Wheel Scrolling）**：
+  - 頻道導航列（`.vt-channel-nav`）與難度等級列（`.vt-level-nav`）配備專屬精緻自訂水平捲軸，支援明亮與深色模式動態對比。
+  - 支援滑鼠垂直滾輪自動轉換為水平滾動（Wheel to Horizontal Scroll），搭配點選標籤自動平滑居中對齊（Auto Center Scroll），提供桌機與觸控雙端極致流暢之探索體驗。
 
 ---
 
