@@ -6,7 +6,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-6d5dfc.svg)](./LICENSE)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://python.org)
 [![PWA Ready](https://img.shields.io/badge/PWA-Ready-brightgreen.svg)](https://web.dev/progressive-web-apps/)
-[![Service Worker](https://img.shields.io/badge/Service%20Worker-v25-orange.svg)](./sw.js)
+[![Service Worker](https://img.shields.io/badge/Service%20Worker-v26-orange.svg)](./sw.js)
 [![Golden Edition](https://img.shields.io/badge/Edition-Stage%201%20Golden%20(200%20Items)-6d5dfc.svg)](./index.html)
 
 ---
@@ -19,7 +19,7 @@
 | 🎯 **CEFR 5 級難度篩選** | 完整涵蓋 A1 入門、A2 初級、B1 中級、B2 中高級、C1 高級，依個人程度精準選課 |
 | 📚 **200 部高品質教材庫** | 150 部知識演講/趣味科普 + 50 首全曲 100% 完整雙語歌詞西洋經典情歌 |
 | 🎤 **卡拉OK逐詞連動** | 毫秒級時間軸同步，字幕隨影片發音逐字高亮反白，支援點擊跳轉播放 |
-| 🛡️ **YouTube CC 阻絕** | 強制卸載 YouTube 內建雜亂語音辨識字幕，專注於平台專屬繁中雙語對照字幕 |
+| 📺 **YouTube 原生 CC 完整相容** | 完美保留並修復 YouTube 原生自帶 CC 功能，使用者可隨心在畫面內開關或切換多國語言字幕 |
 | 🧲 **黏性結尾字幕 (Sticky Cue)** | 結尾伴奏期間字幕持續穩定駐留，解決「歌曲未播完字幕早停」問題 |
 | 🔊 **Google 神經語音 TTS** | 整合 Google Neural TTS 高擬真發音引擎，備援 Web Speech API 原生語音 |
 | 📖 **即時單字語境查詢** | 點擊字幕任一單字即彈出詞彙卡，包含音標、詞性、繁中釋義與當前句子例句 |
@@ -44,9 +44,9 @@
 * **全曲時間軸覆蓋**：針對原先部分歌曲僅有開頭 30 秒歌詞的缺陷，透過 Gemini Flash / Pro 多模型協同批次產出，為全部 50 首經典英文情歌補齊了 **25 ～ 66 組完整時序歌詞**，時間軸自前奏開口一路涵蓋至尾聲淡出，覆蓋率達 90%~100%。
 * **多模型彈性降級與限流保護**：具備指數退避重試（Exponential Backoff）與多端點容錯切換（`gemini-3.1-flash-lite` ⇄ `gemini-2.5-flash-lite` ⇄ `gemini-2.5-flash` ⇄ `gemini-2.5-pro`），杜絕 HTTP 429 速率限制阻斷。
 
-### 3. YouTube 內建 CC 阻絕與純淨無壓字播放（CC Caption Suppression）
-* **雙重 API 卸載**：YouTube 官方播放器在影片播放開始（`onStateChange === 1`）時，常自動載入低品質且延遲的內建語音辨識字幕。本平台在 `onReady` 與 `onStateChange` 雙重階段強制調用 `unloadModule('captions')` 與 `setOption('captions', 'track', {})`。
-* **PostMessage 跨域指令**：控制按鈕「📺 影片CC 開/關」除了呼叫 API 外，同步透過 `postMessage` 發送清空 track 指令，讓使用者可自主強制開關 YouTube 畫面內的軟字幕。
+### 3. YouTube 原生播放器與 CC 自帶功能完整保護（Native CC Harmony & Control）
+* **非破壞性原生相容**：移除過往強制呼叫 `unloadModule('captions')` 導致原生 CC 按鈕失效的暴力阻絕邏輯，完美修復並保留 YouTube 播放器控制列自帶之 [CC] 字幕切換按鈕，尊重使用者自主控制權。
+* **雙層字幕無干擾架構**：影片本體可正常開啟 YouTube 原生字幕，下方 VoiceTube 學習舞台則同步提供高精度逐字反白與繁中對照，兩者互不干擾、相輔相成。
 
 ### 4. 智慧平滑過渡與黏性結尾字幕機制（Sticky Last Cue & Smooth Bridging）
 * **跨句平滑橋接**：在計算字幕當前句時，動態比對下一句的起始點：
