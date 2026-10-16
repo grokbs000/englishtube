@@ -20,6 +20,9 @@ You are the **Agency ENGLISHTUBE** expert agent, responsible for operating, main
 7. **PWA 快取與版本升級工程**：落實 Service Worker（`sw.js`）零快取殘留發布標準（v32），確保用戶端即時套用最新功能與程式碼。
 8. **零假載入殘留與動態舞台響應標準 (Zero-Stale-Placeholder Standard)**：嚴禁在 HTML 中使用「正在準備影片與字幕…」靜態佔位文字。`openVideo()` 啟動時必須立即主動響應狀態：若有字幕則毫秒級切換第一句；若無字幕則主動呈現「📺 支援 YouTube 原生 CC 字幕」導引卡，杜絕停滯於預設佔位文字造成「卡死假象」。
 9. **100% 全教材雙語字幕覆蓋率驗收門檻 (Zero-Empty-Cues Gate)**：教材擴充不得只補目錄，所有影片與情歌（500/500 部）均必須具備大於 0 的完整逐句 Cues，發布前強制執行零空字幕檢驗（`assert len(cues) > 0`），違者不得提交。
+10. **雙軌毫秒級聲畫音訊對齊標準 (Dual-Tier Audio-Subtitle Alignment)**：
+    - **第一軌 (VTT 軌)**：優先透過 `calibrate_song_timings.py` 對齊 YouTube 官方 MV 字幕軌。
+    - **第二軌 (Whisper 軌)**：針對無官方字幕之影片/歌曲，透過本機 `batch_calibrate_whisper.py`（使用 `faster-whisper` `base.en`，`word_timestamps=True`）萃取單字級毫秒波形時序，並以滑動視窗模糊序列匹配（`SequenceMatcher`）校正開唱起始點（如 Taylor Swift《Speak Now》開唱 3.84s、副歌 109.34s），徹底根絕 CD 錄音室版本與 MV 劇情過場（5s~180s）造成的時鐘脫節與早顯。
 
 ---
 
@@ -33,10 +36,12 @@ You are the **Agency ENGLISHTUBE** expert agent, responsible for operating, main
 | `video_lessons.js` | 演講字幕與詞彙的 JavaScript 快速全域預載變數（`window.PRELOADED_LESSONS`） | 提高載入速度，避免首屏二次請求 |
 | `server.py` | 本機輕量 HTTP 伺服器（預設 Port `8885`）、yt-dlp 字幕提取端點、字典快取 API | 支援 `PORT` 環境變數自訂埠號 |
 | `sw.js` | Service Worker 快取與 PWA 離線機制 | 每次修改前端或資料需同步遞增 `CACHE` 版本字串 |
+| `calibrate_song_timings.py` | 第一軌：YouTube 官方 MV 帶毫秒字幕軌自動爬取與比對校準腳本 | 優先比對官方 VTT 軌道 |
+| `batch_calibrate_whisper.py` | 第二軌：無官方字幕歌曲之本機 faster-whisper 音訊單字級毫秒自動對齊工具 | 自動下載音訊、語音轉錄、時序滑動視窗錨定並自動清理暫存 |
 | `fill_all_50_songs_gemini.py` | 歌詞全曲時序補齊工具（多模型自動降級、防 429 退避重試、自動注入 HTML） | 支援續傳，已完成歌曲自動跳過 |
 | `run-local.command` | macOS 雙擊一鍵啟動腳本（自動 venv、pip install 與開啟瀏覽器） | 雙擊即可啟動開發伺服器 |
 | `stop-local.command` | macOS 雙擊一鍵停止腳本（安全釋放 port 8885） | 快速關閉伺服器行程 |
-| `requirements.txt` | Python 相依套件（`yt-dlp`, `opencc-python-reimplemented`） | 維護輕量，無大型笨重依賴 |
+| `requirements.txt` | Python 相依套件（`yt-dlp`, `opencc-python-reimplemented`, `faster-whisper`） | 維護輕量，無大型笨重依賴 |
 
 ---
 
@@ -162,15 +167,27 @@ python3 fill_all_50_songs_gemini.py
   if (container) container.innerHTML = '';
   ```
 
-### E. 卡拉OK聲畫同步與平滑時鐘插值標準 (Karaoke Audio-Subtitle Sync & 60fps Continuous Clock)
+### E. 卡拉OK聲畫同步與雙軌音訊對齊標準 (Dual-Tier Audio Alignment & 60fps Continuous Clock Engine)
 
-* **脫節根本成因**：
-  1. **MV 前奏劇情時差**：YouTube 官方 MV 常有 5s 至 180s 的過場前奏或劇情對白（例如 *My Heart Will Go On* 電影劇情前奏達 176 秒、*Right Here Waiting* 鋼琴特寫達 45 秒），若以 CD 錄音室版本時序套用，字幕會超前幾十秒。所有情歌必須經由 `calibrate_song_timings.py` 依據官方 YouTube MV 實際字幕精準錨定。
-  2. **YouTube Iframe 250ms 階梯式取樣抖動**：Iframe API 的 `getCurrentTime()` 每 250ms 才更新一次，若直接高頻 polling 覆蓋時間戳，會導致時鐘停滯再突跳。
-* **工程解法**：
-  1. **60 FPS 實時平滑插值**：`getExactPlaybackTime()` 僅在 `getCurrentTime()` 發生真值變動時記錄基準點，其餘時間以 `performance.now()` 高精準時鐘補足差值，並輔以 80ms 視聽知覺超前補償。
-  2. **前奏倒數與間奏防呆**：當 `time < cues[0].start - 0.5` 時，舞台呈現 `🎵 (前奏演奏中 · 倒數 Xs)`，杜絕第一句歌詞無謂早顯；兩句之間大於 4.5 秒時，自動顯示 `🎵 (間奏音樂演奏中 · 倒數 Xs)`，並在下一句開唱前 0.8 秒平滑預載。
-  3. **零分配單字高亮**：`updateKaraokeWordHighlight()` 杜絕高頻 DOM 查詢與 GC 抖動，採一次性 class 差分切換。
+* **脫節三大根本成因**：
+  1. **MV 前奏與劇情過場時差**：YouTube 官方 MV 常有 5s 至 180s 的過場前奏或劇情對白（例如 *My Heart Will Go On* 電影前奏達 176 秒、*Right Here Waiting* 鋼琴特寫達 45 秒、*Love Story* 古堡長鏡頭達 16 秒），若以 CD 錄音室版本時序套用，字幕會超前幾十秒。
+  2. **中段句組與副歌提前早顯**：舊版手工或大模型粗切之句組，常漏掉主歌過渡句（如 Taylor Swift《Speak Now》35.72s 的 *"This is certainly not..."*）或將副歌開頭提早 3 秒觸發（如 106.14s 提前覆蓋 *"You wish it was me"*），造成歌唱者與文字嚴重錯位。
+  3. **YouTube Iframe 250ms 階梯式取樣抖動**：Iframe API 的 `getCurrentTime()` 每 250ms 才更新一次，若直接高頻 polling 覆蓋時間戳，會導致時鐘停滯再突跳。
+
+* **雙軌高精度音訊校準架構 (Dual-Tier Audio Alignment)**：
+  1. **第一軌 (VTT 官方軌) — `calibrate_song_timings.py`**：
+     - 使用 `yt-dlp` 檢索 YouTube 官方 MV 是否內建官方英文字幕或自動辨識字幕。
+     - 解析 `.vtt` 標記之毫秒時序，以 `SequenceMatcher` 語義時序比對現存雙語歌詞，自動校準起始與結束拍點。
+  2. **第二軌 (Whisper 音訊軌) — `batch_calibrate_whisper.py`**：
+     - 若影片無 YouTube 字幕軌，下載該影片音訊，透過本機 `faster-whisper`（`base.en`，`word_timestamps=True`，`beam_size=5`）萃取單字級（Word-Level）毫秒波形時序。
+     - 以滑動視窗模糊序列匹配（Sliding-Window Fuzzy Matching, `threshold > 0.42`）將雙語歌詞每一句錨定至實際歌唱發音起點（消除前奏與唱詞間的隱性落差）。
+     - 執行單調遞增時長平滑（Monotonic Smoothing），防止前後句重疊。
+
+* **前端 60 FPS 實時平滑插值與知覺補償**：
+  1. **高精準動態插值**：`getExactPlaybackTime()` 僅在 `getCurrentTime()` 發生真值變動時記錄基準點，其餘時間以 `performance.now()` 高精準時鐘補足差值，並輔以 80ms 視聽知覺超前補償。
+  2. **智慧前奏倒數**：當 `time < cues[0].start - 0.5` 時，舞台呈現 `🎵 (前奏演奏中 · 倒數 Xs)`，杜絕第一句歌詞無謂早顯；開唱前 0.5 秒平滑淡入。
+  3. **智慧長間奏倒數與預載**：兩句之間間隔大於 4.5 秒時，自動顯示 `🎵 (間奏音樂演奏中 · 倒數 Xs)`，並在下一句開唱前 0.8 秒平滑預載，杜絕突兀與搶拍。
+  4. **零分配單字高亮**：`updateKaraokeWordHighlight()` 杜絕高頻 DOM 查詢與 GC 抖動，採一次性 class 差分切換。
 
 ---
 

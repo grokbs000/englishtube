@@ -1079,106 +1079,123 @@
     "type": "song",
     "cues": [
       {
-        "start": 7,
-        "duration": 5,
+        "start": 16.1,
+        "duration": 4.18,
         "en": "We were both young when I first saw you.",
-        "zh": "第一次看見你的時候，我們都還年輕。"
+        "zh": "第一次看見你的時候，我們都還年輕。",
+        "text": "We were both young when I first saw you."
       },
       {
-        "start": 13,
-        "duration": 5,
+        "start": 20.52,
+        "duration": 3.06,
         "en": "I close my eyes and the flashback starts:",
-        "zh": "我閉上眼睛，回憶的畫面開始浮現："
+        "zh": "我閉上眼睛，回憶的畫面開始浮現：",
+        "text": "I close my eyes and the flashback starts:"
       },
       {
-        "start": 19,
-        "duration": 5,
+        "start": 23.68,
+        "duration": 5.44,
         "en": "I'm standing there on a balcony in summer air.",
-        "zh": "我站在夏日微風中的陽台上。"
+        "zh": "我站在夏日微風中的陽台上。",
+        "text": "I'm standing there on a balcony in summer air."
       },
       {
-        "start": 26,
-        "duration": 5,
+        "start": 29.22,
+        "duration": 7.14,
         "en": "See the lights, see the party, the ball gowns,",
-        "zh": "看見燈光，看見派對，看見舞會禮服，"
+        "zh": "看見燈光，看見派對，看見舞會禮服，",
+        "text": "See the lights, see the party, the ball gowns,"
       },
       {
-        "start": 32,
-        "duration": 5,
+        "start": 36.76,
+        "duration": 3.02,
         "en": "see you make your way through the crowd",
-        "zh": "看見你穿越人群走來"
+        "zh": "看見你穿越人群走來",
+        "text": "see you make your way through the crowd"
       },
       {
-        "start": 37,
-        "duration": 5,
+        "start": 39.88,
+        "duration": 1.3,
         "en": "and say, 'Hello.'",
-        "zh": "然後說，「你好。」"
+        "zh": "然後說，「你好。」",
+        "text": "and say, 'Hello.'"
       },
       {
-        "start": 43,
-        "duration": 5,
+        "start": 42.5,
+        "duration": 1.76,
         "en": "Little did I know",
-        "zh": "我當時渾然不知"
+        "zh": "我當時渾然不知",
+        "text": "Little did I know"
       },
       {
-        "start": 48,
-        "duration": 5,
+        "start": 44.36,
+        "duration": 7.98,
         "en": "that you were Romeo, you were throwing pebbles,",
-        "zh": "原來你就是羅密歐，正在拋擲小石頭，"
+        "zh": "原來你就是羅密歐，正在拋擲小石頭，",
+        "text": "that you were Romeo, you were throwing pebbles,"
       },
       {
-        "start": 54,
-        "duration": 5,
+        "start": 52.44,
+        "duration": 3.0,
         "en": "and my daddy said, 'Stay away from Juliet.'",
-        "zh": "而我父親說，「離茱麗葉遠一點。」"
+        "zh": "而我父親說，「離茱麗葉遠一點。」",
+        "text": "and my daddy said, 'Stay away from Juliet.'"
       },
       {
-        "start": 61,
-        "duration": 5,
+        "start": 55.88,
+        "duration": 2.3,
         "en": "And I was crying on the staircase,",
-        "zh": "我坐在樓梯上哭泣，"
+        "zh": "我坐在樓梯上哭泣，",
+        "text": "And I was crying on the staircase,"
       },
       {
-        "start": 66,
-        "duration": 5,
+        "start": 58.28,
+        "duration": 3.22,
         "en": "begging you, 'Please don't go.'",
-        "zh": "懇求你，「請別走。」"
+        "zh": "懇求你，「請別走。」",
+        "text": "begging you, 'Please don't go.'"
       },
       {
-        "start": 72,
-        "duration": 5,
+        "start": 63.76,
+        "duration": 4.96,
         "en": "And I said, 'Romeo, take me somewhere we can be alone.'",
-        "zh": "於是我說，「羅密歐，帶我去一個只屬於我們的地方。」"
+        "zh": "於是我說，「羅密歐，帶我去一個只屬於我們的地方。」",
+        "text": "And I said, 'Romeo, take me somewhere we can be alone.'"
       },
       {
-        "start": 78,
-        "duration": 5,
+        "start": 68.82,
+        "duration": 4.16,
         "en": "'I'll be waiting. All there's left to do is run.'",
-        "zh": "「我將等候。剩下唯一要做的事，就是逃跑。」"
+        "zh": "「我將等候。剩下唯一要做的事，就是逃跑。」",
+        "text": "'I'll be waiting. All there's left to do is run.'"
       },
       {
-        "start": 84,
-        "duration": 6,
+        "start": 73.32,
+        "duration": 13.18,
         "en": "'You'll be the prince and I'll be the princess,",
-        "zh": "「你是王子，而我是公主，"
+        "zh": "「你是王子，而我是公主，",
+        "text": "'You'll be the prince and I'll be the princess,"
       },
       {
-        "start": 90,
-        "duration": 5,
+        "start": 102.6,
+        "duration": 3.62,
         "en": "it's a love story, baby, just say yes.'",
-        "zh": "這是一段愛情故事，寶貝，只要你說好。」"
+        "zh": "這是一段愛情故事，寶貝，只要你說好。」",
+        "text": "it's a love story, baby, just say yes.'"
       },
       {
-        "start": 98,
-        "duration": 5,
+        "start": 124.34,
+        "duration": 3.82,
         "en": "So I sneak out to the garden to see you,",
-        "zh": "於是我偷溜到花園來見你，"
+        "zh": "於是我偷溜到花園來見你，",
+        "text": "So I sneak out to the garden to see you,"
       },
       {
-        "start": 104,
-        "duration": 5,
+        "start": 143.42,
+        "duration": 2.8,
         "en": "we keep quiet 'cause we're dead if they knew.",
-        "zh": "我們保持安靜，因為若被發現我們就完了。"
+        "zh": "我們保持安靜，因為若被發現我們就完了。",
+        "text": "we keep quiet 'cause we're dead if they knew."
       },
       {
         "start": 110,
@@ -1187,64 +1204,74 @@
         "zh": "所以閉上眼睛，暫時逃離這座城鎮。"
       },
       {
-        "start": 117,
-        "duration": 5,
+        "start": 148.56,
+        "duration": 19.3,
         "en": "'Romeo, save me. I've been feeling so alone.'",
-        "zh": "「羅密歐，救救我。我感到如此孤單。」"
+        "zh": "「羅密歐，救救我。我感到如此孤單。」",
+        "text": "'Romeo, save me. I've been feeling so alone.'"
       },
       {
-        "start": 123,
-        "duration": 5,
+        "start": 186.52,
+        "duration": 2.86,
         "en": "'I keep waiting for you but you never come.'",
-        "zh": "「我一直等待著你，你卻始終未來。」"
+        "zh": "「我一直等待著你，你卻始終未來。」",
+        "text": "'I keep waiting for you but you never come.'"
       },
       {
-        "start": 129,
-        "duration": 5,
+        "start": 189.48,
+        "duration": 3.98,
         "en": "'Is this in my head? I don't know what to think.'",
-        "zh": "「這只是我的幻想嗎？我不知道該如何思考。」"
+        "zh": "「這只是我的幻想嗎？我不知道該如何思考。」",
+        "text": "'Is this in my head? I don't know what to think.'"
       },
       {
-        "start": 135,
-        "duration": 5,
+        "start": 193.92,
+        "duration": 4.04,
         "en": "He knelt to the ground and pulled out a ring and said,",
-        "zh": "他單膝跪地，拿出一枚戒指說，"
+        "zh": "他單膝跪地，拿出一枚戒指說，",
+        "text": "He knelt to the ground and pulled out a ring and said,"
       },
       {
-        "start": 141,
-        "duration": 5,
+        "start": 198.28,
+        "duration": 3.3,
         "en": "'Marry me, Juliet, you'll never have to be alone.'",
-        "zh": "「茱麗葉，嫁給我，你永遠不再孤單。」"
+        "zh": "「茱麗葉，嫁給我，你永遠不再孤單。」",
+        "text": "'Marry me, Juliet, you'll never have to be alone.'"
       },
       {
-        "start": 147,
-        "duration": 5,
+        "start": 202.34,
+        "duration": 3.64,
         "en": "'I love you and that's all I really know.'",
-        "zh": "「我愛你，這是我真正確信的一切。」"
+        "zh": "「我愛你，這是我真正確信的一切。」",
+        "text": "'I love you and that's all I really know.'"
       },
       {
-        "start": 153,
-        "duration": 5,
+        "start": 206.24,
+        "duration": 3.92,
         "en": "'I talked to your dad, go pick out a white dress.'",
-        "zh": "「我已和你父親談過了，去挑一件白色禮服吧。」"
+        "zh": "「我已和你父親談過了，去挑一件白色禮服吧。」",
+        "text": "'I talked to your dad, go pick out a white dress.'"
       },
       {
-        "start": 159,
-        "duration": 5,
+        "start": 210.64,
+        "duration": 3.26,
         "en": "'It's a love story, baby, just say yes.'",
-        "zh": "「這是一段愛情故事，寶貝，只要你說好。」"
+        "zh": "「這是一段愛情故事，寶貝，只要你說好。」",
+        "text": "'It's a love story, baby, just say yes.'"
       },
       {
-        "start": 166,
-        "duration": 5,
+        "start": 214.98,
+        "duration": 5.02,
         "en": "Oh, oh, oh,",
-        "zh": "哦，哦，哦，"
+        "zh": "哦，哦，哦，",
+        "text": "Oh, oh, oh,"
       },
       {
-        "start": 172,
-        "duration": 5,
+        "start": 214.98,
+        "duration": 5.02,
         "en": "oh, oh, oh, oh.",
-        "zh": "哦，哦，哦，哦。"
+        "zh": "哦，哦，哦，哦。",
+        "text": "oh, oh, oh, oh."
       },
       {
         "start": 178,
@@ -1259,10 +1286,11 @@
         "zh": "「我一直等待著你，你卻始終未來。」"
       },
       {
-        "start": 190,
-        "duration": 5,
+        "start": 228.66,
+        "duration": 2.2,
         "en": "Just say yes.",
-        "zh": "只要說好。"
+        "zh": "只要說好。",
+        "text": "Just say yes."
       },
       {
         "start": 196,
@@ -1271,10 +1299,11 @@
         "zh": "這段愛情故事，寶貝，只要說好。"
       },
       {
-        "start": 205,
-        "duration": 9,
+        "start": 228.66,
+        "duration": 2.2,
         "en": "Just say yes.",
-        "zh": "只要說好。"
+        "zh": "只要說好。",
+        "text": "Just say yes."
       }
     ],
     "channel": "Music"
@@ -1737,100 +1766,116 @@
     "type": "song",
     "cues": [
       {
-        "start": 15.5,
-        "duration": 5.5,
+        "start": 25.68,
+        "duration": 6.24,
         "en": "I'm wonderstruck, blushing all the way home",
-        "zh": "我驚喜萬分，一路臉紅地回家"
+        "zh": "我驚喜萬分，一路臉紅地回家",
+        "text": "I'm wonderstruck, blushing all the way home"
       },
       {
-        "start": 21.0,
-        "duration": 5.0,
+        "start": 67.38,
+        "duration": 4.86,
         "en": "I'll admit it now",
-        "zh": "我現在承認"
+        "zh": "我現在承認",
+        "text": "I'll admit it now"
       },
       {
-        "start": 26.0,
-        "duration": 5.0,
+        "start": 101.04,
+        "duration": 6.14,
         "en": "And I'll be wonderstruck, blushing all the way home",
-        "zh": "我會驚喜萬分，一路臉紅地回家"
+        "zh": "我會驚喜萬分，一路臉紅地回家",
+        "text": "And I'll be wonderstruck, blushing all the way home"
       },
       {
-        "start": 31.0,
-        "duration": 5.0,
+        "start": 131.9,
+        "duration": 4.72,
         "en": "I'll admit it now",
-        "zh": "我現在承認"
+        "zh": "我現在承認",
+        "text": "I'll admit it now"
       },
       {
-        "start": 36.0,
-        "duration": 5.0,
+        "start": 138.06,
+        "duration": 4.12,
         "en": "And I'll be wonderstruck, blushing all the way home",
-        "zh": "我會驚喜萬分，一路臉紅地回家"
+        "zh": "我會驚喜萬分，一路臉紅地回家",
+        "text": "And I'll be wonderstruck, blushing all the way home"
       },
       {
-        "start": 41.0,
-        "duration": 5.0,
+        "start": 152.48,
+        "duration": 6.56,
         "en": "I'll admit it now",
-        "zh": "我現在承認"
+        "zh": "我現在承認",
+        "text": "I'll admit it now"
       },
       {
-        "start": 46.0,
-        "duration": 5.0,
+        "start": 177.1,
+        "duration": 6.18,
         "en": "And I'll be wonderstruck, blushing all the way home",
-        "zh": "我會驚喜萬分，一路臉紅地回家"
+        "zh": "我會驚喜萬分，一路臉紅地回家",
+        "text": "And I'll be wonderstruck, blushing all the way home"
       },
       {
-        "start": 51.0,
-        "duration": 5.0,
+        "start": 199.76,
+        "duration": 2.32,
         "en": "I'll admit it now",
-        "zh": "我現在承認"
+        "zh": "我現在承認",
+        "text": "I'll admit it now"
       },
       {
-        "start": 56.0,
-        "duration": 5.0,
+        "start": 209.54,
+        "duration": 29.5,
         "en": "I'm wonderstruck, blushing all the way home",
-        "zh": "我驚喜萬分，一路臉紅地回家"
+        "zh": "我驚喜萬分，一路臉紅地回家",
+        "text": "I'm wonderstruck, blushing all the way home"
       },
       {
-        "start": 61.0,
-        "duration": 5.0,
+        "start": 240.38,
+        "duration": 2.26,
         "en": "I'll admit it now",
-        "zh": "我現在承認"
+        "zh": "我現在承認",
+        "text": "I'll admit it now"
       },
       {
-        "start": 66.0,
-        "duration": 5.0,
+        "start": 249.94,
+        "duration": 4.7,
         "en": "And I'll be wonderstruck, blushing all the way home",
-        "zh": "我會驚喜萬分，一路臉紅地回家"
+        "zh": "我會驚喜萬分，一路臉紅地回家",
+        "text": "And I'll be wonderstruck, blushing all the way home"
       },
       {
-        "start": 71.0,
-        "duration": 5.0,
+        "start": 255.88,
+        "duration": 1.8,
         "en": "I'll admit it now",
-        "zh": "我現在承認"
+        "zh": "我現在承認",
+        "text": "I'll admit it now"
       },
       {
-        "start": 76.0,
-        "duration": 5.0,
+        "start": 292.96,
+        "duration": 5.54,
         "en": "And I'll be wonderstruck, blushing all the way home",
-        "zh": "我會驚喜萬分，一路臉紅地回家"
+        "zh": "我會驚喜萬分，一路臉紅地回家",
+        "text": "And I'll be wonderstruck, blushing all the way home"
       },
       {
-        "start": 81.0,
-        "duration": 5.0,
+        "start": 316.84,
+        "duration": 2.34,
         "en": "I'll admit it now",
-        "zh": "我現在承認"
+        "zh": "我現在承認",
+        "text": "I'll admit it now"
       },
       {
-        "start": 86.0,
-        "duration": 5.0,
+        "start": 321.72,
+        "duration": 7.54,
         "en": "And I'll be wonderstruck, blushing all the way home",
-        "zh": "我會驚喜萬分，一路臉紅地回家"
+        "zh": "我會驚喜萬分，一路臉紅地回家",
+        "text": "And I'll be wonderstruck, blushing all the way home"
       },
       {
-        "start": 91.0,
-        "duration": 5.0,
+        "start": 329.66,
+        "duration": 2.2,
         "en": "I'll admit it now",
-        "zh": "我現在承認"
+        "zh": "我現在承認",
+        "text": "I'll admit it now"
       },
       {
         "start": 96.0,
@@ -1839,10 +1884,11 @@
         "zh": "我驚喜萬分，一路臉紅地回家"
       },
       {
-        "start": 101.0,
-        "duration": 5.0,
+        "start": 329.66,
+        "duration": 2.2,
         "en": "I'll admit it now",
-        "zh": "我現在承認"
+        "zh": "我現在承認",
+        "text": "I'll admit it now"
       },
       {
         "start": 106.0,
@@ -1851,10 +1897,11 @@
         "zh": "我會驚喜萬分，一路臉紅地回家"
       },
       {
-        "start": 111.0,
-        "duration": 5.0,
+        "start": 329.66,
+        "duration": 2.2,
         "en": "I'll admit it now",
-        "zh": "我現在承認"
+        "zh": "我現在承認",
+        "text": "I'll admit it now"
       },
       {
         "start": 116.0,
@@ -1863,10 +1910,11 @@
         "zh": "我會驚喜萬分，一路臉紅地回家"
       },
       {
-        "start": 121.0,
-        "duration": 5.0,
+        "start": 329.66,
+        "duration": 2.2,
         "en": "I'll admit it now",
-        "zh": "我現在承認"
+        "zh": "我現在承認",
+        "text": "I'll admit it now"
       },
       {
         "start": 126.0,
@@ -1875,10 +1923,11 @@
         "zh": "我會驚喜萬分，一路臉紅地回家"
       },
       {
-        "start": 131.0,
-        "duration": 5.0,
+        "start": 329.66,
+        "duration": 2.2,
         "en": "I'll admit it now",
-        "zh": "我現在承認"
+        "zh": "我現在承認",
+        "text": "I'll admit it now"
       },
       {
         "start": 136.0,
@@ -1887,10 +1936,11 @@
         "zh": "我驚喜萬分，一路臉紅地回家"
       },
       {
-        "start": 141.0,
-        "duration": 5.0,
+        "start": 329.66,
+        "duration": 2.2,
         "en": "I'll admit it now",
-        "zh": "我現在承認"
+        "zh": "我現在承認",
+        "text": "I'll admit it now"
       },
       {
         "start": 146.0,
@@ -1899,10 +1949,11 @@
         "zh": "我會驚喜萬分，一路臉紅地回家"
       },
       {
-        "start": 151.0,
-        "duration": 5.0,
+        "start": 329.66,
+        "duration": 2.2,
         "en": "I'll admit it now",
-        "zh": "我現在承認"
+        "zh": "我現在承認",
+        "text": "I'll admit it now"
       },
       {
         "start": 156.0,
@@ -1911,10 +1962,11 @@
         "zh": "我會驚喜萬分，一路臉紅地回家"
       },
       {
-        "start": 161.0,
-        "duration": 5.0,
+        "start": 329.66,
+        "duration": 2.2,
         "en": "I'll admit it now",
-        "zh": "我現在承認"
+        "zh": "我現在承認",
+        "text": "I'll admit it now"
       },
       {
         "start": 166.0,
@@ -1923,10 +1975,11 @@
         "zh": "我會驚喜萬分，一路臉紅地回家"
       },
       {
-        "start": 171.0,
-        "duration": 5.0,
+        "start": 329.66,
+        "duration": 2.2,
         "en": "I'll admit it now",
-        "zh": "我現在承認"
+        "zh": "我現在承認",
+        "text": "I'll admit it now"
       },
       {
         "start": 176.0,
@@ -1935,10 +1988,11 @@
         "zh": "我驚喜萬分，一路臉紅地回家"
       },
       {
-        "start": 181.0,
-        "duration": 5.0,
+        "start": 329.66,
+        "duration": 2.2,
         "en": "I'll admit it now",
-        "zh": "我現在承認"
+        "zh": "我現在承認",
+        "text": "I'll admit it now"
       },
       {
         "start": 186.0,
@@ -1947,10 +2001,11 @@
         "zh": "我會驚喜萬分，一路臉紅地回家"
       },
       {
-        "start": 191.0,
-        "duration": 5.0,
+        "start": 329.66,
+        "duration": 2.2,
         "en": "I'll admit it now",
-        "zh": "我現在承認"
+        "zh": "我現在承認",
+        "text": "I'll admit it now"
       },
       {
         "start": 196.0,
@@ -1959,10 +2014,11 @@
         "zh": "我會驚喜萬分，一路臉紅地回家"
       },
       {
-        "start": 201.0,
-        "duration": 5.0,
+        "start": 329.66,
+        "duration": 2.2,
         "en": "I'll admit it now",
-        "zh": "我現在承認"
+        "zh": "我現在承認",
+        "text": "I'll admit it now"
       },
       {
         "start": 206.0,
@@ -1971,10 +2027,11 @@
         "zh": "我會驚喜萬分，一路臉紅地回家"
       },
       {
-        "start": 211.0,
-        "duration": 5.0,
+        "start": 329.66,
+        "duration": 2.2,
         "en": "I'll admit it now",
-        "zh": "我現在承認"
+        "zh": "我現在承認",
+        "text": "I'll admit it now"
       },
       {
         "start": 216.0,
@@ -1983,10 +2040,11 @@
         "zh": "我驚喜萬分，一路臉紅地回家"
       },
       {
-        "start": 221.0,
-        "duration": 5.0,
+        "start": 329.66,
+        "duration": 2.2,
         "en": "I'll admit it now",
-        "zh": "我現在承認"
+        "zh": "我現在承認",
+        "text": "I'll admit it now"
       },
       {
         "start": 226.0,
@@ -1995,10 +2053,11 @@
         "zh": "我會驚喜萬分，一路臉紅地回家"
       },
       {
-        "start": 231.0,
-        "duration": 5.0,
+        "start": 329.66,
+        "duration": 2.2,
         "en": "I'll admit it now",
-        "zh": "我現在承認"
+        "zh": "我現在承認",
+        "text": "I'll admit it now"
       },
       {
         "start": 236.0,
@@ -2007,10 +2066,11 @@
         "zh": "我會驚喜萬分，一路臉紅地回家"
       },
       {
-        "start": 241.0,
-        "duration": 5.0,
+        "start": 329.66,
+        "duration": 2.2,
         "en": "I'll admit it now",
-        "zh": "我現在承認"
+        "zh": "我現在承認",
+        "text": "I'll admit it now"
       },
       {
         "start": 246.0,
@@ -2019,10 +2079,11 @@
         "zh": "我會驚喜萬分，一路臉紅地回家"
       },
       {
-        "start": 251.0,
-        "duration": 5.0,
+        "start": 329.66,
+        "duration": 2.2,
         "en": "I'll admit it now",
-        "zh": "我現在承認"
+        "zh": "我現在承認",
+        "text": "I'll admit it now"
       },
       {
         "start": 256.0,
@@ -2031,10 +2092,11 @@
         "zh": "我驚喜萬分，一路臉紅地回家"
       },
       {
-        "start": 261.0,
-        "duration": 5.0,
+        "start": 329.66,
+        "duration": 2.2,
         "en": "I'll admit it now",
-        "zh": "我現在承認"
+        "zh": "我現在承認",
+        "text": "I'll admit it now"
       },
       {
         "start": 266.0,
@@ -2043,10 +2105,11 @@
         "zh": "我會驚喜萬分，一路臉紅地回家"
       },
       {
-        "start": 271.0,
-        "duration": 5.0,
+        "start": 329.66,
+        "duration": 2.2,
         "en": "I'll admit it now",
-        "zh": "我現在承認"
+        "zh": "我現在承認",
+        "text": "I'll admit it now"
       },
       {
         "start": 276.0,
@@ -2055,10 +2118,11 @@
         "zh": "我會驚喜萬分，一路臉紅地回家"
       },
       {
-        "start": 281.0,
-        "duration": 5.0,
+        "start": 329.66,
+        "duration": 2.2,
         "en": "I'll admit it now",
-        "zh": "我現在承認"
+        "zh": "我現在承認",
+        "text": "I'll admit it now"
       },
       {
         "start": 286.0,
@@ -2067,10 +2131,11 @@
         "zh": "我會驚喜萬分，一路臉紅地回家"
       },
       {
-        "start": 291.0,
-        "duration": 5.0,
+        "start": 329.66,
+        "duration": 2.2,
         "en": "I'll admit it now",
-        "zh": "我現在承認"
+        "zh": "我現在承認",
+        "text": "I'll admit it now"
       },
       {
         "start": 296.0,
@@ -2079,10 +2144,11 @@
         "zh": "我驚喜萬分，一路臉紅地回家"
       },
       {
-        "start": 301.0,
-        "duration": 5.0,
+        "start": 329.66,
+        "duration": 2.2,
         "en": "I'll admit it now",
-        "zh": "我現在承認"
+        "zh": "我現在承認",
+        "text": "I'll admit it now"
       },
       {
         "start": 306.0,
@@ -2091,10 +2157,11 @@
         "zh": "我會驚喜萬分，一路臉紅地回家"
       },
       {
-        "start": 311.0,
-        "duration": 5.0,
+        "start": 329.66,
+        "duration": 2.2,
         "en": "I'll admit it now",
-        "zh": "我現在承認"
+        "zh": "我現在承認",
+        "text": "I'll admit it now"
       },
       {
         "start": 316.0,
@@ -2103,22 +2170,24 @@
         "zh": "我會驚喜萬分，一路臉紅地回家"
       },
       {
-        "start": 321.0,
-        "duration": 5.0,
+        "start": 329.66,
+        "duration": 2.2,
         "en": "I'll admit it now",
-        "zh": "我現在承認"
+        "zh": "我現在承認",
+        "text": "I'll admit it now"
       },
       {
         "start": 326.0,
-        "duration": 5.0,
+        "duration": 3.56,
         "en": "And I'll be wonderstruck, blushing all the way home",
         "zh": "我會驚喜萬分，一路臉紅地回家"
       },
       {
-        "start": 331.0,
-        "duration": 5.0,
+        "start": 329.66,
+        "duration": 2.2,
         "en": "I'll admit it now",
-        "zh": "我現在承認"
+        "zh": "我現在承認",
+        "text": "I'll admit it now"
       },
       {
         "start": 336.0,
@@ -2127,10 +2196,11 @@
         "zh": "我驚喜萬分，一路臉紅地回家"
       },
       {
-        "start": 341.0,
-        "duration": 5.0,
+        "start": 329.66,
+        "duration": 2.2,
         "en": "I'll admit it now",
-        "zh": "我現在承認"
+        "zh": "我現在承認",
+        "text": "I'll admit it now"
       }
     ],
     "channel": "Music"
@@ -4231,172 +4301,200 @@
     "type": "song",
     "cues": [
       {
-        "start": 20,
-        "duration": 5,
+        "start": 19.5,
+        "duration": 4.0,
         "en": "Heart beats fast,",
-        "zh": "心跳加速，"
+        "zh": "心跳加速，",
+        "text": "Heart beats fast,"
       },
       {
-        "start": 25,
-        "duration": 5,
+        "start": 24.3,
+        "duration": 2.84,
         "en": "colors and promises.",
-        "zh": "色彩與承諾。"
+        "zh": "色彩與承諾。",
+        "text": "colors and promises."
       },
       {
-        "start": 30,
-        "duration": 5,
+        "start": 27.24,
+        "duration": 3.92,
         "en": "How to be brave?",
-        "zh": "如何鼓起勇氣？"
+        "zh": "如何鼓起勇氣？",
+        "text": "How to be brave?"
       },
       {
-        "start": 35,
-        "duration": 5,
+        "start": 32.18,
+        "duration": 6.54,
         "en": "How can I love when I'm afraid to fall?",
-        "zh": "當我害怕跌落，我怎能去愛？"
+        "zh": "當我害怕跌落，我怎能去愛？",
+        "text": "How can I love when I'm afraid to fall?"
       },
       {
-        "start": 42,
-        "duration": 5,
+        "start": 39.78,
+        "duration": 2.7,
         "en": "Watching you stand alone,",
-        "zh": "望著你孤立一旁，"
+        "zh": "望著你孤立一旁，",
+        "text": "Watching you stand alone,"
       },
       {
-        "start": 47,
-        "duration": 5,
+        "start": 42.58,
+        "duration": 8.62,
         "en": "all of my doubt suddenly goes away somehow.",
-        "zh": "我所有的疑惑竟在不知不覺間消散了。"
+        "zh": "我所有的疑惑竟在不知不覺間消散了。",
+        "text": "all of my doubt suddenly goes away somehow."
       },
       {
-        "start": 55,
-        "duration": 5,
+        "start": 52.94,
+        "duration": 4.52,
         "en": "One step closer.",
-        "zh": "又靠近了一步。"
+        "zh": "又靠近了一步。",
+        "text": "One step closer."
       },
       {
-        "start": 62,
-        "duration": 5,
+        "start": 61.2,
+        "duration": 5.08,
         "en": "I have died every day waiting for you.",
-        "zh": "我每一天都在等待你的到來，等到如同死去。"
+        "zh": "我每一天都在等待你的到來，等到如同死去。",
+        "text": "I have died every day waiting for you."
       },
       {
-        "start": 68,
-        "duration": 5,
+        "start": 66.38,
+        "duration": 2.54,
         "en": "Darling, don't be afraid,",
-        "zh": "親愛的，別害怕，"
+        "zh": "親愛的，別害怕，",
+        "text": "Darling, don't be afraid,"
       },
       {
-        "start": 73,
-        "duration": 5,
+        "start": 69.02,
+        "duration": 5.68,
         "en": "I have loved you for a thousand years.",
-        "zh": "我已經愛了你千年。"
+        "zh": "我已經愛了你千年。",
+        "text": "I have loved you for a thousand years."
       },
       {
-        "start": 79,
-        "duration": 5,
+        "start": 74.8,
+        "duration": 5.54,
         "en": "I'll love you for a thousand more.",
-        "zh": "我還會再愛你千年。"
+        "zh": "我還會再愛你千年。",
+        "text": "I'll love you for a thousand more."
       },
       {
-        "start": 86,
-        "duration": 5,
+        "start": 88.0,
+        "duration": 2.7,
         "en": "Time stands still,",
-        "zh": "時間靜止，"
+        "zh": "時間靜止，",
+        "text": "Time stands still,"
       },
       {
-        "start": 91,
-        "duration": 5,
+        "start": 91.34,
+        "duration": 4.76,
         "en": "beauty in all she is.",
-        "zh": "她周身散發著美麗。"
+        "zh": "她周身散發著美麗。",
+        "text": "beauty in all she is."
       },
       {
-        "start": 96,
-        "duration": 5,
+        "start": 96.26,
+        "duration": 1.9,
         "en": "I will be brave,",
-        "zh": "我將鼓起勇氣，"
+        "zh": "我將鼓起勇氣，",
+        "text": "I will be brave,"
       },
       {
-        "start": 101,
-        "duration": 5,
+        "start": 98.26,
+        "duration": 5.04,
         "en": "I will not let anything take away",
-        "zh": "我不會讓任何事物帶走"
+        "zh": "我不會讓任何事物帶走",
+        "text": "I will not let anything take away"
       },
       {
-        "start": 106,
-        "duration": 5,
+        "start": 103.4,
+        "duration": 7.84,
         "en": "what's standing in front of me.",
-        "zh": "站在我面前的這一切。"
+        "zh": "站在我面前的這一切。",
+        "text": "what's standing in front of me."
       },
       {
-        "start": 113,
-        "duration": 5,
+        "start": 111.98,
+        "duration": 7.4,
         "en": "Every breath, every hour has come to this.",
-        "zh": "每一次呼吸，每一個小時，都是為了這一刻。"
+        "zh": "每一次呼吸，每一個小時，都是為了這一刻。",
+        "text": "Every breath, every hour has come to this."
       },
       {
-        "start": 121,
-        "duration": 5,
+        "start": 120.14,
+        "duration": 4.34,
         "en": "One step closer.",
-        "zh": "又靠近了一步。"
+        "zh": "又靠近了一步。",
+        "text": "One step closer."
       },
       {
-        "start": 128,
-        "duration": 5,
+        "start": 127.74,
+        "duration": 5.62,
         "en": "I have died every day waiting for you.",
-        "zh": "我每一天都在等待你的到來，等到如同死去。"
+        "zh": "我每一天都在等待你的到來，等到如同死去。",
+        "text": "I have died every day waiting for you."
       },
       {
-        "start": 134,
-        "duration": 5,
+        "start": 133.46,
+        "duration": 2.7,
         "en": "Darling, don't be afraid,",
-        "zh": "親愛的，別害怕，"
+        "zh": "親愛的，別害怕，",
+        "text": "Darling, don't be afraid,"
       },
       {
-        "start": 139,
-        "duration": 5,
+        "start": 136.26,
+        "duration": 5.5,
         "en": "I have loved you for a thousand years.",
-        "zh": "我已經愛了你千年。"
+        "zh": "我已經愛了你千年。",
+        "text": "I have loved you for a thousand years."
       },
       {
-        "start": 145,
-        "duration": 5,
+        "start": 142.46,
+        "duration": 3.3,
         "en": "I'll love you for a thousand more.",
-        "zh": "我還會再愛你千年。"
+        "zh": "我還會再愛你千年。",
+        "text": "I'll love you for a thousand more."
       },
       {
-        "start": 152,
-        "duration": 5,
+        "start": 145.86,
+        "duration": 8.4,
         "en": "And all along I believed I would find you.",
-        "zh": "一直以來，我相信我會找到你。"
+        "zh": "一直以來，我相信我會找到你。",
+        "text": "And all along I believed I would find you."
       },
       {
-        "start": 158,
-        "duration": 5,
+        "start": 154.36,
+        "duration": 2.7,
         "en": "Time has brought your heart to me.",
-        "zh": "時光把你的心帶到我身邊。"
+        "zh": "時光把你的心帶到我身邊。",
+        "text": "Time has brought your heart to me."
       },
       {
-        "start": 164,
-        "duration": 5,
+        "start": 157.16,
+        "duration": 5.72,
         "en": "I have loved you for a thousand years.",
-        "zh": "我已經愛了你千年。"
+        "zh": "我已經愛了你千年。",
+        "text": "I have loved you for a thousand years."
       },
       {
-        "start": 170,
-        "duration": 5,
+        "start": 225.42,
+        "duration": 5.5,
         "en": "I'll love you for a thousand more.",
-        "zh": "我還會再愛你千年。"
+        "zh": "我還會再愛你千年。",
+        "text": "I'll love you for a thousand more."
       },
       {
-        "start": 178,
-        "duration": 5,
+        "start": 244.84,
+        "duration": 2.44,
         "en": "One step closer.",
-        "zh": "又靠近了一步。"
+        "zh": "又靠近了一步。",
+        "text": "One step closer."
       },
       {
-        "start": 183,
-        "duration": 5,
+        "start": 244.84,
+        "duration": 2.44,
         "en": "One step closer.",
-        "zh": "又靠近了一步。"
+        "zh": "又靠近了一步。",
+        "text": "One step closer."
       },
       {
         "start": 190,
@@ -4405,10 +4503,11 @@
         "zh": "我每一天都在等待你的到來，等到如同死去。"
       },
       {
-        "start": 196,
-        "duration": 5,
+        "start": 286.36,
+        "duration": 1.4,
         "en": "Darling, don't be afraid,",
-        "zh": "親愛的，別害怕，"
+        "zh": "親愛的，別害怕，",
+        "text": "Darling, don't be afraid,"
       },
       {
         "start": 201,
@@ -7007,16 +7106,18 @@
     "type": "song",
     "cues": [
       {
-        "start": 14.5,
-        "duration": 5.2,
+        "start": 14.82,
+        "duration": 3.38,
         "en": "Got me thinking 'bout the future",
-        "zh": "讓我想起我們的未來"
+        "zh": "讓我想起我們的未來",
+        "text": "Got me thinking 'bout the future"
       },
       {
-        "start": 19.7,
-        "duration": 5.8,
+        "start": 30.86,
+        "duration": 3.8,
         "en": "And the life we're gonna build",
-        "zh": "和我們將要建立的生活"
+        "zh": "和我們將要建立的生活",
+        "text": "And the life we're gonna build"
       },
       {
         "start": 25.5,
@@ -7025,230 +7126,240 @@
         "zh": "讓我想起我們的孩子們"
       },
       {
-        "start": 30.5,
-        "duration": 5.5,
+        "start": 41.12,
+        "duration": 3.38,
         "en": "And the love they're gonna feel",
-        "zh": "和他們將感受到的愛"
+        "zh": "和他們將感受到的愛",
+        "text": "And the love they're gonna feel"
       },
       {
-        "start": 36.0,
-        "duration": 6.0,
+        "start": 77.64,
+        "duration": 3.38,
         "en": "And I'm thinking 'bout forever",
-        "zh": "我想著永恆"
+        "zh": "我想著永恆",
+        "text": "And I'm thinking 'bout forever"
       },
       {
-        "start": 42.0,
-        "duration": 6.5,
+        "start": 77.64,
+        "duration": 4.44,
         "en": "And the vows we're gonna make",
-        "zh": "和我們將要許下的誓言"
+        "zh": "和我們將要許下的誓言",
+        "text": "And the vows we're gonna make"
       },
       {
-        "start": 48.5,
-        "duration": 5.0,
+        "start": 99.1,
+        "duration": 1.2,
         "en": "And I'm thinking 'bout you, baby",
-        "zh": "寶貝，我在想著妳"
+        "zh": "寶貝，我在想著妳",
+        "text": "And I'm thinking 'bout you, baby"
       },
       {
-        "start": 53.5,
-        "duration": 5.5,
+        "start": 99.72,
+        "duration": 3.48,
         "en": "And the love you're gonna give",
-        "zh": "和妳將要給予的愛"
+        "zh": "和妳將要給予的愛",
+        "text": "And the love you're gonna give"
       },
       {
-        "start": 59.0,
-        "duration": 4.0,
+        "start": 110.78,
+        "duration": 2.14,
         "en": "And I'm thinking 'bout you, baby",
-        "zh": "寶貝，我在想著妳"
+        "zh": "寶貝，我在想著妳",
+        "text": "And I'm thinking 'bout you, baby"
       },
       {
-        "start": 63.0,
-        "duration": 4.0,
+        "start": 159.24,
+        "duration": 2.52,
         "en": "And the love you're gonna give",
-        "zh": "和妳將要給予的愛"
+        "zh": "和妳將要給予的愛",
+        "text": "And the love you're gonna give"
       },
       {
-        "start": 67.0,
-        "duration": 5.0,
+        "start": 187.54,
+        "duration": 1.2,
         "en": "And I'm thinking 'bout you, baby",
-        "zh": "寶貝，我在想著妳"
+        "zh": "寶貝，我在想著妳",
+        "text": "And I'm thinking 'bout you, baby"
       },
       {
-        "start": 72.0,
-        "duration": 5.0,
+        "start": 188.1,
+        "duration": 3.5,
         "en": "And the love you're gonna give",
-        "zh": "和妳將要給予的愛"
+        "zh": "和妳將要給予的愛",
+        "text": "And the love you're gonna give"
       },
       {
-        "start": 77.0,
-        "duration": 5.0,
+        "start": 199.2,
+        "duration": 2.16,
         "en": "And I'm thinking 'bout you, baby",
-        "zh": "寶貝，我在想著妳"
+        "zh": "寶貝，我在想著妳",
+        "text": "And I'm thinking 'bout you, baby"
       },
       {
         "start": 82.0,
-        "duration": 5.0,
+        "duration": 4.9,
         "en": "And the love you're gonna give",
         "zh": "和妳將要給予的愛"
       },
       {
         "start": 87.0,
-        "duration": 5.0,
+        "duration": 4.9,
         "en": "And I'm thinking 'bout you, baby",
         "zh": "寶貝，我在想著妳"
       },
       {
         "start": 92.0,
-        "duration": 5.0,
+        "duration": 4.9,
         "en": "And the love you're gonna give",
         "zh": "和妳將要給予的愛"
       },
       {
         "start": 97.0,
-        "duration": 5.0,
+        "duration": 4.9,
         "en": "And I'm thinking 'bout you, baby",
         "zh": "寶貝，我在想著妳"
       },
       {
         "start": 102.0,
-        "duration": 5.0,
+        "duration": 4.9,
         "en": "And the love you're gonna give",
         "zh": "和妳將要給予的愛"
       },
       {
         "start": 107.0,
-        "duration": 5.0,
+        "duration": 4.9,
         "en": "And I'm thinking 'bout you, baby",
         "zh": "寶貝，我在想著妳"
       },
       {
         "start": 112.0,
-        "duration": 5.0,
+        "duration": 4.9,
         "en": "And the love you're gonna give",
         "zh": "和妳將要給予的愛"
       },
       {
         "start": 117.0,
-        "duration": 5.0,
+        "duration": 4.9,
         "en": "And I'm thinking 'bout you, baby",
         "zh": "寶貝，我在想著妳"
       },
       {
         "start": 122.0,
-        "duration": 5.0,
+        "duration": 4.9,
         "en": "And the love you're gonna give",
         "zh": "和妳將要給予的愛"
       },
       {
         "start": 127.0,
-        "duration": 5.0,
+        "duration": 4.9,
         "en": "And I'm thinking 'bout you, baby",
         "zh": "寶貝，我在想著妳"
       },
       {
         "start": 132.0,
-        "duration": 5.0,
+        "duration": 4.9,
         "en": "And the love you're gonna give",
         "zh": "和妳將要給予的愛"
       },
       {
         "start": 137.0,
-        "duration": 5.0,
+        "duration": 4.9,
         "en": "And I'm thinking 'bout you, baby",
         "zh": "寶貝，我在想著妳"
       },
       {
         "start": 142.0,
-        "duration": 5.0,
+        "duration": 4.9,
         "en": "And the love you're gonna give",
         "zh": "和妳將要給予的愛"
       },
       {
         "start": 147.0,
-        "duration": 5.0,
+        "duration": 4.9,
         "en": "And I'm thinking 'bout you, baby",
         "zh": "寶貝，我在想著妳"
       },
       {
         "start": 152.0,
-        "duration": 5.0,
+        "duration": 4.9,
         "en": "And the love you're gonna give",
         "zh": "和妳將要給予的愛"
       },
       {
         "start": 157.0,
-        "duration": 5.0,
+        "duration": 4.9,
         "en": "And I'm thinking 'bout you, baby",
         "zh": "寶貝，我在想著妳"
       },
       {
         "start": 162.0,
-        "duration": 5.0,
+        "duration": 4.9,
         "en": "And the love you're gonna give",
         "zh": "和妳將要給予的愛"
       },
       {
         "start": 167.0,
-        "duration": 5.0,
+        "duration": 4.9,
         "en": "And I'm thinking 'bout you, baby",
         "zh": "寶貝，我在想著妳"
       },
       {
         "start": 172.0,
-        "duration": 5.0,
+        "duration": 4.9,
         "en": "And the love you're gonna give",
         "zh": "和妳將要給予的愛"
       },
       {
         "start": 177.0,
-        "duration": 5.0,
+        "duration": 4.9,
         "en": "And I'm thinking 'bout you, baby",
         "zh": "寶貝，我在想著妳"
       },
       {
         "start": 182.0,
-        "duration": 5.0,
+        "duration": 4.9,
         "en": "And the love you're gonna give",
         "zh": "和妳將要給予的愛"
       },
       {
         "start": 187.0,
-        "duration": 5.0,
+        "duration": 4.9,
         "en": "And I'm thinking 'bout you, baby",
         "zh": "寶貝，我在想著妳"
       },
       {
         "start": 192.0,
-        "duration": 5.0,
+        "duration": 4.9,
         "en": "And the love you're gonna give",
         "zh": "和妳將要給予的愛"
       },
       {
         "start": 197.0,
-        "duration": 5.0,
+        "duration": 4.9,
         "en": "And I'm thinking 'bout you, baby",
         "zh": "寶貝，我在想著妳"
       },
       {
         "start": 202.0,
-        "duration": 5.0,
+        "duration": 4.9,
         "en": "And the love you're gonna give",
         "zh": "和妳將要給予的愛"
       },
       {
         "start": 207.0,
-        "duration": 5.0,
+        "duration": 4.9,
         "en": "And I'm thinking 'bout you, baby",
         "zh": "寶貝，我在想著妳"
       },
       {
         "start": 212.0,
-        "duration": 5.0,
+        "duration": 4.9,
         "en": "And the love you're gonna give",
         "zh": "和妳將要給予的愛"
       },
       {
         "start": 217.0,
-        "duration": 5.0,
+        "duration": 4.9,
         "en": "And I'm thinking 'bout you, baby",
         "zh": "寶貝，我在想著妳"
       },
@@ -7370,32 +7481,36 @@
     "type": "song",
     "cues": [
       {
-        "start": 14.5,
-        "duration": 5.5,
+        "start": 59.52,
+        "duration": 5.68,
         "en": "When I am down and, oh, my soul is weary;",
-        "zh": "當我失落，靈魂疲憊不堪時；"
+        "zh": "當我失落，靈魂疲憊不堪時；",
+        "text": "When I am down and, oh, my soul is weary;"
       },
       {
-        "start": 20.0,
-        "duration": 6.0,
+        "start": 66.92,
+        "duration": 7.28,
         "en": "When troubles come and my heart burdened be.",
-        "zh": "當煩惱來襲，我心負擔沉重。"
+        "zh": "當煩惱來襲，我心負擔沉重。",
+        "text": "When troubles come and my heart burdened be."
       },
       {
-        "start": 26.0,
-        "duration": 6.0,
+        "start": 75.62,
+        "duration": 6.14,
         "en": "Then I am calling, and, oh, my dear Savior,",
-        "zh": "我便呼喚，我親愛的主；"
+        "zh": "我便呼喚，我親愛的主；",
+        "text": "Then I am calling, and, oh, my dear Savior,"
       },
       {
-        "start": 32.0,
-        "duration": 6.0,
+        "start": 90.34,
+        "duration": 9.82,
         "en": "You lift me up, and I will stand on eagles' wings.",
-        "zh": "祢將我高舉，我將展翅翱翔。"
+        "zh": "祢將我高舉，我將展翅翱翔。",
+        "text": "You lift me up, and I will stand on eagles' wings."
       },
       {
         "start": 38.0,
-        "duration": 4.0,
+        "duration": 3.9,
         "en": "Fly:",
         "zh": "飛翔："
       },
@@ -7406,70 +7521,81 @@
         "zh": "飛翔。"
       },
       {
-        "start": 47.0,
-        "duration": 5.0,
+        "start": 101.36,
+        "duration": 2.6,
         "en": "You raise me up:",
-        "zh": "祢將我高舉："
+        "zh": "祢將我高舉：",
+        "text": "You raise me up:"
       },
       {
-        "start": 52.0,
-        "duration": 5.0,
+        "start": 166.88,
+        "duration": 3.08,
         "en": "So I can stand on mountains.",
-        "zh": "使我能立於山巔。"
+        "zh": "使我能立於山巔。",
+        "text": "So I can stand on mountains."
       },
       {
-        "start": 57.0,
-        "duration": 5.0,
+        "start": 170.96,
+        "duration": 2.82,
         "en": "You raise me up:",
-        "zh": "祢將我高舉："
+        "zh": "祢將我高舉：",
+        "text": "You raise me up:"
       },
       {
-        "start": 62.0,
-        "duration": 5.0,
+        "start": 174.64,
+        "duration": 2.54,
         "en": "To walk on stormy seas.",
-        "zh": "使我能踏過風浪。"
+        "zh": "使我能踏過風浪。",
+        "text": "To walk on stormy seas."
       },
       {
-        "start": 67.0,
-        "duration": 5.0,
+        "start": 187.96,
+        "duration": 2.2,
         "en": "You raise me up:",
-        "zh": "祢將我高舉："
+        "zh": "祢將我高舉：",
+        "text": "You raise me up:"
       },
       {
-        "start": 72.0,
-        "duration": 5.0,
+        "start": 190.96,
+        "duration": 2.68,
         "en": "To be a warrior.",
-        "zh": "使我成為勇士。"
+        "zh": "使我成為勇士。",
+        "text": "To be a warrior."
       },
       {
-        "start": 77.0,
-        "duration": 5.0,
+        "start": 232.76,
+        "duration": 2.48,
         "en": "And stand on mountains.",
-        "zh": "立於山巔。"
+        "zh": "立於山巔。",
+        "text": "And stand on mountains."
       },
       {
-        "start": 82.0,
-        "duration": 5.0,
+        "start": 239.84,
+        "duration": 2.44,
         "en": "And walk on stormy seas.",
-        "zh": "踏過風浪。"
+        "zh": "踏過風浪。",
+        "text": "And walk on stormy seas."
       },
       {
-        "start": 87.0,
-        "duration": 5.0,
+        "start": 251.54,
+        "duration": 2.7,
         "en": "You raise me up:",
-        "zh": "祢將我高舉："
+        "zh": "祢將我高舉：",
+        "text": "You raise me up:"
       },
       {
-        "start": 92.0,
-        "duration": 5.0,
+        "start": 254.34,
+        "duration": 2.92,
         "en": "To be a warrior.",
-        "zh": "使我成為勇士。"
+        "zh": "使我成為勇士。",
+        "text": "To be a warrior."
       },
       {
-        "start": 97.0,
-        "duration": 5.0,
+        "start": 257.36,
+        "duration": 8.56,
         "en": "And stand on mountains.",
-        "zh": "立於山巔。"
+        "zh": "立於山巔。",
+        "text": "And stand on mountains."
       },
       {
         "start": 102.0,
@@ -7478,22 +7604,25 @@
         "zh": "踏過風浪。"
       },
       {
-        "start": 107.0,
-        "duration": 5.0,
+        "start": 263.74,
+        "duration": 3.98,
         "en": "You raise me up:",
-        "zh": "祢將我高舉："
+        "zh": "祢將我高舉：",
+        "text": "You raise me up:"
       },
       {
-        "start": 112.0,
-        "duration": 5.0,
+        "start": 268.44,
+        "duration": 2.6,
         "en": "To be a warrior.",
-        "zh": "使我成為勇士。"
+        "zh": "使我成為勇士。",
+        "text": "To be a warrior."
       },
       {
-        "start": 117.0,
-        "duration": 5.0,
+        "start": 271.14,
+        "duration": 26.42,
         "en": "And stand on mountains.",
-        "zh": "立於山巔。"
+        "zh": "立於山巔。",
+        "text": "And stand on mountains."
       },
       {
         "start": 122.0,
@@ -7502,20 +7631,21 @@
         "zh": "踏過風浪。"
       },
       {
-        "start": 127.0,
-        "duration": 5.0,
+        "start": 294.76,
+        "duration": 2.8,
         "en": "You raise me up:",
-        "zh": "祢將我高舉："
+        "zh": "祢將我高舉：",
+        "text": "You raise me up:"
       },
       {
         "start": 132.0,
-        "duration": 5.0,
+        "duration": 4.9,
         "en": "To be a warrior.",
         "zh": "使我成為勇士。"
       },
       {
         "start": 137.0,
-        "duration": 5.0,
+        "duration": 4.9,
         "en": "And stand on mountains.",
         "zh": "立於山巔。"
       },
@@ -7526,20 +7656,21 @@
         "zh": "踏過風浪。"
       },
       {
-        "start": 147.0,
-        "duration": 5.0,
+        "start": 294.76,
+        "duration": 2.8,
         "en": "You raise me up:",
-        "zh": "祢將我高舉："
+        "zh": "祢將我高舉：",
+        "text": "You raise me up:"
       },
       {
         "start": 152.0,
-        "duration": 5.0,
+        "duration": 4.9,
         "en": "To be a warrior.",
         "zh": "使我成為勇士。"
       },
       {
         "start": 157.0,
-        "duration": 5.0,
+        "duration": 4.9,
         "en": "And stand on mountains.",
         "zh": "立於山巔。"
       },
@@ -7550,20 +7681,21 @@
         "zh": "踏過風浪。"
       },
       {
-        "start": 167.0,
-        "duration": 5.0,
+        "start": 294.76,
+        "duration": 2.8,
         "en": "You raise me up:",
-        "zh": "祢將我高舉："
+        "zh": "祢將我高舉：",
+        "text": "You raise me up:"
       },
       {
         "start": 172.0,
-        "duration": 5.0,
+        "duration": 4.9,
         "en": "To be a warrior.",
         "zh": "使我成為勇士。"
       },
       {
         "start": 177.0,
-        "duration": 5.0,
+        "duration": 4.9,
         "en": "And stand on mountains.",
         "zh": "立於山巔。"
       },
@@ -7574,20 +7706,21 @@
         "zh": "踏過風浪。"
       },
       {
-        "start": 187.0,
-        "duration": 5.0,
+        "start": 294.76,
+        "duration": 2.8,
         "en": "You raise me up:",
-        "zh": "祢將我高舉："
+        "zh": "祢將我高舉：",
+        "text": "You raise me up:"
       },
       {
         "start": 192.0,
-        "duration": 5.0,
+        "duration": 4.9,
         "en": "To be a warrior.",
         "zh": "使我成為勇士。"
       },
       {
         "start": 197.0,
-        "duration": 5.0,
+        "duration": 4.9,
         "en": "And stand on mountains.",
         "zh": "立於山巔。"
       },
@@ -7598,20 +7731,21 @@
         "zh": "踏過風浪。"
       },
       {
-        "start": 207.0,
-        "duration": 5.0,
+        "start": 294.76,
+        "duration": 2.8,
         "en": "You raise me up:",
-        "zh": "祢將我高舉："
+        "zh": "祢將我高舉：",
+        "text": "You raise me up:"
       },
       {
         "start": 212.0,
-        "duration": 5.0,
+        "duration": 4.9,
         "en": "To be a warrior.",
         "zh": "使我成為勇士。"
       },
       {
         "start": 217.0,
-        "duration": 5.0,
+        "duration": 4.9,
         "en": "And stand on mountains.",
         "zh": "立於山巔。"
       },
@@ -7622,10 +7756,11 @@
         "zh": "踏過風浪。"
       },
       {
-        "start": 227.0,
-        "duration": 5.0,
+        "start": 294.76,
+        "duration": 2.8,
         "en": "You raise me up:",
-        "zh": "祢將我高舉："
+        "zh": "祢將我高舉：",
+        "text": "You raise me up:"
       },
       {
         "start": 232.0,
@@ -7747,88 +7882,102 @@
     "type": "song",
     "cues": [
       {
-        "start": 13.0,
-        "duration": 4.5,
+        "start": 21.08,
+        "duration": 1.74,
         "en": "It's late at night",
-        "zh": "夜已深"
+        "zh": "夜已深",
+        "text": "It's late at night"
       },
       {
-        "start": 18.0,
-        "duration": 4.0,
+        "start": 42.76,
+        "duration": 1.36,
         "en": "She's still awake",
-        "zh": "她仍醒著"
+        "zh": "她仍醒著",
+        "text": "She's still awake"
       },
       {
-        "start": 22.5,
-        "duration": 5.5,
+        "start": 86.44,
+        "duration": 2.08,
         "en": "And I'm thinking about",
-        "zh": "而我正想著"
+        "zh": "而我正想著",
+        "text": "And I'm thinking about"
       },
       {
-        "start": 28.5,
-        "duration": 5.0,
+        "start": 88.62,
+        "duration": 3.76,
         "en": "What to do",
-        "zh": "該做什麼"
+        "zh": "該做什麼",
+        "text": "What to do"
       },
       {
-        "start": 34.0,
-        "duration": 5.0,
+        "start": 88.3,
+        "duration": 4.08,
         "en": "She's in her dress",
-        "zh": "她穿著洋裝"
+        "zh": "她穿著洋裝",
+        "text": "She's in her dress"
       },
       {
-        "start": 39.5,
-        "duration": 4.5,
+        "start": 96.28,
+        "duration": 2.68,
         "en": "She's in her pearls",
-        "zh": "戴著珍珠項鍊"
+        "zh": "戴著珍珠項鍊",
+        "text": "She's in her pearls"
       },
       {
-        "start": 44.5,
-        "duration": 5.5,
+        "start": 152.58,
+        "duration": 1.78,
         "en": "And I'm thinking about",
-        "zh": "而我正想著"
+        "zh": "而我正想著",
+        "text": "And I'm thinking about"
       },
       {
-        "start": 50.5,
-        "duration": 4.0,
+        "start": 159.28,
+        "duration": 1.48,
         "en": "How she looks",
-        "zh": "她的模樣"
+        "zh": "她的模樣",
+        "text": "How she looks"
       },
       {
-        "start": 55.0,
-        "duration": 6.0,
+        "start": 158.52,
+        "duration": 1.2,
         "en": "And I never have",
-        "zh": "我從未有過"
+        "zh": "我從未有過",
+        "text": "And I never have"
       },
       {
-        "start": 61.5,
-        "duration": 5.0,
+        "start": 158.96,
+        "duration": 3.48,
         "en": "Seen her look so good",
-        "zh": "看她如此美麗"
+        "zh": "看她如此美麗",
+        "text": "Seen her look so good"
       },
       {
-        "start": 67.0,
-        "duration": 5.0,
+        "start": 170.34,
+        "duration": 3.66,
         "en": "God knows I've tried",
-        "zh": "天知道我曾努力"
+        "zh": "天知道我曾努力",
+        "text": "God knows I've tried"
       },
       {
-        "start": 72.5,
-        "duration": 5.0,
+        "start": 174.1,
+        "duration": 1.52,
         "en": "To tell her so",
-        "zh": "告訴她"
+        "zh": "告訴她",
+        "text": "To tell her so"
       },
       {
-        "start": 78.0,
-        "duration": 5.0,
+        "start": 173.86,
+        "duration": 1.76,
         "en": "But I'm not the man",
-        "zh": "但我不是那種人"
+        "zh": "但我不是那種人",
+        "text": "But I'm not the man"
       },
       {
-        "start": 83.5,
-        "duration": 5.0,
+        "start": 180.94,
+        "duration": 3.98,
         "en": "That can",
-        "zh": "能做到的人"
+        "zh": "能做到的人",
+        "text": "That can"
       },
       {
         "start": 89.0,
@@ -7855,16 +8004,18 @@
         "zh": "所有的事情"
       },
       {
-        "start": 111.0,
-        "duration": 5.0,
+        "start": 179.82,
+        "duration": 3.26,
         "en": "That we'll do",
-        "zh": "我們將要做"
+        "zh": "我們將要做",
+        "text": "That we'll do"
       },
       {
-        "start": 116.5,
-        "duration": 5.0,
+        "start": 179.82,
+        "duration": 3.26,
         "en": "And I'm wondering",
-        "zh": "而我正納悶"
+        "zh": "而我正納悶",
+        "text": "And I'm wondering"
       },
       {
         "start": 122.0,
@@ -7873,16 +8024,18 @@
         "zh": "她將如何知道"
       },
       {
-        "start": 127.5,
-        "duration": 5.0,
+        "start": 180.94,
+        "duration": 7.48,
         "en": "I'm not the man",
-        "zh": "我不是那種人"
+        "zh": "我不是那種人",
+        "text": "I'm not the man"
       },
       {
-        "start": 133.0,
-        "duration": 5.0,
+        "start": 180.94,
+        "duration": 3.98,
         "en": "That can",
-        "zh": "能做到的人"
+        "zh": "能做到的人",
+        "text": "That can"
       },
       {
         "start": 138.5,
@@ -7897,22 +8050,25 @@
         "zh": "她會等待"
       },
       {
-        "start": 150.0,
-        "duration": 5.0,
+        "start": 180.3,
+        "duration": 2.78,
         "en": "Wonderful tonight",
-        "zh": "今晚如此美好"
+        "zh": "今晚如此美好",
+        "text": "Wonderful tonight"
       },
       {
-        "start": 155.5,
-        "duration": 5.0,
+        "start": 180.3,
+        "duration": 2.78,
         "en": "Wonderful tonight",
-        "zh": "今晚如此美好"
+        "zh": "今晚如此美好",
+        "text": "Wonderful tonight"
       },
       {
-        "start": 161.0,
-        "duration": 5.0,
+        "start": 179.04,
+        "duration": 4.04,
         "en": "You look wonderful tonight",
-        "zh": "你今晚看起來真美"
+        "zh": "你今晚看起來真美",
+        "text": "You look wonderful tonight"
       },
       {
         "start": 167.0,
@@ -7957,16 +8113,18 @@
         "zh": "所有的事情"
       },
       {
-        "start": 206.0,
-        "duration": 5.0,
+        "start": 179.82,
+        "duration": 3.26,
         "en": "That we'll do",
-        "zh": "我們將要做"
+        "zh": "我們將要做",
+        "text": "That we'll do"
       },
       {
-        "start": 211.5,
-        "duration": 5.0,
+        "start": 179.82,
+        "duration": 3.26,
         "en": "And I'm wondering",
-        "zh": "而我正納悶"
+        "zh": "而我正納悶",
+        "text": "And I'm wondering"
       },
       {
         "start": 217.0,
@@ -7975,16 +8133,18 @@
         "zh": "她將如何知道"
       },
       {
-        "start": 222.5,
-        "duration": 5.0,
+        "start": 180.94,
+        "duration": 7.48,
         "en": "I'm not the man",
-        "zh": "我不是那種人"
+        "zh": "我不是那種人",
+        "text": "I'm not the man"
       },
       {
-        "start": 228.0,
-        "duration": 5.0,
+        "start": 180.94,
+        "duration": 3.98,
         "en": "That can",
-        "zh": "能做到的人"
+        "zh": "能做到的人",
+        "text": "That can"
       },
       {
         "start": 233.5,
@@ -7999,22 +8159,25 @@
         "zh": "她會等待"
       },
       {
-        "start": 244.5,
-        "duration": 5.0,
+        "start": 180.3,
+        "duration": 2.78,
         "en": "Wonderful tonight",
-        "zh": "今晚如此美好"
+        "zh": "今晚如此美好",
+        "text": "Wonderful tonight"
       },
       {
-        "start": 250.0,
-        "duration": 5.0,
+        "start": 180.3,
+        "duration": 2.78,
         "en": "Wonderful tonight",
-        "zh": "今晚如此美好"
+        "zh": "今晚如此美好",
+        "text": "Wonderful tonight"
       },
       {
-        "start": 255.5,
-        "duration": 5.0,
+        "start": 179.04,
+        "duration": 4.04,
         "en": "You look wonderful tonight",
-        "zh": "你今晚看起來真美"
+        "zh": "你今晚看起來真美",
+        "text": "You look wonderful tonight"
       }
     ],
     "channel": "Music"
@@ -8108,70 +8271,81 @@
     "type": "song",
     "cues": [
       {
-        "start": 13.5,
-        "duration": 5.5,
+        "start": 13.34,
+        "duration": 7.04,
         "en": "Look into my eyes, you will see",
-        "zh": "看看我的眼睛，你會看到"
+        "zh": "看看我的眼睛，你會看到",
+        "text": "Look into my eyes, you will see"
       },
       {
-        "start": 19.0,
-        "duration": 4.0,
+        "start": 20.48,
+        "duration": 5.76,
         "en": "What you mean to me",
-        "zh": "你對我有多重要"
+        "zh": "你對我有多重要",
+        "text": "What you mean to me"
       },
       {
-        "start": 23.0,
-        "duration": 6.0,
+        "start": 26.34,
+        "duration": 7.28,
         "en": "Search your heart, search your soul",
-        "zh": "搜尋你的心，搜尋你的靈魂"
+        "zh": "搜尋你的心，搜尋你的靈魂",
+        "text": "Search your heart, search your soul"
       },
       {
-        "start": 29.0,
-        "duration": 5.0,
+        "start": 62.38,
+        "duration": 12.4,
         "en": "And when you find what you look for",
-        "zh": "當你找到你所尋找的"
+        "zh": "當你找到你所尋找的",
+        "text": "And when you find what you look for"
       },
       {
-        "start": 34.0,
-        "duration": 7.0,
+        "start": 110.7,
+        "duration": 6.24,
         "en": "I ain't nothing but a woman you need",
-        "zh": "我不過是你需要的女人"
+        "zh": "我不過是你需要的女人",
+        "text": "I ain't nothing but a woman you need"
       },
       {
-        "start": 41.0,
-        "duration": 6.0,
+        "start": 138.9,
+        "duration": 12.06,
         "en": "Look deep inside you, I'm more than what you see",
-        "zh": "深入看看你內心，我比你看到的更多"
+        "zh": "深入看看你內心，我比你看到的更多",
+        "text": "Look deep inside you, I'm more than what you see"
       },
       {
-        "start": 47.0,
-        "duration": 7.0,
+        "start": 152.3,
+        "duration": 40.28,
         "en": "I'm the one, I'll be there with you",
-        "zh": "我就是那個人，我會在你身邊"
+        "zh": "我就是那個人，我會在你身邊",
+        "text": "I'm the one, I'll be there with you"
       },
       {
-        "start": 54.0,
-        "duration": 7.0,
+        "start": 236.3,
+        "duration": 21.94,
         "en": "I give you my love, I give you my truth",
-        "zh": "我給你我的愛，我給你我的真誠"
+        "zh": "我給你我的愛，我給你我的真誠",
+        "text": "I give you my love, I give you my truth"
       },
       {
-        "start": 61.0,
-        "duration": 7.0,
+        "start": 258.34,
+        "duration": 6.84,
         "en": "I give you my life, I give you my all",
-        "zh": "我給你我的生命，我給你我的一切"
+        "zh": "我給你我的生命，我給你我的一切",
+        "text": "I give you my life, I give you my all"
       },
       {
-        "start": 68.0,
-        "duration": 7.0,
+        "start": 265.28,
+        "duration": 5.24,
         "en": "And I do it for you",
-        "zh": "而我為你這麼做"
+        "zh": "而我為你這麼做",
+        "text": "And I do it for you"
       },
       {
-        "start": 75.0,
-        "duration": 7.0,
+        "start": 281.84,
+        "duration": 14.98,
         "en": "You, you make me feel like I am alive",
-        "zh": "你，你讓我感覺活著"
+        "zh": "你，你讓我感覺活著",
+        "text": "You, you make me feel like I am alive"
       },
       {
         "start": 82.0,
@@ -8180,128 +8354,131 @@
         "zh": "你，你，你讓我感覺活著"
       },
       {
-        "start": 89.0,
-        "duration": 7.0,
+        "start": 360.06,
+        "duration": 1.2,
         "en": "And I'd do it for you",
-        "zh": "而我會為你這麼做"
+        "zh": "而我會為你這麼做",
+        "text": "And I'd do it for you"
       },
       {
-        "start": 96.0,
-        "duration": 7.0,
+        "start": 360.38,
+        "duration": 2.96,
         "en": "Look into my eyes, you will see",
-        "zh": "看看我的眼睛，你會看到"
+        "zh": "看看我的眼睛，你會看到",
+        "text": "Look into my eyes, you will see"
       },
       {
-        "start": 103.0,
-        "duration": 4.0,
+        "start": 363.44,
+        "duration": 29.28,
         "en": "What you mean to me",
-        "zh": "你對我有多重要"
+        "zh": "你對我有多重要",
+        "text": "What you mean to me"
       },
       {
         "start": 107.0,
-        "duration": 6.0,
+        "duration": 5.9,
         "en": "Search your heart, search your soul",
         "zh": "搜尋你的心，搜尋你的靈魂"
       },
       {
         "start": 113.0,
-        "duration": 5.0,
+        "duration": 4.9,
         "en": "And when you find what you look for",
         "zh": "當你找到你所尋找的"
       },
       {
         "start": 118.0,
-        "duration": 7.0,
+        "duration": 6.9,
         "en": "I ain't nothing but a woman you need",
         "zh": "我不過是你需要的女人"
       },
       {
         "start": 125.0,
-        "duration": 6.0,
+        "duration": 5.9,
         "en": "Look deep inside you, I'm more than what you see",
         "zh": "深入看看你內心，我比你看到的更多"
       },
       {
         "start": 131.0,
-        "duration": 7.0,
+        "duration": 6.9,
         "en": "I'm the one, I'll be there with you",
         "zh": "我就是那個人，我會在你身邊"
       },
       {
         "start": 138.0,
-        "duration": 7.0,
+        "duration": 6.9,
         "en": "I give you my love, I give you my truth",
         "zh": "我給你我的愛，我給你我的真誠"
       },
       {
         "start": 145.0,
-        "duration": 7.0,
+        "duration": 6.9,
         "en": "I give you my life, I give you my all",
         "zh": "我給你我的生命，我給你我的一切"
       },
       {
         "start": 152.0,
-        "duration": 7.0,
+        "duration": 6.9,
         "en": "And I do it for you",
         "zh": "而我為你這麼做"
       },
       {
         "start": 159.0,
-        "duration": 7.0,
+        "duration": 6.9,
         "en": "You, you make me feel like I am alive",
         "zh": "你，你讓我感覺活著"
       },
       {
         "start": 166.0,
-        "duration": 7.0,
+        "duration": 6.9,
         "en": "You, you, you make me feel like I am alive",
         "zh": "你，你，你讓我感覺活著"
       },
       {
         "start": 173.0,
-        "duration": 7.0,
+        "duration": 6.9,
         "en": "And I'd do it for you",
         "zh": "而我會為你這麼做"
       },
       {
         "start": 180.0,
-        "duration": 7.0,
+        "duration": 6.9,
         "en": "There's nothing in this world",
         "zh": "這世上沒有什麼"
       },
       {
         "start": 187.0,
-        "duration": 7.0,
+        "duration": 6.9,
         "en": "I wouldn't do",
         "zh": "是我不會做的"
       },
       {
         "start": 194.0,
-        "duration": 7.0,
+        "duration": 6.9,
         "en": "You know I'd do anything for you",
         "zh": "你知道我會為你做任何事"
       },
       {
         "start": 201.0,
-        "duration": 7.0,
+        "duration": 6.9,
         "en": "Oh, I'd do it for you",
         "zh": "噢，我會為你這麼做"
       },
       {
         "start": 208.0,
-        "duration": 7.0,
+        "duration": 6.9,
         "en": "You, you make me feel like I am alive",
         "zh": "你，你讓我感覺活著"
       },
       {
         "start": 215.0,
-        "duration": 7.0,
+        "duration": 6.9,
         "en": "You, you, you make me feel like I am alive",
         "zh": "你，你，你讓我感覺活著"
       },
       {
         "start": 222.0,
-        "duration": 7.0,
+        "duration": 6.9,
         "en": "And I'd do it for you",
         "zh": "而我會為你這麼做"
       },
@@ -9915,124 +10092,144 @@
     "type": "song",
     "cues": [
       {
-        "start": 14.0,
-        "duration": 5.0,
+        "start": 17.28,
+        "duration": 1.62,
         "en": "I'll be your dream",
-        "zh": "我會是你的夢想"
+        "zh": "我會是你的夢想",
+        "text": "I'll be your dream"
       },
       {
-        "start": 19.0,
-        "duration": 5.0,
+        "start": 19.18,
+        "duration": 1.22,
         "en": "I'll be your wish",
-        "zh": "我會是你的願望"
+        "zh": "我會是你的願望",
+        "text": "I'll be your wish"
       },
       {
-        "start": 24.0,
-        "duration": 5.0,
+        "start": 20.64,
+        "duration": 1.54,
         "en": "I'll be your fantasy",
-        "zh": "我會是你的幻想"
+        "zh": "我會是你的幻想",
+        "text": "I'll be your fantasy"
       },
       {
-        "start": 29.0,
-        "duration": 5.0,
+        "start": 20.64,
+        "duration": 1.44,
         "en": "I'll be your reality",
-        "zh": "我會是你的現實"
+        "zh": "我會是你的現實",
+        "text": "I'll be your reality"
       },
       {
-        "start": 34.0,
-        "duration": 5.0,
+        "start": 22.18,
+        "duration": 2.38,
         "en": "I'll keep you safe",
-        "zh": "我會保護你"
+        "zh": "我會保護你",
+        "text": "I'll keep you safe"
       },
       {
-        "start": 39.0,
-        "duration": 5.0,
+        "start": 24.86,
+        "duration": 1.2,
         "en": "I'll keep you close",
-        "zh": "我會讓你靠近"
+        "zh": "我會讓你靠近",
+        "text": "I'll keep you close"
       },
       {
-        "start": 44.0,
-        "duration": 5.0,
+        "start": 29.56,
+        "duration": 1.2,
         "en": "To me",
-        "zh": "在我身邊"
+        "zh": "在我身邊",
+        "text": "To me"
       },
       {
-        "start": 49.0,
-        "duration": 5.0,
+        "start": 46.0,
+        "duration": 1.2,
         "en": "So undeniable",
-        "zh": "如此無可否認"
+        "zh": "如此無可否認",
+        "text": "So undeniable"
       },
       {
-        "start": 54.0,
-        "duration": 5.0,
+        "start": 68.76,
+        "duration": 6.14,
         "en": "That all you'll ever need",
-        "zh": "你所需要的一切"
+        "zh": "你所需要的一切",
+        "text": "That all you'll ever need"
       },
       {
-        "start": 59.0,
-        "duration": 5.0,
+        "start": 86.5,
+        "duration": 1.22,
         "en": "Is in my arms",
-        "zh": "都在我懷裡"
+        "zh": "都在我懷裡",
+        "text": "Is in my arms"
       },
       {
-        "start": 64.0,
-        "duration": 5.0,
+        "start": 103.78,
+        "duration": 3.82,
         "en": "So never doubt",
-        "zh": "所以別懷疑"
+        "zh": "所以別懷疑",
+        "text": "So never doubt"
       },
       {
-        "start": 69.0,
-        "duration": 5.0,
+        "start": 132.26,
+        "duration": 1.46,
         "en": "I'm reaching out",
-        "zh": "我正伸出手"
+        "zh": "我正伸出手",
+        "text": "I'm reaching out"
       },
       {
-        "start": 74.0,
-        "duration": 5.0,
+        "start": 144.76,
+        "duration": 1.2,
         "en": "To you",
-        "zh": "向你靠近"
+        "zh": "向你靠近",
+        "text": "To you"
       },
       {
-        "start": 79.0,
-        "duration": 5.0,
+        "start": 162.68,
+        "duration": 1.4,
         "en": "I will be true",
-        "zh": "我會是真誠的"
+        "zh": "我會是真誠的",
+        "text": "I will be true"
       },
       {
-        "start": 84.0,
-        "duration": 5.0,
+        "start": 169.78,
+        "duration": 1.2,
         "en": "To you",
-        "zh": "對你"
+        "zh": "對你",
+        "text": "To you"
       },
       {
-        "start": 89.0,
-        "duration": 5.0,
+        "start": 170.86,
+        "duration": 1.76,
         "en": "I will be strong",
-        "zh": "我會堅強"
+        "zh": "我會堅強",
+        "text": "I will be strong"
       },
       {
-        "start": 94.0,
-        "duration": 5.0,
+        "start": 186.08,
+        "duration": 3.38,
         "en": "I will be faithful",
-        "zh": "我會忠誠"
+        "zh": "我會忠誠",
+        "text": "I will be faithful"
       },
       {
-        "start": 99.0,
-        "duration": 5.0,
+        "start": 207.8,
+        "duration": 1.36,
         "en": "I'm counting on",
-        "zh": "我正依賴著"
+        "zh": "我正依賴著",
+        "text": "I'm counting on"
       },
       {
-        "start": 104.0,
-        "duration": 5.0,
+        "start": 206.62,
+        "duration": 1.2,
         "en": "Your love",
-        "zh": "你的愛"
+        "zh": "你的愛",
+        "text": "Your love"
       },
       {
-        "start": 109.0,
-        "duration": 5.0,
+        "start": 244.78,
+        "duration": 2.8,
         "en": "I will be yours",
-        "zh": "我會屬於你"
+        "zh": "我會屬於你",
+        "text": "I will be yours"
       },
       {
         "start": 114.0,
@@ -10041,14 +10238,15 @@
         "zh": "直到永遠永遠"
       },
       {
-        "start": 119.0,
-        "duration": 5.0,
+        "start": 244.78,
+        "duration": 2.8,
         "en": "I will be yours",
-        "zh": "我會屬於你"
+        "zh": "我會屬於你",
+        "text": "I will be yours"
       },
       {
         "start": 124.0,
-        "duration": 5.0,
+        "duration": 4.9,
         "en": "Your every wish",
         "zh": "你的每一個願望"
       },
@@ -10059,10 +10257,11 @@
         "zh": "你的每一個夢想"
       },
       {
-        "start": 134.0,
-        "duration": 5.0,
+        "start": 247.3,
+        "duration": 1.2,
         "en": "Your everything",
-        "zh": "你的一切"
+        "zh": "你的一切",
+        "text": "Your everything"
       },
       {
         "start": 139.0,
@@ -10071,20 +10270,21 @@
         "zh": "我會是真誠的"
       },
       {
-        "start": 144.0,
-        "duration": 5.0,
+        "start": 246.18,
+        "duration": 1.4,
         "en": "To you",
-        "zh": "對你"
+        "zh": "對你",
+        "text": "To you"
       },
       {
         "start": 149.0,
-        "duration": 5.0,
+        "duration": 4.9,
         "en": "I will be strong",
         "zh": "我會堅強"
       },
       {
         "start": 154.0,
-        "duration": 5.0,
+        "duration": 4.9,
         "en": "I will be faithful",
         "zh": "我會忠誠"
       },
@@ -10095,16 +10295,18 @@
         "zh": "我正依賴著"
       },
       {
-        "start": 164.0,
-        "duration": 5.0,
+        "start": 247.3,
+        "duration": 1.2,
         "en": "Your love",
-        "zh": "你的愛"
+        "zh": "你的愛",
+        "text": "Your love"
       },
       {
-        "start": 169.0,
-        "duration": 5.0,
+        "start": 244.78,
+        "duration": 2.8,
         "en": "I will be yours",
-        "zh": "我會屬於你"
+        "zh": "我會屬於你",
+        "text": "I will be yours"
       },
       {
         "start": 174.0,
@@ -10113,14 +10315,15 @@
         "zh": "直到永遠永遠"
       },
       {
-        "start": 179.0,
-        "duration": 5.0,
+        "start": 244.78,
+        "duration": 2.8,
         "en": "I will be yours",
-        "zh": "我會屬於你"
+        "zh": "我會屬於你",
+        "text": "I will be yours"
       },
       {
         "start": 184.0,
-        "duration": 5.0,
+        "duration": 4.9,
         "en": "Your every wish",
         "zh": "你的每一個願望"
       },
@@ -10131,20 +10334,21 @@
         "zh": "你的每一個夢想"
       },
       {
-        "start": 194.0,
-        "duration": 5.0,
+        "start": 247.3,
+        "duration": 1.2,
         "en": "Your everything",
-        "zh": "你的一切"
+        "zh": "你的一切",
+        "text": "Your everything"
       },
       {
         "start": 199.0,
-        "duration": 5.0,
+        "duration": 4.9,
         "en": "I'm in love with you",
         "zh": "我愛上你了"
       },
       {
         "start": 204.0,
-        "duration": 5.0,
+        "duration": 4.9,
         "en": "I'm in love with you",
         "zh": "我愛上你了"
       },
@@ -10155,10 +10359,11 @@
         "zh": "真正地、瘋狂地、深深地"
       },
       {
-        "start": 214.0,
-        "duration": 5.0,
+        "start": 244.78,
+        "duration": 2.8,
         "en": "I will be yours",
-        "zh": "我會屬於你"
+        "zh": "我會屬於你",
+        "text": "I will be yours"
       },
       {
         "start": 219.0,
@@ -10167,14 +10372,15 @@
         "zh": "直到永遠永遠"
       },
       {
-        "start": 224.0,
-        "duration": 5.0,
+        "start": 244.78,
+        "duration": 2.8,
         "en": "I will be yours",
-        "zh": "我會屬於你"
+        "zh": "我會屬於你",
+        "text": "I will be yours"
       },
       {
         "start": 229.0,
-        "duration": 5.0,
+        "duration": 4.9,
         "en": "Your every wish",
         "zh": "你的每一個願望"
       },
@@ -10185,10 +10391,11 @@
         "zh": "你的每一個夢想"
       },
       {
-        "start": 239.0,
-        "duration": 5.0,
+        "start": 247.3,
+        "duration": 1.2,
         "en": "Your everything",
-        "zh": "你的一切"
+        "zh": "你的一切",
+        "text": "Your everything"
       }
     ],
     "channel": "Music"
@@ -10597,130 +10804,151 @@
     "type": "song",
     "cues": [
       {
-        "start": 14,
-        "duration": 5,
+        "start": 14.88,
+        "duration": 2.72,
         "en": "Tell me something, girl.",
-        "zh": "告訴我一些事，女孩。"
+        "zh": "告訴我一些事，女孩。",
+        "text": "Tell me something, girl."
       },
       {
-        "start": 19,
-        "duration": 5,
+        "start": 18.7,
+        "duration": 5.22,
         "en": "Are you happy in this modern world?",
-        "zh": "你在這個現代世界裡快樂嗎？"
+        "zh": "你在這個現代世界裡快樂嗎？",
+        "text": "Are you happy in this modern world?"
       },
       {
-        "start": 24,
-        "duration": 5,
+        "start": 25.46,
+        "duration": 1.9,
         "en": "Or do you need more?",
-        "zh": "還是你需要更多？"
+        "zh": "還是你需要更多？",
+        "text": "Or do you need more?"
       },
       {
-        "start": 29,
-        "duration": 5,
+        "start": 29.78,
+        "duration": 5.14,
         "en": "Is there something else you're searching for?",
-        "zh": "你是否還在尋覓其他什麼？"
+        "zh": "你是否還在尋覓其他什麼？",
+        "text": "Is there something else you're searching for?"
       },
       {
-        "start": 36,
-        "duration": 5,
+        "start": 35.2,
+        "duration": 6.74,
         "en": "I'm falling, in all the good times,",
-        "zh": "我在墜落，在所有美好的時光中，"
+        "zh": "我在墜落，在所有美好的時光中，",
+        "text": "I'm falling, in all the good times,"
       },
       {
-        "start": 41,
-        "duration": 5,
+        "start": 42.04,
+        "duration": 5.98,
         "en": "I find myself longing for change.",
-        "zh": "我發現自己渴望改變。"
+        "zh": "我發現自己渴望改變。",
+        "text": "I find myself longing for change."
       },
       {
-        "start": 47,
-        "duration": 6,
+        "start": 49.68,
+        "duration": 3.78,
         "en": "And in the bad times I fear myself.",
-        "zh": "而在糟糕的時候，我對自己感到恐懼。"
+        "zh": "而在糟糕的時候，我對自己感到恐懼。",
+        "text": "And in the bad times I fear myself."
       },
       {
-        "start": 55,
-        "duration": 5,
+        "start": 64.88,
+        "duration": 2.88,
         "en": "Tell me something, boy.",
-        "zh": "告訴我一些事，男孩。"
+        "zh": "告訴我一些事，男孩。",
+        "text": "Tell me something, boy."
       },
       {
-        "start": 60,
-        "duration": 5,
+        "start": 67.86,
+        "duration": 6.0,
         "en": "Aren't you tired trying to fill that void?",
-        "zh": "你難道不累了，試著填補那份空虛？"
+        "zh": "你難道不累了，試著填補那份空虛？",
+        "text": "Aren't you tired trying to fill that void?"
       },
       {
-        "start": 65,
-        "duration": 5,
+        "start": 73.96,
+        "duration": 3.84,
         "en": "Or do you need more?",
-        "zh": "還是你需要更多？"
+        "zh": "還是你需要更多？",
+        "text": "Or do you need more?"
       },
       {
-        "start": 70,
-        "duration": 5,
+        "start": 78.54,
+        "duration": 4.9,
         "en": "Ain't it hard keeping it so hardcore?",
-        "zh": "把自己逼得這麼猛，不累嗎？"
+        "zh": "把自己逼得這麼猛，不累嗎？",
+        "text": "Ain't it hard keeping it so hardcore?"
       },
       {
-        "start": 77,
-        "duration": 5,
+        "start": 83.96,
+        "duration": 7.96,
         "en": "I'm falling, in all the good times,",
-        "zh": "我在墜落，在所有美好的時光中，"
+        "zh": "我在墜落，在所有美好的時光中，",
+        "text": "I'm falling, in all the good times,"
       },
       {
-        "start": 82,
-        "duration": 5,
+        "start": 92.02,
+        "duration": 5.58,
         "en": "I find myself longing for change.",
-        "zh": "我發現自己渴望改變。"
+        "zh": "我發現自己渴望改變。",
+        "text": "I find myself longing for change."
       },
       {
-        "start": 88,
-        "duration": 6,
+        "start": 99.72,
+        "duration": 4.0,
         "en": "And in the bad times I fear myself.",
-        "zh": "而在糟糕的時候，我對自己感到恐懼。"
+        "zh": "而在糟糕的時候，我對自己感到恐懼。",
+        "text": "And in the bad times I fear myself."
       },
       {
-        "start": 96,
-        "duration": 5,
+        "start": 104.66,
+        "duration": 4.78,
         "en": "I'm off the deep end, watch as I dive in.",
-        "zh": "我已置身深淵，看著我縱身躍入。"
+        "zh": "我已置身深淵，看著我縱身躍入。",
+        "text": "I'm off the deep end, watch as I dive in."
       },
       {
-        "start": 101,
-        "duration": 5,
+        "start": 109.54,
+        "duration": 3.6,
         "en": "I'll never meet the ground.",
-        "zh": "我永遠觸碰不到底。"
+        "zh": "我永遠觸碰不到底。",
+        "text": "I'll never meet the ground."
       },
       {
-        "start": 106,
-        "duration": 5,
+        "start": 114.3,
+        "duration": 5.6,
         "en": "Crash through the surface where they can't hurt us,",
-        "zh": "衝破水面，在那裡沒有人能傷害我們，"
+        "zh": "衝破水面，在那裡沒有人能傷害我們，",
+        "text": "Crash through the surface where they can't hurt us,"
       },
       {
-        "start": 111,
-        "duration": 5,
+        "start": 139.3,
+        "duration": 3.76,
         "en": "we're far from the shallow now.",
-        "zh": "我們早已遠離了那片淺灘。"
+        "zh": "我們早已遠離了那片淺灘。",
+        "text": "we're far from the shallow now."
       },
       {
-        "start": 117,
-        "duration": 5,
+        "start": 185.42,
+        "duration": 1.2,
         "en": "In the sha-ha-sha-ha-llow,",
-        "zh": "在淺灘——淺——淺——灘，"
+        "zh": "在淺灘——淺——淺——灘，",
+        "text": "In the sha-ha-sha-ha-llow,"
       },
       {
-        "start": 122,
-        "duration": 5,
+        "start": 185.42,
+        "duration": 1.2,
         "en": "in the sha-ha-sha-la-la-la-low.",
-        "zh": "在淺灘——淺——啦啦——灘。"
+        "zh": "在淺灘——淺——啦啦——灘。",
+        "text": "in the sha-ha-sha-la-la-la-low."
       },
       {
-        "start": 128,
-        "duration": 6,
+        "start": 198.92,
+        "duration": 3.72,
         "en": "We're far from the shallow now.",
-        "zh": "我們早已遠離了那片淺灘。"
+        "zh": "我們早已遠離了那片淺灘。",
+        "text": "We're far from the shallow now."
       },
       {
         "start": 136,
@@ -10736,19 +10964,19 @@
       },
       {
         "start": 149,
-        "duration": 6,
+        "duration": 5.9,
         "en": "I'm off the deep end, watch as I dive in.",
         "zh": "我已置身深淵，看著我縱身躍入。"
       },
       {
         "start": 155,
-        "duration": 5,
+        "duration": 4.9,
         "en": "I'll never meet the ground.",
         "zh": "我永遠觸碰不到底。"
       },
       {
         "start": 160,
-        "duration": 5,
+        "duration": 4.9,
         "en": "Crash through the surface where they can't hurt us,",
         "zh": "衝破水面，在那裡沒有人能傷害我們，"
       },
@@ -10759,22 +10987,25 @@
         "zh": "我們早已遠離了那片淺灘。"
       },
       {
-        "start": 171,
-        "duration": 5,
+        "start": 200.08,
+        "duration": 1.3,
         "en": "In the sha-ha-sha-ha-llow,",
-        "zh": "在淺灘——淺——淺——灘，"
+        "zh": "在淺灘——淺——淺——灘，",
+        "text": "In the sha-ha-sha-ha-llow,"
       },
       {
-        "start": 176,
-        "duration": 5,
+        "start": 200.08,
+        "duration": 1.3,
         "en": "in the sha-ha-sha-la-la-la-low.",
-        "zh": "在淺灘——淺——啦啦——灘。"
+        "zh": "在淺灘——淺——啦啦——灘。",
+        "text": "in the sha-ha-sha-la-la-la-low."
       },
       {
-        "start": 182,
-        "duration": 5,
+        "start": 198.92,
+        "duration": 3.72,
         "en": "We're far from the shallow now.",
-        "zh": "我們早已遠離了那片淺灘。"
+        "zh": "我們早已遠離了那片淺灘。",
+        "text": "We're far from the shallow now."
       },
       {
         "start": 189,
@@ -10783,16 +11014,18 @@
         "zh": "我們早已遠離了那片淺灘。"
       },
       {
-        "start": 196,
-        "duration": 6,
+        "start": 200.08,
+        "duration": 1.3,
         "en": "In the sha-ha-sha-ha-llow,",
-        "zh": "在淺灘——淺——淺——灘，"
+        "zh": "在淺灘——淺——淺——灘，",
+        "text": "In the sha-ha-sha-ha-llow,"
       },
       {
-        "start": 202,
-        "duration": 6,
+        "start": 198.92,
+        "duration": 3.72,
         "en": "we're far from the shallow now.",
-        "zh": "我們早已遠離了那片淺灘。"
+        "zh": "我們早已遠離了那片淺灘。",
+        "text": "we're far from the shallow now."
       },
       {
         "start": 210,
@@ -11229,158 +11462,181 @@
     "type": "song",
     "cues": [
       {
-        "start": 12.0,
-        "duration": 4.5,
+        "start": 2.7,
+        "duration": 2.82,
         "en": "Do you love the rain, does it make you dance?",
-        "zh": "妳喜歡雨天嗎？它會讓妳想跳舞嗎？"
+        "zh": "妳喜歡雨天嗎？它會讓妳想跳舞嗎？",
+        "text": "Do you love the rain, does it make you dance?"
       },
       {
-        "start": 16.5,
-        "duration": 4.5,
+        "start": 5.62,
+        "duration": 2.26,
         "en": "When you're drunk with your friends at a party?",
-        "zh": "當妳和朋友在派對上喝醉時？"
+        "zh": "當妳和朋友在派對上喝醉時？",
+        "text": "When you're drunk with your friends at a party?"
       },
       {
-        "start": 21.0,
-        "duration": 4.5,
+        "start": 8.58,
+        "duration": 2.24,
         "en": "What's your favorite song, does it make you smile?",
-        "zh": "妳最喜歡的歌是什麼？它會讓妳微笑嗎？"
+        "zh": "妳最喜歡的歌是什麼？它會讓妳微笑嗎？",
+        "text": "What's your favorite song, does it make you smile?"
       },
       {
-        "start": 25.5,
-        "duration": 4.5,
+        "start": 11.3,
+        "duration": 1.2,
         "en": "Do you think of me?",
-        "zh": "妳會想到我嗎？"
+        "zh": "妳會想到我嗎？",
+        "text": "Do you think of me?"
       },
       {
-        "start": 30.0,
-        "duration": 4.5,
+        "start": 21.24,
+        "duration": 6.92,
         "en": "I'd spend ten thousand hours and ten thousand more",
-        "zh": "我願意花上一萬個小時，甚至更多"
+        "zh": "我願意花上一萬個小時，甚至更多",
+        "text": "I'd spend ten thousand hours and ten thousand more"
       },
       {
-        "start": 34.5,
-        "duration": 4.5,
+        "start": 28.26,
+        "duration": 5.12,
         "en": "Oh, if that's what it takes to learn that sweet heart of yours",
-        "zh": "喔，如果那是了解妳那顆甜美心靈所必須的"
+        "zh": "喔，如果那是了解妳那顆甜美心靈所必須的",
+        "text": "Oh, if that's what it takes to learn that sweet heart of yours"
       },
       {
-        "start": 39.0,
-        "duration": 4.5,
+        "start": 34.32,
+        "duration": 4.4,
         "en": "I might never get there, but I'm gonna try",
-        "zh": "我或許永遠無法完全參透，但我會努力嘗試"
+        "zh": "我或許永遠無法完全參透，但我會努力嘗試",
+        "text": "I might never get there, but I'm gonna try"
       },
       {
-        "start": 43.5,
-        "duration": 4.5,
+        "start": 38.82,
+        "duration": 5.48,
         "en": "If it's ten thousand hours or the rest of my life",
-        "zh": "無論是一萬個小時，還是我的餘生"
+        "zh": "無論是一萬個小時，還是我的餘生",
+        "text": "If it's ten thousand hours or the rest of my life"
       },
       {
-        "start": 48.0,
-        "duration": 4.0,
+        "start": 44.4,
+        "duration": 1.72,
         "en": "I'm gonna love you",
-        "zh": "我都會深愛著妳"
+        "zh": "我都會深愛著妳",
+        "text": "I'm gonna love you"
       },
       {
-        "start": 52.0,
-        "duration": 4.5,
+        "start": 50.14,
+        "duration": 3.4,
         "en": "Do you miss the road that you grew up on?",
-        "zh": "妳會懷念妳成長的那條路嗎？"
+        "zh": "妳會懷念妳成長的那條路嗎？",
+        "text": "Do you miss the road that you grew up on?"
       },
       {
-        "start": 56.5,
-        "duration": 4.5,
+        "start": 53.82,
+        "duration": 1.94,
         "en": "Did you get your middle name from your grandma?",
-        "zh": "妳的中間名是跟妳祖母取的嗎？"
+        "zh": "妳的中間名是跟妳祖母取的嗎？",
+        "text": "Did you get your middle name from your grandma?"
       },
       {
-        "start": 61.0,
-        "duration": 4.5,
+        "start": 66.84,
+        "duration": 5.54,
         "en": "I wanna know every detail 'bout your life",
-        "zh": "我想知道關於妳生活的所有細節"
+        "zh": "我想知道關於妳生活的所有細節",
+        "text": "I wanna know every detail 'bout your life"
       },
       {
-        "start": 65.5,
-        "duration": 4.5,
+        "start": 85.5,
+        "duration": 2.6,
         "en": "I wanna know it all",
-        "zh": "我想了解這一切"
+        "zh": "我想了解這一切",
+        "text": "I wanna know it all"
       },
       {
-        "start": 70.0,
-        "duration": 4.5,
+        "start": 116.92,
+        "duration": 4.56,
         "en": "I'd spend ten thousand hours and ten thousand more",
-        "zh": "我願意花上一萬個小時，甚至更多"
+        "zh": "我願意花上一萬個小時，甚至更多",
+        "text": "I'd spend ten thousand hours and ten thousand more"
       },
       {
-        "start": 74.5,
-        "duration": 4.5,
+        "start": 121.58,
+        "duration": 5.18,
         "en": "Oh, if that's what it takes to learn that sweet heart of yours",
-        "zh": "喔，如果那是了解妳那顆甜美心靈所必須的"
+        "zh": "喔，如果那是了解妳那顆甜美心靈所必須的",
+        "text": "Oh, if that's what it takes to learn that sweet heart of yours"
       },
       {
-        "start": 79.0,
-        "duration": 4.5,
+        "start": 127.66,
+        "duration": 4.32,
         "en": "I might never get there, but I'm gonna try",
-        "zh": "我或許永遠無法完全參透，但我會努力嘗試"
+        "zh": "我或許永遠無法完全參透，但我會努力嘗試",
+        "text": "I might never get there, but I'm gonna try"
       },
       {
-        "start": 83.5,
-        "duration": 4.5,
+        "start": 132.08,
+        "duration": 5.4,
         "en": "If it's ten thousand hours or the rest of my life",
-        "zh": "無論是一萬個小時，還是我的餘生"
+        "zh": "無論是一萬個小時，還是我的餘生",
+        "text": "If it's ten thousand hours or the rest of my life"
       },
       {
-        "start": 88.0,
-        "duration": 4.0,
+        "start": 137.86,
+        "duration": 1.2,
         "en": "I'm gonna love you",
-        "zh": "我都會深愛著妳"
+        "zh": "我都會深愛著妳",
+        "text": "I'm gonna love you"
       },
       {
-        "start": 92.0,
-        "duration": 4.5,
+        "start": 139.02,
+        "duration": 1.2,
         "en": "Ooh, want you to know, ooh",
-        "zh": "喔，想讓妳知道"
+        "zh": "喔，想讓妳知道",
+        "text": "Ooh, want you to know, ooh"
       },
       {
-        "start": 96.5,
-        "duration": 4.5,
+        "start": 139.72,
+        "duration": 4.96,
         "en": "I'm gonna love you",
-        "zh": "我都會深愛著妳"
+        "zh": "我都會深愛著妳",
+        "text": "I'm gonna love you"
       },
       {
-        "start": 101.0,
-        "duration": 4.5,
+        "start": 149.86,
+        "duration": 3.86,
         "en": "Ten thousand hours or the rest of my life",
-        "zh": "一萬個小時，或是我的餘生"
+        "zh": "一萬個小時，或是我的餘生",
+        "text": "Ten thousand hours or the rest of my life"
       },
       {
-        "start": 105.5,
-        "duration": 4.5,
+        "start": 156.68,
+        "duration": 2.45,
         "en": "I'm gonna love you",
-        "zh": "我都會深愛著妳"
+        "zh": "我都會深愛著妳",
+        "text": "I'm gonna love you"
       },
       {
-        "start": 110.0,
-        "duration": 4.5,
+        "start": 156.68,
+        "duration": 2.45,
         "en": "I'm gonna love you",
-        "zh": "我都會深愛著妳"
+        "zh": "我都會深愛著妳",
+        "text": "I'm gonna love you"
       },
       {
         "start": 114.5,
-        "duration": 4.5,
+        "duration": 4.4,
         "en": "I'd spend ten thousand hours and ten thousand more",
         "zh": "我願意花上一萬個小時，甚至更多"
       },
       {
         "start": 119.0,
-        "duration": 4.5,
+        "duration": 4.4,
         "en": "Oh, if that's what it takes to learn that sweet heart of yours",
         "zh": "喔，如果那是了解妳那顆甜美心靈所必須的"
       },
       {
         "start": 123.5,
-        "duration": 4.5,
+        "duration": 4.4,
         "en": "I might never get there, but I'm gonna try",
         "zh": "我或許永遠無法完全參透，但我會努力嘗試"
       },
@@ -11391,28 +11647,32 @@
         "zh": "無論是一萬個小時，還是我的餘生"
       },
       {
-        "start": 132.5,
-        "duration": 4.5,
+        "start": 156.68,
+        "duration": 2.45,
         "en": "I'm gonna love you",
-        "zh": "我都會深愛著妳"
+        "zh": "我都會深愛著妳",
+        "text": "I'm gonna love you"
       },
       {
-        "start": 137.0,
-        "duration": 4.5,
+        "start": 156.68,
+        "duration": 2.45,
         "en": "I'm gonna love you",
-        "zh": "我都會深愛著妳"
+        "zh": "我都會深愛著妳",
+        "text": "I'm gonna love you"
       },
       {
-        "start": 141.5,
-        "duration": 4.5,
+        "start": 156.68,
+        "duration": 2.45,
         "en": "I'm gonna love you",
-        "zh": "我都會深愛著妳"
+        "zh": "我都會深愛著妳",
+        "text": "I'm gonna love you"
       },
       {
-        "start": 146.0,
-        "duration": 4.5,
+        "start": 156.68,
+        "duration": 2.45,
         "en": "I'm gonna love you",
-        "zh": "我都會深愛著妳"
+        "zh": "我都會深愛著妳",
+        "text": "I'm gonna love you"
       },
       {
         "start": 150.5,
@@ -11421,10 +11681,11 @@
         "zh": "一萬個小時，或是我的餘生"
       },
       {
-        "start": 155.0,
-        "duration": 8.0,
+        "start": 156.68,
+        "duration": 2.45,
         "en": "I'm gonna love you",
-        "zh": "我都會深愛著妳"
+        "zh": "我都會深愛著妳",
+        "text": "I'm gonna love you"
       }
     ],
     "channel": "Music"
@@ -13243,206 +13504,235 @@
     "type": "song",
     "cues": [
       {
-        "start": 15.0,
-        "duration": 5.0,
+        "start": 14.62,
+        "duration": 8.02,
         "en": "There's a hero if you look inside your heart",
-        "zh": "只要你往內心深處探尋，就會發現一位英雄"
+        "zh": "只要你往內心深處探尋，就會發現一位英雄",
+        "text": "There's a hero if you look inside your heart"
       },
       {
-        "start": 20.0,
-        "duration": 5.0,
+        "start": 23.66,
+        "duration": 5.02,
         "en": "You don't have to be afraid of what you are",
-        "zh": "你不必對真實的自己感到恐懼"
+        "zh": "你不必對真實的自己感到恐懼",
+        "text": "You don't have to be afraid of what you are"
       },
       {
-        "start": 25.0,
-        "duration": 5.0,
+        "start": 30.98,
+        "duration": 7.38,
         "en": "There's an answer if you reach into your soul",
-        "zh": "只要你深入靈魂，就能找到答案"
+        "zh": "只要你深入靈魂，就能找到答案",
+        "text": "There's an answer if you reach into your soul"
       },
       {
-        "start": 30.0,
-        "duration": 6.0,
+        "start": 39.98,
+        "duration": 6.06,
         "en": "And the sorrow that you know will melt away",
-        "zh": "而你所承受的悲傷，終將煙消雲散"
+        "zh": "而你所承受的悲傷，終將煙消雲散",
+        "text": "And the sorrow that you know will melt away"
       },
       {
-        "start": 37.0,
-        "duration": 5.0,
+        "start": 48.88,
+        "duration": 3.52,
         "en": "And then a hero comes along",
-        "zh": "接著，一位英雄出現了"
+        "zh": "接著，一位英雄出現了",
+        "text": "And then a hero comes along"
       },
       {
-        "start": 42.0,
-        "duration": 5.0,
+        "start": 52.5,
+        "duration": 4.42,
         "en": "With the strength to carry on",
-        "zh": "帶著堅持下去的力量"
+        "zh": "帶著堅持下去的力量",
+        "text": "With the strength to carry on"
       },
       {
-        "start": 47.0,
-        "duration": 5.0,
+        "start": 57.62,
+        "duration": 2.96,
         "en": "And you cast your fears aside",
-        "zh": "讓你拋開所有的恐懼"
+        "zh": "讓你拋開所有的恐懼",
+        "text": "And you cast your fears aside"
       },
       {
-        "start": 52.0,
-        "duration": 5.0,
+        "start": 61.58,
+        "duration": 2.72,
         "en": "And you know you can survive",
-        "zh": "讓你明白自己能夠挺過難關"
+        "zh": "讓你明白自己能夠挺過難關",
+        "text": "And you know you can survive"
       },
       {
-        "start": 57.0,
-        "duration": 5.0,
+        "start": 64.4,
+        "duration": 4.24,
         "en": "So when you feel like hope is gone",
-        "zh": "所以當你覺得希望渺茫時"
+        "zh": "所以當你覺得希望渺茫時",
+        "text": "So when you feel like hope is gone"
       },
       {
-        "start": 62.0,
-        "duration": 5.0,
+        "start": 69.6,
+        "duration": 3.0,
         "en": "Look inside you and be strong",
-        "zh": "往內心看，堅強起來"
+        "zh": "往內心看，堅強起來",
+        "text": "Look inside you and be strong"
       },
       {
-        "start": 67.0,
-        "duration": 5.0,
+        "start": 73.6,
+        "duration": 2.92,
         "en": "And you'll finally see the truth",
-        "zh": "你終將看見真相"
+        "zh": "你終將看見真相",
+        "text": "And you'll finally see the truth"
       },
       {
-        "start": 72.0,
-        "duration": 5.0,
+        "start": 76.62,
+        "duration": 4.12,
         "en": "That a hero lies in you",
-        "zh": "那就是，英雄就在你心中"
+        "zh": "那就是，英雄就在你心中",
+        "text": "That a hero lies in you"
       },
       {
-        "start": 82.0,
-        "duration": 5.0,
+        "start": 86.9,
+        "duration": 6.48,
         "en": "It's a long road when you face the world alone",
-        "zh": "獨自面對世界時，路途顯得漫長"
+        "zh": "獨自面對世界時，路途顯得漫長",
+        "text": "It's a long road when you face the world alone"
       },
       {
-        "start": 87.0,
-        "duration": 5.0,
+        "start": 93.48,
+        "duration": 9.02,
         "en": "No one reaches out a hand for you to hold",
-        "zh": "沒有人伸出援手讓你依靠"
+        "zh": "沒有人伸出援手讓你依靠",
+        "text": "No one reaches out a hand for you to hold"
       },
       {
-        "start": 92.0,
-        "duration": 5.0,
+        "start": 102.6,
+        "duration": 7.32,
         "en": "You can find love if you search within yourself",
-        "zh": "只要往內心尋找，你就能找到愛"
+        "zh": "只要往內心尋找，你就能找到愛",
+        "text": "You can find love if you search within yourself"
       },
       {
-        "start": 97.0,
-        "duration": 6.0,
+        "start": 110.18,
+        "duration": 10.76,
         "en": "And the emptiness you felt will disappear",
-        "zh": "而你感受到的空虛，也將隨之消失"
+        "zh": "而你感受到的空虛，也將隨之消失",
+        "text": "And the emptiness you felt will disappear"
       },
       {
-        "start": 105.0,
-        "duration": 5.0,
+        "start": 121.04,
+        "duration": 3.56,
         "en": "And then a hero comes along",
-        "zh": "接著，一位英雄出現了"
+        "zh": "接著，一位英雄出現了",
+        "text": "And then a hero comes along"
       },
       {
-        "start": 110.0,
-        "duration": 5.0,
+        "start": 124.7,
+        "duration": 4.66,
         "en": "With the strength to carry on",
-        "zh": "帶著堅持下去的力量"
+        "zh": "帶著堅持下去的力量",
+        "text": "With the strength to carry on"
       },
       {
-        "start": 115.0,
-        "duration": 5.0,
+        "start": 129.76,
+        "duration": 2.8,
         "en": "And you cast your fears aside",
-        "zh": "讓你拋開所有的恐懼"
+        "zh": "讓你拋開所有的恐懼",
+        "text": "And you cast your fears aside"
       },
       {
-        "start": 120.0,
-        "duration": 5.0,
+        "start": 133.54,
+        "duration": 2.76,
         "en": "And you know you can survive",
-        "zh": "讓你明白自己能夠挺過難關"
+        "zh": "讓你明白自己能夠挺過難關",
+        "text": "And you know you can survive"
       },
       {
-        "start": 125.0,
-        "duration": 5.0,
+        "start": 136.4,
+        "duration": 4.22,
         "en": "So when you feel like hope is gone",
-        "zh": "所以當你覺得希望渺茫時"
+        "zh": "所以當你覺得希望渺茫時",
+        "text": "So when you feel like hope is gone"
       },
       {
-        "start": 130.0,
-        "duration": 5.0,
+        "start": 141.5,
+        "duration": 3.08,
         "en": "Look inside you and be strong",
-        "zh": "往內心看，堅強起來"
+        "zh": "往內心看，堅強起來",
+        "text": "Look inside you and be strong"
       },
       {
-        "start": 135.0,
-        "duration": 5.0,
+        "start": 145.82,
+        "duration": 2.64,
         "en": "And you'll finally see the truth",
-        "zh": "你終將看見真相"
+        "zh": "你終將看見真相",
+        "text": "And you'll finally see the truth"
       },
       {
-        "start": 140.0,
-        "duration": 5.0,
+        "start": 148.56,
+        "duration": 4.56,
         "en": "That a hero lies in you",
-        "zh": "那就是，英雄就在你心中"
+        "zh": "那就是，英雄就在你心中",
+        "text": "That a hero lies in you"
       },
       {
-        "start": 150.0,
-        "duration": 6.0,
+        "start": 198.0,
+        "duration": 4.52,
         "en": "Lord knows, dreams are hard to follow",
-        "zh": "老天知道，夢想難以追尋"
+        "zh": "老天知道，夢想難以追尋",
+        "text": "Lord knows, dreams are hard to follow"
       },
       {
-        "start": 156.0,
-        "duration": 6.0,
+        "start": 211.84,
+        "duration": 4.58,
         "en": "But don't let anyone tear them away",
-        "zh": "但別讓任何人將它們奪走"
+        "zh": "但別讓任何人將它們奪走",
+        "text": "But don't let anyone tear them away"
       },
       {
-        "start": 162.0,
-        "duration": 6.0,
+        "start": 220.54,
+        "duration": 7.26,
         "en": "Hold on, there will be tomorrow",
-        "zh": "堅持住，明天依然會到來"
+        "zh": "堅持住，明天依然會到來",
+        "text": "Hold on, there will be tomorrow"
       },
       {
-        "start": 168.0,
-        "duration": 6.0,
+        "start": 227.9,
+        "duration": 1.2,
         "en": "In time, you'll find the way",
-        "zh": "終有一天，你會找到方向"
+        "zh": "終有一天，你會找到方向",
+        "text": "In time, you'll find the way"
       },
       {
-        "start": 180.0,
-        "duration": 5.0,
+        "start": 229.02,
+        "duration": 15.42,
         "en": "And then a hero comes along",
-        "zh": "接著，一位英雄出現了"
+        "zh": "接著，一位英雄出現了",
+        "text": "And then a hero comes along"
       },
       {
         "start": 185.0,
-        "duration": 5.0,
+        "duration": 4.9,
         "en": "With the strength to carry on",
         "zh": "帶著堅持下去的力量"
       },
       {
         "start": 190.0,
-        "duration": 5.0,
+        "duration": 4.9,
         "en": "And you cast your fears aside",
         "zh": "讓你拋開所有的恐懼"
       },
       {
         "start": 195.0,
-        "duration": 5.0,
+        "duration": 4.9,
         "en": "And you know you can survive",
         "zh": "讓你明白自己能夠挺過難關"
       },
       {
         "start": 200.0,
-        "duration": 5.0,
+        "duration": 4.9,
         "en": "So when you feel like hope is gone",
         "zh": "所以當你覺得希望渺茫時"
       },
       {
         "start": 205.0,
-        "duration": 5.0,
+        "duration": 4.9,
         "en": "Look inside you and be strong",
         "zh": "往內心看，堅強起來"
       },
@@ -13453,10 +13743,11 @@
         "zh": "你終將看見真相"
       },
       {
-        "start": 215.0,
-        "duration": 6.0,
+        "start": 229.86,
+        "duration": 17.08,
         "en": "That a hero lies in you",
-        "zh": "那就是，英雄就在你心中"
+        "zh": "那就是，英雄就在你心中",
+        "text": "That a hero lies in you"
       },
       {
         "start": 225.0,
@@ -13471,10 +13762,11 @@
         "zh": "英雄就在你心中"
       },
       {
-        "start": 242.0,
-        "duration": 6.0,
+        "start": 232.62,
+        "duration": 14.32,
         "en": "A hero lies in you",
-        "zh": "英雄就在你心中"
+        "zh": "英雄就在你心中",
+        "text": "A hero lies in you"
       }
     ],
     "channel": "Music"
@@ -15073,116 +15365,134 @@
     "type": "song",
     "cues": [
       {
-        "start": 12.0,
-        "duration": 4.5,
+        "start": 8.6,
+        "duration": 10.56,
         "en": "Wise men say only fools rush in",
-        "zh": "智者說，只有傻瓜才會衝動行事"
+        "zh": "智者說，只有傻瓜才會衝動行事",
+        "text": "Wise men say only fools rush in"
       },
       {
-        "start": 16.5,
-        "duration": 4.0,
+        "start": 19.26,
+        "duration": 15.1,
         "en": "But I can't help falling in love with you",
-        "zh": "但我卻無法克制自己愛上你"
+        "zh": "但我卻無法克制自己愛上你",
+        "text": "But I can't help falling in love with you"
       },
       {
-        "start": 21.5,
-        "duration": 4.0,
+        "start": 35.96,
+        "duration": 4.88,
         "en": "Shall I stay?",
-        "zh": "我該留下嗎？"
+        "zh": "我該留下嗎？",
+        "text": "Shall I stay?"
       },
       {
-        "start": 25.5,
-        "duration": 4.0,
+        "start": 42.96,
+        "duration": 5.18,
         "en": "Would it be a sin?",
-        "zh": "這會是一種罪過嗎？"
+        "zh": "這會是一種罪過嗎？",
+        "text": "Would it be a sin?"
       },
       {
-        "start": 30.0,
-        "duration": 4.5,
+        "start": 49.96,
+        "duration": 13.44,
         "en": "If I can't help falling in love with you",
-        "zh": "如果我無法克制自己愛上你"
-      },
-      {
-        "start": 36.0,
-        "duration": 4.0,
-        "en": "Like a river flows surely to the sea",
-        "zh": "就像河流必然奔向大海"
-      },
-      {
-        "start": 40.0,
-        "duration": 4.0,
-        "en": "Darling, so it goes",
-        "zh": "親愛的，一切就是如此自然"
-      },
-      {
-        "start": 44.0,
-        "duration": 4.5,
-        "en": "Some things are meant to be",
-        "zh": "有些事命中註定"
-      },
-      {
-        "start": 50.0,
-        "duration": 4.0,
-        "en": "Take my hand",
-        "zh": "牽起我的手"
-      },
-      {
-        "start": 54.0,
-        "duration": 4.0,
-        "en": "Take my whole life too",
-        "zh": "也帶走我的一生"
-      },
-      {
-        "start": 58.0,
-        "duration": 4.5,
-        "en": "For I can't help falling in love with you",
-        "zh": "因為我無法克制自己愛上你"
+        "zh": "如果我無法克制自己愛上你",
+        "text": "If I can't help falling in love with you"
       },
       {
         "start": 65.0,
-        "duration": 4.0,
+        "duration": 6.12,
         "en": "Like a river flows surely to the sea",
-        "zh": "就像河流必然奔向大海"
+        "zh": "就像河流必然奔向大海",
+        "text": "Like a river flows surely to the sea"
       },
       {
-        "start": 69.0,
-        "duration": 4.0,
+        "start": 72.12,
+        "duration": 2.18,
         "en": "Darling, so it goes",
-        "zh": "親愛的，一切就是如此自然"
+        "zh": "親愛的，一切就是如此自然",
+        "text": "Darling, so it goes"
       },
       {
-        "start": 73.0,
-        "duration": 4.5,
+        "start": 74.4,
+        "duration": 5.96,
         "en": "Some things are meant to be",
-        "zh": "有些事命中註定"
+        "zh": "有些事命中註定",
+        "text": "Some things are meant to be"
       },
       {
-        "start": 79.0,
-        "duration": 4.0,
+        "start": 82.8,
+        "duration": 5.0,
         "en": "Take my hand",
-        "zh": "牽起我的手"
+        "zh": "牽起我的手",
+        "text": "Take my hand"
       },
       {
-        "start": 83.0,
-        "duration": 4.0,
+        "start": 89.4,
+        "duration": 4.84,
         "en": "Take my whole life too",
-        "zh": "也帶走我的一生"
+        "zh": "也帶走我的一生",
+        "text": "Take my whole life too"
       },
       {
-        "start": 87.0,
-        "duration": 4.5,
+        "start": 96.26,
+        "duration": 13.36,
         "en": "For I can't help falling in love with you",
-        "zh": "因為我無法克制自己愛上你"
+        "zh": "因為我無法克制自己愛上你",
+        "text": "For I can't help falling in love with you"
       },
       {
-        "start": 95.0,
-        "duration": 4.0,
+        "start": 110.62,
+        "duration": 6.86,
+        "en": "Like a river flows surely to the sea",
+        "zh": "就像河流必然奔向大海",
+        "text": "Like a river flows surely to the sea"
+      },
+      {
+        "start": 118.28,
+        "duration": 2.22,
+        "en": "Darling, so it goes",
+        "zh": "親愛的，一切就是如此自然",
+        "text": "Darling, so it goes"
+      },
+      {
+        "start": 120.6,
+        "duration": 5.84,
+        "en": "Some things are meant to be",
+        "zh": "有些事命中註定",
+        "text": "Some things are meant to be"
+      },
+      {
+        "start": 128.84,
+        "duration": 4.76,
+        "en": "Take my hand",
+        "zh": "牽起我的手",
+        "text": "Take my hand"
+      },
+      {
+        "start": 135.4,
+        "duration": 5.3,
+        "en": "Take my whole life too",
+        "zh": "也帶走我的一生",
+        "text": "Take my whole life too"
+      },
+      {
+        "start": 142.28,
+        "duration": 5.58,
         "en": "For I can't help falling in love with you",
-        "zh": "因為我無法克制自己愛上你"
+        "zh": "因為我無法克制自己愛上你",
+        "text": "For I can't help falling in love with you"
+      },
+      {
+        "start": 147.96,
+        "duration": 27.58,
+        "en": "For I can't help falling in love with you",
+        "zh": "因為我無法克制自己愛上你",
+        "text": "For I can't help falling in love with you"
       },
       {
         "start": 105.0,
-        "duration": 5.0,
+        "duration": 4.9,
         "en": "Wise men say only fools rush in",
         "zh": "智者說，只有傻瓜才會衝動行事"
       },
@@ -15199,10 +15509,11 @@
         "zh": "我該留下嗎？"
       },
       {
-        "start": 120.0,
-        "duration": 4.0,
+        "start": 167.68,
+        "duration": 7.86,
         "en": "Would it be a sin?",
-        "zh": "這會是一種罪過嗎？"
+        "zh": "這會是一種罪過嗎？",
+        "text": "Would it be a sin?"
       },
       {
         "start": 125.0,
@@ -15211,14 +15522,15 @@
         "zh": "如果我無法克制自己愛上你"
       },
       {
-        "start": 132.0,
-        "duration": 4.0,
+        "start": 170.68,
+        "duration": 8.62,
         "en": "Like a river flows surely to the sea",
-        "zh": "就像河流必然奔向大海"
+        "zh": "就像河流必然奔向大海",
+        "text": "Like a river flows surely to the sea"
       },
       {
         "start": 136.0,
-        "duration": 4.0,
+        "duration": 3.9,
         "en": "Darling, so it goes",
         "zh": "親愛的，一切就是如此自然"
       },
@@ -15229,10 +15541,11 @@
         "zh": "有些事命中註定"
       },
       {
-        "start": 146.0,
-        "duration": 4.0,
+        "start": 179.3,
+        "duration": 1.32,
         "en": "Take my hand",
-        "zh": "牽起我的手"
+        "zh": "牽起我的手",
+        "text": "Take my hand"
       },
       {
         "start": 150.0,
@@ -15366,29 +15679,32 @@
     "type": "song",
     "cues": [
       {
-        "start": 17.0,
-        "duration": 5.0,
+        "start": 20.58,
+        "duration": 5.88,
         "en": "No chocolate covered candy hearts to give away",
-        "zh": "沒有巧克力糖果心可以送人"
+        "zh": "沒有巧克力糖果心可以送人",
+        "text": "No chocolate covered candy hearts to give away"
       },
       {
-        "start": 22.0,
-        "duration": 4.36,
+        "start": 26.56,
+        "duration": 11.0,
         "en": "No first of spring, no song to sing",
-        "zh": "沒有春天的第一天，也沒有歌可以唱"
+        "zh": "沒有春天的第一天，也沒有歌可以唱",
+        "text": "No first of spring, no song to sing"
       },
       {
-        "start": 26.36,
-        "duration": 0.64,
+        "start": 39.16,
+        "duration": 7.46,
         "en": "No New Year's Day to celebrate",
         "zh": "沒有新年可以慶祝",
         "text": "No New Year's Day to celebrate"
       },
       {
-        "start": 27.0,
-        "duration": 5.0,
+        "start": 46.72,
+        "duration": 9.3,
         "en": "In fact, here's just another ordinary day",
-        "zh": "事實上，這只是平凡的一天"
+        "zh": "事實上，這只是平凡的一天",
+        "text": "In fact, here's just another ordinary day"
       },
       {
         "start": 32.0,
@@ -15397,140 +15713,162 @@
         "zh": "沒有四月的雨，也沒有花朵綻放"
       },
       {
-        "start": 37.0,
-        "duration": 5.0,
+        "start": 51.36,
+        "duration": 8.98,
         "en": "No wedding Saturday within the month of June",
-        "zh": "六月也沒有週六的婚禮"
+        "zh": "六月也沒有週六的婚禮",
+        "text": "No wedding Saturday within the month of June"
       },
       {
-        "start": 42.0,
-        "duration": 5.0,
+        "start": 61.88,
+        "duration": 6.88,
         "en": "But what it is, is something true",
-        "zh": "但這份心意，卻是真實的"
+        "zh": "但這份心意，卻是真實的",
+        "text": "But what it is, is something true"
       },
       {
-        "start": 47.0,
-        "duration": 6.0,
+        "start": 68.86,
+        "duration": 7.9,
         "en": "Made up of these three words that I must say to you",
-        "zh": "由這三個我必須對你說的字所組成"
+        "zh": "由這三個我必須對你說的字所組成",
+        "text": "Made up of these three words that I must say to you"
       },
       {
-        "start": 53.0,
-        "duration": 6.0,
+        "start": 79.02,
+        "duration": 6.64,
         "en": "I just called to say I love you",
-        "zh": "我打電話只是想說我愛你"
+        "zh": "我打電話只是想說我愛你",
+        "text": "I just called to say I love you"
       },
       {
-        "start": 59.0,
-        "duration": 6.0,
+        "start": 85.76,
+        "duration": 7.92,
         "en": "I just called to say how much I care",
-        "zh": "我打電話只是想說我有多在乎你"
+        "zh": "我打電話只是想說我有多在乎你",
+        "text": "I just called to say how much I care"
       },
       {
-        "start": 65.0,
-        "duration": 6.0,
+        "start": 95.6,
+        "duration": 7.54,
         "en": "I just called to say I love you",
-        "zh": "我打電話只是想說我愛你"
+        "zh": "我打電話只是想說我愛你",
+        "text": "I just called to say I love you"
       },
       {
-        "start": 71.0,
-        "duration": 6.0,
+        "start": 103.24,
+        "duration": 8.0,
         "en": "And I mean it from the bottom of my heart",
-        "zh": "而且我是發自內心地這麼說"
+        "zh": "而且我是發自內心地這麼說",
+        "text": "And I mean it from the bottom of my heart"
       },
       {
-        "start": 77.0,
-        "duration": 5.0,
+        "start": 111.34,
+        "duration": 7.52,
         "en": "No summer's high, no warm July",
-        "zh": "沒有盛夏，也沒有溫暖的七月"
+        "zh": "沒有盛夏，也沒有溫暖的七月",
+        "text": "No summer's high, no warm July"
       },
       {
-        "start": 82.0,
-        "duration": 5.0,
+        "start": 122.02,
+        "duration": 5.56,
         "en": "No harvest moon to light one tender August night",
-        "zh": "沒有秋收的月亮照亮溫柔的八月夜晚"
+        "zh": "沒有秋收的月亮照亮溫柔的八月夜晚",
+        "text": "No harvest moon to light one tender August night"
       },
       {
-        "start": 87.0,
-        "duration": 5.0,
+        "start": 129.24,
+        "duration": 7.0,
         "en": "No autumn breeze, no falling leaves",
-        "zh": "沒有秋風，也沒有落葉"
+        "zh": "沒有秋風，也沒有落葉",
+        "text": "No autumn breeze, no falling leaves"
       },
       {
-        "start": 92.0,
-        "duration": 5.0,
+        "start": 136.34,
+        "duration": 7.5,
         "en": "Not even time for birds to fly to southern skies",
-        "zh": "甚至連鳥兒飛往南方天空的時間都沒有"
+        "zh": "甚至連鳥兒飛往南方天空的時間都沒有",
+        "text": "Not even time for birds to fly to southern skies"
       },
       {
-        "start": 97.0,
-        "duration": 5.0,
+        "start": 146.02,
+        "duration": 6.04,
         "en": "No Libra sun, no Halloween",
-        "zh": "沒有天秤座的太陽，也沒有萬聖節"
+        "zh": "沒有天秤座的太陽，也沒有萬聖節",
+        "text": "No Libra sun, no Halloween"
       },
       {
-        "start": 102.0,
-        "duration": 5.0,
+        "start": 152.16,
+        "duration": 9.66,
         "en": "No giving thanks to all the Christmas joy you bring",
-        "zh": "沒有感謝你帶來的聖誕歡樂"
+        "zh": "沒有感謝你帶來的聖誕歡樂",
+        "text": "No giving thanks to all the Christmas joy you bring"
       },
       {
-        "start": 107.0,
-        "duration": 5.0,
+        "start": 163.08,
+        "duration": 7.44,
         "en": "But what it is, is something true",
-        "zh": "但這份心意，卻是真實的"
+        "zh": "但這份心意，卻是真實的",
+        "text": "But what it is, is something true"
       },
       {
-        "start": 112.0,
-        "duration": 6.0,
+        "start": 174.06,
+        "duration": 6.34,
         "en": "Made up of these three words that I must say to you",
-        "zh": "由這三個我必須對你說的字所組成"
+        "zh": "由這三個我必須對你說的字所組成",
+        "text": "Made up of these three words that I must say to you"
       },
       {
-        "start": 118.0,
-        "duration": 6.0,
+        "start": 180.5,
+        "duration": 6.6,
         "en": "I just called to say I love you",
-        "zh": "我打電話只是想說我愛你"
+        "zh": "我打電話只是想說我愛你",
+        "text": "I just called to say I love you"
       },
       {
-        "start": 124.0,
-        "duration": 6.0,
+        "start": 187.2,
+        "duration": 7.78,
         "en": "I just called to say how much I care",
-        "zh": "我打電話只是想說我有多在乎你"
+        "zh": "我打電話只是想說我有多在乎你",
+        "text": "I just called to say how much I care"
       },
       {
-        "start": 130.0,
-        "duration": 6.0,
+        "start": 197.04,
+        "duration": 7.48,
         "en": "I just called to say I love you",
-        "zh": "我打電話只是想說我愛你"
+        "zh": "我打電話只是想說我愛你",
+        "text": "I just called to say I love you"
       },
       {
-        "start": 136.0,
-        "duration": 6.0,
+        "start": 204.62,
+        "duration": 8.18,
         "en": "And I mean it from the bottom of my heart",
-        "zh": "而且我是發自內心地這麼說"
+        "zh": "而且我是發自內心地這麼說",
+        "text": "And I mean it from the bottom of my heart"
       },
       {
-        "start": 142.0,
-        "duration": 6.0,
+        "start": 224.62,
+        "duration": 3.64,
         "en": "The jealousy of winter's chill",
-        "zh": "冬日寒冷的嫉妒"
+        "zh": "冬日寒冷的嫉妒",
+        "text": "The jealousy of winter's chill"
       },
       {
-        "start": 148.0,
-        "duration": 6.0,
+        "start": 242.8,
+        "duration": 6.16,
         "en": "The wonder of the spring",
-        "zh": "春天的奇蹟"
+        "zh": "春天的奇蹟",
+        "text": "The wonder of the spring"
       },
       {
-        "start": 154.0,
-        "duration": 6.0,
+        "start": 323.02,
+        "duration": 6.4,
         "en": "The gentle warmth of summer's light",
-        "zh": "夏日陽光的溫柔暖意"
+        "zh": "夏日陽光的溫柔暖意",
+        "text": "The gentle warmth of summer's light"
       },
       {
         "start": 160.0,
-        "duration": 6.0,
+        "duration": 5.9,
         "en": "The flowers that they bring",
         "zh": "以及它們帶來的花朵"
       },
@@ -15541,32 +15879,35 @@
         "zh": "秋月般的溫柔"
       },
       {
-        "start": 172.0,
-        "duration": 6.0,
+        "start": 347.22,
+        "duration": 1.94,
         "en": "The love that you have shown",
-        "zh": "你所展現的愛"
+        "zh": "你所展現的愛",
+        "text": "The love that you have shown"
       },
       {
-        "start": 178.0,
-        "duration": 6.0,
+        "start": 349.26,
+        "duration": 1.66,
         "en": "The love that you have shown",
-        "zh": "你所展現的愛"
+        "zh": "你所展現的愛",
+        "text": "The love that you have shown"
       },
       {
-        "start": 184.0,
-        "duration": 6.0,
+        "start": 351.02,
+        "duration": 5.56,
         "en": "The love that you have shown",
-        "zh": "你所展現的愛"
+        "zh": "你所展現的愛",
+        "text": "The love that you have shown"
       },
       {
         "start": 190.0,
-        "duration": 6.0,
+        "duration": 5.9,
         "en": "I just called to say I love you",
         "zh": "我打電話只是想說我愛你"
       },
       {
         "start": 196.0,
-        "duration": 6.0,
+        "duration": 5.9,
         "en": "I just called to say how much I care",
         "zh": "我打電話只是想說我有多在乎你"
       },
@@ -15577,20 +15918,21 @@
         "zh": "我打電話只是想說我愛你"
       },
       {
-        "start": 208.0,
-        "duration": 6.0,
+        "start": 352.4,
+        "duration": 10.56,
         "en": "And I mean it from the bottom of my heart",
-        "zh": "而且我是發自內心地這麼說"
+        "zh": "而且我是發自內心地這麼說",
+        "text": "And I mean it from the bottom of my heart"
       },
       {
         "start": 214.0,
-        "duration": 6.0,
+        "duration": 5.9,
         "en": "I just called to say I love you",
         "zh": "我打電話只是想說我愛你"
       },
       {
         "start": 220.0,
-        "duration": 6.0,
+        "duration": 5.9,
         "en": "I just called to say how much I care",
         "zh": "我打電話只是想說我有多在乎你"
       },
@@ -15601,16 +15943,18 @@
         "zh": "我打電話只是想說我愛你"
       },
       {
-        "start": 232.0,
-        "duration": 6.0,
+        "start": 357.0,
+        "duration": 5.86,
         "en": "And I mean it from the bottom of my heart",
-        "zh": "而且我是發自內心地這麼說"
+        "zh": "而且我是發自內心地這麼說",
+        "text": "And I mean it from the bottom of my heart"
       },
       {
-        "start": 238.0,
-        "duration": 7.0,
+        "start": 362.96,
+        "duration": 13.0,
         "en": "Of my heart, of my heart",
-        "zh": "發自內心，發自內心"
+        "zh": "發自內心，發自內心",
+        "text": "Of my heart, of my heart"
       },
       {
         "start": 245.0,
@@ -16458,70 +16802,81 @@
     "type": "song",
     "cues": [
       {
-        "start": 12.0,
-        "duration": 4.5,
+        "start": 21.96,
+        "duration": 3.06,
         "en": "Kiss me, out of the bearded barley",
-        "zh": "吻我吧，在長滿大麥的田野裡"
+        "zh": "吻我吧，在長滿大麥的田野裡",
+        "text": "Kiss me, out of the bearded barley"
       },
       {
-        "start": 16.5,
-        "duration": 4.5,
+        "start": 27.22,
+        "duration": 2.9,
         "en": "Nightly, beside the green, green grass",
-        "zh": "在每個夜晚，在那片翠綠的草地上"
+        "zh": "在每個夜晚，在那片翠綠的草地上",
+        "text": "Nightly, beside the green, green grass"
       },
       {
-        "start": 21.0,
-        "duration": 4.5,
+        "start": 31.18,
+        "duration": 4.1,
         "en": "Swing, swing, spin the boys around",
-        "zh": "旋轉吧，讓男孩們團團轉"
+        "zh": "旋轉吧，讓男孩們團團轉",
+        "text": "Swing, swing, spin the boys around"
       },
       {
-        "start": 25.5,
-        "duration": 4.5,
+        "start": 52.68,
+        "duration": 1.42,
         "en": "And hand me the flowers",
-        "zh": "並遞給我那些花朵"
+        "zh": "並遞給我那些花朵",
+        "text": "And hand me the flowers"
       },
       {
-        "start": 30.0,
-        "duration": 4.5,
+        "start": 71.0,
+        "duration": 3.64,
         "en": "Kiss me, beneath the milky twilight",
-        "zh": "吻我吧，在乳白色的暮色之下"
+        "zh": "吻我吧，在乳白色的暮色之下",
+        "text": "Kiss me, beneath the milky twilight"
       },
       {
-        "start": 34.5,
-        "duration": 4.5,
+        "start": 94.82,
+        "duration": 4.8,
         "en": "Lead me, out on the moonlit floor",
-        "zh": "帶我走，來到月光灑落的地板上"
+        "zh": "帶我走，來到月光灑落的地板上",
+        "text": "Lead me, out on the moonlit floor"
       },
       {
-        "start": 39.0,
-        "duration": 4.5,
+        "start": 145.68,
+        "duration": 3.06,
         "en": "Lift your open hand",
-        "zh": "伸出你的手"
+        "zh": "伸出你的手",
+        "text": "Lift your open hand"
       },
       {
-        "start": 43.5,
-        "duration": 4.5,
+        "start": 151.94,
+        "duration": 3.42,
         "en": "Strike up the band and make the fireflies dance",
-        "zh": "奏起樂章，讓螢火蟲翩翩起舞"
+        "zh": "奏起樂章，讓螢火蟲翩翩起舞",
+        "text": "Strike up the band and make the fireflies dance"
       },
       {
-        "start": 48.0,
-        "duration": 4.5,
+        "start": 156.82,
+        "duration": 4.3,
         "en": "Silver moon's sparkling, so kiss me",
-        "zh": "銀色月光閃爍著，吻我吧"
+        "zh": "銀色月光閃爍著，吻我吧",
+        "text": "Silver moon's sparkling, so kiss me"
       },
       {
-        "start": 52.5,
-        "duration": 4.5,
+        "start": 161.22,
+        "duration": 21.04,
         "en": "Kiss me, down by the broken tree house",
-        "zh": "吻我吧，在破舊的樹屋旁"
+        "zh": "吻我吧，在破舊的樹屋旁",
+        "text": "Kiss me, down by the broken tree house"
       },
       {
-        "start": 57.0,
-        "duration": 4.5,
+        "start": 182.36,
+        "duration": 27.28,
         "en": "Swing me, upon its hanging tire",
-        "zh": "盪著我，在那懸掛的輪胎鞦韆上"
+        "zh": "盪著我，在那懸掛的輪胎鞦韆上",
+        "text": "Swing me, upon its hanging tire"
       },
       {
         "start": 61.5,
@@ -16530,10 +16885,11 @@
         "zh": "帶上，帶上，帶回你的花朵"
       },
       {
-        "start": 66.0,
-        "duration": 4.5,
+        "start": 209.64,
+        "duration": 1.2,
         "en": "To me, I'll miss you",
-        "zh": "回到我身邊，我會想念你的"
+        "zh": "回到我身邊，我會想念你的",
+        "text": "To me, I'll miss you"
       },
       {
         "start": 70.5,
@@ -16542,38 +16898,40 @@
         "zh": "吻我吧，在乳白色的暮色之下"
       },
       {
-        "start": 75.0,
-        "duration": 4.5,
+        "start": 209.64,
+        "duration": 1.2,
         "en": "Lead me, out on the moonlit floor",
-        "zh": "帶我走，來到月光灑落的地板上"
+        "zh": "帶我走，來到月光灑落的地板上",
+        "text": "Lead me, out on the moonlit floor"
       },
       {
-        "start": 79.5,
-        "duration": 4.5,
+        "start": 209.64,
+        "duration": 1.2,
         "en": "Lift your open hand",
-        "zh": "伸出你的手"
+        "zh": "伸出你的手",
+        "text": "Lift your open hand"
       },
       {
         "start": 84.0,
-        "duration": 4.5,
+        "duration": 4.4,
         "en": "Strike up the band and make the fireflies dance",
         "zh": "奏起樂章，讓螢火蟲翩翩起舞"
       },
       {
         "start": 88.5,
-        "duration": 4.5,
+        "duration": 4.4,
         "en": "Silver moon's sparkling, so kiss me",
         "zh": "銀色月光閃爍著，吻我吧"
       },
       {
         "start": 93.0,
-        "duration": 5.0,
+        "duration": 4.9,
         "en": "So I must run to the bus, you're my best friend",
         "zh": "所以我必須趕去搭公車，你是我的摯友"
       },
       {
         "start": 98.0,
-        "duration": 5.0,
+        "duration": 4.9,
         "en": "Kiss me, beneath the milky twilight",
         "zh": "吻我吧，在乳白色的暮色之下"
       },
@@ -16584,20 +16942,21 @@
         "zh": "帶我走，來到月光灑落的地板上"
       },
       {
-        "start": 108.0,
-        "duration": 5.0,
+        "start": 209.64,
+        "duration": 1.2,
         "en": "Lift your open hand",
-        "zh": "伸出你的手"
+        "zh": "伸出你的手",
+        "text": "Lift your open hand"
       },
       {
         "start": 113.0,
-        "duration": 5.0,
+        "duration": 4.9,
         "en": "Strike up the band and make the fireflies dance",
         "zh": "奏起樂章，讓螢火蟲翩翩起舞"
       },
       {
         "start": 118.0,
-        "duration": 5.0,
+        "duration": 4.9,
         "en": "Silver moon's sparkling, so kiss me",
         "zh": "銀色月光閃爍著，吻我吧"
       },
@@ -16608,68 +16967,70 @@
         "zh": "吻我吧，在乳白色的暮色之下"
       },
       {
-        "start": 128.0,
-        "duration": 5.0,
+        "start": 209.64,
+        "duration": 1.2,
         "en": "Lead me, out on the moonlit floor",
-        "zh": "帶我走，來到月光灑落的地板上"
+        "zh": "帶我走，來到月光灑落的地板上",
+        "text": "Lead me, out on the moonlit floor"
       },
       {
-        "start": 133.0,
-        "duration": 5.0,
+        "start": 209.64,
+        "duration": 1.2,
         "en": "Lift your open hand",
-        "zh": "伸出你的手"
+        "zh": "伸出你的手",
+        "text": "Lift your open hand"
       },
       {
         "start": 138.0,
-        "duration": 5.0,
+        "duration": 4.9,
         "en": "Strike up the band and make the fireflies dance",
         "zh": "奏起樂章，讓螢火蟲翩翩起舞"
       },
       {
         "start": 143.0,
-        "duration": 5.0,
+        "duration": 4.9,
         "en": "Silver moon's sparkling, so kiss me",
         "zh": "銀色月光閃爍著，吻我吧"
       },
       {
         "start": 148.0,
-        "duration": 5.0,
+        "duration": 4.9,
         "en": "Kiss me, kiss me",
         "zh": "吻我吧，吻我吧"
       },
       {
         "start": 153.0,
-        "duration": 5.0,
+        "duration": 4.9,
         "en": "Kiss me, kiss me",
         "zh": "吻我吧，吻我吧"
       },
       {
         "start": 158.0,
-        "duration": 5.0,
+        "duration": 4.9,
         "en": "Kiss me, kiss me",
         "zh": "吻我吧，吻我吧"
       },
       {
         "start": 163.0,
-        "duration": 5.0,
+        "duration": 4.9,
         "en": "Kiss me, kiss me",
         "zh": "吻我吧，吻我吧"
       },
       {
         "start": 168.0,
-        "duration": 5.0,
+        "duration": 4.9,
         "en": "Kiss me, kiss me",
         "zh": "吻我吧，吻我吧"
       },
       {
         "start": 173.0,
-        "duration": 5.0,
+        "duration": 4.9,
         "en": "Kiss me, kiss me",
         "zh": "吻我吧，吻我吧"
       },
       {
         "start": 178.0,
-        "duration": 5.0,
+        "duration": 4.9,
         "en": "Kiss me, kiss me",
         "zh": "吻我吧，吻我吧"
       },
