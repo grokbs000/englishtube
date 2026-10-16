@@ -6,7 +6,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-6d5dfc.svg)](./LICENSE)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://python.org)
 [![PWA Ready](https://img.shields.io/badge/PWA-Ready-brightgreen.svg)](https://web.dev/progressive-web-apps/)
-[![Service Worker](https://img.shields.io/badge/Service%20Worker-v30-orange.svg)](./sw.js)
+[![Service Worker](https://img.shields.io/badge/Service%20Worker-v31-orange.svg)](./sw.js)
 [![Flagship Edition](https://img.shields.io/badge/Edition-Stage%202%20Flagship%20(500%20Items)-6d5dfc.svg)](./index.html)
 
 ---
@@ -56,8 +56,8 @@
 * **播放器銷毀保護**：在關閉學習視窗（`closeModal`）時，主動呼叫 `ytPlayer.stopVideo()` 與 `ytPlayer.destroy()`，並清除 DOM 節點容器，阻斷未回收的 Event Loop 與背景音訊播放。
 * **背景同步循環防呆**：離開視窗時自動清除即時同步計時器（`cancelAnimationFrame` / `clearInterval`），避免背景空轉消耗 CPU 效能。
 
-### 6. Service Worker 快取擊穿與零等待啟用（Cache Busting v30）
-* **強制作業系統級重新啟用**：升級 Service Worker 快取版本至 `v30`，搭配 `self.skipWaiting()` 與 `clients.claim()`，在快取被淘汰時自動清除舊版快取並推播最新版本，解決 PWA 在不同客戶端上的快取殘留問題。
+### 6. Service Worker 快取擊穿與零等待啟用（Cache Busting v31）
+* **強制作業系統級重新啟用**：升級 Service Worker 快取版本至 `v31`，搭配 `self.skipWaiting()` 與 `clients.claim()`，在快取被淘汰時自動清除舊版快取並推播最新版本，解決 PWA 在不同客戶端上的快取殘留問題。
 
 ### 7. 100% YouTube 官方真實影片驗證機制（100% Genuine Video & Song Verification）
 * **全面終結「無法播放影片」痛點**：全平台 500 部教材（400 部知識演講/趣味科普 + 100 首西洋經典情歌）均透過 `yt-dlp` 檢索與 YouTube 官方 `oEmbed` API（HTTP 200）進行 100% 嚴格校驗，確保每一部影片均為真實、高畫質、允許嵌入且可流暢播放的官方正版視頻（500/500 驗證通過）。

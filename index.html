@@ -1133,7 +1133,7 @@ html[data-theme='dark'] .custom-maker-head {
 
 </style>
 <script src="https://www.youtube.com/iframe_api"></script>
-<script src="./video_lessons.js?v=30"></script>
+<script src="./video_lessons.js?v=31"></script>
 </head>
 <body>
 <header class="top"><div class="logo">ENGLISH<b>TUBE</b></div><nav class="nav"><a href="#discover" onclick="switchMediaMode('video')">探索影片</a><a href="#discover" onclick="switchMediaMode('song')" style="display:inline-flex;align-items:center">探索歌曲 <span class="nav-badge">100首</span></a><a href="#study">學習工具</a><a href="#saved" onclick="setFilter('收藏')">我的收藏</a></nav><label class="search">⌕ <input id="search" placeholder="搜尋影片、主題..." autocomplete="off"></label><button class="pill" id="installBtn">＋ 安裝 App</button><button class="dark-toggle" id="darkToggle" title="切換深色模式" onclick="toggleDark()">🌙</button></header>
@@ -45507,7 +45507,7 @@ if(window.matchMedia('(display-mode: standalone)').matches||navigator.standalone
 document.querySelector('#installBtn').addEventListener('click',async()=>{if(deferredPrompt){deferredPrompt.prompt();const{outcome}=await deferredPrompt.userChoice;deferredPrompt=null;if(outcome==='accepted')toast('✓ 安裝中...')}else if(/iphone|ipad|ipod/i.test(navigator.userAgent)){toast('Safari：分享 → 加入主畫面')}else{toast('請從瀏覽器選單選擇「安裝應用程式」')}});
 // Register Service Worker + auto-reload on new SW version
 if('serviceWorker'in navigator&&location.protocol.startsWith('http')){
-  window.addEventListener('load',()=>navigator.serviceWorker.register('./sw.js?v=30').then(reg=>{
+  window.addEventListener('load',()=>navigator.serviceWorker.register('./sw.js?v=31').then(reg=>{
     try{reg.update()}catch(e){}
     reg.addEventListener('updatefound',()=>{
       const nw=reg.installing;
@@ -45738,7 +45738,7 @@ function createYTPlayer(videoId) {
         enablejsapi: 1,
         cc_load_policy: 1,
         cc_lang_pref: 'en',
-        origin: window.location.origin
+        origin: location.protocol.startsWith('http') ? window.location.origin : undefined
       },
       events: {
         onReady: function(event) {
@@ -45763,7 +45763,8 @@ function createYTPlayer(videoId) {
       }
     });
   } catch(e) {
-    container.innerHTML = `<iframe id="fallbackIframe" src="https://www.youtube-nocookie.com/embed/${videoId}?autoplay=1&enablejsapi=1&rel=0&origin=${encodeURIComponent(window.location.origin)}" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="width:100%;height:100%;border:0"></iframe>`;
+    const originParam = location.protocol.startsWith('http') ? `&origin=${encodeURIComponent(window.location.origin)}` : '';
+    container.innerHTML = `<iframe id="fallbackIframe" src="https://www.youtube-nocookie.com/embed/${videoId}?autoplay=1&enablejsapi=1&rel=0${originParam}" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="width:100%;height:100%;border:0"></iframe>`;
   }
 
   startContinuousSync();
@@ -45885,7 +45886,7 @@ function highlightVoiceTubeCue(idx) {
   // 3. Smooth auto-scroll
   if (autoScrollEnabled) {
     const activeRow = document.querySelector('.vt-cue-row.active');
-    if (activeRow) {
+    if (activeRow && typeof activeRow.scrollIntoView === 'function') {
       activeRow.scrollIntoView({ behavior: 'smooth', block: 'center' });
     }
   }
@@ -46425,20 +46426,33 @@ function shareVideo() {
   }
 }
 
-// Upgraded openVideo with VoiceTube data
-const _origOpenVideo = openVideo;
-openVideo = function(id) {
-  // For songs: always prefer songs_50.json cues (complete lyrics) over video_lessons
-  const songEntry = window.songs && window.songs.find(s => s.id === id);
-  current = songEntry || videos.find(v => v.id === id);
-  if (!current) return;
+// VoiceTube Studio Main Player & Lesson Launcher
+function openVideo(id) {
+  if (!id) return;
+  id = String(id).trim();
+
+  // 1. Prefer songs from window.songs or songs array
+  const songEntry = (typeof songs !== 'undefined' ? songs : (window.songs || [])).find(s => s.id === id);
+  // 2. Lookup in videos, customLessons, or ENGLISHTUBE_DATA catalog
+  const videoEntry = (typeof videos !== 'undefined' ? videos : []).find(v => v.id === id) ||
+    (typeof customLessons !== 'undefined' ? customLessons : []).find(c => c.id === id) ||
+    ((window.ENGLISHTUBE_DATA && window.ENGLISHTUBE_DATA.catalog) ? window.ENGLISHTUBE_DATA.catalog.find(v => v.id === id) : null);
+
+  current = songEntry || videoEntry || {
+    id: id,
+    title: 'English Lesson (' + id + ')',
+    level: 'A2',
+    channel: 'Learning Resources',
+    views: '1.2K',
+    cues: []
+  };
 
   if (songEntry && songEntry.cues && songEntry.cues.length) {
-    // Song mode: use the curated full-lyrics cues from songs_50.json
+    // Song mode: use the curated full-lyrics cues
     current.cues = songEntry.cues;
   } else {
-    // Video mode: use PRELOADED_LESSONS (AI-generated cues) if available
-    const preloaded = (window.PRELOADED_LESSONS && Object.keys(window.PRELOADED_LESSONS.lessons || {}).length) ? window.PRELOADED_LESSONS : PRELOADED_LESSONS;
+    // Video mode: use ENGLISHTUBE_DATA or PRELOADED_LESSONS if available
+    const preloaded = window.ENGLISHTUBE_DATA || window.PRELOADED_LESSONS || {};
     const lessonData = preloaded.lessons?.[id];
     if (lessonData && lessonData.cues && lessonData.cues.length) {
       current.cues = lessonData.cues;
@@ -46448,8 +46462,8 @@ openVideo = function(id) {
       current.cues = [];
     }
   }
-  current.en = (current.cues || []).map(c => c.en);
-  current.cn = (current.cues || []).map(c => c.zh);
+  current.en = (current.cues || []).map(c => c.en || c.text || '');
+  current.cn = (current.cues || []).map(c => c.zh || c.cn || '');
 
   // Populate header info
   const titleEl = document.getElementById('modalTitle');

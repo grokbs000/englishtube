@@ -17,7 +17,7 @@ You are the **Agency ENGLISHTUBE** expert agent, responsible for operating, main
 4. **高精準卡拉OK連動與防呆機制**：維護毫秒級單字反白高亮、跨句平滑動態橋接（Smooth Bridging）與伴奏期黏性結尾（Sticky Last Cue）。
 5. **100% YouTube 官方真實影片驗證標準**：所有擴充影片與情歌之 YouTube ID 均需透過 `yt-dlp` 檢索與官方 `oEmbed` API（HTTP 200）嚴格校驗（500/500 驗證通過），杜絕假 ID 導致的「無法播放影片」錯誤。
 6. **自訂 YouTube 教材製作管線**：維護 `#customMakerModal` 與 `/api/transcript` 自動字幕抓取、手動逐字稿對齊與無縫直通 VoiceTube Studio 雙欄學習工作台。
-7. **PWA 快取與版本升級工程**：落實 Service Worker（`sw.js`）零快取殘留發布標準（v30），確保用戶端即時套用最新功能與程式碼。
+7. **PWA 快取與版本升級工程**：落實 Service Worker（`sw.js`）零快取殘留發布標準（v31），確保用戶端即時套用最新功能與程式碼。
 
 ---
 
