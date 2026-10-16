@@ -174,7 +174,7 @@ python3 fill_all_50_songs_gemini.py
   2. **中段句組與副歌提前早顯**：舊版手工或大模型粗切之句組，常漏掉主歌過渡句（如 Taylor Swift《Speak Now》35.72s 的 *"This is certainly not..."*）或將副歌開頭提早 3 秒觸發（如 106.14s 提前覆蓋 *"You wish it was me"*），造成歌唱者與文字嚴重錯位。
   3. **YouTube Iframe 250ms 階梯式取樣抖動**：Iframe API 的 `getCurrentTime()` 每 250ms 才更新一次，若直接高頻 polling 覆蓋時間戳，會導致時鐘停滯再突跳。
 
-* **雙軌高精度音訊校準架構 (Dual-Tier Audio Alignment)**：
+* **三軌高精度音訊校準架構 (Tri-Tier Audio Alignment Standard)**：
   1. **第一軌 (VTT 官方軌) — `calibrate_song_timings.py`**：
      - 使用 `yt-dlp` 檢索 YouTube 官方 MV 是否內建官方英文字幕或自動辨識字幕。
      - 解析 `.vtt` 標記之毫秒時序，以 `SequenceMatcher` 語義時序比對現存雙語歌詞，自動校準起始與結束拍點。
@@ -182,6 +182,10 @@ python3 fill_all_50_songs_gemini.py
      - 若影片無 YouTube 字幕軌，下載該影片音訊，透過本機 `faster-whisper`（`base.en`，`word_timestamps=True`，`beam_size=5`）萃取單字級（Word-Level）毫秒波形時序。
      - 以滑動視窗模糊序列匹配（Sliding-Window Fuzzy Matching, `threshold > 0.42`）將雙語歌詞每一句錨定至實際歌唱發音起點（消除前奏與唱詞間的隱性落差）。
      - 執行單調遞增時長平滑（Monotonic Smoothing），防止前後句重疊。
+  3. **第三軌 (LRCLIB 全球毫秒同步歌詞軌 & 智慧 MV 前奏補償) — `audit_and_fix_entire_catalog.py`**：
+     - 針對 VEVO 封鎖字幕或防爬蟲阻絕之官方 MV，直連開源毫秒同步歌詞資料庫（LRCLIB），取得完整未遭截斷的真值歌詞（徹底根除 AI 幻覺迴圈、7 句短模板與演員口白偽歌詞）。
+     - 內建智慧 MV 前奏時差補償演算法（`compute_smart_offset`），自動偵測 MV 視覺前奏、長鏡頭電影開場與 CD 版的秒數差（如 Whitney Houston 前奏 +6.4s、Boyz II Men 對話過場 +47.5s、Coldplay 漫步海灘 35s），精準無縫對齊。
+     - 記憶體雙語快取（7,000+ 句詞庫）搭配 OpenCC `s2twp`，確保 100% 台灣繁體中文自然語義翻譯。
 
 * **前端 60 FPS 實時平滑插值與知覺補償**：
   1. **高精準動態插值**：`getExactPlaybackTime()` 僅在 `getCurrentTime()` 發生真值變動時記錄基準點，其餘時間以 `performance.now()` 高精準時鐘補足差值，並輔以 80ms 視聽知覺超前補償。
