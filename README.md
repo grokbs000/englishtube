@@ -1,13 +1,13 @@
 # ENGLISHTUBE
 
-> **VoiceTube 風格的沉浸式英文跟讀與情歌學習平台【黃金均衡版】**  
-> 具備 **200 部高品質精選教材**（150 部涵蓋 10 大主題頻道之 TED/YouTube 影片 + 50 首全曲雙語西洋經典情歌），支援 VoiceTube 10 大主題頻道導航與 CEFR A1~C1 5 級難度篩選、卡拉OK級即時動態逐字同步字幕、Google 神經網路語音朗讀、即時單字語境查詢、克漏字聽力訓練與 PWA 跨平台安裝支援。
+> **VoiceTube 風格的沉浸式英文跟讀與情歌學習平台【深度旗艦版】**  
+> 具備 **500 部高品質精選教材**（400 部涵蓋 10 大主題頻道之 TED/YouTube 知識影片 + 100 首全曲雙語西洋經典情歌），支援 VoiceTube 10 大主題頻道導航與 CEFR A1~C1 5 級難度篩選、卡拉OK級即時動態逐字同步字幕、Google 神經網路語音朗讀、即時單字語境查詢、克漏字聽力訓練與 PWA 跨平台安裝支援。
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-6d5dfc.svg)](./LICENSE)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://python.org)
 [![PWA Ready](https://img.shields.io/badge/PWA-Ready-brightgreen.svg)](https://web.dev/progressive-web-apps/)
-[![Service Worker](https://img.shields.io/badge/Service%20Worker-v29-orange.svg)](./sw.js)
-[![Golden Edition](https://img.shields.io/badge/Edition-Stage%201%20Golden%20(200%20Items)-6d5dfc.svg)](./index.html)
+[![Service Worker](https://img.shields.io/badge/Service%20Worker-v30-orange.svg)](./sw.js)
+[![Flagship Edition](https://img.shields.io/badge/Edition-Stage%202%20Flagship%20(500%20Items)-6d5dfc.svg)](./index.html)
 
 ---
 
@@ -17,7 +17,7 @@
 |---|---|
 | 🧭 **10 大主題頻道導航** | 涵蓋職場商業、學習口說、TED-Ed動畫、科技科學、健康心理、休閒旅遊、藝術娛樂、新聞時事、兒童初學與經典歌曲 |
 | 🎯 **CEFR 5 級難度篩選** | 完整涵蓋 A1 入門、A2 初級、B1 中級、B2 中高級、C1 高級，依個人程度精準選課 |
-| 📚 **200 部高品質教材庫** | 150 部知識演講/趣味科普 + 50 首全曲 100% 完整雙語歌詞西洋經典情歌 |
+| 📚 **500 部高品質教材庫** | 400 部知識演講/趣味科普 + 100 首全曲 100% 完整雙語歌詞西洋經典情歌 |
 | 🎤 **卡拉OK逐詞連動** | 毫秒級時間軸同步，字幕隨影片發音逐字高亮反白，支援點擊跳轉播放 |
 | 📺 **YouTube 原生 CC 完整相容** | 完美保留並修復 YouTube 原生自帶 CC 功能，使用者可隨心在畫面內開關或切換多國語言字幕 |
 | 🧲 **黏性結尾字幕 (Sticky Cue)** | 結尾伴奏期間字幕持續穩定駐留，解決「歌曲未播完字幕早停」問題 |
@@ -37,11 +37,11 @@
 
 ### 1. 雙模態分段控制系統（Media Segmented Architecture）
 * **動態數據切換**：在前端實作分段式選單控制（Segmented Control），整合影片學習（`videos`）與歌曲學習（`songs`）雙資料流。
-* **動態標題與分類濾鏡**：切換至歌曲模式時，自動替換分類標籤（Taylor Swift、Ed Sheeran、90經典、千禧抒情、電影主題曲等），並呈現「探索英文歌曲：選你喜歡的歌曲，學習就不再無聊」等動態指引文案。
-* **優先級覆蓋保護**：改寫 `openVideo` 邏輯，確保歌曲模式一律優先載入精心校準的歌詞庫（`songs_50.json`），避免被通用快取或未完整校準的預載資料覆蓋。
+* **動態標題與分類濾鏡**：切換至歌曲模式時，自動替換分類標籤（Taylor Swift、Ed Sheeran、Adele、Bruno Mars、Maroon 5、Coldplay、電影主題曲等），並呈現「探索英文歌曲：選你喜歡的歌曲，學習就不再無聊」等動態指引文案。
+* **優先級覆蓋保護**：改寫 `openVideo` 邏輯，確保歌曲模式一律優先載入精心校準的歌詞庫（`songs_100.json`），避免被通用快取或未完整校準的預載資料覆蓋。
 
-### 2. 50 首經典情歌全曲全時序歌詞庫（Full-Coverage Lyrics Engine）
-* **全曲時間軸覆蓋**：針對原先部分歌曲僅有開頭 30 秒歌詞的缺陷，透過 Gemini Flash / Pro 多模型協同批次產出，為全部 50 首經典英文情歌補齊了 **25 ～ 66 組完整時序歌詞**，時間軸自前奏開口一路涵蓋至尾聲淡出，覆蓋率達 90%~100%。
+### 2. 100 首經典情歌全曲全時序歌詞庫（Full-Coverage Lyrics Engine）
+* **全曲時間軸覆蓋**：全面擴充至 100 首跨時代全球經典西洋情歌，時間軸自前奏開口一路涵蓋至尾聲淡出，覆蓋率達 90%~100%。
 * **多模型彈性降級與限流保護**：具備指數退避重試（Exponential Backoff）與多端點容錯切換（`gemini-3.1-flash-lite` ⇄ `gemini-2.5-flash-lite` ⇄ `gemini-2.5-flash` ⇄ `gemini-2.5-pro`），杜絕 HTTP 429 速率限制阻斷。
 
 ### 3. YouTube 原生播放器與 CC 自帶功能完整保護（Native CC Harmony & Control）
@@ -49,39 +49,37 @@
 * **雙層字幕無干擾架構**：影片本體可正常開啟 YouTube 原生字幕，下方 VoiceTube 學習舞台則同步提供高精度逐字反白與繁中對照，兩者互不干擾、相輔相成。
 
 ### 4. 智慧平滑過渡與黏性結尾字幕機制（Sticky Last Cue & Smooth Bridging）
-* **跨句平滑橋接**：在計算字幕當前句時，動態比對下一句的起始點：
-  $$\text{cueEnd} = \max(\text{start} + \text{dur}, \min(\text{start} + \text{dur} + 1.2, \text{nextStart}))$$
-  避免句子與句子之間的短暫空隙導致字幕突然閃爍消失。
+* **跨句平滑橋接**：在計算字幕當前句時，動態比對下一句的起始點，避免句子與句子之間的短暫空隙導致字幕突然閃爍消失。
 * **黏性結尾防呆（Sticky Last Cue）**：當播放進度超過最後一句歌詞時，自動將最後一句歌詞保持懸浮顯示，徹底解決歌曲結尾長段樂器尾奏期間字幕提前消失的問題。
 
 ### 5. 零記憶體洩漏與播放器生命週期管理（Zero-Leak Lifecycle）
 * **播放器銷毀保護**：在關閉學習視窗（`closeModal`）時，主動呼叫 `ytPlayer.stopVideo()` 與 `ytPlayer.destroy()`，並清除 DOM 節點容器，阻斷未回收的 Event Loop 與背景音訊播放。
 * **背景同步循環防呆**：離開視窗時自動清除即時同步計時器（`cancelAnimationFrame` / `clearInterval`），避免背景空轉消耗 CPU 效能。
 
-### 6. Service Worker 快取擊穿與零等待啟用（Cache Busting v27）
-* **強制作業系統級重新啟用**：升級 Service Worker 快取版本至 `v27`，搭配 `self.skipWaiting()` 與 `clients.claim()`，在快取被淘汰時自動清除舊版快取並推播最新版本，解決 PWA 在不同客戶端上的快取殘留問題。
+### 6. Service Worker 快取擊穿與零等待啟用（Cache Busting v30）
+* **強制作業系統級重新啟用**：升級 Service Worker 快取版本至 `v30`，搭配 `self.skipWaiting()` 與 `clients.claim()`，在快取被淘汰時自動清除舊版快取並推播最新版本，解決 PWA 在不同客戶端上的快取殘留問題。
 
 ### 7. 100% YouTube 官方真實影片驗證機制（100% Genuine Video & Song Verification）
-* **全面終結「無法播放影片」痛點**：全平台 200 部教材（150 部知識演講/趣味科普 + 50 首西洋經典情歌）均透過 `yt-dlp` 檢索與 YouTube 官方 `oEmbed` API（HTTP 200）進行 100% 嚴格校驗，確保每一部影片均為真實、高畫質、允許嵌入且可流暢播放的官方正版視頻（杜絕合成或失效之 11 碼偽 ID）。
+* **全面終結「無法播放影片」痛點**：全平台 500 部教材（400 部知識演講/趣味科普 + 100 首西洋經典情歌）均透過 `yt-dlp` 檢索與 YouTube 官方 `oEmbed` API（HTTP 200）進行 100% 嚴格校驗，確保每一部影片均為真實、高畫質、允許嵌入且可流暢播放的官方正版視頻（500/500 驗證通過）。
 * **無縫教學字幕連動**：兒童初學（English Singsing、Super Simple Songs）、TED-Ed 動畫、BBC 英語教學、各類知識專題等，時間軸與 YouTube 官方播放器完美對齊。
 
 ### 8. VoiceTube 10 大主題頻道與 CEFR 5 級難度導航體系（10-Channel & CEFR Matrix）
-* **階段一【黃金均衡版】200 部教材庫存架構**：
+* **階段二【深度旗艦版】500 部教材庫存架構**：
   在使用者探索教材時，導入雙維度即時過濾（主題頻道 + CEFR 難度），並於卡片上呈現精緻的難度色標與頻道膠囊標籤：
 
 | 主題頻道 (Channel) | 收錄部數 | 涵蓋主題特色與精選範例 |
 |---|---|---|
-| **💼 職場商業 (Business & Finance)** | **16 部** | HBR 薪水談判心法、通貨膨脹運作、賈伯斯畢業演講、巴菲特價值投資、YC募資簡報技巧 |
-| **🎓 學習口說 (Learning Resources)** | **17 部** | 英文連音技巧、外商商務成語、克服開口焦慮、英語直覺思考、TED 簡報溝通心法 |
-| **🎬 TED-Ed 動畫 (Animation)** | **19 部** | 磁鐵運作原理、童話黑暗起源、完美餅乾化學、長生不老哲思、恐龍滅絕真相 |
-| **🔬 科技科學 (Science & Technology)** | **18 部** | 雙語大腦優勢、AI 算力耗電之謎、磁浮列車原理、綠色永續製造、量子運算淺析 |
-| **🧘 健康心理 (Health & Wellness)** | **18 部** | 脆弱的力量、拯救專注力4心法、壓力管理、冒牌者症候群、心碎的生理機制 |
-| **✈️ 休閒旅遊 (Leisure & Travel)** | **18 部** | 30天嘗試新事物、買房租房優劣、門口效應忘記清單、180人共建圖書館、世界極簡旅行 |
-| **🎨 藝術娛樂 (Arts & Entertainment)** | **14 部** | 奧斯卡金像獎百年內幕、電影配樂情感魔法、蒙娜麗莎微笑解析、爵士樂即興藝術 |
-| **📰 新聞時事 (News & Current Affairs)** | **16 部** | 拆除四座大壩拯救河流、全球晶片供應鏈、氣候變遷冰川消融、AI生成假新聞識別 |
-| **👶 兒童初學 (Kids / A1 Beginner)** | **14 部** | 趣味顏色與形狀、農場動物對話、美味水果英文、早安問候基礎句型、快樂數字兒歌 |
-| **🎵 經典歌曲 (Music)** | **50 首** | Taylor Swift、Richard Marx、Backstreet Boys、Adele 等 100% 全時序卡拉OK雙語歌詞 |
-| **總計** | **200 部** | **完整的 A1 入門 (18部)、A2 初級 (60部)、B1 中級 (73部)、B2 中高級 (39部)、C1 高級 (10部)** |
+| **💼 職場商業 (Business & Finance)** | **45 部** | 亞馬遜電商帝國、球鞋經濟學、巴菲特價值投資、Costco熱狗定價心理、Stripe在線支付革命 |
+| **🎓 學習口說 (Learning Resources)** | **45 部** | 10大高頻母語成語、擺脫腦中翻譯直覺口說、美語節奏語調心法、如何用英文優雅表達反對意見 |
+| **🎬 TED-Ed 動畫 (Animation)** | **50 部** | 貓咪呼嚕原理、記憶如何形成、太陽變成黑洞會怎樣、為什麼洋蔥讓人流淚、深海生物抗壓秘密 |
+| **🔬 科技科學 (Science & Technology)** | **50 部** | GPS衛星定位原理、光速極限之謎、馬里亞納海溝深淵、2nm晶片製造、韋伯望遠鏡紅外攝影 |
+| **🧘 健康心理 (Health & Wellness)** | **45 部** | 每日一萬步好處、晝夜節律生物鐘、運動如何重塑大腦海馬迴、慢性壓力與皮質醇、睡眠對情緒的療癒 |
+| **✈️ 休閒旅遊 (Leisure & Travel)** | **45 部** | 長途飛行舒適技巧、京都千年木造寺廟、義大利高鐵漫遊指南、巴黎奧斯曼建築美學、挪威峽灣徒步 |
+| **🎨 藝術娛樂 (Arts & Entertainment)** | **40 部** | 漢斯季默電影配樂魔法、文藝復興黃金比例、皮克斯動畫情緒骨骼綁定、諾蘭導演攝影美學、爵士即興 |
+| **📰 新聞時事 (News & Current Affairs)** | **40 部** | 全球半導體地緣戰略、Starlink衛星網路軌道、珊瑚礁白化搶救、電動車電池回收潮、深偽技術識別 |
+| **👶 兒童初學 (Kids / A1 Beginner)** | **40 部** | Super Simple Songs、English Singsing、農場動物對話、美味水果英文、早安問候兒歌、ABC自然發音 |
+| **🎵 經典歌曲 (Music)** | **100 首** | Taylor Swift、Adele、Ed Sheeran、Coldplay、Maroon 5、Bruno Mars、Imagine Dragons 100% 完整雙語歌詞 |
+| **總計** | **500 部** | **完整的 A1 入門 (48部)、A2 初級 (115部)、B1 中級 (206部)、B2 中高級 (108部)、C1 高級 (23部)** |
 
 * **平滑水平捲軸與人因滾輪轉換（Sleek Scrollbar & Wheel Scrolling）**：
   - 頻道導航列（`.vt-channel-nav`）與難度等級列（`.vt-level-nav`）配備專屬精緻自訂水平捲軸，支援明亮與深色模式動態對比。
