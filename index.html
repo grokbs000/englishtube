@@ -1133,7 +1133,7 @@ html[data-theme='dark'] .custom-maker-head {
 
 </style>
 <script src="https://www.youtube.com/iframe_api"></script>
-<script src="./video_lessons.js?v=31"></script>
+<script src="./video_lessons.js?v=32"></script>
 </head>
 <body>
 <header class="top"><div class="logo">ENGLISH<b>TUBE</b></div><nav class="nav"><a href="#discover" onclick="switchMediaMode('video')">探索影片</a><a href="#discover" onclick="switchMediaMode('song')" style="display:inline-flex;align-items:center">探索歌曲 <span class="nav-badge">100首</span></a><a href="#study">學習工具</a><a href="#saved" onclick="setFilter('收藏')">我的收藏</a></nav><label class="search">⌕ <input id="search" placeholder="搜尋影片、主題..." autocomplete="off"></label><button class="pill" id="installBtn">＋ 安裝 App</button><button class="dark-toggle" id="darkToggle" title="切換深色模式" onclick="toggleDark()">🌙</button></header>
@@ -1245,7 +1245,7 @@ html[data-theme='dark'] .custom-maker-head {
 
         <!-- VoiceTube Synchronized Subtitle Display (靠左對齊 + 逐字反白移動舞台) -->
         <div class="vt-sub-stage" id="vtSubtitleStage">
-          <div class="vt-sub-en-line" id="vtActiveEn">正在準備影片與字幕…</div>
+          <div class="vt-sub-en-line" id="vtActiveEn">點選卡片播放影片</div>
           <div class="vt-sub-zh-line" id="vtActiveZh">點選單字可即時查字典與聽發音</div>
         </div>
 
@@ -45507,7 +45507,7 @@ if(window.matchMedia('(display-mode: standalone)').matches||navigator.standalone
 document.querySelector('#installBtn').addEventListener('click',async()=>{if(deferredPrompt){deferredPrompt.prompt();const{outcome}=await deferredPrompt.userChoice;deferredPrompt=null;if(outcome==='accepted')toast('✓ 安裝中...')}else if(/iphone|ipad|ipod/i.test(navigator.userAgent)){toast('Safari：分享 → 加入主畫面')}else{toast('請從瀏覽器選單選擇「安裝應用程式」')}});
 // Register Service Worker + auto-reload on new SW version
 if('serviceWorker'in navigator&&location.protocol.startsWith('http')){
-  window.addEventListener('load',()=>navigator.serviceWorker.register('./sw.js?v=31').then(reg=>{
+  window.addEventListener('load',()=>navigator.serviceWorker.register('./sw.js?v=32').then(reg=>{
     try{reg.update()}catch(e){}
     reg.addEventListener('updatefound',()=>{
       const nw=reg.installing;
@@ -46132,7 +46132,17 @@ function renderVoiceTubeTranscript() {
   const countBadge = document.getElementById('vtCueCountBadge');
   if (countBadge) {
     const lastStart = cues.length ? cues[cues.length - 1].start : 0;
-    countBadge.textContent = `共 ${cues.length} 句（~${formatTime(lastStart)}）`;
+    countBadge.textContent = cues.length ? `共 ${cues.length} 句（~${formatTime(lastStart)}）` : 'YouTube 原生 CC 支援';
+  }
+  if (!cues.length) {
+    list.innerHTML = `
+      <div style="padding:40px 20px;text-align:center;color:#94a3b8;line-height:1.8">
+        <div style="font-size:32px;margin-bottom:12px">📺</div>
+        <div style="font-size:15px;font-weight:600;color:#f1f5f9;margin-bottom:6px">支援 YouTube 原生字幕</div>
+        <div style="font-size:13px">此影片已直接整合 YouTube 官方高畫質串流與字幕系統。<br>請點選播放器右下角「<b>CC</b>」按鈕開啟字幕與自動翻譯。</div>
+      </div>
+    `;
+    return;
   }
   list.innerHTML = cues.map((c, i) => `
     <div class="vt-cue-row ${i === activeCueIdx ? 'active' : ''}" onclick="seekCue(${i})">
@@ -46501,7 +46511,20 @@ function openVideo(id) {
   activeCueIdx = 0;
   seenCues = new Set();
   updateProgressBar();
-  highlightVoiceTubeCue(0);
+  if (current.cues && current.cues.length > 0) {
+    highlightVoiceTubeCue(0);
+  } else {
+    const enStage = document.getElementById('vtActiveEn');
+    const zhStage = document.getElementById('vtActiveZh');
+    if (enStage) {
+      enStage.style.display = 'block';
+      enStage.innerHTML = '<span style="color:#a5b4fc;font-weight:600">📺 本影片支援 YouTube 原生 CC 字幕</span>';
+    }
+    if (zhStage) {
+      zhStage.style.display = 'block';
+      zhStage.innerHTML = '<span style="color:#cbd5e1">請點擊右下角播放器 <b>CC</b> 按鈕開啟即時字幕</span>';
+    }
+  }
 
   // Mount YouTube Player
   initOrLoadPlayer(current.id);

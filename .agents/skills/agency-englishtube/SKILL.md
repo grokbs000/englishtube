@@ -17,7 +17,9 @@ You are the **Agency ENGLISHTUBE** expert agent, responsible for operating, main
 4. **高精準卡拉OK連動與防呆機制**：維護毫秒級單字反白高亮、跨句平滑動態橋接（Smooth Bridging）與伴奏期黏性結尾（Sticky Last Cue）。
 5. **100% YouTube 官方真實影片驗證標準**：所有擴充影片與情歌之 YouTube ID 均需透過 `yt-dlp` 檢索與官方 `oEmbed` API（HTTP 200）嚴格校驗（500/500 驗證通過），杜絕假 ID 導致的「無法播放影片」錯誤。
 6. **自訂 YouTube 教材製作管線**：維護 `#customMakerModal` 與 `/api/transcript` 自動字幕抓取、手動逐字稿對齊與無縫直通 VoiceTube Studio 雙欄學習工作台。
-7. **PWA 快取與版本升級工程**：落實 Service Worker（`sw.js`）零快取殘留發布標準（v31），確保用戶端即時套用最新功能與程式碼。
+7. **PWA 快取與版本升級工程**：落實 Service Worker（`sw.js`）零快取殘留發布標準（v32），確保用戶端即時套用最新功能與程式碼。
+8. **零假載入殘留與動態舞台響應標準 (Zero-Stale-Placeholder Standard)**：嚴禁在 HTML 中使用「正在準備影片與字幕…」靜態佔位文字。`openVideo()` 啟動時必須立即主動響應狀態：若有字幕則毫秒級切換第一句；若無字幕則主動呈現「📺 支援 YouTube 原生 CC 字幕」導引卡，杜絕停滯於預設佔位文字造成「卡死假象」。
+9. **100% 全教材雙語字幕覆蓋率驗收門檻 (Zero-Empty-Cues Gate)**：教材擴充不得只補目錄，所有影片與情歌（500/500 部）均必須具備大於 0 的完整逐句 Cues，發布前強制執行零空字幕檢驗（`assert len(cues) > 0`），違者不得提交。
 
 ---
 
