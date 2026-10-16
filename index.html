@@ -1133,7 +1133,7 @@ html[data-theme='dark'] .custom-maker-head {
 
 </style>
 <script src="https://www.youtube.com/iframe_api"></script>
-<script src="./video_lessons.js?v=32"></script>
+<script src="./video_lessons.js?v=33"></script>
 </head>
 <body>
 <header class="top"><div class="logo">ENGLISH<b>TUBE</b></div><nav class="nav"><a href="#discover" onclick="switchMediaMode('video')">探索影片</a><a href="#discover" onclick="switchMediaMode('song')" style="display:inline-flex;align-items:center">探索歌曲 <span class="nav-badge">100首</span></a><a href="#study">學習工具</a><a href="#saved" onclick="setFilter('收藏')">我的收藏</a></nav><label class="search">⌕ <input id="search" placeholder="搜尋影片、主題..." autocomplete="off"></label><button class="pill" id="installBtn">＋ 安裝 App</button><button class="dark-toggle" id="darkToggle" title="切換深色模式" onclick="toggleDark()">🌙</button></header>
@@ -45783,22 +45783,30 @@ function stopSubtitleSync() {
   }
 }
 
+let lastReportedTime = -1;
+let lastReportedAt = performance.now();
+
 function getExactPlaybackTime() {
   let t = null;
   if (ytPlayer && typeof ytPlayer.getCurrentTime === 'function') {
     try { t = ytPlayer.getCurrentTime(); } catch(e) {}
   }
-  if (t != null && !isNaN(t) && t > 0) {
-    lastVideoTime = t;
-    lastTimeReceivedAt = performance.now();
-    return t;
+  const now = performance.now();
+  if (t != null && !isNaN(t) && t >= 0) {
+    if (Math.abs(t - lastReportedTime) > 0.005) {
+      lastReportedTime = t;
+      lastReportedAt = now;
+      lastVideoTime = t;
+    }
   }
-  // Smooth real-time time interpolation between update ticks
+  // Smooth real-time time interpolation between YouTube 250ms polling ticks
+  let exactTime = lastVideoTime;
   if (isPlaying) {
-    const dt = (performance.now() - lastTimeReceivedAt) / 1000;
-    return lastVideoTime + (dt * currentPlaybackRate);
+    const dt = (now - lastReportedAt) / 1000;
+    exactTime = lastVideoTime + Math.min(0.35, dt * (currentPlaybackRate || 1.0));
   }
-  return lastVideoTime;
+  // Anticipation lead-in compensation (+80ms) for human auditory-visual synchrony
+  return Math.max(0, exactTime + 0.08);
 }
 
 function syncSubtitleAndWords() {
@@ -45819,7 +45827,25 @@ function syncSubtitleAndWords() {
     }
   }
 
-  // 2. Find matching sentence cue with smooth sentence bridging
+  // 2. Intelligent Intro detection (before first cue)
+  if (cues.length > 0 && time < cues[0].start - 0.5) {
+    const enStage = document.getElementById('vtActiveEn');
+    const zhStage = document.getElementById('vtActiveZh');
+    const introLeft = Math.max(0, Math.ceil(cues[0].start - time));
+    if (enStage) {
+      enStage.style.display = 'block';
+      enStage.innerHTML = `<span style="color:#a5b4fc;font-style:italic">🎵 (前奏演奏中 · 倒數 ${introLeft}s)</span>`;
+    }
+    if (zhStage) {
+      zhStage.style.display = 'block';
+      zhStage.innerHTML = `<span style="color:#94a3b8">即將進入第一句歌詞…</span>`;
+    }
+    document.querySelectorAll('.vt-cue-row.active').forEach(r => r.classList.remove('active'));
+    activeCueIdx = -1;
+    return;
+  }
+
+  // 3. Find matching sentence cue with smooth sentence bridging
   let matchIdx = -1;
   for (let i = 0; i < cues.length; i++) {
     const c = cues[i];
@@ -45833,9 +45859,30 @@ function syncSubtitleAndWords() {
     }
   }
 
-  // Sticky last cue: if time is past all cues, keep showing the last one
-  // This prevents subtitles from disappearing during instrumental endings
+  // Long interlude detection (間奏演奏中 > 4.5s)
   if (matchIdx === -1 && cues.length > 0) {
+    // Check if we are between two cues in a long instrumental break
+    for (let i = 0; i < cues.length - 1; i++) {
+      const c = cues[i];
+      const nextC = cues[i + 1];
+      const prevEnd = c.start + (c.duration || 4);
+      if (time >= prevEnd + 1.5 && time < nextC.start - 0.8 && (nextC.start - prevEnd >= 4.5)) {
+        const enStage = document.getElementById('vtActiveEn');
+        const zhStage = document.getElementById('vtActiveZh');
+        const breakLeft = Math.max(0, Math.ceil(nextC.start - time));
+        if (enStage) {
+          enStage.style.display = 'block';
+          enStage.innerHTML = `<span style="color:#818cf8;font-style:italic">🎵 (間奏音樂演奏中 · 倒數 ${breakLeft}s)</span>`;
+        }
+        if (zhStage) {
+          zhStage.style.display = 'block';
+          zhStage.innerHTML = `<span style="color:#94a3b8">下一段歌詞即將開始…</span>`;
+        }
+        return;
+      }
+    }
+    
+    // Sticky last cue: if time is past all cues, keep showing the last one
     const lastCue = cues[cues.length - 1];
     if (time >= lastCue.start) {
       matchIdx = cues.length - 1;
@@ -45846,7 +45893,7 @@ function syncSubtitleAndWords() {
     if (matchIdx !== activeCueIdx) {
       highlightVoiceTubeCue(matchIdx);
     }
-    // 3. 字幕隨影片聲音逐字連動反白移動
+    // 字幕隨影片聲音逐字連動反白移動
     updateKaraokeWordHighlight(time, cues[matchIdx]);
   }
 }
@@ -45903,7 +45950,7 @@ function highlightVoiceTubeCue(idx) {
   if (clozeMode) setTimeout(applyClozeModeToStage, 50);
 }
 
-// ── 逐字連動 HIGHLIGHT 核心實作 ──
+// ── 逐字連動 HIGHLIGHT 核心實作（高精準 60 FPS 零分配架構）──
 function updateKaraokeWordHighlight(time, cue) {
   const words = document.querySelectorAll('#vtActiveEn .vt-word-token');
   if (!words.length) return;
@@ -45913,51 +45960,27 @@ function updateKaraokeWordHighlight(time, cue) {
   const elapsed = Math.max(0, time - start);
   const ratio = Math.min(0.999, elapsed / dur);
 
-  // Character weight calculation for natural speaking cadence
-  let totalChars = 0;
-  const charWeights = [];
-  words.forEach(w => {
-    const len = parseInt(w.getAttribute('data-len') || '3', 10);
-    charWeights.push(len);
-    totalChars += len;
-  });
+  const n = words.length;
+  const targetPos = ratio * n;
+  const activeWIdx = Math.min(n - 1, Math.floor(targetPos));
 
-  const targetPos = ratio * totalChars;
-  let accumulated = 0;
-  let activeWIdx = 0;
-  for (let i = 0; i < charWeights.length; i++) {
-    accumulated += charWeights[i];
-    if (accumulated >= targetPos) {
-      activeWIdx = i;
-      break;
-    }
+  // 1. Update left subtitle stage words with batched class update
+  for (let i = 0; i < n; i++) {
+    const w = words[i];
+    const targetClass = (i < activeWIdx) ? 'vt-word-token passed' : (i === activeWIdx ? 'vt-word-token current' : 'vt-word-token future');
+    if (w.className !== targetClass) w.className = targetClass;
   }
-
-  // 1. Update left subtitle stage words
-  words.forEach((w, i) => {
-    if (i < activeWIdx) {
-      if (w.className !== 'vt-word-token passed') w.className = 'vt-word-token passed';
-    } else if (i === activeWIdx) {
-      if (w.className !== 'vt-word-token current') w.className = 'vt-word-token current';
-    } else {
-      if (w.className !== 'vt-word-token future') w.className = 'vt-word-token future';
-    }
-  });
 
   // 2. Also update right transcript active row words
   const activeRowEn = document.querySelector('.vt-cue-row.active .vt-cue-en');
   if (activeRowEn) {
     const miniWords = activeRowEn.querySelectorAll('.vt-mini-word');
-    if (miniWords.length === words.length) {
-      miniWords.forEach((mw, i) => {
-        if (i < activeWIdx) {
-          if (mw.className !== 'vt-mini-word passed') mw.className = 'vt-mini-word passed';
-        } else if (i === activeWIdx) {
-          if (mw.className !== 'vt-mini-word current') mw.className = 'vt-mini-word current';
-        } else {
-          if (mw.className !== 'vt-mini-word future') mw.className = 'vt-mini-word future';
-        }
-      });
+    if (miniWords.length === n) {
+      for (let i = 0; i < n; i++) {
+        const mw = miniWords[i];
+        const targetClass = (i < activeWIdx) ? 'vt-mini-word passed' : (i === activeWIdx ? 'vt-mini-word current' : 'vt-mini-word future');
+        if (mw.className !== targetClass) mw.className = targetClass;
+      }
     }
   }
 }

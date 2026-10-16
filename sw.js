@@ -1,5 +1,5 @@
-// ENGLISHTUBE Service Worker v32
-const CACHE='englishtube-v32';
+// ENGLISHTUBE Service Worker v33
+const CACHE='englishtube-v33';
 const STATIC=[
   './',
   './index.html',
@@ -10,6 +10,7 @@ const STATIC=[
   './icon-512.png',
   './video_lessons.js',
   './video_lessons.json',
+  './songs_100.json',
   './songs_50.json'
 ];
 

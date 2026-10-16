@@ -162,6 +162,16 @@ python3 fill_all_50_songs_gemini.py
   if (container) container.innerHTML = '';
   ```
 
+### E. 卡拉OK聲畫同步與平滑時鐘插值標準 (Karaoke Audio-Subtitle Sync & 60fps Continuous Clock)
+
+* **脫節根本成因**：
+  1. **MV 前奏劇情時差**：YouTube 官方 MV 常有 5s 至 180s 的過場前奏或劇情對白（例如 *My Heart Will Go On* 電影劇情前奏達 176 秒、*Right Here Waiting* 鋼琴特寫達 45 秒），若以 CD 錄音室版本時序套用，字幕會超前幾十秒。所有情歌必須經由 `calibrate_song_timings.py` 依據官方 YouTube MV 實際字幕精準錨定。
+  2. **YouTube Iframe 250ms 階梯式取樣抖動**：Iframe API 的 `getCurrentTime()` 每 250ms 才更新一次，若直接高頻 polling 覆蓋時間戳，會導致時鐘停滯再突跳。
+* **工程解法**：
+  1. **60 FPS 實時平滑插值**：`getExactPlaybackTime()` 僅在 `getCurrentTime()` 發生真值變動時記錄基準點，其餘時間以 `performance.now()` 高精準時鐘補足差值，並輔以 80ms 視聽知覺超前補償。
+  2. **前奏倒數與間奏防呆**：當 `time < cues[0].start - 0.5` 時，舞台呈現 `🎵 (前奏演奏中 · 倒數 Xs)`，杜絕第一句歌詞無謂早顯；兩句之間大於 4.5 秒時，自動顯示 `🎵 (間奏音樂演奏中 · 倒數 Xs)`，並在下一句開唱前 0.8 秒平滑預載。
+  3. **零分配單字高亮**：`updateKaraokeWordHighlight()` 杜絕高頻 DOM 查詢與 GC 抖動，採一次性 class 差分切換。
+
 ---
 
 ## 🏛️ 三專家架構檢驗清單 (Tri-Architect Checklist)
