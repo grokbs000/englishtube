@@ -11,11 +11,11 @@ You are the **Agency ENGLISHTUBE** expert agent, responsible for operating, main
 
 ## 🎯 Core Purpose & Capabilities
 
-1. **雙模態媒體切換架構維護**：掌握演講學習（TED 50 部）與經典歌曲（50 首西洋情歌）雙資料流的平滑切換、動態分類過濾與資料優先級調度。
+1. **雙模態媒體與 10 大主題頻道切換架構**：掌握各類影片（150 部涵蓋職場商業、口說學習、TED-Ed動畫、科技、心理、休閒、藝術、新聞、兒童）與經典歌曲（50 首西洋情歌，合計 200 部）資料流的平滑切換、VoiceTube 10 大主題頻道導航與 CEFR A1~C1 5 級難度篩選。
 2. **全時序雙語歌詞與字幕引擎**：精通透過 Gemini API（Flash / Flash-Lite / Pro 多端點輪詢降級）進行自動抓取、時序對齊與自然台灣繁體中文（OpenCC s2twp）翻譯。
 3. **YouTube IFrame 播放器深層控制**：精準控制官方串流，壓制內建低品質自動 CC 軟字幕、控制跨域 postMessage 指令，並落實生命週期銷毀（`destroy()`）阻絕記憶體與音訊洩漏。
 4. **高精準卡拉OK連動與防呆機制**：維護毫秒級單字反白高亮、跨句平滑動態橋接（Smooth Bridging）與伴奏期黏性結尾（Sticky Last Cue）。
-5. **PWA 快取與版本升級工程**：落實 Service Worker（`sw.js`）零快取殘留發布標準，確保用戶端即時套用最新歌詞與程式碼。
+5. **PWA 快取與版本升級工程**：落實 Service Worker（`sw.js`）零快取殘留發布標準（v25），確保用戶端即時套用最新歌詞與程式碼。
 
 ---
 
@@ -23,10 +23,10 @@ You are the **Agency ENGLISHTUBE** expert agent, responsible for operating, main
 
 | 核心檔案 / 目錄 | 職責與用途 | 關鍵注意事項 |
 |---|---|---|
-| `index.html` | 前端主介面、VoiceTube UI、卡拉OK字幕引擎、YT 播放器、TTS 朗讀器、內嵌 songs 陣列 | 內嵌 `const songs` 必須與 `songs_50.json` 保持同步 |
-| `songs_50.json` | 50 首精選情歌完整雙語 Cues 庫（每首 25～66 組句組，涵蓋率 90%~100%） | 包含 id, title, speaker, level, duration, cues 等結構 |
-| `video_lessons.json` | 50 部 TED/YouTube 演講雙語 Cues、繁中翻譯與重點詞彙庫 | 提供演講卡片的 fallback 異步載入 |
-| `video_lessons.js` | 演講字幕與詞彙的 JavaScript 快速全域預載變數（`window.PRELOADED_LESSONS`） | 提高演講載入速度，避免首屏二次請求 |
+| `index.html` | 前端主介面、VoiceTube UI、10 大頻道與 CEFR 難度導航列、卡拉OK字幕引擎、YT 播放器、TTS 朗讀器 | 內嵌 150 部影片與 50 首情歌（合計 200 部） |
+| `songs_50.json` | 50 首精選情歌完整雙語 Cues 庫（每首 25～66 組句組，涵蓋率 90%~100%） | 包含 id, title, speaker, channel: Music, level, duration, cues 等結構 |
+| `video_lessons.json` | 150 部各類影片雙語 Cues、繁中翻譯與重點詞彙庫 | 提供卡片的 fallback 異步載入 |
+| `video_lessons.js` | 演講字幕與詞彙的 JavaScript 快速全域預載變數（`window.PRELOADED_LESSONS`） | 提高載入速度，避免首屏二次請求 |
 | `server.py` | 本機輕量 HTTP 伺服器（預設 Port `8885`）、yt-dlp 字幕提取端點、字典快取 API | 支援 `PORT` 環境變數自訂埠號 |
 | `sw.js` | Service Worker 快取與 PWA 離線機制 | 每次修改前端或資料需同步遞增 `CACHE` 版本字串 |
 | `fill_all_50_songs_gemini.py` | 歌詞全曲時序補齊工具（多模型自動降級、防 429 退避重試、自動注入 HTML） | 支援續傳，已完成歌曲自動跳過 |

@@ -1,12 +1,13 @@
 # ENGLISHTUBE
 
-> **VoiceTube 風格的沉浸式英文跟讀與情歌學習平台**  
-> 結合 50 部精選 TED/YouTube 演講與 50 首經典西洋情歌，具備卡拉OK級即時動態逐字同步字幕、Google 神經網路語音朗讀、即時單字語境查詢、克漏字聽力訓練與 PWA 跨平台安裝支援。
+> **VoiceTube 風格的沉浸式英文跟讀與情歌學習平台【黃金均衡版】**  
+> 具備 **200 部高品質精選教材**（150 部涵蓋 10 大主題頻道之 TED/YouTube 影片 + 50 首全曲雙語西洋經典情歌），支援 VoiceTube 10 大主題頻道導航與 CEFR A1~C1 5 級難度篩選、卡拉OK級即時動態逐字同步字幕、Google 神經網路語音朗讀、即時單字語境查詢、克漏字聽力訓練與 PWA 跨平台安裝支援。
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-6d5dfc.svg)](./LICENSE)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://python.org)
 [![PWA Ready](https://img.shields.io/badge/PWA-Ready-brightgreen.svg)](https://web.dev/progressive-web-apps/)
-[![Service Worker](https://img.shields.io/badge/Service%20Worker-v24-orange.svg)](./sw.js)
+[![Service Worker](https://img.shields.io/badge/Service%20Worker-v25-orange.svg)](./sw.js)
+[![Golden Edition](https://img.shields.io/badge/Edition-Stage%201%20Golden%20(200%20Items)-6d5dfc.svg)](./index.html)
 
 ---
 
@@ -14,7 +15,9 @@
 
 | 功能類別 | 特色說明 |
 |---|---|
-| 🎵 **雙模態媒體切換** | 支援「精選演講（50 部 TED/YouTube）」與「探索情歌（50 首西洋經典）」一鍵無縫切換 |
+| 🧭 **10 大主題頻道導航** | 涵蓋職場商業、學習口說、TED-Ed動畫、科技科學、健康心理、休閒旅遊、藝術娛樂、新聞時事、兒童初學與經典歌曲 |
+| 🎯 **CEFR 5 級難度篩選** | 完整涵蓋 A1 入門、A2 初級、B1 中級、B2 中高級、C1 高級，依個人程度精準選課 |
+| 📚 **200 部高品質教材庫** | 150 部知識演講/趣味科普 + 50 首全曲 100% 完整雙語歌詞西洋經典情歌 |
 | 🎤 **卡拉OK逐詞連動** | 毫秒級時間軸同步，字幕隨影片發音逐字高亮反白，支援點擊跳轉播放 |
 | 🛡️ **YouTube CC 阻絕** | 強制卸載 YouTube 內建雜亂語音辨識字幕，專注於平台專屬繁中雙語對照字幕 |
 | 🧲 **黏性結尾字幕 (Sticky Cue)** | 結尾伴奏期間字幕持續穩定駐留，解決「歌曲未播完字幕早停」問題 |
@@ -55,8 +58,26 @@
 * **播放器銷毀保護**：在關閉學習視窗（`closeModal`）時，主動呼叫 `ytPlayer.stopVideo()` 與 `ytPlayer.destroy()`，並清除 DOM 節點容器，阻斷未回收的 Event Loop 與背景音訊播放。
 * **背景同步循環防呆**：離開視窗時自動清除即時同步計時器（`cancelAnimationFrame` / `clearInterval`），避免背景空轉消耗 CPU 效能。
 
-### 6. Service Worker 快取擊穿與零等待啟用（Cache Busting v24）
-* **強制作業系統級重新啟用**：升級 Service Worker 快取版本至 `v24`，搭配 `self.skipWaiting()` 與 `clients.claim()`，在快取被淘汰時自動清除舊版快取並推播最新版本，解決 PWA 在不同客戶端上的快取殘留問題。
+### 6. Service Worker 快取擊穿與零等待啟用（Cache Busting v25）
+* **強制作業系統級重新啟用**：升級 Service Worker 快取版本至 `v25`，搭配 `self.skipWaiting()` 與 `clients.claim()`，在快取被淘汰時自動清除舊版快取並推播最新版本，解決 PWA 在不同客戶端上的快取殘留問題。
+
+### 7. VoiceTube 10 大主題頻道與 CEFR 5 級難度導航體系（10-Channel & CEFR Matrix）
+* **階段一【黃金均衡版】200 部教材庫存架構**：
+  在使用者探索教材時，導入雙維度即時過濾（主題頻道 + CEFR 難度），並於卡片上呈現精緻的難度色標與頻道膠囊標籤：
+
+| 主題頻道 (Channel) | 收錄部數 | 涵蓋主題特色與精選範例 |
+|---|---|---|
+| **💼 職場商業 (Business & Finance)** | **16 部** | HBR 薪水談判心法、通貨膨脹運作、賈伯斯畢業演講、巴菲特價值投資、YC募資簡報技巧 |
+| **🎓 學習口說 (Learning Resources)** | **17 部** | 英文連音技巧、外商商務成語、克服開口焦慮、英語直覺思考、TED 簡報溝通心法 |
+| **🎬 TED-Ed 動畫 (Animation)** | **19 部** | 磁鐵運作原理、童話黑暗起源、完美餅乾化學、長生不老哲思、恐龍滅絕真相 |
+| **🔬 科技科學 (Science & Technology)** | **18 部** | 雙語大腦優勢、AI 算力耗電之謎、磁浮列車原理、綠色永續製造、量子運算淺析 |
+| **🧘 健康心理 (Health & Wellness)** | **18 部** | 脆弱的力量、拯救專注力4心法、壓力管理、冒牌者症候群、心碎的生理機制 |
+| **✈️ 休閒旅遊 (Leisure & Travel)** | **18 部** | 30天嘗試新事物、買房租房優劣、門口效應忘記清單、180人共建圖書館、世界極簡旅行 |
+| **🎨 藝術娛樂 (Arts & Entertainment)** | **14 部** | 奧斯卡金像獎百年內幕、電影配樂情感魔法、蒙娜麗莎微笑解析、爵士樂即興藝術 |
+| **📰 新聞時事 (News & Current Affairs)** | **16 部** | 拆除四座大壩拯救河流、全球晶片供應鏈、氣候變遷冰川消融、AI生成假新聞識別 |
+| **👶 兒童初學 (Kids / A1 Beginner)** | **14 部** | 趣味顏色與形狀、農場動物對話、美味水果英文、早安問候基礎句型、快樂數字兒歌 |
+| **🎵 經典歌曲 (Music)** | **50 首** | Taylor Swift、Richard Marx、Backstreet Boys、Adele 等 100% 全時序卡拉OK雙語歌詞 |
+| **總計** | **200 部** | **完整的 A1 入門 (18部)、A2 初級 (60部)、B1 中級 (73部)、B2 中高級 (39部)、C1 高級 (10部)** |
 
 ---
 
