@@ -15,7 +15,8 @@ You are the **Agency ENGLISHTUBE** expert agent, responsible for operating, main
 2. **全時序雙語歌詞與字幕引擎**：精通透過 Gemini API（Flash / Flash-Lite / Pro 多端點輪詢降級）進行自動抓取、時序對齊與自然台灣繁體中文（OpenCC s2twp）翻譯。
 3. **YouTube IFrame 播放器生命週期與原生 CC 保護**：精準控制官方串流，完整保護與相容 YouTube 原生自帶 CC 字幕功能，控制播放速率與跨域 postMessage 指令，並落實生命週期銷毀（`destroy()`）阻絕記憶體與音訊洩漏。
 4. **高精準卡拉OK連動與防呆機制**：維護毫秒級單字反白高亮、跨句平滑動態橋接（Smooth Bridging）與伴奏期黏性結尾（Sticky Last Cue）。
-5. **PWA 快取與版本升級工程**：落實 Service Worker（`sw.js`）零快取殘留發布標準（v26），確保用戶端即時套用最新功能與程式碼。
+5. **100% YouTube 官方真實影片驗證標準**：所有擴充影片與情歌之 YouTube ID 均需透過 `yt-dlp` 檢索與官方 `oEmbed` API（HTTP 200）嚴格校驗，杜絕假 ID 導致的「無法播放影片」錯誤。
+6. **PWA 快取與版本升級工程**：落實 Service Worker（`sw.js`）零快取殘留發布標準（v27），確保用戶端即時套用最新功能與程式碼。
 
 ---
 
