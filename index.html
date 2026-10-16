@@ -1099,6 +1099,38 @@ html[data-theme='dark'] .vt-level-nav::-webkit-scrollbar-thumb:hover {
   background: rgba(162, 155, 254, 0.75);
 }
 
+/* Custom YouTube Lesson Maker Modal */
+.custom-maker-box {
+  width: min(560px, 94vw);
+  background: #fff;
+  border: 1px solid var(--line, #e2e8f0);
+  border-radius: 20px;
+  box-shadow: 0 20px 50px rgba(0,0,0,0.3);
+  padding: 24px;
+  color: #20213a;
+  animation: makerPop .25s cubic-bezier(.2,.8,.25,1);
+}
+@keyframes makerPop {
+  from { opacity: 0; transform: scale(.95) translateY(10px); }
+  to { opacity: 1; transform: scale(1) translateY(0); }
+}
+.custom-maker-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 16px;
+  padding-bottom: 12px;
+  border-bottom: 1px solid var(--line, #e2e8f0);
+}
+html[data-theme='dark'] .custom-maker-box {
+  background: #1a1a2e;
+  border-color: #2e2e4a;
+  color: #fff;
+}
+html[data-theme='dark'] .custom-maker-head {
+  border-color: #2e2e4a;
+}
+
 </style>
 <script src="https://www.youtube.com/iframe_api"></script>
 <script src="./video_lessons.js?v=27"></script>
@@ -1143,6 +1175,46 @@ html[data-theme='dark'] .vt-level-nav::-webkit-scrollbar-thumb:hover {
 <section class="study" id="study"><div><div class="eyebrow">LEARN YOUR WAY</div><h2>不只看懂，更要會用</h2><p>把影片變成自己的英文教材。收藏句子、練習跟讀，慢慢累積看得見的進步。</p><div class="studyitem"><div class="studyicon">🗣️</div><div><b>跟讀練口說</b><small>聽一句、跟著說一句，練習自然語調。</small></div></div><div class="studyitem"><div class="studyicon">📚</div><div><b>建立個人單字本</b><small>看到實用單字就收藏，隨時回來複習。</small></div></div><div class="studyitem"><div class="studyicon">🎯</div><div><b>依照程度選影片</b><small>從 A1 入門到 C1 進階，循序提升。</small></div></div></div><div><div class="eyebrow">YOUR PROGRESS</div><h2>今天的學習紀錄</h2><div style="display:flex;gap:12px;margin:20px 0"><div style="background:#f5f3ff;border-radius:16px;padding:18px;flex:1"><div style="color:#777;font-size:12px">收藏影片</div><div id="savedCount" style="font-size:30px;font-weight:900;color:#6d5dfc">0</div></div><div style="background:#e8faf3;border-radius:16px;padding:18px;flex:1"><div style="color:#777;font-size:12px">收藏單字</div><div id="wordCount" style="font-size:30px;font-weight:900;color:#15966b">0</div></div></div><button class="pill" onclick="setFilter('收藏');document.querySelector('#discover').scrollIntoView({behavior:'smooth'})">查看我的收藏 →</button><p style="font-size:12px">學習資料保存在這台裝置的瀏覽器中。</p></div></section>
 <div class="footer">ENGLISHTUBE · Learn a little. Grow every day. <br>獨立學習產品，與 VoiceTube 無隸屬關係。</div></main>
 <nav class="bottomnav"><button onclick="window.scrollTo({top:0,behavior:'smooth'})"><b>⌂</b>首頁</button><button onclick="switchMediaMode('video');document.querySelector('#discover').scrollIntoView({behavior:'smooth'})"><b>🎬</b>影片</button><button onclick="switchMediaMode('song');document.querySelector('#discover').scrollIntoView({behavior:'smooth'})"><b>🎵</b>歌曲</button><button onclick="document.querySelector('#study').scrollIntoView({behavior:'smooth'})"><b>✦</b>學習</button><button onclick="setFilter('收藏');document.querySelector('#discover').scrollIntoView({behavior:'smooth'})"><b>♡</b>收藏</button></nav>
+
+<!-- Custom YouTube Lesson Maker Modal -->
+<div class="modal" id="customMakerModal" style="display:none;z-index:9999">
+  <div class="custom-maker-box">
+    <div class="custom-maker-head">
+      <div style="display:flex;align-items:center;gap:8px">
+        <span style="font-size:22px">✨</span>
+        <h3 style="margin:0;font-size:17px;font-weight:800">貼上 YouTube 製作教材</h3>
+      </div>
+      <button class="vt-close-btn" onclick="closeCustomMakerModal()" title="關閉">×</button>
+    </div>
+    <div class="custom-maker-body">
+      <p style="font-size:13px;opacity:0.85;margin:0 0 16px;line-height:1.5">
+        貼上任何含有英文字幕的 YouTube 網址，系統將透過 AI 自動提取時間軸字幕與重點生字，一鍵打造專屬卡拉OK跟讀教材！
+      </p>
+      
+      <div style="margin-bottom:14px">
+        <label style="display:block;font-size:12px;font-weight:700;margin-bottom:6px">YouTube 影片網址：</label>
+        <div style="display:flex;gap:8px">
+          <input id="makerUrlInput" type="text" placeholder="https://www.youtube.com/watch?v=... 或 https://youtu.be/..." style="flex:1;padding:10px 14px;background:rgba(0,0,0,0.06);border:1px solid var(--line,#cbd5e1);border-radius:10px;font-size:13px;color:inherit;outline:none" />
+          <button class="pill" type="button" onclick="pasteFromClipboard()" style="padding:0 14px;font-size:13px;white-space:nowrap">📋 貼上</button>
+        </div>
+      </div>
+
+      <details style="margin-bottom:16px;background:rgba(109,93,252,0.06);border:1px solid rgba(109,93,252,0.2);border-radius:10px;padding:10px 14px">
+        <summary style="font-size:12px;color:var(--purple,#6d5dfc);cursor:pointer;font-weight:700">＋ 自備逐字稿（選填，若影片無字幕可貼在此處）</summary>
+        <textarea id="makerTranscriptInput" rows="4" placeholder="貼上 YouTube「顯示文字稿」逐字稿或帶時間軸的文字..." style="width:100%;box-sizing:border-box;margin-top:8px;padding:8px 10px;background:rgba(0,0,0,0.06);border:1px solid var(--line,#cbd5e1);border-radius:8px;color:inherit;font-size:12px;resize:vertical"></textarea>
+      </details>
+
+      <div id="makerStatus" style="display:none;padding:10px 14px;border-radius:8px;margin-bottom:14px;font-size:13px"></div>
+
+      <div style="display:flex;justify-content:flex-end;gap:10px">
+        <button class="ghost" onclick="closeCustomMakerModal()" style="border-radius:24px">取消</button>
+        <button class="pill" id="btnStartMakeLesson" onclick="startGenerateCustomLesson()" style="padding:10px 22px;font-size:14px;font-weight:800;display:inline-flex;align-items:center;gap:6px">
+          <span id="makerBtnIcon">🚀</span><span id="makerBtnText">一鍵建立教材並開始學習</span>
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
 
 <div class="modal" id="modal">
   <div class="vt-modalbox">
@@ -22778,9 +22850,201 @@ function render() {
 }
 function toggleSave(id){saved.has(id)?saved.delete(id):saved.add(id);render();toast(saved.has(id)?'已加入收藏':'已取消收藏')}
 function shuffle(){videos.sort(()=>Math.random()-.5);render()}
-document.querySelector('#search').addEventListener('input',e=>{query=e.target.value;render()});
-function openVideo(id){current=(window.songs&&window.songs.find(s=>s.id===id))||videos.find(v=>v.id===id);if(!current)return;current.cues=[];document.querySelector('#modalTitle').textContent=current.title;document.querySelector('#modalMeta').textContent=`${current.level} · ${current.cat} · ${current.duration} · ${current.zh}`;document.querySelector('#videoUrl').value=current.url||'';document.querySelector('#captionUrl').value='';if(current.url&&/youtube\.com|youtu\.be/.test(current.url)){document.querySelector('#player').innerHTML=`<iframe src="https://www.youtube-nocookie.com/embed/${current.id}?rel=0&cc_load_policy=1&cc_lang_pref=en&enablejsapi=1&origin=${encodeURIComponent(location.origin)}" title="${current.title}" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>`}else{document.querySelector('#player').innerHTML=`<div class="playerplaceholder"><div class="playbig">▶</div><b>${current.title}</b><p>貼上影片網址即可播放。</p></div>`}renderLesson();document.querySelector('#modal').classList.add('open');document.body.style.overflow='hidden'}
-function openCustomLesson(){current={cues:[],id:'custom-'+Date.now(),title:'我的 YouTube 英文課',zh:'自訂影片教材',cat:'自訂',level:'自訂',duration:'—',views:'—',emoji:'▶',color:'#6d5dfc',desc:'自訂影片',en:['Paste the video transcript to start learning.'],cn:['貼上影片逐字稿，即可建立逐句教材。'],words:[]};document.querySelector('#modalTitle').textContent=current.title;document.querySelector('#modalMeta').textContent='自訂影片 · 貼上網址開始';document.querySelector('#videoUrl').value='';document.querySelector('#captionUrl').value='';document.querySelector('#transcriptInput').value='';document.querySelector('#player').innerHTML='<div class="playerplaceholder"><div class="playbig">▶</div><b>貼上你的 YouTube 網址</b><p>載入影片後，再貼上英文逐字稿即可逐句朗讀與收藏單字。</p></div>';renderLesson();document.querySelector('#modal').classList.add('open');document.body.style.overflow='hidden'}
+// ════ 自訂 YouTube 教材製作與 VoiceTube 工作台啟動管線 ════
+function openCustomLesson() {
+  const modal = document.getElementById('customMakerModal');
+  if (!modal) return;
+  const input = document.getElementById('makerUrlInput');
+  const transcriptInput = document.getElementById('makerTranscriptInput');
+  const status = document.getElementById('makerStatus');
+  if (input) input.value = '';
+  if (transcriptInput) transcriptInput.value = '';
+  if (status) { status.style.display = 'none'; status.innerHTML = ''; }
+  modal.style.display = 'flex';
+  document.body.style.overflow = 'hidden';
+  setTimeout(() => input?.focus(), 100);
+}
+
+function closeCustomMakerModal() {
+  const modal = document.getElementById('customMakerModal');
+  if (modal) modal.style.display = 'none';
+  if (!document.getElementById('modal')?.classList.contains('open')) {
+    document.body.style.overflow = '';
+  }
+}
+
+async function pasteFromClipboard() {
+  try {
+    const text = await navigator.clipboard.readText();
+    if (text) {
+      const input = document.getElementById('makerUrlInput');
+      if (input) {
+        input.value = text.trim();
+        toast('已貼上剪貼簿內容');
+      }
+    }
+  } catch (err) {
+    toast('請在輸入框直接按 Ctrl+V 或 Cmd+V 貼上');
+  }
+}
+
+function extractYouTubeId(url) {
+  if (!url) return null;
+  const str = url.trim();
+  const regExp = /^.*(youtu.be\/|v\/|u\/\w\/|embed\/|shorts\/|watch\?v=|&v=)([^#&?]*).*/;
+  const match = str.match(regExp);
+  if (match && match[2].length === 11) return match[2];
+  if (/^[a-zA-Z0-9_-]{11}$/.test(str)) return str;
+  return null;
+}
+
+function formatDuration(sec) {
+  const m = Math.floor(sec / 60);
+  const s = Math.floor(sec % 60);
+  return `${m}:${s < 10 ? '0' : ''}${s}`;
+}
+
+function parseCustomTranscript(raw) {
+  if (!raw || !raw.trim()) return [];
+  const lines = raw.replace(/\r/g, '').split(/\n+/).map(x => x.trim()).filter(Boolean);
+  const cues = [];
+  for (const line of lines) {
+    const m = line.match(/^(?:(\d{1,2}:)?(\d{1,2}):(\d{2})(?:[.,](\d{1,3}))?)\s+(.+)$/);
+    if (m) {
+      const start = (Number(m[1] ? m[1].slice(0, -1) : 0) * 3600) + (Number(m[2]) * 60) + Number(m[3]) + (Number('0.' + (m[4] || '0')));
+      cues.push({ start, duration: 2.5, text: m[5].trim() });
+    } else {
+      const text = line.replace(/^\s*\d+\s*$/, '').trim();
+      if (text) cues.push({ start: cues.length * 3.5, duration: 3.5, text });
+    }
+  }
+  return cues;
+}
+
+function extractKeywordsFromCues(cues) {
+  const stopWords = new Set(['that','this','with','from','have','your','they','them','there','what','when','will','would','could','should','about','because','which','their','then','than','into','just','like','were','been','being','very','more','some','such','also','only','over','here','know','want','make','does','yourself','going','about','where']);
+  const allText = cues.map(c => c.text).join(' ').toLowerCase();
+  const words = allText.match(/\b[a-z]{4,}\b/g) || [];
+  const freq = {};
+  words.forEach(w => {
+    if (!stopWords.has(w)) freq[w] = (freq[w] || 0) + 1;
+  });
+  return Object.entries(freq).sort((a,b) => b[1]-a[1]).slice(0, 15).map(([w]) => [w, '點擊 🔊 聆聽真人發音']);
+}
+
+async function startGenerateCustomLesson() {
+  const urlInput = document.getElementById('makerUrlInput');
+  const transcriptInput = document.getElementById('makerTranscriptInput');
+  const statusEl = document.getElementById('makerStatus');
+  const btn = document.getElementById('btnStartMakeLesson');
+  const btnText = document.getElementById('makerBtnText');
+
+  const rawUrl = urlInput ? urlInput.value.trim() : '';
+  const vid = extractYouTubeId(rawUrl);
+
+  if (!vid) {
+    toast('請輸入正確的 YouTube 影片網址或 ID');
+    urlInput?.focus();
+    return;
+  }
+
+  // UI loading state
+  if (statusEl) {
+    statusEl.style.display = 'block';
+    statusEl.style.background = 'rgba(109,93,252,0.12)';
+    statusEl.style.color = '#a29bfe';
+    statusEl.innerHTML = '⏳ 正在連線 YouTube 提取影片字幕與資訊中，請稍候…';
+  }
+  if (btn) btn.disabled = true;
+  if (btnText) btnText.textContent = '處理中…';
+
+  let cues = [];
+  let videoTitle = '自訂 YouTube 影片教材';
+
+  try {
+    // 1. Check if user provided transcript
+    const userTranscript = transcriptInput ? transcriptInput.value.trim() : '';
+    if (userTranscript) {
+      cues = parseCustomTranscript(userTranscript);
+    }
+
+    // 2. If no user transcript, fetch from backend /api/transcript
+    if (!cues.length) {
+      const resp = await fetch('/api/transcript', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ url: `https://www.youtube.com/watch?v=${vid}` })
+      });
+      const data = await resp.json();
+      if (resp.ok && data.cues && data.cues.length) {
+        cues = data.cues;
+        if (data.title) videoTitle = data.title;
+      } else {
+        throw new Error(data.error || '此影片無可用英文字幕');
+      }
+    }
+
+    if (!cues.length) {
+      throw new Error('未取得有效句子');
+    }
+
+    // 3. Assemble complete lesson object
+    const customItem = {
+      id: vid,
+      title: videoTitle,
+      speaker: 'YouTube',
+      channel: 'Learning Resources',
+      cat: '自訂',
+      level: 'B1',
+      duration: formatDuration(cues[cues.length - 1]?.start || 180),
+      views: 'Custom',
+      emoji: '🎬',
+      color: 'linear-gradient(135deg, #667eea, #764ba2)',
+      zh: '使用者自訂教材',
+      cues: cues,
+      en: cues.map(c => c.text),
+      cn: cues.map(c => '點擊單字可查詢字典或使用 TTS 聆聽'),
+      words: extractKeywordsFromCues(cues)
+    };
+
+    // Save to window.videos and localStorage custom lessons
+    const existingIdx = videos.findIndex(v => v.id === vid);
+    if (existingIdx >= 0) {
+      videos[existingIdx] = customItem;
+    } else {
+      videos.unshift(customItem);
+    }
+    
+    try {
+      const savedCustoms = JSON.parse(localStorage.getItem('et_custom_lessons') || '[]');
+      const filtered = savedCustoms.filter(c => c.id !== vid);
+      filtered.unshift(customItem);
+      localStorage.setItem('et_custom_lessons', JSON.stringify(filtered.slice(0, 30)));
+    } catch (e) {}
+
+    render();
+    closeCustomMakerModal();
+    toast(`🎉 自訂教材建立成功！共 ${cues.length} 句字幕`);
+
+    // Launch modern VoiceTube Studio
+    setTimeout(() => {
+      openVideo(vid);
+    }, 200);
+
+  } catch (err) {
+    console.error('Custom lesson error:', err);
+    if (statusEl) {
+      statusEl.style.display = 'block';
+      statusEl.style.background = 'rgba(239, 68, 68, 0.12)';
+      statusEl.style.color = '#ef4444';
+      statusEl.innerHTML = `⚠️ ${err.message}。<br><span style="font-size:12px;opacity:0.9">提示：若此影片無官方字幕，可展開上方「自備逐字稿」貼上 YouTube 文字稿即可建立！</span>`;
+    }
+    toast('建立失敗：' + err.message);
+  } finally {
+    if (btn) btn.disabled = false;
+    if (btnText) btnText.textContent = '一鍵建立教材並開始學習';
+  }
+}
 function loadVideoSource(){const raw=document.querySelector('#videoUrl').value.trim();if(!raw){toast('請先貼上影片網址');return}let u;try{u=new URL(raw)}catch(e){toast('網址格式不正確');return}if(!['https:','http:'].includes(u.protocol)){toast('只支援 HTTP/HTTPS 網址');return}let id=null;if(/(^|\.)youtu\.be$/.test(u.hostname))id=u.pathname.split('/').filter(Boolean)[0];else if(/(^|\.)youtube\.com$/.test(u.hostname)){id=u.searchParams.get('v')||(u.pathname.match(/\/(?:embed|shorts)\/([^/?]+)/)||[])[1]}if(id&&/^[A-Za-z0-9_-]{6,}$/.test(id)){document.querySelector('#player').innerHTML=`<iframe src="https://www.youtube-nocookie.com/embed/${id}?rel=0&cc_load_policy=1&cc_lang_pref=en&enablejsapi=1&origin=${encodeURIComponent(location.origin)}" title="English learning video" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>`;return}if(/(^|\.)vimeo\.com$/.test(u.hostname)){const vid=u.pathname.match(/\/(\d+)/);if(vid){document.querySelector('#player').innerHTML=`<iframe src="https://player.vimeo.com/video/${vid[1]}" title="English learning video" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen loading="lazy"></iframe>`;return}}if(/\.(mp4|webm|ogg)(\?.*)?$/i.test(u.pathname+u.search)){document.querySelector('#player').innerHTML=`<video id="nativeVideo" controls playsinline preload="metadata" style="width:100%;height:100%;object-fit:contain;background:#111"><source src="${u.href.replace(/&/g,'&amp;').replace(/"/g,'&quot;')}"></video>`;return}toast('不支援此網址。請用 YouTube、Vimeo 或 MP4/WebM 直連網址')}
 
 function makeLessonFromTranscript(){const raw=document.querySelector('#transcriptInput').value.trim();if(!raw){toast('請先貼上英文逐字稿');return}const lines=raw.replace(/\r/g,'').split(/\n+/).map(x=>x.trim()).filter(Boolean);const cues=[];for(const line of lines){const m=line.match(/^(?:(\d{1,2}:)?(\d{1,2}):(\d{2})(?:[.,](\d{1,3}))?) +(.+)$/);if(m){const start=(Number(m[1]?m[1].slice(0,-1):0)*3600)+(Number(m[2])*60)+Number(m[3])+(Number('0.'+(m[4]||'0')));cues.push({start,duration:0,text:m[5]})}else{const text=line.replace(/^\s*\d+\s*$/,'').trim();if(text)cues.push({start:null,duration:0,text})}}const sentences=cues.flatMap(c=>c.start===null?(c.text.match(/[^.!?]+[.!?]+|[^.!?]+$/g)||[c.text]).map(text=>({start:null,duration:0,text:text.trim()})):[c]).filter(c=>c.text.length>2).slice(0,300);if(!sentences.length){toast('沒有辨識到有效句子');return}current.cues=sentences.some(c=>c.start!==null)?sentences.filter(c=>c.start!==null):[];current.en=sentences.map(c=>c.text);current.cn=current.en.map(()=>'（請按「AI 翻譯＋單字解說」產生翻譯）');const counts={};current.en.join(' ').toLowerCase().match(/\b[a-z]{4,}\b/g)?.forEach(w=>{if(!['that','this','with','from','have','your','they','them','there','what','when','will','would','could','should','about','because','which','their','then','than','into','just','like','were','been','being','very','more','some','such','also','only','over','here','know','want','make','does','yourself'].includes(w))counts[w]=(counts[w]||0)+1});current.words=Object.entries(counts).sort((a,b)=>b[1]-a[1]).slice(0,12).map(([w])=>[w,'可使用 AI 產生詳細解說']);renderLesson();toast('教材已建立：'+sentences.length+' 句')}
@@ -22863,7 +23127,7 @@ if(window.matchMedia('(display-mode: standalone)').matches||navigator.standalone
 document.querySelector('#installBtn').addEventListener('click',async()=>{if(deferredPrompt){deferredPrompt.prompt();const{outcome}=await deferredPrompt.userChoice;deferredPrompt=null;if(outcome==='accepted')toast('✓ 安裝中...')}else if(/iphone|ipad|ipod/i.test(navigator.userAgent)){toast('Safari：分享 → 加入主畫面')}else{toast('請從瀏覽器選單選擇「安裝應用程式」')}});
 // Register Service Worker + auto-reload on new SW version
 if('serviceWorker'in navigator&&location.protocol.startsWith('http')){
-  window.addEventListener('load',()=>navigator.serviceWorker.register('./sw.js?v=28').then(reg=>{
+  window.addEventListener('load',()=>navigator.serviceWorker.register('./sw.js?v=29').then(reg=>{
     try{reg.update()}catch(e){}
     reg.addEventListener('updatefound',()=>{
       const nw=reg.installing;
@@ -22899,6 +23163,18 @@ async function translateLesson(){if(!current?.en?.length){toast('請先取得或
 function renderLesson(){const cues=current.cues||[];document.querySelector('#transcript').innerHTML=(current.en||[]).map((s,i)=>`<div class="subline" data-cue="${i}" onclick="${cues[i]?'seekCue('+i+')':'speakLine('+i+')'}"><strong style="display:${showEn?'block':'none'}">${escapeHTML(s)}</strong><span style="display:${showZh?'block':'none'}">${escapeHTML(current.cn?.[i]||'')}</span><small style="color:#aaa">${cues[i]?formatTime(cues[i].start)+' · 點擊跳轉':'點擊聆聽'} · ${i+1}</small><button class="save" onclick="event.stopPropagation();speakLine(${i})">🔊</button></div>`).join('');document.querySelector('#wordList').innerHTML=(current.words||[]).map(w=>{const word=Array.isArray(w)?w[0]:w.word;const meaning=Array.isArray(w)?w[1]:(w.meaning||w.explanation||'');return `<div style="padding:10px 0;border-bottom:1px solid #eee"><b style="color:#6355e8">${escapeHTML(word||'')}</b><div style="font-size:13px;color:#777;margin:4px 0 8px">${escapeHTML(meaning||'')}</div><button class="save ${savedWords.has(word)?'saved':''}" onclick="toggleWord('${String(word||'').replace(/'/g,"\\'")}')">${savedWords.has(word)?'✓ 已收藏':'＋ 收藏單字'}</button><button class="save" onclick="say('${String(word||'').replace(/'/g,"\\'")}')">🔊</button></div>`}).join('');document.querySelector('#enBtn').textContent='🇺🇸 英文字幕 '+(showEn?'✓':'○');document.querySelector('#zhBtn').textContent='🇹🇼 中文字幕 '+(showZh?'✓':'○')}
 function makeLessonFromTranscript(){const raw=document.querySelector('#transcriptInput').value.trim();if(!raw){toast('請先貼上英文逐字稿');return}const lines=raw.replace(/\r/g,'').split(/\n+/).map(x=>x.trim()).filter(Boolean);const cues=[];for(const line of lines){const m=line.match(/^(?:(\d{1,2}:)?(\d{1,2}):(\d{2})(?:[.,](\d{1,3}))?)\s+(.+)$/);if(m){const start=(Number(m[1]?m[1].slice(0,-1):0)*3600)+(Number(m[2])*60)+Number(m[3])+(Number('0.'+(m[4]||'0')));cues.push({start,duration:0,text:m[5]})}else{const text=line.replace(/^\s*\d+\s*$/,'').trim();if(text)cues.push({start:null,duration:0,text})}}const sentences=cues.flatMap(c=>c.start===null?(c.text.match(/[^.!?]+[.!?]+|[^.!?]+$/g)||[c.text]).map(text=>({start:null,duration:0,text:text.trim()})):[c]).filter(c=>c.text.length>2).slice(0,300);if(!sentences.length){toast('沒有辨識到有效句子');return}current.cues=sentences.some(c=>c.start!==null)?sentences.filter(c=>c.start!==null):[];current.en=sentences.map(c=>c.text);current.cn=current.en.map(()=> '（請按「AI 翻譯＋單字解說」產生翻譯）');const counts={};current.en.join(' ').toLowerCase().match(/\b[a-z]{4,}\b/g)?.forEach(w=>{if(!['that','this','with','from','have','your','they','them','there','what','when','will','would','could','should','about','because','which','their','then','than','into','just','like','were','been','being','very','more','some','such','also','only','over','here','know','want','make','does','yourself'].includes(w))counts[w]=(counts[w]||0)+1});current.words=Object.entries(counts).sort((a,b)=>b[1]-a[1]).slice(0,12).map(([w])=>[w,'可使用 AI 產生詳細解說']);renderLesson();toast('教材已建立：'+sentences.length+' 句')}
 function escapeHTML(v){return String(v??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]))}
+// Restore locally saved custom lessons
+try {
+  const savedCustoms = JSON.parse(localStorage.getItem('et_custom_lessons') || '[]');
+  if (Array.isArray(savedCustoms) && savedCustoms.length) {
+    savedCustoms.forEach(c => {
+      if (!videos.some(v => v.id === c.id)) {
+        videos.unshift(c);
+      }
+    });
+  }
+} catch(e) {}
+
 render();
 
 // ── Dark Mode ──

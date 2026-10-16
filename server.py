@@ -133,8 +133,18 @@ class Handler(SimpleHTTPRequestHandler):
         except Exception as e:self.send_json(500,{'error':str(e)[:500]})
     def transcript(self,data):
         url=str(data.get('url','')).strip();vid=video_id(url)
-        ytdlp=shutil.which('yt-dlp')
-        if not ytdlp:self.send_json(503,{'error':'尚未安裝 yt-dlp。執行：python3 -m pip install -r requirements.txt'});return
+        ytdlp=shutil.which('yt-dlp') or '/opt/homebrew/bin/yt-dlp' or '/usr/local/bin/yt-dlp'
+        if not os.path.exists(str(ytdlp)) and not shutil.which('yt-dlp'):
+            self.send_json(503,{'error':'尚未安裝 yt-dlp。執行：python3 -m pip install -r requirements.txt'});return
+        
+        # Try fetching video title
+        title = ''
+        try:
+            tp = subprocess.run([ytdlp, '--print', '%(title)s', '--no-warnings', url], capture_output=True, text=True, timeout=8)
+            title = tp.stdout.strip().split('\n')[0]
+        except Exception:
+            pass
+
         with tempfile.TemporaryDirectory(prefix='englishtube-') as td:
             cmd=[ytdlp,'--no-warnings','--skip-download','--write-auto-subs','--write-subs','--sub-langs','en.*,en','--sub-format','vtt/best','-o',str(Path(td)/'%(id)s.%(ext)s'),url]
             p=subprocess.run(cmd,capture_output=True,text=True,timeout=90)
@@ -146,7 +156,7 @@ class Handler(SimpleHTTPRequestHandler):
                 files=list(Path(td).glob('*.vtt'))+list(Path(td).glob('*.json3'))
             if not files:
                 msg=(p.stderr or '影片沒有可取得的英文字幕，或 YouTube 暫時限制存取。')[-700:]
-                self.send_json(422,{'error':msg});return
+                self.send_json(422,{'error':msg, 'title': title});return
             f=files[0]
             if f.suffix=='.vtt': cues=parse_vtt(f.read_text(encoding='utf-8',errors='replace'))
             else:
@@ -154,8 +164,8 @@ class Handler(SimpleHTTPRequestHandler):
                 for e in raw.get('events',[]):
                     txt=''.join(seg.get('utf8','') for seg in e.get('segs',[])).strip()
                     if txt:cues.append({'start':e.get('tStartMs',0)/1000,'duration':e.get('dDurationMs',0)/1000,'text':txt})
-            if not cues:self.send_json(422,{'error':'字幕檔存在，但沒有可用句子。'});return
-            self.send_json(200,{'videoId':vid,'language':f.stem.split('.')[-1],'cues':cues[:3000]})
+            if not cues:self.send_json(422,{'error':'字幕檔存在，但沒有可用句子。', 'title': title});return
+            self.send_json(200,{'videoId':vid,'title':title,'language':f.stem.split('.')[-1],'cues':cues[:3000]})
     def translate(self,data):
         key=os.getenv('OPENAI_API_KEY','').strip()
         if not key:self.send_json(503,{'error':'未設定 OPENAI_API_KEY；請在啟動伺服器前設定環境變數。'});return

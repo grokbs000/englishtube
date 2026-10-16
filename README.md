@@ -6,7 +6,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-6d5dfc.svg)](./LICENSE)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://python.org)
 [![PWA Ready](https://img.shields.io/badge/PWA-Ready-brightgreen.svg)](https://web.dev/progressive-web-apps/)
-[![Service Worker](https://img.shields.io/badge/Service%20Worker-v28-orange.svg)](./sw.js)
+[![Service Worker](https://img.shields.io/badge/Service%20Worker-v29-orange.svg)](./sw.js)
 [![Golden Edition](https://img.shields.io/badge/Edition-Stage%201%20Golden%20(200%20Items)-6d5dfc.svg)](./index.html)
 
 ---
@@ -86,6 +86,13 @@
 * **平滑水平捲軸與人因滾輪轉換（Sleek Scrollbar & Wheel Scrolling）**：
   - 頻道導航列（`.vt-channel-nav`）與難度等級列（`.vt-level-nav`）配備專屬精緻自訂水平捲軸，支援明亮與深色模式動態對比。
   - 支援滑鼠垂直滾輪自動轉換為水平滾動（Wheel to Horizontal Scroll），搭配點選標籤自動平滑居中對齊（Auto Center Scroll），提供桌機與觸控雙端極致流暢之探索體驗。
+
+### 9. 貼上 YouTube 製作教材全自動管線（Custom YouTube Lesson Pipeline）
+* **專屬一鍵製作彈窗（Custom Maker Modal）**：首頁「＋ 貼上 YouTube 製作教材」開啟現代獨立視窗，支援剪貼簿一鍵貼上、YouTube 網址正規化（標準 URL、短網址 `youtu.be`、`shorts` 均自動相容）。
+* **雙軌字幕智慧建立機制**：
+  1. **自動提取軌**：透過後端 `/api/transcript` 與 `yt-dlp` 自動下載影片英文字幕並解析時間軸。
+  2. **手動備選軌**：無官方字幕時可直接展開「自備逐字稿」貼上 YouTube「顯示文字稿」逐句對齊。
+* **無縫接軌 VoiceTube Studio**：生成教材後自動啟動最新版雙欄學習工作台，連動 YouTube 官方播放器、右側逐句跟讀清單與卡拉OK高亮舞台，並自動持久化保存於瀏覽器本地，隨時可複習。
 
 ---
 
