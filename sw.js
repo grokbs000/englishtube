@@ -1,5 +1,5 @@
-// ENGLISHTUBE Service Worker v52
-const CACHE='englishtube-v130';
+// ENGLISHTUBE Service Worker v53
+const CACHE='englishtube-v131';
 const STATIC=[
   './',
   './index.html',
@@ -9,7 +9,8 @@ const STATIC=[
   './icon-192.png',
   './icon-512.png',
   './songs_100.json',
-  './songs_50.json'
+  './songs_50.json',
+  './uncollected_curated_library.json'
 ];
 
 // Install: pre-cache static shell & skip waiting immediately

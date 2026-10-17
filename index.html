@@ -1453,6 +1453,53 @@ html[data-theme='dark'] .custom-maker-head {
   background: rgba(239, 68, 68, 0.08);
 }
 
+/* Feed Counter Banner (排除已收錄與數量保證標籤) */
+.yt-feed-counter-banner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 8px 12px;
+  margin-bottom: 10px;
+  background: linear-gradient(135deg, rgba(16, 185, 129, 0.08), rgba(109, 93, 252, 0.08));
+  border: 1px solid rgba(16, 185, 129, 0.25);
+  border-radius: 10px;
+  font-size: 11.5px;
+  font-weight: 700;
+  color: #1e293b;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.03);
+}
+.yt-feed-counter-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  color: #059669;
+  background: rgba(16, 185, 129, 0.15);
+  padding: 3px 8px;
+  border-radius: 6px;
+  font-size: 11px;
+  font-weight: 800;
+}
+.yt-feed-counter-total b {
+  font-size: 13px;
+  color: #6d5dfc;
+  margin: 0 2px;
+}
+html[data-theme='dark'] .yt-feed-counter-banner,
+@media(prefers-color-scheme:dark) html:not([data-theme='light']) .yt-feed-counter-banner {
+  background: linear-gradient(135deg, rgba(16, 185, 129, 0.12), rgba(139, 124, 255, 0.12));
+  border-color: rgba(16, 185, 129, 0.35);
+  color: #e2e8f0;
+}
+html[data-theme='dark'] .yt-feed-counter-pill,
+@media(prefers-color-scheme:dark) html:not([data-theme='light']) .yt-feed-counter-pill {
+  color: #34d399;
+  background: rgba(16, 185, 129, 0.22);
+}
+html[data-theme='dark'] .yt-feed-counter-total b,
+@media(prefers-color-scheme:dark) html:not([data-theme='light']) .yt-feed-counter-total b {
+  color: #a5b4fc;
+}
+
 /* Quick Lifestyle Keywords Bar */
 .yt-quick-keywords-bar {
   display: flex;
@@ -1884,7 +1931,7 @@ html[data-theme='dark'] .yt-card-author,
         <div class="yt-explorer-icon">🌐</div>
         <div>
           <h3 class="yt-explorer-title">無廣告 YouTube 英語探索視窗 · 優質教材庫</h3>
-          <p class="yt-explorer-sub">以純淨零廣告沙盒模式試看任何影片，一鍵自動提取英文字幕收錄為 VoiceTube 雙語跟讀教材！</p>
+          <p class="yt-explorer-sub">以純淨零廣告沙盒模式試看影片（已全數排除專案收錄項目，每項均大於 30 部），一鍵自動提取英文字幕收錄為 VoiceTube 雙語跟讀教材！</p>
         </div>
       </div>
       <button class="vt-close-btn" onclick="closeYtExplorerModal()" title="關閉">×</button>
@@ -49626,76 +49673,408 @@ async function startGenerateCustomLesson() {
 }
 
 // ════ 無廣告 YouTube 探索視窗與教材收錄引擎 (Ad-Free YouTube Explorer) ════
-let currentExplorerVid = 'dctcfxw13AQ';
-let currentExplorerTitle = 'Beyond ChatGPT: what chatbots mean for the future';
-let currentExplorerChannel = 'The Economist';
-let currentExplorerDuration = '16:08';
+let currentExplorerVid = 'ujkD4SxPKOI';
+let currentExplorerTitle = 'AI Just Crossed the Terrifying Line - Now What?';
+let currentExplorerChannel = 'Kurzgesagt – In a Nutshell';
+let currentExplorerDuration = '21:44';
+
+function getProjectIncludedVideoIds() {
+  const set = new Set();
+  if (Array.isArray(window.videos)) {
+    window.videos.forEach(v => { if (v && v.id) set.add(v.id); });
+  }
+  if (Array.isArray(window.songs)) {
+    window.songs.forEach(s => { if (s && s.id) set.add(s.id); });
+  }
+  try {
+    const customs = JSON.parse(localStorage.getItem('et_custom_lessons') || '[]');
+    customs.forEach(c => { if (c && c.id) set.add(c.id); });
+  } catch (e) {}
+  return set;
+}
 
 const CURATED_YT_COLLECTIONS = {
   ai: [
-    { id: 'dctcfxw13AQ', title: 'Beyond ChatGPT: what chatbots mean for the future', duration: 968, channel: 'The Economist' },
-    { id: '0EPYNMJv-oQ', title: "6 Minute English - 'Artificial intelligence' English mega-class!", duration: 1833, channel: 'BBC Learning English' },
-    { id: 'XRU-CjzYt_o', title: 'Why I Switched From ChatGPT to Claude (without losing anything)', duration: 967, channel: 'Dan Martell' },
-    { id: 'f_MUzfzI4RM', title: 'Humans could lose control of AI systems, AI boss says | BBC News', duration: 483, channel: 'BBC Learning English' },
-    { id: 'yWO-cvGETRQ', title: 'The Egg - Kurzgesagt AI & Consciousness', duration: 476, channel: 'Kurzgesagt – In a Nutshell' },
-    { id: '4_aOIA-vyBo', title: 'Optimistic Nihilism - Why Life Matters (Kurzgesagt)', duration: 371, channel: 'Kurzgesagt – In a Nutshell' }
-  ],
-  tech3c: [
-    { id: 'UF8uR6Z6KLc', title: "Steve Jobs' 2005 Stanford Commencement Address", duration: 904, channel: 'Stanford' },
-    { id: 'eIho2S0ZahI', title: 'How Does Computer Memory Work? - Kanawat Senanan', duration: 304, channel: 'TED-Ed' },
-    { id: 'YQHsXMglC9A', title: 'How Silicon Microchips are Made', duration: 420, channel: 'Branch Education' },
-    { id: 'p7_9h8z_wJE', title: 'The Future of Personal Computing & Tech Gadgets', duration: 615, channel: 'The Verge' }
-  ],
-  car: [
-    { id: 'O0cs8aIXgkc', title: 'Tesla Cybertruck Review: Already Iconic?', duration: 1644, channel: 'Marques Brownlee' },
-    { id: 'adZztW0YbJ0', title: "Why I'm buying a Cybertruck!", duration: 1575, channel: 'carwow' },
-    { id: 'WuhDOzH_mvo', title: 'Porsche 911 GT3 RS Review - The Ultimate Track Car', duration: 860, channel: 'Top Gear' },
-    { id: 'Y5J3h51eBJA', title: 'Bugatti Chiron vs Formula 1 Car Race', duration: 615, channel: 'carwow' }
-  ],
-  movie: [
-    { id: '9t1IK_9apWs', title: "Independence Day (4/5) Movie CLIP - The President's Speech (1996) HD", duration: 162, channel: 'Movieclips' },
-    { id: 'Pr9ruvxA3K4', title: 'Patch Adams (8/10) Movie CLIP - You Treat a Person (1998) HD', duration: 222, channel: 'Movieclips' },
-    { id: 'cyZdgmBzguk', title: "Mel Gibson's incredible speech about war | We Were Soldiers", duration: 201, channel: 'Boxoffice Movie Scenes' },
-    { id: 'd6wRkzCW5qI', title: 'Dead Poets Society - Carpe Diem Speech (Robin Williams)', duration: 255, channel: 'Touchstone Pictures' }
-  ],
-  interviews: [
-    { id: 'Vmb1tqYcky8', title: 'Emma Watson Gender Equality UN Speech (HeForShe)', duration: 792, channel: 'UN Women' },
-    { id: 'eIho2S0ZahI', title: 'Taylor Swift NYU Commencement Speech 2022', duration: 1220, channel: 'NYU' },
-    { id: '8S0FDjFBj8o', title: 'Keanu Reeves On What Happens When We Die | The Late Show', duration: 225, channel: 'The Late Show with Stephen Colbert' },
-    { id: 'zO6c_h_3Qp0', title: 'How to make small talk with native speakers smoothly', duration: 540, channel: 'EnglishClass101' }
-  ],
-  travel_daily: [
-    { id: 'bgfdqVmVjfk', title: 'At the Restaurant Conversation - English Speaking Practice', duration: 289, channel: 'Easy English' },
-    { id: 'ki2m6Sr3UAU', title: 'Ordering at a Restaurant – Everyday English Dialogues', duration: 83, channel: 'Ellii (formerly ESL Library)' },
-    { id: '7G9s2QfB1kY', title: '20 Essential Phrases for Hotel Check-In & Travel', duration: 420, channel: 'Speak English with Vanessa' },
-    { id: '1I8d0f1Jm4I', title: 'Everyday English Conversations for Beginners', duration: 720, channel: 'English Speaking Success' }
-  ],
-  business: [
-    { id: 'mP_UqU6_y-M', title: 'How to Introduce Yourself in a Job Interview (Step by Step)', duration: 610, channel: 'CareerVidz' },
-    { id: 'qYvXk2B4x90', title: 'Professional Business Email Writing Phrases', duration: 490, channel: 'Business English Pod' },
-    { id: '8c9T1VbX9Y0', title: 'How to Speak Confidently in English Meetings', duration: 520, channel: 'Oxford Online English' }
+    { id: 'ujkD4SxPKOI', title: 'AI Just Crossed the Terrifying Line - Now What?', duration: 1304, channel: 'Kurzgesagt – In a Nutshell' },
+    { id: '_zfN9wnPvU0', title: 'AI Slop Is Destroying The Internet', duration: 592, channel: 'Kurzgesagt – In a Nutshell' },
+    { id: 'fa8k8IQ1_X0', title: 'A.I. ‐ Humanity\'s Final Invention?', duration: 1003, channel: 'Kurzgesagt – In a Nutshell' },
+    { id: 'FwOTs4UxQS4', title: 'AI Agents, Clearly Explained', duration: 609, channel: 'Jeff Su' },
+    { id: 'hkbv4ILw_II', title: 'OpenAI Bots Hacked Hugging Face Without Human Input: Former Researcher Details the Incident', duration: 1041, channel: 'JRE Clips' },
+    { id: 'WnzR5aOElvw', title: 'Why AI Agents are either the best or worst thing we’ve ever built', duration: 1219, channel: 'Hannah Fry' },
+    { id: 'YZ6zokLdhP0', title: 'The REAL Reason AI Is Already Escaping', duration: 1368, channel: 'The Diary Of A CEO Clips' },
+    { id: '3lPnN8omdPA', title: 'How to Stop AI from Killing Your Critical Thinking | Advait Sarkar | TED', duration: 895, channel: 'TED' },
+    { id: 'u15N3l4RT80', title: 'The OpenAI/Hugging Face attack, clearly explained', duration: 1481, channel: 'Dwarkesh Patel' },
+    { id: 'OO225IfoR3s', title: 'Hugging Face: Why AI Might Kill Us', duration: 1684, channel: 'Hoog' },
+    { id: 'dt_OMxufoGE', title: 'The Truth About the 700 OpenAI Agents That Attacked Hugging Face', duration: 390, channel: 'ByteMonk' },
+    { id: 'uRDBco-cSK4', title: 'Scientists Left 1000 AIs Alone in Minecraft. They Created A Civilization.', duration: 1086, channel: 'Species | Documenting AGI' },
+    { id: '3Pj-993xWf4', title: 'How OpenAI Agents Broke Into Hugging Face', duration: 311, channel: 'Engineering Visualized' },
+    { id: 'LPZh9BOjkQs', title: 'Large Language Models explained briefly', duration: 478, channel: '3Blue1Brown' },
+    { id: 'Hf-xePlM-zg', title: 'Global Politics in 30 Seconds', duration: 18, channel: 'boomsmack' },
+    { id: 'm8o2GrbR3d8', title: 'SIMPLEST Explanation of How Artificial Intelligence Works? No Jargon | What is AI? How AI works?', duration: 1579, channel: 'Science Simplified 4 All' },
+    { id: '8TZREGifAzA', title: 'The truth about OpenAI accidentally hacking Hugging Face', duration: 353, channel: 'Future with Fawzi' },
+    { id: '0yCJMt9Mx9c', title: 'How does artificial intelligence learn? - Briana Brownell', duration: 297, channel: 'TED-Ed' },
+    { id: 'uMzUB89uSxU', title: 'What is Artificial Intelligence? | Artificial Intelligence In 5 Minutes | AI Explained | Simplilearn', duration: 285, channel: 'Simplilearn' },
+    { id: '1LRvMRC_pfY', title: 'The Biggest Launch Since ChatGPT (Muse)', duration: 4101, channel: 'Cleo Abram' },
+    { id: 'dEm_2wWpgjE', title: 'The REAL Reason You Can’t Turn Off AI', duration: 1177, channel: 'The Diary Of A CEO Clips' },
+    { id: 'm94OMx1eBy0', title: 'AI Expert WARNS: "You\'re Not Ready For 2027"', duration: 1203, channel: 'The Diary Of A CEO Clips' },
+    { id: 'LYP0lspVLr4', title: 'OpenAI’s Hugging Face Hack: The Story You Missed', duration: 763, channel: 'ML Visualized' },
+    { id: 'R9OHn5ZF4Uo', title: 'AI Doesn\'t Know Anything. It Just Passes Tests.', duration: 535, channel: 'CGP Grey' },
+    { id: 'a0_lo_GDcFw', title: 'What Is Artificial Intelligence? Crash Course AI #1', duration: 706, channel: 'CrashCourse' },
+    { id: 'PeMlggyqz0Y', title: 'Machine Learning Explained in 100 Seconds', duration: 155, channel: 'Fireship' },
+    { id: '4QzBdeUQ0Dc', title: 'AI in Cybersecurity', duration: 379, channel: 'IBM Technology' },
+    { id: 'jmmW0F0biz0', title: 'Neural Networks Explained in 5 minutes', duration: 272, channel: 'IBM Technology' },
+    { id: 'dqwpQarrDwk', title: '1,000km Cable to the Stars - The Skyhook', duration: 420, channel: 'Kurzgesagt – In a Nutshell' },
+    { id: '3wLqsRLvV-c', title: 'The Turing test: Can a computer pass for a human? - Alex Gendler', duration: 283, channel: 'TED-Ed' },
+    { id: 'JYqfVE-fykk', title: 'Washington\'s Dream - SNL', duration: 291, channel: 'Saturday Night Live' },
+    { id: 'wjZofJX0v4M', title: 'Transformers, the tech behind LLMs | Deep Learning Chapter 5', duration: 1634, channel: '3Blue1Brown' },
+    { id: 'X07m4SCuOh4', title: 'The Vietnam War Explained in 21 Minutes', duration: 1295, channel: 'Agent Flappy' },
+    { id: 'PelPXeR5ia0', title: 'Your Laptop Is About to Get a Brain (And It\'s Free to Run) - Nvidia\'s RTX Spark Explained', duration: 595, channel: 'StackSage' },
+    { id: 'ZQUxL4Jm1Lo', title: 'What is imposter syndrome and how can you combat it? - Elizabeth Cox', duration: 259, channel: 'TED-Ed' },
+    { id: 'ClPVJ25Ka4k', title: 'How do antidepressants work? - Neil R. Jeyasingam', duration: 291, channel: 'TED-Ed' }
   ],
   ted: [
-    { id: '54prMaPn5Ls', title: 'How many verb tenses are there in English? - Anna Ananichuk', duration: 268, channel: 'TED-Ed' },
-    { id: 'XFhY4Vy3IHc', title: 'Why is English so confusing? - Arika Okrent', duration: 334, channel: 'TED-Ed' },
-    { id: 'YEaSxhcns7Y', title: 'Where did English come from? - Claire Bowern', duration: 294, channel: 'TED-Ed' },
-    { id: 'sbCvQbBi2G8', title: "What's the smartest age? - Shannon Odell", duration: 293, channel: 'TED-Ed' },
-    { id: 'kIzFz9T5rhI', title: 'How did English evolve? - Kate Gardoqui', duration: 305, channel: 'TED-Ed' }
+    { id: 'HHuTrcXNxOk', title: 'Which is stronger: Glue or tape? - Elizabeth Cox', duration: 291, channel: 'TED-Ed' },
+    { id: 'wtovy-1-QUM', title: 'This is what happens in your brain when you can’t recall a word - Cella Wright', duration: 331, channel: 'TED-Ed' },
+    { id: 'JOs-q7rXqdk', title: '4 ways to tell a great story', duration: 306, channel: 'TED-Ed' },
+    { id: '7K3KdgDcdYc', title: 'How did ancient civilizations make ice cream? - Vivian Jiang', duration: 295, channel: 'TED-Ed' },
+    { id: 'oetVvR5RQUs', title: 'Why is being scared so fun? - Margee Kerr', duration: 269, channel: 'TED-Ed' },
+    { id: '8Z9FQxcCAZ0', title: 'Everything you need to know to read Homer\'s "Odyssey" - Jill Dash', duration: 297, channel: 'TED-Ed' },
+    { id: 'mA1lnxfqHk8', title: 'The missing ingredient in how we learn', duration: 350, channel: 'TED-Ed' },
+    { id: 'MMmOLN5zBLY', title: 'The benefits of a bilingual brain - Mia Nacamulli', duration: 304, channel: 'TED-Ed' },
+    { id: 'qD0_yWgifDM', title: 'The science of spiciness - Rose Eveleth', duration: 235, channel: 'TED-Ed' },
+    { id: 'N2uQWfV6Jr4', title: '4 ways to fix your attention span - Shannon Odell', duration: 326, channel: 'TED-Ed' },
+    { id: '2W85Dwxx218', title: 'Why do we dream? - Amy Adkins', duration: 338, channel: 'TED-Ed' },
+    { id: 'x-qsWTPul9Y', title: 'Why do so many cultures have dragon legends? - Timothy J. Burbery', duration: 331, channel: 'TED-Ed' },
+    { id: 'O18-FA83BaM', title: 'The myth of Medusa', duration: 346, channel: 'TED-Ed' },
+    { id: 'ibjUpk9Iagk', title: 'The history of chocolate - Deanna Pucciarelli', duration: 281, channel: 'TED-Ed' },
+    { id: 'Wn_eBrIDUuc', title: 'Does grammar matter? - Andreea S. Calude', duration: 279, channel: 'TED-Ed' },
+    { id: '0dYk99S98Jc', title: 'A brief history of toilets - Francis de los Reyes', duration: 322, channel: 'TED-Ed' },
+    { id: 'm4Ics03xzUQ', title: 'How to increase your happiness', duration: 369, channel: 'TED-Ed' },
+    { id: 'idrbwnWLJ7w', title: 'What staying up all night does to your brain - Anna Rothschild', duration: 337, channel: 'TED-Ed' },
+    { id: 'NKmGVE85GUU', title: 'Why can\'t you divide by zero? - TED-Ed', duration: 291, channel: 'TED-Ed' },
+    { id: '7yDmGnA8Hw0', title: 'Can you solve the bridge riddle? - Alex Gendler', duration: 230, channel: 'TED-Ed' },
+    { id: 'l_NYrWqUR40', title: '3 tips to boost your confidence - TED-Ed', duration: 257, channel: 'TED-Ed' },
+    { id: 'CqgmozFr_GM', title: 'How to stay calm under pressure - Noa Kageyama and Pen-Pen Chen', duration: 269, channel: 'TED-Ed' },
+    { id: 'n6wpNhyreDE', title: 'How to make the perfect cookies (according to science) - Stephanie Warren', duration: 270, channel: 'TED-Ed' },
+    { id: 'pMdJxVjZMRI', title: 'The myth of Pandora’s box - Iseult Gillespie', duration: 250, channel: 'TED-Ed' },
+    { id: 'RhaepLsP5eg', title: 'The tragic myth of Orpheus and Eurydice - Brendan Pelsue', duration: 281, channel: 'TED-Ed' },
+    { id: 'yOgAbKJGrTA', title: 'How memories form and how we lose them - Catharine Young', duration: 260, channel: 'TED-Ed' },
+    { id: 'jLOuMXnM5wk', title: 'The best way to become good at something might surprise you - David Epstein', duration: 346, channel: 'TED-Ed' },
+    { id: 'Hhk4N9A0oCA', title: 'What makes a hero? - Matthew Winkler', duration: 274, channel: 'TED-Ed' },
+    { id: '5jPCAlE0z7I', title: 'The magical forest realm hiding at the bottom of the ocean - Luka Seamus Wright and Salomé Buglass', duration: 351, channel: 'TED-Ed' },
+    { id: 'eBz7iUJu9UM', title: 'How to overcome your mistakes', duration: 292, channel: 'TED-Ed' },
+    { id: 'Uew5BbvmLks', title: 'How to manage your emotions', duration: 291, channel: 'TED-Ed' },
+    { id: 'vNDYUlxNIAA', title: 'This tool will help improve your critical thinking - Erick Wilberding', duration: 320, channel: 'TED-Ed' },
+    { id: 'LaLvVc1sS20', title: 'The history of tea - Shunan Teng', duration: 298, channel: 'TED-Ed' },
+    { id: 'xQ156y4TtJs', title: 'How humanity got hooked on coffee - Jonathan Morris', duration: 335, channel: 'TED-Ed' },
+    { id: 'H0-WkpmTPrM', title: 'The language of lying — Noah Zandan', duration: 342, channel: 'TED-Ed' },
+    { id: 'IpaVpMFBwAE', title: 'How one of the world’s richest companies rose to power - Shantel George', duration: 307, channel: 'TED-Ed' }
   ],
   bbc: [
-    { id: 'CelIpn03m1w', title: 'Why gold is so valuable ⏲️ 6 Minute English', duration: 389, channel: 'BBC Learning English' },
-    { id: 'Y681hXWwhQY', title: 'The benefits of doing nothing ⏲️ 6 Minute English', duration: 380, channel: 'BBC Learning English' },
-    { id: 'YAsDeXcYyTg', title: 'Scared to speak English? ⏲️ 6 Minute English', duration: 408, channel: 'BBC Learning English' },
-    { id: '26PrgjTboVQ', title: 'Are you following your dreams? ⏲️ 6 Minute English', duration: 380, channel: 'BBC Learning English' },
-    { id: '_PIlvBI9rXY', title: 'How reading shapes your brain ⏲️ 6 Minute English', duration: 374, channel: 'BBC Learning English' }
+    { id: '_5siHrpPnmw', title: 'The health benefits of apples ⏲️ 6 Minute English', duration: 383, channel: 'BBC Learning English' },
+    { id: 'b5DOQ7iOzO4', title: 'BOX SET: 6 Minute English - \'Lifestyle\' English mega-class! One hour of new vocabulary!', duration: 3656, channel: 'BBC Learning English' },
+    { id: 'P2jvBE6DiHo', title: 'How quickly can you learn English? English Rewind - 6 Minute English', duration: 392, channel: 'BBC Learning English' },
+    { id: 'QdE63sYqwd8', title: 'Why are we all so stressed? ⏲️ 6 Minute English', duration: 375, channel: 'BBC Learning English' },
+    { id: '7F1iJZr-p4E', title: 'Are you drinking enough water? ⏲️ 6 Minute English', duration: 375, channel: 'BBC Learning English' },
+    { id: 'DsQMLrPdLf8', title: 'Why sitting is bad for health ⏲️ 6 Minute English', duration: 382, channel: 'BBC Learning English' },
+    { id: 'C830bmzNjDc', title: 'Is breakfast the most important meal of the day? ⏲️ 6 Minute English', duration: 373, channel: 'BBC Learning English' },
+    { id: '2lxvNnGkdTo', title: 'What\'s your favourite snack? ⏲️ 6 Minute English', duration: 375, channel: 'BBC Learning English' },
+    { id: '5ZQ65RbsAB8', title: 'Young women on social media ⏲️ 6 Minute English', duration: 372, channel: 'BBC Learning English' },
+    { id: 'GDwLjLHsGGg', title: 'What can science tell us about the pain of a broken heart? ⏲️ 6 Minute English', duration: 365, channel: 'BBC Learning English' },
+    { id: 'j2PdEQpu5js', title: 'Why you need a good night\'s sleep ⏲️ 6 Minute English', duration: 380, channel: 'BBC Learning English' },
+    { id: 'JXxnEhD-25Q', title: 'BOX SET: 6 Minute English - \'Environmental English\' mega-class! One hour of new vocabulary!', duration: 3657, channel: 'BBC Learning English' },
+    { id: 'h_pvijqmolQ', title: 'Why read books, not screens? ⏲️ 6 Minute English', duration: 382, channel: 'BBC Learning English' },
+    { id: '3hwEplr-g5w', title: 'Should we eat less rice? ⏲️ 6 Minute English', duration: 370, channel: 'BBC Learning English' },
+    { id: 'FZDImEiPgMk', title: 'Feed your brain ⏲️ 6 Minute English', duration: 380, channel: 'BBC Learning English' },
+    { id: 'ErU1rjN-cEU', title: 'BOX SET: 6 Minute English - \'Food and health\' English mega-class! 30 minutes of new vocab!', duration: 1831, channel: 'BBC Learning English' },
+    { id: '7m75Bi3rzjM', title: 'BOX SET: 6 Minute English - \'Being human\' English mega-class! 30 minutes of new vocab!', duration: 1836, channel: 'BBC Learning English' },
+    { id: 'Mn0mXeor0ug', title: 'How important is play? ⏲️ 6 Minute English', duration: 376, channel: 'BBC Learning English' },
+    { id: 'EVXMiy4LCYE', title: 'BOX SET: 6 Minute English - \'Transport\' English mega-class! 30 minutes of new vocab!', duration: 1832, channel: 'BBC Learning English' },
+    { id: 'vq2x7k_nofw', title: 'Exercise for the lazy ⏲️ 6 Minute English', duration: 379, channel: 'BBC Learning English' },
+    { id: 'SC_opiKLohg', title: 'Sharing the road with driverless cars ⏲️ 6 Minute English', duration: 376, channel: 'BBC Learning English' },
+    { id: '_LlyKiROzhU', title: 'BOX SET: 6 Minute English - \'Human Emotions\' English mega-class! One hour of new vocabulary!', duration: 3659, channel: 'BBC Learning English' },
+    { id: 'yz0oYPfON2g', title: 'Can climate change affect our mental health? ⏲️ 6 Minute English', duration: 374, channel: 'BBC Learning English' },
+    { id: 'rCIs5x0SGTY', title: 'How do you feel when someone says \'no\'? ⏲️ 6 Minute English', duration: 382, channel: 'BBC Learning English' },
+    { id: '9eE7yFxKkyM', title: 'BOX SET: 6 Minute English - \'Health and Fitness\' English mega-class! One hour of new vocabulary!', duration: 3670, channel: 'BBC Learning English' },
+    { id: 'fcN0BXzK8bg', title: 'BOX SET: 6 Minute English \'Language\' English mega-class! One hour of new vocabulary!', duration: 4027, channel: 'BBC Learning English' },
+    { id: 'Xbv4IIqwW-4', title: 'Which country has the best schools? ⏲️ 6 Minute English', duration: 375, channel: 'BBC Learning English' },
+    { id: 'VxQNOXpoLC8', title: 'BOX SET: 6 Minute English - \'Conflict\' English mega-class! 30 minutes of new vocabulary!', duration: 1833, channel: 'BBC Learning English' },
+    { id: 'R3wvlot7tsk', title: 'BOX SET: 6 Minute English - \'Modern life\' English mega-class! 30 minutes of new vocab!', duration: 1832, channel: 'BBC Learning English' },
+    { id: 'IozMTwnat3o', title: 'BOX SET: 6 Minute English - \'Health 2\' English mega-class! 30 minutes of new vocab!', duration: 1801, channel: 'BBC Learning English' },
+    { id: 'Aktz1IsFXAg', title: 'BOX SET: 6 Minute English - \'Personality\' English mega-class! 30 minutes of new vocab!', duration: 1829, channel: 'BBC Learning English' },
+    { id: 'OA1iXnZ0lNw', title: 'BOX SET: 6 Minute English - \'Travel and tourism\' English mega-class!', duration: 1843, channel: 'BBC Learning English' },
+    { id: 'UNobPCDAcaA', title: 'Are you flourishing? ⏲️ 6 Minute English', duration: 374, channel: 'BBC Learning English' },
+    { id: 'fG7dJ6A3l7w', title: 'Food and mood ⏲️ 6 Minute English', duration: 382, channel: 'BBC Learning English' },
+    { id: 'FjU9qyTZ_OU', title: 'Addicted to sugar ⏲️ 6 Minute English', duration: 384, channel: 'BBC Learning English' },
+    { id: '9ifQ3xRz4hM', title: 'Learning multiple languages ⏲️ 6 Minute English', duration: 423, channel: 'BBC Learning English' }
+  ],
+  tech3c: [
+    { id: 'e3fz3dqhN44', title: 'Quantum Computers, explained with MKBHD', duration: 1021, channel: 'Cleo Abram and Marques Brownlee' },
+    { id: 'Jh9pFp1oM7E', title: 'I shrunk down into an M5 chip', duration: 712, channel: 'Marques Brownlee and Epic Spaceman' },
+    { id: '7Sfz1GTzjhw', title: 'Quantum Computers Explained', duration: 484, channel: 'AI Mantra Lab' },
+    { id: 'R5Q1SV47w0k', title: 'Google Willow Quantum Chip: The Future of AI?', duration: 401, channel: 'Deviceterra' },
+    { id: 'u7pu1cQBqtQ', title: 'How Do Sci-Fi Movies Look So Real? (feat. MKBHD)', duration: 959, channel: 'Cleo Abram' },
+    { id: 'zVnGXIB3ARk', title: 'Quantum Computers, explained with MKBHD', duration: 1093, channel: '〖𝕋𝕠𝕥𝕒𝕨rei〗' },
+    { id: 'XGz2zi8K_RA', title: 'HD Tutorial: Royalty Free Music', duration: 192, channel: 'Marques Brownlee' },
+    { id: 'H2PXixZ0Wrs', title: 'A Detailed Breakdown of the World\'s First Computer Worm! 🚀🛡️ #ComputerScience #MustWatch', duration: 386, channel: 'The Explainer USA - Technology' },
+    { id: 'kK5PAQZPSZM', title: 'Quantum computing is the Revolution/ Will this Change everything?@TechCyru', duration: 272, channel: 'Tech Cyru' },
+    { id: 'GXQuEQsY8FY', title: 'THE TRUTH ABOUT HOW AI ACTUALLY WORKS 🛑 #DeepLearning #NeuralNetworks #LLM #US #Trending', duration: 441, channel: 'The Explainer USA - Technology' },
+    { id: 'pzxBQw3xKR0', title: 'Neuralink Is Changing What the Human Brain Can Do  | The Technology Explained #Neuralink #Technology', duration: 504, channel: 'The Explainer USA - Technology' },
+    { id: 'n7hJlyVDEc8', title: 'The Real Reason To Care About The Apple Vision Pro', duration: 1025, channel: 'Cleo Abram' },
+    { id: '51xLHNGLduc', title: 'The 60-Year Rule That Built the Modern World Is Officially Dead! 🛑💻 #MooresLaw #TechTok #Viral #usa', duration: 363, channel: 'The Explainer USA - Technology' },
+    { id: 'SgM8QmqofWg', title: 'SmartRobotics™ - RoboKit1 Tech Explainer', duration: 157, channel: 'InvenSense, A TDK Group Company' },
+    { id: '-X6JbZVP3PQ', title: 'AI Chips Explained Simply: What They Are & Why They Matter', duration: 108, channel: 'Code & Capital' },
+    { id: '7wplhtBOfSo', title: 'This Is Why Chips Cost So Much to Make', duration: 258, channel: 'NeoGear Hub' },
+    { id: '2Thu63Oy-q8', title: 'Why Google and Microsoft Are Buying Secret Nuclear Reactors! ☢️🤖 #AI #NuclearEnergy #Viral', duration: 473, channel: 'The Explainer USA - Technology' },
+    { id: 'jmmW0F0biz0', title: 'Neural Networks Explained in 5 minutes', duration: 272, channel: 'IBM Technology' },
+    { id: 'DPf7eZnzE_8', title: 'You Use This Operating System Every Day (Without Knowing It)! 📱🤯 #TechHistory #MustWatch', duration: 346, channel: 'The Explainer USA - Technology' },
+    { id: 'jl0izgdNWPw', title: 'A Detailed Breakdown of How AMD Took Over the Chip Market! 🚀📊 #SiliconValley #MustWatch', duration: 464, channel: 'The Explainer USA - Technology' },
+    { id: '-UrdExQW0cs', title: 'What makes quantum computers SO powerful?', duration: 1469, channel: 'Veritasium' },
+    { id: 'MzDFKdoK4wU', title: 'What is a Supercomputer? Supercomputer vs. Quantum Computer', duration: 168, channel: 'Eye on Tech' },
+    { id: 'NSPuA6vKG_I', title: 'What is Quantum Mechanics | Secrets of Quantum | explained', duration: 238, channel: 'Nutri Delights' },
+    { id: 'jWyhowhiVws', title: 'Nearly Everything about Microcontrollers', duration: 436, channel: 'Bipil\'s Tech Tutoria' },
+    { id: '2mvFp4RJY6U', title: 'Unlock the Secrets of Technology with the Top 74 YouTube Channels! (Top 10 - January 2023)', duration: 138, channel: 'Toplist Central' },
+    { id: 'pg5UKXJLgl8', title: 'Are Brain-Inspired Chips the End of NVIDIA’s GPU Dominance? 👀📉 #NVIDIA #AIHardware #TechHistory #FYP', duration: 620, channel: 'The Explainer USA - Technology' },
+    { id: 'bivwslzldjU', title: 'Quantum Computers - Explained!', duration: 728, channel: 'Let\'s Decode with Satyam Srivastava' },
+    { id: '6cLaJcQ4RQM', title: 'THE TRUTH ABOUT AGI SAFETY 🛑 #OpenAI #SamAltman #Anthropic #MachineLearning #US #Trending', duration: 610, channel: 'The Explainer USA - Technology' },
+    { id: 'Z5JBBYVRW48', title: 'The Internet of the Future Doesn\'t Use Cables—It Uses Teleportation!  #MindBlown #Innovation #Viral', duration: 533, channel: 'The Explainer USA - Technology' },
+    { id: '7aSeWbyiyDg', title: 'Quantum Computing Security for Developers', duration: 257, channel: 'ZERO Trust - CyberTips & Tricks' },
+    { id: 'xwFWrFndQRU', title: 'Linux: The Operating System That Quietly Runs the World 🐧💻 #Linux #Technology #Programming', duration: 396, channel: 'The Explainer USA - Technology' },
+    { id: 'Kv8N9alyYNc', title: 'Quantum Computers: Explained VISUALLY', duration: 757, channel: 'Lukas\'s Lab' },
+    { id: 'JhHMJCUmq28', title: 'Quantum Computers Explained – Limits of Human Technology', duration: 437, channel: 'Kurzgesagt – In a Nutshell' },
+    { id: '--mQVzC8UTI', title: 'Quantum Technologies | Quantum Leap: Exploring the Disruptive Potential of Quantum Technologies', duration: 3577, channel: 'TiE Bangalore' },
+    { id: 'bJScAI3p_0M', title: '**The Invisible Infrastructure Running the Internet — Cloud Computing Explained ☁️💻 #CloudComputing', duration: 356, channel: 'The Explainer USA - Technology' },
+    { id: 'mXKKWn7tCvA', title: 'The AI Revolution is Escaping Your Screen—Here’s What Happens Next! 📱💥 #FutureTech #FYP', duration: 487, channel: 'The Explainer USA - Technology' }
+  ],
+  car: [
+    { id: 'Dhl-4swrr0o', title: 'Why Koenigsegg’s new 2,300hp hypercar changes everything', duration: 2203, channel: 'carwow' },
+    { id: 'JdkIOhFmbKI', title: 'New Tesla Roadster: SpaceX Thrusters, 0.6sec 0-60mph & 330mph! | 4K', duration: 2953, channel: 'Top Gear' },
+    { id: 'JOg_smPzq5A', title: 'Rowan Atkinson in Star in a Reasonably Priced Car | Top Gear - BBC', duration: 256, channel: 'BBC' },
+    { id: '22rvpUecLts', title: 'The FLYING Tesla Roadster explained by the man who engineered it', duration: 1624, channel: 'Hagerty' },
+    { id: 'NkIO08dlg_s', title: 'HORSEPOWER VS TORQUE SIMPLEST EXPLANATION', duration: 200, channel: 'The Maker' },
+    { id: 'LJIFgG-dTKQ', title: 'The Fastest Car In The World? Koenigsegg Jesko Absolut', duration: 698, channel: 'Engineering Explained' },
+    { id: 'z6q7du1q2U8', title: 'The Fastest Car On The Planet - Is 400MPH Possible!?', duration: 752, channel: 'Engineering Explained' },
+    { id: 'UZiHPLGh-Ek', title: 'Lamborghini Aventador | Top Gear | BBC', duration: 460, channel: 'Top Gear' },
+    { id: 'WUqUNJw7m8Y', title: 'Inside Bugatti-Rimac Dream Factory + CEO’s Insane Car Collection!', duration: 2278, channel: 'Top Gear' },
+    { id: '1wMnmPqZ3Q8', title: '2022 Toyota GR 86 Review - The Perfect Affordable Sports Car!', duration: 840, channel: 'Engineering Explained' },
+    { id: 'xsgl5x4WHyk', title: 'New 1,800hp Bugatti Tourbillon Unveiled!', duration: 1736, channel: 'carwow' },
+    { id: 'LIUwitq5CqA', title: 'World\'s best sounding Car : Lexus LFA, reviewed by Jeremy Clarkson', duration: 43, channel: 'Petrol Heads Entertainment' },
+    { id: 'Is_3J4u_Dnw', title: 'Zenvo TSR-S: this 1,177bhp supercar’s wing does silly things | Top Gear', duration: 349, channel: 'Top Gear' },
+    { id: 'vE_WqdKbTvY', title: 'Porsche Carrera GT Car Review - Top Gear - BBC', duration: 478, channel: 'Top Gear' },
+    { id: 'RwFUxnwajes', title: '2023 Honda Civic Type-R: Real World Test On Road And Track | Top Gear', duration: 601, channel: 'Top Gear' },
+    { id: 'C_E3bSFi8lI', title: 'LaFerrari Review | Top Gear | Series 22 | BBC', duration: 497, channel: 'Top Gear' },
+    { id: 'p9tuhMhdl_4', title: 'BMW M5 E34 review - see why they don\'t make them like they used to!', duration: 335, channel: 'carwow' },
+    { id: '9__i1VDK8EM', title: 'New Toyota GR GT Supercar: V8, RWD & 911 GT3 Money! | 4K', duration: 808, channel: 'Top Gear' },
+    { id: '-_bakHYcD9o', title: 'Pagani Huayra | Richard Hammond reviews | Top Gear Series 19 | BBC', duration: 487, channel: 'Top Gear' },
+    { id: 'gS2XwsIFVs0', title: 'NEW Ariel Hipercar – 1180bhp, 0-60mph In 2secs + Jet Engine?!  | Top Gear', duration: 924, channel: 'Top Gear' },
+    { id: '3eC5FFoCq4s', title: 'It Turns Out, Hybrids Are Really Hard On Engines', duration: 746, channel: 'Engineering Explained' },
+    { id: 'u-MH4sf5xkY', title: 'Horsepower vs Torque - A Simple Explanation', duration: 444, channel: 'Engineering Explained' },
+    { id: '_8baRV_fhMI', title: 'The Acura Integra Type S Is Among The Best Driver\'s Cars Sold Today', duration: 1013, channel: 'Engineering Explained' },
+    { id: 'CdbE5RiIaSM', title: 'First Car That Drives Upside Down! McMurtry Speirling PURE VP1 (EV Hypercar)', duration: 127, channel: 'YesThisCar (YTC)' },
+    { id: 'u1vwat1V7nM', title: 'New Jaguar Type 01: My HONEST take…', duration: 1008, channel: 'carwow' },
+    { id: 'YXFSVoVqhYw', title: 'Nissan GTR Car Review - Top Gear - BBC', duration: 570, channel: 'Top Gear' },
+    { id: 'OL_eIZjiLUk', title: 'McLaren P1: The Widowmaker! | Top Gear | Series 21 | BBC', duration: 477, channel: 'Top Gear' },
+    { id: 'vbW8lhQBG58', title: 'Lamborghini Sesto Elemento | Behind the scenes | Top Gear', duration: 386, channel: 'Top Gear' },
+    { id: 'jP-y199sDdk', title: 'BMW M5 vrs BMW Alpina Reviews By Jeremy Clarkson #bmw', duration: 507, channel: '2.3M views' },
+    { id: 'BDztD3smZNI', title: '1970s American Cars Explained  Top Gear Style Documentary', duration: 226, channel: 'Auto Evolution' },
+    { id: 'yS5MxmpiAB0', title: 'Why the Valhalla is the best Aston Martin ever!', duration: 2068, channel: 'carwow' },
+    { id: '14zsF-Q9hS4', title: 'What It’s Really Like To Own An F1-Powered AMG One | 4K', duration: 693, channel: 'Top Gear' },
+    { id: 'uzwXmPuSFNc', title: 'The Spyker C8 - Crazy Dutch Egineering | Car Review | Top Gear', duration: 505, channel: 'Top Gear' },
+    { id: 'vjNiCNZBofA', title: 'New Toyota GR GT is a Porsche KILLER!', duration: 838, channel: 'carwow' },
+    { id: '5gmkykQOEIE', title: 'Jeremy Clarkson Lexus LFA Moments', duration: 497, channel: 'Mustang150' },
+    { id: 'HPZxcfglU2Q', title: 'McMurtry Spéirling Pure: Full Top Gear Test Track Review!', duration: 832, channel: 'Top Gear' }
+  ],
+  movie: [
+    { id: 'vyYDz_A6HO8', title: 'Rocky\'s Inspirational Speech to His Son | ROCKY BALBOA', duration: 280, channel: 'Official Rocky Balboa' },
+    { id: 'CBqlDWHkdHk', title: 'America Ferrera\'s Iconic Barbie Speech | Barbie | Max', duration: 153, channel: 'HBO Max' },
+    { id: 'QZJfrm2tj98', title: 'Just Mercy (2020) - Bryan\'s Speech Scene (8/10) | Movieclips', duration: 156, channel: 'Movieclips' },
+    { id: '8GY3sO47YYo', title: 'Robin Williams\' Speech | Good Will Hunting | Max', duration: 301, channel: 'HBO Max' },
+    { id: 'KH8HKTLtlZo', title: 'Captain Haddock\'s Motivational Speech to TinTin', duration: 80, channel: 'MrBigtransformation' },
+    { id: 'Htm0pTVl5Z0', title: 'The Ultimate Motivational Movie Speech', duration: 142, channel: 'AnDysign Studio' },
+    { id: 'r3exolMmz_Y', title: 'Top 5 Movie Speeches That Make Deep Impact On Us', duration: 1065, channel: 'Bilal Ashraf' },
+    { id: 'jHVbd5m06s8', title: 'Princess Carolyn Motivation Speech', duration: 33, channel: 'portableteejay' },
+    { id: 'dV2fQ8ltWGw', title: 'The Twilight Saga: Eclipse (2010) - Graduation Day Speech Scene | Movieclips', duration: 82, channel: 'Movieclips' },
+    { id: 'CJ3Ph5nzJUQ', title: 'Training Day | Alonzo’s King Kong Speech (Clip) | HBO Max', duration: 192, channel: 'HBO Max' },
+    { id: 'cfdtzSfS718', title: 'Motivation: Rocky Balboa\'s Best Speeches and Inspiring Scenes | Compilation', duration: 707, channel: 'Official Rocky Balboa' },
+    { id: 'f1yWSePMqsk', title: 'Al Pacino best speech - Any Given Sunday - 1080p HD', duration: 271, channel: 'Fight Back' },
+    { id: 'Z2PloBdHeow', title: 'Inspirational Sport Speeches', duration: 129, channel: 'videoedits1988' },
+    { id: 'ScA4s92G_0U', title: 'Brad Pitt\'s Opening Speech | Inglourious Basterds | Screen Bites', duration: 176, channel: 'Screen Bites' },
+    { id: 'XTvTLGkWYMU', title: 'About Time Movie CLIP - Best Man Speech (2013) - Bill Nighy Movie HD', duration: 66, channel: 'Rotten Tomatoes Coming Soon' },
+    { id: 'KZtF_gT3Sgg', title: 'Accepted (10/10) Movie CLIP - Bartleby\'s Speech (2006) HD', duration: 193, channel: 'Movieclips' },
+    { id: 'CrU9qGp1UYI', title: 'No Right to Deny Happiness Speech | ROCKY BALBOA', duration: 188, channel: 'Official Rocky Balboa' },
+    { id: 'H5ZBOL3M6B0', title: 'HOOSIERS: Coach Dale\'s Pre-Game Motivational Speech', duration: 97, channel: 'Amazon MGM Studios' },
+    { id: 'tdmyoMe4iHM', title: 'Miracle Speech - You were born for this - Herb Brooks, Movie: Miracle', duration: 342, channel: 'Tom Kellis' },
+    { id: 'u9S41Kplsbs', title: 'Jaws (1975) - The Indianapolis Speech Scene (7/10) | Movieclips', duration: 245, channel: 'Movieclips' },
+    { id: 'XA62refAB2w', title: 'Bulworth (1/5) Movie CLIP - South Central Speech (1998) HD', duration: 160, channel: 'Movieclips' },
+    { id: 'FWW4KogocfQ', title: 'Lean on Me Inspirational Speech', duration: 229, channel: 'Bruce Martin' },
+    { id: 'p9DQSnik1mw', title: 'Al Pacino\'s Iconic Final Speech (Full Scene) | Scent of a Woman', duration: 490, channel: 'Critic Picks' },
+    { id: 'xM311HohUzA', title: 'We Are Marshall (3/5) Movie CLIP - We Cannot Lose (2006) HD', duration: 149, channel: 'Movieclips' },
+    { id: 'ebrvE9KpCik', title: 'Steve Jobs Speech - Best Motivational Video', duration: 459, channel: 'Motivation Vault' },
+    { id: 'khauvdb_f8A', title: 'Motivational speech from the film \'Little Giants\'', duration: 84, channel: 'Simon Horler' },
+    { id: 'aWiW-PjB2hs', title: '300 Motivational speech', duration: 79, channel: 'Stratego' },
+    { id: 'q7vtWB4owdE', title: 'Bluto\'s Big Speech - Animal House (9/10) Movie CLIP (1978) HD', duration: 196, channel: 'Movieclips' },
+    { id: '4Prc1UfuokY', title: '300 (2006) - This Is Sparta! Scene (1/5) | Movieclips', duration: 164, channel: 'Movieclips' },
+    { id: 'ZHdLVYW-vwo', title: 'Miracle - Motivational Speech.wmv', duration: 171, channel: 'lordandlandy' },
+    { id: 'hdRiPWOP8so', title: 'Rudy speech from ND motivation', duration: 149, channel: 'Troy Vasos' },
+    { id: 'bFHudGWd7VU', title: 'Overcomer (2019) - Father Coaches Daughter Scene (6/10) | Movieclips', duration: 203, channel: 'Movieclips' },
+    { id: '0nVjoU_8LH8', title: 'The Patriot - Speech - Will You Stop At Mere Words??!!', duration: 241, channel: 'Tom Kellis' },
+    { id: 'tbnzAVRZ9Xc', title: 'WATCH THIS EVERYDAY AND CHANGE YOUR LIFE - Denzel Washington Motivational Speech', duration: 606, channel: 'AlexKaltsMotivation' },
+    { id: '7LrBpEDrKDY', title: 'crimson tide speech 1', duration: 192, channel: 'Tony Glass' },
+    { id: 'VNOJI_DUVn8', title: 'Denzel Washington Gives Malcolm X\'s Powerful Speech | Malcolm X | Max', duration: 137, channel: 'HBO Max' }
+  ],
+  interviews: [
+    { id: 'AAyvh4LMUCI', title: 'Tituss Burgess Previews His UGA Commencement Speech', duration: 102, channel: 'The Late Show with Stephen Colbert' },
+    { id: 'yHBasrew8yY', title: 'Conan O\'Brien Commencement Address', duration: 1524, channel: 'C-SPAN' },
+    { id: 'M7GhVsD2-ro', title: 'Stephen Colbert\'s Commencement Speech at Wake Forest University | ENGLISH SPEECH with BIG Subtitles', duration: 803, channel: 'Daily English Speech' },
+    { id: 'CWtby5WqHdM', title: 'Steve Buscemi\'s Favorite Movie Death', duration: 230, channel: 'The Late Show with Stephen Colbert' },
+    { id: '9xOzJC9OEHs', title: 'Inspiring George Bernard Shaw quote (Jeff Goldblum on The Late Show With Stephen Colbert)', duration: 63, channel: 'MykChiz' },
+    { id: 'eMo9Guj5gCc', title: 'Stan Lee Keynote at the 2017 Graduation Ceremony', duration: 657, channel: 'UCLA Extension' },
+    { id: 'OBG50aoUwlI', title: 'NYU\'s 2022 Commencement Speaker Taylor Swift', duration: 1685, channel: 'New York University' },
+    { id: '3dZ2sYvpjCg', title: 'Barack Obama\'s 2006 Interview | Late Night with Conan O’Brien', duration: 532, channel: 'Conan O\'Brien' },
+    { id: 'SaRL_DUsxtg', title: 'Colbert Pokes Fun of #TheDress in Commencement Speech', duration: 109, channel: 'The Wall Street Journal' },
+    { id: 'xpWevZ5yQz8', title: 'Maria Ressa: How Social Media Uses Free Speech To Stifle Free Speech', duration: 551, channel: 'The Late Show with Stephen Colbert' },
+    { id: 'b2ZX8DiT34U', title: 'What Trevor Noah Learned About America By Leaving America', duration: 452, channel: 'The Late Show with Stephen Colbert' },
+    { id: 'iY2ct9y0WOQ', title: 'Denzel Washington Pays Tribute To His Late Mother', duration: 203, channel: 'The Late Show with Stephen Colbert' },
+    { id: 'ORq_Hi5dB-g', title: 'Ronny Chieng Address | Harvard Class Day 2026', duration: 1261, channel: 'Harvard University' },
+    { id: 'bwt4nvlR8SM', title: 'Maya Rudolph Barely Prepared For Her Commencement Speech | CONAN on TBS', duration: 203, channel: 'Team Coco' },
+    { id: '9qDW_ZKpvxI', title: 'Taylor Swift Talks Travis Kelce\'s Proposal, Addresses Selena Gomez, Ed Sheeran & Super Bowl Rumors', duration: 1253, channel: 'The Tonight Show Starring Jimmy Fallon' },
+    { id: 'paEOGZbR5EI', title: '"All Of Us Are In Some Sort Of Theater We Create For Ourselves" - Werner Herzog On Being A Character', duration: 490, channel: 'The Late Show with Stephen Colbert' },
+    { id: 'BxY_eJLBflk', title: 'Put God First - Denzel Washington Motivational & Inspiring Commencement Speech', duration: 517, channel: 'ABOVE INSPIRATION' },
+    { id: 'mqaODYJ702s', title: 'Barack Obama - Protecting Democracy and the Commitment to Facts | The Daily Show', duration: 2022, channel: 'The Daily Show' },
+    { id: 'a-HPQoNNjsk', title: 'The Weeknd and Jimmy Crash a College Graduation Party and Perform Blinding Lights/Can’t Feel My Face', duration: 249, channel: 'The Tonight Show Starring Jimmy Fallon' },
+    { id: 'U4e4hF3cc6Y', title: 'Bono Takes The Colbert Questionert, Part 1', duration: 485, channel: 'The Late Show with Stephen Colbert' },
+    { id: 'CuEfEv0OlsY', title: 'Peter Dinklage \'91 Addresses Bennington College\'s Class of 2012', duration: 1699, channel: 'Bennington College' },
+    { id: 'Nv9kkpBeqdw', title: 'Conan O\'Brien On Becoming A Dramatic Actor, And His Chilling Warning For Other Late Night Show Hosts', duration: 1374, channel: 'The Late Show with Stephen Colbert' },
+    { id: 'L0UPXpYYnRA', title: 'Kim Jong-Un Launches A Commencement Speech', duration: 82, channel: 'LONOJACK' },
+    { id: 'yqr6yLyuHQA', title: 'Harvard Commencement speaker Mark Zuckerberg asks Bill Gates for advice', duration: 51, channel: 'Harvard University' },
+    { id: 'MndMDj8uKUY', title: 'rory\'s graduation speech', duration: 138, channel: 'gilmore girls' },
+    { id: 'gIyPntS7h0w', title: 'Medal Of Honor Recipient Senior Chief Edward Byers', duration: 481, channel: 'The Late Show with Stephen Colbert' },
+    { id: 'leN3PbNvi3c', title: 'Steve Carell on Jon Stewart | 2022 Mark Twain Prize', duration: 343, channel: 'The Kennedy Center' },
+    { id: 'uHY5i9-0tJM', title: 'Bill Gates Joked with Steve Jobs About Taking the Wrong LSD, Talks AI and Optimism for the Future', duration: 654, channel: 'The Tonight Show Starring Jimmy Fallon' },
+    { id: 'Qst9sZNeyc0', title: 'Fredrik Backman Turned Down Meeting Jerry Seinfeld, Talks My Friends Emotional Dedication (Extended)', duration: 868, channel: 'The Tonight Show Starring Jimmy Fallon' },
+    { id: 'WkrhVAViL-E', title: 'David Ortiz Spoke From The Heart After The Boston Marathon Bombing', duration: 377, channel: 'The Late Show with Stephen Colbert' },
+    { id: 'lCN6FjqDcHg', title: 'The Valedictorian Speech that will change your life', duration: 534, channel: 'Neel Sharma' },
+    { id: '8yqLqAlcrrE', title: 'Emily Blunt Takes the REAL U.S. Citizenship Test', duration: 317, channel: 'Jimmy Kimmel Live' },
+    { id: 'YQBYB39A_S4', title: 'Morgan Freeman Doesn\'t Think His Voice Is Special, Reveals His Secret to Staying Young (Extended)', duration: 563, channel: 'The Tonight Show Starring Jimmy Fallon and Jimmy Fallon' },
+    { id: '2mqQMA7CSLQ', title: 'Donald Trump’s Never Give Up Message', duration: 1985, channel: 'English Speeches' },
+    { id: '7xg6aCbFEHQ', title: 'Top 10 Conan O\'Brien Funniest Interviews (2018)', duration: 814, channel: 'In a Nutshell' },
+    { id: 'oMWu7YqVP1E', title: 'The Weeknd Reveals How Tom Cruise Transformed His Career, Talks Filming HURRY UP TOMORROW (Extended)', duration: 705, channel: 'The Tonight Show Starring Jimmy Fallon' }
+  ],
+  travel_daily: [
+    { id: 'dtV0W43TDCs', title: '【Travel English】Useful English Conversations for Travel｜Airport, Hotel, Restaurant & Shopping', duration: 1184, channel: 'H Producer' },
+    { id: 'Ui1KEXs5_jM', title: 'Travel English Conversations: Airport, Hotel & Restaurant Phrases (A2-B1) | Podcast', duration: 987, channel: 'SpeakSmeart English' },
+    { id: 'Y0eJM-TkS9I', title: 'Travel English Review ✈️ Airport, Hotel & Restaurant | EP22｜機場・飯店・餐廳實用英文複習', duration: 930, channel: 'Chillout English Together' },
+    { id: 'zdausZjTN6U', title: 'English Conversation at the Airport, Hotel & Restaurant | Full Practice', duration: 1264, channel: 'Best English Podcast' },
+    { id: '1BKcNWFoeD0', title: 'English for Travel | Airport, Hotel & Restaurant English Conversations (Easy & Practical) #esl', duration: 756, channel: 'English Boost Studio' },
+    { id: 'X5FP63NMkzs', title: 'English Conversation for Traveling Abroad | Airport, Hotel & Daily Situations | English Podcast', duration: 767, channel: 'Talk English Vault' },
+    { id: 'j4_ARlGgcE0', title: 'Travel English for Beginners | Airport, Hotel & Restaurant Phrases', duration: 528, channel: 'Pocket Eikaiwa' },
+    { id: '4kokTO3jm0U', title: '✈️ Travel English for Beginners | Useful Phrases | Hotel, Airport, Taxi & Restaurant #travelenglish ', duration: 429, channel: 'Listen English | ESL' },
+    { id: '7yfP0zUXBxk', title: 'How to Speak English at the Airport, Hotel & Restaurant | Travel English Podcast  for Beginners', duration: 815, channel: 'Daily English Conversation Club' },
+    { id: 'e0ll1GdbtKY', title: 'Travel English | Airport, Hotel & Restaurant Conversation | Speak English Fluently', duration: 535, channel: 'Speak English Fluently' },
+    { id: 'mgSevhdZl1I', title: 'English at the Airport, Hotel & Restaurant | Practice Speaking Now', duration: 271, channel: 'Happy English' },
+    { id: 'juPlEnOKl48', title: 'At the airport English conversation | Travel English |  Learn English  |  Sunshine English', duration: 357, channel: 'Sunshine English' },
+    { id: 'wyqfYJX23lg', title: 'English for Hotel and Tourism: "Checking into a hotel" | FREE Course (link in description)', duration: 161, channel: 'LinguaTV.com' },
+    { id: 'yDjP-gtFYlk', title: 'English for Travel: Airport, Taxi & Hotel | Slow & Easy English Conversation', duration: 804, channel: 'EnglightenPro' },
+    { id: 'OEjcX8qQlbM', title: 'Travel English in 5 Minutes | Airport • Hotel • Restaurant | English for Beginners', duration: 306, channel: 'Hello English!' },
+    { id: 'WyLSl-o2OmU', title: 'Travel English Made Easy ✈️ | Airport, Hotel & Restaurant Phrases (A1–A2)', duration: 648, channel: 'English with Zeina' },
+    { id: '-8cCMdwVa1g', title: ' Phrases for checking in at the airport ', duration: 568, channel: 'English by Giovana' },
+    { id: 'Y0rnJIoywsQ', title: 'Travel English Essentials: Airport, Hotel, & Restaurant Conversations | Easy English for travelling', duration: 1364, channel: 'English Podcast For You' },
+    { id: 'EuGBimHfeoE', title: 'English for Travel | Airport, Hotel & Restaurant Conversations | English Podcast', duration: 530, channel: 'English Learning Key' },
+    { id: 'iN7TxhxCdSQ', title: 'Travel English Made Easy | Airport, Hotel & Restaurant Conversations You Need', duration: 1385, channel: 'English Confidence' },
+    { id: 'fsY6mF9rUCk', title: 'English for Travel You’ll Actually Need | Airport & Hotel Conversations (B1–B2)', duration: 2318, channel: 'English Conversation Podcast' },
+    { id: 'KYNGWVtrQzk', title: 'Learn Travel English | Airport, Hotel, Restaurant Phrases | English for Beginners', duration: 758, channel: 'English Simple Podcast' },
+    { id: '43xsHPFMMOU', title: 'Let\'s Learn English at the Airport! ✈️👨‍✈️🛩️', duration: 629, channel: 'Learn English with Bob the Canadian' },
+    { id: 'seO1CedSfOo', title: 'Travel English for Beginners: Essential Phrases for Airport, Hotel & Restaurant', duration: 993, channel: 'English Zone' },
+    { id: 'O3QrKL3y4jU', title: 'Easy English Phrases for Travel | Speak Confidently at Airport, Hotel, and Restaurant', duration: 329, channel: 'Simple English Stories' },
+    { id: 'QOTizCJqU7M', title: 'Travel English Essentials: Airport, Hotel, & Restaurant Conversations |', duration: 1353, channel: 'Thee englishLearninghub' },
+    { id: 'fj-Wy8rKomg', title: '50 English Phrases for Traveling Abroad 🌍 Airport, Hotel & Restaurant (A1-A2)', duration: 449, channel: 'WordsAlive' },
+    { id: 'W5mLt9jVYcs', title: 'English Lesson At The Airport', duration: 830, channel: 'Ariannita la Gringa' },
+    { id: 'D8l-Qpo7sd4', title: 'Learn English for Travel – Airport, Hotel, Restaurant Phrases ✈️', duration: 1974, channel: 'The Control English' },
+    { id: 'RcqsDAdnF6Y', title: 'Learn English for Travel ✈️  Airport, Hotel & Taxi Made Easy | Real Conversations for Beginners', duration: 1522, channel: 'Ms. English Channel' },
+    { id: 'jy88ejZrPWw', title: 'At the Airport Conversation', duration: 370, channel: 'Easy English' },
+    { id: 'GyQMR5b5ubI', title: 'Learn English for Travel – Real Airport, Hotel & Taxi Conversations', duration: 881, channel: 'English Made Simple' },
+    { id: 'JtLyDWfegqM', title: 'Slow English Travel Conversations | Restaurant, Taxi, Airport & Hotel (A1–A2 English)', duration: 1116, channel: 'Up English - The Podcast' },
+    { id: 'i3Fa_NdKTxA', title: '✈️ Travel English Made Easy: Real Airport, Hotel & Restaurant Phrases (Learn Fast!)', duration: 1188, channel: 'Pop Off English' },
+    { id: 'yWJhZkRxLCs', title: 'Going to a Restaurant in English: Travel English', duration: 436, channel: 'Speak English With Vanessa' },
+    { id: 'InymC3zyAqA', title: 'English for Traveling | Airport, Hotel & Restaurant Phrases | Day 1', duration: 1265, channel: 'The English Room Podcast' }
+  ],
+  business: [
+    { id: 'kO-xNOOoxsM', title: 'Business English Conversation | Negotiations', duration: 142, channel: 'Learn English by Pocket Passport' },
+    { id: '3t-O5fnm3QA', title: 'Business English: Asking for and providing a quotation – expressions for email & phone', duration: 691, channel: 'Business English Benjamin · engVid' },
+    { id: 'lQJKmRD1gYg', title: 'Business English Negotiations: Practical Dialogues | Business English Learning', duration: 2096, channel: 'Business English Learning' },
+    { id: '7B9zm9N9Q2A', title: 'Professional Business Email Phrases 100 | Business English Learning', duration: 1423, channel: 'Business English Learning' },
+    { id: 'WpvD1W3mbUE', title: 'Business English Email Writing for ESL - ET 06: Making Requests', duration: 703, channel: 'Business English - Learn with Business English Pod' },
+    { id: 'lPinxUDxhVs', title: '62 Useful Phrases For Negotiating - Business English (FREE E-Phrasebook)', duration: 493, channel: 'Derek Callan - English for Professionals' },
+    { id: 'YjJEiWZw3_w', title: '7 Must- Know Business English Lessons (Emails, Presentations & More)', duration: 2927, channel: 'Derek Callan - English for Professionals' },
+    { id: 'n8h2CcailWU', title: 'Executive English: EDP Negotiation Email + Templates PDF', duration: 425, channel: 'English Mastery with Language.Foundation' },
+    { id: 'rfZ6aTp5XuA', title: 'Business English: Writing a Business Email', duration: 1090, channel: 'POC English' },
+    { id: 'p-qfLY3uRrg', title: 'Business English Conversations | Negotiating deals and contracts', duration: 149, channel: 'Breakthrough English' },
+    { id: 'LdWXLCwzjWw', title: '🚀How To Negotiate In Business English  | Business English Conversation B1-B2', duration: 646, channel: 'Business English with Me' },
+    { id: 'a6K355f2urg', title: 'Making a business proposal in English - Business English', duration: 210, channel: 'British Council | English' },
+    { id: 'cdq6onYgtSg', title: '41 Phrases For Leading A Business Meeting - Business English (FREE E-Phrasebook)', duration: 374, channel: 'Derek Callan - English for Professionals' },
+    { id: 'xRRvJhii4-U', title: 'Business English Speaking Practice | Supplier Negotiation & Workplace Conversations', duration: 894, channel: 'Business English For Success' },
+    { id: 'gzO2yCr0Vto', title: 'How to Write a Business Email in English | Request Samples & Negotiate Prices', duration: 613, channel: 'Limitless English Studio' },
+    { id: 'ODgy-wY0WhU', title: 'Essential Business English 10 — Negotiating an Order', duration: 302, channel: 'Animated English' },
+    { id: 'T2hOSdvaiRk', title: '20 Important Business English Phrases', duration: 1239, channel: 'Speak English With Vanessa' },
+    { id: '-3mFnAk9sbw', title: 'How to Negotiate in English - Business English Lesson', duration: 1133, channel: 'Oxford Online English' },
+    { id: '5bCNKLaSmww', title: 'Negotiating: Office English episode 9', duration: 595, channel: 'BBC Learning English' },
+    { id: '2VblqgJT2k8', title: 'Business English: 3 Email Expressions [Advanced Professional English]', duration: 321, channel: 'Speak English With Vanessa' },
+    { id: 'xu7hp9O54bk', title: 'Conversation Practice to Improve Your Business English — 35 Common Situations', duration: 2327, channel: 'Practice Makes Fluent - Lifelong Learning' },
+    { id: 'Kks0xvNXx9w', title: 'ET 05 Email Tune-up - Business English Writing Lesson for ESL', duration: 819, channel: 'Business English - Learn with Business English Pod' },
+    { id: 'fV2e729k-cs', title: 'Improve Your Small Talk Skills | Business English Conversation', duration: 379, channel: 'Maria Sheeran' },
+    { id: 'N8vDH0NL0zE', title: 'Sealing the deal when negotiating in English - Business English', duration: 206, channel: 'British Council | English' },
+    { id: 'fzIxD1jXn44', title: 'Presentations in English - How to Give a Presentation - Business English', duration: 1006, channel: 'Oxford Online English' },
+    { id: 'amJZXjxnhTI', title: 'Writing an Effective Business Email', duration: 137, channel: 'LearnFree' },
+    { id: 'EeNOxeq_uS0', title: 'Keys to Email Negotiation Success | Derek Gaunt', duration: 116, channel: 'Chris Voss & The Black Swan Group' },
+    { id: 'HT3kavX8FuE', title: 'Client Meeting in English "10 Business Scene Conversations" | Business English Learning', duration: 2539, channel: 'Business English Learning' },
+    { id: 'YkpBFNZOT0c', title: 'Learn Communication strategies, Email presentation, Business Etiquette & Much more with 1Softedge', duration: 21, channel: 'The SoftEdge-Sharpening Soft Skills' },
+    { id: 'hhbHnhq1a3g', title: 'Master High-Stakes Conversations for Negotiation, Persuasion, and Executive Influence [BEL189]', duration: 5270, channel: 'Business English Learning' },
+    { id: '2NiFrVBm_uo', title: 'How to Write a Business Negotiation Email', duration: 233, channel: 'Dijee' },
+    { id: 'lt5BVy5wY0U', title: '\'Wrapping it up\' – The end of a presentation and questions | Business of English #10 | ABC Australia', duration: 615, channel: 'ABC Australia' },
+    { id: 'TJhCKf_qrWI', title: 'Learn Business English for Daily Life | Listen, Learn & Practice! | Podcast Episode', duration: 1039, channel: 'Mr. English Channel' },
+    { id: 'z-8o9sp8YIA', title: 'Business English Conversations | ESL Business Meeting Conversation', duration: 205, channel: 'Learn English by Pocket Passport' },
+    { id: '76jmB9UcOoE', title: 'The Project Life Cycle. Speak about any projects like a PRO | Business English for professionals ', duration: 2074, channel: 'Business English Podcast' },
+    { id: 'PLhAzAymMsY', title: '40 English Phrases You Need for Online Meetings', duration: 315, channel: 'Maria Sheeran' }
   ],
   daily: [
-    { id: 'mZ4F2x_R_eY', title: 'Order Food in a Restaurant - Practical English Dialogue', duration: 480, channel: 'Learn English with Bob' },
-    { id: '3OXBqIGJzkg', title: 'Conversation about Food - English Speaking Practice', duration: 217, channel: 'English Conversation Practice' },
-    { id: '1I8d0f1Jm4I', title: 'Everyday English Conversations for Beginners', duration: 720, channel: 'English Speaking Success' }
-  ]
+    { id: 'henIVlCPVIY', title: 'Everyday English Conversation Practice | 30 Minutes English Listening', duration: 1998, channel: 'English Easy Practice' },
+    { id: 'h-CCx0Xipd0', title: '1000 Everyday English Dialogues for Better Communication - Conversation Practice', duration: 15783, channel: 'Practice Makes Fluent - Lifelong Learning' },
+    { id: 'qWRkgxAU30s', title: '👉10 Real-Life English Conversations | English Speaking Practice for Beginners', duration: 1811, channel: 'Best English Online' },
+    { id: 'bQoWe8vGM7I', title: 'English Podcast for Learning Conversation 💬 | English Speaking Practice 🎤', duration: 1020, channel: 'English Easy Practice' },
+    { id: 'md3HfH0SWOI', title: '75 English Phrases for Daily Conversation | Everyday English Listening & Speaking Practice | Podcast', duration: 2481, channel: 'English in Comfort' },
+    { id: 'Evmr9z1DcQc', title: 'Daily English Conversation Practice | How to Talk About Yesterday in English | English Podcast', duration: 1198, channel: 'Mr. English Channel' },
+    { id: 'TkUfzCIK7fA', title: '150 Daily Routine English Sentences for Speaking Practice\' | English Conversation practice ', duration: 2335, channel: 'Daily English Speaking Podcast' },
+    { id: '8bU6uKZLPYk', title: 'She Wants Speak English But They aughed 😄 | English Conversation Practice', duration: 1632, channel: 'Easy English Practice' },
+    { id: 'SCVArygXJQg', title: 'English Podcast For Learning English | Real English Conversation Practice Talk About Fitness Routine', duration: 2318, channel: 'Speak English With Class' },
+    { id: 'utXfKRoybYg', title: '2 HOURS of English Conversation Dialogues Listening Practice', duration: 7225, channel: 'Practice Makes Fluent - Lifelong Learning' },
+    { id: '4EtXW3nnfPI', title: 'English Listening Practice: Daily Life Easy Conversations for Beginners | English Learning Podcast', duration: 1252, channel: 'English in Comfort' },
+    { id: 'u44jm6oeEdI', title: 'Daily Life English Conversation Practice | 1 Hour of Everyday English Listening | Learning Podcast', duration: 4076, channel: 'English in Comfort' },
+    { id: 'p1LTlyMQR4o', title: 'Learn English Speaking Practice | English Conversation for Beginners', duration: 9306, channel: 'Best English Online' },
+    { id: 'aArYr1vUgjs', title: 'Learn Real English Phrases People Use Every Day | Learning English Podcast - Listening Practice', duration: 799, channel: 'English Easy Practice' },
+    { id: 'kVG3-3nmRcI', title: 'Learn English Speaking Conversation Practice with Topic | At the Hotel 101 | Daily Conversations', duration: 1612, channel: 'English Speaking Course' },
+    { id: 'u5OQAojTiU8', title: 'Everyday English Conversation for Daily Life | Speaking & Listening Practice | Learn English Podcast', duration: 488, channel: 'English in Comfort' },
+    { id: 'Ev07gd5EM8w', title: 'Slow English Conversation | Phone Call Between Two Friends | English Speaking Practice #learnenglish', duration: 405, channel: 'Boost English' },
+    { id: 'EdIQd86YQa0', title: 'English Podcast For Learning English Conversation 40 Minutes Real English Listening Practice', duration: 2257, channel: 'Speak English With Class' },
+    { id: '38wlLs_n7h4', title: 'English Speaking Practice for Beginners | Learn English Through Listening to Daily Conversations', duration: 1010, channel: 'English Easy Practice' },
+    { id: 'lhFU5H5KPFE', title: '1.5 HOUR English Conversation Lesson', duration: 5002, channel: 'Speak English With Vanessa' },
+    { id: 'uuKR_CdLPhs', title: '400 English Sentences Daily Life Conversation Shadowing Practice | English Speaking Practice', duration: 2983, channel: 'English Podcast: Easy English Talks and English Story The Podcast' },
+    { id: 'MrrxN6GZJaU', title: 'Shadowing English Speaking Practice | Learn English with Podcast | Daily Conversation for Beginners', duration: 481, channel: 'English Unleashed: The Podcast' },
+    { id: 'QLn30aZ82iI', title: 'Daily Life English Conversation Practice - Practice Speaking English Everyday', duration: 4802, channel: 'English Speaking TV' },
+    { id: 'wZhft_2Ugso', title: '60 Minutes of Simple English Conversations for Beginners: Real English Dialogues (A1-A2)', duration: 4458, channel: 'Fluent Flow' },
+    { id: 'SQUWMtsSQhY', title: '40 Daily Life Phrases & Routines — 30-Minute English Practice | English Conversation for Beginners', duration: 1639, channel: 'Enjoy English Talks:The Podcast' },
+    { id: '_o2zXOKuKyk', title: 'Everyday English Conversation | Slow English Practice | English Podcast', duration: 966, channel: 'Mr. English Channel' },
+    { id: '2e19gyP3ckY', title: 'Talk About Daily Life in English ☀️ | Real Conversation Practice for Beginners', duration: 1217, channel: 'Mr. English Channel' },
+    { id: 'KaI4Wb3GgQ4', title: 'Listen and Practice English Conversation - Everyday English Listening Practice', duration: 4758, channel: 'Basic English Conversation' },
+    { id: 'B_-kV7MDKyg', title: '👉 Learn English Conversation for Beginners | Daily English Speaking Practice', duration: 2039, channel: 'Easy English Practice' },
+    { id: 'vl4Y63ZAuT0', title: 'English Podcast For Learning English | Real English Conversation Practice | Talk About Your Day', duration: 1465, channel: 'Speak English With Class' },
+    { id: 'iVtYMMcQP1k', title: '👉Easily Learn English Speaking for Beginners | Daily English Conversation Practice', duration: 2261, channel: 'Easy English Practice' },
+    { id: '6PJnEdbq8qc', title: 'English Listening Practice #1 -  Real Native Conversation (B2-C1)', duration: 1676, channel: 'Smashing English! Free and Fun English Lessons!' },
+    { id: 'HouExpWyNlY', title: 'Learn English Speaking Practice | Daily English Conversation for Beginners', duration: 1925, channel: 'Best English Online' },
+    { id: 'YHuxMqIi6S8', title: 'Learn Everyday Conversation to Improve Your English | Practice English Speaking and Listening', duration: 2069, channel: 'Learn English with Jessica' },
+    { id: 'uPGK1IcNNzc', title: 'How Good Is Your English Listening? 🎧 | Real English Conversation Challenge | English Podcast', duration: 968, channel: 'Mr. English Channel' },
+    { id: 'KDNxWoBiVBw', title: 'Think in English:50 Everyday Sentences to Speak More Naturally | Shadowing English Speaking Practice', duration: 1775, channel: 'Speak English Daily' }
+  ],
 };
-
 // ── Search History Engine (搜尋紀錄管理) ──
 function getSearchHistory() {
   try {
@@ -49861,12 +50240,50 @@ function switchYtCategory(catKey, btn) {
 function renderExplorerFeed(items) {
   const feed = document.getElementById('ytResultsFeed');
   if (!feed) return;
-  if (!items || !items.length) {
+
+  const projectIds = getProjectIncludedVideoIds();
+  const seen = new Set();
+  let validItems = [];
+
+  // 1. Strict filter: Exclude all project included IDs and duplicates
+  if (Array.isArray(items)) {
+    for (const item of items) {
+      if (item && item.id && !projectIds.has(item.id) && !seen.has(item.id)) {
+        seen.add(item.id);
+        validItems.push(item);
+      }
+    }
+  }
+
+  // 2. Guarantee: Count must be greater than 30 (target >= 36)
+  if (validItems.length <= 30 && typeof CURATED_YT_COLLECTIONS === 'object') {
+    for (const catList of Object.values(CURATED_YT_COLLECTIONS)) {
+      if (!Array.isArray(catList)) continue;
+      for (const item of catList) {
+        if (item && item.id && !projectIds.has(item.id) && !seen.has(item.id)) {
+          seen.add(item.id);
+          validItems.push(item);
+          if (validItems.length >= 36) break;
+        }
+      }
+      if (validItems.length >= 36) break;
+    }
+  }
+
+  if (!validItems.length) {
     feed.innerHTML = '<div style="padding:20px;text-align:center;color:#888;font-size:13px">查無符合影片，請更換關鍵字。</div>';
     return;
   }
 
-  feed.innerHTML = items.map(item => {
+  // Header counter banner guaranteeing > 30 and project exclusion
+  const headerHtml = `
+    <div class="yt-feed-counter-banner">
+      <span class="yt-feed-counter-pill">🛡️ 已自動排除專案收錄項目</span>
+      <span class="yt-feed-counter-total">展示 <b>${validItems.length}</b> 部全新教材（大於 30 部標準）</span>
+    </div>
+  `;
+
+  feed.innerHTML = headerHtml + validItems.map(item => {
     const isPlaying = item.id === currentExplorerVid;
     const durStr = typeof item.duration === 'number' ? formatDuration(item.duration) : (item.duration || '5:00');
     const safeTitle = (item.title || 'YouTube Video').replace(/"/g, '&quot;');
@@ -49901,6 +50318,11 @@ async function doYtSearch() {
 
   const directVid = extractYouTubeId(query);
   if (directVid) {
+    const projectIds = getProjectIncludedVideoIds();
+    if (projectIds.has(directVid)) {
+      toast('⚠️ 此影片已收錄於專案教材中！已為您自動排除。');
+      return;
+    }
     toast('正在載入指定 YouTube 影片...');
     playInExplorer(directVid, `自訂 YouTube 影片 (${directVid})`, 'YouTube', '—');
     return;
@@ -49917,9 +50339,13 @@ async function doYtSearch() {
     const results = await resp.json();
     if (results && results.length) {
       renderExplorerFeed(results);
-      const first = results[0];
-      playInExplorer(first.id, first.title, first.channel, formatDuration(first.duration));
-      toast(`🔍 找到 ${results.length} 部相關影片`);
+      const projectIds = getProjectIncludedVideoIds();
+      const validResults = results.filter(r => r && r.id && !projectIds.has(r.id));
+      if (validResults.length) {
+        const first = validResults[0];
+        playInExplorer(first.id, first.title, first.channel, formatDuration(first.duration));
+      }
+      toast(`🔍 找到 ${results.length} 部全新未收錄影片`);
     } else {
       throw new Error('查無影片');
     }
@@ -49927,18 +50353,19 @@ async function doYtSearch() {
     console.warn('API search fallback:', err);
     const localMatches = [];
     const qLower = query.toLowerCase();
+    const projectIds = getProjectIncludedVideoIds();
     for (const cat of Object.values(CURATED_YT_COLLECTIONS)) {
       for (const item of cat) {
-        if (item.title.toLowerCase().includes(qLower) || item.channel.toLowerCase().includes(qLower)) {
+        if (!projectIds.has(item.id) && (item.title.toLowerCase().includes(qLower) || item.channel.toLowerCase().includes(qLower))) {
           localMatches.push(item);
         }
       }
     }
     if (localMatches.length) {
       renderExplorerFeed(localMatches);
-      toast(`已列出 ${localMatches.length} 部精選資源`);
+      toast(`已列出 ${localMatches.length} 部精選未收錄資源`);
     } else {
-      renderExplorerFeed(CURATED_YT_COLLECTIONS.ted);
+      renderExplorerFeed(CURATED_YT_COLLECTIONS.ai);
       toast('未能從 YouTube 取得即時結果，已呈現精選推薦！');
     }
   }

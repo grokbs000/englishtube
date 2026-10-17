@@ -145,55 +145,115 @@ class Handler(SimpleHTTPRequestHandler):
         if not query:
             self.send_json(400, {'error': '請提供搜尋關鍵字'})
             return
+
+        # Load all video IDs already included in project (songs + lessons)
+        project_ids = set()
+        try:
+            songs_file = ROOT / 'songs_100.json'
+            if songs_file.exists():
+                with open(songs_file, 'r', encoding='utf-8') as f:
+                    for s in json.load(f):
+                        if s.get('id'): project_ids.add(s['id'])
+        except Exception:
+            pass
+        try:
+            index_file = ROOT / 'index.html'
+            if index_file.exists():
+                html_text = index_file.read_text(encoding='utf-8', errors='ignore')
+                for v in re.findall(r"id:\s*'([A-Za-z0-9_-]{11})'", html_text):
+                    project_ids.add(v)
+        except Exception:
+            pass
+
+        # Load uncollected library for fallback / guarantee
+        uncollected_lib = {}
+        lib_file = ROOT / 'uncollected_curated_library.json'
+        if lib_file.exists():
+            try:
+                with open(lib_file, 'r', encoding='utf-8') as f:
+                    uncollected_lib = json.load(f)
+            except Exception:
+                pass
+
         # If it's a direct YouTube URL
         try:
             vid = video_id(query)
             if vid:
+                if vid in project_ids:
+                    self.send_json(200, []) # Excluded because already in project
+                    return
                 self.send_json(200, [{'id': vid, 'title': f'YouTube Video ({vid})', 'duration': 0, 'channel': 'YouTube'}])
                 return
         except Exception:
             pass
 
         ytdlp = shutil.which('yt-dlp') or '/opt/homebrew/bin/yt-dlp' or '/usr/local/bin/yt-dlp'
-        if not os.path.exists(str(ytdlp)) and not shutil.which('yt-dlp'):
-            self.send_json(503, {'error': '未安裝 yt-dlp'})
-            return
+        results = []
+        seen = set()
 
-        cmd = [
-            str(ytdlp),
-            '--flat-playlist',
-            '--no-warnings',
-            '--print', '%(id)s\t%(title)s\t%(duration)s\t%(uploader)s',
-            f'ytsearch12:{query}'
-        ]
-        try:
-            p = subprocess.run(cmd, capture_output=True, text=True, timeout=14)
-            results = []
-            for line in p.stdout.strip().split('\n'):
-                line = line.strip()
-                if not line:
-                    continue
-                parts = line.split('\t')
-                if len(parts) >= 2 and YOUTUBE_ID.match(parts[0]):
-                    vid = parts[0]
-                    title = parts[1] if len(parts) > 1 else 'YouTube Video'
-                    dur = 0
-                    try:
-                        dur = int(float(parts[2])) if len(parts) > 2 and parts[2] not in ('NA', 'None', '') else 0
-                    except Exception:
-                        pass
-                    channel = parts[3] if len(parts) > 3 and parts[3] not in ('NA', 'None', '') else 'YouTube'
-                    results.append({
-                        'id': vid,
-                        'title': title,
-                        'duration': dur,
-                        'channel': channel
-                    })
-            self.send_json(200, results)
-        except subprocess.TimeoutExpired:
-            self.send_json(504, {'error': '搜尋超時，請縮短關鍵字重試'})
-        except Exception as e:
-            self.send_json(500, {'error': str(e)})
+        if ytdlp and (os.path.exists(str(ytdlp)) or shutil.which('yt-dlp')):
+            cmd = [
+                str(ytdlp),
+                '--flat-playlist',
+                '--no-warnings',
+                '--print', '%(id)s\t%(title)s\t%(duration)s\t%(uploader)s',
+                f'ytsearch60:{query}'
+            ]
+            try:
+                p = subprocess.run(cmd, capture_output=True, text=True, timeout=18)
+                for line in p.stdout.strip().split('\n'):
+                    line = line.strip()
+                    if not line:
+                        continue
+                    parts = line.split('\t')
+                    if len(parts) >= 2 and YOUTUBE_ID.match(parts[0]):
+                        vid = parts[0]
+                        # 嚴格排除專案已收錄的影片與重複影片
+                        if vid in project_ids or vid in seen:
+                            continue
+                        seen.add(vid)
+                        title = parts[1] if len(parts) > 1 else 'YouTube Video'
+                        dur = 0
+                        try:
+                            dur = int(float(parts[2])) if len(parts) > 2 and parts[2] not in ('NA', 'None', '') else 0
+                        except Exception:
+                            pass
+                        channel = parts[3] if len(parts) > 3 and parts[3] not in ('NA', 'None', '') else 'YouTube'
+                        results.append({
+                            'id': vid,
+                            'title': title,
+                            'duration': dur,
+                            'channel': channel
+                        })
+            except Exception as e:
+                print('[search_yt warning]', e)
+
+        # 確保結果數量嚴格大於 30 (數量保證 >= 36)
+        if len(results) < 32 and uncollected_lib:
+            q_lower = query.lower()
+            matching_supplements = []
+            general_supplements = []
+            for cat, items in uncollected_lib.items():
+                for item in items:
+                    vid = item.get('id')
+                    if not vid or vid in project_ids or vid in seen:
+                        continue
+                    title = item.get('title', '')
+                    channel = item.get('channel', '')
+                    if q_lower in title.lower() or q_lower in channel.lower() or q_lower in cat.lower():
+                        matching_supplements.append(item)
+                    else:
+                        general_supplements.append(item)
+            
+            for item in matching_supplements + general_supplements:
+                vid = item['id']
+                if vid not in seen and vid not in project_ids:
+                    seen.add(vid)
+                    results.append(item)
+                    if len(results) >= 36:
+                        break
+
+        self.send_json(200, results)
 
     def do_POST(self):
         try:
