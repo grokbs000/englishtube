@@ -51168,13 +51168,18 @@ function createYTPlayer(videoId) {
         iv_load_policy: 3,
         modestbranding: 1,
         enablejsapi: 1,
-        cc_load_policy: 1,
-        cc_lang_pref: 'en',
+        cc_load_policy: 0,
         origin: location.protocol.startsWith('http') ? window.location.origin : undefined
       },
       events: {
         onReady: function(event) {
           event.target.playVideo();
+          try {
+            event.target.unloadModule('captions');
+            if (typeof event.target.setOption === 'function') {
+              event.target.setOption('captions', 'track', {});
+            }
+          } catch(e) {}
           if (currentPlaybackRate && currentPlaybackRate !== 1.0) {
             try { event.target.setPlaybackRate(currentPlaybackRate); } catch(e){}
           }
@@ -51183,6 +51188,12 @@ function createYTPlayer(videoId) {
         },
         onStateChange: function(event) {
           if (event.data === 1) { // PLAYING
+            try {
+              event.target.unloadModule('captions');
+              if (typeof event.target.setOption === 'function') {
+                event.target.setOption('captions', 'track', {});
+              }
+            } catch(e) {}
             isPlaying = true;
             if (currentPlaybackRate && currentPlaybackRate !== 1.0) {
               try { event.target.setPlaybackRate(currentPlaybackRate); } catch(e){}
