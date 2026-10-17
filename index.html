@@ -1624,6 +1624,34 @@ html[data-theme='dark'] .yt-feed-counter-total b,
 .yt-results-feed::-webkit-scrollbar-thumb:hover {
   background: #6d5dfc;
 }
+.yt-feed-loading-more {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  padding: 14px 16px;
+  background: rgba(109, 93, 252, 0.08);
+  border: 1px dashed rgba(109, 93, 252, 0.3);
+  border-radius: 12px;
+  color: var(--purple, #6d5dfc);
+  font-size: 13px;
+  font-weight: 500;
+  margin: 6px 0 10px;
+}
+html[data-theme='dark'] .yt-feed-loading-more {
+  background: rgba(139, 124, 255, 0.12);
+  border-color: rgba(139, 124, 255, 0.35);
+  color: #c4b5fd;
+}
+.yt-feed-end-notice {
+  text-align: center;
+  padding: 14px;
+  color: #94a3b8;
+  font-size: 12.5px;
+  font-weight: 500;
+  border-top: 1px solid rgba(148, 163, 184, 0.2);
+  margin-top: 4px;
+}
 
 .yt-card-row {
   display: flex;
@@ -50601,27 +50629,169 @@ function copyCurrentExplorerUrl() {
   });
 }
 
+let explorerCurrentQuery = '';
+let explorerNextStart = 31;
+let isExplorerLoadingMore = false;
+let explorerHasMore = true;
+const explorerLoadedVideoIds = new Set();
+
+function createExplorerCardHtml(item) {
+  const isPlaying = item.id === currentExplorerVid;
+  const durStr = typeof item.duration === 'number' ? formatDuration(item.duration) : (item.duration || '5:00');
+  const safeTitle = (item.title || 'YouTube Video').replace(/"/g, '&quot;');
+  const safeChannel = (item.channel || 'YouTube').replace(/"/g, '&quot;');
+  const isImported = (typeof videos !== 'undefined' && videos.some(v => v.id === item.id)) ||
+                     (typeof customLessons !== 'undefined' && customLessons.some(c => c.id === item.id));
+  return `
+    <div class="yt-card-row ${isPlaying ? 'playing' : ''}" data-vid="${item.id}" onclick="playInExplorer('${item.id}', '${safeTitle.replace(/'/g, "\\'")}', '${safeChannel.replace(/'/g, "\\'")}', '${durStr}')">
+      <div class="yt-thumb-box">
+        <img src="https://img.youtube.com/vi/${item.id}/mqdefault.jpg" alt="${safeTitle}" loading="lazy" onerror="this.src='icon-192.png'" />
+        <span class="yt-thumb-dur">${durStr}</span>
+      </div>
+      <div class="yt-card-info">
+        <div class="yt-card-title">${safeTitle}</div>
+        <div class="yt-card-author">📺 ${safeChannel}</div>
+      </div>
+      <button class="yt-quick-import-btn ${isImported ? 'imported' : ''}" onclick="event.stopPropagation();${isImported ? `closeYtExplorerModal();openVideo('${item.id}')` : `importExplorerVideoDirect('${item.id}', '${safeTitle.replace(/'/g, "\\'")}', this)`}" title="${isImported ? '已收錄，點擊直接開啟學習' : '一鍵收錄為教材'}">
+        ${isImported ? '✓ 已收錄' : '＋ 收錄'}
+      </button>
+    </div>
+  `;
+}
+
+function attachExplorerInfiniteScroll() {
+  const feed = document.getElementById('ytResultsFeed');
+  if (!feed || feed.dataset.infiniteBound === 'true') return;
+  feed.dataset.infiniteBound = 'true';
+
+  feed.addEventListener('scroll', () => {
+    if (isExplorerLoadingMore || !explorerHasMore) return;
+    // 當距離底部小於 160px 時，自動觸發連續擴展載入下一批
+    if (feed.scrollTop + feed.clientHeight >= feed.scrollHeight - 160) {
+      loadMoreExplorerResults();
+    }
+  }, { passive: true });
+}
+
+async function loadMoreExplorerResults() {
+  if (isExplorerLoadingMore || !explorerHasMore) return;
+  const feed = document.getElementById('ytResultsFeed');
+  if (!feed) return;
+
+  isExplorerLoadingMore = true;
+
+  // 底部呈現精美旋轉微動畫提示
+  let loader = document.getElementById('ytFeedLoadingMore');
+  if (!loader) {
+    feed.insertAdjacentHTML('beforeend', `
+      <div class="yt-feed-loading-more" id="ytFeedLoadingMore">
+        <span style="display:inline-block;animation:vtSpin 0.8s linear infinite;margin-right:6px">⏳</span>
+        <span>正在連續自動擴展更多 YouTube 搜尋結果…</span>
+      </div>
+    `);
+    loader = document.getElementById('ytFeedLoadingMore');
+  }
+
+  const projectIds = getProjectIncludedVideoIds();
+  const newItems = [];
+
+  try {
+    let q = explorerCurrentQuery;
+    if (!q) {
+      const activeChip = document.querySelector('.yt-category-chips .yt-chip.active');
+      if (activeChip) {
+        q = activeChip.textContent.replace(/^[^\w\u4e00-\u9fa5]+/, '').trim();
+      }
+    }
+    if (!q) q = 'English Listening';
+
+    const resp = await fetch(`/api/yt-search?q=${encodeURIComponent(q)}&start=${explorerNextStart}&limit=25`);
+    if (resp.ok) {
+      const data = await resp.json();
+      if (Array.isArray(data) && data.length) {
+        for (const item of data) {
+          if (item && item.id && !projectIds.has(item.id) && !explorerLoadedVideoIds.has(item.id)) {
+            explorerLoadedVideoIds.add(item.id);
+            newItems.push(item);
+          }
+        }
+        explorerNextStart += data.length;
+      }
+    }
+  } catch (e) {
+    console.warn('Infinite scroll search error:', e);
+  }
+
+  // 若 YouTube 即時搜尋結果已耗盡，自動自本地精選庫無縫銜接補充
+  if (newItems.length === 0 && typeof CURATED_YT_COLLECTIONS === 'object') {
+    for (const catList of Object.values(CURATED_YT_COLLECTIONS)) {
+      if (!Array.isArray(catList)) continue;
+      for (const item of catList) {
+        if (item && item.id && !projectIds.has(item.id) && !explorerLoadedVideoIds.has(item.id)) {
+          explorerLoadedVideoIds.add(item.id);
+          newItems.push(item);
+          if (newItems.length >= 15) break;
+        }
+      }
+      if (newItems.length >= 15) break;
+    }
+  }
+
+  // 移除載入中提示
+  const currentLoader = document.getElementById('ytFeedLoadingMore');
+  if (currentLoader) currentLoader.remove();
+
+  if (newItems.length > 0) {
+    const newHtml = newItems.map(createExplorerCardHtml).join('');
+    feed.insertAdjacentHTML('beforeend', newHtml);
+
+    // 即時動態累加頂部展示計數器
+    const countNum = document.getElementById('ytFeedCountNum');
+    if (countNum) countNum.textContent = explorerLoadedVideoIds.size;
+
+    toast(`✨ 已自動連續擴展 +${newItems.length} 部新影片（累計 ${explorerLoadedVideoIds.size} 部）`);
+  } else {
+    explorerHasMore = false;
+    const endNotice = document.getElementById('ytFeedEndNotice');
+    if (!endNotice) {
+      feed.insertAdjacentHTML('beforeend', `
+        <div class="yt-feed-end-notice" id="ytFeedEndNotice">
+          ✨ 已載入所有 YouTube 相關優質英語教材（共 ${explorerLoadedVideoIds.size} 部）
+        </div>
+      `);
+    }
+  }
+
+  isExplorerLoadingMore = false;
+}
+
 function switchYtCategory(catKey, btn) {
   document.querySelectorAll('.yt-category-chips .yt-chip').forEach(c => c.classList.remove('active'));
   if (btn) btn.classList.add('active');
 
+  const chipName = btn ? btn.textContent.replace(/^[^\w\u4e00-\u9fa5]+/, '').trim() : '';
   const items = CURATED_YT_COLLECTIONS[catKey] || CURATED_YT_COLLECTIONS.ted;
-  renderExplorerFeed(items);
+  renderExplorerFeed(items, chipName);
 }
 
-function renderExplorerFeed(items) {
+function renderExplorerFeed(items, query = '') {
   const feed = document.getElementById('ytResultsFeed');
   if (!feed) return;
 
+  explorerCurrentQuery = query;
+  explorerNextStart = 31;
+  explorerHasMore = true;
+  isExplorerLoadingMore = false;
+  explorerLoadedVideoIds.clear();
+
   const projectIds = getProjectIncludedVideoIds();
-  const seen = new Set();
   let validItems = [];
 
   // 1. Strict filter: Exclude all project included IDs and duplicates
   if (Array.isArray(items)) {
     for (const item of items) {
-      if (item && item.id && !projectIds.has(item.id) && !seen.has(item.id)) {
-        seen.add(item.id);
+      if (item && item.id && !projectIds.has(item.id) && !explorerLoadedVideoIds.has(item.id)) {
+        explorerLoadedVideoIds.add(item.id);
         validItems.push(item);
       }
     }
@@ -50632,8 +50802,8 @@ function renderExplorerFeed(items) {
     for (const catList of Object.values(CURATED_YT_COLLECTIONS)) {
       if (!Array.isArray(catList)) continue;
       for (const item of catList) {
-        if (item && item.id && !projectIds.has(item.id) && !seen.has(item.id)) {
-          seen.add(item.id);
+        if (item && item.id && !projectIds.has(item.id) && !explorerLoadedVideoIds.has(item.id)) {
+          explorerLoadedVideoIds.add(item.id);
           validItems.push(item);
           if (validItems.length >= 36) break;
         }
@@ -50651,33 +50821,12 @@ function renderExplorerFeed(items) {
   const headerHtml = `
     <div class="yt-feed-counter-banner">
       <span class="yt-feed-counter-pill">🛡️ 已自動排除專案收錄項目</span>
-      <span class="yt-feed-counter-total">展示 <b>${validItems.length}</b> 部全新教材（大於 30 部標準）</span>
+      <span class="yt-feed-counter-total">展示 <b id="ytFeedCountNum">${validItems.length}</b> 部全新教材（滾動到底自動連續擴展）</span>
     </div>
   `;
 
-  feed.innerHTML = headerHtml + validItems.map(item => {
-    const isPlaying = item.id === currentExplorerVid;
-    const durStr = typeof item.duration === 'number' ? formatDuration(item.duration) : (item.duration || '5:00');
-    const safeTitle = (item.title || 'YouTube Video').replace(/"/g, '&quot;');
-    const safeChannel = (item.channel || 'YouTube').replace(/"/g, '&quot;');
-    const isImported = (typeof videos !== 'undefined' && videos.some(v => v.id === item.id)) ||
-                       (typeof customLessons !== 'undefined' && customLessons.some(c => c.id === item.id));
-    return `
-      <div class="yt-card-row ${isPlaying ? 'playing' : ''}" data-vid="${item.id}" onclick="playInExplorer('${item.id}', '${safeTitle.replace(/'/g, "\\'")}', '${safeChannel.replace(/'/g, "\\'")}', '${durStr}')">
-        <div class="yt-thumb-box">
-          <img src="https://img.youtube.com/vi/${item.id}/mqdefault.jpg" alt="${safeTitle}" loading="lazy" onerror="this.src='icon-192.png'" />
-          <span class="yt-thumb-dur">${durStr}</span>
-        </div>
-        <div class="yt-card-info">
-          <div class="yt-card-title">${safeTitle}</div>
-          <div class="yt-card-author">📺 ${safeChannel}</div>
-        </div>
-        <button class="yt-quick-import-btn ${isImported ? 'imported' : ''}" onclick="event.stopPropagation();${isImported ? `closeYtExplorerModal();openVideo('${item.id}')` : `importExplorerVideoDirect('${item.id}', '${safeTitle.replace(/'/g, "\\'")}', this)`}" title="${isImported ? '已收錄，點擊直接開啟學習' : '一鍵收錄為教材'}">
-          ${isImported ? '✓ 已收錄' : '＋ 收錄'}
-        </button>
-      </div>
-    `;
-  }).join('');
+  feed.innerHTML = headerHtml + validItems.map(createExplorerCardHtml).join('');
+  attachExplorerInfiniteScroll();
 }
 
 async function doYtSearch() {
@@ -50708,18 +50857,18 @@ async function doYtSearch() {
   }
 
   try {
-    const resp = await fetch(`/api/yt-search?q=${encodeURIComponent(query)}`);
+    const resp = await fetch(`/api/yt-search?q=${encodeURIComponent(query)}&start=1&limit=30`);
     if (!resp.ok) throw new Error('搜尋服務暫時無法連線');
     const results = await resp.json();
     if (results && results.length) {
-      renderExplorerFeed(results);
+      renderExplorerFeed(results, query);
       const projectIds = getProjectIncludedVideoIds();
       const validResults = results.filter(r => r && r.id && !projectIds.has(r.id));
       if (validResults.length) {
         const first = validResults[0];
         playInExplorer(first.id, first.title, first.channel, formatDuration(first.duration));
       }
-      toast(`🔍 找到 ${results.length} 部全新未收錄影片`);
+      toast(`🔍 找到 ${results.length} 部全新未收錄影片（向下滾動自動擴展更多）`);
     } else {
       throw new Error('查無影片');
     }
@@ -50736,10 +50885,10 @@ async function doYtSearch() {
       }
     }
     if (localMatches.length) {
-      renderExplorerFeed(localMatches);
-      toast(`已列出 ${localMatches.length} 部精選未收錄資源`);
+      renderExplorerFeed(localMatches, query);
+      toast(`已列出 ${localMatches.length} 部精選未收錄資源（向下滾動自動擴展更多）`);
     } else {
-      renderExplorerFeed(CURATED_YT_COLLECTIONS.ai);
+      renderExplorerFeed(CURATED_YT_COLLECTIONS.ai, 'AI');
       toast('未能從 YouTube 取得即時結果，已呈現精選推薦！');
     }
   }

@@ -80,7 +80,15 @@ class Handler(SimpleHTTPRequestHandler):
         if parsed.path == '/api/yt-search':
             qs = urllib.parse.parse_qs(parsed.query)
             query = (qs.get('q', [''])[0]).strip()
-            self.search_yt(query)
+            try:
+                start = max(1, int(qs.get('start', ['1'])[0]))
+            except Exception:
+                start = 1
+            try:
+                limit = min(50, max(5, int(qs.get('limit', ['30'])[0])))
+            except Exception:
+                limit = 30
+            self.search_yt(query, start, limit)
             return
         # No-cache headers for index.html and sw.js to prevent stale SW cache
         if parsed.path in ('/', '/index.html', '/sw.js'):
@@ -158,7 +166,7 @@ class Handler(SimpleHTTPRequestHandler):
 
         self.send_json(200, {'word': word, 'ipa': '', 'pos': '單字', 'def': '點擊 🔊 聆聽真人發音，或點擊「＋ 收藏」加入單字庫。', 'ex': ''})
 
-    def search_yt(self, query):
+    def search_yt(self, query, start=1, limit=30):
         if not query:
             self.send_json(400, {'error': '請提供搜尋關鍵字'})
             return
@@ -209,12 +217,15 @@ class Handler(SimpleHTTPRequestHandler):
         seen = set()
 
         if ytdlp and (os.path.exists(str(ytdlp)) or shutil.which('yt-dlp')):
+            search_max = start + limit + 25
             cmd = [
                 str(ytdlp),
                 '--flat-playlist',
                 '--no-warnings',
                 '--print', '%(id)s\t%(title)s\t%(duration)s\t%(uploader)s',
-                f'ytsearch60:{query}'
+                '--playlist-start', str(start),
+                '--playlist-end', str(start + limit - 1),
+                f'ytsearch{search_max}:{query}'
             ]
             try:
                 p = subprocess.run(cmd, capture_output=True, text=True, timeout=18)
@@ -245,8 +256,8 @@ class Handler(SimpleHTTPRequestHandler):
             except Exception as e:
                 print('[search_yt warning]', e)
 
-        # 確保結果數量嚴格大於 30 (數量保證 >= 36)
-        if len(results) < 32 and uncollected_lib:
+        # 首頁搜尋若少於 32 部且為第一頁，自精選未收錄庫補充 (保證 >= 36)
+        if start == 1 and len(results) < 32 and uncollected_lib:
             q_lower = query.lower()
             matching_supplements = []
             general_supplements = []
