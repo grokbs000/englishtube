@@ -94,6 +94,23 @@
   2. **手動備選軌**：無官方字幕時可直接展開「自備逐字稿」貼上 YouTube「顯示文字稿」逐句對齊。
 * **無縫接軌 VoiceTube Studio**：生成教材後自動啟動最新版雙欄學習工作台，連動 YouTube 官方播放器、右側逐句跟讀清單與卡拉OK高亮舞台，並自動持久化保存於瀏覽器本地，隨時可複習。
 
+### 10. 三層全自動防搶跑與配樂過場鎖定管線（Triple-Shield Music & Interlude Synchronization）
+為徹底解決影片開頭前奏延遲、背景配樂期間字幕空轉與搶跑痛點，平台全面落實三層自動化時鐘對齊架構：
+* **第一層 · 後端 Whisper 單字級毫秒波形萃取（Word-Level Timestamps）**：
+  在後端調用 `faster-whisper` 時強制開啟 `word_timestamps=True`，精準提取每個單字的實際發音起訖秒數；同時內建「靜音與配樂中斷偵測器」，兩字之間若出現 `>= 2.2 秒` 音樂或停頓自動切斷為獨立句子，徹底阻絕將數十秒配樂誤包入單一句子的粗糙延伸。
+* **第二層 · 字幕時長自然語速箝位引擎（Auto Duration Normalizer）**：
+  針對官方 VTT 字幕將短句持續時間粗糙拉長覆蓋配樂的現象，後端 `normalize_cues()` 依單字數量動態計算自然語速上限，主動箝位過長字幕，將被覆蓋的配樂過場空間完全釋放。
+* **第三層 · 前端 60 FPS 實時配樂過場防護（Interlude Guard）**：
+  前端播放引擎實時計算當前句與下一句間隙，當處於配樂演奏期（間隔 `>= 2.0 秒`）時，舞台即時轉為 `🎵 (配樂過場中 · 倒數 Xs)`，高亮指針與字幕**100% 鎖定定格**；直到下一句開口瞬間才毫秒級銜接，杜絕任何背景音樂期間的字詞空轉。
+
+### 11. YouTube 探索搜尋滾輪到底連續擴展（Infinite Scroll Auto-Expansion）
+* **後端高並發串流分頁**：`/api/yt-search` 端點深度整合 `yt-dlp --playlist-start` 與 `--playlist-end`，支援毫秒級分頁提取，每次動態請求僅需約 3 秒即可無痛獲得下一批全新未收錄優質教材。
+* **零 DOM 重組與並發保護**：前端監聽捲軸距離底部 `< 160px` 自動預載，搭配 `isExplorerLoadingMore` 狀態鎖防連點，採用 `insertAdjacentHTML('beforeend', ...)` 直接追加節點，完全保留用戶當前捲動位置，展示計數器動態即時累加（36 ➔ 60 ➔ 85+ 部）。
+
+### 12. 3Blue1Brown 數學動畫解說影片與 ElevenLabs 配音管線（3B1B Manim & ElevenLabs Engine）
+* **Manim 0.22.0 系統架構動畫建置**：以 3Blue1Brown 經典深色美學（`#0c0d14`、發光貝茲曲線、連續時鐘座標軸），全程式化渲染 EnglishTube 架構解說動畫（`englishtube_3b1b.py`），全片 4 幕 49.12 秒毫秒級音畫同步。
+* **ElevenLabs 隨時換聲管線**：隨附 `generate_elevenlabs_voice.py`，支援用戶直接填入 `ELEVENLABS_API_KEY`，隨時將解說配音無縫替換為 Adam、George 等頂級高擬真 AI 聲線。
+
 ---
 
 ## 🚀 快速開始（macOS）

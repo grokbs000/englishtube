@@ -23,6 +23,9 @@ You are the **Agency ENGLISHTUBE** expert agent, responsible for operating, main
 10. **雙軌毫秒級聲畫音訊對齊標準 (Dual-Tier Audio-Subtitle Alignment)**：
     - **第一軌 (VTT 軌)**：優先透過 `calibrate_song_timings.py` 對齊 YouTube 官方 MV 字幕軌。
     - **第二軌 (Whisper 軌)**：針對無官方字幕之影片/歌曲，透過本機 `batch_calibrate_whisper.py`（使用 `faster-whisper` `base.en`，`word_timestamps=True`）萃取單字級毫秒波形時序，並以滑動視窗模糊序列匹配（`SequenceMatcher`）校正開唱起始點（如 Taylor Swift《Speak Now》開唱 3.84s、副歌 109.34s），徹底根絕 CD 錄音室版本與 MV 劇情過場（5s~180s）造成的時鐘脫節與早顯。
+11. **三層全自動防搶跑與配樂過場鎖定管線 (Triple-Shield Music & Interlude Synchronization)**：建立 Whisper 單字級毫秒波形萃取（`word_timestamps=True`）、音樂中斷自動斷句（間隔 `>= 2.2s`）、字幕持續時間自然語速箝位（`normalize_cues`）與前端實時配樂過場防護（Interlude Guard & 倒數提示，高亮指針定格靜止）。
+12. **YouTube 探索搜尋無限滾輪連續擴展 (Infinite Scroll Auto-Expansion)**：掌握後端串流分頁與前端滾動邊界偵測（`< 160px`）、並發防抖鎖與零 DOM 重組動態追加技術。
+13. **3Blue1Brown 數學動畫解說與 ElevenLabs 配音管線 (3B1B Manim & ElevenLabs Engine)**：精通操控 Manim 0.22.0 系統架構動畫渲染（Apple Silicon ARM64 pre-compiled wheels）、毫秒級音畫對齊與隨時替換 ElevenLabs AI 配音。
 
 ---
 
@@ -34,8 +37,10 @@ You are the **Agency ENGLISHTUBE** expert agent, responsible for operating, main
 | `songs_100.json` | 100 首精選情歌完整雙語 Cues 庫（每首 25～66 組句組，涵蓋率 90%~100%） | 包含 id, title, speaker, channel: Music, level, duration, cues 等結構 |
 | `video_lessons.json` | 500 部各類影片與歌曲雙語 Cues、繁中翻譯與重點詞彙庫 | 提供卡片的 fallback 異步載入與資料庫備援 |
 | `video_lessons.js` | 演講字幕與詞彙的 JavaScript 快速全域預載變數（`window.PRELOADED_LESSONS`） | 提高載入速度，避免首屏二次請求 |
-| `server.py` | 本機輕量 HTTP 伺服器（預設 Port `8885`）、yt-dlp 字幕提取端點、字典快取 API | 支援 `PORT` 環境變數自訂埠號 |
+| `server.py` | 本機輕量 HTTP 伺服器（預設 Port `8885`）、yt-dlp 字幕提取端點、Whisper 毫秒轉錄、搜尋分頁 API | 支援 `PORT` 環境變數自訂埠號 |
 | `sw.js` | Service Worker 快取與 PWA 離線機制 | 每次修改前端或資料需同步遞增 `CACHE` 版本字串 |
+| `englishtube_3b1b.py` | 3Blue1Brown 風格系統架構 Manim 數學/系統動畫全片腳本 | 4 幕 49.12 秒毫秒級音畫對齊 |
+| `generate_elevenlabs_voice.py` | 開箱即用 ElevenLabs 頂級神經配音換聲腳本 | 支援 Adam、George 等聲線即時替換 |
 | `calibrate_song_timings.py` | 第一軌：YouTube 官方 MV 帶毫秒字幕軌自動爬取與比對校準腳本 | 優先比對官方 VTT 軌道 |
 | `batch_calibrate_whisper.py` | 第二軌：無官方字幕歌曲之本機 faster-whisper 音訊單字級毫秒自動對齊工具 | 自動下載音訊、語音轉錄、時序滑動視窗錨定並自動清理暫存 |
 | `fill_all_50_songs_gemini.py` | 歌詞全曲時序補齊工具（多模型自動降級、防 429 退避重試、自動注入 HTML） | 支援續傳，已完成歌曲自動跳過 |
@@ -210,6 +215,27 @@ python3 fill_all_50_songs_gemini.py
 | **用詞精準度** | 部分描述稍顯口語或冗長 | 改為更專業、平行的技術敘述 |
 | **邏輯流暢性** | 因果關係不夠直觀 | 每個成因與對應解決方案更明確對應 |
 | **可維護性** | 範例與參數散落 | 保留關鍵參數與範例，方便後續開發參考 |
+
+### F. 三層全自動防搶跑與配樂過場防護標準 (Triple-Shield Synchronization Standard)
+
+* **現象與痛點**：
+  影片開頭若有前奏，字幕過早顯示並提前滾動；對白結束後若有鋼琴/吉他等長段背景配樂（5~15s），字幕指針持續前進甚至提前觸發下一句，造成視覺嚴重搶跑。
+* **根治方式（三層防護網）**：
+  1. **第一層 · Whisper 單字級毫秒波形萃取（`server.py`）**：
+     強制啟用 `word_timestamps=True`，為每個單字保存精確 `[s, e]` 毫秒時間戳。兩字間若出現 `>= 2.2 秒` 音樂或停頓，自動斷開為獨立句組，防止模型將配樂粗糙跨接。
+  2. **第二層 · 字幕時長自然語速箝位引擎（`normalize_cues`）**：
+     針對官方 VTT 字幕持續時間覆蓋配樂的現象，依該句單字量計算自然語速上限（`max_natural_dur = round(num_words * 0.75 + 1.2, 2)`），超過上限自動箝位，釋放被侵占的配樂過場時段。
+  3. **第三層 · 前端 60 FPS 實時配樂過場防護（`index.html`）**：
+     在 `syncSubtitleAndWords` 中偵測當前句與下一句間隔，當間隔 `>= 2.0 秒` 時，舞台轉為 `🎵 (配樂過場中 · 倒數 Xs)`，高亮指針與字幕**100% 定格靜止**；在 `updateKaraokeWordHighlight` 中直接比對單字之真實起訖毫秒，口語說完立即定格於 `passed`，不再靠比例盲目推進。
+
+### G. YouTube 探索搜尋無限滾輪擴展標準 (Infinite Scroll Search Standard)
+
+* **規範**：
+  在 YouTube 探索模態視窗中，禁止要求使用者手動翻頁或點擊「載入更多」按鈕。
+* **實作要點**：
+  1. **後端分頁**：`/api/yt-search` 支援 `start` 與 `limit` 參數，透過 `yt-dlp --playlist-start` 與 `--playlist-end` 於 3 秒內完成串流分頁提取。
+  2. **前端滾動偵測**：`#ytResultsFeed` 監聽滾動距離底部小於 `160px` 時自動調用 `loadMoreExplorerResults()`。
+  3. **並發防抖鎖與零 DOM 重組**：以 `isExplorerLoadingMore` 狀態鎖防止連鎖請求，並採用 `insertAdjacentHTML('beforeend', ...)` 純追加節點，不觸發全樹重新重繪，保留用戶當前閱讀位置。
 
 ---
 
