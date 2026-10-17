@@ -50766,6 +50766,7 @@ async function importExplorerVideoDirect(vid, title, clickedBtn) {
   const isCardClick = clickedBtn && clickedBtn !== btn;
 
   if (isCardClick) {
+    clickedBtn.classList.remove('error');
     clickedBtn.classList.add('loading');
     clickedBtn.disabled = true;
     clickedBtn.innerHTML = '<span style="display:inline-block;animation:vtSpin 0.8s linear infinite;margin-right:3px">⏳</span> 提取中…';
@@ -50888,8 +50889,14 @@ async function importExplorerVideoDirect(vid, title, clickedBtn) {
     console.error('Explorer import error:', err);
     if (isCardClick) {
       clickedBtn.classList.remove('loading');
+      clickedBtn.classList.add('error');
       clickedBtn.disabled = false;
       clickedBtn.innerHTML = '✕ 失敗重試';
+      clickedBtn.title = '點擊重新收錄提取';
+      clickedBtn.onclick = (e) => {
+        e.stopPropagation();
+        importExplorerVideoDirect(vid, title, clickedBtn);
+      };
     } else {
       if (btn) btn.disabled = false;
       if (btnText) btnText.textContent = '一鍵收錄為教材';

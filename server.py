@@ -48,6 +48,23 @@ def parse_vtt(text):
         i+=1
     return cues
 
+_whisper_model = None
+
+def get_whisper_model():
+    global _whisper_model
+    if _whisper_model is None:
+        old_no_proxy = os.environ.pop('NO_PROXY', None)
+        old_no_proxy_lower = os.environ.pop('no_proxy', None)
+        try:
+            from faster_whisper import WhisperModel
+            _whisper_model = WhisperModel('tiny.en', device='cpu', compute_type='int8')
+        finally:
+            if old_no_proxy is not None:
+                os.environ['NO_PROXY'] = old_no_proxy
+            if old_no_proxy_lower is not None:
+                os.environ['no_proxy'] = old_no_proxy_lower
+    return _whisper_model
+
 class Handler(SimpleHTTPRequestHandler):
     def __init__(self,*a,**kw):super().__init__(*a,directory=str(ROOT),**kw)
     def log_message(self,fmt,*args): print('[web]',fmt%args)
@@ -276,28 +293,51 @@ class Handler(SimpleHTTPRequestHandler):
         except Exception:
             pass
 
+        cues = []
         with tempfile.TemporaryDirectory(prefix='englishtube-') as td:
-            cmd=[ytdlp,'--no-warnings','--skip-download','--write-auto-subs','--write-subs','--sub-langs','en.*,en','--sub-format','vtt/best','-o',str(Path(td)/'%(id)s.%(ext)s'),url]
-            p=subprocess.run(cmd,capture_output=True,text=True,timeout=90)
+            # 1. First attempt: download official/auto VTT subtitles via yt-dlp
+            cmd=[ytdlp,'--no-warnings','--skip-download','--write-auto-subs','--write-subs','--sub-langs','en,en-orig,en-US','--sub-format','vtt/best','-o',str(Path(td)/'%(id)s.%(ext)s'),url]
+            p=subprocess.run(cmd,capture_output=True,text=True,timeout=60)
             files=list(Path(td).glob('*.vtt'))
             if not files:
-                # Try machine-readable JSON3 if vtt isn't available
                 cmd[cmd.index('--sub-format')+1]='json3/vtt/best'
-                p=subprocess.run(cmd,capture_output=True,text=True,timeout=90)
+                p=subprocess.run(cmd,capture_output=True,text=True,timeout=60)
                 files=list(Path(td).glob('*.vtt'))+list(Path(td).glob('*.json3'))
-            if not files:
-                msg=(p.stderr or '影片沒有可取得的英文字幕，或 YouTube 暫時限制存取。')[-700:]
+            
+            if files:
+                f=files[0]
+                if f.suffix=='.vtt':
+                    cues=parse_vtt(f.read_text(encoding='utf-8',errors='replace'))
+                else:
+                    raw=json.loads(f.read_text(encoding='utf-8',errors='replace'))
+                    for e in raw.get('events',[]):
+                        txt=''.join(seg.get('utf8','') for seg in e.get('segs',[])).strip()
+                        txt = clean_sub_text(txt)
+                        if txt:cues.append({'start':e.get('tStartMs',0)/1000,'duration':e.get('dDurationMs',0)/1000,'text':txt})
+
+            # 2. If no subtitles (due to YouTube 429 or missing captions), use Whisper AI fallback!
+            if not cues:
+                print(f'[transcript] VTT subtitles not available or 429 for {vid}. Falling back to Whisper AI audio transcription...')
+                audio_path = Path(td) / 'audio.webm'
+                down_cmd = [ytdlp, '-f', 'ba/140/251', '--no-warnings', '-o', str(audio_path), url]
+                down_p = subprocess.run(down_cmd, capture_output=True, text=True, timeout=90)
+                if audio_path.exists() and audio_path.stat().st_size > 1000:
+                    try:
+                        model = get_whisper_model()
+                        segments, info = model.transcribe(str(audio_path), beam_size=1)
+                        for s in segments:
+                            txt = clean_sub_text(s.text)
+                            if txt:
+                                cues.append({'start': round(s.start, 2), 'duration': max(0.5, round(s.end - s.start, 2)), 'text': txt})
+                        print(f'[transcript] Whisper AI successfully generated {len(cues)} cues for {vid}!')
+                    except Exception as we:
+                        print(f'[transcript] Whisper AI error: {we}')
+
+            if not cues:
+                msg=(p.stderr or '影片沒有可取得的英文字幕，且語音辨識暫時無法解析。')[-700:]
                 self.send_json(422,{'error':msg, 'title': title});return
-            f=files[0]
-            if f.suffix=='.vtt': cues=parse_vtt(f.read_text(encoding='utf-8',errors='replace'))
-            else:
-                raw=json.loads(f.read_text(encoding='utf-8',errors='replace'));cues=[]
-                for e in raw.get('events',[]):
-                    txt=''.join(seg.get('utf8','') for seg in e.get('segs',[])).strip()
-                    txt = clean_sub_text(txt)
-                    if txt:cues.append({'start':e.get('tStartMs',0)/1000,'duration':e.get('dDurationMs',0)/1000,'text':txt})
-            if not cues:self.send_json(422,{'error':'字幕檔存在，但沒有可用句子。', 'title': title});return
-            self.send_json(200,{'videoId':vid,'title':title,'language':f.stem.split('.')[-1],'cues':cues[:3000]})
+            
+            self.send_json(200,{'videoId':vid,'title':title,'language':'en','cues':cues[:3000]})
     def translate(self,data):
         key=os.getenv('OPENAI_API_KEY','').strip()
         if not key:self.send_json(503,{'error':'未設定 OPENAI_API_KEY；請在啟動伺服器前設定環境變數。'});return
