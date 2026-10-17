@@ -13,3 +13,4 @@ tmp_*/
 *.mp3
 *.vtt
 .video_fix_cache/
+.manim-env/

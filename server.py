@@ -48,6 +48,11 @@ class Handler(SimpleHTTPRequestHandler):
             word = (qs.get('word', [''])[0]).strip().lower()
             self.lookup_dict(word)
             return
+        if parsed.path == '/api/yt-search':
+            qs = urllib.parse.parse_qs(parsed.query)
+            query = (qs.get('q', [''])[0]).strip()
+            self.search_yt(query)
+            return
         # No-cache headers for index.html and sw.js to prevent stale SW cache
         if parsed.path in ('/', '/index.html', '/sw.js'):
             try:
@@ -123,6 +128,60 @@ class Handler(SimpleHTTPRequestHandler):
             print('[dict error]', e)
 
         self.send_json(200, {'word': word, 'ipa': '', 'pos': '單字', 'def': '點擊 🔊 聆聽真人發音，或點擊「＋ 收藏」加入單字庫。', 'ex': ''})
+
+    def search_yt(self, query):
+        if not query:
+            self.send_json(400, {'error': '請提供搜尋關鍵字'})
+            return
+        # If it's a direct YouTube URL
+        try:
+            vid = video_id(query)
+            if vid:
+                self.send_json(200, [{'id': vid, 'title': f'YouTube Video ({vid})', 'duration': 0, 'channel': 'YouTube'}])
+                return
+        except Exception:
+            pass
+
+        ytdlp = shutil.which('yt-dlp') or '/opt/homebrew/bin/yt-dlp' or '/usr/local/bin/yt-dlp'
+        if not os.path.exists(str(ytdlp)) and not shutil.which('yt-dlp'):
+            self.send_json(503, {'error': '未安裝 yt-dlp'})
+            return
+
+        cmd = [
+            str(ytdlp),
+            '--flat-playlist',
+            '--no-warnings',
+            '--print', '%(id)s\t%(title)s\t%(duration)s\t%(uploader)s',
+            f'ytsearch12:{query}'
+        ]
+        try:
+            p = subprocess.run(cmd, capture_output=True, text=True, timeout=14)
+            results = []
+            for line in p.stdout.strip().split('\n'):
+                line = line.strip()
+                if not line:
+                    continue
+                parts = line.split('\t')
+                if len(parts) >= 2 and YOUTUBE_ID.match(parts[0]):
+                    vid = parts[0]
+                    title = parts[1] if len(parts) > 1 else 'YouTube Video'
+                    dur = 0
+                    try:
+                        dur = int(float(parts[2])) if len(parts) > 2 and parts[2] not in ('NA', 'None', '') else 0
+                    except Exception:
+                        pass
+                    channel = parts[3] if len(parts) > 3 and parts[3] not in ('NA', 'None', '') else 'YouTube'
+                    results.append({
+                        'id': vid,
+                        'title': title,
+                        'duration': dur,
+                        'channel': channel
+                    })
+            self.send_json(200, results)
+        except subprocess.TimeoutExpired:
+            self.send_json(504, {'error': '搜尋超時，請縮短關鍵字重試'})
+        except Exception as e:
+            self.send_json(500, {'error': str(e)})
 
     def do_POST(self):
         try:
