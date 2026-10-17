@@ -311,10 +311,15 @@ def main(batch_limit=None):
                 f.write("window.ENGLISHTUBE_DATA=" + json.dumps(vld, ensure_ascii=False, separators=(",", ":")) + ";\n")
 
             # 3. Update index.html
-            new_videos_str = json.dumps(videos, ensure_ascii=False, indent=2)
-            new_html = html[:start_idx + len("const videos = ")] + new_videos_str + ";\n" + html[end_idx:]
-            with open(INDEX_HTML_PATH, "w", encoding="utf-8") as f:
-                f.write(new_html)
+            with open(INDEX_HTML_PATH, "r", encoding="utf-8") as inf:
+                current_html = inf.read()
+            s_idx = current_html.find("const videos = [")
+            e_idx = current_html.find("const songs = [")
+            if s_idx != -1 and e_idx != -1:
+                new_videos_str = json.dumps(videos, ensure_ascii=False, indent=2)
+                updated_html = current_html[:s_idx + len("const videos = ")] + new_videos_str + ";\n" + current_html[e_idx:]
+                with open(INDEX_HTML_PATH, "w", encoding="utf-8") as outf:
+                    outf.write(updated_html)
 
             # Bump SW
             with open(SW_JS_PATH, "r", encoding="utf-8") as sf:

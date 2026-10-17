@@ -259,8 +259,8 @@
       "I can see it now"
     ],
     "cn": [
-      "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
-      "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "啊，啊，啊",
+      "啊，啊，啊",
       "你在上大學，在兼職等候桌上工作",
       "離開小鎮，永不回頭",
       "我有逃跑的風險，害怕摔倒",
@@ -274,7 +274,7 @@
       "你令一個粗心大意的男人小心翼翼的女兒變得叛逆",
       "你是我生命中最棒的東西",
       "向前閃耀，我們一起迎接世界",
-      "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "在你家裡，還有一個抽屜裝著我的東西",
       "你瞭解我的秘密，並找出我為什麼要守衛",
       "你說我們永遠不會犯我父母的錯",
       "但我們有賬單要付",
@@ -289,7 +289,7 @@
       "你第一次看到我開始相信",
       "你令一個粗心大意的男人小心翼翼的女兒變得叛逆",
       "你是我生命中最棒的東西",
-      "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "哦，哦，哦",
       "我記得那場戰鬥，凌晨2:30",
       "一切都從我們手中滑落",
       "我哭著跑出來，你跟著我走到街上",
@@ -317,14 +317,14 @@
         "start": 0.66,
         "duration": 6.5,
         "en": "Ah, ah, ah",
-        "zh": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+        "zh": "啊，啊，啊",
         "text": "Ah, ah, ah"
       },
       {
         "start": 8.55,
         "duration": 6.5,
         "en": "Ah, ah, ah",
-        "zh": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+        "zh": "啊，啊，啊",
         "text": "Ah, ah, ah"
       },
       {
@@ -422,7 +422,7 @@
         "start": 73.57,
         "duration": 3.84,
         "en": "And there's a drawer of my things at your place",
-        "zh": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+        "zh": "在你家裡，還有一個抽屜裝著我的東西",
         "text": "And there's a drawer of my things at your place"
       },
       {
@@ -527,7 +527,7 @@
         "start": 135.41,
         "duration": 4.51,
         "en": "Oh, oh, oh",
-        "zh": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+        "zh": "哦，哦，哦",
         "text": "Oh, oh, oh"
       },
       {
@@ -1252,7 +1252,7 @@
       "'Cause we were both young when I first saw you"
     ],
     "cn": [
-      "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "當我初次遇見你時，我們都還很年輕",
       "我閉上眼睛，閃回開始",
       "我就站在那裡",
       "在夏日空氣中的陽臺上",
@@ -1270,7 +1270,7 @@
       "你做王子，我做公主",
       "這是一個愛情故事，寶貝，只要說「是」",
       "所以我偷偷溜到花園去看你",
-      "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "我們保持沈默，因為若被發現我們就完了",
       "所以閉上眼睛",
       "離開這個小鎮一段時間，哦，哦",
       "因為你是羅密歐，我是一個猩紅字母",
@@ -1286,7 +1286,7 @@
       "這份愛歷經艱辛，但它是如此真實",
       "別害怕，我們會擺脫這場混亂",
       "這是一個愛情故事，寶貝，只要說「是」",
-      "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "哦，哦-哦",
       "我已經厭倦了等待",
       "不知道你是否曾經四處走動",
       "我對你的信心逐漸消退",
@@ -1301,7 +1301,7 @@
       "我愛你，這就是我真正知道的",
       "我跟你爸爸談過，去挑一件白裙子",
       "這是一個愛情故事，寶貝，只要說「是」",
-      "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "哦，哦-哦",
       "噢噢噢噢",
       "因為我第一次見到你時我們都很年輕"
     ],
@@ -1312,7 +1312,7 @@
         "start": 16.06,
         "duration": 3.57,
         "en": "We were both young when I first saw you",
-        "zh": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+        "zh": "當我初次遇見你時，我們都還很年輕",
         "text": "We were both young when I first saw you"
       },
       {
@@ -1438,7 +1438,7 @@
         "start": 88.43,
         "duration": 3.35,
         "en": "We keep quiet 'cause we're dead if they knew",
-        "zh": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+        "zh": "我們保持沈默，因為若被發現我們就完了",
         "text": "We keep quiet 'cause we're dead if they knew"
       },
       {
@@ -1550,7 +1550,7 @@
         "start": 152.32,
         "duration": 6.5,
         "en": "Oh, oh-oh",
-        "zh": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+        "zh": "哦，哦-哦",
         "text": "Oh, oh-oh"
       },
       {
@@ -1655,7 +1655,7 @@
         "start": 217.06,
         "duration": 3.6,
         "en": "Oh, oh-oh",
-        "zh": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+        "zh": "哦，哦-哦",
         "text": "Oh, oh-oh"
       },
       {
@@ -1753,7 +1753,7 @@
       "You belong with me"
     ],
     "cn": [
-      "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "你在跟你的女友講電話，她聽起來很不高興",
       "她因為你說的話而離開",
       "因為她不像我那樣理解你的幽默",
       "我在房間裡，這是一個典型的星期二晚上",
@@ -1823,7 +1823,7 @@
         "start": 8.04,
         "duration": 4.0,
         "en": "You're on the phone with your girlfriend, she's upset",
-        "zh": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+        "zh": "你在跟你的女友講電話，她聽起來很不高興",
         "text": "You're on the phone with your girlfriend, she's upset"
       },
       {
@@ -3119,7 +3119,7 @@
       "You look perfect tonight"
     ],
     "cn": [
-      "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "我找到了屬於我的摯愛",
       "親愛的，只要全心投入並跟隨我的腳步",
       "我找到了一個漂亮又可愛的女孩",
       "噢，我從來不知道你就是那個等著我的人",
@@ -3134,7 +3134,7 @@
       "赤腳踩草",
       "聆聽我們最喜歡的歌曲",
       "當你說你看起來一團糟",
-      "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "我在心中輕聲細語",
       "但你聽到了",
       "親愛的，你今晚看起來很完美",
       "嗯，我找到了一個女人，比我認識的任何人都要強壯",
@@ -3172,7 +3172,7 @@
         "start": 25.25,
         "duration": 6.5,
         "en": "I found a love, for me",
-        "zh": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+        "zh": "我找到了屬於我的摯愛",
         "text": "I found a love, for me"
       },
       {
@@ -3277,7 +3277,7 @@
         "start": 106.17,
         "duration": 3.9,
         "en": "I whispered underneath my breath",
-        "zh": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+        "zh": "我在心中輕聲細語",
         "text": "I whispered underneath my breath"
       },
       {
@@ -3940,7 +3940,7 @@
       "And we found love right where we are"
     ],
     "cn": [
-      "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "當你的雙腿不再如從前靈活",
       "我無法讓你神魂顛倒",
       "你的嘴巴還記得我愛的味道嗎？",
       "你的眼睛還會從臉頰微笑嗎？",
@@ -3959,7 +3959,7 @@
       "把你的頭放在我跳動的心臟上",
       "我正在大聲思考",
       "也許我們就在我們所在的地方找到了愛",
-      "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "當我的頭髮落盡，記憶漸漸褪色",
       "人群不記得我的名字",
       "當我的手不以相同的方式演奏弦樂時，嗯",
       "我知道你還是會像以前一樣愛我",
@@ -3994,7 +3994,7 @@
         "start": 9.1,
         "duration": 6.31,
         "en": "When your legs don't work like they used to before",
-        "zh": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+        "zh": "當你的雙腿不再如從前靈活",
         "text": "When your legs don't work like they used to before"
       },
       {
@@ -4127,7 +4127,7 @@
         "start": 112.31,
         "duration": 6.08,
         "en": "When my hair's all but gone and my memory fades",
-        "zh": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+        "zh": "當我的頭髮落盡，記憶漸漸褪色",
         "text": "When my hair's all but gone and my memory fades"
       },
       {
@@ -4374,7 +4374,7 @@
       "Sometimes it lasts in love, but sometimes it hurts instead..."
     ],
     "cn": [
-      "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "我聽說你已經定下來了",
       "你找到了一個女孩，你現在結婚了",
       "我聽說你的夢想成真了",
       "我猜她給了你我沒有給你的東西",
@@ -4388,8 +4388,8 @@
       "我也只希望你過得好",
       "別忘了我，我求求你",
       "我會記得，你說",
-      "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
-      "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "有時愛情能廝守到老，有時卻只留下傷害",
+      "有時愛情能廝守到老，有時卻只留下傷害",
       "你知道時光飛逝",
       "昨天才是我們生命中的時刻",
       "我們在夏天的陰霾中出生長大",
@@ -4402,21 +4402,21 @@
       "我也只希望你過得好",
       "別忘了我，我求求你",
       "我會記得，你說",
-      "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "有時愛情能廝守到老，有時卻只留下傷害",
       "無可比擬，無需擔心或擔心",
-      "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "遺憾與過錯，都已化作深刻回憶",
       "誰知道這會有多苦樂參半？",
       "沒關係，我會找到像你這樣的人",
       "我只希望你能得到最好的",
       "別忘了我，我求求你",
       "我會記得，你說",
-      "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "有時愛情能廝守到老，有時卻只留下傷害",
       "沒關係，我會找到像你這樣的人",
       "我也只希望你過得好",
       "別忘了我，我求求你",
       "我會記得，你說",
-      "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
-      "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS"
+      "有時愛情能廝守到老，有時卻只留下傷害",
+      "有時愛情能廝守到老，有時卻只留下傷害……"
     ],
     "words": [],
     "type": "song",
@@ -4425,7 +4425,7 @@
         "start": 14.03,
         "duration": 6.5,
         "en": "I heard that you're settled down",
-        "zh": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+        "zh": "我聽說你已經定下來了",
         "text": "I heard that you're settled down"
       },
       {
@@ -4523,14 +4523,14 @@
         "start": 94.08,
         "duration": 6.5,
         "en": "Sometimes it lasts in love, but sometimes it hurts instead",
-        "zh": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+        "zh": "有時愛情能廝守到老，有時卻只留下傷害",
         "text": "Sometimes it lasts in love, but sometimes it hurts instead"
       },
       {
         "start": 101.06,
         "duration": 6.5,
         "en": "Sometimes it lasts in love, but sometimes it hurts instead",
-        "zh": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+        "zh": "有時愛情能廝守到老，有時卻只留下傷害",
         "text": "Sometimes it lasts in love, but sometimes it hurts instead"
       },
       {
@@ -4621,7 +4621,7 @@
         "start": 177.51,
         "duration": 6.5,
         "en": "Sometimes it lasts in love, but sometimes it hurts instead",
-        "zh": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+        "zh": "有時愛情能廝守到老，有時卻只留下傷害",
         "text": "Sometimes it lasts in love, but sometimes it hurts instead"
       },
       {
@@ -4635,7 +4635,7 @@
         "start": 188.7,
         "duration": 3.8,
         "en": "Regrets and mistakes, they're memories made",
-        "zh": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+        "zh": "遺憾與過錯，都已化作深刻回憶",
         "text": "Regrets and mistakes, they're memories made"
       },
       {
@@ -4677,7 +4677,7 @@
         "start": 224.44,
         "duration": 6.5,
         "en": "Sometimes it lasts in love, but sometimes it hurts instead",
-        "zh": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+        "zh": "有時愛情能廝守到老，有時卻只留下傷害",
         "text": "Sometimes it lasts in love, but sometimes it hurts instead"
       },
       {
@@ -4712,14 +4712,14 @@
         "start": 252.73,
         "duration": 6.5,
         "en": "Sometimes it lasts in love, but sometimes it hurts instead",
-        "zh": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+        "zh": "有時愛情能廝守到老，有時卻只留下傷害",
         "text": "Sometimes it lasts in love, but sometimes it hurts instead"
       },
       {
         "start": 259.98,
         "duration": 4.0,
         "en": "Sometimes it lasts in love, but sometimes it hurts instead...",
-        "zh": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+        "zh": "有時愛情能廝守到老，有時卻只留下傷害……",
         "text": "Sometimes it lasts in love, but sometimes it hurts instead..."
       }
     ],
@@ -4770,7 +4770,7 @@
       "而全世界都在針對你",
       "我可以給你一個溫暖的擁抱",
       "讓你感受我的愛",
-      "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "當夜幕低垂、繁星閃爍之際",
       "而且沒有人在那裡擦乾你的眼淚",
       "我可以抱你一百萬年",
       "讓你感受我的愛",
@@ -4827,7 +4827,7 @@
         "start": 50.08,
         "duration": 5.87,
         "en": "When the evening shadows and the stars appear",
-        "zh": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+        "zh": "當夜幕低垂、繁星閃爍之際",
         "text": "When the evening shadows and the stars appear"
       },
       {
@@ -6334,7 +6334,7 @@
       "(You say it best, when you say nothing at all) nothing at all"
     ],
     "cn": [
-      "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "多麼不可思議，你的話語能直抵我心深處",
       "不用說一句話，你可以點亮黑暗",
       "盡我所能，我無法解釋",
       "當你什麼都不說時，我所聽到的",
@@ -6349,11 +6349,11 @@
       "你臉上的笑容讓我知道你需要我",
       "你眼中有句話說你永遠不會離開我",
       "你的手說無論我跌到哪裡你都會抓住我",
-      "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "盡在不言中，是你最動人的傾訴",
       "哦，你臉上的笑容讓我知道你需要我",
       "你眼中有句話說你永遠不會離開我",
       "你的手說無論我跌到哪裡你都會抓住我",
-      "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "盡在不言中，是你最動人的傾訴",
       "（你說得最好，當你什麼都不說的時候）",
       "（你說得最好，當你什麼都不說的時候）",
       "你臉上的笑容（你說得最好）",
@@ -6371,7 +6371,7 @@
         "start": 11.71,
         "duration": 6.5,
         "en": "It's amazing how you can speak right to my heart",
-        "zh": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+        "zh": "多麼不可思議，你的話語能直抵我心深處",
         "text": "It's amazing how you can speak right to my heart"
       },
       {
@@ -6476,7 +6476,7 @@
         "start": 143.61,
         "duration": 6.5,
         "en": "You say it best (you say it best) when you say nothing at all",
-        "zh": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+        "zh": "盡在不言中，是你最動人的傾訴",
         "text": "You say it best (you say it best) when you say nothing at all"
       },
       {
@@ -6504,7 +6504,7 @@
         "start": 196.01,
         "duration": 6.5,
         "en": "You say it best (you say it best) when you say nothing at all",
-        "zh": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+        "zh": "盡在不言中，是你最動人的傾訴",
         "text": "You say it best (you say it best) when you say nothing at all"
       },
       {
@@ -6637,7 +6637,7 @@
       "As long as you love me"
     ],
     "cn": [
-      "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "儘管孤獨一直是我最好的朋友",
       "我把我的生命留在你手中",
       "人們說我瘋了，我瞎了",
       "一目瞭然地冒險",
@@ -6654,7 +6654,7 @@
       "你說過和做過的每一件小事",
       "感覺就像在我內心深處(oooh, ooh-ooh)",
       "無論你是否在逃，都無所謂",
-      "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "我們彷彿就是命中注定的一對",
       "我不在乎你是誰（你是誰）",
       "您來自哪裡（您來自哪裡）",
       "你做了什麼都不重要，只要你愛我（我知道）",
@@ -6693,7 +6693,7 @@
         "start": 23.9,
         "duration": 5.8,
         "en": "Although loneliness has always been a friend of mine",
-        "zh": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+        "zh": "儘管孤獨一直是我最好的朋友",
         "text": "Although loneliness has always been a friend of mine"
       },
       {
@@ -6812,7 +6812,7 @@
         "start": 98.16,
         "duration": 3.04,
         "en": "It seems like we're meant to be",
-        "zh": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+        "zh": "我們彷彿就是命中注定的一對",
         "text": "It seems like we're meant to be"
       },
       {
@@ -8547,7 +8547,7 @@
       "You raise me up to more than I can be"
     ],
     "cn": [
-      "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "每當我低落消沉、心靈疲憊不堪之時",
       "當麻煩來臨，我的心負擔",
       "那我就安安靜靜地在這裡等著",
       "直到你來和我坐一會兒",
@@ -8576,7 +8576,7 @@
         "start": 8.34,
         "duration": 6.5,
         "en": "When I am down and oh my soul so weary",
-        "zh": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+        "zh": "每當我低落消沉、心靈疲憊不堪之時",
         "text": "When I am down and oh my soul so weary"
       },
       {
@@ -10033,7 +10033,7 @@
       "You can count on me 'cause I can count on you"
     ],
     "cn": [
-      "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "哦-哦",
       "如果你發現自己被困在大海中間",
       "我會環遊世界尋找你",
       "如果你發現自己迷失在黑暗中，看不見",
@@ -10049,7 +10049,7 @@
       "Ooh-ooh-ooh-ooh, ooh, yeah, yeah",
       "如果你拋棄，然後你轉身，你就是睡不著",
       "我會在你身邊唱一首歌",
-      "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "如果你忘記你對我有多麼重要",
       "每天我都會提醒你，哦",
       "我們會找出我們的組成",
       "當我們蒙召幫助有需要的朋友時",
@@ -10079,7 +10079,7 @@
         "start": 2.58,
         "duration": 2.92,
         "en": "Oh-oh",
-        "zh": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+        "zh": "哦-哦",
         "text": "Oh-oh"
       },
       {
@@ -10191,7 +10191,7 @@
         "start": 80.71,
         "duration": 5.61,
         "en": "And if you ever forget how much you really mean to me",
-        "zh": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+        "zh": "如果你忘記你對我有多麼重要",
         "text": "And if you ever forget how much you really mean to me"
       },
       {
@@ -11245,7 +11245,7 @@
       "Until the sky falls down on me"
     ],
     "cn": [
-      "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "我願成為你的夢想、你的心願、你的幻想",
       "我會成為你的希望，我會成為你的愛，成為你需要的一切",
       "我每次呼吸都更愛你，真的，瘋狂地，深深地做",
       "我會堅強，我會忠誠，因為我指望",
@@ -11260,7 +11260,7 @@
       "我會許個願，把它送到天堂，讓你想哭",
       "所有快樂和確定性的喜悅之淚",
       "我們被舒適和保護所包圍",
-      "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "擁有著至高無上的力量",
       "在寂寞的時刻",
       "眼淚吞噬你",
       "I wanna stand with you on a mountain",
@@ -11272,7 +11272,7 @@
       "它就站在你面前",
       "您需要的一切都會到來",
       "噢，耶",
-      "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "我願成為你的夢想、你的心願、你的幻想",
       "我會成為你的希望，我會成為你的愛，成為你需要的一切",
       "我會用每一次呼吸更愛你，真實，瘋狂，深深地做",
       "我想和你一起站在山上",
@@ -11291,7 +11291,7 @@
         "start": 16.02,
         "duration": 5.59,
         "en": "I'll be your dream, I'll be your wish, I'll be your fantasy",
-        "zh": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+        "zh": "我願成為你的夢想、你的心願、你的幻想",
         "text": "I'll be your dream, I'll be your wish, I'll be your fantasy"
       },
       {
@@ -11396,7 +11396,7 @@
         "start": 94.55,
         "duration": 3.44,
         "en": "Of the highest powers",
-        "zh": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+        "zh": "擁有著至高無上的力量",
         "text": "Of the highest powers"
       },
       {
@@ -11480,7 +11480,7 @@
         "start": 158.36,
         "duration": 6.05,
         "en": "I'll be your dream, I'll be your wish, I'll be your fantasy",
-        "zh": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+        "zh": "我願成為你的夢想、你的心願、你的幻想",
         "text": "I'll be your dream, I'll be your wish, I'll be your fantasy"
       },
       {
@@ -12279,7 +12279,7 @@
       "我說：「我已經告訴過你",
       "我覺得你應該休息一下」",
       "我知道我當時愛你，但你永遠不會知道",
-      "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "因為害怕放手，我才故作從容冷靜",
       "我知道我需要你，但我從來沒有表現出來",
       "但我想和你在一起，直到我們變成灰色和老人",
       "只要說你不會放手",
@@ -12429,7 +12429,7 @@
         "start": 56.12,
         "duration": 5.02,
         "en": "'Cause I played it cool when I was scared of letting go",
-        "zh": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+        "zh": "因為害怕放手，我才故作從容冷靜",
         "text": "'Cause I played it cool when I was scared of letting go"
       },
       {
@@ -12739,10 +12739,10 @@
       "I, I'm gonna love you (ooh, ooh-ooh, ooh-ooh)"
     ],
     "cn": [
-      "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "你喜歡雨嗎？它會讓你想起舞嗎",
       "當你和朋友在派對上喝醉時？",
       "你最喜歡哪首歌，它會讓你微笑嗎？",
-      "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "你會想念我嗎？",
       "當你閉上眼睛時",
       "告訴我，你在做甚麼夢？",
       "一切，我想知道一切",
@@ -12754,7 +12754,7 @@
       "你是否懷念成長的道路？",
       "你的中間名是從你奶奶那裡得來的嗎？",
       "當你現在想到你的永恆",
-      "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "你會想念我嗎？",
       "當你閉上眼睛時",
       "告訴我，你在做甚麼夢？",
       "一切，我想知道一切",
@@ -12783,7 +12783,7 @@
         "start": 3.09,
         "duration": 2.68,
         "en": "Do you love the rain, does it make you dance",
-        "zh": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+        "zh": "你喜歡雨嗎？它會讓你想起舞嗎",
         "text": "Do you love the rain, does it make you dance"
       },
       {
@@ -12804,7 +12804,7 @@
         "start": 11.13,
         "duration": 2.0,
         "en": "Do you think of me?",
-        "zh": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+        "zh": "你會想念我嗎？",
         "text": "Do you think of me?"
       },
       {
@@ -12888,7 +12888,7 @@
         "start": 59.09,
         "duration": 1.89,
         "en": "Do you think of me?",
-        "zh": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+        "zh": "你會想念我嗎？",
         "text": "Do you think of me?"
       },
       {
@@ -13522,7 +13522,7 @@
       "You best believe, you best believe I'm yours"
     ],
     "cn": [
-      "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "你徹底俘虜了我的心，你肯定感覺到了",
       "我試圖冷靜下來，但你太熱了，我融化了",
       "我從裂縫中摔了下來",
       "現在我正嘗試回去",
@@ -13537,7 +13537,7 @@
       "凝視你的心靈，你會發現滿滿的愛",
       "聆聽人們跳舞和唱歌的音樂",
       "我們只是一個大家庭",
-      "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "被深愛著是我們生來應得的權利",
       "所以我不會再猶豫了",
       "等不及了，我敢肯定",
       "沒有必要複雜化，我們的時間很短",
@@ -13578,7 +13578,7 @@
         "start": 18.86,
         "duration": 3.09,
         "en": "Well, you done, done me in, you bet I felt it",
-        "zh": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+        "zh": "你徹底俘虜了我的心，你肯定感覺到了",
         "text": "Well, you done, done me in, you bet I felt it"
       },
       {
@@ -13683,7 +13683,7 @@
         "start": 89.92,
         "duration": 6.5,
         "en": "And it's our godforsaken right to be loved, loved, loved, loved, loved",
-        "zh": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+        "zh": "被深愛著是我們生來應得的權利",
         "text": "And it's our godforsaken right to be loved, loved, loved, loved, loved"
       },
       {
@@ -13968,7 +13968,7 @@
       "Ooh-ooh-ooh"
     ],
     "cn": [
-      "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "你聽得見我嗎？我正在對你說話",
       "橫跨深藍色海洋的水面",
       "在開闊的天空下，天啊，寶貝，我正在嘗試",
       "男孩，我在夢中聽到你",
@@ -13983,7 +13983,7 @@
       "等待這樣的愛情",
       "每次我們說再見",
       "真希望我們再吻一次",
-      "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "我會等你，我向你保證，我一定會等你",
       "我很幸運，我愛上了我最好的朋友",
       "幸運的是，我去過那裡",
       "很幸運能再次回家",
@@ -14015,7 +14015,7 @@
         "start": 19.77,
         "duration": 3.81,
         "en": "Do you hear me? I'm talking to you",
-        "zh": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+        "zh": "你聽得見我嗎？我正在對你說話",
         "text": "Do you hear me? I'm talking to you"
       },
       {
@@ -14120,7 +14120,7 @@
         "start": 86.53,
         "duration": 6.5,
         "en": "I'll wait for you, I promise you, I will",
-        "zh": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+        "zh": "我會等你，我向你保證，我一定會等你",
         "text": "I'll wait for you, I promise you, I will"
       },
       {
@@ -15495,7 +15495,7 @@
       "站在高山上",
       "看著晴朗夜空中的月亮",
       "我應該去見見朋友們",
-      "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "但他們根本無法真正理解",
       "不需要說太多，什麼都不說",
       "我只需要一個讓我想唱歌的人",
       "帶我到你的心，帶我到你的靈魂",
@@ -15684,7 +15684,7 @@
         "start": 147.36,
         "duration": 4.1,
         "en": "But they don't really comprehend",
-        "zh": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+        "zh": "但他們根本無法真正理解",
         "text": "But they don't really comprehend"
       },
       {
@@ -16386,7 +16386,7 @@
     "cn": [
       "我願徹夜未眠，只為聽著你的呼吸",
       "看著你熟睡時的微笑",
-      "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "當你在遠方甜美入夢時",
       "我願用一生沉浸在這甜蜜的臣服中",
       "我願永遠迷失在此刻",
       "和你在一起的每一刻都是我珍惜的時刻",
@@ -16403,7 +16403,7 @@
       "因為我會想念你，寶貝，我不想錯過任何事",
       "因為即使我夢見你，最甜蜜的夢想也永遠不會",
       "我仍然想念你，寶貝，我不想錯過任何事情",
-      "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "我不想錯過你的每一個微笑、每一次親吻",
       "我只想和你在一起，就像這樣",
       "我只是想抱緊你，感受你的心與我的心如此接近",
       "就這樣停留在這一刻，直到時間盡頭",
@@ -16442,7 +16442,7 @@
         "start": 43.49,
         "duration": 3.93,
         "en": "While you're far away and dreaming",
-        "zh": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+        "zh": "當你在遠方甜美入夢時",
         "text": "While you're far away and dreaming"
       },
       {
@@ -16561,7 +16561,7 @@
         "start": 159.7,
         "duration": 6.5,
         "en": "I don't wanna miss one smile, I don't wanna miss one kiss",
-        "zh": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+        "zh": "我不想錯過你的每一個微笑、每一次親吻",
         "text": "I don't wanna miss one smile, I don't wanna miss one kiss"
       },
       {
@@ -17873,7 +17873,7 @@
       "That you had to leave me alone"
     ],
     "cn": [
-      "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "哦，哇，哇，哦",
       "我感到如此不安",
       "當我牽起你的手，帶你走向舞池",
       "隨著音樂的消逝，你眼中的某些東西",
@@ -17928,7 +17928,7 @@
         "start": 14.9,
         "duration": 6.5,
         "en": "Oh, whoa, whoa, oh",
-        "zh": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+        "zh": "哦，哇，哇，哦",
         "text": "Oh, whoa, whoa, oh"
       },
       {
@@ -18300,7 +18300,7 @@
       "Take a look at me now"
     ],
     "cn": [
-      "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "我怎能就這樣眼睜睜看著你轉身離去？",
       "讓你毫無痕跡地離開",
       "當我站在這裡與你一起呼吸時",
       "你是唯一真正瞭解我的人",
@@ -18315,7 +18315,7 @@
       "而你回到我身邊是相當困難的",
       "這就是我必須面對的",
       "器樂",
-      "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "我多希望，能讓你轉身回到我身邊",
       "轉身看我哭泣",
       "我有很多理由要告訴你為什麼",
       "你是唯一真正瞭解我的人",
@@ -18336,7 +18336,7 @@
         "start": 17.04,
         "duration": 2.96,
         "en": "How can I just let you walk away?",
-        "zh": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+        "zh": "我怎能就這樣眼睜睜看著你轉身離去？",
         "text": "How can I just let you walk away?"
       },
       {
@@ -18441,7 +18441,7 @@
         "start": 105.09,
         "duration": 4.09,
         "en": "I wish, I could just make you turn around",
-        "zh": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+        "zh": "我多希望，能讓你轉身回到我身邊",
         "text": "I wish, I could just make you turn around"
       },
       {
@@ -18801,7 +18801,7 @@
       "But darling, stay with me"
     ],
     "cn": [
-      "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "看來是真的，我真的不擅長短暫的一夜情",
       "但我仍然需要愛，因為我只是一個男人",
       "這些夜晚似乎從未按計劃進行",
       "我不想你離開，你能握住我的手嗎？",
@@ -18833,7 +18833,7 @@
         "start": 41.64,
         "duration": 6.05,
         "en": "Guess it's true, I'm not good at a one-night stand",
-        "zh": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+        "zh": "看來是真的，我真的不擅長短暫的一夜情",
         "text": "Guess it's true, I'm not good at a one-night stand"
       },
       {
@@ -19374,7 +19374,7 @@
         "start": 11.0,
         "duration": 2.78,
         "en": "The club isn't the best place to find a lover",
-        "zh": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+        "zh": "夜店不是尋覓真愛的好地方",
         "text": "The club isn't the best place to find a lover"
       },
       {
@@ -20116,7 +20116,7 @@
       "I'm in love with the shape of you"
     ],
     "cn": [
-      "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "夜店不是尋覓真愛的好地方",
       "所以酒吧是我去的地方（毫米毫米）",
       "我和我的朋友在餐桌上拍照",
       "喝得快，然後我們說得慢（ mm-mm ）",
@@ -22249,7 +22249,7 @@
         "start": 20.71,
         "duration": 2.37,
         "en": "You're the light, you're the night",
-        "zh": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+        "zh": "你是光芒，你是黑夜",
         "text": "You're the light, you're the night"
       },
       {
@@ -22354,7 +22354,7 @@
         "start": 83.68,
         "duration": 2.43,
         "en": "On the edge of paradise",
-        "zh": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+        "zh": "身處在天堂的邊緣",
         "text": "On the edge of paradise"
       },
       {
@@ -22459,7 +22459,7 @@
         "start": 172.17,
         "duration": 4.98,
         "en": "I'll let you set the pace",
-        "zh": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+        "zh": "我會讓你來決定我們的節奏",
         "text": "I'll let you set the pace"
       },
       {
@@ -22603,7 +22603,7 @@
       "What are you waiting for?"
     ],
     "cn": [
-      "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "你是光芒，你是黑夜",
       "你是我血液的顏色",
       "你是解藥，你是痛苦",
       "你是我唯一想碰的東西",
@@ -22618,7 +22618,7 @@
       "像你一樣觸控我，像你一樣觸控我",
       "你還在等什麼？",
       "淡入，淡出",
-      "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "身處在天堂的邊緣",
       "你皮膚的每一寸都是我必須找到的聖杯",
       "只有你才能燃燒我的心，燃燒我的心",
       "是的，我會讓你設定節奏",
@@ -22633,7 +22633,7 @@
       "像你一樣愛我，像你一樣愛我（是的）",
       "像你一樣觸控我，像你一樣觸控我",
       "你還在等什麼？",
-      "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "我會讓你來決定我們的節奏",
       "因為我沒有直接思考",
       "我的頭轉來轉去，我再也看不清了",
       "更多，更多，更多...",
@@ -24511,7 +24511,7 @@
         "start": 34.62,
         "duration": 4.16,
         "en": "It's like I got this music in my mind",
-        "zh": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+        "zh": "就像我腦海中迴盪著這段旋律",
         "text": "It's like I got this music in my mind"
       },
       {
@@ -24651,7 +24651,7 @@
         "start": 94.67,
         "duration": 4.25,
         "en": "It's like I got this music in my mind",
-        "zh": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+        "zh": "就像我腦海中迴盪著這段旋律",
         "text": "It's like I got this music in my mind"
       },
       {
@@ -24756,7 +24756,7 @@
         "start": 140.57,
         "duration": 2.83,
         "en": "Just think, while you've been gettin' down and out about the liars",
-        "zh": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+        "zh": "想想看，當你為了騙子而沮喪失望時",
         "text": "Just think, while you've been gettin' down and out about the liars"
       },
       {
@@ -25009,7 +25009,7 @@
       "人們就是這麼說的，嗯",
       "但我一直巡航",
       "停不下來，不會停止移動",
-      "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "就像我腦海中迴盪著這段旋律",
       "說會沒事的",
       "因為玩家會玩，玩，玩，玩，玩",
       "仇恨者會憎恨，憎恨，憎恨，憎恨，憎恨",
@@ -25029,7 +25029,7 @@
       "這就是他們不知道的，嗯",
       "但我一直巡航",
       "停不下來，不會停下來",
-      "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "就像我腦海中迴盪著這段旋律",
       "說會沒事的",
       "因為玩家會玩，玩，玩，玩，玩",
       "仇恨者會憎恨，憎恨，憎恨，憎恨，憎恨",
@@ -25044,7 +25044,7 @@
       "我，我，我甩掉它，我甩掉它",
       "我把一切煩惱甩開，全都甩開",
       "喂喂喂",
-      "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "想想看，當你為了騙子而沮喪失望時",
       "還有世上骯髒的骯髒作弊",
       "你可能已經陷入了這個病態的節拍",
       "我的前男友帶著他的新女友",
@@ -27955,7 +27955,7 @@
         "start": 7.94,
         "duration": 3.95,
         "en": "Hello, it's me",
-        "zh": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+        "zh": "哈囉，是我",
         "text": "Hello, it's me"
       },
       {
@@ -28060,14 +28060,14 @@
         "start": 97.44,
         "duration": 5.27,
         "en": "At least I can say that I've tried",
-        "zh": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+        "zh": "至少我能說，我已經盡力嘗試過",
         "text": "At least I can say that I've tried"
       },
       {
         "start": 102.76,
         "duration": 6.5,
         "en": "To tell you I'm sorry for breaking your heart",
-        "zh": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+        "zh": "親口對你說聲抱歉，我傷了你的心",
         "text": "To tell you I'm sorry for breaking your heart"
       },
       {
@@ -28165,7 +28165,7 @@
         "start": 218.96,
         "duration": 6.04,
         "en": "To tell you I'm sorry for breaking your heart",
-        "zh": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+        "zh": "親口對你說聲抱歉，我傷了你的心",
         "text": "To tell you I'm sorry for breaking your heart"
       },
       {
@@ -28277,7 +28277,7 @@
         "start": 290.96,
         "duration": 6.25,
         "en": "To tell you I'm sorry for breaking your heart",
-        "zh": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+        "zh": "親口對你說聲抱歉，我傷了你的心",
         "text": "To tell you I'm sorry for breaking your heart"
       },
       {
@@ -28345,7 +28345,7 @@
       "But it don't matter, it clearly doesn't tear you apart anymore"
     ],
     "cn": [
-      "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "哈囉，是我",
       "我想知道這麼多年後你是否願意見面",
       "重溫一切",
       "他們說時間應該可以治癒你，但我沒有做太多治療",
@@ -28360,8 +28360,8 @@
       "告訴你我對我所做的一切感到抱歉",
       "但是當我打電話的時候，你似乎從來都不在家",
       "來自外界的您好",
-      "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
-      "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "至少我能說，我已經盡力嘗試過",
+      "親口對你說聲抱歉，我傷了你的心",
       "但沒關係，它顯然不會再把你撕成碎片",
       "你好，你好嗎？",
       "談論我自己是很典型的，對不起",
@@ -28375,7 +28375,7 @@
       "但是當我打電話的時候，你似乎從來都不在家",
       "從外面（外面）打招呼",
       "至少我能說我曾努力嘗試過（我努力過）",
-      "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "親口對你說聲抱歉，我傷了你的心",
       "但沒關係，它顯然不會再把你撕成碎片",
       "（高，高，高，高）",
       "哦（低，低，低，低） ，不再",
@@ -28391,7 +28391,7 @@
       "但是當我打電話的時候，你似乎從來都不在家",
       "從外面（外面）打招呼",
       "至少我能說我曾努力嘗試過（我努力過）",
-      "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "親口對你說聲抱歉，我傷了你的心",
       "但沒關係，它顯然不會再把你撕成碎片"
     ]
   },
@@ -28686,7 +28686,7 @@
         "start": 18.02,
         "duration": 3.66,
         "en": "I fell by the wayside, like everyone else",
-        "zh": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+        "zh": "我跌倒在路旁，就和所有人一樣",
         "text": "I fell by the wayside, like everyone else"
       },
       {
@@ -28756,7 +28756,7 @@
         "start": 57.52,
         "duration": 3.64,
         "en": "Was there something I could've said",
-        "zh": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+        "zh": "我是否曾說錯了什麼話",
         "text": "Was there something I could've said"
       },
       {
@@ -28784,14 +28784,14 @@
         "start": 74.77,
         "duration": 3.53,
         "en": "Was there something I could've said",
-        "zh": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+        "zh": "我是否曾說錯了什麼話",
         "text": "Was there something I could've said"
       },
       {
         "start": 78.35,
         "duration": 2.54,
         "en": "To make it all stop hurting?",
-        "zh": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+        "zh": "能讓這一切痛苦停止嗎？",
         "text": "To make it all stop hurting?"
       },
       {
@@ -28868,7 +28868,7 @@
         "start": 134.75,
         "duration": 3.36,
         "en": "Was there something I could've said",
-        "zh": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+        "zh": "我是否曾說錯了什麼話",
         "text": "Was there something I could've said"
       },
       {
@@ -28896,14 +28896,14 @@
         "start": 151.76,
         "duration": 3.32,
         "en": "Was there something I could've said",
-        "zh": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+        "zh": "我是否曾說錯了什麼話",
         "text": "Was there something I could've said"
       },
       {
         "start": 155.13,
         "duration": 2.9,
         "en": "To make it all stop hurting?",
-        "zh": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+        "zh": "能讓這一切痛苦停止嗎？",
         "text": "To make it all stop hurting?"
       },
       {
@@ -28959,7 +28959,7 @@
         "start": 190.93,
         "duration": 3.15,
         "en": "Was there something I could've said",
-        "zh": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+        "zh": "我是否曾說錯了什麼話",
         "text": "Was there something I could've said"
       },
       {
@@ -28987,14 +28987,14 @@
         "start": 207.25,
         "duration": 3.97,
         "en": "Was there something I could've said",
-        "zh": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+        "zh": "我是否曾說錯了什麼話",
         "text": "Was there something I could've said"
       },
       {
         "start": 211.27,
         "duration": 2.5,
         "en": "To make it all stop hurting?",
-        "zh": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+        "zh": "能讓這一切痛苦停止嗎？",
         "text": "To make it all stop hurting?"
       },
       {
@@ -29068,7 +29068,7 @@
       "So, before you go"
     ],
     "cn": [
-      "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "我跌倒在路旁，就和所有人一樣",
       "我恨你，我恨你，我恨你",
       "但我只是在開玩笑",
       "我們的每一刻，我都開始更換",
@@ -29078,12 +29078,12 @@
       "像麻煩水流涼",
       "時間能治癒一切，但這段傷痛卻無法",
       "所以在你走之前",
-      "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "我是否曾說錯了什麼話",
       "讓你的心跳變得更好？",
       "要是我知道你有暴風雨天氣就好了",
       "所以在你走之前",
-      "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
-      "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "我是否曾說錯了什麼話",
+      "能讓這一切痛苦停止嗎？",
       "你的頭腦怎麼會讓你覺得一文不值",
       "所以在你走之前",
       "每次你打電話來的時候都不是時候",
@@ -29094,12 +29094,12 @@
       "像麻煩水流涼",
       "時間能治癒一切，但這段傷痛卻無法",
       "所以在你走之前",
-      "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "我是否曾說錯了什麼話",
       "讓你的心跳變得更好？",
       "要是我知道你有暴風雨天氣就好了",
       "所以在你走之前",
-      "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
-      "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "我是否曾說錯了什麼話",
+      "能讓這一切痛苦停止嗎？",
       "你的頭腦怎麼會讓你覺得一文不值",
       "所以在你走之前",
       "我們現在會過得更好嗎",
@@ -29107,12 +29107,12 @@
       "也許，我想我們永遠不會知道",
       "你知道",
       "在你走之前",
-      "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "我是否曾說錯了什麼話",
       "讓你的心跳變得更好？",
       "要是我知道你有暴風雨天氣就好了",
       "所以在你走之前",
-      "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
-      "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "我是否曾說錯了什麼話",
+      "能讓這一切痛苦停止嗎？",
       "你的頭腦怎麼會讓你覺得一文不值",
       "所以在你走之前"
     ]
@@ -29574,7 +29574,7 @@
         "start": 9.96,
         "duration": 4.74,
         "en": "I was scared of dentists and the dark",
-        "zh": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+        "zh": "我曾經害怕看牙醫，也害怕黑暗",
         "text": "I was scared of dentists and the dark"
       },
       {
@@ -29616,7 +29616,7 @@
         "start": 38.95,
         "duration": 3.59,
         "en": "Lady, running down to the riptide",
-        "zh": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+        "zh": "女士，奔向那激流浪潮之中",
         "text": "Lady, running down to the riptide"
       },
       {
@@ -29679,7 +29679,7 @@
         "start": 71.46,
         "duration": 5.02,
         "en": "And she's been living on the highest shelf",
-        "zh": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+        "zh": "而她一直生活在觸不可及的高處",
         "text": "And she's been living on the highest shelf"
       },
       {
@@ -29700,7 +29700,7 @@
         "start": 86.34,
         "duration": 3.51,
         "en": "Lady, running down to the riptide",
-        "zh": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+        "zh": "女士，奔向那激流浪潮之中",
         "text": "Lady, running down to the riptide"
       },
       {
@@ -29784,7 +29784,7 @@
         "start": 137.34,
         "duration": 3.57,
         "en": "Lady, running down to the riptide",
-        "zh": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+        "zh": "女士，奔向那激流浪潮之中",
         "text": "Lady, running down to the riptide"
       },
       {
@@ -29980,13 +29980,13 @@
       "'Cause you're gonna sing the words wrong"
     ],
     "cn": [
-      "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "我曾經害怕看牙醫，也害怕黑暗",
       "我害怕漂亮的女孩和開始談話",
       "噢，我所有的朋友都變綠了",
       "你是他們夢中魔術師的助手",
       "啊-哦-哦-哦，啊-啊-啊-啊-啊",
       "然後他們解開",
-      "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "女士，奔向那激流浪潮之中",
       "被帶到黑暗面",
       "我想成為你最親密的伴侶",
       "你唱那首歌的時候我愛你",
@@ -29995,10 +29995,10 @@
       "我想你會喜歡這部電影",
       "這傢夥決定辭職前往紐約市",
       "這個牛仔在逃避自己",
-      "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "而她一直生活在觸不可及的高處",
       "啊-哦-哦-哦，啊-啊-哦",
       "然後他們解開",
-      "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "女士，奔向那激流浪潮之中",
       "被帶到黑暗面",
       "我想成為你最親密的伴侶",
       "你唱那首歌的時候我愛你",
@@ -30010,7 +30010,7 @@
       "我不能擁有它，我不能以任何其他方式擁有它",
       "我發誓她註定要上螢幕",
       "你見過最接近Michelle Pfeiffer的東西",
-      "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "女士，奔向那激流浪潮之中",
       "被帶到黑暗面",
       "我想成為你最親密的伴侶",
       "你唱那首歌的時候我愛你",
@@ -30050,7 +30050,7 @@
         "start": 0.73,
         "duration": 4.51,
         "en": "Lately, I've been, I've been losing sleep",
-        "zh": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+        "zh": "最近我總是輾轉難眠",
         "text": "Lately, I've been, I've been losing sleep"
       },
       {
@@ -30113,7 +30113,7 @@
         "start": 46.52,
         "duration": 1.9,
         "en": "Old, but I'm not that old",
-        "zh": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+        "zh": "雖然漸漸年長，但我還沒那麼蒼老",
         "text": "Old, but I'm not that old"
       },
       {
@@ -30155,7 +30155,7 @@
         "start": 70.38,
         "duration": 3.93,
         "en": "I couldn't lie, couldn't lie, couldn't lie",
-        "zh": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+        "zh": "我無法說謊，無法說謊，無法說謊",
         "text": "I couldn't lie, couldn't lie, couldn't lie"
       },
       {
@@ -30169,7 +30169,7 @@
         "start": 78.47,
         "duration": 3.35,
         "en": "Lately, I've been, I've been losing sleep",
-        "zh": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+        "zh": "最近我總是輾轉難眠",
         "text": "Lately, I've been, I've been losing sleep"
       },
       {
@@ -30260,7 +30260,7 @@
         "start": 125.26,
         "duration": 1.88,
         "en": "Old, but I'm not that old",
-        "zh": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+        "zh": "雖然漸漸年長，但我還沒那麼蒼老",
         "text": "Old, but I'm not that old"
       },
       {
@@ -30295,7 +30295,7 @@
         "start": 141.34,
         "duration": 3.33,
         "en": "I couldn't lie, couldn't lie, couldn't lie",
-        "zh": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+        "zh": "我無法說謊，無法說謊，無法說謊",
         "text": "I couldn't lie, couldn't lie, couldn't lie"
       },
       {
@@ -30309,7 +30309,7 @@
         "start": 149.12,
         "duration": 3.71,
         "en": "Lately, I've been, I've been losing sleep",
-        "zh": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+        "zh": "最近我總是輾轉難眠",
         "text": "Lately, I've been, I've been losing sleep"
       },
       {
@@ -30365,7 +30365,7 @@
         "start": 183.76,
         "duration": 2.3,
         "en": "Oh, take that money, watch it burn",
-        "zh": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+        "zh": "把那些金錢拿去，看著它化為灰燼",
         "text": "Oh, take that money, watch it burn"
       },
       {
@@ -30620,7 +30620,7 @@
       "Sink in the river, the lessons I've learned"
     ],
     "cn": [
-      "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "最近我總是輾轉難眠",
       "夢想著我們能成為怎樣的人",
       "但是寶貝，我一直在努力祈禱",
       "說：「不要再數錢了，我們要數星星了」",
@@ -30629,15 +30629,15 @@
       "搖擺我的心越過界限",
       "我臉上有閃爍的跡象",
       "尋找它，你會發現",
-      "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "雖然漸漸年長，但我還沒那麼蒼老",
       "年輕，但我沒那麼大膽",
       "我不認為世界被賣掉了",
       "只做我們被告知的事",
       "我覺得做錯事是對的",
       "我覺得做對的事情有點不對勁",
-      "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "我無法說謊，無法說謊，無法說謊",
       "所有殺死我的東西都讓我覺得自己活著",
-      "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "最近我總是輾轉難眠",
       "夢想著我們能成為怎樣的人",
       "但是寶貝，我一直在努力祈禱",
       "說：「不要再數錢了，我們要數星星了」",
@@ -30650,14 +30650,14 @@
       "沿著這條河，每一個轉彎",
       "希望是我們的四個字母",
       "賺錢，看著它燃燒",
-      "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "雖然漸漸年長，但我還沒那麼蒼老",
       "年輕，但我沒那麼大膽",
       "我不認為世界被賣掉了",
       "只做我們被告知的事",
       "我覺得做對的事情有點不對勁",
-      "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "我無法說謊，無法說謊，無法說謊",
       "淹沒我的一切都讓我想飛",
-      "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "最近我總是輾轉難眠",
       "夢想著我們能成為怎樣的人",
       "但是寶貝，我一直在努力祈禱",
       "說：「不要再數錢了，我們會數星星的」（喔喔）",
@@ -30665,7 +30665,7 @@
       "夢見我們能成為怎樣的人(ooh-ooh)",
       "但是寶貝，我一直在努力祈禱",
       "說：「不要再數錢了，我們會，我們會數星星」（喔喔）",
-      "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "把那些金錢拿去，看著它化為灰燼",
       "沉入河中，我學到的教訓",
       "拿著那筆錢，看著它燃燒",
       "沉入河中，我學到的教訓",
@@ -30710,7 +30710,7 @@
         "start": 32.83,
         "duration": 1.9,
         "en": "I'm holding on your rope",
-        "zh": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+        "zh": "我緊緊抓著你拋下的繩索",
         "text": "I'm holding on your rope"
       },
       {
@@ -30885,7 +30885,7 @@
         "start": 189.23,
         "duration": 2.25,
         "en": "I'm holding on your rope",
-        "zh": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+        "zh": "我緊緊抓著你拋下的繩索",
         "text": "I'm holding on your rope"
       },
       {
@@ -30932,7 +30932,7 @@
       "Got me ten feet off the ground"
     ],
     "cn": [
-      "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "我緊緊抓著你拋下的繩索",
       "讓我離地10英尺",
       "我聽到你說的話",
       "但我就是發不出一個聲音",
@@ -30957,7 +30957,7 @@
       "我說道歉太遲了，太遲了",
       "我說現在道歉太遲了，對，太遲了",
       "我說現在道歉太遲了，對，太遲了",
-      "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "我緊緊抓著你拋下的繩索",
       "讓我離地10英尺"
     ]
   },
@@ -35250,7 +35250,7 @@
         "start": 10.94,
         "duration": 2.62,
         "en": "Said baby, said baby, said baby",
-        "zh": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+        "zh": "寶貝，說吧寶貝，說吧寶貝",
         "text": "Said baby, said baby, said baby"
       },
       {
@@ -35355,7 +35355,7 @@
         "start": 45.9,
         "duration": 5.01,
         "en": "So if you tryna lay in these arms",
-        "zh": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+        "zh": "如果你想躺在我的臂彎裡",
         "text": "So if you tryna lay in these arms"
       },
       {
@@ -35460,7 +35460,7 @@
         "start": 102.84,
         "duration": 2.19,
         "en": "Girl, let's jump in, it's bubbling",
-        "zh": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+        "zh": "女孩，讓我們跳進去吧，熱情正在沸騰",
         "text": "Girl, let's jump in, it's bubbling"
       },
       {
@@ -35565,7 +35565,7 @@
         "start": 166.85,
         "duration": 6.5,
         "en": "Hey-hey, I'ma leave my door open, baby (I'ma leave the door open)",
-        "zh": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+        "zh": "嘿，我會為你留著門，寶貝（為你留著門）",
         "text": "Hey-hey, I'ma leave my door open, baby (I'ma leave the door open)"
       },
       {
@@ -35768,7 +35768,7 @@
       "La-la-la, la-la-la-la (la-la, la-la)"
     ],
     "cn": [
-      "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "寶貝，說吧寶貝，說吧寶貝",
       "你在做什麼？ （你在做什麼？ ）",
       "你在哪裡？ （你在哪裡？ ）",
       "哦，你有計劃嗎？ （你有計劃嗎？ ）",
@@ -35783,7 +35783,7 @@
       "關於這座豪宅，發生了甚麼事？",
       "我不是在玩遊戲",
       "我說的每一個字都直接來自內心",
-      "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "如果你想躺在我的臂彎裡",
       "我會把門開啟",
       "我會把門開啟",
       "我會把門開啟的，姑娘",
@@ -35798,7 +35798,7 @@
       "噢，寶貝，不要讓我（等待）",
       "我們可以做很多愛（ shamone ）",
       "我在說接吻，擁抱，浴缸裡的玫瑰花瓣",
-      "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "女孩，讓我們跳進去吧，熱情正在沸騰",
       "我不是在玩遊戲",
       "我說的每一個字都直接來自內心",
       "所以（如果你）如果你（ tryna ） tryna躺在這些手臂上",
@@ -35813,7 +35813,7 @@
       "啦啦啦，啦啦啦（我得見你，寶貝）",
       "啦啦啦，啦啦啦（女孩，我是崔娜給你這個）",
       "啊啊啊啊啊啊，啊啊",
-      "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "嘿，我會為你留著門，寶貝（為你留著門）",
       "我要離開，我要把門開啟，姑娘",
       "（我把門開啟，希望如此）我希望，希望如此",
       "你感受到我的感受",
