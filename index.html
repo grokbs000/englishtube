@@ -1340,31 +1340,33 @@ html[data-theme='dark'] .custom-maker-head {
 .yt-search-input-group {
   display: flex;
   align-items: center;
-  background: #ffffff;
-  border: 2px solid #6d5dfc;
+  background: #f1f4f9; /* 現代高質感淺灰色底色 */
+  border: 1.5px solid #cbd5e1;
   border-radius: 14px;
   padding: 4px 8px 4px 14px;
   gap: 10px;
-  box-shadow: 0 4px 14px rgba(109, 93, 252, 0.12);
-  transition: all .15s ease;
+  box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.04);
+  transition: all .2s ease;
   flex-shrink: 0;
 }
 .yt-search-input-group:focus-within {
-  border-color: #4f46e5;
-  box-shadow: 0 0 0 4px rgba(109, 93, 252, 0.25);
+  background: #f8fafc;
+  border-color: #6d5dfc;
+  box-shadow: 0 0 0 4px rgba(109, 93, 252, 0.15);
 }
-.yt-search-input-group input {
+.yt-search-input-group input, #ytSearchInput {
   flex: 1;
-  border: 0;
-  background: transparent;
+  border: 0 !important;
+  background: transparent !important;
   color: #0f172a !important;
   font-size: 15px;
   font-weight: 600;
   outline: none;
   height: 40px;
+  caret-color: #6d5dfc;
 }
-.yt-search-input-group input::placeholder {
-  color: #94a3b8;
+.yt-search-input-group input::placeholder, #ytSearchInput::placeholder {
+  color: #94a3b8 !important;
   font-weight: 500;
 }
 .search-submit-btn {
@@ -1372,6 +1374,83 @@ html[data-theme='dark'] .custom-maker-head {
   font-size: 13px !important;
   font-weight: 800 !important;
   border-radius: 10px !important;
+}
+
+/* Search History Bar (搜尋紀錄) */
+.yt-search-history-bar {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  overflow-x: auto;
+  padding: 2px 0 4px;
+  scrollbar-width: thin;
+  scrollbar-color: rgba(109, 93, 252, 0.3) transparent;
+  flex-shrink: 0;
+}
+.yt-search-history-bar::-webkit-scrollbar {
+  height: 4px;
+}
+.yt-search-history-bar::-webkit-scrollbar-thumb {
+  background: rgba(109, 93, 252, 0.3);
+  border-radius: 2px;
+}
+.yt-history-chips-container {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  flex: 1;
+  overflow-x: auto;
+}
+.yt-history-chip {
+  flex-shrink: 0;
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  padding: 3px 10px;
+  background: #e2e8f0;
+  color: #334155;
+  border: 1px solid #cbd5e1;
+  border-radius: 14px;
+  font-size: 11px;
+  font-weight: 650;
+  cursor: pointer;
+  transition: all .15s ease;
+  white-space: nowrap;
+}
+.yt-history-chip:hover {
+  background: #cbd5e1;
+  color: #0f172a;
+  border-color: #94a3b8;
+  transform: translateY(-1px);
+}
+.yt-history-del {
+  font-size: 13px;
+  color: #64748b;
+  margin-left: 2px;
+  line-height: 1;
+  border-radius: 50%;
+  padding: 1px 3px;
+}
+.yt-history-del:hover {
+  color: #ef4444;
+  background: rgba(239, 68, 68, 0.15);
+}
+.yt-history-clear-btn {
+  flex-shrink: 0;
+  background: transparent;
+  border: 0;
+  color: #94a3b8;
+  font-size: 11px;
+  font-weight: 700;
+  cursor: pointer;
+  padding: 3px 8px;
+  border-radius: 6px;
+  transition: all .15s ease;
+  white-space: nowrap;
+}
+.yt-history-clear-btn:hover {
+  color: #ef4444;
+  background: rgba(239, 68, 68, 0.08);
 }
 
 /* Quick Lifestyle Keywords Bar */
@@ -1585,68 +1664,119 @@ html[data-theme='dark'] .custom-maker-head {
 }
 
 /* Dark theme overrides for Explorer */
-html[data-theme='dark'] .yt-explorer-box {
+html[data-theme='dark'] .yt-explorer-box,
+@media(prefers-color-scheme:dark) html:not([data-theme='light']) .yt-explorer-box {
   background: #101124;
   border-color: #2b2d4c;
   color: #f8fafc;
 }
-html[data-theme='dark'] .yt-explorer-head {
+html[data-theme='dark'] .yt-explorer-head,
+@media(prefers-color-scheme:dark) html:not([data-theme='light']) .yt-explorer-head {
   border-color: #2b2d4c;
   background: #171832;
 }
-html[data-theme='dark'] .yt-explorer-meta-box {
+html[data-theme='dark'] .yt-explorer-meta-box,
+@media(prefers-color-scheme:dark) html:not([data-theme='light']) .yt-explorer-meta-box {
   background: #171832;
   border-color: #2b2d4c;
 }
-html[data-theme='dark'] .yt-exp-video-title {
+html[data-theme='dark'] .yt-exp-video-title,
+@media(prefers-color-scheme:dark) html:not([data-theme='light']) .yt-exp-video-title {
   color: #ffffff;
 }
-html[data-theme='dark'] .yt-search-input-group {
-  background: #1a1b36;
-  border-color: #8b7cff;
-  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+html[data-theme='dark'] .yt-search-input-group,
+@media(prefers-color-scheme:dark) html:not([data-theme='light']) .yt-search-input-group {
+  background: #23253b !important; /* 深色模式灰色底色 */
+  border-color: #3b3d5c !important;
+  box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.25) !important;
 }
-html[data-theme='dark'] .yt-search-input-group input {
+html[data-theme='dark'] .yt-search-input-group:focus-within,
+@media(prefers-color-scheme:dark) html:not([data-theme='light']) .yt-search-input-group:focus-within {
+  background: #2a2c46 !important;
+  border-color: #8b7cff !important;
+  box-shadow: 0 0 0 4px rgba(139, 124, 255, 0.25) !important;
+}
+html[data-theme='dark'] .yt-search-input-group input,
+@media(prefers-color-scheme:dark) html:not([data-theme='light']) .yt-search-input-group input,
+html[data-theme='dark'] #ytSearchInput,
+@media(prefers-color-scheme:dark) html:not([data-theme='light']) #ytSearchInput {
+  background: transparent !important;
   color: #ffffff !important;
 }
-html[data-theme='dark'] .yt-search-input-group input::placeholder {
+html[data-theme='dark'] .yt-search-input-group input::placeholder,
+@media(prefers-color-scheme:dark) html:not([data-theme='light']) .yt-search-input-group input::placeholder,
+html[data-theme='dark'] #ytSearchInput::placeholder,
+@media(prefers-color-scheme:dark) html:not([data-theme='light']) #ytSearchInput::placeholder {
+  color: #8589a8 !important;
+}
+html[data-theme='dark'] .yt-history-chip,
+@media(prefers-color-scheme:dark) html:not([data-theme='light']) .yt-history-chip {
+  background: #25263d;
+  color: #cbd5e1;
+  border-color: #3b3d5c;
+}
+html[data-theme='dark'] .yt-history-chip:hover,
+@media(prefers-color-scheme:dark) html:not([data-theme='light']) .yt-history-chip:hover {
+  background: #323452;
+  color: #ffffff;
+  border-color: #8b7cff;
+}
+html[data-theme='dark'] .yt-history-del,
+@media(prefers-color-scheme:dark) html:not([data-theme='light']) .yt-history-del {
   color: #8589a8;
 }
-html[data-theme='dark'] .yt-kw-pill {
+html[data-theme='dark'] .yt-history-clear-btn,
+@media(prefers-color-scheme:dark) html:not([data-theme='light']) .yt-history-clear-btn {
+  color: #8589a8;
+}
+html[data-theme='dark'] .yt-history-clear-btn:hover,
+@media(prefers-color-scheme:dark) html:not([data-theme='light']) .yt-history-clear-btn:hover {
+  color: #f87171;
+}
+html[data-theme='dark'] .yt-kw-pill,
+@media(prefers-color-scheme:dark) html:not([data-theme='light']) .yt-kw-pill {
   background: rgba(139, 124, 255, 0.16);
   color: #c7d2fe;
   border-color: rgba(139, 124, 255, 0.35);
 }
-html[data-theme='dark'] .yt-kw-pill:hover {
+html[data-theme='dark'] .yt-kw-pill:hover,
+@media(prefers-color-scheme:dark) html:not([data-theme='light']) .yt-kw-pill:hover {
   background: #8b7cff;
   color: #ffffff;
 }
-html[data-theme='dark'] .yt-chip {
+html[data-theme='dark'] .yt-chip,
+@media(prefers-color-scheme:dark) html:not([data-theme='light']) .yt-chip {
   background: #171832;
   border-color: #2e3052;
   color: #cbd5e1;
 }
-html[data-theme='dark'] .yt-chip:hover {
+html[data-theme='dark'] .yt-chip:hover,
+@media(prefers-color-scheme:dark) html:not([data-theme='light']) .yt-chip:hover {
   background: rgba(139, 124, 255, 0.2);
   border-color: #8b7cff;
   color: #fff;
 }
-html[data-theme='dark'] .yt-card-row {
+html[data-theme='dark'] .yt-card-row,
+@media(prefers-color-scheme:dark) html:not([data-theme='light']) .yt-card-row {
   background: #171832;
   border-color: #272844;
 }
-html[data-theme='dark'] .yt-card-row:hover {
+html[data-theme='dark'] .yt-card-row:hover,
+@media(prefers-color-scheme:dark) html:not([data-theme='light']) .yt-card-row:hover {
   background: rgba(109, 93, 252, 0.18);
   border-color: #8b7cff;
 }
-html[data-theme='dark'] .yt-card-row.playing {
+html[data-theme='dark'] .yt-card-row.playing,
+@media(prefers-color-scheme:dark) html:not([data-theme='light']) .yt-card-row.playing {
   background: rgba(109, 93, 252, 0.25);
   border-color: #8b7cff;
 }
-html[data-theme='dark'] .yt-card-title {
+html[data-theme='dark'] .yt-card-title,
+@media(prefers-color-scheme:dark) html:not([data-theme='light']) .yt-card-title {
   color: #f1f5f9;
 }
-html[data-theme='dark'] .yt-card-author {
+html[data-theme='dark'] .yt-card-author,
+@media(prefers-color-scheme:dark) html:not([data-theme='light']) .yt-card-author {
   color: #94a3b8;
 }
 
@@ -1657,7 +1787,7 @@ html[data-theme='dark'] .yt-card-author {
 <script src="https://www.youtube.com/iframe_api"></script>
 </head>
 <body>
-<header class="top"><div class="logo">ENGLISH<b>TUBE</b></div><nav class="nav"><a href="#discover" onclick="switchMediaMode('video')">探索影片</a><a href="#discover" onclick="switchMediaMode('song')" style="display:inline-flex;align-items:center">探索歌曲 <span class="nav-badge">100首</span></a><a href="javascript:void(0)" onclick="openYtExplorerModal()" style="display:inline-flex;align-items:center;gap:4px;color:var(--purple,#6d5dfc);font-weight:800"><span style="font-size:14px">🌐</span>無廣告找素材 <span class="nav-badge" style="background:#10b981;color:#fff;font-size:10px">NEW</span></a><a href="#study">學習工具</a><a href="#saved" onclick="setFilter('收藏')">我的收藏</a></nav><label class="search">⌕ <input id="search" placeholder="搜尋影片、主題..." autocomplete="off"></label><button class="pill" id="installBtn">＋ 安裝 App</button><button class="dark-toggle" id="darkToggle" title="切換深色模式" onclick="toggleDark()">🌙</button></header>
+<header class="top"><div class="logo">ENGLISH<b>TUBE</b></div><nav class="nav"><a href="#discover" onclick="switchMediaMode('video')">探索影片</a><a href="#discover" onclick="switchMediaMode('song')" style="display:inline-flex;align-items:center">探索歌曲 <span class="nav-badge">100首</span></a><a href="javascript:void(0)" onclick="setFilter('自選')" style="display:inline-flex;align-items:center;gap:4px;color:var(--purple,#6d5dfc);font-weight:750"><span style="font-size:14px">✨</span>自選加入 <span class="nav-badge" id="customNavBadge" style="background:var(--purple,#6d5dfc);color:#fff">0</span></a><a href="javascript:void(0)" onclick="openYtExplorerModal()" style="display:inline-flex;align-items:center;gap:4px;color:var(--purple,#6d5dfc);font-weight:800"><span style="font-size:14px">🌐</span>無廣告找素材 <span class="nav-badge" style="background:#10b981;color:#fff;font-size:10px">NEW</span></a><a href="#study">學習工具</a><a href="#saved" onclick="setFilter('收藏')">我的收藏</a></nav><label class="search">⌕ <input id="search" placeholder="搜尋影片、主題..." autocomplete="off"></label><button class="pill" id="installBtn">＋ 安裝 App</button><button class="dark-toggle" id="darkToggle" title="切換深色模式" onclick="toggleDark()">🌙</button></header>
 <div class="net-badge online" id="netBadge">📡 已離線</div>
 <main class="wrap">
 <section class="hero"><div><div class="eyebrow">YOUR DAILY ENGLISH HABIT</div><h1>喜歡什麼，就用什麼<br>練好你的英文。</h1><p>真實情境影片 × 英中字幕 × 單字收藏。每天 10 分鐘，讓英文從「聽得懂」變成「說得出口」。</p><div class="cta"><button class="pill" onclick="document.querySelector('#discover').scrollIntoView({behavior:'smooth'})">開始今天的學習　→</button><button class="ghost" onclick="openYtExplorerModal()" style="border-color:var(--purple,#6d5dfc);color:var(--purple,#6d5dfc);font-weight:700">🌐 無廣告 YouTube 找素材</button><button class="ghost" onclick="openCustomLesson()">＋ 貼網址自製教材</button></div></div><div class="heroart"><div class="orb"><div class="playbig">▶</div></div><div class="float one">✦ 每天 10 分鐘</div><div class="float two">🎧 Listen · Learn · Speak</div></div></section>
@@ -1672,6 +1802,11 @@ html[data-theme='dark'] .yt-card-author {
       <span class="seg-icon">🎵</span>
       <span class="seg-text">探索英文歌曲</span>
       <span class="seg-badge">經典100首</span>
+    </button>
+    <button class="seg-btn" id="btnModeCustom" onclick="setChannel('custom')">
+      <span class="seg-icon">✨</span>
+      <span class="seg-text">自選加入</span>
+      <span class="seg-badge" id="customSegBadge" style="background:var(--purple,#6d5dfc);color:#fff">0</span>
     </button>
   </div>
   <div class="sectionhead" style="margin-top:10px">
@@ -1793,16 +1928,25 @@ html[data-theme='dark'] .yt-card-author {
         <div class="yt-search-bar-wrap">
           <div class="yt-search-input-group">
             <span style="font-size:18px;color:#6d5dfc;font-weight:900">⌕</span>
-            <input id="ytSearchInput" type="text" placeholder="輸入生活主題（例：AI、iPhone 16、Tesla、電影、旅遊、面試）或貼上 YouTube 網址..." onkeydown="if(event.key==='Enter')doYtSearch()" />
+            <input id="ytSearchInput" type="text" placeholder="輸入生活主題（例：AI、Tesla、科技、電影、旅遊、面試）或貼上 YouTube 網址..." onkeydown="if(event.key==='Enter')doYtSearch()" />
             <button class="pill search-submit-btn" onclick="doYtSearch()">搜尋</button>
           </div>
+        </div>
+
+        <!-- Search History Bar (搜尋紀錄) -->
+        <div class="yt-search-history-bar" id="ytSearchHistoryBar" style="display:none">
+          <span class="yt-kw-label" style="display:inline-flex;align-items:center;gap:4px">
+            <span>🕒 搜尋紀錄：</span>
+          </span>
+          <div class="yt-history-chips-container" id="ytHistoryChipsContainer"></div>
+          <button class="yt-history-clear-btn" onclick="clearSearchHistory()" title="清除紀錄">✕ 清除</button>
         </div>
 
         <!-- Quick Lifestyle Keyword Pills -->
         <div class="yt-quick-keywords-bar">
           <span class="yt-kw-label">🔥 熱門生活：</span>
           <button class="yt-kw-pill" onclick="quickSearchKw('AI 人工智慧')">🤖 AI</button>
-          <button class="yt-kw-pill" onclick="quickSearchKw('iPhone 16 Pro')">📱 iPhone 16</button>
+          <button class="yt-kw-pill" onclick="quickSearchKw('Tech Trends Gadgets')">💻 3C 科技</button>
           <button class="yt-kw-pill" onclick="quickSearchKw('Tesla Cybertruck')">🚗 Tesla 跑車</button>
           <button class="yt-kw-pill" onclick="quickSearchKw('best movie clips speech')">🎬 經典電影</button>
           <button class="yt-kw-pill" onclick="quickSearchKw('restaurant ordering dialogue')">🍔 餐廳點餐</button>
@@ -1816,7 +1960,7 @@ html[data-theme='dark'] .yt-card-author {
         <!-- Curated Topic Chips -->
         <div class="yt-category-chips" id="ytCategoryChips">
           <button class="yt-chip active" onclick="switchYtCategory('ai', this)">🤖 AI 科技前沿</button>
-          <button class="yt-chip" onclick="switchYtCategory('tech3c', this)">📱 3C · iPhone評測</button>
+          <button class="yt-chip" onclick="switchYtCategory('tech3c', this)">💻 3C · 科技新知</button>
           <button class="yt-chip" onclick="switchYtCategory('car', this)">🚗 汽車 · Tesla超跑</button>
           <button class="yt-chip" onclick="switchYtCategory('movie', this)">🎬 經典電影精華</button>
           <button class="yt-chip" onclick="switchYtCategory('interviews', this)">🍿 名人訪談脫口秀</button>
@@ -48969,6 +49113,7 @@ const saved = new Set(JSON.parse(localStorage.getItem('et_saved')||'[]')), saved
 
 const CHANNEL_DEFS = [
   { id: 'all', name: '全部頻道', icon: '🌟' },
+  { id: 'custom', name: '自選加入', icon: '✨' },
   { id: 'Business & Finance', name: '職場商業', icon: '💼' },
   { id: 'Learning Resources', name: '學習口說', icon: '🎓' },
   { id: 'Animation', name: 'TED-Ed動畫', icon: '🎬' },
@@ -48995,21 +49140,21 @@ const songCats = ['全部','Taylor Swift','90經典','千禧流行','浪漫抒�
 
 function getChannelName(id) {
   const ch = CHANNEL_DEFS.find(c => c.id === id);
-  return ch ? `${ch.icon} ${ch.name}` : id;
+  return ch ? `${ch.icon} ${ch.name}` : (id === '自選加入' ? '✨ 自選加入' : id);
 }
 
 function getChannelIcon(id) {
   const ch = CHANNEL_DEFS.find(c => c.id === id);
-  return ch ? ch.icon : '🎬';
+  return ch ? ch.icon : (id === '自選加入' ? '✨' : '🎬');
 }
 
 function switchMediaMode(mode) {
-  if (mode === mediaMode) return;
+  if (mode === mediaMode && selectedChannel !== 'custom') return;
   mediaMode = mode;
   if (mode === 'song') {
     selectedChannel = 'Music';
   } else {
-    if (selectedChannel === 'Music') selectedChannel = 'all';
+    if (selectedChannel === 'Music' || selectedChannel === 'custom') selectedChannel = 'all';
   }
   selectedSubCat = '全部';
   updateHeaderState();
@@ -49020,8 +49165,6 @@ function setChannel(chId) {
   selectedChannel = chId;
   if (chId === 'Music') {
     mediaMode = 'song';
-  } else if (chId === 'saved') {
-    // keep current mode or allow both
   } else {
     mediaMode = 'video';
   }
@@ -49043,6 +49186,9 @@ function setFilter(c) {
   if (c === '收藏') {
     setChannel('saved');
     document.querySelector('#discover')?.scrollIntoView({behavior:'smooth'});
+  } else if (c === '自選' || c === 'custom') {
+    setChannel('custom');
+    document.querySelector('#discover')?.scrollIntoView({behavior:'smooth'});
   } else {
     setChannel('all');
   }
@@ -49051,19 +49197,29 @@ function setFilter(c) {
 function updateHeaderState() {
   const btnVideo = document.getElementById('btnModeVideo');
   const btnSong = document.getElementById('btnModeSong');
+  const btnCustom = document.getElementById('btnModeCustom');
   const title = document.getElementById('discoverTitle');
   const sub = document.getElementById('discoverSubTitle');
   const searchInput = document.getElementById('search');
 
-  if (mediaMode === 'song') {
+  if (selectedChannel === 'custom') {
+    if (btnCustom) btnCustom.classList.add('active');
+    if (btnVideo) btnVideo.classList.remove('active');
+    if (btnSong) btnSong.classList.remove('active');
+    if (title) title.textContent = '✨ 自選加入教材庫';
+    if (sub) sub.textContent = '個人貼網址與 YouTube Explorer 探索收錄之專屬自訂教材';
+    if (searchInput) searchInput.placeholder = '搜尋自選教材名稱、關鍵字...';
+  } else if (mediaMode === 'song') {
     if (btnSong) btnSong.classList.add('active');
     if (btnVideo) btnVideo.classList.remove('active');
+    if (btnCustom) btnCustom.classList.remove('active');
     if (title) title.textContent = '探索英文歌曲 (經典100首)';
     if (sub) sub.textContent = '全曲 100% 雙語字幕 · 卡拉OK逐詞同步跟唱';
     if (searchInput) searchInput.placeholder = '搜尋情歌、歌手、主題...';
   } else {
     if (btnVideo) btnVideo.classList.add('active');
     if (btnSong) btnSong.classList.remove('active');
+    if (btnCustom) btnCustom.classList.remove('active');
     if (title) title.textContent = '探索英文影片 (10大頻道 400部)';
     if (sub) sub.textContent = 'VoiceTube 風格跟讀 · A1~C1 分級精選教材';
     if (searchInput) searchInput.placeholder = '搜尋影片、頻道、主題...';
@@ -49091,12 +49247,21 @@ function persist() {
 function renderNavBars() {
   // 1. Channel Nav
   const allPool = [...videos, ...songs];
+  const customCount = videos.filter(v => v.isCustom || v.cat === '自訂' || v.cat === '探索' || (localStorage.getItem('et_custom_lessons') || '').includes(v.id)).length;
+  
+  // Update header & segmented badge counts
+  const customNavBadge = document.getElementById('customNavBadge');
+  if (customNavBadge) customNavBadge.textContent = customCount;
+  const customSegBadge = document.getElementById('customSegBadge');
+  if (customSegBadge) customSegBadge.textContent = customCount;
+
   const chNav = document.getElementById('channelNav');
   if (chNav) {
     chNav.innerHTML = CHANNEL_DEFS.map(ch => {
       let count = 0;
       if (ch.id === 'all') count = mediaMode === 'song' ? songs.length : (selectedChannel === 'saved' ? saved.size : (mediaMode === 'video' ? videos.length : allPool.length));
       else if (ch.id === 'saved') count = saved.size;
+      else if (ch.id === 'custom') count = customCount;
       else if (ch.id === 'Music') count = songs.length;
       else count = videos.filter(v => v.channel === ch.id).length;
 
@@ -49155,6 +49320,8 @@ function render() {
     pool = songs;
   } else if (selectedChannel === 'saved') {
     pool = [...videos, ...songs].filter(v => saved.has(v.id));
+  } else if (selectedChannel === 'custom') {
+    pool = videos.filter(v => v.isCustom || v.cat === '自訂' || v.cat === '探索' || (localStorage.getItem('et_custom_lessons') || '').includes(v.id));
   } else if (selectedChannel !== 'all') {
     pool = videos.filter(v => v.channel === selectedChannel);
   } else {
@@ -49196,8 +49363,8 @@ function render() {
   const gridEl = document.getElementById('grid');
   if (gridEl) {
     gridEl.innerHTML = arr.map(v => {
-      const chIcon = getChannelIcon(v.channel || (v.type === 'song' ? 'Music' : 'Leisure & Travel'));
-      const chName = (CHANNEL_DEFS.find(c => c.id === (v.channel || (v.type==='song'?'Music':'')))||{}).name || v.cat;
+      const chIcon = getChannelIcon(v.channel || (v.type === 'song' ? 'Music' : (v.isCustom ? '自選加入' : 'Leisure & Travel')));
+      const chName = (CHANNEL_DEFS.find(c => c.id === (v.channel || (v.type==='song'?'Music':'')))||{}).name || v.cat || '自選加入';
       return `
         <article class="video" onclick="openVideo('${v.id}')">
           <div class="thumb" style="background:${v.color}">
@@ -49220,7 +49387,26 @@ function render() {
   }
 
   const emptyEl = document.getElementById('empty');
-  if (emptyEl) emptyEl.style.display = arr.length ? 'none' : 'block';
+  if (emptyEl) {
+    if (arr.length) {
+      emptyEl.style.display = 'none';
+    } else {
+      emptyEl.style.display = 'block';
+      if (selectedChannel === 'custom') {
+        emptyEl.innerHTML = `
+          <div style="font-size:48px;margin-bottom:12px">✨</div>
+          <h3 style="font-size:20px;font-weight:800;margin-bottom:8px">尚未加入自選教材</h3>
+          <p style="color:var(--muted,#64748b);max-width:480px;margin:0 auto 20px;line-height:1.6">你可以隨時使用「無廣告找素材」挑選喜歡的 YouTube 影片，或直接「貼網址自製教材」，打造屬於你的個人英文學習庫！</p>
+          <div style="display:flex;gap:12px;justify-content:center;flex-wrap:wrap">
+            <button class="pill" onclick="openYtExplorerModal()" style="display:inline-flex;align-items:center;gap:6px">🌐 無廣告 YouTube 找素材</button>
+            <button class="ghost" onclick="openCustomLesson()" style="border-radius:24px;border-color:var(--purple,#6d5dfc);color:var(--purple,#6d5dfc);font-weight:700">＋ 貼網址自製教材</button>
+          </div>
+        `;
+      } else {
+        emptyEl.innerHTML = `<h3>找不到符合條件的教材</h3><p>請嘗試其他關鍵字或切換頻道分類。</p>`;
+      }
+    }
+  }
   persist();
 }
 function toggleSave(id){saved.has(id)?saved.delete(id):saved.add(id);render();toast(saved.has(id)?'已加入收藏':'已取消收藏')}
@@ -49385,14 +49571,15 @@ async function startGenerateCustomLesson() {
       id: vid,
       title: videoTitle,
       speaker: 'YouTube',
-      channel: 'Learning Resources',
-      cat: '自訂',
+      channel: '自選加入',
+      cat: '自選',
+      isCustom: true,
       level: 'B1',
       duration: formatDuration(cues[cues.length - 1]?.start || 180),
       views: 'Custom',
-      emoji: '🎬',
+      emoji: '✨',
       color: 'linear-gradient(135deg, #667eea, #764ba2)',
-      zh: '使用者自訂教材',
+      zh: '使用者自選教材',
       cues: cues,
       en: cues.map(c => c.text),
       cn: cues.map(c => '點擊單字可查詢字典或使用 TTS 聆聽'),
@@ -49454,10 +49641,10 @@ const CURATED_YT_COLLECTIONS = {
     { id: '4_aOIA-vyBo', title: 'Optimistic Nihilism - Why Life Matters (Kurzgesagt)', duration: 371, channel: 'Kurzgesagt – In a Nutshell' }
   ],
   tech3c: [
-    { id: 'MRtg6A1f2Ko', title: 'iPhone 16/16 Pro Review: Times Have Changed!', duration: 1241, channel: 'Marques Brownlee' },
-    { id: 'nM_A8850kw0', title: 'Why the iPhone 16 Pro is Too Good to Replace', duration: 596, channel: 'Origin Disc' },
-    { id: '7fQGx7mZxcw', title: 'Apple iPhone 16 Pro full review', duration: 570, channel: 'GSMArena Official' },
-    { id: 'UF8uR6Z6KLc', title: "Steve Jobs' 2005 Stanford Commencement Address", duration: 904, channel: 'Stanford' }
+    { id: 'UF8uR6Z6KLc', title: "Steve Jobs' 2005 Stanford Commencement Address", duration: 904, channel: 'Stanford' },
+    { id: 'eIho2S0ZahI', title: 'How Does Computer Memory Work? - Kanawat Senanan', duration: 304, channel: 'TED-Ed' },
+    { id: 'YQHsXMglC9A', title: 'How Silicon Microchips are Made', duration: 420, channel: 'Branch Education' },
+    { id: 'p7_9h8z_wJE', title: 'The Future of Personal Computing & Tech Gadgets', duration: 615, channel: 'The Verge' }
   ],
   car: [
     { id: 'O0cs8aIXgkc', title: 'Tesla Cybertruck Review: Already Iconic?', duration: 1644, channel: 'Marques Brownlee' },
@@ -49509,6 +49696,66 @@ const CURATED_YT_COLLECTIONS = {
   ]
 };
 
+// ── Search History Engine (搜尋紀錄管理) ──
+function getSearchHistory() {
+  try {
+    return JSON.parse(localStorage.getItem('et_yt_search_history') || '[]');
+  } catch(e) {
+    return [];
+  }
+}
+
+function saveSearchHistory(query) {
+  const q = String(query || '').trim();
+  if (!q || q.length < 2) return;
+  if (/^https?:\/\//i.test(q) || extractYouTubeId(q)) return;
+  try {
+    let list = getSearchHistory().filter(item => item.toLowerCase() !== q.toLowerCase());
+    list.unshift(q);
+    if (list.length > 12) list = list.slice(0, 12);
+    localStorage.setItem('et_yt_search_history', JSON.stringify(list));
+    renderSearchHistory();
+  } catch(e) {}
+}
+
+function removeSearchHistoryItem(item, e) {
+  if (e) e.stopPropagation();
+  try {
+    let list = getSearchHistory().filter(x => x.toLowerCase() !== item.toLowerCase());
+    localStorage.setItem('et_yt_search_history', JSON.stringify(list));
+    renderSearchHistory();
+  } catch(e) {}
+}
+
+function clearSearchHistory() {
+  localStorage.removeItem('et_yt_search_history');
+  renderSearchHistory();
+  toast('已清除搜尋紀錄');
+}
+
+function renderSearchHistory() {
+  const bar = document.getElementById('ytSearchHistoryBar');
+  const container = document.getElementById('ytHistoryChipsContainer');
+  if (!bar || !container) return;
+  const history = getSearchHistory();
+  if (!history.length) {
+    bar.style.display = 'none';
+    container.innerHTML = '';
+    return;
+  }
+  bar.style.display = 'flex';
+  container.innerHTML = history.map(item => {
+    const escaped = escapeHTML(item);
+    const safeArg = String(item).replace(/'/g, "\\'");
+    return `
+      <span class="yt-history-chip" onclick="quickSearchKw('${safeArg}')" title="點擊再次搜尋「${escaped}」">
+        <span>${escaped}</span>
+        <span class="yt-history-del" onclick="removeSearchHistoryItem('${safeArg}', event)" title="刪除此紀錄">×</span>
+      </span>
+    `;
+  }).join('');
+}
+
 function quickSearchKw(kw) {
   const input = document.getElementById('ytSearchInput');
   if (input) {
@@ -49523,6 +49770,8 @@ function openYtExplorerModal(targetVid) {
   if (!modal) return;
   modal.style.display = 'flex';
   document.body.style.overflow = 'hidden';
+
+  renderSearchHistory();
 
   const defaultItem = CURATED_YT_COLLECTIONS.ai[0];
   const vidToPlay = targetVid || defaultItem.id;
@@ -49648,6 +49897,8 @@ async function doYtSearch() {
     return;
   }
 
+  saveSearchHistory(query);
+
   const directVid = extractYouTubeId(query);
   if (directVid) {
     toast('正在載入指定 YouTube 影片...');
@@ -49732,12 +49983,13 @@ async function importExplorerVideoDirect(vid, title) {
       id: vid,
       title: finalTitle,
       speaker: 'YouTube Explorer',
-      channel: 'Curated English',
-      cat: '探索',
+      channel: '自選加入',
+      cat: '自選',
+      isCustom: true,
       level: 'B1',
       duration: formatDuration(cues[cues.length - 1]?.start || 180),
       views: 'New',
-      emoji: '🌐',
+      emoji: '✨',
       color: 'linear-gradient(135deg, #4facfe, #00f2fe)',
       zh: '探索收錄教材',
       cues: cues,
@@ -49866,7 +50118,7 @@ if(window.matchMedia('(display-mode: standalone)').matches||navigator.standalone
 document.querySelector('#installBtn').addEventListener('click',async()=>{if(deferredPrompt){deferredPrompt.prompt();const{outcome}=await deferredPrompt.userChoice;deferredPrompt=null;if(outcome==='accepted')toast('✓ 安裝中...')}else if(/iphone|ipad|ipod/i.test(navigator.userAgent)){toast('Safari：分享 → 加入主畫面')}else{toast('請從瀏覽器選單選擇「安裝應用程式」')}});
 // Register Service Worker + auto-reload on new SW version
 if('serviceWorker'in navigator&&location.protocol.startsWith('http')){
-  window.addEventListener('load',()=>navigator.serviceWorker.register('./sw.js?v=128').then(reg=>{
+  window.addEventListener('load',()=>navigator.serviceWorker.register('./sw.js?v=129').then(reg=>{
     try{reg.update()}catch(e){}
     reg.addEventListener('updatefound',()=>{
       const nw=reg.installing;
@@ -49907,6 +50159,8 @@ try {
   const savedCustoms = JSON.parse(localStorage.getItem('et_custom_lessons') || '[]');
   if (Array.isArray(savedCustoms) && savedCustoms.length) {
     savedCustoms.forEach(c => {
+      c.isCustom = true;
+      if (!c.channel) c.channel = '自選加入';
       if (!videos.some(v => v.id === c.id)) {
         videos.unshift(c);
       }
@@ -49917,8 +50171,36 @@ try {
 render();
 
 // ── Dark Mode ──
-function toggleDark(){const html=document.documentElement;const isDark=html.getAttribute('data-theme')==='dark';if(isDark){html.removeAttribute('data-theme');html.style.colorScheme='';localStorage.removeItem('et_dark');document.querySelector('#darkToggle').textContent='🌙'}else{html.setAttribute('data-theme','dark');html.style.colorScheme='dark';localStorage.setItem('et_dark','1');document.querySelector('#darkToggle').textContent='☀️'}}
-if(localStorage.getItem('et_dark')==='1'){document.documentElement.setAttribute('data-theme','dark');document.documentElement.style.colorScheme='dark';document.querySelector('#darkToggle').textContent='☀️'}
+function toggleDark(){
+  const html = document.documentElement;
+  const currentTheme = html.getAttribute('data-theme');
+  const isDark = currentTheme === 'dark' || (!currentTheme && window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches);
+  if(isDark){
+    html.setAttribute('data-theme', 'light');
+    html.style.colorScheme = 'light';
+    localStorage.setItem('et_dark', '0');
+    const dt = document.querySelector('#darkToggle');
+    if (dt) dt.textContent = '🌙';
+  } else {
+    html.setAttribute('data-theme', 'dark');
+    html.style.colorScheme = 'dark';
+    localStorage.setItem('et_dark', '1');
+    const dt = document.querySelector('#darkToggle');
+    if (dt) dt.textContent = '☀️';
+  }
+}
+const savedDark = localStorage.getItem('et_dark');
+if (savedDark === '1') {
+  document.documentElement.setAttribute('data-theme', 'dark');
+  document.documentElement.style.colorScheme = 'dark';
+  const dt = document.querySelector('#darkToggle');
+  if (dt) dt.textContent = '☀️';
+} else if (savedDark === '0') {
+  document.documentElement.setAttribute('data-theme', 'light');
+  document.documentElement.style.colorScheme = 'light';
+  const dt = document.querySelector('#darkToggle');
+  if (dt) dt.textContent = '🌙';
+}
 
 // ── Speech Speed Control ──
 let speechRate = 0.85;
