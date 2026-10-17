@@ -1702,12 +1702,290 @@ html[data-theme='dark'] .yt-feed-counter-total b,
   color: #fff;
   transform: scale(1.05);
 }
+.yt-quick-import-btn.imported {
+  background: rgba(16, 185, 129, 0.15);
+  color: #059669;
+  border-color: rgba(16, 185, 129, 0.4);
+}
+.yt-quick-import-btn.imported:hover {
+  background: #10b981;
+  color: #fff;
+  border-color: #10b981;
+}
+.yt-quick-import-btn.loading {
+  background: rgba(109, 93, 252, 0.15);
+  color: #6d5dfc;
+  pointer-events: none;
+  cursor: wait;
+}
 .exp-import-status {
   margin-top: 10px;
   padding: 10px 14px;
   border-radius: 10px;
   font-size: 13px;
   font-weight: 700;
+}
+
+/* ══════════ 字幕速度與時間手動校正浮動面板 (Floating Sync Panel) ══════════ */
+.vt-sync-float-panel {
+  position: fixed;
+  bottom: 24px;
+  right: 28px;
+  width: 330px;
+  max-width: calc(100vw - 32px);
+  background: rgba(255, 255, 255, 0.94);
+  backdrop-filter: blur(18px);
+  -webkit-backdrop-filter: blur(18px);
+  border: 1px solid rgba(109, 93, 252, 0.25);
+  border-radius: 16px;
+  box-shadow: 0 16px 40px rgba(0, 0, 0, 0.18), 0 2px 8px rgba(109, 93, 252, 0.12);
+  z-index: 10005;
+  font-family: inherit;
+  color: #1e293b;
+  overflow: hidden;
+  transition: box-shadow 0.2s ease, transform 0.2s ease;
+  user-select: none;
+}
+.vt-sync-float-panel.minimized {
+  width: auto;
+}
+.vt-sync-float-panel.minimized .vt-sync-panel-body {
+  display: none;
+}
+.vt-sync-panel-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 14px;
+  background: linear-gradient(135deg, rgba(109, 93, 252, 0.12), rgba(16, 185, 129, 0.08));
+  border-bottom: 1px solid rgba(109, 93, 252, 0.15);
+  cursor: grab;
+}
+.vt-sync-panel-header:active {
+  cursor: grabbing;
+}
+.vt-sync-header-title {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 13px;
+  font-weight: 800;
+  color: #4f46e5;
+}
+.vt-sync-save-badge {
+  font-size: 10px;
+  font-weight: 800;
+  color: #059669;
+  background: rgba(16, 185, 129, 0.15);
+  padding: 1px 6px;
+  border-radius: 4px;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+.vt-sync-save-badge.show {
+  opacity: 1;
+}
+.vt-sync-header-actions {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+.vt-sync-tool-btn {
+  background: transparent;
+  border: 0;
+  color: #64748b;
+  width: 24px;
+  height: 24px;
+  border-radius: 6px;
+  font-size: 12px;
+  font-weight: 800;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.15s ease;
+}
+.vt-sync-tool-btn:hover {
+  background: rgba(109, 93, 252, 0.12);
+  color: #4f46e5;
+}
+.vt-sync-panel-body {
+  padding: 14px;
+}
+.vt-sync-row-label {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 12px;
+  font-weight: 700;
+  color: #475569;
+  margin-bottom: 8px;
+}
+.vt-sync-offset-val {
+  font-size: 14px;
+  font-weight: 900;
+  color: #6d5dfc;
+  font-variant-numeric: tabular-nums;
+}
+.vt-sync-speed-val {
+  font-size: 13px;
+  font-weight: 900;
+  color: #10b981;
+}
+.vt-sync-stepper-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 5px;
+  margin-bottom: 12px;
+}
+.vt-sync-step-btn {
+  background: #f1f5f9;
+  border: 1px solid rgba(148, 163, 184, 0.3);
+  border-radius: 8px;
+  padding: 6px 4px;
+  font-size: 11px;
+  font-weight: 700;
+  color: #334155;
+  cursor: pointer;
+  text-align: center;
+  transition: all 0.12s ease;
+}
+.vt-sync-step-btn:hover {
+  background: #6d5dfc;
+  color: #fff;
+  border-color: #6d5dfc;
+  transform: translateY(-1px);
+}
+.vt-sync-step-btn.reset {
+  grid-column: span 2;
+  background: rgba(109, 93, 252, 0.1);
+  color: #4f46e5;
+  font-weight: 800;
+  border-color: rgba(109, 93, 252, 0.3);
+}
+.vt-sync-step-btn.reset:hover {
+  background: #6d5dfc;
+  color: #fff;
+}
+.vt-sync-slider-wrap {
+  margin-bottom: 12px;
+}
+.vt-sync-slider-labels {
+  display: flex;
+  justify-content: space-between;
+  font-size: 10px;
+  color: #94a3b8;
+  font-weight: 600;
+  margin-bottom: 4px;
+}
+.vt-sync-slider-wrap input[type=range] {
+  width: 100%;
+  accent-color: #6d5dfc;
+  cursor: pointer;
+}
+.vt-sync-speed-pills {
+  display: flex;
+  gap: 5px;
+  margin-bottom: 14px;
+}
+.vt-sync-speed-pill {
+  flex: 1;
+  background: #f1f5f9;
+  border: 1px solid rgba(148, 163, 184, 0.3);
+  border-radius: 8px;
+  padding: 5px 0;
+  font-size: 11px;
+  font-weight: 700;
+  color: #475569;
+  cursor: pointer;
+  text-align: center;
+  transition: all 0.12s ease;
+}
+.vt-sync-speed-pill:hover,
+.vt-sync-speed-pill.active {
+  background: #10b981;
+  color: #fff;
+  border-color: #10b981;
+}
+.vt-sync-footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 10px;
+  border-top: 1px solid rgba(226, 232, 240, 0.8);
+}
+.vt-sync-checkbox-label {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  font-size: 11px;
+  color: #64748b;
+  cursor: pointer;
+  font-weight: 600;
+}
+.vt-sync-reset-all {
+  background: transparent;
+  border: 0;
+  color: #94a3b8;
+  font-size: 11px;
+  font-weight: 700;
+  cursor: pointer;
+  padding: 3px 6px;
+  border-radius: 6px;
+  transition: all 0.15s ease;
+}
+.vt-sync-reset-all:hover {
+  color: #ef4444;
+  background: rgba(239, 68, 68, 0.08);
+}
+
+/* Dark mode for floating calibration panel */
+html[data-theme='dark'] .vt-sync-float-panel,
+@media(prefers-color-scheme:dark) html:not([data-theme='light']) .vt-sync-float-panel {
+  background: rgba(18, 19, 36, 0.95);
+  border-color: rgba(139, 124, 255, 0.3);
+  color: #f1f5f9;
+  box-shadow: 0 16px 40px rgba(0, 0, 0, 0.45), 0 0 0 1px rgba(139, 124, 255, 0.2);
+}
+html[data-theme='dark'] .vt-sync-panel-header,
+@media(prefers-color-scheme:dark) html:not([data-theme='light']) .vt-sync-panel-header {
+  background: linear-gradient(135deg, rgba(139, 124, 255, 0.18), rgba(16, 185, 129, 0.12));
+  border-color: rgba(139, 124, 255, 0.2);
+}
+html[data-theme='dark'] .vt-sync-header-title,
+@media(prefers-color-scheme:dark) html:not([data-theme='light']) .vt-sync-header-title {
+  color: #a5b4fc;
+}
+html[data-theme='dark'] .vt-sync-row-label,
+@media(prefers-color-scheme:dark) html:not([data-theme='light']) .vt-sync-row-label {
+  color: #94a3b8;
+}
+html[data-theme='dark'] .vt-sync-step-btn,
+@media(prefers-color-scheme:dark) html:not([data-theme='light']) .vt-sync-step-btn {
+  background: #23253b;
+  border-color: #353856;
+  color: #e2e8f0;
+}
+html[data-theme='dark'] .vt-sync-step-btn:hover,
+@media(prefers-color-scheme:dark) html:not([data-theme='light']) .vt-sync-step-btn:hover {
+  background: #6d5dfc;
+  color: #fff;
+}
+html[data-theme='dark'] .vt-sync-step-btn.reset,
+@media(prefers-color-scheme:dark) html:not([data-theme='light']) .vt-sync-step-btn.reset {
+  background: rgba(139, 124, 255, 0.18);
+  color: #c7d2fe;
+  border-color: rgba(139, 124, 255, 0.35);
+}
+html[data-theme='dark'] .vt-sync-speed-pill,
+@media(prefers-color-scheme:dark) html:not([data-theme='light']) .vt-sync-speed-pill {
+  background: #23253b;
+  border-color: #353856;
+  color: #cbd5e1;
+}
+html[data-theme='dark'] .vt-sync-footer,
+@media(prefers-color-scheme:dark) html:not([data-theme='light']) .vt-sync-footer {
+  border-color: #262842;
 }
 
 /* Dark theme overrides for Explorer */
@@ -2082,6 +2360,7 @@ html[data-theme='dark'] .yt-card-author,
             <button class="vt-pill-btn" id="speed125" onclick="setPlayerSpeed(1.25)">1.25×</button>
             <button class="vt-pill-btn" id="speed150" onclick="setPlayerSpeed(1.5)">1.5×</button>
             <button class="vt-ctrl-btn" id="autoScrollToggleBtn" onclick="toggleAutoScroll()" style="margin-left:4px">📜 自動捲 ON</button>
+            <button class="vt-ctrl-btn" id="vtSyncCalibrateBtn" onclick="toggleSyncFloatPanel()" style="margin-left:4px;background:rgba(109,93,252,0.12);color:#6d5dfc;font-weight:800;border:1px solid rgba(109,93,252,0.3)" title="開啟字幕時間與速度手動校正浮動視窗">⏱️ 字幕校正</button>
           </div>
         </div>
 
@@ -2180,6 +2459,71 @@ html[data-theme='dark'] .yt-card-author,
 </div>
 
 <div class="toast" id="toast"></div>
+
+<!-- 字幕速度與時間手動校正浮動面板 (Floating Subtitle Calibration Panel) -->
+<div id="vtSyncFloatPanel" class="vt-sync-float-panel" style="display:none">
+  <div class="vt-sync-panel-header" id="vtSyncPanelHeader">
+    <div class="vt-sync-header-title">
+      <span>⏱️ 字幕時間與速度校正</span>
+      <span class="vt-sync-save-badge" id="vtSyncSaveBadge">✓ 已記憶</span>
+    </div>
+    <div class="vt-sync-header-actions">
+      <button class="vt-sync-tool-btn" onclick="toggleMinimizeSyncPanel()" title="最小化/展開" id="btnMinSyncPanel">_</button>
+      <button class="vt-sync-tool-btn" onclick="toggleSyncFloatPanel(false)" title="關閉">✕</button>
+    </div>
+  </div>
+
+  <div class="vt-sync-panel-body" id="vtSyncPanelBody">
+    <!-- Offset Display -->
+    <div class="vt-sync-row-label">
+      <span>時序校正 (時間差)：</span>
+      <span class="vt-sync-offset-val" id="vtSyncOffsetDisplay">+0.00 秒</span>
+    </div>
+    
+    <!-- Quick Stepper Buttons -->
+    <div class="vt-sync-stepper-grid">
+      <button class="vt-sync-step-btn" onclick="adjustSubtitleOffset(-0.5)" title="延後 0.5 秒">-0.5s</button>
+      <button class="vt-sync-step-btn" onclick="adjustSubtitleOffset(-0.1)" title="延後 0.1 秒">-0.1s</button>
+      <button class="vt-sync-step-btn" onclick="adjustSubtitleOffset(-0.05)" title="微調延後 50ms">-0.05s</button>
+      <button class="vt-sync-step-btn reset" onclick="resetSubtitleOffset()" title="歸零重設">0.0 歸零</button>
+      <button class="vt-sync-step-btn" onclick="adjustSubtitleOffset(0.05)" title="微調提前 50ms">+0.05s</button>
+      <button class="vt-sync-step-btn" onclick="adjustSubtitleOffset(0.1)" title="提前 0.1 秒">+0.1s</button>
+      <button class="vt-sync-step-btn" onclick="adjustSubtitleOffset(0.5)" title="提前 0.5 秒">+0.5s</button>
+    </div>
+
+    <!-- Fine Range Slider -->
+    <div class="vt-sync-slider-wrap">
+      <div class="vt-sync-slider-labels">
+        <span>慢 / 延後 (-3.0s)</span>
+        <span>精準 (0s)</span>
+        <span>快 / 提前 (+3.0s)</span>
+      </div>
+      <input type="range" id="vtSyncOffsetSlider" min="-3.0" max="3.0" step="0.05" value="0.0" oninput="onSubtitleSliderInput(this.value)" />
+    </div>
+
+    <!-- Speed Adjustment -->
+    <div class="vt-sync-row-label" style="margin-top:10px">
+      <span>影片與字幕播放速度：</span>
+      <span class="vt-sync-speed-val" id="vtSyncSpeedDisplay">1.0×</span>
+    </div>
+    <div class="vt-sync-speed-pills">
+      <button class="vt-sync-speed-pill" id="syncSpeed075" onclick="setCalibratedSpeed(0.75)">0.75×</button>
+      <button class="vt-sync-speed-pill" id="syncSpeed090" onclick="setCalibratedSpeed(0.9)">0.9×</button>
+      <button class="vt-sync-speed-pill active" id="syncSpeed100" onclick="setCalibratedSpeed(1.0)">1.0×</button>
+      <button class="vt-sync-speed-pill" id="syncSpeed110" onclick="setCalibratedSpeed(1.1)">1.1×</button>
+      <button class="vt-sync-speed-pill" id="syncSpeed125" onclick="setCalibratedSpeed(1.25)">1.25×</button>
+    </div>
+
+    <!-- Storage & Global Sync Footer -->
+    <div class="vt-sync-footer">
+      <label class="vt-sync-checkbox-label">
+        <input type="checkbox" id="vtSyncGlobalCheckbox" onchange="onGlobalOffsetToggle(this.checked)" />
+        <span>同步套用為所有影片預設</span>
+      </label>
+      <button class="vt-sync-reset-all" onclick="resetCurrentVideoCalibration()" title="還原此影片校正">↺ 重設此片</button>
+    </div>
+  </div>
+</div>
 
 <!-- 即時單字查詢懸浮氣泡 (Glassmorphic Word Popover) -->
 <div id="vtWordPopover" class="vt-word-popover" style="display:none">
@@ -50288,6 +50632,8 @@ function renderExplorerFeed(items) {
     const durStr = typeof item.duration === 'number' ? formatDuration(item.duration) : (item.duration || '5:00');
     const safeTitle = (item.title || 'YouTube Video').replace(/"/g, '&quot;');
     const safeChannel = (item.channel || 'YouTube').replace(/"/g, '&quot;');
+    const isImported = (typeof videos !== 'undefined' && videos.some(v => v.id === item.id)) ||
+                       (typeof customLessons !== 'undefined' && customLessons.some(c => c.id === item.id));
     return `
       <div class="yt-card-row ${isPlaying ? 'playing' : ''}" data-vid="${item.id}" onclick="playInExplorer('${item.id}', '${safeTitle.replace(/'/g, "\\'")}', '${safeChannel.replace(/'/g, "\\'")}', '${durStr}')">
         <div class="yt-thumb-box">
@@ -50298,8 +50644,8 @@ function renderExplorerFeed(items) {
           <div class="yt-card-title">${safeTitle}</div>
           <div class="yt-card-author">📺 ${safeChannel}</div>
         </div>
-        <button class="yt-quick-import-btn" onclick="event.stopPropagation();importExplorerVideoDirect('${item.id}', '${safeTitle.replace(/'/g, "\\'")}')" title="一鍵收錄為教材">
-          ＋ 收錄
+        <button class="yt-quick-import-btn ${isImported ? 'imported' : ''}" onclick="event.stopPropagation();${isImported ? `closeYtExplorerModal();openVideo('${item.id}')` : `importExplorerVideoDirect('${item.id}', '${safeTitle.replace(/'/g, "\\'")}', this)`}" title="${isImported ? '已收錄，點擊直接開啟學習' : '一鍵收錄為教材'}">
+          ${isImported ? '✓ 已收錄' : '＋ 收錄'}
         </button>
       </div>
     `;
@@ -50372,14 +50718,20 @@ async function doYtSearch() {
 }
 
 async function importCurrentExplorerVideo() {
-  await importExplorerVideoDirect(currentExplorerVid, currentExplorerTitle);
+  await importExplorerVideoDirect(currentExplorerVid, currentExplorerTitle, document.getElementById('btnExpImport'));
 }
 
-async function importExplorerVideoDirect(vid, title) {
+async function importExplorerVideoDirect(vid, title, clickedBtn) {
   const statusEl = document.getElementById('expImportStatus');
   const btn = document.getElementById('btnExpImport');
   const btnText = document.getElementById('btnExpImportText');
   const btnIcon = document.getElementById('btnExpImportIcon');
+
+  if (clickedBtn && clickedBtn !== btn) {
+    clickedBtn.classList.add('loading');
+    clickedBtn.disabled = true;
+    clickedBtn.innerHTML = '<span style="display:inline-block;animation:vtSpin 0.8s linear infinite;margin-right:3px">⏳</span> 提取中…';
+  }
 
   if (statusEl) {
     statusEl.style.display = 'block';
@@ -50390,6 +50742,8 @@ async function importExplorerVideoDirect(vid, title) {
   if (btn) btn.disabled = true;
   if (btnText) btnText.textContent = '教材提取中…';
   if (btnIcon) btnIcon.textContent = '⚡';
+
+  toast('⏳ 正在高速提取英文字幕與生詞，構建雙語教材…');
 
   try {
     const resp = await fetch('/api/transcript', {
@@ -50425,6 +50779,8 @@ async function importExplorerVideoDirect(vid, title) {
       words: extractKeywordsFromCues(cues)
     };
 
+    lessonCache[vid] = customItem;
+
     const existingIdx = videos.findIndex(v => v.id === vid);
     if (existingIdx >= 0) {
       videos[existingIdx] = customItem;
@@ -50439,6 +50795,13 @@ async function importExplorerVideoDirect(vid, title) {
       localStorage.setItem('et_custom_lessons', JSON.stringify(filtered.slice(0, 30)));
     } catch (e) {}
 
+    if (clickedBtn && clickedBtn !== btn) {
+      clickedBtn.classList.remove('loading');
+      clickedBtn.classList.add('imported');
+      clickedBtn.innerHTML = '✓ 已收錄';
+      clickedBtn.disabled = false;
+    }
+
     render();
     closeYtExplorerModal();
     toast(`🎉 成功收錄！共 ${cues.length} 句字幕，開啟跟讀工作台`);
@@ -50449,6 +50812,11 @@ async function importExplorerVideoDirect(vid, title) {
 
   } catch (err) {
     console.error('Explorer import error:', err);
+    if (clickedBtn && clickedBtn !== btn) {
+      clickedBtn.classList.remove('loading');
+      clickedBtn.disabled = false;
+      clickedBtn.innerHTML = '✕ 失敗重試';
+    }
     if (statusEl) {
       statusEl.style.display = 'block';
       statusEl.style.background = 'rgba(239, 68, 68, 0.12)';
@@ -50476,7 +50844,8 @@ function closeModal() {
   if (syncTimer) { clearInterval(syncTimer); syncTimer = null; }
   // Stop TTS
   try { _ttsAudio.pause(); _ttsAudio.src = ''; } catch(e) {}
-  speechSynthesis.cancel();
+  // Close sync calibration panel if open
+  if (typeof toggleSyncFloatPanel === 'function') toggleSyncFloatPanel(false);
   isPlaying = false;
 }
 function renderLesson(){document.querySelector('#transcript').innerHTML=current.en.map((s,i)=>`<div class="subline" onclick="speakLine(${i})"><strong style="display:${showEn?'block':'none'}">${s}</strong><span style="display:${showZh?'block':'none'}">${current.cn[i]}</span><small style="color:#aaa">點擊聆聽 · ${i+1}</small></div>`).join('');document.querySelector('#wordList').innerHTML=current.words.map(w=>`<div style="padding:10px 0;border-bottom:1px solid #eee"><b style="color:#6355e8">${w[0]}</b><div style="font-size:13px;color:#777;margin:4px 0 8px">${w[1]}</div><button class="save ${savedWords.has(w[0])?'saved':''}" onclick="toggleWord('${w[0]}')">${savedWords.has(w[0])?'✓ 已收藏':'＋ 收藏單字'}</button><button class="save" onclick="say('${w[0].replace(/'/g,"\\'")}')">🔊</button></div>`).join('');document.querySelector('#enBtn').textContent='🇺🇸 英文字幕 '+(showEn?'✓':'○');document.querySelector('#zhBtn').textContent='🇹🇼 中文字幕 '+(showZh?'✓':'○')}
@@ -50545,7 +50914,7 @@ if(window.matchMedia('(display-mode: standalone)').matches||navigator.standalone
 document.querySelector('#installBtn').addEventListener('click',async()=>{if(deferredPrompt){deferredPrompt.prompt();const{outcome}=await deferredPrompt.userChoice;deferredPrompt=null;if(outcome==='accepted')toast('✓ 安裝中...')}else if(/iphone|ipad|ipod/i.test(navigator.userAgent)){toast('Safari：分享 → 加入主畫面')}else{toast('請從瀏覽器選單選擇「安裝應用程式」')}});
 // Register Service Worker + auto-reload on new SW version
 if('serviceWorker'in navigator&&location.protocol.startsWith('http')){
-  window.addEventListener('load',()=>navigator.serviceWorker.register('./sw.js?v=129').then(reg=>{
+  window.addEventListener('load',()=>navigator.serviceWorker.register('./sw.js?v=132').then(reg=>{
     try{reg.update()}catch(e){}
     reg.addEventListener('updatefound',()=>{
       const nw=reg.installing;
@@ -50846,6 +51215,224 @@ function stopSubtitleSync() {
   }
 }
 
+// ══════════ 字幕速度與時間手動校正浮動面板核心邏輯 ══════════
+let currentSubtitleOffset = 0.0;
+let isSyncPanelDragging = false;
+let syncDragStartX = 0, syncDragStartY = 0;
+let syncPanelStartLeft = 0, syncPanelStartTop = 0;
+
+function getStoredCalibrations() {
+  try {
+    return JSON.parse(localStorage.getItem('et_subtitle_calibrations') || '{}');
+  } catch(e) {
+    return {};
+  }
+}
+
+function getGlobalOffset() {
+  try {
+    return parseFloat(localStorage.getItem('et_global_subtitle_offset') || '0.0') || 0.0;
+  } catch(e) {
+    return 0.0;
+  }
+}
+
+function getCurrentSubtitleOffset() {
+  const vid = current?.id;
+  if (!vid) return getGlobalOffset();
+  const calibrations = getStoredCalibrations();
+  if (calibrations[vid] && typeof calibrations[vid].offset === 'number') {
+    return calibrations[vid].offset;
+  }
+  return getGlobalOffset();
+}
+
+function saveSubtitleOffset(vid, offsetVal) {
+  if (!vid) return;
+  const calibrations = getStoredCalibrations();
+  if (!calibrations[vid]) calibrations[vid] = {};
+  calibrations[vid].offset = Math.round(offsetVal * 100) / 100;
+  calibrations[vid].speed = currentPlaybackRate || 1.0;
+  calibrations[vid].updatedAt = Date.now();
+  try {
+    localStorage.setItem('et_subtitle_calibrations', JSON.stringify(calibrations));
+  } catch(e) {}
+  
+  const globalCb = document.getElementById('vtSyncGlobalCheckbox');
+  if (globalCb && globalCb.checked) {
+    localStorage.setItem('et_global_subtitle_offset', String(calibrations[vid].offset));
+  }
+  showSyncSavedFeedback();
+}
+
+function showSyncSavedFeedback() {
+  const badge = document.getElementById('vtSyncSaveBadge');
+  if (badge) {
+    badge.classList.add('show');
+    clearTimeout(badge._timer);
+    badge._timer = setTimeout(() => badge.classList.remove('show'), 2000);
+  }
+}
+
+function toggleSyncFloatPanel(forceOpen) {
+  const panel = document.getElementById('vtSyncFloatPanel');
+  if (!panel) return;
+  const isOpening = forceOpen !== undefined ? forceOpen : (panel.style.display === 'none');
+  panel.style.display = isOpening ? 'block' : 'none';
+  if (isOpening) {
+    panel.classList.remove('minimized');
+    initSyncPanelValues();
+    initSyncPanelDraggable();
+  }
+}
+
+function toggleMinimizeSyncPanel() {
+  const panel = document.getElementById('vtSyncFloatPanel');
+  const btn = document.getElementById('btnMinSyncPanel');
+  if (!panel) return;
+  panel.classList.toggle('minimized');
+  if (btn) btn.textContent = panel.classList.contains('minimized') ? '□' : '_';
+}
+
+function initSyncPanelValues() {
+  const vid = current?.id;
+  const calibrations = getStoredCalibrations();
+  const vidData = vid ? calibrations[vid] : null;
+  const offset = vidData && typeof vidData.offset === 'number' ? vidData.offset : getGlobalOffset();
+  currentSubtitleOffset = offset;
+
+  updateSyncPanelUI(offset);
+
+  const speed = (vidData && vidData.speed) || currentPlaybackRate || 1.0;
+  updateSyncSpeedPills(speed);
+
+  const globalCb = document.getElementById('vtSyncGlobalCheckbox');
+  if (globalCb) {
+    globalCb.checked = (Math.abs(offset - getGlobalOffset()) < 0.01 && getGlobalOffset() !== 0);
+  }
+}
+
+function updateSyncPanelUI(offset) {
+  const disp = document.getElementById('vtSyncOffsetDisplay');
+  const slider = document.getElementById('vtSyncOffsetSlider');
+  if (disp) {
+    const rounded = Math.round(offset * 100) / 100;
+    const sign = rounded > 0 ? '+' : '';
+    let label = ' (精確同步)';
+    if (rounded > 0.02) label = ' (字幕提前)';
+    else if (rounded < -0.02) label = ' (字幕延後)';
+    disp.textContent = `${sign}${rounded.toFixed(2)} 秒${label}`;
+    disp.style.color = Math.abs(rounded) < 0.03 ? '#10b981' : '#6d5dfc';
+  }
+  if (slider) {
+    slider.value = offset;
+  }
+}
+
+function adjustSubtitleOffset(delta) {
+  let offset = getCurrentSubtitleOffset() + delta;
+  offset = Math.max(-3.0, Math.min(3.0, Math.round(offset * 100) / 100));
+  applyAndPersistSubtitleOffset(offset);
+}
+
+function onSubtitleSliderInput(val) {
+  const offset = parseFloat(val) || 0.0;
+  applyAndPersistSubtitleOffset(offset);
+}
+
+function resetSubtitleOffset() {
+  applyAndPersistSubtitleOffset(0.0);
+  toast('⏱️ 字幕時序已歸零 (0.00 秒)');
+}
+
+function applyAndPersistSubtitleOffset(offset) {
+  currentSubtitleOffset = offset;
+  updateSyncPanelUI(offset);
+  if (current?.id) {
+    saveSubtitleOffset(current.id, offset);
+  }
+  // Immediate preview feedback on current cue
+  if (activeCueIdx >= 0) {
+    syncSubtitleAndWords();
+  }
+}
+
+function setCalibratedSpeed(speed) {
+  setPlayerSpeed(speed);
+  updateSyncSpeedPills(speed);
+  if (current?.id) {
+    saveSubtitleOffset(current.id, getCurrentSubtitleOffset());
+  }
+}
+
+function updateSyncSpeedPills(speed) {
+  const disp = document.getElementById('vtSyncSpeedDisplay');
+  if (disp) disp.textContent = speed.toFixed(speed % 1 === 0 ? 1 : 2) + '×';
+
+  document.querySelectorAll('.vt-sync-speed-pill').forEach(p => p.classList.remove('active'));
+  const speedKey = 'syncSpeed' + String(Math.round(speed * 100)).padStart(3, '0');
+  const activePill = document.getElementById(speedKey);
+  if (activePill) activePill.classList.add('active');
+}
+
+function onGlobalOffsetToggle(checked) {
+  if (checked) {
+    const cur = getCurrentSubtitleOffset();
+    localStorage.setItem('et_global_subtitle_offset', String(cur));
+    toast(`已將 ${cur >= 0 ? '+' : ''}${cur.toFixed(2)}s 設為全站所有影片預設`);
+  } else {
+    localStorage.removeItem('et_global_subtitle_offset');
+    toast('已取消全站預設，各影片獨立記憶');
+  }
+}
+
+function resetCurrentVideoCalibration() {
+  if (!current?.id) return;
+  const calibrations = getStoredCalibrations();
+  delete calibrations[current.id];
+  try {
+    localStorage.setItem('et_subtitle_calibrations', JSON.stringify(calibrations));
+  } catch(e) {}
+  initSyncPanelValues();
+  toast('已還原此影片校正為系統預設');
+}
+
+function initSyncPanelDraggable() {
+  const header = document.getElementById('vtSyncPanelHeader');
+  const panel = document.getElementById('vtSyncFloatPanel');
+  if (!header || !panel || header._hasDrag) return;
+  header._hasDrag = true;
+
+  header.addEventListener('mousedown', (e) => {
+    if (e.target.closest('.vt-sync-header-actions')) return;
+    isSyncPanelDragging = true;
+    syncDragStartX = e.clientX;
+    syncDragStartY = e.clientY;
+    const rect = panel.getBoundingClientRect();
+    syncPanelStartLeft = rect.left;
+    syncPanelStartTop = rect.top;
+    e.preventDefault();
+  });
+
+  window.addEventListener('mousemove', (e) => {
+    if (!isSyncPanelDragging) return;
+    const dx = e.clientX - syncDragStartX;
+    const dy = e.clientY - syncDragStartY;
+    let newLeft = syncPanelStartLeft + dx;
+    let newTop = syncPanelStartTop + dy;
+    newLeft = Math.max(10, Math.min(window.innerWidth - panel.offsetWidth - 10, newLeft));
+    newTop = Math.max(10, Math.min(window.innerHeight - panel.offsetHeight - 10, newTop));
+    panel.style.left = newLeft + 'px';
+    panel.style.top = newTop + 'px';
+    panel.style.right = 'auto';
+    panel.style.bottom = 'auto';
+  });
+
+  window.addEventListener('mouseup', () => {
+    isSyncPanelDragging = false;
+  });
+}
+
 let lastReportedTime = -1;
 let lastReportedAt = performance.now();
 
@@ -50868,8 +51455,9 @@ function getExactPlaybackTime() {
     const dt = (now - lastReportedAt) / 1000;
     exactTime = lastVideoTime + Math.min(0.35, dt * (currentPlaybackRate || 1.0));
   }
-  // Anticipation lead-in compensation (+80ms) for human auditory-visual synchrony
-  return Math.max(0, exactTime + 0.08);
+  // Anticipation lead-in compensation (+80ms) + user manual timing offset
+  const userOffset = getCurrentSubtitleOffset();
+  return Math.max(0, exactTime + 0.08 + userOffset);
 }
 
 function syncSubtitleAndWords() {
@@ -51648,6 +52236,15 @@ function openVideo(id) {
 
   // Mount YouTube Player
   initOrLoadPlayer(current.id);
+
+  // Load custom subtitle calibration & speed if saved
+  if (typeof initSyncPanelValues === 'function') {
+    initSyncPanelValues();
+    const calibrations = getStoredCalibrations();
+    if (calibrations[current.id] && typeof calibrations[current.id].speed === 'number') {
+      setPlayerSpeed(calibrations[current.id].speed);
+    }
+  }
 
   document.getElementById('modal').classList.add('open');
   document.body.style.overflow = 'hidden';
