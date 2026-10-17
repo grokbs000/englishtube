@@ -335,12 +335,43 @@ class Handler(SimpleHTTPRequestHandler):
                 if audio_path.exists() and audio_path.stat().st_size > 1000:
                     try:
                         model = get_whisper_model()
-                        segments, info = model.transcribe(str(audio_path), beam_size=1)
+                        segments, info = model.transcribe(str(audio_path), beam_size=1, word_timestamps=True)
                         for s in segments:
-                            txt = clean_sub_text(s.text)
-                            if txt:
-                                cues.append({'start': round(s.start, 2), 'duration': max(0.5, round(s.end - s.start, 2)), 'text': txt})
-                        print(f'[transcript] Whisper AI successfully generated {len(cues)} cues for {vid}!')
+                            words = list(s.words or [])
+                            if not words:
+                                txt = clean_sub_text(s.text)
+                                if txt:
+                                    cues.append({'start': round(s.start, 2), 'duration': max(0.5, round(s.end - s.start, 2)), 'text': txt})
+                                continue
+
+                            # 遇配樂或靜音中斷 (間隔 >= 2.2 秒) 自動斷句，避免配樂期間字句超前早顯
+                            cur_words = []
+                            for w in words:
+                                if cur_words and (w.start - cur_words[-1].end >= 2.2):
+                                    t_txt = clean_sub_text(' '.join(x.word.strip() for x in cur_words))
+                                    if t_txt:
+                                        w_start = round(cur_words[0].start, 2)
+                                        w_dur = max(0.5, round(cur_words[-1].end - cur_words[0].start, 2))
+                                        cues.append({
+                                            'start': w_start,
+                                            'duration': w_dur,
+                                            'text': t_txt,
+                                            'words': [{'w': clean_sub_text(x.word), 's': round(x.start, 2), 'e': round(x.end, 2)} for x in cur_words if clean_sub_text(x.word)]
+                                        })
+                                    cur_words = []
+                                cur_words.append(w)
+                            if cur_words:
+                                t_txt = clean_sub_text(' '.join(x.word.strip() for x in cur_words))
+                                if t_txt:
+                                    w_start = round(cur_words[0].start, 2)
+                                    w_dur = max(0.5, round(cur_words[-1].end - cur_words[0].start, 2))
+                                    cues.append({
+                                        'start': w_start,
+                                        'duration': w_dur,
+                                        'text': t_txt,
+                                        'words': [{'w': clean_sub_text(x.word), 's': round(x.start, 2), 'e': round(x.end, 2)} for x in cur_words if clean_sub_text(x.word)]
+                                    })
+                        print(f'[transcript] Whisper AI successfully generated {len(cues)} precision cues for {vid}!')
                     except Exception as we:
                         print(f'[transcript] Whisper AI error: {we}')
 
