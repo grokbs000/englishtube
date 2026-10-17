@@ -1,5 +1,5 @@
-// ENGLISHTUBE Service Worker v49
-const CACHE='englishtube-v127';
+// ENGLISHTUBE Service Worker v50
+const CACHE='englishtube-v128';
 const STATIC=[
   './',
   './index.html',

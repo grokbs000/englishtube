@@ -49296,9 +49296,26 @@ function parseCustomTranscript(raw) {
   return cues;
 }
 
+function cleanSubtitleText(text) {
+  if (!text) return '';
+  let s = String(text);
+  // 1. Direct regex decode HTML entities (fast & zero-DOM)
+  s = s.replace(/&gt;/gi, '>').replace(/&lt;/gi, '<').replace(/&amp;/gi, '&').replace(/&#39;/g, "'").replace(/&quot;/gi, '"').replace(/&nbsp;/gi, ' ');
+  if (s.includes('&gt;') || s.includes('&lt;') || s.includes('&amp;')) {
+    s = s.replace(/&gt;/gi, '>').replace(/&lt;/gi, '<').replace(/&amp;/gi, '&');
+  }
+  // 2. Strip YouTube speaker transition arrows (>> or >)
+  s = s.replace(/(?:^|\s)(?:>>|>)(?:\s|$)/g, ' ');
+  // 3. Strip non-speech bracketed annotations (e.g. [Music], [Applause], (Laughter))
+  s = s.replace(/\[(?:music|applause|laughter|cheering|chuckles|groans)\]/gi, '');
+  s = s.replace(/\((?:music|applause|laughter|cheering|chuckles|groans)\)/gi, '');
+  // 4. Normalize multiple spaces
+  return s.replace(/\s+/g, ' ').trim();
+}
+
 function extractKeywordsFromCues(cues) {
-  const stopWords = new Set(['that','this','with','from','have','your','they','them','there','what','when','will','would','could','should','about','because','which','their','then','than','into','just','like','were','been','being','very','more','some','such','also','only','over','here','know','want','make','does','yourself','going','about','where']);
-  const allText = cues.map(c => c.text).join(' ').toLowerCase();
+  const stopWords = new Set(['that','this','with','from','have','your','they','them','there','what','when','will','would','could','should','about','because','which','their','then','than','into','just','like','were','been','being','very','more','some','such','also','only','over','here','know','want','make','does','yourself','going','about','where','intro']);
+  const allText = cues.map(c => cleanSubtitleText(c.text)).join(' ').toLowerCase();
   const words = allText.match(/\b[a-z]{4,}\b/g) || [];
   const freq = {};
   words.forEach(w => {
@@ -49849,7 +49866,7 @@ if(window.matchMedia('(display-mode: standalone)').matches||navigator.standalone
 document.querySelector('#installBtn').addEventListener('click',async()=>{if(deferredPrompt){deferredPrompt.prompt();const{outcome}=await deferredPrompt.userChoice;deferredPrompt=null;if(outcome==='accepted')toast('✓ 安裝中...')}else if(/iphone|ipad|ipod/i.test(navigator.userAgent)){toast('Safari：分享 → 加入主畫面')}else{toast('請從瀏覽器選單選擇「安裝應用程式」')}});
 // Register Service Worker + auto-reload on new SW version
 if('serviceWorker'in navigator&&location.protocol.startsWith('http')){
-  window.addEventListener('load',()=>navigator.serviceWorker.register('./sw.js?v=127').then(reg=>{
+  window.addEventListener('load',()=>navigator.serviceWorker.register('./sw.js?v=128').then(reg=>{
     try{reg.update()}catch(e){}
     reg.addEventListener('updatefound',()=>{
       const nw=reg.installing;
@@ -50249,7 +50266,7 @@ function highlightVoiceTubeCue(idx) {
       enStage.style.display = 'none';
     } else {
       enStage.style.display = 'flex';
-      enStage.innerHTML = tokenizeWords(cue.en || cue.text || '');
+      enStage.innerHTML = tokenizeWords(cleanSubtitleText(cue.en || cue.text || ''));
     }
   }
 
@@ -50258,7 +50275,7 @@ function highlightVoiceTubeCue(idx) {
       zhStage.style.display = 'none';
     } else {
       zhStage.style.display = 'block';
-      zhStage.textContent = cue.zh || current.cn?.[idx] || '';
+      zhStage.textContent = cleanSubtitleText(cue.zh || current.cn?.[idx] || '');
     }}
 
   // 2. Highlight row in Right Transcript List
@@ -50277,7 +50294,7 @@ function highlightVoiceTubeCue(idx) {
 
   // Update recording practice target
   const practiceTarget = document.getElementById('practiceSentenceTarget');
-  if (practiceTarget) practiceTarget.textContent = cue.en || cue.text || '';
+  if (practiceTarget) practiceTarget.textContent = cleanSubtitleText(cue.en || cue.text || '');
 
   // Track seen cues for progress
   seenCues.add(idx);
@@ -50323,6 +50340,7 @@ function updateKaraokeWordHighlight(time, cue) {
 }
 
 function tokenizeWords(sentence) {
+  sentence = cleanSubtitleText(sentence);
   const parts = sentence.split(/(\s+|[^\w\s'-]+)/);
   let wordCounter = 0;
   return parts.map(part => {
@@ -50341,6 +50359,7 @@ function tokenizeWords(sentence) {
 }
 
 function tokenizeMiniWords(sentence) {
+  sentence = cleanSubtitleText(sentence);
   const parts = sentence.split(/(\s+|[^\w\s'-]+)/);
   let wordCounter = 0;
   return parts.map(part => {
@@ -50519,7 +50538,7 @@ function renderVoiceTubeTranscript() {
       <span class="vt-cue-play-btn">▶</span>
       <div class="vt-cue-content">
         <span class="vt-cue-en" style="display:${currentSubMode === 'zh' ? 'none' : 'block'}">${tokenizeMiniWords(c.en || c.text || '')}</span>
-        <span class="vt-cue-zh" style="display:${currentSubMode === 'en' || currentSubMode === 'none' ? 'none' : 'block'}">${escapeHTML(c.zh || current.cn?.[i] || '')}</span>
+        <span class="vt-cue-zh" style="display:${currentSubMode === 'en' || currentSubMode === 'none' ? 'none' : 'block'}">${escapeHTML(cleanSubtitleText(c.zh || current.cn?.[i] || ''))}</span>
       </div>
       <span class="vt-cue-time">${formatTime(c.start)}</span>
     </div>

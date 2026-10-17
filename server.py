@@ -1,11 +1,23 @@
 #!/usr/bin/env python3
 """Local ENGLISHTUBE web server + optional transcript/AI APIs."""
-import json, os, re, shutil, subprocess, tempfile, urllib.request, urllib.error, urllib.parse
+import html, json, os, re, shutil, subprocess, tempfile, urllib.request, urllib.error, urllib.parse
 from pathlib import Path
 from http.server import ThreadingHTTPServer, SimpleHTTPRequestHandler
 from urllib.parse import urlparse
 ROOT=Path(__file__).resolve().parent
 YOUTUBE_ID=re.compile(r'^[A-Za-z0-9_-]{11}$')
+
+def clean_sub_text(text):
+    if not text:
+        return ''
+    s = html.unescape(text)
+    if any(ent in s for ent in ('&gt;', '&lt;', '&amp;', '&#39;', '&quot;')):
+        s = html.unescape(s)
+    # Strip YouTube speaker transitions (>> or >)
+    s = re.sub(r'(?:^|\s)(?:>>|>)(?:\s|$)', ' ', s)
+    # Strip non-speech annotations like [Music], [Applause]
+    s = re.sub(r'\[(?:music|applause|laughter|cheering|chuckles|groans)\]', '', s, flags=re.I)
+    return re.sub(r'\s+', ' ', s).strip()
 
 def video_id(url):
     u=urlparse(url)
@@ -31,7 +43,7 @@ def parse_vtt(text):
             i+=1; txt=[]
             while i<len(lines) and lines[i].strip():
                 txt.append(re.sub(r'<[^>]+>','',lines[i].strip()));i+=1
-            text=' '.join(txt).strip()
+            text=clean_sub_text(' '.join(txt))
             if text and not text.startswith(('♪','[')):cues.append({'start':sec(a),'duration':max(0,sec(b)-sec(a)),'text':text})
         i+=1
     return cues
@@ -222,6 +234,7 @@ class Handler(SimpleHTTPRequestHandler):
                 raw=json.loads(f.read_text(encoding='utf-8',errors='replace'));cues=[]
                 for e in raw.get('events',[]):
                     txt=''.join(seg.get('utf8','') for seg in e.get('segs',[])).strip()
+                    txt = clean_sub_text(txt)
                     if txt:cues.append({'start':e.get('tStartMs',0)/1000,'duration':e.get('dDurationMs',0)/1000,'text':txt})
             if not cues:self.send_json(422,{'error':'字幕檔存在，但沒有可用句子。', 'title': title});return
             self.send_json(200,{'videoId':vid,'title':title,'language':f.stem.split('.')[-1],'cues':cues[:3000]})
