@@ -197,6 +197,31 @@
   height: 100%;
   border: 0;
 }
+.vt-subtitle-mask {
+  position: absolute;
+  bottom: 38px;
+  left: 4%;
+  right: 4%;
+  height: 82px;
+  background: rgba(11, 12, 20, 0.98);
+  backdrop-filter: blur(10px);
+  border-radius: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  box-shadow: 0 4px 24px rgba(0, 0, 0, 0.88);
+  pointer-events: none;
+  z-index: 9;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: opacity 0.2s ease;
+}
+.vt-mask-hint {
+  font-size: 11px;
+  color: rgba(255, 255, 255, 0.32);
+  font-weight: 600;
+  letter-spacing: 0.5px;
+  user-select: none;
+}
 
 /* VoiceTube Subtitle Stage (靠左對齊 + 左側裝飾條 + 逐字反白移動) */
 .vt-sub-stage {
@@ -2330,6 +2355,9 @@ html[data-theme='dark'] .yt-card-author,
       <div class="vt-main-col">
         <div class="vt-player-wrapper">
           <div id="playerContainer"></div>
+          <div id="vtSubtitleMask" class="vt-subtitle-mask" style="display:none">
+            <span class="vt-mask-hint">🛡️ 已遮蔽原片字幕（點下方按鈕切換）</span>
+          </div>
         </div>
 
         <!-- VoiceTube Synchronized Subtitle Display (靠左對齊 + 逐字反白移動舞台) -->
@@ -2361,6 +2389,7 @@ html[data-theme='dark'] .yt-card-author,
             <button class="vt-pill-btn" id="speed150" onclick="setPlayerSpeed(1.5)">1.5×</button>
             <button class="vt-ctrl-btn" id="autoScrollToggleBtn" onclick="toggleAutoScroll()" style="margin-left:4px">📜 自動捲 ON</button>
             <button class="vt-ctrl-btn" id="vtSyncCalibrateBtn" onclick="toggleSyncFloatPanel()" style="margin-left:4px;background:rgba(109,93,252,0.12);color:#6d5dfc;font-weight:800;border:1px solid rgba(109,93,252,0.3)" title="開啟字幕時間與速度手動校正浮動視窗">⏱️ 字幕校正</button>
+            <button class="vt-ctrl-btn" id="vtSubMaskBtn" onclick="toggleSubtitleMask()" style="margin-left:4px;background:rgba(255,255,255,0.06);color:#b0b0cc;font-weight:700" title="遮蔽影片畫面內重複的外掛雙語字幕或硬字幕">🛡️ 遮原片字幕</button>
           </div>
         </div>
 
@@ -51160,6 +51189,7 @@ function createYTPlayer(videoId) {
 
   try {
     ytPlayer = new YT.Player('ytPlayerInstance', {
+      host: 'https://www.youtube-nocookie.com',
       videoId: videoId,
       playerVars: {
         autoplay: 1,
@@ -51310,6 +51340,40 @@ function toggleMinimizeSyncPanel() {
   if (!panel) return;
   panel.classList.toggle('minimized');
   if (btn) btn.textContent = panel.classList.contains('minimized') ? '□' : '_';
+}
+
+// ══════════ 影片原片字幕遮罩（遮蔽第三方外掛/硬字幕） ══════════
+let isSubtitleMaskActive = localStorage.getItem('et_sub_mask_active') === 'true';
+
+function toggleSubtitleMask(force) {
+  const mask = document.getElementById('vtSubtitleMask');
+  const btn = document.getElementById('vtSubMaskBtn');
+  if (!mask) return;
+  isSubtitleMaskActive = (force !== undefined) ? force : !isSubtitleMaskActive;
+  localStorage.setItem('et_sub_mask_active', isSubtitleMaskActive ? 'true' : 'false');
+  mask.style.display = isSubtitleMaskActive ? 'flex' : 'none';
+  if (btn) {
+    btn.classList.toggle('active', isSubtitleMaskActive);
+    btn.style.background = isSubtitleMaskActive ? '#6d5dfc' : 'rgba(255,255,255,0.06)';
+    btn.style.color = isSubtitleMaskActive ? '#ffffff' : '#b0b0cc';
+    btn.style.boxShadow = isSubtitleMaskActive ? '0 0 12px rgba(109,93,252,0.6)' : 'none';
+    btn.style.borderColor = isSubtitleMaskActive ? '#6d5dfc' : 'transparent';
+  }
+  toast(isSubtitleMaskActive ? '🛡️ 已開啟影片遮罩：遮蔽原片/外掛重複字幕' : '🛡️ 已關閉影片字幕遮罩');
+}
+
+function initSubtitleMaskState() {
+  const mask = document.getElementById('vtSubtitleMask');
+  const btn = document.getElementById('vtSubMaskBtn');
+  if (!mask) return;
+  mask.style.display = isSubtitleMaskActive ? 'flex' : 'none';
+  if (btn) {
+    btn.classList.toggle('active', isSubtitleMaskActive);
+    btn.style.background = isSubtitleMaskActive ? '#6d5dfc' : 'rgba(255,255,255,0.06)';
+    btn.style.color = isSubtitleMaskActive ? '#ffffff' : '#b0b0cc';
+    btn.style.boxShadow = isSubtitleMaskActive ? '0 0 12px rgba(109,93,252,0.6)' : 'none';
+    btn.style.borderColor = isSubtitleMaskActive ? '#6d5dfc' : 'transparent';
+  }
 }
 
 function initSyncPanelValues() {
@@ -52292,6 +52356,10 @@ function openVideo(id) {
     if (calibrations[current.id] && typeof calibrations[current.id].speed === 'number') {
       setPlayerSpeed(calibrations[current.id].speed);
     }
+  }
+
+  if (typeof initSubtitleMaskState === 'function') {
+    initSubtitleMaskState();
   }
 
   document.getElementById('modal').classList.add('open');
