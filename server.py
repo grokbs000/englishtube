@@ -48,6 +48,24 @@ def parse_vtt(text):
         i+=1
     return cues
 
+def normalize_cues(cues):
+    """
+    自動校準每句字幕長度，防止 YouTube VTT 或粗切字幕跨越長配樂/長靜音。
+    若簡短句子的 duration 被拉長跨入配樂，自動箝位至自然說話長度，
+    確保前端配樂偵測器 (gap >= 2.0s) 自動啟動，字幕完全靜止。
+    """
+    for i in range(len(cues)):
+        c = cues[i]
+        text = c.get('text', '')
+        words = text.split()
+        num_words = max(1, len(words))
+        # 自然語音最大合理長度 (保守估計每字 0.75s + 1.2s 寬限)
+        max_natural_dur = round(num_words * 0.75 + 1.2, 2)
+        cur_dur = c.get('duration', 0)
+        if cur_dur > max_natural_dur + 1.5:
+            c['duration'] = max_natural_dur
+    return cues
+
 _whisper_model = None
 
 def get_whisper_model():
@@ -379,6 +397,7 @@ class Handler(SimpleHTTPRequestHandler):
                 msg=(p.stderr or '影片沒有可取得的英文字幕，且語音辨識暫時無法解析。')[-700:]
                 self.send_json(422,{'error':msg, 'title': title});return
             
+            cues = normalize_cues(cues)
             self.send_json(200,{'videoId':vid,'title':title,'language':'en','cues':cues[:3000]})
     def translate(self,data):
         key=os.getenv('OPENAI_API_KEY','').strip()
