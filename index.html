@@ -1332,6 +1332,13 @@ html[data-theme='dark'] .custom-maker-head {
   transform: translateY(-2px);
   box-shadow: 0 8px 24px rgba(109, 93, 252, 0.6);
 }
+.primary-import-btn.imported {
+  background: linear-gradient(135deg, #10b981, #059669) !important;
+  box-shadow: 0 4px 16px rgba(16, 185, 129, 0.45);
+}
+.primary-import-btn.imported:hover {
+  box-shadow: 0 8px 24px rgba(16, 185, 129, 0.6);
+}
 .yt-explorer-right {
   display: flex;
   flex-direction: column;
@@ -50541,6 +50548,25 @@ function playInExplorer(vid, title, channel, durationStr) {
   if (extBtn) extBtn.href = `https://www.youtube.com/watch?v=${vid}`;
   if (statusEl) { statusEl.style.display = 'none'; statusEl.innerHTML = ''; }
 
+  const btn = document.getElementById('btnExpImport');
+  const btnText = document.getElementById('btnExpImportText');
+  const btnIcon = document.getElementById('btnExpImportIcon');
+  const isImported = (typeof videos !== 'undefined' && videos.some(v => v.id === vid)) ||
+                     (typeof customLessons !== 'undefined' && customLessons.some(c => c.id === vid));
+  if (btn) {
+    if (isImported) {
+      btn.classList.add('imported');
+      btn.onclick = () => { closeYtExplorerModal(); openVideo(vid); };
+      if (btnText) btnText.textContent = '✓ 已收錄（點擊進入學習）';
+      if (btnIcon) btnIcon.textContent = '✓';
+    } else {
+      btn.classList.remove('imported');
+      btn.onclick = () => importCurrentExplorerVideo();
+      if (btnText) btnText.textContent = '一鍵收錄為教材';
+      if (btnIcon) btnIcon.textContent = '✨';
+    }
+  }
+
   const container = document.getElementById('ytExplorerPlayerContainer');
   if (container) {
     const originParam = location.protocol.startsWith('http') ? `&origin=${encodeURIComponent(window.location.origin)}` : '';
@@ -50723,29 +50749,39 @@ async function importCurrentExplorerVideo() {
   await importExplorerVideoDirect(currentExplorerVid, currentExplorerTitle, document.getElementById('btnExpImport'));
 }
 
+const importingExplorerVideoIds = new Set();
+
 async function importExplorerVideoDirect(vid, title, clickedBtn) {
+  if (!vid) return;
+  if (importingExplorerVideoIds.has(vid)) {
+    toast('此影片正在提取中，請稍候…');
+    return;
+  }
+  importingExplorerVideoIds.add(vid);
+
   const statusEl = document.getElementById('expImportStatus');
   const btn = document.getElementById('btnExpImport');
   const btnText = document.getElementById('btnExpImportText');
   const btnIcon = document.getElementById('btnExpImportIcon');
+  const isCardClick = clickedBtn && clickedBtn !== btn;
 
-  if (clickedBtn && clickedBtn !== btn) {
+  if (isCardClick) {
     clickedBtn.classList.add('loading');
     clickedBtn.disabled = true;
     clickedBtn.innerHTML = '<span style="display:inline-block;animation:vtSpin 0.8s linear infinite;margin-right:3px">⏳</span> 提取中…';
+  } else {
+    if (btn) btn.disabled = true;
+    if (btnText) btnText.textContent = '教材提取中…';
+    if (btnIcon) btnIcon.textContent = '⚡';
+    if (statusEl) {
+      statusEl.style.display = 'block';
+      statusEl.style.background = 'rgba(109,93,252,0.12)';
+      statusEl.style.color = 'var(--purple, #6d5dfc)';
+      statusEl.innerHTML = '⏳ 正在提取英文字幕、精選生詞並構建雙語教材，請稍候…';
+    }
   }
 
-  if (statusEl) {
-    statusEl.style.display = 'block';
-    statusEl.style.background = 'rgba(109,93,252,0.12)';
-    statusEl.style.color = 'var(--purple, #6d5dfc)';
-    statusEl.innerHTML = '⏳ 正在提取英文字幕、精選生詞並構建雙語教材，請稍候…';
-  }
-  if (btn) btn.disabled = true;
-  if (btnText) btnText.textContent = '教材提取中…';
-  if (btnIcon) btnIcon.textContent = '⚡';
-
-  toast('⏳ 正在高速提取英文字幕與生詞，構建雙語教材…');
+  toast(`⏳ 正在收錄《${(title || vid).slice(0, 16)}...》字幕與生詞…`);
 
   try {
     const resp = await fetch('/api/transcript', {
@@ -50797,39 +50833,82 @@ async function importExplorerVideoDirect(vid, title, clickedBtn) {
       localStorage.setItem('et_custom_lessons', JSON.stringify(filtered.slice(0, 30)));
     } catch (e) {}
 
-    if (clickedBtn && clickedBtn !== btn) {
+    // 立即更新頂部導覽列「自選加入」數字徽章
+    renderNavBars();
+
+    // 1. 更新被點擊的列表卡片按鈕
+    if (isCardClick) {
       clickedBtn.classList.remove('loading');
       clickedBtn.classList.add('imported');
       clickedBtn.innerHTML = '✓ 已收錄';
+      clickedBtn.title = '已收錄，點擊直接開啟學習';
       clickedBtn.disabled = false;
+      clickedBtn.onclick = (e) => {
+        e.stopPropagation();
+        closeYtExplorerModal();
+        openVideo(vid);
+      };
     }
 
-    render();
-    closeYtExplorerModal();
-    toast(`🎉 成功收錄！共 ${cues.length} 句字幕，開啟跟讀工作台`);
+    // 2. 同步更新清單中該影片的所有按鈕
+    document.querySelectorAll(`.yt-card-row[data-vid="${vid}"] .yt-quick-import-btn`).forEach(b => {
+      b.classList.remove('loading');
+      b.classList.add('imported');
+      b.innerHTML = '✓ 已收錄';
+      b.title = '已收錄，點擊直接開啟學習';
+      b.disabled = false;
+      b.onclick = (e) => {
+        e.stopPropagation();
+        closeYtExplorerModal();
+        openVideo(vid);
+      };
+    });
 
-    setTimeout(() => {
-      openVideo(vid);
-    }, 200);
+    // 3. 若左側預覽播放器正在播放這部影片，同步更新預覽按鈕
+    if (vid === currentExplorerVid) {
+      if (btn) {
+        btn.classList.add('imported');
+        btn.disabled = false;
+        btn.onclick = () => { closeYtExplorerModal(); openVideo(vid); };
+      }
+      if (btnText) btnText.textContent = '✓ 已收錄（點擊進入學習）';
+      if (btnIcon) btnIcon.textContent = '✓';
+      if (statusEl) {
+        statusEl.style.display = 'block';
+        statusEl.style.background = 'rgba(16, 185, 129, 0.15)';
+        statusEl.style.color = '#10b981';
+        statusEl.innerHTML = `✓ 成功收錄！共 ${cues.length} 句字幕，可繼續在右側收錄更多影片`;
+      }
+    }
+
+    // 4. 連續收錄模式：不中斷預覽播放、不強行關閉視窗，提示可繼續收錄
+    toast(`🎉 成功收錄《${finalTitle.slice(0, 16)}...》！共 ${cues.length} 句字幕（可繼續連續收錄）`);
 
   } catch (err) {
     console.error('Explorer import error:', err);
-    if (clickedBtn && clickedBtn !== btn) {
+    if (isCardClick) {
       clickedBtn.classList.remove('loading');
       clickedBtn.disabled = false;
       clickedBtn.innerHTML = '✕ 失敗重試';
-    }
-    if (statusEl) {
-      statusEl.style.display = 'block';
-      statusEl.style.background = 'rgba(239, 68, 68, 0.12)';
-      statusEl.style.color = '#ef4444';
-      statusEl.innerHTML = `⚠️ ${err.message}`;
+    } else {
+      if (btn) btn.disabled = false;
+      if (btnText) btnText.textContent = '一鍵收錄為教材';
+      if (btnIcon) btnIcon.textContent = '✨';
+      if (statusEl) {
+        statusEl.style.display = 'block';
+        statusEl.style.background = 'rgba(239, 68, 68, 0.12)';
+        statusEl.style.color = '#ef4444';
+        statusEl.innerHTML = `⚠️ ${err.message}`;
+      }
     }
     toast('收錄失敗：' + err.message);
   } finally {
-    if (btn) btn.disabled = false;
-    if (btnText) btnText.textContent = '一鍵收錄為教材並開始學習';
-    if (btnIcon) btnIcon.textContent = '✨';
+    importingExplorerVideoIds.delete(vid);
+    if (!isCardClick && vid !== currentExplorerVid) {
+      if (btn) btn.disabled = false;
+      if (btnText) btnText.textContent = '一鍵收錄為教材';
+      if (btnIcon) btnIcon.textContent = '✨';
+    }
   }
 }
 
