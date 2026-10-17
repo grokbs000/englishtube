@@ -1,5 +1,5 @@
 // ENGLISHTUBE Service Worker v47
-const CACHE='englishtube-v115';
+const CACHE='englishtube-v116';
 const STATIC=[
   './',
   './index.html',
@@ -8,8 +8,6 @@ const STATIC=[
   './icon-180.png',
   './icon-192.png',
   './icon-512.png',
-  './video_lessons.js',
-  './video_lessons.json',
   './songs_100.json',
   './songs_50.json'
 ];
@@ -38,11 +36,7 @@ self.addEventListener('fetch',event=>{
   if(url.pathname.startsWith('/api/'))return;
   if(url.origin!==self.location.origin)return;
   event.respondWith(caches.open(CACHE).then(async cache=>{
-    // For video_lessons files: ignore query string when matching cache
-    const isLessons = url.pathname.endsWith('/video_lessons.js') || url.pathname.endsWith('/video_lessons.json');
-    const cached = isLessons
-      ? await cache.match(url.pathname.replace(/.*\//,'./'+url.pathname.split('/').pop()), {ignoreSearch:true})
-      : await cache.match(req);
+    const cached = await cache.match(req);
     const netFetch=fetch(req).then(res=>{if(res.ok)cache.put(req,res.clone());return res}).catch(()=>null);
     if(cached){event.waitUntil(netFetch);return cached;}
     const fresh=await netFetch;
