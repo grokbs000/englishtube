@@ -1072,8 +1072,8 @@ html[data-theme='dark'] .seg-btn.active {
 /* ══════════ 批次下載中心 (Batch Download Center Modal) ══════════ */
 /* ─── Batch Download Modal ─────────────────────── */
 .batch-download-box {
-  width: min(960px, 96vw);
-  height: min(90vh, 760px);
+  width: min(1560px, 96vw);
+  height: min(94vh, 920px);
   background: #ffffff;
   border: 1px solid var(--line, #cbd5e1);
   border-radius: 24px;
@@ -1098,7 +1098,7 @@ html[data-theme='dark'] .seg-btn.active {
   flex: 1;
   min-height: 0;
   display: grid;
-  grid-template-columns: 1fr 300px;
+  grid-template-columns: 1fr 480px;
   grid-template-rows: auto 1fr auto;
   overflow: hidden;
 }
@@ -1348,7 +1348,7 @@ html[data-theme='dark'] .seg-btn.active {
   border-radius: 4px;
 }
 .batch-queue-list {
-  max-height: 180px;
+  max-height: 280px;
   overflow-y: auto;
   display: flex;
   flex-direction: column;
@@ -3403,10 +3403,12 @@ html[data-theme='dark'] .yt-card-author,
             <div class="batch-progress-bar-fill" id="dlProgressBarFill"></div>
           </div>
           <div class="batch-queue-list" id="dlQueueList"></div>
-          <div id="dlAllActions" style="display:none;margin-top:10px;background:rgba(16,185,129,0.08);border:1px solid rgba(16,185,129,0.25);border-radius:10px;padding:10px 12px">
-            <div style="font-size:12px;font-weight:800;color:#059669">🎉 下載完成！</div>
-            <div style="font-size:11px;color:var(--muted);margin:3px 0 8px;font-family:monospace" id="dlCompletedDirNote"></div>
-            <button class="pill" onclick="openCurrentDownloadFolder()" style="background:#10b981;font-size:11.5px;padding:7px 14px;display:inline-flex;align-items:center;gap:5px">
+          <div id="dlAllActions" style="display:none;margin-top:12px;background:rgba(16,185,129,0.08);border:1px solid rgba(16,185,129,0.25);border-radius:12px;padding:12px 14px;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap">
+            <div style="min-width:0;flex:1">
+              <div style="font-size:12.5px;font-weight:800;color:#059669;display:flex;align-items:center;gap:6px"><span>🎉</span>下載任務全部完成！</div>
+              <div style="font-size:11px;color:var(--muted);margin-top:3px;font-family:monospace;white-space:nowrap;overflow:hidden;text-overflow:ellipsis" id="dlCompletedDirNote"></div>
+            </div>
+            <button class="pill" onclick="openCurrentDownloadFolder()" style="background:#10b981;font-size:12px;padding:8px 16px;display:inline-flex;align-items:center;gap:6px;flex-shrink:0;white-space:nowrap">
               <span>📂</span>在 Finder 中開啟
             </button>
           </div>
@@ -51569,27 +51571,27 @@ function updateDownloadUI(data) {
         statusColor = '#10b981';
         const fp = it.filePath ? escapeHTML(it.filePath) : '';
         downloadLink = `
-          <div style="display:flex;align-items:center;gap:6px">
-            <span style="font-size:11px;color:#10b981;font-weight:700">✓ 已儲存 (${escapeHTML(it.file_size || '檔案')})</span>
-            <button class="ghost" type="button" onclick="revealDownloadedFile('${fp}')" style="padding:2px 8px;font-size:11px;border-radius:6px;color:#0ea5e9;border-color:rgba(14,165,233,0.3)" title="在 Finder 中顯示檔案">📂 開啟</button>
-            <a href="${it.download_url}" download class="ghost" style="padding:2px 6px;font-size:10.5px;border-radius:6px;color:var(--muted);text-decoration:none" title="透過瀏覽器備份另存">另存</a>
+          <div style="display:flex;align-items:center;gap:6px;flex-shrink:0;white-space:nowrap">
+            <span style="font-size:11.5px;color:#10b981;font-weight:700">✓ 已儲存 (${escapeHTML(it.file_size || '檔案')})</span>
+            <button class="ghost" type="button" onclick="revealDownloadedFile('${fp}')" style="padding:3px 10px;font-size:11.5px;border-radius:6px;color:#0ea5e9;border-color:rgba(14,165,233,0.3)" title="在 Finder 中顯示檔案">📂 開啟</button>
+            <a href="${it.download_url}" download class="ghost" style="padding:3px 8px;font-size:11px;border-radius:6px;color:var(--muted);text-decoration:none" title="透過瀏覽器備份另存">另存</a>
           </div>
         `;
       } else if (it.status === 'downloading') {
         icon = '⚡';
         statusColor = '#0ea5e9';
-        downloadLink = `<span style="font-size:11.5px;color:#0ea5e9">萃取中...</span>`;
+        downloadLink = `<span style="font-size:11.5px;color:#0ea5e9;flex-shrink:0;white-space:nowrap;font-weight:600">萃取中...</span>`;
       } else if (it.status === 'error') {
         icon = '❌';
         statusColor = '#ef4444';
-        downloadLink = `<span style="font-size:11px;color:#ef4444">${escapeHTML(it.error || '失敗')}</span>`;
+        downloadLink = `<span style="font-size:11px;color:#ef4444;flex-shrink:0;white-space:nowrap">${escapeHTML(it.error || '失敗')}</span>`;
       }
 
       return `
-        <div style="display:flex;align-items:center;justify-content:space-between;padding:6px 10px;background:rgba(0,0,0,0.02);border:1px solid var(--line,rgba(0,0,0,0.06));border-radius:8px;font-size:12px;margin-bottom:4px">
-          <div style="display:flex;align-items:center;gap:6px;overflow:hidden">
-            <span>${icon}</span>
-            <span style="overflow:hidden;text-overflow:ellipsis;white-space:nowrap;color:${statusColor}">${escapeHTML(it.title || '')}</span>
+        <div style="display:flex;align-items:center;justify-content:space-between;padding:8px 12px;background:rgba(0,0,0,0.02);border:1px solid var(--line,rgba(0,0,0,0.06));border-radius:10px;font-size:12.5px;margin-bottom:6px;gap:12px">
+          <div style="display:flex;align-items:center;gap:8px;overflow:hidden;flex:1;min-width:0">
+            <span style="flex-shrink:0">${icon}</span>
+            <span style="overflow:hidden;text-overflow:ellipsis;white-space:nowrap;color:${statusColor};font-weight:600">${escapeHTML(it.title || '')}</span>
           </div>
           <div>${downloadLink}</div>
         </div>
@@ -53221,7 +53223,7 @@ if(window.matchMedia('(display-mode: standalone)').matches||navigator.standalone
 document.querySelector('#installBtn').addEventListener('click',async()=>{if(deferredPrompt){deferredPrompt.prompt();const{outcome}=await deferredPrompt.userChoice;deferredPrompt=null;if(outcome==='accepted')toast('✓ 安裝中...')}else if(/iphone|ipad|ipod/i.test(navigator.userAgent)){toast('Safari：分享 → 加入主畫面')}else{toast('請從瀏覽器選單選擇「安裝應用程式」')}});
 // Register Service Worker + auto-reload on new SW version
 if('serviceWorker'in navigator&&location.protocol.startsWith('http')){
-  window.addEventListener('load',()=>navigator.serviceWorker.register('./sw.js?v=154').then(reg=>{
+  window.addEventListener('load',()=>navigator.serviceWorker.register('./sw.js?v=155').then(reg=>{
     try{reg.update()}catch(e){}
     reg.addEventListener('updatefound',()=>{
       const nw=reg.installing;
