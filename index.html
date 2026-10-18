@@ -50068,7 +50068,9 @@ const songs = [
     ]
   }
 ];
+window.videos = videos;
 window.songs = songs;
+window.lessonCache = window._lessonCache = window._lessonCache || {};
 let mediaMode = 'video'; // 'video' | 'song'
 let selectedChannel = 'all'; // 'all' | 'Business & Finance' | ... | 'Music' | 'saved'
 let selectedLevel = 'all'; // 'all' | 'A1' | 'A2' | 'B1' | 'B2' | 'C1'
@@ -50114,14 +50116,17 @@ function getChannelIcon(id) {
 }
 
 function switchMediaMode(mode) {
-  if (mode === mediaMode && selectedChannel !== 'custom') return;
   mediaMode = mode;
+  selectedLevel = 'all';
+  selectedSubCat = '全部';
+  query = '';
+  const searchInput = document.getElementById('search');
+  if (searchInput) searchInput.value = '';
   if (mode === 'song') {
     selectedChannel = 'Music';
   } else {
-    if (selectedChannel === 'Music' || selectedChannel === 'custom') selectedChannel = 'all';
+    selectedChannel = 'all';
   }
-  selectedSubCat = '全部';
   updateHeaderState();
   render();
 }
@@ -50621,12 +50626,10 @@ let currentExplorerDuration = '21:44';
 
 function getProjectIncludedVideoIds() {
   const set = new Set();
-  if (Array.isArray(window.videos)) {
-    window.videos.forEach(v => { if (v && v.id) set.add(v.id); });
-  }
-  if (Array.isArray(window.songs)) {
-    window.songs.forEach(s => { if (s && s.id) set.add(s.id); });
-  }
+  const vList = (typeof videos !== 'undefined' && Array.isArray(videos)) ? videos : (Array.isArray(window.videos) ? window.videos : []);
+  vList.forEach(v => { if (v && v.id) set.add(v.id); });
+  const sList = (typeof songs !== 'undefined' && Array.isArray(songs)) ? songs : (Array.isArray(window.songs) ? window.songs : []);
+  sList.forEach(s => { if (s && s.id) set.add(s.id); });
   try {
     const customs = JSON.parse(localStorage.getItem('et_custom_lessons') || '[]');
     customs.forEach(c => { if (c && c.id) set.add(c.id); });
@@ -51092,6 +51095,9 @@ function openYtExplorerModal(targetVid) {
   document.body.style.overflow = 'hidden';
 
   renderSearchHistory();
+  if (typeof populateCustomChannelSelects === 'function') {
+    populateCustomChannelSelects();
+  }
 
   const defaultItem = CURATED_YT_COLLECTIONS.ai[0];
   const vidToPlay = targetVid || defaultItem.id;
@@ -51777,6 +51783,15 @@ try {
 } catch(e) {}
 
 render();
+
+// Live search listener
+const searchInputEl = document.getElementById('search');
+if (searchInputEl) {
+  searchInputEl.addEventListener('input', e => {
+    query = e.target.value.trim();
+    render();
+  });
+}
 
 // ── Dark Mode ──
 function toggleDark(){
@@ -53331,6 +53346,14 @@ function openManageCustomChannelsModal() {
   }
 }
 
+function openCreateCustomChannelModal() {
+  openManageCustomChannelsModal();
+  setTimeout(() => {
+    const input = document.getElementById('newChannelNameInput');
+    if (input) input.focus();
+  }, 100);
+}
+
 function closeManageCustomChannelsModal() {
   const modal = document.getElementById('customChannelManageModal');
   if (modal) {
@@ -53832,6 +53855,7 @@ window.triggerAllDownloads = triggerAllDownloads;
 window.renderCustomChannelBar = renderCustomChannelBar;
 window.selectCustomChannel = selectCustomChannel;
 window.openManageCustomChannelsModal = openManageCustomChannelsModal;
+window.openCreateCustomChannelModal = openCreateCustomChannelModal;
 window.closeManageCustomChannelsModal = closeManageCustomChannelsModal;
 window.setNewChannelEmoji = setNewChannelEmoji;
 window.submitCreateCustomChannel = submitCreateCustomChannel;

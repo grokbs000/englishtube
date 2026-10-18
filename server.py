@@ -121,25 +121,53 @@ def run_batch_download_worker(task_id, video_ids, fmt, quality):
             cmd.extend(['--skip-download', '--write-auto-subs', '--write-subs', '--sub-langs', 'en.*,zh.*', '--convert-subs', 'srt', '-o', out_template, url])
         else: # mp4
             if quality == '1080p':
-                format_spec = 'bestvideo[height<=1080][ext=mp4]+bestaudio[ext=m4a]/best[height<=1080][ext=mp4]/best'
+                format_spec = 'bestvideo[height<=1080]+bestaudio/best[height<=1080]/best'
             elif quality == '720p':
-                format_spec = 'bestvideo[height<=720][ext=mp4]+bestaudio[ext=m4a]/best[height<=720][ext=mp4]/best'
+                format_spec = 'bestvideo[height<=720]+bestaudio/best[height<=720]/best'
             else:
-                format_spec = 'bestvideo[ext=mp4]+bestaudio[ext=m4a]/best[ext=mp4]/best'
+                format_spec = 'bestvideo+bestaudio/best'
             cmd.extend(['-f', format_spec, '--merge-output-format', 'mp4', '-o', out_template, url])
 
         try:
             p = subprocess.run(cmd, capture_output=True, text=True, timeout=360)
+            matched = [f for f in DOWNLOADS_DIR.iterdir() if f.is_file() and f'[{vid}]' in f.name]
+            
+            # If subtitle download returned 429 or missing captions, fallback to Whisper AI transcription!
+            if fmt in ('sub', 'vtt', 'srt') and not matched:
+                try:
+                    with tempfile.TemporaryDirectory(prefix='englishtube-subdl-') as std:
+                        tmp_audio = Path(std) / 'audio.webm'
+                        subprocess.run([str(ytdlp), '-f', 'ba/140/251', '--no-warnings', '-o', str(tmp_audio), url], capture_output=True, timeout=45)
+                        if tmp_audio.exists() and tmp_audio.stat().st_size > 1000:
+                            model = get_whisper_model()
+                            segments, _ = model.transcribe(str(tmp_audio), beam_size=1, vad_filter=True)
+                            target_ext = 'vtt' if fmt in ('sub', 'vtt') else 'srt'
+                            clean_title = re.sub(r'[^\w\s\.-]', '', item.get('title', 'Video'))[:50].strip() or vid
+                            sub_file = DOWNLOADS_DIR / f"{clean_title} [{vid}].{target_ext}"
+                            with open(sub_file, 'w', encoding='utf-8') as sf:
+                                if target_ext == 'vtt':
+                                    sf.write("WEBVTT\n\n")
+                                for idx, s in enumerate(segments, 1):
+                                    st_m, st_s = divmod(s.start, 60)
+                                    st_h, st_m = divmod(st_m, 60)
+                                    en_m, en_s = divmod(s.end, 60)
+                                    en_h, en_m = divmod(en_m, 60)
+                                    if target_ext == 'vtt':
+                                        sf.write(f"{int(st_h):02d}:{int(st_m):02d}:{st_s:06.3f} --> {int(en_h):02d}:{int(en_m):02d}:{en_s:06.3f}\n{s.text.strip()}\n\n")
+                                    else:
+                                        sf.write(f"{idx}\n{int(st_h):02d}:{int(st_m):02d}:{st_s:06.3f}".replace('.', ',') + f" --> {int(en_h):02d}:{int(en_m):02d}:{en_s:06.3f}".replace('.', ',') + f"\n{s.text.strip()}\n\n")
+                            matched = [sub_file]
+                except Exception as we:
+                    print(f"[batch-download] Whisper fallback error for {vid}: {we}")
+
             with download_tasks_lock:
-                if p.returncode == 0:
-                    matched = list(DOWNLOADS_DIR.glob(f'*[{vid}].*'))
-                    if matched:
-                        f = matched[-1]
-                        item['status'] = 'completed'
-                        item['filename'] = f.name
-                        item['size'] = f.stat().st_size
-                    else:
-                        item['status'] = 'completed'
+                if matched:
+                    f = matched[-1]
+                    item['status'] = 'completed'
+                    item['filename'] = f.name
+                    item['size'] = f.stat().st_size
+                elif p.returncode == 0:
+                    item['status'] = 'completed'
                 else:
                     item['status'] = 'error'
                     item['error'] = (p.stderr or p.stdout or '下載失敗')[-180:].strip()
@@ -526,14 +554,10 @@ class Handler(SimpleHTTPRequestHandler):
 
         cues = []
         with tempfile.TemporaryDirectory(prefix='englishtube-') as td:
-            # 1. First attempt: download official/auto VTT subtitles via yt-dlp
-            cmd=[ytdlp,'--no-warnings','--skip-download','--write-auto-subs','--write-subs','--sub-langs','en,en-orig,en-US','--sub-format','vtt/best','-o',str(Path(td)/'%(id)s.%(ext)s'),url]
-            p=subprocess.run(cmd,capture_output=True,text=True,timeout=60)
-            files=list(Path(td).glob('*.vtt'))
-            if not files:
-                cmd[cmd.index('--sub-format')+1]='json3/vtt/best'
-                p=subprocess.run(cmd,capture_output=True,text=True,timeout=60)
-                files=list(Path(td).glob('*.vtt'))+list(Path(td).glob('*.json3'))
+            # 1. First attempt: download official/auto VTT/JSON3 subtitles via yt-dlp in a single fast pass
+            cmd=[str(ytdlp),'--no-warnings','--skip-download','--write-auto-subs','--write-subs','--sub-langs','en.*,en,en-US,en-orig','--sub-format','vtt/json3/best','-o',str(Path(td)/'%(id)s.%(ext)s'),url]
+            p=subprocess.run(cmd,capture_output=True,text=True,timeout=15)
+            files=list(Path(td).glob('*.vtt'))+list(Path(td).glob('*.json3'))
             
             if files:
                 f=files[0]
@@ -550,12 +574,12 @@ class Handler(SimpleHTTPRequestHandler):
             if not cues:
                 print(f'[transcript] VTT subtitles not available or 429 for {vid}. Falling back to Whisper AI audio transcription...')
                 audio_path = Path(td) / 'audio.webm'
-                down_cmd = [ytdlp, '-f', 'ba/140/251', '--no-warnings', '-o', str(audio_path), url]
-                down_p = subprocess.run(down_cmd, capture_output=True, text=True, timeout=90)
+                down_cmd = [str(ytdlp), '-f', 'ba/140/251', '--no-warnings', '-o', str(audio_path), url]
+                down_p = subprocess.run(down_cmd, capture_output=True, text=True, timeout=35)
                 if audio_path.exists() and audio_path.stat().st_size > 1000:
                     try:
                         model = get_whisper_model()
-                        segments, info = model.transcribe(str(audio_path), beam_size=1, word_timestamps=True)
+                        segments, info = model.transcribe(str(audio_path), beam_size=1, word_timestamps=True, vad_filter=True)
                         for s in segments:
                             words = list(s.words or [])
                             if not words:
