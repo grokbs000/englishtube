@@ -199,17 +199,47 @@ def run_batch_download_worker(task_id, video_ids, fmt, quality, target_dir=None)
         elif fmt == 'srt':
             cmd.extend(['--skip-download', '--write-auto-subs', '--write-subs', '--sub-langs', 'en.*,en,en-US,en-orig,en-GB,en-CA,en-AU,zh.*', '--convert-subs', 'srt', '-o', out_template, url])
         else: # mp4
+            # 優先下載 Apple / QuickTime 原生相容之 H.264(AVC) + AAC(M4A)，徹底杜絕 VP9/Opus 造成的 QuickTime 黑畫面與「僅播放聲音」問題
             if quality == '1080p':
-                format_spec = 'bestvideo[height<=1080]+bestaudio/best[height<=1080]/best'
+                format_spec = 'bv*[ext=mp4][vcodec^=avc1][height<=1080]+ba[ext=m4a]/bv*[vcodec^=avc1][height<=1080]+ba/bv*[height<=1080]+ba/b[height<=1080]/b'
+                sort_spec = 'res:1080,vcodec:avc,acodec:m4a'
             elif quality == '720p':
-                format_spec = 'bestvideo[height<=720]+bestaudio/best[height<=720]/best'
+                format_spec = 'bv*[ext=mp4][vcodec^=avc1][height<=720]+ba[ext=m4a]/bv*[vcodec^=avc1][height<=720]+ba/bv*[height<=720]+ba/b[height<=720]/b'
+                sort_spec = 'res:720,vcodec:avc,acodec:m4a'
             else:
-                format_spec = 'bestvideo+bestaudio/best'
-            cmd.extend(['-f', format_spec, '--merge-output-format', 'mp4', '-o', out_template, url])
+                format_spec = 'bv*[ext=mp4][vcodec^=avc1]+ba[ext=m4a]/bv*[vcodec^=avc1]+ba/bv*+ba/b'
+                sort_spec = 'vcodec:avc,acodec:m4a'
+            cmd.extend(['-f', format_spec, '-S', sort_spec, '--merge-output-format', 'mp4', '-o', out_template, url])
 
         try:
             p = subprocess.run(cmd, capture_output=True, text=True, timeout=360)
             matched = [f for f in dest_dir.iterdir() if f.is_file() and f'[{vid}]' in f.name]
+
+            # QuickTime 相容性雙重保險：若來源僅提供 VP9/AV1/Opus，自動以 macOS 硬體加速轉碼為 H.264 + AAC
+            if matched and fmt not in ('mp3', 'sub', 'vtt', 'srt', 'zh_vtt') and ffmpeg:
+                target_video = matched[0]
+                if target_video.suffix.lower() == '.mp4':
+                    try:
+                        probe_res = subprocess.run([
+                            'ffprobe', '-v', 'error', '-show_entries', 'stream=codec_type,codec_name', '-of', 'json', str(target_video)
+                        ], capture_output=True, text=True, timeout=10)
+                        probe_data = json.loads(probe_res.stdout or '{}')
+                        codecs = [s.get('codec_name') for s in probe_data.get('streams', [])]
+                        needs_repair = any(c in ('vp9', 'av1', 'av01') for c in codecs) or 'opus' in codecs
+                        if needs_repair:
+                            fixed_tmp = target_video.with_name(target_video.stem + '.qtfix.mp4')
+                            hw_ok = False
+                            for vcodec_opt in (['h264_videotoolbox', '-b:v', '3000k'], ['libx264', '-preset', 'veryfast', '-crf', '22']):
+                                conv_cmd = ['ffmpeg', '-y', '-i', str(target_video), '-c:v'] + vcodec_opt + ['-c:a', 'aac', '-b:a', '192k', '-movflags', '+faststart', str(fixed_tmp)]
+                                c_res = subprocess.run(conv_cmd, capture_output=True, timeout=180)
+                                if c_res.returncode == 0 and fixed_tmp.exists() and fixed_tmp.stat().st_size > 1000:
+                                    shutil.move(str(fixed_tmp), str(target_video))
+                                    hw_ok = True
+                                    break
+                            if not hw_ok and fixed_tmp.exists():
+                                fixed_tmp.unlink()
+                    except Exception as pe:
+                        print(f"[batch-download] QuickTime transcode check error for {vid}: {pe}")
 
             # If MP4 downloaded and we have EnglishTube cues, write companion bilingual subtitle!
             if matched and cues and fmt not in ('mp3', 'sub', 'vtt', 'srt', 'zh_vtt'):
