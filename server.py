@@ -96,6 +96,35 @@ def get_default_download_dir():
 download_tasks = {}
 download_tasks_lock = threading.Lock()
 
+def write_cues_to_subfile(dest_file, cues, sub_format='bilingual'):
+    dest_file = Path(dest_file)
+    is_vtt = dest_file.suffix.lower() == '.vtt'
+    with open(dest_file, 'w', encoding='utf-8') as sf:
+        if is_vtt:
+            sf.write("WEBVTT\n\n")
+        for idx, c in enumerate(cues, 1):
+            start = float(c.get('start', 0.0))
+            duration = float(c.get('duration', 2.0))
+            end = max(start + 0.4, start + duration)
+            st_m, st_s = divmod(start, 60)
+            st_h, st_m = divmod(st_m, 60)
+            en_m, en_s = divmod(end, 60)
+            en_h, en_m = divmod(en_m, 60)
+            en_text = (c.get('en') or c.get('text') or '').strip()
+            zh_text = (c.get('zh') or '').strip()
+            if sub_format in ('zh', 'zh_vtt'):
+                text = zh_text or en_text
+            elif sub_format in ('en', 'en_vtt'):
+                text = en_text
+            else: # bilingual: English on top, Chinese below
+                text = f"{en_text}\n{zh_text}" if (en_text and zh_text) else (en_text or zh_text)
+            
+            if is_vtt:
+                sf.write(f"{int(st_h):02d}:{int(st_m):02d}:{st_s:06.3f} --> {int(en_h):02d}:{int(en_m):02d}:{en_s:06.3f}\n{text}\n\n")
+            else:
+                sf.write(f"{idx}\n{int(st_h):02d}:{int(st_m):02d}:{st_s:06.3f}".replace('.', ',') + f" --> {int(en_h):02d}:{int(en_m):02d}:{en_s:06.3f}".replace('.', ',') + f"\n{text}\n\n")
+    return dest_file
+
 def run_batch_download_worker(task_id, video_ids, fmt, quality, target_dir=None):
     ytdlp = shutil.which('yt-dlp') or '/opt/homebrew/bin/yt-dlp' or '/usr/local/bin/yt-dlp'
     ffmpeg = shutil.which('ffmpeg') or '/opt/homebrew/bin/ffmpeg' or '/usr/local/bin/ffmpeg'
@@ -119,6 +148,45 @@ def run_batch_download_worker(task_id, video_ids, fmt, quality, target_dir=None)
         with download_tasks_lock:
             item['status'] = 'downloading'
 
+        cues = item.get('cues') or []
+        if not cues:
+            # 預防機制：自動從本機教材庫 data/lessons/{vid}.json 與 songs_100.json 檢索回補，防止動態拆檔造成的 cues 遺失
+            lesson_file = ROOT / 'data' / 'lessons' / f'{vid}.json'
+            if lesson_file.exists():
+                try:
+                    with open(lesson_file, 'r', encoding='utf-8') as lf:
+                        ldata = json.load(lf)
+                        cues = ldata.get('cues') or []
+                except Exception:
+                    pass
+            if not cues:
+                songs_file = ROOT / 'songs_100.json'
+                if songs_file.exists():
+                    try:
+                        with open(songs_file, 'r', encoding='utf-8') as sf:
+                            for s in json.load(sf):
+                                if s.get('id') == vid:
+                                    cues = s.get('cues') or []
+                                    break
+                    except Exception:
+                        pass
+
+        clean_title = re.sub(r'[^\w\s\.-]', '', item.get('title', 'Video'))[:50].strip() or vid
+
+        # Priority 1: If downloading subtitles and cues exist in EnglishTube library, export immediately!
+        if fmt in ('sub', 'vtt', 'srt', 'zh_vtt', 'bilingual_vtt') and cues:
+            target_ext = 'srt' if fmt == 'srt' else 'vtt'
+            sub_file = dest_dir / f"{clean_title} [{vid}].{target_ext}"
+            sub_type = 'zh' if fmt == 'zh_vtt' else 'bilingual'
+            write_cues_to_subfile(sub_file, cues, sub_format=sub_type)
+            with download_tasks_lock:
+                item['status'] = 'completed'
+                item['filename'] = sub_file.name
+                item['filePath'] = str(sub_file)
+                item['fileDir'] = str(dest_dir)
+                item['size'] = sub_file.stat().st_size
+            continue
+
         out_template = str(dest_dir / f'%(title).60s [{vid}].%(ext)s')
         cmd = [str(ytdlp), '--no-warnings', '--no-playlist']
         if ffmpeg:
@@ -126,7 +194,7 @@ def run_batch_download_worker(task_id, video_ids, fmt, quality, target_dir=None)
 
         if fmt == 'mp3':
             cmd.extend(['-x', '--audio-format', 'mp3', '--audio-quality', '0', '-o', out_template, url])
-        elif fmt in ('sub', 'vtt'):
+        elif fmt in ('sub', 'vtt', 'zh_vtt'):
             cmd.extend(['--skip-download', '--write-auto-subs', '--write-subs', '--sub-langs', 'en.*,en,en-US,en-orig,en-GB,en-CA,en-AU,zh.*', '--convert-subs', 'vtt', '-o', out_template, url])
         elif fmt == 'srt':
             cmd.extend(['--skip-download', '--write-auto-subs', '--write-subs', '--sub-langs', 'en.*,en,en-US,en-orig,en-GB,en-CA,en-AU,zh.*', '--convert-subs', 'srt', '-o', out_template, url])
@@ -142,9 +210,17 @@ def run_batch_download_worker(task_id, video_ids, fmt, quality, target_dir=None)
         try:
             p = subprocess.run(cmd, capture_output=True, text=True, timeout=360)
             matched = [f for f in dest_dir.iterdir() if f.is_file() and f'[{vid}]' in f.name]
+
+            # If MP4 downloaded and we have EnglishTube cues, write companion bilingual subtitle!
+            if matched and cues and fmt not in ('mp3', 'sub', 'vtt', 'srt', 'zh_vtt'):
+                companion_sub = dest_dir / f"{clean_title} [{vid}].vtt"
+                try:
+                    write_cues_to_subfile(companion_sub, cues, sub_format='bilingual')
+                except Exception as se:
+                    print(f"[batch-download] Companion sub error for {vid}: {se}")
             
             # If subtitle download returned 429 or missing captions, fallback to Whisper AI transcription!
-            if fmt in ('sub', 'vtt', 'srt') and not matched:
+            if fmt in ('sub', 'vtt', 'srt', 'zh_vtt') and not matched:
                 try:
                     with tempfile.TemporaryDirectory(prefix='englishtube-subdl-') as std:
                         tmp_audio = Path(std) / 'audio.webm'
@@ -152,8 +228,7 @@ def run_batch_download_worker(task_id, video_ids, fmt, quality, target_dir=None)
                         if tmp_audio.exists() and tmp_audio.stat().st_size > 1000:
                             model = get_whisper_model()
                             segments, _ = model.transcribe(str(tmp_audio), beam_size=1, vad_filter=True)
-                            target_ext = 'vtt' if fmt in ('sub', 'vtt') else 'srt'
-                            clean_title = re.sub(r'[^\w\s\.-]', '', item.get('title', 'Video'))[:50].strip() or vid
+                            target_ext = 'vtt' if fmt in ('sub', 'vtt', 'zh_vtt') else 'srt'
                             sub_file = dest_dir / f"{clean_title} [{vid}].{target_ext}"
                             with open(sub_file, 'w', encoding='utf-8') as sf:
                                 if target_ext == 'vtt':

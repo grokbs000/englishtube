@@ -351,3 +351,20 @@ python3 fill_all_50_songs_gemini.py
    - [ ] 列表勾選是否支援「局部 DOM 補丁」，防止全量 re-render 導致滾動條跳回最頂部？
    - [ ] **全域渲染生命週期防護**：出現在首頁卡片模板中的變數是否皆在模組頂層顯式初始化，且具備 `typeof` 防禦性檢查，杜絕 ReferenceError 導致首頁教材全部空白？
    - [ ] **無頭 Chrome 閉環驗收**：透過 CDP 實測驗證首頁 `grid.children.length === 400` 且下載中心 `dlLibraryList.children.length === 500`？
+   - [ ] **雙語資料流不可斷鏈 (Bilingual Continuity Invariant)**：任何批次下載、離線導出或外部轉換功能，必須保證本機 `data/lessons/{id}.json` 與 `songs_100.json` 的中文字幕完整流動，嚴禁只向 YouTube 抓取而丟失平台精校之繁體中文翻譯！
+
+---
+
+### J. 雙語資料流不可斷鏈與全時序中文字幕保護標準 (Bilingual Continuity & Zero-Loss Subtitle Standard)
+
+* **現象與痛點**：
+  在平台中明明每支精選教材與情歌都具備全時序精校繁體中文字幕（`cues` 中的 `zh` 欄位），但在擴充「批次下載」等新周邊功能時，前端若便宜行事只傳 `{id, title, url}`，且後端偷懶直接依賴 `yt-dlp` 向 YouTube 官方抓取字幕，而 YouTube 官方對 99% 的英文影片根本沒有中文 CC，直接導致下載下來的「雙語字幕」或 MP4 裡面**完全丟失中文字幕**，造成使用者極大困惑與體驗崩潰。
+* **根治與防護機制（四大鐵律）**：
+  1. **資料管線閉環（Data Pipeline Closure）**：
+     前端向後端請求下載或導出時，必須連同庫內已加載的 `cues` 與 `zh` 完整傳送。
+  2. **後端資料庫主動補齊防線（Server-Side Data Hydration）**：
+     若因前端動態拆檔（On-demand Streaming）導致傳入的 `cues` 為空，後端 `server.py` **必須主動依據 `vid` 檢索本機 `data/lessons/{vid}.json` 與 `songs_100.json`**，自動將本機繁體中文字幕注入管線，絕不可直接對外部 YouTube 碰運氣。
+  3. **雙語伴隨生成（Companion Subtitle Auto-Export）**：
+     當用戶下載 MP4 影片時，後端應自動在同目錄下生成同名的雙語字幕檔（`[ID].vtt`），確保各類本機播放器（VLC / IINA / PotPlayer）自動加載中英雙語對照。
+  4. **字幕內容完整性斷言（Chinese Subtitle Content Assertion）**：
+     凡標註為「雙語字幕」或「繁中字幕」的產物，內容必須包含中文字符正則（`[\u4e00-\u9fa5]`），杜絕「假雙語、真純英」的現象。

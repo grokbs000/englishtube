@@ -1263,6 +1263,49 @@ html[data-theme='dark'] .seg-btn.active {
   color: #fff;
   box-shadow: 0 3px 10px rgba(14,165,233,0.3);
 }
+.batch-input {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 8px 12px;
+  border-radius: 8px;
+  border: 1.5px solid var(--line, #cbd5e1);
+  background: #f8fafc;
+  color: #0f172a;
+  font-size: 12px;
+  font-weight: 600;
+  outline: none;
+  transition: all .2s ease;
+}
+.batch-input:focus {
+  border-color: #0ea5e9;
+  box-shadow: 0 0 0 3px rgba(14, 165, 233, 0.18);
+  background: #ffffff;
+}
+.batch-input::placeholder {
+  color: #94a3b8;
+  opacity: 0.8;
+  font-weight: 500;
+}
+.batch-dir-preset-btn {
+  padding: 6px 10px;
+  font-size: 11.5px;
+  text-align: left;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  border-radius: 8px;
+  border: 1px solid var(--line, #cbd5e1);
+  background: rgba(0,0,0,0.02);
+  color: #334155;
+  cursor: pointer;
+  transition: all .15s ease;
+  font-weight: 600;
+}
+.batch-dir-preset-btn:hover {
+  background: rgba(14, 165, 233, 0.08);
+  color: #0284c7;
+  border-color: rgba(14, 165, 233, 0.4);
+}
 /* legacy - keep for compatibility */
 .batch-library-wrap {
   display: contents;
@@ -1397,6 +1440,32 @@ html[data-theme='dark'] .batch-filter-pill.active {
 html[data-theme='dark'] .batch-queue-item {
   background: #1f2937;
   border-color: #374151;
+}
+html[data-theme='dark'] .batch-input,
+@media (prefers-color-scheme: dark) {
+  html:not([data-theme='light']) .batch-input {
+    background: #0f172a !important;
+    color: #f8fafc !important;
+    border-color: #334155 !important;
+    caret-color: #38bdf8 !important;
+  }
+  html:not([data-theme='light']) .batch-input:focus {
+    border-color: #38bdf8 !important;
+    box-shadow: 0 0 0 3px rgba(56, 189, 248, 0.25) !important;
+  }
+  html:not([data-theme='light']) .batch-input::placeholder {
+    color: #64748b !important;
+  }
+  html:not([data-theme='light']) .batch-dir-preset-btn {
+    background: #1e293b !important;
+    border-color: #334155 !important;
+    color: #cbd5e1 !important;
+  }
+  html:not([data-theme='light']) .batch-dir-preset-btn:hover {
+    background: rgba(56, 189, 248, 0.15) !important;
+    color: #38bdf8 !important;
+    border-color: #38bdf8 !important;
+  }
 }
 
 /* CEFR Level Bar */
@@ -1606,8 +1675,9 @@ html[data-theme='dark'] .custom-maker-head {
 #makerTranscriptInput,
 #makerCustomChannelSelect,
 #moveTargetChannelSelect,
-#dlSearchInput {
-  background: #e5e7eb !important;
+#dlSearchInput,
+#dlCustomDirInput {
+  background: #f8fafc !important;
   color: #0f172a !important;
   border: 1.5px solid #cbd5e1 !important;
   border-radius: 8px;
@@ -1618,7 +1688,8 @@ html[data-theme='dark'] .custom-maker-head {
 .custom-maker-box textarea::placeholder,
 #newChannelName::placeholder,
 #makerUrlInput::placeholder,
-#dlSearchInput::placeholder {
+#dlSearchInput::placeholder,
+#dlCustomDirInput::placeholder {
   color: #64748b !important;
   opacity: 1 !important;
 }
@@ -1629,8 +1700,9 @@ html[data-theme='dark'] .custom-maker-head {
 #newChannelIcon:focus,
 #makerUrlInput:focus,
 #makerTranscriptInput:focus,
-#dlSearchInput:focus {
-  background: #f1f5f9 !important;
+#dlSearchInput:focus,
+#dlCustomDirInput:focus {
+  background: #ffffff !important;
   border-color: #0ea5e9 !important;
   box-shadow: 0 0 0 3px rgba(14, 165, 233, 0.2) !important;
   outline: none !important;
@@ -1666,8 +1738,9 @@ html[data-theme='dark'] #makerUrlInput,
 html[data-theme='dark'] #makerTranscriptInput,
 html[data-theme='dark'] #makerCustomChannelSelect,
 html[data-theme='dark'] #moveTargetChannelSelect,
-html[data-theme='dark'] #dlSearchInput {
-  background: #27273a !important;
+html[data-theme='dark'] #dlSearchInput,
+html[data-theme='dark'] #dlCustomDirInput {
+  background: #1e1e35 !important;
   color: #f1f5f9 !important;
   border-color: #3e3e58 !important;
 }
@@ -1678,11 +1751,44 @@ html[data-theme='dark'] #newChannelName:focus,
 html[data-theme='dark'] #newChannelIcon:focus,
 html[data-theme='dark'] #makerUrlInput:focus,
 html[data-theme='dark'] #makerTranscriptInput:focus,
-html[data-theme='dark'] #dlSearchInput:focus {
-  background: #1e1e30 !important;
+html[data-theme='dark'] #dlSearchInput:focus,
+html[data-theme='dark'] #dlCustomDirInput:focus {
+  background: #151528 !important;
   border-color: #38bdf8 !important;
   box-shadow: 0 0 0 3px rgba(56, 189, 248, 0.25) !important;
   color: #ffffff !important;
+}
+
+@media (prefers-color-scheme: dark) {
+  html:not([data-theme='light']) .custom-maker-box input,
+  html:not([data-theme='light']) .custom-maker-box textarea,
+  html:not([data-theme='light']) .custom-maker-box select,
+  html:not([data-theme='light']) #newChannelName,
+  html:not([data-theme='light']) #newChannelIcon,
+  html:not([data-theme='light']) #makerUrlInput,
+  html:not([data-theme='light']) #makerTranscriptInput,
+  html:not([data-theme='light']) #makerCustomChannelSelect,
+  html:not([data-theme='light']) #moveTargetChannelSelect,
+  html:not([data-theme='light']) #dlSearchInput,
+  html:not([data-theme='light']) #dlCustomDirInput {
+    background: #1e1e35 !important;
+    color: #f1f5f9 !important;
+    border-color: #3e3e58 !important;
+  }
+  html:not([data-theme='light']) .custom-maker-box input:focus,
+  html:not([data-theme='light']) .custom-maker-box textarea:focus,
+  html:not([data-theme='light']) .custom-maker-box select:focus,
+  html:not([data-theme='light']) #newChannelName:focus,
+  html:not([data-theme='light']) #newChannelIcon:focus,
+  html:not([data-theme='light']) #makerUrlInput:focus,
+  html:not([data-theme='light']) #makerTranscriptInput:focus,
+  html:not([data-theme='light']) #dlSearchInput:focus,
+  html:not([data-theme='light']) #dlCustomDirInput:focus {
+    background: #151528 !important;
+    border-color: #38bdf8 !important;
+    box-shadow: 0 0 0 3px rgba(56, 189, 248, 0.25) !important;
+    color: #ffffff !important;
+  }
 }
 html[data-theme='dark'] #quickEmojiList button,
 html[data-theme='dark'] #quickEmojiList .ghost {
@@ -3209,7 +3315,7 @@ html[data-theme='dark'] .yt-card-author,
                 <button class="ghost" onclick="toggleDownloadSelectAll(false)" style="padding:4px 8px;font-size:11.5px;color:var(--muted)" title="清空全部已勾選項目">✕ 清空</button>
               </div>
               <div style="position:relative;flex:1;max-width:260px;min-width:140px">
-                <input type="text" id="dlSearchInput" placeholder="🔍 搜尋教材名稱、頻道或 ID..." oninput="filterDownloadLibraryList()" style="width:100%;box-sizing:border-box;padding:6px 26px 6px 10px;border-radius:8px;border:1.5px solid #cbd5e1;font-size:12px;background:#e5e7eb;color:#0f172a;outline:none" />
+                <input type="text" id="dlSearchInput" class="batch-input" placeholder="🔍 搜尋教材名稱、頻道或 ID..." oninput="filterDownloadLibraryList()" style="padding:6px 26px 6px 10px;font-size:12px" />
                 <button type="button" onclick="document.getElementById('dlSearchInput').value='';filterDownloadLibraryList();" style="position:absolute;right:6px;top:50%;transform:translateY(-50%);background:none;border:none;color:#94a3b8;cursor:pointer;font-size:12px;padding:2px 4px" title="清空搜尋">✕</button>
               </div>
             </div>
@@ -3245,13 +3351,16 @@ html[data-theme='dark'] .yt-card-author,
           <label style="font-size:12px;font-weight:800;display:block;margin-bottom:6px">🎛️ 下載格式</label>
           <div class="batch-format-options">
             <div class="batch-format-pill active" id="btnFmtMp4" onclick="setDownloadFormat('mp4')">
-              <span>🎬</span><div><b style="font-size:12px">MP4 影片</b><br><small style="opacity:0.7;font-size:10.5px">高畫質視訊+音訊</small></div>
+              <span>🎬</span><div><b style="font-size:12px">MP4 影片</b><br><small style="opacity:0.7;font-size:10.5px">高畫質視訊 + 伴隨雙語字幕</small></div>
             </div>
             <div class="batch-format-pill" id="btnFmtMp3" onclick="setDownloadFormat('mp3')">
-              <span>🎧</span><div><b style="font-size:12px">MP3 音訊</b><br><small style="opacity:0.7;font-size:10.5px">適合通勤跟讀聽力</small></div>
+              <span>🎧</span><div><b style="font-size:12px">MP3 音訊</b><br><small style="opacity:0.7;font-size:10.5px">高音質音訊 · 通勤聽力跟讀</small></div>
             </div>
             <div class="batch-format-pill" id="btnFmtSub" onclick="setDownloadFormat('sub')">
-              <span>📝</span><div><b style="font-size:12px">雙語字幕 VTT</b><br><small style="opacity:0.7;font-size:10.5px">英中逐字字幕檔</small></div>
+              <span>📝</span><div><b style="font-size:12px">雙語字幕 VTT</b><br><small style="opacity:0.7;font-size:10.5px">英中雙行即時對照字幕</small></div>
+            </div>
+            <div class="batch-format-pill" id="btnFmtZh" onclick="setDownloadFormat('zh_vtt')">
+              <span>🇹🇼</span><div><b style="font-size:12px">繁中字幕 VTT</b><br><small style="opacity:0.7;font-size:10.5px">精校繁體中文翻譯字幕</small></div>
             </div>
           </div>
           <div style="display:flex;align-items:center;gap:6px;margin-top:10px">
@@ -3270,13 +3379,13 @@ html[data-theme='dark'] .yt-card-author,
             <span>📁</span>
             <label style="font-size:12px;font-weight:800">儲存位置</label>
           </div>
-          <input type="text" id="dlCustomDirInput" placeholder="/Users/.../Downloads" style="width:100%;box-sizing:border-box;padding:7px 10px;border-radius:8px;border:1.5px solid #cbd5e1;background:#e5e7eb;color:#0f172a;font-size:11.5px;font-family:monospace;outline:none;margin-bottom:8px" oninput="saveCustomDownloadDir(this.value)" />
+          <input type="text" id="dlCustomDirInput" class="batch-input" placeholder="/Users/.../Downloads" style="font-family:monospace;font-size:12px;margin-bottom:8px" oninput="saveCustomDownloadDir(this.value)" />
           <div style="display:flex;flex-direction:column;gap:5px">
-            <button class="ghost" type="button" onclick="setPresetDownloadDir('default')" style="padding:6px 10px;font-size:11.5px;text-align:left;justify-content:flex-start">📥 系統下載匣 ~/Downloads</button>
-            <button class="ghost" type="button" onclick="setPresetDownloadDir('desktop')" style="padding:6px 10px;font-size:11.5px;text-align:left;justify-content:flex-start">🖥️ 桌面 ~/Desktop</button>
-            <button class="ghost" type="button" onclick="setPresetDownloadDir('project')" style="padding:6px 10px;font-size:11.5px;text-align:left;justify-content:flex-start">📁 專案 downloads 目錄</button>
+            <button class="batch-dir-preset-btn" type="button" onclick="setPresetDownloadDir('default')">📥 系統下載匣 ~/Downloads</button>
+            <button class="batch-dir-preset-btn" type="button" onclick="setPresetDownloadDir('desktop')">🖥️ 桌面 ~/Desktop</button>
+            <button class="batch-dir-preset-btn" type="button" onclick="setPresetDownloadDir('project')">📁 專案 downloads 目錄</button>
           </div>
-          <button class="ghost" type="button" onclick="openCurrentDownloadFolder()" style="margin-top:8px;width:100%;padding:6px;font-size:11.5px;display:inline-flex;align-items:center;justify-content:center;gap:5px;color:#0284c7">
+          <button class="batch-dir-preset-btn" type="button" onclick="openCurrentDownloadFolder()" style="margin-top:8px;justify-content:center;color:#0284c7;font-weight:700">
             📂 在 Finder 中開啟
           </button>
         </div>
@@ -50868,7 +50977,12 @@ window.selectedDownloadIds = selectedDownloadIds;
 let currentDownloadTab = 'library';
 let currentDownloadFormat = 'mp4';
 let currentDownloadDir = '';
+let downloadPollTimer = null;
+let activeDownloadTaskId = null;
+let dlLibraryFilterMode = 'all';
 window._serverDlDirs = { defaultDir: '', projectDir: '', desktopDir: '' };
+window.downloadPollTimer = null;
+window.activeDownloadTaskId = null;
 
 async function initDownloadDir() {
   try {
@@ -51023,7 +51137,7 @@ function toggleDownloadCardSelection(vid) {
   render();
 }
 
-let dlLibraryFilterMode = 'all';
+// dlLibraryFilterMode is declared at module top
 
 function setDlLibraryFilter(mode, shouldRender = true) {
   dlLibraryFilterMode = mode;
@@ -51091,7 +51205,7 @@ function switchDownloadTab(tab) {
 
 function setDownloadFormat(fmt) {
   currentDownloadFormat = fmt;
-  const fMap = { 'mp4': 'btnFmtMp4', 'mp3': 'btnFmtMp3', 'sub': 'btnFmtSub' };
+  const fMap = { 'mp4': 'btnFmtMp4', 'mp3': 'btnFmtMp3', 'sub': 'btnFmtSub', 'zh_vtt': 'btnFmtZh' };
   Object.keys(fMap).forEach(k => {
     const el = document.getElementById(fMap[k]);
     if (el) el.classList.toggle('active', k === fmt);
@@ -51350,6 +51464,8 @@ async function startBatchDownload() {
       targets.push({
         id: id,
         title: found?.title || `video_${id}`,
+        zh: found?.zh || '',
+        cues: found?.cues || [],
         url: `https://www.youtube.com/watch?v=${id}`
       });
     });
@@ -51359,6 +51475,13 @@ async function startBatchDownload() {
       alert('請在文字框中貼上至少一個有效的 YouTube 網址！');
       return;
     }
+    targets.forEach(t => {
+      const found = pool.find(v => v.id === t.id);
+      if (found && found.cues) {
+        t.cues = found.cues;
+        t.zh = found.zh || '';
+      }
+    });
   }
 
   const quality = document.getElementById('dlQualitySelect')?.value || '1080p';
@@ -53098,7 +53221,7 @@ if(window.matchMedia('(display-mode: standalone)').matches||navigator.standalone
 document.querySelector('#installBtn').addEventListener('click',async()=>{if(deferredPrompt){deferredPrompt.prompt();const{outcome}=await deferredPrompt.userChoice;deferredPrompt=null;if(outcome==='accepted')toast('✓ 安裝中...')}else if(/iphone|ipad|ipod/i.test(navigator.userAgent)){toast('Safari：分享 → 加入主畫面')}else{toast('請從瀏覽器選單選擇「安裝應用程式」')}});
 // Register Service Worker + auto-reload on new SW version
 if('serviceWorker'in navigator&&location.protocol.startsWith('http')){
-  window.addEventListener('load',()=>navigator.serviceWorker.register('./sw.js?v=151').then(reg=>{
+  window.addEventListener('load',()=>navigator.serviceWorker.register('./sw.js?v=154').then(reg=>{
     try{reg.update()}catch(e){}
     reg.addEventListener('updatefound',()=>{
       const nw=reg.installing;
