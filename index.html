@@ -2499,7 +2499,7 @@ html[data-theme='dark'] .yt-card-author,
 <script src="https://www.youtube.com/iframe_api"></script>
 </head>
 <body>
-<header class="top"><div class="logo">ENGLISH<b>TUBE</b></div><nav class="nav"><a href="#discover" onclick="switchMediaMode('video')" style="white-space:nowrap">探索影片</a><a href="#discover" onclick="switchMediaMode('song')" style="display:inline-flex;align-items:center;white-space:nowrap">探索歌曲&nbsp;<span class="nav-badge">100首</span></a><a href="javascript:void(0)" onclick="setFilter('自選')" style="display:inline-flex;align-items:center;gap:4px;color:var(--purple,#6d5dfc);font-weight:750;white-space:nowrap"><span style="font-size:14px">✨</span>自選加入&nbsp;<span class="nav-badge" id="customNavBadge" style="background:var(--purple,#6d5dfc);color:#fff">0</span></a><a href="javascript:void(0)" onclick="openYtExplorerModal()" style="display:inline-flex;align-items:center;gap:4px;color:var(--purple,#6d5dfc);font-weight:800;white-space:nowrap"><span style="font-size:14px">🌐</span>無廣告找素材&nbsp;<span class="nav-badge" style="background:#10b981;color:#fff;font-size:10px">NEW</span></a><a href="#study" style="white-space:nowrap">學習工具</a><a href="javascript:void(0)" onclick="openBatchDownloadModal()" style="display:inline-flex;align-items:center;gap:4px;color:#0284c7;font-weight:750;white-space:nowrap" title="批次下載 YouTube 影片、高音質MP3與雙語字幕"><span style="font-size:15px">📥</span>下載影片&nbsp;<span class="nav-badge" style="background:#0ea5e9;color:#fff;font-size:10px">PRO</span></a><a href="#saved" onclick="setFilter('收藏')" style="white-space:nowrap">我的收藏</a></nav><label class="search">⌕ <input id="search" placeholder="搜尋影片、主題..." autocomplete="off"></label><button class="pill" id="installBtn" style="white-space:nowrap">＋ 安裝 App</button><button class="dark-toggle" id="darkToggle" title="切換深色模式" onclick="toggleDark()">🌙</button></header>
+<header class="top"><div class="logo">ENGLISH<b>TUBE</b></div><nav class="nav"><a href="#discover" onclick="switchMediaMode('video')" style="white-space:nowrap">探索影片</a><a href="#discover" onclick="switchMediaMode('song')" style="display:inline-flex;align-items:center;white-space:nowrap">探索歌曲&nbsp;<span class="nav-badge">100首</span></a><a href="javascript:void(0)" onclick="setFilter('自選')" style="display:inline-flex;align-items:center;gap:4px;color:var(--purple,#6d5dfc);font-weight:750;white-space:nowrap"><span style="font-size:14px">✨</span>自選與自訂頻道&nbsp;<span class="nav-badge" id="customNavBadge" style="background:var(--purple,#6d5dfc);color:#fff">0</span></a><a href="javascript:void(0)" onclick="openYtExplorerModal()" style="display:inline-flex;align-items:center;gap:4px;color:var(--purple,#6d5dfc);font-weight:800;white-space:nowrap"><span style="font-size:14px">🌐</span>無廣告找素材&nbsp;<span class="nav-badge" style="background:#10b981;color:#fff;font-size:10px">NEW</span></a><a href="#study" style="white-space:nowrap">學習工具</a><a href="javascript:void(0)" onclick="openBatchDownloadModal()" style="display:inline-flex;align-items:center;gap:4px;color:#0284c7;font-weight:750;white-space:nowrap" title="批次下載 YouTube 影片、高音質MP3與雙語字幕"><span style="font-size:15px">📥</span>下載影片&nbsp;<span class="nav-badge" style="background:#0ea5e9;color:#fff;font-size:10px">PRO</span></a><a href="#saved" onclick="setFilter('收藏')" style="white-space:nowrap">我的收藏</a></nav><label class="search">⌕ <input id="search" placeholder="搜尋影片、主題..." autocomplete="off"></label><button class="pill" id="installBtn" style="white-space:nowrap">＋ 安裝 App</button><button class="dark-toggle" id="darkToggle" title="切換深色模式" onclick="toggleDark()">🌙</button></header>
 <div class="net-badge online" id="netBadge">📡 已離線</div>
 <main class="wrap">
 <section class="hero"><div><div class="eyebrow">YOUR DAILY ENGLISH HABIT</div><h1>喜歡什麼，就用什麼<br>練好你的英文。</h1><p>真實情境影片 × 英中字幕 × 單字收藏。每天 10 分鐘，讓英文從「聽得懂」變成「說得出口」。</p><div class="cta"><button class="pill" onclick="document.querySelector('#discover').scrollIntoView({behavior:'smooth'})">開始今天的學習　→</button><button class="ghost" onclick="openYtExplorerModal()" style="border-color:var(--purple,#6d5dfc);color:var(--purple,#6d5dfc);font-weight:700">🌐 無廣告 YouTube 找素材</button><button class="ghost" onclick="openBatchDownloadModal()" style="border-color:#0284c7;color:#0284c7;font-weight:700">📥 批次下載影片</button><button class="ghost" onclick="openCustomLesson()">＋ 貼網址自製教材</button></div></div><div class="heroart"><div class="orb"><div class="playbig">▶</div></div><div class="float one">✦ 每天 10 分鐘</div><div class="float two">🎧 Listen · Learn · Speak</div></div></section>
@@ -2517,7 +2517,7 @@ html[data-theme='dark'] .yt-card-author,
     </button>
     <button class="seg-btn" id="btnModeCustom" onclick="setChannel('custom')">
       <span class="seg-icon">✨</span>
-      <span class="seg-text">自選加入</span>
+      <span class="seg-text">自選與自訂頻道</span>
       <span class="seg-badge" id="customSegBadge" style="background:var(--purple,#6d5dfc);color:#fff">0</span>
     </button>
   </div>
@@ -2526,8 +2526,9 @@ html[data-theme='dark'] .yt-card-author,
       <h2 id="discoverTitle">探索英文影片</h2>
       <p id="discoverSubTitle">選你喜歡的主題，學習就不再無聊。</p>
     </div>
-    <div style="display:flex;gap:8px;align-items:center">
-      <button class="ghost" onclick="openBatchDownloadModal()" style="border-color:rgba(14,165,233,0.3);color:#0284c7;display:inline-flex;align-items:center;gap:4px"><span>📥</span>批次下載</button>
+    <div style="display:flex;gap:8px;align-items:center;flex-wrap:wrap">
+      <button class="ghost" onclick="setChannel('custom')" style="border-color:rgba(109,93,252,0.4);color:var(--purple,#6d5dfc);display:inline-flex;align-items:center;gap:4px;font-weight:750"><span>🏷️</span>自訂頻道</button>
+      <button class="ghost" onclick="openBatchDownloadModal()" style="border-color:rgba(14,165,233,0.3);color:#0284c7;display:inline-flex;align-items:center;gap:4px;font-weight:750"><span>📥</span>批次下載</button>
       <button class="ghost" onclick="openYtExplorerModal()" style="border-color:rgba(109,93,252,0.3);color:var(--purple,#6d5dfc);display:inline-flex;align-items:center;gap:4px"><span>🌐</span>無廣告找素材</button>
       <button class="ghost" onclick="shuffleCurrentMedia()">↻ 換一批</button>
     </div>
@@ -50077,7 +50078,7 @@ const saved = new Set(JSON.parse(localStorage.getItem('et_saved')||'[]')), saved
 
 const CHANNEL_DEFS = [
   { id: 'all', name: '全部頻道', icon: '🌟' },
-  { id: 'custom', name: '自選加入', icon: '✨' },
+  { id: 'custom', name: '自選與自訂頻道', icon: '✨' },
   { id: 'Business & Finance', name: '職場商業', icon: '💼' },
   { id: 'Learning Resources', name: '學習口說', icon: '🎓' },
   { id: 'Animation', name: 'TED-Ed動畫', icon: '🎬' },
@@ -51712,7 +51713,7 @@ if(window.matchMedia('(display-mode: standalone)').matches||navigator.standalone
 document.querySelector('#installBtn').addEventListener('click',async()=>{if(deferredPrompt){deferredPrompt.prompt();const{outcome}=await deferredPrompt.userChoice;deferredPrompt=null;if(outcome==='accepted')toast('✓ 安裝中...')}else if(/iphone|ipad|ipod/i.test(navigator.userAgent)){toast('Safari：分享 → 加入主畫面')}else{toast('請從瀏覽器選單選擇「安裝應用程式」')}});
 // Register Service Worker + auto-reload on new SW version
 if('serviceWorker'in navigator&&location.protocol.startsWith('http')){
-  window.addEventListener('load',()=>navigator.serviceWorker.register('./sw.js?v=143').then(reg=>{
+  window.addEventListener('load',()=>navigator.serviceWorker.register('./sw.js?v=144').then(reg=>{
     try{reg.update()}catch(e){}
     reg.addEventListener('updatefound',()=>{
       const nw=reg.installing;
@@ -53238,7 +53239,7 @@ function getCustomChannelById(id) {
 }
 
 function renderCustomChannelBar() {
-  const bar = document.getElementById('customChannelNav');
+  const bar = document.getElementById('customChannelBar');
   if (!bar) return;
 
   if (selectedChannel !== 'custom') {
@@ -53248,17 +53249,17 @@ function renderCustomChannelBar() {
   bar.style.display = 'flex';
 
   const channels = getCustomChannels();
-  const customVideos = videos.filter(v => v.isCustom || v.cat === '自訂' || v.cat === '探索' || (localStorage.getItem('et_custom_lessons') || '').includes(v.id));
+  const customVideos = (typeof videos !== 'undefined' ? videos : []).filter(v => v.isCustom || v.cat === '自訂' || v.cat === '探索' || (localStorage.getItem('et_custom_lessons') || '').includes(v.id));
 
   const totalCount = customVideos.length;
   const isAllActive = selectedCustomChannel === 'all';
 
   let html = `
-    <span class="vt-custom-label">自訂分類:</span>
-    <button class="vt-custom-channel-chip ${isAllActive ? 'active' : ''}" onclick="selectCustomChannel('all')">
+    <span class="vt-custom-bar-label">🏷️ 自訂分類:</span>
+    <button class="vt-custom-chip ${isAllActive ? 'active' : ''}" onclick="selectCustomChannel('all')">
       <span>✨</span>
-      <span>全部自訂</span>
-      <span class="custom-cnt">${totalCount}</span>
+      <span>全部自選</span>
+      <span class="chip-cnt">${totalCount}</span>
     </button>
   `;
 
@@ -53266,16 +53267,16 @@ function renderCustomChannelBar() {
     const cnt = customVideos.filter(v => (v.customChannelId || 'custom_default') === ch.id).length;
     const isActive = selectedCustomChannel === ch.id;
     html += `
-      <button class="vt-custom-channel-chip ${isActive ? 'active' : ''}" onclick="selectCustomChannel('${ch.id}')">
+      <button class="vt-custom-chip ${isActive ? 'active' : ''}" onclick="selectCustomChannel('${ch.id}')">
         <span>${ch.icon}</span>
         <span>${ch.name}</span>
-        <span class="custom-cnt">${cnt}</span>
+        <span class="chip-cnt">${cnt}</span>
       </button>
     `;
   });
 
   html += `
-    <button class="vt-custom-channel-chip manage-btn" onclick="openManageCustomChannelsModal()">
+    <button class="vt-custom-manage-btn" onclick="openManageCustomChannelsModal()">
       <span>⚙️</span>
       <span>管理頻道</span>
     </button>
@@ -53292,7 +53293,7 @@ function selectCustomChannel(id) {
 
 function populateCustomChannelSelects() {
   const channels = getCustomChannels();
-  const selects = ['makerCustomChannelSelect', 'explorerTargetChannelSelect', 'moveChannelSelect'];
+  const selects = ['makerCustomChannelSelect', 'explorerTargetChannelSelect', 'moveTargetChannelSelect'];
   selects.forEach(sId => {
     const el = document.getElementById(sId);
     if (!el) return;
@@ -53306,35 +53307,41 @@ function populateCustomChannelSelects() {
 
 function openManageCustomChannelsModal() {
   renderManageCustomChannelsList();
-  const modal = document.getElementById('manageCustomChannelsModal');
-  if (modal) modal.style.display = 'flex';
+  const modal = document.getElementById('customChannelManageModal');
+  if (modal) {
+    modal.classList.add('open');
+    modal.style.display = 'flex';
+  }
 }
 
 function closeManageCustomChannelsModal() {
-  const modal = document.getElementById('manageCustomChannelsModal');
-  if (modal) modal.style.display = 'none';
+  const modal = document.getElementById('customChannelManageModal');
+  if (modal) {
+    modal.classList.remove('open');
+    modal.style.display = 'none';
+  }
 }
 
 function renderManageCustomChannelsList() {
-  const container = document.getElementById('manageChannelsList');
+  const container = document.getElementById('customChannelManageList');
   if (!container) return;
   const channels = getCustomChannels();
-  const customVideos = videos.filter(v => v.isCustom || v.cat === '自訂' || v.cat === '探索' || (localStorage.getItem('et_custom_lessons') || '').includes(v.id));
+  const customVideos = (typeof videos !== 'undefined' ? videos : []).filter(v => v.isCustom || v.cat === '自訂' || v.cat === '探索' || (localStorage.getItem('et_custom_lessons') || '').includes(v.id));
 
   container.innerHTML = channels.map(ch => {
     const cnt = customVideos.filter(v => (v.customChannelId || 'custom_default') === ch.id).length;
     const isDefault = ch.id === 'custom_default';
     return `
-      <div style="display:flex;align-items:center;justify-content:space-between;padding:10px 14px;background:rgba(255,255,255,0.03);border:1px solid rgba(255,255,255,0.08);border-radius:10px">
+      <div style="display:flex;align-items:center;justify-content:space-between;padding:10px 14px;background:rgba(0,0,0,0.03);border:1px solid var(--line, rgba(0,0,0,0.08));border-radius:10px">
         <div style="display:flex;align-items:center;gap:10px">
           <span style="font-size:20px">${ch.icon}</span>
           <div>
-            <div style="font-weight:600;font-size:14px;color:var(--text, #f8fafc)">${ch.name}</div>
-            <div style="font-size:11.5px;color:rgba(255,255,255,0.5)">收錄 ${cnt} 部影片 ${isDefault ? '· 系統預設' : ''}</div>
+            <div style="font-weight:700;font-size:13.5px;color:var(--ink, #1e293b)">${ch.name}</div>
+            <div style="font-size:11.5px;color:var(--muted, #64748b)">收錄 ${cnt} 部影片 ${isDefault ? '· 預設' : ''}</div>
           </div>
         </div>
         <div>
-          ${isDefault ? '<span style="font-size:11px;color:rgba(255,255,255,0.4)">預設頻道</span>' : `
+          ${isDefault ? '<span style="font-size:11px;color:var(--muted,#64748b)">系統預設</span>' : `
             <button class="ghost" style="padding:4px 10px;font-size:12px;border-radius:8px;color:#ef4444;border-color:rgba(239,68,68,0.3)" onclick="deleteCustomChannel('${ch.id}')">刪除</button>
           `}
         </div>
@@ -53369,7 +53376,7 @@ function submitCreateCustomChannel() {
   populateCustomChannelSelects();
   renderManageCustomChannelsList();
   renderCustomChannelBar();
-  showToast(`已成功建立頻道「${icon} ${name}」！`);
+  toast(`已成功建立頻道「${icon} ${name}」！`);
 }
 
 function deleteCustomChannel(id) {
@@ -53383,7 +53390,7 @@ function deleteCustomChannel(id) {
   channels = channels.filter(c => c.id !== id);
   saveCustomChannels(channels);
 
-  videos.forEach(v => {
+  (typeof videos !== 'undefined' ? videos : []).forEach(v => {
     if (v.customChannelId === id) {
       v.customChannelId = 'custom_default';
     }
@@ -53405,7 +53412,7 @@ function deleteCustomChannel(id) {
   renderManageCustomChannelsList();
   renderCustomChannelBar();
   render();
-  showToast('頻道已刪除，影片已轉移至預設自訂頻道');
+  toast('頻道已刪除，影片已轉移至預設自訂頻道');
 }
 
 // Move single video channel
@@ -53413,32 +53420,38 @@ let pendingMoveVideoId = null;
 
 function openMoveVideoChannelModal(vid) {
   pendingMoveVideoId = vid;
-  const vidObj = videos.find(v => v.id === vid);
-  const infoEl = document.getElementById('moveVideoTargetInfo');
+  const vidObj = (typeof videos !== 'undefined' ? videos : []).find(v => v.id === vid);
+  const infoEl = document.getElementById('moveVideoTitle');
   if (infoEl && vidObj) {
     infoEl.innerHTML = `正在變更影片分類：<b>${vidObj.title}</b>`;
   }
   populateCustomChannelSelects();
-  const select = document.getElementById('moveChannelSelect');
+  const select = document.getElementById('moveTargetChannelSelect');
   if (select && vidObj) {
     select.value = vidObj.customChannelId || 'custom_default';
   }
   const modal = document.getElementById('moveVideoChannelModal');
-  if (modal) modal.style.display = 'flex';
+  if (modal) {
+    modal.classList.add('open');
+    modal.style.display = 'flex';
+  }
 }
 
 function closeMoveVideoChannelModal() {
   const modal = document.getElementById('moveVideoChannelModal');
-  if (modal) modal.style.display = 'none';
+  if (modal) {
+    modal.classList.remove('open');
+    modal.style.display = 'none';
+  }
   pendingMoveVideoId = null;
 }
 
 function confirmMoveVideoChannel() {
   if (!pendingMoveVideoId) return;
-  const select = document.getElementById('moveChannelSelect');
+  const select = document.getElementById('moveTargetChannelSelect');
   const targetChannelId = select?.value || 'custom_default';
 
-  const vidObj = videos.find(v => v.id === pendingMoveVideoId);
+  const vidObj = (typeof videos !== 'undefined' ? videos : []).find(v => v.id === pendingMoveVideoId);
   if (vidObj) {
     vidObj.customChannelId = targetChannelId;
   }
@@ -53458,7 +53471,7 @@ function confirmMoveVideoChannel() {
   closeMoveVideoChannelModal();
   renderCustomChannelBar();
   render();
-  showToast('已成功變更影片所屬頻道！');
+  toast('已成功變更影片所屬頻道！');
 }
 
 
@@ -53472,42 +53485,60 @@ let activeDownloadTaskId = null;
 let downloadPollTimer = null;
 
 function openBatchDownloadModal(initialTab = 'library') {
-  currentDownloadTab = initialTab;
-  switchDownloadTab(initialTab);
-  renderDownloadLibraryList();
-  populateCustomChannelSelects();
   const modal = document.getElementById('batchDownloadModal');
-  if (modal) modal.style.display = 'flex';
+  if (modal) {
+    modal.classList.add('open');
+    modal.style.display = 'flex';
+  }
+
+  currentDownloadTab = initialTab || 'library';
+  switchDownloadTab(currentDownloadTab);
+  renderDownloadLibraryList();
 }
 
 function closeBatchDownloadModal() {
   const modal = document.getElementById('batchDownloadModal');
-  if (modal) modal.style.display = 'none';
+  if (modal) {
+    modal.classList.remove('open');
+    modal.style.display = 'none';
+  }
 }
 
 function openBatchDownloadSingle(vid) {
-  selectedDownloadIds.clear();
-  selectedDownloadIds.add(vid);
+  if (vid) {
+    selectedDownloadIds.clear();
+    selectedDownloadIds.add(vid);
+  }
   openBatchDownloadModal('library');
-  renderDownloadLibraryList();
 }
 
 function switchDownloadTab(tab) {
   currentDownloadTab = tab;
-  ['library', 'urls'].forEach(t => {
-    const tabBtn = document.getElementById(`dlTab-${t}`);
-    const tabPane = document.getElementById(`dlPane-${t}`);
-    if (tabBtn) tabBtn.classList.toggle('active', t === tab);
-    if (tabPane) tabPane.style.display = (t === tab) ? 'block' : 'none';
-  });
-  updateDownloadSummaryCount();
+  const tabLib = document.getElementById('tabDlLibrary');
+  const tabUrls = document.getElementById('tabDlUrls');
+  const paneLib = document.getElementById('dlPaneLibrary');
+  const paneUrls = document.getElementById('dlPaneUrls');
+
+  if (tab === 'library') {
+    if (tabLib) tabLib.classList.add('active');
+    if (tabUrls) tabUrls.classList.remove('active');
+    if (paneLib) paneLib.style.display = 'block';
+    if (paneUrls) paneUrls.style.display = 'none';
+  } else {
+    if (tabLib) tabLib.classList.remove('active');
+    if (tabUrls) tabUrls.classList.add('active');
+    if (paneLib) paneLib.style.display = 'none';
+    if (paneUrls) paneUrls.style.display = 'block';
+  }
+  updateDownloadCounts();
 }
 
 function setDownloadFormat(fmt) {
   currentDownloadFormat = fmt;
-  ['mp4', 'mp3', 'vtt', 'srt'].forEach(f => {
-    const btn = document.getElementById(`fmtBtn-${f}`);
-    if (btn) btn.classList.toggle('active', f === fmt);
+  const fMap = { 'mp4': 'btnFmtMp4', 'mp3': 'btnFmtMp3', 'sub': 'btnFmtSub' };
+  Object.keys(fMap).forEach(k => {
+    const el = document.getElementById(fMap[k]);
+    if (el) el.classList.toggle('active', k === fmt);
   });
 }
 
@@ -53519,39 +53550,38 @@ function renderDownloadLibraryList() {
   const container = document.getElementById('dlLibraryList');
   if (!container) return;
 
-  const filter = document.getElementById('dlFilterScope')?.value || 'all';
-  let pool = [];
-  if (filter === 'all') {
-    pool = [...videos, ...songs];
-  } else if (filter === 'custom') {
-    pool = videos.filter(v => v.isCustom || v.cat === '自訂' || v.cat === '探索' || (localStorage.getItem('et_custom_lessons') || '').includes(v.id));
-  } else if (filter === 'saved') {
-    pool = [...videos, ...songs].filter(v => saved.has(v.id));
-  } else if (filter === 'songs') {
-    pool = songs;
-  } else {
-    pool = videos.filter(v => v.channel === filter);
-  }
+  const searchKeyword = (document.getElementById('dlSearchInput')?.value || '').trim().toLowerCase();
+  const pool = typeof videos !== 'undefined' ? [...videos, ...(typeof songs !== 'undefined' ? songs : [])] : [];
+  
+  const filtered = pool.filter(item => {
+    if (!searchKeyword) return true;
+    const titleMatch = (item.title || '').toLowerCase().includes(searchKeyword);
+    const zhMatch = (item.zh || '').toLowerCase().includes(searchKeyword);
+    return titleMatch || zhMatch;
+  });
 
-  container.innerHTML = pool.map(item => {
+  const libCountEl = document.getElementById('dlLibraryCount');
+  if (libCountEl) libCountEl.textContent = pool.length;
+
+  container.innerHTML = filtered.map(item => {
     const isChecked = selectedDownloadIds.has(item.id);
-    const chName = (CHANNEL_DEFS.find(c => c.id === item.channel)||{}).name || item.cat || (item.type==='song'?'經典情歌':'YouTube');
+    const chName = (typeof CHANNEL_DEFS !== 'undefined' ? (CHANNEL_DEFS.find(c => c.id === item.channel)||{}).name : '') || item.cat || (item.type==='song'?'經典情歌':'YouTube');
     return `
-      <div style="display:flex;align-items:center;justify-content:space-between;padding:8px 10px;background:rgba(255,255,255,0.03);border:1px solid rgba(255,255,255,0.06);border-radius:8px;gap:10px;cursor:pointer" onclick="toggleDownloadItem('${item.id}')">
+      <div style="display:flex;align-items:center;justify-content:space-between;padding:8px 12px;background:rgba(0,0,0,0.02);border:1px solid var(--line, rgba(0,0,0,0.06));border-radius:10px;gap:10px;cursor:pointer;margin-bottom:6px" onclick="toggleDownloadItem('${item.id}')">
         <div style="display:flex;align-items:center;gap:10px;overflow:hidden">
           <input type="checkbox" ${isChecked ? 'checked' : ''} onclick="event.stopPropagation();toggleDownloadItem('${item.id}')" style="width:16px;height:16px;accent-color:#0ea5e9;cursor:pointer">
           <span style="font-size:18px">${item.emoji || '🎬'}</span>
           <div style="overflow:hidden;text-overflow:ellipsis;white-space:nowrap">
-            <div style="font-weight:600;font-size:13px;color:var(--text,#f8fafc);overflow:hidden;text-overflow:ellipsis;white-space:nowrap">${item.title}</div>
-            <div style="font-size:11px;color:rgba(255,255,255,0.5)">${chName} · ${item.duration || '03:00'} · ID: ${item.id}</div>
+            <div style="font-weight:700;font-size:13px;color:var(--ink, #1e293b);overflow:hidden;text-overflow:ellipsis;white-space:nowrap">${item.title}</div>
+            <div style="font-size:11px;color:var(--muted, #64748b)">${chName} · ${item.duration || '03:00'} · ID: ${item.id}</div>
           </div>
         </div>
-        <span class="level badge-${item.level || 'B1'}" style="font-size:10px;padding:1px 6px">${item.level || 'B1'}</span>
+        <span class="level badge-${item.level || 'B1'}" style="position:static;font-size:10.5px;padding:2px 7px;border-radius:6px;background:var(--purple,#6d5dfc);color:#fff">${item.level || 'B1'}</span>
       </div>
     `;
   }).join('');
 
-  updateDownloadSummaryCount();
+  updateDownloadCounts();
 }
 
 function toggleDownloadItem(id) {
@@ -53564,35 +53594,24 @@ function toggleDownloadItem(id) {
 }
 
 function toggleDownloadSelectAll(checked) {
-  const filter = document.getElementById('dlFilterScope')?.value || 'all';
-  let pool = [];
-  if (filter === 'all') pool = [...videos, ...songs];
-  else if (filter === 'custom') pool = videos.filter(v => v.isCustom || v.cat === '自訂' || v.cat === '探索' || (localStorage.getItem('et_custom_lessons') || '').includes(v.id));
-  else if (filter === 'saved') pool = [...videos, ...songs].filter(v => saved.has(v.id));
-  else if (filter === 'songs') pool = songs;
-  else pool = videos.filter(v => v.channel === filter);
-
+  const pool = typeof videos !== 'undefined' ? [...videos, ...(typeof songs !== 'undefined' ? songs : [])] : [];
   if (checked) {
     pool.forEach(item => selectedDownloadIds.add(item.id));
   } else {
-    pool.forEach(item => selectedDownloadIds.delete(item.id));
+    selectedDownloadIds.clear();
   }
   renderDownloadLibraryList();
 }
 
-function updateDownloadUrlsCount() {
-  updateDownloadSummaryCount();
-}
-
 function parseInputUrls() {
-  const text = document.getElementById('dlUrlsTextarea')?.value || '';
+  const text = document.getElementById('dlUrlsInput')?.value || '';
   const lines = text.split('\n').map(l => l.trim()).filter(Boolean);
   const items = [];
   lines.forEach(l => {
     const match = l.match(/(?:v=|\/embed\/|youtu\.be\/|\/v\/|shorts\/)([a-zA-Z0-9_-]{11})/);
     if (match) {
       items.push({ id: match[1], url: `https://www.youtube.com/watch?v=${match[1]}` });
-    } else if (l.length === 11 && !l.includes(' ')) {
+    } else if (l.length === 11 && !l.includes(' ') && !l.startsWith('http')) {
       items.push({ id: l, url: `https://www.youtube.com/watch?v=${l}` });
     } else if (l.startsWith('http')) {
       items.push({ url: l });
@@ -53601,27 +53620,32 @@ function parseInputUrls() {
   return items;
 }
 
-function updateDownloadSummaryCount() {
-  const summaryEl = document.getElementById('dlTotalCountSummary');
-  if (!summaryEl) return;
-  if (currentDownloadTab === 'library') {
-    summaryEl.textContent = `已選取站內 ${selectedDownloadIds.size} 部影片`;
-  } else {
+function updateDownloadUrlsCount() {
+  updateDownloadCounts();
+}
+
+function updateDownloadCounts() {
+  const selCntEl = document.getElementById('dlSelectedCount');
+  if (selCntEl) selCntEl.textContent = selectedDownloadIds.size;
+
+  const urlCntEl = document.getElementById('dlUrlsDetectedCount');
+  if (urlCntEl) {
     const urls = parseInputUrls();
-    summaryEl.textContent = `已輸入 ${urls.length} 個外部影音連結`;
+    urlCntEl.textContent = urls.length;
   }
 }
 
 async function startBatchDownload() {
   let targets = [];
+  const pool = typeof videos !== 'undefined' ? [...videos, ...(typeof songs !== 'undefined' ? songs : [])] : [];
+
   if (currentDownloadTab === 'library') {
     if (selectedDownloadIds.size === 0) {
-      alert('請先勾選至少一部影片！');
+      alert('請先勾選至少一部要下載的影片！');
       return;
     }
-    const allItems = [...videos, ...songs];
     selectedDownloadIds.forEach(id => {
-      const found = allItems.find(v => v.id === id);
+      const found = pool.find(v => v.id === id);
       targets.push({
         id: id,
         title: found?.title || `video_${id}`,
@@ -53636,27 +53660,23 @@ async function startBatchDownload() {
     }
   }
 
-  const audioBitrate = document.getElementById('dlAudioBitrate')?.value || '192k';
-  const burnSubtitles = document.getElementById('dlBurnSubtitles')?.checked || false;
+  const quality = document.getElementById('dlQualitySelect')?.value || '1080p';
+  const btn = document.getElementById('btnStartBatchDownload');
+  const btnText = document.getElementById('btnStartDlText');
+  if (btn) btn.disabled = true;
+  if (btnText) btnText.textContent = '任務啟動中...';
 
-  const btn = document.getElementById('startBatchDownloadBtn');
-  if (btn) {
-    btn.disabled = true;
-    btn.innerHTML = `<span class="spinner" style="width:14px;height:14px;border:2px solid #fff;border-top-color:transparent;display:inline-block;border-radius:50%;vertical-align:middle;animation:spin 0.8s linear infinite;margin-right:6px"></span> 排程下載中...`;
-  }
-
-  const statusContainer = document.getElementById('dlProgressContainer');
-  if (statusContainer) statusContainer.style.display = 'block';
+  const progressBox = document.getElementById('dlProgressBox');
+  if (progressBox) progressBox.style.display = 'block';
 
   try {
-    const resp = await fetch('/api/batch_download', {
+    const resp = await fetch('/api/batch-download', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({
         format: currentDownloadFormat,
-        items: targets,
-        audio_bitrate: audioBitrate,
-        burn_subtitles: burnSubtitles
+        quality: quality,
+        items: targets
       })
     });
     const data = await resp.json();
@@ -53664,14 +53684,12 @@ async function startBatchDownload() {
       throw new Error(data.error || '啟動批次下載失敗');
     }
 
-    activeDownloadTaskId = data.task_id;
-    pollBatchDownloadStatus(data.task_id);
+    activeDownloadTaskId = data.taskId || data.task_id;
+    pollBatchDownloadStatus(activeDownloadTaskId);
   } catch(err) {
     alert('下載啟動失敗: ' + err.message);
-    if (btn) {
-      btn.disabled = false;
-      btn.innerHTML = `🚀 開始批次下載`;
-    }
+    if (btn) btn.disabled = false;
+    if (btnText) btnText.textContent = '開始批次下載';
   }
 }
 
@@ -53680,20 +53698,19 @@ function pollBatchDownloadStatus(taskId) {
 
   const fetchStatus = async () => {
     try {
-      const resp = await fetch(`/api/batch_status?task_id=${taskId}`);
+      const resp = await fetch(`/api/download-status?taskId=${taskId}`);
       if (!resp.ok) return;
       const data = await resp.json();
 
       updateDownloadUI(data);
 
-      if (data.status === 'processing') {
+      if (data.status === 'running') {
         downloadPollTimer = setTimeout(fetchStatus, 1500);
       } else {
-        const btn = document.getElementById('startBatchDownloadBtn');
-        if (btn) {
-          btn.disabled = false;
-          btn.innerHTML = `🚀 重新啟動下載`;
-        }
+        const btn = document.getElementById('btnStartBatchDownload');
+        const btnText = document.getElementById('btnStartDlText');
+        if (btn) btn.disabled = false;
+        if (btnText) btnText.textContent = '重新啟動下載';
       }
     } catch(e) {
       downloadPollTimer = setTimeout(fetchStatus, 2500);
@@ -53705,29 +53722,30 @@ function pollBatchDownloadStatus(taskId) {
 
 function updateDownloadUI(data) {
   const percent = data.percent || 0;
-  const bar = document.getElementById('dlProgressBar');
+  const bar = document.getElementById('dlProgressBarFill');
   const percentText = document.getElementById('dlProgressPercent');
-  const curItemText = document.getElementById('dlCurrentItemText');
-  const detailsList = document.getElementById('dlTaskDetailsList');
-  const actionArea = document.getElementById('dlCompletedActionArea');
+  const statusText = document.getElementById('dlProgressStatusText');
+  const queueList = document.getElementById('dlQueueList');
+  const allActions = document.getElementById('dlAllActions');
 
   if (bar) bar.style.width = `${percent}%`;
   if (percentText) percentText.textContent = `${percent}%`;
-  if (curItemText) curItemText.textContent = `進度: ${data.completed}/${data.total} (${data.current_item || '處理中...'})`;
+  if (statusText) statusText.textContent = `進度: ${data.completed || 0} / ${data.total || 0} (狀態：${data.status === 'running' ? '高速下載中' : (data.status === 'completed' ? '已完成' : '已取消')})`;
 
-  if (detailsList && data.items) {
-    detailsList.innerHTML = data.items.map(it => {
+  if (queueList && data.items) {
+    queueList.innerHTML = data.items.map(it => {
       let icon = '⏳';
-      let statusColor = 'rgba(255,255,255,0.4)';
+      let statusColor = 'var(--muted, #64748b)';
       let downloadLink = '';
 
       if (it.status === 'completed') {
         icon = '✅';
         statusColor = '#10b981';
-        downloadLink = `<a href="${it.download_url}" download class="ghost" style="padding:2px 8px;font-size:11px;border-radius:6px;color:#0ea5e9;border-color:rgba(14,165,233,0.3);text-decoration:none">直接下載 (${it.file_size || '檔案'})</a>`;
-      } else if (it.status === 'processing') {
+        downloadLink = `<a href="${it.download_url}" download class="ghost" style="padding:2px 8px;font-size:11.5px;border-radius:6px;color:#0ea5e9;border-color:rgba(14,165,233,0.3);text-decoration:none">直接下載 (${it.file_size || '檔案'})</a>`;
+      } else if (it.status === 'downloading') {
         icon = '⚡';
-        statusColor = '#f59e0b';
+        statusColor = '#0ea5e9';
+        downloadLink = `<span style="font-size:11.5px;color:#0ea5e9">萃取中...</span>`;
       } else if (it.status === 'error') {
         icon = '❌';
         statusColor = '#ef4444';
@@ -53735,7 +53753,7 @@ function updateDownloadUI(data) {
       }
 
       return `
-        <div style="display:flex;align-items:center;justify-content:space-between;padding:5px 8px;background:rgba(255,255,255,0.02);border-radius:6px;font-size:12px">
+        <div style="display:flex;align-items:center;justify-content:space-between;padding:6px 10px;background:rgba(0,0,0,0.02);border:1px solid var(--line,rgba(0,0,0,0.06));border-radius:8px;font-size:12px;margin-bottom:4px">
           <div style="display:flex;align-items:center;gap:6px;overflow:hidden">
             <span>${icon}</span>
             <span style="overflow:hidden;text-overflow:ellipsis;white-space:nowrap;color:${statusColor}">${it.title}</span>
@@ -53746,40 +53764,63 @@ function updateDownloadUI(data) {
     }).join('');
   }
 
-  if (actionArea) {
-    if (data.status === 'completed') {
-      actionArea.style.display = 'block';
-    } else {
-      actionArea.style.display = 'none';
-    }
+  if (allActions) {
+    allActions.style.display = (data.status === 'completed') ? 'flex' : 'none';
   }
 }
 
 function cancelBatchDownload() {
-  if (downloadPollTimer) clearTimeout(downloadPollTimer);
-  const container = document.getElementById('dlProgressContainer');
-  if (container) container.style.display = 'none';
-  const btn = document.getElementById('startBatchDownloadBtn');
-  if (btn) {
-    btn.disabled = false;
-    btn.innerHTML = `🚀 開始批次下載`;
+  if (activeDownloadTaskId) {
+    fetch(`/api/cancel-download?taskId=${activeDownloadTaskId}`).catch(()=>{});
   }
-  showToast('已取消下載任務追蹤');
+  if (downloadPollTimer) clearTimeout(downloadPollTimer);
+  const statusText = document.getElementById('dlProgressStatusText');
+  if (statusText) statusText.textContent = '任務已取消';
+  const btn = document.getElementById('btnStartBatchDownload');
+  const btnText = document.getElementById('btnStartDlText');
+  if (btn) btn.disabled = false;
+  if (btnText) btnText.textContent = '開始批次下載';
+  toast('已取消下載任務');
 }
 
 function triggerAllDownloads() {
-  const container = document.getElementById('dlTaskDetailsList');
+  const container = document.getElementById('dlQueueList');
   if (!container) return;
   const links = container.querySelectorAll('a[download]');
   links.forEach((a, i) => {
     setTimeout(() => {
       a.click();
-    }, i * 400);
+    }, i * 350);
   });
-  showToast(`已觸發 ${links.length} 個檔案下載！`);
+  toast(`已觸發 ${links.length} 個檔案下載！`);
 }
 
-// Ensure custom channel and download modules initialize upon page load
+// Global window exposure for inline onclick handlers
+window.openBatchDownloadModal = openBatchDownloadModal;
+window.closeBatchDownloadModal = closeBatchDownloadModal;
+window.openBatchDownloadSingle = openBatchDownloadSingle;
+window.switchDownloadTab = switchDownloadTab;
+window.setDownloadFormat = setDownloadFormat;
+window.filterDownloadLibraryList = filterDownloadLibraryList;
+window.toggleDownloadItem = toggleDownloadItem;
+window.toggleDownloadSelectAll = toggleDownloadSelectAll;
+window.updateDownloadUrlsCount = updateDownloadUrlsCount;
+window.startBatchDownload = startBatchDownload;
+window.cancelBatchDownload = cancelBatchDownload;
+window.triggerAllDownloads = triggerAllDownloads;
+
+window.renderCustomChannelBar = renderCustomChannelBar;
+window.selectCustomChannel = selectCustomChannel;
+window.openManageCustomChannelsModal = openManageCustomChannelsModal;
+window.closeManageCustomChannelsModal = closeManageCustomChannelsModal;
+window.setNewChannelEmoji = setNewChannelEmoji;
+window.submitCreateCustomChannel = submitCreateCustomChannel;
+window.deleteCustomChannel = deleteCustomChannel;
+window.openMoveVideoChannelModal = openMoveVideoChannelModal;
+window.closeMoveVideoChannelModal = closeMoveVideoChannelModal;
+window.confirmMoveVideoChannel = confirmMoveVideoChannel;
+
+// Ensure initialization
 window.addEventListener('DOMContentLoaded', () => {
   populateCustomChannelSelects();
   renderCustomChannelBar();
@@ -53787,6 +53828,6 @@ window.addEventListener('DOMContentLoaded', () => {
 setTimeout(() => {
   populateCustomChannelSelects();
   renderCustomChannelBar();
-}, 200);
+}, 100);
 
 </script></body></html>

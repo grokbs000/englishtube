@@ -1,5 +1,5 @@
-// ENGLISHTUBE Service Worker v143
-const CACHE='englishtube-v143';
+// ENGLISHTUBE Service Worker v144
+const CACHE='englishtube-v144';
 const STATIC=[
   './',
   './index.html',
@@ -29,19 +29,34 @@ self.addEventListener('activate',event=>{
   );
 });
 
-// Fetch: API=network-only, cross-origin=passthrough, static=stale-while-revalidate
+// Fetch: HTML/Navigation=Network-First (immediate updates), API=network-only, Static Assets=stale-while-revalidate
 self.addEventListener('fetch',event=>{
   const req=event.request;
   if(req.method!=='GET')return;
   const url=new URL(req.url);
   if(url.pathname.startsWith('/api/'))return;
   if(url.origin!==self.location.origin)return;
+
+  // HTML / Navigation -> Network-First (always fresh, offline fallback)
+  if(req.mode==='navigate'||url.pathname==='/'||url.pathname.endsWith('index.html')){
+    event.respondWith(
+      fetch(req).then(res=>{
+        if(res.ok){
+          const clone=res.clone();
+          caches.open(CACHE).then(c=>c.put(req,clone));
+        }
+        return res;
+      }).catch(()=>caches.match('./index.html'))
+    );
+    return;
+  }
+
+  // Other static assets -> stale-while-revalidate
   event.respondWith(caches.open(CACHE).then(async cache=>{
     const cached = await cache.match(req);
     const netFetch=fetch(req).then(res=>{if(res.ok)cache.put(req,res.clone());return res}).catch(()=>null);
     if(cached){event.waitUntil(netFetch);return cached;}
     const fresh=await netFetch;
     if(fresh)return fresh;
-    if(req.mode==='navigate')return cache.match('./index.html');
   }));
 });
