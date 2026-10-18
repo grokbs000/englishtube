@@ -1483,6 +1483,106 @@ html[data-theme='dark'] .custom-maker-head {
   border-color: #2e2e4a;
 }
 
+/* Custom YouTube Lesson Maker & Channel Manage Modal Inputs (Clean Gray Background) */
+.custom-maker-box input,
+.custom-maker-box textarea,
+.custom-maker-box select,
+#newChannelName,
+#newChannelIcon,
+#makerUrlInput,
+#makerTranscriptInput,
+#makerCustomChannelSelect,
+#moveTargetChannelSelect,
+#dlSearchInput {
+  background: #e5e7eb !important;
+  color: #0f172a !important;
+  border: 1.5px solid #cbd5e1 !important;
+  border-radius: 8px;
+  outline: none !important;
+  transition: all 0.2s ease;
+}
+.custom-maker-box input::placeholder,
+.custom-maker-box textarea::placeholder,
+#newChannelName::placeholder,
+#makerUrlInput::placeholder,
+#dlSearchInput::placeholder {
+  color: #64748b !important;
+  opacity: 1 !important;
+}
+.custom-maker-box input:focus,
+.custom-maker-box textarea:focus,
+.custom-maker-box select:focus,
+#newChannelName:focus,
+#newChannelIcon:focus,
+#makerUrlInput:focus,
+#makerTranscriptInput:focus,
+#dlSearchInput:focus {
+  background: #f1f5f9 !important;
+  border-color: #0ea5e9 !important;
+  box-shadow: 0 0 0 3px rgba(14, 165, 233, 0.2) !important;
+  outline: none !important;
+  color: #0f172a !important;
+}
+
+/* Quick Emoji Buttons in Custom Channel Modal */
+#quickEmojiList button,
+#quickEmojiList .ghost {
+  background: #f1f5f9 !important;
+  border: 1px solid #cbd5e1 !important;
+  color: #1e293b !important;
+  border-radius: 8px !important;
+  padding: 4px 8px !important;
+  font-size: 14px !important;
+  line-height: 1.4 !important;
+  transition: all 0.15s ease !important;
+}
+#quickEmojiList button:hover,
+#quickEmojiList .ghost:hover {
+  background: #e2e8f0 !important;
+  border-color: #94a3b8 !important;
+  transform: translateY(-1px);
+}
+
+/* Dark theme overrides */
+html[data-theme='dark'] .custom-maker-box input,
+html[data-theme='dark'] .custom-maker-box textarea,
+html[data-theme='dark'] .custom-maker-box select,
+html[data-theme='dark'] #newChannelName,
+html[data-theme='dark'] #newChannelIcon,
+html[data-theme='dark'] #makerUrlInput,
+html[data-theme='dark'] #makerTranscriptInput,
+html[data-theme='dark'] #makerCustomChannelSelect,
+html[data-theme='dark'] #moveTargetChannelSelect,
+html[data-theme='dark'] #dlSearchInput {
+  background: #27273a !important;
+  color: #f1f5f9 !important;
+  border-color: #3e3e58 !important;
+}
+html[data-theme='dark'] .custom-maker-box input:focus,
+html[data-theme='dark'] .custom-maker-box textarea:focus,
+html[data-theme='dark'] .custom-maker-box select:focus,
+html[data-theme='dark'] #newChannelName:focus,
+html[data-theme='dark'] #newChannelIcon:focus,
+html[data-theme='dark'] #makerUrlInput:focus,
+html[data-theme='dark'] #makerTranscriptInput:focus,
+html[data-theme='dark'] #dlSearchInput:focus {
+  background: #1e1e30 !important;
+  border-color: #38bdf8 !important;
+  box-shadow: 0 0 0 3px rgba(56, 189, 248, 0.25) !important;
+  color: #ffffff !important;
+}
+html[data-theme='dark'] #quickEmojiList button,
+html[data-theme='dark'] #quickEmojiList .ghost {
+  background: #27273a !important;
+  border-color: #3e3e58 !important;
+  color: #f1f5f9 !important;
+}
+html[data-theme='dark'] #quickEmojiList button:hover,
+html[data-theme='dark'] #quickEmojiList .ghost:hover {
+  background: #34344d !important;
+  border-color: #4f4f70 !important;
+}
+
 /* Ad-Free YouTube Explorer Modal & Video Browser */
 /* Ad-Free YouTube Explorer Modal & Video Browser (Expanded Studio Mode) */
 .yt-explorer-box {
@@ -2568,7 +2668,7 @@ html[data-theme='dark'] .yt-card-author,
       <div style="margin-bottom:14px">
         <label style="display:block;font-size:12px;font-weight:700;margin-bottom:6px">YouTube 影片網址：</label>
         <div style="display:flex;gap:8px">
-          <input id="makerUrlInput" type="text" placeholder="https://www.youtube.com/watch?v=... 或 https://youtu.be/..." style="flex:1;padding:10px 14px;background:rgba(0,0,0,0.06);border:1px solid var(--line,#cbd5e1);border-radius:10px;font-size:13px;color:inherit;outline:none" />
+          <input id="makerUrlInput" type="text" placeholder="https://www.youtube.com/watch?v=... 或 https://youtu.be/..." style="flex:1;padding:10px 14px;background:#e5e7eb;border:1.5px solid #cbd5e1;border-radius:10px;font-size:13px;color:#0f172a;outline:none" />
           <button class="pill" type="button" onclick="pasteFromClipboard()" style="padding:0 14px;font-size:13px;white-space:nowrap">📋 貼上</button>
         </div>
       </div>
@@ -2576,14 +2676,14 @@ html[data-theme='dark'] .yt-card-author,
       <div style="margin-bottom:14px">
         <label style="display:block;font-size:12px;font-weight:700;margin-bottom:6px">收錄至自訂頻道：</label>
         <div style="display:flex;gap:8px;align-items:center">
-          <select id="makerCustomChannelSelect" class="vt-select-dropdown" style="flex:1;padding:9px 12px;border-radius:10px;background:rgba(0,0,0,0.06);border:1px solid var(--line,#cbd5e1);color:inherit;font-size:13px;outline:none"></select>
+          <select id="makerCustomChannelSelect" class="vt-select-dropdown" style="flex:1;padding:9px 12px;border-radius:10px;background:#e5e7eb;border:1.5px solid #cbd5e1;color:#0f172a;font-size:13px;outline:none"></select>
           <button class="ghost" type="button" onclick="openCreateCustomChannelModal()" style="padding:8px 12px;font-size:12px;white-space:nowrap">＋ 新增頻道</button>
         </div>
       </div>
 
       <details style="margin-bottom:16px;background:rgba(109,93,252,0.06);border:1px solid rgba(109,93,252,0.2);border-radius:10px;padding:10px 14px">
         <summary style="font-size:12px;color:var(--purple,#6d5dfc);cursor:pointer;font-weight:700">＋ 自備逐字稿（選填，若影片無字幕可貼在此處）</summary>
-        <textarea id="makerTranscriptInput" rows="4" placeholder="貼上 YouTube「顯示文字稿」逐字稿或帶時間軸的文字..." style="width:100%;box-sizing:border-box;margin-top:8px;padding:8px 10px;background:rgba(0,0,0,0.06);border:1px solid var(--line,#cbd5e1);border-radius:8px;color:inherit;font-size:12px;resize:vertical"></textarea>
+        <textarea id="makerTranscriptInput" rows="4" placeholder="貼上 YouTube「顯示文字稿」逐字稿或帶時間軸的文字..." style="width:100%;box-sizing:border-box;margin-top:8px;padding:8px 10px;background:#e5e7eb;border:1.5px solid #cbd5e1;border-radius:8px;color:#0f172a;font-size:12px;resize:vertical"></textarea>
       </details>
 
       <div id="makerStatus" style="display:none;padding:10px 14px;border-radius:8px;margin-bottom:14px;font-size:13px"></div>
@@ -2892,7 +2992,7 @@ html[data-theme='dark'] .yt-card-author,
             <button class="ghost" onclick="toggleDownloadSelectAll(false)" style="padding:4px 10px;font-size:12px">✕ 清空</button>
             <span style="font-size:12px;color:var(--muted);margin-left:4px">已勾選 <b id="dlSelectedCount" style="color:#0ea5e9">0</b> 部</span>
           </div>
-          <input type="text" id="dlSearchInput" placeholder="搜尋教材名稱..." oninput="filterDownloadLibraryList()" style="padding:5px 10px;border-radius:8px;border:1px solid var(--line,#cbd5e1);font-size:12px;background:rgba(0,0,0,0.04);color:inherit;outline:none" />
+          <input type="text" id="dlSearchInput" placeholder="搜尋教材名稱..." oninput="filterDownloadLibraryList()" style="padding:5px 10px;border-radius:8px;border:1.5px solid #cbd5e1;font-size:12px;background:#e5e7eb;color:#0f172a;outline:none" />
         </div>
         <div class="batch-library-list" id="dlLibraryList"></div>
       </div>
@@ -2981,8 +3081,8 @@ html[data-theme='dark'] .yt-card-author,
       <div style="background:rgba(14,165,233,0.06);border:1px solid rgba(14,165,233,0.25);border-radius:14px;padding:14px;margin-bottom:16px">
         <div style="font-size:12.5px;font-weight:800;color:#0284c7;margin-bottom:8px">＋ 新增自訂頻道</div>
         <div style="display:flex;gap:8px;align-items:center;margin-bottom:10px">
-          <input type="text" id="newChannelIcon" value="📁" style="width:40px;text-align:center;font-size:16px;padding:7px 0;border-radius:8px;border:1px solid var(--line,#cbd5e1);background:rgba(0,0,0,0.04);color:inherit;outline:none" />
-          <input type="text" id="newChannelName" placeholder="輸入頻道名稱（例：美劇短片、商務簡報、聽力練習）" style="flex:1;padding:8px 12px;border-radius:8px;border:1px solid var(--line,#cbd5e1);background:rgba(0,0,0,0.04);color:inherit;font-size:13px;outline:none" onkeydown="if(event.key==='Enter')submitCreateCustomChannel()" />
+          <input type="text" id="newChannelIcon" value="📁" style="width:40px;text-align:center;font-size:16px;padding:7px 0;border-radius:8px;border:1.5px solid #cbd5e1;background:#e5e7eb;color:#0f172a;outline:none" />
+          <input type="text" id="newChannelName" placeholder="輸入頻道名稱（例：美劇短片、商務簡報、聽力練習）" style="flex:1;padding:8px 12px;border-radius:8px;border:1.5px solid #cbd5e1;background:#e5e7eb;color:#0f172a;font-size:13px;outline:none" onkeydown="if(event.key==='Enter')submitCreateCustomChannel()" />
           <button class="pill" onclick="submitCreateCustomChannel()" style="background:#0ea5e9;padding:8px 14px;font-size:12.5px;white-space:nowrap">建立</button>
         </div>
         <div style="font-size:11px;color:var(--muted);margin-bottom:4px">快速選擇圖示：</div>
@@ -3025,7 +3125,7 @@ html[data-theme='dark'] .yt-card-author,
     <div class="custom-maker-body" style="padding:0">
       <p id="moveVideoTitle" style="font-size:13px;font-weight:700;margin:0 0 12px;color:#0ea5e9;white-space:nowrap;overflow:hidden;text-overflow:ellipsis"></p>
       <label style="display:block;font-size:12px;font-weight:700;margin-bottom:6px">請選擇目標自訂頻道：</label>
-      <select id="moveTargetChannelSelect" class="vt-select-dropdown" style="width:100%;box-sizing:border-box;padding:9px 12px;border-radius:10px;background:rgba(0,0,0,0.06);border:1px solid var(--line,#cbd5e1);color:inherit;font-size:13px;outline:none;margin-bottom:16px"></select>
+      <select id="moveTargetChannelSelect" class="vt-select-dropdown" style="width:100%;box-sizing:border-box;padding:9px 12px;border-radius:10px;background:#e5e7eb;border:1.5px solid #cbd5e1;color:#0f172a;font-size:13px;outline:none;margin-bottom:16px"></select>
       <div style="display:flex;justify-content:flex-end;gap:10px">
         <button class="ghost" onclick="closeMoveVideoChannelModal()">取消</button>
         <button class="pill" onclick="confirmMoveVideoChannel()" style="background:#0ea5e9;padding:8px 18px;font-size:13px">確認移入</button>
@@ -52408,7 +52508,7 @@ if(window.matchMedia('(display-mode: standalone)').matches||navigator.standalone
 document.querySelector('#installBtn').addEventListener('click',async()=>{if(deferredPrompt){deferredPrompt.prompt();const{outcome}=await deferredPrompt.userChoice;deferredPrompt=null;if(outcome==='accepted')toast('✓ 安裝中...')}else if(/iphone|ipad|ipod/i.test(navigator.userAgent)){toast('Safari：分享 → 加入主畫面')}else{toast('請從瀏覽器選單選擇「安裝應用程式」')}});
 // Register Service Worker + auto-reload on new SW version
 if('serviceWorker'in navigator&&location.protocol.startsWith('http')){
-  window.addEventListener('load',()=>navigator.serviceWorker.register('./sw.js?v=147').then(reg=>{
+  window.addEventListener('load',()=>navigator.serviceWorker.register('./sw.js?v=148').then(reg=>{
     try{reg.update()}catch(e){}
     reg.addEventListener('updatefound',()=>{
       const nw=reg.installing;
