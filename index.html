@@ -50863,6 +50863,10 @@ function confirmMoveVideoChannel() {
 // ==========================================
 // 📥 批次/單部影音多格式下載器 (Batch & Single Downloader)
 // ==========================================
+const selectedDownloadIds = new Set();
+window.selectedDownloadIds = selectedDownloadIds;
+let currentDownloadTab = 'library';
+let currentDownloadFormat = 'mp4';
 let currentDownloadDir = '';
 window._serverDlDirs = { defaultDir: '', projectDir: '', desktopDir: '' };
 
@@ -51700,7 +51704,7 @@ function render() {
             <div class="vfoot">
               <span style="display:inline-flex;align-items:center;flex-wrap:wrap">▶ ${v.views} · ${chName} ${chBadge}</span>
               <div style="display:inline-flex;align-items:center;gap:6px">
-                ${selectedDownloadIds.has(v.id)
+                ${(typeof selectedDownloadIds !== 'undefined' && selectedDownloadIds.has(v.id))
                   ? `<button class="ghost" style="padding:3px 8px;font-size:11px;border-radius:12px;color:#10b981;border-color:rgba(16,185,129,0.5);background:rgba(16,185,129,0.08);font-weight:700" onclick="event.stopPropagation();toggleDownloadCardSelection('${v.id}')" title="點擊取消選取">✓ 已選下載</button>`
                   : `<button class="ghost" style="padding:3px 8px;font-size:11px;border-radius:12px;color:#0ea5e9;border-color:rgba(14,165,233,0.3)" onclick="event.stopPropagation();toggleDownloadCardSelection('${v.id}')" title="加入下載清單（可多選，再一起開始下載）">📥 加入下載</button>`
                 }
@@ -53094,7 +53098,7 @@ if(window.matchMedia('(display-mode: standalone)').matches||navigator.standalone
 document.querySelector('#installBtn').addEventListener('click',async()=>{if(deferredPrompt){deferredPrompt.prompt();const{outcome}=await deferredPrompt.userChoice;deferredPrompt=null;if(outcome==='accepted')toast('✓ 安裝中...')}else if(/iphone|ipad|ipod/i.test(navigator.userAgent)){toast('Safari：分享 → 加入主畫面')}else{toast('請從瀏覽器選單選擇「安裝應用程式」')}});
 // Register Service Worker + auto-reload on new SW version
 if('serviceWorker'in navigator&&location.protocol.startsWith('http')){
-  window.addEventListener('load',()=>navigator.serviceWorker.register('./sw.js?v=150').then(reg=>{
+  window.addEventListener('load',()=>navigator.serviceWorker.register('./sw.js?v=151').then(reg=>{
     try{reg.update()}catch(e){}
     reg.addEventListener('updatefound',()=>{
       const nw=reg.installing;
