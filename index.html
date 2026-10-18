@@ -3028,12 +3028,36 @@ html[data-theme='dark'] .yt-card-author,
             <span>📝</span><b>雙語字幕 (VTT)</b><small>(英中逐字字幕檔)</small>
           </div>
         </div>
+      <!-- Direct Save Directory Configuration Card -->
+      <div class="batch-format-card" style="margin-top:12px">
+        <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:8px;flex-wrap:wrap;gap:6px">
+          <div style="display:flex;align-items:center;gap:6px">
+            <span style="font-size:16px">📁</span>
+            <label style="font-size:12.5px;font-weight:800">直接儲存位置：</label>
+            <span style="font-size:11.5px;color:#10b981;font-weight:700">✓ 下載完成直接入庫，無需透過瀏覽器再次下載</span>
+          </div>
+          <button class="ghost" type="button" onclick="openCurrentDownloadFolder()" style="padding:4px 10px;font-size:12px;display:inline-flex;align-items:center;gap:4px" title="在 Finder 中打開此資料夾">
+            <span>📂</span>在 Finder 中開啟
+          </button>
+        </div>
+        <div style="display:flex;gap:8px;align-items:center">
+          <input type="text" id="dlCustomDirInput" placeholder="請輸入本機儲存資料夾路徑（例：/Users/.../Downloads）" style="flex:1;padding:8px 12px;border-radius:8px;border:1.5px solid #cbd5e1;background:#e5e7eb;color:#0f172a;font-size:12.5px;font-family:monospace;outline:none" oninput="saveCustomDownloadDir(this.value)" />
+          <button class="ghost" type="button" onclick="resetDownloadDirToDefault()" style="padding:8px 12px;font-size:12px;white-space:nowrap" title="重設為系統預設 Downloads">
+            預設下載匣
+          </button>
+        </div>
+        <div style="display:flex;gap:6px;margin-top:8px;align-items:center;flex-wrap:wrap">
+          <span style="font-size:11px;color:var(--muted)">快速選取：</span>
+          <button class="ghost" type="button" onclick="setPresetDownloadDir('default')" style="padding:3px 8px;font-size:11.5px;border-radius:6px">📥 系統下載匣 (~/Downloads)</button>
+          <button class="ghost" type="button" onclick="setPresetDownloadDir('desktop')" style="padding:3px 8px;font-size:11.5px;border-radius:6px">🖥️ 桌面 (~/Desktop)</button>
+          <button class="ghost" type="button" onclick="setPresetDownloadDir('project')" style="padding:3px 8px;font-size:11.5px;border-radius:6px">📁 專案 downloads 目錄</button>
+        </div>
       </div>
 
       <!-- Download Action Bar -->
       <div style="display:flex;align-items:center;justify-content:space-between;padding-top:4px">
         <div style="font-size:12px;color:var(--muted)">
-          ⚡ 後端多線程高速萃取 · 零記憶體負擔串流傳輸
+          ⚡ 後端多線程高速萃取 · 直接儲存本機硬碟 · 零記憶體負擔
         </div>
         <div style="display:flex;gap:8px">
           <button class="ghost" onclick="closeBatchDownloadModal()" style="border-radius:24px">關閉</button>
@@ -3056,10 +3080,19 @@ html[data-theme='dark'] .yt-card-author,
           <div class="batch-progress-bar-fill" id="dlProgressBarFill"></div>
         </div>
         <div class="batch-queue-list" id="dlQueueList"></div>
-        <div id="dlAllActions" style="display:none;margin-top:12px;justify-content:flex-end">
-          <button class="pill" onclick="triggerAllDownloads()" style="background:#10b981;font-size:12.5px;padding:8px 16px;display:inline-flex;align-items:center;gap:6px">
-            <span>📦</span>一鍵儲存所有已完成檔案
-          </button>
+        <div id="dlAllActions" style="display:none;margin-top:14px;background:rgba(16,185,129,0.08);border:1px solid rgba(16,185,129,0.25);border-radius:12px;padding:12px 16px;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:10px">
+          <div style="display:flex;align-items:center;gap:8px">
+            <span style="font-size:22px">🎉</span>
+            <div>
+              <div style="font-size:13px;font-weight:800;color:#059669">所有檔案已直接存入指定目錄！無需透過瀏覽器再次下載</div>
+              <div style="font-size:11.5px;color:var(--muted);margin-top:2px;font-family:monospace" id="dlCompletedDirNote"></div>
+            </div>
+          </div>
+          <div style="display:flex;gap:8px">
+            <button class="pill" onclick="openCurrentDownloadFolder()" style="background:#10b981;font-size:12.5px;padding:8px 16px;display:inline-flex;align-items:center;gap:6px">
+              <span>📂</span>在 Finder 中開啟下載資料夾
+            </button>
+          </div>
         </div>
       </div>
     </div>
@@ -50610,11 +50643,86 @@ function confirmMoveVideoChannel() {
 // ==========================================
 // 📥 批次/單部影音多格式下載器 (Batch & Single Downloader)
 // ==========================================
-let currentDownloadTab = 'library';
-let currentDownloadFormat = 'mp4';
-let selectedDownloadIds = new Set();
-let activeDownloadTaskId = null;
-let downloadPollTimer = null;
+let currentDownloadDir = '';
+window._serverDlDirs = { defaultDir: '', projectDir: '', desktopDir: '' };
+
+async function initDownloadDir() {
+  try {
+    const res = await fetch('/api/get-download-dir');
+    if (res.ok) {
+      window._serverDlDirs = await res.json();
+    }
+  } catch(e) {}
+
+  const savedDir = localStorage.getItem('et_download_dir');
+  const targetDir = savedDir || window._serverDlDirs.defaultDir || '~/Downloads';
+  currentDownloadDir = targetDir;
+  
+  const input = document.getElementById('dlCustomDirInput');
+  if (input) {
+    input.value = targetDir;
+  }
+}
+
+function saveCustomDownloadDir(val) {
+  currentDownloadDir = (val || '').trim();
+  localStorage.setItem('et_download_dir', currentDownloadDir);
+}
+
+function resetDownloadDirToDefault() {
+  const def = window._serverDlDirs.defaultDir || '~/Downloads';
+  const input = document.getElementById('dlCustomDirInput');
+  if (input) input.value = def;
+  saveCustomDownloadDir(def);
+  toast('已重設為系統預設 Downloads 資料夾');
+}
+
+function setPresetDownloadDir(type) {
+  let target = '';
+  if (type === 'default') target = window._serverDlDirs.defaultDir || '~/Downloads';
+  else if (type === 'desktop') target = window._serverDlDirs.desktopDir || '~/Desktop';
+  else if (type === 'project') target = window._serverDlDirs.projectDir || './downloads';
+  
+  if (target) {
+    const input = document.getElementById('dlCustomDirInput');
+    if (input) input.value = target;
+    saveCustomDownloadDir(target);
+    toast(`已切換儲存位置：${target}`);
+  }
+}
+
+async function openCurrentDownloadFolder() {
+  const dir = document.getElementById('dlCustomDirInput')?.value || currentDownloadDir || '';
+  try {
+    const resp = await fetch('/api/open-folder?path=' + encodeURIComponent(dir));
+    const data = await resp.json();
+    if (data.ok) {
+      toast('📂 已在 Finder 中開啟儲存資料夾');
+    } else {
+      toast('無法開啟資料夾：' + (data.error || '路徑不存在'));
+    }
+  } catch(e) {
+    toast('開啟資料夾失敗');
+  }
+}
+
+async function revealDownloadedFile(filePath) {
+  if (!filePath) {
+    openCurrentDownloadFolder();
+    return;
+  }
+  try {
+    const resp = await fetch('/api/open-folder?file=' + encodeURIComponent(filePath));
+    const data = await resp.json();
+    if (data.ok) {
+      toast('📂 已在 Finder 中顯示檔案');
+    } else {
+      openCurrentDownloadFolder();
+    }
+  } catch(e) {
+    openCurrentDownloadFolder();
+  }
+}
 
 function openBatchDownloadModal(initialTab = 'library') {
   const modal = document.getElementById('batchDownloadModal');
@@ -50623,6 +50731,7 @@ function openBatchDownloadModal(initialTab = 'library') {
     modal.style.display = 'flex';
   }
 
+  initDownloadDir();
   currentDownloadTab = initialTab || 'library';
   switchDownloadTab(currentDownloadTab);
   renderDownloadLibraryList();
@@ -50793,6 +50902,7 @@ async function startBatchDownload() {
   }
 
   const quality = document.getElementById('dlQualitySelect')?.value || '1080p';
+  const customDir = document.getElementById('dlCustomDirInput')?.value || currentDownloadDir || '';
   const btn = document.getElementById('btnStartBatchDownload');
   const btnText = document.getElementById('btnStartDlText');
   if (btn) btn.disabled = true;
@@ -50808,6 +50918,7 @@ async function startBatchDownload() {
       body: JSON.stringify({
         format: currentDownloadFormat,
         quality: quality,
+        downloadDir: customDir,
         items: targets
       })
     });
@@ -50873,7 +50984,14 @@ function updateDownloadUI(data) {
       if (it.status === 'completed') {
         icon = '✅';
         statusColor = '#10b981';
-        downloadLink = `<a href="${it.download_url}" download class="ghost" style="padding:2px 8px;font-size:11.5px;border-radius:6px;color:#0ea5e9;border-color:rgba(14,165,233,0.3);text-decoration:none">直接下載 (${escapeHTML(it.file_size || '檔案')})</a>`;
+        const fp = it.filePath ? escapeHTML(it.filePath) : '';
+        downloadLink = `
+          <div style="display:flex;align-items:center;gap:6px">
+            <span style="font-size:11px;color:#10b981;font-weight:700">✓ 已儲存 (${escapeHTML(it.file_size || '檔案')})</span>
+            <button class="ghost" type="button" onclick="revealDownloadedFile('${fp}')" style="padding:2px 8px;font-size:11px;border-radius:6px;color:#0ea5e9;border-color:rgba(14,165,233,0.3)" title="在 Finder 中顯示檔案">📂 開啟</button>
+            <a href="${it.download_url}" download class="ghost" style="padding:2px 6px;font-size:10.5px;border-radius:6px;color:var(--muted);text-decoration:none" title="透過瀏覽器備份另存">另存</a>
+          </div>
+        `;
       } else if (it.status === 'downloading') {
         icon = '⚡';
         statusColor = '#0ea5e9';
@@ -50898,6 +51016,10 @@ function updateDownloadUI(data) {
 
   if (allActions) {
     allActions.style.display = (data.status === 'completed') ? 'flex' : 'none';
+    const dirNote = document.getElementById('dlCompletedDirNote');
+    if (dirNote && data.downloadDir) {
+      dirNote.textContent = `儲存路徑：${data.downloadDir}`;
+    }
   }
 }
 
@@ -50916,15 +51038,7 @@ function cancelBatchDownload() {
 }
 
 function triggerAllDownloads() {
-  const container = document.getElementById('dlQueueList');
-  if (!container) return;
-  const links = container.querySelectorAll('a[download]');
-  links.forEach((a, i) => {
-    setTimeout(() => {
-      a.click();
-    }, i * 350);
-  });
-  toast(`已觸發 ${links.length} 個檔案下載！`);
+  openCurrentDownloadFolder();
 }
 
 // Global window exposure for inline onclick handlers
@@ -50939,6 +51053,13 @@ window.toggleDownloadSelectAll = toggleDownloadSelectAll;
 window.updateDownloadUrlsCount = updateDownloadUrlsCount;
 window.startBatchDownload = startBatchDownload;
 window.cancelBatchDownload = cancelBatchDownload;
+window.triggerAllDownloads = triggerAllDownloads;
+window.initDownloadDir = initDownloadDir;
+window.saveCustomDownloadDir = saveCustomDownloadDir;
+window.resetDownloadDirToDefault = resetDownloadDirToDefault;
+window.setPresetDownloadDir = setPresetDownloadDir;
+window.openCurrentDownloadFolder = openCurrentDownloadFolder;
+window.revealDownloadedFile = revealDownloadedFile;
 window.triggerAllDownloads = triggerAllDownloads;
 
 window.renderCustomChannelBar = renderCustomChannelBar;
@@ -52508,7 +52629,7 @@ if(window.matchMedia('(display-mode: standalone)').matches||navigator.standalone
 document.querySelector('#installBtn').addEventListener('click',async()=>{if(deferredPrompt){deferredPrompt.prompt();const{outcome}=await deferredPrompt.userChoice;deferredPrompt=null;if(outcome==='accepted')toast('✓ 安裝中...')}else if(/iphone|ipad|ipod/i.test(navigator.userAgent)){toast('Safari：分享 → 加入主畫面')}else{toast('請從瀏覽器選單選擇「安裝應用程式」')}});
 // Register Service Worker + auto-reload on new SW version
 if('serviceWorker'in navigator&&location.protocol.startsWith('http')){
-  window.addEventListener('load',()=>navigator.serviceWorker.register('./sw.js?v=148').then(reg=>{
+  window.addEventListener('load',()=>navigator.serviceWorker.register('./sw.js?v=149').then(reg=>{
     try{reg.update()}catch(e){}
     reg.addEventListener('updatefound',()=>{
       const nw=reg.installing;

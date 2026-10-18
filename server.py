@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Local ENGLISHTUBE web server + optional transcript/AI APIs."""
-import html, json, os, re, shutil, subprocess, tempfile, threading, time, urllib.request, urllib.error, urllib.parse, uuid
+import html, json, os, re, shutil, subprocess, sys, tempfile, threading, time, urllib.request, urllib.error, urllib.parse, uuid
 from pathlib import Path
 from http.server import ThreadingHTTPServer, SimpleHTTPRequestHandler
 from urllib.parse import urlparse
@@ -85,10 +85,18 @@ def get_whisper_model():
 
 DOWNLOADS_DIR = ROOT / 'downloads'
 DOWNLOADS_DIR.mkdir(exist_ok=True)
+
+def get_default_download_dir():
+    # macOS/Linux default: ~/Downloads
+    home_dl = Path.home() / 'Downloads'
+    if home_dl.exists() and home_dl.is_dir():
+        return home_dl
+    return DOWNLOADS_DIR
+
 download_tasks = {}
 download_tasks_lock = threading.Lock()
 
-def run_batch_download_worker(task_id, video_ids, fmt, quality):
+def run_batch_download_worker(task_id, video_ids, fmt, quality, target_dir=None):
     ytdlp = shutil.which('yt-dlp') or '/opt/homebrew/bin/yt-dlp' or '/usr/local/bin/yt-dlp'
     ffmpeg = shutil.which('ffmpeg') or '/opt/homebrew/bin/ffmpeg' or '/usr/local/bin/ffmpeg'
 
@@ -96,6 +104,9 @@ def run_batch_download_worker(task_id, video_ids, fmt, quality):
         task = download_tasks.get(task_id)
     if not task:
         return
+
+    dest_dir = Path(target_dir or task.get('downloadDir') or get_default_download_dir()).resolve()
+    dest_dir.mkdir(parents=True, exist_ok=True)
 
     for item in task['items']:
         with download_tasks_lock:
@@ -108,7 +119,7 @@ def run_batch_download_worker(task_id, video_ids, fmt, quality):
         with download_tasks_lock:
             item['status'] = 'downloading'
 
-        out_template = str(DOWNLOADS_DIR / f'%(title).60s [{vid}].%(ext)s')
+        out_template = str(dest_dir / f'%(title).60s [{vid}].%(ext)s')
         cmd = [str(ytdlp), '--no-warnings', '--no-playlist']
         if ffmpeg:
             cmd.extend(['--ffmpeg-location', str(Path(ffmpeg).parent)])
@@ -130,7 +141,7 @@ def run_batch_download_worker(task_id, video_ids, fmt, quality):
 
         try:
             p = subprocess.run(cmd, capture_output=True, text=True, timeout=360)
-            matched = [f for f in DOWNLOADS_DIR.iterdir() if f.is_file() and f'[{vid}]' in f.name]
+            matched = [f for f in dest_dir.iterdir() if f.is_file() and f'[{vid}]' in f.name]
             
             # If subtitle download returned 429 or missing captions, fallback to Whisper AI transcription!
             if fmt in ('sub', 'vtt', 'srt') and not matched:
@@ -143,7 +154,7 @@ def run_batch_download_worker(task_id, video_ids, fmt, quality):
                             segments, _ = model.transcribe(str(tmp_audio), beam_size=1, vad_filter=True)
                             target_ext = 'vtt' if fmt in ('sub', 'vtt') else 'srt'
                             clean_title = re.sub(r'[^\w\s\.-]', '', item.get('title', 'Video'))[:50].strip() or vid
-                            sub_file = DOWNLOADS_DIR / f"{clean_title} [{vid}].{target_ext}"
+                            sub_file = dest_dir / f"{clean_title} [{vid}].{target_ext}"
                             with open(sub_file, 'w', encoding='utf-8') as sf:
                                 if target_ext == 'vtt':
                                     sf.write("WEBVTT\n\n")
@@ -165,9 +176,12 @@ def run_batch_download_worker(task_id, video_ids, fmt, quality):
                     f = matched[-1]
                     item['status'] = 'completed'
                     item['filename'] = f.name
+                    item['filePath'] = str(f)
+                    item['fileDir'] = str(dest_dir)
                     item['size'] = f.stat().st_size
                 elif p.returncode == 0:
                     item['status'] = 'completed'
+                    item['fileDir'] = str(dest_dir)
                 else:
                     item['status'] = 'error'
                     item['error'] = (p.stderr or p.stdout or '下載失敗')[-180:].strip()
@@ -182,6 +196,7 @@ def run_batch_download_worker(task_id, video_ids, fmt, quality):
 
     with download_tasks_lock:
         task['status'] = 'completed' if not task.get('cancelled') else 'cancelled'
+        task['downloadDir'] = str(dest_dir)
 
 class Handler(SimpleHTTPRequestHandler):
     def __init__(self,*a,**kw):super().__init__(*a,directory=str(ROOT),**kw)
@@ -225,14 +240,60 @@ class Handler(SimpleHTTPRequestHandler):
                 resp['total'] = total
                 resp['completed'] = completed
                 resp['percent'] = percent
+                target_d = t.get('downloadDir', str(get_default_download_dir()))
                 for it in resp.get('items', []):
                     if it.get('filename'):
-                        it['download_url'] = f'/api/download-file?file={urllib.parse.quote(it["filename"])}'
+                        it['download_url'] = f'/api/download-file?file={urllib.parse.quote(it["filename"])}&dir={urllib.parse.quote(target_d)}'
                         size_mb = round(it.get('size', 0) / (1024 * 1024), 2)
                         it['file_size'] = f'{size_mb} MB' if size_mb > 0.05 else f'{round(it.get("size",0)/1024, 1)} KB'
                 self.send_json(200, resp)
             else:
                 self.send_json(404, {'error': 'Task not found'})
+            return
+
+        if parsed.path == '/api/get-download-dir':
+            default_dir = str(get_default_download_dir())
+            project_dir = str((ROOT / 'downloads').resolve())
+            desktop_dir = str((Path.home() / 'Desktop').resolve())
+            self.send_json(200, {
+                'defaultDir': default_dir,
+                'projectDir': project_dir,
+                'desktopDir': desktop_dir
+            })
+            return
+
+        if parsed.path in ('/api/open-folder', '/api/open_folder'):
+            qs = urllib.parse.parse_qs(parsed.query)
+            folder_path = (qs.get('path', [''])[0]).strip()
+            file_path = (qs.get('file', [''])[0]).strip()
+            
+            target = None
+            if file_path:
+                fp = Path(os.path.expanduser(file_path)).resolve()
+                if fp.exists():
+                    if sys.platform == 'darwin':
+                        subprocess.Popen(['open', '-R', str(fp)])
+                        self.send_json(200, {'ok': True, 'revealed': str(fp)})
+                        return
+                    else:
+                        target = fp.parent
+            if not target:
+                if folder_path:
+                    target = Path(os.path.expanduser(folder_path)).resolve()
+                else:
+                    target = get_default_download_dir()
+            
+            target.mkdir(parents=True, exist_ok=True)
+            try:
+                if sys.platform == 'darwin':
+                    subprocess.Popen(['open', str(target)])
+                elif sys.platform.startswith('win'):
+                    os.startfile(str(target))
+                else:
+                    subprocess.Popen(['xdg-open', str(target)])
+                self.send_json(200, {'ok': True, 'opened': str(target)})
+            except Exception as oe:
+                self.send_json(500, {'error': str(oe)})
             return
 
         if parsed.path in ('/api/cancel-download', '/api/cancel_download'):
@@ -247,8 +308,12 @@ class Handler(SimpleHTTPRequestHandler):
         if parsed.path in ('/api/download-file', '/api/download_file'):
             qs = urllib.parse.parse_qs(parsed.query)
             fn = os.path.basename(qs.get('file', [''])[0])
-            target = (DOWNLOADS_DIR / fn).resolve()
-            if not str(target).startswith(str(DOWNLOADS_DIR.resolve())) or not target.exists() or not target.is_file():
+            dir_param = (qs.get('dir', [''])[0]).strip()
+            target_dir = Path(os.path.expanduser(dir_param)).resolve() if dir_param else get_default_download_dir()
+            target = (target_dir / fn).resolve()
+            if not target.exists():
+                target = (DOWNLOADS_DIR / fn).resolve()
+            if not target.exists() or not target.is_file():
                 self.send_error(404, 'File not found')
                 return
             try:
@@ -515,6 +580,17 @@ class Handler(SimpleHTTPRequestHandler):
             return
 
         task_id = 'dl_' + str(uuid.uuid4())[:8]
+        custom_dir = (data.get('downloadDir') or data.get('download_dir') or '').strip()
+        if custom_dir:
+            target_dir = Path(os.path.expanduser(custom_dir)).resolve()
+        else:
+            target_dir = get_default_download_dir()
+        try:
+            target_dir.mkdir(parents=True, exist_ok=True)
+        except Exception:
+            target_dir = get_default_download_dir()
+            target_dir.mkdir(parents=True, exist_ok=True)
+
         items = []
         for vid in valid_vids:
             items.append({
@@ -522,6 +598,8 @@ class Handler(SimpleHTTPRequestHandler):
                 'title': titles.get(vid) or f'YouTube Video ({vid})',
                 'status': 'queued',
                 'filename': '',
+                'filePath': '',
+                'fileDir': str(target_dir),
                 'size': 0,
                 'error': ''
             })
@@ -531,14 +609,15 @@ class Handler(SimpleHTTPRequestHandler):
                 'id': task_id,
                 'format': fmt,
                 'quality': quality,
+                'downloadDir': str(target_dir),
                 'status': 'running',
                 'createdAt': time.time(),
                 'items': items
             }
 
-        t = threading.Thread(target=run_batch_download_worker, args=(task_id, valid_vids, fmt, quality), daemon=True)
+        t = threading.Thread(target=run_batch_download_worker, args=(task_id, valid_vids, fmt, quality, target_dir), daemon=True)
         t.start()
-        self.send_json(200, {'taskId': task_id, 'task_id': task_id, 'total': len(items)})
+        self.send_json(200, {'taskId': task_id, 'task_id': task_id, 'total': len(items), 'downloadDir': str(target_dir)})
 
     def transcript(self,data):
         url=str(data.get('url','')).strip();vid=video_id(url)
