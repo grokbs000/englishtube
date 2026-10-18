@@ -282,3 +282,5 @@ python3 fill_all_50_songs_gemini.py
    - [ ] 彈窗是否支援「點擊 X 按鈕」與「鍵盤 ESC 鍵」安全關閉？
    - [ ] 複雜多工彈窗是否採用 Split-Pane 雙欄獨立滾動架構，嚴格遵循 `min-height: 0` 盒模型閉環，防止設定卡片擠壓清單？
    - [ ] 列表勾選是否支援「局部 DOM 補丁」，防止全量 re-render 導致滾動條跳回最頂部？
+   - [ ] **全域渲染生命週期防護**：出現在首頁卡片模板中的變數是否皆在模組頂層顯式初始化，且具備 `typeof` 防禦性檢查，杜絕 ReferenceError 導致首頁教材全部空白？
+   - [ ] **無頭 Chrome 閉環驗收**：透過 CDP 驗證首頁 `Runtime.exceptionThrown` 為 0 且 `#grid` 子節點數大於 0？
