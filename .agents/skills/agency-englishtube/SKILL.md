@@ -263,6 +263,72 @@ python3 fill_all_50_songs_gemini.py
      "
      ```
 
+### I. 首頁卡片渲染時序防護與無頭 Chrome CDP 閉環驗證標準 (Zero-Regression Render Guard & CDP Verification SOP)
+
+* **事故教訓（The Regression Trap：修好後面，弄壞前面）**：
+  在彈窗開發中新引入狀態變數（如 `selectedDownloadIds`），並在首頁教材列表渲染迴圈 `render()` 模板字串中加入狀態判斷（如 `selectedDownloadIds.has(v.id)`）。若該變數未在腳本頂層顯式宣告初始化，首頁初次載入時 `render()` 在第 1 部影片即引爆 `Uncaught ReferenceError: selectedDownloadIds is not defined`，導致整個渲染中斷，首頁 400 部教材全數空白！
+  > **關鍵警示**：Node.js 靜態語法樹驗證（`new Function`）只能檢查括號與語法合法性，**完全無法捕捉執行期未宣告變數（ReferenceError）**。
+
+* **防禦性開發三大法則（Mandatory Rules）**：
+  1. **頂層顯式初始化（Global Scope Declaration）**：
+     所有出現在卡片渲染迴圈中的變數，必須在模組頂層第一時間顯式賦值並掛載至全域：
+     ```javascript
+     const selectedDownloadIds = new Set();
+     window.selectedDownloadIds = selectedDownloadIds;
+     let currentDownloadTab = 'library';
+     let currentDownloadFormat = 'mp4';
+     let currentDownloadDir = '';
+     ```
+  2. **模板防禦性型別守衛（Template Safe Access Guard）**：
+     在 HTML 模板字串中存取外部狀態時，一律強制加上 `typeof` 防禦性檢查：
+     ```javascript
+     ${(typeof selectedDownloadIds !== 'undefined' && selectedDownloadIds.has(v.id)) ? '✓ 已選' : '📥 下載'}
+     ```
+  3. **孤兒伺服器行程排查（Orphaned Server / ERR_EMPTY_RESPONSE）**：
+     當終端機關閉或伺服器重啟時，Python 常殘留為孤兒行程（PPID 1），導致 Socket 卡死並回應 `curl (52) Empty reply from server` 或瀏覽器 `ERR_EMPTY_RESPONSE`。排查流程：
+     ```bash
+     lsof -i :8885
+     kill -9 <PID>
+     python3 server.py  # 重新以守護進程啟動
+     curl -sI http://127.0.0.1:8885/ | head -5
+     ```
+
+* **無頭 Chrome CDP 自動化閉環驗收腳本（Copy-Paste Ready SOP）**：
+  任何前端卡片或彈窗修改完成後，**必須**在命令列執行此腳本，實測通過才能判定任務完成：
+  ```bash
+  python3 -c "
+  import subprocess, time, urllib.request, json, asyncio, websockets
+
+  async def audit():
+      p = subprocess.Popen([
+          '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome',
+          '--headless=new', '--remote-debugging-port=9988', '--disable-gpu', 'http://127.0.0.1:8885/'
+      ], stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+      time.sleep(2)
+      try:
+          tabs = json.loads(urllib.request.urlopen('http://127.0.0.1:9988/json').read())
+          ws_url = [t for t in tabs if t.get('type') == 'page'][0]['webSocketDebuggerUrl']
+          async with websockets.connect(ws_url) as ws:
+              await ws.send(json.dumps({'id': 1, 'method': 'Runtime.enable'}))
+              async def evaluate(expr):
+                  await ws.send(json.dumps({'id': 10, 'method': 'Runtime.evaluate', 'params': {'expression': expr, 'returnByValue': True}}))
+                  while True:
+                      m = json.loads(await ws.recv())
+                      if m.get('id') == 10: return m['result']['result']['value']
+              grid_len = await evaluate('document.getElementById(\"grid\")?.children?.length || 0')
+              modal_len = await evaluate('(openBatchDownloadModal(\"library\"), document.getElementById(\"dlLibraryList\")?.children?.length || 0)')
+              print(f'✓ 首頁影片渲染數量: {grid_len} (預期 400)')
+              print(f'✓ 下載彈窗清單數量: {modal_len} (預期 500)')
+              assert grid_len == 400, '首頁影片未正常渲染！'
+              assert modal_len == 500, '下載中心清單未正常渲染！'
+              print('🎉 恭喜！端對端 CDP 驗收 100% 通過！')
+      finally:
+          p.kill()
+
+  asyncio.run(audit())
+  "
+  ```
+
 ---
 
 ## 🏛️ 三專家架構檢驗清單 (Tri-Architect Checklist)
@@ -272,6 +338,7 @@ python3 fill_all_50_songs_gemini.py
 1. **⚡ 低階並發與管線專家 (Concurrency & Pipeline)**：
    - [ ] 外部 API（Gemini / OpenAI / YouTube）調用是否皆具備逾時保護（`timeout=45`）與異常捕獲？
    - [ ] 播放器 Event Listener 與 requestAnimationFrame 迴圈是否在離開視窗時 100% 被清理？
+   - [ ] 後端伺服器重啟時是否檢查孤兒行程（`lsof -i :8885`）與 `ERR_EMPTY_RESPONSE`？
 2. **🧠 記憶體與零分配專家 (Memory Efficiency)**：
    - [ ] 50 首情歌大容量 JSON（數萬行 Cues）是否有效壓縮並避免重複深度拷貝？
    - [ ] YouTube iframe 容器在每次切換影片時是否徹底清空，杜絕孤兒 iframe 殘留？
@@ -283,4 +350,4 @@ python3 fill_all_50_songs_gemini.py
    - [ ] 複雜多工彈窗是否採用 Split-Pane 雙欄獨立滾動架構，嚴格遵循 `min-height: 0` 盒模型閉環，防止設定卡片擠壓清單？
    - [ ] 列表勾選是否支援「局部 DOM 補丁」，防止全量 re-render 導致滾動條跳回最頂部？
    - [ ] **全域渲染生命週期防護**：出現在首頁卡片模板中的變數是否皆在模組頂層顯式初始化，且具備 `typeof` 防禦性檢查，杜絕 ReferenceError 導致首頁教材全部空白？
-   - [ ] **無頭 Chrome 閉環驗收**：透過 CDP 驗證首頁 `Runtime.exceptionThrown` 為 0 且 `#grid` 子節點數大於 0？
+   - [ ] **無頭 Chrome 閉環驗收**：透過 CDP 實測驗證首頁 `grid.children.length === 400` 且下載中心 `dlLibraryList.children.length === 500`？
