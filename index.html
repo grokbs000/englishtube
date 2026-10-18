@@ -51726,7 +51726,7 @@ if(window.matchMedia('(display-mode: standalone)').matches||navigator.standalone
 document.querySelector('#installBtn').addEventListener('click',async()=>{if(deferredPrompt){deferredPrompt.prompt();const{outcome}=await deferredPrompt.userChoice;deferredPrompt=null;if(outcome==='accepted')toast('✓ 安裝中...')}else if(/iphone|ipad|ipod/i.test(navigator.userAgent)){toast('Safari：分享 → 加入主畫面')}else{toast('請從瀏覽器選單選擇「安裝應用程式」')}});
 // Register Service Worker + auto-reload on new SW version
 if('serviceWorker'in navigator&&location.protocol.startsWith('http')){
-  window.addEventListener('load',()=>navigator.serviceWorker.register('./sw.js?v=145').then(reg=>{
+  window.addEventListener('load',()=>navigator.serviceWorker.register('./sw.js?v=146').then(reg=>{
     try{reg.update()}catch(e){}
     reg.addEventListener('updatefound',()=>{
       const nw=reg.installing;
@@ -53280,10 +53280,13 @@ function renderCustomChannelBar() {
   channels.forEach(ch => {
     const cnt = customVideos.filter(v => (v.customChannelId || 'custom_default') === ch.id).length;
     const isActive = selectedCustomChannel === ch.id;
+    const safeId = escapeHTML(ch.id);
+    const safeName = escapeHTML(ch.name);
+    const safeIcon = escapeHTML(ch.icon);
     html += `
-      <button class="vt-custom-chip ${isActive ? 'active' : ''}" onclick="selectCustomChannel('${ch.id}')">
-        <span>${ch.icon}</span>
-        <span>${ch.name}</span>
+      <button class="vt-custom-chip ${isActive ? 'active' : ''}" onclick="selectCustomChannel('${safeId}')">
+        <span>${safeIcon}</span>
+        <span>${safeName}</span>
         <span class="chip-cnt">${cnt}</span>
       </button>
     `;
@@ -53312,7 +53315,7 @@ function populateCustomChannelSelects() {
     const el = document.getElementById(sId);
     if (!el) return;
     const curVal = el.value;
-    el.innerHTML = channels.map(c => `<option value="${c.id}">${c.icon} ${c.name}</option>`).join('');
+    el.innerHTML = channels.map(c => `<option value="${escapeHTML(c.id)}">${escapeHTML(c.icon)} ${escapeHTML(c.name)}</option>`).join('');
     if (curVal && channels.some(c => c.id === curVal)) {
       el.value = curVal;
     }
@@ -53345,18 +53348,21 @@ function renderManageCustomChannelsList() {
   container.innerHTML = channels.map(ch => {
     const cnt = customVideos.filter(v => (v.customChannelId || 'custom_default') === ch.id).length;
     const isDefault = ch.id === 'custom_default';
+    const safeId = escapeHTML(ch.id);
+    const safeName = escapeHTML(ch.name);
+    const safeIcon = escapeHTML(ch.icon);
     return `
       <div style="display:flex;align-items:center;justify-content:space-between;padding:10px 14px;background:rgba(0,0,0,0.03);border:1px solid var(--line, rgba(0,0,0,0.08));border-radius:10px">
         <div style="display:flex;align-items:center;gap:10px">
-          <span style="font-size:20px">${ch.icon}</span>
+          <span style="font-size:20px">${safeIcon}</span>
           <div>
-            <div style="font-weight:700;font-size:13.5px;color:var(--ink, #1e293b)">${ch.name}</div>
+            <div style="font-weight:700;font-size:13.5px;color:var(--ink, #1e293b)">${safeName}</div>
             <div style="font-size:11.5px;color:var(--muted, #64748b)">收錄 ${cnt} 部影片 ${isDefault ? '· 預設' : ''}</div>
           </div>
         </div>
         <div>
           ${isDefault ? '<span style="font-size:11px;color:var(--muted,#64748b)">系統預設</span>' : `
-            <button class="ghost" style="padding:4px 10px;font-size:12px;border-radius:8px;color:#ef4444;border-color:rgba(239,68,68,0.3)" onclick="deleteCustomChannel('${ch.id}')">刪除</button>
+            <button class="ghost" style="padding:4px 10px;font-size:12px;border-radius:8px;color:#ef4444;border-color:rgba(239,68,68,0.3)" onclick="deleteCustomChannel('${safeId}')">刪除</button>
           `}
         </div>
       </div>
@@ -53437,7 +53443,7 @@ function openMoveVideoChannelModal(vid) {
   const vidObj = (typeof videos !== 'undefined' ? videos : []).find(v => v.id === vid);
   const infoEl = document.getElementById('moveVideoTitle');
   if (infoEl && vidObj) {
-    infoEl.innerHTML = `正在變更影片分類：<b>${vidObj.title}</b>`;
+    infoEl.innerHTML = `正在變更影片分類：<b>${escapeHTML(vidObj.title)}</b>`;
   }
   populateCustomChannelSelects();
   const select = document.getElementById('moveTargetChannelSelect');
@@ -53755,7 +53761,7 @@ function updateDownloadUI(data) {
       if (it.status === 'completed') {
         icon = '✅';
         statusColor = '#10b981';
-        downloadLink = `<a href="${it.download_url}" download class="ghost" style="padding:2px 8px;font-size:11.5px;border-radius:6px;color:#0ea5e9;border-color:rgba(14,165,233,0.3);text-decoration:none">直接下載 (${it.file_size || '檔案'})</a>`;
+        downloadLink = `<a href="${it.download_url}" download class="ghost" style="padding:2px 8px;font-size:11.5px;border-radius:6px;color:#0ea5e9;border-color:rgba(14,165,233,0.3);text-decoration:none">直接下載 (${escapeHTML(it.file_size || '檔案')})</a>`;
       } else if (it.status === 'downloading') {
         icon = '⚡';
         statusColor = '#0ea5e9';
@@ -53763,14 +53769,14 @@ function updateDownloadUI(data) {
       } else if (it.status === 'error') {
         icon = '❌';
         statusColor = '#ef4444';
-        downloadLink = `<span style="font-size:11px;color:#ef4444">${it.error || '失敗'}</span>`;
+        downloadLink = `<span style="font-size:11px;color:#ef4444">${escapeHTML(it.error || '失敗')}</span>`;
       }
 
       return `
         <div style="display:flex;align-items:center;justify-content:space-between;padding:6px 10px;background:rgba(0,0,0,0.02);border:1px solid var(--line,rgba(0,0,0,0.06));border-radius:8px;font-size:12px;margin-bottom:4px">
           <div style="display:flex;align-items:center;gap:6px;overflow:hidden">
             <span>${icon}</span>
-            <span style="overflow:hidden;text-overflow:ellipsis;white-space:nowrap;color:${statusColor}">${it.title}</span>
+            <span style="overflow:hidden;text-overflow:ellipsis;white-space:nowrap;color:${statusColor}">${escapeHTML(it.title || '')}</span>
           </div>
           <div>${downloadLink}</div>
         </div>
