@@ -50214,6 +50214,656 @@ function persist() {
   if (wcEl) wcEl.textContent = savedWords.size;
 }
 
+
+// ==========================================
+// 🛡️ 全域安全跳脫與工具函式
+// ==========================================
+function escapeHTML(v){return String(v??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]))}
+
+// ==========================================
+// 🎯 自訂頻道分類管理引擎 (Custom Channels Management)
+// ==========================================
+const DEFAULT_CUSTOM_CHANNELS = [
+  { id: 'custom_default', name: '預設自訂頻道', icon: '📁', count: 0 },
+  { id: 'custom_tech', name: '科技趨勢', icon: '💻', count: 0 },
+  { id: 'custom_biz', name: '商業職場', icon: '💼', count: 0 },
+  { id: 'custom_daily', name: '生活日常', icon: '☕', count: 0 }
+];
+
+let selectedCustomChannel = 'all';
+
+function getCustomChannels() {
+  try {
+    const raw = localStorage.getItem('et_custom_channels');
+    if (raw) {
+      const parsed = JSON.parse(raw);
+      if (Array.isArray(parsed) && parsed.length > 0) return parsed;
+    }
+  } catch(e) {}
+  return [...DEFAULT_CUSTOM_CHANNELS];
+}
+
+function saveCustomChannels(channels) {
+  try {
+    localStorage.setItem('et_custom_channels', JSON.stringify(channels));
+  } catch(e) {
+    console.error('Failed to save custom channels:', e);
+  }
+}
+
+function getCustomChannelById(id) {
+  const channels = getCustomChannels();
+  return channels.find(c => c.id === id) || { id: id || 'custom_default', name: '未分類頻道', icon: '📁' };
+}
+
+function renderCustomChannelBar() {
+  const bar = document.getElementById('customChannelBar');
+  if (!bar) return;
+
+  if (selectedChannel !== 'custom') {
+    bar.style.display = 'none';
+    return;
+  }
+  bar.style.display = 'flex';
+
+  const channels = getCustomChannels();
+  const customVideos = (typeof videos !== 'undefined' ? videos : []).filter(v => v.isCustom || v.cat === '自訂' || v.cat === '探索' || (localStorage.getItem('et_custom_lessons') || '').includes(v.id));
+
+  const totalCount = customVideos.length;
+  const isAllActive = selectedCustomChannel === 'all';
+
+  let html = `
+    <span class="vt-custom-bar-label">🏷️ 自訂分類:</span>
+    <button class="vt-custom-chip ${isAllActive ? 'active' : ''}" onclick="selectCustomChannel('all')">
+      <span>✨</span>
+      <span>全部自選</span>
+      <span class="chip-cnt">${totalCount}</span>
+    </button>
+  `;
+
+  channels.forEach(ch => {
+    const cnt = customVideos.filter(v => (v.customChannelId || 'custom_default') === ch.id).length;
+    const isActive = selectedCustomChannel === ch.id;
+    const safeId = escapeHTML(ch.id);
+    const safeName = escapeHTML(ch.name);
+    const safeIcon = escapeHTML(ch.icon);
+    html += `
+      <button class="vt-custom-chip ${isActive ? 'active' : ''}" onclick="selectCustomChannel('${safeId}')">
+        <span>${safeIcon}</span>
+        <span>${safeName}</span>
+        <span class="chip-cnt">${cnt}</span>
+      </button>
+    `;
+  });
+
+  html += `
+    <button class="vt-custom-manage-btn" onclick="openManageCustomChannelsModal()">
+      <span>⚙️</span>
+      <span>管理頻道</span>
+    </button>
+  `;
+
+  bar.innerHTML = html;
+}
+
+function selectCustomChannel(id) {
+  selectedCustomChannel = id;
+  renderNavBars();
+  render();
+}
+
+function populateCustomChannelSelects() {
+  const channels = getCustomChannels();
+  const selects = ['makerCustomChannelSelect', 'explorerTargetChannelSelect', 'moveTargetChannelSelect'];
+  selects.forEach(sId => {
+    const el = document.getElementById(sId);
+    if (!el) return;
+    const curVal = el.value;
+    el.innerHTML = channels.map(c => `<option value="${escapeHTML(c.id)}">${escapeHTML(c.icon)} ${escapeHTML(c.name)}</option>`).join('');
+    if (curVal && channels.some(c => c.id === curVal)) {
+      el.value = curVal;
+    }
+  });
+}
+
+function openManageCustomChannelsModal() {
+  renderManageCustomChannelsList();
+  const modal = document.getElementById('customChannelManageModal');
+  if (modal) {
+    modal.classList.add('open');
+    modal.style.display = 'flex';
+  }
+}
+
+function openCreateCustomChannelModal() {
+  openManageCustomChannelsModal();
+  setTimeout(() => {
+    const input = document.getElementById('newChannelName');
+    if (input) input.focus();
+  }, 100);
+}
+
+function closeManageCustomChannelsModal() {
+  const modal = document.getElementById('customChannelManageModal');
+  if (modal) {
+    modal.classList.remove('open');
+    modal.style.display = 'none';
+  }
+}
+
+function renderManageCustomChannelsList() {
+  const container = document.getElementById('customChannelManageList');
+  if (!container) return;
+  const channels = getCustomChannels();
+  const customVideos = (typeof videos !== 'undefined' ? videos : []).filter(v => v.isCustom || v.cat === '自訂' || v.cat === '探索' || (localStorage.getItem('et_custom_lessons') || '').includes(v.id));
+
+  container.innerHTML = channels.map(ch => {
+    const cnt = customVideos.filter(v => (v.customChannelId || 'custom_default') === ch.id).length;
+    const isDefault = ch.id === 'custom_default';
+    const safeId = escapeHTML(ch.id);
+    const safeName = escapeHTML(ch.name);
+    const safeIcon = escapeHTML(ch.icon);
+    return `
+      <div style="display:flex;align-items:center;justify-content:space-between;padding:10px 14px;background:rgba(0,0,0,0.03);border:1px solid var(--line, rgba(0,0,0,0.08));border-radius:10px">
+        <div style="display:flex;align-items:center;gap:10px">
+          <span style="font-size:20px">${safeIcon}</span>
+          <div>
+            <div style="font-weight:700;font-size:13.5px;color:var(--ink, #1e293b)">${safeName}</div>
+            <div style="font-size:11.5px;color:var(--muted, #64748b)">收錄 ${cnt} 部影片 ${isDefault ? '· 預設' : ''}</div>
+          </div>
+        </div>
+        <div>
+          ${isDefault ? '<span style="font-size:11px;color:var(--muted,#64748b)">系統預設</span>' : `
+            <button class="ghost" style="padding:4px 10px;font-size:12px;border-radius:8px;color:#ef4444;border-color:rgba(239,68,68,0.3)" onclick="deleteCustomChannel('${safeId}')">刪除</button>
+          `}
+        </div>
+      </div>
+    `;
+  }).join('');
+}
+
+function setNewChannelEmoji(emoji) {
+  const input = document.getElementById('newChannelIcon');
+  if (input) input.value = emoji;
+}
+
+function submitCreateCustomChannel() {
+  const nameInput = document.getElementById('newChannelName');
+  const iconInput = document.getElementById('newChannelIcon');
+  const name = (nameInput?.value || '').trim();
+  const icon = (iconInput?.value || '📁').trim();
+
+  if (!name) {
+    alert('請輸入頻道名稱！');
+    if (nameInput) nameInput.focus();
+    return;
+  }
+
+  const channels = getCustomChannels();
+  const newId = 'custom_' + Date.now().toString(36);
+  channels.push({ id: newId, name, icon });
+  saveCustomChannels(channels);
+
+  if (nameInput) nameInput.value = '';
+  populateCustomChannelSelects();
+  renderManageCustomChannelsList();
+  renderCustomChannelBar();
+  toast(`已成功建立頻道「${icon} ${name}」！`);
+}
+
+function deleteCustomChannel(id) {
+  if (id === 'custom_default') {
+    alert('預設頻道不可刪除！');
+    return;
+  }
+  if (!confirm('確定要刪除此頻道嗎？該頻道內的自訂影片將自動歸類至「預設自訂頻道」。')) return;
+
+  let channels = getCustomChannels();
+  channels = channels.filter(c => c.id !== id);
+  saveCustomChannels(channels);
+
+  (typeof videos !== 'undefined' ? videos : []).forEach(v => {
+    if (v.customChannelId === id) {
+      v.customChannelId = 'custom_default';
+    }
+  });
+  try {
+    const raw = localStorage.getItem('et_custom_lessons');
+    if (raw) {
+      const list = JSON.parse(raw);
+      list.forEach(item => {
+        if (item.customChannelId === id) item.customChannelId = 'custom_default';
+      });
+      localStorage.setItem('et_custom_lessons', JSON.stringify(list));
+    }
+  } catch(e) {}
+
+  if (selectedCustomChannel === id) selectedCustomChannel = 'all';
+
+  populateCustomChannelSelects();
+  renderManageCustomChannelsList();
+  renderCustomChannelBar();
+  render();
+  toast('頻道已刪除，影片已轉移至預設自訂頻道');
+}
+
+// Move single video channel
+let pendingMoveVideoId = null;
+
+function openMoveVideoChannelModal(vid) {
+  pendingMoveVideoId = vid;
+  const vidObj = (typeof videos !== 'undefined' ? videos : []).find(v => v.id === vid);
+  const infoEl = document.getElementById('moveVideoTitle');
+  if (infoEl && vidObj) {
+    infoEl.innerHTML = `正在變更影片分類：<b>${escapeHTML(vidObj.title)}</b>`;
+  }
+  populateCustomChannelSelects();
+  const select = document.getElementById('moveTargetChannelSelect');
+  if (select && vidObj) {
+    select.value = vidObj.customChannelId || 'custom_default';
+  }
+  const modal = document.getElementById('moveVideoChannelModal');
+  if (modal) {
+    modal.classList.add('open');
+    modal.style.display = 'flex';
+  }
+}
+
+function closeMoveVideoChannelModal() {
+  const modal = document.getElementById('moveVideoChannelModal');
+  if (modal) {
+    modal.classList.remove('open');
+    modal.style.display = 'none';
+  }
+  pendingMoveVideoId = null;
+}
+
+function confirmMoveVideoChannel() {
+  if (!pendingMoveVideoId) return;
+  const select = document.getElementById('moveTargetChannelSelect');
+  const targetChannelId = select?.value || 'custom_default';
+
+  const vidObj = (typeof videos !== 'undefined' ? videos : []).find(v => v.id === pendingMoveVideoId);
+  if (vidObj) {
+    vidObj.customChannelId = targetChannelId;
+  }
+
+  try {
+    const raw = localStorage.getItem('et_custom_lessons');
+    if (raw) {
+      const list = JSON.parse(raw);
+      const target = list.find(l => l.id === pendingMoveVideoId);
+      if (target) {
+        target.customChannelId = targetChannelId;
+        localStorage.setItem('et_custom_lessons', JSON.stringify(list));
+      }
+    }
+  } catch(e) {}
+
+  closeMoveVideoChannelModal();
+  renderCustomChannelBar();
+  render();
+  toast('已成功變更影片所屬頻道！');
+}
+
+
+// ==========================================
+// 📥 批次/單部影音多格式下載器 (Batch & Single Downloader)
+// ==========================================
+let currentDownloadTab = 'library';
+let currentDownloadFormat = 'mp4';
+let selectedDownloadIds = new Set();
+let activeDownloadTaskId = null;
+let downloadPollTimer = null;
+
+function openBatchDownloadModal(initialTab = 'library') {
+  const modal = document.getElementById('batchDownloadModal');
+  if (modal) {
+    modal.classList.add('open');
+    modal.style.display = 'flex';
+  }
+
+  currentDownloadTab = initialTab || 'library';
+  switchDownloadTab(currentDownloadTab);
+  renderDownloadLibraryList();
+}
+
+function closeBatchDownloadModal() {
+  const modal = document.getElementById('batchDownloadModal');
+  if (modal) {
+    modal.classList.remove('open');
+    modal.style.display = 'none';
+  }
+}
+
+function openBatchDownloadSingle(vid) {
+  if (vid) {
+    selectedDownloadIds.clear();
+    selectedDownloadIds.add(vid);
+  }
+  openBatchDownloadModal('library');
+}
+
+function switchDownloadTab(tab) {
+  currentDownloadTab = tab;
+  const tabLib = document.getElementById('tabDlLibrary');
+  const tabUrls = document.getElementById('tabDlUrls');
+  const paneLib = document.getElementById('dlPaneLibrary');
+  const paneUrls = document.getElementById('dlPaneUrls');
+
+  if (tab === 'library') {
+    if (tabLib) tabLib.classList.add('active');
+    if (tabUrls) tabUrls.classList.remove('active');
+    if (paneLib) paneLib.style.display = 'block';
+    if (paneUrls) paneUrls.style.display = 'none';
+  } else {
+    if (tabLib) tabLib.classList.remove('active');
+    if (tabUrls) tabUrls.classList.add('active');
+    if (paneLib) paneLib.style.display = 'none';
+    if (paneUrls) paneUrls.style.display = 'block';
+  }
+  updateDownloadCounts();
+}
+
+function setDownloadFormat(fmt) {
+  currentDownloadFormat = fmt;
+  const fMap = { 'mp4': 'btnFmtMp4', 'mp3': 'btnFmtMp3', 'sub': 'btnFmtSub' };
+  Object.keys(fMap).forEach(k => {
+    const el = document.getElementById(fMap[k]);
+    if (el) el.classList.toggle('active', k === fmt);
+  });
+}
+
+function filterDownloadLibraryList() {
+  renderDownloadLibraryList();
+}
+
+function renderDownloadLibraryList() {
+  const container = document.getElementById('dlLibraryList');
+  if (!container) return;
+
+  const searchKeyword = (document.getElementById('dlSearchInput')?.value || '').trim().toLowerCase();
+  const pool = typeof videos !== 'undefined' ? [...videos, ...(typeof songs !== 'undefined' ? songs : [])] : [];
+  
+  const filtered = pool.filter(item => {
+    if (!searchKeyword) return true;
+    const titleMatch = (item.title || '').toLowerCase().includes(searchKeyword);
+    const zhMatch = (item.zh || '').toLowerCase().includes(searchKeyword);
+    return titleMatch || zhMatch;
+  });
+
+  const libCountEl = document.getElementById('dlLibraryCount');
+  if (libCountEl) libCountEl.textContent = pool.length;
+
+  container.innerHTML = filtered.map(item => {
+    const isChecked = selectedDownloadIds.has(item.id);
+    const chName = (typeof CHANNEL_DEFS !== 'undefined' ? (CHANNEL_DEFS.find(c => c.id === item.channel)||{}).name : '') || item.cat || (item.type==='song'?'經典情歌':'YouTube');
+    return `
+      <div style="display:flex;align-items:center;justify-content:space-between;padding:8px 12px;background:rgba(0,0,0,0.02);border:1px solid var(--line, rgba(0,0,0,0.06));border-radius:10px;gap:10px;cursor:pointer;margin-bottom:6px" onclick="toggleDownloadItem('${item.id}')">
+        <div style="display:flex;align-items:center;gap:10px;overflow:hidden">
+          <input type="checkbox" ${isChecked ? 'checked' : ''} onclick="event.stopPropagation();toggleDownloadItem('${item.id}')" style="width:16px;height:16px;accent-color:#0ea5e9;cursor:pointer">
+          <span style="font-size:18px">${item.emoji || '🎬'}</span>
+          <div style="overflow:hidden;text-overflow:ellipsis;white-space:nowrap">
+            <div style="font-weight:700;font-size:13px;color:var(--ink, #1e293b);overflow:hidden;text-overflow:ellipsis;white-space:nowrap">${item.title}</div>
+            <div style="font-size:11px;color:var(--muted, #64748b)">${chName} · ${item.duration || '03:00'} · ID: ${item.id}</div>
+          </div>
+        </div>
+        <span class="level badge-${item.level || 'B1'}" style="position:static;font-size:10.5px;padding:2px 7px;border-radius:6px;background:var(--purple,#6d5dfc);color:#fff">${item.level || 'B1'}</span>
+      </div>
+    `;
+  }).join('');
+
+  updateDownloadCounts();
+}
+
+function toggleDownloadItem(id) {
+  if (selectedDownloadIds.has(id)) {
+    selectedDownloadIds.delete(id);
+  } else {
+    selectedDownloadIds.add(id);
+  }
+  renderDownloadLibraryList();
+}
+
+function toggleDownloadSelectAll(checked) {
+  const pool = typeof videos !== 'undefined' ? [...videos, ...(typeof songs !== 'undefined' ? songs : [])] : [];
+  if (checked) {
+    pool.forEach(item => selectedDownloadIds.add(item.id));
+  } else {
+    selectedDownloadIds.clear();
+  }
+  renderDownloadLibraryList();
+}
+
+function parseInputUrls() {
+  const text = document.getElementById('dlUrlsInput')?.value || '';
+  const lines = text.split('\n').map(l => l.trim()).filter(Boolean);
+  const items = [];
+  lines.forEach(l => {
+    const match = l.match(/(?:v=|\/embed\/|youtu\.be\/|\/v\/|shorts\/)([a-zA-Z0-9_-]{11})/);
+    if (match) {
+      items.push({ id: match[1], url: `https://www.youtube.com/watch?v=${match[1]}` });
+    } else if (l.length === 11 && !l.includes(' ') && !l.startsWith('http')) {
+      items.push({ id: l, url: `https://www.youtube.com/watch?v=${l}` });
+    } else if (l.startsWith('http')) {
+      items.push({ url: l });
+    }
+  });
+  return items;
+}
+
+function updateDownloadUrlsCount() {
+  updateDownloadCounts();
+}
+
+function updateDownloadCounts() {
+  const selCntEl = document.getElementById('dlSelectedCount');
+  if (selCntEl) selCntEl.textContent = selectedDownloadIds.size;
+
+  const urlCntEl = document.getElementById('dlUrlsDetectedCount');
+  if (urlCntEl) {
+    const urls = parseInputUrls();
+    urlCntEl.textContent = urls.length;
+  }
+}
+
+async function startBatchDownload() {
+  let targets = [];
+  const pool = typeof videos !== 'undefined' ? [...videos, ...(typeof songs !== 'undefined' ? songs : [])] : [];
+
+  if (currentDownloadTab === 'library') {
+    if (selectedDownloadIds.size === 0) {
+      alert('請先勾選至少一部要下載的影片！');
+      return;
+    }
+    selectedDownloadIds.forEach(id => {
+      const found = pool.find(v => v.id === id);
+      targets.push({
+        id: id,
+        title: found?.title || `video_${id}`,
+        url: `https://www.youtube.com/watch?v=${id}`
+      });
+    });
+  } else {
+    targets = parseInputUrls();
+    if (targets.length === 0) {
+      alert('請在文字框中貼上至少一個有效的 YouTube 網址！');
+      return;
+    }
+  }
+
+  const quality = document.getElementById('dlQualitySelect')?.value || '1080p';
+  const btn = document.getElementById('btnStartBatchDownload');
+  const btnText = document.getElementById('btnStartDlText');
+  if (btn) btn.disabled = true;
+  if (btnText) btnText.textContent = '任務啟動中...';
+
+  const progressBox = document.getElementById('dlProgressBox');
+  if (progressBox) progressBox.style.display = 'block';
+
+  try {
+    const resp = await fetch('/api/batch-download', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        format: currentDownloadFormat,
+        quality: quality,
+        items: targets
+      })
+    });
+    const data = await resp.json();
+    if (!resp.ok) {
+      throw new Error(data.error || '啟動批次下載失敗');
+    }
+
+    activeDownloadTaskId = data.taskId || data.task_id;
+    pollBatchDownloadStatus(activeDownloadTaskId);
+  } catch(err) {
+    alert('下載啟動失敗: ' + err.message);
+    if (btn) btn.disabled = false;
+    if (btnText) btnText.textContent = '開始批次下載';
+  }
+}
+
+function pollBatchDownloadStatus(taskId) {
+  if (downloadPollTimer) clearTimeout(downloadPollTimer);
+
+  const fetchStatus = async () => {
+    try {
+      const resp = await fetch(`/api/download-status?taskId=${taskId}`);
+      if (!resp.ok) return;
+      const data = await resp.json();
+
+      updateDownloadUI(data);
+
+      if (data.status === 'running') {
+        downloadPollTimer = setTimeout(fetchStatus, 1500);
+      } else {
+        const btn = document.getElementById('btnStartBatchDownload');
+        const btnText = document.getElementById('btnStartDlText');
+        if (btn) btn.disabled = false;
+        if (btnText) btnText.textContent = '重新啟動下載';
+      }
+    } catch(e) {
+      downloadPollTimer = setTimeout(fetchStatus, 2500);
+    }
+  };
+
+  fetchStatus();
+}
+
+function updateDownloadUI(data) {
+  const percent = data.percent || 0;
+  const bar = document.getElementById('dlProgressBarFill');
+  const percentText = document.getElementById('dlProgressPercent');
+  const statusText = document.getElementById('dlProgressStatusText');
+  const queueList = document.getElementById('dlQueueList');
+  const allActions = document.getElementById('dlAllActions');
+
+  if (bar) bar.style.width = `${percent}%`;
+  if (percentText) percentText.textContent = `${percent}%`;
+  if (statusText) statusText.textContent = `進度: ${data.completed || 0} / ${data.total || 0} (狀態：${data.status === 'running' ? '高速下載中' : (data.status === 'completed' ? '已完成' : '已取消')})`;
+
+  if (queueList && data.items) {
+    queueList.innerHTML = data.items.map(it => {
+      let icon = '⏳';
+      let statusColor = 'var(--muted, #64748b)';
+      let downloadLink = '';
+
+      if (it.status === 'completed') {
+        icon = '✅';
+        statusColor = '#10b981';
+        downloadLink = `<a href="${it.download_url}" download class="ghost" style="padding:2px 8px;font-size:11.5px;border-radius:6px;color:#0ea5e9;border-color:rgba(14,165,233,0.3);text-decoration:none">直接下載 (${escapeHTML(it.file_size || '檔案')})</a>`;
+      } else if (it.status === 'downloading') {
+        icon = '⚡';
+        statusColor = '#0ea5e9';
+        downloadLink = `<span style="font-size:11.5px;color:#0ea5e9">萃取中...</span>`;
+      } else if (it.status === 'error') {
+        icon = '❌';
+        statusColor = '#ef4444';
+        downloadLink = `<span style="font-size:11px;color:#ef4444">${escapeHTML(it.error || '失敗')}</span>`;
+      }
+
+      return `
+        <div style="display:flex;align-items:center;justify-content:space-between;padding:6px 10px;background:rgba(0,0,0,0.02);border:1px solid var(--line,rgba(0,0,0,0.06));border-radius:8px;font-size:12px;margin-bottom:4px">
+          <div style="display:flex;align-items:center;gap:6px;overflow:hidden">
+            <span>${icon}</span>
+            <span style="overflow:hidden;text-overflow:ellipsis;white-space:nowrap;color:${statusColor}">${escapeHTML(it.title || '')}</span>
+          </div>
+          <div>${downloadLink}</div>
+        </div>
+      `;
+    }).join('');
+  }
+
+  if (allActions) {
+    allActions.style.display = (data.status === 'completed') ? 'flex' : 'none';
+  }
+}
+
+function cancelBatchDownload() {
+  if (activeDownloadTaskId) {
+    fetch(`/api/cancel-download?taskId=${activeDownloadTaskId}`).catch(()=>{});
+  }
+  if (downloadPollTimer) clearTimeout(downloadPollTimer);
+  const statusText = document.getElementById('dlProgressStatusText');
+  if (statusText) statusText.textContent = '任務已取消';
+  const btn = document.getElementById('btnStartBatchDownload');
+  const btnText = document.getElementById('btnStartDlText');
+  if (btn) btn.disabled = false;
+  if (btnText) btnText.textContent = '開始批次下載';
+  toast('已取消下載任務');
+}
+
+function triggerAllDownloads() {
+  const container = document.getElementById('dlQueueList');
+  if (!container) return;
+  const links = container.querySelectorAll('a[download]');
+  links.forEach((a, i) => {
+    setTimeout(() => {
+      a.click();
+    }, i * 350);
+  });
+  toast(`已觸發 ${links.length} 個檔案下載！`);
+}
+
+// Global window exposure for inline onclick handlers
+window.openBatchDownloadModal = openBatchDownloadModal;
+window.closeBatchDownloadModal = closeBatchDownloadModal;
+window.openBatchDownloadSingle = openBatchDownloadSingle;
+window.switchDownloadTab = switchDownloadTab;
+window.setDownloadFormat = setDownloadFormat;
+window.filterDownloadLibraryList = filterDownloadLibraryList;
+window.toggleDownloadItem = toggleDownloadItem;
+window.toggleDownloadSelectAll = toggleDownloadSelectAll;
+window.updateDownloadUrlsCount = updateDownloadUrlsCount;
+window.startBatchDownload = startBatchDownload;
+window.cancelBatchDownload = cancelBatchDownload;
+window.triggerAllDownloads = triggerAllDownloads;
+
+window.renderCustomChannelBar = renderCustomChannelBar;
+window.selectCustomChannel = selectCustomChannel;
+window.openManageCustomChannelsModal = openManageCustomChannelsModal;
+window.openCreateCustomChannelModal = openCreateCustomChannelModal;
+window.closeManageCustomChannelsModal = closeManageCustomChannelsModal;
+window.setNewChannelEmoji = setNewChannelEmoji;
+window.submitCreateCustomChannel = submitCreateCustomChannel;
+window.deleteCustomChannel = deleteCustomChannel;
+window.openMoveVideoChannelModal = openMoveVideoChannelModal;
+window.closeMoveVideoChannelModal = closeMoveVideoChannelModal;
+window.confirmMoveVideoChannel = confirmMoveVideoChannel;
+
+// Ensure initialization
+window.addEventListener('DOMContentLoaded', () => {
+  populateCustomChannelSelects();
+  renderCustomChannelBar();
+});
+setTimeout(() => {
+  populateCustomChannelSelects();
+  renderCustomChannelBar();
+}, 100);
+
+
 function renderNavBars() {
   // 1. Channel Nav
   const allPool = [...videos, ...songs];
@@ -51201,29 +51851,55 @@ let isExplorerLoadingMore = false;
 let explorerHasMore = true;
 const explorerLoadedVideoIds = new Set();
 
+const explorerItemRegistry = new Map();
+
 function createExplorerCardHtml(item) {
+  if (!item || !item.id) return '';
+  explorerItemRegistry.set(item.id, item);
   const isPlaying = item.id === currentExplorerVid;
   const durStr = typeof item.duration === 'number' ? formatDuration(item.duration) : (item.duration || '5:00');
-  const safeTitle = (item.title || 'YouTube Video').replace(/"/g, '&quot;');
-  const safeChannel = (item.channel || 'YouTube').replace(/"/g, '&quot;');
+  const safeTitle = escapeHTML(item.title || 'YouTube Video');
+  const safeChannel = escapeHTML(item.channel || 'YouTube');
   const isImported = (typeof videos !== 'undefined' && videos.some(v => v.id === item.id)) ||
                      (typeof customLessons !== 'undefined' && customLessons.some(c => c.id === item.id));
   return `
-    <div class="yt-card-row ${isPlaying ? 'playing' : ''}" data-vid="${item.id}" onclick="playInExplorer('${item.id}', '${safeTitle.replace(/'/g, "\\'")}', '${safeChannel.replace(/'/g, "\\'")}', '${durStr}')">
+    <div class="yt-card-row ${isPlaying ? 'playing' : ''}" data-vid="${escapeHTML(item.id)}" onclick="handleExplorerCardClick('${escapeHTML(item.id)}')">
       <div class="yt-thumb-box">
-        <img src="https://img.youtube.com/vi/${item.id}/mqdefault.jpg" alt="${safeTitle}" loading="lazy" onerror="this.src='icon-192.png'" />
+        <img src="https://img.youtube.com/vi/${escapeHTML(item.id)}/mqdefault.jpg" alt="${safeTitle}" loading="lazy" onerror="this.src='icon-192.png'" />
         <span class="yt-thumb-dur">${durStr}</span>
       </div>
       <div class="yt-card-info">
         <div class="yt-card-title">${safeTitle}</div>
         <div class="yt-card-author">📺 ${safeChannel}</div>
       </div>
-      <button class="yt-quick-import-btn ${isImported ? 'imported' : ''}" onclick="event.stopPropagation();${isImported ? `closeYtExplorerModal();openVideo('${item.id}')` : `importExplorerVideoDirect('${item.id}', '${safeTitle.replace(/'/g, "\\'")}', this)`}" title="${isImported ? '已收錄，點擊直接開啟學習' : '一鍵收錄為教材'}">
+      <button class="yt-quick-import-btn ${isImported ? 'imported' : ''}" onclick="handleExplorerImportClick(event, '${escapeHTML(item.id)}', this)" title="${isImported ? '已收錄，點擊直接開啟學習' : '一鍵收錄為教材'}">
         ${isImported ? '✓ 已收錄' : '＋ 收錄'}
       </button>
     </div>
   `;
 }
+
+function handleExplorerCardClick(vid) {
+  const item = explorerItemRegistry.get(vid) || {};
+  const durStr = typeof item.duration === 'number' ? formatDuration(item.duration) : (item.duration || '5:00');
+  playInExplorer(vid, item.title || `YouTube Video (${vid})`, item.channel || 'YouTube', durStr);
+}
+
+function handleExplorerImportClick(e, vid, btnEl) {
+  if (e && e.stopPropagation) e.stopPropagation();
+  const isImported = (typeof videos !== 'undefined' && videos.some(v => v.id === vid)) ||
+                     (typeof customLessons !== 'undefined' && customLessons.some(c => c.id === vid));
+  if (isImported) {
+    closeYtExplorerModal();
+    openVideo(vid);
+    return;
+  }
+  const item = explorerItemRegistry.get(vid) || {};
+  importExplorerVideoDirect(vid, item.title || 'YouTube Video', btnEl || e?.currentTarget);
+}
+
+window.handleExplorerCardClick = handleExplorerCardClick;
+window.handleExplorerImportClick = handleExplorerImportClick;
 
 function attachExplorerInfiniteScroll() {
   const feed = document.getElementById('ytResultsFeed');
@@ -51732,7 +52408,7 @@ if(window.matchMedia('(display-mode: standalone)').matches||navigator.standalone
 document.querySelector('#installBtn').addEventListener('click',async()=>{if(deferredPrompt){deferredPrompt.prompt();const{outcome}=await deferredPrompt.userChoice;deferredPrompt=null;if(outcome==='accepted')toast('✓ 安裝中...')}else if(/iphone|ipad|ipod/i.test(navigator.userAgent)){toast('Safari：分享 → 加入主畫面')}else{toast('請從瀏覽器選單選擇「安裝應用程式」')}});
 // Register Service Worker + auto-reload on new SW version
 if('serviceWorker'in navigator&&location.protocol.startsWith('http')){
-  window.addEventListener('load',()=>navigator.serviceWorker.register('./sw.js?v=146').then(reg=>{
+  window.addEventListener('load',()=>navigator.serviceWorker.register('./sw.js?v=147').then(reg=>{
     try{reg.update()}catch(e){}
     reg.addEventListener('updatefound',()=>{
       const nw=reg.installing;
@@ -53230,648 +53906,5 @@ closeModal = function() {
   if (container) container.innerHTML = '';
   _origCloseModal();
 };
-
-// ==========================================
-// 🎯 自訂頻道分類管理引擎 (Custom Channels Management)
-// ==========================================
-const DEFAULT_CUSTOM_CHANNELS = [
-  { id: 'custom_default', name: '預設自訂頻道', icon: '📁', count: 0 },
-  { id: 'custom_tech', name: '科技趨勢', icon: '💻', count: 0 },
-  { id: 'custom_biz', name: '商業職場', icon: '💼', count: 0 },
-  { id: 'custom_daily', name: '生活日常', icon: '☕', count: 0 }
-];
-
-let selectedCustomChannel = 'all';
-
-function getCustomChannels() {
-  try {
-    const raw = localStorage.getItem('et_custom_channels');
-    if (raw) {
-      const parsed = JSON.parse(raw);
-      if (Array.isArray(parsed) && parsed.length > 0) return parsed;
-    }
-  } catch(e) {}
-  return [...DEFAULT_CUSTOM_CHANNELS];
-}
-
-function saveCustomChannels(channels) {
-  try {
-    localStorage.setItem('et_custom_channels', JSON.stringify(channels));
-  } catch(e) {
-    console.error('Failed to save custom channels:', e);
-  }
-}
-
-function getCustomChannelById(id) {
-  const channels = getCustomChannels();
-  return channels.find(c => c.id === id) || { id: id || 'custom_default', name: '未分類頻道', icon: '📁' };
-}
-
-function renderCustomChannelBar() {
-  const bar = document.getElementById('customChannelBar');
-  if (!bar) return;
-
-  if (selectedChannel !== 'custom') {
-    bar.style.display = 'none';
-    return;
-  }
-  bar.style.display = 'flex';
-
-  const channels = getCustomChannels();
-  const customVideos = (typeof videos !== 'undefined' ? videos : []).filter(v => v.isCustom || v.cat === '自訂' || v.cat === '探索' || (localStorage.getItem('et_custom_lessons') || '').includes(v.id));
-
-  const totalCount = customVideos.length;
-  const isAllActive = selectedCustomChannel === 'all';
-
-  let html = `
-    <span class="vt-custom-bar-label">🏷️ 自訂分類:</span>
-    <button class="vt-custom-chip ${isAllActive ? 'active' : ''}" onclick="selectCustomChannel('all')">
-      <span>✨</span>
-      <span>全部自選</span>
-      <span class="chip-cnt">${totalCount}</span>
-    </button>
-  `;
-
-  channels.forEach(ch => {
-    const cnt = customVideos.filter(v => (v.customChannelId || 'custom_default') === ch.id).length;
-    const isActive = selectedCustomChannel === ch.id;
-    const safeId = escapeHTML(ch.id);
-    const safeName = escapeHTML(ch.name);
-    const safeIcon = escapeHTML(ch.icon);
-    html += `
-      <button class="vt-custom-chip ${isActive ? 'active' : ''}" onclick="selectCustomChannel('${safeId}')">
-        <span>${safeIcon}</span>
-        <span>${safeName}</span>
-        <span class="chip-cnt">${cnt}</span>
-      </button>
-    `;
-  });
-
-  html += `
-    <button class="vt-custom-manage-btn" onclick="openManageCustomChannelsModal()">
-      <span>⚙️</span>
-      <span>管理頻道</span>
-    </button>
-  `;
-
-  bar.innerHTML = html;
-}
-
-function selectCustomChannel(id) {
-  selectedCustomChannel = id;
-  renderNavBars();
-  render();
-}
-
-function populateCustomChannelSelects() {
-  const channels = getCustomChannels();
-  const selects = ['makerCustomChannelSelect', 'explorerTargetChannelSelect', 'moveTargetChannelSelect'];
-  selects.forEach(sId => {
-    const el = document.getElementById(sId);
-    if (!el) return;
-    const curVal = el.value;
-    el.innerHTML = channels.map(c => `<option value="${escapeHTML(c.id)}">${escapeHTML(c.icon)} ${escapeHTML(c.name)}</option>`).join('');
-    if (curVal && channels.some(c => c.id === curVal)) {
-      el.value = curVal;
-    }
-  });
-}
-
-function openManageCustomChannelsModal() {
-  renderManageCustomChannelsList();
-  const modal = document.getElementById('customChannelManageModal');
-  if (modal) {
-    modal.classList.add('open');
-    modal.style.display = 'flex';
-  }
-}
-
-function openCreateCustomChannelModal() {
-  openManageCustomChannelsModal();
-  setTimeout(() => {
-    const input = document.getElementById('newChannelNameInput');
-    if (input) input.focus();
-  }, 100);
-}
-
-function closeManageCustomChannelsModal() {
-  const modal = document.getElementById('customChannelManageModal');
-  if (modal) {
-    modal.classList.remove('open');
-    modal.style.display = 'none';
-  }
-}
-
-function renderManageCustomChannelsList() {
-  const container = document.getElementById('customChannelManageList');
-  if (!container) return;
-  const channels = getCustomChannels();
-  const customVideos = (typeof videos !== 'undefined' ? videos : []).filter(v => v.isCustom || v.cat === '自訂' || v.cat === '探索' || (localStorage.getItem('et_custom_lessons') || '').includes(v.id));
-
-  container.innerHTML = channels.map(ch => {
-    const cnt = customVideos.filter(v => (v.customChannelId || 'custom_default') === ch.id).length;
-    const isDefault = ch.id === 'custom_default';
-    const safeId = escapeHTML(ch.id);
-    const safeName = escapeHTML(ch.name);
-    const safeIcon = escapeHTML(ch.icon);
-    return `
-      <div style="display:flex;align-items:center;justify-content:space-between;padding:10px 14px;background:rgba(0,0,0,0.03);border:1px solid var(--line, rgba(0,0,0,0.08));border-radius:10px">
-        <div style="display:flex;align-items:center;gap:10px">
-          <span style="font-size:20px">${safeIcon}</span>
-          <div>
-            <div style="font-weight:700;font-size:13.5px;color:var(--ink, #1e293b)">${safeName}</div>
-            <div style="font-size:11.5px;color:var(--muted, #64748b)">收錄 ${cnt} 部影片 ${isDefault ? '· 預設' : ''}</div>
-          </div>
-        </div>
-        <div>
-          ${isDefault ? '<span style="font-size:11px;color:var(--muted,#64748b)">系統預設</span>' : `
-            <button class="ghost" style="padding:4px 10px;font-size:12px;border-radius:8px;color:#ef4444;border-color:rgba(239,68,68,0.3)" onclick="deleteCustomChannel('${safeId}')">刪除</button>
-          `}
-        </div>
-      </div>
-    `;
-  }).join('');
-}
-
-function setNewChannelEmoji(emoji) {
-  const input = document.getElementById('newChannelIcon');
-  if (input) input.value = emoji;
-}
-
-function submitCreateCustomChannel() {
-  const nameInput = document.getElementById('newChannelName');
-  const iconInput = document.getElementById('newChannelIcon');
-  const name = (nameInput?.value || '').trim();
-  const icon = (iconInput?.value || '📁').trim();
-
-  if (!name) {
-    alert('請輸入頻道名稱！');
-    if (nameInput) nameInput.focus();
-    return;
-  }
-
-  const channels = getCustomChannels();
-  const newId = 'custom_' + Date.now().toString(36);
-  channels.push({ id: newId, name, icon });
-  saveCustomChannels(channels);
-
-  if (nameInput) nameInput.value = '';
-  populateCustomChannelSelects();
-  renderManageCustomChannelsList();
-  renderCustomChannelBar();
-  toast(`已成功建立頻道「${icon} ${name}」！`);
-}
-
-function deleteCustomChannel(id) {
-  if (id === 'custom_default') {
-    alert('預設頻道不可刪除！');
-    return;
-  }
-  if (!confirm('確定要刪除此頻道嗎？該頻道內的自訂影片將自動歸類至「預設自訂頻道」。')) return;
-
-  let channels = getCustomChannels();
-  channels = channels.filter(c => c.id !== id);
-  saveCustomChannels(channels);
-
-  (typeof videos !== 'undefined' ? videos : []).forEach(v => {
-    if (v.customChannelId === id) {
-      v.customChannelId = 'custom_default';
-    }
-  });
-  try {
-    const raw = localStorage.getItem('et_custom_lessons');
-    if (raw) {
-      const list = JSON.parse(raw);
-      list.forEach(item => {
-        if (item.customChannelId === id) item.customChannelId = 'custom_default';
-      });
-      localStorage.setItem('et_custom_lessons', JSON.stringify(list));
-    }
-  } catch(e) {}
-
-  if (selectedCustomChannel === id) selectedCustomChannel = 'all';
-
-  populateCustomChannelSelects();
-  renderManageCustomChannelsList();
-  renderCustomChannelBar();
-  render();
-  toast('頻道已刪除，影片已轉移至預設自訂頻道');
-}
-
-// Move single video channel
-let pendingMoveVideoId = null;
-
-function openMoveVideoChannelModal(vid) {
-  pendingMoveVideoId = vid;
-  const vidObj = (typeof videos !== 'undefined' ? videos : []).find(v => v.id === vid);
-  const infoEl = document.getElementById('moveVideoTitle');
-  if (infoEl && vidObj) {
-    infoEl.innerHTML = `正在變更影片分類：<b>${escapeHTML(vidObj.title)}</b>`;
-  }
-  populateCustomChannelSelects();
-  const select = document.getElementById('moveTargetChannelSelect');
-  if (select && vidObj) {
-    select.value = vidObj.customChannelId || 'custom_default';
-  }
-  const modal = document.getElementById('moveVideoChannelModal');
-  if (modal) {
-    modal.classList.add('open');
-    modal.style.display = 'flex';
-  }
-}
-
-function closeMoveVideoChannelModal() {
-  const modal = document.getElementById('moveVideoChannelModal');
-  if (modal) {
-    modal.classList.remove('open');
-    modal.style.display = 'none';
-  }
-  pendingMoveVideoId = null;
-}
-
-function confirmMoveVideoChannel() {
-  if (!pendingMoveVideoId) return;
-  const select = document.getElementById('moveTargetChannelSelect');
-  const targetChannelId = select?.value || 'custom_default';
-
-  const vidObj = (typeof videos !== 'undefined' ? videos : []).find(v => v.id === pendingMoveVideoId);
-  if (vidObj) {
-    vidObj.customChannelId = targetChannelId;
-  }
-
-  try {
-    const raw = localStorage.getItem('et_custom_lessons');
-    if (raw) {
-      const list = JSON.parse(raw);
-      const target = list.find(l => l.id === pendingMoveVideoId);
-      if (target) {
-        target.customChannelId = targetChannelId;
-        localStorage.setItem('et_custom_lessons', JSON.stringify(list));
-      }
-    }
-  } catch(e) {}
-
-  closeMoveVideoChannelModal();
-  renderCustomChannelBar();
-  render();
-  toast('已成功變更影片所屬頻道！');
-}
-
-
-// ==========================================
-// 📥 批次/單部影音多格式下載器 (Batch & Single Downloader)
-// ==========================================
-let currentDownloadTab = 'library';
-let currentDownloadFormat = 'mp4';
-let selectedDownloadIds = new Set();
-let activeDownloadTaskId = null;
-let downloadPollTimer = null;
-
-function openBatchDownloadModal(initialTab = 'library') {
-  const modal = document.getElementById('batchDownloadModal');
-  if (modal) {
-    modal.classList.add('open');
-    modal.style.display = 'flex';
-  }
-
-  currentDownloadTab = initialTab || 'library';
-  switchDownloadTab(currentDownloadTab);
-  renderDownloadLibraryList();
-}
-
-function closeBatchDownloadModal() {
-  const modal = document.getElementById('batchDownloadModal');
-  if (modal) {
-    modal.classList.remove('open');
-    modal.style.display = 'none';
-  }
-}
-
-function openBatchDownloadSingle(vid) {
-  if (vid) {
-    selectedDownloadIds.clear();
-    selectedDownloadIds.add(vid);
-  }
-  openBatchDownloadModal('library');
-}
-
-function switchDownloadTab(tab) {
-  currentDownloadTab = tab;
-  const tabLib = document.getElementById('tabDlLibrary');
-  const tabUrls = document.getElementById('tabDlUrls');
-  const paneLib = document.getElementById('dlPaneLibrary');
-  const paneUrls = document.getElementById('dlPaneUrls');
-
-  if (tab === 'library') {
-    if (tabLib) tabLib.classList.add('active');
-    if (tabUrls) tabUrls.classList.remove('active');
-    if (paneLib) paneLib.style.display = 'block';
-    if (paneUrls) paneUrls.style.display = 'none';
-  } else {
-    if (tabLib) tabLib.classList.remove('active');
-    if (tabUrls) tabUrls.classList.add('active');
-    if (paneLib) paneLib.style.display = 'none';
-    if (paneUrls) paneUrls.style.display = 'block';
-  }
-  updateDownloadCounts();
-}
-
-function setDownloadFormat(fmt) {
-  currentDownloadFormat = fmt;
-  const fMap = { 'mp4': 'btnFmtMp4', 'mp3': 'btnFmtMp3', 'sub': 'btnFmtSub' };
-  Object.keys(fMap).forEach(k => {
-    const el = document.getElementById(fMap[k]);
-    if (el) el.classList.toggle('active', k === fmt);
-  });
-}
-
-function filterDownloadLibraryList() {
-  renderDownloadLibraryList();
-}
-
-function renderDownloadLibraryList() {
-  const container = document.getElementById('dlLibraryList');
-  if (!container) return;
-
-  const searchKeyword = (document.getElementById('dlSearchInput')?.value || '').trim().toLowerCase();
-  const pool = typeof videos !== 'undefined' ? [...videos, ...(typeof songs !== 'undefined' ? songs : [])] : [];
-  
-  const filtered = pool.filter(item => {
-    if (!searchKeyword) return true;
-    const titleMatch = (item.title || '').toLowerCase().includes(searchKeyword);
-    const zhMatch = (item.zh || '').toLowerCase().includes(searchKeyword);
-    return titleMatch || zhMatch;
-  });
-
-  const libCountEl = document.getElementById('dlLibraryCount');
-  if (libCountEl) libCountEl.textContent = pool.length;
-
-  container.innerHTML = filtered.map(item => {
-    const isChecked = selectedDownloadIds.has(item.id);
-    const chName = (typeof CHANNEL_DEFS !== 'undefined' ? (CHANNEL_DEFS.find(c => c.id === item.channel)||{}).name : '') || item.cat || (item.type==='song'?'經典情歌':'YouTube');
-    return `
-      <div style="display:flex;align-items:center;justify-content:space-between;padding:8px 12px;background:rgba(0,0,0,0.02);border:1px solid var(--line, rgba(0,0,0,0.06));border-radius:10px;gap:10px;cursor:pointer;margin-bottom:6px" onclick="toggleDownloadItem('${item.id}')">
-        <div style="display:flex;align-items:center;gap:10px;overflow:hidden">
-          <input type="checkbox" ${isChecked ? 'checked' : ''} onclick="event.stopPropagation();toggleDownloadItem('${item.id}')" style="width:16px;height:16px;accent-color:#0ea5e9;cursor:pointer">
-          <span style="font-size:18px">${item.emoji || '🎬'}</span>
-          <div style="overflow:hidden;text-overflow:ellipsis;white-space:nowrap">
-            <div style="font-weight:700;font-size:13px;color:var(--ink, #1e293b);overflow:hidden;text-overflow:ellipsis;white-space:nowrap">${item.title}</div>
-            <div style="font-size:11px;color:var(--muted, #64748b)">${chName} · ${item.duration || '03:00'} · ID: ${item.id}</div>
-          </div>
-        </div>
-        <span class="level badge-${item.level || 'B1'}" style="position:static;font-size:10.5px;padding:2px 7px;border-radius:6px;background:var(--purple,#6d5dfc);color:#fff">${item.level || 'B1'}</span>
-      </div>
-    `;
-  }).join('');
-
-  updateDownloadCounts();
-}
-
-function toggleDownloadItem(id) {
-  if (selectedDownloadIds.has(id)) {
-    selectedDownloadIds.delete(id);
-  } else {
-    selectedDownloadIds.add(id);
-  }
-  renderDownloadLibraryList();
-}
-
-function toggleDownloadSelectAll(checked) {
-  const pool = typeof videos !== 'undefined' ? [...videos, ...(typeof songs !== 'undefined' ? songs : [])] : [];
-  if (checked) {
-    pool.forEach(item => selectedDownloadIds.add(item.id));
-  } else {
-    selectedDownloadIds.clear();
-  }
-  renderDownloadLibraryList();
-}
-
-function parseInputUrls() {
-  const text = document.getElementById('dlUrlsInput')?.value || '';
-  const lines = text.split('\n').map(l => l.trim()).filter(Boolean);
-  const items = [];
-  lines.forEach(l => {
-    const match = l.match(/(?:v=|\/embed\/|youtu\.be\/|\/v\/|shorts\/)([a-zA-Z0-9_-]{11})/);
-    if (match) {
-      items.push({ id: match[1], url: `https://www.youtube.com/watch?v=${match[1]}` });
-    } else if (l.length === 11 && !l.includes(' ') && !l.startsWith('http')) {
-      items.push({ id: l, url: `https://www.youtube.com/watch?v=${l}` });
-    } else if (l.startsWith('http')) {
-      items.push({ url: l });
-    }
-  });
-  return items;
-}
-
-function updateDownloadUrlsCount() {
-  updateDownloadCounts();
-}
-
-function updateDownloadCounts() {
-  const selCntEl = document.getElementById('dlSelectedCount');
-  if (selCntEl) selCntEl.textContent = selectedDownloadIds.size;
-
-  const urlCntEl = document.getElementById('dlUrlsDetectedCount');
-  if (urlCntEl) {
-    const urls = parseInputUrls();
-    urlCntEl.textContent = urls.length;
-  }
-}
-
-async function startBatchDownload() {
-  let targets = [];
-  const pool = typeof videos !== 'undefined' ? [...videos, ...(typeof songs !== 'undefined' ? songs : [])] : [];
-
-  if (currentDownloadTab === 'library') {
-    if (selectedDownloadIds.size === 0) {
-      alert('請先勾選至少一部要下載的影片！');
-      return;
-    }
-    selectedDownloadIds.forEach(id => {
-      const found = pool.find(v => v.id === id);
-      targets.push({
-        id: id,
-        title: found?.title || `video_${id}`,
-        url: `https://www.youtube.com/watch?v=${id}`
-      });
-    });
-  } else {
-    targets = parseInputUrls();
-    if (targets.length === 0) {
-      alert('請在文字框中貼上至少一個有效的 YouTube 網址！');
-      return;
-    }
-  }
-
-  const quality = document.getElementById('dlQualitySelect')?.value || '1080p';
-  const btn = document.getElementById('btnStartBatchDownload');
-  const btnText = document.getElementById('btnStartDlText');
-  if (btn) btn.disabled = true;
-  if (btnText) btnText.textContent = '任務啟動中...';
-
-  const progressBox = document.getElementById('dlProgressBox');
-  if (progressBox) progressBox.style.display = 'block';
-
-  try {
-    const resp = await fetch('/api/batch-download', {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({
-        format: currentDownloadFormat,
-        quality: quality,
-        items: targets
-      })
-    });
-    const data = await resp.json();
-    if (!resp.ok) {
-      throw new Error(data.error || '啟動批次下載失敗');
-    }
-
-    activeDownloadTaskId = data.taskId || data.task_id;
-    pollBatchDownloadStatus(activeDownloadTaskId);
-  } catch(err) {
-    alert('下載啟動失敗: ' + err.message);
-    if (btn) btn.disabled = false;
-    if (btnText) btnText.textContent = '開始批次下載';
-  }
-}
-
-function pollBatchDownloadStatus(taskId) {
-  if (downloadPollTimer) clearTimeout(downloadPollTimer);
-
-  const fetchStatus = async () => {
-    try {
-      const resp = await fetch(`/api/download-status?taskId=${taskId}`);
-      if (!resp.ok) return;
-      const data = await resp.json();
-
-      updateDownloadUI(data);
-
-      if (data.status === 'running') {
-        downloadPollTimer = setTimeout(fetchStatus, 1500);
-      } else {
-        const btn = document.getElementById('btnStartBatchDownload');
-        const btnText = document.getElementById('btnStartDlText');
-        if (btn) btn.disabled = false;
-        if (btnText) btnText.textContent = '重新啟動下載';
-      }
-    } catch(e) {
-      downloadPollTimer = setTimeout(fetchStatus, 2500);
-    }
-  };
-
-  fetchStatus();
-}
-
-function updateDownloadUI(data) {
-  const percent = data.percent || 0;
-  const bar = document.getElementById('dlProgressBarFill');
-  const percentText = document.getElementById('dlProgressPercent');
-  const statusText = document.getElementById('dlProgressStatusText');
-  const queueList = document.getElementById('dlQueueList');
-  const allActions = document.getElementById('dlAllActions');
-
-  if (bar) bar.style.width = `${percent}%`;
-  if (percentText) percentText.textContent = `${percent}%`;
-  if (statusText) statusText.textContent = `進度: ${data.completed || 0} / ${data.total || 0} (狀態：${data.status === 'running' ? '高速下載中' : (data.status === 'completed' ? '已完成' : '已取消')})`;
-
-  if (queueList && data.items) {
-    queueList.innerHTML = data.items.map(it => {
-      let icon = '⏳';
-      let statusColor = 'var(--muted, #64748b)';
-      let downloadLink = '';
-
-      if (it.status === 'completed') {
-        icon = '✅';
-        statusColor = '#10b981';
-        downloadLink = `<a href="${it.download_url}" download class="ghost" style="padding:2px 8px;font-size:11.5px;border-radius:6px;color:#0ea5e9;border-color:rgba(14,165,233,0.3);text-decoration:none">直接下載 (${escapeHTML(it.file_size || '檔案')})</a>`;
-      } else if (it.status === 'downloading') {
-        icon = '⚡';
-        statusColor = '#0ea5e9';
-        downloadLink = `<span style="font-size:11.5px;color:#0ea5e9">萃取中...</span>`;
-      } else if (it.status === 'error') {
-        icon = '❌';
-        statusColor = '#ef4444';
-        downloadLink = `<span style="font-size:11px;color:#ef4444">${escapeHTML(it.error || '失敗')}</span>`;
-      }
-
-      return `
-        <div style="display:flex;align-items:center;justify-content:space-between;padding:6px 10px;background:rgba(0,0,0,0.02);border:1px solid var(--line,rgba(0,0,0,0.06));border-radius:8px;font-size:12px;margin-bottom:4px">
-          <div style="display:flex;align-items:center;gap:6px;overflow:hidden">
-            <span>${icon}</span>
-            <span style="overflow:hidden;text-overflow:ellipsis;white-space:nowrap;color:${statusColor}">${escapeHTML(it.title || '')}</span>
-          </div>
-          <div>${downloadLink}</div>
-        </div>
-      `;
-    }).join('');
-  }
-
-  if (allActions) {
-    allActions.style.display = (data.status === 'completed') ? 'flex' : 'none';
-  }
-}
-
-function cancelBatchDownload() {
-  if (activeDownloadTaskId) {
-    fetch(`/api/cancel-download?taskId=${activeDownloadTaskId}`).catch(()=>{});
-  }
-  if (downloadPollTimer) clearTimeout(downloadPollTimer);
-  const statusText = document.getElementById('dlProgressStatusText');
-  if (statusText) statusText.textContent = '任務已取消';
-  const btn = document.getElementById('btnStartBatchDownload');
-  const btnText = document.getElementById('btnStartDlText');
-  if (btn) btn.disabled = false;
-  if (btnText) btnText.textContent = '開始批次下載';
-  toast('已取消下載任務');
-}
-
-function triggerAllDownloads() {
-  const container = document.getElementById('dlQueueList');
-  if (!container) return;
-  const links = container.querySelectorAll('a[download]');
-  links.forEach((a, i) => {
-    setTimeout(() => {
-      a.click();
-    }, i * 350);
-  });
-  toast(`已觸發 ${links.length} 個檔案下載！`);
-}
-
-// Global window exposure for inline onclick handlers
-window.openBatchDownloadModal = openBatchDownloadModal;
-window.closeBatchDownloadModal = closeBatchDownloadModal;
-window.openBatchDownloadSingle = openBatchDownloadSingle;
-window.switchDownloadTab = switchDownloadTab;
-window.setDownloadFormat = setDownloadFormat;
-window.filterDownloadLibraryList = filterDownloadLibraryList;
-window.toggleDownloadItem = toggleDownloadItem;
-window.toggleDownloadSelectAll = toggleDownloadSelectAll;
-window.updateDownloadUrlsCount = updateDownloadUrlsCount;
-window.startBatchDownload = startBatchDownload;
-window.cancelBatchDownload = cancelBatchDownload;
-window.triggerAllDownloads = triggerAllDownloads;
-
-window.renderCustomChannelBar = renderCustomChannelBar;
-window.selectCustomChannel = selectCustomChannel;
-window.openManageCustomChannelsModal = openManageCustomChannelsModal;
-window.openCreateCustomChannelModal = openCreateCustomChannelModal;
-window.closeManageCustomChannelsModal = closeManageCustomChannelsModal;
-window.setNewChannelEmoji = setNewChannelEmoji;
-window.submitCreateCustomChannel = submitCreateCustomChannel;
-window.deleteCustomChannel = deleteCustomChannel;
-window.openMoveVideoChannelModal = openMoveVideoChannelModal;
-window.closeMoveVideoChannelModal = closeMoveVideoChannelModal;
-window.confirmMoveVideoChannel = confirmMoveVideoChannel;
-
-// Ensure initialization
-window.addEventListener('DOMContentLoaded', () => {
-  populateCustomChannelSelects();
-  renderCustomChannelBar();
-});
-setTimeout(() => {
-  populateCustomChannelSelects();
-  renderCustomChannelBar();
-}, 100);
 
 </script></body></html>

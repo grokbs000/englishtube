@@ -116,9 +116,9 @@ def run_batch_download_worker(task_id, video_ids, fmt, quality):
         if fmt == 'mp3':
             cmd.extend(['-x', '--audio-format', 'mp3', '--audio-quality', '0', '-o', out_template, url])
         elif fmt in ('sub', 'vtt'):
-            cmd.extend(['--skip-download', '--write-auto-subs', '--write-subs', '--sub-langs', 'en.*,zh.*', '--convert-subs', 'vtt', '-o', out_template, url])
+            cmd.extend(['--skip-download', '--write-auto-subs', '--write-subs', '--sub-langs', 'en.*,en,en-US,en-orig,en-GB,en-CA,en-AU,zh.*', '--convert-subs', 'vtt', '-o', out_template, url])
         elif fmt == 'srt':
-            cmd.extend(['--skip-download', '--write-auto-subs', '--write-subs', '--sub-langs', 'en.*,zh.*', '--convert-subs', 'srt', '-o', out_template, url])
+            cmd.extend(['--skip-download', '--write-auto-subs', '--write-subs', '--sub-langs', 'en.*,en,en-US,en-orig,en-GB,en-CA,en-AU,zh.*', '--convert-subs', 'srt', '-o', out_template, url])
         else: # mp4
             if quality == '1080p':
                 format_spec = 'bestvideo[height<=1080]+bestaudio/best[height<=1080]/best'
@@ -188,6 +188,8 @@ class Handler(SimpleHTTPRequestHandler):
     def log_message(self,fmt,*args): print('[web]',fmt%args)
     def send_json(self,code,obj):
         data=json.dumps(obj,ensure_ascii=False).encode();self.send_response(code);self.send_header('Content-Type','application/json; charset=utf-8');self.send_header('Content-Length',str(len(data)));self.send_header('Cache-Control','no-store');self.end_headers();self.wfile.write(data)
+    def do_HEAD(self):
+        self.do_GET()
     def do_GET(self):
         parsed = urllib.parse.urlparse(self.path)
         if parsed.path == '/api/dict':
@@ -555,7 +557,7 @@ class Handler(SimpleHTTPRequestHandler):
         cues = []
         with tempfile.TemporaryDirectory(prefix='englishtube-') as td:
             # 1. First attempt: download official/auto VTT/JSON3 subtitles via yt-dlp in a single fast pass
-            cmd=[str(ytdlp),'--no-warnings','--skip-download','--write-auto-subs','--write-subs','--sub-langs','en.*,en,en-US,en-orig','--sub-format','vtt/json3/best','-o',str(Path(td)/'%(id)s.%(ext)s'),url]
+            cmd=[str(ytdlp),'--no-warnings','--skip-download','--write-auto-subs','--write-subs','--sub-langs','en.*,en,en-US,en-orig,en-GB,en-CA,en-AU','--sub-format','vtt/json3/best','-o',str(Path(td)/'%(id)s.%(ext)s'),url]
             p=subprocess.run(cmd,capture_output=True,text=True,timeout=15)
             files=list(Path(td).glob('*.vtt'))+list(Path(td).glob('*.json3'))
             
