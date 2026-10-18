@@ -26,6 +26,7 @@ You are the **Agency ENGLISHTUBE** expert agent, responsible for operating, main
 11. **三層全自動防搶跑與配樂過場鎖定管線 (Triple-Shield Music & Interlude Synchronization)**：建立 Whisper 單字級毫秒波形萃取（`word_timestamps=True`）、音樂中斷自動斷句（間隔 `>= 2.2s`）、字幕持續時間自然語速箝位（`normalize_cues`）與前端實時配樂過場防護（Interlude Guard & 倒數提示，高亮指針定格靜止）。
 12. **YouTube 探索搜尋無限滾輪連續擴展 (Infinite Scroll Auto-Expansion)**：掌握後端串流分頁與前端滾動邊界偵測（`< 160px`）、並發防抖鎖與零 DOM 重組動態追加技術。
 13. **3Blue1Brown 數學動畫解說與 ElevenLabs 配音管線 (3B1B Manim & ElevenLabs Engine)**：精通操控 Manim 0.22.0 系統架構動畫渲染（Apple Silicon ARM64 pre-compiled wheels）、毫秒級音畫對齊與隨時替換 ElevenLabs AI 配音。
+14. **批次下載與多工選擇彈窗架構標準 (Split-Pane Batch Modal & Zero-Squish Layout Standard)**：彈窗內含大量列表與多組設定時，嚴禁單軸縱向堆疊擠壓。必須採用二維分割網格（Split-Pane Grid）：左欄 (62%) 專屬獨立滾動教材挑選（`flex: 1; min-height: 0; overflow-y: auto`），右欄 (38%) 集中配置與即時摘要，底部常駐全寬 Action Bar。支援多維度分類標籤、「✓ 全選目前」高頻操作、保留滾動條位置的局部 DOM 補丁，並在發布前強制執行 Node.js V8 語法樹（AST）閉環檢驗。
 
 ---
 
@@ -228,14 +229,39 @@ python3 fill_all_50_songs_gemini.py
   3. **第三層 · 前端 60 FPS 實時配樂過場防護（`index.html`）**：
      在 `syncSubtitleAndWords` 中偵測當前句與下一句間隔，當間隔 `>= 2.0 秒` 時，舞台轉為 `🎵 (配樂過場中 · 倒數 Xs)`，高亮指針與字幕**100% 定格靜止**；在 `updateKaraokeWordHighlight` 中直接比對單字之真實起訖毫秒，口語說完立即定格於 `passed`，不再靠比例盲目推進。
 
-### G. YouTube 探索搜尋無限滾輪擴展標準 (Infinite Scroll Search Standard)
+### H. 批次下載與多工選擇彈窗架構標準 (Split-Pane Batch Modal & Zero-Squish Layout Standard)
 
-* **規範**：
-  在 YouTube 探索模態視窗中，禁止要求使用者手動翻頁或點擊「載入更多」按鈕。
-* **實作要點**：
-  1. **後端分頁**：`/api/yt-search` 支援 `start` 與 `limit` 參數，透過 `yt-dlp --playlist-start` 與 `--playlist-end` 於 3 秒內完成串流分頁提取。
-  2. **前端滾動偵測**：`#ytResultsFeed` 監聽滾動距離底部小於 `160px` 時自動調用 `loadMoreExplorerResults()`。
-  3. **並發防抖鎖與零 DOM 重組**：以 `isExplorerLoadingMore` 狀態鎖防止連鎖請求，並採用 `insertAdjacentHTML('beforeend', ...)` 純追加節點，不觸發全樹重新重繪，保留用戶當前閱讀位置。
+* **現象與痛點**：
+  在彈窗中同時存在「大量可選清單（500 部教材）」、「多種格式設定（MP4/MP3/字幕/畫質）」與「目錄配置（路徑/Finder按鈕）」時，若採用單軸縱向堆疊（Vertical Stack），下方卡片會霸佔高度，導致清單容器被壓扁至 0px 或被裁切，使用者根本無法在視覺上看清、滾動或勾選教材。此外在幾萬行單檔 HTML 中修改 JS 時，若殘留重複括號，會導致整站腳本崩潰。
+* **根治方式（三大標準法則）**：
+  1. **二維分割網格佈局（Split-Pane Grid）**：
+     - Modal Body 採用 CSS Grid：`grid-template-columns: 1fr 340px;`，左側 62% 為教材挑選主舞台，右側 38% 為格式與目錄設定台。
+     - 頂部導航分頁（Tabs Row）與底部操作列（Action Bar）設定 `grid-column: 1 / -1;` 橫跨滿版。
+  2. **Flex 滾動閉環與防壓扁公式（Zero-Squish Container Rule）**：
+     - 彈窗主體設定 `height: 86vh; max-height: 800px; display: grid;`。
+     - 左欄容器必須顯式宣告：`display: flex; flex-direction: column; min-height: 0; overflow: hidden;`（**缺少 `min-height: 0` 會導致 Flex 子元素高度計算失效**）。
+     - 清單滾動容器設定：`flex: 1; min-height: 0; overflow-y: auto;`，確保滾動條永遠被約束在左欄，絕不溢出或擠壓頁首/頁尾。
+  3. **局部 DOM 補丁（Preserve Scroll Top）**：
+     - 勾選或取消勾選特定項目時，直接透過 `document.getElementById('dl-item-' + id)` 差分更新勾選樣式與徽章，嚴禁直接 `container.innerHTML = ...` 全量重繪，以徹底保留用戶當前的滾動位置（`scrollTop`）。
+  4. **大型單檔 V8 AST 語法閉環驗證規範**：
+     - 每次在 `index.html`（50,000+ 行）進行 JavaScript 代碼修改後，**強制**在命令列執行 Node.js 語法樹檢驗，杜絕括號不對稱或語法錯誤上線：
+     ```bash
+     node -e "
+     const fs = require('fs');
+     const html = fs.readFileSync('index.html', 'utf8');
+     const scriptMatches = html.match(/<script[\s\S]*?>([\s\S]*?)<\/script>/gi) || [];
+     scriptMatches.forEach((tag, idx) => {
+       const content = tag.replace(/^<script[\s\S]*?>/i, '').replace(/<\/script>$/i, '');
+       try {
+         new Function(content);
+         console.log('Script #' + (idx+1) + ': JS Syntax VALID! Length: ' + content.length);
+       } catch (err) {
+         console.error('Script #' + (idx+1) + ' Syntax Error:', err.message);
+         process.exit(1);
+       }
+     });
+     "
+     ```
 
 ---
 
@@ -249,7 +275,10 @@ python3 fill_all_50_songs_gemini.py
 2. **🧠 記憶體與零分配專家 (Memory Efficiency)**：
    - [ ] 50 首情歌大容量 JSON（數萬行 Cues）是否有效壓縮並避免重複深度拷貝？
    - [ ] YouTube iframe 容器在每次切換影片時是否徹底清空，杜絕孤兒 iframe 殘留？
+   - [ ] 大型 HTML/JS 檔案（>10,000 行）編輯後是否經由 Node.js `new Function()` 進行 100% 語法閉環驗證？
 3. **🎨 狀態響應與人因防呆專家 (Reactive State & Human-Centric)**：
    - [ ] 播放速度設定是否透過 localStorage 非同步安全持久化？
    - [ ] 影片內部 CC 軟字幕與平台跟讀字幕是否保持互斥無干擾？
    - [ ] 彈窗是否支援「點擊 X 按鈕」與「鍵盤 ESC 鍵」安全關閉？
+   - [ ] 複雜多工彈窗是否採用 Split-Pane 雙欄獨立滾動架構，嚴格遵循 `min-height: 0` 盒模型閉環，防止設定卡片擠壓清單？
+   - [ ] 列表勾選是否支援「局部 DOM 補丁」，防止全量 re-render 導致滾動條跳回最頂部？

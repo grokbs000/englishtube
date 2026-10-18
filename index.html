@@ -1070,9 +1070,10 @@ html[data-theme='dark'] .seg-btn.active {
 }
 
 /* ══════════ 批次下載中心 (Batch Download Center Modal) ══════════ */
+/* ─── Batch Download Modal ─────────────────────── */
 .batch-download-box {
-  width: min(840px, 95vw);
-  max-height: 90vh;
+  width: min(960px, 96vw);
+  height: min(90vh, 760px);
   background: #ffffff;
   border: 1px solid var(--line, #cbd5e1);
   border-radius: 24px;
@@ -1084,19 +1085,29 @@ html[data-theme='dark'] .seg-btn.active {
   animation: makerPop .25s cubic-bezier(.2,.8,.25,1);
 }
 .batch-download-head {
+  flex-shrink: 0;
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 20px 24px;
+  padding: 16px 24px;
   border-bottom: 1px solid var(--line, #e2e8f0);
   background: linear-gradient(90deg, rgba(14,165,233,0.06), rgba(109,93,252,0.06));
 }
+/* Body splits into left (list) + right (config) */
 .batch-download-body {
-  padding: 20px 24px;
-  overflow-y: auto;
-  display: flex;
-  flex-direction: column;
-  gap: 16px;
+  flex: 1;
+  min-height: 0;
+  display: grid;
+  grid-template-columns: 1fr 300px;
+  grid-template-rows: auto 1fr auto;
+  overflow: hidden;
+}
+/* Tabs row — spans full width */
+.batch-tabs-row {
+  grid-column: 1 / -1;
+  padding: 14px 20px 10px;
+  border-bottom: 1px solid var(--line, #e2e8f0);
+  background: rgba(0,0,0,0.01);
 }
 .batch-tabs {
   display: flex;
@@ -1126,25 +1137,119 @@ html[data-theme='dark'] .seg-btn.active {
   color: #0284c7;
   box-shadow: 0 2px 8px rgba(0,0,0,0.08);
 }
+/* Left column: scrollable list */
+.batch-left-col {
+  grid-column: 1;
+  grid-row: 2;
+  display: flex;
+  flex-direction: column;
+  min-height: 0;
+  border-right: 1px solid var(--line, #e2e8f0);
+  overflow: hidden;
+}
+.batch-library-toolbar {
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  padding: 10px 14px;
+  background: rgba(0,0,0,0.02);
+  border-bottom: 1px solid var(--line, #e2e8f0);
+  gap: 8px;
+}
+.batch-filter-row {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  overflow-x: auto;
+  padding-bottom: 2px;
+  width: 100%;
+}
+.batch-action-search-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  width: 100%;
+  flex-wrap: wrap;
+}
+.batch-filter-pill {
+  padding: 4px 10px;
+  font-size: 11.5px;
+  font-weight: 700;
+  border-radius: 20px;
+  border: 1px solid var(--line, #cbd5e1);
+  background: transparent;
+  color: var(--muted, #64748b);
+  cursor: pointer;
+  white-space: nowrap;
+  transition: all .15s ease;
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+}
+.batch-filter-pill:hover {
+  background: rgba(14,165,233,0.06);
+  color: #0284c7;
+}
+.batch-filter-pill.active {
+  background: #0ea5e9;
+  color: #fff;
+  border-color: #0ea5e9;
+  box-shadow: 0 2px 6px rgba(14,165,233,0.3);
+}
+.batch-library-list {
+  flex: 1;
+  min-height: 0;
+  overflow-y: auto;
+  padding: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+/* Right column: config (format + dir) */
+.batch-right-col {
+  grid-column: 2;
+  grid-row: 2;
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+  overflow-y: auto;
+  padding: 14px;
+  background: rgba(14,165,233,0.02);
+}
+/* Bottom action bar — spans full width */
+.batch-action-bar {
+  grid-column: 1 / -1;
+  grid-row: 3;
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 12px 20px;
+  border-top: 1px solid var(--line, #e2e8f0);
+  background: rgba(0,0,0,0.02);
+}
+/* ─── Format cards (right panel) */
 .batch-format-card {
   background: rgba(14,165,233,0.04);
   border: 1px solid rgba(14,165,233,0.2);
-  border-radius: 14px;
-  padding: 14px 18px;
+  border-radius: 12px;
+  padding: 12px 14px;
+  margin-bottom: 10px;
 }
 .batch-format-options {
   display: flex;
-  flex-wrap: wrap;
-  gap: 10px;
+  flex-direction: column;
+  gap: 6px;
   margin-top: 8px;
 }
 .batch-format-pill {
-  display: inline-flex;
+  display: flex;
   align-items: center;
   gap: 6px;
-  padding: 8px 14px;
-  border: 1px solid var(--line, #cbd5e1);
-  border-radius: 12px;
+  padding: 9px 12px;
+  border: 1.5px solid var(--line, #cbd5e1);
+  border-radius: 10px;
   background: #fff;
   cursor: pointer;
   font-size: 12.5px;
@@ -1154,31 +1259,13 @@ html[data-theme='dark'] .seg-btn.active {
 }
 .batch-format-pill.active {
   border-color: #0ea5e9;
-  background: #0ea5e9;
+  background: linear-gradient(135deg, #0ea5e9, #0284c7);
   color: #fff;
   box-shadow: 0 3px 10px rgba(14,165,233,0.3);
 }
+/* legacy - keep for compatibility */
 .batch-library-wrap {
-  border: 1px solid var(--line, #cbd5e1);
-  border-radius: 14px;
-  overflow: hidden;
-}
-.batch-library-toolbar {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  padding: 10px 14px;
-  background: rgba(0,0,0,0.02);
-  border-bottom: 1px solid var(--line, #e2e8f0);
-  gap: 10px;
-}
-.batch-library-list {
-  max-height: 240px;
-  overflow-y: auto;
-  padding: 6px;
-  display: flex;
-  flex-direction: column;
-  gap: 4px;
+  display: contents;
 }
 .batch-item-row {
   display: flex;
@@ -1279,7 +1366,33 @@ html[data-theme='dark'] .batch-library-wrap {
 }
 html[data-theme='dark'] .batch-library-toolbar {
   background: rgba(255,255,255,0.03);
+  border-color: #1f2937;
+}
+html[data-theme='dark'] .batch-left-col {
+  border-color: #1f2937;
+}
+html[data-theme='dark'] .batch-right-col {
+  background: rgba(14,165,233,0.03);
+}
+html[data-theme='dark'] .batch-action-bar {
+  border-color: #1f2937;
+  background: rgba(255,255,255,0.02);
+}
+html[data-theme='dark'] .batch-tabs-row {
+  border-color: #1f2937;
+}
+html[data-theme='dark'] .batch-filter-pill {
   border-color: #374151;
+  color: #94a3b8;
+}
+html[data-theme='dark'] .batch-filter-pill:hover {
+  background: rgba(14,165,233,0.15);
+  color: #38bdf8;
+}
+html[data-theme='dark'] .batch-filter-pill.active {
+  background: #0ea5e9;
+  color: #fff;
+  border-color: #0ea5e9;
 }
 html[data-theme='dark'] .batch-queue-item {
   background: #1f2937;
@@ -3058,134 +3171,150 @@ html[data-theme='dark'] .yt-card-author,
       <button class="vt-close-btn" onclick="closeBatchDownloadModal()" title="關閉">×</button>
     </div>
     <div class="batch-download-body">
-      <!-- Tabs -->
-      <div class="batch-tabs">
-        <button class="batch-tab-btn active" id="tabDlLibrary" onclick="switchDownloadTab('library')">🌟 從我的教材與自選勾選 (<span id="dlLibraryCount">0</span>)</button>
-        <button class="batch-tab-btn" id="tabDlUrls" onclick="switchDownloadTab('urls')">📋 批量貼上 YouTube 網址</button>
+
+      <!-- ① Tabs row — spans both columns -->
+      <div class="batch-tabs-row">
+        <div class="batch-tabs">
+          <button class="batch-tab-btn active" id="tabDlLibrary" onclick="switchDownloadTab('library')">🌟 從我的教材與自選勾選 (<span id="dlLibraryCount">0</span>)</button>
+          <button class="batch-tab-btn" id="tabDlUrls" onclick="switchDownloadTab('urls')">📋 批量貼上 YouTube 網址</button>
+        </div>
       </div>
 
-      <!-- Tab 1: Library List -->
-      <div id="dlPaneLibrary" class="batch-library-wrap">
-        <!-- Selected Items Preview Chips Drawer -->
-        <div id="dlSelectedChipsWrap" style="display:none;margin-bottom:10px;padding:8px 12px;background:rgba(14,165,233,0.06);border:1px solid rgba(14,165,233,0.25);border-radius:12px">
-          <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:6px">
-            <span style="font-size:12px;font-weight:800;color:#0284c7">📌 目前已挑選要下載的影片 (<b id="dlChipsCount">0</b> 部)：</span>
-            <button class="ghost" onclick="clearSelectedDownloadIds()" style="padding:1px 6px;font-size:11px;color:#ef4444">清空已選</button>
+      <!-- ② Left column — scrollable selection list -->
+      <div class="batch-left-col">
+        <!-- Tab 1: Library -->
+        <div id="dlPaneLibrary" style="display:flex;flex-direction:column;flex:1;min-height:0;overflow:hidden">
+          <!-- Chips drawer (shown when items selected) -->
+          <div id="dlSelectedChipsWrap" style="display:none;flex-shrink:0;padding:8px 12px;background:rgba(14,165,233,0.06);border-bottom:1px solid rgba(14,165,233,0.2)">
+            <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:5px">
+              <span style="font-size:11.5px;font-weight:800;color:#0284c7">📌 已挑選 <b id="dlChipsCount">0</b> 部：</span>
+              <button class="ghost" onclick="clearSelectedDownloadIds()" style="padding:1px 6px;font-size:11px;color:#ef4444">清空</button>
+            </div>
+            <div id="dlSelectedChipsList" style="display:flex;flex-wrap:wrap;gap:5px"></div>
           </div>
-          <div id="dlSelectedChipsList" style="display:flex;flex-wrap:wrap;gap:6px"></div>
+          <!-- Toolbar: filter + search -->
+          <div class="batch-library-toolbar">
+            <!-- Row 1: Category filters -->
+            <div class="batch-filter-row">
+              <button class="batch-filter-pill active" id="btnDlFilterAll" onclick="setDlLibraryFilter('all')">🌟 全部 (<span id="dlTotalCount">0</span>)</button>
+              <button class="batch-filter-pill" id="btnDlFilterVideo" onclick="setDlLibraryFilter('video')">🎬 影片 (<span id="dlVideoCount">0</span>)</button>
+              <button class="batch-filter-pill" id="btnDlFilterSong" onclick="setDlLibraryFilter('song')">🎵 歌曲 (<span id="dlSongCount">0</span>)</button>
+              <button class="batch-filter-pill" id="btnDlFilterCustom" onclick="setDlLibraryFilter('custom')">✨ 自選 (<span id="dlCustomCount">0</span>)</button>
+              <button class="batch-filter-pill" id="btnDlFilterSelected" onclick="setDlLibraryFilter('selected')">✅ 已勾選 (<b id="dlSelectedCount">0</b>)</button>
+            </div>
+            <!-- Row 2: Select all action + Search input -->
+            <div class="batch-action-search-row">
+              <div style="display:flex;gap:6px;align-items:center">
+                <button class="ghost" id="btnDlSelectCurrent" onclick="toggleDownloadSelectCurrent()" style="padding:4px 10px;font-size:12px;font-weight:750;color:#0284c7;border-color:rgba(14,165,233,0.35);background:rgba(14,165,233,0.06)">✓ 全選目前 (<span id="dlFilteredCount">0</span>)</button>
+                <button class="ghost" onclick="toggleDownloadSelectAll(false)" style="padding:4px 8px;font-size:11.5px;color:var(--muted)" title="清空全部已勾選項目">✕ 清空</button>
+              </div>
+              <div style="position:relative;flex:1;max-width:260px;min-width:140px">
+                <input type="text" id="dlSearchInput" placeholder="🔍 搜尋教材名稱、頻道或 ID..." oninput="filterDownloadLibraryList()" style="width:100%;box-sizing:border-box;padding:6px 26px 6px 10px;border-radius:8px;border:1.5px solid #cbd5e1;font-size:12px;background:#e5e7eb;color:#0f172a;outline:none" />
+                <button type="button" onclick="document.getElementById('dlSearchInput').value='';filterDownloadLibraryList();" style="position:absolute;right:6px;top:50%;transform:translateY(-50%);background:none;border:none;color:#94a3b8;cursor:pointer;font-size:12px;padding:2px 4px" title="清空搜尋">✕</button>
+              </div>
+            </div>
+          </div>
+          <!-- Scrollable list -->
+          <div class="batch-library-list" id="dlLibraryList"></div>
         </div>
 
-        <div class="batch-library-toolbar" style="display:flex;flex-wrap:wrap;gap:8px;justify-content:space-between;align-items:center;margin-bottom:8px">
-          <div style="display:flex;align-items:center;gap:6px;flex-wrap:wrap">
-            <button class="pill" id="btnDlFilterAll" onclick="setDlLibraryFilter('all')" style="padding:4px 10px;font-size:12px;background:#0ea5e9">全部 (<span id="dlTotalCount">500</span>)</button>
-            <button class="ghost" id="btnDlFilterSelected" onclick="setDlLibraryFilter('selected')" style="padding:4px 10px;font-size:12px;display:inline-flex;align-items:center;gap:4px">🌟 只看已勾選 (<b id="dlSelectedCount" style="color:#0ea5e9">0</b>)</button>
-            <button class="ghost" onclick="toggleDownloadSelectAll(false)" style="padding:4px 8px;font-size:11.5px;color:var(--muted)">✕ 清空</button>
-          </div>
-          <div style="display:flex;align-items:center;gap:6px;flex:1;max-width:280px;min-width:180px">
-            <input type="text" id="dlSearchInput" placeholder="搜尋教材名稱或 ID..." oninput="filterDownloadLibraryList()" style="width:100%;padding:6px 10px;border-radius:8px;border:1.5px solid #cbd5e1;font-size:12px;background:#e5e7eb;color:#0f172a;outline:none" />
-          </div>
+        <!-- Tab 2: Batch URL paste -->
+        <div id="dlPaneUrls" style="display:none;padding:16px;flex:1">
+          <label style="display:block;font-size:12px;font-weight:700;margin-bottom:6px">每行貼上一個 YouTube 影片網址或 ID：</label>
+          <textarea id="dlUrlsInput" rows="8" placeholder="https://www.youtube.com/watch?v=...&#10;https://youtu.be/...&#10;https://www.youtube.com/watch?v=..." oninput="updateDownloadUrlsCount()" style="width:100%;box-sizing:border-box;padding:10px 12px;border-radius:10px;border:1px solid var(--line,#cbd5e1);background:rgba(0,0,0,0.04);color:inherit;font-size:12.5px;resize:none;font-family:monospace"></textarea>
+          <div style="font-size:12px;color:var(--muted);margin-top:4px">已偵測到 <b id="dlUrlsDetectedCount" style="color:#0ea5e9">0</b> 個有效連結</div>
         </div>
-        <div class="batch-library-list" id="dlLibraryList"></div>
       </div>
 
-      <!-- Tab 2: Batch URLs -->
-      <div id="dlPaneUrls" style="display:none">
-        <label style="display:block;font-size:12px;font-weight:700;margin-bottom:6px">每行貼上一個 YouTube 影片網址或 ID：</label>
-        <textarea id="dlUrlsInput" rows="5" placeholder="https://www.youtube.com/watch?v=...&#10;https://youtu.be/...&#10;https://www.youtube.com/watch?v=..." oninput="updateDownloadUrlsCount()" style="width:100%;box-sizing:border-box;padding:10px 12px;border-radius:10px;border:1px solid var(--line,#cbd5e1);background:rgba(0,0,0,0.04);color:inherit;font-size:12.5px;resize:vertical;font-family:monospace"></textarea>
-        <div style="font-size:12px;color:var(--muted);margin-top:4px">已偵測到 <b id="dlUrlsDetectedCount" style="color:#0ea5e9">0</b> 個有效連結</div>
-      </div>
+      <!-- ③ Right column — format + save dir config -->
+      <div class="batch-right-col">
+        <!-- Selected summary card -->
+        <div class="batch-format-card" style="background:rgba(14,165,233,0.08);border-color:rgba(14,165,233,0.3)">
+          <div style="display:flex;align-items:center;justify-content:space-between">
+            <span style="font-size:12px;font-weight:800;color:#0284c7">📊 下載清單摘要</span>
+            <span style="font-size:10.5px;color:#10b981;font-weight:700">✓ 本機入庫免重抓</span>
+          </div>
+          <div style="margin-top:6px;font-size:13px;font-weight:800;color:var(--ink,#1e293b)">
+            已選取 <span id="dlRightSummaryCount" style="color:#0ea5e9;font-size:17px;font-weight:900">0</span> 部教材
+          </div>
+          <div id="dlRightSummaryHint" style="font-size:11px;color:var(--muted,#64748b);margin-top:2px">請在左側點擊勾選要下載的影片或歌曲</div>
+        </div>
 
-      <!-- Format & Quality Options -->
-      <div class="batch-format-card">
-        <div style="display:flex;align-items:center;justify-content:space-between">
-          <label style="font-size:12.5px;font-weight:800">下載格式與品質：</label>
-          <div style="display:flex;align-items:center;gap:6px">
-            <span style="font-size:11.5px;color:var(--muted)">畫質：</span>
-            <select id="dlQualitySelect" class="vt-select-dropdown" style="padding:4px 8px;border-radius:6px;border:1px solid var(--line,#cbd5e1);background:rgba(0,0,0,0.04);color:inherit;font-size:11.5px;outline:none">
+        <!-- Format & Quality -->
+        <div class="batch-format-card">
+          <label style="font-size:12px;font-weight:800;display:block;margin-bottom:6px">🎛️ 下載格式</label>
+          <div class="batch-format-options">
+            <div class="batch-format-pill active" id="btnFmtMp4" onclick="setDownloadFormat('mp4')">
+              <span>🎬</span><div><b style="font-size:12px">MP4 影片</b><br><small style="opacity:0.7;font-size:10.5px">高畫質視訊+音訊</small></div>
+            </div>
+            <div class="batch-format-pill" id="btnFmtMp3" onclick="setDownloadFormat('mp3')">
+              <span>🎧</span><div><b style="font-size:12px">MP3 音訊</b><br><small style="opacity:0.7;font-size:10.5px">適合通勤跟讀聽力</small></div>
+            </div>
+            <div class="batch-format-pill" id="btnFmtSub" onclick="setDownloadFormat('sub')">
+              <span>📝</span><div><b style="font-size:12px">雙語字幕 VTT</b><br><small style="opacity:0.7;font-size:10.5px">英中逐字字幕檔</small></div>
+            </div>
+          </div>
+          <div style="display:flex;align-items:center;gap:6px;margin-top:10px">
+            <span style="font-size:11px;color:var(--muted)">畫質：</span>
+            <select id="dlQualitySelect" class="vt-select-dropdown" style="flex:1;padding:4px 8px;border-radius:6px;border:1px solid var(--line,#cbd5e1);background:rgba(0,0,0,0.04);color:inherit;font-size:11px;outline:none">
               <option value="1080p">最佳畫質 (最高 1080p)</option>
               <option value="720p">標準高畫質 (720p)</option>
               <option value="best">最高可用畫質</option>
             </select>
           </div>
         </div>
-        <div class="batch-format-options">
-          <div class="batch-format-pill active" id="btnFmtMp4" onclick="setDownloadFormat('mp4')">
-            <span>🎬</span><b>MP4 影片</b><small>(高畫質視訊+音訊)</small>
+
+        <!-- Save Directory -->
+        <div class="batch-format-card">
+          <div style="display:flex;align-items:center;gap:5px;margin-bottom:8px">
+            <span>📁</span>
+            <label style="font-size:12px;font-weight:800">儲存位置</label>
           </div>
-          <div class="batch-format-pill" id="btnFmtMp3" onclick="setDownloadFormat('mp3')">
-            <span>🎧</span><b>MP3 高音質音訊</b><small>(適合通勤跟讀聽力)</small>
+          <input type="text" id="dlCustomDirInput" placeholder="/Users/.../Downloads" style="width:100%;box-sizing:border-box;padding:7px 10px;border-radius:8px;border:1.5px solid #cbd5e1;background:#e5e7eb;color:#0f172a;font-size:11.5px;font-family:monospace;outline:none;margin-bottom:8px" oninput="saveCustomDownloadDir(this.value)" />
+          <div style="display:flex;flex-direction:column;gap:5px">
+            <button class="ghost" type="button" onclick="setPresetDownloadDir('default')" style="padding:6px 10px;font-size:11.5px;text-align:left;justify-content:flex-start">📥 系統下載匣 ~/Downloads</button>
+            <button class="ghost" type="button" onclick="setPresetDownloadDir('desktop')" style="padding:6px 10px;font-size:11.5px;text-align:left;justify-content:flex-start">🖥️ 桌面 ~/Desktop</button>
+            <button class="ghost" type="button" onclick="setPresetDownloadDir('project')" style="padding:6px 10px;font-size:11.5px;text-align:left;justify-content:flex-start">📁 專案 downloads 目錄</button>
           </div>
-          <div class="batch-format-pill" id="btnFmtSub" onclick="setDownloadFormat('sub')">
-            <span>📝</span><b>雙語字幕 (VTT)</b><small>(英中逐字字幕檔)</small>
-          </div>
-        </div>
-      <!-- Direct Save Directory Configuration Card -->
-      <div class="batch-format-card" style="margin-top:12px">
-        <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:8px;flex-wrap:wrap;gap:6px">
-          <div style="display:flex;align-items:center;gap:6px">
-            <span style="font-size:16px">📁</span>
-            <label style="font-size:12.5px;font-weight:800">直接儲存位置：</label>
-            <span style="font-size:11.5px;color:#10b981;font-weight:700">✓ 下載完成直接入庫，無需透過瀏覽器再次下載</span>
-          </div>
-          <button class="ghost" type="button" onclick="openCurrentDownloadFolder()" style="padding:4px 10px;font-size:12px;display:inline-flex;align-items:center;gap:4px" title="在 Finder 中打開此資料夾">
-            <span>📂</span>在 Finder 中開啟
+          <button class="ghost" type="button" onclick="openCurrentDownloadFolder()" style="margin-top:8px;width:100%;padding:6px;font-size:11.5px;display:inline-flex;align-items:center;justify-content:center;gap:5px;color:#0284c7">
+            📂 在 Finder 中開啟
           </button>
         </div>
-        <div style="display:flex;gap:8px;align-items:center">
-          <input type="text" id="dlCustomDirInput" placeholder="請輸入本機儲存資料夾路徑（例：/Users/.../Downloads）" style="flex:1;padding:8px 12px;border-radius:8px;border:1.5px solid #cbd5e1;background:#e5e7eb;color:#0f172a;font-size:12.5px;font-family:monospace;outline:none" oninput="saveCustomDownloadDir(this.value)" />
-          <button class="ghost" type="button" onclick="resetDownloadDirToDefault()" style="padding:8px 12px;font-size:12px;white-space:nowrap" title="重設為系統預設 Downloads">
-            預設下載匣
-          </button>
-        </div>
-        <div style="display:flex;gap:6px;margin-top:8px;align-items:center;flex-wrap:wrap">
-          <span style="font-size:11px;color:var(--muted)">快速選取：</span>
-          <button class="ghost" type="button" onclick="setPresetDownloadDir('default')" style="padding:3px 8px;font-size:11.5px;border-radius:6px">📥 系統下載匣 (~/Downloads)</button>
-          <button class="ghost" type="button" onclick="setPresetDownloadDir('desktop')" style="padding:3px 8px;font-size:11.5px;border-radius:6px">🖥️ 桌面 (~/Desktop)</button>
-          <button class="ghost" type="button" onclick="setPresetDownloadDir('project')" style="padding:3px 8px;font-size:11.5px;border-radius:6px">📁 專案 downloads 目錄</button>
+
+        <!-- Progress box (shown while downloading) -->
+        <div id="dlProgressBox" class="batch-progress-box" style="display:none">
+          <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:6px">
+            <span style="font-size:12px;font-weight:800" id="dlProgressStatusText">處理中...</span>
+            <div style="display:flex;gap:6px;align-items:center">
+              <span style="font-size:12px;color:#0ea5e9;font-weight:700" id="dlProgressPercent">0%</span>
+              <button class="ghost" id="btnCancelDownload" onclick="cancelBatchDownload()" style="padding:2px 6px;font-size:10.5px;color:#ef4444;border-color:rgba(239,68,68,0.3)">✕ 取消</button>
+            </div>
+          </div>
+          <div class="batch-progress-bar-bg">
+            <div class="batch-progress-bar-fill" id="dlProgressBarFill"></div>
+          </div>
+          <div class="batch-queue-list" id="dlQueueList"></div>
+          <div id="dlAllActions" style="display:none;margin-top:10px;background:rgba(16,185,129,0.08);border:1px solid rgba(16,185,129,0.25);border-radius:10px;padding:10px 12px">
+            <div style="font-size:12px;font-weight:800;color:#059669">🎉 下載完成！</div>
+            <div style="font-size:11px;color:var(--muted);margin:3px 0 8px;font-family:monospace" id="dlCompletedDirNote"></div>
+            <button class="pill" onclick="openCurrentDownloadFolder()" style="background:#10b981;font-size:11.5px;padding:7px 14px;display:inline-flex;align-items:center;gap:5px">
+              <span>📂</span>在 Finder 中開啟
+            </button>
+          </div>
         </div>
       </div>
 
-      <!-- Download Action Bar -->
-      <div style="display:flex;align-items:center;justify-content:space-between;padding-top:4px">
-        <div style="font-size:12px;color:var(--muted)">
-          ⚡ 後端多線程高速萃取 · 直接儲存本機硬碟 · 零記憶體負擔
-        </div>
+      <!-- ④ Bottom action bar — spans both columns -->
+      <div class="batch-action-bar">
+        <div style="font-size:11.5px;color:var(--muted)">⚡ 後端多線程高速萃取 · 直接儲存本機硬碟 · 零記憶體負擔</div>
         <div style="display:flex;gap:8px">
           <button class="ghost" onclick="closeBatchDownloadModal()" style="border-radius:24px">關閉</button>
-          <button class="pill" id="btnStartBatchDownload" onclick="startBatchDownload()" style="background:#0ea5e9;padding:10px 22px;font-size:13.5px;font-weight:800;display:inline-flex;align-items:center;gap:6px">
+          <button class="pill" id="btnStartBatchDownload" onclick="startBatchDownload()" style="background:linear-gradient(135deg,#0ea5e9,#6366f1);padding:10px 22px;font-size:13.5px;font-weight:800;display:inline-flex;align-items:center;gap:6px">
             <span>🚀</span><span id="btnStartDlText">開始批次下載</span>
           </button>
         </div>
       </div>
 
-      <!-- Live Progress & Queue -->
-      <div id="dlProgressBox" class="batch-progress-box" style="display:none">
-        <div style="display:flex;align-items:center;justify-content:space-between">
-          <span style="font-size:13px;font-weight:800" id="dlProgressStatusText">處理中...</span>
-          <div style="display:flex;gap:8px;align-items:center">
-            <span style="font-size:12px;color:#0ea5e9;font-weight:700" id="dlProgressPercent">0%</span>
-            <button class="ghost" id="btnCancelDownload" onclick="cancelBatchDownload()" style="padding:2px 8px;font-size:11px;color:#ef4444;border-color:rgba(239,68,68,0.3)">✕ 取消任務</button>
-          </div>
-        </div>
-        <div class="batch-progress-bar-bg">
-          <div class="batch-progress-bar-fill" id="dlProgressBarFill"></div>
-        </div>
-        <div class="batch-queue-list" id="dlQueueList"></div>
-        <div id="dlAllActions" style="display:none;margin-top:14px;background:rgba(16,185,129,0.08);border:1px solid rgba(16,185,129,0.25);border-radius:12px;padding:12px 16px;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:10px">
-          <div style="display:flex;align-items:center;gap:8px">
-            <span style="font-size:22px">🎉</span>
-            <div>
-              <div style="font-size:13px;font-weight:800;color:#059669">所有檔案已直接存入指定目錄！無需透過瀏覽器再次下載</div>
-              <div style="font-size:11.5px;color:var(--muted);margin-top:2px;font-family:monospace" id="dlCompletedDirNote"></div>
-            </div>
-          </div>
-          <div style="display:flex;gap:8px">
-            <button class="pill" onclick="openCurrentDownloadFolder()" style="background:#10b981;font-size:12.5px;padding:8px 16px;display:inline-flex;align-items:center;gap:6px">
-              <span>📂</span>在 Finder 中開啟下載資料夾
-            </button>
-          </div>
-        </div>
-      </div>
     </div>
   </div>
 </div>
@@ -50823,6 +50952,12 @@ function openBatchDownloadModal(initialTab = 'library') {
   }
 
   initDownloadDir();
+  // If no items currently selected, default filter to 'all' so list is never empty
+  if (selectedDownloadIds.size === 0 && dlLibraryFilterMode === 'selected') {
+    dlLibraryFilterMode = 'all';
+  }
+  setDlLibraryFilter(dlLibraryFilterMode || 'all', false);
+
   currentDownloadTab = initialTab || 'library';
   switchDownloadTab(currentDownloadTab);
   renderDownloadLibraryList();
@@ -50886,33 +51021,22 @@ function toggleDownloadCardSelection(vid) {
 
 let dlLibraryFilterMode = 'all';
 
-function setDlLibraryFilter(mode) {
+function setDlLibraryFilter(mode, shouldRender = true) {
   dlLibraryFilterMode = mode;
-  const btnAll = document.getElementById('btnDlFilterAll');
-  const btnSel = document.getElementById('btnDlFilterSelected');
-  if (btnAll) {
-    if (mode === 'all') {
-      btnAll.className = 'pill';
-      btnAll.style.background = '#0ea5e9';
-      btnAll.style.color = '#fff';
-    } else {
-      btnAll.className = 'ghost';
-      btnAll.style.background = 'transparent';
-      btnAll.style.color = 'inherit';
-    }
+  const pMap = {
+    'all': 'btnDlFilterAll',
+    'video': 'btnDlFilterVideo',
+    'song': 'btnDlFilterSong',
+    'custom': 'btnDlFilterCustom',
+    'selected': 'btnDlFilterSelected'
+  };
+  Object.keys(pMap).forEach(k => {
+    const el = document.getElementById(pMap[k]);
+    if (el) el.classList.toggle('active', k === mode);
+  });
+  if (shouldRender) {
+    renderDownloadLibraryList();
   }
-  if (btnSel) {
-    if (mode === 'selected') {
-      btnSel.className = 'pill';
-      btnSel.style.background = '#0ea5e9';
-      btnSel.style.color = '#fff';
-    } else {
-      btnSel.className = 'ghost';
-      btnSel.style.background = 'transparent';
-      btnSel.style.color = 'inherit';
-    }
-  }
-  renderDownloadLibraryList();
 }
 
 function renderDownloadSelectedChips() {
@@ -50950,13 +51074,13 @@ function switchDownloadTab(tab) {
   if (tab === 'library') {
     if (tabLib) tabLib.classList.add('active');
     if (tabUrls) tabUrls.classList.remove('active');
-    if (paneLib) paneLib.style.display = 'block';
+    if (paneLib) paneLib.style.display = 'flex';
     if (paneUrls) paneUrls.style.display = 'none';
   } else {
     if (tabLib) tabLib.classList.remove('active');
     if (tabUrls) tabUrls.classList.add('active');
     if (paneLib) paneLib.style.display = 'none';
-    if (paneUrls) paneUrls.style.display = 'block';
+    if (paneUrls) paneUrls.style.display = 'flex';
   }
   updateDownloadCounts();
 }
@@ -50974,55 +51098,121 @@ function filterDownloadLibraryList() {
   renderDownloadLibraryList();
 }
 
+function getFilteredDownloadItems() {
+  const searchKeyword = (document.getElementById('dlSearchInput')?.value || '').trim().toLowerCase();
+  const pool = typeof videos !== 'undefined' ? [...videos, ...(typeof songs !== 'undefined' ? songs : [])] : [];
+  
+  return pool.filter(item => {
+    if (dlLibraryFilterMode === 'selected' && !selectedDownloadIds.has(item.id)) return false;
+    if (dlLibraryFilterMode === 'video' && item.type === 'song') return false;
+    if (dlLibraryFilterMode === 'song' && item.type !== 'song') return false;
+    if (dlLibraryFilterMode === 'custom' && !(item.isCustom || item.cat === '自訂' || item.cat === '探索' || (localStorage.getItem('et_custom_lessons') || '').includes(item.id))) return false;
+
+    if (!searchKeyword) return true;
+    const titleMatch = (item.title || '').toLowerCase().includes(searchKeyword);
+    const zhMatch = (item.zh || '').toLowerCase().includes(searchKeyword);
+    const idMatch = (item.id || '').toLowerCase().includes(searchKeyword);
+    const chMatch = ((typeof CHANNEL_DEFS !== 'undefined' ? (CHANNEL_DEFS.find(c => c.id === item.channel)||{}).name : '') || '').toLowerCase().includes(searchKeyword);
+    return titleMatch || zhMatch || idMatch || chMatch;
+  });
+}
+
+function toggleDownloadSelectCurrent() {
+  const filtered = getFilteredDownloadItems();
+  if (filtered.length === 0) return;
+
+  const allSelected = filtered.every(it => selectedDownloadIds.has(it.id));
+  if (allSelected) {
+    filtered.forEach(it => selectedDownloadIds.delete(it.id));
+    toast(`已取消勾選此分類的 ${filtered.length} 部教材`);
+  } else {
+    filtered.forEach(it => selectedDownloadIds.add(it.id));
+    toast(`✓ 已全選此分類的 ${filtered.length} 部教材（共 ${selectedDownloadIds.size} 部）`);
+  }
+  updateDownloadCounts();
+  updateGlobalDownloadBar();
+  renderDownloadSelectedChips();
+  renderDownloadLibraryList();
+  render();
+}
+
 function renderDownloadLibraryList() {
   const container = document.getElementById('dlLibraryList');
   if (!container) return;
 
   const st = container.scrollTop;
-  const searchKeyword = (document.getElementById('dlSearchInput')?.value || '').trim().toLowerCase();
   const pool = typeof videos !== 'undefined' ? [...videos, ...(typeof songs !== 'undefined' ? songs : [])] : [];
-  
-  const filtered = pool.filter(item => {
-    if (dlLibraryFilterMode === 'selected' && !selectedDownloadIds.has(item.id)) {
-      return false;
-    }
-    if (!searchKeyword) return true;
-    const titleMatch = (item.title || '').toLowerCase().includes(searchKeyword);
-    const zhMatch = (item.zh || '').toLowerCase().includes(searchKeyword);
-    const idMatch = (item.id || '').toLowerCase().includes(searchKeyword);
-    return titleMatch || zhMatch || idMatch;
-  });
+  const filtered = getFilteredDownloadItems();
 
+  // Category counts
   const totalCountEl = document.getElementById('dlTotalCount');
   if (totalCountEl) totalCountEl.textContent = pool.length;
+
+  const videoCountEl = document.getElementById('dlVideoCount');
+  if (videoCountEl) videoCountEl.textContent = pool.filter(v => v.type !== 'song').length;
+
+  const songCountEl = document.getElementById('dlSongCount');
+  if (songCountEl) songCountEl.textContent = pool.filter(v => v.type === 'song').length;
+
+  const customCountEl = document.getElementById('dlCustomCount');
+  if (customCountEl) customCountEl.textContent = pool.filter(v => v.isCustom || v.cat === '自訂' || v.cat === '探索' || (localStorage.getItem('et_custom_lessons') || '').includes(v.id)).length;
+
   const libCountEl = document.getElementById('dlLibraryCount');
   if (libCountEl) libCountEl.textContent = pool.length;
 
+  const filteredCountEl = document.getElementById('dlFilteredCount');
+  if (filteredCountEl) filteredCountEl.textContent = filtered.length;
+
+  const btnSelectCurrent = document.getElementById('btnDlSelectCurrent');
+  if (btnSelectCurrent) {
+    const allSelected = filtered.length > 0 && filtered.every(it => selectedDownloadIds.has(it.id));
+    if (allSelected) {
+      btnSelectCurrent.textContent = `✕ 取消全選 (${filtered.length})`;
+      btnSelectCurrent.style.color = '#ef4444';
+      btnSelectCurrent.style.borderColor = 'rgba(239,68,68,0.35)';
+      btnSelectCurrent.style.background = 'rgba(239,68,68,0.06)';
+    } else {
+      btnSelectCurrent.textContent = `✓ 全選目前 (${filtered.length})`;
+      btnSelectCurrent.style.color = '#0284c7';
+      btnSelectCurrent.style.borderColor = 'rgba(14,165,233,0.35)';
+      btnSelectCurrent.style.background = 'rgba(14,165,233,0.06)';
+    }
+  }
+
   if (filtered.length === 0) {
+    let emptyMsg = '找不到相符的教材';
+    if (dlLibraryFilterMode === 'selected') {
+      emptyMsg = '尚未勾選任何教材影片！請點擊上方「全部」分類開始勾選。';
+    } else if (dlLibraryFilterMode === 'custom') {
+      emptyMsg = '目前尚無自訂教材，可使用「＋ 貼網址自製教材」或「無廣告找素材」加入。';
+    }
     container.innerHTML = `
-      <div style="text-align:center;padding:30px 10px;color:var(--muted)">
-        <div style="font-size:28px;margin-bottom:6px">📭</div>
-        <div style="font-size:13px">${dlLibraryFilterMode === 'selected' ? '尚未挑選任何教材影片，請切換至「全部」勾選！' : '找不到相符的教材'}</div>
+      <div style="text-align:center;padding:40px 14px;color:var(--muted)">
+        <div style="font-size:32px;margin-bottom:8px">📭</div>
+        <div style="font-size:13px;font-weight:700;margin-bottom:12px">${emptyMsg}</div>
+        ${dlLibraryFilterMode === 'selected' ? `
+          <button class="pill" onclick="setDlLibraryFilter('all')" style="background:#0ea5e9;padding:6px 14px;font-size:12px">前往挑選教材</button>
+        ` : ''}
       </div>
     `;
   } else {
     container.innerHTML = filtered.map(item => {
       const isChecked = selectedDownloadIds.has(item.id);
       const chName = (typeof CHANNEL_DEFS !== 'undefined' ? (CHANNEL_DEFS.find(c => c.id === item.channel)||{}).name : '') || item.cat || (item.type==='song'?'經典情歌':'YouTube');
-      const bg = isChecked ? 'rgba(14, 165, 233, 0.1)' : 'rgba(0,0,0,0.02)';
-      const bc = isChecked ? 'rgba(14, 165, 233, 0.45)' : 'var(--line, rgba(0,0,0,0.06))';
+      const bg = isChecked ? 'rgba(14, 165, 233, 0.12)' : 'rgba(0,0,0,0.02)';
+      const bc = isChecked ? '#0ea5e9' : 'var(--line, rgba(0,0,0,0.08))';
       return `
-        <div id="dl-item-${item.id}" style="display:flex;align-items:center;justify-content:space-between;padding:8px 12px;background:${bg};border:1.5px solid ${bc};border-radius:10px;gap:10px;cursor:pointer;margin-bottom:6px;transition:all 0.15s ease" onclick="toggleDownloadItem('${item.id}')">
-          <div style="display:flex;align-items:center;gap:10px;overflow:hidden">
-            <input type="checkbox" ${isChecked ? 'checked' : ''} onclick="event.stopPropagation();toggleDownloadItem('${item.id}')" style="width:17px;height:17px;accent-color:#0ea5e9;cursor:pointer">
-            <span style="font-size:18px">${item.emoji || '🎬'}</span>
-            <div style="overflow:hidden;text-overflow:ellipsis;white-space:nowrap">
-              <div style="font-weight:700;font-size:13px;color:var(--ink, #1e293b);overflow:hidden;text-overflow:ellipsis;white-space:nowrap">${item.title}</div>
-              <div style="font-size:11px;color:var(--muted, #64748b)">${chName} · ${item.duration || '03:00'} · ID: ${item.id}</div>
+        <div id="dl-item-${item.id}" style="display:flex;align-items:center;justify-content:space-between;padding:9px 12px;background:${bg};border:1.5px solid ${bc};border-radius:12px;gap:10px;cursor:pointer;margin-bottom:6px;transition:all 0.15s ease" onclick="toggleDownloadItem('${item.id}')">
+          <div style="display:flex;align-items:center;gap:10px;overflow:hidden;flex:1">
+            <input type="checkbox" ${isChecked ? 'checked' : ''} onclick="event.stopPropagation();toggleDownloadItem('${item.id}')" style="width:18px;height:18px;accent-color:#0ea5e9;cursor:pointer;flex-shrink:0">
+            <span style="font-size:20px;flex-shrink:0">${item.emoji || (item.type==='song'?'🎵':'🎬')}</span>
+            <div style="overflow:hidden;text-overflow:ellipsis;white-space:nowrap;flex:1">
+              <div style="font-weight:750;font-size:13px;color:var(--ink, #1e293b);overflow:hidden;text-overflow:ellipsis;white-space:nowrap">${escapeHTML(item.title)}</div>
+              <div style="font-size:11px;color:var(--muted, #64748b);margin-top:2px">${escapeHTML(chName)} · ${item.duration || '03:00'} · ID: ${item.id}</div>
             </div>
           </div>
-          <div style="display:flex;align-items:center;gap:6px">
-            ${isChecked ? '<span style="font-size:11px;color:#0ea5e9;font-weight:800;white-space:nowrap">✓ 已挑選</span>' : ''}
+          <div style="display:flex;align-items:center;gap:6px;flex-shrink:0">
+            ${isChecked ? '<span style="font-size:11px;color:#0ea5e9;font-weight:800;background:rgba(14,165,233,0.12);padding:2px 8px;border-radius:10px;white-space:nowrap">✓ 已勾選</span>' : '<span style="font-size:11px;color:var(--muted);opacity:0.6;white-space:nowrap">點擊勾選</span>'}
             <span class="level badge-${item.level || 'B1'}" style="position:static;font-size:10.5px;padding:2px 7px;border-radius:6px;background:var(--purple,#6d5dfc);color:#fff">${item.level || 'B1'}</span>
           </div>
         </div>
@@ -51055,12 +51245,12 @@ function toggleDownloadItem(id) {
       const isChecked = selectedDownloadIds.has(id);
       const cb = row.querySelector('input[type="checkbox"]');
       if (cb) cb.checked = isChecked;
-      row.style.background = isChecked ? 'rgba(14, 165, 233, 0.1)' : 'rgba(0,0,0,0.02)';
-      row.style.borderColor = isChecked ? 'rgba(14, 165, 233, 0.45)' : 'var(--line, rgba(0,0,0,0.06))';
+      row.style.background = isChecked ? 'rgba(14, 165, 233, 0.12)' : 'rgba(0,0,0,0.02)';
+      row.style.borderColor = isChecked ? '#0ea5e9' : 'var(--line, rgba(0,0,0,0.08))';
       const badgeWrap = row.children[1];
       if (badgeWrap) {
         badgeWrap.innerHTML = `
-          ${isChecked ? '<span style="font-size:11px;color:#0ea5e9;font-weight:800;white-space:nowrap">✓ 已挑選</span>' : ''}
+          ${isChecked ? '<span style="font-size:11px;color:#0ea5e9;font-weight:800;background:rgba(14,165,233,0.12);padding:2px 8px;border-radius:10px;white-space:nowrap">✓ 已勾選</span>' : '<span style="font-size:11px;color:var(--muted);opacity:0.6;white-space:nowrap">點擊勾選</span>'}
           ${badgeWrap.querySelector('.level')?.outerHTML || ''}
         `;
       }
@@ -51075,8 +51265,10 @@ function toggleDownloadSelectAll(checked) {
   const pool = typeof videos !== 'undefined' ? [...videos, ...(typeof songs !== 'undefined' ? songs : [])] : [];
   if (checked) {
     pool.forEach(item => selectedDownloadIds.add(item.id));
+    toast(`✓ 已全選所有 ${pool.length} 部教材`);
   } else {
     selectedDownloadIds.clear();
+    toast('已清空所有勾選項');
   }
   updateDownloadCounts();
   updateGlobalDownloadBar();
@@ -51109,6 +51301,29 @@ function updateDownloadUrlsCount() {
 function updateDownloadCounts() {
   const selCntEl = document.getElementById('dlSelectedCount');
   if (selCntEl) selCntEl.textContent = selectedDownloadIds.size;
+
+  const rightSummaryCountEl = document.getElementById('dlRightSummaryCount');
+  if (rightSummaryCountEl) rightSummaryCountEl.textContent = selectedDownloadIds.size;
+
+  const rightSummaryHintEl = document.getElementById('dlRightSummaryHint');
+  if (rightSummaryHintEl) {
+    if (selectedDownloadIds.size === 0) {
+      rightSummaryHintEl.textContent = '請在左側點擊勾選要下載的影片或歌曲';
+      rightSummaryHintEl.style.color = 'var(--muted, #64748b)';
+    } else {
+      rightSummaryHintEl.textContent = `✓ 已準備就緒，直接儲存至本機資料夾！`;
+      rightSummaryHintEl.style.color = '#10b981';
+    }
+  }
+
+  const btnText = document.getElementById('btnStartDlText');
+  if (btnText && !btnText.textContent.includes('任務啟動中') && !btnText.textContent.includes('處理中')) {
+    if (selectedDownloadIds.size > 0) {
+      btnText.textContent = `開始批次下載 (${selectedDownloadIds.size} 部)`;
+    } else {
+      btnText.textContent = '開始批次下載';
+    }
+  }
 
   const urlCntEl = document.getElementById('dlUrlsDetectedCount');
   if (urlCntEl) {
@@ -51306,6 +51521,8 @@ window.toggleDownloadCardSelection = toggleDownloadCardSelection;
 window.clearSelectedDownloadIds = clearSelectedDownloadIds;
 window.updateGlobalDownloadBar = updateGlobalDownloadBar;
 window.setDlLibraryFilter = setDlLibraryFilter;
+window.toggleDownloadSelectCurrent = toggleDownloadSelectCurrent;
+window.getFilteredDownloadItems = getFilteredDownloadItems;
 
 window.renderCustomChannelBar = renderCustomChannelBar;
 window.selectCustomChannel = selectCustomChannel;
