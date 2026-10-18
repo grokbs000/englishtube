@@ -51641,17 +51641,28 @@ function closeModal() {
   try { if (ytPlayer && typeof ytPlayer.pauseVideo === 'function') ytPlayer.pauseVideo(); } catch(e) {}
   // Stop sync timer
   if (syncTimer) { clearInterval(syncTimer); syncTimer = null; }
-  // Stop TTS
+  // Stop TTS & cancel auto-advance
   try { _ttsAudio.pause(); _ttsAudio.src = ''; } catch(e) {}
+  _ttsIsLessonLine = false;
+  activeLineIdx = -1;
+  clearTimeout(_repeatTimer);
+  // Release microphone & stop recorder immediately (Zero Resource Leak)
+  if (recorder && recorder.state === 'recording') {
+    try { recorder.stop(); } catch(e) {}
+  }
+  if (recordStream) {
+    try { recordStream.getTracks().forEach(t => t.stop()); } catch(e) {}
+    recordStream = null;
+  }
   // Close sync calibration panel if open
   if (typeof toggleSyncFloatPanel === 'function') toggleSyncFloatPanel(false);
   isPlaying = false;
 }
-function renderLesson(){document.querySelector('#transcript').innerHTML=current.en.map((s,i)=>`<div class="subline" onclick="speakLine(${i})"><strong style="display:${showEn?'block':'none'}">${s}</strong><span style="display:${showZh?'block':'none'}">${current.cn[i]}</span><small style="color:#aaa">點擊聆聽 · ${i+1}</small></div>`).join('');document.querySelector('#wordList').innerHTML=current.words.map(w=>`<div style="padding:10px 0;border-bottom:1px solid #eee"><b style="color:#6355e8">${w[0]}</b><div style="font-size:13px;color:#777;margin:4px 0 8px">${w[1]}</div><button class="save ${savedWords.has(w[0])?'saved':''}" onclick="toggleWord('${w[0]}')">${savedWords.has(w[0])?'✓ 已收藏':'＋ 收藏單字'}</button><button class="save" onclick="say('${w[0].replace(/'/g,"\\'")}')">🔊</button></div>`).join('');document.querySelector('#enBtn').textContent='🇺🇸 英文字幕 '+(showEn?'✓':'○');document.querySelector('#zhBtn').textContent='🇹🇼 中文字幕 '+(showZh?'✓':'○')}
 function toggleSub(l){if(l==='en')showEn=!showEn;else showZh=!showZh;renderLesson()}
 function toggleWord(w){savedWords.has(w)?savedWords.delete(w):savedWords.add(w);persist();renderLesson();toast(savedWords.has(w)?`已收藏 ${w}`:'已移除單字')}
 // ════ 高品質 TTS 引擎：Google TTS 神經頁 + Web Speech 備檔 ════
 let _bestVoice = null;
+let _ttsIsLessonLine = false;
 function _pickBestVoice() {
   if (_bestVoice) return _bestVoice;
   const voices = speechSynthesis.getVoices();
@@ -51672,9 +51683,10 @@ function _pickBestVoice() {
 speechSynthesis.addEventListener?.('voiceschanged', () => { _bestVoice = null; _pickBestVoice(); });
 
 const _ttsAudio = new Audio();
-function say(t) {
+function say(t, isLessonLine = false) {
   if (!t || !t.trim()) return;
   const text = t.trim();
+  _ttsIsLessonLine = Boolean(isLessonLine);
   // Primary: Google TTS (neural quality)
   try {
     const url = 'https://tts1.gstatic.com/tts_sessions/en/synthesize?lang=en-US&text=' + encodeURIComponent(text) + '&speed=0.9&pitch=0';
@@ -51698,9 +51710,10 @@ function _webSpeechFallback(t) {
   if (v) u.voice = v;
   speechSynthesis.speak(u);
 }
-function speakLine(i=0){if(current)say(current.en[i]||current.en[0])}
-function repeatLine(){speakLine(0);setTimeout(()=>speakLine(0),1800)}
-async function recordPractice(){let b=document.querySelector('#recordBtn'),s=document.querySelector('#recordStatus');if(recorder&&recorder.state==='recording'){recorder.stop();b.textContent='🎙 開始錄音';s.textContent='錄音已結束。可再次錄製練習。';return}try{recordStream=await navigator.mediaDevices.getUserMedia({audio:true});recorder=new MediaRecorder(recordStream);let chunks=[];recorder.ondataavailable=e=>chunks.push(e.data);recorder.onstop=()=>{let blob=new Blob(chunks,{type:'audio/webm'}),url=URL.createObjectURL(blob);s.innerHTML='錄音完成：<audio controls src="'+url+'" style="width:100%;margin-top:8px"></audio>';recordStream.getTracks().forEach(t=>t.stop())};recorder.start();b.textContent='■ 停止錄音';s.textContent='正在錄音，請朗讀：'+current.en[0]}catch(e){s.textContent='無法使用麥克風，請確認網站權限與 HTTPS 設定。'}}
+let _repeatTimer = null;
+function speakLine(i=0){if(current)say(current?.en?.[i]||current?.en?.[0]||'', true)}
+function repeatLine(){const idx = (activeLineIdx >= 0) ? activeLineIdx : 0; speakLine(idx); clearTimeout(_repeatTimer); _repeatTimer = setTimeout(()=>speakLine(idx),1800)}
+async function recordPractice(){let b=document.querySelector('#recordBtn'),s=document.querySelector('#recordStatus');if(recorder&&recorder.state==='recording'){recorder.stop();b.textContent='🎙 開始錄音';s.textContent='錄音已結束。可再次錄製練習。';return}try{recordStream=await navigator.mediaDevices.getUserMedia({audio:true});recorder=new MediaRecorder(recordStream);let chunks=[];recorder.ondataavailable=e=>chunks.push(e.data);recorder.onstop=()=>{let blob=new Blob(chunks,{type:'audio/webm'}),url=URL.createObjectURL(blob);s.innerHTML='錄音完成：<audio controls src="'+url+'" style="width:100%;margin-top:8px"></audio>';if(recordStream){recordStream.getTracks().forEach(t=>t.stop());recordStream=null;}};recorder.start();b.textContent='■ 停止錄音';const targetText = (current?.en && activeLineIdx >= 0 ? current.en[activeLineIdx] : current?.en?.[0]) || 'English sentence';s.textContent='正在錄音，請朗讀：'+targetText}catch(e){if(recordStream){recordStream.getTracks().forEach(t=>t.stop());recordStream=null;}s.textContent='無法使用麥克風，請確認網站權限與 HTTPS 設定。'}}
 let _toastTimer=null;function toast(t){const el=document.querySelector('#toast');el.textContent=t;el.style.display='block';clearTimeout(_toastTimer);_toastTimer=setTimeout(()=>el.style.display='none',2400)}
 // Escape key closes modal
 document.addEventListener('keydown',e=>{if(e.key==='Escape')closeModal()});
@@ -51713,7 +51726,7 @@ if(window.matchMedia('(display-mode: standalone)').matches||navigator.standalone
 document.querySelector('#installBtn').addEventListener('click',async()=>{if(deferredPrompt){deferredPrompt.prompt();const{outcome}=await deferredPrompt.userChoice;deferredPrompt=null;if(outcome==='accepted')toast('✓ 安裝中...')}else if(/iphone|ipad|ipod/i.test(navigator.userAgent)){toast('Safari：分享 → 加入主畫面')}else{toast('請從瀏覽器選單選擇「安裝應用程式」')}});
 // Register Service Worker + auto-reload on new SW version
 if('serviceWorker'in navigator&&location.protocol.startsWith('http')){
-  window.addEventListener('load',()=>navigator.serviceWorker.register('./sw.js?v=144').then(reg=>{
+  window.addEventListener('load',()=>navigator.serviceWorker.register('./sw.js?v=145').then(reg=>{
     try{reg.update()}catch(e){}
     reg.addEventListener('updatefound',()=>{
       const nw=reg.installing;
@@ -51806,9 +51819,10 @@ function setSpeed(r) {
 }
 // Google TTS respects playbackRate for speed control
 const _origSay = say;
-say = function(t) {
+say = function(t, isLessonLine = false) {
   if (!t || !t.trim()) return;
   const text = t.trim();
+  _ttsIsLessonLine = Boolean(isLessonLine);
   try {
     const url = 'https://tts1.gstatic.com/tts_sessions/en/synthesize?lang=en-US&text=' + encodeURIComponent(text) + '&speed=0.9&pitch=0';
     _ttsAudio.pause();
@@ -51830,11 +51844,11 @@ function highlightLine(i) {
   if (el) el.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
 }
 const _origSpeakLine = speakLine;
-speakLine = function(i = 0) { highlightLine(i); if (current) say(current.en[i] || current.en[0]); };
+speakLine = function(i = 0) { highlightLine(i); if (current) say(current?.en?.[i] || current?.en?.[0] || '', true); };
 
 // ── Auto-advance when Google TTS audio ends ──
 _ttsAudio.addEventListener('ended', () => {
-  if (activeLineIdx >= 0 && current && activeLineIdx < current.en.length - 1) {
+  if (_ttsIsLessonLine && activeLineIdx >= 0 && current?.en && activeLineIdx < current.en.length - 1) {
     setTimeout(() => { speakLine(activeLineIdx + 1); }, 500);
   }
 });
