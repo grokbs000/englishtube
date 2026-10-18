@@ -936,6 +936,356 @@ html[data-theme='dark'] .seg-btn.active {
   background: rgba(255,255,255,0.22);
 }
 
+/* ══════════ 自訂頻道橫列 (Custom Channel Nav Bar) ══════════ */
+.vt-custom-channel-bar {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  overflow-x: auto;
+  overflow-y: hidden;
+  padding: 8px 12px;
+  margin-bottom: 8px;
+  scrollbar-width: thin;
+  scrollbar-color: rgba(14, 165, 233, 0.45) rgba(0, 0, 0, 0.04);
+  -webkit-overflow-scrolling: touch;
+  scroll-behavior: smooth;
+  background: linear-gradient(90deg, rgba(14,165,233,0.06) 0%, rgba(109,93,252,0.05) 100%);
+  border-radius: 14px;
+  border: 1px dashed rgba(14,165,233,0.35);
+  box-shadow: inset 0 1px 3px rgba(0,0,0,0.02);
+}
+.vt-custom-channel-bar::-webkit-scrollbar {
+  height: 5px;
+  display: block;
+}
+.vt-custom-channel-bar::-webkit-scrollbar-track {
+  background: rgba(0, 0, 0, 0.03);
+  border-radius: 6px;
+}
+.vt-custom-channel-bar::-webkit-scrollbar-thumb {
+  background: rgba(14, 165, 233, 0.4);
+  border-radius: 6px;
+}
+.vt-custom-channel-bar::-webkit-scrollbar-thumb:hover {
+  background: rgba(14, 165, 233, 0.75);
+}
+.vt-custom-bar-label {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  font-size: 12.5px;
+  font-weight: 800;
+  color: #0284c7;
+  white-space: nowrap;
+  padding-right: 4px;
+}
+.vt-custom-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 6px 14px;
+  border: 1px solid rgba(14,165,233,0.22);
+  border-radius: 20px;
+  background: #ffffff;
+  color: #334155;
+  font-size: 12.5px;
+  font-weight: 750;
+  white-space: nowrap;
+  cursor: pointer;
+  transition: all .2s cubic-bezier(.2,.8,.25,1);
+  box-shadow: 0 1px 3px rgba(0,0,0,0.02);
+  flex-shrink: 0;
+}
+.vt-custom-chip:hover {
+  border-color: #0284c7;
+  color: #0284c7;
+  transform: translateY(-1px);
+}
+.vt-custom-chip.active {
+  background: linear-gradient(135deg, #0ea5e9, #0284c7);
+  color: #fff;
+  border-color: transparent;
+  box-shadow: 0 3px 10px rgba(14,165,233,0.35);
+}
+.vt-custom-chip .chip-cnt {
+  font-size: 11px;
+  opacity: .85;
+  background: rgba(0,0,0,0.06);
+  padding: 1px 6px;
+  border-radius: 10px;
+}
+.vt-custom-chip.active .chip-cnt {
+  background: rgba(255,255,255,0.25);
+  color: #fff;
+}
+.vt-custom-add-btn, .vt-custom-manage-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 6px 12px;
+  border-radius: 20px;
+  font-size: 12px;
+  font-weight: 750;
+  white-space: nowrap;
+  cursor: pointer;
+  transition: all .2s ease;
+  flex-shrink: 0;
+}
+.vt-custom-add-btn {
+  background: #0ea5e9;
+  color: #fff;
+  border: none;
+  box-shadow: 0 2px 6px rgba(14,165,233,0.3);
+}
+.vt-custom-add-btn:hover {
+  background: #0284c7;
+  transform: translateY(-1px);
+}
+.vt-custom-manage-btn {
+  background: transparent;
+  color: var(--muted, #64748b);
+  border: 1px solid var(--line, #cbd5e1);
+}
+.vt-custom-manage-btn:hover {
+  border-color: #0284c7;
+  color: #0284c7;
+}
+.custom-ch-tag {
+  display: inline-flex;
+  align-items: center;
+  gap: 3px;
+  padding: 2px 7px;
+  border-radius: 10px;
+  background: rgba(14,165,233,0.12);
+  color: #0284c7;
+  font-size: 11px;
+  font-weight: 700;
+  border: 1px solid rgba(14,165,233,0.25);
+  cursor: pointer;
+  transition: all .15s ease;
+  margin-left: 6px;
+}
+.custom-ch-tag:hover {
+  background: rgba(14,165,233,0.22);
+}
+
+/* ══════════ 批次下載中心 (Batch Download Center Modal) ══════════ */
+.batch-download-box {
+  width: min(840px, 95vw);
+  max-height: 90vh;
+  background: #ffffff;
+  border: 1px solid var(--line, #cbd5e1);
+  border-radius: 24px;
+  box-shadow: 0 25px 70px rgba(0,0,0,0.35);
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  color: #0f172a;
+  animation: makerPop .25s cubic-bezier(.2,.8,.25,1);
+}
+.batch-download-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px 24px;
+  border-bottom: 1px solid var(--line, #e2e8f0);
+  background: linear-gradient(90deg, rgba(14,165,233,0.06), rgba(109,93,252,0.06));
+}
+.batch-download-body {
+  padding: 20px 24px;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+.batch-tabs {
+  display: flex;
+  gap: 8px;
+  background: rgba(0,0,0,0.04);
+  padding: 4px;
+  border-radius: 12px;
+}
+.batch-tab-btn {
+  flex: 1;
+  padding: 8px 14px;
+  border-radius: 9px;
+  border: none;
+  background: transparent;
+  color: var(--muted, #64748b);
+  font-size: 13px;
+  font-weight: 750;
+  cursor: pointer;
+  transition: all .2s ease;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+}
+.batch-tab-btn.active {
+  background: #fff;
+  color: #0284c7;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+}
+.batch-format-card {
+  background: rgba(14,165,233,0.04);
+  border: 1px solid rgba(14,165,233,0.2);
+  border-radius: 14px;
+  padding: 14px 18px;
+}
+.batch-format-options {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 8px;
+}
+.batch-format-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 8px 14px;
+  border: 1px solid var(--line, #cbd5e1);
+  border-radius: 12px;
+  background: #fff;
+  cursor: pointer;
+  font-size: 12.5px;
+  font-weight: 700;
+  color: #334155;
+  transition: all .2s ease;
+}
+.batch-format-pill.active {
+  border-color: #0ea5e9;
+  background: #0ea5e9;
+  color: #fff;
+  box-shadow: 0 3px 10px rgba(14,165,233,0.3);
+}
+.batch-library-wrap {
+  border: 1px solid var(--line, #cbd5e1);
+  border-radius: 14px;
+  overflow: hidden;
+}
+.batch-library-toolbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 14px;
+  background: rgba(0,0,0,0.02);
+  border-bottom: 1px solid var(--line, #e2e8f0);
+  gap: 10px;
+}
+.batch-library-list {
+  max-height: 240px;
+  overflow-y: auto;
+  padding: 6px;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+.batch-item-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 8px 12px;
+  border-radius: 10px;
+  border: 1px solid transparent;
+  transition: background .15s ease;
+  cursor: pointer;
+}
+.batch-item-row:hover {
+  background: rgba(14,165,233,0.06);
+}
+.batch-item-row.selected {
+  background: rgba(14,165,233,0.1);
+  border-color: rgba(14,165,233,0.25);
+}
+.batch-progress-box {
+  background: rgba(0,0,0,0.02);
+  border: 1px solid var(--line, #cbd5e1);
+  border-radius: 14px;
+  padding: 14px 18px;
+}
+.batch-progress-bar-bg {
+  height: 8px;
+  background: rgba(0,0,0,0.08);
+  border-radius: 4px;
+  overflow: hidden;
+  margin: 10px 0;
+}
+.batch-progress-bar-fill {
+  height: 100%;
+  width: 0%;
+  background: linear-gradient(90deg, #0ea5e9, #6d5dfc);
+  transition: width .3s ease;
+  border-radius: 4px;
+}
+.batch-queue-list {
+  max-height: 180px;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  margin-top: 10px;
+}
+.batch-queue-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 8px 12px;
+  background: #fff;
+  border: 1px solid var(--line, #e2e8f0);
+  border-radius: 10px;
+  font-size: 12.5px;
+}
+
+/* Dark Mode Overrides */
+html[data-theme='dark'] .vt-custom-channel-bar {
+  background: linear-gradient(90deg, rgba(14,165,233,0.12) 0%, rgba(109,93,252,0.1) 100%);
+  border-color: rgba(14,165,233,0.45);
+}
+html[data-theme='dark'] .vt-custom-chip {
+  background: #1e1e32;
+  border-color: rgba(255,255,255,0.1);
+  color: #e2e8f0;
+}
+html[data-theme='dark'] .vt-custom-bar-label {
+  color: #38bdf8;
+}
+html[data-theme='dark'] .batch-download-box {
+  background: #111827;
+  border-color: #1f2937;
+  color: #f8fafc;
+}
+html[data-theme='dark'] .batch-download-head {
+  border-color: #1f2937;
+  background: linear-gradient(90deg, rgba(14,165,233,0.12), rgba(109,93,252,0.12));
+}
+html[data-theme='dark'] .batch-tabs {
+  background: rgba(255,255,255,0.05);
+}
+html[data-theme='dark'] .batch-tab-btn.active {
+  background: #1f2937;
+  color: #38bdf8;
+}
+html[data-theme='dark'] .batch-format-card {
+  background: rgba(14,165,233,0.08);
+  border-color: rgba(14,165,233,0.3);
+}
+html[data-theme='dark'] .batch-format-pill {
+  background: #1f2937;
+  border-color: #374151;
+  color: #e2e8f0;
+}
+html[data-theme='dark'] .batch-library-wrap {
+  border-color: #374151;
+}
+html[data-theme='dark'] .batch-library-toolbar {
+  background: rgba(255,255,255,0.03);
+  border-color: #374151;
+}
+html[data-theme='dark'] .batch-queue-item {
+  background: #1f2937;
+  border-color: #374151;
+}
+
 /* CEFR Level Bar */
 .vt-level-nav {
   display: flex;
@@ -2149,10 +2499,10 @@ html[data-theme='dark'] .yt-card-author,
 <script src="https://www.youtube.com/iframe_api"></script>
 </head>
 <body>
-<header class="top"><div class="logo">ENGLISH<b>TUBE</b></div><nav class="nav"><a href="#discover" onclick="switchMediaMode('video')" style="white-space:nowrap">探索影片</a><a href="#discover" onclick="switchMediaMode('song')" style="display:inline-flex;align-items:center;white-space:nowrap">探索歌曲&nbsp;<span class="nav-badge">100首</span></a><a href="javascript:void(0)" onclick="setFilter('自選')" style="display:inline-flex;align-items:center;gap:4px;color:var(--purple,#6d5dfc);font-weight:750;white-space:nowrap"><span style="font-size:14px">✨</span>自選加入&nbsp;<span class="nav-badge" id="customNavBadge" style="background:var(--purple,#6d5dfc);color:#fff">0</span></a><a href="javascript:void(0)" onclick="openYtExplorerModal()" style="display:inline-flex;align-items:center;gap:4px;color:var(--purple,#6d5dfc);font-weight:800;white-space:nowrap"><span style="font-size:14px">🌐</span>無廣告找素材&nbsp;<span class="nav-badge" style="background:#10b981;color:#fff;font-size:10px">NEW</span></a><a href="#study" style="white-space:nowrap">學習工具</a><a href="#saved" onclick="setFilter('收藏')" style="white-space:nowrap">我的收藏</a></nav><label class="search">⌕ <input id="search" placeholder="搜尋影片、主題..." autocomplete="off"></label><button class="pill" id="installBtn" style="white-space:nowrap">＋ 安裝 App</button><button class="dark-toggle" id="darkToggle" title="切換深色模式" onclick="toggleDark()">🌙</button></header>
+<header class="top"><div class="logo">ENGLISH<b>TUBE</b></div><nav class="nav"><a href="#discover" onclick="switchMediaMode('video')" style="white-space:nowrap">探索影片</a><a href="#discover" onclick="switchMediaMode('song')" style="display:inline-flex;align-items:center;white-space:nowrap">探索歌曲&nbsp;<span class="nav-badge">100首</span></a><a href="javascript:void(0)" onclick="setFilter('自選')" style="display:inline-flex;align-items:center;gap:4px;color:var(--purple,#6d5dfc);font-weight:750;white-space:nowrap"><span style="font-size:14px">✨</span>自選加入&nbsp;<span class="nav-badge" id="customNavBadge" style="background:var(--purple,#6d5dfc);color:#fff">0</span></a><a href="javascript:void(0)" onclick="openYtExplorerModal()" style="display:inline-flex;align-items:center;gap:4px;color:var(--purple,#6d5dfc);font-weight:800;white-space:nowrap"><span style="font-size:14px">🌐</span>無廣告找素材&nbsp;<span class="nav-badge" style="background:#10b981;color:#fff;font-size:10px">NEW</span></a><a href="#study" style="white-space:nowrap">學習工具</a><a href="javascript:void(0)" onclick="openBatchDownloadModal()" style="display:inline-flex;align-items:center;gap:4px;color:#0284c7;font-weight:750;white-space:nowrap" title="批次下載 YouTube 影片、高音質MP3與雙語字幕"><span style="font-size:15px">📥</span>下載影片&nbsp;<span class="nav-badge" style="background:#0ea5e9;color:#fff;font-size:10px">PRO</span></a><a href="#saved" onclick="setFilter('收藏')" style="white-space:nowrap">我的收藏</a></nav><label class="search">⌕ <input id="search" placeholder="搜尋影片、主題..." autocomplete="off"></label><button class="pill" id="installBtn" style="white-space:nowrap">＋ 安裝 App</button><button class="dark-toggle" id="darkToggle" title="切換深色模式" onclick="toggleDark()">🌙</button></header>
 <div class="net-badge online" id="netBadge">📡 已離線</div>
 <main class="wrap">
-<section class="hero"><div><div class="eyebrow">YOUR DAILY ENGLISH HABIT</div><h1>喜歡什麼，就用什麼<br>練好你的英文。</h1><p>真實情境影片 × 英中字幕 × 單字收藏。每天 10 分鐘，讓英文從「聽得懂」變成「說得出口」。</p><div class="cta"><button class="pill" onclick="document.querySelector('#discover').scrollIntoView({behavior:'smooth'})">開始今天的學習　→</button><button class="ghost" onclick="openYtExplorerModal()" style="border-color:var(--purple,#6d5dfc);color:var(--purple,#6d5dfc);font-weight:700">🌐 無廣告 YouTube 找素材</button><button class="ghost" onclick="openCustomLesson()">＋ 貼網址自製教材</button></div></div><div class="heroart"><div class="orb"><div class="playbig">▶</div></div><div class="float one">✦ 每天 10 分鐘</div><div class="float two">🎧 Listen · Learn · Speak</div></div></section>
+<section class="hero"><div><div class="eyebrow">YOUR DAILY ENGLISH HABIT</div><h1>喜歡什麼，就用什麼<br>練好你的英文。</h1><p>真實情境影片 × 英中字幕 × 單字收藏。每天 10 分鐘，讓英文從「聽得懂」變成「說得出口」。</p><div class="cta"><button class="pill" onclick="document.querySelector('#discover').scrollIntoView({behavior:'smooth'})">開始今天的學習　→</button><button class="ghost" onclick="openYtExplorerModal()" style="border-color:var(--purple,#6d5dfc);color:var(--purple,#6d5dfc);font-weight:700">🌐 無廣告 YouTube 找素材</button><button class="ghost" onclick="openBatchDownloadModal()" style="border-color:#0284c7;color:#0284c7;font-weight:700">📥 批次下載影片</button><button class="ghost" onclick="openCustomLesson()">＋ 貼網址自製教材</button></div></div><div class="heroart"><div class="orb"><div class="playbig">▶</div></div><div class="float one">✦ 每天 10 分鐘</div><div class="float two">🎧 Listen · Learn · Speak</div></div></section>
 <section id="discover">
 <div class="discover-header-wrap">
   <div class="media-segmented-ctrl" role="tablist">
@@ -2177,6 +2527,7 @@ html[data-theme='dark'] .yt-card-author,
       <p id="discoverSubTitle">選你喜歡的主題，學習就不再無聊。</p>
     </div>
     <div style="display:flex;gap:8px;align-items:center">
+      <button class="ghost" onclick="openBatchDownloadModal()" style="border-color:rgba(14,165,233,0.3);color:#0284c7;display:inline-flex;align-items:center;gap:4px"><span>📥</span>批次下載</button>
       <button class="ghost" onclick="openYtExplorerModal()" style="border-color:rgba(109,93,252,0.3);color:var(--purple,#6d5dfc);display:inline-flex;align-items:center;gap:4px"><span>🌐</span>無廣告找素材</button>
       <button class="ghost" onclick="shuffleCurrentMedia()">↻ 換一批</button>
     </div>
@@ -2184,6 +2535,7 @@ html[data-theme='dark'] .yt-card-author,
 </div>
 
 <div class="vt-channel-nav" id="channelNav"></div>
+<div class="vt-custom-channel-bar" id="customChannelBar"></div>
 <div class="vt-level-nav" id="levelNav"></div>
 <div class="filters" id="filters" style="display:none"></div>
 <div class="vt-filter-status" id="filterStatus">
@@ -2217,6 +2569,14 @@ html[data-theme='dark'] .yt-card-author,
         <div style="display:flex;gap:8px">
           <input id="makerUrlInput" type="text" placeholder="https://www.youtube.com/watch?v=... 或 https://youtu.be/..." style="flex:1;padding:10px 14px;background:rgba(0,0,0,0.06);border:1px solid var(--line,#cbd5e1);border-radius:10px;font-size:13px;color:inherit;outline:none" />
           <button class="pill" type="button" onclick="pasteFromClipboard()" style="padding:0 14px;font-size:13px;white-space:nowrap">📋 貼上</button>
+        </div>
+      </div>
+
+      <div style="margin-bottom:14px">
+        <label style="display:block;font-size:12px;font-weight:700;margin-bottom:6px">收錄至自訂頻道：</label>
+        <div style="display:flex;gap:8px;align-items:center">
+          <select id="makerCustomChannelSelect" class="vt-select-dropdown" style="flex:1;padding:9px 12px;border-radius:10px;background:rgba(0,0,0,0.06);border:1px solid var(--line,#cbd5e1);color:inherit;font-size:13px;outline:none"></select>
+          <button class="ghost" type="button" onclick="openCreateCustomChannelModal()" style="padding:8px 12px;font-size:12px;white-space:nowrap">＋ 新增頻道</button>
         </div>
       </div>
 
@@ -2272,6 +2632,11 @@ html[data-theme='dark'] .yt-card-author,
             <span class="yt-tag-badge">✓ 支援自動字幕</span>
           </div>
           <h4 class="yt-exp-video-title" id="ytExpTitle">載入中...</h4>
+          <div style="display:flex;align-items:center;gap:6px;margin-bottom:8px">
+            <span style="font-size:12px;font-weight:700;color:var(--muted);white-space:nowrap">收錄目標頻道：</span>
+            <select id="explorerTargetChannelSelect" class="vt-select-dropdown" style="flex:1;padding:6px 10px;border-radius:8px;background:rgba(0,0,0,0.06);border:1px solid var(--line,#cbd5e1);color:inherit;font-size:12px;outline:none"></select>
+            <button class="ghost" type="button" onclick="openCreateCustomChannelModal()" style="padding:4px 8px;font-size:11px;white-space:nowrap">＋ 新增</button>
+          </div>
           <div class="yt-exp-actions">
             <button class="pill primary-import-btn" id="btnExpImport" onclick="importCurrentExplorerVideo()">
               <span id="btnExpImportIcon">✨</span>
@@ -2357,6 +2722,7 @@ html[data-theme='dark'] .yt-card-author,
         <button class="vt-btn-act" id="vtLikeBtn" onclick="toggleLike()">👍 讚 <span id="vtLikes">225</span></button>
         <button class="vt-btn-act" onclick="shareVideo()">分享</button>
         <button class="vt-btn-act" id="vtSaveBtn" onclick="toggleSaveCurrent()">♡ 收藏</button>
+        <button class="vt-btn-act" onclick="openBatchDownloadSingle(current?.id)" title="下載此教材 (MP4/MP3/字幕)" style="color:#38bdf8;font-weight:700">📥 下載</button>
         <button class="vt-close-btn" onclick="closeModal()" title="關閉">×</button>
       </div>
     </div>
@@ -2496,6 +2862,176 @@ html[data-theme='dark'] .yt-card-author,
 </div>
 
 <div class="toast" id="toast"></div>
+
+<!-- 批次影片與音訊下載中心 (Batch Media Downloader) -->
+<div class="modal" id="batchDownloadModal" style="display:none;z-index:9999">
+  <div class="batch-download-box">
+    <div class="batch-download-head">
+      <div style="display:flex;align-items:center;gap:10px">
+        <span style="font-size:26px">📥</span>
+        <div>
+          <h3 style="margin:0;font-size:18px;font-weight:800;letter-spacing:-0.2px">批次影片與音訊下載中心</h3>
+          <p style="margin:2px 0 0;font-size:12px;color:var(--muted,#64748b)">以最高畫質 MP4 影片、MP3 隨身聽音訊或雙語字幕檔一鍵下載至電腦</p>
+        </div>
+      </div>
+      <button class="vt-close-btn" onclick="closeBatchDownloadModal()" title="關閉">×</button>
+    </div>
+    <div class="batch-download-body">
+      <!-- Tabs -->
+      <div class="batch-tabs">
+        <button class="batch-tab-btn active" id="tabDlLibrary" onclick="switchDownloadTab('library')">🌟 從我的教材與自選勾選 (<span id="dlLibraryCount">0</span>)</button>
+        <button class="batch-tab-btn" id="tabDlUrls" onclick="switchDownloadTab('urls')">📋 批量貼上 YouTube 網址</button>
+      </div>
+
+      <!-- Tab 1: Library List -->
+      <div id="dlPaneLibrary" class="batch-library-wrap">
+        <div class="batch-library-toolbar">
+          <div style="display:flex;align-items:center;gap:8px">
+            <button class="ghost" onclick="toggleDownloadSelectAll(true)" style="padding:4px 10px;font-size:12px">✓ 全選</button>
+            <button class="ghost" onclick="toggleDownloadSelectAll(false)" style="padding:4px 10px;font-size:12px">✕ 清空</button>
+            <span style="font-size:12px;color:var(--muted);margin-left:4px">已勾選 <b id="dlSelectedCount" style="color:#0ea5e9">0</b> 部</span>
+          </div>
+          <input type="text" id="dlSearchInput" placeholder="搜尋教材名稱..." oninput="filterDownloadLibraryList()" style="padding:5px 10px;border-radius:8px;border:1px solid var(--line,#cbd5e1);font-size:12px;background:rgba(0,0,0,0.04);color:inherit;outline:none" />
+        </div>
+        <div class="batch-library-list" id="dlLibraryList"></div>
+      </div>
+
+      <!-- Tab 2: Batch URLs -->
+      <div id="dlPaneUrls" style="display:none">
+        <label style="display:block;font-size:12px;font-weight:700;margin-bottom:6px">每行貼上一個 YouTube 影片網址或 ID：</label>
+        <textarea id="dlUrlsInput" rows="5" placeholder="https://www.youtube.com/watch?v=...&#10;https://youtu.be/...&#10;https://www.youtube.com/watch?v=..." oninput="updateDownloadUrlsCount()" style="width:100%;box-sizing:border-box;padding:10px 12px;border-radius:10px;border:1px solid var(--line,#cbd5e1);background:rgba(0,0,0,0.04);color:inherit;font-size:12.5px;resize:vertical;font-family:monospace"></textarea>
+        <div style="font-size:12px;color:var(--muted);margin-top:4px">已偵測到 <b id="dlUrlsDetectedCount" style="color:#0ea5e9">0</b> 個有效連結</div>
+      </div>
+
+      <!-- Format & Quality Options -->
+      <div class="batch-format-card">
+        <div style="display:flex;align-items:center;justify-content:space-between">
+          <label style="font-size:12.5px;font-weight:800">下載格式與品質：</label>
+          <div style="display:flex;align-items:center;gap:6px">
+            <span style="font-size:11.5px;color:var(--muted)">畫質：</span>
+            <select id="dlQualitySelect" class="vt-select-dropdown" style="padding:4px 8px;border-radius:6px;border:1px solid var(--line,#cbd5e1);background:rgba(0,0,0,0.04);color:inherit;font-size:11.5px;outline:none">
+              <option value="1080p">最佳畫質 (最高 1080p)</option>
+              <option value="720p">標準高畫質 (720p)</option>
+              <option value="best">最高可用畫質</option>
+            </select>
+          </div>
+        </div>
+        <div class="batch-format-options">
+          <div class="batch-format-pill active" id="btnFmtMp4" onclick="setDownloadFormat('mp4')">
+            <span>🎬</span><b>MP4 影片</b><small>(高畫質視訊+音訊)</small>
+          </div>
+          <div class="batch-format-pill" id="btnFmtMp3" onclick="setDownloadFormat('mp3')">
+            <span>🎧</span><b>MP3 高音質音訊</b><small>(適合通勤跟讀聽力)</small>
+          </div>
+          <div class="batch-format-pill" id="btnFmtSub" onclick="setDownloadFormat('sub')">
+            <span>📝</span><b>雙語字幕 (VTT)</b><small>(英中逐字字幕檔)</small>
+          </div>
+        </div>
+      </div>
+
+      <!-- Download Action Bar -->
+      <div style="display:flex;align-items:center;justify-content:space-between;padding-top:4px">
+        <div style="font-size:12px;color:var(--muted)">
+          ⚡ 後端多線程高速萃取 · 零記憶體負擔串流傳輸
+        </div>
+        <div style="display:flex;gap:8px">
+          <button class="ghost" onclick="closeBatchDownloadModal()" style="border-radius:24px">關閉</button>
+          <button class="pill" id="btnStartBatchDownload" onclick="startBatchDownload()" style="background:#0ea5e9;padding:10px 22px;font-size:13.5px;font-weight:800;display:inline-flex;align-items:center;gap:6px">
+            <span>🚀</span><span id="btnStartDlText">開始批次下載</span>
+          </button>
+        </div>
+      </div>
+
+      <!-- Live Progress & Queue -->
+      <div id="dlProgressBox" class="batch-progress-box" style="display:none">
+        <div style="display:flex;align-items:center;justify-content:space-between">
+          <span style="font-size:13px;font-weight:800" id="dlProgressStatusText">處理中...</span>
+          <div style="display:flex;gap:8px;align-items:center">
+            <span style="font-size:12px;color:#0ea5e9;font-weight:700" id="dlProgressPercent">0%</span>
+            <button class="ghost" id="btnCancelDownload" onclick="cancelBatchDownload()" style="padding:2px 8px;font-size:11px;color:#ef4444;border-color:rgba(239,68,68,0.3)">✕ 取消任務</button>
+          </div>
+        </div>
+        <div class="batch-progress-bar-bg">
+          <div class="batch-progress-bar-fill" id="dlProgressBarFill"></div>
+        </div>
+        <div class="batch-queue-list" id="dlQueueList"></div>
+        <div id="dlAllActions" style="display:none;margin-top:12px;justify-content:flex-end">
+          <button class="pill" onclick="triggerAllDownloads()" style="background:#10b981;font-size:12.5px;padding:8px 16px;display:inline-flex;align-items:center;gap:6px">
+            <span>📦</span>一鍵儲存所有已完成檔案
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- 自訂頻道管理視窗 (Custom Channel Management Modal) -->
+<div class="modal" id="customChannelManageModal" style="display:none;z-index:9999">
+  <div class="custom-maker-box" style="width:min(520px, 94vw)">
+    <div class="custom-maker-head">
+      <div style="display:flex;align-items:center;gap:8px">
+        <span style="font-size:22px">🏷️</span>
+        <h3 style="margin:0;font-size:17px;font-weight:800">管理自訂頻道</h3>
+      </div>
+      <button class="vt-close-btn" onclick="closeManageCustomChannelsModal()" title="關閉">×</button>
+    </div>
+    <div class="custom-maker-body" style="padding:0">
+      <!-- Create New Channel Form -->
+      <div style="background:rgba(14,165,233,0.06);border:1px solid rgba(14,165,233,0.25);border-radius:14px;padding:14px;margin-bottom:16px">
+        <div style="font-size:12.5px;font-weight:800;color:#0284c7;margin-bottom:8px">＋ 新增自訂頻道</div>
+        <div style="display:flex;gap:8px;align-items:center;margin-bottom:10px">
+          <input type="text" id="newChannelIcon" value="📁" style="width:40px;text-align:center;font-size:16px;padding:7px 0;border-radius:8px;border:1px solid var(--line,#cbd5e1);background:rgba(0,0,0,0.04);color:inherit;outline:none" />
+          <input type="text" id="newChannelName" placeholder="輸入頻道名稱（例：美劇短片、商務簡報、聽力練習）" style="flex:1;padding:8px 12px;border-radius:8px;border:1px solid var(--line,#cbd5e1);background:rgba(0,0,0,0.04);color:inherit;font-size:13px;outline:none" onkeydown="if(event.key==='Enter')submitCreateCustomChannel()" />
+          <button class="pill" onclick="submitCreateCustomChannel()" style="background:#0ea5e9;padding:8px 14px;font-size:12.5px;white-space:nowrap">建立</button>
+        </div>
+        <div style="font-size:11px;color:var(--muted);margin-bottom:4px">快速選擇圖示：</div>
+        <div style="display:flex;flex-wrap:wrap;gap:6px" id="quickEmojiList">
+          <button class="ghost" type="button" onclick="setNewChannelEmoji('📁')" style="padding:2px 8px;font-size:14px">📁</button>
+          <button class="ghost" type="button" onclick="setNewChannelEmoji('🎧')" style="padding:2px 8px;font-size:14px">🎧</button>
+          <button class="ghost" type="button" onclick="setNewChannelEmoji('💼')" style="padding:2px 8px;font-size:14px">💼</button>
+          <button class="ghost" type="button" onclick="setNewChannelEmoji('🎬')" style="padding:2px 8px;font-size:14px">🎬</button>
+          <button class="ghost" type="button" onclick="setNewChannelEmoji('🚀')" style="padding:2px 8px;font-size:14px">🚀</button>
+          <button class="ghost" type="button" onclick="setNewChannelEmoji('📚')" style="padding:2px 8px;font-size:14px">📚</button>
+          <button class="ghost" type="button" onclick="setNewChannelEmoji('💡')" style="padding:2px 8px;font-size:14px">💡</button>
+          <button class="ghost" type="button" onclick="setNewChannelEmoji('✈️')" style="padding:2px 8px;font-size:14px">✈️</button>
+          <button class="ghost" type="button" onclick="setNewChannelEmoji('🍳')" style="padding:2px 8px;font-size:14px">🍳</button>
+          <button class="ghost" type="button" onclick="setNewChannelEmoji('⚡')" style="padding:2px 8px;font-size:14px">⚡</button>
+          <button class="ghost" type="button" onclick="setNewChannelEmoji('🌟')" style="padding:2px 8px;font-size:14px">🌟</button>
+          <button class="ghost" type="button" onclick="setNewChannelEmoji('🎯')" style="padding:2px 8px;font-size:14px">🎯</button>
+          <button class="ghost" type="button" onclick="setNewChannelEmoji('☕')" style="padding:2px 8px;font-size:14px">☕</button>
+          <button class="ghost" type="button" onclick="setNewChannelEmoji('🚗')" style="padding:2px 8px;font-size:14px">🚗</button>
+        </div>
+      </div>
+
+      <!-- Channel List -->
+      <div style="font-size:12.5px;font-weight:800;margin-bottom:8px">現有自訂頻道列表：</div>
+      <div id="customChannelManageList" style="max-height:220px;overflow-y:auto;display:flex;flex-direction:column;gap:6px"></div>
+
+      <div style="display:flex;justify-content:flex-end;margin-top:16px">
+        <button class="pill" onclick="closeManageCustomChannelsModal()" style="padding:8px 20px;font-size:13px">完成</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- 變更教材自訂頻道視窗 (Move Lesson Channel Modal) -->
+<div class="modal" id="moveVideoChannelModal" style="display:none;z-index:9999">
+  <div class="custom-maker-box" style="width:min(440px, 92vw)">
+    <div class="custom-maker-head">
+      <h3 style="margin:0;font-size:16px;font-weight:800">變更教材所屬自訂頻道</h3>
+      <button class="vt-close-btn" onclick="closeMoveVideoChannelModal()" title="關閉">×</button>
+    </div>
+    <div class="custom-maker-body" style="padding:0">
+      <p id="moveVideoTitle" style="font-size:13px;font-weight:700;margin:0 0 12px;color:#0ea5e9;white-space:nowrap;overflow:hidden;text-overflow:ellipsis"></p>
+      <label style="display:block;font-size:12px;font-weight:700;margin-bottom:6px">請選擇目標自訂頻道：</label>
+      <select id="moveTargetChannelSelect" class="vt-select-dropdown" style="width:100%;box-sizing:border-box;padding:9px 12px;border-radius:10px;background:rgba(0,0,0,0.06);border:1px solid var(--line,#cbd5e1);color:inherit;font-size:13px;outline:none;margin-bottom:16px"></select>
+      <div style="display:flex;justify-content:flex-end;gap:10px">
+        <button class="ghost" onclick="closeMoveVideoChannelModal()">取消</button>
+        <button class="pill" onclick="confirmMoveVideoChannel()" style="background:#0ea5e9;padding:8px 18px;font-size:13px">確認移入</button>
+      </div>
+    </div>
+  </div>
+</div>
 
 <!-- 字幕速度與時間手動校正浮動面板 (Floating Subtitle Calibration Panel) -->
 <div id="vtSyncFloatPanel" class="vt-sync-float-panel" style="display:none">
@@ -49718,8 +50254,14 @@ function renderNavBars() {
     }
   }
 
+  // 3. Custom Channel Bar (Shown when selectedChannel === 'custom')
+  if (typeof renderCustomChannelBar === 'function') {
+    renderCustomChannelBar();
+  }
+
   // Bind mouse wheel to horizontal scroll & auto center active chip
-  [chNav, lvlNav].forEach(el => {
+  const customChNav = document.getElementById('customChannelNav');
+  [chNav, lvlNav, customChNav].forEach(el => {
     if (el && !el._wheelBound) {
       el._wheelBound = true;
       el.addEventListener('wheel', e => {
@@ -49736,6 +50278,8 @@ function renderNavBars() {
     if (activeCh) activeCh.scrollIntoView({ behavior: 'smooth', block: 'nearest', inline: 'center' });
     const activeLvl = lvlNav?.querySelector('.vt-level-chip.active');
     if (activeLvl) activeLvl.scrollIntoView({ behavior: 'smooth', block: 'nearest', inline: 'center' });
+    const activeCustomCh = customChNav?.querySelector('.vt-custom-channel-chip.active');
+    if (activeCustomCh) activeCustomCh.scrollIntoView({ behavior: 'smooth', block: 'nearest', inline: 'center' });
   }, 10);
 }
 
@@ -49750,6 +50294,9 @@ function render() {
     pool = [...videos, ...songs].filter(v => saved.has(v.id));
   } else if (selectedChannel === 'custom') {
     pool = videos.filter(v => v.isCustom || v.cat === '自訂' || v.cat === '探索' || (localStorage.getItem('et_custom_lessons') || '').includes(v.id));
+    if (typeof selectedCustomChannel !== 'undefined' && selectedCustomChannel !== 'all') {
+      pool = pool.filter(v => (v.customChannelId || 'custom_default') === selectedCustomChannel);
+    }
   } else if (selectedChannel !== 'all') {
     pool = videos.filter(v => v.channel === selectedChannel);
   } else {
@@ -49779,7 +50326,11 @@ function render() {
   if (statusEl) {
     const totalCount = pool.length;
     const currentChannelObj = CHANNEL_DEFS.find(c => c.id === selectedChannel);
-    const chName = currentChannelObj ? `${currentChannelObj.icon} ${currentChannelObj.name}` : '全部教材';
+    let chName = currentChannelObj ? `${currentChannelObj.icon} ${currentChannelObj.name}` : '全部教材';
+    if (selectedChannel === 'custom' && typeof selectedCustomChannel !== 'undefined' && selectedCustomChannel !== 'all') {
+      const curCustomCh = typeof getCustomChannelById === 'function' ? getCustomChannelById(selectedCustomChannel) : null;
+      if (curCustomCh) chName = `${curCustomCh.icon} ${curCustomCh.name}`;
+    }
     const lvlText = selectedLevel !== 'all' ? ` · ${selectedLevel} 難度` : '';
     statusEl.innerHTML = `
       <div>顯示 <b>${arr.length}</b> 部教材 (頻道：<b>${chName}</b>${lvlText})</div>
@@ -49791,7 +50342,10 @@ function render() {
   const gridEl = document.getElementById('grid');
   if (gridEl) {
     gridEl.innerHTML = arr.map(v => {
-      const chIcon = getChannelIcon(v.channel || (v.type === 'song' ? 'Music' : (v.isCustom ? '自選加入' : 'Leisure & Travel')));
+      const isCustomVid = v.isCustom || v.cat === '自訂' || v.cat === '探索' || (localStorage.getItem('et_custom_lessons') || '').includes(v.id);
+      const customCh = (isCustomVid && typeof getCustomChannelById === 'function') ? getCustomChannelById(v.customChannelId || 'custom_default') : null;
+      const chBadge = customCh ? `<button class="ghost" style="padding:1px 7px;font-size:10.5px;border-radius:10px;color:#8b5cf6;border-color:rgba(139,92,246,0.3);background:rgba(139,92,246,0.06);margin-left:4px;cursor:pointer" onclick="event.stopPropagation();openMoveVideoChannelModal('${v.id}')" title="點擊變更自訂頻道分類">${customCh.icon} ${customCh.name}</button>` : '';
+      const chIcon = getChannelIcon(v.channel || (v.type === 'song' ? 'Music' : (isCustomVid ? '自選加入' : 'Leisure & Travel')));
       const chName = (CHANNEL_DEFS.find(c => c.id === (v.channel || (v.type==='song'?'Music':'')))||{}).name || v.cat || '自選加入';
       return `
         <article class="video" onclick="openVideo('${v.id}')">
@@ -49805,8 +50359,11 @@ function render() {
             <h3>${v.title}</h3>
             <div class="desc">${v.speaker ? v.speaker + ' · ' : ''}${v.zh}</div>
             <div class="vfoot">
-              <span>▶ ${v.views} · ${chName}</span>
-              <button class="save ${saved.has(v.id)?'saved':''}" onclick="event.stopPropagation();toggleSave('${v.id}')">${saved.has(v.id)?'✓ 已收藏':'♡ 收藏'}</button>
+              <span style="display:inline-flex;align-items:center;flex-wrap:wrap">▶ ${v.views} · ${chName} ${chBadge}</span>
+              <div style="display:inline-flex;align-items:center;gap:6px">
+                <button class="ghost" style="padding:3px 8px;font-size:11px;border-radius:12px;color:#0ea5e9;border-color:rgba(14,165,233,0.3)" onclick="event.stopPropagation();openBatchDownloadSingle('${v.id}')" title="批次/單部下載 MP4 影片、MP3 音訊或字幕">📥 下載</button>
+                <button class="save ${saved.has(v.id)?'saved':''}" onclick="event.stopPropagation();toggleSave('${v.id}')">${saved.has(v.id)?'✓ 已收藏':'♡ 收藏'}</button>
+              </div>
             </div>
           </div>
         </article>
@@ -49995,12 +50552,14 @@ async function startGenerateCustomLesson() {
     }
 
     // 3. Assemble complete lesson object
+    const chosenChannelId = document.getElementById('makerCustomChannelSelect')?.value || 'custom_default';
     const customItem = {
       id: vid,
       title: videoTitle,
       speaker: 'YouTube',
       channel: '自選加入',
       cat: '自選',
+      customChannelId: chosenChannelId,
       isCustom: true,
       level: 'B1',
       duration: formatDuration(cues[cues.length - 1]?.start || 180),
@@ -50947,6 +51506,7 @@ async function importExplorerVideoDirect(vid, title, clickedBtn) {
 
     const cues = data.cues;
     const finalTitle = data.title || title || 'YouTube 英語教材';
+    const chosenChannelId = document.getElementById('explorerTargetChannelSelect')?.value || 'custom_default';
 
     const customItem = {
       id: vid,
@@ -50954,6 +51514,7 @@ async function importExplorerVideoDirect(vid, title, clickedBtn) {
       speaker: 'YouTube Explorer',
       channel: '自選加入',
       cat: '自選',
+      customChannelId: chosenChannelId,
       isCustom: true,
       level: 'B1',
       duration: formatDuration(cues[cues.length - 1]?.start || 180),
@@ -51151,7 +51712,7 @@ if(window.matchMedia('(display-mode: standalone)').matches||navigator.standalone
 document.querySelector('#installBtn').addEventListener('click',async()=>{if(deferredPrompt){deferredPrompt.prompt();const{outcome}=await deferredPrompt.userChoice;deferredPrompt=null;if(outcome==='accepted')toast('✓ 安裝中...')}else if(/iphone|ipad|ipod/i.test(navigator.userAgent)){toast('Safari：分享 → 加入主畫面')}else{toast('請從瀏覽器選單選擇「安裝應用程式」')}});
 // Register Service Worker + auto-reload on new SW version
 if('serviceWorker'in navigator&&location.protocol.startsWith('http')){
-  window.addEventListener('load',()=>navigator.serviceWorker.register('./sw.js?v=132').then(reg=>{
+  window.addEventListener('load',()=>navigator.serviceWorker.register('./sw.js?v=143').then(reg=>{
     try{reg.update()}catch(e){}
     reg.addEventListener('updatefound',()=>{
       const nw=reg.installing;
@@ -52639,5 +53200,593 @@ closeModal = function() {
   if (container) container.innerHTML = '';
   _origCloseModal();
 };
+
+// ==========================================
+// 🎯 自訂頻道分類管理引擎 (Custom Channels Management)
+// ==========================================
+const DEFAULT_CUSTOM_CHANNELS = [
+  { id: 'custom_default', name: '預設自訂頻道', icon: '📁', count: 0 },
+  { id: 'custom_tech', name: '科技趨勢', icon: '💻', count: 0 },
+  { id: 'custom_biz', name: '商業職場', icon: '💼', count: 0 },
+  { id: 'custom_daily', name: '生活日常', icon: '☕', count: 0 }
+];
+
+let selectedCustomChannel = 'all';
+
+function getCustomChannels() {
+  try {
+    const raw = localStorage.getItem('et_custom_channels');
+    if (raw) {
+      const parsed = JSON.parse(raw);
+      if (Array.isArray(parsed) && parsed.length > 0) return parsed;
+    }
+  } catch(e) {}
+  return [...DEFAULT_CUSTOM_CHANNELS];
+}
+
+function saveCustomChannels(channels) {
+  try {
+    localStorage.setItem('et_custom_channels', JSON.stringify(channels));
+  } catch(e) {
+    console.error('Failed to save custom channels:', e);
+  }
+}
+
+function getCustomChannelById(id) {
+  const channels = getCustomChannels();
+  return channels.find(c => c.id === id) || { id: id || 'custom_default', name: '未分類頻道', icon: '📁' };
+}
+
+function renderCustomChannelBar() {
+  const bar = document.getElementById('customChannelNav');
+  if (!bar) return;
+
+  if (selectedChannel !== 'custom') {
+    bar.style.display = 'none';
+    return;
+  }
+  bar.style.display = 'flex';
+
+  const channels = getCustomChannels();
+  const customVideos = videos.filter(v => v.isCustom || v.cat === '自訂' || v.cat === '探索' || (localStorage.getItem('et_custom_lessons') || '').includes(v.id));
+
+  const totalCount = customVideos.length;
+  const isAllActive = selectedCustomChannel === 'all';
+
+  let html = `
+    <span class="vt-custom-label">自訂分類:</span>
+    <button class="vt-custom-channel-chip ${isAllActive ? 'active' : ''}" onclick="selectCustomChannel('all')">
+      <span>✨</span>
+      <span>全部自訂</span>
+      <span class="custom-cnt">${totalCount}</span>
+    </button>
+  `;
+
+  channels.forEach(ch => {
+    const cnt = customVideos.filter(v => (v.customChannelId || 'custom_default') === ch.id).length;
+    const isActive = selectedCustomChannel === ch.id;
+    html += `
+      <button class="vt-custom-channel-chip ${isActive ? 'active' : ''}" onclick="selectCustomChannel('${ch.id}')">
+        <span>${ch.icon}</span>
+        <span>${ch.name}</span>
+        <span class="custom-cnt">${cnt}</span>
+      </button>
+    `;
+  });
+
+  html += `
+    <button class="vt-custom-channel-chip manage-btn" onclick="openManageCustomChannelsModal()">
+      <span>⚙️</span>
+      <span>管理頻道</span>
+    </button>
+  `;
+
+  bar.innerHTML = html;
+}
+
+function selectCustomChannel(id) {
+  selectedCustomChannel = id;
+  renderNavBars();
+  render();
+}
+
+function populateCustomChannelSelects() {
+  const channels = getCustomChannels();
+  const selects = ['makerCustomChannelSelect', 'explorerTargetChannelSelect', 'moveChannelSelect'];
+  selects.forEach(sId => {
+    const el = document.getElementById(sId);
+    if (!el) return;
+    const curVal = el.value;
+    el.innerHTML = channels.map(c => `<option value="${c.id}">${c.icon} ${c.name}</option>`).join('');
+    if (curVal && channels.some(c => c.id === curVal)) {
+      el.value = curVal;
+    }
+  });
+}
+
+function openManageCustomChannelsModal() {
+  renderManageCustomChannelsList();
+  const modal = document.getElementById('manageCustomChannelsModal');
+  if (modal) modal.style.display = 'flex';
+}
+
+function closeManageCustomChannelsModal() {
+  const modal = document.getElementById('manageCustomChannelsModal');
+  if (modal) modal.style.display = 'none';
+}
+
+function renderManageCustomChannelsList() {
+  const container = document.getElementById('manageChannelsList');
+  if (!container) return;
+  const channels = getCustomChannels();
+  const customVideos = videos.filter(v => v.isCustom || v.cat === '自訂' || v.cat === '探索' || (localStorage.getItem('et_custom_lessons') || '').includes(v.id));
+
+  container.innerHTML = channels.map(ch => {
+    const cnt = customVideos.filter(v => (v.customChannelId || 'custom_default') === ch.id).length;
+    const isDefault = ch.id === 'custom_default';
+    return `
+      <div style="display:flex;align-items:center;justify-content:space-between;padding:10px 14px;background:rgba(255,255,255,0.03);border:1px solid rgba(255,255,255,0.08);border-radius:10px">
+        <div style="display:flex;align-items:center;gap:10px">
+          <span style="font-size:20px">${ch.icon}</span>
+          <div>
+            <div style="font-weight:600;font-size:14px;color:var(--text, #f8fafc)">${ch.name}</div>
+            <div style="font-size:11.5px;color:rgba(255,255,255,0.5)">收錄 ${cnt} 部影片 ${isDefault ? '· 系統預設' : ''}</div>
+          </div>
+        </div>
+        <div>
+          ${isDefault ? '<span style="font-size:11px;color:rgba(255,255,255,0.4)">預設頻道</span>' : `
+            <button class="ghost" style="padding:4px 10px;font-size:12px;border-radius:8px;color:#ef4444;border-color:rgba(239,68,68,0.3)" onclick="deleteCustomChannel('${ch.id}')">刪除</button>
+          `}
+        </div>
+      </div>
+    `;
+  }).join('');
+}
+
+function setNewChannelEmoji(emoji) {
+  const input = document.getElementById('newChannelIcon');
+  if (input) input.value = emoji;
+}
+
+function submitCreateCustomChannel() {
+  const nameInput = document.getElementById('newChannelName');
+  const iconInput = document.getElementById('newChannelIcon');
+  const name = (nameInput?.value || '').trim();
+  const icon = (iconInput?.value || '📁').trim();
+
+  if (!name) {
+    alert('請輸入頻道名稱！');
+    if (nameInput) nameInput.focus();
+    return;
+  }
+
+  const channels = getCustomChannels();
+  const newId = 'custom_' + Date.now().toString(36);
+  channels.push({ id: newId, name, icon });
+  saveCustomChannels(channels);
+
+  if (nameInput) nameInput.value = '';
+  populateCustomChannelSelects();
+  renderManageCustomChannelsList();
+  renderCustomChannelBar();
+  showToast(`已成功建立頻道「${icon} ${name}」！`);
+}
+
+function deleteCustomChannel(id) {
+  if (id === 'custom_default') {
+    alert('預設頻道不可刪除！');
+    return;
+  }
+  if (!confirm('確定要刪除此頻道嗎？該頻道內的自訂影片將自動歸類至「預設自訂頻道」。')) return;
+
+  let channels = getCustomChannels();
+  channels = channels.filter(c => c.id !== id);
+  saveCustomChannels(channels);
+
+  videos.forEach(v => {
+    if (v.customChannelId === id) {
+      v.customChannelId = 'custom_default';
+    }
+  });
+  try {
+    const raw = localStorage.getItem('et_custom_lessons');
+    if (raw) {
+      const list = JSON.parse(raw);
+      list.forEach(item => {
+        if (item.customChannelId === id) item.customChannelId = 'custom_default';
+      });
+      localStorage.setItem('et_custom_lessons', JSON.stringify(list));
+    }
+  } catch(e) {}
+
+  if (selectedCustomChannel === id) selectedCustomChannel = 'all';
+
+  populateCustomChannelSelects();
+  renderManageCustomChannelsList();
+  renderCustomChannelBar();
+  render();
+  showToast('頻道已刪除，影片已轉移至預設自訂頻道');
+}
+
+// Move single video channel
+let pendingMoveVideoId = null;
+
+function openMoveVideoChannelModal(vid) {
+  pendingMoveVideoId = vid;
+  const vidObj = videos.find(v => v.id === vid);
+  const infoEl = document.getElementById('moveVideoTargetInfo');
+  if (infoEl && vidObj) {
+    infoEl.innerHTML = `正在變更影片分類：<b>${vidObj.title}</b>`;
+  }
+  populateCustomChannelSelects();
+  const select = document.getElementById('moveChannelSelect');
+  if (select && vidObj) {
+    select.value = vidObj.customChannelId || 'custom_default';
+  }
+  const modal = document.getElementById('moveVideoChannelModal');
+  if (modal) modal.style.display = 'flex';
+}
+
+function closeMoveVideoChannelModal() {
+  const modal = document.getElementById('moveVideoChannelModal');
+  if (modal) modal.style.display = 'none';
+  pendingMoveVideoId = null;
+}
+
+function confirmMoveVideoChannel() {
+  if (!pendingMoveVideoId) return;
+  const select = document.getElementById('moveChannelSelect');
+  const targetChannelId = select?.value || 'custom_default';
+
+  const vidObj = videos.find(v => v.id === pendingMoveVideoId);
+  if (vidObj) {
+    vidObj.customChannelId = targetChannelId;
+  }
+
+  try {
+    const raw = localStorage.getItem('et_custom_lessons');
+    if (raw) {
+      const list = JSON.parse(raw);
+      const target = list.find(l => l.id === pendingMoveVideoId);
+      if (target) {
+        target.customChannelId = targetChannelId;
+        localStorage.setItem('et_custom_lessons', JSON.stringify(list));
+      }
+    }
+  } catch(e) {}
+
+  closeMoveVideoChannelModal();
+  renderCustomChannelBar();
+  render();
+  showToast('已成功變更影片所屬頻道！');
+}
+
+
+// ==========================================
+// 📥 批次/單部影音多格式下載器 (Batch & Single Downloader)
+// ==========================================
+let currentDownloadTab = 'library';
+let currentDownloadFormat = 'mp4';
+let selectedDownloadIds = new Set();
+let activeDownloadTaskId = null;
+let downloadPollTimer = null;
+
+function openBatchDownloadModal(initialTab = 'library') {
+  currentDownloadTab = initialTab;
+  switchDownloadTab(initialTab);
+  renderDownloadLibraryList();
+  populateCustomChannelSelects();
+  const modal = document.getElementById('batchDownloadModal');
+  if (modal) modal.style.display = 'flex';
+}
+
+function closeBatchDownloadModal() {
+  const modal = document.getElementById('batchDownloadModal');
+  if (modal) modal.style.display = 'none';
+}
+
+function openBatchDownloadSingle(vid) {
+  selectedDownloadIds.clear();
+  selectedDownloadIds.add(vid);
+  openBatchDownloadModal('library');
+  renderDownloadLibraryList();
+}
+
+function switchDownloadTab(tab) {
+  currentDownloadTab = tab;
+  ['library', 'urls'].forEach(t => {
+    const tabBtn = document.getElementById(`dlTab-${t}`);
+    const tabPane = document.getElementById(`dlPane-${t}`);
+    if (tabBtn) tabBtn.classList.toggle('active', t === tab);
+    if (tabPane) tabPane.style.display = (t === tab) ? 'block' : 'none';
+  });
+  updateDownloadSummaryCount();
+}
+
+function setDownloadFormat(fmt) {
+  currentDownloadFormat = fmt;
+  ['mp4', 'mp3', 'vtt', 'srt'].forEach(f => {
+    const btn = document.getElementById(`fmtBtn-${f}`);
+    if (btn) btn.classList.toggle('active', f === fmt);
+  });
+}
+
+function filterDownloadLibraryList() {
+  renderDownloadLibraryList();
+}
+
+function renderDownloadLibraryList() {
+  const container = document.getElementById('dlLibraryList');
+  if (!container) return;
+
+  const filter = document.getElementById('dlFilterScope')?.value || 'all';
+  let pool = [];
+  if (filter === 'all') {
+    pool = [...videos, ...songs];
+  } else if (filter === 'custom') {
+    pool = videos.filter(v => v.isCustom || v.cat === '自訂' || v.cat === '探索' || (localStorage.getItem('et_custom_lessons') || '').includes(v.id));
+  } else if (filter === 'saved') {
+    pool = [...videos, ...songs].filter(v => saved.has(v.id));
+  } else if (filter === 'songs') {
+    pool = songs;
+  } else {
+    pool = videos.filter(v => v.channel === filter);
+  }
+
+  container.innerHTML = pool.map(item => {
+    const isChecked = selectedDownloadIds.has(item.id);
+    const chName = (CHANNEL_DEFS.find(c => c.id === item.channel)||{}).name || item.cat || (item.type==='song'?'經典情歌':'YouTube');
+    return `
+      <div style="display:flex;align-items:center;justify-content:space-between;padding:8px 10px;background:rgba(255,255,255,0.03);border:1px solid rgba(255,255,255,0.06);border-radius:8px;gap:10px;cursor:pointer" onclick="toggleDownloadItem('${item.id}')">
+        <div style="display:flex;align-items:center;gap:10px;overflow:hidden">
+          <input type="checkbox" ${isChecked ? 'checked' : ''} onclick="event.stopPropagation();toggleDownloadItem('${item.id}')" style="width:16px;height:16px;accent-color:#0ea5e9;cursor:pointer">
+          <span style="font-size:18px">${item.emoji || '🎬'}</span>
+          <div style="overflow:hidden;text-overflow:ellipsis;white-space:nowrap">
+            <div style="font-weight:600;font-size:13px;color:var(--text,#f8fafc);overflow:hidden;text-overflow:ellipsis;white-space:nowrap">${item.title}</div>
+            <div style="font-size:11px;color:rgba(255,255,255,0.5)">${chName} · ${item.duration || '03:00'} · ID: ${item.id}</div>
+          </div>
+        </div>
+        <span class="level badge-${item.level || 'B1'}" style="font-size:10px;padding:1px 6px">${item.level || 'B1'}</span>
+      </div>
+    `;
+  }).join('');
+
+  updateDownloadSummaryCount();
+}
+
+function toggleDownloadItem(id) {
+  if (selectedDownloadIds.has(id)) {
+    selectedDownloadIds.delete(id);
+  } else {
+    selectedDownloadIds.add(id);
+  }
+  renderDownloadLibraryList();
+}
+
+function toggleDownloadSelectAll(checked) {
+  const filter = document.getElementById('dlFilterScope')?.value || 'all';
+  let pool = [];
+  if (filter === 'all') pool = [...videos, ...songs];
+  else if (filter === 'custom') pool = videos.filter(v => v.isCustom || v.cat === '自訂' || v.cat === '探索' || (localStorage.getItem('et_custom_lessons') || '').includes(v.id));
+  else if (filter === 'saved') pool = [...videos, ...songs].filter(v => saved.has(v.id));
+  else if (filter === 'songs') pool = songs;
+  else pool = videos.filter(v => v.channel === filter);
+
+  if (checked) {
+    pool.forEach(item => selectedDownloadIds.add(item.id));
+  } else {
+    pool.forEach(item => selectedDownloadIds.delete(item.id));
+  }
+  renderDownloadLibraryList();
+}
+
+function updateDownloadUrlsCount() {
+  updateDownloadSummaryCount();
+}
+
+function parseInputUrls() {
+  const text = document.getElementById('dlUrlsTextarea')?.value || '';
+  const lines = text.split('\n').map(l => l.trim()).filter(Boolean);
+  const items = [];
+  lines.forEach(l => {
+    const match = l.match(/(?:v=|\/embed\/|youtu\.be\/|\/v\/|shorts\/)([a-zA-Z0-9_-]{11})/);
+    if (match) {
+      items.push({ id: match[1], url: `https://www.youtube.com/watch?v=${match[1]}` });
+    } else if (l.length === 11 && !l.includes(' ')) {
+      items.push({ id: l, url: `https://www.youtube.com/watch?v=${l}` });
+    } else if (l.startsWith('http')) {
+      items.push({ url: l });
+    }
+  });
+  return items;
+}
+
+function updateDownloadSummaryCount() {
+  const summaryEl = document.getElementById('dlTotalCountSummary');
+  if (!summaryEl) return;
+  if (currentDownloadTab === 'library') {
+    summaryEl.textContent = `已選取站內 ${selectedDownloadIds.size} 部影片`;
+  } else {
+    const urls = parseInputUrls();
+    summaryEl.textContent = `已輸入 ${urls.length} 個外部影音連結`;
+  }
+}
+
+async function startBatchDownload() {
+  let targets = [];
+  if (currentDownloadTab === 'library') {
+    if (selectedDownloadIds.size === 0) {
+      alert('請先勾選至少一部影片！');
+      return;
+    }
+    const allItems = [...videos, ...songs];
+    selectedDownloadIds.forEach(id => {
+      const found = allItems.find(v => v.id === id);
+      targets.push({
+        id: id,
+        title: found?.title || `video_${id}`,
+        url: `https://www.youtube.com/watch?v=${id}`
+      });
+    });
+  } else {
+    targets = parseInputUrls();
+    if (targets.length === 0) {
+      alert('請在文字框中貼上至少一個有效的 YouTube 網址！');
+      return;
+    }
+  }
+
+  const audioBitrate = document.getElementById('dlAudioBitrate')?.value || '192k';
+  const burnSubtitles = document.getElementById('dlBurnSubtitles')?.checked || false;
+
+  const btn = document.getElementById('startBatchDownloadBtn');
+  if (btn) {
+    btn.disabled = true;
+    btn.innerHTML = `<span class="spinner" style="width:14px;height:14px;border:2px solid #fff;border-top-color:transparent;display:inline-block;border-radius:50%;vertical-align:middle;animation:spin 0.8s linear infinite;margin-right:6px"></span> 排程下載中...`;
+  }
+
+  const statusContainer = document.getElementById('dlProgressContainer');
+  if (statusContainer) statusContainer.style.display = 'block';
+
+  try {
+    const resp = await fetch('/api/batch_download', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        format: currentDownloadFormat,
+        items: targets,
+        audio_bitrate: audioBitrate,
+        burn_subtitles: burnSubtitles
+      })
+    });
+    const data = await resp.json();
+    if (!resp.ok) {
+      throw new Error(data.error || '啟動批次下載失敗');
+    }
+
+    activeDownloadTaskId = data.task_id;
+    pollBatchDownloadStatus(data.task_id);
+  } catch(err) {
+    alert('下載啟動失敗: ' + err.message);
+    if (btn) {
+      btn.disabled = false;
+      btn.innerHTML = `🚀 開始批次下載`;
+    }
+  }
+}
+
+function pollBatchDownloadStatus(taskId) {
+  if (downloadPollTimer) clearTimeout(downloadPollTimer);
+
+  const fetchStatus = async () => {
+    try {
+      const resp = await fetch(`/api/batch_status?task_id=${taskId}`);
+      if (!resp.ok) return;
+      const data = await resp.json();
+
+      updateDownloadUI(data);
+
+      if (data.status === 'processing') {
+        downloadPollTimer = setTimeout(fetchStatus, 1500);
+      } else {
+        const btn = document.getElementById('startBatchDownloadBtn');
+        if (btn) {
+          btn.disabled = false;
+          btn.innerHTML = `🚀 重新啟動下載`;
+        }
+      }
+    } catch(e) {
+      downloadPollTimer = setTimeout(fetchStatus, 2500);
+    }
+  };
+
+  fetchStatus();
+}
+
+function updateDownloadUI(data) {
+  const percent = data.percent || 0;
+  const bar = document.getElementById('dlProgressBar');
+  const percentText = document.getElementById('dlProgressPercent');
+  const curItemText = document.getElementById('dlCurrentItemText');
+  const detailsList = document.getElementById('dlTaskDetailsList');
+  const actionArea = document.getElementById('dlCompletedActionArea');
+
+  if (bar) bar.style.width = `${percent}%`;
+  if (percentText) percentText.textContent = `${percent}%`;
+  if (curItemText) curItemText.textContent = `進度: ${data.completed}/${data.total} (${data.current_item || '處理中...'})`;
+
+  if (detailsList && data.items) {
+    detailsList.innerHTML = data.items.map(it => {
+      let icon = '⏳';
+      let statusColor = 'rgba(255,255,255,0.4)';
+      let downloadLink = '';
+
+      if (it.status === 'completed') {
+        icon = '✅';
+        statusColor = '#10b981';
+        downloadLink = `<a href="${it.download_url}" download class="ghost" style="padding:2px 8px;font-size:11px;border-radius:6px;color:#0ea5e9;border-color:rgba(14,165,233,0.3);text-decoration:none">直接下載 (${it.file_size || '檔案'})</a>`;
+      } else if (it.status === 'processing') {
+        icon = '⚡';
+        statusColor = '#f59e0b';
+      } else if (it.status === 'error') {
+        icon = '❌';
+        statusColor = '#ef4444';
+        downloadLink = `<span style="font-size:11px;color:#ef4444">${it.error || '失敗'}</span>`;
+      }
+
+      return `
+        <div style="display:flex;align-items:center;justify-content:space-between;padding:5px 8px;background:rgba(255,255,255,0.02);border-radius:6px;font-size:12px">
+          <div style="display:flex;align-items:center;gap:6px;overflow:hidden">
+            <span>${icon}</span>
+            <span style="overflow:hidden;text-overflow:ellipsis;white-space:nowrap;color:${statusColor}">${it.title}</span>
+          </div>
+          <div>${downloadLink}</div>
+        </div>
+      `;
+    }).join('');
+  }
+
+  if (actionArea) {
+    if (data.status === 'completed') {
+      actionArea.style.display = 'block';
+    } else {
+      actionArea.style.display = 'none';
+    }
+  }
+}
+
+function cancelBatchDownload() {
+  if (downloadPollTimer) clearTimeout(downloadPollTimer);
+  const container = document.getElementById('dlProgressContainer');
+  if (container) container.style.display = 'none';
+  const btn = document.getElementById('startBatchDownloadBtn');
+  if (btn) {
+    btn.disabled = false;
+    btn.innerHTML = `🚀 開始批次下載`;
+  }
+  showToast('已取消下載任務追蹤');
+}
+
+function triggerAllDownloads() {
+  const container = document.getElementById('dlTaskDetailsList');
+  if (!container) return;
+  const links = container.querySelectorAll('a[download]');
+  links.forEach((a, i) => {
+    setTimeout(() => {
+      a.click();
+    }, i * 400);
+  });
+  showToast(`已觸發 ${links.length} 個檔案下載！`);
+}
+
+// Ensure custom channel and download modules initialize upon page load
+window.addEventListener('DOMContentLoaded', () => {
+  populateCustomChannelSelects();
+  renderCustomChannelBar();
+});
+setTimeout(() => {
+  populateCustomChannelSelects();
+  renderCustomChannelBar();
+}, 200);
 
 </script></body></html>

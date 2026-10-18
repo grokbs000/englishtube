@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Local ENGLISHTUBE web server + optional transcript/AI APIs."""
-import html, json, os, re, shutil, subprocess, tempfile, urllib.request, urllib.error, urllib.parse
+import html, json, os, re, shutil, subprocess, tempfile, threading, time, urllib.request, urllib.error, urllib.parse, uuid
 from pathlib import Path
 from http.server import ThreadingHTTPServer, SimpleHTTPRequestHandler
 from urllib.parse import urlparse
@@ -83,6 +83,78 @@ def get_whisper_model():
                 os.environ['no_proxy'] = old_no_proxy_lower
     return _whisper_model
 
+DOWNLOADS_DIR = ROOT / 'downloads'
+DOWNLOADS_DIR.mkdir(exist_ok=True)
+download_tasks = {}
+download_tasks_lock = threading.Lock()
+
+def run_batch_download_worker(task_id, video_ids, fmt, quality):
+    ytdlp = shutil.which('yt-dlp') or '/opt/homebrew/bin/yt-dlp' or '/usr/local/bin/yt-dlp'
+    ffmpeg = shutil.which('ffmpeg') or '/opt/homebrew/bin/ffmpeg' or '/usr/local/bin/ffmpeg'
+
+    with download_tasks_lock:
+        task = download_tasks.get(task_id)
+    if not task:
+        return
+
+    for item in task['items']:
+        with download_tasks_lock:
+            if task.get('cancelled'):
+                item['status'] = 'cancelled'
+                continue
+
+        vid = item['id']
+        url = f'https://www.youtube.com/watch?v={vid}'
+        with download_tasks_lock:
+            item['status'] = 'downloading'
+
+        out_template = str(DOWNLOADS_DIR / f'%(title).60s [{vid}].%(ext)s')
+        cmd = [str(ytdlp), '--no-warnings', '--no-playlist']
+        if ffmpeg:
+            cmd.extend(['--ffmpeg-location', str(Path(ffmpeg).parent)])
+
+        if fmt == 'mp3':
+            cmd.extend(['-x', '--audio-format', 'mp3', '--audio-quality', '0', '-o', out_template, url])
+        elif fmt in ('sub', 'vtt'):
+            cmd.extend(['--skip-download', '--write-auto-subs', '--write-subs', '--sub-langs', 'en.*,zh.*', '--convert-subs', 'vtt', '-o', out_template, url])
+        elif fmt == 'srt':
+            cmd.extend(['--skip-download', '--write-auto-subs', '--write-subs', '--sub-langs', 'en.*,zh.*', '--convert-subs', 'srt', '-o', out_template, url])
+        else: # mp4
+            if quality == '1080p':
+                format_spec = 'bestvideo[height<=1080][ext=mp4]+bestaudio[ext=m4a]/best[height<=1080][ext=mp4]/best'
+            elif quality == '720p':
+                format_spec = 'bestvideo[height<=720][ext=mp4]+bestaudio[ext=m4a]/best[height<=720][ext=mp4]/best'
+            else:
+                format_spec = 'bestvideo[ext=mp4]+bestaudio[ext=m4a]/best[ext=mp4]/best'
+            cmd.extend(['-f', format_spec, '--merge-output-format', 'mp4', '-o', out_template, url])
+
+        try:
+            p = subprocess.run(cmd, capture_output=True, text=True, timeout=360)
+            with download_tasks_lock:
+                if p.returncode == 0:
+                    matched = list(DOWNLOADS_DIR.glob(f'*[{vid}].*'))
+                    if matched:
+                        f = matched[-1]
+                        item['status'] = 'completed'
+                        item['filename'] = f.name
+                        item['size'] = f.stat().st_size
+                    else:
+                        item['status'] = 'completed'
+                else:
+                    item['status'] = 'error'
+                    item['error'] = (p.stderr or p.stdout or '下載失敗')[-180:].strip()
+        except subprocess.TimeoutExpired:
+            with download_tasks_lock:
+                item['status'] = 'error'
+                item['error'] = '下載逾時 (超過 6 分鐘)'
+        except Exception as e:
+            with download_tasks_lock:
+                item['status'] = 'error'
+                item['error'] = str(e)[:150]
+
+    with download_tasks_lock:
+        task['status'] = 'completed' if not task.get('cancelled') else 'cancelled'
+
 class Handler(SimpleHTTPRequestHandler):
     def __init__(self,*a,**kw):super().__init__(*a,directory=str(ROOT),**kw)
     def log_message(self,fmt,*args): print('[web]',fmt%args)
@@ -107,6 +179,71 @@ class Handler(SimpleHTTPRequestHandler):
             except Exception:
                 limit = 30
             self.search_yt(query, start, limit)
+            return
+
+        if parsed.path in ('/api/download-status', '/api/batch_status'):
+            qs = urllib.parse.parse_qs(parsed.query)
+            tid = qs.get('taskId', [''])[0] or qs.get('task_id', [''])[0]
+            with download_tasks_lock:
+                t = download_tasks.get(tid)
+            if t:
+                items = t.get('items', [])
+                total = len(items)
+                completed = sum(1 for it in items if it.get('status') in ('completed', 'error', 'cancelled'))
+                percent = int((completed / total * 100)) if total > 0 else 0
+                resp = dict(t)
+                resp['total'] = total
+                resp['completed'] = completed
+                resp['percent'] = percent
+                for it in resp.get('items', []):
+                    if it.get('filename'):
+                        it['download_url'] = f'/api/download-file?file={urllib.parse.quote(it["filename"])}'
+                        size_mb = round(it.get('size', 0) / (1024 * 1024), 2)
+                        it['file_size'] = f'{size_mb} MB' if size_mb > 0.05 else f'{round(it.get("size",0)/1024, 1)} KB'
+                self.send_json(200, resp)
+            else:
+                self.send_json(404, {'error': 'Task not found'})
+            return
+
+        if parsed.path in ('/api/cancel-download', '/api/cancel_download'):
+            qs = urllib.parse.parse_qs(parsed.query)
+            tid = qs.get('taskId', [''])[0] or qs.get('task_id', [''])[0]
+            with download_tasks_lock:
+                if tid in download_tasks:
+                    download_tasks[tid]['cancelled'] = True
+            self.send_json(200, {'ok': True})
+            return
+
+        if parsed.path in ('/api/download-file', '/api/download_file'):
+            qs = urllib.parse.parse_qs(parsed.query)
+            fn = os.path.basename(qs.get('file', [''])[0])
+            target = (DOWNLOADS_DIR / fn).resolve()
+            if not str(target).startswith(str(DOWNLOADS_DIR.resolve())) or not target.exists() or not target.is_file():
+                self.send_error(404, 'File not found')
+                return
+            try:
+                flen = target.stat().st_size
+                self.send_response(200)
+                if fn.endswith('.mp4'):
+                    self.send_header('Content-Type', 'video/mp4')
+                elif fn.endswith('.mp3'):
+                    self.send_header('Content-Type', 'audio/mpeg')
+                elif fn.endswith('.vtt'):
+                    self.send_header('Content-Type', 'text/vtt; charset=utf-8')
+                elif fn.endswith('.srt'):
+                    self.send_header('Content-Type', 'application/x-subrip; charset=utf-8')
+                else:
+                    self.send_header('Content-Type', 'application/octet-stream')
+                safe_ascii_name = re.sub(r'[^\w\.-]', '_', fn)
+                encoded_name = urllib.parse.quote(fn)
+                self.send_header('Content-Disposition', f'attachment; filename="{safe_ascii_name}"; filename*=UTF-8\'\'{encoded_name}')
+                self.send_header('Content-Length', str(flen))
+                self.send_header('Cache-Control', 'no-cache')
+                self.end_headers()
+                with open(target, 'rb') as f:
+                    shutil.copyfileobj(f, self.wfile, length=64*1024)
+            except Exception as e:
+                pass
             return
         # No-cache headers for index.html and sw.js to prevent stale SW cache
         if parsed.path in ('/', '/index.html', '/sw.js'):
@@ -306,8 +443,73 @@ class Handler(SimpleHTTPRequestHandler):
             n=int(self.headers.get('Content-Length','0')); data=json.loads(self.rfile.read(min(n,1_000_000)) or b'{}')
             if self.path=='/api/transcript': self.transcript(data);return
             if self.path=='/api/translate': self.translate(data);return
+            if self.path in ('/api/batch-download', '/api/batch_download'): self.start_batch_download(data);return
             self.send_json(404,{'error':'API not found'})
         except Exception as e:self.send_json(500,{'error':str(e)[:500]})
+
+    def start_batch_download(self, data):
+        vids = data.get('videoIds', [])
+        fmt = data.get('format', 'mp4') # 'mp4' | 'mp3' | 'vtt' | 'srt' | 'sub'
+        quality = data.get('quality', 'best')
+        titles = data.get('titles', {}) # optional dict of {vid: title}
+
+        # Also support { items: [{ id, title, url }] }
+        raw_items = data.get('items', [])
+        if raw_items:
+            for it in raw_items:
+                if isinstance(it, dict):
+                    v_id = it.get('id') or ''
+                    if not v_id and it.get('url'):
+                        v_id = video_id(it.get('url')) or ''
+                    if v_id:
+                        vids.append(v_id)
+                        if it.get('title'):
+                            titles[v_id] = it['title']
+                elif isinstance(it, str):
+                    vids.append(it)
+        
+        valid_vids = []
+        for v in vids:
+            clean_v = str(v).strip()
+            if YOUTUBE_ID.match(clean_v):
+                if clean_v not in valid_vids: valid_vids.append(clean_v)
+            else:
+                try:
+                    c_vid = video_id(clean_v)
+                    if c_vid and c_vid not in valid_vids: valid_vids.append(c_vid)
+                except Exception:
+                    pass
+
+        if not valid_vids:
+            self.send_json(400, {'error': '未提供有效的 YouTube 影片 ID 或網址'})
+            return
+
+        task_id = 'dl_' + str(uuid.uuid4())[:8]
+        items = []
+        for vid in valid_vids:
+            items.append({
+                'id': vid,
+                'title': titles.get(vid) or f'YouTube Video ({vid})',
+                'status': 'queued',
+                'filename': '',
+                'size': 0,
+                'error': ''
+            })
+
+        with download_tasks_lock:
+            download_tasks[task_id] = {
+                'id': task_id,
+                'format': fmt,
+                'quality': quality,
+                'status': 'running',
+                'createdAt': time.time(),
+                'items': items
+            }
+
+        t = threading.Thread(target=run_batch_download_worker, args=(task_id, valid_vids, fmt, quality), daemon=True)
+        t.start()
+        self.send_json(200, {'taskId': task_id, 'task_id': task_id, 'total': len(items)})
+
     def transcript(self,data):
         url=str(data.get('url','')).strip();vid=video_id(url)
         ytdlp=shutil.which('yt-dlp') or '/opt/homebrew/bin/yt-dlp' or '/usr/local/bin/yt-dlp'

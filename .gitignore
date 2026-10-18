@@ -14,3 +14,5 @@ tmp_*/
 *.vtt
 .video_fix_cache/
 .manim-env/
+downloads/
+*.mp4
