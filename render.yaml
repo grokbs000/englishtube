@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: englishtube
+    name: englishtube-tw
     runtime: python
     plan: free
     buildCommand: pip install -r requirements.txt
