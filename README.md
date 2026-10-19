@@ -3,10 +3,13 @@
 > **VoiceTube 風格的沉浸式英文跟讀與情歌學習平台【深度旗艦版】**  
 > 具備 **500 部高品質精選教材**（400 部涵蓋 10 大主題頻道之 TED/YouTube 知識影片 + 100 首全曲雙語西洋經典情歌），支援 VoiceTube 10 大主題頻道導航與 CEFR A1~C1 5 級難度篩選、卡拉OK級即時動態逐字同步字幕、Google 神經網路語音朗讀、即時單字語境查詢、克漏字聽力訓練與 PWA 跨平台安裝支援。
 
+🌐 **線上即時體驗（PWA 官方網址）**：[https://englishtube-tw.onrender.com/](https://englishtube-tw.onrender.com/)
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-englishtube--tw.onrender.com-success?style=flat&logo=render)](https://englishtube-tw.onrender.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-6d5dfc.svg)](./LICENSE)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://python.org)
 [![PWA Ready](https://img.shields.io/badge/PWA-Ready-brightgreen.svg)](https://web.dev/progressive-web-apps/)
-[![Service Worker](https://img.shields.io/badge/Service%20Worker-v32-orange.svg)](./sw.js)
+[![Service Worker](https://img.shields.io/badge/Service%20Worker-v161-orange.svg)](./sw.js)
 [![Flagship Edition](https://img.shields.io/badge/Edition-Stage%202%20Flagship%20(500%20Items)-6d5dfc.svg)](./index.html)
 
 ---
@@ -94,14 +97,34 @@
   2. **手動備選軌**：無官方字幕時可直接展開「自備逐字稿」貼上 YouTube「顯示文字稿」逐句對齊。
 * **無縫接軌 VoiceTube Studio**：生成教材後自動啟動最新版雙欄學習工作台，連動 YouTube 官方播放器、右側逐句跟讀清單與卡拉OK高亮舞台，並自動持久化保存於瀏覽器本地，隨時可複習。
 
-### 10. 三層全自動防搶跑與配樂過場鎖定管線（Triple-Shield Music & Interlude Synchronization）
-為徹底解決影片開頭前奏延遲、背景配樂期間字幕空轉與搶跑痛點，平台全面落實三層自動化時鐘對齊架構：
-* **第一層 · 後端 Whisper 單字級毫秒波形萃取（Word-Level Timestamps）**：
-  在後端調用 `faster-whisper` 時強制開啟 `word_timestamps=True`，精準提取每個單字的實際發音起訖秒數；同時內建「靜音與配樂中斷偵測器」，兩字之間若出現 `>= 2.2 秒` 音樂或停頓自動切斷為獨立句子，徹底阻絕將數十秒配樂誤包入單一句子的粗糙延伸。
-* **第二層 · 字幕時長自然語速箝位引擎（Auto Duration Normalizer）**：
-  針對官方 VTT 字幕將短句持續時間粗糙拉長覆蓋配樂的現象，後端 `normalize_cues()` 依單字數量動態計算自然語速上限，主動箝位過長字幕，將被覆蓋的配樂過場空間完全釋放。
-* **第三層 · 前端 60 FPS 實時配樂過場防護（Interlude Guard）**：
-  前端播放引擎實時計算當前句與下一句間隙，當處於配樂演奏期（間隔 `>= 2.0 秒`）時，舞台即時轉為 `🎵 (配樂過場中 · 倒數 Xs)`，高亮指針與字幕**100% 鎖定定格**；直到下一句開口瞬間才毫秒級銜接，杜絕任何背景音樂期間的字詞空轉。
+### 10. 卡拉OK聲畫同步與三軌音訊對齊標準（Tri-Tier Audio Alignment & 60fps Continuous Clock Engine）
+
+為徹底解決影片開頭前奏延遲、背景配樂期間字幕空轉與搶跑痛點，平台全面落實三軌校準與三層自動化時鐘對齊架構：
+
+#### 脫節三大根本成因與對策
+1. **MV 前奏與劇情過場時差**：YouTube 官方 MV 常包含 5–180 秒的視覺前奏、劇情對白或長鏡頭（例如 *My Heart Will Go On* 前奏約 176 秒、*Right Here Waiting* 鋼琴特寫約 45 秒、*Love Story* 古堡長鏡頭約 16 秒）。若直接套用 CD 錄音室版本時序，字幕會明顯超前。
+2. **中段句組與副歌提前觸發**：舊版手工切分或大模型粗切的句組，經常漏掉主歌過渡句（如 Taylor Swift《Speak Now》35.72s 的 “This is certainly not...”），或將副歌開頭提早 2–3 秒觸發（如 106.14s 覆蓋 “You wish it was me”），導致歌唱者與文字嚴重錯位。
+3. **YouTube Iframe 250ms 階梯式取樣抖動**：Iframe API 的 `getCurrentTime()` 每 250ms 才更新一次。若直接高頻 polling 覆蓋時間戳，會造成時鐘停滯後突跳，破壞連續性。
+
+#### 三軌高精度音訊校準架構 (Tri-Tier Audio Alignment Standard)
+* **第一軌：VTT 官方字幕軌 (`calibrate_song_timings.py`)**：
+  - 使用 `yt-dlp` 檢索 YouTube 官方 MV 是否內建官方英文字幕或自動辨識字幕。
+  - 解析 `.vtt` 的毫秒級時間標記，並以 `SequenceMatcher` 進行語義時序比對，自動校準現存雙語歌詞的起始與結束拍點。
+* **第二軌：Whisper 音訊軌 (`batch_calibrate_whisper.py`)**：
+  - 當影片無可用 YouTube 字幕軌時，下載音訊並以本機 `faster-whisper`（`base.en`、`word_timestamps=True`、`beam_size=5`）萃取單字級（Word-Level）毫秒波形時序。
+  - 採用滑動視窗模糊序列匹配（Sliding-Window Fuzzy Matching，`threshold > 0.42`），將雙語歌詞每一句錨定至實際歌唱發音起點，消除前奏與唱詞間的隱性落差。
+  - 執行單調遞增時長平滑（Monotonic Smoothing），防止前後句時間重疊。
+* **第三軌：LRCLIB 全球毫秒同步歌詞軌 + 智慧 MV 前奏補償 (`audit_and_fix_entire_catalog.py`)**：
+  - 針對 VEVO 封鎖字幕或防爬蟲阻絕的官方 MV，直連開源毫秒同步歌詞資料庫（LRCLIB），取得完整未截斷的真值歌詞，徹底根除 AI 幻覺、7 句短模板與演員口白偽歌詞。
+  - 內建智慧 MV 前奏時差補償演算法（`compute_smart_offset`），自動偵測 MV 視覺前奏、長鏡頭電影開場與 CD 版的秒數差（例如 Whitney Houston 前奏 +6.4s、Boyz II Men 對話過場 +47.5s、Coldplay 漫步海灘 35s），精準無縫對齊。
+  - 搭配記憶體雙語快取（7,000+ 句詞庫）與 OpenCC `s2twp`，確保 100% 台灣繁體中文自然語義翻譯。
+
+#### 前端 60 FPS 實時平滑插值與知覺補償（Triple-Shield Protection）
+* **高精準動態插值**：`getExactPlaybackTime()` 僅在 `getCurrentTime()` 發生真值變動時記錄基準點，其餘時間以 `performance.now()` 高精準時鐘補足差值，並輔以 80ms 視聽知覺超前補償。
+* **智慧前奏倒數**：當 `time < cues[0].start - 0.5` 時，舞台顯示 `🎵 (前奏演奏中 · 倒數 Xs)`，避免第一句歌詞無謂早顯；開唱前 0.5 秒平滑淡入。
+* **智慧長間奏倒數與預載**：兩句之間間隔大於 4.5 秒時，自動顯示 `🎵 (間奏音樂演奏中 · 倒數 Xs)`，並在下一句開唱前 0.8 秒平滑預載，杜絕突兀與搶拍。
+* **零分配單字高亮**：`updateKaraokeWordHighlight()` 杜絕高頻 DOM 查詢與 GC 抖動，採一次性 class 差分切換；兩字間遇 `>= 2.2 秒` 音樂或停頓時，高亮指針定格靜止，杜絕任何背景音樂期間的字詞空轉。
+* **字幕時長自然語速箝位引擎（Auto Duration Normalizer）**：針對官方 VTT 字幕將短句持續時間粗糙拉長覆蓋配樂的現象，後端 `normalize_cues()` 依單字數量動態計算自然語速上限，主動箝位過長字幕，將被覆蓋的配樂過場空間完全釋放。
 
 ### 11. YouTube 探索搜尋滾輪到底連續擴展（Infinite Scroll Auto-Expansion）
 * **後端高並發串流分頁**：`/api/yt-search` 端點深度整合 `yt-dlp --playlist-start` 與 `--playlist-end`，支援毫秒級分頁提取，每次動態請求僅需約 3 秒即可無痛獲得下一批全新未收錄優質教材。
