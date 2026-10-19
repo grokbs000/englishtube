@@ -16,3 +16,6 @@ tmp_*/
 .manim-env/
 downloads/
 *.mp4
+server.log
+test_sample.webm
+media/

@@ -309,7 +309,7 @@ class Handler(SimpleHTTPRequestHandler):
     def send_json(self,code,obj):
         data=json.dumps(obj,ensure_ascii=False).encode();self.send_response(code);self.send_header('Content-Type','application/json; charset=utf-8');self.send_header('Content-Length',str(len(data)));self.send_header('Cache-Control','no-store');self.end_headers();self.wfile.write(data)
     def do_HEAD(self):
-        self.do_GET()
+        super().do_HEAD()
     def do_GET(self):
         parsed = urllib.parse.urlparse(self.path)
         if parsed.path == '/api/dict':
@@ -611,9 +611,10 @@ class Handler(SimpleHTTPRequestHandler):
             except Exception as e:
                 print('[search_yt warning]', e)
 
-        # 首頁搜尋若少於 32 部且為第一頁，自精選未收錄庫補充 (保證 >= 36)
-        if start == 1 and len(results) < 32 and uncollected_lib:
+        # 若有本地精選庫中相符的教材，優先補充相符項目
+        if uncollected_lib:
             q_lower = query.lower()
+            is_general = q_lower in ('', 'all', 'english', 'english listening', 'ted-ed')
             matching_supplements = []
             general_supplements = []
             for cat, items in uncollected_lib.items():
@@ -625,15 +626,16 @@ class Handler(SimpleHTTPRequestHandler):
                     channel = item.get('channel', '')
                     if q_lower in title.lower() or q_lower in channel.lower() or q_lower in cat.lower():
                         matching_supplements.append(item)
-                    else:
+                    elif is_general:
                         general_supplements.append(item)
             
-            for item in matching_supplements + general_supplements:
+            supplements = matching_supplements + (general_supplements if is_general else [])
+            for item in supplements:
                 vid = item['id']
                 if vid not in seen and vid not in project_ids:
                     seen.add(vid)
                     results.append(item)
-                    if len(results) >= 36:
+                    if len(results) >= (36 if is_general else limit):
                         break
 
         self.send_json(200, results)
@@ -738,6 +740,34 @@ class Handler(SimpleHTTPRequestHandler):
         except Exception:
             pass
 
+        # Priority 0: If cues already exist in EnglishTube library (data/lessons or songs_100), return immediately!
+        local_lesson_file = Path(ROOT) / 'data' / 'lessons' / f"{vid}.json"
+        if local_lesson_file.exists():
+            try:
+                with open(local_lesson_file, 'r', encoding='utf-8') as f:
+                    local_data = json.load(f)
+                local_cues = local_data.get('cues', [])
+                if local_cues and len(local_cues) >= 5:
+                    print(f"[transcript] Found precision cached lesson for {vid} with {len(local_cues)} cues!")
+                    self.send_json(200, {'videoId': vid, 'title': local_data.get('title') or title, 'language': 'en', 'cues': local_cues})
+                    return
+            except Exception as e:
+                print(f"[transcript] Warning reading local lesson for {vid}: {e}")
+
+        # Check songs_100.json
+        songs_file = Path(ROOT) / 'songs_100.json'
+        if songs_file.exists():
+            try:
+                with open(songs_file, 'r', encoding='utf-8') as f:
+                    songs_list = json.load(f)
+                for s in songs_list:
+                    if s.get('id') == vid and s.get('cues') and len(s['cues']) >= 5:
+                        print(f"[transcript] Found song in songs_100 for {vid} with {len(s['cues'])} cues!")
+                        self.send_json(200, {'videoId': vid, 'title': s.get('title') or title, 'language': 'en', 'cues': s['cues']})
+                        return
+            except Exception as e:
+                pass
+
         cues = []
         with tempfile.TemporaryDirectory(prefix='englishtube-') as td:
             # 1. First attempt: download official/auto VTT/JSON3 subtitles via yt-dlp in a single fast pass
@@ -754,24 +784,31 @@ class Handler(SimpleHTTPRequestHandler):
                     for e in raw.get('events',[]):
                         txt=''.join(seg.get('utf8','') for seg in e.get('segs',[])).strip()
                         txt = clean_sub_text(txt)
-                        if txt:cues.append({'start':e.get('tStartMs',0)/1000,'duration':e.get('dDurationMs',0)/1000,'text':txt})
+                        if txt:cues.append({'start':float(e.get('tStartMs',0)/1000),'duration':float(e.get('dDurationMs',0)/1000),'text':txt})
 
-            # 2. If no subtitles (due to YouTube 429 or missing captions), use Whisper AI fallback!
+            # Check if downloaded cues are too sparse (e.g. only sound effects or < 6 cues for music video)
+            if cues and len(cues) < 8:
+                dialogue_count = sum(1 for c in cues if not (c.get('text', '').startswith('(') and c.get('text', '').endswith(')')))
+                if dialogue_count < 5:
+                    print(f"[transcript] VTT subtitles for {vid} too sparse ({len(cues)} cues, {dialogue_count} dialogue). Upgrading to Whisper AI...")
+                    cues = []
+
+            # 2. If no subtitles (due to YouTube 429, missing captions, or sparse tracks), use Whisper AI fallback!
             if not cues:
-                print(f'[transcript] VTT subtitles not available or 429 for {vid}. Falling back to Whisper AI audio transcription...')
+                print(f'[transcript] VTT subtitles not available or sparse for {vid}. Falling back to Whisper AI audio transcription...')
                 audio_path = Path(td) / 'audio.webm'
                 down_cmd = [str(ytdlp), '-f', 'ba/140/251', '--no-warnings', '-o', str(audio_path), url]
                 down_p = subprocess.run(down_cmd, capture_output=True, text=True, timeout=35)
                 if audio_path.exists() and audio_path.stat().st_size > 1000:
                     try:
                         model = get_whisper_model()
-                        segments, info = model.transcribe(str(audio_path), beam_size=1, word_timestamps=True, vad_filter=True)
+                        segments, info = model.transcribe(str(audio_path), beam_size=1, vad_filter=False, word_timestamps=True)
                         for s in segments:
                             words = list(s.words or [])
                             if not words:
                                 txt = clean_sub_text(s.text)
                                 if txt:
-                                    cues.append({'start': round(s.start, 2), 'duration': max(0.5, round(s.end - s.start, 2)), 'text': txt})
+                                    cues.append({'start': float(round(s.start, 2)), 'duration': float(max(0.5, round(s.end - s.start, 2))), 'text': txt})
                                 continue
 
                             # 遇配樂或靜音中斷 (間隔 >= 2.2 秒) 自動斷句，避免配樂期間字句超前早顯
@@ -780,26 +817,26 @@ class Handler(SimpleHTTPRequestHandler):
                                 if cur_words and (w.start - cur_words[-1].end >= 2.2):
                                     t_txt = clean_sub_text(' '.join(x.word.strip() for x in cur_words))
                                     if t_txt:
-                                        w_start = round(cur_words[0].start, 2)
-                                        w_dur = max(0.5, round(cur_words[-1].end - cur_words[0].start, 2))
+                                        w_start = float(round(cur_words[0].start, 2))
+                                        w_dur = float(max(0.5, round(cur_words[-1].end - cur_words[0].start, 2)))
                                         cues.append({
                                             'start': w_start,
                                             'duration': w_dur,
                                             'text': t_txt,
-                                            'words': [{'w': clean_sub_text(x.word), 's': round(x.start, 2), 'e': round(x.end, 2)} for x in cur_words if clean_sub_text(x.word)]
+                                            'words': [{'w': clean_sub_text(x.word), 's': float(round(x.start, 2)), 'e': float(round(x.end, 2))} for x in cur_words if clean_sub_text(x.word)]
                                         })
                                     cur_words = []
                                 cur_words.append(w)
                             if cur_words:
                                 t_txt = clean_sub_text(' '.join(x.word.strip() for x in cur_words))
                                 if t_txt:
-                                    w_start = round(cur_words[0].start, 2)
-                                    w_dur = max(0.5, round(cur_words[-1].end - cur_words[0].start, 2))
+                                    w_start = float(round(cur_words[0].start, 2))
+                                    w_dur = float(max(0.5, round(cur_words[-1].end - cur_words[0].start, 2)))
                                     cues.append({
                                         'start': w_start,
                                         'duration': w_dur,
                                         'text': t_txt,
-                                        'words': [{'w': clean_sub_text(x.word), 's': round(x.start, 2), 'e': round(x.end, 2)} for x in cur_words if clean_sub_text(x.word)]
+                                        'words': [{'w': clean_sub_text(x.word), 's': float(round(x.start, 2)), 'e': float(round(x.end, 2))} for x in cur_words if clean_sub_text(x.word)]
                                     })
                         print(f'[transcript] Whisper AI successfully generated {len(cues)} precision cues for {vid}!')
                     except Exception as we:

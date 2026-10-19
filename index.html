@@ -50609,6 +50609,77 @@ const CHANNEL_DEFS = [
   { id: 'saved', name: '我的收藏', icon: '♡' }
 ];
 
+// ════ 歌曲智慧辨識與教材類型判定引擎 ════
+function isSongMedia(item, context = {}) {
+  if (!item) return false;
+  if (item.type === 'song') return true;
+
+  // 1. Explicit channel, custom channel or category
+  const ch = String(item.customChannelId || item.channel || context.channel || '');
+  const cat = String(item.cat || context.cat || '');
+  if (/music|歌曲|音樂/i.test(ch) || /music|歌曲|音樂/i.test(cat)) return true;
+
+  // 2. Active mediaMode
+  if (context.mediaMode === 'song' || (typeof mediaMode !== 'undefined' && mediaMode === 'song')) return true;
+
+  // 3. Search query
+  const q = String(context.query || '').toLowerCase();
+  if (/\b(song|songs|music|lyrics?|ost|mv|singing|acoustic|ballad|soundtrack)\b/i.test(q)) return true;
+
+  // 4. Video Title & Author heuristics
+  const title = String(item.title || '').toLowerCase();
+  const author = String(item.speaker || item.channel || context.author || '').toLowerCase();
+  const fullText = `${title} ${author}`;
+
+  const songPatterns = [
+    'official music video', 'official video', 'official audio', 'lyric video', 'lyrics video',
+    'with lyrics', '(lyrics)', '[lyrics]', 'feat.', 'ft.', 'acoustic version', 'acoustic',
+    'cover song', 'original song', 'music video', 'theme song', 'love song', 'pop song',
+    'slowed + reverb', 'album track', 'karaoke', 'soundtrack', 'original soundtrack',
+    'vevo', 'remix', 'live performance', 'audio', 'concert'
+  ];
+  if (songPatterns.some(p => fullText.includes(p))) return true;
+
+  // Common music title pattern: "Artist - Song Title"
+  if (/^[\w\s\u4e00-\u9fa5]+[-–—][\w\s\u4e00-\u9fa5]+/.test(item.title || '') &&
+      /\b(video|audio|lyrics|mv|ost|song|remix|cover|ft|feat)\b/i.test(item.title || '')) {
+    return true;
+  }
+
+  return false;
+}
+
+// 取得去重且保證歌曲標記完整的全教材庫
+function getDownloadLibraryPool() {
+  const map = new Map();
+  if (typeof videos !== 'undefined') {
+    videos.forEach(v => {
+      if (v && v.id) {
+        if (!v.type && isSongMedia(v)) {
+          v.type = 'song';
+          v.emoji = v.emoji === '✨' ? '🎵' : (v.emoji || '🎵');
+        }
+        map.set(v.id, v);
+      }
+    });
+  }
+  if (typeof songs !== 'undefined') {
+    songs.forEach(s => {
+      if (s && s.id) {
+        s.type = 'song';
+        if (!map.has(s.id)) {
+          map.set(s.id, s);
+        } else {
+          const existing = map.get(s.id);
+          existing.type = 'song';
+          if (!existing.emoji || existing.emoji === '🎬') existing.emoji = '🎵';
+        }
+      }
+    });
+  }
+  return Array.from(map.values());
+}
+
 const CEFR_LEVELS = [
   { id: 'all', name: '全部程度' },
   { id: 'A1', name: 'A1 初學' },
@@ -50962,6 +51033,45 @@ function deleteCustomChannel(id) {
   toast('頻道已刪除，影片已轉移至預設自訂頻道');
 }
 
+// ── 刪除單部自選教材 ──
+function deleteCustomLesson(vid) {
+  const pool = typeof videos !== 'undefined' ? videos : [];
+  const item = pool.find(v => v.id === vid);
+  const title = item?.title || vid;
+
+  if (!confirm(`確定要從自選庫中刪除「${title}」嗎？\n\n此操作將同時從本機記錄中移除，無法還原。`)) return;
+
+  // 1. Remove from runtime videos array
+  if (typeof videos !== 'undefined') {
+    const idx = videos.findIndex(v => v.id === vid);
+    if (idx >= 0) videos.splice(idx, 1);
+  }
+
+  // 2. Remove from runtime songs array
+  if (typeof songs !== 'undefined') {
+    const sIdx = songs.findIndex(s => s.id === vid);
+    if (sIdx >= 0) songs.splice(sIdx, 1);
+  }
+
+  // 3. Remove from localStorage et_custom_lessons
+  try {
+    const list = JSON.parse(localStorage.getItem('et_custom_lessons') || '[]');
+    localStorage.setItem('et_custom_lessons', JSON.stringify(list.filter(c => c.id !== vid)));
+  } catch(e) {}
+
+  // 4. Remove from saved / download selections
+  if (typeof savedVideos !== 'undefined') savedVideos.delete(vid);
+  try {
+    const saved = JSON.parse(localStorage.getItem('et_saved') || '[]');
+    localStorage.setItem('et_saved', JSON.stringify(saved.filter(id => id !== vid)));
+  } catch(e) {}
+  if (typeof selectedDownloadIds !== 'undefined') selectedDownloadIds.delete(vid);
+
+  renderCustomChannelBar();
+  render();
+  toast(`🗑️ 已刪除自選教材「${title}」`);
+}
+
 // Move single video channel
 let pendingMoveVideoId = null;
 
@@ -51224,7 +51334,7 @@ function renderDownloadSelectedChips() {
   wrap.style.display = 'block';
   if (countEl) countEl.textContent = selectedDownloadIds.size;
 
-  const pool = typeof videos !== 'undefined' ? [...videos, ...(typeof songs !== 'undefined' ? songs : [])] : [];
+  const pool = getDownloadLibraryPool();
   const selectedItems = Array.from(selectedDownloadIds).map(id => pool.find(v => v.id === id) || { id, title: id, emoji: '🎬' });
 
   list.innerHTML = selectedItems.map(item => `
@@ -51271,7 +51381,7 @@ function filterDownloadLibraryList() {
 
 function getFilteredDownloadItems() {
   const searchKeyword = (document.getElementById('dlSearchInput')?.value || '').trim().toLowerCase();
-  const pool = typeof videos !== 'undefined' ? [...videos, ...(typeof songs !== 'undefined' ? songs : [])] : [];
+  const pool = getDownloadLibraryPool();
   
   return pool.filter(item => {
     if (dlLibraryFilterMode === 'selected' && !selectedDownloadIds.has(item.id)) return false;
@@ -51312,7 +51422,7 @@ function renderDownloadLibraryList() {
   if (!container) return;
 
   const st = container.scrollTop;
-  const pool = typeof videos !== 'undefined' ? [...videos, ...(typeof songs !== 'undefined' ? songs : [])] : [];
+  const pool = getDownloadLibraryPool();
   const filtered = getFilteredDownloadItems();
 
   // Category counts
@@ -51884,6 +51994,7 @@ function render() {
                   ? `<button class="ghost" style="padding:3px 8px;font-size:11px;border-radius:12px;color:#10b981;border-color:rgba(16,185,129,0.5);background:rgba(16,185,129,0.08);font-weight:700" onclick="event.stopPropagation();toggleDownloadCardSelection('${v.id}')" title="點擊取消選取">✓ 已選下載</button>`
                   : `<button class="ghost" style="padding:3px 8px;font-size:11px;border-radius:12px;color:#0ea5e9;border-color:rgba(14,165,233,0.3)" onclick="event.stopPropagation();toggleDownloadCardSelection('${v.id}')" title="加入下載清單（可多選，再一起開始下載）">📥 加入下載</button>`
                 }
+                ${isCustomVid ? `<button class="ghost" style="padding:3px 8px;font-size:11px;border-radius:12px;color:#ef4444;border-color:rgba(239,68,68,0.35);background:rgba(239,68,68,0.04)" onclick="event.stopPropagation();deleteCustomLesson('${v.id}')" title="從自選庫中刪除此教材">🗑️ 刪除</button>` : ''}
                 <button class="save ${saved.has(v.id)?'saved':''}" onclick="event.stopPropagation();toggleSave('${v.id}')">${saved.has(v.id)?'✓ 已收藏':'♡ 收藏'}</button>
               </div>
             </div>
@@ -52075,32 +52186,45 @@ async function startGenerateCustomLesson() {
 
     // 3. Assemble complete lesson object
     const chosenChannelId = document.getElementById('makerCustomChannelSelect')?.value || 'custom_default';
+    const makerType = document.getElementById('makerMediaTypeSelect')?.value || 'auto';
+    const isSong = makerType === 'song' || (makerType === 'auto' && isSongMedia({ title: videoTitle, customChannelId: chosenChannelId }, { mediaMode: typeof mediaMode !== 'undefined' ? mediaMode : 'video' }));
+
     const customItem = {
       id: vid,
       title: videoTitle,
-      speaker: 'YouTube',
+      speaker: isSong ? 'YouTube Music' : 'YouTube',
       channel: '自選加入',
-      cat: '自選',
+      cat: isSong ? '自選歌曲' : '自選',
+      type: isSong ? 'song' : 'video',
       customChannelId: chosenChannelId,
       isCustom: true,
       level: 'B1',
       duration: formatDuration(cues[cues.length - 1]?.start || 180),
       views: 'Custom',
-      emoji: '✨',
-      color: 'linear-gradient(135deg, #667eea, #764ba2)',
-      zh: '使用者自選教材',
+      emoji: isSong ? '🎵' : '✨',
+      color: isSong ? 'linear-gradient(135deg, #ec4899, #8b5cf6)' : 'linear-gradient(135deg, #667eea, #764ba2)',
+      zh: isSong ? '使用者自選歌曲' : '使用者自選教材',
       cues: cues,
       en: cues.map(c => c.text),
       cn: cues.map(c => '點擊單字可查詢字典或使用 TTS 聆聽'),
       words: extractKeywordsFromCues(cues)
     };
 
-    // Save to window.videos and localStorage custom lessons
+    // Save to window.videos, window.songs and localStorage custom lessons
     const existingIdx = videos.findIndex(v => v.id === vid);
     if (existingIdx >= 0) {
       videos[existingIdx] = customItem;
     } else {
       videos.unshift(customItem);
+    }
+
+    if (isSong && typeof songs !== 'undefined') {
+      const existingSongIdx = songs.findIndex(s => s.id === vid);
+      if (existingSongIdx >= 0) {
+        songs[existingSongIdx] = customItem;
+      } else {
+        songs.unshift(customItem);
+      }
     }
     
     try {
@@ -52154,6 +52278,18 @@ function getProjectIncludedVideoIds() {
 }
 
 const CURATED_YT_COLLECTIONS = {
+  music: [
+    { id: 'S_E2EHVxNAE', title: 'Right Here Waiting', duration: 264, channel: 'Richard Marx' },
+    { id: '8xg3vE8le_E', title: 'Love Story', duration: 236, channel: 'Taylor Swift' },
+    { id: '2Vv-BfVoq4g', title: 'Perfect', duration: 263, channel: 'Ed Sheeran' },
+    { id: 'KKQI-pIRQMY', title: 'Photograph', duration: 259, channel: 'Ed Sheeran' },
+    { id: 'cvUAzpn48xA', title: 'Lover', duration: 221, channel: 'Taylor Swift' },
+    { id: 'VuNIsY6JdUw', title: 'You Belong With Me', duration: 232, channel: 'Taylor Swift' },
+    { id: 'XPBwXKgDTdE', title: 'Mine', duration: 235, channel: 'Taylor Swift' },
+    { id: 'JIZnvyBqceY', title: 'Speak Now', duration: 242, channel: 'Taylor Swift' },
+    { id: 'iglfiqqVHtA', title: 'Enchanted', duration: 353, channel: 'Taylor Swift' },
+    { id: '450p7goxZqg', title: 'All of Me', duration: 269, channel: 'John Legend' }
+  ],
   ai: [
     { id: 'ujkD4SxPKOI', title: 'AI Just Crossed the Terrifying Line - Now What?', duration: 1304, channel: 'Kurzgesagt – In a Nutshell' },
     { id: '_zfN9wnPvU0', title: 'AI Slop Is Destroying The Internet', duration: 592, channel: 'Kurzgesagt – In a Nutshell' },
@@ -52905,8 +53041,8 @@ function renderExplorerFeed(items, query = '') {
     }
   }
 
-  // 2. Guarantee: Count must be greater than 30 (target >= 36)
-  if (validItems.length <= 30 && typeof CURATED_YT_COLLECTIONS === 'object') {
+  // 2. Guarantee: Count must be greater than 30 for default category exploration (only when query is empty)
+  if (!query && validItems.length <= 30 && typeof CURATED_YT_COLLECTIONS === 'object') {
     for (const catList of Object.values(CURATED_YT_COLLECTIONS)) {
       if (!Array.isArray(catList)) continue;
       for (const item of catList) {
@@ -52921,15 +53057,23 @@ function renderExplorerFeed(items, query = '') {
   }
 
   if (!validItems.length) {
-    feed.innerHTML = '<div style="padding:20px;text-align:center;color:#888;font-size:13px">查無符合影片，請更換關鍵字。</div>';
+    feed.innerHTML = `
+      <div style="padding:48px 20px;text-align:center;color:#64748b">
+        <div style="font-size:36px;margin-bottom:12px">🔍</div>
+        <div style="font-size:15px;font-weight:600;color:#1e293b;margin-bottom:6px">未找到「${escapeHTML(query || '指定條件')}」的相符影片</div>
+        <div style="font-size:13px;opacity:0.8;margin-bottom:16px">可嘗試其他英文關鍵字，或直接貼上 YouTube 影片網址一鍵收錄。</div>
+        <button class="pill" onclick="switchYtCategory('ai', document.querySelector('.yt-category-chips .yt-chip'))" style="font-size:12px;padding:6px 14px">返回精選推薦</button>
+      </div>
+    `;
     return;
   }
 
-  // Header counter banner guaranteeing > 30 and project exclusion
+  // Header counter banner
+  const countLabel = query ? `找到 <b>${validItems.length}</b> 部「${escapeHTML(query)}」相關教材` : `展示 <b id="ytFeedCountNum">${validItems.length}</b> 部全新教材（滾動到底自動連續擴展）`;
   const headerHtml = `
     <div class="yt-feed-counter-banner">
       <span class="yt-feed-counter-pill">🛡️ 已自動排除專案收錄項目</span>
-      <span class="yt-feed-counter-total">展示 <b id="ytFeedCountNum">${validItems.length}</b> 部全新教材（滾動到底自動連續擴展）</span>
+      <span class="yt-feed-counter-total">${countLabel}</span>
     </div>
   `;
 
@@ -52944,6 +53088,9 @@ async function doYtSearch() {
     toast('請輸入搜尋關鍵字或 YouTube 網址');
     return;
   }
+
+  // Deactivate category chips so user knows they are viewing search results
+  document.querySelectorAll('.yt-category-chips .yt-chip').forEach(c => c.classList.remove('active'));
 
   saveSearchHistory(query);
 
@@ -52961,7 +53108,12 @@ async function doYtSearch() {
 
   const feed = document.getElementById('ytResultsFeed');
   if (feed) {
-    feed.innerHTML = '<div style="padding:30px;text-align:center;font-size:13px;color:#a29bfe"><span style="display:inline-block;animation:vtSpin 1s linear infinite;font-size:18px">⏳</span> 正在高速檢索 YouTube 優質英語資源中...</div>';
+    feed.innerHTML = `
+      <div style="padding:40px 20px;text-align:center;font-size:14px;color:#6366f1">
+        <span style="display:inline-block;animation:vtSpin 1s linear infinite;font-size:22px;margin-bottom:8px">⏳</span>
+        <div>正在搜尋 YouTube「<b>${escapeHTML(query)}</b>」相關影片...</div>
+      </div>
+    `;
   }
 
   try {
@@ -52976,7 +53128,7 @@ async function doYtSearch() {
         const first = validResults[0];
         playInExplorer(first.id, first.title, first.channel, formatDuration(first.duration));
       }
-      toast(`🔍 找到 ${results.length} 部全新未收錄影片（向下滾動自動擴展更多）`);
+      toast(`🔍 找到 ${results.length} 部「${query}」相關影片`);
     } else {
       throw new Error('查無影片');
     }
@@ -52986,18 +53138,28 @@ async function doYtSearch() {
     const qLower = query.toLowerCase();
     const projectIds = getProjectIncludedVideoIds();
     for (const cat of Object.values(CURATED_YT_COLLECTIONS)) {
+      if (!Array.isArray(cat)) continue;
       for (const item of cat) {
-        if (!projectIds.has(item.id) && (item.title.toLowerCase().includes(qLower) || item.channel.toLowerCase().includes(qLower))) {
+        if (!projectIds.has(item.id) && ((item.title||'').toLowerCase().includes(qLower) || (item.channel||'').toLowerCase().includes(qLower))) {
           localMatches.push(item);
         }
       }
     }
     if (localMatches.length) {
       renderExplorerFeed(localMatches, query);
-      toast(`已列出 ${localMatches.length} 部精選未收錄資源（向下滾動自動擴展更多）`);
+      toast(`已列出 ${localMatches.length} 部相符推薦資源`);
     } else {
-      renderExplorerFeed(CURATED_YT_COLLECTIONS.ai, 'AI');
-      toast('未能從 YouTube 取得即時結果，已呈現精選推薦！');
+      if (feed) {
+        feed.innerHTML = `
+          <div style="padding:48px 20px;text-align:center;color:#64748b">
+            <div style="font-size:36px;margin-bottom:12px">🔍</div>
+            <div style="font-size:15px;font-weight:600;color:#1e293b;margin-bottom:6px">未找到「${escapeHTML(query)}」的相符影片</div>
+            <div style="font-size:13px;opacity:0.8;margin-bottom:16px">可嘗試其他英文關鍵字，或直接貼上 YouTube 影片網址一鍵收錄。</div>
+            <button class="pill" onclick="switchYtCategory('ai', document.querySelector('.yt-category-chips .yt-chip'))" style="font-size:12px;padding:6px 14px">返回精選推薦</button>
+          </div>
+        `;
+      }
+      toast('查無符合影片，請更換關鍵字');
     }
   }
 }
@@ -53056,24 +53218,27 @@ async function importExplorerVideoDirect(vid, title, clickedBtn) {
     const cues = data.cues;
     const finalTitle = data.title || title || 'YouTube 英語教材';
     const chosenChannelId = document.getElementById('explorerTargetChannelSelect')?.value || 'custom_default';
+    const chosenType = document.getElementById('explorerMediaTypeSelect')?.value || 'auto';
+    const isSong = chosenType === 'song' || (chosenType === 'auto' && isSongMedia({ title: finalTitle, customChannelId: chosenChannelId }, { query: explorerCurrentQuery, mediaMode: typeof mediaMode !== 'undefined' ? mediaMode : 'video' }));
 
     const customItem = {
       id: vid,
       title: finalTitle,
-      speaker: 'YouTube Explorer',
+      speaker: isSong ? 'YouTube Music' : 'YouTube Explorer',
       channel: '自選加入',
-      cat: '自選',
+      cat: isSong ? '自選歌曲' : '自選',
+      type: isSong ? 'song' : 'video',
       customChannelId: chosenChannelId,
       isCustom: true,
       level: 'B1',
       duration: formatDuration(cues[cues.length - 1]?.start || 180),
       views: 'New',
-      emoji: '✨',
-      color: 'linear-gradient(135deg, #4facfe, #00f2fe)',
-      zh: '探索收錄教材',
+      emoji: isSong ? '🎵' : '✨',
+      color: isSong ? 'linear-gradient(135deg, #ec4899, #8b5cf6)' : 'linear-gradient(135deg, #4facfe, #00f2fe)',
+      zh: isSong ? '探索收錄歌曲' : '探索收錄教材',
       cues: cues,
-      en: cues.map(c => c.text),
-      cn: cues.map(c => '點擊單字可查詢字典或使用 TTS 聆聽'),
+      en: cues.map(c => c.en || c.text || ''),
+      cn: cues.map(c => c.zh || c.cn || '點擊單字可查詢字典或使用 TTS 聆聽'),
       words: extractKeywordsFromCues(cues)
     };
 
@@ -53084,6 +53249,15 @@ async function importExplorerVideoDirect(vid, title, clickedBtn) {
       videos[existingIdx] = customItem;
     } else {
       videos.unshift(customItem);
+    }
+
+    if (isSong && typeof songs !== 'undefined') {
+      const existingSongIdx = songs.findIndex(s => s.id === vid);
+      if (existingSongIdx >= 0) {
+        songs[existingSongIdx] = customItem;
+      } else {
+        songs.unshift(customItem);
+      }
     }
 
     try {
@@ -53274,7 +53448,7 @@ if(window.matchMedia('(display-mode: standalone)').matches||navigator.standalone
 document.querySelector('#installBtn').addEventListener('click',async()=>{if(deferredPrompt){deferredPrompt.prompt();const{outcome}=await deferredPrompt.userChoice;deferredPrompt=null;if(outcome==='accepted')toast('✓ 安裝中...')}else if(/iphone|ipad|ipod/i.test(navigator.userAgent)){toast('Safari：分享 → 加入主畫面')}else{toast('請從瀏覽器選單選擇「安裝應用程式」')}});
 // Register Service Worker + auto-reload on new SW version
 if('serviceWorker'in navigator&&location.protocol.startsWith('http')){
-  window.addEventListener('load',()=>navigator.serviceWorker.register('./sw.js?v=157').then(reg=>{
+  window.addEventListener('load',()=>navigator.serviceWorker.register('./sw.js?v=161').then(reg=>{
     try{reg.update()}catch(e){}
     reg.addEventListener('updatefound',()=>{
       const nw=reg.installing;
@@ -53314,13 +53488,32 @@ function escapeHTML(v){return String(v??'').replace(/[&<>"']/g,c=>({'&':'&amp;',
 try {
   const savedCustoms = JSON.parse(localStorage.getItem('et_custom_lessons') || '[]');
   if (Array.isArray(savedCustoms) && savedCustoms.length) {
+    let customsChanged = false;
     savedCustoms.forEach(c => {
       c.isCustom = true;
       if (!c.channel) c.channel = '自選加入';
+      if (!c.type) {
+        if (typeof isSongMedia === 'function' && isSongMedia(c)) {
+          c.type = 'song';
+          c.cat = c.cat === '自選' ? '自選歌曲' : c.cat;
+          c.emoji = c.emoji === '✨' ? '🎵' : (c.emoji || '🎵');
+          customsChanged = true;
+        } else {
+          c.type = 'video';
+        }
+      } else if (c.type === 'song') {
+        c.emoji = c.emoji === '✨' ? '🎵' : (c.emoji || '🎵');
+      }
       if (!videos.some(v => v.id === c.id)) {
         videos.unshift(c);
       }
+      if (c.type === 'song' && typeof songs !== 'undefined' && !songs.some(s => s.id === c.id)) {
+        songs.unshift(c);
+      }
     });
+    if (customsChanged) {
+      localStorage.setItem('et_custom_lessons', JSON.stringify(savedCustoms));
+    }
   }
 } catch(e) {}
 
@@ -53935,14 +54128,18 @@ function syncSubtitleAndWords() {
     // B. 已過該句語音結尾，正處於兩句之間的間隔 (Gap)
     if (time >= cueSpeechEnd && time < nextStart) {
       const gap = nextStart - cueSpeechEnd;
-      if (gap >= 2.0) {
-        // 間隔 >= 2 秒：明確配樂演奏期，字幕停動並提示配樂倒數
+      // 歌曲歌詞句間停頓天然較長（2~8s），不應誤判為配樂間奏；
+      // 影片教材: 閾值 2s；歌曲: 閾值 10s（真正的純樂器橋段才顯示）
+      const isSongType = (current?.type === 'song') || (typeof isSongMedia === 'function' && isSongMedia(current));
+      const interludeThreshold = isSongType ? 10.0 : 2.0;
+      if (gap >= interludeThreshold) {
+        // 間隔 >= 閾值：明確配樂演奏期，字幕停動並提示配樂倒數
         isInInterlude = true;
         interludeTimeLeft = Math.max(0, Math.ceil(nextStart - time));
         matchIdx = -1;
         break;
       } else {
-        // 短暫呼吸停頓 (< 2.0s)：保持當前字幕靜止，單字全數 passed，不提早跳動
+        // 短暫呼吸停頓：保持當前字幕靜止，單字全數 passed，不提早跳動
         matchIdx = i;
         break;
       }
