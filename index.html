@@ -174,8 +174,18 @@
 @media (max-width: 960px) {
   .vt-studio-body {
     grid-template-columns: 1fr;
-    padding: 12px;
-    gap: 16px;
+    padding: 10px;
+    gap: 14px;
+  }
+  .vt-main-col {
+    position: sticky;
+    top: 0;
+    z-index: 20;
+    background: #0c0d18;
+  }
+  .vt-sub-stage {
+    min-height: 85px;
+    padding: 12px 16px;
   }
 }
 
@@ -53448,7 +53458,7 @@ if(window.matchMedia('(display-mode: standalone)').matches||navigator.standalone
 document.querySelector('#installBtn').addEventListener('click',async()=>{if(deferredPrompt){deferredPrompt.prompt();const{outcome}=await deferredPrompt.userChoice;deferredPrompt=null;if(outcome==='accepted')toast('✓ 安裝中...')}else if(/iphone|ipad|ipod/i.test(navigator.userAgent)){toast('Safari：分享 → 加入主畫面')}else{toast('請從瀏覽器選單選擇「安裝應用程式」')}});
 // Register Service Worker + auto-reload on new SW version
 if('serviceWorker'in navigator&&location.protocol.startsWith('http')){
-  window.addEventListener('load',()=>navigator.serviceWorker.register('./sw.js?v=161').then(reg=>{
+  window.addEventListener('load',()=>navigator.serviceWorker.register('./sw.js?v=162').then(reg=>{
     try{reg.update()}catch(e){}
     reg.addEventListener('updatefound',()=>{
       const nw=reg.installing;
@@ -53642,7 +53652,7 @@ let ytReady = false;
 let syncTimer = null;
 let activeCueIdx = -1;
 let repeatCueMode = false;
-let autoScrollEnabled = true;
+let autoScrollEnabled = (typeof window !== 'undefined' && window.innerWidth >= 960);
 let currentSubMode = 'both';
 let clozeMode = false;
 let seenCues = new Set();
@@ -54211,11 +54221,14 @@ function highlightVoiceTubeCue(idx) {
     row.classList.toggle('active', i === idx);
   });
 
-  // 3. Smooth auto-scroll
+  // 3. Smooth auto-scroll (僅在滾動容器內部滾動，絕不滾動整個頁面或跳出影片視野)
   if (autoScrollEnabled) {
+    const list = document.getElementById('vtTranscriptList');
     const activeRow = document.querySelector('.vt-cue-row.active');
-    if (activeRow && typeof activeRow.scrollIntoView === 'function') {
-      activeRow.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    if (list && activeRow) {
+      const rowTop = activeRow.offsetTop - list.offsetTop;
+      const targetScroll = rowTop - (list.clientHeight / 2) + (activeRow.clientHeight / 2);
+      list.scrollTo({ top: Math.max(0, targetScroll), behavior: 'smooth' });
     }
   }
 
@@ -54895,6 +54908,10 @@ function openVideo(id) {
     const b = document.getElementById('speed' + key);
     if (b) b.classList.toggle('active', Math.abs(s - currentPlaybackRate) < 0.01);
   });
+
+  // Synchronize auto-scroll button text
+  const autoScrollBtn = document.getElementById('autoScrollToggleBtn');
+  if (autoScrollBtn) autoScrollBtn.textContent = '📜 自動捲 ' + (autoScrollEnabled ? 'ON' : 'OFF');
 
   // Reset subtitle stage
   activeCueIdx = 0;
