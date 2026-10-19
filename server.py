@@ -499,10 +499,13 @@ class Handler(SimpleHTTPRequestHandler):
                             if txt: defs.append(txt)
                     
                     if defs:
-                        from opencc import OpenCC
-                        cc = OpenCC('s2twp')
                         raw_def = '； '.join(defs[:3])
-                        clean_def = cc.convert(raw_def)
+                        try:
+                            from opencc import OpenCC
+                            cc = OpenCC('s2twp')
+                            clean_def = cc.convert(raw_def)
+                        except Exception:
+                            clean_def = raw_def
                         pos_m = re.match(r'^([a-z]+\.)\s*(.*)', clean_def)
                         pos = pos_m.group(1) if pos_m else '單字'
                         clean_def = pos_m.group(2) if pos_m else clean_def
