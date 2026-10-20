@@ -1,0 +1,3610 @@
+{
+  "cues": [
+    {
+      "start": 0.24,
+      "duration": 3.27,
+      "text": "- [Derek] There are robots the size of bees,",
+      "en": "- [Derek] There are robots the size of bees,",
+      "zh": ""
+    },
+    {
+      "start": 3.51,
+      "duration": 2.28,
+      "text": "others that can jump on water,",
+      "en": "others that can jump on water,",
+      "zh": ""
+    },
+    {
+      "start": 5.79,
+      "duration": 1.41,
+      "text": "and some that are powered",
+      "en": "and some that are powered",
+      "zh": ""
+    },
+    {
+      "start": 7.2,
+      "duration": 3.3,
+      "text": "by tiny combustion engines the size of a penny.",
+      "en": "by tiny combustion engines the size of a penny.",
+      "zh": ""
+    },
+    {
+      "start": 11.37,
+      "duration": 2.49,
+      "text": "One day they could work in swarms,",
+      "en": "One day they could work in swarms,",
+      "zh": ""
+    },
+    {
+      "start": 13.86,
+      "duration": 3.39,
+      "text": "they could save your life, or even spy on you.",
+      "en": "they could save your life, or even spy on you.",
+      "zh": ""
+    },
+    {
+      "start": 18.54,
+      "duration": 2.99,
+      "text": "We got access to the best micro robotics labs in the world.",
+      "en": "We got access to the best micro robotics labs in the world.",
+      "zh": ""
+    },
+    {
+      "start": 21.53,
+      "duration": 1.42,
+      "text": "- Whoo, that flipped.",
+      "en": "- Whoo, that flipped.",
+      "zh": ""
+    },
+    {
+      "start": 22.95,
+      "duration": 2.25,
+      "text": "- [Derek] To learn how these robots work",
+      "en": "- [Derek] To learn how these robots work",
+      "zh": ""
+    },
+    {
+      "start": 25.2,
+      "duration": 2.61,
+      "text": "and what are they for.",
+      "en": "and what are they for.",
+      "zh": ""
+    },
+    {
+      "start": 27.81,
+      "duration": 2.85,
+      "text": "This video is sponsored by Onshape.",
+      "en": "This video is sponsored by Onshape.",
+      "zh": ""
+    },
+    {
+      "start": 30.66,
+      "duration": 3.06,
+      "text": "This is a tiny yellow submarine.",
+      "en": "This is a tiny yellow submarine.",
+      "zh": ""
+    },
+    {
+      "start": 33.72,
+      "duration": 1.44,
+      "text": "Under water, it can move around",
+      "en": "Under water, it can move around",
+      "zh": ""
+    },
+    {
+      "start": 35.16,
+      "duration": 3.48,
+      "text": "by flapping these miniature wings nine times per second,",
+      "en": "by flapping these miniature wings nine times per second,",
+      "zh": ""
+    },
+    {
+      "start": 39.9,
+      "duration": 1.68,
+      "text": "but you can use those same wings",
+      "en": "but you can use those same wings",
+      "zh": ""
+    },
+    {
+      "start": 41.58,
+      "duration": 2.13,
+      "text": "when the submarine is out of the water,",
+      "en": "when the submarine is out of the water,",
+      "zh": ""
+    },
+    {
+      "start": 43.71,
+      "duration": 3.72,
+      "text": "only now you have to flap them 250 times a second",
+      "en": "only now you have to flap them 250 times a second",
+      "zh": ""
+    },
+    {
+      "start": 47.43,
+      "duration": 1.5,
+      "text": "to make it fly.",
+      "en": "to make it fly.",
+      "zh": ""
+    },
+    {
+      "start": 48.93,
+      "duration": 1.83,
+      "text": "So, this robot can do both.",
+      "en": "So, this robot can do both.",
+      "zh": ""
+    },
+    {
+      "start": 50.76,
+      "duration": 2.31,
+      "text": "It can fly and swim,",
+      "en": "It can fly and swim,",
+      "zh": ""
+    },
+    {
+      "start": 53.07,
+      "duration": 2.64,
+      "text": "but since it weighs only 175 milligrams,",
+      "en": "but since it weighs only 175 milligrams,",
+      "zh": ""
+    },
+    {
+      "start": 55.71,
+      "duration": 1.8,
+      "text": "about the mass of two Cheerios,",
+      "en": "about the mass of two Cheerios,",
+      "zh": ""
+    },
+    {
+      "start": 57.51,
+      "duration": 2.82,
+      "text": "surface tension is a problem.",
+      "en": "surface tension is a problem.",
+      "zh": ""
+    },
+    {
+      "start": 60.33,
+      "duration": 3.0,
+      "text": "- That's a consequence of physics at a smaller scale.",
+      "en": "- That's a consequence of physics at a smaller scale.",
+      "zh": ""
+    },
+    {
+      "start": 63.33,
+      "duration": 1.44,
+      "text": "The surface tension is like a wall",
+      "en": "The surface tension is like a wall",
+      "zh": ""
+    },
+    {
+      "start": 64.77,
+      "duration": 2.67,
+      "text": "that blocks the transition process.",
+      "en": "that blocks the transition process.",
+      "zh": ""
+    },
+    {
+      "start": 67.44,
+      "duration": 1.68,
+      "text": "- This happens because water molecules",
+      "en": "- This happens because water molecules",
+      "zh": ""
+    },
+    {
+      "start": 69.12,
+      "duration": 1.17,
+      "text": "are slightly polar.",
+      "en": "are slightly polar.",
+      "zh": ""
+    },
+    {
+      "start": 70.29,
+      "duration": 3.03,
+      "text": "Groups of these molecules pull in all directions,",
+      "en": "Groups of these molecules pull in all directions,",
+      "zh": ""
+    },
+    {
+      "start": 73.32,
+      "duration": 2.43,
+      "text": "but at the surface there's no water above,",
+      "en": "but at the surface there's no water above,",
+      "zh": ""
+    },
+    {
+      "start": 75.75,
+      "duration": 3.09,
+      "text": "so the pull is only sideways and downwards.",
+      "en": "so the pull is only sideways and downwards.",
+      "zh": ""
+    },
+    {
+      "start": 78.84,
+      "duration": 2.49,
+      "text": "This imbalance creates strong, cohesive forces",
+      "en": "This imbalance creates strong, cohesive forces",
+      "zh": ""
+    },
+    {
+      "start": 81.33,
+      "duration": 3.27,
+      "text": "that compress the surface into a tightly packed layer,",
+      "en": "that compress the surface into a tightly packed layer,",
+      "zh": ""
+    },
+    {
+      "start": 84.6,
+      "duration": 1.65,
+      "text": "making it difficult to break.",
+      "en": "making it difficult to break.",
+      "zh": ""
+    },
+    {
+      "start": 87.18,
+      "duration": 1.17,
+      "text": "This is the same effect",
+      "en": "This is the same effect",
+      "zh": ""
+    },
+    {
+      "start": 88.35,
+      "duration": 1.59,
+      "text": "that lets water striders walk",
+      "en": "that lets water striders walk",
+      "zh": ""
+    },
+    {
+      "start": 89.94,
+      "duration": 1.95,
+      "text": "on the surfaces of ponds and lakes.",
+      "en": "on the surfaces of ponds and lakes.",
+      "zh": ""
+    },
+    {
+      "start": 93.03,
+      "duration": 3.24,
+      "text": "This other robot weighs only 68 milligrams",
+      "en": "This other robot weighs only 68 milligrams",
+      "zh": ""
+    },
+    {
+      "start": 96.27,
+      "duration": 3.33,
+      "text": "and by using a spring mechanism that mimics a flea's leg,",
+      "en": "and by using a spring mechanism that mimics a flea's leg,",
+      "zh": ""
+    },
+    {
+      "start": 99.6,
+      "duration": 3.06,
+      "text": "it can jump without breaking the water's surface,",
+      "en": "it can jump without breaking the water's surface,",
+      "zh": ""
+    },
+    {
+      "start": 102.66,
+      "duration": 1.62,
+      "text": "just like a water strider.",
+      "en": "just like a water strider.",
+      "zh": ""
+    },
+    {
+      "start": 104.28,
+      "duration": 2.19,
+      "text": "(upbeat music) (water bubbles)",
+      "en": "(upbeat music) (water bubbles)",
+      "zh": ""
+    },
+    {
+      "start": 106.47,
+      "duration": 2.84,
+      "text": "It's like there's solid ground below.",
+      "en": "It's like there's solid ground below.",
+      "zh": ""
+    },
+    {
+      "start": 109.31,
+      "duration": 2.14,
+      "text": "(water bubbles)",
+      "en": "(water bubbles)",
+      "zh": ""
+    },
+    {
+      "start": 111.45,
+      "duration": 2.91,
+      "text": "Now that's great if you wanna stay on top of the water,",
+      "en": "Now that's great if you wanna stay on top of the water,",
+      "zh": ""
+    },
+    {
+      "start": 114.36,
+      "duration": 2.04,
+      "text": "but this barrier can also be a problem",
+      "en": "but this barrier can also be a problem",
+      "zh": ""
+    },
+    {
+      "start": 116.4,
+      "duration": 2.04,
+      "text": "if you want to go underwater.",
+      "en": "if you want to go underwater.",
+      "zh": ""
+    },
+    {
+      "start": 120.03,
+      "duration": 1.44,
+      "text": "To escape this trap,",
+      "en": "To escape this trap,",
+      "zh": ""
+    },
+    {
+      "start": 121.47,
+      "duration": 3.75,
+      "text": "the submarine splits water into hydrogen and oxygen",
+      "en": "the submarine splits water into hydrogen and oxygen",
+      "zh": ""
+    },
+    {
+      "start": 125.22,
+      "duration": 3.36,
+      "text": "and then stores these gases in a buoyancy chamber.",
+      "en": "and then stores these gases in a buoyancy chamber.",
+      "zh": ""
+    },
+    {
+      "start": 128.58,
+      "duration": 3.15,
+      "text": "It does this because the wings are super fragile.",
+      "en": "It does this because the wings are super fragile.",
+      "zh": ""
+    },
+    {
+      "start": 131.73,
+      "duration": 2.07,
+      "text": "If they started flapping while the robot",
+      "en": "If they started flapping while the robot",
+      "zh": ""
+    },
+    {
+      "start": 133.8,
+      "duration": 3.93,
+      "text": "was still trapped under water, they would break right off.",
+      "en": "was still trapped under water, they would break right off.",
+      "zh": ""
+    },
+    {
+      "start": 137.73,
+      "duration": 3.42,
+      "text": "So, the buoyancy from the gas helps bring the fragile parts",
+      "en": "So, the buoyancy from the gas helps bring the fragile parts",
+      "zh": ""
+    },
+    {
+      "start": 141.15,
+      "duration": 2.22,
+      "text": "of the robot out of the water,",
+      "en": "of the robot out of the water,",
+      "zh": ""
+    },
+    {
+      "start": 144.21,
+      "duration": 1.47,
+      "text": "but the robot is still stuck",
+      "en": "but the robot is still stuck",
+      "zh": ""
+    },
+    {
+      "start": 145.68,
+      "duration": 2.79,
+      "text": "in that top layer of surface tension.",
+      "en": "in that top layer of surface tension.",
+      "zh": ""
+    },
+    {
+      "start": 148.47,
+      "duration": 4.05,
+      "text": "So, a sparker inside the chamber ignites the gas,",
+      "en": "So, a sparker inside the chamber ignites the gas,",
+      "zh": ""
+    },
+    {
+      "start": 152.52,
+      "duration": 2.22,
+      "text": "and the explosion breaks the surface tension",
+      "en": "and the explosion breaks the surface tension",
+      "zh": ""
+    },
+    {
+      "start": 154.74,
+      "duration": 3.09,
+      "text": "and shoots the robot 30 centimeters into the air.",
+      "en": "and shoots the robot 30 centimeters into the air.",
+      "zh": ""
+    },
+    {
+      "start": 159.15,
+      "duration": 3.15,
+      "text": "And once it's free, this robot can fly.",
+      "en": "And once it's free, this robot can fly.",
+      "zh": ""
+    },
+    {
+      "start": 164.22,
+      "duration": 1.59,
+      "text": "This robot found a different way",
+      "en": "This robot found a different way",
+      "zh": ""
+    },
+    {
+      "start": 165.81,
+      "duration": 1.62,
+      "text": "to break through the surface tension.",
+      "en": "to break through the surface tension.",
+      "zh": ""
+    },
+    {
+      "start": 167.43,
+      "duration": 3.27,
+      "text": "It uses these large water repellent copper pads on its feet",
+      "en": "It uses these large water repellent copper pads on its feet",
+      "zh": ""
+    },
+    {
+      "start": 170.7,
+      "duration": 1.32,
+      "text": "to walk on the water,",
+      "en": "to walk on the water,",
+      "zh": ""
+    },
+    {
+      "start": 173.07,
+      "duration": 2.07,
+      "text": "but when it needs to dive beneath,",
+      "en": "but when it needs to dive beneath,",
+      "zh": ""
+    },
+    {
+      "start": 175.14,
+      "duration": 2.61,
+      "text": "it applies 600 volts to those pads,",
+      "en": "it applies 600 volts to those pads,",
+      "zh": ""
+    },
+    {
+      "start": 177.75,
+      "duration": 1.59,
+      "text": "which creates a positive charge",
+      "en": "which creates a positive charge",
+      "zh": ""
+    },
+    {
+      "start": 179.34,
+      "duration": 1.68,
+      "text": "that attracts water molecules to it",
+      "en": "that attracts water molecules to it",
+      "zh": ""
+    },
+    {
+      "start": 181.02,
+      "duration": 2.22,
+      "text": "and breaks the hydrophobic barrier,",
+      "en": "and breaks the hydrophobic barrier,",
+      "zh": ""
+    },
+    {
+      "start": 183.24,
+      "duration": 2.43,
+      "text": "and that allows it to sink on command.",
+      "en": "and that allows it to sink on command.",
+      "zh": ""
+    },
+    {
+      "start": 185.67,
+      "duration": 2.82,
+      "text": "(gentle music) (water gurgling)",
+      "en": "(gentle music) (water gurgling)",
+      "zh": ""
+    },
+    {
+      "start": 188.49,
+      "duration": 2.91,
+      "text": "Then, once submerged, it can walk underwater.",
+      "en": "Then, once submerged, it can walk underwater.",
+      "zh": ""
+    },
+    {
+      "start": 193.26,
+      "duration": 3.9,
+      "text": "Both of these robots were made by Dr. Kevin Chen at MIT.",
+      "en": "Both of these robots were made by Dr. Kevin Chen at MIT.",
+      "zh": ""
+    },
+    {
+      "start": 197.16,
+      "duration": 1.41,
+      "text": "- We're looking at the flight room,",
+      "en": "- We're looking at the flight room,",
+      "zh": ""
+    },
+    {
+      "start": 198.57,
+      "duration": 2.88,
+      "text": "and this is where we do all of our flight experiment.",
+      "en": "and this is where we do all of our flight experiment.",
+      "zh": ""
+    },
+    {
+      "start": 201.45,
+      "duration": 2.82,
+      "text": "As you can see, it has motion capture cameras.",
+      "en": "As you can see, it has motion capture cameras.",
+      "zh": ""
+    },
+    {
+      "start": 205.35,
+      "duration": 0.83,
+      "text": "- [Derek] This lab",
+      "en": "- [Derek] This lab",
+      "zh": ""
+    },
+    {
+      "start": 206.18,
+      "duration": 1.24,
+      "text": "is one of the only places in the world",
+      "en": "is one of the only places in the world",
+      "zh": ""
+    },
+    {
+      "start": 207.42,
+      "duration": 2.1,
+      "text": "where robots this small attempt flight.",
+      "en": "where robots this small attempt flight.",
+      "zh": ""
+    },
+    {
+      "start": 209.52,
+      "duration": 2.16,
+      "text": "- [Henry] Okay, so because this robot's so small,",
+      "en": "- [Henry] Okay, so because this robot's so small,",
+      "zh": ""
+    },
+    {
+      "start": 211.68,
+      "duration": 1.32,
+      "text": "it is such low inertia, right?",
+      "en": "it is such low inertia, right?",
+      "zh": ""
+    },
+    {
+      "start": 213.0,
+      "duration": 1.65,
+      "text": "So, you're saying that it could flip faster",
+      "en": "So, you're saying that it could flip faster",
+      "zh": ""
+    },
+    {
+      "start": 214.65,
+      "duration": 1.47,
+      "text": "than any other drone in the world?",
+      "en": "than any other drone in the world?",
+      "zh": ""
+    },
+    {
+      "start": 216.12,
+      "duration": 2.7,
+      "text": "- Beyond 7,000 degrees per second.",
+      "en": "- Beyond 7,000 degrees per second.",
+      "zh": ""
+    },
+    {
+      "start": 218.82,
+      "duration": 1.98,
+      "text": "I mean, you can actually hit the button.",
+      "en": "I mean, you can actually hit the button.",
+      "zh": ""
+    },
+    {
+      "start": 220.8,
+      "duration": 1.26,
+      "text": "- You'd let me hit the button?",
+      "en": "- You'd let me hit the button?",
+      "zh": ""
+    },
+    {
+      "start": 222.06,
+      "duration": 0.96,
+      "text": "Yeah, I'd love to.",
+      "en": "Yeah, I'd love to.",
+      "zh": ""
+    },
+    {
+      "start": 223.02,
+      "duration": 1.08,
+      "text": "- Ready? - Yep.",
+      "en": "- Ready? - Yep.",
+      "zh": ""
+    },
+    {
+      "start": 224.1,
+      "duration": 2.25,
+      "text": "- Okay. - Three, two, one.",
+      "en": "- Okay. - Three, two, one.",
+      "zh": ""
+    },
+    {
+      "start": 226.35,
+      "duration": 1.84,
+      "text": "(robot buzzing) (triumphant music)",
+      "en": "(robot buzzing) (triumphant music)",
+      "zh": ""
+    },
+    {
+      "start": 228.19,
+      "duration": 2.07,
+      "text": "(group cheering)",
+      "en": "(group cheering)",
+      "zh": ""
+    },
+    {
+      "start": 230.26,
+      "duration": 2.03,
+      "text": "(defeated music) (robot buzzing)",
+      "en": "(defeated music) (robot buzzing)",
+      "zh": ""
+    },
+    {
+      "start": 232.29,
+      "duration": 0.99,
+      "text": "- We know who's fault it is.",
+      "en": "- We know who's fault it is.",
+      "zh": ""
+    },
+    {
+      "start": 233.28,
+      "duration": 2.49,
+      "text": "(group laughing)",
+      "en": "(group laughing)",
+      "zh": ""
+    },
+    {
+      "start": 235.77,
+      "duration": 2.25,
+      "text": "- [Derek] Getting these robots flying is tough.",
+      "en": "- [Derek] Getting these robots flying is tough.",
+      "zh": ""
+    },
+    {
+      "start": 238.02,
+      "duration": 2.04,
+      "text": "I mean, they're the size of bees,",
+      "en": "I mean, they're the size of bees,",
+      "zh": ""
+    },
+    {
+      "start": 240.06,
+      "duration": 3.3,
+      "text": "so the internal mechanisms have to be even smaller,",
+      "en": "so the internal mechanisms have to be even smaller,",
+      "zh": ""
+    },
+    {
+      "start": 243.36,
+      "duration": 1.83,
+      "text": "like the parts of a watch.",
+      "en": "like the parts of a watch.",
+      "zh": ""
+    },
+    {
+      "start": 245.19,
+      "duration": 1.29,
+      "text": "- Yep. (wing buzzes)",
+      "en": "- Yep. (wing buzzes)",
+      "zh": ""
+    },
+    {
+      "start": 246.48,
+      "duration": 0.83,
+      "text": "- You got that?",
+      "en": "- You got that?",
+      "zh": ""
+    },
+    {
+      "start": 247.31,
+      "duration": 1.03,
+      "text": "- [Derek] Components have to be precise",
+      "en": "- [Derek] Components have to be precise",
+      "zh": ""
+    },
+    {
+      "start": 248.34,
+      "duration": 1.74,
+      "text": "to within five microns.",
+      "en": "to within five microns.",
+      "zh": ""
+    },
+    {
+      "start": 250.08,
+      "duration": 3.18,
+      "text": "That's a 10th the width of a human hair.",
+      "en": "That's a 10th the width of a human hair.",
+      "zh": ""
+    },
+    {
+      "start": 253.26,
+      "duration": 0.83,
+      "text": "- In the summer,",
+      "en": "- In the summer,",
+      "zh": ""
+    },
+    {
+      "start": 254.09,
+      "duration": 2.92,
+      "text": "we have those very big flies zipping by in the lab,",
+      "en": "we have those very big flies zipping by in the lab,",
+      "zh": ""
+    },
+    {
+      "start": 257.01,
+      "duration": 1.63,
+      "text": "and I was making the statement of,",
+      "en": "and I was making the statement of,",
+      "zh": ""
+    },
+    {
+      "start": 258.64,
+      "duration": 1.41,
+      "text": "\"Oh, they're just showing off.\"",
+      "en": "\"Oh, they're just showing off.\"",
+      "zh": ""
+    },
+    {
+      "start": 260.05,
+      "duration": 1.73,
+      "text": "(group laughing)",
+      "en": "(group laughing)",
+      "zh": ""
+    },
+    {
+      "start": 261.78,
+      "duration": 1.53,
+      "text": "- [Henry] Take two.",
+      "en": "- [Henry] Take two.",
+      "zh": ""
+    },
+    {
+      "start": 263.31,
+      "duration": 1.53,
+      "text": "- Three, two, one.",
+      "en": "- Three, two, one.",
+      "zh": ""
+    },
+    {
+      "start": 264.84,
+      "duration": 2.22,
+      "text": "(robot buzzes)",
+      "en": "(robot buzzes)",
+      "zh": ""
+    },
+    {
+      "start": 267.06,
+      "duration": 1.39,
+      "text": "- Whoo!",
+      "en": "- Whoo!",
+      "zh": ""
+    },
+    {
+      "start": 268.45,
+      "duration": 3.11,
+      "text": "(gentle music)",
+      "en": "(gentle music)",
+      "zh": ""
+    },
+    {
+      "start": 271.56,
+      "duration": 2.08,
+      "text": "- That flipped. - There we go.",
+      "en": "- That flipped. - There we go.",
+      "zh": ""
+    },
+    {
+      "start": 273.64,
+      "duration": 2.75,
+      "text": "(group clapping)",
+      "en": "(group clapping)",
+      "zh": ""
+    },
+    {
+      "start": 280.73,
+      "duration": 2.68,
+      "text": "- So these bots fly but not like birds.",
+      "en": "- So these bots fly but not like birds.",
+      "zh": ""
+    },
+    {
+      "start": 283.41,
+      "duration": 1.86,
+      "text": "I mean, they don't soar.",
+      "en": "I mean, they don't soar.",
+      "zh": ""
+    },
+    {
+      "start": 285.27,
+      "duration": 2.7,
+      "text": "Instead, they have to use a whole lot more energy,",
+      "en": "Instead, they have to use a whole lot more energy,",
+      "zh": ""
+    },
+    {
+      "start": 287.97,
+      "duration": 3.63,
+      "text": "flapping their wings hundreds of times per second.",
+      "en": "flapping their wings hundreds of times per second.",
+      "zh": ""
+    },
+    {
+      "start": 291.6,
+      "duration": 2.13,
+      "text": "So why do they do that?",
+      "en": "So why do they do that?",
+      "zh": ""
+    },
+    {
+      "start": 293.73,
+      "duration": 4.02,
+      "text": "Well, it comes down to this scale phenomenon.",
+      "en": "Well, it comes down to this scale phenomenon.",
+      "zh": ""
+    },
+    {
+      "start": 297.75,
+      "duration": 2.88,
+      "text": "Larger objects typically have less surface area",
+      "en": "Larger objects typically have less surface area",
+      "zh": ""
+    },
+    {
+      "start": 300.63,
+      "duration": 1.98,
+      "text": "relative to their volume,",
+      "en": "relative to their volume,",
+      "zh": ""
+    },
+    {
+      "start": 302.61,
+      "duration": 1.05,
+      "text": "and that's important.",
+      "en": "and that's important.",
+      "zh": ""
+    },
+    {
+      "start": 304.59,
+      "duration": 2.88,
+      "text": "Let's just approximate a flyer by a cube.",
+      "en": "Let's just approximate a flyer by a cube.",
+      "zh": ""
+    },
+    {
+      "start": 307.47,
+      "duration": 3.18,
+      "text": "Let's say it's 10 centimeters on a side.",
+      "en": "Let's say it's 10 centimeters on a side.",
+      "zh": ""
+    },
+    {
+      "start": 310.65,
+      "duration": 3.42,
+      "text": "Well then that would have a volume of 10 by 10 by 10,",
+      "en": "Well then that would have a volume of 10 by 10 by 10,",
+      "zh": ""
+    },
+    {
+      "start": 314.07,
+      "duration": 2.01,
+      "text": "or a thousand cubic centimeters,",
+      "en": "or a thousand cubic centimeters,",
+      "zh": ""
+    },
+    {
+      "start": 316.08,
+      "duration": 3.66,
+      "text": "and it would have an area of 10 by 10 by six sides,",
+      "en": "and it would have an area of 10 by 10 by six sides,",
+      "zh": ""
+    },
+    {
+      "start": 319.74,
+      "duration": 2.25,
+      "text": "600 square centimeters.",
+      "en": "600 square centimeters.",
+      "zh": ""
+    },
+    {
+      "start": 321.99,
+      "duration": 4.23,
+      "text": "So the surface area to volume ratio would be 0.6 to one.",
+      "en": "So the surface area to volume ratio would be 0.6 to one.",
+      "zh": ""
+    },
+    {
+      "start": 326.22,
+      "duration": 2.25,
+      "text": "But now imagine we have a much smaller flyer",
+      "en": "But now imagine we have a much smaller flyer",
+      "zh": ""
+    },
+    {
+      "start": 328.47,
+      "duration": 3.45,
+      "text": "that is just one cubic centimeter in volume.",
+      "en": "that is just one cubic centimeter in volume.",
+      "zh": ""
+    },
+    {
+      "start": 331.92,
+      "duration": 4.47,
+      "text": "Well, its surface area is going to be one by one times six.",
+      "en": "Well, its surface area is going to be one by one times six.",
+      "zh": ""
+    },
+    {
+      "start": 336.39,
+      "duration": 2.22,
+      "text": "That is six square centimeters.",
+      "en": "That is six square centimeters.",
+      "zh": ""
+    },
+    {
+      "start": 338.61,
+      "duration": 3.27,
+      "text": "So that's gonna be 10 times the surface area",
+      "en": "So that's gonna be 10 times the surface area",
+      "zh": ""
+    },
+    {
+      "start": 341.88,
+      "duration": 0.83,
+      "text": "to volume ratio.",
+      "en": "to volume ratio.",
+      "zh": ""
+    },
+    {
+      "start": 342.71,
+      "duration": 1.6,
+      "text": "It's gonna have a surface area to volume ratio",
+      "en": "It's gonna have a surface area to volume ratio",
+      "zh": ""
+    },
+    {
+      "start": 344.31,
+      "duration": 1.83,
+      "text": "of six to one.",
+      "en": "of six to one.",
+      "zh": ""
+    },
+    {
+      "start": 346.14,
+      "duration": 1.95,
+      "text": "Now why is that so important?",
+      "en": "Now why is that so important?",
+      "zh": ""
+    },
+    {
+      "start": 348.09,
+      "duration": 3.06,
+      "text": "Well, it's because drag depends on surface area.",
+      "en": "Well, it's because drag depends on surface area.",
+      "zh": ""
+    },
+    {
+      "start": 351.15,
+      "duration": 2.67,
+      "text": "So if you have more surface area to volume,",
+      "en": "So if you have more surface area to volume,",
+      "zh": ""
+    },
+    {
+      "start": 353.82,
+      "duration": 2.31,
+      "text": "well you're gonna have a lot more drag,",
+      "en": "well you're gonna have a lot more drag,",
+      "zh": ""
+    },
+    {
+      "start": 356.13,
+      "duration": 2.61,
+      "text": "and also, at that small scale,",
+      "en": "and also, at that small scale,",
+      "zh": ""
+    },
+    {
+      "start": 358.74,
+      "duration": 2.82,
+      "text": "you'll be much lighter relative to that drag.",
+      "en": "you'll be much lighter relative to that drag.",
+      "zh": ""
+    },
+    {
+      "start": 361.56,
+      "duration": 1.74,
+      "text": "So you're not gonna have as much inertia,",
+      "en": "So you're not gonna have as much inertia,",
+      "zh": ""
+    },
+    {
+      "start": 363.3,
+      "duration": 3.3,
+      "text": "so you'll get pushed around more by the air,",
+      "en": "so you'll get pushed around more by the air,",
+      "zh": ""
+    },
+    {
+      "start": 366.6,
+      "duration": 2.91,
+      "text": "so you can't just soar through it like a bird.",
+      "en": "so you can't just soar through it like a bird.",
+      "zh": ""
+    },
+    {
+      "start": 369.51,
+      "duration": 1.08,
+      "text": "And that's why bees",
+      "en": "And that's why bees",
+      "zh": ""
+    },
+    {
+      "start": 370.59,
+      "duration": 2.58,
+      "text": "and other insects flap their wings a lot.",
+      "en": "and other insects flap their wings a lot.",
+      "zh": ""
+    },
+    {
+      "start": 374.52,
+      "duration": 2.67,
+      "text": "What they're doing is generating swirls of air",
+      "en": "What they're doing is generating swirls of air",
+      "zh": ""
+    },
+    {
+      "start": 377.19,
+      "duration": 1.62,
+      "text": "above the top of the wing,",
+      "en": "above the top of the wing,",
+      "zh": ""
+    },
+    {
+      "start": 378.81,
+      "duration": 3.48,
+      "text": "and those vortices create low-pressure zones.",
+      "en": "and those vortices create low-pressure zones.",
+      "zh": ""
+    },
+    {
+      "start": 382.29,
+      "duration": 2.22,
+      "text": "When combined with the high pressure below the wing,",
+      "en": "When combined with the high pressure below the wing,",
+      "zh": ""
+    },
+    {
+      "start": 384.51,
+      "duration": 2.16,
+      "text": "that is what generates lift.",
+      "en": "that is what generates lift.",
+      "zh": ""
+    },
+    {
+      "start": 386.67,
+      "duration": 3.24,
+      "text": "So they're pushed up into that low pressure region",
+      "en": "So they're pushed up into that low pressure region",
+      "zh": ""
+    },
+    {
+      "start": 389.91,
+      "duration": 2.46,
+      "text": "by flapping their wings back and forth.",
+      "en": "by flapping their wings back and forth.",
+      "zh": ""
+    },
+    {
+      "start": 395.55,
+      "duration": 3.4,
+      "text": "This robot was inspired by seeds from a maple tree.",
+      "en": "This robot was inspired by seeds from a maple tree.",
+      "zh": ""
+    },
+    {
+      "start": 398.95,
+      "duration": 1.76,
+      "text": "(gentle music)",
+      "en": "(gentle music)",
+      "zh": ""
+    },
+    {
+      "start": 400.71,
+      "duration": 2.88,
+      "text": "Their unique shape creates the same swirling vortices",
+      "en": "Their unique shape creates the same swirling vortices",
+      "zh": ""
+    },
+    {
+      "start": 403.59,
+      "duration": 2.01,
+      "text": "above the seed's leading edge,",
+      "en": "above the seed's leading edge,",
+      "zh": ""
+    },
+    {
+      "start": 407.13,
+      "duration": 0.93,
+      "text": "and as they fall,",
+      "en": "and as they fall,",
+      "zh": ""
+    },
+    {
+      "start": 408.06,
+      "duration": 3.18,
+      "text": "they spin and generate surprisingly high lift.",
+      "en": "they spin and generate surprisingly high lift.",
+      "zh": ""
+    },
+    {
+      "start": 412.44,
+      "duration": 2.88,
+      "text": "These seeds are still just falling,",
+      "en": "These seeds are still just falling,",
+      "zh": ""
+    },
+    {
+      "start": 415.32,
+      "duration": 2.82,
+      "text": "but if you add miniature electric rotors",
+      "en": "but if you add miniature electric rotors",
+      "zh": ""
+    },
+    {
+      "start": 418.14,
+      "duration": 2.55,
+      "text": "to the ends of each wingtip on this robot,",
+      "en": "to the ends of each wingtip on this robot,",
+      "zh": ""
+    },
+    {
+      "start": 420.69,
+      "duration": 2.79,
+      "text": "then it can generate enough lift to fly.",
+      "en": "then it can generate enough lift to fly.",
+      "zh": ""
+    },
+    {
+      "start": 423.48,
+      "duration": 5.0,
+      "text": "(gentle music) (robot whirring)",
+      "en": "(gentle music) (robot whirring)",
+      "zh": ""
+    },
+    {
+      "start": 428.85,
+      "duration": 3.6,
+      "text": "But this robot isn't quite insect scale.",
+      "en": "But this robot isn't quite insect scale.",
+      "zh": ""
+    },
+    {
+      "start": 432.45,
+      "duration": 3.27,
+      "text": "It actually weighs about 50 times more than the RoboBees",
+      "en": "It actually weighs about 50 times more than the RoboBees",
+      "zh": ""
+    },
+    {
+      "start": 435.72,
+      "duration": 1.5,
+      "text": "in Kevin's lab.",
+      "en": "in Kevin's lab.",
+      "zh": ""
+    },
+    {
+      "start": 437.22,
+      "duration": 2.13,
+      "text": "So to power something that small,",
+      "en": "So to power something that small,",
+      "zh": ""
+    },
+    {
+      "start": 439.35,
+      "duration": 2.46,
+      "text": "you can't just use electric motors.",
+      "en": "you can't just use electric motors.",
+      "zh": ""
+    },
+    {
+      "start": 441.81,
+      "duration": 3.06,
+      "text": "I mean, the magnets and coils don't scale down effectively",
+      "en": "I mean, the magnets and coils don't scale down effectively",
+      "zh": ""
+    },
+    {
+      "start": 444.87,
+      "duration": 1.8,
+      "text": "to such a small size.",
+      "en": "to such a small size.",
+      "zh": ""
+    },
+    {
+      "start": 447.8,
+      "duration": 1.39,
+      "text": "(gentle music)",
+      "en": "(gentle music)",
+      "zh": ""
+    },
+    {
+      "start": 449.19,
+      "duration": 2.04,
+      "text": "So to power the first RoboBees,",
+      "en": "So to power the first RoboBees,",
+      "zh": ""
+    },
+    {
+      "start": 451.23,
+      "duration": 2.49,
+      "text": "they had wings driven by special crystals",
+      "en": "they had wings driven by special crystals",
+      "zh": ""
+    },
+    {
+      "start": 453.72,
+      "duration": 2.91,
+      "text": "called piezoelectric crystals.",
+      "en": "called piezoelectric crystals.",
+      "zh": ""
+    },
+    {
+      "start": 456.63,
+      "duration": 2.16,
+      "text": "By applying a voltage across the crystal,",
+      "en": "By applying a voltage across the crystal,",
+      "zh": ""
+    },
+    {
+      "start": 458.79,
+      "duration": 1.71,
+      "text": "they contract slightly,",
+      "en": "they contract slightly,",
+      "zh": ""
+    },
+    {
+      "start": 460.5,
+      "duration": 2.19,
+      "text": "but only around 0.1%,",
+      "en": "but only around 0.1%,",
+      "zh": ""
+    },
+    {
+      "start": 462.69,
+      "duration": 3.06,
+      "text": "not nearly enough of a deflection to make a robot fly.",
+      "en": "not nearly enough of a deflection to make a robot fly.",
+      "zh": ""
+    },
+    {
+      "start": 466.65,
+      "duration": 2.13,
+      "text": "So roboticists designed a chassis",
+      "en": "So roboticists designed a chassis",
+      "zh": ""
+    },
+    {
+      "start": 468.78,
+      "duration": 3.72,
+      "text": "that mechanically amplifies the motion 30 times.",
+      "en": "that mechanically amplifies the motion 30 times.",
+      "zh": ""
+    },
+    {
+      "start": 472.5,
+      "duration": 1.47,
+      "text": "If you then turn the voltage on",
+      "en": "If you then turn the voltage on",
+      "zh": ""
+    },
+    {
+      "start": 473.97,
+      "duration": 2.28,
+      "text": "and off 120 times per second,",
+      "en": "and off 120 times per second,",
+      "zh": ""
+    },
+    {
+      "start": 476.25,
+      "duration": 2.82,
+      "text": "the RoboBee flaps its wings and flies.",
+      "en": "the RoboBee flaps its wings and flies.",
+      "zh": ""
+    },
+    {
+      "start": 481.86,
+      "duration": 3.03,
+      "text": "But there is a downside to piezoelectric crystals,",
+      "en": "But there is a downside to piezoelectric crystals,",
+      "zh": ""
+    },
+    {
+      "start": 484.89,
+      "duration": 1.95,
+      "text": "which is, they're fragile.",
+      "en": "which is, they're fragile.",
+      "zh": ""
+    },
+    {
+      "start": 486.84,
+      "duration": 3.81,
+      "text": "Even a small impact to the wings and the crystal cracks,",
+      "en": "Even a small impact to the wings and the crystal cracks,",
+      "zh": ""
+    },
+    {
+      "start": 490.65,
+      "duration": 2.31,
+      "text": "and the RoboBee stops working.",
+      "en": "and the RoboBee stops working.",
+      "zh": ""
+    },
+    {
+      "start": 492.96,
+      "duration": 4.23,
+      "text": "So at MIT, they are building their RoboBees differently.",
+      "en": "So at MIT, they are building their RoboBees differently.",
+      "zh": ""
+    },
+    {
+      "start": 497.19,
+      "duration": 3.09,
+      "text": "- They're so confident that it will survive being dropped",
+      "en": "- They're so confident that it will survive being dropped",
+      "zh": ""
+    },
+    {
+      "start": 500.28,
+      "duration": 2.31,
+      "text": "that they're gonna let me throw it off of a building.",
+      "en": "that they're gonna let me throw it off of a building.",
+      "zh": ""
+    },
+    {
+      "start": 502.59,
+      "duration": 2.52,
+      "text": "So, I mean, here we go.",
+      "en": "So, I mean, here we go.",
+      "zh": ""
+    },
+    {
+      "start": 505.11,
+      "duration": 2.35,
+      "text": "(robot dings)",
+      "en": "(robot dings)",
+      "zh": ""
+    },
+    {
+      "start": 507.46,
+      "duration": 2.12,
+      "text": "(laughing) Okay, we gotta go see it. Come on.",
+      "en": "(laughing) Okay, we gotta go see it. Come on.",
+      "zh": ""
+    },
+    {
+      "start": 509.58,
+      "duration": 5.0,
+      "text": "(gentle music) (henry laughs)",
+      "en": "(gentle music) (henry laughs)",
+      "zh": ""
+    },
+    {
+      "start": 514.65,
+      "duration": 1.2,
+      "text": "I mean, it looks pretty good.",
+      "en": "I mean, it looks pretty good.",
+      "zh": ""
+    },
+    {
+      "start": 515.85,
+      "duration": 1.5,
+      "text": "This is amazing.",
+      "en": "This is amazing.",
+      "zh": ""
+    },
+    {
+      "start": 517.35,
+      "duration": 3.6,
+      "text": "Like how does this thing survive? I have no idea.",
+      "en": "Like how does this thing survive? I have no idea.",
+      "zh": ""
+    },
+    {
+      "start": 520.95,
+      "duration": 2.52,
+      "text": "- [Derek] Well, these robots have a secret ingredient.",
+      "en": "- [Derek] Well, these robots have a secret ingredient.",
+      "zh": ""
+    },
+    {
+      "start": 523.47,
+      "duration": 1.68,
+      "text": "- So put into scale. - Okay.",
+      "en": "- So put into scale. - Okay.",
+      "zh": ""
+    },
+    {
+      "start": 525.15,
+      "duration": 1.17,
+      "text": "- Zero it.",
+      "en": "- Zero it.",
+      "zh": ""
+    },
+    {
+      "start": 526.32,
+      "duration": 2.25,
+      "text": "- [Derek] Instead of using piezos to drive the wings,",
+      "en": "- [Derek] Instead of using piezos to drive the wings,",
+      "zh": ""
+    },
+    {
+      "start": 528.57,
+      "duration": 2.37,
+      "text": "these bees use soft polymers.",
+      "en": "these bees use soft polymers.",
+      "zh": ""
+    },
+    {
+      "start": 530.94,
+      "duration": 2.25,
+      "text": "They effectively work like tiny muscles.",
+      "en": "They effectively work like tiny muscles.",
+      "zh": ""
+    },
+    {
+      "start": 533.19,
+      "duration": 1.86,
+      "text": "- Just drop it here.",
+      "en": "- Just drop it here.",
+      "zh": ""
+    },
+    {
+      "start": 535.05,
+      "duration": 1.2,
+      "text": "- [Derek] They take a polymer",
+      "en": "- [Derek] They take a polymer",
+      "zh": ""
+    },
+    {
+      "start": 536.25,
+      "duration": 3.06,
+      "text": "and they coat each side with carbon nanotubes",
+      "en": "and they coat each side with carbon nanotubes",
+      "zh": ""
+    },
+    {
+      "start": 539.31,
+      "duration": 3.36,
+      "text": "that creates two effective conducting plates.",
+      "en": "that creates two effective conducting plates.",
+      "zh": ""
+    },
+    {
+      "start": 542.67,
+      "duration": 2.58,
+      "text": "So if you apply opposite charges to these plates,",
+      "en": "So if you apply opposite charges to these plates,",
+      "zh": ""
+    },
+    {
+      "start": 545.25,
+      "duration": 3.69,
+      "text": "that pulls them together, stretching out the polymer.",
+      "en": "that pulls them together, stretching out the polymer.",
+      "zh": ""
+    },
+    {
+      "start": 548.94,
+      "duration": 3.75,
+      "text": "But if like charges are applied to both plates, they repel,",
+      "en": "But if like charges are applied to both plates, they repel,",
+      "zh": ""
+    },
+    {
+      "start": 552.69,
+      "duration": 2.58,
+      "text": "and so the polymer shrinks",
+      "en": "and so the polymer shrinks",
+      "zh": ""
+    },
+    {
+      "start": 555.27,
+      "duration": 2.58,
+      "text": "and if we roll up layers like this into a tube,",
+      "en": "and if we roll up layers like this into a tube,",
+      "zh": ""
+    },
+    {
+      "start": 557.85,
+      "duration": 2.52,
+      "text": "we can amplify the force they generate.",
+      "en": "we can amplify the force they generate.",
+      "zh": ""
+    },
+    {
+      "start": 560.37,
+      "duration": 4.08,
+      "text": "It stretches up to 25% of its length.",
+      "en": "It stretches up to 25% of its length.",
+      "zh": ""
+    },
+    {
+      "start": 564.45,
+      "duration": 2.85,
+      "text": "By cycling the voltage hundreds of times per second,",
+      "en": "By cycling the voltage hundreds of times per second,",
+      "zh": ""
+    },
+    {
+      "start": 567.3,
+      "duration": 2.82,
+      "text": "these muscles drive the RoboBees wings.",
+      "en": "these muscles drive the RoboBees wings.",
+      "zh": ""
+    },
+    {
+      "start": 572.85,
+      "duration": 2.43,
+      "text": "- When you shrink down to smaller scale,",
+      "en": "- When you shrink down to smaller scale,",
+      "zh": ""
+    },
+    {
+      "start": 575.28,
+      "duration": 2.16,
+      "text": "your fly wing frequency goes up higher.",
+      "en": "your fly wing frequency goes up higher.",
+      "zh": ""
+    },
+    {
+      "start": 577.44,
+      "duration": 1.95,
+      "text": "So we are at the 400 hertz range.",
+      "en": "So we are at the 400 hertz range.",
+      "zh": ""
+    },
+    {
+      "start": 579.39,
+      "duration": 2.4,
+      "text": "- Which is right in between a honeybee and a mosquito.",
+      "en": "- Which is right in between a honeybee and a mosquito.",
+      "zh": ""
+    },
+    {
+      "start": 581.79,
+      "duration": 2.7,
+      "text": "- Yes. (group laughs)",
+      "en": "- Yes. (group laughs)",
+      "zh": ""
+    },
+    {
+      "start": 584.49,
+      "duration": 1.83,
+      "text": "- [Derek] This flexible muscle can take bumps",
+      "en": "- [Derek] This flexible muscle can take bumps",
+      "zh": ""
+    },
+    {
+      "start": 586.32,
+      "duration": 1.92,
+      "text": "and scrapes and keep working,",
+      "en": "and scrapes and keep working,",
+      "zh": ""
+    },
+    {
+      "start": 588.24,
+      "duration": 2.19,
+      "text": "but if it's pierced by a needle,",
+      "en": "but if it's pierced by a needle,",
+      "zh": ""
+    },
+    {
+      "start": 590.43,
+      "duration": 2.82,
+      "text": "the carbon nanotubes get pulled in",
+      "en": "the carbon nanotubes get pulled in",
+      "zh": ""
+    },
+    {
+      "start": 593.25,
+      "duration": 1.5,
+      "text": "and then the plates touch,",
+      "en": "and then the plates touch,",
+      "zh": ""
+    },
+    {
+      "start": 594.75,
+      "duration": 3.24,
+      "text": "causing a short circuit that renders the muscle useless.",
+      "en": "causing a short circuit that renders the muscle useless.",
+      "zh": ""
+    },
+    {
+      "start": 597.99,
+      "duration": 2.88,
+      "text": "But the scientists have even found a way around this.",
+      "en": "But the scientists have even found a way around this.",
+      "zh": ""
+    },
+    {
+      "start": 600.87,
+      "duration": 1.98,
+      "text": "When high current is cycled,",
+      "en": "When high current is cycled,",
+      "zh": ""
+    },
+    {
+      "start": 602.85,
+      "duration": 2.88,
+      "text": "the carbon nanotubes that are touching burn off",
+      "en": "the carbon nanotubes that are touching burn off",
+      "zh": ""
+    },
+    {
+      "start": 605.73,
+      "duration": 2.64,
+      "text": "and so the muscle self-heals.",
+      "en": "and so the muscle self-heals.",
+      "zh": ""
+    },
+    {
+      "start": 608.37,
+      "duration": 1.98,
+      "text": "Kevin and his team even invented a process",
+      "en": "Kevin and his team even invented a process",
+      "zh": ""
+    },
+    {
+      "start": 610.35,
+      "duration": 3.0,
+      "text": "to perform laser surgery on the robot.",
+      "en": "to perform laser surgery on the robot.",
+      "zh": ""
+    },
+    {
+      "start": 613.35,
+      "duration": 1.89,
+      "text": "- You're creating smaller defect",
+      "en": "- You're creating smaller defect",
+      "zh": ""
+    },
+    {
+      "start": 615.24,
+      "duration": 1.83,
+      "text": "around a very, very big defect",
+      "en": "around a very, very big defect",
+      "zh": ""
+    },
+    {
+      "start": 617.07,
+      "duration": 1.95,
+      "text": "and then by isolating the small defect,",
+      "en": "and then by isolating the small defect,",
+      "zh": ""
+    },
+    {
+      "start": 619.02,
+      "duration": 2.46,
+      "text": "you're using the small defect to isolate the big defect.",
+      "en": "you're using the small defect to isolate the big defect.",
+      "zh": ""
+    },
+    {
+      "start": 621.48,
+      "duration": 1.08,
+      "text": "So that was what we call",
+      "en": "So that was what we call",
+      "zh": ""
+    },
+    {
+      "start": 622.56,
+      "duration": 3.21,
+      "text": "the laser-assisted clearing process.",
+      "en": "the laser-assisted clearing process.",
+      "zh": ""
+    },
+    {
+      "start": 625.77,
+      "duration": 2.82,
+      "text": "- One robot was really tested to its limits.",
+      "en": "- One robot was really tested to its limits.",
+      "zh": ""
+    },
+    {
+      "start": 628.59,
+      "duration": 2.88,
+      "text": "Its artificial muscle was pierced by cactus needles",
+      "en": "Its artificial muscle was pierced by cactus needles",
+      "zh": ""
+    },
+    {
+      "start": 631.47,
+      "duration": 1.8,
+      "text": "and hit by a laser beam (laser sizzling)",
+      "en": "and hit by a laser beam (laser sizzling)",
+      "zh": ""
+    },
+    {
+      "start": 633.27,
+      "duration": 2.19,
+      "text": "and it could still fly,",
+      "en": "and it could still fly,",
+      "zh": ""
+    },
+    {
+      "start": 636.63,
+      "duration": 2.43,
+      "text": "but these muscles are energy intensive",
+      "en": "but these muscles are energy intensive",
+      "zh": ""
+    },
+    {
+      "start": 639.06,
+      "duration": 2.85,
+      "text": "and for robots at this scale that have to be so light,",
+      "en": "and for robots at this scale that have to be so light,",
+      "zh": ""
+    },
+    {
+      "start": 641.91,
+      "duration": 2.79,
+      "text": "there's no room for extra batteries.",
+      "en": "there's no room for extra batteries.",
+      "zh": ""
+    },
+    {
+      "start": 644.7,
+      "duration": 3.54,
+      "text": "Luckily, there is another way to get around.",
+      "en": "Luckily, there is another way to get around.",
+      "zh": ""
+    },
+    {
+      "start": 648.24,
+      "duration": 1.38,
+      "text": "- [Henry] That's a jumping, flying robot.",
+      "en": "- [Henry] That's a jumping, flying robot.",
+      "zh": ""
+    },
+    {
+      "start": 649.62,
+      "duration": 0.91,
+      "text": "- [Kevin] Yeah.",
+      "en": "- [Kevin] Yeah.",
+      "zh": ""
+    },
+    {
+      "start": 650.53,
+      "duration": 1.04,
+      "text": "(upbeat music)",
+      "en": "(upbeat music)",
+      "zh": ""
+    },
+    {
+      "start": 651.57,
+      "duration": 3.24,
+      "text": "- [Derek] This RoboBee conserves energy by hopping.",
+      "en": "- [Derek] This RoboBee conserves energy by hopping.",
+      "zh": ""
+    },
+    {
+      "start": 654.81,
+      "duration": 1.77,
+      "text": "This tech was used on another drone",
+      "en": "This tech was used on another drone",
+      "zh": ""
+    },
+    {
+      "start": 656.58,
+      "duration": 2.43,
+      "text": "at the City University of Hong Kong.",
+      "en": "at the City University of Hong Kong.",
+      "zh": ""
+    },
+    {
+      "start": 659.01,
+      "duration": 2.64,
+      "text": "Normally this drone can only fly continuously",
+      "en": "Normally this drone can only fly continuously",
+      "zh": ""
+    },
+    {
+      "start": 661.65,
+      "duration": 1.89,
+      "text": "for 6.3 minutes,",
+      "en": "for 6.3 minutes,",
+      "zh": ""
+    },
+    {
+      "start": 663.54,
+      "duration": 1.86,
+      "text": "but with the hopping attachment,",
+      "en": "but with the hopping attachment,",
+      "zh": ""
+    },
+    {
+      "start": 665.4,
+      "duration": 2.46,
+      "text": "it can keep moving for 50 minutes,",
+      "en": "it can keep moving for 50 minutes,",
+      "zh": ""
+    },
+    {
+      "start": 667.86,
+      "duration": 1.33,
+      "text": "nearly 10 times longer.",
+      "en": "nearly 10 times longer.",
+      "zh": ""
+    },
+    {
+      "start": 669.19,
+      "duration": 2.21,
+      "text": "(RoboBee buzzing)",
+      "en": "(RoboBee buzzing)",
+      "zh": ""
+    },
+    {
+      "start": 671.4,
+      "duration": 2.25,
+      "text": "Scientists believe this could be even more effective",
+      "en": "Scientists believe this could be even more effective",
+      "zh": ""
+    },
+    {
+      "start": 673.65,
+      "duration": 3.54,
+      "text": "in low-gravity, low-air resistance environments like Mars.",
+      "en": "in low-gravity, low-air resistance environments like Mars.",
+      "zh": ""
+    },
+    {
+      "start": 677.19,
+      "duration": 3.6,
+      "text": "So it would be perfect for an ingenuity version 2.0.",
+      "en": "So it would be perfect for an ingenuity version 2.0.",
+      "zh": ""
+    },
+    {
+      "start": 681.99,
+      "duration": 2.85,
+      "text": "But microrobots are already being used today.",
+      "en": "But microrobots are already being used today.",
+      "zh": ""
+    },
+    {
+      "start": 684.84,
+      "duration": 2.34,
+      "text": "(gentle music) (airplane whooshing)",
+      "en": "(gentle music) (airplane whooshing)",
+      "zh": ""
+    },
+    {
+      "start": 687.18,
+      "duration": 3.3,
+      "text": "Every day planes complete hundreds of thousands of flights",
+      "en": "Every day planes complete hundreds of thousands of flights",
+      "zh": ""
+    },
+    {
+      "start": 690.48,
+      "duration": 3.03,
+      "text": "and most of them have multiple turbine engines.",
+      "en": "and most of them have multiple turbine engines.",
+      "zh": ""
+    },
+    {
+      "start": 693.51,
+      "duration": 2.55,
+      "text": "Now a crack in a turbine can be catastrophic,",
+      "en": "Now a crack in a turbine can be catastrophic,",
+      "zh": ""
+    },
+    {
+      "start": 696.06,
+      "duration": 3.24,
+      "text": "so manufacturers inspect them every 3000 flight cycles",
+      "en": "so manufacturers inspect them every 3000 flight cycles",
+      "zh": ""
+    },
+    {
+      "start": 699.3,
+      "duration": 2.04,
+      "text": "or 180 days,",
+      "en": "or 180 days,",
+      "zh": ""
+    },
+    {
+      "start": 701.34,
+      "duration": 2.79,
+      "text": "but inspections cost tens of thousands of dollars",
+      "en": "but inspections cost tens of thousands of dollars",
+      "zh": ""
+    },
+    {
+      "start": 704.13,
+      "duration": 2.37,
+      "text": "and can take a whole day.",
+      "en": "and can take a whole day.",
+      "zh": ""
+    },
+    {
+      "start": 706.5,
+      "duration": 2.88,
+      "text": "That's where this cockroach-inspired robot from earlier,",
+      "en": "That's where this cockroach-inspired robot from earlier,",
+      "zh": ""
+    },
+    {
+      "start": 709.38,
+      "duration": 1.5,
+      "text": "HAMR, comes in.",
+      "en": "HAMR, comes in.",
+      "zh": ""
+    },
+    {
+      "start": 710.88,
+      "duration": 1.59,
+      "text": "It's incredibly fast,",
+      "en": "It's incredibly fast,",
+      "zh": ""
+    },
+    {
+      "start": 712.47,
+      "duration": 3.06,
+      "text": "it can run 10.5 body lengths per second.",
+      "en": "it can run 10.5 body lengths per second.",
+      "zh": ""
+    },
+    {
+      "start": 715.53,
+      "duration": 1.59,
+      "text": "Speaking in relative terms,",
+      "en": "Speaking in relative terms,",
+      "zh": ""
+    },
+    {
+      "start": 717.12,
+      "duration": 3.33,
+      "text": "that's faster than a horse, and it's versatile.",
+      "en": "that's faster than a horse, and it's versatile.",
+      "zh": ""
+    },
+    {
+      "start": 720.45,
+      "duration": 2.85,
+      "text": "Its special foot pads can apply a voltage",
+      "en": "Its special foot pads can apply a voltage",
+      "zh": ""
+    },
+    {
+      "start": 723.3,
+      "duration": 2.07,
+      "text": "to polarized metal surfaces,",
+      "en": "to polarized metal surfaces,",
+      "zh": ""
+    },
+    {
+      "start": 725.37,
+      "duration": 2.94,
+      "text": "creating an opposite charge underneath its feet",
+      "en": "creating an opposite charge underneath its feet",
+      "zh": ""
+    },
+    {
+      "start": 728.31,
+      "duration": 2.7,
+      "text": "and that's how it's able to stick to metal surfaces,",
+      "en": "and that's how it's able to stick to metal surfaces,",
+      "zh": ""
+    },
+    {
+      "start": 731.01,
+      "duration": 2.55,
+      "text": "similar to a balloon sticking to a wall",
+      "en": "similar to a balloon sticking to a wall",
+      "zh": ""
+    },
+    {
+      "start": 733.56,
+      "duration": 2.1,
+      "text": "after you rub it on your hair.",
+      "en": "after you rub it on your hair.",
+      "zh": ""
+    },
+    {
+      "start": 735.66,
+      "duration": 2.22,
+      "text": "Rolls-Royce and Harvard are working to put HAMR",
+      "en": "Rolls-Royce and Harvard are working to put HAMR",
+      "zh": ""
+    },
+    {
+      "start": 737.88,
+      "duration": 3.15,
+      "text": "inside of engines to inspect for turbine cracks",
+      "en": "inside of engines to inspect for turbine cracks",
+      "zh": ""
+    },
+    {
+      "start": 741.03,
+      "duration": 1.62,
+      "text": "even upside down.",
+      "en": "even upside down.",
+      "zh": ""
+    },
+    {
+      "start": 742.65,
+      "duration": 2.01,
+      "text": "And since its mass is so small,",
+      "en": "And since its mass is so small,",
+      "zh": ""
+    },
+    {
+      "start": 744.66,
+      "duration": 3.66,
+      "text": "adhesion forces are much stronger relative to its weight.",
+      "en": "adhesion forces are much stronger relative to its weight.",
+      "zh": ""
+    },
+    {
+      "start": 748.32,
+      "duration": 3.42,
+      "text": "So HAMR can get into some tight spaces",
+      "en": "So HAMR can get into some tight spaces",
+      "zh": ""
+    },
+    {
+      "start": 751.74,
+      "duration": 2.84,
+      "text": "and that can be pretty useful.",
+      "en": "and that can be pretty useful.",
+      "zh": ""
+    },
+    {
+      "start": 754.58,
+      "duration": 1.3,
+      "text": "(sirens wailing) One of the first times",
+      "en": "(sirens wailing) One of the first times",
+      "zh": ""
+    },
+    {
+      "start": 755.88,
+      "duration": 2.73,
+      "text": "that robots were deployed in an emergency situation",
+      "en": "that robots were deployed in an emergency situation",
+      "zh": ""
+    },
+    {
+      "start": 758.61,
+      "duration": 3.96,
+      "text": "was during the 9/11 search for survivors at Ground Zero.",
+      "en": "was during the 9/11 search for survivors at Ground Zero.",
+      "zh": ""
+    },
+    {
+      "start": 762.57,
+      "duration": 3.03,
+      "text": "Unfortunately, they didn't turn out to be that helpful.",
+      "en": "Unfortunately, they didn't turn out to be that helpful.",
+      "zh": ""
+    },
+    {
+      "start": 765.6,
+      "duration": 3.96,
+      "text": "They were big and expensive and they'd get stuck.",
+      "en": "They were big and expensive and they'd get stuck.",
+      "zh": ""
+    },
+    {
+      "start": 769.56,
+      "duration": 3.39,
+      "text": "Three different types inspected eight sections of rubble,",
+      "en": "Three different types inspected eight sections of rubble,",
+      "zh": ""
+    },
+    {
+      "start": 772.95,
+      "duration": 2.4,
+      "text": "but none found survivors.",
+      "en": "but none found survivors.",
+      "zh": ""
+    },
+    {
+      "start": 775.35,
+      "duration": 1.71,
+      "text": "So an ideal rescue robot",
+      "en": "So an ideal rescue robot",
+      "zh": ""
+    },
+    {
+      "start": 777.06,
+      "duration": 1.92,
+      "text": "should be able to navigate tight spaces,",
+      "en": "should be able to navigate tight spaces,",
+      "zh": ""
+    },
+    {
+      "start": 778.98,
+      "duration": 2.01,
+      "text": "withstand damage and debris,",
+      "en": "withstand damage and debris,",
+      "zh": ""
+    },
+    {
+      "start": 780.99,
+      "duration": 1.89,
+      "text": "operate across varied environments,",
+      "en": "operate across varied environments,",
+      "zh": ""
+    },
+    {
+      "start": 782.88,
+      "duration": 3.66,
+      "text": "and be inexpensive enough to be replaced if destroyed.",
+      "en": "and be inexpensive enough to be replaced if destroyed.",
+      "zh": ""
+    },
+    {
+      "start": 786.54,
+      "duration": 1.92,
+      "text": "- The material cost is actually quite low",
+      "en": "- The material cost is actually quite low",
+      "zh": ""
+    },
+    {
+      "start": 788.46,
+      "duration": 1.78,
+      "text": "for making the robot.",
+      "en": "for making the robot.",
+      "zh": ""
+    },
+    {
+      "start": 790.24,
+      "duration": 2.0,
+      "text": "The human labor is high,",
+      "en": "The human labor is high,",
+      "zh": ""
+    },
+    {
+      "start": 792.24,
+      "duration": 1.71,
+      "text": "but in terms of the material, right,",
+      "en": "but in terms of the material, right,",
+      "zh": ""
+    },
+    {
+      "start": 793.95,
+      "duration": 1.38,
+      "text": "couple of dollars per robot,",
+      "en": "couple of dollars per robot,",
+      "zh": ""
+    },
+    {
+      "start": 795.33,
+      "duration": 0.83,
+      "text": "but it's really not that much.",
+      "en": "but it's really not that much.",
+      "zh": ""
+    },
+    {
+      "start": 796.16,
+      "duration": 1.6,
+      "text": "- Really? - Yes.",
+      "en": "- Really? - Yes.",
+      "zh": ""
+    },
+    {
+      "start": 797.76,
+      "duration": 2.52,
+      "text": "- So the idea is to deploy swarms",
+      "en": "- So the idea is to deploy swarms",
+      "zh": ""
+    },
+    {
+      "start": 800.28,
+      "duration": 1.8,
+      "text": "of insect-sized microrobots",
+      "en": "of insect-sized microrobots",
+      "zh": ""
+    },
+    {
+      "start": 802.08,
+      "duration": 2.62,
+      "text": "to search for survivors in disaster zones.",
+      "en": "to search for survivors in disaster zones.",
+      "zh": ""
+    },
+    {
+      "start": 804.7,
+      "duration": 5.0,
+      "text": "(dramatic music) (siren wailing)",
+      "en": "(dramatic music) (siren wailing)",
+      "zh": ""
+    },
+    {
+      "start": 809.79,
+      "duration": 1.95,
+      "text": "But I understand when I say swarm,",
+      "en": "But I understand when I say swarm,",
+      "zh": ""
+    },
+    {
+      "start": 811.74,
+      "duration": 1.89,
+      "text": "you might get a little worried.",
+      "en": "you might get a little worried.",
+      "zh": ""
+    },
+    {
+      "start": 813.63,
+      "duration": 2.34,
+      "text": "I mean, swarms of miniature killer robots",
+      "en": "I mean, swarms of miniature killer robots",
+      "zh": ""
+    },
+    {
+      "start": 815.97,
+      "duration": 3.51,
+      "text": "are straight out of dystopian sci-fi.",
+      "en": "are straight out of dystopian sci-fi.",
+      "zh": ""
+    },
+    {
+      "start": 819.48,
+      "duration": 1.62,
+      "text": "Think the hunter-seeker from \"Dune\"",
+      "en": "Think the hunter-seeker from \"Dune\"",
+      "zh": ""
+    },
+    {
+      "start": 821.1,
+      "duration": 2.7,
+      "text": "or the killer robot bees from \"Black Mirror.\"",
+      "en": "or the killer robot bees from \"Black Mirror.\"",
+      "zh": ""
+    },
+    {
+      "start": 823.8,
+      "duration": 0.83,
+      "text": "- You might be familiar",
+      "en": "- You might be familiar",
+      "zh": ""
+    },
+    {
+      "start": 824.63,
+      "duration": 2.26,
+      "text": "with that like famous \"Black Mirror\" TV episode",
+      "en": "with that like famous \"Black Mirror\" TV episode",
+      "zh": ""
+    },
+    {
+      "start": 826.89,
+      "duration": 0.97,
+      "text": "where all like the bees.",
+      "en": "where all like the bees.",
+      "zh": ""
+    },
+    {
+      "start": 827.86,
+      "duration": 0.83,
+      "text": "- Yeah, yeah. - Yeah.",
+      "en": "- Yeah, yeah. - Yeah.",
+      "zh": ""
+    },
+    {
+      "start": 828.69,
+      "duration": 0.84,
+      "text": "When that came out,",
+      "en": "When that came out,",
+      "zh": ""
+    },
+    {
+      "start": 829.53,
+      "duration": 1.95,
+      "text": "everybody that I had ever met in my entire life",
+      "en": "everybody that I had ever met in my entire life",
+      "zh": ""
+    },
+    {
+      "start": 831.48,
+      "duration": 1.72,
+      "text": "sent me a text message and was like,",
+      "en": "sent me a text message and was like,",
+      "zh": ""
+    },
+    {
+      "start": 833.2,
+      "duration": 1.34,
+      "text": "\"Hey bro, you seen this?\"",
+      "en": "\"Hey bro, you seen this?\"",
+      "zh": ""
+    },
+    {
+      "start": 836.16,
+      "duration": 2.46,
+      "text": "- [Derek] But this idea isn't so farfetched.",
+      "en": "- [Derek] But this idea isn't so farfetched.",
+      "zh": ""
+    },
+    {
+      "start": 838.62,
+      "duration": 3.03,
+      "text": "In the early 2000s, bees were dying off.",
+      "en": "In the early 2000s, bees were dying off.",
+      "zh": ""
+    },
+    {
+      "start": 841.65,
+      "duration": 2.19,
+      "text": "- It's called colony collapse disorder.",
+      "en": "- It's called colony collapse disorder.",
+      "zh": ""
+    },
+    {
+      "start": 843.84,
+      "duration": 1.35,
+      "text": "- Congress is holding hearings,",
+      "en": "- Congress is holding hearings,",
+      "zh": ""
+    },
+    {
+      "start": 845.19,
+      "duration": 1.68,
+      "text": "even the Vice President has been briefed.",
+      "en": "even the Vice President has been briefed.",
+      "zh": ""
+    },
+    {
+      "start": 846.87,
+      "duration": 1.65,
+      "text": "- In fact, the whole RoboBee project started",
+      "en": "- In fact, the whole RoboBee project started",
+      "zh": ""
+    },
+    {
+      "start": 848.52,
+      "duration": 2.58,
+      "text": "with the goal of replacing the bees.",
+      "en": "with the goal of replacing the bees.",
+      "zh": ""
+    },
+    {
+      "start": 851.1,
+      "duration": 3.06,
+      "text": "Thankfully that idea didn't last long.",
+      "en": "Thankfully that idea didn't last long.",
+      "zh": ""
+    },
+    {
+      "start": 854.16,
+      "duration": 2.28,
+      "text": "- Bees can do much better jobs",
+      "en": "- Bees can do much better jobs",
+      "zh": ""
+    },
+    {
+      "start": 856.44,
+      "duration": 3.66,
+      "text": "in terms of pollination than those robots much more cheaply.",
+      "en": "in terms of pollination than those robots much more cheaply.",
+      "zh": ""
+    },
+    {
+      "start": 861.09,
+      "duration": 0.83,
+      "text": "To pollinate,",
+      "en": "To pollinate,",
+      "zh": ""
+    },
+    {
+      "start": 861.92,
+      "duration": 4.39,
+      "text": "you need a huge colony of bees to do those effectively.",
+      "en": "you need a huge colony of bees to do those effectively.",
+      "zh": ""
+    },
+    {
+      "start": 866.31,
+      "duration": 2.37,
+      "text": "Also, from an environmental protection perspective,",
+      "en": "Also, from an environmental protection perspective,",
+      "zh": ""
+    },
+    {
+      "start": 868.68,
+      "duration": 1.23,
+      "text": "I think it doesn't make sense",
+      "en": "I think it doesn't make sense",
+      "zh": ""
+    },
+    {
+      "start": 869.91,
+      "duration": 3.12,
+      "text": "to replace bees with robotics bees",
+      "en": "to replace bees with robotics bees",
+      "zh": ""
+    },
+    {
+      "start": 873.03,
+      "duration": 2.55,
+      "text": "from a cost-effective perspective",
+      "en": "from a cost-effective perspective",
+      "zh": ""
+    },
+    {
+      "start": 875.58,
+      "duration": 2.03,
+      "text": "and also from the perspective of, you know,",
+      "en": "and also from the perspective of, you know,",
+      "zh": ""
+    },
+    {
+      "start": 877.61,
+      "duration": 1.87,
+      "text": "if you have so much money,",
+      "en": "if you have so much money,",
+      "zh": ""
+    },
+    {
+      "start": 879.48,
+      "duration": 2.76,
+      "text": "why you making those bees than protecting the real bees.",
+      "en": "why you making those bees than protecting the real bees.",
+      "zh": ""
+    },
+    {
+      "start": 882.24,
+      "duration": 1.89,
+      "text": "- Okay, so they won't replace the bees,",
+      "en": "- Okay, so they won't replace the bees,",
+      "zh": ""
+    },
+    {
+      "start": 884.13,
+      "duration": 2.07,
+      "text": "but I can still easily imagine a world",
+      "en": "but I can still easily imagine a world",
+      "zh": ""
+    },
+    {
+      "start": 886.2,
+      "duration": 1.23,
+      "text": "where these same robots",
+      "en": "where these same robots",
+      "zh": ""
+    },
+    {
+      "start": 887.43,
+      "duration": 2.52,
+      "text": "that are supposed to help in a disaster",
+      "en": "that are supposed to help in a disaster",
+      "zh": ""
+    },
+    {
+      "start": 889.95,
+      "duration": 2.34,
+      "text": "are secretly being used to spy on me.",
+      "en": "are secretly being used to spy on me.",
+      "zh": ""
+    },
+    {
+      "start": 892.29,
+      "duration": 2.49,
+      "text": "(tense music) (robot buzzing)",
+      "en": "(tense music) (robot buzzing)",
+      "zh": ""
+    },
+    {
+      "start": 894.78,
+      "duration": 4.29,
+      "text": "I mean, it's a bug that would literally look like a bug.",
+      "en": "I mean, it's a bug that would literally look like a bug.",
+      "zh": ""
+    },
+    {
+      "start": 899.07,
+      "duration": 1.92,
+      "text": "(shower water dripping) That's terrifying.",
+      "en": "(shower water dripping) That's terrifying.",
+      "zh": ""
+    },
+    {
+      "start": 900.99,
+      "duration": 1.17,
+      "text": "- Is there any fear from you",
+      "en": "- Is there any fear from you",
+      "zh": ""
+    },
+    {
+      "start": 902.16,
+      "duration": 3.12,
+      "text": "about what they could be used for, like ethically?",
+      "en": "about what they could be used for, like ethically?",
+      "zh": ""
+    },
+    {
+      "start": 905.28,
+      "duration": 2.19,
+      "text": "- We really focus on the fundamental science",
+      "en": "- We really focus on the fundamental science",
+      "zh": ""
+    },
+    {
+      "start": 907.47,
+      "duration": 2.01,
+      "text": "and solving the fun technical problems.",
+      "en": "and solving the fun technical problems.",
+      "zh": ""
+    },
+    {
+      "start": 909.48,
+      "duration": 2.4,
+      "text": "And as a society in general,",
+      "en": "And as a society in general,",
+      "zh": ""
+    },
+    {
+      "start": 911.88,
+      "duration": 2.4,
+      "text": "we all should think about collectively",
+      "en": "we all should think about collectively",
+      "zh": ""
+    },
+    {
+      "start": 914.28,
+      "duration": 3.48,
+      "text": "how to prevent those new technology from doing harm.",
+      "en": "how to prevent those new technology from doing harm.",
+      "zh": ""
+    },
+    {
+      "start": 917.76,
+      "duration": 2.37,
+      "text": "- But we're getting a bit ahead of ourselves.",
+      "en": "- But we're getting a bit ahead of ourselves.",
+      "zh": ""
+    },
+    {
+      "start": 920.13,
+      "duration": 1.86,
+      "text": "I mean, most of the robots we've seen",
+      "en": "I mean, most of the robots we've seen",
+      "zh": ""
+    },
+    {
+      "start": 921.99,
+      "duration": 1.77,
+      "text": "aren't able to spy on us.",
+      "en": "aren't able to spy on us.",
+      "zh": ""
+    },
+    {
+      "start": 923.76,
+      "duration": 3.03,
+      "text": "In fact, they're not even fully autonomous.",
+      "en": "In fact, they're not even fully autonomous.",
+      "zh": ""
+    },
+    {
+      "start": 926.79,
+      "duration": 3.81,
+      "text": "- We have offboard sensing from those cameras,",
+      "en": "- We have offboard sensing from those cameras,",
+      "zh": ""
+    },
+    {
+      "start": 930.6,
+      "duration": 2.04,
+      "text": "you have offboard power from those,",
+      "en": "you have offboard power from those,",
+      "zh": ""
+    },
+    {
+      "start": 932.64,
+      "duration": 1.5,
+      "text": "and offboard computation.",
+      "en": "and offboard computation.",
+      "zh": ""
+    },
+    {
+      "start": 934.14,
+      "duration": 2.76,
+      "text": "What you see today is everything is offboard.",
+      "en": "What you see today is everything is offboard.",
+      "zh": ""
+    },
+    {
+      "start": 936.9,
+      "duration": 1.17,
+      "text": "But hopefully in five years,",
+      "en": "But hopefully in five years,",
+      "zh": ""
+    },
+    {
+      "start": 938.07,
+      "duration": 1.89,
+      "text": "then we can combine both sensing autonomy",
+      "en": "then we can combine both sensing autonomy",
+      "zh": ""
+    },
+    {
+      "start": 939.96,
+      "duration": 0.87,
+      "text": "and power autonomy,",
+      "en": "and power autonomy,",
+      "zh": ""
+    },
+    {
+      "start": 940.83,
+      "duration": 0.87,
+      "text": "and that's the longer-term goal.",
+      "en": "and that's the longer-term goal.",
+      "zh": ""
+    },
+    {
+      "start": 941.7,
+      "duration": 0.9,
+      "text": "- That's awesome.",
+      "en": "- That's awesome.",
+      "zh": ""
+    },
+    {
+      "start": 942.6,
+      "duration": 3.06,
+      "text": "- Harvard's RoboBee has managed short bursts",
+      "en": "- Harvard's RoboBee has managed short bursts",
+      "zh": ""
+    },
+    {
+      "start": 945.66,
+      "duration": 2.25,
+      "text": "of untethered autonomous flight.",
+      "en": "of untethered autonomous flight.",
+      "zh": ""
+    },
+    {
+      "start": 947.91,
+      "duration": 2.73,
+      "text": "So it's fair to say we aren't that far off",
+      "en": "So it's fair to say we aren't that far off",
+      "zh": ""
+    },
+    {
+      "start": 950.64,
+      "duration": 3.66,
+      "text": "from robot insects operating freely around us.",
+      "en": "from robot insects operating freely around us.",
+      "zh": ""
+    },
+    {
+      "start": 954.3,
+      "duration": 1.35,
+      "text": "Still, there is a limit",
+      "en": "Still, there is a limit",
+      "zh": ""
+    },
+    {
+      "start": 955.65,
+      "duration": 3.57,
+      "text": "to how far these robots can go on just batteries.",
+      "en": "to how far these robots can go on just batteries.",
+      "zh": ""
+    },
+    {
+      "start": 960.75,
+      "duration": 2.04,
+      "text": "Batteries need shielding to prevent damage,",
+      "en": "Batteries need shielding to prevent damage,",
+      "zh": ""
+    },
+    {
+      "start": 962.79,
+      "duration": 1.65,
+      "text": "short circuits, and leaks.",
+      "en": "short circuits, and leaks.",
+      "zh": ""
+    },
+    {
+      "start": 964.44,
+      "duration": 2.22,
+      "text": "And the thing is, as batteries are scaled down,",
+      "en": "And the thing is, as batteries are scaled down,",
+      "zh": ""
+    },
+    {
+      "start": 966.66,
+      "duration": 2.73,
+      "text": "this shielding has to stay about the same thickness.",
+      "en": "this shielding has to stay about the same thickness.",
+      "zh": ""
+    },
+    {
+      "start": 969.39,
+      "duration": 1.86,
+      "text": "So that means smaller batteries",
+      "en": "So that means smaller batteries",
+      "zh": ""
+    },
+    {
+      "start": 971.25,
+      "duration": 1.98,
+      "text": "become increasingly inefficient.",
+      "en": "become increasingly inefficient.",
+      "zh": ""
+    },
+    {
+      "start": 974.19,
+      "duration": 2.19,
+      "text": "And that's ignoring that the energy-to-weight ratio",
+      "en": "And that's ignoring that the energy-to-weight ratio",
+      "zh": ""
+    },
+    {
+      "start": 976.38,
+      "duration": 2.01,
+      "text": "of batteries is just fundamentally lower",
+      "en": "of batteries is just fundamentally lower",
+      "zh": ""
+    },
+    {
+      "start": 978.39,
+      "duration": 1.56,
+      "text": "than that of chemical fuels.",
+      "en": "than that of chemical fuels.",
+      "zh": ""
+    },
+    {
+      "start": 981.54,
+      "duration": 3.63,
+      "text": "At the insect scale, every milligram matters.",
+      "en": "At the insect scale, every milligram matters.",
+      "zh": ""
+    },
+    {
+      "start": 985.17,
+      "duration": 2.49,
+      "text": "- We just said, like let's just sail past all of that",
+      "en": "- We just said, like let's just sail past all of that",
+      "zh": ""
+    },
+    {
+      "start": 987.66,
+      "duration": 3.33,
+      "text": "and just use a video game cheat code",
+      "en": "and just use a video game cheat code",
+      "zh": ""
+    },
+    {
+      "start": 990.99,
+      "duration": 1.26,
+      "text": "and just power our robot",
+      "en": "and just power our robot",
+      "zh": ""
+    },
+    {
+      "start": 992.25,
+      "duration": 2.55,
+      "text": "with the smallest explosions possible",
+      "en": "with the smallest explosions possible",
+      "zh": ""
+    },
+    {
+      "start": 994.8,
+      "duration": 3.54,
+      "text": "and put two tiny internal combustion engines on board it,",
+      "en": "and put two tiny internal combustion engines on board it,",
+      "zh": ""
+    },
+    {
+      "start": 998.34,
+      "duration": 1.87,
+      "text": "and it works.",
+      "en": "and it works.",
+      "zh": ""
+    },
+    {
+      "start": 1000.21,
+      "duration": 1.28,
+      "text": "(upbeat music) (robot tapping)",
+      "en": "(upbeat music) (robot tapping)",
+      "zh": ""
+    },
+    {
+      "start": 1001.49,
+      "duration": 1.44,
+      "text": "And it sounds like a combustion engine,",
+      "en": "And it sounds like a combustion engine,",
+      "zh": ""
+    },
+    {
+      "start": 1002.93,
+      "duration": 1.92,
+      "text": "which is probably my favorite part of it.",
+      "en": "which is probably my favorite part of it.",
+      "zh": ""
+    },
+    {
+      "start": 1004.85,
+      "duration": 2.82,
+      "text": "(robot tapping)",
+      "en": "(robot tapping)",
+      "zh": ""
+    },
+    {
+      "start": 1007.67,
+      "duration": 1.71,
+      "text": "- [Derek] Cameron's penny-sized engine runs",
+      "en": "- [Derek] Cameron's penny-sized engine runs",
+      "zh": ""
+    },
+    {
+      "start": 1009.38,
+      "duration": 3.12,
+      "text": "on a constant stream of methane and oxygen.",
+      "en": "on a constant stream of methane and oxygen.",
+      "zh": ""
+    },
+    {
+      "start": 1012.5,
+      "duration": 3.87,
+      "text": "This is fed into a chamber where it's ignited by a spark",
+      "en": "This is fed into a chamber where it's ignited by a spark",
+      "zh": ""
+    },
+    {
+      "start": 1016.37,
+      "duration": 3.36,
+      "text": "and so it combusts, releasing a burst of energy.",
+      "en": "and so it combusts, releasing a burst of energy.",
+      "zh": ""
+    },
+    {
+      "start": 1019.73,
+      "duration": 1.77,
+      "text": "The hot gases rapidly expand,",
+      "en": "The hot gases rapidly expand,",
+      "zh": ""
+    },
+    {
+      "start": 1021.5,
+      "duration": 2.13,
+      "text": "pushing against a flexible polymer membrane",
+      "en": "pushing against a flexible polymer membrane",
+      "zh": ""
+    },
+    {
+      "start": 1023.63,
+      "duration": 1.26,
+      "text": "that acts like a piston.",
+      "en": "that acts like a piston.",
+      "zh": ""
+    },
+    {
+      "start": 1025.97,
+      "duration": 1.89,
+      "text": "- So the membrane moves as the piston",
+      "en": "- So the membrane moves as the piston",
+      "zh": ""
+    },
+    {
+      "start": 1027.86,
+      "duration": 2.52,
+      "text": "and then instead of having to, like, have any sort",
+      "en": "and then instead of having to, like, have any sort",
+      "zh": ""
+    },
+    {
+      "start": 1030.38,
+      "duration": 1.77,
+      "text": "of elaborate system that brings it back down",
+      "en": "of elaborate system that brings it back down",
+      "zh": ""
+    },
+    {
+      "start": 1032.15,
+      "duration": 2.37,
+      "text": "because it just naturally is elastic,",
+      "en": "because it just naturally is elastic,",
+      "zh": ""
+    },
+    {
+      "start": 1034.52,
+      "duration": 2.01,
+      "text": "it sort of has its own restoring force.",
+      "en": "it sort of has its own restoring force.",
+      "zh": ""
+    },
+    {
+      "start": 1036.53,
+      "duration": 2.97,
+      "text": "That was our clever little innovation.",
+      "en": "That was our clever little innovation.",
+      "zh": ""
+    },
+    {
+      "start": 1039.5,
+      "duration": 1.65,
+      "text": "- As the membrane shrinks back,",
+      "en": "- As the membrane shrinks back,",
+      "zh": ""
+    },
+    {
+      "start": 1041.15,
+      "duration": 3.68,
+      "text": "it vents the exhaust gases, allowing the cycle to repeat.",
+      "en": "it vents the exhaust gases, allowing the cycle to repeat.",
+      "zh": ""
+    },
+    {
+      "start": 1044.83,
+      "duration": 0.83,
+      "text": "(mechanism tapping)",
+      "en": "(mechanism tapping)",
+      "zh": ""
+    },
+    {
+      "start": 1045.66,
+      "duration": 2.72,
+      "text": "Despite the continuous flow of methane and oxygen,",
+      "en": "Despite the continuous flow of methane and oxygen,",
+      "zh": ""
+    },
+    {
+      "start": 1048.38,
+      "duration": 2.7,
+      "text": "the fuel line never catches fire.",
+      "en": "the fuel line never catches fire.",
+      "zh": ""
+    },
+    {
+      "start": 1051.08,
+      "duration": 2.01,
+      "text": "That's because as explosions get smaller,",
+      "en": "That's because as explosions get smaller,",
+      "zh": ""
+    },
+    {
+      "start": 1053.09,
+      "duration": 3.45,
+      "text": "their volume shrinks much faster than their surface area.",
+      "en": "their volume shrinks much faster than their surface area.",
+      "zh": ""
+    },
+    {
+      "start": 1056.54,
+      "duration": 2.28,
+      "text": "This causes them to lose heat more quickly",
+      "en": "This causes them to lose heat more quickly",
+      "zh": ""
+    },
+    {
+      "start": 1058.82,
+      "duration": 1.41,
+      "text": "to their surroundings.",
+      "en": "to their surroundings.",
+      "zh": ""
+    },
+    {
+      "start": 1060.23,
+      "duration": 1.29,
+      "text": "In Cameron's robot,",
+      "en": "In Cameron's robot,",
+      "zh": ""
+    },
+    {
+      "start": 1061.52,
+      "duration": 2.73,
+      "text": "only a small amount of gas burns at a time,",
+      "en": "only a small amount of gas burns at a time,",
+      "zh": ""
+    },
+    {
+      "start": 1064.25,
+      "duration": 2.73,
+      "text": "so heat quickly escapes into the fuel line,",
+      "en": "so heat quickly escapes into the fuel line,",
+      "zh": ""
+    },
+    {
+      "start": 1066.98,
+      "duration": 1.02,
+      "text": "cooling the gas",
+      "en": "cooling the gas",
+      "zh": ""
+    },
+    {
+      "start": 1068.0,
+      "duration": 3.15,
+      "text": "and stopping the flame from traveling back up the line.",
+      "en": "and stopping the flame from traveling back up the line.",
+      "zh": ""
+    },
+    {
+      "start": 1072.17,
+      "duration": 2.19,
+      "text": "With just two of these combustion chambers",
+      "en": "With just two of these combustion chambers",
+      "zh": ""
+    },
+    {
+      "start": 1074.36,
+      "duration": 1.05,
+      "text": "on a little robot,",
+      "en": "on a little robot,",
+      "zh": ""
+    },
+    {
+      "start": 1075.41,
+      "duration": 1.98,
+      "text": "one for the front legs and one for the back,",
+      "en": "one for the front legs and one for the back,",
+      "zh": ""
+    },
+    {
+      "start": 1077.39,
+      "duration": 2.46,
+      "text": "Cameron can control its heading.",
+      "en": "Cameron can control its heading.",
+      "zh": ""
+    },
+    {
+      "start": 1079.85,
+      "duration": 2.22,
+      "text": "- You can actuate just one of the two sides",
+      "en": "- You can actuate just one of the two sides",
+      "zh": ""
+    },
+    {
+      "start": 1082.07,
+      "duration": 1.65,
+      "text": "at a given time if you want",
+      "en": "at a given time if you want",
+      "zh": ""
+    },
+    {
+      "start": 1083.72,
+      "duration": 1.68,
+      "text": "because both sides are operational.",
+      "en": "because both sides are operational.",
+      "zh": ""
+    },
+    {
+      "start": 1085.4,
+      "duration": 2.01,
+      "text": "So if we spark in both sides, it'll move straight.",
+      "en": "So if we spark in both sides, it'll move straight.",
+      "zh": ""
+    },
+    {
+      "start": 1087.41,
+      "duration": 2.58,
+      "text": "But if we just do one or the other, it'll pivot.",
+      "en": "But if we just do one or the other, it'll pivot.",
+      "zh": ""
+    },
+    {
+      "start": 1089.99,
+      "duration": 0.83,
+      "text": "- [Derek] And this robot",
+      "en": "- [Derek] And this robot",
+      "zh": ""
+    },
+    {
+      "start": 1090.82,
+      "duration": 2.26,
+      "text": "is super powerful for its size.",
+      "en": "is super powerful for its size.",
+      "zh": ""
+    },
+    {
+      "start": 1093.08,
+      "duration": 2.4,
+      "text": "- It weighs 1.6 grams,",
+      "en": "- It weighs 1.6 grams,",
+      "zh": ""
+    },
+    {
+      "start": 1095.48,
+      "duration": 2.65,
+      "text": "which is about as much as a gummy bear weighs.",
+      "en": "which is about as much as a gummy bear weighs.",
+      "zh": ""
+    },
+    {
+      "start": 1098.13,
+      "duration": 1.34,
+      "text": "(robot tapping)",
+      "en": "(robot tapping)",
+      "zh": ""
+    },
+    {
+      "start": 1099.47,
+      "duration": 2.01,
+      "text": "It can jump like two feet in the air approximately.",
+      "en": "It can jump like two feet in the air approximately.",
+      "zh": ""
+    },
+    {
+      "start": 1101.48,
+      "duration": 1.92,
+      "text": "It can carry 22 times its body weight,",
+      "en": "It can carry 22 times its body weight,",
+      "zh": ""
+    },
+    {
+      "start": 1103.4,
+      "duration": 3.33,
+      "text": "which is about what a cockroach or a lot of beetles can do.",
+      "en": "which is about what a cockroach or a lot of beetles can do.",
+      "zh": ""
+    },
+    {
+      "start": 1106.73,
+      "duration": 2.76,
+      "text": "We'll be able to put a fuel tank, you know,",
+      "en": "We'll be able to put a fuel tank, you know,",
+      "zh": ""
+    },
+    {
+      "start": 1109.49,
+      "duration": 3.12,
+      "text": "microelectronics sensors, a camera battery,",
+      "en": "microelectronics sensors, a camera battery,",
+      "zh": ""
+    },
+    {
+      "start": 1112.61,
+      "duration": 1.74,
+      "text": "and still have weight left over to go,",
+      "en": "and still have weight left over to go,",
+      "zh": ""
+    },
+    {
+      "start": 1114.35,
+      "duration": 1.89,
+      "text": "and this thing will still chug along.",
+      "en": "and this thing will still chug along.",
+      "zh": ""
+    },
+    {
+      "start": 1117.92,
+      "duration": 1.75,
+      "text": "That's the future. That's the goal.",
+      "en": "That's the future. That's the goal.",
+      "zh": ""
+    },
+    {
+      "start": 1121.73,
+      "duration": 1.68,
+      "text": "- Scientists have created robots",
+      "en": "- Scientists have created robots",
+      "zh": ""
+    },
+    {
+      "start": 1123.41,
+      "duration": 2.58,
+      "text": "that can do what some insects do",
+      "en": "that can do what some insects do",
+      "zh": ""
+    },
+    {
+      "start": 1125.99,
+      "duration": 3.09,
+      "text": "and there are clear applications for this work.",
+      "en": "and there are clear applications for this work.",
+      "zh": ""
+    },
+    {
+      "start": 1129.08,
+      "duration": 3.9,
+      "text": "But for these roboticists, these self-labeled misfits,",
+      "en": "But for these roboticists, these self-labeled misfits,",
+      "zh": ""
+    },
+    {
+      "start": 1132.98,
+      "duration": 2.13,
+      "text": "that's not what it's all about.",
+      "en": "that's not what it's all about.",
+      "zh": ""
+    },
+    {
+      "start": 1135.11,
+      "duration": 1.32,
+      "text": "- If it's about application,",
+      "en": "- If it's about application,",
+      "zh": ""
+    },
+    {
+      "start": 1136.43,
+      "duration": 1.41,
+      "text": "we should all like make a startup",
+      "en": "we should all like make a startup",
+      "zh": ""
+    },
+    {
+      "start": 1137.84,
+      "duration": 1.89,
+      "text": "and try to like think about what we can do",
+      "en": "and try to like think about what we can do",
+      "zh": ""
+    },
+    {
+      "start": 1139.73,
+      "duration": 1.65,
+      "text": "to make money, right?",
+      "en": "to make money, right?",
+      "zh": ""
+    },
+    {
+      "start": 1141.38,
+      "duration": 2.28,
+      "text": "We think there are nice applications,",
+      "en": "We think there are nice applications,",
+      "zh": ""
+    },
+    {
+      "start": 1143.66,
+      "duration": 2.46,
+      "text": "like inspection and search and rescue,",
+      "en": "like inspection and search and rescue,",
+      "zh": ""
+    },
+    {
+      "start": 1146.12,
+      "duration": 1.92,
+      "text": "but I would say as a research lab,",
+      "en": "but I would say as a research lab,",
+      "zh": ""
+    },
+    {
+      "start": 1148.04,
+      "duration": 2.37,
+      "text": "we are mostly driven by curiosity.",
+      "en": "we are mostly driven by curiosity.",
+      "zh": ""
+    },
+    {
+      "start": 1150.41,
+      "duration": 3.57,
+      "text": "I think that's a very honest answer. (laughs)",
+      "en": "I think that's a very honest answer. (laughs)",
+      "zh": ""
+    },
+    {
+      "start": 1153.98,
+      "duration": 2.97,
+      "text": "(quirky electronic music)",
+      "en": "(quirky electronic music)",
+      "zh": ""
+    },
+    {
+      "start": 1156.95,
+      "duration": 0.83,
+      "text": "- So cool.",
+      "en": "- So cool.",
+      "zh": ""
+    },
+    {
+      "start": 1159.38,
+      "duration": 1.29,
+      "text": "If you are someone",
+      "en": "If you are someone",
+      "zh": ""
+    },
+    {
+      "start": 1160.67,
+      "duration": 3.99,
+      "text": "who designs hardware like these robots, mini or mighty,",
+      "en": "who designs hardware like these robots, mini or mighty,",
+      "zh": ""
+    },
+    {
+      "start": 1164.66,
+      "duration": 2.91,
+      "text": "you know that you need to create a CAD model first",
+      "en": "you know that you need to create a CAD model first",
+      "zh": ""
+    },
+    {
+      "start": 1167.57,
+      "duration": 2.97,
+      "text": "so you can prototype and bring your ideas to life.",
+      "en": "so you can prototype and bring your ideas to life.",
+      "zh": ""
+    },
+    {
+      "start": 1170.54,
+      "duration": 2.67,
+      "text": "But the problem with most mainstream CAD software",
+      "en": "But the problem with most mainstream CAD software",
+      "zh": ""
+    },
+    {
+      "start": 1173.21,
+      "duration": 3.75,
+      "text": "is you need a very powerful computer and a mighty budget.",
+      "en": "is you need a very powerful computer and a mighty budget.",
+      "zh": ""
+    },
+    {
+      "start": 1176.96,
+      "duration": 2.94,
+      "text": "That's why we reached out to today's sponsor, Onshape.",
+      "en": "That's why we reached out to today's sponsor, Onshape.",
+      "zh": ""
+    },
+    {
+      "start": 1179.9,
+      "duration": 1.77,
+      "text": "Onshape is a modern CAD",
+      "en": "Onshape is a modern CAD",
+      "zh": ""
+    },
+    {
+      "start": 1181.67,
+      "duration": 2.4,
+      "text": "and PDM system designed for businesses.",
+      "en": "and PDM system designed for businesses.",
+      "zh": ""
+    },
+    {
+      "start": 1184.07,
+      "duration": 3.42,
+      "text": "And unlike any other professional CAD system,",
+      "en": "And unlike any other professional CAD system,",
+      "zh": ""
+    },
+    {
+      "start": 1187.49,
+      "duration": 2.19,
+      "text": "Onshape is built entirely in the cloud,",
+      "en": "Onshape is built entirely in the cloud,",
+      "zh": ""
+    },
+    {
+      "start": 1189.68,
+      "duration": 2.25,
+      "text": "powered by Amazon Web Services.",
+      "en": "powered by Amazon Web Services.",
+      "zh": ""
+    },
+    {
+      "start": 1191.93,
+      "duration": 3.03,
+      "text": "That means you don't need expensive computer hardware,",
+      "en": "That means you don't need expensive computer hardware,",
+      "zh": ""
+    },
+    {
+      "start": 1194.96,
+      "duration": 3.78,
+      "text": "it never crashes, and you never lose your work.",
+      "en": "it never crashes, and you never lose your work.",
+      "zh": ""
+    },
+    {
+      "start": 1198.74,
+      "duration": 2.76,
+      "text": "It just runs in your browser on any system,",
+      "en": "It just runs in your browser on any system,",
+      "zh": ""
+    },
+    {
+      "start": 1201.5,
+      "duration": 4.02,
+      "text": "be it Windows, Mac, Linux, or even on your phone.",
+      "en": "be it Windows, Mac, Linux, or even on your phone.",
+      "zh": ""
+    },
+    {
+      "start": 1205.52,
+      "duration": 3.06,
+      "text": "I can actually pull up that mini robot model right now",
+      "en": "I can actually pull up that mini robot model right now",
+      "zh": ""
+    },
+    {
+      "start": 1208.58,
+      "duration": 3.15,
+      "text": "and start moving some of these things around.",
+      "en": "and start moving some of these things around.",
+      "zh": ""
+    },
+    {
+      "start": 1211.73,
+      "duration": 1.65,
+      "text": "It's also built to be collaborative",
+      "en": "It's also built to be collaborative",
+      "zh": ""
+    },
+    {
+      "start": 1213.38,
+      "duration": 1.59,
+      "text": "so you can work alongside friends",
+      "en": "so you can work alongside friends",
+      "zh": ""
+    },
+    {
+      "start": 1214.97,
+      "duration": 1.65,
+      "text": "or colleagues like never before",
+      "en": "or colleagues like never before",
+      "zh": ""
+    },
+    {
+      "start": 1216.62,
+      "duration": 2.88,
+      "text": "on the same design in real time.",
+      "en": "on the same design in real time.",
+      "zh": ""
+    },
+    {
+      "start": 1219.5,
+      "duration": 3.03,
+      "text": "For businesses, you can trial Onshape for six months",
+      "en": "For businesses, you can trial Onshape for six months",
+      "zh": ""
+    },
+    {
+      "start": 1222.53,
+      "duration": 2.88,
+      "text": "and for students' hobbyists, it's completely free to use.",
+      "en": "and for students' hobbyists, it's completely free to use.",
+      "zh": ""
+    },
+    {
+      "start": 1225.41,
+      "duration": 2.67,
+      "text": "Just head over to onshape.pro/veritasium",
+      "en": "Just head over to onshape.pro/veritasium",
+      "zh": ""
+    },
+    {
+      "start": 1228.08,
+      "duration": 2.04,
+      "text": "and sign up to get started today.",
+      "en": "and sign up to get started today.",
+      "zh": ""
+    },
+    {
+      "start": 1230.12,
+      "duration": 1.41,
+      "text": "Onshape also uses tried",
+      "en": "Onshape also uses tried",
+      "zh": ""
+    },
+    {
+      "start": 1231.53,
+      "duration": 2.19,
+      "text": "and tested Git-style version control methods",
+      "en": "and tested Git-style version control methods",
+      "zh": ""
+    },
+    {
+      "start": 1233.72,
+      "duration": 2.46,
+      "text": "from software design so you don't have to worry",
+      "en": "from software design so you don't have to worry",
+      "zh": ""
+    },
+    {
+      "start": 1236.18,
+      "duration": 1.98,
+      "text": "about sending multiple large files around",
+      "en": "about sending multiple large files around",
+      "zh": ""
+    },
+    {
+      "start": 1238.16,
+      "duration": 2.28,
+      "text": "and keeping track of all the different iterations.",
+      "en": "and keeping track of all the different iterations.",
+      "zh": ""
+    },
+    {
+      "start": 1240.44,
+      "duration": 1.8,
+      "text": "It is all done for you.",
+      "en": "It is all done for you.",
+      "zh": ""
+    },
+    {
+      "start": 1242.24,
+      "duration": 2.55,
+      "text": "None of this emailing V2 final final",
+      "en": "None of this emailing V2 final final",
+      "zh": ""
+    },
+    {
+      "start": 1244.79,
+      "duration": 2.79,
+      "text": "for real this time one nonsense.",
+      "en": "for real this time one nonsense.",
+      "zh": ""
+    },
+    {
+      "start": 1247.58,
+      "duration": 1.83,
+      "text": "If you work for a government agency",
+      "en": "If you work for a government agency",
+      "zh": ""
+    },
+    {
+      "start": 1249.41,
+      "duration": 3.09,
+      "text": "or have contracts with the government, I have good news.",
+      "en": "or have contracts with the government, I have good news.",
+      "zh": ""
+    },
+    {
+      "start": 1252.5,
+      "duration": 2.43,
+      "text": "Onshape now has a plan that enables teams",
+      "en": "Onshape now has a plan that enables teams",
+      "zh": ""
+    },
+    {
+      "start": 1254.93,
+      "duration": 3.75,
+      "text": "to comply with federal regulations like ITAR and EAR,",
+      "en": "to comply with federal regulations like ITAR and EAR,",
+      "zh": ""
+    },
+    {
+      "start": 1258.68,
+      "duration": 1.83,
+      "text": "so nothing is holding you back.",
+      "en": "so nothing is holding you back.",
+      "zh": ""
+    },
+    {
+      "start": 1260.51,
+      "duration": 3.12,
+      "text": "Go sign up for free at onshape.pro/veritasium",
+      "en": "Go sign up for free at onshape.pro/veritasium",
+      "zh": ""
+    },
+    {
+      "start": 1263.63,
+      "duration": 2.61,
+      "text": "to get started engineering for the future today.",
+      "en": "to get started engineering for the future today.",
+      "zh": ""
+    },
+    {
+      "start": 1266.24,
+      "duration": 2.34,
+      "text": "I wanna thank Onshape for sponsoring this video,",
+      "en": "I wanna thank Onshape for sponsoring this video,",
+      "zh": ""
+    },
+    {
+      "start": 1268.58,
+      "duration": 2.37,
+      "text": "and I want to thank you for watching.",
+      "en": "and I want to thank you for watching.",
+      "zh": ""
+    },
+    {
+      "start": 1274.4,
+      "duration": 0.96,
+      "text": "It's so cool.",
+      "en": "It's so cool.",
+      "zh": ""
+    }
+  ],
+  "words": []
+}

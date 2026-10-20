@@ -1,0 +1,2126 @@
+{
+  "cues": [
+    {
+      "start": 0.97,
+      "duration": 0.84,
+      "text": "(air hissing)",
+      "en": "(air hissing)",
+      "zh": ""
+    },
+    {
+      "start": 1.81,
+      "duration": 2.12,
+      "text": "- This is a rocket powered golf club.",
+      "en": "- This is a rocket powered golf club.",
+      "zh": ""
+    },
+    {
+      "start": 6.0,
+      "duration": 2.22,
+      "text": "Professional golfers have an average swing speed",
+      "en": "Professional golfers have an average swing speed",
+      "zh": ""
+    },
+    {
+      "start": 8.22,
+      "duration": 3.78,
+      "text": "of 110 miles per hour but using two F size motors",
+      "en": "of 110 miles per hour but using two F size motors",
+      "zh": ""
+    },
+    {
+      "start": 12.0,
+      "duration": 3.99,
+      "text": "she swings at 150 miles per hour every time.",
+      "en": "she swings at 150 miles per hour every time.",
+      "zh": ""
+    },
+    {
+      "start": 15.99,
+      "duration": 1.44,
+      "text": "Usually for builds on my channel,",
+      "en": "Usually for builds on my channel,",
+      "zh": ""
+    },
+    {
+      "start": 17.43,
+      "duration": 1.74,
+      "text": "I just show you guys the final thing",
+      "en": "I just show you guys the final thing",
+      "zh": ""
+    },
+    {
+      "start": 19.17,
+      "duration": 2.91,
+      "text": "and don't really talk about the process of how we got there.",
+      "en": "and don't really talk about the process of how we got there.",
+      "zh": ""
+    },
+    {
+      "start": 22.08,
+      "duration": 3.69,
+      "text": "And rest assured today we will get to see huge drives.",
+      "en": "And rest assured today we will get to see huge drives.",
+      "zh": ""
+    },
+    {
+      "start": 26.76,
+      "duration": 1.05,
+      "text": "Whoa.",
+      "en": "Whoa.",
+      "zh": ""
+    },
+    {
+      "start": 27.81,
+      "duration": 2.94,
+      "text": "Golf balls shattering glass in super slow-mo,",
+      "en": "Golf balls shattering glass in super slow-mo,",
+      "zh": ""
+    },
+    {
+      "start": 30.75,
+      "duration": 2.04,
+      "text": "pulverized watermelons",
+      "en": "pulverized watermelons",
+      "zh": ""
+    },
+    {
+      "start": 32.79,
+      "duration": 1.62,
+      "text": "and even a handheld version.",
+      "en": "and even a handheld version.",
+      "zh": ""
+    },
+    {
+      "start": 36.24,
+      "duration": 1.77,
+      "text": "But this build I think is a great chance",
+      "en": "But this build I think is a great chance",
+      "zh": ""
+    },
+    {
+      "start": 38.01,
+      "duration": 1.77,
+      "text": "to pull back the curtain and demonstrate",
+      "en": "to pull back the curtain and demonstrate",
+      "zh": ""
+    },
+    {
+      "start": 39.78,
+      "duration": 2.64,
+      "text": "how the engineering design process actually works.",
+      "en": "how the engineering design process actually works.",
+      "zh": ""
+    },
+    {
+      "start": 42.42,
+      "duration": 3.24,
+      "text": "I want to highlight six learning opportunities",
+      "en": "I want to highlight six learning opportunities",
+      "zh": ""
+    },
+    {
+      "start": 45.66,
+      "duration": 1.59,
+      "text": "that led us to this final design.",
+      "en": "that led us to this final design.",
+      "zh": ""
+    },
+    {
+      "start": 47.25,
+      "duration": 1.53,
+      "text": "And to do that, we need to go back",
+      "en": "And to do that, we need to go back",
+      "zh": ""
+    },
+    {
+      "start": 48.78,
+      "duration": 2.31,
+      "text": "in time four months to when I first had the idea",
+      "en": "in time four months to when I first had the idea",
+      "zh": ""
+    },
+    {
+      "start": 51.09,
+      "duration": 3.0,
+      "text": "and as always we started with a simple prototype to see",
+      "en": "and as always we started with a simple prototype to see",
+      "zh": ""
+    },
+    {
+      "start": 54.09,
+      "duration": 3.06,
+      "text": "if the concept even had a remote chance of working.",
+      "en": "if the concept even had a remote chance of working.",
+      "zh": ""
+    },
+    {
+      "start": 57.15,
+      "duration": 0.93,
+      "text": "But before we fire it up",
+      "en": "But before we fire it up",
+      "zh": ""
+    },
+    {
+      "start": 58.08,
+      "duration": 1.41,
+      "text": "you'll notice we have counterweights",
+      "en": "you'll notice we have counterweights",
+      "zh": ""
+    },
+    {
+      "start": 59.49,
+      "duration": 1.62,
+      "text": "on the opposite side here.",
+      "en": "on the opposite side here.",
+      "zh": ""
+    },
+    {
+      "start": 61.11,
+      "duration": 1.38,
+      "text": "That's so that the center of mass",
+      "en": "That's so that the center of mass",
+      "zh": ""
+    },
+    {
+      "start": 62.49,
+      "duration": 3.36,
+      "text": "of the spinning part is on top of the axis of rotation.",
+      "en": "of the spinning part is on top of the axis of rotation.",
+      "zh": ""
+    },
+    {
+      "start": 65.85,
+      "duration": 2.25,
+      "text": "In other words, it balances perfectly",
+      "en": "In other words, it balances perfectly",
+      "zh": ""
+    },
+    {
+      "start": 68.1,
+      "duration": 2.1,
+      "text": "at the point at which it spins around.",
+      "en": "at the point at which it spins around.",
+      "zh": ""
+    },
+    {
+      "start": 70.2,
+      "duration": 1.98,
+      "text": "If you don't do that for something that spins,",
+      "en": "If you don't do that for something that spins,",
+      "zh": ""
+    },
+    {
+      "start": 72.18,
+      "duration": 0.83,
+      "text": "it creates a bunch",
+      "en": "it creates a bunch",
+      "zh": ""
+    },
+    {
+      "start": 73.01,
+      "duration": 1.9,
+      "text": "of extra force for your system to deal with.",
+      "en": "of extra force for your system to deal with.",
+      "zh": ""
+    },
+    {
+      "start": 74.91,
+      "duration": 1.92,
+      "text": "It starts as a small vibration",
+      "en": "It starts as a small vibration",
+      "zh": ""
+    },
+    {
+      "start": 76.83,
+      "duration": 2.73,
+      "text": "but then it gets worse and worse as you pick up speed.",
+      "en": "but then it gets worse and worse as you pick up speed.",
+      "zh": ""
+    },
+    {
+      "start": 79.56,
+      "duration": 1.95,
+      "text": "Since we need to hit this tiny ball",
+      "en": "Since we need to hit this tiny ball",
+      "zh": ""
+    },
+    {
+      "start": 81.51,
+      "duration": 2.31,
+      "text": "with the head of this club at really high speeds",
+      "en": "with the head of this club at really high speeds",
+      "zh": ""
+    },
+    {
+      "start": 83.82,
+      "duration": 2.46,
+      "text": "if we're not perfectly balanced, the club",
+      "en": "if we're not perfectly balanced, the club",
+      "zh": ""
+    },
+    {
+      "start": 86.28,
+      "duration": 2.37,
+      "text": "and the whole platform itself would just be shaking",
+      "en": "and the whole platform itself would just be shaking",
+      "zh": ""
+    },
+    {
+      "start": 88.65,
+      "duration": 2.13,
+      "text": "all over the place and we'd never hit it.",
+      "en": "all over the place and we'd never hit it.",
+      "zh": ""
+    },
+    {
+      "start": 90.78,
+      "duration": 1.61,
+      "text": "Okay, back to the test.",
+      "en": "Okay, back to the test.",
+      "zh": ""
+    },
+    {
+      "start": 92.39,
+      "duration": 2.33,
+      "text": "(air hissing)",
+      "en": "(air hissing)",
+      "zh": ""
+    },
+    {
+      "start": 94.72,
+      "duration": 0.92,
+      "text": "Those stands are shaking more than they should.",
+      "en": "Those stands are shaking more than they should.",
+      "zh": ""
+    },
+    {
+      "start": 95.64,
+      "duration": 2.55,
+      "text": "So we knew we would need to balance the spinning part better",
+      "en": "So we knew we would need to balance the spinning part better",
+      "zh": ""
+    },
+    {
+      "start": 98.19,
+      "duration": 2.73,
+      "text": "for the real test, but at least we knew it could go kind",
+      "en": "for the real test, but at least we knew it could go kind",
+      "zh": ""
+    },
+    {
+      "start": 100.92,
+      "duration": 1.56,
+      "text": "of fast and nothing blows up.",
+      "en": "of fast and nothing blows up.",
+      "zh": ""
+    },
+    {
+      "start": 102.48,
+      "duration": 1.32,
+      "text": "And so then it was time for CAD,",
+      "en": "And so then it was time for CAD,",
+      "zh": ""
+    },
+    {
+      "start": 103.8,
+      "duration": 1.62,
+      "text": "which is always the next step.",
+      "en": "which is always the next step.",
+      "zh": ""
+    },
+    {
+      "start": 105.42,
+      "duration": 1.95,
+      "text": "And then together with my friends Ken and Kayla",
+      "en": "And then together with my friends Ken and Kayla",
+      "zh": ""
+    },
+    {
+      "start": 107.37,
+      "duration": 3.2,
+      "text": "we started cutting metal and making stuff.",
+      "en": "we started cutting metal and making stuff.",
+      "zh": ""
+    },
+    {
+      "start": 110.57,
+      "duration": 2.58,
+      "text": "(upbeat music)",
+      "en": "(upbeat music)",
+      "zh": ""
+    },
+    {
+      "start": 123.75,
+      "duration": 1.23,
+      "text": "Things came together well.",
+      "en": "Things came together well.",
+      "zh": ""
+    },
+    {
+      "start": 124.98,
+      "duration": 2.43,
+      "text": "So we epoxy a 3D printed motor mount to the top",
+      "en": "So we epoxy a 3D printed motor mount to the top",
+      "zh": ""
+    },
+    {
+      "start": 127.41,
+      "duration": 2.67,
+      "text": "of the driver and prepped our first real test by taking one",
+      "en": "of the driver and prepped our first real test by taking one",
+      "zh": ""
+    },
+    {
+      "start": 130.08,
+      "duration": 2.34,
+      "text": "of those easy ups and draping some nets on the side",
+      "en": "of those easy ups and draping some nets on the side",
+      "zh": ""
+    },
+    {
+      "start": 132.42,
+      "duration": 1.74,
+      "text": "for safety just in case",
+      "en": "for safety just in case",
+      "zh": ""
+    },
+    {
+      "start": 134.16,
+      "duration": 1.76,
+      "text": "something went catastrophically wrong.",
+      "en": "something went catastrophically wrong.",
+      "zh": ""
+    },
+    {
+      "start": 137.55,
+      "duration": 2.5,
+      "text": "(air hissing)",
+      "en": "(air hissing)",
+      "zh": ""
+    },
+    {
+      "start": 149.67,
+      "duration": 1.65,
+      "text": "This was our second learning experience.",
+      "en": "This was our second learning experience.",
+      "zh": ""
+    },
+    {
+      "start": 151.32,
+      "duration": 2.67,
+      "text": "We didn't have enough contact area for epoxying the head",
+      "en": "We didn't have enough contact area for epoxying the head",
+      "zh": ""
+    },
+    {
+      "start": 153.99,
+      "duration": 2.22,
+      "text": "to the driver, so it wasn't a strong enough bond.",
+      "en": "to the driver, so it wasn't a strong enough bond.",
+      "zh": ""
+    },
+    {
+      "start": 156.21,
+      "duration": 1.71,
+      "text": "This was tricky because it meant we had",
+      "en": "This was tricky because it meant we had",
+      "zh": ""
+    },
+    {
+      "start": 157.92,
+      "duration": 3.03,
+      "text": "to 3D scan the club head, which allowed us to CAD up.",
+      "en": "to 3D scan the club head, which allowed us to CAD up.",
+      "zh": ""
+    },
+    {
+      "start": 160.95,
+      "duration": 2.46,
+      "text": "And then 3D print a more contoured mount",
+      "en": "And then 3D print a more contoured mount",
+      "zh": ""
+    },
+    {
+      "start": 163.41,
+      "duration": 1.8,
+      "text": "with more contact area for the epoxy.",
+      "en": "with more contact area for the epoxy.",
+      "zh": ""
+    },
+    {
+      "start": 165.21,
+      "duration": 2.49,
+      "text": "We also took this chance to double the rocket holsters",
+      "en": "We also took this chance to double the rocket holsters",
+      "zh": ""
+    },
+    {
+      "start": 167.7,
+      "duration": 1.83,
+      "text": "because what could possibly go wrong?",
+      "en": "because what could possibly go wrong?",
+      "zh": ""
+    },
+    {
+      "start": 169.53,
+      "duration": 1.95,
+      "text": "So we went to test our new dual rocket setup",
+      "en": "So we went to test our new dual rocket setup",
+      "zh": ""
+    },
+    {
+      "start": 171.48,
+      "duration": 3.62,
+      "text": "with two e-motors and everything went perfectly.",
+      "en": "with two e-motors and everything went perfectly.",
+      "zh": ""
+    },
+    {
+      "start": 175.1,
+      "duration": 1.24,
+      "text": "(air hissing)",
+      "en": "(air hissing)",
+      "zh": ""
+    },
+    {
+      "start": 176.34,
+      "duration": 2.9,
+      "text": "Except for the part where the head stamped off the driver.",
+      "en": "Except for the part where the head stamped off the driver.",
+      "zh": ""
+    },
+    {
+      "start": 181.11,
+      "duration": 1.29,
+      "text": "- [Kayla] That was not expected.",
+      "en": "- [Kayla] That was not expected.",
+      "zh": ""
+    },
+    {
+      "start": 182.4,
+      "duration": 1.56,
+      "text": "- And when we reviewed the slowmo footage",
+      "en": "- And when we reviewed the slowmo footage",
+      "zh": ""
+    },
+    {
+      "start": 183.96,
+      "duration": 1.26,
+      "text": "what we realized was the shaft",
+      "en": "what we realized was the shaft",
+      "zh": ""
+    },
+    {
+      "start": 185.22,
+      "duration": 2.46,
+      "text": "of the driver is so flexible and it would start to bend",
+      "en": "of the driver is so flexible and it would start to bend",
+      "zh": ""
+    },
+    {
+      "start": 187.68,
+      "duration": 2.79,
+      "text": "and then create really weird thrust vectors for the rockets",
+      "en": "and then create really weird thrust vectors for the rockets",
+      "zh": ""
+    },
+    {
+      "start": 190.47,
+      "duration": 1.92,
+      "text": "which then just bent the shaft even more.",
+      "en": "which then just bent the shaft even more.",
+      "zh": ""
+    },
+    {
+      "start": 192.39,
+      "duration": 1.65,
+      "text": "This is not what you wanna see.",
+      "en": "This is not what you wanna see.",
+      "zh": ""
+    },
+    {
+      "start": 194.04,
+      "duration": 1.56,
+      "text": "Eventually this exceeded the stress limit",
+      "en": "Eventually this exceeded the stress limit",
+      "zh": ""
+    },
+    {
+      "start": 195.6,
+      "duration": 1.85,
+      "text": "of the shaft and the hedges came off.",
+      "en": "of the shaft and the hedges came off.",
+      "zh": ""
+    },
+    {
+      "start": 200.01,
+      "duration": 1.56,
+      "text": "So our third learning opportunity was",
+      "en": "So our third learning opportunity was",
+      "zh": ""
+    },
+    {
+      "start": 201.57,
+      "duration": 1.32,
+      "text": "to stiffen up the club shaft.",
+      "en": "to stiffen up the club shaft.",
+      "zh": ""
+    },
+    {
+      "start": 202.89,
+      "duration": 1.38,
+      "text": "So we got some aluminum C channel",
+      "en": "So we got some aluminum C channel",
+      "zh": ""
+    },
+    {
+      "start": 204.27,
+      "duration": 2.22,
+      "text": "and just dumped a butt ton of epoxy in there.",
+      "en": "and just dumped a butt ton of epoxy in there.",
+      "zh": ""
+    },
+    {
+      "start": 206.49,
+      "duration": 1.44,
+      "text": "And this worked remarkably well.",
+      "en": "And this worked remarkably well.",
+      "zh": ""
+    },
+    {
+      "start": 207.93,
+      "duration": 1.5,
+      "text": "You could see the difference here.",
+      "en": "You could see the difference here.",
+      "zh": ""
+    },
+    {
+      "start": 209.43,
+      "duration": 0.93,
+      "text": "And so with that, we headed out",
+      "en": "And so with that, we headed out",
+      "zh": ""
+    },
+    {
+      "start": 210.36,
+      "duration": 1.74,
+      "text": "to a very remote shooting location",
+      "en": "to a very remote shooting location",
+      "zh": ""
+    },
+    {
+      "start": 212.1,
+      "duration": 2.59,
+      "text": "in beautiful northern California.",
+      "en": "in beautiful northern California.",
+      "zh": ""
+    },
+    {
+      "start": 214.69,
+      "duration": 2.58,
+      "text": "(upbeat music)",
+      "en": "(upbeat music)",
+      "zh": ""
+    },
+    {
+      "start": 218.37,
+      "duration": 1.65,
+      "text": "So we finally arrived and started the setup.",
+      "en": "So we finally arrived and started the setup.",
+      "zh": ""
+    },
+    {
+      "start": 220.02,
+      "duration": 2.94,
+      "text": "But first I had something I wanted to get off my chest.",
+      "en": "But first I had something I wanted to get off my chest.",
+      "zh": ""
+    },
+    {
+      "start": 222.96,
+      "duration": 3.1,
+      "text": "So one of the things I like most about me is that",
+      "en": "So one of the things I like most about me is that",
+      "zh": ""
+    },
+    {
+      "start": 228.18,
+      "duration": 2.34,
+      "text": "I like to reach out to lesser known channels",
+      "en": "I like to reach out to lesser known channels",
+      "zh": ""
+    },
+    {
+      "start": 230.52,
+      "duration": 3.09,
+      "text": "and sort of give them a handout and some exposure",
+      "en": "and sort of give them a handout and some exposure",
+      "zh": ""
+    },
+    {
+      "start": 233.61,
+      "duration": 4.41,
+      "text": "on my channel, which is why today I'm here with Destin.",
+      "en": "on my channel, which is why today I'm here with Destin.",
+      "zh": ""
+    },
+    {
+      "start": 238.02,
+      "duration": 1.26,
+      "text": "He's Smarter Every Day.",
+      "en": "He's Smarter Every Day.",
+      "zh": ""
+    },
+    {
+      "start": 239.28,
+      "duration": 1.62,
+      "text": "And if by some miracle you don't know,",
+      "en": "And if by some miracle you don't know,",
+      "zh": ""
+    },
+    {
+      "start": 240.9,
+      "duration": 2.88,
+      "text": "Destin is on the Mount Rushmore of science YouTubers.",
+      "en": "Destin is on the Mount Rushmore of science YouTubers.",
+      "zh": ""
+    },
+    {
+      "start": 243.78,
+      "duration": 2.28,
+      "text": "We've been friends for almost exactly six years.",
+      "en": "We've been friends for almost exactly six years.",
+      "zh": ""
+    },
+    {
+      "start": 246.06,
+      "duration": 1.59,
+      "text": "And I know this because I took a screenshot",
+      "en": "And I know this because I took a screenshot",
+      "zh": ""
+    },
+    {
+      "start": 247.65,
+      "duration": 1.83,
+      "text": "of the huge moment for me when he subscribed",
+      "en": "of the huge moment for me when he subscribed",
+      "zh": ""
+    },
+    {
+      "start": 249.48,
+      "duration": 2.19,
+      "text": "to my channel when I only had 10,000 subs.",
+      "en": "to my channel when I only had 10,000 subs.",
+      "zh": ""
+    },
+    {
+      "start": 251.67,
+      "duration": 1.44,
+      "text": "He's made videos about the physics",
+      "en": "He's made videos about the physics",
+      "zh": ""
+    },
+    {
+      "start": 253.11,
+      "duration": 3.36,
+      "text": "of cats landing on their feet, tattoos in super slowmo",
+      "en": "of cats landing on their feet, tattoos in super slowmo",
+      "zh": ""
+    },
+    {
+      "start": 256.47,
+      "duration": 1.47,
+      "text": "or the first video I saw of him",
+      "en": "or the first video I saw of him",
+      "zh": ""
+    },
+    {
+      "start": 257.94,
+      "duration": 2.7,
+      "text": "about how chickens have an internal open feedback loop",
+      "en": "about how chickens have an internal open feedback loop",
+      "zh": ""
+    },
+    {
+      "start": 260.64,
+      "duration": 1.53,
+      "text": "which allows them to head track.",
+      "en": "which allows them to head track.",
+      "zh": ""
+    },
+    {
+      "start": 262.17,
+      "duration": 1.23,
+      "text": "If you've never seen his stuff",
+      "en": "If you've never seen his stuff",
+      "zh": ""
+    },
+    {
+      "start": 263.4,
+      "duration": 3.12,
+      "text": "I'm actually jealous because you have so many hours",
+      "en": "I'm actually jealous because you have so many hours",
+      "zh": ""
+    },
+    {
+      "start": 266.52,
+      "duration": 2.16,
+      "text": "of high quality viewing in your near future.",
+      "en": "of high quality viewing in your near future.",
+      "zh": ""
+    },
+    {
+      "start": 268.68,
+      "duration": 2.16,
+      "text": "So I like golf.",
+      "en": "So I like golf.",
+      "zh": ""
+    },
+    {
+      "start": 270.84,
+      "duration": 1.08,
+      "text": "- I like rockets.",
+      "en": "- I like rockets.",
+      "zh": ""
+    },
+    {
+      "start": 273.18,
+      "duration": 0.83,
+      "text": "- Should we do this?",
+      "en": "- Should we do this?",
+      "zh": ""
+    },
+    {
+      "start": 274.01,
+      "duration": 1.63,
+      "text": "- Yeah, it's just, that was the intro, right?",
+      "en": "- Yeah, it's just, that was the intro, right?",
+      "zh": ""
+    },
+    {
+      "start": 275.64,
+      "duration": 1.74,
+      "text": "- That was it. - Whatever.",
+      "en": "- That was it. - Whatever.",
+      "zh": ""
+    },
+    {
+      "start": 277.38,
+      "duration": 1.35,
+      "text": "- So we all continued to set up",
+      "en": "- So we all continued to set up",
+      "zh": ""
+    },
+    {
+      "start": 278.73,
+      "duration": 1.56,
+      "text": "and something that was important to me was",
+      "en": "and something that was important to me was",
+      "zh": ""
+    },
+    {
+      "start": 280.29,
+      "duration": 3.09,
+      "text": "for this to look as natural as possible at a driving range.",
+      "en": "for this to look as natural as possible at a driving range.",
+      "zh": ""
+    },
+    {
+      "start": 283.38,
+      "duration": 2.25,
+      "text": "So we added some turf to cover the base plate",
+      "en": "So we added some turf to cover the base plate",
+      "zh": ""
+    },
+    {
+      "start": 285.63,
+      "duration": 1.56,
+      "text": "and then dissected a golf bag",
+      "en": "and then dissected a golf bag",
+      "zh": ""
+    },
+    {
+      "start": 287.19,
+      "duration": 1.89,
+      "text": "to cover this sturdy steel column.",
+      "en": "to cover this sturdy steel column.",
+      "zh": ""
+    },
+    {
+      "start": 289.08,
+      "duration": 2.25,
+      "text": "And then if you add some clubs, it looks pretty awesome.",
+      "en": "And then if you add some clubs, it looks pretty awesome.",
+      "zh": ""
+    },
+    {
+      "start": 291.33,
+      "duration": 3.03,
+      "text": "It's incredibly rigid, and yet it can still swing freely.",
+      "en": "It's incredibly rigid, and yet it can still swing freely.",
+      "zh": ""
+    },
+    {
+      "start": 294.36,
+      "duration": 1.38,
+      "text": "Our fourth learning experience came",
+      "en": "Our fourth learning experience came",
+      "zh": ""
+    },
+    {
+      "start": 295.74,
+      "duration": 1.8,
+      "text": "from reviewing our final test footage.",
+      "en": "from reviewing our final test footage.",
+      "zh": ""
+    },
+    {
+      "start": 297.54,
+      "duration": 1.89,
+      "text": "If you listen, the club goes faster",
+      "en": "If you listen, the club goes faster",
+      "zh": ""
+    },
+    {
+      "start": 299.43,
+      "duration": 1.62,
+      "text": "and faster with each rotation.",
+      "en": "and faster with each rotation.",
+      "zh": ""
+    },
+    {
+      "start": 301.92,
+      "duration": 2.94,
+      "text": "(air hissing)",
+      "en": "(air hissing)",
+      "zh": ""
+    },
+    {
+      "start": 304.86,
+      "duration": 2.61,
+      "text": "Naturally we want the club to contact the ball",
+      "en": "Naturally we want the club to contact the ball",
+      "zh": ""
+    },
+    {
+      "start": 307.47,
+      "duration": 1.26,
+      "text": "when it's going the fastest,",
+      "en": "when it's going the fastest,",
+      "zh": ""
+    },
+    {
+      "start": 308.73,
+      "duration": 3.36,
+      "text": "which in our case is 10 rotations in one second.",
+      "en": "which in our case is 10 rotations in one second.",
+      "zh": ""
+    },
+    {
+      "start": 312.09,
+      "duration": 1.92,
+      "text": "That means we somehow need to sneak the ball",
+      "en": "That means we somehow need to sneak the ball",
+      "zh": ""
+    },
+    {
+      "start": 314.01,
+      "duration": 1.56,
+      "text": "into the path of the driver in less",
+      "en": "into the path of the driver in less",
+      "zh": ""
+    },
+    {
+      "start": 315.57,
+      "duration": 2.61,
+      "text": "than a 10th of a second or a quarter of an eye blink.",
+      "en": "than a 10th of a second or a quarter of an eye blink.",
+      "zh": ""
+    },
+    {
+      "start": 318.18,
+      "duration": 1.63,
+      "text": "To accomplish this",
+      "en": "To accomplish this",
+      "zh": ""
+    },
+    {
+      "start": 319.81,
+      "duration": 1.94,
+      "text": "we have a pneumatic cylinder here that hinges up the tee.",
+      "en": "we have a pneumatic cylinder here that hinges up the tee.",
+      "zh": ""
+    },
+    {
+      "start": 321.75,
+      "duration": 1.65,
+      "text": "It knows when to fire because on the back",
+      "en": "It knows when to fire because on the back",
+      "zh": ""
+    },
+    {
+      "start": 323.4,
+      "duration": 1.38,
+      "text": "of the shaft there's a light sensor",
+      "en": "of the shaft there's a light sensor",
+      "zh": ""
+    },
+    {
+      "start": 324.78,
+      "duration": 2.7,
+      "text": "and this disc has a slit which allows the light",
+      "en": "and this disc has a slit which allows the light",
+      "zh": ""
+    },
+    {
+      "start": 327.48,
+      "duration": 2.28,
+      "text": "to pass through once per rotation.",
+      "en": "to pass through once per rotation.",
+      "zh": ""
+    },
+    {
+      "start": 329.76,
+      "duration": 0.87,
+      "text": "So we send that info",
+      "en": "So we send that info",
+      "zh": ""
+    },
+    {
+      "start": 330.63,
+      "duration": 2.37,
+      "text": "to an Arduino over here that counts for us.",
+      "en": "to an Arduino over here that counts for us.",
+      "zh": ""
+    },
+    {
+      "start": 333.0,
+      "duration": 2.52,
+      "text": "And then after 15 rotations, it tells the cylinder",
+      "en": "And then after 15 rotations, it tells the cylinder",
+      "zh": ""
+    },
+    {
+      "start": 335.52,
+      "duration": 2.7,
+      "text": "the precise moment to fire using a solenoid.",
+      "en": "the precise moment to fire using a solenoid.",
+      "zh": ""
+    },
+    {
+      "start": 339.12,
+      "duration": 1.02,
+      "text": "And then we super glue the ball",
+      "en": "And then we super glue the ball",
+      "zh": ""
+    },
+    {
+      "start": 340.14,
+      "duration": 2.19,
+      "text": "to the tee because it provides the Goldilocks amount",
+      "en": "to the tee because it provides the Goldilocks amount",
+      "zh": ""
+    },
+    {
+      "start": 342.33,
+      "duration": 2.7,
+      "text": "of force to first secure and then release the ball.",
+      "en": "of force to first secure and then release the ball.",
+      "zh": ""
+    },
+    {
+      "start": 345.03,
+      "duration": 2.67,
+      "text": "Plus the super glue looks super dope in slowmo.",
+      "en": "Plus the super glue looks super dope in slowmo.",
+      "zh": ""
+    },
+    {
+      "start": 351.75,
+      "duration": 1.08,
+      "text": "So now with everything in place",
+      "en": "So now with everything in place",
+      "zh": ""
+    },
+    {
+      "start": 352.83,
+      "duration": 2.28,
+      "text": "we started with two e-motors which as a reminder",
+      "en": "we started with two e-motors which as a reminder",
+      "zh": ""
+    },
+    {
+      "start": 355.11,
+      "duration": 2.67,
+      "text": "is the same setup that ripped the club head off.",
+      "en": "is the same setup that ripped the club head off.",
+      "zh": ""
+    },
+    {
+      "start": 357.78,
+      "duration": 2.49,
+      "text": "3, 2, 1 roll.",
+      "en": "3, 2, 1 roll.",
+      "zh": ""
+    },
+    {
+      "start": 366.07,
+      "duration": 2.5,
+      "text": "(air hissing)",
+      "en": "(air hissing)",
+      "zh": ""
+    },
+    {
+      "start": 371.55,
+      "duration": 3.32,
+      "text": "Yeah!",
+      "en": "Yeah!",
+      "zh": ""
+    },
+    {
+      "start": 374.87,
+      "duration": 1.52,
+      "text": "- Where did it go, what happened?",
+      "en": "- Where did it go, what happened?",
+      "zh": ""
+    },
+    {
+      "start": 376.39,
+      "duration": 4.11,
+      "text": "- Go baby.",
+      "en": "- Go baby.",
+      "zh": ""
+    },
+    {
+      "start": 380.5,
+      "duration": 2.41,
+      "text": "- [Ken] That thing is past those trees.",
+      "en": "- [Ken] That thing is past those trees.",
+      "zh": ""
+    },
+    {
+      "start": 382.91,
+      "duration": 2.79,
+      "text": "- No way. - Yeah.",
+      "en": "- No way. - Yeah.",
+      "zh": ""
+    },
+    {
+      "start": 385.7,
+      "duration": 1.21,
+      "text": "- [Ken] It took off.",
+      "en": "- [Ken] It took off.",
+      "zh": ""
+    },
+    {
+      "start": 386.91,
+      "duration": 2.65,
+      "text": "- That's a cool shot right there, dude.",
+      "en": "- That's a cool shot right there, dude.",
+      "zh": ""
+    },
+    {
+      "start": 406.81,
+      "duration": 1.85,
+      "text": "- Dude, this is respectable.",
+      "en": "- Dude, this is respectable.",
+      "zh": ""
+    },
+    {
+      "start": 409.89,
+      "duration": 1.71,
+      "text": "This is legit.",
+      "en": "This is legit.",
+      "zh": ""
+    },
+    {
+      "start": 411.6,
+      "duration": 2.07,
+      "text": "- [Mark] After reviewing more of the high-speed footage",
+      "en": "- [Mark] After reviewing more of the high-speed footage",
+      "zh": ""
+    },
+    {
+      "start": 413.67,
+      "duration": 1.65,
+      "text": "we noticed something interesting.",
+      "en": "we noticed something interesting.",
+      "zh": ""
+    },
+    {
+      "start": 416.88,
+      "duration": 5.0,
+      "text": "- The sound effect there is like doing-doing. (laughs)",
+      "en": "- The sound effect there is like doing-doing. (laughs)",
+      "zh": ""
+    },
+    {
+      "start": 421.95,
+      "duration": 2.34,
+      "text": "- This was an interesting technical observation from Destin",
+      "en": "- This was an interesting technical observation from Destin",
+      "zh": ""
+    },
+    {
+      "start": 424.29,
+      "duration": 2.07,
+      "text": "and that tee flexibility was causing us",
+      "en": "and that tee flexibility was causing us",
+      "zh": ""
+    },
+    {
+      "start": 426.36,
+      "duration": 1.83,
+      "text": "to hit some bad shots like this.",
+      "en": "to hit some bad shots like this.",
+      "zh": ""
+    },
+    {
+      "start": 429.24,
+      "duration": 2.61,
+      "text": "An obvious fix is just to make the tee more rigid",
+      "en": "An obvious fix is just to make the tee more rigid",
+      "zh": ""
+    },
+    {
+      "start": 431.85,
+      "duration": 2.73,
+      "text": "so that it doesn't over rotate when it pops up.",
+      "en": "so that it doesn't over rotate when it pops up.",
+      "zh": ""
+    },
+    {
+      "start": 434.58,
+      "duration": 1.74,
+      "text": "But there's a problem with this.",
+      "en": "But there's a problem with this.",
+      "zh": ""
+    },
+    {
+      "start": 436.32,
+      "duration": 2.04,
+      "text": "There's a saying that force follows stiffness.",
+      "en": "There's a saying that force follows stiffness.",
+      "zh": ""
+    },
+    {
+      "start": 438.36,
+      "duration": 2.58,
+      "text": "And for us, a really stiff tee would transfer a bunch",
+      "en": "And for us, a really stiff tee would transfer a bunch",
+      "zh": ""
+    },
+    {
+      "start": 440.94,
+      "duration": 3.21,
+      "text": "of force and destroy our nice 3D printed pop-up mechanism.",
+      "en": "of force and destroy our nice 3D printed pop-up mechanism.",
+      "zh": ""
+    },
+    {
+      "start": 444.15,
+      "duration": 2.37,
+      "text": "Now imagine this crumpled up piece of paper is the tee",
+      "en": "Now imagine this crumpled up piece of paper is the tee",
+      "zh": ""
+    },
+    {
+      "start": 446.52,
+      "duration": 2.16,
+      "text": "which is obviously way less stiff.",
+      "en": "which is obviously way less stiff.",
+      "zh": ""
+    },
+    {
+      "start": 448.68,
+      "duration": 1.47,
+      "text": "Our flexible rubber tee was great",
+      "en": "Our flexible rubber tee was great",
+      "zh": ""
+    },
+    {
+      "start": 450.15,
+      "duration": 1.8,
+      "text": "because it acted like this piece of paper.",
+      "en": "because it acted like this piece of paper.",
+      "zh": ""
+    },
+    {
+      "start": 451.95,
+      "duration": 1.26,
+      "text": "No matter how hard you hit it",
+      "en": "No matter how hard you hit it",
+      "zh": ""
+    },
+    {
+      "start": 453.21,
+      "duration": 1.74,
+      "text": "the force doesn't get translated down",
+      "en": "the force doesn't get translated down",
+      "zh": ""
+    },
+    {
+      "start": 454.95,
+      "duration": 1.2,
+      "text": "and damage our hardware.",
+      "en": "and damage our hardware.",
+      "zh": ""
+    },
+    {
+      "start": 456.15,
+      "duration": 2.82,
+      "text": "So Ken had the brilliant idea of just tying a string",
+      "en": "So Ken had the brilliant idea of just tying a string",
+      "zh": ""
+    },
+    {
+      "start": 458.97,
+      "duration": 2.25,
+      "text": "to the tee and staking it into the ground.",
+      "en": "to the tee and staking it into the ground.",
+      "zh": ""
+    },
+    {
+      "start": 461.22,
+      "duration": 1.71,
+      "text": "This stopped the over rotation",
+      "en": "This stopped the over rotation",
+      "zh": ""
+    },
+    {
+      "start": 462.93,
+      "duration": 2.01,
+      "text": "but everything was still just as flexible.",
+      "en": "but everything was still just as flexible.",
+      "zh": ""
+    },
+    {
+      "start": 464.94,
+      "duration": 1.77,
+      "text": "- [Destin] When the string pulls tight,",
+      "en": "- [Destin] When the string pulls tight,",
+      "zh": ""
+    },
+    {
+      "start": 466.71,
+      "duration": 1.56,
+      "text": "does it make the ball fly off",
+      "en": "does it make the ball fly off",
+      "zh": ""
+    },
+    {
+      "start": 468.27,
+      "duration": 1.98,
+      "text": "'cause it doesn't doink enough?",
+      "en": "'cause it doesn't doink enough?",
+      "zh": ""
+    },
+    {
+      "start": 470.25,
+      "duration": 1.8,
+      "text": "- Only way to test is a doink test.",
+      "en": "- Only way to test is a doink test.",
+      "zh": ""
+    },
+    {
+      "start": 472.05,
+      "duration": 1.8,
+      "text": "(Destin laughs)",
+      "en": "(Destin laughs)",
+      "zh": ""
+    },
+    {
+      "start": 473.85,
+      "duration": 1.05,
+      "text": "- Ah, beautiful.",
+      "en": "- Ah, beautiful.",
+      "zh": ""
+    },
+    {
+      "start": 474.9,
+      "duration": 1.51,
+      "text": "- [Destin] There was some doinking.",
+      "en": "- [Destin] There was some doinking.",
+      "zh": ""
+    },
+    {
+      "start": 476.41,
+      "duration": 2.42,
+      "text": "- I just thought this was a really simple, clever idea",
+      "en": "- I just thought this was a really simple, clever idea",
+      "zh": ""
+    },
+    {
+      "start": 478.83,
+      "duration": 1.83,
+      "text": "that solved both problems at once.",
+      "en": "that solved both problems at once.",
+      "zh": ""
+    },
+    {
+      "start": 480.66,
+      "duration": 2.19,
+      "text": "And as you can see, it worked perfectly.",
+      "en": "And as you can see, it worked perfectly.",
+      "zh": ""
+    },
+    {
+      "start": 491.85,
+      "duration": 2.58,
+      "text": "Now we are ready to try a dual F motor.",
+      "en": "Now we are ready to try a dual F motor.",
+      "zh": ""
+    },
+    {
+      "start": 494.43,
+      "duration": 2.85,
+      "text": "So these deliver about twice as much force to the club",
+      "en": "So these deliver about twice as much force to the club",
+      "zh": ""
+    },
+    {
+      "start": 497.28,
+      "duration": 2.58,
+      "text": "as the e-motors that made the head snap off.",
+      "en": "as the e-motors that made the head snap off.",
+      "zh": ""
+    },
+    {
+      "start": 499.86,
+      "duration": 1.62,
+      "text": "And this provided our final",
+      "en": "And this provided our final",
+      "zh": ""
+    },
+    {
+      "start": 501.48,
+      "duration": 2.67,
+      "text": "and certainly most poignant learning opportunity.",
+      "en": "and certainly most poignant learning opportunity.",
+      "zh": ""
+    },
+    {
+      "start": 504.15,
+      "duration": 2.12,
+      "text": "One, go.",
+      "en": "One, go.",
+      "zh": ""
+    },
+    {
+      "start": 506.27,
+      "duration": 2.5,
+      "text": "(air hissing)",
+      "en": "(air hissing)",
+      "zh": ""
+    },
+    {
+      "start": 511.08,
+      "duration": 1.02,
+      "text": "- Where's the club?",
+      "en": "- Where's the club?",
+      "zh": ""
+    },
+    {
+      "start": 513.45,
+      "duration": 2.09,
+      "text": "(laughs)",
+      "en": "(laughs)",
+      "zh": ""
+    },
+    {
+      "start": 516.75,
+      "duration": 2.5,
+      "text": "(air hissing)",
+      "en": "(air hissing)",
+      "zh": ""
+    },
+    {
+      "start": 522.14,
+      "duration": 1.96,
+      "text": "Where's the club?",
+      "en": "Where's the club?",
+      "zh": ""
+    },
+    {
+      "start": 524.1,
+      "duration": 2.4,
+      "text": "(laughs)",
+      "en": "(laughs)",
+      "zh": ""
+    },
+    {
+      "start": 526.5,
+      "duration": 2.5,
+      "text": "(air hissing)",
+      "en": "(air hissing)",
+      "zh": ""
+    },
+    {
+      "start": 534.66,
+      "duration": 1.42,
+      "text": "Where's the club?",
+      "en": "Where's the club?",
+      "zh": ""
+    },
+    {
+      "start": 540.4,
+      "duration": 2.08,
+      "text": "(laughs)",
+      "en": "(laughs)",
+      "zh": ""
+    },
+    {
+      "start": 550.11,
+      "duration": 1.1,
+      "text": "- Is the tree on fire?",
+      "en": "- Is the tree on fire?",
+      "zh": ""
+    },
+    {
+      "start": 552.24,
+      "duration": 4.32,
+      "text": "- Wow, like I'm laughing, but that could've been bad.",
+      "en": "- Wow, like I'm laughing, but that could've been bad.",
+      "zh": ""
+    },
+    {
+      "start": 564.57,
+      "duration": 0.87,
+      "text": "There we go.",
+      "en": "There we go.",
+      "zh": ""
+    },
+    {
+      "start": 565.44,
+      "duration": 2.22,
+      "text": "This thing was like suborbital, dude.",
+      "en": "This thing was like suborbital, dude.",
+      "zh": ""
+    },
+    {
+      "start": 567.66,
+      "duration": 3.03,
+      "text": "So we have three U bolts and we only used two.",
+      "en": "So we have three U bolts and we only used two.",
+      "zh": ""
+    },
+    {
+      "start": 570.69,
+      "duration": 1.71,
+      "text": "So I think we'll just max out those",
+      "en": "So I think we'll just max out those",
+      "zh": ""
+    },
+    {
+      "start": 572.4,
+      "duration": 1.74,
+      "text": "and just crank 'em way down.",
+      "en": "and just crank 'em way down.",
+      "zh": ""
+    },
+    {
+      "start": 574.14,
+      "duration": 1.92,
+      "text": "Now that we know this is a failure point.",
+      "en": "Now that we know this is a failure point.",
+      "zh": ""
+    },
+    {
+      "start": 576.06,
+      "duration": 2.61,
+      "text": "- Now that we know this is a failure point.",
+      "en": "- Now that we know this is a failure point.",
+      "zh": ""
+    },
+    {
+      "start": 578.67,
+      "duration": 1.44,
+      "text": "There's several failure points",
+      "en": "There's several failure points",
+      "zh": ""
+    },
+    {
+      "start": 580.11,
+      "duration": 3.15,
+      "text": "and I hear you say, oh, we have a solution for that.",
+      "en": "and I hear you say, oh, we have a solution for that.",
+      "zh": ""
+    },
+    {
+      "start": 583.26,
+      "duration": 1.7,
+      "text": "- This is the engineering design process.",
+      "en": "- This is the engineering design process.",
+      "zh": ""
+    },
+    {
+      "start": 586.2,
+      "duration": 0.84,
+      "text": "- It's rather fun.",
+      "en": "- It's rather fun.",
+      "zh": ""
+    },
+    {
+      "start": 587.04,
+      "duration": 2.04,
+      "text": "- Like I mentioned, the club that failed was cut too short",
+      "en": "- Like I mentioned, the club that failed was cut too short",
+      "zh": ""
+    },
+    {
+      "start": 589.08,
+      "duration": 1.92,
+      "text": "and therefore only attach using two U-bolts",
+      "en": "and therefore only attach using two U-bolts",
+      "zh": ""
+    },
+    {
+      "start": 591.0,
+      "duration": 1.2,
+      "text": "which we thought would've been enough",
+      "en": "which we thought would've been enough",
+      "zh": ""
+    },
+    {
+      "start": 592.2,
+      "duration": 2.7,
+      "text": "to support the 800 pound load from centrifugal force.",
+      "en": "to support the 800 pound load from centrifugal force.",
+      "zh": ""
+    },
+    {
+      "start": 594.9,
+      "duration": 1.8,
+      "text": "We did notice the rubber handle was worn",
+      "en": "We did notice the rubber handle was worn",
+      "zh": ""
+    },
+    {
+      "start": 596.7,
+      "duration": 2.37,
+      "text": "due to so many test fires, which probably",
+      "en": "due to so many test fires, which probably",
+      "zh": ""
+    },
+    {
+      "start": 599.07,
+      "duration": 2.61,
+      "text": "initiated the stress concentration leading to the failure.",
+      "en": "initiated the stress concentration leading to the failure.",
+      "zh": ""
+    },
+    {
+      "start": 601.68,
+      "duration": 2.31,
+      "text": "So our fix was to cut the next club longer",
+      "en": "So our fix was to cut the next club longer",
+      "zh": ""
+    },
+    {
+      "start": 603.99,
+      "duration": 1.74,
+      "text": "so we could use three U-bolts",
+      "en": "so we could use three U-bolts",
+      "zh": ""
+    },
+    {
+      "start": 605.73,
+      "duration": 2.85,
+      "text": "and really crank them down on a fresh rubber handle.",
+      "en": "and really crank them down on a fresh rubber handle.",
+      "zh": ""
+    },
+    {
+      "start": 608.58,
+      "duration": 2.91,
+      "text": "And so with all six of our learnings now in place",
+      "en": "And so with all six of our learnings now in place",
+      "zh": ""
+    },
+    {
+      "start": 611.49,
+      "duration": 3.39,
+      "text": "we tried the insane double F motors one more time.",
+      "en": "we tried the insane double F motors one more time.",
+      "zh": ""
+    },
+    {
+      "start": 614.88,
+      "duration": 0.83,
+      "text": "One, go.",
+      "en": "One, go.",
+      "zh": ""
+    },
+    {
+      "start": 616.66,
+      "duration": 2.5,
+      "text": "(air hissing)",
+      "en": "(air hissing)",
+      "zh": ""
+    },
+    {
+      "start": 627.15,
+      "duration": 2.18,
+      "text": "Whoa, yeah, baby, go.",
+      "en": "Whoa, yeah, baby, go.",
+      "zh": ""
+    },
+    {
+      "start": 633.96,
+      "duration": 1.02,
+      "text": "(cow mooing)",
+      "en": "(cow mooing)",
+      "zh": ""
+    },
+    {
+      "start": 634.98,
+      "duration": 1.74,
+      "text": "That's how you play golf.",
+      "en": "That's how you play golf.",
+      "zh": ""
+    },
+    {
+      "start": 636.72,
+      "duration": 3.06,
+      "text": "- That's our best one yet, dude.",
+      "en": "- That's our best one yet, dude.",
+      "zh": ""
+    },
+    {
+      "start": 639.78,
+      "duration": 3.27,
+      "text": "- Like the rush you get from like an engineering achievement",
+      "en": "- Like the rush you get from like an engineering achievement",
+      "zh": ""
+    },
+    {
+      "start": 643.05,
+      "duration": 1.65,
+      "text": "actually working is like.",
+      "en": "actually working is like.",
+      "zh": ""
+    },
+    {
+      "start": 646.02,
+      "duration": 3.52,
+      "text": "Oh, oh, oh, look at the plate, oh.",
+      "en": "Oh, oh, oh, look at the plate, oh.",
+      "zh": ""
+    },
+    {
+      "start": 652.78,
+      "duration": 2.5,
+      "text": "(air hissing)",
+      "en": "(air hissing)",
+      "zh": ""
+    },
+    {
+      "start": 666.12,
+      "duration": 1.77,
+      "text": "- So we never found these long balls",
+      "en": "- So we never found these long balls",
+      "zh": ""
+    },
+    {
+      "start": 667.89,
+      "duration": 1.47,
+      "text": "to measure the exact distance,",
+      "en": "to measure the exact distance,",
+      "zh": ""
+    },
+    {
+      "start": 669.36,
+      "duration": 2.13,
+      "text": "but I can drive a ball 280 yards.",
+      "en": "but I can drive a ball 280 yards.",
+      "zh": ""
+    },
+    {
+      "start": 671.49,
+      "duration": 1.83,
+      "text": "And these were well beyond that.",
+      "en": "And these were well beyond that.",
+      "zh": ""
+    },
+    {
+      "start": 673.32,
+      "duration": 2.37,
+      "text": "I mean, just look at this trajectory,",
+      "en": "I mean, just look at this trajectory,",
+      "zh": ""
+    },
+    {
+      "start": 675.69,
+      "duration": 1.89,
+      "text": "straight to outer space.",
+      "en": "straight to outer space.",
+      "zh": ""
+    },
+    {
+      "start": 677.58,
+      "duration": 1.44,
+      "text": "Now that we got all the shots we needed,",
+      "en": "Now that we got all the shots we needed,",
+      "zh": ""
+    },
+    {
+      "start": 679.02,
+      "duration": 1.83,
+      "text": "it was time to have some real fun.",
+      "en": "it was time to have some real fun.",
+      "zh": ""
+    },
+    {
+      "start": 680.85,
+      "duration": 1.86,
+      "text": "We started with a handheld version that was powered",
+      "en": "We started with a handheld version that was powered",
+      "zh": ""
+    },
+    {
+      "start": 682.71,
+      "duration": 2.1,
+      "text": "by a single c-motor because anything more",
+      "en": "by a single c-motor because anything more",
+      "zh": ""
+    },
+    {
+      "start": 684.81,
+      "duration": 2.7,
+      "text": "than that would just be way too unsafe for me to hold.",
+      "en": "than that would just be way too unsafe for me to hold.",
+      "zh": ""
+    },
+    {
+      "start": 688.83,
+      "duration": 2.5,
+      "text": "(air hissing)",
+      "en": "(air hissing)",
+      "zh": ""
+    },
+    {
+      "start": 706.5,
+      "duration": 4.32,
+      "text": "- Nice. - (indistinct) 300 yards, man.",
+      "en": "- Nice. - (indistinct) 300 yards, man.",
+      "zh": ""
+    },
+    {
+      "start": 710.82,
+      "duration": 3.51,
+      "text": "It really did like make it so much easier to swing.",
+      "en": "It really did like make it so much easier to swing.",
+      "zh": ""
+    },
+    {
+      "start": 714.33,
+      "duration": 1.74,
+      "text": "I'm not even kidding, yeah, yeah, yeah.",
+      "en": "I'm not even kidding, yeah, yeah, yeah.",
+      "zh": ""
+    },
+    {
+      "start": 716.07,
+      "duration": 1.86,
+      "text": "Like it really made a difference.",
+      "en": "Like it really made a difference.",
+      "zh": ""
+    },
+    {
+      "start": 717.93,
+      "duration": 5.0,
+      "text": "Three, two, and then some glass just because.",
+      "en": "Three, two, and then some glass just because.",
+      "zh": ""
+    },
+    {
+      "start": 722.97,
+      "duration": 2.5,
+      "text": "(air hissing)",
+      "en": "(air hissing)",
+      "zh": ""
+    },
+    {
+      "start": 727.26,
+      "duration": 2.75,
+      "text": "(glass breaking)",
+      "en": "(glass breaking)",
+      "zh": ""
+    },
+    {
+      "start": 732.22,
+      "duration": 0.83,
+      "text": "Yeah.",
+      "en": "Yeah.",
+      "zh": ""
+    },
+    {
+      "start": 738.67,
+      "duration": 2.75,
+      "text": "(glass breaking)",
+      "en": "(glass breaking)",
+      "zh": ""
+    },
+    {
+      "start": 751.95,
+      "duration": 2.04,
+      "text": "And then keeping with the tradition of my channel,",
+      "en": "And then keeping with the tradition of my channel,",
+      "zh": ""
+    },
+    {
+      "start": 753.99,
+      "duration": 1.65,
+      "text": "some watermelon.",
+      "en": "some watermelon.",
+      "zh": ""
+    },
+    {
+      "start": 755.64,
+      "duration": 2.5,
+      "text": "(air hissing)",
+      "en": "(air hissing)",
+      "zh": ""
+    },
+    {
+      "start": 793.25,
+      "duration": 0.84,
+      "text": "Thanks for cutting open a watermelon",
+      "en": "Thanks for cutting open a watermelon",
+      "zh": ""
+    },
+    {
+      "start": 794.09,
+      "duration": 1.21,
+      "text": "with a rocket powered golf club, Mark.",
+      "en": "with a rocket powered golf club, Mark.",
+      "zh": ""
+    },
+    {
+      "start": 795.3,
+      "duration": 1.61,
+      "text": "- You're welcome.",
+      "en": "- You're welcome.",
+      "zh": ""
+    },
+    {
+      "start": 796.91,
+      "duration": 0.83,
+      "text": "Yeah, that's all of this.",
+      "en": "Yeah, that's all of this.",
+      "zh": ""
+    },
+    {
+      "start": 797.74,
+      "duration": 0.89,
+      "text": "The past three months",
+      "en": "The past three months",
+      "zh": ""
+    },
+    {
+      "start": 798.63,
+      "duration": 1.95,
+      "text": "of working engineering was just-",
+      "en": "of working engineering was just-",
+      "zh": ""
+    },
+    {
+      "start": 800.58,
+      "duration": 1.05,
+      "text": "- Boils down to this moment?",
+      "en": "- Boils down to this moment?",
+      "zh": ""
+    },
+    {
+      "start": 801.63,
+      "duration": 1.65,
+      "text": "- Just to enjoy this watermelon.",
+      "en": "- Just to enjoy this watermelon.",
+      "zh": ""
+    },
+    {
+      "start": 803.28,
+      "duration": 2.91,
+      "text": "- Yeah, Mark's like trying to make stuff look good.",
+      "en": "- Yeah, Mark's like trying to make stuff look good.",
+      "zh": ""
+    },
+    {
+      "start": 806.19,
+      "duration": 1.02,
+      "text": "We're not wasting food though.",
+      "en": "We're not wasting food though.",
+      "zh": ""
+    },
+    {
+      "start": 807.21,
+      "duration": 2.31,
+      "text": "- We waste no part of the engineering effort",
+      "en": "- We waste no part of the engineering effort",
+      "zh": ""
+    },
+    {
+      "start": 809.52,
+      "duration": 2.01,
+      "text": "like the great Indians with the buffalo.",
+      "en": "like the great Indians with the buffalo.",
+      "zh": ""
+    },
+    {
+      "start": 811.53,
+      "duration": 1.53,
+      "text": "So Destin made a video on his channel",
+      "en": "So Destin made a video on his channel",
+      "zh": ""
+    },
+    {
+      "start": 813.06,
+      "duration": 4.35,
+      "text": "about why some balls bounce high and others don't.",
+      "en": "about why some balls bounce high and others don't.",
+      "zh": ""
+    },
+    {
+      "start": 817.41,
+      "duration": 1.5,
+      "text": "And my first thought was, well, that's easy.",
+      "en": "And my first thought was, well, that's easy.",
+      "zh": ""
+    },
+    {
+      "start": 818.91,
+      "duration": 2.52,
+      "text": "It just has to do with how compressible or rubbery it is.",
+      "en": "It just has to do with how compressible or rubbery it is.",
+      "zh": ""
+    },
+    {
+      "start": 821.43,
+      "duration": 3.0,
+      "text": "Yet this billiard ball is pretty much completely solid",
+      "en": "Yet this billiard ball is pretty much completely solid",
+      "zh": ""
+    },
+    {
+      "start": 824.43,
+      "duration": 2.16,
+      "text": "and this bouncy ball is pretty rubbery",
+      "en": "and this bouncy ball is pretty rubbery",
+      "zh": ""
+    },
+    {
+      "start": 826.59,
+      "duration": 2.55,
+      "text": "and yet they bounce to pretty much the same height.",
+      "en": "and yet they bounce to pretty much the same height.",
+      "zh": ""
+    },
+    {
+      "start": 829.14,
+      "duration": 1.5,
+      "text": "So it's something else.",
+      "en": "So it's something else.",
+      "zh": ""
+    },
+    {
+      "start": 830.64,
+      "duration": 1.95,
+      "text": "As you can imagine, this is a pretty important piece",
+      "en": "As you can imagine, this is a pretty important piece",
+      "zh": ""
+    },
+    {
+      "start": 832.59,
+      "duration": 1.77,
+      "text": "of information for golf ball makers.",
+      "en": "of information for golf ball makers.",
+      "zh": ""
+    },
+    {
+      "start": 834.36,
+      "duration": 1.83,
+      "text": "So he has lots of amazing slow-mo footage",
+      "en": "So he has lots of amazing slow-mo footage",
+      "zh": ""
+    },
+    {
+      "start": 836.19,
+      "duration": 3.03,
+      "text": "of golf balls being squished in ways that hurt your brain",
+      "en": "of golf balls being squished in ways that hurt your brain",
+      "zh": ""
+    },
+    {
+      "start": 839.22,
+      "duration": 2.37,
+      "text": "plus way more footage from today's shoot.",
+      "en": "plus way more footage from today's shoot.",
+      "zh": ""
+    },
+    {
+      "start": 841.59,
+      "duration": 1.89,
+      "text": "So I will leave a link in the video description",
+      "en": "So I will leave a link in the video description",
+      "zh": ""
+    },
+    {
+      "start": 843.48,
+      "duration": 1.38,
+      "text": "and while you're there, make sure to check out",
+      "en": "and while you're there, make sure to check out",
+      "zh": ""
+    },
+    {
+      "start": 844.86,
+      "duration": 2.07,
+      "text": "some of his other videos and subscribe to his channel",
+      "en": "some of his other videos and subscribe to his channel",
+      "zh": ""
+    },
+    {
+      "start": 846.93,
+      "duration": 1.86,
+      "text": "'cause he's just a classy individual",
+      "en": "'cause he's just a classy individual",
+      "zh": ""
+    },
+    {
+      "start": 848.79,
+      "duration": 2.79,
+      "text": "and a true professional in every sense of the word.",
+      "en": "and a true professional in every sense of the word.",
+      "zh": ""
+    },
+    {
+      "start": 851.58,
+      "duration": 0.83,
+      "text": "- Are you rolling?",
+      "en": "- Are you rolling?",
+      "zh": ""
+    },
+    {
+      "start": 852.41,
+      "duration": 0.84,
+      "text": "- Yeah.",
+      "en": "- Yeah.",
+      "zh": ""
+    },
+    {
+      "start": 855.03,
+      "duration": 1.05,
+      "text": "- Hey, it's me, Mark.",
+      "en": "- Hey, it's me, Mark.",
+      "zh": ""
+    },
+    {
+      "start": 859.38,
+      "duration": 2.59,
+      "text": "(upbeat music)",
+      "en": "(upbeat music)",
+      "zh": ""
+    }
+  ],
+  "words": []
+}

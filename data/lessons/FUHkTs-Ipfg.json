@@ -1,0 +1,2728 @@
+{
+  "cues": [
+    {
+      "start": 0.48,
+      "duration": 2.82,
+      "text": "- In 1982, there was one SAT question",
+      "en": "- In 1982, there was one SAT question",
+      "zh": ""
+    },
+    {
+      "start": 3.3,
+      "duration": 2.49,
+      "text": "that every single student got wrong.",
+      "en": "that every single student got wrong.",
+      "zh": ""
+    },
+    {
+      "start": 6.9,
+      "duration": 1.44,
+      "text": "Here it is.",
+      "en": "Here it is.",
+      "zh": ""
+    },
+    {
+      "start": 8.34,
+      "duration": 1.02,
+      "text": "In the figure above,",
+      "en": "In the figure above,",
+      "zh": ""
+    },
+    {
+      "start": 9.36,
+      "duration": 4.53,
+      "text": "the radius of circle A is 1/3 the radius of circle B.",
+      "en": "the radius of circle A is 1/3 the radius of circle B.",
+      "zh": ""
+    },
+    {
+      "start": 13.89,
+      "duration": 2.07,
+      "text": "Starting from the position shown in the figure,",
+      "en": "Starting from the position shown in the figure,",
+      "zh": ""
+    },
+    {
+      "start": 15.96,
+      "duration": 3.27,
+      "text": "circle A rolls around circle B.",
+      "en": "circle A rolls around circle B.",
+      "zh": ""
+    },
+    {
+      "start": 19.23,
+      "duration": 3.09,
+      "text": "At the end of how many revolutions of circle A",
+      "en": "At the end of how many revolutions of circle A",
+      "zh": ""
+    },
+    {
+      "start": 22.32,
+      "duration": 0.87,
+      "text": "will the center",
+      "en": "will the center",
+      "zh": ""
+    },
+    {
+      "start": 23.19,
+      "duration": 2.64,
+      "text": "of the circle first reach its starting point.",
+      "en": "of the circle first reach its starting point.",
+      "zh": ""
+    },
+    {
+      "start": 27.09,
+      "duration": 6.21,
+      "text": "Is it A, 3/2, B, three, C, six,",
+      "en": "Is it A, 3/2, B, three, C, six,",
+      "zh": ""
+    },
+    {
+      "start": 33.3,
+      "duration": 3.99,
+      "text": "D, 9/2, or E, nine?",
+      "en": "D, 9/2, or E, nine?",
+      "zh": ""
+    },
+    {
+      "start": 38.19,
+      "duration": 2.34,
+      "text": "SAT Questions are designed to be quick.",
+      "en": "SAT Questions are designed to be quick.",
+      "zh": ""
+    },
+    {
+      "start": 40.53,
+      "duration": 3.39,
+      "text": "This exam gave students 30 minutes to solve 25 problems,",
+      "en": "This exam gave students 30 minutes to solve 25 problems,",
+      "zh": ""
+    },
+    {
+      "start": 43.92,
+      "duration": 1.98,
+      "text": "so about a minute each.",
+      "en": "so about a minute each.",
+      "zh": ""
+    },
+    {
+      "start": 45.9,
+      "duration": 2.94,
+      "text": "So feel free to pause the video here and try to solve it.",
+      "en": "So feel free to pause the video here and try to solve it.",
+      "zh": ""
+    },
+    {
+      "start": 50.79,
+      "duration": 1.8,
+      "text": "What is your answer?",
+      "en": "What is your answer?",
+      "zh": ""
+    },
+    {
+      "start": 53.67,
+      "duration": 1.92,
+      "text": "I'll tell you right now that option B,",
+      "en": "I'll tell you right now that option B,",
+      "zh": ""
+    },
+    {
+      "start": 55.59,
+      "duration": 2.19,
+      "text": "or three, is not correct.",
+      "en": "or three, is not correct.",
+      "zh": ""
+    },
+    {
+      "start": 58.74,
+      "duration": 3.27,
+      "text": "When I first saw this problem, my intuitive answer was B,",
+      "en": "When I first saw this problem, my intuitive answer was B,",
+      "zh": ""
+    },
+    {
+      "start": 62.01,
+      "duration": 3.81,
+      "text": "because the circumference of a circle is just two pi r,",
+      "en": "because the circumference of a circle is just two pi r,",
+      "zh": ""
+    },
+    {
+      "start": 65.82,
+      "duration": 4.26,
+      "text": "and since the radius of circle B is three times",
+      "en": "and since the radius of circle B is three times",
+      "zh": ""
+    },
+    {
+      "start": 70.08,
+      "duration": 1.47,
+      "text": "the radius of circle A,",
+      "en": "the radius of circle A,",
+      "zh": ""
+    },
+    {
+      "start": 71.55,
+      "duration": 3.03,
+      "text": "the circumference of circle B must also be three times",
+      "en": "the circumference of circle B must also be three times",
+      "zh": ""
+    },
+    {
+      "start": 74.58,
+      "duration": 1.95,
+      "text": "the circumference of circle A.",
+      "en": "the circumference of circle A.",
+      "zh": ""
+    },
+    {
+      "start": 76.53,
+      "duration": 3.45,
+      "text": "So logically, it should take three full rotations",
+      "en": "So logically, it should take three full rotations",
+      "zh": ""
+    },
+    {
+      "start": 79.98,
+      "duration": 2.94,
+      "text": "of circle A to roll around circle B.",
+      "en": "of circle A to roll around circle B.",
+      "zh": ""
+    },
+    {
+      "start": 82.92,
+      "duration": 1.92,
+      "text": "So my answer was three.",
+      "en": "So my answer was three.",
+      "zh": ""
+    },
+    {
+      "start": 86.07,
+      "duration": 6.85,
+      "text": "This is wrong, but so are answers A, C, D, and E.",
+      "en": "This is wrong, but so are answers A, C, D, and E.",
+      "zh": ""
+    },
+    {
+      "start": 94.59,
+      "duration": 2.61,
+      "text": "The reason no one got question 17 correct",
+      "en": "The reason no one got question 17 correct",
+      "zh": ""
+    },
+    {
+      "start": 97.2,
+      "duration": 3.33,
+      "text": "is that the test writers themselves got it wrong.",
+      "en": "is that the test writers themselves got it wrong.",
+      "zh": ""
+    },
+    {
+      "start": 100.53,
+      "duration": 2.46,
+      "text": "They also thought the answer was three.",
+      "en": "They also thought the answer was three.",
+      "zh": ""
+    },
+    {
+      "start": 102.99,
+      "duration": 3.42,
+      "text": "So the actual correct answer was not listed",
+      "en": "So the actual correct answer was not listed",
+      "zh": ""
+    },
+    {
+      "start": 106.41,
+      "duration": 1.8,
+      "text": "as an option on the test.",
+      "en": "as an option on the test.",
+      "zh": ""
+    },
+    {
+      "start": 110.43,
+      "duration": 3.06,
+      "text": "Mistakes like this aren't supposed to happen on the SAT.",
+      "en": "Mistakes like this aren't supposed to happen on the SAT.",
+      "zh": ""
+    },
+    {
+      "start": 113.49,
+      "duration": 3.3,
+      "text": "For decades, it was the one exam every student had to take",
+      "en": "For decades, it was the one exam every student had to take",
+      "zh": ""
+    },
+    {
+      "start": 116.79,
+      "duration": 1.71,
+      "text": "to go to college in the US.",
+      "en": "to go to college in the US.",
+      "zh": ""
+    },
+    {
+      "start": 118.5,
+      "duration": 0.96,
+      "text": "It had a reputation",
+      "en": "It had a reputation",
+      "zh": ""
+    },
+    {
+      "start": 119.46,
+      "duration": 2.82,
+      "text": "for determining people's entire futures.",
+      "en": "for determining people's entire futures.",
+      "zh": ""
+    },
+    {
+      "start": 122.28,
+      "duration": 1.9,
+      "text": "As a newspaper from the time stated,",
+      "en": "As a newspaper from the time stated,",
+      "zh": ""
+    },
+    {
+      "start": 124.18,
+      "duration": 2.93,
+      "text": "\"If you mess up on your SAT tests, you can forget it.",
+      "en": "\"If you mess up on your SAT tests, you can forget it.",
+      "zh": ""
+    },
+    {
+      "start": 127.11,
+      "duration": 2.91,
+      "text": "Your life as a productive citizen is over.",
+      "en": "Your life as a productive citizen is over.",
+      "zh": ""
+    },
+    {
+      "start": 130.02,
+      "duration": 1.11,
+      "text": "Hang it up, son.\"",
+      "en": "Hang it up, son.\"",
+      "zh": ""
+    },
+    {
+      "start": 133.68,
+      "duration": 2.4,
+      "text": "Of 300,000 test takers,",
+      "en": "Of 300,000 test takers,",
+      "zh": ""
+    },
+    {
+      "start": 136.08,
+      "duration": 2.28,
+      "text": "just three students wrote about the error",
+      "en": "just three students wrote about the error",
+      "zh": ""
+    },
+    {
+      "start": 138.36,
+      "duration": 3.2,
+      "text": "to the College Board, the company that administers the SAT,",
+      "en": "to the College Board, the company that administers the SAT,",
+      "zh": ""
+    },
+    {
+      "start": 141.56,
+      "duration": 3.91,
+      "text": "Shivan Kartha, Bruce Taub, and Doug Jungreis.",
+      "en": "Shivan Kartha, Bruce Taub, and Doug Jungreis.",
+      "zh": ""
+    },
+    {
+      "start": 147.78,
+      "duration": 2.43,
+      "text": "- I did a lot of math problems when I was young",
+      "en": "- I did a lot of math problems when I was young",
+      "zh": ""
+    },
+    {
+      "start": 150.21,
+      "duration": 1.23,
+      "text": "for the competitions.",
+      "en": "for the competitions.",
+      "zh": ""
+    },
+    {
+      "start": 151.44,
+      "duration": 3.03,
+      "text": "I probably did thousands of math problems and I read it",
+      "en": "I probably did thousands of math problems and I read it",
+      "zh": ""
+    },
+    {
+      "start": 154.47,
+      "duration": 2.52,
+      "text": "and I was amazed how badly it's worded.",
+      "en": "and I was amazed how badly it's worded.",
+      "zh": ""
+    },
+    {
+      "start": 156.99,
+      "duration": 2.73,
+      "text": "I just put three down. I figured that's what they wanted.",
+      "en": "I just put three down. I figured that's what they wanted.",
+      "zh": ""
+    },
+    {
+      "start": 159.72,
+      "duration": 1.83,
+      "text": "- The three students were confident none",
+      "en": "- The three students were confident none",
+      "zh": ""
+    },
+    {
+      "start": 161.55,
+      "duration": 1.65,
+      "text": "of the listed answers were correct,",
+      "en": "of the listed answers were correct,",
+      "zh": ""
+    },
+    {
+      "start": 163.2,
+      "duration": 1.56,
+      "text": "and their letters showed it.",
+      "en": "and their letters showed it.",
+      "zh": ""
+    },
+    {
+      "start": 164.76,
+      "duration": 2.4,
+      "text": "As a director at the testing service recalled,",
+      "en": "As a director at the testing service recalled,",
+      "zh": ""
+    },
+    {
+      "start": 167.16,
+      "duration": 1.11,
+      "text": "they didn't say they had come up",
+      "en": "they didn't say they had come up",
+      "zh": ""
+    },
+    {
+      "start": 168.27,
+      "duration": 1.77,
+      "text": "with possible alternative answers",
+      "en": "with possible alternative answers",
+      "zh": ""
+    },
+    {
+      "start": 170.04,
+      "duration": 1.68,
+      "text": "or that maybe we were wrong.",
+      "en": "or that maybe we were wrong.",
+      "zh": ""
+    },
+    {
+      "start": 171.72,
+      "duration": 3.03,
+      "text": "They said flat out, \"You're wrong,\" and they proved it.",
+      "en": "They said flat out, \"You're wrong,\" and they proved it.",
+      "zh": ""
+    },
+    {
+      "start": 175.86,
+      "duration": 3.03,
+      "text": "- I discussed it with some other people and said,",
+      "en": "- I discussed it with some other people and said,",
+      "zh": ""
+    },
+    {
+      "start": 178.89,
+      "duration": 2.62,
+      "text": "I think there was a mistake, and they mostly said,",
+      "en": "I think there was a mistake, and they mostly said,",
+      "zh": ""
+    },
+    {
+      "start": 181.51,
+      "duration": 1.11,
+      "text": "\"No one cares.\"",
+      "en": "\"No one cares.\"",
+      "zh": ""
+    },
+    {
+      "start": 183.66,
+      "duration": 3.81,
+      "text": "I wrote a letter to the Educational Testing Service.",
+      "en": "I wrote a letter to the Educational Testing Service.",
+      "zh": ""
+    },
+    {
+      "start": 187.47,
+      "duration": 1.89,
+      "text": "It was a little while later they called us",
+      "en": "It was a little while later they called us",
+      "zh": ""
+    },
+    {
+      "start": 189.36,
+      "duration": 1.92,
+      "text": "and said I was correct.",
+      "en": "and said I was correct.",
+      "zh": ""
+    },
+    {
+      "start": 192.72,
+      "duration": 1.5,
+      "text": "- Here is their argument.",
+      "en": "- Here is their argument.",
+      "zh": ""
+    },
+    {
+      "start": 195.6,
+      "duration": 1.98,
+      "text": "The simplest version of this problem",
+      "en": "The simplest version of this problem",
+      "zh": ""
+    },
+    {
+      "start": 197.58,
+      "duration": 2.4,
+      "text": "is with two identical coins.",
+      "en": "is with two identical coins.",
+      "zh": ""
+    },
+    {
+      "start": 199.98,
+      "duration": 2.4,
+      "text": "These have the exact same circumference.",
+      "en": "These have the exact same circumference.",
+      "zh": ""
+    },
+    {
+      "start": 202.38,
+      "duration": 1.8,
+      "text": "So by our initial logic,",
+      "en": "So by our initial logic,",
+      "zh": ""
+    },
+    {
+      "start": 204.18,
+      "duration": 2.25,
+      "text": "this coin should rotate exactly once",
+      "en": "this coin should rotate exactly once",
+      "zh": ""
+    },
+    {
+      "start": 206.43,
+      "duration": 1.89,
+      "text": "as it rolls around the other.",
+      "en": "as it rolls around the other.",
+      "zh": ""
+    },
+    {
+      "start": 208.32,
+      "duration": 1.41,
+      "text": "So let's try it.",
+      "en": "So let's try it.",
+      "zh": ""
+    },
+    {
+      "start": 210.93,
+      "duration": 0.83,
+      "text": "Okay.",
+      "en": "Okay.",
+      "zh": ""
+    },
+    {
+      "start": 213.3,
+      "duration": 3.24,
+      "text": "But wait, we can see it's already right side up",
+      "en": "But wait, we can see it's already right side up",
+      "zh": ""
+    },
+    {
+      "start": 216.54,
+      "duration": 1.41,
+      "text": "at the halfway point.",
+      "en": "at the halfway point.",
+      "zh": ""
+    },
+    {
+      "start": 217.95,
+      "duration": 3.84,
+      "text": "So if we finish rolling it around the other coin,",
+      "en": "So if we finish rolling it around the other coin,",
+      "zh": ""
+    },
+    {
+      "start": 221.79,
+      "duration": 3.48,
+      "text": "it'll have rotated not once, but twice.",
+      "en": "it'll have rotated not once, but twice.",
+      "zh": ""
+    },
+    {
+      "start": 225.27,
+      "duration": 3.39,
+      "text": "Even though the coins are the exact same size",
+      "en": "Even though the coins are the exact same size",
+      "zh": ""
+    },
+    {
+      "start": 228.66,
+      "duration": 1.95,
+      "text": "There are no tricks here,",
+      "en": "There are no tricks here,",
+      "zh": ""
+    },
+    {
+      "start": 230.61,
+      "duration": 1.38,
+      "text": "you can try it for yourself,",
+      "en": "you can try it for yourself,",
+      "zh": ""
+    },
+    {
+      "start": 231.99,
+      "duration": 1.92,
+      "text": "and I'll do it again slowly.",
+      "en": "and I'll do it again slowly.",
+      "zh": ""
+    },
+    {
+      "start": 236.61,
+      "duration": 1.11,
+      "text": "That's one,",
+      "en": "That's one,",
+      "zh": ""
+    },
+    {
+      "start": 243.27,
+      "duration": 0.83,
+      "text": "two.",
+      "en": "two.",
+      "zh": ""
+    },
+    {
+      "start": 245.13,
+      "duration": 3.6,
+      "text": "This is known as the coin rotation paradox.",
+      "en": "This is known as the coin rotation paradox.",
+      "zh": ""
+    },
+    {
+      "start": 248.73,
+      "duration": 3.63,
+      "text": "This paradox also applies to question 17.",
+      "en": "This paradox also applies to question 17.",
+      "zh": ""
+    },
+    {
+      "start": 252.36,
+      "duration": 4.02,
+      "text": "I've made a to scale model of the problem.",
+      "en": "I've made a to scale model of the problem.",
+      "zh": ""
+    },
+    {
+      "start": 256.38,
+      "duration": 2.4,
+      "text": "One useful tip for standardized tests,",
+      "en": "One useful tip for standardized tests,",
+      "zh": ""
+    },
+    {
+      "start": 258.78,
+      "duration": 2.34,
+      "text": "even though they say their images are not to scale,",
+      "en": "even though they say their images are not to scale,",
+      "zh": ""
+    },
+    {
+      "start": 261.12,
+      "duration": 2.04,
+      "text": "they almost always are.",
+      "en": "they almost always are.",
+      "zh": ""
+    },
+    {
+      "start": 264.42,
+      "duration": 4.17,
+      "text": "So when we roll circle A around circle B,",
+      "en": "So when we roll circle A around circle B,",
+      "zh": ""
+    },
+    {
+      "start": 268.59,
+      "duration": 3.59,
+      "text": "we can see that it rotates once, twice,",
+      "en": "we can see that it rotates once, twice,",
+      "zh": ""
+    },
+    {
+      "start": 277.53,
+      "duration": 6.51,
+      "text": "three times, and four times in total.",
+      "en": "three times, and four times in total.",
+      "zh": ""
+    },
+    {
+      "start": 284.72,
+      "duration": 3.01,
+      "text": "So the correct answer to this question is actually four.",
+      "en": "So the correct answer to this question is actually four.",
+      "zh": ""
+    },
+    {
+      "start": 287.73,
+      "duration": 2.58,
+      "text": "Once again, the circle rotates one more time",
+      "en": "Once again, the circle rotates one more time",
+      "zh": ""
+    },
+    {
+      "start": 290.31,
+      "duration": 1.59,
+      "text": "than we expected.",
+      "en": "than we expected.",
+      "zh": ""
+    },
+    {
+      "start": 291.9,
+      "duration": 1.11,
+      "text": "To understand this,",
+      "en": "To understand this,",
+      "zh": ""
+    },
+    {
+      "start": 293.01,
+      "duration": 3.1,
+      "text": "let's wrap this larger circle in some ribbon",
+      "en": "let's wrap this larger circle in some ribbon",
+      "zh": ""
+    },
+    {
+      "start": 300.93,
+      "duration": 3.78,
+      "text": "And I'll make it the same length as the circumference,",
+      "en": "And I'll make it the same length as the circumference,",
+      "zh": ""
+    },
+    {
+      "start": 304.71,
+      "duration": 2.61,
+      "text": "and then I will stick it down to the table",
+      "en": "and then I will stick it down to the table",
+      "zh": ""
+    },
+    {
+      "start": 307.32,
+      "duration": 1.89,
+      "text": "as a straight line.",
+      "en": "as a straight line.",
+      "zh": ""
+    },
+    {
+      "start": 309.21,
+      "duration": 2.05,
+      "text": "I'm adding some paper here",
+      "en": "I'm adding some paper here",
+      "zh": ""
+    },
+    {
+      "start": 312.39,
+      "duration": 2.05,
+      "text": "so there's something for this to roll on.",
+      "en": "so there's something for this to roll on.",
+      "zh": ""
+    },
+    {
+      "start": 316.86,
+      "duration": 5.0,
+      "text": "And now it rolls one, two, three times.",
+      "en": "And now it rolls one, two, three times.",
+      "zh": ""
+    },
+    {
+      "start": 323.1,
+      "duration": 2.25,
+      "text": "What's happening when we turn this straight path",
+      "en": "What's happening when we turn this straight path",
+      "zh": ""
+    },
+    {
+      "start": 325.35,
+      "duration": 2.7,
+      "text": "into a circular one is that circle A is now rolling",
+      "en": "into a circular one is that circle A is now rolling",
+      "zh": ""
+    },
+    {
+      "start": 328.05,
+      "duration": 1.65,
+      "text": "the length of the circumference",
+      "en": "the length of the circumference",
+      "zh": ""
+    },
+    {
+      "start": 329.7,
+      "duration": 2.94,
+      "text": "and it's going around a circle.",
+      "en": "and it's going around a circle.",
+      "zh": ""
+    },
+    {
+      "start": 332.64,
+      "duration": 1.92,
+      "text": "The shape of the circular path itself",
+      "en": "The shape of the circular path itself",
+      "zh": ""
+    },
+    {
+      "start": 334.56,
+      "duration": 2.52,
+      "text": "makes circle A do an additional rotation",
+      "en": "makes circle A do an additional rotation",
+      "zh": ""
+    },
+    {
+      "start": 337.08,
+      "duration": 2.1,
+      "text": "to return to its starting point.",
+      "en": "to return to its starting point.",
+      "zh": ""
+    },
+    {
+      "start": 339.18,
+      "duration": 2.82,
+      "text": "So this is the general solution to the problem.",
+      "en": "So this is the general solution to the problem.",
+      "zh": ""
+    },
+    {
+      "start": 342.0,
+      "duration": 3.15,
+      "text": "Find the ratio between the circumferences of circle B",
+      "en": "Find the ratio between the circumferences of circle B",
+      "zh": ""
+    },
+    {
+      "start": 345.15,
+      "duration": 2.64,
+      "text": "and circle A and then add one rotation",
+      "en": "and circle A and then add one rotation",
+      "zh": ""
+    },
+    {
+      "start": 347.79,
+      "duration": 2.79,
+      "text": "to account for the circular path traveled.",
+      "en": "to account for the circular path traveled.",
+      "zh": ""
+    },
+    {
+      "start": 352.17,
+      "duration": 2.97,
+      "text": "But there is a way to correctly get three.",
+      "en": "But there is a way to correctly get three.",
+      "zh": ""
+    },
+    {
+      "start": 355.14,
+      "duration": 1.89,
+      "text": "Let's count the rotations of circle A",
+      "en": "Let's count the rotations of circle A",
+      "zh": ""
+    },
+    {
+      "start": 357.03,
+      "duration": 3.48,
+      "text": "from the perspective of circle B looking out at A.",
+      "en": "from the perspective of circle B looking out at A.",
+      "zh": ""
+    },
+    {
+      "start": 360.51,
+      "duration": 3.03,
+      "text": "We can see circle A rotates one, two,",
+      "en": "We can see circle A rotates one, two,",
+      "zh": ""
+    },
+    {
+      "start": 371.31,
+      "duration": 1.47,
+      "text": "three times.",
+      "en": "three times.",
+      "zh": ""
+    },
+    {
+      "start": 374.55,
+      "duration": 2.4,
+      "text": "And it doesn't matter which circle you are looking from,",
+      "en": "And it doesn't matter which circle you are looking from,",
+      "zh": ""
+    },
+    {
+      "start": 376.95,
+      "duration": 2.7,
+      "text": "to circle A, it also rotates three times",
+      "en": "to circle A, it also rotates three times",
+      "zh": ""
+    },
+    {
+      "start": 379.65,
+      "duration": 2.7,
+      "text": "to come back to its starting position around circle B.",
+      "en": "to come back to its starting position around circle B.",
+      "zh": ""
+    },
+    {
+      "start": 384.03,
+      "duration": 2.28,
+      "text": "Similarly, from the perspective of the coins,",
+      "en": "Similarly, from the perspective of the coins,",
+      "zh": ""
+    },
+    {
+      "start": 386.31,
+      "duration": 2.82,
+      "text": "we can see that the outer coin only rotates once",
+      "en": "we can see that the outer coin only rotates once",
+      "zh": ""
+    },
+    {
+      "start": 389.13,
+      "duration": 1.86,
+      "text": "as it rolls around the inner coin.",
+      "en": "as it rolls around the inner coin.",
+      "zh": ""
+    },
+    {
+      "start": 393.15,
+      "duration": 1.74,
+      "text": "Using the perspective of a circle",
+      "en": "Using the perspective of a circle",
+      "zh": ""
+    },
+    {
+      "start": 394.89,
+      "duration": 1.95,
+      "text": "is just like turning the circle's circumference",
+      "en": "is just like turning the circle's circumference",
+      "zh": ""
+    },
+    {
+      "start": 396.84,
+      "duration": 1.11,
+      "text": "into a straight line.",
+      "en": "into a straight line.",
+      "zh": ""
+    },
+    {
+      "start": 399.45,
+      "duration": 2.04,
+      "text": "It's only as external observers",
+      "en": "It's only as external observers",
+      "zh": ""
+    },
+    {
+      "start": 401.49,
+      "duration": 2.19,
+      "text": "that we actually see the outer circle travel",
+      "en": "that we actually see the outer circle travel",
+      "zh": ""
+    },
+    {
+      "start": 403.68,
+      "duration": 2.25,
+      "text": "a circular path back to its starting point,",
+      "en": "a circular path back to its starting point,",
+      "zh": ""
+    },
+    {
+      "start": 405.93,
+      "duration": 2.13,
+      "text": "giving us the one extra rotation.",
+      "en": "giving us the one extra rotation.",
+      "zh": ""
+    },
+    {
+      "start": 410.28,
+      "duration": 2.25,
+      "text": "But there's even another answer.",
+      "en": "But there's even another answer.",
+      "zh": ""
+    },
+    {
+      "start": 416.46,
+      "duration": 2.28,
+      "text": "If you look closely at question 17,",
+      "en": "If you look closely at question 17,",
+      "zh": ""
+    },
+    {
+      "start": 418.74,
+      "duration": 3.15,
+      "text": "it asks how many revolutions circle A makes",
+      "en": "it asks how many revolutions circle A makes",
+      "zh": ""
+    },
+    {
+      "start": 421.89,
+      "duration": 3.12,
+      "text": "as it rolls around circle B back to its starting point.",
+      "en": "as it rolls around circle B back to its starting point.",
+      "zh": ""
+    },
+    {
+      "start": 425.01,
+      "duration": 1.02,
+      "text": "Now, in astronomy,",
+      "en": "Now, in astronomy,",
+      "zh": ""
+    },
+    {
+      "start": 426.03,
+      "duration": 2.19,
+      "text": "the definition of a revolution is precise.",
+      "en": "the definition of a revolution is precise.",
+      "zh": ""
+    },
+    {
+      "start": 428.22,
+      "duration": 2.67,
+      "text": "It's a complete orbit around another body.",
+      "en": "It's a complete orbit around another body.",
+      "zh": ""
+    },
+    {
+      "start": 432.12,
+      "duration": 1.56,
+      "text": "The earth revolves around the sun,",
+      "en": "The earth revolves around the sun,",
+      "zh": ""
+    },
+    {
+      "start": 433.68,
+      "duration": 3.03,
+      "text": "which is different from it rotating about its axis.",
+      "en": "which is different from it rotating about its axis.",
+      "zh": ""
+    },
+    {
+      "start": 436.71,
+      "duration": 2.67,
+      "text": "So by the astronomical definition of a revolution,",
+      "en": "So by the astronomical definition of a revolution,",
+      "zh": ""
+    },
+    {
+      "start": 439.38,
+      "duration": 3.78,
+      "text": "circle A only revolves around circle B once.",
+      "en": "circle A only revolves around circle B once.",
+      "zh": ""
+    },
+    {
+      "start": 443.16,
+      "duration": 1.68,
+      "text": "It goes around one time.",
+      "en": "It goes around one time.",
+      "zh": ""
+    },
+    {
+      "start": 446.76,
+      "duration": 3.0,
+      "text": "Now, other definitions of a revolution do include the motion",
+      "en": "Now, other definitions of a revolution do include the motion",
+      "zh": ""
+    },
+    {
+      "start": 449.76,
+      "duration": 1.95,
+      "text": "of an object rotating about its own axis.",
+      "en": "of an object rotating about its own axis.",
+      "zh": ""
+    },
+    {
+      "start": 451.71,
+      "duration": 2.19,
+      "text": "So one isn't a definitive answer,",
+      "en": "So one isn't a definitive answer,",
+      "zh": ""
+    },
+    {
+      "start": 453.9,
+      "duration": 3.21,
+      "text": "but the wording of this question is extremely ambiguous",
+      "en": "but the wording of this question is extremely ambiguous",
+      "zh": ""
+    },
+    {
+      "start": 457.11,
+      "duration": 3.18,
+      "text": "if you can justify at least three different solutions.",
+      "en": "if you can justify at least three different solutions.",
+      "zh": ""
+    },
+    {
+      "start": 464.43,
+      "duration": 1.89,
+      "text": "After reviewing the letters from the students,",
+      "en": "After reviewing the letters from the students,",
+      "zh": ""
+    },
+    {
+      "start": 466.32,
+      "duration": 1.98,
+      "text": "the College Board publicly admitted their mistake",
+      "en": "the College Board publicly admitted their mistake",
+      "zh": ""
+    },
+    {
+      "start": 468.3,
+      "duration": 2.28,
+      "text": "a few weeks later and nullified the question",
+      "en": "a few weeks later and nullified the question",
+      "zh": ""
+    },
+    {
+      "start": 470.58,
+      "duration": 1.56,
+      "text": "for all test takers.",
+      "en": "for all test takers.",
+      "zh": ""
+    },
+    {
+      "start": 473.13,
+      "duration": 1.77,
+      "text": "- They said they were discounting the problem",
+      "en": "- They said they were discounting the problem",
+      "zh": ""
+    },
+    {
+      "start": 474.9,
+      "duration": 1.5,
+      "text": "and they were calling us",
+      "en": "and they were calling us",
+      "zh": ""
+    },
+    {
+      "start": 476.4,
+      "duration": 2.28,
+      "text": "because they were gonna tell the news",
+      "en": "because they were gonna tell the news",
+      "zh": ""
+    },
+    {
+      "start": 478.68,
+      "duration": 2.22,
+      "text": "and they thought that we should be warned",
+      "en": "and they thought that we should be warned",
+      "zh": ""
+    },
+    {
+      "start": 480.9,
+      "duration": 2.19,
+      "text": "that the news might contact us.",
+      "en": "that the news might contact us.",
+      "zh": ""
+    },
+    {
+      "start": 483.09,
+      "duration": 3.18,
+      "text": "I did a bunch of phone interviews and NBC News,",
+      "en": "I did a bunch of phone interviews and NBC News,",
+      "zh": ""
+    },
+    {
+      "start": 486.27,
+      "duration": 1.83,
+      "text": "they came to my school.",
+      "en": "they came to my school.",
+      "zh": ""
+    },
+    {
+      "start": 488.1,
+      "duration": 2.76,
+      "text": "They said I was right and they were discounting it.",
+      "en": "They said I was right and they were discounting it.",
+      "zh": ""
+    },
+    {
+      "start": 490.86,
+      "duration": 0.9,
+      "text": "So that was great.",
+      "en": "So that was great.",
+      "zh": ""
+    },
+    {
+      "start": 493.5,
+      "duration": 2.13,
+      "text": "- But there's more to the explanation.",
+      "en": "- But there's more to the explanation.",
+      "zh": ""
+    },
+    {
+      "start": 495.63,
+      "duration": 3.24,
+      "text": "- It's easy to get an intuitive reason,",
+      "en": "- It's easy to get an intuitive reason,",
+      "zh": ""
+    },
+    {
+      "start": 498.87,
+      "duration": 3.06,
+      "text": "but it's really hard to formally prove",
+      "en": "but it's really hard to formally prove",
+      "zh": ""
+    },
+    {
+      "start": 501.93,
+      "duration": 1.56,
+      "text": "that the answer is four.",
+      "en": "that the answer is four.",
+      "zh": ""
+    },
+    {
+      "start": 503.49,
+      "duration": 2.1,
+      "text": "I could give you some proofs if you want.",
+      "en": "I could give you some proofs if you want.",
+      "zh": ""
+    },
+    {
+      "start": 505.59,
+      "duration": 0.93,
+      "text": "- Well, that would be wonderful.",
+      "en": "- Well, that would be wonderful.",
+      "zh": ""
+    },
+    {
+      "start": 506.52,
+      "duration": 3.33,
+      "text": "I think that would be, we'd appreciate that for sure.",
+      "en": "I think that would be, we'd appreciate that for sure.",
+      "zh": ""
+    },
+    {
+      "start": 509.85,
+      "duration": 2.13,
+      "text": "- I have a whiteboard because I'm a mathematician,",
+      "en": "- I have a whiteboard because I'm a mathematician,",
+      "zh": ""
+    },
+    {
+      "start": 511.98,
+      "duration": 2.04,
+      "text": "so I just happen to have a whiteboard here.",
+      "en": "so I just happen to have a whiteboard here.",
+      "zh": ""
+    },
+    {
+      "start": 514.02,
+      "duration": 0.83,
+      "text": "Hold on.",
+      "en": "Hold on.",
+      "zh": ""
+    },
+    {
+      "start": 516.66,
+      "duration": 2.37,
+      "text": "Can you see that? - Yep.",
+      "en": "Can you see that? - Yep.",
+      "zh": ""
+    },
+    {
+      "start": 519.03,
+      "duration": 3.42,
+      "text": "- It turns out that the amount the small circle rotates",
+      "en": "- It turns out that the amount the small circle rotates",
+      "zh": ""
+    },
+    {
+      "start": 522.45,
+      "duration": 4.08,
+      "text": "is always the same as the distance the center travels.",
+      "en": "is always the same as the distance the center travels.",
+      "zh": ""
+    },
+    {
+      "start": 526.53,
+      "duration": 1.55,
+      "text": "All right, so why is this true?",
+      "en": "All right, so why is this true?",
+      "zh": ""
+    },
+    {
+      "start": 529.14,
+      "duration": 1.65,
+      "text": "Suppose you had a camera",
+      "en": "Suppose you had a camera",
+      "zh": ""
+    },
+    {
+      "start": 530.79,
+      "duration": 2.37,
+      "text": "and the camera was always pointed at the center.",
+      "en": "and the camera was always pointed at the center.",
+      "zh": ""
+    },
+    {
+      "start": 533.16,
+      "duration": 3.63,
+      "text": "So in your movie, it looks like the center doesn't move.",
+      "en": "So in your movie, it looks like the center doesn't move.",
+      "zh": ""
+    },
+    {
+      "start": 536.79,
+      "duration": 0.83,
+      "text": "In the real world,",
+      "en": "In the real world,",
+      "zh": ""
+    },
+    {
+      "start": 537.62,
+      "duration": 2.2,
+      "text": "the center is going around the circle.",
+      "en": "the center is going around the circle.",
+      "zh": ""
+    },
+    {
+      "start": 539.82,
+      "duration": 2.28,
+      "text": "Let's say it's going at some speed V.",
+      "en": "Let's say it's going at some speed V.",
+      "zh": ""
+    },
+    {
+      "start": 542.1,
+      "duration": 2.25,
+      "text": "What's the velocity of this point?",
+      "en": "What's the velocity of this point?",
+      "zh": ""
+    },
+    {
+      "start": 544.35,
+      "duration": 4.56,
+      "text": "It's zero, and that's because it's rolling without slipping.",
+      "en": "It's zero, and that's because it's rolling without slipping.",
+      "zh": ""
+    },
+    {
+      "start": 548.91,
+      "duration": 2.82,
+      "text": "If it had any component in that direction,",
+      "en": "If it had any component in that direction,",
+      "zh": ""
+    },
+    {
+      "start": 551.73,
+      "duration": 1.44,
+      "text": "that's what slipping would be.",
+      "en": "that's what slipping would be.",
+      "zh": ""
+    },
+    {
+      "start": 553.17,
+      "duration": 1.11,
+      "text": "I mean, this is something I think they",
+      "en": "I mean, this is something I think they",
+      "zh": ""
+    },
+    {
+      "start": 554.28,
+      "duration": 1.44,
+      "text": "should have spelled out in the problem,",
+      "en": "should have spelled out in the problem,",
+      "zh": ""
+    },
+    {
+      "start": 555.72,
+      "duration": 2.64,
+      "text": "but when you change your frame of reference,",
+      "en": "but when you change your frame of reference,",
+      "zh": ""
+    },
+    {
+      "start": 558.36,
+      "duration": 2.67,
+      "text": "the relative velocities don't change.",
+      "en": "the relative velocities don't change.",
+      "zh": ""
+    },
+    {
+      "start": 561.03,
+      "duration": 3.36,
+      "text": "In the movee, the center always has velocity zero.",
+      "en": "In the movee, the center always has velocity zero.",
+      "zh": ""
+    },
+    {
+      "start": 564.39,
+      "duration": 3.87,
+      "text": "So this point would have to have velocity negative V.",
+      "en": "So this point would have to have velocity negative V.",
+      "zh": ""
+    },
+    {
+      "start": 568.26,
+      "duration": 3.48,
+      "text": "So that means the speed that this is turning",
+      "en": "So that means the speed that this is turning",
+      "zh": ""
+    },
+    {
+      "start": 571.74,
+      "duration": 2.55,
+      "text": "is the same as the speed the center is moving.",
+      "en": "is the same as the speed the center is moving.",
+      "zh": ""
+    },
+    {
+      "start": 574.29,
+      "duration": 1.62,
+      "text": "So if they always have the same speed,",
+      "en": "So if they always have the same speed,",
+      "zh": ""
+    },
+    {
+      "start": 575.91,
+      "duration": 2.0,
+      "text": "they have to go the same total distance.",
+      "en": "they have to go the same total distance.",
+      "zh": ""
+    },
+    {
+      "start": 578.82,
+      "duration": 2.55,
+      "text": "The total distance this turns has to be the same",
+      "en": "The total distance this turns has to be the same",
+      "zh": ""
+    },
+    {
+      "start": 581.37,
+      "duration": 1.95,
+      "text": "as the total distance the center moves.",
+      "en": "as the total distance the center moves.",
+      "zh": ""
+    },
+    {
+      "start": 584.76,
+      "duration": 0.83,
+      "text": "In this problem,",
+      "en": "In this problem,",
+      "zh": ""
+    },
+    {
+      "start": 585.59,
+      "duration": 3.07,
+      "text": "the center of the small circle goes around a circle",
+      "en": "the center of the small circle goes around a circle",
+      "zh": ""
+    },
+    {
+      "start": 588.66,
+      "duration": 1.89,
+      "text": "of radius four.",
+      "en": "of radius four.",
+      "zh": ""
+    },
+    {
+      "start": 590.55,
+      "duration": 3.42,
+      "text": "So the total distance that the center moves is eight pi.",
+      "en": "So the total distance that the center moves is eight pi.",
+      "zh": ""
+    },
+    {
+      "start": 595.2,
+      "duration": 3.06,
+      "text": "What's the total amount that the small circle rotates?",
+      "en": "What's the total amount that the small circle rotates?",
+      "zh": ""
+    },
+    {
+      "start": 598.26,
+      "duration": 3.75,
+      "text": "It rotates four times, and its circumference is two pi.",
+      "en": "It rotates four times, and its circumference is two pi.",
+      "zh": ""
+    },
+    {
+      "start": 602.01,
+      "duration": 1.17,
+      "text": "It's the same number.",
+      "en": "It's the same number.",
+      "zh": ""
+    },
+    {
+      "start": 603.18,
+      "duration": 1.68,
+      "text": "If it rolls without slipping,",
+      "en": "If it rolls without slipping,",
+      "zh": ""
+    },
+    {
+      "start": 604.86,
+      "duration": 3.63,
+      "text": "the total distance the center travels is the same",
+      "en": "the total distance the center travels is the same",
+      "zh": ""
+    },
+    {
+      "start": 608.49,
+      "duration": 1.56,
+      "text": "as the total amount it turns.",
+      "en": "as the total amount it turns.",
+      "zh": ""
+    },
+    {
+      "start": 611.49,
+      "duration": 2.52,
+      "text": "- And this is always true.",
+      "en": "- And this is always true.",
+      "zh": ""
+    },
+    {
+      "start": 614.01,
+      "duration": 2.82,
+      "text": "Take a circle rolling without slipping on any surface",
+      "en": "Take a circle rolling without slipping on any surface",
+      "zh": ""
+    },
+    {
+      "start": 616.83,
+      "duration": 5.0,
+      "text": "from a polygon to a blob, on the outside or the inside,",
+      "en": "from a polygon to a blob, on the outside or the inside,",
+      "zh": ""
+    },
+    {
+      "start": 622.26,
+      "duration": 2.1,
+      "text": "the distance traveled by the center of the circle",
+      "en": "the distance traveled by the center of the circle",
+      "zh": ""
+    },
+    {
+      "start": 624.36,
+      "duration": 2.79,
+      "text": "is equal to the amount the circle has rotated.",
+      "en": "is equal to the amount the circle has rotated.",
+      "zh": ""
+    },
+    {
+      "start": 627.15,
+      "duration": 1.86,
+      "text": "So, just find this distance",
+      "en": "So, just find this distance",
+      "zh": ""
+    },
+    {
+      "start": 629.01,
+      "duration": 1.62,
+      "text": "and divide it by the circle circumference",
+      "en": "and divide it by the circle circumference",
+      "zh": ""
+    },
+    {
+      "start": 630.63,
+      "duration": 2.52,
+      "text": "to get how many rotations it's made.",
+      "en": "to get how many rotations it's made.",
+      "zh": ""
+    },
+    {
+      "start": 633.15,
+      "duration": 2.55,
+      "text": "This is an even more general solution than our answer",
+      "en": "This is an even more general solution than our answer",
+      "zh": ""
+    },
+    {
+      "start": 635.7,
+      "duration": 3.21,
+      "text": "to the coin paradox where we just took our expected answer,",
+      "en": "to the coin paradox where we just took our expected answer,",
+      "zh": ""
+    },
+    {
+      "start": 638.91,
+      "duration": 2.58,
+      "text": "which we'll call N, and added one,",
+      "en": "which we'll call N, and added one,",
+      "zh": ""
+    },
+    {
+      "start": 641.49,
+      "duration": 2.37,
+      "text": "and it reveals where this shortcut comes from.",
+      "en": "and it reveals where this shortcut comes from.",
+      "zh": ""
+    },
+    {
+      "start": 644.97,
+      "duration": 2.76,
+      "text": "If a circle is rolling continuously around a shape,",
+      "en": "If a circle is rolling continuously around a shape,",
+      "zh": ""
+    },
+    {
+      "start": 647.73,
+      "duration": 2.55,
+      "text": "the circle center goes around the outside,",
+      "en": "the circle center goes around the outside,",
+      "zh": ""
+    },
+    {
+      "start": 650.28,
+      "duration": 1.44,
+      "text": "increasing its distance traveled",
+      "en": "increasing its distance traveled",
+      "zh": ""
+    },
+    {
+      "start": 651.72,
+      "duration": 2.85,
+      "text": "by exactly one circumference of the circle",
+      "en": "by exactly one circumference of the circle",
+      "zh": ""
+    },
+    {
+      "start": 654.57,
+      "duration": 2.07,
+      "text": "so the distance traveled by the circle center",
+      "en": "so the distance traveled by the circle center",
+      "zh": ""
+    },
+    {
+      "start": 656.64,
+      "duration": 1.86,
+      "text": "is just the perimeter of the shape",
+      "en": "is just the perimeter of the shape",
+      "zh": ""
+    },
+    {
+      "start": 658.5,
+      "duration": 2.25,
+      "text": "plus the circle's circumference.",
+      "en": "plus the circle's circumference.",
+      "zh": ""
+    },
+    {
+      "start": 660.75,
+      "duration": 2.13,
+      "text": "When we ultimately divide this by the circle circumference",
+      "en": "When we ultimately divide this by the circle circumference",
+      "zh": ""
+    },
+    {
+      "start": 662.88,
+      "duration": 4.32,
+      "text": "to get the total number of rotations, we get N plus one.",
+      "en": "to get the total number of rotations, we get N plus one.",
+      "zh": ""
+    },
+    {
+      "start": 667.2,
+      "duration": 2.97,
+      "text": "If a circle is rolling continuously within a shape,",
+      "en": "If a circle is rolling continuously within a shape,",
+      "zh": ""
+    },
+    {
+      "start": 670.17,
+      "duration": 2.37,
+      "text": "the distance travel by the circle center decreases",
+      "en": "the distance travel by the circle center decreases",
+      "zh": ""
+    },
+    {
+      "start": 672.54,
+      "duration": 1.74,
+      "text": "by one circumference of the circle,",
+      "en": "by one circumference of the circle,",
+      "zh": ""
+    },
+    {
+      "start": 674.28,
+      "duration": 2.91,
+      "text": "making the total number of rotations N minus one.",
+      "en": "making the total number of rotations N minus one.",
+      "zh": ""
+    },
+    {
+      "start": 678.06,
+      "duration": 2.64,
+      "text": "If the circle is rolling along a flat line,",
+      "en": "If the circle is rolling along a flat line,",
+      "zh": ""
+    },
+    {
+      "start": 680.7,
+      "duration": 1.83,
+      "text": "the distance travel by the circle center",
+      "en": "the distance travel by the circle center",
+      "zh": ""
+    },
+    {
+      "start": 682.53,
+      "duration": 2.46,
+      "text": "is equal to the length of the line which,",
+      "en": "is equal to the length of the line which,",
+      "zh": ""
+    },
+    {
+      "start": 684.99,
+      "duration": 2.46,
+      "text": "divided by the circle circumference, is just N.",
+      "en": "divided by the circle circumference, is just N.",
+      "zh": ""
+    },
+    {
+      "start": 689.01,
+      "duration": 2.4,
+      "text": "This general principle extends far beyond",
+      "en": "This general principle extends far beyond",
+      "zh": ""
+    },
+    {
+      "start": 691.41,
+      "duration": 1.56,
+      "text": "a mathematical fun fact.",
+      "en": "a mathematical fun fact.",
+      "zh": ""
+    },
+    {
+      "start": 692.97,
+      "duration": 1.86,
+      "text": "In fact, it's essential in astronomy",
+      "en": "In fact, it's essential in astronomy",
+      "zh": ""
+    },
+    {
+      "start": 694.83,
+      "duration": 2.52,
+      "text": "for accurate timekeeping.",
+      "en": "for accurate timekeeping.",
+      "zh": ""
+    },
+    {
+      "start": 697.35,
+      "duration": 3.48,
+      "text": "When we count 365 days going by in a year,",
+      "en": "When we count 365 days going by in a year,",
+      "zh": ""
+    },
+    {
+      "start": 700.83,
+      "duration": 2.82,
+      "text": "365.24, to be precise,",
+      "en": "365.24, to be precise,",
+      "zh": ""
+    },
+    {
+      "start": 703.65,
+      "duration": 2.4,
+      "text": "we say we're just counting how many rotations",
+      "en": "we say we're just counting how many rotations",
+      "zh": ""
+    },
+    {
+      "start": 706.05,
+      "duration": 2.94,
+      "text": "the earth makes in one orbit around the sun.",
+      "en": "the earth makes in one orbit around the sun.",
+      "zh": ""
+    },
+    {
+      "start": 708.99,
+      "duration": 1.8,
+      "text": "But it's not that simple.",
+      "en": "But it's not that simple.",
+      "zh": ""
+    },
+    {
+      "start": 710.79,
+      "duration": 2.01,
+      "text": "All this counting is done from the perspective",
+      "en": "All this counting is done from the perspective",
+      "zh": ""
+    },
+    {
+      "start": 712.8,
+      "duration": 1.44,
+      "text": "of you on earth.",
+      "en": "of you on earth.",
+      "zh": ""
+    },
+    {
+      "start": 714.24,
+      "duration": 1.44,
+      "text": "To an external observer,",
+      "en": "To an external observer,",
+      "zh": ""
+    },
+    {
+      "start": 715.68,
+      "duration": 2.76,
+      "text": "they'll see the earth do one extra rotation",
+      "en": "they'll see the earth do one extra rotation",
+      "zh": ""
+    },
+    {
+      "start": 718.44,
+      "duration": 3.12,
+      "text": "to account for its circular path around the sun.",
+      "en": "to account for its circular path around the sun.",
+      "zh": ""
+    },
+    {
+      "start": 721.56,
+      "duration": 4.17,
+      "text": "So while we count 365.24 days in a year,",
+      "en": "So while we count 365.24 days in a year,",
+      "zh": ""
+    },
+    {
+      "start": 725.73,
+      "duration": 4.89,
+      "text": "they count 366.24 days in a year.",
+      "en": "they count 366.24 days in a year.",
+      "zh": ""
+    },
+    {
+      "start": 730.62,
+      "duration": 2.31,
+      "text": "This is called a Sidereal year,",
+      "en": "This is called a Sidereal year,",
+      "zh": ""
+    },
+    {
+      "start": 732.93,
+      "duration": 2.85,
+      "text": "Sidereal meaning with respect to the stars",
+      "en": "Sidereal meaning with respect to the stars",
+      "zh": ""
+    },
+    {
+      "start": 735.78,
+      "duration": 2.55,
+      "text": "where an external observer would be.",
+      "en": "where an external observer would be.",
+      "zh": ""
+    },
+    {
+      "start": 738.33,
+      "duration": 3.03,
+      "text": "But what happens to that one extra day?",
+      "en": "But what happens to that one extra day?",
+      "zh": ""
+    },
+    {
+      "start": 742.2,
+      "duration": 2.49,
+      "text": "A normal solar day is the time it takes the sun",
+      "en": "A normal solar day is the time it takes the sun",
+      "zh": ""
+    },
+    {
+      "start": 744.69,
+      "duration": 3.03,
+      "text": "to be directly above you again on earth.",
+      "en": "to be directly above you again on earth.",
+      "zh": ""
+    },
+    {
+      "start": 747.72,
+      "duration": 1.89,
+      "text": "But the earth isn't just rotating,",
+      "en": "But the earth isn't just rotating,",
+      "zh": ""
+    },
+    {
+      "start": 749.61,
+      "duration": 2.19,
+      "text": "it's orbiting the sun at the same time.",
+      "en": "it's orbiting the sun at the same time.",
+      "zh": ""
+    },
+    {
+      "start": 751.8,
+      "duration": 2.28,
+      "text": "So in a 24-hour solar day,",
+      "en": "So in a 24-hour solar day,",
+      "zh": ""
+    },
+    {
+      "start": 754.08,
+      "duration": 3.63,
+      "text": "earth actually has to rotate more than 360 degrees",
+      "en": "earth actually has to rotate more than 360 degrees",
+      "zh": ""
+    },
+    {
+      "start": 757.71,
+      "duration": 2.82,
+      "text": "in order to bring the sun directly overhead again.",
+      "en": "in order to bring the sun directly overhead again.",
+      "zh": ""
+    },
+    {
+      "start": 760.53,
+      "duration": 3.54,
+      "text": "But Earth's orbit is negligible to distant stars.",
+      "en": "But Earth's orbit is negligible to distant stars.",
+      "zh": ""
+    },
+    {
+      "start": 764.07,
+      "duration": 2.4,
+      "text": "To see a star directly overhead again,",
+      "en": "To see a star directly overhead again,",
+      "zh": ""
+    },
+    {
+      "start": 766.47,
+      "duration": 3.75,
+      "text": "Earth just needs to rotate exactly 360 degrees.",
+      "en": "Earth just needs to rotate exactly 360 degrees.",
+      "zh": ""
+    },
+    {
+      "start": 773.49,
+      "duration": 2.49,
+      "text": "So while it takes the sun exactly 24 hours",
+      "en": "So while it takes the sun exactly 24 hours",
+      "zh": ""
+    },
+    {
+      "start": 775.98,
+      "duration": 1.98,
+      "text": "to be directly above you again,",
+      "en": "to be directly above you again,",
+      "zh": ""
+    },
+    {
+      "start": 780.21,
+      "duration": 3.66,
+      "text": "a star at night takes only 23 hours, 56 minutes,",
+      "en": "a star at night takes only 23 hours, 56 minutes,",
+      "zh": ""
+    },
+    {
+      "start": 783.87,
+      "duration": 2.31,
+      "text": "and four seconds to be above you again.",
+      "en": "and four seconds to be above you again.",
+      "zh": ""
+    },
+    {
+      "start": 786.18,
+      "duration": 1.74,
+      "text": "That's a Sidereal day.",
+      "en": "That's a Sidereal day.",
+      "zh": ""
+    },
+    {
+      "start": 789.48,
+      "duration": 3.54,
+      "text": "This explains where the extra day goes in the Sidereal year.",
+      "en": "This explains where the extra day goes in the Sidereal year.",
+      "zh": ""
+    },
+    {
+      "start": 794.37,
+      "duration": 1.44,
+      "text": "If we start a solar day",
+      "en": "If we start a solar day",
+      "zh": ""
+    },
+    {
+      "start": 795.81,
+      "duration": 2.79,
+      "text": "and a Sidereal day at the same time,",
+      "en": "and a Sidereal day at the same time,",
+      "zh": ""
+    },
+    {
+      "start": 798.6,
+      "duration": 2.82,
+      "text": "we'd see them slowly diverge throughout the year.",
+      "en": "we'd see them slowly diverge throughout the year.",
+      "zh": ""
+    },
+    {
+      "start": 801.42,
+      "duration": 1.26,
+      "text": "After six months,",
+      "en": "After six months,",
+      "zh": ""
+    },
+    {
+      "start": 802.68,
+      "duration": 4.05,
+      "text": "the Sidereal day would be 12 hours ahead of the solar day,",
+      "en": "the Sidereal day would be 12 hours ahead of the solar day,",
+      "zh": ""
+    },
+    {
+      "start": 806.73,
+      "duration": 2.46,
+      "text": "meaning that noon would be midnight,",
+      "en": "meaning that noon would be midnight,",
+      "zh": ""
+    },
+    {
+      "start": 809.19,
+      "duration": 1.47,
+      "text": "and it would keep moving up",
+      "en": "and it would keep moving up",
+      "zh": ""
+    },
+    {
+      "start": 810.66,
+      "duration": 4.2,
+      "text": "until it's finally one full day ahead of the solar day,",
+      "en": "until it's finally one full day ahead of the solar day,",
+      "zh": ""
+    },
+    {
+      "start": 814.86,
+      "duration": 3.3,
+      "text": "at which point a new year and orbit begins.",
+      "en": "at which point a new year and orbit begins.",
+      "zh": ""
+    },
+    {
+      "start": 819.18,
+      "duration": 4.05,
+      "text": "365.24 days that are each 24 hours long",
+      "en": "365.24 days that are each 24 hours long",
+      "zh": ""
+    },
+    {
+      "start": 823.23,
+      "duration": 5.0,
+      "text": "are equal to 366.24 days that are each 23 hours,",
+      "en": "are equal to 366.24 days that are each 23 hours,",
+      "zh": ""
+    },
+    {
+      "start": 828.54,
+      "duration": 2.37,
+      "text": "56 minutes, and four seconds long.",
+      "en": "56 minutes, and four seconds long.",
+      "zh": ""
+    },
+    {
+      "start": 834.33,
+      "duration": 3.0,
+      "text": "So it makes no sense to use Sidereal time on earth,",
+      "en": "So it makes no sense to use Sidereal time on earth,",
+      "zh": ""
+    },
+    {
+      "start": 837.33,
+      "duration": 1.59,
+      "text": "because six months down the line,",
+      "en": "because six months down the line,",
+      "zh": ""
+    },
+    {
+      "start": 838.92,
+      "duration": 3.06,
+      "text": "day and night would be completely swapped.",
+      "en": "day and night would be completely swapped.",
+      "zh": ""
+    },
+    {
+      "start": 841.98,
+      "duration": 2.7,
+      "text": "But equally, it's useless to use solar time",
+      "en": "But equally, it's useless to use solar time",
+      "zh": ""
+    },
+    {
+      "start": 844.68,
+      "duration": 1.89,
+      "text": "while tracking objects in space,",
+      "en": "while tracking objects in space,",
+      "zh": ""
+    },
+    {
+      "start": 846.57,
+      "duration": 3.36,
+      "text": "because the region you're observing would shift between say,",
+      "en": "because the region you're observing would shift between say,",
+      "zh": ""
+    },
+    {
+      "start": 849.93,
+      "duration": 2.76,
+      "text": "10:00 PM one night and 10:00 PM the next night.",
+      "en": "10:00 PM one night and 10:00 PM the next night.",
+      "zh": ""
+    },
+    {
+      "start": 852.69,
+      "duration": 2.52,
+      "text": "So instead, astronomers use Sidereal time",
+      "en": "So instead, astronomers use Sidereal time",
+      "zh": ""
+    },
+    {
+      "start": 855.21,
+      "duration": 2.31,
+      "text": "for their telescopes to ensure that they're looking",
+      "en": "for their telescopes to ensure that they're looking",
+      "zh": ""
+    },
+    {
+      "start": 857.52,
+      "duration": 2.7,
+      "text": "at the same region of space each night.",
+      "en": "at the same region of space each night.",
+      "zh": ""
+    },
+    {
+      "start": 860.22,
+      "duration": 1.83,
+      "text": "And all geostationary satellites,",
+      "en": "And all geostationary satellites,",
+      "zh": ""
+    },
+    {
+      "start": 862.05,
+      "duration": 2.67,
+      "text": "like those used for communication or navigation,",
+      "en": "like those used for communication or navigation,",
+      "zh": ""
+    },
+    {
+      "start": 864.72,
+      "duration": 1.71,
+      "text": "they use Sidereal time",
+      "en": "they use Sidereal time",
+      "zh": ""
+    },
+    {
+      "start": 866.43,
+      "duration": 3.12,
+      "text": "to keep their orbits locked with the Earth's rotation.",
+      "en": "to keep their orbits locked with the Earth's rotation.",
+      "zh": ""
+    },
+    {
+      "start": 871.08,
+      "duration": 2.82,
+      "text": "So the coin paradox actually explains the difference",
+      "en": "So the coin paradox actually explains the difference",
+      "zh": ""
+    },
+    {
+      "start": 873.9,
+      "duration": 2.31,
+      "text": "between how we track time on earth",
+      "en": "between how we track time on earth",
+      "zh": ""
+    },
+    {
+      "start": 876.21,
+      "duration": 2.76,
+      "text": "and how we track time in the universe.",
+      "en": "and how we track time in the universe.",
+      "zh": ""
+    },
+    {
+      "start": 883.53,
+      "duration": 4.44,
+      "text": "The rescoring of the 1982 SAT wasn't all good news.",
+      "en": "The rescoring of the 1982 SAT wasn't all good news.",
+      "zh": ""
+    },
+    {
+      "start": 887.97,
+      "duration": 1.65,
+      "text": "With question 17 scrapped,",
+      "en": "With question 17 scrapped,",
+      "zh": ""
+    },
+    {
+      "start": 889.62,
+      "duration": 1.92,
+      "text": "students' scores were scaled without it,",
+      "en": "students' scores were scaled without it,",
+      "zh": ""
+    },
+    {
+      "start": 891.54,
+      "duration": 2.22,
+      "text": "moving their final result up or down",
+      "en": "moving their final result up or down",
+      "zh": ""
+    },
+    {
+      "start": 893.76,
+      "duration": 2.16,
+      "text": "by 10 points out of 800.",
+      "en": "by 10 points out of 800.",
+      "zh": ""
+    },
+    {
+      "start": 895.92,
+      "duration": 1.71,
+      "text": "Now, while that doesn't seem like much,",
+      "en": "Now, while that doesn't seem like much,",
+      "zh": ""
+    },
+    {
+      "start": 897.63,
+      "duration": 1.44,
+      "text": "some universities and scholarships",
+      "en": "some universities and scholarships",
+      "zh": ""
+    },
+    {
+      "start": 899.07,
+      "duration": 2.79,
+      "text": "use strict minimum test score cutoffs.",
+      "en": "use strict minimum test score cutoffs.",
+      "zh": ""
+    },
+    {
+      "start": 901.86,
+      "duration": 3.36,
+      "text": "And as one admissions expert put it, \"There are instances,",
+      "en": "And as one admissions expert put it, \"There are instances,",
+      "zh": ""
+    },
+    {
+      "start": 905.22,
+      "duration": 1.83,
+      "text": "even if we do not consider them justified,",
+      "en": "even if we do not consider them justified,",
+      "zh": ""
+    },
+    {
+      "start": 907.05,
+      "duration": 1.83,
+      "text": "in which 10 points can have an impact",
+      "en": "in which 10 points can have an impact",
+      "zh": ""
+    },
+    {
+      "start": 908.88,
+      "duration": 2.52,
+      "text": "on a person's educational opportunities.",
+      "en": "on a person's educational opportunities.",
+      "zh": ""
+    },
+    {
+      "start": 911.4,
+      "duration": 2.28,
+      "text": "It might not keep someone out of law school,",
+      "en": "It might not keep someone out of law school,",
+      "zh": ""
+    },
+    {
+      "start": 913.68,
+      "duration": 2.61,
+      "text": "but it might affect which one he could go to.\"",
+      "en": "but it might affect which one he could go to.\"",
+      "zh": ""
+    },
+    {
+      "start": 917.67,
+      "duration": 2.67,
+      "text": "This mistake didn't only cost points off the exam.",
+      "en": "This mistake didn't only cost points off the exam.",
+      "zh": ""
+    },
+    {
+      "start": 920.34,
+      "duration": 1.18,
+      "text": "According to the testing service,",
+      "en": "According to the testing service,",
+      "zh": ""
+    },
+    {
+      "start": 921.52,
+      "duration": 3.35,
+      "text": "\"Rescoring would cost them over $100,000,",
+      "en": "\"Rescoring would cost them over $100,000,",
+      "zh": ""
+    },
+    {
+      "start": 924.87,
+      "duration": 2.73,
+      "text": "money that came outta the pockets of test takers.",
+      "en": "money that came outta the pockets of test takers.",
+      "zh": ""
+    },
+    {
+      "start": 929.16,
+      "duration": 3.42,
+      "text": "The question 17 circle problem was far from the last error",
+      "en": "The question 17 circle problem was far from the last error",
+      "zh": ""
+    },
+    {
+      "start": 932.58,
+      "duration": 0.83,
+      "text": "on the SAT.",
+      "en": "on the SAT.",
+      "zh": ""
+    },
+    {
+      "start": 935.46,
+      "duration": 1.62,
+      "text": "But errors are likely",
+      "en": "But errors are likely",
+      "zh": ""
+    },
+    {
+      "start": 937.08,
+      "duration": 1.68,
+      "text": "the least of their concerns these days.",
+      "en": "the least of their concerns these days.",
+      "zh": ""
+    },
+    {
+      "start": 938.76,
+      "duration": 3.03,
+      "text": "I mean, the SAT is slowly becoming a thing of the past.",
+      "en": "I mean, the SAT is slowly becoming a thing of the past.",
+      "zh": ""
+    },
+    {
+      "start": 941.79,
+      "duration": 3.27,
+      "text": "After COVID-19, nearly 80% of undergraduate colleges",
+      "en": "After COVID-19, nearly 80% of undergraduate colleges",
+      "zh": ""
+    },
+    {
+      "start": 945.06,
+      "duration": 4.14,
+      "text": "in the US no longer require any standardized testing.",
+      "en": "in the US no longer require any standardized testing.",
+      "zh": ""
+    },
+    {
+      "start": 949.2,
+      "duration": 2.28,
+      "text": "And that 1982 exam, well,",
+      "en": "And that 1982 exam, well,",
+      "zh": ""
+    },
+    {
+      "start": 951.48,
+      "duration": 2.91,
+      "text": "it didn't turn out too badly for some.",
+      "en": "it didn't turn out too badly for some.",
+      "zh": ""
+    },
+    {
+      "start": 954.39,
+      "duration": 3.45,
+      "text": "How did you do on your math SAT, if I can ask?",
+      "en": "How did you do on your math SAT, if I can ask?",
+      "zh": ""
+    },
+    {
+      "start": 957.84,
+      "duration": 1.59,
+      "text": "- I got an 800.",
+      "en": "- I got an 800.",
+      "zh": ""
+    },
+    {
+      "start": 959.43,
+      "duration": 3.72,
+      "text": "Even before that, it was clear I was gonna go into math.",
+      "en": "Even before that, it was clear I was gonna go into math.",
+      "zh": ""
+    },
+    {
+      "start": 963.15,
+      "duration": 3.69,
+      "text": "I did math competitions. I really liked math.",
+      "en": "I did math competitions. I really liked math.",
+      "zh": ""
+    },
+    {
+      "start": 966.84,
+      "duration": 2.79,
+      "text": "- Do you end up writing any math questions these days?",
+      "en": "- Do you end up writing any math questions these days?",
+      "zh": ""
+    },
+    {
+      "start": 969.63,
+      "duration": 2.76,
+      "text": "- A while back I wrote problems for a math competition.",
+      "en": "- A while back I wrote problems for a math competition.",
+      "zh": ""
+    },
+    {
+      "start": 972.39,
+      "duration": 2.61,
+      "text": "- And were you careful with how you wrote them, the wording?",
+      "en": "- And were you careful with how you wrote them, the wording?",
+      "zh": ""
+    },
+    {
+      "start": 975.0,
+      "duration": 3.55,
+      "text": "- I hope so. I tried",
+      "en": "- I hope so. I tried",
+      "zh": ""
+    },
+    {
+      "start": 982.92,
+      "duration": 3.03,
+      "text": "- Today's deep dive on one SAT question proves",
+      "en": "- Today's deep dive on one SAT question proves",
+      "zh": ""
+    },
+    {
+      "start": 985.95,
+      "duration": 3.15,
+      "text": "there's no substitute for hands-on exploration to understand",
+      "en": "there's no substitute for hands-on exploration to understand",
+      "zh": ""
+    },
+    {
+      "start": 989.1,
+      "duration": 2.88,
+      "text": "and appreciate the everyday phenomena of our world.",
+      "en": "and appreciate the everyday phenomena of our world.",
+      "zh": ""
+    },
+    {
+      "start": 991.98,
+      "duration": 2.67,
+      "text": "But you don't have to observe earth from space,",
+      "en": "But you don't have to observe earth from space,",
+      "zh": ""
+    },
+    {
+      "start": 994.65,
+      "duration": 2.82,
+      "text": "or make cardboard cutouts to get hands-on with math,",
+      "en": "or make cardboard cutouts to get hands-on with math,",
+      "zh": ""
+    },
+    {
+      "start": 997.47,
+      "duration": 1.5,
+      "text": "science, and cutting edge tech.",
+      "en": "science, and cutting edge tech.",
+      "zh": ""
+    },
+    {
+      "start": 998.97,
+      "duration": 2.43,
+      "text": "In fact, you can do it from anywhere right now",
+      "en": "In fact, you can do it from anywhere right now",
+      "zh": ""
+    },
+    {
+      "start": 1001.4,
+      "duration": 1.98,
+      "text": "with this video sponsor, Brilliant,",
+      "en": "with this video sponsor, Brilliant,",
+      "zh": ""
+    },
+    {
+      "start": 1003.38,
+      "duration": 1.47,
+      "text": "and you can get started for free.",
+      "en": "and you can get started for free.",
+      "zh": ""
+    },
+    {
+      "start": 1004.85,
+      "duration": 2.94,
+      "text": "Just go to brilliant.org/veritasium.",
+      "en": "Just go to brilliant.org/veritasium.",
+      "zh": ""
+    },
+    {
+      "start": 1007.79,
+      "duration": 1.8,
+      "text": "Brilliant will make you a better thinker",
+      "en": "Brilliant will make you a better thinker",
+      "zh": ""
+    },
+    {
+      "start": 1009.59,
+      "duration": 3.09,
+      "text": "and problem solver in everything from science to math,",
+      "en": "and problem solver in everything from science to math,",
+      "zh": ""
+    },
+    {
+      "start": 1012.68,
+      "duration": 2.76,
+      "text": "data programming, technology, you name it.",
+      "en": "data programming, technology, you name it.",
+      "zh": ""
+    },
+    {
+      "start": 1015.44,
+      "duration": 2.4,
+      "text": "Just set your goal and Brilliant will design a path",
+      "en": "Just set your goal and Brilliant will design a path",
+      "zh": ""
+    },
+    {
+      "start": 1017.84,
+      "duration": 1.62,
+      "text": "to get you there.",
+      "en": "to get you there.",
+      "zh": ""
+    },
+    {
+      "start": 1019.46,
+      "duration": 1.38,
+      "text": "If you liked today's video,",
+      "en": "If you liked today's video,",
+      "zh": ""
+    },
+    {
+      "start": 1020.84,
+      "duration": 2.85,
+      "text": "I highly recommend you check out one of my favorite courses",
+      "en": "I highly recommend you check out one of my favorite courses",
+      "zh": ""
+    },
+    {
+      "start": 1023.69,
+      "duration": 3.27,
+      "text": "on Brilliant, which is Scientific Thinking.",
+      "en": "on Brilliant, which is Scientific Thinking.",
+      "zh": ""
+    },
+    {
+      "start": 1026.96,
+      "duration": 2.52,
+      "text": "Scientific Thinking takes you on an interactive tour",
+      "en": "Scientific Thinking takes you on an interactive tour",
+      "zh": ""
+    },
+    {
+      "start": 1029.48,
+      "duration": 1.29,
+      "text": "of our physical world.",
+      "en": "of our physical world.",
+      "zh": ""
+    },
+    {
+      "start": 1030.77,
+      "duration": 2.25,
+      "text": "You'll engage with key scientific principles",
+      "en": "You'll engage with key scientific principles",
+      "zh": ""
+    },
+    {
+      "start": 1033.02,
+      "duration": 2.82,
+      "text": "and theories from simple machines like gears and pulleys",
+      "en": "and theories from simple machines like gears and pulleys",
+      "zh": ""
+    },
+    {
+      "start": 1035.84,
+      "duration": 2.88,
+      "text": "to Einstein's special theory of relativity.",
+      "en": "to Einstein's special theory of relativity.",
+      "zh": ""
+    },
+    {
+      "start": 1038.72,
+      "duration": 1.38,
+      "text": "Whether you're comparing circuits",
+      "en": "Whether you're comparing circuits",
+      "zh": ""
+    },
+    {
+      "start": 1040.1,
+      "duration": 1.95,
+      "text": "to understand voltage and current,",
+      "en": "to understand voltage and current,",
+      "zh": ""
+    },
+    {
+      "start": 1042.05,
+      "duration": 2.82,
+      "text": "playing snooker to learn the rules of collisions,",
+      "en": "playing snooker to learn the rules of collisions,",
+      "zh": ""
+    },
+    {
+      "start": 1044.87,
+      "duration": 1.95,
+      "text": "or even planning your itinerary",
+      "en": "or even planning your itinerary",
+      "zh": ""
+    },
+    {
+      "start": 1046.82,
+      "duration": 4.2,
+      "text": "for an intergalactic music festival on a space time diagram,",
+      "en": "for an intergalactic music festival on a space time diagram,",
+      "zh": ""
+    },
+    {
+      "start": 1051.02,
+      "duration": 1.59,
+      "text": "you will learn by doing",
+      "en": "you will learn by doing",
+      "zh": ""
+    },
+    {
+      "start": 1052.61,
+      "duration": 3.0,
+      "text": "and foster a deep understanding without getting bogged down",
+      "en": "and foster a deep understanding without getting bogged down",
+      "zh": ""
+    },
+    {
+      "start": 1055.61,
+      "duration": 2.22,
+      "text": "in heavy mathematical formulas.",
+      "en": "in heavy mathematical formulas.",
+      "zh": ""
+    },
+    {
+      "start": 1057.83,
+      "duration": 3.03,
+      "text": "They even have a version of the coin paradox.",
+      "en": "They even have a version of the coin paradox.",
+      "zh": ""
+    },
+    {
+      "start": 1060.86,
+      "duration": 0.96,
+      "text": "And by the end,",
+      "en": "And by the end,",
+      "zh": ""
+    },
+    {
+      "start": 1061.82,
+      "duration": 2.31,
+      "text": "this course will change how you think about",
+      "en": "this course will change how you think about",
+      "zh": ""
+    },
+    {
+      "start": 1064.13,
+      "duration": 1.77,
+      "text": "the world around you.",
+      "en": "the world around you.",
+      "zh": ""
+    },
+    {
+      "start": 1065.9,
+      "duration": 2.49,
+      "text": "Beyond science, Brilliant has a massive library",
+      "en": "Beyond science, Brilliant has a massive library",
+      "zh": ""
+    },
+    {
+      "start": 1068.39,
+      "duration": 2.25,
+      "text": "of content in math, data science,",
+      "en": "of content in math, data science,",
+      "zh": ""
+    },
+    {
+      "start": 1070.64,
+      "duration": 1.62,
+      "text": "programming, and technology,",
+      "en": "programming, and technology,",
+      "zh": ""
+    },
+    {
+      "start": 1072.26,
+      "duration": 1.77,
+      "text": "all with that same hands-on approach",
+      "en": "all with that same hands-on approach",
+      "zh": ""
+    },
+    {
+      "start": 1074.03,
+      "duration": 3.42,
+      "text": "that makes concepts incredibly easy to understand.",
+      "en": "that makes concepts incredibly easy to understand.",
+      "zh": ""
+    },
+    {
+      "start": 1077.45,
+      "duration": 2.79,
+      "text": "And the best part is you can learn with Brilliant on the go.",
+      "en": "And the best part is you can learn with Brilliant on the go.",
+      "zh": ""
+    },
+    {
+      "start": 1080.24,
+      "duration": 3.12,
+      "text": "It's like having interactive versions of our videos",
+      "en": "It's like having interactive versions of our videos",
+      "zh": ""
+    },
+    {
+      "start": 1083.36,
+      "duration": 0.99,
+      "text": "in your pocket.",
+      "en": "in your pocket.",
+      "zh": ""
+    },
+    {
+      "start": 1084.35,
+      "duration": 2.31,
+      "text": "To try everything Brilliant has to offer for free",
+      "en": "To try everything Brilliant has to offer for free",
+      "zh": ""
+    },
+    {
+      "start": 1086.66,
+      "duration": 3.87,
+      "text": "for 30 days, just visit brilliant.org/veritasium.",
+      "en": "for 30 days, just visit brilliant.org/veritasium.",
+      "zh": ""
+    },
+    {
+      "start": 1090.53,
+      "duration": 2.34,
+      "text": "I will put that link down in the description.",
+      "en": "I will put that link down in the description.",
+      "zh": ""
+    },
+    {
+      "start": 1092.87,
+      "duration": 1.56,
+      "text": "And the first 200 of you",
+      "en": "And the first 200 of you",
+      "zh": ""
+    },
+    {
+      "start": 1094.43,
+      "duration": 3.63,
+      "text": "will get 20% off Brilliant's annual premium subscription.",
+      "en": "will get 20% off Brilliant's annual premium subscription.",
+      "zh": ""
+    },
+    {
+      "start": 1098.06,
+      "duration": 2.7,
+      "text": "So I wanna thank brilliant for sponsoring this video",
+      "en": "So I wanna thank brilliant for sponsoring this video",
+      "zh": ""
+    },
+    {
+      "start": 1100.76,
+      "duration": 1.85,
+      "text": "and I want to thank you for watching.",
+      "en": "and I want to thank you for watching.",
+      "zh": ""
+    }
+  ],
+  "words": []
+}

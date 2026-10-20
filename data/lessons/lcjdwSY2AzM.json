@@ -1,0 +1,4541 @@
+{
+  "cues": [
+    {
+      "start": 0.21,
+      "duration": 3.54,
+      "text": "- Imagine you are an astronaut out drifting in deep space",
+      "en": "- Imagine you are an astronaut out drifting in deep space",
+      "zh": ""
+    },
+    {
+      "start": 3.75,
+      "duration": 3.27,
+      "text": "when you throw a rock as hard as you can.",
+      "en": "when you throw a rock as hard as you can.",
+      "zh": ""
+    },
+    {
+      "start": 7.02,
+      "duration": 2.25,
+      "text": "What's gonna happen to that rock?",
+      "en": "What's gonna happen to that rock?",
+      "zh": ""
+    },
+    {
+      "start": 9.27,
+      "duration": 1.86,
+      "text": "Well, you would think that it would continue",
+      "en": "Well, you would think that it would continue",
+      "zh": ""
+    },
+    {
+      "start": 11.13,
+      "duration": 2.43,
+      "text": "with constant velocity in a straight line.",
+      "en": "with constant velocity in a straight line.",
+      "zh": ""
+    },
+    {
+      "start": 13.56,
+      "duration": 2.28,
+      "text": "That's just Newton's first law.",
+      "en": "That's just Newton's first law.",
+      "zh": ""
+    },
+    {
+      "start": 15.84,
+      "duration": 4.71,
+      "text": "But what actually happens is it eventually slows down",
+      "en": "But what actually happens is it eventually slows down",
+      "zh": ""
+    },
+    {
+      "start": 20.55,
+      "duration": 2.1,
+      "text": "and stops.",
+      "en": "and stops.",
+      "zh": ""
+    },
+    {
+      "start": 22.65,
+      "duration": 1.71,
+      "text": "So why does this happen?",
+      "en": "So why does this happen?",
+      "zh": ""
+    },
+    {
+      "start": 24.36,
+      "duration": 2.13,
+      "text": "Where did all the rock's energy go?",
+      "en": "Where did all the rock's energy go?",
+      "zh": ""
+    },
+    {
+      "start": 26.49,
+      "duration": 1.41,
+      "text": "(pensive orchestral music)",
+      "en": "(pensive orchestral music)",
+      "zh": ""
+    },
+    {
+      "start": 27.9,
+      "duration": 1.35,
+      "text": "At the turn of the 20th century,",
+      "en": "At the turn of the 20th century,",
+      "zh": ""
+    },
+    {
+      "start": 29.25,
+      "duration": 1.86,
+      "text": "the problem of energy conservation",
+      "en": "the problem of energy conservation",
+      "zh": ""
+    },
+    {
+      "start": 31.11,
+      "duration": 2.58,
+      "text": "baffled some of the greatest minds,",
+      "en": "baffled some of the greatest minds,",
+      "zh": ""
+    },
+    {
+      "start": 33.69,
+      "duration": 2.07,
+      "text": "including Albert Einstein.",
+      "en": "including Albert Einstein.",
+      "zh": ""
+    },
+    {
+      "start": 35.76,
+      "duration": 2.43,
+      "text": "Einstein came up with a possible solution,",
+      "en": "Einstein came up with a possible solution,",
+      "zh": ""
+    },
+    {
+      "start": 39.24,
+      "duration": 2.82,
+      "text": "but then a little-known unpaid mathematician",
+      "en": "but then a little-known unpaid mathematician",
+      "zh": ""
+    },
+    {
+      "start": 42.06,
+      "duration": 3.3,
+      "text": "named Emmy Noether proved he was wrong.",
+      "en": "named Emmy Noether proved he was wrong.",
+      "zh": ""
+    },
+    {
+      "start": 45.36,
+      "duration": 1.02,
+      "text": "And in doing so,",
+      "en": "And in doing so,",
+      "zh": ""
+    },
+    {
+      "start": 46.38,
+      "duration": 2.4,
+      "text": "she created a whole new paradigm for physics,",
+      "en": "she created a whole new paradigm for physics,",
+      "zh": ""
+    },
+    {
+      "start": 48.78,
+      "duration": 2.52,
+      "text": "one that underlies all of particle physics",
+      "en": "one that underlies all of particle physics",
+      "zh": ""
+    },
+    {
+      "start": 51.3,
+      "duration": 2.88,
+      "text": "and explains why anything is conserved.",
+      "en": "and explains why anything is conserved.",
+      "zh": ""
+    },
+    {
+      "start": 55.92,
+      "duration": 1.62,
+      "text": "(gentle inquisitive music)",
+      "en": "(gentle inquisitive music)",
+      "zh": ""
+    },
+    {
+      "start": 57.54,
+      "duration": 3.72,
+      "text": "It all started in 1915 at the University of Gottingen,",
+      "en": "It all started in 1915 at the University of Gottingen,",
+      "zh": ""
+    },
+    {
+      "start": 61.26,
+      "duration": 2.13,
+      "text": "where Einstein was giving six lectures",
+      "en": "where Einstein was giving six lectures",
+      "zh": ""
+    },
+    {
+      "start": 63.39,
+      "duration": 1.92,
+      "text": "on his new theory of gravity.",
+      "en": "on his new theory of gravity.",
+      "zh": ""
+    },
+    {
+      "start": 65.31,
+      "duration": 3.06,
+      "text": "What would become the general theory of relativity.",
+      "en": "What would become the general theory of relativity.",
+      "zh": ""
+    },
+    {
+      "start": 69.21,
+      "duration": 2.07,
+      "text": "The lectures were well received,",
+      "en": "The lectures were well received,",
+      "zh": ""
+    },
+    {
+      "start": 71.28,
+      "duration": 2.79,
+      "text": "but Einstein hadn't yet settled on the final form",
+      "en": "but Einstein hadn't yet settled on the final form",
+      "zh": ""
+    },
+    {
+      "start": 74.07,
+      "duration": 1.5,
+      "text": "of the field equations.",
+      "en": "of the field equations.",
+      "zh": ""
+    },
+    {
+      "start": 75.57,
+      "duration": 1.56,
+      "text": "One problem he was facing",
+      "en": "One problem he was facing",
+      "zh": ""
+    },
+    {
+      "start": 77.13,
+      "duration": 2.97,
+      "text": "was how to show that total energy was conserved",
+      "en": "was how to show that total energy was conserved",
+      "zh": ""
+    },
+    {
+      "start": 80.1,
+      "duration": 1.47,
+      "text": "in his new theory.",
+      "en": "in his new theory.",
+      "zh": ""
+    },
+    {
+      "start": 81.57,
+      "duration": 2.28,
+      "text": "- And this is the whole beginning of this story, right?",
+      "en": "- And this is the whole beginning of this story, right?",
+      "zh": ""
+    },
+    {
+      "start": 83.85,
+      "duration": 1.89,
+      "text": "Classically, they thought they had this understanding",
+      "en": "Classically, they thought they had this understanding",
+      "zh": ""
+    },
+    {
+      "start": 85.74,
+      "duration": 2.7,
+      "text": "of what the energy of the gravitational field was.",
+      "en": "of what the energy of the gravitational field was.",
+      "zh": ""
+    },
+    {
+      "start": 88.44,
+      "duration": 1.5,
+      "text": "All of a sudden with these new equations,",
+      "en": "All of a sudden with these new equations,",
+      "zh": ""
+    },
+    {
+      "start": 89.94,
+      "duration": 1.59,
+      "text": "they go, \"Where is it?",
+      "en": "they go, \"Where is it?",
+      "zh": ""
+    },
+    {
+      "start": 91.53,
+      "duration": 1.68,
+      "text": "You know, is it in the curvature?",
+      "en": "You know, is it in the curvature?",
+      "zh": ""
+    },
+    {
+      "start": 93.21,
+      "duration": 2.25,
+      "text": "You know, is it in the stress-energy tensor?",
+      "en": "You know, is it in the stress-energy tensor?",
+      "zh": ""
+    },
+    {
+      "start": 95.46,
+      "duration": 3.33,
+      "text": "Where's the term that we're looking for?\"",
+      "en": "Where's the term that we're looking for?\"",
+      "zh": ""
+    },
+    {
+      "start": 98.79,
+      "duration": 1.56,
+      "text": "- [Derek] Einstein suggested that the principle",
+      "en": "- [Derek] Einstein suggested that the principle",
+      "zh": ""
+    },
+    {
+      "start": 100.35,
+      "duration": 1.23,
+      "text": "of conservation of energy,",
+      "en": "of conservation of energy,",
+      "zh": ""
+    },
+    {
+      "start": 101.58,
+      "duration": 2.19,
+      "text": "long established as a bedrock of physics,",
+      "en": "long established as a bedrock of physics,",
+      "zh": ""
+    },
+    {
+      "start": 103.77,
+      "duration": 1.59,
+      "text": "might hold the key to working out",
+      "en": "might hold the key to working out",
+      "zh": ""
+    },
+    {
+      "start": 105.36,
+      "duration": 2.1,
+      "text": "the correct field equations.",
+      "en": "the correct field equations.",
+      "zh": ""
+    },
+    {
+      "start": 107.46,
+      "duration": 1.83,
+      "text": "In the audience, legendary mathematician",
+      "en": "In the audience, legendary mathematician",
+      "zh": ""
+    },
+    {
+      "start": 109.29,
+      "duration": 2.49,
+      "text": "David Hilbert was intrigued.",
+      "en": "David Hilbert was intrigued.",
+      "zh": ""
+    },
+    {
+      "start": 111.78,
+      "duration": 2.73,
+      "text": "So he started to look for the energy conservation equations",
+      "en": "So he started to look for the energy conservation equations",
+      "zh": ""
+    },
+    {
+      "start": 114.51,
+      "duration": 3.12,
+      "text": "in Einstein's new theory, but the best he could find",
+      "en": "in Einstein's new theory, but the best he could find",
+      "zh": ""
+    },
+    {
+      "start": 117.63,
+      "duration": 3.75,
+      "text": "was a set of equations known as the Bianchi identities.",
+      "en": "was a set of equations known as the Bianchi identities.",
+      "zh": ""
+    },
+    {
+      "start": 121.38,
+      "duration": 1.98,
+      "text": "They showed that energy was conserved,",
+      "en": "They showed that energy was conserved,",
+      "zh": ""
+    },
+    {
+      "start": 123.36,
+      "duration": 3.09,
+      "text": "but only in a completely empty universe.",
+      "en": "but only in a completely empty universe.",
+      "zh": ""
+    },
+    {
+      "start": 126.45,
+      "duration": 4.44,
+      "text": "So for one like ours filled with stuff, they seemed useless.",
+      "en": "So for one like ours filled with stuff, they seemed useless.",
+      "zh": ""
+    },
+    {
+      "start": 131.82,
+      "duration": 1.35,
+      "text": "Hilbert was stumped.",
+      "en": "Hilbert was stumped.",
+      "zh": ""
+    },
+    {
+      "start": 134.4,
+      "duration": 3.24,
+      "text": "- Fortunately, he knew just the person for the job.",
+      "en": "- Fortunately, he knew just the person for the job.",
+      "zh": ""
+    },
+    {
+      "start": 137.64,
+      "duration": 3.21,
+      "text": "His new assistant, Emmy Noether.",
+      "en": "His new assistant, Emmy Noether.",
+      "zh": ""
+    },
+    {
+      "start": 140.85,
+      "duration": 1.02,
+      "text": "(light thoughtful music)",
+      "en": "(light thoughtful music)",
+      "zh": ""
+    },
+    {
+      "start": 141.87,
+      "duration": 1.77,
+      "text": "- [Derek] From an early age, Noether had dreamed",
+      "en": "- [Derek] From an early age, Noether had dreamed",
+      "zh": ""
+    },
+    {
+      "start": 143.64,
+      "duration": 1.89,
+      "text": "of following the footsteps of her father,",
+      "en": "of following the footsteps of her father,",
+      "zh": ""
+    },
+    {
+      "start": 145.53,
+      "duration": 2.76,
+      "text": "a mathematics professor at the University of Erlangen.",
+      "en": "a mathematics professor at the University of Erlangen.",
+      "zh": ""
+    },
+    {
+      "start": 148.29,
+      "duration": 1.2,
+      "text": "She got special permission",
+      "en": "She got special permission",
+      "zh": ""
+    },
+    {
+      "start": 149.49,
+      "duration": 2.22,
+      "text": "to attend lectures at the university,",
+      "en": "to attend lectures at the university,",
+      "zh": ""
+    },
+    {
+      "start": 151.71,
+      "duration": 3.39,
+      "text": "but they refused to admit her as an official student.",
+      "en": "but they refused to admit her as an official student.",
+      "zh": ""
+    },
+    {
+      "start": 155.1,
+      "duration": 1.77,
+      "text": "The Erlangen Academic Senate",
+      "en": "The Erlangen Academic Senate",
+      "zh": ""
+    },
+    {
+      "start": 156.87,
+      "duration": 1.81,
+      "text": "held that the admission of women",
+      "en": "held that the admission of women",
+      "zh": ""
+    },
+    {
+      "start": 158.68,
+      "duration": 3.04,
+      "text": "\"would overthrow all academic order.\"",
+      "en": "\"would overthrow all academic order.\"",
+      "zh": ""
+    },
+    {
+      "start": 161.72,
+      "duration": 0.83,
+      "text": "(lively orchestral music)",
+      "en": "(lively orchestral music)",
+      "zh": ""
+    },
+    {
+      "start": 162.55,
+      "duration": 4.22,
+      "text": "So in 1903, she spent a semester at Gottingen instead.",
+      "en": "So in 1903, she spent a semester at Gottingen instead.",
+      "zh": ""
+    },
+    {
+      "start": 166.77,
+      "duration": 3.84,
+      "text": "There she learned about a new way to approach geometry",
+      "en": "There she learned about a new way to approach geometry",
+      "zh": ""
+    },
+    {
+      "start": 170.61,
+      "duration": 1.2,
+      "text": "using symmetry.",
+      "en": "using symmetry.",
+      "zh": ""
+    },
+    {
+      "start": 171.81,
+      "duration": 2.88,
+      "text": "(gentle thoughtful music)",
+      "en": "(gentle thoughtful music)",
+      "zh": ""
+    },
+    {
+      "start": 174.69,
+      "duration": 2.4,
+      "text": "Symmetry is one of those ideas that's easy to recognize",
+      "en": "Symmetry is one of those ideas that's easy to recognize",
+      "zh": ""
+    },
+    {
+      "start": 177.09,
+      "duration": 1.41,
+      "text": "but harder to describe.",
+      "en": "but harder to describe.",
+      "zh": ""
+    },
+    {
+      "start": 179.55,
+      "duration": 3.12,
+      "text": "- If I align a mirror on this triangle like so,",
+      "en": "- If I align a mirror on this triangle like so,",
+      "zh": ""
+    },
+    {
+      "start": 182.67,
+      "duration": 2.7,
+      "text": "then it looks the same as without the mirror,",
+      "en": "then it looks the same as without the mirror,",
+      "zh": ""
+    },
+    {
+      "start": 185.37,
+      "duration": 3.0,
+      "text": "and that's because this is an axis of symmetry.",
+      "en": "and that's because this is an axis of symmetry.",
+      "zh": ""
+    },
+    {
+      "start": 188.37,
+      "duration": 1.89,
+      "text": "The reflections about this axis",
+      "en": "The reflections about this axis",
+      "zh": ""
+    },
+    {
+      "start": 190.26,
+      "duration": 1.83,
+      "text": "leave the triangle unchanged.",
+      "en": "leave the triangle unchanged.",
+      "zh": ""
+    },
+    {
+      "start": 192.09,
+      "duration": 2.85,
+      "text": "And the same thing happens if I put the mirror like this",
+      "en": "And the same thing happens if I put the mirror like this",
+      "zh": ""
+    },
+    {
+      "start": 194.94,
+      "duration": 2.97,
+      "text": "or if I orient the mirror like this.",
+      "en": "or if I orient the mirror like this.",
+      "zh": ""
+    },
+    {
+      "start": 197.91,
+      "duration": 2.97,
+      "text": "So this triangle has three axes of symmetry.",
+      "en": "So this triangle has three axes of symmetry.",
+      "zh": ""
+    },
+    {
+      "start": 202.2,
+      "duration": 3.21,
+      "text": "Now, mathematicians generalize the idea of symmetry further",
+      "en": "Now, mathematicians generalize the idea of symmetry further",
+      "zh": ""
+    },
+    {
+      "start": 205.41,
+      "duration": 1.74,
+      "text": "to be any action you can take",
+      "en": "to be any action you can take",
+      "zh": ""
+    },
+    {
+      "start": 207.15,
+      "duration": 2.46,
+      "text": "that leaves an object unchanged.",
+      "en": "that leaves an object unchanged.",
+      "zh": ""
+    },
+    {
+      "start": 209.61,
+      "duration": 3.21,
+      "text": "So something else I could do is I could rotate this triangle",
+      "en": "So something else I could do is I could rotate this triangle",
+      "zh": ""
+    },
+    {
+      "start": 212.82,
+      "duration": 4.41,
+      "text": "by 120 degrees or by 240 degrees",
+      "en": "by 120 degrees or by 240 degrees",
+      "zh": ""
+    },
+    {
+      "start": 217.23,
+      "duration": 2.73,
+      "text": "or by 360 degrees.",
+      "en": "or by 360 degrees.",
+      "zh": ""
+    },
+    {
+      "start": 219.96,
+      "duration": 1.86,
+      "text": "Together, these six actions",
+      "en": "Together, these six actions",
+      "zh": ""
+    },
+    {
+      "start": 221.82,
+      "duration": 3.36,
+      "text": "capture all the symmetries of the equilateral triangle.",
+      "en": "capture all the symmetries of the equilateral triangle.",
+      "zh": ""
+    },
+    {
+      "start": 225.18,
+      "duration": 3.0,
+      "text": "- [Derek] But you can also have more abstract symmetries,",
+      "en": "- [Derek] But you can also have more abstract symmetries,",
+      "zh": ""
+    },
+    {
+      "start": 228.18,
+      "duration": 2.76,
+      "text": "for example, with a mathematical function.",
+      "en": "for example, with a mathematical function.",
+      "zh": ""
+    },
+    {
+      "start": 230.94,
+      "duration": 3.9,
+      "text": "If I shift this function up or down by some constant amount,",
+      "en": "If I shift this function up or down by some constant amount,",
+      "zh": ""
+    },
+    {
+      "start": 234.84,
+      "duration": 4.2,
+      "text": "call it a, then all of its y values will change.",
+      "en": "call it a, then all of its y values will change.",
+      "zh": ""
+    },
+    {
+      "start": 239.04,
+      "duration": 3.24,
+      "text": "But if I differentiate that function, I get the slope,",
+      "en": "But if I differentiate that function, I get the slope,",
+      "zh": ""
+    },
+    {
+      "start": 242.28,
+      "duration": 1.98,
+      "text": "and that remains unchanged",
+      "en": "and that remains unchanged",
+      "zh": ""
+    },
+    {
+      "start": 244.26,
+      "duration": 2.94,
+      "text": "regardless of whatever constant is added.",
+      "en": "regardless of whatever constant is added.",
+      "zh": ""
+    },
+    {
+      "start": 247.2,
+      "duration": 2.88,
+      "text": "So you can add any constant to this function,",
+      "en": "So you can add any constant to this function,",
+      "zh": ""
+    },
+    {
+      "start": 250.08,
+      "duration": 3.09,
+      "text": "and its derivative always stays the same.",
+      "en": "and its derivative always stays the same.",
+      "zh": ""
+    },
+    {
+      "start": 253.17,
+      "duration": 3.15,
+      "text": "So there is a kind of translation symmetry.",
+      "en": "So there is a kind of translation symmetry.",
+      "zh": ""
+    },
+    {
+      "start": 256.32,
+      "duration": 2.22,
+      "text": "And unlike the symmetries of the triangle,",
+      "en": "And unlike the symmetries of the triangle,",
+      "zh": ""
+    },
+    {
+      "start": 258.54,
+      "duration": 2.16,
+      "text": "this is a continuous symmetry,",
+      "en": "this is a continuous symmetry,",
+      "zh": ""
+    },
+    {
+      "start": 260.7,
+      "duration": 3.36,
+      "text": "meaning you can shift it by any amount you like.",
+      "en": "meaning you can shift it by any amount you like.",
+      "zh": ""
+    },
+    {
+      "start": 265.92,
+      "duration": 1.38,
+      "text": "Over the next 12 years,",
+      "en": "Over the next 12 years,",
+      "zh": ""
+    },
+    {
+      "start": 267.3,
+      "duration": 3.03,
+      "text": "Noether became a leading expert on symmetry.",
+      "en": "Noether became a leading expert on symmetry.",
+      "zh": ""
+    },
+    {
+      "start": 270.33,
+      "duration": 2.31,
+      "text": "She became only the second woman in Germany",
+      "en": "She became only the second woman in Germany",
+      "zh": ""
+    },
+    {
+      "start": 272.64,
+      "duration": 2.31,
+      "text": "to earn a PhD in mathematics,",
+      "en": "to earn a PhD in mathematics,",
+      "zh": ""
+    },
+    {
+      "start": 274.95,
+      "duration": 2.61,
+      "text": "and she used this expertise to help Hilbert",
+      "en": "and she used this expertise to help Hilbert",
+      "zh": ""
+    },
+    {
+      "start": 277.56,
+      "duration": 3.51,
+      "text": "and Einstein with their problem of energy conservation.",
+      "en": "and Einstein with their problem of energy conservation.",
+      "zh": ""
+    },
+    {
+      "start": 281.07,
+      "duration": 2.16,
+      "text": "The issue had bothered Einstein so much",
+      "en": "The issue had bothered Einstein so much",
+      "zh": ""
+    },
+    {
+      "start": 283.23,
+      "duration": 2.67,
+      "text": "that he proposed a new conservation equation.",
+      "en": "that he proposed a new conservation equation.",
+      "zh": ""
+    },
+    {
+      "start": 287.01,
+      "duration": 3.21,
+      "text": "It said that if we add together the energy of matter",
+      "en": "It said that if we add together the energy of matter",
+      "zh": ""
+    },
+    {
+      "start": 290.22,
+      "duration": 2.37,
+      "text": "and the energy of the gravitational field,",
+      "en": "and the energy of the gravitational field,",
+      "zh": ""
+    },
+    {
+      "start": 292.59,
+      "duration": 2.4,
+      "text": "then that total remains constant.",
+      "en": "then that total remains constant.",
+      "zh": ""
+    },
+    {
+      "start": 294.99,
+      "duration": 2.88,
+      "text": "Its change over time and space is zero.",
+      "en": "Its change over time and space is zero.",
+      "zh": ""
+    },
+    {
+      "start": 299.55,
+      "duration": 1.2,
+      "text": "But when Noether saw this,",
+      "en": "But when Noether saw this,",
+      "zh": ""
+    },
+    {
+      "start": 300.75,
+      "duration": 3.39,
+      "text": "she was convinced Einstein had made a fundamental mistake",
+      "en": "she was convinced Einstein had made a fundamental mistake",
+      "zh": ""
+    },
+    {
+      "start": 304.14,
+      "duration": 3.18,
+      "text": "because this equation disregards the foundational principle",
+      "en": "because this equation disregards the foundational principle",
+      "zh": ""
+    },
+    {
+      "start": 307.32,
+      "duration": 2.42,
+      "text": "that general relativity is built on.",
+      "en": "that general relativity is built on.",
+      "zh": ""
+    },
+    {
+      "start": 309.74,
+      "duration": 1.93,
+      "text": "(light pensive music)",
+      "en": "(light pensive music)",
+      "zh": ""
+    },
+    {
+      "start": 311.67,
+      "duration": 2.07,
+      "text": "10 years earlier, in 1905,",
+      "en": "10 years earlier, in 1905,",
+      "zh": ""
+    },
+    {
+      "start": 313.74,
+      "duration": 3.0,
+      "text": "Einstein had introduced his special theory of relativity,",
+      "en": "Einstein had introduced his special theory of relativity,",
+      "zh": ""
+    },
+    {
+      "start": 316.74,
+      "duration": 2.7,
+      "text": "and it was built on the idea that the laws of physics",
+      "en": "and it was built on the idea that the laws of physics",
+      "zh": ""
+    },
+    {
+      "start": 319.44,
+      "duration": 3.03,
+      "text": "were independent of your frame of reference.",
+      "en": "were independent of your frame of reference.",
+      "zh": ""
+    },
+    {
+      "start": 322.47,
+      "duration": 2.76,
+      "text": "But so far Einstein had only applied this principle",
+      "en": "But so far Einstein had only applied this principle",
+      "zh": ""
+    },
+    {
+      "start": 325.23,
+      "duration": 2.07,
+      "text": "to inertial frames of reference.",
+      "en": "to inertial frames of reference.",
+      "zh": ""
+    },
+    {
+      "start": 327.3,
+      "duration": 3.21,
+      "text": "Those are frames that move at a constant speed.",
+      "en": "Those are frames that move at a constant speed.",
+      "zh": ""
+    },
+    {
+      "start": 330.51,
+      "duration": 0.84,
+      "text": "- He began wondering",
+      "en": "- He began wondering",
+      "zh": ""
+    },
+    {
+      "start": 331.35,
+      "duration": 2.16,
+      "text": "what would it take to generalize that,",
+      "en": "what would it take to generalize that,",
+      "zh": ""
+    },
+    {
+      "start": 333.51,
+      "duration": 2.04,
+      "text": "to consider more general states of motion.",
+      "en": "to consider more general states of motion.",
+      "zh": ""
+    },
+    {
+      "start": 335.55,
+      "duration": 3.18,
+      "text": "After all, trains on the platform; he loved trains.",
+      "en": "After all, trains on the platform; he loved trains.",
+      "zh": ""
+    },
+    {
+      "start": 338.73,
+      "duration": 1.71,
+      "text": "Trains would speed up or slow down.",
+      "en": "Trains would speed up or slow down.",
+      "zh": ""
+    },
+    {
+      "start": 340.44,
+      "duration": 2.22,
+      "text": "People, you know, moving around the world",
+      "en": "People, you know, moving around the world",
+      "zh": ""
+    },
+    {
+      "start": 342.66,
+      "duration": 3.12,
+      "text": "don't only move at a single constant speed forever.",
+      "en": "don't only move at a single constant speed forever.",
+      "zh": ""
+    },
+    {
+      "start": 345.78,
+      "duration": 1.51,
+      "text": "- In 1907, he wrote,",
+      "en": "- In 1907, he wrote,",
+      "zh": ""
+    },
+    {
+      "start": 347.29,
+      "duration": 2.51,
+      "text": "\"Is it conceivable that the principle of relativity",
+      "en": "\"Is it conceivable that the principle of relativity",
+      "zh": ""
+    },
+    {
+      "start": 349.8,
+      "duration": 2.52,
+      "text": "also applies to systems that are accelerated",
+      "en": "also applies to systems that are accelerated",
+      "zh": ""
+    },
+    {
+      "start": 352.32,
+      "duration": 1.59,
+      "text": "relative to each other?\"",
+      "en": "relative to each other?\"",
+      "zh": ""
+    },
+    {
+      "start": 353.91,
+      "duration": 1.41,
+      "text": "This made him wonder;",
+      "en": "This made him wonder;",
+      "zh": ""
+    },
+    {
+      "start": 355.32,
+      "duration": 3.12,
+      "text": "perhaps his principle could also be applied to accelerating",
+      "en": "perhaps his principle could also be applied to accelerating",
+      "zh": ""
+    },
+    {
+      "start": 358.44,
+      "duration": 4.32,
+      "text": "and rotating frames, frames that move in any way in general.",
+      "en": "and rotating frames, frames that move in any way in general.",
+      "zh": ""
+    },
+    {
+      "start": 362.76,
+      "duration": 2.82,
+      "text": "That's the \"general\" in general relativity.",
+      "en": "That's the \"general\" in general relativity.",
+      "zh": ""
+    },
+    {
+      "start": 365.58,
+      "duration": 1.23,
+      "text": "So Einstein got to work",
+      "en": "So Einstein got to work",
+      "zh": ""
+    },
+    {
+      "start": 366.81,
+      "duration": 2.43,
+      "text": "on this largely intellectual pursuit.",
+      "en": "on this largely intellectual pursuit.",
+      "zh": ""
+    },
+    {
+      "start": 370.86,
+      "duration": 3.03,
+      "text": "- But then, as he was daydreaming in the patent office,",
+      "en": "- But then, as he was daydreaming in the patent office,",
+      "zh": ""
+    },
+    {
+      "start": 373.89,
+      "duration": 3.06,
+      "text": "he had what he called the happiest thought of his life.",
+      "en": "he had what he called the happiest thought of his life.",
+      "zh": ""
+    },
+    {
+      "start": 378.9,
+      "duration": 1.62,
+      "text": "- [Derek] He imagined the window cleaner",
+      "en": "- [Derek] He imagined the window cleaner",
+      "zh": ""
+    },
+    {
+      "start": 380.52,
+      "duration": 2.38,
+      "text": "at the top of the opposite building falling off.",
+      "en": "at the top of the opposite building falling off.",
+      "zh": ""
+    },
+    {
+      "start": 382.9,
+      "duration": 2.72,
+      "text": "(window cleaner screams)",
+      "en": "(window cleaner screams)",
+      "zh": ""
+    },
+    {
+      "start": 385.62,
+      "duration": 2.76,
+      "text": "And Einstein realized that while the man was falling,",
+      "en": "And Einstein realized that while the man was falling,",
+      "zh": ""
+    },
+    {
+      "start": 388.38,
+      "duration": 2.25,
+      "text": "he wouldn't feel his own weight.",
+      "en": "he wouldn't feel his own weight.",
+      "zh": ""
+    },
+    {
+      "start": 390.63,
+      "duration": 1.62,
+      "text": "He would be weightless,",
+      "en": "He would be weightless,",
+      "zh": ""
+    },
+    {
+      "start": 392.25,
+      "duration": 1.68,
+      "text": "and anything he dropped on his way down",
+      "en": "and anything he dropped on his way down",
+      "zh": ""
+    },
+    {
+      "start": 393.93,
+      "duration": 2.28,
+      "text": "would remain stationary relative to him.",
+      "en": "would remain stationary relative to him.",
+      "zh": ""
+    },
+    {
+      "start": 397.2,
+      "duration": 3.93,
+      "text": "It would be just as if he was floating in outer space.",
+      "en": "It would be just as if he was floating in outer space.",
+      "zh": ""
+    },
+    {
+      "start": 401.13,
+      "duration": 0.97,
+      "text": "- It's ironic, we would've said,",
+      "en": "- It's ironic, we would've said,",
+      "zh": ""
+    },
+    {
+      "start": 402.1,
+      "duration": 1.49,
+      "text": "\"Oh, he's being pulled down to the ground",
+      "en": "\"Oh, he's being pulled down to the ground",
+      "zh": ""
+    },
+    {
+      "start": 403.59,
+      "duration": 3.66,
+      "text": "because the gravity of the Earth is exerting a force.",
+      "en": "because the gravity of the Earth is exerting a force.",
+      "zh": ""
+    },
+    {
+      "start": 407.25,
+      "duration": 2.97,
+      "text": "But Einstein said, while that person is in motion,",
+      "en": "But Einstein said, while that person is in motion,",
+      "zh": ""
+    },
+    {
+      "start": 410.22,
+      "duration": 2.07,
+      "text": "what we call free fall motion,",
+      "en": "what we call free fall motion,",
+      "zh": ""
+    },
+    {
+      "start": 412.29,
+      "duration": 2.43,
+      "text": "they would actually feel no gravity at all.",
+      "en": "they would actually feel no gravity at all.",
+      "zh": ""
+    },
+    {
+      "start": 414.72,
+      "duration": 3.54,
+      "text": "There must be some equivalence between accelerated motion",
+      "en": "There must be some equivalence between accelerated motion",
+      "zh": ""
+    },
+    {
+      "start": 418.26,
+      "duration": 1.95,
+      "text": "and the action of gravity.",
+      "en": "and the action of gravity.",
+      "zh": ""
+    },
+    {
+      "start": 420.21,
+      "duration": 1.56,
+      "text": "So Einstein arrived",
+      "en": "So Einstein arrived",
+      "zh": ""
+    },
+    {
+      "start": 421.77,
+      "duration": 2.67,
+      "text": "at what he called the equivalence principle.",
+      "en": "at what he called the equivalence principle.",
+      "zh": ""
+    },
+    {
+      "start": 424.44,
+      "duration": 2.34,
+      "text": "- [Derek] If you were stuck in a rocket in outer space",
+      "en": "- [Derek] If you were stuck in a rocket in outer space",
+      "zh": ""
+    },
+    {
+      "start": 426.78,
+      "duration": 2.91,
+      "text": "accelerating at 9.8 meters per second squared,",
+      "en": "accelerating at 9.8 meters per second squared,",
+      "zh": ""
+    },
+    {
+      "start": 429.69,
+      "duration": 1.62,
+      "text": "then it would be the exact same",
+      "en": "then it would be the exact same",
+      "zh": ""
+    },
+    {
+      "start": 431.31,
+      "duration": 2.73,
+      "text": "as if you were standing on the surface of Earth.",
+      "en": "as if you were standing on the surface of Earth.",
+      "zh": ""
+    },
+    {
+      "start": 434.97,
+      "duration": 1.23,
+      "text": "- And this was huge",
+      "en": "- And this was huge",
+      "zh": ""
+    },
+    {
+      "start": 436.2,
+      "duration": 1.95,
+      "text": "because it meant that if Einstein could figure out",
+      "en": "because it meant that if Einstein could figure out",
+      "zh": ""
+    },
+    {
+      "start": 438.15,
+      "duration": 2.49,
+      "text": "how to understand accelerating frames,",
+      "en": "how to understand accelerating frames,",
+      "zh": ""
+    },
+    {
+      "start": 440.64,
+      "duration": 2.43,
+      "text": "then he didn't just get a more general theory;",
+      "en": "then he didn't just get a more general theory;",
+      "zh": ""
+    },
+    {
+      "start": 443.07,
+      "duration": 3.42,
+      "text": "he would also have a new theory of gravity.",
+      "en": "he would also have a new theory of gravity.",
+      "zh": ""
+    },
+    {
+      "start": 446.49,
+      "duration": 1.05,
+      "text": "- But to achieve this,",
+      "en": "- But to achieve this,",
+      "zh": ""
+    },
+    {
+      "start": 447.54,
+      "duration": 2.07,
+      "text": "Einstein needed to make sure the laws of gravity",
+      "en": "Einstein needed to make sure the laws of gravity",
+      "zh": ""
+    },
+    {
+      "start": 449.61,
+      "duration": 2.8,
+      "text": "had the same form in every frame of reference.",
+      "en": "had the same form in every frame of reference.",
+      "zh": ""
+    },
+    {
+      "start": 452.41,
+      "duration": 2.57,
+      "text": "(train whooshing)",
+      "en": "(train whooshing)",
+      "zh": ""
+    },
+    {
+      "start": 454.98,
+      "duration": 2.4,
+      "text": "This is the idea of general covariance,",
+      "en": "This is the idea of general covariance,",
+      "zh": ""
+    },
+    {
+      "start": 457.38,
+      "duration": 2.88,
+      "text": "and it's one of the core tenets of general relativity.",
+      "en": "and it's one of the core tenets of general relativity.",
+      "zh": ""
+    },
+    {
+      "start": 460.26,
+      "duration": 2.82,
+      "text": "To satisfy it, Einstein knew he had to use",
+      "en": "To satisfy it, Einstein knew he had to use",
+      "zh": ""
+    },
+    {
+      "start": 463.08,
+      "duration": 3.21,
+      "text": "special mathematical objects called tensors.",
+      "en": "special mathematical objects called tensors.",
+      "zh": ""
+    },
+    {
+      "start": 466.29,
+      "duration": 2.22,
+      "text": "A simple kind of tensor is a vector.",
+      "en": "A simple kind of tensor is a vector.",
+      "zh": ""
+    },
+    {
+      "start": 468.51,
+      "duration": 2.46,
+      "text": "You can write a vector as a set of components",
+      "en": "You can write a vector as a set of components",
+      "zh": ""
+    },
+    {
+      "start": 470.97,
+      "duration": 2.1,
+      "text": "multiplied by their basis vectors.",
+      "en": "multiplied by their basis vectors.",
+      "zh": ""
+    },
+    {
+      "start": 473.07,
+      "duration": 2.19,
+      "text": "For example, this vector can be written as",
+      "en": "For example, this vector can be written as",
+      "zh": ""
+    },
+    {
+      "start": 475.26,
+      "duration": 2.64,
+      "text": "3x hat plus 2y hat.",
+      "en": "3x hat plus 2y hat.",
+      "zh": ""
+    },
+    {
+      "start": 477.9,
+      "duration": 1.38,
+      "text": "But I can also write this",
+      "en": "But I can also write this",
+      "zh": ""
+    },
+    {
+      "start": 479.28,
+      "duration": 1.8,
+      "text": "using a different coordinate system.",
+      "en": "using a different coordinate system.",
+      "zh": ""
+    },
+    {
+      "start": 481.08,
+      "duration": 1.92,
+      "text": "And with these new basis vectors,",
+      "en": "And with these new basis vectors,",
+      "zh": ""
+    },
+    {
+      "start": 483.0,
+      "duration": 4.17,
+      "text": "the original vector is now written as 2a plus 1b.",
+      "en": "the original vector is now written as 2a plus 1b.",
+      "zh": ""
+    },
+    {
+      "start": 487.17,
+      "duration": 3.84,
+      "text": "So the components, the numbers in this list, changed,",
+      "en": "So the components, the numbers in this list, changed,",
+      "zh": ""
+    },
+    {
+      "start": 491.01,
+      "duration": 1.5,
+      "text": "but the vector didn't.",
+      "en": "but the vector didn't.",
+      "zh": ""
+    },
+    {
+      "start": 492.51,
+      "duration": 1.62,
+      "text": "It stayed the same.",
+      "en": "It stayed the same.",
+      "zh": ""
+    },
+    {
+      "start": 494.13,
+      "duration": 2.43,
+      "text": "And that's because when the basis vectors change,",
+      "en": "And that's because when the basis vectors change,",
+      "zh": ""
+    },
+    {
+      "start": 496.56,
+      "duration": 2.91,
+      "text": "the components adjust in a complementary way",
+      "en": "the components adjust in a complementary way",
+      "zh": ""
+    },
+    {
+      "start": 499.47,
+      "duration": 2.16,
+      "text": "to keep the vector the same.",
+      "en": "to keep the vector the same.",
+      "zh": ""
+    },
+    {
+      "start": 501.63,
+      "duration": 1.92,
+      "text": "The vector itself is independent",
+      "en": "The vector itself is independent",
+      "zh": ""
+    },
+    {
+      "start": 503.55,
+      "duration": 2.64,
+      "text": "of which coordinate system you use.",
+      "en": "of which coordinate system you use.",
+      "zh": ""
+    },
+    {
+      "start": 506.19,
+      "duration": 1.98,
+      "text": "And the same is true for tensors,",
+      "en": "And the same is true for tensors,",
+      "zh": ""
+    },
+    {
+      "start": 508.17,
+      "duration": 2.16,
+      "text": "only now instead of having just two components,",
+      "en": "only now instead of having just two components,",
+      "zh": ""
+    },
+    {
+      "start": 510.33,
+      "duration": 2.55,
+      "text": "a general tensor can have any number of them",
+      "en": "a general tensor can have any number of them",
+      "zh": ""
+    },
+    {
+      "start": 512.88,
+      "duration": 1.62,
+      "text": "in the form of a matrix.",
+      "en": "in the form of a matrix.",
+      "zh": ""
+    },
+    {
+      "start": 514.5,
+      "duration": 2.58,
+      "text": "And just like with vectors, you can change a tensor",
+      "en": "And just like with vectors, you can change a tensor",
+      "zh": ""
+    },
+    {
+      "start": 517.08,
+      "duration": 2.16,
+      "text": "from one coordinate system to another,",
+      "en": "from one coordinate system to another,",
+      "zh": ""
+    },
+    {
+      "start": 519.24,
+      "duration": 2.25,
+      "text": "and the tensor stays the same.",
+      "en": "and the tensor stays the same.",
+      "zh": ""
+    },
+    {
+      "start": 521.49,
+      "duration": 1.89,
+      "text": "So that's why Einstein had to use them",
+      "en": "So that's why Einstein had to use them",
+      "zh": ""
+    },
+    {
+      "start": 523.38,
+      "duration": 1.32,
+      "text": "to build his new theory.",
+      "en": "to build his new theory.",
+      "zh": ""
+    },
+    {
+      "start": 526.35,
+      "duration": 2.4,
+      "text": "- And that was exactly the problem that Noether found",
+      "en": "- And that was exactly the problem that Noether found",
+      "zh": ""
+    },
+    {
+      "start": 528.75,
+      "duration": 1.35,
+      "text": "because when she looked",
+      "en": "because when she looked",
+      "zh": ""
+    },
+    {
+      "start": 530.1,
+      "duration": 2.76,
+      "text": "at Einstein's proposed energy conservation equation,",
+      "en": "at Einstein's proposed energy conservation equation,",
+      "zh": ""
+    },
+    {
+      "start": 532.86,
+      "duration": 2.07,
+      "text": "it contained a pseudotensor.",
+      "en": "it contained a pseudotensor.",
+      "zh": ""
+    },
+    {
+      "start": 534.93,
+      "duration": 3.15,
+      "text": "And as the name implies, that isn't quite a tensor.",
+      "en": "And as the name implies, that isn't quite a tensor.",
+      "zh": ""
+    },
+    {
+      "start": 538.08,
+      "duration": 1.29,
+      "text": "When you try to transform it",
+      "en": "When you try to transform it",
+      "zh": ""
+    },
+    {
+      "start": 539.37,
+      "duration": 2.49,
+      "text": "from one frame of reference to another,",
+      "en": "from one frame of reference to another,",
+      "zh": ""
+    },
+    {
+      "start": 541.86,
+      "duration": 2.94,
+      "text": "it doesn't remain the same quantity in different frames.",
+      "en": "it doesn't remain the same quantity in different frames.",
+      "zh": ""
+    },
+    {
+      "start": 544.8,
+      "duration": 3.21,
+      "text": "The gravitational energy you might observe in one frame",
+      "en": "The gravitational energy you might observe in one frame",
+      "zh": ""
+    },
+    {
+      "start": 548.01,
+      "duration": 2.76,
+      "text": "completely disappears in another.",
+      "en": "completely disappears in another.",
+      "zh": ""
+    },
+    {
+      "start": 550.77,
+      "duration": 0.89,
+      "text": "- And Einstein, you know,",
+      "en": "- And Einstein, you know,",
+      "zh": ""
+    },
+    {
+      "start": 551.66,
+      "duration": 1.78,
+      "text": "he had some strange thoughts about this.",
+      "en": "he had some strange thoughts about this.",
+      "zh": ""
+    },
+    {
+      "start": 553.44,
+      "duration": 4.37,
+      "text": "I mean, people were trying to stamp conservation of energy",
+      "en": "I mean, people were trying to stamp conservation of energy",
+      "zh": ""
+    },
+    {
+      "start": 557.81,
+      "duration": 4.81,
+      "text": "into relativity by bending the rules",
+      "en": "into relativity by bending the rules",
+      "zh": ""
+    },
+    {
+      "start": 562.62,
+      "duration": 1.32,
+      "text": "of mathematics.",
+      "en": "of mathematics.",
+      "zh": ""
+    },
+    {
+      "start": 564.9,
+      "duration": 2.76,
+      "text": "- So, Noether knew that Einstein's proposed solution",
+      "en": "- So, Noether knew that Einstein's proposed solution",
+      "zh": ""
+    },
+    {
+      "start": 567.66,
+      "duration": 3.82,
+      "text": "couldn't be the answer, and that made her think,",
+      "en": "couldn't be the answer, and that made her think,",
+      "zh": ""
+    },
+    {
+      "start": 571.48,
+      "duration": 1.46,
+      "text": "\"What if general covariance",
+      "en": "\"What if general covariance",
+      "zh": ""
+    },
+    {
+      "start": 572.94,
+      "duration": 3.21,
+      "text": "and energy conservation are simply incompatible?",
+      "en": "and energy conservation are simply incompatible?",
+      "zh": ""
+    },
+    {
+      "start": 576.15,
+      "duration": 3.84,
+      "text": "And if that's the case, then why?\"",
+      "en": "And if that's the case, then why?\"",
+      "zh": ""
+    },
+    {
+      "start": 579.99,
+      "duration": 2.43,
+      "text": "General covariance says that laws of physics",
+      "en": "General covariance says that laws of physics",
+      "zh": ""
+    },
+    {
+      "start": 582.42,
+      "duration": 3.36,
+      "text": "must stay the same when you change reference frames.",
+      "en": "must stay the same when you change reference frames.",
+      "zh": ""
+    },
+    {
+      "start": 585.78,
+      "duration": 2.61,
+      "text": "So that is a kind of symmetry,",
+      "en": "So that is a kind of symmetry,",
+      "zh": ""
+    },
+    {
+      "start": 588.39,
+      "duration": 3.12,
+      "text": "exactly what Noether had spent her career studying.",
+      "en": "exactly what Noether had spent her career studying.",
+      "zh": ""
+    },
+    {
+      "start": 591.51,
+      "duration": 1.32,
+      "text": "So she started thinking",
+      "en": "So she started thinking",
+      "zh": ""
+    },
+    {
+      "start": 592.83,
+      "duration": 2.37,
+      "text": "about the symmetries of the universe,",
+      "en": "about the symmetries of the universe,",
+      "zh": ""
+    },
+    {
+      "start": 595.2,
+      "duration": 2.85,
+      "text": "beginning with the simplest possible case,",
+      "en": "beginning with the simplest possible case,",
+      "zh": ""
+    },
+    {
+      "start": 598.05,
+      "duration": 2.62,
+      "text": "an empty static universe.",
+      "en": "an empty static universe.",
+      "zh": ""
+    },
+    {
+      "start": 600.67,
+      "duration": 1.46,
+      "text": "(light contemplative music)",
+      "en": "(light contemplative music)",
+      "zh": ""
+    },
+    {
+      "start": 602.13,
+      "duration": 2.91,
+      "text": "Imagine you are an astronaut in this universe.",
+      "en": "Imagine you are an astronaut in this universe.",
+      "zh": ""
+    },
+    {
+      "start": 605.04,
+      "duration": 2.82,
+      "text": "Since it's empty, there is nothing special",
+      "en": "Since it's empty, there is nothing special",
+      "zh": ""
+    },
+    {
+      "start": 607.86,
+      "duration": 1.62,
+      "text": "about any particular point.",
+      "en": "about any particular point.",
+      "zh": ""
+    },
+    {
+      "start": 609.48,
+      "duration": 4.14,
+      "text": "I mean, it doesn't matter if you're over here or over there;",
+      "en": "I mean, it doesn't matter if you're over here or over there;",
+      "zh": ""
+    },
+    {
+      "start": 613.62,
+      "duration": 2.1,
+      "text": "the universe is completely symmetric",
+      "en": "the universe is completely symmetric",
+      "zh": ""
+    },
+    {
+      "start": 615.72,
+      "duration": 2.7,
+      "text": "under translations in space.",
+      "en": "under translations in space.",
+      "zh": ""
+    },
+    {
+      "start": 618.42,
+      "duration": 1.92,
+      "text": "So suppose you throw a ball;",
+      "en": "So suppose you throw a ball;",
+      "zh": ""
+    },
+    {
+      "start": 620.34,
+      "duration": 2.49,
+      "text": "well, it'll travel at a given speed,",
+      "en": "well, it'll travel at a given speed,",
+      "zh": ""
+    },
+    {
+      "start": 622.83,
+      "duration": 1.47,
+      "text": "and after a short amount of time,",
+      "en": "and after a short amount of time,",
+      "zh": ""
+    },
+    {
+      "start": 624.3,
+      "duration": 1.95,
+      "text": "it will have traveled some distance.",
+      "en": "it will have traveled some distance.",
+      "zh": ""
+    },
+    {
+      "start": 626.25,
+      "duration": 2.16,
+      "text": "But since the laws of physics are the same here",
+      "en": "But since the laws of physics are the same here",
+      "zh": ""
+    },
+    {
+      "start": 628.41,
+      "duration": 2.94,
+      "text": "as just before, we can shift the whole universe,",
+      "en": "as just before, we can shift the whole universe,",
+      "zh": ""
+    },
+    {
+      "start": 631.35,
+      "duration": 2.85,
+      "text": "and we're back to the situation we started with.",
+      "en": "and we're back to the situation we started with.",
+      "zh": ""
+    },
+    {
+      "start": 634.2,
+      "duration": 3.12,
+      "text": "And we can keep doing this over and over,",
+      "en": "And we can keep doing this over and over,",
+      "zh": ""
+    },
+    {
+      "start": 637.32,
+      "duration": 2.82,
+      "text": "and this shows us that the object will continue",
+      "en": "and this shows us that the object will continue",
+      "zh": ""
+    },
+    {
+      "start": 640.14,
+      "duration": 2.16,
+      "text": "with that same speed indefinitely.",
+      "en": "with that same speed indefinitely.",
+      "zh": ""
+    },
+    {
+      "start": 643.29,
+      "duration": 1.35,
+      "text": "So what we've discovered",
+      "en": "So what we've discovered",
+      "zh": ""
+    },
+    {
+      "start": 644.64,
+      "duration": 2.55,
+      "text": "is that the principle of conservation of momentum",
+      "en": "is that the principle of conservation of momentum",
+      "zh": ""
+    },
+    {
+      "start": 647.19,
+      "duration": 1.47,
+      "text": "is a direct result",
+      "en": "is a direct result",
+      "zh": ""
+    },
+    {
+      "start": 648.66,
+      "duration": 2.43,
+      "text": "of the fact that there's a translation symmetry",
+      "en": "of the fact that there's a translation symmetry",
+      "zh": ""
+    },
+    {
+      "start": 651.09,
+      "duration": 3.33,
+      "text": "in the universe, that an experiment done in one spot",
+      "en": "in the universe, that an experiment done in one spot",
+      "zh": ""
+    },
+    {
+      "start": 654.42,
+      "duration": 1.5,
+      "text": "will give identical results",
+      "en": "will give identical results",
+      "zh": ""
+    },
+    {
+      "start": 655.92,
+      "duration": 3.27,
+      "text": "to that same experiment done somewhere else.",
+      "en": "to that same experiment done somewhere else.",
+      "zh": ""
+    },
+    {
+      "start": 659.19,
+      "duration": 2.34,
+      "text": "You could move everything from one place to another,",
+      "en": "You could move everything from one place to another,",
+      "zh": ""
+    },
+    {
+      "start": 661.53,
+      "duration": 2.1,
+      "text": "and the physics won't change.",
+      "en": "and the physics won't change.",
+      "zh": ""
+    },
+    {
+      "start": 663.63,
+      "duration": 2.07,
+      "text": "Similarly, the laws of physics don't depend",
+      "en": "Similarly, the laws of physics don't depend",
+      "zh": ""
+    },
+    {
+      "start": 665.7,
+      "duration": 2.19,
+      "text": "on whether you perform an experiment like this",
+      "en": "on whether you perform an experiment like this",
+      "zh": ""
+    },
+    {
+      "start": 667.89,
+      "duration": 2.85,
+      "text": "or rotate everything by 90 degrees.",
+      "en": "or rotate everything by 90 degrees.",
+      "zh": ""
+    },
+    {
+      "start": 670.74,
+      "duration": 3.36,
+      "text": "This universe is symmetric under rotations.",
+      "en": "This universe is symmetric under rotations.",
+      "zh": ""
+    },
+    {
+      "start": 674.1,
+      "duration": 3.15,
+      "text": "So imagine we take a metal rod and spin it.",
+      "en": "So imagine we take a metal rod and spin it.",
+      "zh": ""
+    },
+    {
+      "start": 677.25,
+      "duration": 1.92,
+      "text": "If we let it rotate for a minute,",
+      "en": "If we let it rotate for a minute,",
+      "zh": ""
+    },
+    {
+      "start": 679.17,
+      "duration": 2.55,
+      "text": "then it will have moved through a small angle,",
+      "en": "then it will have moved through a small angle,",
+      "zh": ""
+    },
+    {
+      "start": 681.72,
+      "duration": 2.25,
+      "text": "but we can rotate the whole universe back",
+      "en": "but we can rotate the whole universe back",
+      "zh": ""
+    },
+    {
+      "start": 683.97,
+      "duration": 1.17,
+      "text": "by that same angle",
+      "en": "by that same angle",
+      "zh": ""
+    },
+    {
+      "start": 685.14,
+      "duration": 2.4,
+      "text": "and now we're at the starting position again.",
+      "en": "and now we're at the starting position again.",
+      "zh": ""
+    },
+    {
+      "start": 687.54,
+      "duration": 1.26,
+      "text": "And we can keep doing this",
+      "en": "And we can keep doing this",
+      "zh": ""
+    },
+    {
+      "start": 688.8,
+      "duration": 2.43,
+      "text": "so that each instant looks exactly the same",
+      "en": "so that each instant looks exactly the same",
+      "zh": ""
+    },
+    {
+      "start": 691.23,
+      "duration": 2.88,
+      "text": "as the one before, which means the object",
+      "en": "as the one before, which means the object",
+      "zh": ""
+    },
+    {
+      "start": 694.11,
+      "duration": 3.09,
+      "text": "will keep rotating this way indefinitely.",
+      "en": "will keep rotating this way indefinitely.",
+      "zh": ""
+    },
+    {
+      "start": 697.2,
+      "duration": 2.85,
+      "text": "So the law of conservation of angular momentum",
+      "en": "So the law of conservation of angular momentum",
+      "zh": ""
+    },
+    {
+      "start": 700.05,
+      "duration": 3.12,
+      "text": "comes from the rotational symmetry of the universe.",
+      "en": "comes from the rotational symmetry of the universe.",
+      "zh": ""
+    },
+    {
+      "start": 704.22,
+      "duration": 2.52,
+      "text": "Now, another important symmetry of this universe",
+      "en": "Now, another important symmetry of this universe",
+      "zh": ""
+    },
+    {
+      "start": 706.74,
+      "duration": 2.1,
+      "text": "is time symmetry.",
+      "en": "is time symmetry.",
+      "zh": ""
+    },
+    {
+      "start": 708.84,
+      "duration": 2.4,
+      "text": "The laws of physics don't change over time;",
+      "en": "The laws of physics don't change over time;",
+      "zh": ""
+    },
+    {
+      "start": 711.24,
+      "duration": 2.37,
+      "text": "if you do an experiment today or tomorrow,",
+      "en": "if you do an experiment today or tomorrow,",
+      "zh": ""
+    },
+    {
+      "start": 713.61,
+      "duration": 2.1,
+      "text": "you will get the same result.",
+      "en": "you will get the same result.",
+      "zh": ""
+    },
+    {
+      "start": 715.71,
+      "duration": 2.22,
+      "text": "So what does this symmetry lead to?",
+      "en": "So what does this symmetry lead to?",
+      "zh": ""
+    },
+    {
+      "start": 719.58,
+      "duration": 3.39,
+      "text": "Well, to understand this, we're gonna dig into some math",
+      "en": "Well, to understand this, we're gonna dig into some math",
+      "zh": ""
+    },
+    {
+      "start": 722.97,
+      "duration": 1.92,
+      "text": "and a different way of doing mechanics",
+      "en": "and a different way of doing mechanics",
+      "zh": ""
+    },
+    {
+      "start": 724.89,
+      "duration": 2.55,
+      "text": "using the principle of least action.",
+      "en": "using the principle of least action.",
+      "zh": ""
+    },
+    {
+      "start": 727.44,
+      "duration": 1.29,
+      "text": "Previously on Veritasium,",
+      "en": "Previously on Veritasium,",
+      "zh": ""
+    },
+    {
+      "start": 728.73,
+      "duration": 2.4,
+      "text": "we learned that everything always follows the path",
+      "en": "we learned that everything always follows the path",
+      "zh": ""
+    },
+    {
+      "start": 731.13,
+      "duration": 2.7,
+      "text": "that minimizes a quantity known as the action.",
+      "en": "that minimizes a quantity known as the action.",
+      "zh": ""
+    },
+    {
+      "start": 733.83,
+      "duration": 1.68,
+      "text": "This is equivalent to the integral",
+      "en": "This is equivalent to the integral",
+      "zh": ""
+    },
+    {
+      "start": 735.51,
+      "duration": 2.58,
+      "text": "of the Lagrangian L over time.",
+      "en": "of the Lagrangian L over time.",
+      "zh": ""
+    },
+    {
+      "start": 738.09,
+      "duration": 1.02,
+      "text": "In the simplest case,",
+      "en": "In the simplest case,",
+      "zh": ""
+    },
+    {
+      "start": 739.11,
+      "duration": 2.94,
+      "text": "that's just the kinetic minus potential energy.",
+      "en": "that's just the kinetic minus potential energy.",
+      "zh": ""
+    },
+    {
+      "start": 742.05,
+      "duration": 1.47,
+      "text": "Euler and Lagrange found",
+      "en": "Euler and Lagrange found",
+      "zh": ""
+    },
+    {
+      "start": 743.52,
+      "duration": 2.13,
+      "text": "that the principle of least action is obeyed,",
+      "en": "that the principle of least action is obeyed,",
+      "zh": ""
+    },
+    {
+      "start": 745.65,
+      "duration": 4.02,
+      "text": "so long as this set of differential equations is satisfied.",
+      "en": "so long as this set of differential equations is satisfied.",
+      "zh": ""
+    },
+    {
+      "start": 749.67,
+      "duration": 2.88,
+      "text": "So Noether used action to see how physics",
+      "en": "So Noether used action to see how physics",
+      "zh": ""
+    },
+    {
+      "start": 752.55,
+      "duration": 2.58,
+      "text": "was affected by different symmetries.",
+      "en": "was affected by different symmetries.",
+      "zh": ""
+    },
+    {
+      "start": 755.13,
+      "duration": 1.92,
+      "text": "- So suppose we do an experiment",
+      "en": "- So suppose we do an experiment",
+      "zh": ""
+    },
+    {
+      "start": 757.05,
+      "duration": 1.71,
+      "text": "where the result is the same now",
+      "en": "where the result is the same now",
+      "zh": ""
+    },
+    {
+      "start": 758.76,
+      "duration": 3.21,
+      "text": "as some tiny time interval epsilon later,",
+      "en": "as some tiny time interval epsilon later,",
+      "zh": ""
+    },
+    {
+      "start": 761.97,
+      "duration": 2.07,
+      "text": "then how does this affect the action?",
+      "en": "then how does this affect the action?",
+      "zh": ""
+    },
+    {
+      "start": 764.04,
+      "duration": 3.45,
+      "text": "Well, the time is going to change from just t",
+      "en": "Well, the time is going to change from just t",
+      "zh": ""
+    },
+    {
+      "start": 767.49,
+      "duration": 2.82,
+      "text": "to t plus epsilon,",
+      "en": "to t plus epsilon,",
+      "zh": ""
+    },
+    {
+      "start": 770.31,
+      "duration": 3.03,
+      "text": "and as a result, the Lagrangian is also going to change.",
+      "en": "and as a result, the Lagrangian is also going to change.",
+      "zh": ""
+    },
+    {
+      "start": 773.34,
+      "duration": 3.09,
+      "text": "So the new Lagrangian will be L prime,",
+      "en": "So the new Lagrangian will be L prime,",
+      "zh": ""
+    },
+    {
+      "start": 776.43,
+      "duration": 2.31,
+      "text": "which is equal to the old Lagrangian,",
+      "en": "which is equal to the old Lagrangian,",
+      "zh": ""
+    },
+    {
+      "start": 778.74,
+      "duration": 3.45,
+      "text": "plus how much the Lagrangian changes over time,",
+      "en": "plus how much the Lagrangian changes over time,",
+      "zh": ""
+    },
+    {
+      "start": 782.19,
+      "duration": 1.65,
+      "text": "that's just dL by dt,",
+      "en": "that's just dL by dt,",
+      "zh": ""
+    },
+    {
+      "start": 783.84,
+      "duration": 2.16,
+      "text": "multiplied by how long that change lasts,",
+      "en": "multiplied by how long that change lasts,",
+      "zh": ""
+    },
+    {
+      "start": 786.0,
+      "duration": 1.92,
+      "text": "so multiplied by epsilon.",
+      "en": "so multiplied by epsilon.",
+      "zh": ""
+    },
+    {
+      "start": 789.06,
+      "duration": 2.25,
+      "text": "But now also remember that the result",
+      "en": "But now also remember that the result",
+      "zh": ""
+    },
+    {
+      "start": 791.31,
+      "duration": 3.36,
+      "text": "is gonna be the exact same now as a little while later,",
+      "en": "is gonna be the exact same now as a little while later,",
+      "zh": ""
+    },
+    {
+      "start": 794.67,
+      "duration": 2.7,
+      "text": "which means that whatever this term is,",
+      "en": "which means that whatever this term is,",
+      "zh": ""
+    },
+    {
+      "start": 797.37,
+      "duration": 4.08,
+      "text": "the dL over dt, doesn't affect the equations of motion,",
+      "en": "the dL over dt, doesn't affect the equations of motion,",
+      "zh": ""
+    },
+    {
+      "start": 801.45,
+      "duration": 2.97,
+      "text": "and it's from this symmetry in the action",
+      "en": "and it's from this symmetry in the action",
+      "zh": ""
+    },
+    {
+      "start": 804.42,
+      "duration": 3.03,
+      "text": "that we're gonna be able to find the conserved quantity.",
+      "en": "that we're gonna be able to find the conserved quantity.",
+      "zh": ""
+    },
+    {
+      "start": 807.45,
+      "duration": 3.93,
+      "text": "So let's take dL/dt and rewrite it using the chain rule.",
+      "en": "So let's take dL/dt and rewrite it using the chain rule.",
+      "zh": ""
+    },
+    {
+      "start": 811.38,
+      "duration": 3.69,
+      "text": "That gives us the partial derivative of L with respect to X",
+      "en": "That gives us the partial derivative of L with respect to X",
+      "zh": ""
+    },
+    {
+      "start": 815.07,
+      "duration": 1.74,
+      "text": "times dx over dt,",
+      "en": "times dx over dt,",
+      "zh": ""
+    },
+    {
+      "start": 816.81,
+      "duration": 3.0,
+      "text": "plus the partial derivative of L with respect to v",
+      "en": "plus the partial derivative of L with respect to v",
+      "zh": ""
+    },
+    {
+      "start": 819.81,
+      "duration": 1.92,
+      "text": "times dv over dt.",
+      "en": "times dv over dt.",
+      "zh": ""
+    },
+    {
+      "start": 821.73,
+      "duration": 2.43,
+      "text": "But we can sub in the partial derivative of L",
+      "en": "But we can sub in the partial derivative of L",
+      "zh": ""
+    },
+    {
+      "start": 824.16,
+      "duration": 1.29,
+      "text": "with respect to x",
+      "en": "with respect to x",
+      "zh": ""
+    },
+    {
+      "start": 825.45,
+      "duration": 2.76,
+      "text": "with this term from the Euler-Lagrange equation.",
+      "en": "with this term from the Euler-Lagrange equation.",
+      "zh": ""
+    },
+    {
+      "start": 828.21,
+      "duration": 1.59,
+      "text": "And we can simplify this further",
+      "en": "And we can simplify this further",
+      "zh": ""
+    },
+    {
+      "start": 829.8,
+      "duration": 2.13,
+      "text": "by writing dx over dt as v,",
+      "en": "by writing dx over dt as v,",
+      "zh": ""
+    },
+    {
+      "start": 831.93,
+      "duration": 2.22,
+      "text": "and that gives us this expression.",
+      "en": "and that gives us this expression.",
+      "zh": ""
+    },
+    {
+      "start": 834.15,
+      "duration": 2.22,
+      "text": "And now notice what we've got right here.",
+      "en": "And now notice what we've got right here.",
+      "zh": ""
+    },
+    {
+      "start": 836.37,
+      "duration": 4.02,
+      "text": "We've got the time derivative of some function, dL over dv,",
+      "en": "We've got the time derivative of some function, dL over dv,",
+      "zh": ""
+    },
+    {
+      "start": 840.39,
+      "duration": 3.87,
+      "text": "times another function, plus that first function",
+      "en": "times another function, plus that first function",
+      "zh": ""
+    },
+    {
+      "start": 844.26,
+      "duration": 2.67,
+      "text": "times the time derivative of the second function.",
+      "en": "times the time derivative of the second function.",
+      "zh": ""
+    },
+    {
+      "start": 846.93,
+      "duration": 2.73,
+      "text": "So we can use the reverse of the product rule",
+      "en": "So we can use the reverse of the product rule",
+      "zh": ""
+    },
+    {
+      "start": 849.66,
+      "duration": 4.05,
+      "text": "to simplify this to the time derivative of dL over dv",
+      "en": "to simplify this to the time derivative of dL over dv",
+      "zh": ""
+    },
+    {
+      "start": 853.71,
+      "duration": 1.65,
+      "text": "times v.",
+      "en": "times v.",
+      "zh": ""
+    },
+    {
+      "start": 855.36,
+      "duration": 4.53,
+      "text": "Then as a final step, we can bring dL over dt to the right.",
+      "en": "Then as a final step, we can bring dL over dt to the right.",
+      "zh": ""
+    },
+    {
+      "start": 859.89,
+      "duration": 1.08,
+      "text": "So what we found is that",
+      "en": "So what we found is that",
+      "zh": ""
+    },
+    {
+      "start": 860.97,
+      "duration": 2.04,
+      "text": "if you take the time derivative of this quantity,",
+      "en": "if you take the time derivative of this quantity,",
+      "zh": ""
+    },
+    {
+      "start": 863.01,
+      "duration": 1.68,
+      "text": "it's equal to zero,",
+      "en": "it's equal to zero,",
+      "zh": ""
+    },
+    {
+      "start": 864.69,
+      "duration": 3.96,
+      "text": "which means that whatever this is has to be a constant.",
+      "en": "which means that whatever this is has to be a constant.",
+      "zh": ""
+    },
+    {
+      "start": 868.65,
+      "duration": 1.38,
+      "text": "So what is it?",
+      "en": "So what is it?",
+      "zh": ""
+    },
+    {
+      "start": 870.03,
+      "duration": 4.07,
+      "text": "Well, remember that in the simplest case, the Lagrangian",
+      "en": "Well, remember that in the simplest case, the Lagrangian",
+      "zh": ""
+    },
+    {
+      "start": 874.1,
+      "duration": 2.89,
+      "text": "is just equal to the kinetic minus potential energy,",
+      "en": "is just equal to the kinetic minus potential energy,",
+      "zh": ""
+    },
+    {
+      "start": 876.99,
+      "duration": 5.0,
+      "text": "which we can write as 1/2 mv squared minus v.",
+      "en": "which we can write as 1/2 mv squared minus v.",
+      "zh": ""
+    },
+    {
+      "start": 882.57,
+      "duration": 3.63,
+      "text": "So if we take the partial derivative of the Lagrangian",
+      "en": "So if we take the partial derivative of the Lagrangian",
+      "zh": ""
+    },
+    {
+      "start": 886.2,
+      "duration": 4.29,
+      "text": "with respect to v, we're just gonna get d over dt,",
+      "en": "with respect to v, we're just gonna get d over dt,",
+      "zh": ""
+    },
+    {
+      "start": 890.49,
+      "duration": 2.51,
+      "text": "m times v multiplied by v,",
+      "en": "m times v multiplied by v,",
+      "zh": ""
+    },
+    {
+      "start": 893.0,
+      "duration": 2.08,
+      "text": "so this is gonna become mv squared.",
+      "en": "so this is gonna become mv squared.",
+      "zh": ""
+    },
+    {
+      "start": 895.08,
+      "duration": 1.62,
+      "text": "And then we can sub in the Lagrangian.",
+      "en": "And then we can sub in the Lagrangian.",
+      "zh": ""
+    },
+    {
+      "start": 896.7,
+      "duration": 5.0,
+      "text": "So this becomes minus 1/2 mv squared minus v,",
+      "en": "So this becomes minus 1/2 mv squared minus v,",
+      "zh": ""
+    },
+    {
+      "start": 903.06,
+      "duration": 1.05,
+      "text": "but also minus here.",
+      "en": "but also minus here.",
+      "zh": ""
+    },
+    {
+      "start": 904.11,
+      "duration": 4.38,
+      "text": "So this becomes plus v, and all of that's equal to zero,",
+      "en": "So this becomes plus v, and all of that's equal to zero,",
+      "zh": ""
+    },
+    {
+      "start": 908.49,
+      "duration": 4.86,
+      "text": "which we can simplify to just 1/2 mv squared",
+      "en": "which we can simplify to just 1/2 mv squared",
+      "zh": ""
+    },
+    {
+      "start": 913.35,
+      "duration": 4.38,
+      "text": "plus v is equal to zero.",
+      "en": "plus v is equal to zero.",
+      "zh": ""
+    },
+    {
+      "start": 917.73,
+      "duration": 3.63,
+      "text": "But wait a second because this is just the total energy.",
+      "en": "But wait a second because this is just the total energy.",
+      "zh": ""
+    },
+    {
+      "start": 921.36,
+      "duration": 3.24,
+      "text": "So what we've discovered is that time translation symmetry",
+      "en": "So what we've discovered is that time translation symmetry",
+      "zh": ""
+    },
+    {
+      "start": 924.6,
+      "duration": 3.28,
+      "text": "is equivalent to saying that energy is conserved.",
+      "en": "is equivalent to saying that energy is conserved.",
+      "zh": ""
+    },
+    {
+      "start": 927.88,
+      "duration": 1.43,
+      "text": "(dramatic orchestral music)",
+      "en": "(dramatic orchestral music)",
+      "zh": ""
+    },
+    {
+      "start": 929.31,
+      "duration": 2.28,
+      "text": "- The principle of conservation of energy",
+      "en": "- The principle of conservation of energy",
+      "zh": ""
+    },
+    {
+      "start": 931.59,
+      "duration": 3.45,
+      "text": "is a direct consequence of time translation symmetry.",
+      "en": "is a direct consequence of time translation symmetry.",
+      "zh": ""
+    },
+    {
+      "start": 937.11,
+      "duration": 1.53,
+      "text": "In a theorem, Noether proved",
+      "en": "In a theorem, Noether proved",
+      "zh": ""
+    },
+    {
+      "start": 938.64,
+      "duration": 2.67,
+      "text": "that all of these examples are no coincidence.",
+      "en": "that all of these examples are no coincidence.",
+      "zh": ""
+    },
+    {
+      "start": 942.15,
+      "duration": 2.25,
+      "text": "For centuries, people had no idea",
+      "en": "For centuries, people had no idea",
+      "zh": ""
+    },
+    {
+      "start": 944.4,
+      "duration": 1.89,
+      "text": "where conservation laws came from.",
+      "en": "where conservation laws came from.",
+      "zh": ""
+    },
+    {
+      "start": 946.29,
+      "duration": 3.84,
+      "text": "But now Noether had discovered the origin of all of them.",
+      "en": "But now Noether had discovered the origin of all of them.",
+      "zh": ""
+    },
+    {
+      "start": 950.13,
+      "duration": 3.12,
+      "text": "She proved that anytime you have a continuous symmetry,",
+      "en": "She proved that anytime you have a continuous symmetry,",
+      "zh": ""
+    },
+    {
+      "start": 953.25,
+      "duration": 3.03,
+      "text": "you get a corresponding conservation law.",
+      "en": "you get a corresponding conservation law.",
+      "zh": ""
+    },
+    {
+      "start": 956.28,
+      "duration": 2.97,
+      "text": "Translational symmetry gives you conservation of momentum,",
+      "en": "Translational symmetry gives you conservation of momentum,",
+      "zh": ""
+    },
+    {
+      "start": 959.25,
+      "duration": 1.65,
+      "text": "rotational symmetry gives you",
+      "en": "rotational symmetry gives you",
+      "zh": ""
+    },
+    {
+      "start": 960.9,
+      "duration": 1.77,
+      "text": "conservation of angular momentum,",
+      "en": "conservation of angular momentum,",
+      "zh": ""
+    },
+    {
+      "start": 962.67,
+      "duration": 1.56,
+      "text": "and time translation symmetry",
+      "en": "and time translation symmetry",
+      "zh": ""
+    },
+    {
+      "start": 964.23,
+      "duration": 2.1,
+      "text": "gives you conservation of energy.",
+      "en": "gives you conservation of energy.",
+      "zh": ""
+    },
+    {
+      "start": 968.01,
+      "duration": 3.99,
+      "text": "But these are all symmetries of a static empty universe.",
+      "en": "But these are all symmetries of a static empty universe.",
+      "zh": ""
+    },
+    {
+      "start": 973.11,
+      "duration": 2.46,
+      "text": "The universe we live in is very different.",
+      "en": "The universe we live in is very different.",
+      "zh": ""
+    },
+    {
+      "start": 976.47,
+      "duration": 2.91,
+      "text": "In the 1920s, astronomers measured the velocities",
+      "en": "In the 1920s, astronomers measured the velocities",
+      "zh": ""
+    },
+    {
+      "start": 979.38,
+      "duration": 1.68,
+      "text": "of distant galaxies,",
+      "en": "of distant galaxies,",
+      "zh": ""
+    },
+    {
+      "start": 981.06,
+      "duration": 3.84,
+      "text": "and they realized all of them are moving away from us.",
+      "en": "and they realized all of them are moving away from us.",
+      "zh": ""
+    },
+    {
+      "start": 984.9,
+      "duration": 2.91,
+      "text": "The farther away they are, the faster they're moving.",
+      "en": "The farther away they are, the faster they're moving.",
+      "zh": ""
+    },
+    {
+      "start": 988.83,
+      "duration": 1.29,
+      "text": "The implication was clear.",
+      "en": "The implication was clear.",
+      "zh": ""
+    },
+    {
+      "start": 990.12,
+      "duration": 1.11,
+      "text": "In the distant past,",
+      "en": "In the distant past,",
+      "zh": ""
+    },
+    {
+      "start": 991.23,
+      "duration": 3.36,
+      "text": "everything must have been much closer together.",
+      "en": "everything must have been much closer together.",
+      "zh": ""
+    },
+    {
+      "start": 994.59,
+      "duration": 3.15,
+      "text": "In the 1990s, precise measurements of supernovae",
+      "en": "In the 1990s, precise measurements of supernovae",
+      "zh": ""
+    },
+    {
+      "start": 997.74,
+      "duration": 3.03,
+      "text": "revealed that not only was the universe expanding,",
+      "en": "revealed that not only was the universe expanding,",
+      "zh": ""
+    },
+    {
+      "start": 1000.77,
+      "duration": 2.01,
+      "text": "but that expansion was speeding up.",
+      "en": "but that expansion was speeding up.",
+      "zh": ""
+    },
+    {
+      "start": 1004.58,
+      "duration": 1.62,
+      "text": "This means over large timescales,",
+      "en": "This means over large timescales,",
+      "zh": ""
+    },
+    {
+      "start": 1006.2,
+      "duration": 2.7,
+      "text": "our universe is not symmetric in time.",
+      "en": "our universe is not symmetric in time.",
+      "zh": ""
+    },
+    {
+      "start": 1008.9,
+      "duration": 2.49,
+      "text": "It was very different 13 billion years ago,",
+      "en": "It was very different 13 billion years ago,",
+      "zh": ""
+    },
+    {
+      "start": 1011.39,
+      "duration": 2.5,
+      "text": "and it'll be different billions of years from now.",
+      "en": "and it'll be different billions of years from now.",
+      "zh": ""
+    },
+    {
+      "start": 1015.05,
+      "duration": 2.07,
+      "text": "Since we don't have time symmetry,",
+      "en": "Since we don't have time symmetry,",
+      "zh": ""
+    },
+    {
+      "start": 1017.96,
+      "duration": 2.79,
+      "text": "that also means energy, as we usually think of it,",
+      "en": "that also means energy, as we usually think of it,",
+      "zh": ""
+    },
+    {
+      "start": 1020.75,
+      "duration": 1.74,
+      "text": "isn't conserved.",
+      "en": "isn't conserved.",
+      "zh": ""
+    },
+    {
+      "start": 1022.49,
+      "duration": 2.46,
+      "text": "- There's no reason for energy to be conserved anymore",
+      "en": "- There's no reason for energy to be conserved anymore",
+      "zh": ""
+    },
+    {
+      "start": 1024.95,
+      "duration": 2.25,
+      "text": "'cause you don't have that symmetry.",
+      "en": "'cause you don't have that symmetry.",
+      "zh": ""
+    },
+    {
+      "start": 1027.2,
+      "duration": 1.59,
+      "text": "- [Derek] Think about a photon of visible light",
+      "en": "- [Derek] Think about a photon of visible light",
+      "zh": ""
+    },
+    {
+      "start": 1028.79,
+      "duration": 3.24,
+      "text": "emitted 380,000 years after the Big Bang,",
+      "en": "emitted 380,000 years after the Big Bang,",
+      "zh": ""
+    },
+    {
+      "start": 1032.03,
+      "duration": 2.22,
+      "text": "it travels through the universe unimpeded",
+      "en": "it travels through the universe unimpeded",
+      "zh": ""
+    },
+    {
+      "start": 1034.25,
+      "duration": 2.1,
+      "text": "to arrive at our telescopes,",
+      "en": "to arrive at our telescopes,",
+      "zh": ""
+    },
+    {
+      "start": 1036.35,
+      "duration": 3.63,
+      "text": "not as visible light but as a microwave.",
+      "en": "not as visible light but as a microwave.",
+      "zh": ""
+    },
+    {
+      "start": 1039.98,
+      "duration": 3.36,
+      "text": "It has lost 99.9% of its energy.",
+      "en": "It has lost 99.9% of its energy.",
+      "zh": ""
+    },
+    {
+      "start": 1043.34,
+      "duration": 1.32,
+      "text": "- Where did the energy go?",
+      "en": "- Where did the energy go?",
+      "zh": ""
+    },
+    {
+      "start": 1045.71,
+      "duration": 1.59,
+      "text": "Doesn't go anywhere.",
+      "en": "Doesn't go anywhere.",
+      "zh": ""
+    },
+    {
+      "start": 1047.3,
+      "duration": 1.26,
+      "text": "Energy's not conserved.",
+      "en": "Energy's not conserved.",
+      "zh": ""
+    },
+    {
+      "start": 1050.21,
+      "duration": 1.26,
+      "text": "- [Derek] And this is exactly",
+      "en": "- [Derek] And this is exactly",
+      "zh": ""
+    },
+    {
+      "start": 1051.47,
+      "duration": 2.1,
+      "text": "what's happening to the rock as well.",
+      "en": "what's happening to the rock as well.",
+      "zh": ""
+    },
+    {
+      "start": 1053.57,
+      "duration": 1.47,
+      "text": "It starts off with energy,",
+      "en": "It starts off with energy,",
+      "zh": ""
+    },
+    {
+      "start": 1055.04,
+      "duration": 2.67,
+      "text": "but as it travels through the expanding universe,",
+      "en": "but as it travels through the expanding universe,",
+      "zh": ""
+    },
+    {
+      "start": 1057.71,
+      "duration": 1.41,
+      "text": "it slows down and stops.",
+      "en": "it slows down and stops.",
+      "zh": ""
+    },
+    {
+      "start": 1059.12,
+      "duration": 1.71,
+      "text": "(gentle thoughtful music)",
+      "en": "(gentle thoughtful music)",
+      "zh": ""
+    },
+    {
+      "start": 1060.83,
+      "duration": 4.56,
+      "text": "The energy doesn't really go anywhere; it just disappears.",
+      "en": "The energy doesn't really go anywhere; it just disappears.",
+      "zh": ""
+    },
+    {
+      "start": 1065.39,
+      "duration": 2.73,
+      "text": "- It ends up coming to rest",
+      "en": "- It ends up coming to rest",
+      "zh": ""
+    },
+    {
+      "start": 1068.12,
+      "duration": 4.02,
+      "text": "with regard to the other particles in the universe.",
+      "en": "with regard to the other particles in the universe.",
+      "zh": ""
+    },
+    {
+      "start": 1072.14,
+      "duration": 2.13,
+      "text": "- This doesn't violate any laws of physics",
+      "en": "- This doesn't violate any laws of physics",
+      "zh": ""
+    },
+    {
+      "start": 1074.27,
+      "duration": 2.7,
+      "text": "because energy and momentum aren't conserved",
+      "en": "because energy and momentum aren't conserved",
+      "zh": ""
+    },
+    {
+      "start": 1076.97,
+      "duration": 2.4,
+      "text": "if there is no time or spatial symmetry.",
+      "en": "if there is no time or spatial symmetry.",
+      "zh": ""
+    },
+    {
+      "start": 1079.37,
+      "duration": 1.62,
+      "text": "- So once you know that",
+      "en": "- So once you know that",
+      "zh": ""
+    },
+    {
+      "start": 1080.99,
+      "duration": 1.83,
+      "text": "symmetries give you conservation laws,",
+      "en": "symmetries give you conservation laws,",
+      "zh": ""
+    },
+    {
+      "start": 1082.82,
+      "duration": 2.76,
+      "text": "and so once those symmetries are gone,",
+      "en": "and so once those symmetries are gone,",
+      "zh": ""
+    },
+    {
+      "start": 1085.58,
+      "duration": 0.83,
+      "text": "you don't have to worry about",
+      "en": "you don't have to worry about",
+      "zh": ""
+    },
+    {
+      "start": 1086.41,
+      "duration": 1.6,
+      "text": "those conservation laws anymore,",
+      "en": "those conservation laws anymore,",
+      "zh": ""
+    },
+    {
+      "start": 1088.01,
+      "duration": 2.01,
+      "text": "then you can start dropping these concepts",
+      "en": "then you can start dropping these concepts",
+      "zh": ""
+    },
+    {
+      "start": 1090.02,
+      "duration": 2.34,
+      "text": "of trying to force something",
+      "en": "of trying to force something",
+      "zh": ""
+    },
+    {
+      "start": 1092.36,
+      "duration": 3.18,
+      "text": "that you want to say is fundamental into the theory,",
+      "en": "that you want to say is fundamental into the theory,",
+      "zh": ""
+    },
+    {
+      "start": 1095.54,
+      "duration": 3.18,
+      "text": "and you just deal with what the theory gives you.",
+      "en": "and you just deal with what the theory gives you.",
+      "zh": ""
+    },
+    {
+      "start": 1098.72,
+      "duration": 2.61,
+      "text": "- But if energy isn't conserved in our universe,",
+      "en": "- But if energy isn't conserved in our universe,",
+      "zh": ""
+    },
+    {
+      "start": 1101.33,
+      "duration": 2.61,
+      "text": "then why does it usually seem like it is?",
+      "en": "then why does it usually seem like it is?",
+      "zh": ""
+    },
+    {
+      "start": 1103.94,
+      "duration": 1.53,
+      "text": "(light mysterious music)",
+      "en": "(light mysterious music)",
+      "zh": ""
+    },
+    {
+      "start": 1105.47,
+      "duration": 2.13,
+      "text": "That's because when you're looking at the short timescales",
+      "en": "That's because when you're looking at the short timescales",
+      "zh": ""
+    },
+    {
+      "start": 1107.6,
+      "duration": 0.99,
+      "text": "that we're used to,",
+      "en": "that we're used to,",
+      "zh": ""
+    },
+    {
+      "start": 1108.59,
+      "duration": 2.58,
+      "text": "time translation symmetry pretty much holds;",
+      "en": "time translation symmetry pretty much holds;",
+      "zh": ""
+    },
+    {
+      "start": 1111.17,
+      "duration": 2.49,
+      "text": "an experiment done today will give the same results",
+      "en": "an experiment done today will give the same results",
+      "zh": ""
+    },
+    {
+      "start": 1113.66,
+      "duration": 1.92,
+      "text": "as the same experiment done tomorrow.",
+      "en": "as the same experiment done tomorrow.",
+      "zh": ""
+    },
+    {
+      "start": 1115.58,
+      "duration": 2.64,
+      "text": "So that means for all intents and purposes,",
+      "en": "So that means for all intents and purposes,",
+      "zh": ""
+    },
+    {
+      "start": 1118.22,
+      "duration": 1.8,
+      "text": "energy is conserved.",
+      "en": "energy is conserved.",
+      "zh": ""
+    },
+    {
+      "start": 1120.02,
+      "duration": 3.36,
+      "text": "But over large timescales on the order of millions of years,",
+      "en": "But over large timescales on the order of millions of years,",
+      "zh": ""
+    },
+    {
+      "start": 1123.38,
+      "duration": 2.94,
+      "text": "well, then the expansion of the universe can't be neglected,",
+      "en": "well, then the expansion of the universe can't be neglected,",
+      "zh": ""
+    },
+    {
+      "start": 1126.32,
+      "duration": 2.07,
+      "text": "and the symmetry is broken.",
+      "en": "and the symmetry is broken.",
+      "zh": ""
+    },
+    {
+      "start": 1128.39,
+      "duration": 2.76,
+      "text": "So only when you look at timescales that big",
+      "en": "So only when you look at timescales that big",
+      "zh": ""
+    },
+    {
+      "start": 1131.15,
+      "duration": 2.97,
+      "text": "do you notice that energy isn't conserved.",
+      "en": "do you notice that energy isn't conserved.",
+      "zh": ""
+    },
+    {
+      "start": 1135.68,
+      "duration": 2.67,
+      "text": "Noether's first theorem explains why a rock",
+      "en": "Noether's first theorem explains why a rock",
+      "zh": ""
+    },
+    {
+      "start": 1138.35,
+      "duration": 1.89,
+      "text": "or a photon loses energy,",
+      "en": "or a photon loses energy,",
+      "zh": ""
+    },
+    {
+      "start": 1140.24,
+      "duration": 1.98,
+      "text": "but it didn't fully solve the problem",
+      "en": "but it didn't fully solve the problem",
+      "zh": ""
+    },
+    {
+      "start": 1142.22,
+      "duration": 3.12,
+      "text": "of energy conservation in general relativity.",
+      "en": "of energy conservation in general relativity.",
+      "zh": ""
+    },
+    {
+      "start": 1145.34,
+      "duration": 3.51,
+      "text": "See, so far, Noether had only dealt with an empty universe",
+      "en": "See, so far, Noether had only dealt with an empty universe",
+      "zh": ""
+    },
+    {
+      "start": 1148.85,
+      "duration": 1.05,
+      "text": "where you could shift the whole universe",
+      "en": "where you could shift the whole universe",
+      "zh": ""
+    },
+    {
+      "start": 1149.9,
+      "duration": 2.61,
+      "text": "and the laws of physics would stay the same.",
+      "en": "and the laws of physics would stay the same.",
+      "zh": ""
+    },
+    {
+      "start": 1152.51,
+      "duration": 2.22,
+      "text": "But this doesn't work in general relativity,",
+      "en": "But this doesn't work in general relativity,",
+      "zh": ""
+    },
+    {
+      "start": 1154.73,
+      "duration": 3.21,
+      "text": "where the curvature can change from one point to another.",
+      "en": "where the curvature can change from one point to another.",
+      "zh": ""
+    },
+    {
+      "start": 1157.94,
+      "duration": 1.62,
+      "text": "Now if you shift the whole universe,",
+      "en": "Now if you shift the whole universe,",
+      "zh": ""
+    },
+    {
+      "start": 1159.56,
+      "duration": 2.49,
+      "text": "rotate it, or let it evolve in time,",
+      "en": "rotate it, or let it evolve in time,",
+      "zh": ""
+    },
+    {
+      "start": 1162.05,
+      "duration": 2.49,
+      "text": "things don't stay exactly the same.",
+      "en": "things don't stay exactly the same.",
+      "zh": ""
+    },
+    {
+      "start": 1164.54,
+      "duration": 3.06,
+      "text": "So you no longer have these global symmetries,",
+      "en": "So you no longer have these global symmetries,",
+      "zh": ""
+    },
+    {
+      "start": 1167.6,
+      "duration": 3.3,
+      "text": "but Noether realized there are still other symmetries left.",
+      "en": "but Noether realized there are still other symmetries left.",
+      "zh": ""
+    },
+    {
+      "start": 1171.98,
+      "duration": 1.62,
+      "text": "See, no matter how you're moving,",
+      "en": "See, no matter how you're moving,",
+      "zh": ""
+    },
+    {
+      "start": 1173.6,
+      "duration": 2.4,
+      "text": "the laws of physics always look the same.",
+      "en": "the laws of physics always look the same.",
+      "zh": ""
+    },
+    {
+      "start": 1176.0,
+      "duration": 1.56,
+      "text": "That's general covariance,",
+      "en": "That's general covariance,",
+      "zh": ""
+    },
+    {
+      "start": 1177.56,
+      "duration": 3.27,
+      "text": "and it is a kind of symmetry that holds everywhere.",
+      "en": "and it is a kind of symmetry that holds everywhere.",
+      "zh": ""
+    },
+    {
+      "start": 1180.83,
+      "duration": 2.13,
+      "text": "It means that in any small region,",
+      "en": "It means that in any small region,",
+      "zh": ""
+    },
+    {
+      "start": 1182.96,
+      "duration": 2.79,
+      "text": "we can always change our frame of reference.",
+      "en": "we can always change our frame of reference.",
+      "zh": ""
+    },
+    {
+      "start": 1185.75,
+      "duration": 2.43,
+      "text": "We can transform the points of space around",
+      "en": "We can transform the points of space around",
+      "zh": ""
+    },
+    {
+      "start": 1188.18,
+      "duration": 1.29,
+      "text": "as much as we like.",
+      "en": "as much as we like.",
+      "zh": ""
+    },
+    {
+      "start": 1189.47,
+      "duration": 3.33,
+      "text": "And since these transformations aren't global but local,",
+      "en": "And since these transformations aren't global but local,",
+      "zh": ""
+    },
+    {
+      "start": 1192.8,
+      "duration": 2.79,
+      "text": "these are called local symmetries.",
+      "en": "these are called local symmetries.",
+      "zh": ""
+    },
+    {
+      "start": 1195.59,
+      "duration": 1.08,
+      "text": "In a second theorem,",
+      "en": "In a second theorem,",
+      "zh": ""
+    },
+    {
+      "start": 1196.67,
+      "duration": 2.64,
+      "text": "Noether proved that for these local symmetries,",
+      "en": "Noether proved that for these local symmetries,",
+      "zh": ""
+    },
+    {
+      "start": 1199.31,
+      "duration": 2.55,
+      "text": "you no longer get proper conservation laws",
+      "en": "you no longer get proper conservation laws",
+      "zh": ""
+    },
+    {
+      "start": 1201.86,
+      "duration": 2.34,
+      "text": "like we're used to in classical physics.",
+      "en": "like we're used to in classical physics.",
+      "zh": ""
+    },
+    {
+      "start": 1204.2,
+      "duration": 2.67,
+      "text": "Instead, you get something that only works locally:",
+      "en": "Instead, you get something that only works locally:",
+      "zh": ""
+    },
+    {
+      "start": 1206.87,
+      "duration": 1.92,
+      "text": "a continuity equation.",
+      "en": "a continuity equation.",
+      "zh": ""
+    },
+    {
+      "start": 1208.79,
+      "duration": 1.89,
+      "text": "One example of a continuity equation",
+      "en": "One example of a continuity equation",
+      "zh": ""
+    },
+    {
+      "start": 1210.68,
+      "duration": 2.37,
+      "text": "describes the flow of water through a pipe.",
+      "en": "describes the flow of water through a pipe.",
+      "zh": ""
+    },
+    {
+      "start": 1213.95,
+      "duration": 3.15,
+      "text": "This first term tells you how the amount of water changes",
+      "en": "This first term tells you how the amount of water changes",
+      "zh": ""
+    },
+    {
+      "start": 1217.1,
+      "duration": 1.5,
+      "text": "in a section of the pipe,",
+      "en": "in a section of the pipe,",
+      "zh": ""
+    },
+    {
+      "start": 1218.6,
+      "duration": 1.86,
+      "text": "and the second tells you the difference",
+      "en": "and the second tells you the difference",
+      "zh": ""
+    },
+    {
+      "start": 1220.46,
+      "duration": 2.04,
+      "text": "between how much water is flowing out",
+      "en": "between how much water is flowing out",
+      "zh": ""
+    },
+    {
+      "start": 1222.5,
+      "duration": 2.4,
+      "text": "and how much is flowing in.",
+      "en": "and how much is flowing in.",
+      "zh": ""
+    },
+    {
+      "start": 1224.9,
+      "duration": 2.01,
+      "text": "In this case, the first term is positive",
+      "en": "In this case, the first term is positive",
+      "zh": ""
+    },
+    {
+      "start": 1226.91,
+      "duration": 3.27,
+      "text": "because the water level in this pipe section is increasing,",
+      "en": "because the water level in this pipe section is increasing,",
+      "zh": ""
+    },
+    {
+      "start": 1230.18,
+      "duration": 1.65,
+      "text": "and the second term will be negative",
+      "en": "and the second term will be negative",
+      "zh": ""
+    },
+    {
+      "start": 1231.83,
+      "duration": 4.2,
+      "text": "because less water is flowing out of the section than in.",
+      "en": "because less water is flowing out of the section than in.",
+      "zh": ""
+    },
+    {
+      "start": 1236.03,
+      "duration": 2.52,
+      "text": "Together, the two terms cancel to give zero,",
+      "en": "Together, the two terms cancel to give zero,",
+      "zh": ""
+    },
+    {
+      "start": 1238.55,
+      "duration": 3.75,
+      "text": "which guarantees that no water is created or destroyed.",
+      "en": "which guarantees that no water is created or destroyed.",
+      "zh": ""
+    },
+    {
+      "start": 1242.3,
+      "duration": 2.58,
+      "text": "If the total amount of water changes in a section,",
+      "en": "If the total amount of water changes in a section,",
+      "zh": ""
+    },
+    {
+      "start": 1244.88,
+      "duration": 3.72,
+      "text": "there must either be excess water flowing in or out.",
+      "en": "there must either be excess water flowing in or out.",
+      "zh": ""
+    },
+    {
+      "start": 1248.6,
+      "duration": 1.74,
+      "text": "- In the case of general relativity,",
+      "en": "- In the case of general relativity,",
+      "zh": ""
+    },
+    {
+      "start": 1250.34,
+      "duration": 2.43,
+      "text": "Noether found a similar continuity equation,",
+      "en": "Noether found a similar continuity equation,",
+      "zh": ""
+    },
+    {
+      "start": 1252.77,
+      "duration": 2.01,
+      "text": "but with an important difference.",
+      "en": "but with an important difference.",
+      "zh": ""
+    },
+    {
+      "start": 1254.78,
+      "duration": 3.21,
+      "text": "Imagine that now our pipes are little patches of space-time,",
+      "en": "Imagine that now our pipes are little patches of space-time,",
+      "zh": ""
+    },
+    {
+      "start": 1257.99,
+      "duration": 4.02,
+      "text": "and the water is energy flowing from one patch to another.",
+      "en": "and the water is energy flowing from one patch to another.",
+      "zh": ""
+    },
+    {
+      "start": 1262.01,
+      "duration": 1.44,
+      "text": "In any individual section,",
+      "en": "In any individual section,",
+      "zh": ""
+    },
+    {
+      "start": 1263.45,
+      "duration": 3.42,
+      "text": "the continuity equation looks exactly the same as before,",
+      "en": "the continuity equation looks exactly the same as before,",
+      "zh": ""
+    },
+    {
+      "start": 1266.87,
+      "duration": 2.25,
+      "text": "so that in any small region of space-time,",
+      "en": "so that in any small region of space-time,",
+      "zh": ""
+    },
+    {
+      "start": 1269.12,
+      "duration": 1.77,
+      "text": "energy is conserved.",
+      "en": "energy is conserved.",
+      "zh": ""
+    },
+    {
+      "start": 1270.89,
+      "duration": 2.49,
+      "text": "But when we link these sections together,",
+      "en": "But when we link these sections together,",
+      "zh": ""
+    },
+    {
+      "start": 1273.38,
+      "duration": 3.27,
+      "text": "we need to take into account the curvature of space-time.",
+      "en": "we need to take into account the curvature of space-time.",
+      "zh": ""
+    },
+    {
+      "start": 1276.65,
+      "duration": 2.07,
+      "text": "And this changes the equation.",
+      "en": "And this changes the equation.",
+      "zh": ""
+    },
+    {
+      "start": 1278.72,
+      "duration": 2.1,
+      "text": "Now, it's as if there are little cracks appearing",
+      "en": "Now, it's as if there are little cracks appearing",
+      "zh": ""
+    },
+    {
+      "start": 1280.82,
+      "duration": 2.19,
+      "text": "between different sections of pipe,",
+      "en": "between different sections of pipe,",
+      "zh": ""
+    },
+    {
+      "start": 1283.01,
+      "duration": 2.46,
+      "text": "between the local patches of space-time,",
+      "en": "between the local patches of space-time,",
+      "zh": ""
+    },
+    {
+      "start": 1285.47,
+      "duration": 3.69,
+      "text": "and through those cracks, energy can leak out.",
+      "en": "and through those cracks, energy can leak out.",
+      "zh": ""
+    },
+    {
+      "start": 1289.16,
+      "duration": 3.18,
+      "text": "- In special activity, the pipe is imperturbable",
+      "en": "- In special activity, the pipe is imperturbable",
+      "zh": ""
+    },
+    {
+      "start": 1292.34,
+      "duration": 1.83,
+      "text": "because the pipe is fixed.",
+      "en": "because the pipe is fixed.",
+      "zh": ""
+    },
+    {
+      "start": 1294.17,
+      "duration": 2.01,
+      "text": "And in general activity, you know,",
+      "en": "And in general activity, you know,",
+      "zh": ""
+    },
+    {
+      "start": 1296.18,
+      "duration": 2.52,
+      "text": "we have to account for the energy",
+      "en": "we have to account for the energy",
+      "zh": ""
+    },
+    {
+      "start": 1298.7,
+      "duration": 3.15,
+      "text": "that goes into other kinds of change over time,",
+      "en": "that goes into other kinds of change over time,",
+      "zh": ""
+    },
+    {
+      "start": 1301.85,
+      "duration": 2.43,
+      "text": "and that gets correspondingly more tricky.",
+      "en": "and that gets correspondingly more tricky.",
+      "zh": ""
+    },
+    {
+      "start": 1304.28,
+      "duration": 1.56,
+      "text": "- [Derek] Now that we have this new equation,",
+      "en": "- [Derek] Now that we have this new equation,",
+      "zh": ""
+    },
+    {
+      "start": 1305.84,
+      "duration": 1.14,
+      "text": "we can see how it works",
+      "en": "we can see how it works",
+      "zh": ""
+    },
+    {
+      "start": 1306.98,
+      "duration": 3.0,
+      "text": "by expanding it as a sum of different terms.",
+      "en": "by expanding it as a sum of different terms.",
+      "zh": ""
+    },
+    {
+      "start": 1309.98,
+      "duration": 1.68,
+      "text": "This first term is analogous",
+      "en": "This first term is analogous",
+      "zh": ""
+    },
+    {
+      "start": 1311.66,
+      "duration": 2.07,
+      "text": "to the continuity equation from before,",
+      "en": "to the continuity equation from before,",
+      "zh": ""
+    },
+    {
+      "start": 1313.73,
+      "duration": 1.35,
+      "text": "the one which conserves energy",
+      "en": "the one which conserves energy",
+      "zh": ""
+    },
+    {
+      "start": 1315.08,
+      "duration": 2.58,
+      "text": "within a local patch of space-time.",
+      "en": "within a local patch of space-time.",
+      "zh": ""
+    },
+    {
+      "start": 1317.66,
+      "duration": 2.52,
+      "text": "But now we have all these extra terms.",
+      "en": "But now we have all these extra terms.",
+      "zh": ""
+    },
+    {
+      "start": 1320.18,
+      "duration": 2.67,
+      "text": "These describe the curvature of space-time.",
+      "en": "These describe the curvature of space-time.",
+      "zh": ""
+    },
+    {
+      "start": 1322.85,
+      "duration": 2.67,
+      "text": "So as energy decreases in the first term,",
+      "en": "So as energy decreases in the first term,",
+      "zh": ""
+    },
+    {
+      "start": 1325.52,
+      "duration": 2.43,
+      "text": "these curvature terms increase.",
+      "en": "these curvature terms increase.",
+      "zh": ""
+    },
+    {
+      "start": 1327.95,
+      "duration": 3.12,
+      "text": "- The energy that you lose from the system you're tracking,",
+      "en": "- The energy that you lose from the system you're tracking,",
+      "zh": ""
+    },
+    {
+      "start": 1331.07,
+      "duration": 1.8,
+      "text": "we now start attributing it to things like",
+      "en": "we now start attributing it to things like",
+      "zh": ""
+    },
+    {
+      "start": 1332.87,
+      "duration": 1.17,
+      "text": "the gravitational field,",
+      "en": "the gravitational field,",
+      "zh": ""
+    },
+    {
+      "start": 1334.04,
+      "duration": 2.16,
+      "text": "which has changed 'cause the whole universe is stretched.",
+      "en": "which has changed 'cause the whole universe is stretched.",
+      "zh": ""
+    },
+    {
+      "start": 1336.2,
+      "duration": 1.26,
+      "text": "We have to account for the energy",
+      "en": "We have to account for the energy",
+      "zh": ""
+    },
+    {
+      "start": 1337.46,
+      "duration": 1.47,
+      "text": "that we attribute to the action",
+      "en": "that we attribute to the action",
+      "zh": ""
+    },
+    {
+      "start": 1338.93,
+      "duration": 2.46,
+      "text": "of the gravitational field as well",
+      "en": "of the gravitational field as well",
+      "zh": ""
+    },
+    {
+      "start": 1341.39,
+      "duration": 3.3,
+      "text": "because space and time themselves aren't sitting still.",
+      "en": "because space and time themselves aren't sitting still.",
+      "zh": ""
+    },
+    {
+      "start": 1344.69,
+      "duration": 1.62,
+      "text": "- And all of this can be described",
+      "en": "- And all of this can be described",
+      "zh": ""
+    },
+    {
+      "start": 1346.31,
+      "duration": 2.64,
+      "text": "by the continuity equation Noether had found.",
+      "en": "by the continuity equation Noether had found.",
+      "zh": ""
+    },
+    {
+      "start": 1348.95,
+      "duration": 3.09,
+      "text": "But when she looked at it, she realized something.",
+      "en": "But when she looked at it, she realized something.",
+      "zh": ""
+    },
+    {
+      "start": 1352.04,
+      "duration": 3.06,
+      "text": "It was exactly equivalent to the Bianchi identities,",
+      "en": "It was exactly equivalent to the Bianchi identities,",
+      "zh": ""
+    },
+    {
+      "start": 1355.1,
+      "duration": 2.4,
+      "text": "the half-solution Hilbert had found.",
+      "en": "the half-solution Hilbert had found.",
+      "zh": ""
+    },
+    {
+      "start": 1357.5,
+      "duration": 2.46,
+      "text": "He had dismissed it because it only gave you",
+      "en": "He had dismissed it because it only gave you",
+      "zh": ""
+    },
+    {
+      "start": 1359.96,
+      "duration": 2.94,
+      "text": "proper energy conservation in an empty universe.",
+      "en": "proper energy conservation in an empty universe.",
+      "zh": ""
+    },
+    {
+      "start": 1362.9,
+      "duration": 3.12,
+      "text": "But now Noether proved that it was the best you could do",
+      "en": "But now Noether proved that it was the best you could do",
+      "zh": ""
+    },
+    {
+      "start": 1366.02,
+      "duration": 1.32,
+      "text": "in general relativity.",
+      "en": "in general relativity.",
+      "zh": ""
+    },
+    {
+      "start": 1370.25,
+      "duration": 2.64,
+      "text": "With one paper, she had uncovered the source",
+      "en": "With one paper, she had uncovered the source",
+      "zh": ""
+    },
+    {
+      "start": 1372.89,
+      "duration": 3.39,
+      "text": "of all conservation laws, and she had solved the problem",
+      "en": "of all conservation laws, and she had solved the problem",
+      "zh": ""
+    },
+    {
+      "start": 1376.28,
+      "duration": 3.66,
+      "text": "in general relativity that eluded Hilbert and Einstein.",
+      "en": "in general relativity that eluded Hilbert and Einstein.",
+      "zh": ""
+    },
+    {
+      "start": 1379.94,
+      "duration": 1.26,
+      "text": "- She was so amazing.",
+      "en": "- She was so amazing.",
+      "zh": ""
+    },
+    {
+      "start": 1381.2,
+      "duration": 1.41,
+      "text": "I mean, I would go out on a limb,",
+      "en": "I mean, I would go out on a limb,",
+      "zh": ""
+    },
+    {
+      "start": 1382.61,
+      "duration": 2.04,
+      "text": "and I would say these two theorems are probably",
+      "en": "and I would say these two theorems are probably",
+      "zh": ""
+    },
+    {
+      "start": 1384.65,
+      "duration": 2.97,
+      "text": "the most important theorems for physics of the 20th century.",
+      "en": "the most important theorems for physics of the 20th century.",
+      "zh": ""
+    },
+    {
+      "start": 1387.62,
+      "duration": 1.05,
+      "text": "- [Derek] In the following years,",
+      "en": "- [Derek] In the following years,",
+      "zh": ""
+    },
+    {
+      "start": 1388.67,
+      "duration": 1.29,
+      "text": "the University of Gottingen",
+      "en": "the University of Gottingen",
+      "zh": ""
+    },
+    {
+      "start": 1389.96,
+      "duration": 2.73,
+      "text": "took steps to make Noether's position more official,",
+      "en": "took steps to make Noether's position more official,",
+      "zh": ""
+    },
+    {
+      "start": 1392.69,
+      "duration": 3.12,
+      "text": "allowing her to do what she loved most: to teach.",
+      "en": "allowing her to do what she loved most: to teach.",
+      "zh": ""
+    },
+    {
+      "start": 1395.81,
+      "duration": 1.14,
+      "text": "They made her a professor,",
+      "en": "They made her a professor,",
+      "zh": ""
+    },
+    {
+      "start": 1396.95,
+      "duration": 3.39,
+      "text": "and she even got a small salary starting in 1923.",
+      "en": "and she even got a small salary starting in 1923.",
+      "zh": ""
+    },
+    {
+      "start": 1401.51,
+      "duration": 3.69,
+      "text": "But all of that changed on the 30th of January, 1933,",
+      "en": "But all of that changed on the 30th of January, 1933,",
+      "zh": ""
+    },
+    {
+      "start": 1405.2,
+      "duration": 3.27,
+      "text": "when Hitler became chancellor of Germany.",
+      "en": "when Hitler became chancellor of Germany.",
+      "zh": ""
+    },
+    {
+      "start": 1408.47,
+      "duration": 4.02,
+      "text": "The Nazis banned Jewish people from working at universities,",
+      "en": "The Nazis banned Jewish people from working at universities,",
+      "zh": ""
+    },
+    {
+      "start": 1412.49,
+      "duration": 2.64,
+      "text": "and almost immediately, one of her former students",
+      "en": "and almost immediately, one of her former students",
+      "zh": ""
+    },
+    {
+      "start": 1415.13,
+      "duration": 2.61,
+      "text": "told the authorities of her Jewish heritage,",
+      "en": "told the authorities of her Jewish heritage,",
+      "zh": ""
+    },
+    {
+      "start": 1417.74,
+      "duration": 1.56,
+      "text": "and she was suspended.",
+      "en": "and she was suspended.",
+      "zh": ""
+    },
+    {
+      "start": 1420.59,
+      "duration": 1.23,
+      "text": "Despite this dismissal,",
+      "en": "Despite this dismissal,",
+      "zh": ""
+    },
+    {
+      "start": 1421.82,
+      "duration": 2.79,
+      "text": "she continued teaching in the kitchen of her home.",
+      "en": "she continued teaching in the kitchen of her home.",
+      "zh": ""
+    },
+    {
+      "start": 1425.45,
+      "duration": 2.82,
+      "text": "Then one day, one of her old students knocked on her door.",
+      "en": "Then one day, one of her old students knocked on her door.",
+      "zh": ""
+    },
+    {
+      "start": 1428.27,
+      "duration": 1.02,
+      "text": "(hand knocking on door)",
+      "en": "(hand knocking on door)",
+      "zh": ""
+    },
+    {
+      "start": 1429.29,
+      "duration": 3.42,
+      "text": "Clothed in the brown shirt of the Nazi stormtroopers,",
+      "en": "Clothed in the brown shirt of the Nazi stormtroopers,",
+      "zh": ""
+    },
+    {
+      "start": 1432.71,
+      "duration": 1.47,
+      "text": "Noether let him in.",
+      "en": "Noether let him in.",
+      "zh": ""
+    },
+    {
+      "start": 1435.47,
+      "duration": 1.59,
+      "text": "He had come to learn math,",
+      "en": "He had come to learn math,",
+      "zh": ""
+    },
+    {
+      "start": 1437.06,
+      "duration": 1.75,
+      "text": "and Noether was happy to teach him.",
+      "en": "and Noether was happy to teach him.",
+      "zh": ""
+    },
+    {
+      "start": 1439.67,
+      "duration": 2.16,
+      "text": "- I love what this sort of shows about Noether.",
+      "en": "- I love what this sort of shows about Noether.",
+      "zh": ""
+    },
+    {
+      "start": 1441.83,
+      "duration": 3.36,
+      "text": "You know, she truly, deeply cared about math,",
+      "en": "You know, she truly, deeply cared about math,",
+      "zh": ""
+    },
+    {
+      "start": 1445.19,
+      "duration": 1.62,
+      "text": "and she wouldn't discriminate.",
+      "en": "and she wouldn't discriminate.",
+      "zh": ""
+    },
+    {
+      "start": 1446.81,
+      "duration": 3.72,
+      "text": "Whether someone was wearing a Nazi shirt or not;",
+      "en": "Whether someone was wearing a Nazi shirt or not;",
+      "zh": ""
+    },
+    {
+      "start": 1450.53,
+      "duration": 1.35,
+      "text": "she taught all.",
+      "en": "she taught all.",
+      "zh": ""
+    },
+    {
+      "start": 1452.75,
+      "duration": 2.79,
+      "text": "- [Derek] But staying in Germany became untenable.",
+      "en": "- [Derek] But staying in Germany became untenable.",
+      "zh": ""
+    },
+    {
+      "start": 1455.54,
+      "duration": 2.31,
+      "text": "Fortunately, with the help of other academics,",
+      "en": "Fortunately, with the help of other academics,",
+      "zh": ""
+    },
+    {
+      "start": 1457.85,
+      "duration": 3.0,
+      "text": "she managed to obtain a teaching position at Bryn Mawr,",
+      "en": "she managed to obtain a teaching position at Bryn Mawr,",
+      "zh": ""
+    },
+    {
+      "start": 1460.85,
+      "duration": 1.62,
+      "text": "a woman's college in America,",
+      "en": "a woman's college in America,",
+      "zh": ""
+    },
+    {
+      "start": 1462.47,
+      "duration": 2.04,
+      "text": "where she would teach until her death.",
+      "en": "where she would teach until her death.",
+      "zh": ""
+    },
+    {
+      "start": 1465.68,
+      "duration": 1.8,
+      "text": "In an obituary for the New York Times,",
+      "en": "In an obituary for the New York Times,",
+      "zh": ""
+    },
+    {
+      "start": 1467.48,
+      "duration": 1.89,
+      "text": "Einstein wrote that \"Fraulein Noether",
+      "en": "Einstein wrote that \"Fraulein Noether",
+      "zh": ""
+    },
+    {
+      "start": 1469.37,
+      "duration": 2.73,
+      "text": "was the most significant creative mathematical genius",
+      "en": "was the most significant creative mathematical genius",
+      "zh": ""
+    },
+    {
+      "start": 1472.1,
+      "duration": 1.23,
+      "text": "thus far produced",
+      "en": "thus far produced",
+      "zh": ""
+    },
+    {
+      "start": 1473.33,
+      "duration": 2.61,
+      "text": "since the higher education of women began.\"",
+      "en": "since the higher education of women began.\"",
+      "zh": ""
+    },
+    {
+      "start": 1477.05,
+      "duration": 3.22,
+      "text": "- The reason that Noether's theorem is so important",
+      "en": "- The reason that Noether's theorem is so important",
+      "zh": ""
+    },
+    {
+      "start": 1481.22,
+      "duration": 3.21,
+      "text": "is that everybody just changed their state of mind.",
+      "en": "is that everybody just changed their state of mind.",
+      "zh": ""
+    },
+    {
+      "start": 1484.43,
+      "duration": 2.64,
+      "text": "All of a sudden, the physicists were thinking about physics",
+      "en": "All of a sudden, the physicists were thinking about physics",
+      "zh": ""
+    },
+    {
+      "start": 1487.07,
+      "duration": 1.59,
+      "text": "in terms of these symmetries.",
+      "en": "in terms of these symmetries.",
+      "zh": ""
+    },
+    {
+      "start": 1489.56,
+      "duration": 1.95,
+      "text": "- Physicists started applying these ideas",
+      "en": "- Physicists started applying these ideas",
+      "zh": ""
+    },
+    {
+      "start": 1491.51,
+      "duration": 3.54,
+      "text": "to the quantum world too, realizing that charged particles",
+      "en": "to the quantum world too, realizing that charged particles",
+      "zh": ""
+    },
+    {
+      "start": 1495.05,
+      "duration": 2.82,
+      "text": "like electrons also have symmetries.",
+      "en": "like electrons also have symmetries.",
+      "zh": ""
+    },
+    {
+      "start": 1497.87,
+      "duration": 2.88,
+      "text": "Electrons have a phase, which you can think of",
+      "en": "Electrons have a phase, which you can think of",
+      "zh": ""
+    },
+    {
+      "start": 1500.75,
+      "duration": 2.58,
+      "text": "as an arrow pointing in some direction,",
+      "en": "as an arrow pointing in some direction,",
+      "zh": ""
+    },
+    {
+      "start": 1503.33,
+      "duration": 3.78,
+      "text": "but you can offset this phase by any arbitrary amount",
+      "en": "but you can offset this phase by any arbitrary amount",
+      "zh": ""
+    },
+    {
+      "start": 1507.11,
+      "duration": 4.17,
+      "text": "so long as you do it simultaneously for all electrons.",
+      "en": "so long as you do it simultaneously for all electrons.",
+      "zh": ""
+    },
+    {
+      "start": 1511.28,
+      "duration": 3.21,
+      "text": "And that doesn't change anything physically,",
+      "en": "And that doesn't change anything physically,",
+      "zh": ""
+    },
+    {
+      "start": 1514.49,
+      "duration": 2.13,
+      "text": "so there's another symmetry.",
+      "en": "so there's another symmetry.",
+      "zh": ""
+    },
+    {
+      "start": 1516.62,
+      "duration": 4.56,
+      "text": "So what does this offset or gauge symmetry lead to?",
+      "en": "So what does this offset or gauge symmetry lead to?",
+      "zh": ""
+    },
+    {
+      "start": 1521.18,
+      "duration": 3.33,
+      "text": "Well, it leads to the conservation of electric charge.",
+      "en": "Well, it leads to the conservation of electric charge.",
+      "zh": ""
+    },
+    {
+      "start": 1525.62,
+      "duration": 1.64,
+      "text": "In the 1960s and '70s,",
+      "en": "In the 1960s and '70s,",
+      "zh": ""
+    },
+    {
+      "start": 1527.26,
+      "duration": 2.47,
+      "text": "Noether's insights led directly to the discovery",
+      "en": "Noether's insights led directly to the discovery",
+      "zh": ""
+    },
+    {
+      "start": 1529.73,
+      "duration": 1.56,
+      "text": "of new fundamental particles",
+      "en": "of new fundamental particles",
+      "zh": ""
+    },
+    {
+      "start": 1531.29,
+      "duration": 2.43,
+      "text": "like quarks and the Higgs boson.",
+      "en": "like quarks and the Higgs boson.",
+      "zh": ""
+    },
+    {
+      "start": 1533.72,
+      "duration": 2.61,
+      "text": "It taught us where the forces of nature come from,",
+      "en": "It taught us where the forces of nature come from,",
+      "zh": ""
+    },
+    {
+      "start": 1536.33,
+      "duration": 3.0,
+      "text": "and it even helped to explain the origin of all mass",
+      "en": "and it even helped to explain the origin of all mass",
+      "zh": ""
+    },
+    {
+      "start": 1539.33,
+      "duration": 1.47,
+      "text": "in the universe.",
+      "en": "in the universe.",
+      "zh": ""
+    },
+    {
+      "start": 1540.8,
+      "duration": 2.67,
+      "text": "Noether's two theorems, although little known,",
+      "en": "Noether's two theorems, although little known,",
+      "zh": ""
+    },
+    {
+      "start": 1543.47,
+      "duration": 2.43,
+      "text": "are what has gotten us the closest we've ever come",
+      "en": "are what has gotten us the closest we've ever come",
+      "zh": ""
+    },
+    {
+      "start": 1545.9,
+      "duration": 2.46,
+      "text": "to a theory of everything.",
+      "en": "to a theory of everything.",
+      "zh": ""
+    },
+    {
+      "start": 1548.36,
+      "duration": 1.44,
+      "text": "But all of this and much more",
+      "en": "But all of this and much more",
+      "zh": ""
+    },
+    {
+      "start": 1549.8,
+      "duration": 1.62,
+      "text": "will be covered in a second video.",
+      "en": "will be covered in a second video.",
+      "zh": ""
+    },
+    {
+      "start": 1551.42,
+      "duration": 1.77,
+      "text": "So make sure you're subscribed",
+      "en": "So make sure you're subscribed",
+      "zh": ""
+    },
+    {
+      "start": 1553.19,
+      "duration": 2.19,
+      "text": "to get notified when that video comes out.",
+      "en": "to get notified when that video comes out.",
+      "zh": ""
+    },
+    {
+      "start": 1558.72,
+      "duration": 3.92,
+      "text": "(radio waves whizzing)",
+      "en": "(radio waves whizzing)",
+      "zh": ""
+    },
+    {
+      "start": 1562.64,
+      "duration": 2.34,
+      "text": "When Emmy Noether set out to study mathematics,",
+      "en": "When Emmy Noether set out to study mathematics,",
+      "zh": ""
+    },
+    {
+      "start": 1564.98,
+      "duration": 2.4,
+      "text": "she was following in her father's footsteps,",
+      "en": "she was following in her father's footsteps,",
+      "zh": ""
+    },
+    {
+      "start": 1567.38,
+      "duration": 2.04,
+      "text": "but from there she forged her own path.",
+      "en": "but from there she forged her own path.",
+      "zh": ""
+    },
+    {
+      "start": 1569.42,
+      "duration": 2.4,
+      "text": "And before long, she was coming up with a whole theory",
+      "en": "And before long, she was coming up with a whole theory",
+      "zh": ""
+    },
+    {
+      "start": 1571.82,
+      "duration": 2.46,
+      "text": "that reshaped our understanding of the universe.",
+      "en": "that reshaped our understanding of the universe.",
+      "zh": ""
+    },
+    {
+      "start": 1574.28,
+      "duration": 2.19,
+      "text": "That is the great thing about learning.",
+      "en": "That is the great thing about learning.",
+      "zh": ""
+    },
+    {
+      "start": 1576.47,
+      "duration": 1.68,
+      "text": "You start by following instructions,",
+      "en": "You start by following instructions,",
+      "zh": ""
+    },
+    {
+      "start": 1578.15,
+      "duration": 2.01,
+      "text": "building on what others have done before you.",
+      "en": "building on what others have done before you.",
+      "zh": ""
+    },
+    {
+      "start": 1580.16,
+      "duration": 3.12,
+      "text": "But then at some point, you start asking your own questions;",
+      "en": "But then at some point, you start asking your own questions;",
+      "zh": ""
+    },
+    {
+      "start": 1583.28,
+      "duration": 3.24,
+      "text": "you start experimenting and making discoveries.",
+      "en": "you start experimenting and making discoveries.",
+      "zh": ""
+    },
+    {
+      "start": 1586.52,
+      "duration": 3.24,
+      "text": "I've loved watching my own kids start this journey,",
+      "en": "I've loved watching my own kids start this journey,",
+      "zh": ""
+    },
+    {
+      "start": 1589.76,
+      "duration": 3.6,
+      "text": "and my longtime sponsor, KiwiCo, has been a big part of it.",
+      "en": "and my longtime sponsor, KiwiCo, has been a big part of it.",
+      "zh": ""
+    },
+    {
+      "start": 1593.36,
+      "duration": 1.26,
+      "text": "This month they sent me their",
+      "en": "This month they sent me their",
+      "zh": ""
+    },
+    {
+      "start": 1594.62,
+      "duration": 1.71,
+      "text": "Rapid-Fire Disc Launcher crate,",
+      "en": "Rapid-Fire Disc Launcher crate,",
+      "zh": ""
+    },
+    {
+      "start": 1596.33,
+      "duration": 2.43,
+      "text": "and at first, we followed the instructions carefully,",
+      "en": "and at first, we followed the instructions carefully,",
+      "zh": ""
+    },
+    {
+      "start": 1598.76,
+      "duration": 1.89,
+      "text": "putting it together step by step.",
+      "en": "putting it together step by step.",
+      "zh": ""
+    },
+    {
+      "start": 1600.65,
+      "duration": 1.2,
+      "text": "But as soon as it was built,",
+      "en": "But as soon as it was built,",
+      "zh": ""
+    },
+    {
+      "start": 1601.85,
+      "duration": 2.19,
+      "text": "my kids immediately started experimenting.",
+      "en": "my kids immediately started experimenting.",
+      "zh": ""
+    },
+    {
+      "start": 1604.04,
+      "duration": 1.65,
+      "text": "- [Child] Can I launch it?",
+      "en": "- [Child] Can I launch it?",
+      "zh": ""
+    },
+    {
+      "start": 1605.69,
+      "duration": 1.83,
+      "text": "- Testing different launch techniques",
+      "en": "- Testing different launch techniques",
+      "zh": ""
+    },
+    {
+      "start": 1607.52,
+      "duration": 2.34,
+      "text": "to better hit the target, changing the launch angles,",
+      "en": "to better hit the target, changing the launch angles,",
+      "zh": ""
+    },
+    {
+      "start": 1609.86,
+      "duration": 2.76,
+      "text": "and figuring out what would make the discs fly farther.",
+      "en": "and figuring out what would make the discs fly farther.",
+      "zh": ""
+    },
+    {
+      "start": 1612.62,
+      "duration": 1.59,
+      "text": "Without even realizing it,",
+      "en": "Without even realizing it,",
+      "zh": ""
+    },
+    {
+      "start": 1614.21,
+      "duration": 2.49,
+      "text": "they were engaging with the same questioning mindset",
+      "en": "they were engaging with the same questioning mindset",
+      "zh": ""
+    },
+    {
+      "start": 1616.7,
+      "duration": 2.46,
+      "text": "that drives real scientific discoveries.",
+      "en": "that drives real scientific discoveries.",
+      "zh": ""
+    },
+    {
+      "start": 1619.16,
+      "duration": 2.7,
+      "text": "So who knows, maybe a simple disc launcher",
+      "en": "So who knows, maybe a simple disc launcher",
+      "zh": ""
+    },
+    {
+      "start": 1621.86,
+      "duration": 1.56,
+      "text": "will inspire a young scientist",
+      "en": "will inspire a young scientist",
+      "zh": ""
+    },
+    {
+      "start": 1623.42,
+      "duration": 1.8,
+      "text": "who will go on to make the next great breakthrough",
+      "en": "who will go on to make the next great breakthrough",
+      "zh": ""
+    },
+    {
+      "start": 1625.22,
+      "duration": 1.8,
+      "text": "in science or engineering.",
+      "en": "in science or engineering.",
+      "zh": ""
+    },
+    {
+      "start": 1627.02,
+      "duration": 1.29,
+      "text": "KiwiCo makes this easy",
+      "en": "KiwiCo makes this easy",
+      "zh": ""
+    },
+    {
+      "start": 1628.31,
+      "duration": 2.64,
+      "text": "by delivering everything you need in a single box,",
+      "en": "by delivering everything you need in a single box,",
+      "zh": ""
+    },
+    {
+      "start": 1630.95,
+      "duration": 1.86,
+      "text": "and they have projects for all ages",
+      "en": "and they have projects for all ages",
+      "zh": ""
+    },
+    {
+      "start": 1632.81,
+      "duration": 1.86,
+      "text": "designed by experts and tested by kids",
+      "en": "designed by experts and tested by kids",
+      "zh": ""
+    },
+    {
+      "start": 1634.67,
+      "duration": 2.07,
+      "text": "to make sure they're not only loads of fun,",
+      "en": "to make sure they're not only loads of fun,",
+      "zh": ""
+    },
+    {
+      "start": 1636.74,
+      "duration": 2.1,
+      "text": "but they also inspire kids to ask questions",
+      "en": "but they also inspire kids to ask questions",
+      "zh": ""
+    },
+    {
+      "start": 1638.84,
+      "duration": 1.53,
+      "text": "and get creative with learning.",
+      "en": "and get creative with learning.",
+      "zh": ""
+    },
+    {
+      "start": 1640.37,
+      "duration": 1.5,
+      "text": "So if you want to try out KiwiCo,",
+      "en": "So if you want to try out KiwiCo,",
+      "zh": ""
+    },
+    {
+      "start": 1641.87,
+      "duration": 3.3,
+      "text": "click the link in the description or scan this QR code.",
+      "en": "click the link in the description or scan this QR code.",
+      "zh": ""
+    },
+    {
+      "start": 1645.17,
+      "duration": 2.52,
+      "text": "Use my code Veritasium to get 50% off",
+      "en": "Use my code Veritasium to get 50% off",
+      "zh": ""
+    },
+    {
+      "start": 1647.69,
+      "duration": 1.68,
+      "text": "your first monthly crate.",
+      "en": "your first monthly crate.",
+      "zh": ""
+    },
+    {
+      "start": 1649.37,
+      "duration": 2.61,
+      "text": "I wanna thank KiwiCo for sponsoring this video,",
+      "en": "I wanna thank KiwiCo for sponsoring this video,",
+      "zh": ""
+    },
+    {
+      "start": 1651.98,
+      "duration": 1.75,
+      "text": "and I wanna thank you for watching.",
+      "en": "and I wanna thank you for watching.",
+      "zh": ""
+    }
+  ],
+  "words": []
+}

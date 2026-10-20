@@ -1,0 +1,2273 @@
+{
+  "cues": [
+    {
+      "start": 0.22,
+      "duration": 2.13,
+      "text": "This is me on top of a speeding train.",
+      "en": "This is me on top of a speeding train.",
+      "zh": ""
+    },
+    {
+      "start": 2.57,
+      "duration": 4.47,
+      "text": "And this is me in a hot air balloon to answer some of the most debated science questions on the internet.",
+      "en": "And this is me in a hot air balloon to answer some of the most debated science questions on the internet.",
+      "zh": ""
+    },
+    {
+      "start": 7.04,
+      "duration": 4.28,
+      "text": "For example, my hot air balloon pilot here says he can land me anywhere I want, and yet there's",
+      "en": "For example, my hot air balloon pilot here says he can land me anywhere I want, and yet there's",
+      "zh": ""
+    },
+    {
+      "start": 11.32,
+      "duration": 4.32,
+      "text": "nothing here that resembles a steering wheel, which begs the question, how do you actually steer",
+      "en": "nothing here that resembles a steering wheel, which begs the question, how do you actually steer",
+      "zh": ""
+    },
+    {
+      "start": 15.64,
+      "duration": 0.59,
+      "text": "these things?",
+      "en": "these things?",
+      "zh": ""
+    },
+    {
+      "start": 16.36,
+      "duration": 0.64,
+      "text": "- So, we steer...",
+      "en": "- So, we steer...",
+      "zh": ""
+    },
+    {
+      "start": 17.6,
+      "duration": 4.83,
+      "text": "- And now I'm on top of the train to learn once and for all, why do you land in the same spot if you",
+      "en": "- And now I'm on top of the train to learn once and for all, why do you land in the same spot if you",
+      "zh": ""
+    },
+    {
+      "start": 22.43,
+      "duration": 3.04,
+      "text": "jump inside the train but not if you jump on top of the train?",
+      "en": "jump inside the train but not if you jump on top of the train?",
+      "zh": ""
+    },
+    {
+      "start": 25.47,
+      "duration": 1.54,
+      "text": "But I'm not stopping there.",
+      "en": "But I'm not stopping there.",
+      "zh": ""
+    },
+    {
+      "start": 27.01,
+      "duration": 1.18,
+      "text": "(screaming)",
+      "en": "(screaming)",
+      "zh": ""
+    },
+    {
+      "start": 28.19,
+      "duration": 4.58,
+      "text": "- Because today we're gonna investigate 5 more physics and engineering puzzles using simple",
+      "en": "- Because today we're gonna investigate 5 more physics and engineering puzzles using simple",
+      "zh": ""
+    },
+    {
+      "start": 32.77,
+      "duration": 1.25,
+      "text": "demonstrations as we go.",
+      "en": "demonstrations as we go.",
+      "zh": ""
+    },
+    {
+      "start": 34.03,
+      "duration": 4.49,
+      "text": "- Because our goal by the end of this video is not for you just to know the right answers, but more",
+      "en": "- Because our goal by the end of this video is not for you just to know the right answers, but more",
+      "zh": ""
+    },
+    {
+      "start": 38.52,
+      "duration": 2.95,
+      "text": "importantly for you to understand why they're the right answers.",
+      "en": "importantly for you to understand why they're the right answers.",
+      "zh": ""
+    },
+    {
+      "start": 41.63,
+      "duration": 3.8,
+      "text": "To kick things off, I've got a science riddle for you that most people get wrong.",
+      "en": "To kick things off, I've got a science riddle for you that most people get wrong.",
+      "zh": ""
+    },
+    {
+      "start": 45.51,
+      "duration": 3.32,
+      "text": "What is the first man-made object to break the sound barrier?",
+      "en": "What is the first man-made object to break the sound barrier?",
+      "zh": ""
+    },
+    {
+      "start": 48.95,
+      "duration": 5.67,
+      "text": "- In other words, an object that travels more than 767 MPH through the air, exceeding the speed of",
+      "en": "- In other words, an object that travels more than 767 MPH through the air, exceeding the speed of",
+      "zh": ""
+    },
+    {
+      "start": 54.62,
+      "duration": 2.86,
+      "text": "sound, thereby creating a super loud sonic boom.",
+      "en": "sound, thereby creating a super loud sonic boom.",
+      "zh": ""
+    },
+    {
+      "start": 57.62,
+      "duration": 0.73,
+      "text": "- So what do you think?",
+      "en": "- So what do you think?",
+      "zh": ""
+    },
+    {
+      "start": 58.53,
+      "duration": 4.24,
+      "text": "Most people I ask say either a bullet or a rocket, or even a jet plane.",
+      "en": "Most people I ask say either a bullet or a rocket, or even a jet plane.",
+      "zh": ""
+    },
+    {
+      "start": 62.77,
+      "duration": 3.63,
+      "text": "- But this tech goes way back, like 5000 years way back.",
+      "en": "- But this tech goes way back, like 5000 years way back.",
+      "zh": ""
+    },
+    {
+      "start": 66.4,
+      "duration": 3.27,
+      "text": "- Because the first man-made object to break the speed of sound",
+      "en": "- Because the first man-made object to break the speed of sound",
+      "zh": ""
+    },
+    {
+      "start": 71.51,
+      "duration": 0.72,
+      "text": "is a whip.",
+      "en": "is a whip.",
+      "zh": ""
+    },
+    {
+      "start": 73.89,
+      "duration": 3.95,
+      "text": "- The sound you just heard was literally a sonic boom.",
+      "en": "- The sound you just heard was literally a sonic boom.",
+      "zh": ""
+    },
+    {
+      "start": 78.84,
+      "duration": 1.53,
+      "text": "Which means at the peak of its motion",
+      "en": "Which means at the peak of its motion",
+      "zh": ""
+    },
+    {
+      "start": 81.16,
+      "duration": 2.17,
+      "text": "the tip of the whip is moving faster",
+      "en": "the tip of the whip is moving faster",
+      "zh": ""
+    },
+    {
+      "start": 85.32,
+      "duration": 1.98,
+      "text": "than 767 MPH.",
+      "en": "than 767 MPH.",
+      "zh": ""
+    },
+    {
+      "start": 87.55,
+      "duration": 2.88,
+      "text": "- OK, so if you got that right, time for a bonus question.",
+      "en": "- OK, so if you got that right, time for a bonus question.",
+      "zh": ""
+    },
+    {
+      "start": 90.47,
+      "duration": 3.63,
+      "text": "What's almost surely the first time you yourself heard a Sonic Boom?",
+      "en": "What's almost surely the first time you yourself heard a Sonic Boom?",
+      "zh": ""
+    },
+    {
+      "start": 94.15,
+      "duration": 0.8,
+      "text": "- Here's your clue.",
+      "en": "- Here's your clue.",
+      "zh": ""
+    },
+    {
+      "start": 94.99,
+      "duration": 5.11,
+      "text": "It's a near statistical certainty that everyone has the same answer for this going back millions",
+      "en": "It's a near statistical certainty that everyone has the same answer for this going back millions",
+      "zh": ""
+    },
+    {
+      "start": 100.1,
+      "duration": 0.48,
+      "text": "of years.",
+      "en": "of years.",
+      "zh": ""
+    },
+    {
+      "start": 100.75,
+      "duration": 0.73,
+      "text": "- That's Right.",
+      "en": "- That's Right.",
+      "zh": ""
+    },
+    {
+      "start": 101.75,
+      "duration": 0.63,
+      "text": "Thunder.",
+      "en": "Thunder.",
+      "zh": ""
+    },
+    {
+      "start": 102.55,
+      "duration": 4.94,
+      "text": "- Basically, the lightning superheats the air 5 times hotter than the surface of the sun, and this",
+      "en": "- Basically, the lightning superheats the air 5 times hotter than the surface of the sun, and this",
+      "zh": ""
+    },
+    {
+      "start": 107.49,
+      "duration": 5.09,
+      "text": "causes the air to expand so rapidly, it breaks the sound barrier, once again creating a sonic boom.",
+      "en": "causes the air to expand so rapidly, it breaks the sound barrier, once again creating a sonic boom.",
+      "zh": ""
+    },
+    {
+      "start": 112.66,
+      "duration": 4.32,
+      "text": "- And if that juicy nugget of knowledge just made your brain feel really good,",
+      "en": "- And if that juicy nugget of knowledge just made your brain feel really good,",
+      "zh": ""
+    },
+    {
+      "start": 117.41,
+      "duration": 0.64,
+      "text": "(cries)",
+      "en": "(cries)",
+      "zh": ""
+    },
+    {
+      "start": 118.87,
+      "duration": 1.43,
+      "text": "Make that sound cooler in post.",
+      "en": "Make that sound cooler in post.",
+      "zh": ""
+    },
+    {
+      "start": 121.57,
+      "duration": 1.25,
+      "text": "Yeah.",
+      "en": "Yeah.",
+      "zh": ""
+    },
+    {
+      "start": 122.82,
+      "duration": 3.65,
+      "text": "- Buckle up because we've got 6 more to go, including at number 2...",
+      "en": "- Buckle up because we've got 6 more to go, including at number 2...",
+      "zh": ""
+    },
+    {
+      "start": 126.48,
+      "duration": 5.46,
+      "text": "- Have you ever noticed when grabbing drinks from a cooler that even though they have the same amount",
+      "en": "- Have you ever noticed when grabbing drinks from a cooler that even though they have the same amount",
+      "zh": ""
+    },
+    {
+      "start": 131.94,
+      "duration": 3.24,
+      "text": "of liquid inside, regular Coke sinks, yet Diet Coke floats.",
+      "en": "of liquid inside, regular Coke sinks, yet Diet Coke floats.",
+      "zh": ""
+    },
+    {
+      "start": 135.26,
+      "duration": 1.52,
+      "text": "Now why would that be?",
+      "en": "Now why would that be?",
+      "zh": ""
+    },
+    {
+      "start": 136.9,
+      "duration": 5.37,
+      "text": "Well, our first clue is that we know less dense objects like this cork float and more dense",
+      "en": "Well, our first clue is that we know less dense objects like this cork float and more dense",
+      "zh": ""
+    },
+    {
+      "start": 142.27,
+      "duration": 1.67,
+      "text": "objects like this bolt sink.",
+      "en": "objects like this bolt sink.",
+      "zh": ""
+    },
+    {
+      "start": 143.94,
+      "duration": 4.63,
+      "text": "However, that's not only true about different objects, it's true about different liquids too.",
+      "en": "However, that's not only true about different objects, it's true about different liquids too.",
+      "zh": ""
+    },
+    {
+      "start": 148.57,
+      "duration": 4.59,
+      "text": "Like for salad dressing, how the less dense oil floats on the more dense vinegar.",
+      "en": "Like for salad dressing, how the less dense oil floats on the more dense vinegar.",
+      "zh": ""
+    },
+    {
+      "start": 153.18,
+      "duration": 4.09,
+      "text": "And sure enough, when we compare the respective labels, you'll notice one glaring difference.",
+      "en": "And sure enough, when we compare the respective labels, you'll notice one glaring difference.",
+      "zh": ""
+    },
+    {
+      "start": 157.32,
+      "duration": 4.46,
+      "text": "The regular Coke has more than 3 tablespoons of real sugar, which makes this can more dense than",
+      "en": "The regular Coke has more than 3 tablespoons of real sugar, which makes this can more dense than",
+      "zh": ""
+    },
+    {
+      "start": 161.78,
+      "duration": 2.34,
+      "text": "the Diet Coke, which just has artificial sweetener.",
+      "en": "the Diet Coke, which just has artificial sweetener.",
+      "zh": ""
+    },
+    {
+      "start": 164.2,
+      "duration": 4.36,
+      "text": "That means this one's just a little less dense than water, causing it to float, while this one's",
+      "en": "That means this one's just a little less dense than water, causing it to float, while this one's",
+      "zh": ""
+    },
+    {
+      "start": 168.56,
+      "duration": 2.53,
+      "text": "just a little more dense than water, causing it to sink.",
+      "en": "just a little more dense than water, causing it to sink.",
+      "zh": ""
+    },
+    {
+      "start": 171.1,
+      "duration": 1.81,
+      "text": "- But we can take this to the next level.",
+      "en": "- But we can take this to the next level.",
+      "zh": ""
+    },
+    {
+      "start": 173.09,
+      "duration": 5.6,
+      "text": "Here I have a wall that I filled with 8 different household liquids, from honey, to dish soap, to",
+      "en": "Here I have a wall that I filled with 8 different household liquids, from honey, to dish soap, to",
+      "zh": ""
+    },
+    {
+      "start": 178.69,
+      "duration": 0.52,
+      "text": "baby oil.",
+      "en": "baby oil.",
+      "zh": ""
+    },
+    {
+      "start": 179.21,
+      "duration": 3.81,
+      "text": "And they naturally stack themselves with increasing density as you go down.",
+      "en": "And they naturally stack themselves with increasing density as you go down.",
+      "zh": ""
+    },
+    {
+      "start": 183.15,
+      "duration": 4.41,
+      "text": "So if we dump, let's say, a bunch of golf balls in, they'll sink like a Coke can through all the",
+      "en": "So if we dump, let's say, a bunch of golf balls in, they'll sink like a Coke can through all the",
+      "zh": ""
+    },
+    {
+      "start": 187.56,
+      "duration": 4.45,
+      "text": "layers until they had a layer that's more dense than they are, at which point the golf balls stop",
+      "en": "layers until they had a layer that's more dense than they are, at which point the golf balls stop",
+      "zh": ""
+    },
+    {
+      "start": 192.01,
+      "duration": 2.14,
+      "text": "falling and come to rest on top of that layer.",
+      "en": "falling and come to rest on top of that layer.",
+      "zh": ""
+    },
+    {
+      "start": 194.27,
+      "duration": 1.47,
+      "text": "- Are you kidding me?",
+      "en": "- Are you kidding me?",
+      "zh": ""
+    },
+    {
+      "start": 195.83,
+      "duration": 3.45,
+      "text": "- Which means you can have a different item come to rest on every layer.",
+      "en": "- Which means you can have a different item come to rest on every layer.",
+      "zh": ""
+    },
+    {
+      "start": 199.42,
+      "duration": 1.55,
+      "text": "- Whoa.",
+      "en": "- Whoa.",
+      "zh": ""
+    },
+    {
+      "start": 200.97,
+      "duration": 2.59,
+      "text": "- As long as you spend way more time than you care to admit,",
+      "en": "- As long as you spend way more time than you care to admit,",
+      "zh": ""
+    },
+    {
+      "start": 203.56,
+      "duration": 0.75,
+      "text": "- cool!",
+      "en": "- cool!",
+      "zh": ""
+    },
+    {
+      "start": 204.31,
+      "duration": 2.69,
+      "text": "- testing way more items than you care to admit.",
+      "en": "- testing way more items than you care to admit.",
+      "zh": ""
+    },
+    {
+      "start": 207.33,
+      "duration": 0.92,
+      "text": "- This one's a dice roll.",
+      "en": "- This one's a dice roll.",
+      "zh": ""
+    },
+    {
+      "start": 208.37,
+      "duration": 4.28,
+      "text": "- But in the end, it's not hard to rationalize the wasted time when it looks this cool.",
+      "en": "- But in the end, it's not hard to rationalize the wasted time when it looks this cool.",
+      "zh": ""
+    },
+    {
+      "start": 212.85,
+      "duration": 4.45,
+      "text": "By the way, you can make a simple version of this at home by filling a drinking glass with cooking",
+      "en": "By the way, you can make a simple version of this at home by filling a drinking glass with cooking",
+      "zh": ""
+    },
+    {
+      "start": 217.3,
+      "duration": 3.35,
+      "text": "oil and dish soap, and then plopping in a Lego guy to ride the ocean wave.",
+      "en": "oil and dish soap, and then plopping in a Lego guy to ride the ocean wave.",
+      "zh": ""
+    },
+    {
+      "start": 220.73,
+      "duration": 4.83,
+      "text": "So this obviously works with household liquids, but what if the liquid was metal like this?",
+      "en": "So this obviously works with household liquids, but what if the liquid was metal like this?",
+      "zh": ""
+    },
+    {
+      "start": 225.65,
+      "duration": 2.71,
+      "text": "- Because this bowl is 24 lbs...",
+      "en": "- Because this bowl is 24 lbs...",
+      "zh": ""
+    },
+    {
+      "start": 229.36,
+      "duration": 1.34,
+      "text": "of mercury.",
+      "en": "of mercury.",
+      "zh": ""
+    },
+    {
+      "start": 230.81,
+      "duration": 2.63,
+      "text": "It's hard to even submerge my hand in here.",
+      "en": "It's hard to even submerge my hand in here.",
+      "zh": ""
+    },
+    {
+      "start": 233.44,
+      "duration": 5.23,
+      "text": "Which means if I take an actual cast iron anvil, it should float like a Diet Coke.",
+      "en": "Which means if I take an actual cast iron anvil, it should float like a Diet Coke.",
+      "zh": ""
+    },
+    {
+      "start": 238.74,
+      "duration": 1.26,
+      "text": "It's test it out.",
+      "en": "It's test it out.",
+      "zh": ""
+    },
+    {
+      "start": 240.0,
+      "duration": 2.51,
+      "text": "(laughing)",
+      "en": "(laughing)",
+      "zh": ""
+    },
+    {
+      "start": 242.51,
+      "duration": 0.9,
+      "text": "Look at that.",
+      "en": "Look at that.",
+      "zh": ""
+    },
+    {
+      "start": 243.41,
+      "duration": 4.83,
+      "text": "I mean, I understand the science behind this, but it still breaks your brain.",
+      "en": "I mean, I understand the science behind this, but it still breaks your brain.",
+      "zh": ""
+    },
+    {
+      "start": 248.41,
+      "duration": 1.72,
+      "text": "This is actual cast iron.",
+      "en": "This is actual cast iron.",
+      "zh": ""
+    },
+    {
+      "start": 250.17,
+      "duration": 0.79,
+      "text": "It's heavy.",
+      "en": "It's heavy.",
+      "zh": ""
+    },
+    {
+      "start": 251.23,
+      "duration": 3.3,
+      "text": "And yet when you put it in Mercury, it bobs like a cork.",
+      "en": "And yet when you put it in Mercury, it bobs like a cork.",
+      "zh": ""
+    },
+    {
+      "start": 254.61,
+      "duration": 1.7,
+      "text": "Let's go bobbing for anvils.",
+      "en": "Let's go bobbing for anvils.",
+      "zh": ""
+    },
+    {
+      "start": 256.41,
+      "duration": 3.8,
+      "text": "- For number 3, a while back I read about a famous mathematician from the 1600s.",
+      "en": "- For number 3, a while back I read about a famous mathematician from the 1600s.",
+      "zh": ""
+    },
+    {
+      "start": 260.25,
+      "duration": 4.35,
+      "text": "He noticed that when he would hang up multiple pendulum clocks in his house, they'd eventually",
+      "en": "He noticed that when he would hang up multiple pendulum clocks in his house, they'd eventually",
+      "zh": ""
+    },
+    {
+      "start": 264.6,
+      "duration": 2.47,
+      "text": "sync up their swings and then they just stay that way.",
+      "en": "sync up their swings and then they just stay that way.",
+      "zh": ""
+    },
+    {
+      "start": 267.07,
+      "duration": 4.84,
+      "text": "So he wondered just like I did when I first read this, how are these purely mechanical clocks that",
+      "en": "So he wondered just like I did when I first read this, how are these purely mechanical clocks that",
+      "zh": ""
+    },
+    {
+      "start": 271.91,
+      "duration": 4.69,
+      "text": "weren't touching, somehow communicating with each other and after a period of time, agreeing to",
+      "en": "weren't touching, somehow communicating with each other and after a period of time, agreeing to",
+      "zh": ""
+    },
+    {
+      "start": 276.6,
+      "duration": 1.2,
+      "text": "swing in perfect unison.",
+      "en": "swing in perfect unison.",
+      "zh": ""
+    },
+    {
+      "start": 277.92,
+      "duration": 4.4,
+      "text": "And since the unofficial motto of CrunchLabs is think like an engineer, I decided to create an",
+      "en": "And since the unofficial motto of CrunchLabs is think like an engineer, I decided to create an",
+      "zh": ""
+    },
+    {
+      "start": 282.32,
+      "duration": 1.67,
+      "text": "experiment to test this for myself.",
+      "en": "experiment to test this for myself.",
+      "zh": ""
+    },
+    {
+      "start": 284.11,
+      "duration": 1.91,
+      "text": "So we got 4 clocks and put them on the wall.",
+      "en": "So we got 4 clocks and put them on the wall.",
+      "zh": ""
+    },
+    {
+      "start": 286.03,
+      "duration": 1.4,
+      "text": "And after 4 days...",
+      "en": "And after 4 days...",
+      "zh": ""
+    },
+    {
+      "start": 289.92,
+      "duration": 0.82,
+      "text": "nothing happened.",
+      "en": "nothing happened.",
+      "zh": ""
+    },
+    {
+      "start": 290.95,
+      "duration": 4.03,
+      "text": "But when you're thinking like an engineer, you know that's not a failure, that's a clue.",
+      "en": "But when you're thinking like an engineer, you know that's not a failure, that's a clue.",
+      "zh": ""
+    },
+    {
+      "start": 295.07,
+      "duration": 3.84,
+      "text": "So I reread the story and picked up on an important detail I'd missed the first time.",
+      "en": "So I reread the story and picked up on an important detail I'd missed the first time.",
+      "zh": ""
+    },
+    {
+      "start": 298.95,
+      "duration": 2.84,
+      "text": "The clocks weren't mounted on a wall in the way we think of today.",
+      "en": "The clocks weren't mounted on a wall in the way we think of today.",
+      "zh": ""
+    },
+    {
+      "start": 301.83,
+      "duration": 3.76,
+      "text": "It said they were mounted on the same wooden beam that made up part of the wall.",
+      "en": "It said they were mounted on the same wooden beam that made up part of the wall.",
+      "zh": ""
+    },
+    {
+      "start": 305.63,
+      "duration": 4.42,
+      "text": "And given the construction methods of the 1600s, there's a good chance that board had a little",
+      "en": "And given the construction methods of the 1600s, there's a good chance that board had a little",
+      "zh": ""
+    },
+    {
+      "start": 310.05,
+      "duration": 0.62,
+      "text": "wiggle to it.",
+      "en": "wiggle to it.",
+      "zh": ""
+    },
+    {
+      "start": 310.68,
+      "duration": 2.71,
+      "text": "And that wiggle is a very important detail.",
+      "en": "And that wiggle is a very important detail.",
+      "zh": ""
+    },
+    {
+      "start": 313.5,
+      "duration": 0.87,
+      "text": "- Here's What I mean.",
+      "en": "- Here's What I mean.",
+      "zh": ""
+    },
+    {
+      "start": 314.52,
+      "duration": 4.98,
+      "text": "If I swing this sledgehammer pendulum below me while standing on firm ground, then it's just the",
+      "en": "If I swing this sledgehammer pendulum below me while standing on firm ground, then it's just the",
+      "zh": ""
+    },
+    {
+      "start": 319.5,
+      "duration": 2.2,
+      "text": "sledgehammer pendulum that you see moving.",
+      "en": "sledgehammer pendulum that you see moving.",
+      "zh": ""
+    },
+    {
+      "start": 321.8,
+      "duration": 5.13,
+      "text": "But if I stand on a skateboard where I don't have firm footing, now you can see the pendulum is in",
+      "en": "But if I stand on a skateboard where I don't have firm footing, now you can see the pendulum is in",
+      "zh": ""
+    },
+    {
+      "start": 326.93,
+      "duration": 1.9,
+      "text": "fact pushing back and moving me too.",
+      "en": "fact pushing back and moving me too.",
+      "zh": ""
+    },
+    {
+      "start": 328.92,
+      "duration": 1.08,
+      "text": "Now, here's the wild part.",
+      "en": "Now, here's the wild part.",
+      "zh": ""
+    },
+    {
+      "start": 330.12,
+      "duration": 5.36,
+      "text": "- Because the clock is securely attached to the beam, that beam acts just a tiny bit like the skateboard.",
+      "en": "- Because the clock is securely attached to the beam, that beam acts just a tiny bit like the skateboard.",
+      "zh": ""
+    },
+    {
+      "start": 335.56,
+      "duration": 4.24,
+      "text": "So those swinging pendulums are ever so slightly actually moving the wall.",
+      "en": "So those swinging pendulums are ever so slightly actually moving the wall.",
+      "zh": ""
+    },
+    {
+      "start": 339.93,
+      "duration": 4.7,
+      "text": "So that means as the clocks are just slightly pushing back and nudging the beam, they start to",
+      "en": "So that means as the clocks are just slightly pushing back and nudging the beam, they start to",
+      "zh": ""
+    },
+    {
+      "start": 344.63,
+      "duration": 1.77,
+      "text": "influence and nudge each other too.",
+      "en": "influence and nudge each other too.",
+      "zh": ""
+    },
+    {
+      "start": 346.53,
+      "duration": 4.09,
+      "text": "So if there's a clock that's greatly out of sync with the others, over time, those little nudges",
+      "en": "So if there's a clock that's greatly out of sync with the others, over time, those little nudges",
+      "zh": ""
+    },
+    {
+      "start": 350.62,
+      "duration": 0.77,
+      "text": "get it to line up.",
+      "en": "get it to line up.",
+      "zh": ""
+    },
+    {
+      "start": 351.49,
+      "duration": 4.45,
+      "text": "So after discovering all this, we took those 4 clocks and this time attached them all to a beam,",
+      "en": "So after discovering all this, we took those 4 clocks and this time attached them all to a beam,",
+      "zh": ""
+    },
+    {
+      "start": 355.94,
+      "duration": 3.14,
+      "text": "which was attached to the wall with a little bit of wiggle built in.",
+      "en": "which was attached to the wall with a little bit of wiggle built in.",
+      "zh": ""
+    },
+    {
+      "start": 359.17,
+      "duration": 2.26,
+      "text": "And this time after 4 days,",
+      "en": "And this time after 4 days,",
+      "zh": ""
+    },
+    {
+      "start": 361.52,
+      "duration": 1.81,
+      "text": "once again, nothing happened.",
+      "en": "once again, nothing happened.",
+      "zh": ""
+    },
+    {
+      "start": 363.33,
+      "duration": 1.96,
+      "text": "Which once again was a clue, not a failure.",
+      "en": "Which once again was a clue, not a failure.",
+      "zh": ""
+    },
+    {
+      "start": 365.62,
+      "duration": 5.4,
+      "text": "As it turns out, for this to actually work with pendulum clocks, you need a very precise ratio of",
+      "en": "As it turns out, for this to actually work with pendulum clocks, you need a very precise ratio of",
+      "zh": ""
+    },
+    {
+      "start": 371.02,
+      "duration": 2.75,
+      "text": "clock to pendulum mass like this one set up here.",
+      "en": "clock to pendulum mass like this one set up here.",
+      "zh": ""
+    },
+    {
+      "start": 373.95,
+      "duration": 4.96,
+      "text": "- So I couldn't get my hands on the perfect pendulum clock, here's another way to observe the same",
+      "en": "- So I couldn't get my hands on the perfect pendulum clock, here's another way to observe the same",
+      "zh": ""
+    },
+    {
+      "start": 378.91,
+      "duration": 4.71,
+      "text": "phenomenon with 140 pendulums all sitting on a board that can freely wiggle back and forth.",
+      "en": "phenomenon with 140 pendulums all sitting on a board that can freely wiggle back and forth.",
+      "zh": ""
+    },
+    {
+      "start": 383.7,
+      "duration": 1.16,
+      "text": "All right, let's give it a shot.",
+      "en": "All right, let's give it a shot.",
+      "zh": ""
+    },
+    {
+      "start": 384.96,
+      "duration": 0.62,
+      "text": "Little help here.",
+      "en": "Little help here.",
+      "zh": ""
+    },
+    {
+      "start": 392.3,
+      "duration": 2.71,
+      "text": "- This is truly one of the coolest things I've ever seen.",
+      "en": "- This is truly one of the coolest things I've ever seen.",
+      "zh": ""
+    },
+    {
+      "start": 397.79,
+      "duration": 1.82,
+      "text": "- It's like a bunch of stormtroopers.",
+      "en": "- It's like a bunch of stormtroopers.",
+      "zh": ""
+    },
+    {
+      "start": 401.66,
+      "duration": 4.73,
+      "text": "- And just to give you a sense of how quickly they sync up, here's an uninterrupted take so you can",
+      "en": "- And just to give you a sense of how quickly they sync up, here's an uninterrupted take so you can",
+      "zh": ""
+    },
+    {
+      "start": 406.39,
+      "duration": 3.25,
+      "text": "see for yourself as the chaos turns to order in less than a minute.",
+      "en": "see for yourself as the chaos turns to order in less than a minute.",
+      "zh": ""
+    },
+    {
+      "start": 417.49,
+      "duration": 4.92,
+      "text": "- So as you can see, even though we started them totally random, in less than a minute, those",
+      "en": "- So as you can see, even though we started them totally random, in less than a minute, those",
+      "zh": ""
+    },
+    {
+      "start": 422.41,
+      "duration": 4.75,
+      "text": "nudges do in fact influence each other till they're all swinging together, just like the",
+      "en": "nudges do in fact influence each other till they're all swinging together, just like the",
+      "zh": ""
+    },
+    {
+      "start": 427.16,
+      "duration": 2.73,
+      "text": "clocks 400 years ago in the mathematician's house.",
+      "en": "clocks 400 years ago in the mathematician's house.",
+      "zh": ""
+    },
+    {
+      "start": 431.09,
+      "duration": 4.84,
+      "text": "- Coming in at number 4, have you ever noticed every time you see a full moon, it always looks the same.",
+      "en": "- Coming in at number 4, have you ever noticed every time you see a full moon, it always looks the same.",
+      "zh": ""
+    },
+    {
+      "start": 435.96,
+      "duration": 2.84,
+      "text": "In other words, it's the same side, even in pictures.",
+      "en": "In other words, it's the same side, even in pictures.",
+      "zh": ""
+    },
+    {
+      "start": 438.93,
+      "duration": 1.37,
+      "text": "Well, what about the other side?",
+      "en": "Well, what about the other side?",
+      "zh": ""
+    },
+    {
+      "start": 440.41,
+      "duration": 5.88,
+      "text": "- Well, it turns out we don't see the other side because the moon is rotating perfectly in sync as",
+      "en": "- Well, it turns out we don't see the other side because the moon is rotating perfectly in sync as",
+      "zh": ""
+    },
+    {
+      "start": 446.29,
+      "duration": 3.46,
+      "text": "it orbits the Earth, so we only ever see the googly eyes.",
+      "en": "it orbits the Earth, so we only ever see the googly eyes.",
+      "zh": ""
+    },
+    {
+      "start": 449.81,
+      "duration": 1.15,
+      "text": "But that's wild.",
+      "en": "But that's wild.",
+      "zh": ""
+    },
+    {
+      "start": 451.05,
+      "duration": 3.5,
+      "text": "Like, what are the chances that those would sync up perfectly?",
+      "en": "Like, what are the chances that those would sync up perfectly?",
+      "zh": ""
+    },
+    {
+      "start": 454.68,
+      "duration": 1.68,
+      "text": "- Well, we call this tidal locking.",
+      "en": "- Well, we call this tidal locking.",
+      "zh": ""
+    },
+    {
+      "start": 456.36,
+      "duration": 5.13,
+      "text": "While it seems unlikely, you see this with pretty much all the other planets and their moons in our",
+      "en": "While it seems unlikely, you see this with pretty much all the other planets and their moons in our",
+      "zh": ""
+    },
+    {
+      "start": 461.49,
+      "duration": 0.9,
+      "text": "solar system too.",
+      "en": "solar system too.",
+      "zh": ""
+    },
+    {
+      "start": 462.48,
+      "duration": 2.83,
+      "text": "- And this simple demo will give us the right mental model.",
+      "en": "- And this simple demo will give us the right mental model.",
+      "zh": ""
+    },
+    {
+      "start": 465.47,
+      "duration": 5.23,
+      "text": "If the moon was perfectly spherical and balance, it would spin like this, and one side wouldn't be",
+      "en": "If the moon was perfectly spherical and balance, it would spin like this, and one side wouldn't be",
+      "zh": ""
+    },
+    {
+      "start": 470.7,
+      "duration": 2.65,
+      "text": "more likely to line up with Earth than the other.",
+      "en": "more likely to line up with Earth than the other.",
+      "zh": ""
+    },
+    {
+      "start": 473.44,
+      "duration": 2.12,
+      "text": "But the moon's not perfectly spherical.",
+      "en": "But the moon's not perfectly spherical.",
+      "zh": ""
+    },
+    {
+      "start": 475.64,
+      "duration": 4.84,
+      "text": "- Over time, that constant pull of Earth's gravity has caused it to be sort of slightly oblong.",
+      "en": "- Over time, that constant pull of Earth's gravity has caused it to be sort of slightly oblong.",
+      "zh": ""
+    },
+    {
+      "start": 480.48,
+      "duration": 2.53,
+      "text": "- Which we sort of exaggerated a little bit here,",
+      "en": "- Which we sort of exaggerated a little bit here,",
+      "zh": ""
+    },
+    {
+      "start": 483.01,
+      "duration": 5.74,
+      "text": "but now you'll see since the center of gravity of our moon doesn't exactly line up with the axis by",
+      "en": "but now you'll see since the center of gravity of our moon doesn't exactly line up with the axis by",
+      "zh": ""
+    },
+    {
+      "start": 488.75,
+      "duration": 1.99,
+      "text": "which it rotates like it was here,",
+      "en": "which it rotates like it was here,",
+      "zh": ""
+    },
+    {
+      "start": 490.75,
+      "duration": 5.44,
+      "text": "now, no matter how I spin it, it always happens to be that the heavy side of the moon always faces",
+      "en": "now, no matter how I spin it, it always happens to be that the heavy side of the moon always faces",
+      "zh": ""
+    },
+    {
+      "start": 496.19,
+      "duration": 1.8,
+      "text": "the strongest source of gravity,",
+      "en": "the strongest source of gravity,",
+      "zh": ""
+    },
+    {
+      "start": 497.99,
+      "duration": 2.87,
+      "text": "which just so happens to be the center of the earth.",
+      "en": "which just so happens to be the center of the earth.",
+      "zh": ""
+    },
+    {
+      "start": 500.86,
+      "duration": 0.92,
+      "text": "Well, guess what?",
+      "en": "Well, guess what?",
+      "zh": ""
+    },
+    {
+      "start": 501.89,
+      "duration": 5.01,
+      "text": "Out in space, the actual moon's nearest source of gravity is still the center of the Earth, which",
+      "en": "Out in space, the actual moon's nearest source of gravity is still the center of the Earth, which",
+      "zh": ""
+    },
+    {
+      "start": 506.9,
+      "duration": 5.17,
+      "text": "means that the real moon will always have the same side pulled towards us, just like with our model.",
+      "en": "means that the real moon will always have the same side pulled towards us, just like with our model.",
+      "zh": ""
+    },
+    {
+      "start": 512.07,
+      "duration": 5.77,
+      "text": "And that means every living thing on this planet that has ever looked up at the moon has always",
+      "en": "And that means every living thing on this planet that has ever looked up at the moon has always",
+      "zh": ""
+    },
+    {
+      "start": 517.84,
+      "duration": 3.44,
+      "text": "seen that same familiar face, and that will never change.",
+      "en": "seen that same familiar face, and that will never change.",
+      "zh": ""
+    },
+    {
+      "start": 521.45,
+      "duration": 4.04,
+      "text": "- Now, before we get to the last three, including answering how hot air balloons steer,",
+      "en": "- Now, before we get to the last three, including answering how hot air balloons steer,",
+      "zh": ""
+    },
+    {
+      "start": 525.49,
+      "duration": 4.55,
+      "text": "if you're like me and you love the feeling of that aha moment when you learn something new, then I",
+      "en": "if you're like me and you love the feeling of that aha moment when you learn something new, then I",
+      "zh": ""
+    },
+    {
+      "start": 530.04,
+      "duration": 3.9,
+      "text": "got great news for you because packaging up that moment is why I created CrunchLabs,",
+      "en": "got great news for you because packaging up that moment is why I created CrunchLabs,",
+      "zh": ""
+    },
+    {
+      "start": 533.94,
+      "duration": 2.85,
+      "text": "- It's Mark Rober's engineering box!",
+      "en": "- It's Mark Rober's engineering box!",
+      "zh": ""
+    },
+    {
+      "start": 536.79,
+      "duration": 4.23,
+      "text": "- where you get a super fun toy every month in the mail that comes with a video where I teach you all",
+      "en": "- where you get a super fun toy every month in the mail that comes with a video where I teach you all",
+      "zh": ""
+    },
+    {
+      "start": 541.02,
+      "duration": 1.81,
+      "text": "the really cool physics that make it work.",
+      "en": "the really cool physics that make it work.",
+      "zh": ""
+    },
+    {
+      "start": 542.83,
+      "duration": 5.02,
+      "text": "So if you want to have a ton of fun building your own toys while experiencing a bunch of those",
+      "en": "So if you want to have a ton of fun building your own toys while experiencing a bunch of those",
+      "zh": ""
+    },
+    {
+      "start": 547.85,
+      "duration": 4.09,
+      "text": "lovely aha moments at the same time, just visit crunchlabs.com to learn more.",
+      "en": "lovely aha moments at the same time, just visit crunchlabs.com to learn more.",
+      "zh": ""
+    },
+    {
+      "start": 552.44,
+      "duration": 5.15,
+      "text": "- And now I'm on top of a train to learn once and for all why do you land in the same spot if you",
+      "en": "- And now I'm on top of a train to learn once and for all why do you land in the same spot if you",
+      "zh": ""
+    },
+    {
+      "start": 557.59,
+      "duration": 3.39,
+      "text": "jump inside the train, but not if you jump on top of the train.",
+      "en": "jump inside the train, but not if you jump on top of the train.",
+      "zh": ""
+    },
+    {
+      "start": 560.98,
+      "duration": 5.29,
+      "text": "- We'll get to the jump in a second, but first, let's see if we can glean any clues from this",
+      "en": "- We'll get to the jump in a second, but first, let's see if we can glean any clues from this",
+      "zh": ""
+    },
+    {
+      "start": 566.27,
+      "duration": 5.71,
+      "text": "small scale test with two Lego guys, one inside and one on top of the train, but they're in water.",
+      "en": "small scale test with two Lego guys, one inside and one on top of the train, but they're in water.",
+      "zh": ""
+    },
+    {
+      "start": 572.18,
+      "duration": 4.42,
+      "text": "Now in a moment, I'm gonna pull on this string, which will move the train car forward, and I want",
+      "en": "Now in a moment, I'm gonna pull on this string, which will move the train car forward, and I want",
+      "zh": ""
+    },
+    {
+      "start": 576.6,
+      "duration": 2.49,
+      "text": "you to think what will happen to each of the Lego guys.",
+      "en": "you to think what will happen to each of the Lego guys.",
+      "zh": ""
+    },
+    {
+      "start": 579.22,
+      "duration": 0.36,
+      "text": "Ready?",
+      "en": "Ready?",
+      "zh": ""
+    },
+    {
+      "start": 579.62,
+      "duration": 0.71,
+      "text": "Here we go.",
+      "en": "Here we go.",
+      "zh": ""
+    },
+    {
+      "start": 584.52,
+      "duration": 0.8,
+      "text": "Did you catch that?",
+      "en": "Did you catch that?",
+      "zh": ""
+    },
+    {
+      "start": 585.4,
+      "duration": 4.44,
+      "text": "Now because this test was in water, you intuitively sort of had a sense the top guy would",
+      "en": "Now because this test was in water, you intuitively sort of had a sense the top guy would",
+      "zh": ""
+    },
+    {
+      "start": 589.84,
+      "duration": 2.47,
+      "text": "fall off and the bottom guy would be fine, right?",
+      "en": "fall off and the bottom guy would be fine, right?",
+      "zh": ""
+    },
+    {
+      "start": 592.48,
+      "duration": 4.2,
+      "text": "Well yeah, because the top guy would have to travel through all that still water and that would",
+      "en": "Well yeah, because the top guy would have to travel through all that still water and that would",
+      "zh": ""
+    },
+    {
+      "start": 596.68,
+      "duration": 0.76,
+      "text": "push back on him.",
+      "en": "push back on him.",
+      "zh": ""
+    },
+    {
+      "start": 597.6,
+      "duration": 5.32,
+      "text": "Whereas inside the train car, he's enclosed, so everything in that car, including the water is",
+      "en": "Whereas inside the train car, he's enclosed, so everything in that car, including the water is",
+      "zh": ""
+    },
+    {
+      "start": 602.92,
+      "duration": 1.6,
+      "text": "moving along with the train.",
+      "en": "moving along with the train.",
+      "zh": ""
+    },
+    {
+      "start": 604.64,
+      "duration": 3.71,
+      "text": "So why would I show you this Lego guy standing on a model train in water?",
+      "en": "So why would I show you this Lego guy standing on a model train in water?",
+      "zh": ""
+    },
+    {
+      "start": 608.35,
+      "duration": 5.16,
+      "text": "- Because it's fundamentally no different than me standing on a real train in air.",
+      "en": "- Because it's fundamentally no different than me standing on a real train in air.",
+      "zh": ""
+    },
+    {
+      "start": 613.51,
+      "duration": 2.23,
+      "text": "- Because just like water, air is also a fluid.",
+      "en": "- Because just like water, air is also a fluid.",
+      "zh": ""
+    },
+    {
+      "start": 615.79,
+      "duration": 1.52,
+      "text": "It's just not as dense as water.",
+      "en": "It's just not as dense as water.",
+      "zh": ""
+    },
+    {
+      "start": 617.43,
+      "duration": 4.56,
+      "text": "You can sort of see how it moves like a fluid here in this demonstration showing hot air coming from",
+      "en": "You can sort of see how it moves like a fluid here in this demonstration showing hot air coming from",
+      "zh": ""
+    },
+    {
+      "start": 621.99,
+      "duration": 0.6,
+      "text": "a blow dryer.",
+      "en": "a blow dryer.",
+      "zh": ""
+    },
+    {
+      "start": 622.65,
+      "duration": 3.18,
+      "text": "So when a train moves through the air, it's moving through a fluid.",
+      "en": "So when a train moves through the air, it's moving through a fluid.",
+      "zh": ""
+    },
+    {
+      "start": 625.91,
+      "duration": 3.52,
+      "text": "To visualize this, let's replace me with a pair of helium balloons.",
+      "en": "To visualize this, let's replace me with a pair of helium balloons.",
+      "zh": ""
+    },
+    {
+      "start": 629.47,
+      "duration": 2.18,
+      "text": "Once again, what do you think will happen here?",
+      "en": "Once again, what do you think will happen here?",
+      "zh": ""
+    },
+    {
+      "start": 631.83,
+      "duration": 4.67,
+      "text": "Well, of course, the balloon inside is totally upright, because just like in water, the air",
+      "en": "Well, of course, the balloon inside is totally upright, because just like in water, the air",
+      "zh": ""
+    },
+    {
+      "start": 636.5,
+      "duration": 2.49,
+      "text": "around that balloon is traveling with the train.",
+      "en": "around that balloon is traveling with the train.",
+      "zh": ""
+    },
+    {
+      "start": 639.07,
+      "duration": 4.67,
+      "text": "Whereas on top, the balloon is being pushed back because it has to fight its way through all the",
+      "en": "Whereas on top, the balloon is being pushed back because it has to fight its way through all the",
+      "zh": ""
+    },
+    {
+      "start": 643.74,
+      "duration": 4.43,
+      "text": "stationary air, just like the Lego guy on top being pushed back by all the water around the",
+      "en": "stationary air, just like the Lego guy on top being pushed back by all the water around the",
+      "zh": ""
+    },
+    {
+      "start": 648.17,
+      "duration": 0.88,
+      "text": "train in the tank.",
+      "en": "train in the tank.",
+      "zh": ""
+    },
+    {
+      "start": 649.05,
+      "duration": 4.2,
+      "text": "It's sort of like when you stick your hand out the car window and feel all that resistance from the wind.",
+      "en": "It's sort of like when you stick your hand out the car window and feel all that resistance from the wind.",
+      "zh": ""
+    },
+    {
+      "start": 653.34,
+      "duration": 4.15,
+      "text": "So going back to the jump, if you were able to visualize all the air molecules like this, you'd",
+      "en": "So going back to the jump, if you were able to visualize all the air molecules like this, you'd",
+      "zh": ""
+    },
+    {
+      "start": 657.49,
+      "duration": 4.41,
+      "text": "see how once we start moving inside the train when I jump, I get no pushback from all my air molecule",
+      "en": "see how once we start moving inside the train when I jump, I get no pushback from all my air molecule",
+      "zh": ""
+    },
+    {
+      "start": 661.9,
+      "duration": 3.13,
+      "text": "neighbors because they're pretty chill and we're all traveling together.",
+      "en": "neighbors because they're pretty chill and we're all traveling together.",
+      "zh": ""
+    },
+    {
+      "start": 665.13,
+      "duration": 2.48,
+      "text": "But on top of the train, it's a whole different story.",
+      "en": "But on top of the train, it's a whole different story.",
+      "zh": ""
+    },
+    {
+      "start": 667.64,
+      "duration": 6.12,
+      "text": "I'm continuously bonking into a mad rush of trillions of air molecules every second as I whizz by.",
+      "en": "I'm continuously bonking into a mad rush of trillions of air molecules every second as I whizz by.",
+      "zh": ""
+    },
+    {
+      "start": 673.76,
+      "duration": 4.92,
+      "text": "So if I jump now, it makes total sense why they would push me back and I would land in a whole",
+      "en": "So if I jump now, it makes total sense why they would push me back and I would land in a whole",
+      "zh": ""
+    },
+    {
+      "start": 678.68,
+      "duration": 0.8,
+      "text": "different spot.",
+      "en": "different spot.",
+      "zh": ""
+    },
+    {
+      "start": 679.6,
+      "duration": 2.32,
+      "text": "For number 6, here's an interesting thought experiment.",
+      "en": "For number 6, here's an interesting thought experiment.",
+      "zh": ""
+    },
+    {
+      "start": 682.0,
+      "duration": 3.91,
+      "text": "Let's say you just bought a small two-seater airplane and you know the plane has to be",
+      "en": "Let's say you just bought a small two-seater airplane and you know the plane has to be",
+      "zh": ""
+    },
+    {
+      "start": 685.91,
+      "duration": 2.16,
+      "text": "traveling at 60 MPH on a still day to take off.",
+      "en": "traveling at 60 MPH on a still day to take off.",
+      "zh": ""
+    },
+    {
+      "start": 688.2,
+      "duration": 1.67,
+      "text": "So one day you have the brilliant idea.",
+      "en": "So one day you have the brilliant idea.",
+      "zh": ""
+    },
+    {
+      "start": 689.92,
+      "duration": 5.83,
+      "text": "Why not just create a much shorter runway using a plane sized treadmill that can ramp up to 60 MPH,",
+      "en": "Why not just create a much shorter runway using a plane sized treadmill that can ramp up to 60 MPH,",
+      "zh": ""
+    },
+    {
+      "start": 695.75,
+      "duration": 2.8,
+      "text": "sending it into the air from your own backyard?",
+      "en": "sending it into the air from your own backyard?",
+      "zh": ""
+    },
+    {
+      "start": 698.64,
+      "duration": 1.56,
+      "text": "- But would that actually work?",
+      "en": "- But would that actually work?",
+      "zh": ""
+    },
+    {
+      "start": 700.28,
+      "duration": 2.95,
+      "text": "Well, let's run the experiment together with a small scale model.",
+      "en": "Well, let's run the experiment together with a small scale model.",
+      "zh": ""
+    },
+    {
+      "start": 703.23,
+      "duration": 4.21,
+      "text": "- Now, the way a plane typically takes off is it needs to reach a certain speed, which, of course,",
+      "en": "- Now, the way a plane typically takes off is it needs to reach a certain speed, which, of course,",
+      "zh": ""
+    },
+    {
+      "start": 707.44,
+      "duration": 1.82,
+      "text": "then requires a certain length of runway.",
+      "en": "then requires a certain length of runway.",
+      "zh": ""
+    },
+    {
+      "start": 709.36,
+      "duration": 2.06,
+      "text": "So let's see what it is for this model airplane.",
+      "en": "So let's see what it is for this model airplane.",
+      "zh": ""
+    },
+    {
+      "start": 711.54,
+      "duration": 3.12,
+      "text": "Looks like it's 10 miles an hour after traveling 15 ft.",
+      "en": "Looks like it's 10 miles an hour after traveling 15 ft.",
+      "zh": ""
+    },
+    {
+      "start": 714.83,
+      "duration": 4.45,
+      "text": "Now, here we've got our own version of our backyard treadmill runway that will ramp up to our",
+      "en": "Now, here we've got our own version of our backyard treadmill runway that will ramp up to our",
+      "zh": ""
+    },
+    {
+      "start": 719.28,
+      "duration": 1.02,
+      "text": "10 MPH takeoff speed.",
+      "en": "10 MPH takeoff speed.",
+      "zh": ""
+    },
+    {
+      "start": 720.38,
+      "duration": 1.13,
+      "text": "- So let's see what happens.",
+      "en": "- So let's see what happens.",
+      "zh": ""
+    },
+    {
+      "start": 721.71,
+      "duration": 2.06,
+      "text": "Make your prediction now if you haven't already.",
+      "en": "Make your prediction now if you haven't already.",
+      "zh": ""
+    },
+    {
+      "start": 723.98,
+      "duration": 3.64,
+      "text": "- As we start the treadmill, we're gonna spin the propeller more and more to keep it in the same",
+      "en": "- As we start the treadmill, we're gonna spin the propeller more and more to keep it in the same",
+      "zh": ""
+    },
+    {
+      "start": 727.62,
+      "duration": 1.44,
+      "text": "spot so it stays in the camera frame.",
+      "en": "spot so it stays in the camera frame.",
+      "zh": ""
+    },
+    {
+      "start": 729.18,
+      "duration": 5.09,
+      "text": "- OK, so we're at takeoff speed and sadly, It's not taken off.",
+      "en": "- OK, so we're at takeoff speed and sadly, It's not taken off.",
+      "zh": ""
+    },
+    {
+      "start": 734.36,
+      "duration": 2.8,
+      "text": "- At this point, we were suspicious maybe we measured something wrong.",
+      "en": "- At this point, we were suspicious maybe we measured something wrong.",
+      "zh": ""
+    },
+    {
+      "start": 737.28,
+      "duration": 1.59,
+      "text": "So we cranked it up way more.",
+      "en": "So we cranked it up way more.",
+      "zh": ""
+    },
+    {
+      "start": 739.32,
+      "duration": 0.99,
+      "text": "And still nothing.",
+      "en": "And still nothing.",
+      "zh": ""
+    },
+    {
+      "start": 740.46,
+      "duration": 3.32,
+      "text": "- So does that mean our backyard treadmill idea is a bust?",
+      "en": "- So does that mean our backyard treadmill idea is a bust?",
+      "zh": ""
+    },
+    {
+      "start": 743.94,
+      "duration": 4.53,
+      "text": "- Let's talk about what needs to happen for a plane to take off, because planes need air flowing",
+      "en": "- Let's talk about what needs to happen for a plane to take off, because planes need air flowing",
+      "zh": ""
+    },
+    {
+      "start": 748.47,
+      "duration": 1.66,
+      "text": "around their wings to create lift.",
+      "en": "around their wings to create lift.",
+      "zh": ""
+    },
+    {
+      "start": 750.14,
+      "duration": 2.76,
+      "text": "Once again, it's sort of like sticking your hand out the car window.",
+      "en": "Once again, it's sort of like sticking your hand out the car window.",
+      "zh": ""
+    },
+    {
+      "start": 752.98,
+      "duration": 2.32,
+      "text": "You don't feel any lift stopped at a red light.",
+      "en": "You don't feel any lift stopped at a red light.",
+      "zh": ""
+    },
+    {
+      "start": 755.3,
+      "duration": 4.08,
+      "text": "The faster you go, and the more air that flows by your hand, the more lift you feel.",
+      "en": "The faster you go, and the more air that flows by your hand, the more lift you feel.",
+      "zh": ""
+    },
+    {
+      "start": 759.38,
+      "duration": 5.32,
+      "text": "Which means no matter how fast our treadmill goes, there's still no air moving over the wings.",
+      "en": "Which means no matter how fast our treadmill goes, there's still no air moving over the wings.",
+      "zh": ""
+    },
+    {
+      "start": 764.7,
+      "duration": 1.16,
+      "text": "We're stopped at a red light.",
+      "en": "We're stopped at a red light.",
+      "zh": ""
+    },
+    {
+      "start": 765.94,
+      "duration": 3.93,
+      "text": "And I think part of the confusion many people have with this experiment is they're comparing it to",
+      "en": "And I think part of the confusion many people have with this experiment is they're comparing it to",
+      "zh": ""
+    },
+    {
+      "start": 769.87,
+      "duration": 1.74,
+      "text": "the vehicle they know best, which is a car.",
+      "en": "the vehicle they know best, which is a car.",
+      "zh": ""
+    },
+    {
+      "start": 771.7,
+      "duration": 4.84,
+      "text": "Because for a car, the ground is what gives you forward motion, but for a plane, it's the",
+      "en": "Because for a car, the ground is what gives you forward motion, but for a plane, it's the",
+      "zh": ""
+    },
+    {
+      "start": 776.54,
+      "duration": 2.2,
+      "text": "propeller that gives you forward motion.",
+      "en": "propeller that gives you forward motion.",
+      "zh": ""
+    },
+    {
+      "start": 778.85,
+      "duration": 1.77,
+      "text": "Here's a thought experiment to demonstrate that.",
+      "en": "Here's a thought experiment to demonstrate that.",
+      "zh": ""
+    },
+    {
+      "start": 780.62,
+      "duration": 4.5,
+      "text": "Imagine you have a car and a plane on the most slippery ice ever invented.",
+      "en": "Imagine you have a car and a plane on the most slippery ice ever invented.",
+      "zh": ""
+    },
+    {
+      "start": 785.12,
+      "duration": 5.53,
+      "text": "Because the car's engine uses the ground to get forward motion through the tires, no matter how",
+      "en": "Because the car's engine uses the ground to get forward motion through the tires, no matter how",
+      "zh": ""
+    },
+    {
+      "start": 790.65,
+      "duration": 3.3,
+      "text": "fast you spin those tires, the car will not move an inch.",
+      "en": "fast you spin those tires, the car will not move an inch.",
+      "zh": ""
+    },
+    {
+      "start": 793.95,
+      "duration": 5.31,
+      "text": "The plane, however, is totally unaffected by the ice, because the plane's wheels aren't powered at all.",
+      "en": "The plane, however, is totally unaffected by the ice, because the plane's wheels aren't powered at all.",
+      "zh": ""
+    },
+    {
+      "start": 799.38,
+      "duration": 5.37,
+      "text": "The forward motion for a plane comes from the propeller in the air, so it would take off with",
+      "en": "The forward motion for a plane comes from the propeller in the air, so it would take off with",
+      "zh": ""
+    },
+    {
+      "start": 804.75,
+      "duration": 1.35,
+      "text": "absolutely no problems.",
+      "en": "absolutely no problems.",
+      "zh": ""
+    },
+    {
+      "start": 806.13,
+      "duration": 1.25,
+      "text": "It wouldn't know the difference.",
+      "en": "It wouldn't know the difference.",
+      "zh": ""
+    },
+    {
+      "start": 807.47,
+      "duration": 5.04,
+      "text": "So knowing that, let's adjust this experiment to give the plane a chance to move forward, which",
+      "en": "So knowing that, let's adjust this experiment to give the plane a chance to move forward, which",
+      "zh": ""
+    },
+    {
+      "start": 812.51,
+      "duration": 2.85,
+      "text": "means, of course, We're gonna need a bigger treadmill.",
+      "en": "means, of course, We're gonna need a bigger treadmill.",
+      "zh": ""
+    },
+    {
+      "start": 815.52,
+      "duration": 3.9,
+      "text": "So let's get our treadmill back up to that 10 MPH takeoff speed,",
+      "en": "So let's get our treadmill back up to that 10 MPH takeoff speed,",
+      "zh": ""
+    },
+    {
+      "start": 819.42,
+      "duration": 3.99,
+      "text": "- and at this point, we're exactly back to where we started with the smaller treadmill.",
+      "en": "- and at this point, we're exactly back to where we started with the smaller treadmill.",
+      "zh": ""
+    },
+    {
+      "start": 823.48,
+      "duration": 5.44,
+      "text": "- So to get the plane to move forward, let's just give it more power, causing it to move down our",
+      "en": "- So to get the plane to move forward, let's just give it more power, causing it to move down our",
+      "zh": ""
+    },
+    {
+      "start": 828.92,
+      "duration": 3.07,
+      "text": "extended treadmill and take off at 10 MPH after 15 ft.",
+      "en": "extended treadmill and take off at 10 MPH after 15 ft.",
+      "zh": ""
+    },
+    {
+      "start": 832.88,
+      "duration": 5.4,
+      "text": "- Which, as you recall, is the same speed and distance as when we tested it with no treadmill at all.",
+      "en": "- Which, as you recall, is the same speed and distance as when we tested it with no treadmill at all.",
+      "zh": ""
+    },
+    {
+      "start": 838.48,
+      "duration": 2.92,
+      "text": "- So would your brilliant backyard runway treadmill idea work?",
+      "en": "- So would your brilliant backyard runway treadmill idea work?",
+      "zh": ""
+    },
+    {
+      "start": 841.48,
+      "duration": 0.49,
+      "text": "Absolutely.",
+      "en": "Absolutely.",
+      "zh": ""
+    },
+    {
+      "start": 842.24,
+      "duration": 4.63,
+      "text": "Assuming, of course, your backyard is the exact length of an actual runway.",
+      "en": "Assuming, of course, your backyard is the exact length of an actual runway.",
+      "zh": ""
+    },
+    {
+      "start": 846.96,
+      "duration": 4.82,
+      "text": "And now for our final engineering puzzle, we're back in this hot air balloon as I contend with my",
+      "en": "And now for our final engineering puzzle, we're back in this hot air balloon as I contend with my",
+      "zh": ""
+    },
+    {
+      "start": 851.78,
+      "duration": 1.06,
+      "text": "mild fear of heights.",
+      "en": "mild fear of heights.",
+      "zh": ""
+    },
+    {
+      "start": 853.0,
+      "duration": 4.64,
+      "text": "- OK, well, I haven't found a steering wheel, but it does seem pretty clear every time you add hot",
+      "en": "- OK, well, I haven't found a steering wheel, but it does seem pretty clear every time you add hot",
+      "zh": ""
+    },
+    {
+      "start": 858.8,
+      "duration": 0.68,
+      "text": "we go high.",
+      "en": "we go high.",
+      "zh": ""
+    },
+    {
+      "start": 859.6,
+      "duration": 3.8,
+      "text": "- Hot air balloons utilize some pretty straightforward physics, and the clue is right",
+      "en": "- Hot air balloons utilize some pretty straightforward physics, and the clue is right",
+      "zh": ""
+    },
+    {
+      "start": 863.4,
+      "duration": 0.83,
+      "text": "there in the name.",
+      "en": "there in the name.",
+      "zh": ""
+    },
+    {
+      "start": 864.49,
+      "duration": 5.95,
+      "text": "Hot air is less dense than cold air, and we know from our Coke cans, less dense things will rise.",
+      "en": "Hot air is less dense than cold air, and we know from our Coke cans, less dense things will rise.",
+      "zh": ""
+    },
+    {
+      "start": 870.55,
+      "duration": 5.33,
+      "text": "So when Mateo does this and heats up the air in the balloon, he's basically Diet Coking us.",
+      "en": "So when Mateo does this and heats up the air in the balloon, he's basically Diet Coking us.",
+      "zh": ""
+    },
+    {
+      "start": 875.96,
+      "duration": 4.84,
+      "text": "And then over time, the air outside cools back down the air in the balloon, making it more dense,",
+      "en": "And then over time, the air outside cools back down the air in the balloon, making it more dense,",
+      "zh": ""
+    },
+    {
+      "start": 880.8,
+      "duration": 2.67,
+      "text": "and therefore we start to sink down like regular Coke.",
+      "en": "and therefore we start to sink down like regular Coke.",
+      "zh": ""
+    },
+    {
+      "start": 883.6,
+      "duration": 2.55,
+      "text": "- So all you have control over Is whether we go up or down.",
+      "en": "- So all you have control over Is whether we go up or down.",
+      "zh": ""
+    },
+    {
+      "start": 886.15,
+      "duration": 0.41,
+      "text": "- Correct.",
+      "en": "- Correct.",
+      "zh": ""
+    },
+    {
+      "start": 886.56,
+      "duration": 2.77,
+      "text": "- But you said you could land me wherever I wanted.",
+      "en": "- But you said you could land me wherever I wanted.",
+      "zh": ""
+    },
+    {
+      "start": 889.56,
+      "duration": 0.71,
+      "text": "- That is also correct.",
+      "en": "- That is also correct.",
+      "zh": ""
+    },
+    {
+      "start": 890.39,
+      "duration": 3.64,
+      "text": "- But what if the wind's going that way and I want to land over there?",
+      "en": "- But what if the wind's going that way and I want to land over there?",
+      "zh": ""
+    },
+    {
+      "start": 894.12,
+      "duration": 1.13,
+      "text": "That's gotta be magic.",
+      "en": "That's gotta be magic.",
+      "zh": ""
+    },
+    {
+      "start": 895.44,
+      "duration": 0.89,
+      "text": "- Yeah, so what we'll do is we'll...",
+      "en": "- Yeah, so what we'll do is we'll...",
+      "zh": ""
+    },
+    {
+      "start": 896.33,
+      "duration": 4.42,
+      "text": "- OK, pause here, because to understand Mateo's answer, you first need to understand two things.",
+      "en": "- OK, pause here, because to understand Mateo's answer, you first need to understand two things.",
+      "zh": ""
+    },
+    {
+      "start": 900.88,
+      "duration": 4.73,
+      "text": "The first is that if the wind is blowing in one direction in your backyard, 1000 ft above that,",
+      "en": "The first is that if the wind is blowing in one direction in your backyard, 1000 ft above that,",
+      "zh": ""
+    },
+    {
+      "start": 905.61,
+      "duration": 5.35,
+      "text": "it's almost certainly blowing differently, and 1000 ft above that, it will once again be totally different.",
+      "en": "it's almost certainly blowing differently, and 1000 ft above that, it will once again be totally different.",
+      "zh": ""
+    },
+    {
+      "start": 911.06,
+      "duration": 4.81,
+      "text": "So the question then becomes, how does Mateo know the wind speed and direction at different heights?",
+      "en": "So the question then becomes, how does Mateo know the wind speed and direction at different heights?",
+      "zh": ""
+    },
+    {
+      "start": 915.95,
+      "duration": 1.54,
+      "text": "And that's where number 2 comes in.",
+      "en": "And that's where number 2 comes in.",
+      "zh": ""
+    },
+    {
+      "start": 917.49,
+      "duration": 4.94,
+      "text": "Because it's someone's job every day to launch two balloons like this into the sky at noon and",
+      "en": "Because it's someone's job every day to launch two balloons like this into the sky at noon and",
+      "zh": ""
+    },
+    {
+      "start": 922.43,
+      "duration": 1.11,
+      "text": "midnight London time.",
+      "en": "midnight London time.",
+      "zh": ""
+    },
+    {
+      "start": 923.63,
+      "duration": 4.91,
+      "text": "But this is done in 1000 locations all around the world, all at those same two exact times.",
+      "en": "But this is done in 1000 locations all around the world, all at those same two exact times.",
+      "zh": ""
+    },
+    {
+      "start": 928.59,
+      "duration": 4.11,
+      "text": "And these balloons all have something called a radiosonde attached to them that measures things",
+      "en": "And these balloons all have something called a radiosonde attached to them that measures things",
+      "zh": ""
+    },
+    {
+      "start": 932.7,
+      "duration": 4.23,
+      "text": "like altitude, pressure, temperature, and wind, and then they transmit the information back to the",
+      "en": "like altitude, pressure, temperature, and wind, and then they transmit the information back to the",
+      "zh": ""
+    },
+    {
+      "start": 936.93,
+      "duration": 3.71,
+      "text": "ground station, which gets fed into supercomputers, and that's the reason the wind and",
+      "en": "ground station, which gets fed into supercomputers, and that's the reason the wind and",
+      "zh": ""
+    },
+    {
+      "start": 940.64,
+      "duration": 1.71,
+      "text": "weather predictions can be so accurate.",
+      "en": "weather predictions can be so accurate.",
+      "zh": ""
+    },
+    {
+      "start": 942.47,
+      "duration": 5.33,
+      "text": "So 2000 of these massive weather balloons go up every day and they eventually pop and just land",
+      "en": "So 2000 of these massive weather balloons go up every day and they eventually pop and just land",
+      "zh": ""
+    },
+    {
+      "start": 947.8,
+      "duration": 1.87,
+      "text": "somewhere, never to be retrieved.",
+      "en": "somewhere, never to be retrieved.",
+      "zh": ""
+    },
+    {
+      "start": 949.75,
+      "duration": 4.81,
+      "text": "Now, because of this, computers can figure out the wind direction and speed at every level of the",
+      "en": "Now, because of this, computers can figure out the wind direction and speed at every level of the",
+      "zh": ""
+    },
+    {
+      "start": 954.56,
+      "duration": 1.21,
+      "text": "atmosphere as you go up.",
+      "en": "atmosphere as you go up.",
+      "zh": ""
+    },
+    {
+      "start": 955.87,
+      "duration": 4.12,
+      "text": "So on a given day, Mateo just checks the daily charts, and if these are the predicted wind",
+      "en": "So on a given day, Mateo just checks the daily charts, and if these are the predicted wind",
+      "zh": ""
+    },
+    {
+      "start": 959.99,
+      "duration": 4.07,
+      "text": "directions and speed, and he wants us to land exactly right here, he just needs to raise.",
+      "en": "directions and speed, and he wants us to land exactly right here, he just needs to raise.",
+      "zh": ""
+    },
+    {
+      "start": 964.13,
+      "duration": 1.43,
+      "text": "And then raise again.",
+      "en": "And then raise again.",
+      "zh": ""
+    },
+    {
+      "start": 965.56,
+      "duration": 5.12,
+      "text": "And then lower the balloon to catch the appropriate invisible rivers of air to land in the",
+      "en": "And then lower the balloon to catch the appropriate invisible rivers of air to land in the",
+      "zh": ""
+    },
+    {
+      "start": 970.68,
+      "duration": 0.75,
+      "text": "perfect spot.",
+      "en": "perfect spot.",
+      "zh": ""
+    },
+    {
+      "start": 971.46,
+      "duration": 3.6,
+      "text": "So hot air balloons don't steer, at least not in the normal way we think of.",
+      "en": "So hot air balloons don't steer, at least not in the normal way we think of.",
+      "zh": ""
+    },
+    {
+      "start": 975.14,
+      "duration": 2.2,
+      "text": "It's more of a tag team with Mother Nature.",
+      "en": "It's more of a tag team with Mother Nature.",
+      "zh": ""
+    },
+    {
+      "start": 977.46,
+      "duration": 4.62,
+      "text": "So in some ways he's less of a magically steering pilot and he's more of a weatherman.",
+      "en": "So in some ways he's less of a magically steering pilot and he's more of a weatherman.",
+      "zh": ""
+    },
+    {
+      "start": 982.08,
+      "duration": 5.55,
+      "text": "- Which means the only real magic here is all the juicy knowledge I just wirelessly transferred",
+      "en": "- Which means the only real magic here is all the juicy knowledge I just wirelessly transferred",
+      "zh": ""
+    },
+    {
+      "start": 987.63,
+      "duration": 2.71,
+      "text": "through that screen from my brain into yours.",
+      "en": "through that screen from my brain into yours.",
+      "zh": ""
+    },
+    {
+      "start": 993.74,
+      "duration": 3.42,
+      "text": "This is Timmy, and he is a piano prodigy.",
+      "en": "This is Timmy, and he is a piano prodigy.",
+      "zh": ""
+    },
+    {
+      "start": 997.38,
+      "duration": 3.87,
+      "text": "He loves to practice and his parents don't have to nag him to practice either.",
+      "en": "He loves to practice and his parents don't have to nag him to practice either.",
+      "zh": ""
+    },
+    {
+      "start": 1001.54,
+      "duration": 0.83,
+      "text": "I love it.",
+      "en": "I love it.",
+      "zh": ""
+    },
+    {
+      "start": 1002.83,
+      "duration": 1.38,
+      "text": "Do your thing, Timmy.",
+      "en": "Do your thing, Timmy.",
+      "zh": ""
+    },
+    {
+      "start": 1004.21,
+      "duration": 4.82,
+      "text": "But this is Katie, and she lost all interest in piano after Hot Cross Buns.",
+      "en": "But this is Katie, and she lost all interest in piano after Hot Cross Buns.",
+      "zh": ""
+    },
+    {
+      "start": 1009.03,
+      "duration": 2.9,
+      "text": "- Which means practice is a battle and a chore she doesn't want to do.",
+      "en": "- Which means practice is a battle and a chore she doesn't want to do.",
+      "zh": ""
+    },
+    {
+      "start": 1012.65,
+      "duration": 3.32,
+      "text": "And let's face it, mom doesn't exactly want to hear either.",
+      "en": "And let's face it, mom doesn't exactly want to hear either.",
+      "zh": ""
+    },
+    {
+      "start": 1016.1,
+      "duration": 5.03,
+      "text": "- Well, I got great news for you, Katie and mom, because for the cost of one month of begrudging",
+      "en": "- Well, I got great news for you, Katie and mom, because for the cost of one month of begrudging",
+      "zh": ""
+    },
+    {
+      "start": 1021.13,
+      "duration": 5.08,
+      "text": "piano lessons and reactions like this, you can get an entire year of CrunchLab's Build Box with",
+      "en": "piano lessons and reactions like this, you can get an entire year of CrunchLab's Build Box with",
+      "zh": ""
+    },
+    {
+      "start": 1026.21,
+      "duration": 1.08,
+      "text": "reactions like this.",
+      "en": "reactions like this.",
+      "zh": ""
+    },
+    {
+      "start": 1029.18,
+      "duration": 5.15,
+      "text": "- And when the stoke level is this high, you're learning so much cool stuff even without realizing",
+      "en": "- And when the stoke level is this high, you're learning so much cool stuff even without realizing",
+      "zh": ""
+    },
+    {
+      "start": 1034.33,
+      "duration": 1.9,
+      "text": "you're learning so much cool stuff.",
+      "en": "you're learning so much cool stuff.",
+      "zh": ""
+    },
+    {
+      "start": 1037.22,
+      "duration": 3.97,
+      "text": "Because each month when the new toy arrives on your porch and then you put it together alongside",
+      "en": "Because each month when the new toy arrives on your porch and then you put it together alongside",
+      "zh": ""
+    },
+    {
+      "start": 1041.19,
+      "duration": 3.04,
+      "text": "me, you're learning all the cool engineering principles that make it work.",
+      "en": "me, you're learning all the cool engineering principles that make it work.",
+      "zh": ""
+    },
+    {
+      "start": 1044.24,
+      "duration": 5.15,
+      "text": "And this secret sauce of hiding the vegetables is the reason we've shipped millions of these boxes",
+      "en": "And this secret sauce of hiding the vegetables is the reason we've shipped millions of these boxes",
+      "zh": ""
+    },
+    {
+      "start": 1049.39,
+      "duration": 5.09,
+      "text": "to converted parents around the world saying this has totally unlocked a new level of resilience,",
+      "en": "to converted parents around the world saying this has totally unlocked a new level of resilience,",
+      "zh": ""
+    },
+    {
+      "start": 1054.48,
+      "duration": 1.97,
+      "text": "curiosity, and passion in their kids.",
+      "en": "curiosity, and passion in their kids.",
+      "zh": ""
+    },
+    {
+      "start": 1056.54,
+      "duration": 1.51,
+      "text": "- And there's even two options.",
+      "en": "- And there's even two options.",
+      "zh": ""
+    },
+    {
+      "start": 1058.06,
+      "duration": 4.9,
+      "text": "You've got Build Box where I teach them the basics through building a super fun toy for kids up to 12",
+      "en": "You've got Build Box where I teach them the basics through building a super fun toy for kids up to 12",
+      "zh": ""
+    },
+    {
+      "start": 1062.96,
+      "duration": 0.49,
+      "text": "years old.",
+      "en": "years old.",
+      "zh": ""
+    },
+    {
+      "start": 1063.45,
+      "duration": 4.84,
+      "text": "And then there's Hack Pack where we learn some coding with an awesome build it yourself robot for",
+      "en": "And then there's Hack Pack where we learn some coding with an awesome build it yourself robot for",
+      "zh": ""
+    },
+    {
+      "start": 1068.29,
+      "duration": 1.66,
+      "text": "your teens or heck, even for you.",
+      "en": "your teens or heck, even for you.",
+      "zh": ""
+    },
+    {
+      "start": 1070.03,
+      "duration": 1.89,
+      "text": "- Half of these things get shipped to adults.",
+      "en": "- Half of these things get shipped to adults.",
+      "zh": ""
+    },
+    {
+      "start": 1072.08,
+      "duration": 4.53,
+      "text": "- So if you want to go from being the household nagger to the household legend, watching a young",
+      "en": "- So if you want to go from being the household nagger to the household legend, watching a young",
+      "zh": ""
+    },
+    {
+      "start": 1076.61,
+      "duration": 4.77,
+      "text": "mind discover a passion they didn't even know they had, go to CrunchLabs.com or use the link in the",
+      "en": "mind discover a passion they didn't even know they had, go to CrunchLabs.com or use the link in the",
+      "zh": ""
+    },
+    {
+      "start": 1081.38,
+      "duration": 5.02,
+      "text": "video description where we're currently giving away either 1 or 2 boxes free as an early spring special.",
+      "en": "video description where we're currently giving away either 1 or 2 boxes free as an early spring special.",
+      "zh": ""
+    },
+    {
+      "start": 1086.52,
+      "duration": 0.8,
+      "text": "Thanks for watching.",
+      "en": "Thanks for watching.",
+      "zh": ""
+    }
+  ],
+  "words": []
+}

@@ -1,0 +1,4947 @@
+{
+  "cues": [
+    {
+      "start": 0.09,
+      "duration": 2.19,
+      "text": "- [Derek] This is the first in a series of videos",
+      "en": "- [Derek] This is the first in a series of videos",
+      "zh": ""
+    },
+    {
+      "start": 2.28,
+      "duration": 4.77,
+      "text": "about a chemical reaction discovered over 125 years ago.",
+      "en": "about a chemical reaction discovered over 125 years ago.",
+      "zh": ""
+    },
+    {
+      "start": 7.05,
+      "duration": 3.54,
+      "text": "It releases a tremendous amount of heat.",
+      "en": "It releases a tremendous amount of heat.",
+      "zh": ""
+    },
+    {
+      "start": 10.59,
+      "duration": 0.96,
+      "text": "Oh no, the GoPro.",
+      "en": "Oh no, the GoPro.",
+      "zh": ""
+    },
+    {
+      "start": 11.55,
+      "duration": 1.15,
+      "text": "Liquefying metal.",
+      "en": "Liquefying metal.",
+      "zh": ""
+    },
+    {
+      "start": 12.7,
+      "duration": 1.67,
+      "text": "It is so hot.",
+      "en": "It is so hot.",
+      "zh": ""
+    },
+    {
+      "start": 14.37,
+      "duration": 2.4,
+      "text": "It is not an explosive,",
+      "en": "It is not an explosive,",
+      "zh": ""
+    },
+    {
+      "start": 16.77,
+      "duration": 2.67,
+      "text": "but it can cause explosions.",
+      "en": "but it can cause explosions.",
+      "zh": ""
+    },
+    {
+      "start": 24.5,
+      "duration": 0.84,
+      "text": "That is crazy!",
+      "en": "That is crazy!",
+      "zh": ""
+    },
+    {
+      "start": 25.34,
+      "duration": 2.68,
+      "text": "But the reactants are so inert,",
+      "en": "But the reactants are so inert,",
+      "zh": ""
+    },
+    {
+      "start": 28.02,
+      "duration": 3.09,
+      "text": "they can withstand a blow torch indefinitely.",
+      "en": "they can withstand a blow torch indefinitely.",
+      "zh": ""
+    },
+    {
+      "start": 31.11,
+      "duration": 0.83,
+      "text": "Do you think this whole thing's",
+      "en": "Do you think this whole thing's",
+      "zh": ""
+    },
+    {
+      "start": 31.94,
+      "duration": 1.51,
+      "text": "going to blow up in my face?",
+      "en": "going to blow up in my face?",
+      "zh": ""
+    },
+    {
+      "start": 33.45,
+      "duration": 1.53,
+      "text": "In fact, when Hollywood directors",
+      "en": "In fact, when Hollywood directors",
+      "zh": ""
+    },
+    {
+      "start": 34.98,
+      "duration": 2.82,
+      "text": "wanted something that looked like a nuclear bomb,",
+      "en": "wanted something that looked like a nuclear bomb,",
+      "zh": ""
+    },
+    {
+      "start": 37.8,
+      "duration": 3.03,
+      "text": "this is the reaction they chose.",
+      "en": "this is the reaction they chose.",
+      "zh": ""
+    },
+    {
+      "start": 40.83,
+      "duration": 1.68,
+      "text": "But in its most common use,",
+      "en": "But in its most common use,",
+      "zh": ""
+    },
+    {
+      "start": 42.51,
+      "duration": 3.06,
+      "text": "one basically unchanged in over a century,",
+      "en": "one basically unchanged in over a century,",
+      "zh": ""
+    },
+    {
+      "start": 45.57,
+      "duration": 4.02,
+      "text": "it has helped move billions of people all over the world.",
+      "en": "it has helped move billions of people all over the world.",
+      "zh": ""
+    },
+    {
+      "start": 53.31,
+      "duration": 2.49,
+      "text": "In the late 1800s, Karl and his younger brother,",
+      "en": "In the late 1800s, Karl and his younger brother,",
+      "zh": ""
+    },
+    {
+      "start": 55.8,
+      "duration": 1.5,
+      "text": "Hans Goldschmidt,",
+      "en": "Hans Goldschmidt,",
+      "zh": ""
+    },
+    {
+      "start": 57.3,
+      "duration": 2.4,
+      "text": "were preparing to join the family business.",
+      "en": "were preparing to join the family business.",
+      "zh": ""
+    },
+    {
+      "start": 59.7,
+      "duration": 2.1,
+      "text": "Their father owned a chemical factory",
+      "en": "Their father owned a chemical factory",
+      "zh": ""
+    },
+    {
+      "start": 61.8,
+      "duration": 2.31,
+      "text": "making dyes for fabrics.",
+      "en": "making dyes for fabrics.",
+      "zh": ""
+    },
+    {
+      "start": 64.11,
+      "duration": 2.52,
+      "text": "So they studied chemistry under Robert Bunsen",
+      "en": "So they studied chemistry under Robert Bunsen",
+      "zh": ""
+    },
+    {
+      "start": 66.63,
+      "duration": 1.5,
+      "text": "of Bunsen burner fame.",
+      "en": "of Bunsen burner fame.",
+      "zh": ""
+    },
+    {
+      "start": 69.48,
+      "duration": 1.8,
+      "text": "After their father's early death,",
+      "en": "After their father's early death,",
+      "zh": ""
+    },
+    {
+      "start": 71.28,
+      "duration": 2.25,
+      "text": "Karl took over management of the company,",
+      "en": "Karl took over management of the company,",
+      "zh": ""
+    },
+    {
+      "start": 73.53,
+      "duration": 2.1,
+      "text": "later joined by his younger brother.",
+      "en": "later joined by his younger brother.",
+      "zh": ""
+    },
+    {
+      "start": 77.04,
+      "duration": 3.21,
+      "text": "One of Hans' first major research aims",
+      "en": "One of Hans' first major research aims",
+      "zh": ""
+    },
+    {
+      "start": 80.25,
+      "duration": 3.6,
+      "text": "was to find a way to produce pure metals.",
+      "en": "was to find a way to produce pure metals.",
+      "zh": ""
+    },
+    {
+      "start": 83.85,
+      "duration": 2.76,
+      "text": "These were essential for making dyes for everything",
+      "en": "These were essential for making dyes for everything",
+      "zh": ""
+    },
+    {
+      "start": 86.61,
+      "duration": 3.75,
+      "text": "from clothing and tablecloths to wallpaper.",
+      "en": "from clothing and tablecloths to wallpaper.",
+      "zh": ""
+    },
+    {
+      "start": 90.36,
+      "duration": 3.09,
+      "text": "At that time, good dyes were hard to come by.",
+      "en": "At that time, good dyes were hard to come by.",
+      "zh": ""
+    },
+    {
+      "start": 93.45,
+      "duration": 3.48,
+      "text": "Most were faint and faded further after use.",
+      "en": "Most were faint and faded further after use.",
+      "zh": ""
+    },
+    {
+      "start": 96.93,
+      "duration": 1.29,
+      "text": "Some required the collection",
+      "en": "Some required the collection",
+      "zh": ""
+    },
+    {
+      "start": 98.22,
+      "duration": 3.27,
+      "text": "of large quantities of exotic insects.",
+      "en": "of large quantities of exotic insects.",
+      "zh": ""
+    },
+    {
+      "start": 101.49,
+      "duration": 2.43,
+      "text": "These days, we take color for granted,",
+      "en": "These days, we take color for granted,",
+      "zh": ""
+    },
+    {
+      "start": 104.82,
+      "duration": 3.54,
+      "text": "but in this drab world, people would pay handsomely",
+      "en": "but in this drab world, people would pay handsomely",
+      "zh": ""
+    },
+    {
+      "start": 108.36,
+      "duration": 2.4,
+      "text": "for bright color fast dyes.",
+      "en": "for bright color fast dyes.",
+      "zh": ""
+    },
+    {
+      "start": 112.95,
+      "duration": 3.18,
+      "text": "One such dye was Scheele's green,",
+      "en": "One such dye was Scheele's green,",
+      "zh": ""
+    },
+    {
+      "start": 116.13,
+      "duration": 3.36,
+      "text": "which was chemically copper arsenite.",
+      "en": "which was chemically copper arsenite.",
+      "zh": ""
+    },
+    {
+      "start": 119.49,
+      "duration": 2.67,
+      "text": "As its name suggests, it was toxic,",
+      "en": "As its name suggests, it was toxic,",
+      "zh": ""
+    },
+    {
+      "start": 122.16,
+      "duration": 3.99,
+      "text": "though exactly how toxic is a matter of debate.",
+      "en": "though exactly how toxic is a matter of debate.",
+      "zh": ""
+    },
+    {
+      "start": 126.15,
+      "duration": 3.51,
+      "text": "Still, it became the dominant green dye by the end",
+      "en": "Still, it became the dominant green dye by the end",
+      "zh": ""
+    },
+    {
+      "start": 129.66,
+      "duration": 4.5,
+      "text": "of the 19th century because its color was unbeatable.",
+      "en": "of the 19th century because its color was unbeatable.",
+      "zh": ""
+    },
+    {
+      "start": 134.16,
+      "duration": 2.52,
+      "text": "The red color of the British Army officer's coats",
+      "en": "The red color of the British Army officer's coats",
+      "zh": ""
+    },
+    {
+      "start": 136.68,
+      "duration": 1.5,
+      "text": "was made from cochineal,",
+      "en": "was made from cochineal,",
+      "zh": ""
+    },
+    {
+      "start": 138.18,
+      "duration": 3.69,
+      "text": "a central American insect mixed with tin.",
+      "en": "a central American insect mixed with tin.",
+      "zh": ""
+    },
+    {
+      "start": 141.87,
+      "duration": 3.6,
+      "text": "The addition of tin made the color darker and more intense.",
+      "en": "The addition of tin made the color darker and more intense.",
+      "zh": ""
+    },
+    {
+      "start": 145.47,
+      "duration": 2.79,
+      "text": "So the demand for pure metals was strong.",
+      "en": "So the demand for pure metals was strong.",
+      "zh": ""
+    },
+    {
+      "start": 149.91,
+      "duration": 2.88,
+      "text": "- They had their experience in purifying metals",
+      "en": "- They had their experience in purifying metals",
+      "zh": ""
+    },
+    {
+      "start": 152.79,
+      "duration": 2.13,
+      "text": "by dissolving them in solutions or in acids",
+      "en": "by dissolving them in solutions or in acids",
+      "zh": ""
+    },
+    {
+      "start": 154.92,
+      "duration": 0.84,
+      "text": "and all kinds of things.",
+      "en": "and all kinds of things.",
+      "zh": ""
+    },
+    {
+      "start": 155.76,
+      "duration": 2.07,
+      "text": "- [Reporter] The incoming cyanide solution",
+      "en": "- [Reporter] The incoming cyanide solution",
+      "zh": ""
+    },
+    {
+      "start": 157.83,
+      "duration": 3.33,
+      "text": "goes on dissolving the particles of gold left in the sand",
+      "en": "goes on dissolving the particles of gold left in the sand",
+      "zh": ""
+    },
+    {
+      "start": 161.16,
+      "duration": 2.67,
+      "text": "after amalgamation and liquefies it.",
+      "en": "after amalgamation and liquefies it.",
+      "zh": ""
+    },
+    {
+      "start": 163.83,
+      "duration": 2.61,
+      "text": "- And then work with the salts, purify the salts,",
+      "en": "- And then work with the salts, purify the salts,",
+      "zh": ""
+    },
+    {
+      "start": 166.44,
+      "duration": 3.3,
+      "text": "and then reduce the salts into the metal state.",
+      "en": "and then reduce the salts into the metal state.",
+      "zh": ""
+    },
+    {
+      "start": 169.74,
+      "duration": 3.24,
+      "text": "And every step that you would take would then",
+      "en": "And every step that you would take would then",
+      "zh": ""
+    },
+    {
+      "start": 172.98,
+      "duration": 1.62,
+      "text": "again cause problems, right?",
+      "en": "again cause problems, right?",
+      "zh": ""
+    },
+    {
+      "start": 174.6,
+      "duration": 2.1,
+      "text": "Reducing it in a furnace,",
+      "en": "Reducing it in a furnace,",
+      "zh": ""
+    },
+    {
+      "start": 176.7,
+      "duration": 1.83,
+      "text": "you have to deal with all the exhaust",
+      "en": "you have to deal with all the exhaust",
+      "zh": ""
+    },
+    {
+      "start": 178.53,
+      "duration": 2.82,
+      "text": "and the contamination through the carbon.",
+      "en": "and the contamination through the carbon.",
+      "zh": ""
+    },
+    {
+      "start": 181.35,
+      "duration": 1.65,
+      "text": "- [Derek] And metals are very difficult",
+      "en": "- [Derek] And metals are very difficult",
+      "zh": ""
+    },
+    {
+      "start": 183.0,
+      "duration": 1.8,
+      "text": "to separate from each other.",
+      "en": "to separate from each other.",
+      "zh": ""
+    },
+    {
+      "start": 184.8,
+      "duration": 2.94,
+      "text": "- They basically, they form a mixed crystal, right?",
+      "en": "- They basically, they form a mixed crystal, right?",
+      "zh": ""
+    },
+    {
+      "start": 187.74,
+      "duration": 1.62,
+      "text": "- Like an alloy. - Like an alloy, right.",
+      "en": "- Like an alloy. - Like an alloy, right.",
+      "zh": ""
+    },
+    {
+      "start": 189.36,
+      "duration": 1.41,
+      "text": "They all become, in a sense,",
+      "en": "They all become, in a sense,",
+      "zh": ""
+    },
+    {
+      "start": 190.77,
+      "duration": 3.42,
+      "text": "one substance that has one melting point,",
+      "en": "one substance that has one melting point,",
+      "zh": ""
+    },
+    {
+      "start": 194.19,
+      "duration": 3.9,
+      "text": "which is why you have to kind of take some steps",
+      "en": "which is why you have to kind of take some steps",
+      "zh": ""
+    },
+    {
+      "start": 198.09,
+      "duration": 1.26,
+      "text": "to separate them.",
+      "en": "to separate them.",
+      "zh": ""
+    },
+    {
+      "start": 199.35,
+      "duration": 2.55,
+      "text": "- [Derek] So Hans came up with a novel idea.",
+      "en": "- [Derek] So Hans came up with a novel idea.",
+      "zh": ""
+    },
+    {
+      "start": 202.92,
+      "duration": 4.08,
+      "text": "He would react a metal oxide like chromium oxide",
+      "en": "He would react a metal oxide like chromium oxide",
+      "zh": ""
+    },
+    {
+      "start": 207.0,
+      "duration": 2.16,
+      "text": "with aluminum metal,",
+      "en": "with aluminum metal,",
+      "zh": ""
+    },
+    {
+      "start": 209.16,
+      "duration": 3.51,
+      "text": "and his hope was that the oxygen would swap partners,",
+      "en": "and his hope was that the oxygen would swap partners,",
+      "zh": ""
+    },
+    {
+      "start": 212.67,
+      "duration": 3.42,
+      "text": "forming aluminum oxide and pure chromium.",
+      "en": "forming aluminum oxide and pure chromium.",
+      "zh": ""
+    },
+    {
+      "start": 218.1,
+      "duration": 3.3,
+      "text": "This type of reaction is now known as an aluminothermic",
+      "en": "This type of reaction is now known as an aluminothermic",
+      "zh": ""
+    },
+    {
+      "start": 221.4,
+      "duration": 2.1,
+      "text": "or thermite reaction.",
+      "en": "or thermite reaction.",
+      "zh": ""
+    },
+    {
+      "start": 224.64,
+      "duration": 3.36,
+      "text": "So I have come to visit Electro-Thermit in Germany,",
+      "en": "So I have come to visit Electro-Thermit in Germany,",
+      "zh": ""
+    },
+    {
+      "start": 228.0,
+      "duration": 4.14,
+      "text": "a company that is a direct descendant of Goldschmidts.",
+      "en": "a company that is a direct descendant of Goldschmidts.",
+      "zh": ""
+    },
+    {
+      "start": 232.14,
+      "duration": 2.25,
+      "text": "I feel like they've set this up like a tour",
+      "en": "I feel like they've set this up like a tour",
+      "zh": ""
+    },
+    {
+      "start": 234.39,
+      "duration": 2.76,
+      "text": "of Willy Wonka's Chocolate Factory,",
+      "en": "of Willy Wonka's Chocolate Factory,",
+      "zh": ""
+    },
+    {
+      "start": 237.15,
+      "duration": 2.79,
+      "text": "but instead it's a thermite factory.",
+      "en": "but instead it's a thermite factory.",
+      "zh": ""
+    },
+    {
+      "start": 239.94,
+      "duration": 1.83,
+      "text": "Here we are going to try to replicate",
+      "en": "Here we are going to try to replicate",
+      "zh": ""
+    },
+    {
+      "start": 241.77,
+      "duration": 2.22,
+      "text": "Han's first successful reaction.",
+      "en": "Han's first successful reaction.",
+      "zh": ""
+    },
+    {
+      "start": 243.99,
+      "duration": 2.01,
+      "text": "All experiments in this video were performed",
+      "en": "All experiments in this video were performed",
+      "zh": ""
+    },
+    {
+      "start": 246.0,
+      "duration": 1.68,
+      "text": "under the supervision of professionals",
+      "en": "under the supervision of professionals",
+      "zh": ""
+    },
+    {
+      "start": 247.68,
+      "duration": 2.58,
+      "text": "taking proper safety precautions.",
+      "en": "taking proper safety precautions.",
+      "zh": ""
+    },
+    {
+      "start": 250.26,
+      "duration": 3.03,
+      "text": "- Originally, the first experiment was using chrome,",
+      "en": "- Originally, the first experiment was using chrome,",
+      "zh": ""
+    },
+    {
+      "start": 253.29,
+      "duration": 3.12,
+      "text": "but we are using copper, which is comparable.",
+      "en": "but we are using copper, which is comparable.",
+      "zh": ""
+    },
+    {
+      "start": 256.41,
+      "duration": 1.44,
+      "text": "- [Derek] This is like 300 grams.",
+      "en": "- [Derek] This is like 300 grams.",
+      "zh": ""
+    },
+    {
+      "start": 257.85,
+      "duration": 2.34,
+      "text": "- [Axel] Yeah, 300 grams of thermite.",
+      "en": "- [Axel] Yeah, 300 grams of thermite.",
+      "zh": ""
+    },
+    {
+      "start": 260.19,
+      "duration": 2.46,
+      "text": "- Pour it in? All right.",
+      "en": "- Pour it in? All right.",
+      "zh": ""
+    },
+    {
+      "start": 262.65,
+      "duration": 3.99,
+      "text": "We pour it into the crucible and ignite.",
+      "en": "We pour it into the crucible and ignite.",
+      "zh": ""
+    },
+    {
+      "start": 266.64,
+      "duration": 0.83,
+      "text": "All right.",
+      "en": "All right.",
+      "zh": ""
+    },
+    {
+      "start": 268.69,
+      "duration": 1.04,
+      "text": "- Yeah. - That's it.",
+      "en": "- Yeah. - That's it.",
+      "zh": ""
+    },
+    {
+      "start": 269.73,
+      "duration": 1.05,
+      "text": "- Yeah. (shouts)",
+      "en": "- Yeah. (shouts)",
+      "zh": ""
+    },
+    {
+      "start": 270.78,
+      "duration": 1.31,
+      "text": "- Leave it, leave it, leave it.",
+      "en": "- Leave it, leave it, leave it.",
+      "zh": ""
+    },
+    {
+      "start": 274.73,
+      "duration": 0.83,
+      "text": "- Whoa!",
+      "en": "- Whoa!",
+      "zh": ""
+    },
+    {
+      "start": 278.08,
+      "duration": 1.91,
+      "text": "(laughs)",
+      "en": "(laughs)",
+      "zh": ""
+    },
+    {
+      "start": 279.99,
+      "duration": 3.12,
+      "text": "That is like fireworks. Well, that's impressive.",
+      "en": "That is like fireworks. Well, that's impressive.",
+      "zh": ""
+    },
+    {
+      "start": 284.9,
+      "duration": 2.42,
+      "text": "- [Axel] But you bet he was surprised when he saw that.",
+      "en": "- [Axel] But you bet he was surprised when he saw that.",
+      "zh": ""
+    },
+    {
+      "start": 287.32,
+      "duration": 2.66,
+      "text": "(both laughing)",
+      "en": "(both laughing)",
+      "zh": ""
+    },
+    {
+      "start": 292.98,
+      "duration": 3.69,
+      "text": "Handful of aluminum powder, and then you get this.",
+      "en": "Handful of aluminum powder, and then you get this.",
+      "zh": ""
+    },
+    {
+      "start": 297.66,
+      "duration": 0.83,
+      "text": "- [Derek] As you can see,",
+      "en": "- [Derek] As you can see,",
+      "zh": ""
+    },
+    {
+      "start": 298.49,
+      "duration": 2.29,
+      "text": "the reaction releases a lot of energy.",
+      "en": "the reaction releases a lot of energy.",
+      "zh": ""
+    },
+    {
+      "start": 302.46,
+      "duration": 2.52,
+      "text": "The temperature of thermite reactions typically exceeds",
+      "en": "The temperature of thermite reactions typically exceeds",
+      "zh": ""
+    },
+    {
+      "start": 304.98,
+      "duration": 4.95,
+      "text": "2,000 degrees Celsius, and it can be as much as 2,500.",
+      "en": "2,000 degrees Celsius, and it can be as much as 2,500.",
+      "zh": ""
+    },
+    {
+      "start": 309.93,
+      "duration": 4.23,
+      "text": "That's because aluminum forms very strong bonds with oxygen.",
+      "en": "That's because aluminum forms very strong bonds with oxygen.",
+      "zh": ""
+    },
+    {
+      "start": 314.16,
+      "duration": 3.24,
+      "text": "When those bonds form, they release a lot of energy,",
+      "en": "When those bonds form, they release a lot of energy,",
+      "zh": ""
+    },
+    {
+      "start": 317.4,
+      "duration": 2.88,
+      "text": "way more than is required to break the copper oxide bonds",
+      "en": "way more than is required to break the copper oxide bonds",
+      "zh": ""
+    },
+    {
+      "start": 320.28,
+      "duration": 1.56,
+      "text": "we started with.",
+      "en": "we started with.",
+      "zh": ""
+    },
+    {
+      "start": 321.84,
+      "duration": 3.06,
+      "text": "This energy melts all the products of the reaction",
+      "en": "This energy melts all the products of the reaction",
+      "zh": ""
+    },
+    {
+      "start": 324.9,
+      "duration": 1.8,
+      "text": "and makes them glowing hot.",
+      "en": "and makes them glowing hot.",
+      "zh": ""
+    },
+    {
+      "start": 327.81,
+      "duration": 3.06,
+      "text": "It is hard to express just how bright they are.",
+      "en": "It is hard to express just how bright they are.",
+      "zh": ""
+    },
+    {
+      "start": 330.87,
+      "duration": 2.28,
+      "text": "It feels like staring at the sun.",
+      "en": "It feels like staring at the sun.",
+      "zh": ""
+    },
+    {
+      "start": 334.47,
+      "duration": 1.41,
+      "text": "If you see clips in this video",
+      "en": "If you see clips in this video",
+      "zh": ""
+    },
+    {
+      "start": 335.88,
+      "duration": 2.1,
+      "text": "where the highlights are overexposed,",
+      "en": "where the highlights are overexposed,",
+      "zh": ""
+    },
+    {
+      "start": 337.98,
+      "duration": 2.19,
+      "text": "it's because it is so hard to judge",
+      "en": "it's because it is so hard to judge",
+      "zh": ""
+    },
+    {
+      "start": 340.17,
+      "duration": 2.07,
+      "text": "how bright the reaction will be,",
+      "en": "how bright the reaction will be,",
+      "zh": ""
+    },
+    {
+      "start": 342.24,
+      "duration": 3.39,
+      "text": "and it's almost always brighter than you expect.",
+      "en": "and it's almost always brighter than you expect.",
+      "zh": ""
+    },
+    {
+      "start": 348.69,
+      "duration": 1.71,
+      "text": "So that dropping down the bottom there,",
+      "en": "So that dropping down the bottom there,",
+      "zh": ""
+    },
+    {
+      "start": 350.4,
+      "duration": 1.29,
+      "text": "is that liquid copper?",
+      "en": "is that liquid copper?",
+      "zh": ""
+    },
+    {
+      "start": 351.69,
+      "duration": 1.95,
+      "text": "- [Axel] That's liquid copper and basically the solution",
+      "en": "- [Axel] That's liquid copper and basically the solution",
+      "zh": ""
+    },
+    {
+      "start": 353.64,
+      "duration": 1.59,
+      "text": "that was being created.",
+      "en": "that was being created.",
+      "zh": ""
+    },
+    {
+      "start": 355.23,
+      "duration": 1.8,
+      "text": "- [Derek] But if you get this hot mixture",
+      "en": "- [Derek] But if you get this hot mixture",
+      "zh": ""
+    },
+    {
+      "start": 357.03,
+      "duration": 2.55,
+      "text": "of pure metal and aluminum oxide,",
+      "en": "of pure metal and aluminum oxide,",
+      "zh": ""
+    },
+    {
+      "start": 359.58,
+      "duration": 1.95,
+      "text": "how do you separate the two materials",
+      "en": "how do you separate the two materials",
+      "zh": ""
+    },
+    {
+      "start": 361.53,
+      "duration": 1.86,
+      "text": "to isolate the pure metal?",
+      "en": "to isolate the pure metal?",
+      "zh": ""
+    },
+    {
+      "start": 366.06,
+      "duration": 1.35,
+      "text": "We're trying to set up an experiment",
+      "en": "We're trying to set up an experiment",
+      "zh": ""
+    },
+    {
+      "start": 367.41,
+      "duration": 1.65,
+      "text": "that no one has ever seen before",
+      "en": "that no one has ever seen before",
+      "zh": ""
+    },
+    {
+      "start": 369.06,
+      "duration": 1.59,
+      "text": "and it's actually going to allow us",
+      "en": "and it's actually going to allow us",
+      "zh": ""
+    },
+    {
+      "start": 370.65,
+      "duration": 2.28,
+      "text": "to see inside the crucible.",
+      "en": "to see inside the crucible.",
+      "zh": ""
+    },
+    {
+      "start": 372.93,
+      "duration": 3.57,
+      "text": "We cut the crucible in half and we're attaching two pieces",
+      "en": "We cut the crucible in half and we're attaching two pieces",
+      "zh": ""
+    },
+    {
+      "start": 376.5,
+      "duration": 3.42,
+      "text": "of thermally resistant glass, each four millimeters thick,",
+      "en": "of thermally resistant glass, each four millimeters thick,",
+      "zh": ""
+    },
+    {
+      "start": 379.92,
+      "duration": 2.61,
+      "text": "as a window into the reaction.",
+      "en": "as a window into the reaction.",
+      "zh": ""
+    },
+    {
+      "start": 382.53,
+      "duration": 2.13,
+      "text": "People said this would be impossible,",
+      "en": "People said this would be impossible,",
+      "zh": ""
+    },
+    {
+      "start": 384.66,
+      "duration": 2.34,
+      "text": "that you wouldn't be able to see anything",
+      "en": "that you wouldn't be able to see anything",
+      "zh": ""
+    },
+    {
+      "start": 387.0,
+      "duration": 1.95,
+      "text": "or that the glass would just break.",
+      "en": "or that the glass would just break.",
+      "zh": ""
+    },
+    {
+      "start": 388.95,
+      "duration": 3.18,
+      "text": "- We've never done this on camera and really seen it",
+      "en": "- We've never done this on camera and really seen it",
+      "zh": ""
+    },
+    {
+      "start": 392.13,
+      "duration": 2.01,
+      "text": "this way, this clear.",
+      "en": "this way, this clear.",
+      "zh": ""
+    },
+    {
+      "start": 394.14,
+      "duration": 1.68,
+      "text": "And I think it's going to be fascinating",
+      "en": "And I think it's going to be fascinating",
+      "zh": ""
+    },
+    {
+      "start": 395.82,
+      "duration": 3.24,
+      "text": "to then start to analyze and make sense of this.",
+      "en": "to then start to analyze and make sense of this.",
+      "zh": ""
+    },
+    {
+      "start": 399.06,
+      "duration": 2.28,
+      "text": "- Now this glass has been specially treated,",
+      "en": "- Now this glass has been specially treated,",
+      "zh": ""
+    },
+    {
+      "start": 401.34,
+      "duration": 1.74,
+      "text": "so it shouldn't shatter immediately",
+      "en": "so it shouldn't shatter immediately",
+      "zh": ""
+    },
+    {
+      "start": 403.08,
+      "duration": 2.88,
+      "text": "when it comes into contact with molten metal.",
+      "en": "when it comes into contact with molten metal.",
+      "zh": ""
+    },
+    {
+      "start": 405.96,
+      "duration": 2.34,
+      "text": "Ah, that is hot. That is really hot.",
+      "en": "Ah, that is hot. That is really hot.",
+      "zh": ""
+    },
+    {
+      "start": 408.3,
+      "duration": 1.86,
+      "text": "But the melting temperature of silica",
+      "en": "But the melting temperature of silica",
+      "zh": ""
+    },
+    {
+      "start": 410.16,
+      "duration": 3.03,
+      "text": "is around 1,700 degrees Celsius,",
+      "en": "is around 1,700 degrees Celsius,",
+      "zh": ""
+    },
+    {
+      "start": 414.33,
+      "duration": 2.01,
+      "text": "which is definitely lower",
+      "en": "which is definitely lower",
+      "zh": ""
+    },
+    {
+      "start": 416.34,
+      "duration": 2.37,
+      "text": "than the temperature of the reaction,",
+      "en": "than the temperature of the reaction,",
+      "zh": ""
+    },
+    {
+      "start": 418.71,
+      "duration": 3.0,
+      "text": "so the glass certainly will melt.",
+      "en": "so the glass certainly will melt.",
+      "zh": ""
+    },
+    {
+      "start": 421.71,
+      "duration": 4.38,
+      "text": "The hope is it melts slowly enough to contain the reaction.",
+      "en": "The hope is it melts slowly enough to contain the reaction.",
+      "zh": ""
+    },
+    {
+      "start": 426.09,
+      "duration": 1.53,
+      "text": "- The glass will melt and at the end,",
+      "en": "- The glass will melt and at the end,",
+      "zh": ""
+    },
+    {
+      "start": 427.62,
+      "duration": 3.39,
+      "text": "we have just a very thin layer of the glass at the end.",
+      "en": "we have just a very thin layer of the glass at the end.",
+      "zh": ""
+    },
+    {
+      "start": 434.73,
+      "duration": 3.19,
+      "text": "So you will ignite it. It's up to you to place the igniter.",
+      "en": "So you will ignite it. It's up to you to place the igniter.",
+      "zh": ""
+    },
+    {
+      "start": 437.92,
+      "duration": 2.18,
+      "text": "- I think someone else should ignite it.",
+      "en": "- I think someone else should ignite it.",
+      "zh": ""
+    },
+    {
+      "start": 440.1,
+      "duration": 1.62,
+      "text": "I think someone else should ignite it.",
+      "en": "I think someone else should ignite it.",
+      "zh": ""
+    },
+    {
+      "start": 441.72,
+      "duration": 0.83,
+      "text": "- [Christof] Why?",
+      "en": "- [Christof] Why?",
+      "zh": ""
+    },
+    {
+      "start": 442.55,
+      "duration": 1.0,
+      "text": "- Because I don't trust myself.",
+      "en": "- Because I don't trust myself.",
+      "zh": ""
+    },
+    {
+      "start": 443.55,
+      "duration": 3.48,
+      "text": "We saw how incapable I was of igniting yesterday.",
+      "en": "We saw how incapable I was of igniting yesterday.",
+      "zh": ""
+    },
+    {
+      "start": 447.03,
+      "duration": 1.5,
+      "text": "That's it? (shouts)",
+      "en": "That's it? (shouts)",
+      "zh": ""
+    },
+    {
+      "start": 448.53,
+      "duration": 1.56,
+      "text": "- Leave it, leave it, leave it.",
+      "en": "- Leave it, leave it, leave it.",
+      "zh": ""
+    },
+    {
+      "start": 450.09,
+      "duration": 1.08,
+      "text": "- [Derek] For this reaction,",
+      "en": "- [Derek] For this reaction,",
+      "zh": ""
+    },
+    {
+      "start": 451.17,
+      "duration": 1.98,
+      "text": "we'll be using iron thermite,",
+      "en": "we'll be using iron thermite,",
+      "zh": ""
+    },
+    {
+      "start": 453.15,
+      "duration": 4.16,
+      "text": "so a combination of iron oxide and aluminum metal.",
+      "en": "so a combination of iron oxide and aluminum metal.",
+      "zh": ""
+    },
+    {
+      "start": 458.56,
+      "duration": 2.6,
+      "text": "Okay, that's good. Let's do this.",
+      "en": "Okay, that's good. Let's do this.",
+      "zh": ""
+    },
+    {
+      "start": 474.23,
+      "duration": 1.57,
+      "text": "Holy.",
+      "en": "Holy.",
+      "zh": ""
+    },
+    {
+      "start": 475.8,
+      "duration": 1.49,
+      "text": "Oh no, the GoPro.",
+      "en": "Oh no, the GoPro.",
+      "zh": ""
+    },
+    {
+      "start": 480.03,
+      "duration": 0.87,
+      "text": "Oh boy.",
+      "en": "Oh boy.",
+      "zh": ""
+    },
+    {
+      "start": 482.25,
+      "duration": 0.83,
+      "text": "Oh no.",
+      "en": "Oh no.",
+      "zh": ""
+    },
+    {
+      "start": 493.44,
+      "duration": 2.17,
+      "text": "That's the end of the GoPro.",
+      "en": "That's the end of the GoPro.",
+      "zh": ""
+    },
+    {
+      "start": 497.43,
+      "duration": 1.98,
+      "text": "The reaction starts at the igniter",
+      "en": "The reaction starts at the igniter",
+      "zh": ""
+    },
+    {
+      "start": 499.41,
+      "duration": 2.67,
+      "text": "and expands outwards in all directions.",
+      "en": "and expands outwards in all directions.",
+      "zh": ""
+    },
+    {
+      "start": 503.61,
+      "duration": 3.87,
+      "text": "To me, it almost looks like ants or mold or something.",
+      "en": "To me, it almost looks like ants or mold or something.",
+      "zh": ""
+    },
+    {
+      "start": 507.48,
+      "duration": 2.82,
+      "text": "It looks organic in how it's sort of spreading.",
+      "en": "It looks organic in how it's sort of spreading.",
+      "zh": ""
+    },
+    {
+      "start": 511.59,
+      "duration": 3.21,
+      "text": "You see a pulse. Boom, boom, boom.",
+      "en": "You see a pulse. Boom, boom, boom.",
+      "zh": ""
+    },
+    {
+      "start": 514.8,
+      "duration": 1.23,
+      "text": "- [Christof] It's living.",
+      "en": "- [Christof] It's living.",
+      "zh": ""
+    },
+    {
+      "start": 516.03,
+      "duration": 1.7,
+      "text": "- Yeah, that's what it looks like.",
+      "en": "- Yeah, that's what it looks like.",
+      "zh": ""
+    },
+    {
+      "start": 524.04,
+      "duration": 1.5,
+      "text": "Why is there pulsing?",
+      "en": "Why is there pulsing?",
+      "zh": ""
+    },
+    {
+      "start": 525.54,
+      "duration": 1.8,
+      "text": "- I don't know. - Okay.",
+      "en": "- I don't know. - Okay.",
+      "zh": ""
+    },
+    {
+      "start": 527.34,
+      "duration": 1.55,
+      "text": "- We try to understand. - Huh.",
+      "en": "- We try to understand. - Huh.",
+      "zh": ""
+    },
+    {
+      "start": 530.58,
+      "duration": 1.95,
+      "text": "- We never knew that it did that.",
+      "en": "- We never knew that it did that.",
+      "zh": ""
+    },
+    {
+      "start": 533.94,
+      "duration": 3.8,
+      "text": "We do this for 100 years and and suddenly you find out,",
+      "en": "We do this for 100 years and and suddenly you find out,",
+      "zh": ""
+    },
+    {
+      "start": 537.74,
+      "duration": 2.95,
+      "text": "you know, every portion that gets ignited does that.",
+      "en": "you know, every portion that gets ignited does that.",
+      "zh": ""
+    },
+    {
+      "start": 545.1,
+      "duration": 2.04,
+      "text": "- Do you think that's gas escaping up",
+      "en": "- Do you think that's gas escaping up",
+      "zh": ""
+    },
+    {
+      "start": 547.14,
+      "duration": 1.5,
+      "text": "and that's almost what causes the pulsing?",
+      "en": "and that's almost what causes the pulsing?",
+      "zh": ""
+    },
+    {
+      "start": 548.64,
+      "duration": 3.21,
+      "text": "Like some gas heats up and then it shoots up",
+      "en": "Like some gas heats up and then it shoots up",
+      "zh": ""
+    },
+    {
+      "start": 551.85,
+      "duration": 2.34,
+      "text": "and then it makes space for the next one?",
+      "en": "and then it makes space for the next one?",
+      "zh": ""
+    },
+    {
+      "start": 554.19,
+      "duration": 1.86,
+      "text": "That's what you seem to see over here.",
+      "en": "That's what you seem to see over here.",
+      "zh": ""
+    },
+    {
+      "start": 556.05,
+      "duration": 0.83,
+      "text": "- [Christof] Yeah.",
+      "en": "- [Christof] Yeah.",
+      "zh": ""
+    },
+    {
+      "start": 559.24,
+      "duration": 3.92,
+      "text": "- Wow, that is hot. That is really hot.",
+      "en": "- Wow, that is hot. That is really hot.",
+      "zh": ""
+    },
+    {
+      "start": 563.16,
+      "duration": 1.95,
+      "text": "I wanted to get a closer look,",
+      "en": "I wanted to get a closer look,",
+      "zh": ""
+    },
+    {
+      "start": 565.11,
+      "duration": 3.03,
+      "text": "so I asked them to put some thermite on top of glass,",
+      "en": "so I asked them to put some thermite on top of glass,",
+      "zh": ""
+    },
+    {
+      "start": 568.14,
+      "duration": 3.69,
+      "text": "and then I would shoot from below using this probe lens.",
+      "en": "and then I would shoot from below using this probe lens.",
+      "zh": ""
+    },
+    {
+      "start": 571.83,
+      "duration": 2.46,
+      "text": "- I'm ready. - Okay, we're rolling.",
+      "en": "- I'm ready. - Okay, we're rolling.",
+      "zh": ""
+    },
+    {
+      "start": 581.88,
+      "duration": 1.08,
+      "text": "It's rolling, it's rolling, it's rolling,",
+      "en": "It's rolling, it's rolling, it's rolling,",
+      "zh": ""
+    },
+    {
+      "start": 582.96,
+      "duration": 0.83,
+      "text": "it's rolling, it's rolling.",
+      "en": "it's rolling, it's rolling.",
+      "zh": ""
+    },
+    {
+      "start": 583.79,
+      "duration": 1.0,
+      "text": "There it goes, there it goes, there it goes,",
+      "en": "There it goes, there it goes, there it goes,",
+      "zh": ""
+    },
+    {
+      "start": 584.79,
+      "duration": 1.56,
+      "text": "there it goes, there it goes, there it goes.",
+      "en": "there it goes, there it goes, there it goes.",
+      "zh": ""
+    },
+    {
+      "start": 586.35,
+      "duration": 3.54,
+      "text": "Wow! Yeah!",
+      "en": "Wow! Yeah!",
+      "zh": ""
+    },
+    {
+      "start": 589.89,
+      "duration": 1.77,
+      "text": "The exposure's pretty good.",
+      "en": "The exposure's pretty good.",
+      "zh": ""
+    },
+    {
+      "start": 592.56,
+      "duration": 1.89,
+      "text": "Oh my goodness. Incredible.",
+      "en": "Oh my goodness. Incredible.",
+      "zh": ""
+    },
+    {
+      "start": 597.36,
+      "duration": 1.95,
+      "text": "This is the closest I think anyone's",
+      "en": "This is the closest I think anyone's",
+      "zh": ""
+    },
+    {
+      "start": 599.31,
+      "duration": 2.13,
+      "text": "ever filmed a thermite reaction.",
+      "en": "ever filmed a thermite reaction.",
+      "zh": ""
+    },
+    {
+      "start": 606.18,
+      "duration": 3.78,
+      "text": "You can see that the reaction proceeds in bursts,",
+      "en": "You can see that the reaction proceeds in bursts,",
+      "zh": ""
+    },
+    {
+      "start": 609.96,
+      "duration": 3.9,
+      "text": "it reacts fast, but then pauses for a moment",
+      "en": "it reacts fast, but then pauses for a moment",
+      "zh": ""
+    },
+    {
+      "start": 613.86,
+      "duration": 1.41,
+      "text": "before advancing again.",
+      "en": "before advancing again.",
+      "zh": ""
+    },
+    {
+      "start": 629.25,
+      "duration": 2.13,
+      "text": "- Should I take it?",
+      "en": "- Should I take it?",
+      "zh": ""
+    },
+    {
+      "start": 631.38,
+      "duration": 1.35,
+      "text": "- Sure.",
+      "en": "- Sure.",
+      "zh": ""
+    },
+    {
+      "start": 632.73,
+      "duration": 1.67,
+      "text": "Yeah, take it, take it, take it, take it, take it,",
+      "en": "Yeah, take it, take it, take it, take it, take it,",
+      "zh": ""
+    },
+    {
+      "start": 634.4,
+      "duration": 2.56,
+      "text": "take it, take it, take it, take it, take it, take it.",
+      "en": "take it, take it, take it, take it, take it, take it.",
+      "zh": ""
+    },
+    {
+      "start": 636.96,
+      "duration": 1.38,
+      "text": "Oh boy.",
+      "en": "Oh boy.",
+      "zh": ""
+    },
+    {
+      "start": 638.34,
+      "duration": 2.97,
+      "text": "I have two ideas about why this might be.",
+      "en": "I have two ideas about why this might be.",
+      "zh": ""
+    },
+    {
+      "start": 641.31,
+      "duration": 2.73,
+      "text": "First, there might is a mixture of grains,",
+      "en": "First, there might is a mixture of grains,",
+      "zh": ""
+    },
+    {
+      "start": 644.04,
+      "duration": 3.51,
+      "text": "big particles of aluminum and iron oxide,",
+      "en": "big particles of aluminum and iron oxide,",
+      "zh": ""
+    },
+    {
+      "start": 647.55,
+      "duration": 2.37,
+      "text": "and they need to be present in the right ratio",
+      "en": "and they need to be present in the right ratio",
+      "zh": ""
+    },
+    {
+      "start": 649.92,
+      "duration": 1.89,
+      "text": "to react efficiently.",
+      "en": "to react efficiently.",
+      "zh": ""
+    },
+    {
+      "start": 651.81,
+      "duration": 2.82,
+      "text": "Maybe a little pocket reacts out to where the ratio",
+      "en": "Maybe a little pocket reacts out to where the ratio",
+      "zh": ""
+    },
+    {
+      "start": 654.63,
+      "duration": 3.09,
+      "text": "is slightly less ideal until the heat builds up",
+      "en": "is slightly less ideal until the heat builds up",
+      "zh": ""
+    },
+    {
+      "start": 657.72,
+      "duration": 2.5,
+      "text": "enough to trigger the reaction in the next pocket.",
+      "en": "enough to trigger the reaction in the next pocket.",
+      "zh": ""
+    },
+    {
+      "start": 661.11,
+      "duration": 4.23,
+      "text": "My second idea is that in between the grains, there is air.",
+      "en": "My second idea is that in between the grains, there is air.",
+      "zh": ""
+    },
+    {
+      "start": 665.34,
+      "duration": 2.67,
+      "text": "The reaction heats the air, which expands,",
+      "en": "The reaction heats the air, which expands,",
+      "zh": ""
+    },
+    {
+      "start": 668.01,
+      "duration": 1.77,
+      "text": "increasing the pressure between the grains",
+      "en": "increasing the pressure between the grains",
+      "zh": ""
+    },
+    {
+      "start": 669.78,
+      "duration": 2.94,
+      "text": "and possibly pushing some of the unreactive material",
+      "en": "and possibly pushing some of the unreactive material",
+      "zh": ""
+    },
+    {
+      "start": 672.72,
+      "duration": 2.01,
+      "text": "away from the reaction front.",
+      "en": "away from the reaction front.",
+      "zh": ""
+    },
+    {
+      "start": 674.73,
+      "duration": 3.39,
+      "text": "So once that air escapes, the next patch can ignite.",
+      "en": "So once that air escapes, the next patch can ignite.",
+      "zh": ""
+    },
+    {
+      "start": 681.75,
+      "duration": 2.13,
+      "text": "Once all the thermite has reacted,",
+      "en": "Once all the thermite has reacted,",
+      "zh": ""
+    },
+    {
+      "start": 683.88,
+      "duration": 1.53,
+      "text": "things get really violent.",
+      "en": "things get really violent.",
+      "zh": ""
+    },
+    {
+      "start": 687.03,
+      "duration": 2.97,
+      "text": "Molten metal is ejected out of the top of the crucible,",
+      "en": "Molten metal is ejected out of the top of the crucible,",
+      "zh": ""
+    },
+    {
+      "start": 690.0,
+      "duration": 2.67,
+      "text": "and inside, the liquid is sloshing around.",
+      "en": "and inside, the liquid is sloshing around.",
+      "zh": ""
+    },
+    {
+      "start": 694.95,
+      "duration": 2.91,
+      "text": "This could be due to some of the materials boiling,",
+      "en": "This could be due to some of the materials boiling,",
+      "zh": ""
+    },
+    {
+      "start": 697.86,
+      "duration": 3.51,
+      "text": "actually turning from liquid into a gas.",
+      "en": "actually turning from liquid into a gas.",
+      "zh": ""
+    },
+    {
+      "start": 701.37,
+      "duration": 3.03,
+      "text": "Now, I know it sounds wild to think about metals boiling,",
+      "en": "Now, I know it sounds wild to think about metals boiling,",
+      "zh": ""
+    },
+    {
+      "start": 704.4,
+      "duration": 3.9,
+      "text": "but the boiling point of aluminum is around 2,500 Celsius.",
+      "en": "but the boiling point of aluminum is around 2,500 Celsius.",
+      "zh": ""
+    },
+    {
+      "start": 708.3,
+      "duration": 2.82,
+      "text": "Iron boils above 2,800 Celsius,",
+      "en": "Iron boils above 2,800 Celsius,",
+      "zh": ""
+    },
+    {
+      "start": 711.12,
+      "duration": 1.89,
+      "text": "and there are other elements in the mixture",
+      "en": "and there are other elements in the mixture",
+      "zh": ""
+    },
+    {
+      "start": 713.01,
+      "duration": 4.23,
+      "text": "like manganese that boil at just 2,000 Celsius.",
+      "en": "like manganese that boil at just 2,000 Celsius.",
+      "zh": ""
+    },
+    {
+      "start": 717.24,
+      "duration": 4.08,
+      "text": "Now, once that boiling stops, the liquid settles down,",
+      "en": "Now, once that boiling stops, the liquid settles down,",
+      "zh": ""
+    },
+    {
+      "start": 721.32,
+      "duration": 2.97,
+      "text": "and now comes the key to making pure metal.",
+      "en": "and now comes the key to making pure metal.",
+      "zh": ""
+    },
+    {
+      "start": 725.94,
+      "duration": 3.33,
+      "text": "The density of liquid iron is more than twice that",
+      "en": "The density of liquid iron is more than twice that",
+      "zh": ""
+    },
+    {
+      "start": 729.27,
+      "duration": 1.92,
+      "text": "of liquid aluminum oxide.",
+      "en": "of liquid aluminum oxide.",
+      "zh": ""
+    },
+    {
+      "start": 731.19,
+      "duration": 2.31,
+      "text": "So iron settles to the bottom",
+      "en": "So iron settles to the bottom",
+      "zh": ""
+    },
+    {
+      "start": 733.5,
+      "duration": 2.4,
+      "text": "as aluminum oxide floats to the top.",
+      "en": "as aluminum oxide floats to the top.",
+      "zh": ""
+    },
+    {
+      "start": 738.0,
+      "duration": 1.83,
+      "text": "Now, when the metal melts through the bottom",
+      "en": "Now, when the metal melts through the bottom",
+      "zh": ""
+    },
+    {
+      "start": 739.83,
+      "duration": 3.69,
+      "text": "of the crucible, the first liquid to pour out is iron.",
+      "en": "of the crucible, the first liquid to pour out is iron.",
+      "zh": ""
+    },
+    {
+      "start": 746.76,
+      "duration": 1.86,
+      "text": "Only after it has drained",
+      "en": "Only after it has drained",
+      "zh": ""
+    },
+    {
+      "start": 748.62,
+      "duration": 3.33,
+      "text": "does the aluminum oxide or slag follow.",
+      "en": "does the aluminum oxide or slag follow.",
+      "zh": ""
+    },
+    {
+      "start": 751.95,
+      "duration": 3.72,
+      "text": "You can actually see the change from iron to aluminum oxide.",
+      "en": "You can actually see the change from iron to aluminum oxide.",
+      "zh": ""
+    },
+    {
+      "start": 755.67,
+      "duration": 2.22,
+      "text": "Liquid iron has a viscosity like water,",
+      "en": "Liquid iron has a viscosity like water,",
+      "zh": ""
+    },
+    {
+      "start": 757.89,
+      "duration": 3.03,
+      "text": "so you can see it coming out there and splashing.",
+      "en": "so you can see it coming out there and splashing.",
+      "zh": ""
+    },
+    {
+      "start": 760.92,
+      "duration": 2.91,
+      "text": "And then the slag starts right there.",
+      "en": "And then the slag starts right there.",
+      "zh": ""
+    },
+    {
+      "start": 766.56,
+      "duration": 1.14,
+      "text": "Yeah, it comes out smooth.",
+      "en": "Yeah, it comes out smooth.",
+      "zh": ""
+    },
+    {
+      "start": 767.7,
+      "duration": 0.96,
+      "text": "- [Christof] Really, really cool.",
+      "en": "- [Christof] Really, really cool.",
+      "zh": ""
+    },
+    {
+      "start": 768.66,
+      "duration": 0.83,
+      "text": "- Whoa.",
+      "en": "- Whoa.",
+      "zh": ""
+    },
+    {
+      "start": 770.67,
+      "duration": 1.74,
+      "text": "- [Christof] And this is more like warm honey.",
+      "en": "- [Christof] And this is more like warm honey.",
+      "zh": ""
+    },
+    {
+      "start": 772.41,
+      "duration": 2.0,
+      "text": "- [[Derek] Yeah, you can totally see it.",
+      "en": "- [[Derek] Yeah, you can totally see it.",
+      "zh": ""
+    },
+    {
+      "start": 785.22,
+      "duration": 1.14,
+      "text": "Wow.",
+      "en": "Wow.",
+      "zh": ""
+    },
+    {
+      "start": 787.32,
+      "duration": 2.64,
+      "text": "It definitely gives you a sense of being right there.",
+      "en": "It definitely gives you a sense of being right there.",
+      "zh": ""
+    },
+    {
+      "start": 789.96,
+      "duration": 2.4,
+      "text": "And you can see the flames coming off the front.",
+      "en": "And you can see the flames coming off the front.",
+      "zh": ""
+    },
+    {
+      "start": 793.23,
+      "duration": 1.47,
+      "text": "And it still records.",
+      "en": "And it still records.",
+      "zh": ""
+    },
+    {
+      "start": 795.66,
+      "duration": 2.52,
+      "text": "Look at the bubbles on the glass.",
+      "en": "Look at the bubbles on the glass.",
+      "zh": ""
+    },
+    {
+      "start": 798.18,
+      "duration": 1.29,
+      "text": "You see those bubbles?",
+      "en": "You see those bubbles?",
+      "zh": ""
+    },
+    {
+      "start": 800.67,
+      "duration": 2.79,
+      "text": "And that beautiful shot of the iron pouring out.",
+      "en": "And that beautiful shot of the iron pouring out.",
+      "zh": ""
+    },
+    {
+      "start": 807.39,
+      "duration": 3.39,
+      "text": "I mean, this is impressive work for a camera that's on fire.",
+      "en": "I mean, this is impressive work for a camera that's on fire.",
+      "zh": ""
+    },
+    {
+      "start": 810.78,
+      "duration": 1.68,
+      "text": "We're going to put a cobblestone,",
+      "en": "We're going to put a cobblestone,",
+      "zh": ""
+    },
+    {
+      "start": 812.46,
+      "duration": 2.61,
+      "text": "normal street paver inside here.",
+      "en": "normal street paver inside here.",
+      "zh": ""
+    },
+    {
+      "start": 815.07,
+      "duration": 1.5,
+      "text": "It's made of limestone.",
+      "en": "It's made of limestone.",
+      "zh": ""
+    },
+    {
+      "start": 816.57,
+      "duration": 3.72,
+      "text": "We'll pour the thermite on top and then ignite it.",
+      "en": "We'll pour the thermite on top and then ignite it.",
+      "zh": ""
+    },
+    {
+      "start": 820.29,
+      "duration": 3.39,
+      "text": "And then we'll see that the cobblestone is less dense.",
+      "en": "And then we'll see that the cobblestone is less dense.",
+      "zh": ""
+    },
+    {
+      "start": 823.68,
+      "duration": 2.49,
+      "text": "Then that solution, it's going to come up to the surface.",
+      "en": "Then that solution, it's going to come up to the surface.",
+      "zh": ""
+    },
+    {
+      "start": 826.17,
+      "duration": 3.69,
+      "text": "- Yeah.",
+      "en": "- Yeah.",
+      "zh": ""
+    },
+    {
+      "start": 829.86,
+      "duration": 1.5,
+      "text": "- Whoa. Okay.",
+      "en": "- Whoa. Okay.",
+      "zh": ""
+    },
+    {
+      "start": 838.41,
+      "duration": 2.0,
+      "text": "It looks like it's breaking into pieces.",
+      "en": "It looks like it's breaking into pieces.",
+      "zh": ""
+    },
+    {
+      "start": 842.22,
+      "duration": 1.3,
+      "text": "That's a good bit of lava.",
+      "en": "That's a good bit of lava.",
+      "zh": ""
+    },
+    {
+      "start": 846.93,
+      "duration": 0.84,
+      "text": "- [Axel] Did you see it?",
+      "en": "- [Axel] Did you see it?",
+      "zh": ""
+    },
+    {
+      "start": 847.77,
+      "duration": 0.96,
+      "text": "- Oh yes.",
+      "en": "- Oh yes.",
+      "zh": ""
+    },
+    {
+      "start": 848.73,
+      "duration": 3.33,
+      "text": "Ordinary rocks like cobblestones rise to the surface,",
+      "en": "Ordinary rocks like cobblestones rise to the surface,",
+      "zh": ""
+    },
+    {
+      "start": 852.06,
+      "duration": 3.96,
+      "text": "just like the slag, as the denser metal drops to the bottom.",
+      "en": "just like the slag, as the denser metal drops to the bottom.",
+      "zh": ""
+    },
+    {
+      "start": 856.02,
+      "duration": 2.88,
+      "text": "And this is key to producing high purity metal",
+      "en": "And this is key to producing high purity metal",
+      "zh": ""
+    },
+    {
+      "start": 858.9,
+      "duration": 0.9,
+      "text": "in the crucible.",
+      "en": "in the crucible.",
+      "zh": ""
+    },
+    {
+      "start": 861.03,
+      "duration": 2.55,
+      "text": "So Hans Goldschmidt had developed a process",
+      "en": "So Hans Goldschmidt had developed a process",
+      "zh": ""
+    },
+    {
+      "start": 863.58,
+      "duration": 4.05,
+      "text": "to make pure metals like chromium, copper, and iron.",
+      "en": "to make pure metals like chromium, copper, and iron.",
+      "zh": ""
+    },
+    {
+      "start": 867.63,
+      "duration": 2.85,
+      "text": "This could be great for chemistry in making dyes,",
+      "en": "This could be great for chemistry in making dyes,",
+      "zh": ""
+    },
+    {
+      "start": 870.48,
+      "duration": 4.05,
+      "text": "but Hans suspected it could have even broader applications.",
+      "en": "but Hans suspected it could have even broader applications.",
+      "zh": ""
+    },
+    {
+      "start": 874.53,
+      "duration": 2.43,
+      "text": "He patented the process in 1895",
+      "en": "He patented the process in 1895",
+      "zh": ""
+    },
+    {
+      "start": 876.96,
+      "duration": 2.31,
+      "text": "and wrote it up for publication.",
+      "en": "and wrote it up for publication.",
+      "zh": ""
+    },
+    {
+      "start": 879.27,
+      "duration": 2.52,
+      "text": "He wrote, \"The procedure that I have here",
+      "en": "He wrote, \"The procedure that I have here",
+      "zh": ""
+    },
+    {
+      "start": 881.79,
+      "duration": 3.12,
+      "text": "is in its principle so extraordinarily simple",
+      "en": "is in its principle so extraordinarily simple",
+      "zh": ""
+    },
+    {
+      "start": 884.91,
+      "duration": 3.12,
+      "text": "that I could hardly have undertaken the time to present,",
+      "en": "that I could hardly have undertaken the time to present,",
+      "zh": ""
+    },
+    {
+      "start": 888.03,
+      "duration": 4.62,
+      "text": "if not for its surprising and extraordinary effects.\"",
+      "en": "if not for its surprising and extraordinary effects.\"",
+      "zh": ""
+    },
+    {
+      "start": 892.65,
+      "duration": 3.12,
+      "text": "Thermite was a solution looking for problems.",
+      "en": "Thermite was a solution looking for problems.",
+      "zh": ""
+    },
+    {
+      "start": 897.54,
+      "duration": 1.68,
+      "text": "One of the first applications of thermite",
+      "en": "One of the first applications of thermite",
+      "zh": ""
+    },
+    {
+      "start": 899.22,
+      "duration": 3.54,
+      "text": "was to weld metal parts in remote locations.",
+      "en": "was to weld metal parts in remote locations.",
+      "zh": ""
+    },
+    {
+      "start": 902.76,
+      "duration": 4.62,
+      "text": "- Wherever you need a very, very strong, very reliable weld",
+      "en": "- Wherever you need a very, very strong, very reliable weld",
+      "zh": ""
+    },
+    {
+      "start": 907.38,
+      "duration": 2.82,
+      "text": "and kind of a remote area where you don't have the luxury",
+      "en": "and kind of a remote area where you don't have the luxury",
+      "zh": ""
+    },
+    {
+      "start": 910.2,
+      "duration": 2.19,
+      "text": "of bringing, you know, tons of equipment",
+      "en": "of bringing, you know, tons of equipment",
+      "zh": ""
+    },
+    {
+      "start": 912.39,
+      "duration": 3.42,
+      "text": "and tons of welding gear, that is useful for thermite.",
+      "en": "and tons of welding gear, that is useful for thermite.",
+      "zh": ""
+    },
+    {
+      "start": 916.8,
+      "duration": 1.2,
+      "text": "You know, some of the first customers",
+      "en": "You know, some of the first customers",
+      "zh": ""
+    },
+    {
+      "start": 918.0,
+      "duration": 1.92,
+      "text": "were in fact shipping companies.",
+      "en": "were in fact shipping companies.",
+      "zh": ""
+    },
+    {
+      "start": 921.33,
+      "duration": 3.36,
+      "text": "When some shaft would break in the middle of the ocean,",
+      "en": "When some shaft would break in the middle of the ocean,",
+      "zh": ""
+    },
+    {
+      "start": 924.69,
+      "duration": 1.89,
+      "text": "at the time, you would be lost.",
+      "en": "at the time, you would be lost.",
+      "zh": ""
+    },
+    {
+      "start": 926.58,
+      "duration": 2.22,
+      "text": "And now having like thermite to be able",
+      "en": "And now having like thermite to be able",
+      "zh": ""
+    },
+    {
+      "start": 928.8,
+      "duration": 2.73,
+      "text": "to at least fix that in some way",
+      "en": "to at least fix that in some way",
+      "zh": ""
+    },
+    {
+      "start": 931.53,
+      "duration": 3.54,
+      "text": "that would get you home was actually very useful.",
+      "en": "that would get you home was actually very useful.",
+      "zh": ""
+    },
+    {
+      "start": 935.07,
+      "duration": 3.09,
+      "text": "It was being able to fix something or to fix cracks",
+      "en": "It was being able to fix something or to fix cracks",
+      "zh": ""
+    },
+    {
+      "start": 938.16,
+      "duration": 2.67,
+      "text": "in engine blocks and to be super mobile with it,",
+      "en": "in engine blocks and to be super mobile with it,",
+      "zh": ""
+    },
+    {
+      "start": 942.45,
+      "duration": 2.28,
+      "text": "because you know, like we said,",
+      "en": "because you know, like we said,",
+      "zh": ""
+    },
+    {
+      "start": 944.73,
+      "duration": 1.65,
+      "text": "it takes two guys and the bucket.",
+      "en": "it takes two guys and the bucket.",
+      "zh": ""
+    },
+    {
+      "start": 948.15,
+      "duration": 1.08,
+      "text": "- Of course, in this case,",
+      "en": "- Of course, in this case,",
+      "zh": ""
+    },
+    {
+      "start": 949.23,
+      "duration": 3.09,
+      "text": "the iron thermite would actually not produce pure iron,",
+      "en": "the iron thermite would actually not produce pure iron,",
+      "zh": ""
+    },
+    {
+      "start": 952.32,
+      "duration": 1.83,
+      "text": "but rather steel.",
+      "en": "but rather steel.",
+      "zh": ""
+    },
+    {
+      "start": 954.15,
+      "duration": 3.06,
+      "text": "This was done by including carbon and other alloying",
+      "en": "This was done by including carbon and other alloying",
+      "zh": ""
+    },
+    {
+      "start": 957.21,
+      "duration": 2.13,
+      "text": "elements in the thermite powder.",
+      "en": "elements in the thermite powder.",
+      "zh": ""
+    },
+    {
+      "start": 959.34,
+      "duration": 2.91,
+      "text": "- Nobody needs pure iron. Pure iron is actually useless.",
+      "en": "- Nobody needs pure iron. Pure iron is actually useless.",
+      "zh": ""
+    },
+    {
+      "start": 962.25,
+      "duration": 4.77,
+      "text": "It's very soft, it corrodes immediately even in dry air,",
+      "en": "It's very soft, it corrodes immediately even in dry air,",
+      "zh": ""
+    },
+    {
+      "start": 967.02,
+      "duration": 1.89,
+      "text": "and nobody will want that, right?",
+      "en": "and nobody will want that, right?",
+      "zh": ""
+    },
+    {
+      "start": 968.91,
+      "duration": 1.26,
+      "text": "- You need iron with some carbon in it.",
+      "en": "- You need iron with some carbon in it.",
+      "zh": ""
+    },
+    {
+      "start": 970.17,
+      "duration": 0.83,
+      "text": "- Exactly right.",
+      "en": "- Exactly right.",
+      "zh": ""
+    },
+    {
+      "start": 971.0,
+      "duration": 2.41,
+      "text": "You need iron with some carbon, that makes it a steel.",
+      "en": "You need iron with some carbon, that makes it a steel.",
+      "zh": ""
+    },
+    {
+      "start": 973.41,
+      "duration": 2.16,
+      "text": "- So the majority of thermite produced today",
+      "en": "- So the majority of thermite produced today",
+      "zh": ""
+    },
+    {
+      "start": 975.57,
+      "duration": 1.71,
+      "text": "is steel thermite.",
+      "en": "is steel thermite.",
+      "zh": ""
+    },
+    {
+      "start": 977.28,
+      "duration": 2.61,
+      "text": "- You have this steel mill that you can,",
+      "en": "- You have this steel mill that you can,",
+      "zh": ""
+    },
+    {
+      "start": 979.89,
+      "duration": 2.37,
+      "text": "you know, move wherever you want it to have.",
+      "en": "you know, move wherever you want it to have.",
+      "zh": ""
+    },
+    {
+      "start": 983.85,
+      "duration": 1.74,
+      "text": "After the end of the Cold War,",
+      "en": "After the end of the Cold War,",
+      "zh": ""
+    },
+    {
+      "start": 985.59,
+      "duration": 2.55,
+      "text": "we would use thermite basically to destroy,",
+      "en": "we would use thermite basically to destroy,",
+      "zh": ""
+    },
+    {
+      "start": 988.14,
+      "duration": 1.8,
+      "text": "say gun barrels from tanks.",
+      "en": "say gun barrels from tanks.",
+      "zh": ""
+    },
+    {
+      "start": 991.26,
+      "duration": 2.31,
+      "text": "Basically you have a portion of thermite",
+      "en": "Basically you have a portion of thermite",
+      "zh": ""
+    },
+    {
+      "start": 993.57,
+      "duration": 1.86,
+      "text": "that you basically stick into the gun barrel",
+      "en": "that you basically stick into the gun barrel",
+      "zh": ""
+    },
+    {
+      "start": 995.43,
+      "duration": 2.43,
+      "text": "and then you would ignite it and then it would basically",
+      "en": "and then you would ignite it and then it would basically",
+      "zh": ""
+    },
+    {
+      "start": 997.86,
+      "duration": 2.13,
+      "text": "weld the gun barrel and destroy it",
+      "en": "weld the gun barrel and destroy it",
+      "zh": ""
+    },
+    {
+      "start": 999.99,
+      "duration": 1.98,
+      "text": "and it would be completely useless afterwards.",
+      "en": "and it would be completely useless afterwards.",
+      "zh": ""
+    },
+    {
+      "start": 1001.97,
+      "duration": 1.89,
+      "text": "Those are all kinds of weapons",
+      "en": "Those are all kinds of weapons",
+      "zh": ""
+    },
+    {
+      "start": 1003.86,
+      "duration": 1.74,
+      "text": "or stuff that were not useful anymore",
+      "en": "or stuff that were not useful anymore",
+      "zh": ""
+    },
+    {
+      "start": 1005.6,
+      "duration": 2.19,
+      "text": "that we use thermite to destroy",
+      "en": "that we use thermite to destroy",
+      "zh": ""
+    },
+    {
+      "start": 1007.79,
+      "duration": 2.91,
+      "text": "because it's very quick and it's very safe.",
+      "en": "because it's very quick and it's very safe.",
+      "zh": ""
+    },
+    {
+      "start": 1010.7,
+      "duration": 2.67,
+      "text": "- And it's very final.",
+      "en": "- And it's very final.",
+      "zh": ""
+    },
+    {
+      "start": 1013.37,
+      "duration": 2.73,
+      "text": "Once you've put that in, there is absolutely no way",
+      "en": "Once you've put that in, there is absolutely no way",
+      "zh": ""
+    },
+    {
+      "start": 1016.1,
+      "duration": 1.75,
+      "text": "of making use of that weapon again.",
+      "en": "of making use of that weapon again.",
+      "zh": ""
+    },
+    {
+      "start": 1018.89,
+      "duration": 1.56,
+      "text": "- A modern application of thermite",
+      "en": "- A modern application of thermite",
+      "zh": ""
+    },
+    {
+      "start": 1020.45,
+      "duration": 3.3,
+      "text": "is to use the heat generated to destroy information.",
+      "en": "is to use the heat generated to destroy information.",
+      "zh": ""
+    },
+    {
+      "start": 1024.71,
+      "duration": 1.14,
+      "text": "Past a certain temperature,",
+      "en": "Past a certain temperature,",
+      "zh": ""
+    },
+    {
+      "start": 1025.85,
+      "duration": 4.17,
+      "text": "the Curie temperature, magnets lose their magnetism.",
+      "en": "the Curie temperature, magnets lose their magnetism.",
+      "zh": ""
+    },
+    {
+      "start": 1030.02,
+      "duration": 2.85,
+      "text": "So information stored on magnetic hard drives",
+      "en": "So information stored on magnetic hard drives",
+      "zh": ""
+    },
+    {
+      "start": 1032.87,
+      "duration": 3.6,
+      "text": "at high enough temperatures becomes unrecoverable.",
+      "en": "at high enough temperatures becomes unrecoverable.",
+      "zh": ""
+    },
+    {
+      "start": 1036.47,
+      "duration": 3.03,
+      "text": "This looks like a very different form of thermite.",
+      "en": "This looks like a very different form of thermite.",
+      "zh": ""
+    },
+    {
+      "start": 1039.5,
+      "duration": 1.1,
+      "text": "- Yes.",
+      "en": "- Yes.",
+      "zh": ""
+    },
+    {
+      "start": 1040.6,
+      "duration": 0.88,
+      "text": "- I'm used to seeing it as a powder.",
+      "en": "- I'm used to seeing it as a powder.",
+      "zh": ""
+    },
+    {
+      "start": 1041.48,
+      "duration": 2.88,
+      "text": "- Before it was also powder and we dry it.",
+      "en": "- Before it was also powder and we dry it.",
+      "zh": ""
+    },
+    {
+      "start": 1044.36,
+      "duration": 2.09,
+      "text": "- Can I pick it up or? - Yes.",
+      "en": "- Can I pick it up or? - Yes.",
+      "zh": ""
+    },
+    {
+      "start": 1046.45,
+      "duration": 3.61,
+      "text": "- I mean, it's like a normal piece of tile.",
+      "en": "- I mean, it's like a normal piece of tile.",
+      "zh": ""
+    },
+    {
+      "start": 1050.06,
+      "duration": 1.89,
+      "text": "- Yeah, lay it down. - Whoa.",
+      "en": "- Yeah, lay it down. - Whoa.",
+      "zh": ""
+    },
+    {
+      "start": 1053.95,
+      "duration": 3.19,
+      "text": "(laughs) That's amazing.",
+      "en": "(laughs) That's amazing.",
+      "zh": ""
+    },
+    {
+      "start": 1060.17,
+      "duration": 0.83,
+      "text": "That is cool.",
+      "en": "That is cool.",
+      "zh": ""
+    },
+    {
+      "start": 1062.9,
+      "duration": 2.43,
+      "text": "So if we want to make sure no one can read",
+      "en": "So if we want to make sure no one can read",
+      "zh": ""
+    },
+    {
+      "start": 1065.33,
+      "duration": 2.46,
+      "text": "the information on this hard drive,",
+      "en": "the information on this hard drive,",
+      "zh": ""
+    },
+    {
+      "start": 1067.79,
+      "duration": 1.62,
+      "text": "I could put this on top?",
+      "en": "I could put this on top?",
+      "zh": ""
+    },
+    {
+      "start": 1069.41,
+      "duration": 0.83,
+      "text": "- Yeah.",
+      "en": "- Yeah.",
+      "zh": ""
+    },
+    {
+      "start": 1071.49,
+      "duration": 1.46,
+      "text": "- There you go.",
+      "en": "- There you go.",
+      "zh": ""
+    },
+    {
+      "start": 1072.95,
+      "duration": 1.74,
+      "text": "When we ignite the crucible,",
+      "en": "When we ignite the crucible,",
+      "zh": ""
+    },
+    {
+      "start": 1074.69,
+      "duration": 2.85,
+      "text": "we have this high temperature for a short moment.",
+      "en": "we have this high temperature for a short moment.",
+      "zh": ""
+    },
+    {
+      "start": 1078.98,
+      "duration": 1.38,
+      "text": "And here we have it for 10 minutes,",
+      "en": "And here we have it for 10 minutes,",
+      "zh": ""
+    },
+    {
+      "start": 1080.36,
+      "duration": 1.71,
+      "text": "so everything is destroyed.",
+      "en": "so everything is destroyed.",
+      "zh": ""
+    },
+    {
+      "start": 1082.07,
+      "duration": 1.71,
+      "text": "- So you're controlling the energy release",
+      "en": "- So you're controlling the energy release",
+      "zh": ""
+    },
+    {
+      "start": 1083.78,
+      "duration": 1.08,
+      "text": "to make it slower here.",
+      "en": "to make it slower here.",
+      "zh": ""
+    },
+    {
+      "start": 1084.86,
+      "duration": 2.13,
+      "text": "- Yes. The temperature's not so high,",
+      "en": "- Yes. The temperature's not so high,",
+      "zh": ""
+    },
+    {
+      "start": 1086.99,
+      "duration": 1.83,
+      "text": "and reaction is slower.",
+      "en": "and reaction is slower.",
+      "zh": ""
+    },
+    {
+      "start": 1088.82,
+      "duration": 3.39,
+      "text": "- I am going to light this thermite tile",
+      "en": "- I am going to light this thermite tile",
+      "zh": ""
+    },
+    {
+      "start": 1092.21,
+      "duration": 1.02,
+      "text": "in all four corners,",
+      "en": "in all four corners,",
+      "zh": ""
+    },
+    {
+      "start": 1093.23,
+      "duration": 2.91,
+      "text": "and it's going to generate heat for about 10 minutes,",
+      "en": "and it's going to generate heat for about 10 minutes,",
+      "zh": ""
+    },
+    {
+      "start": 1096.14,
+      "duration": 2.31,
+      "text": "and we'll see what it does to this laptop.",
+      "en": "and we'll see what it does to this laptop.",
+      "zh": ""
+    },
+    {
+      "start": 1098.45,
+      "duration": 1.3,
+      "text": "All right, let's light it.",
+      "en": "All right, let's light it.",
+      "zh": ""
+    },
+    {
+      "start": 1106.43,
+      "duration": 1.42,
+      "text": "Ooh, I like this.",
+      "en": "Ooh, I like this.",
+      "zh": ""
+    },
+    {
+      "start": 1109.94,
+      "duration": 3.81,
+      "text": "See how it's oozing? Whoa.",
+      "en": "See how it's oozing? Whoa.",
+      "zh": ""
+    },
+    {
+      "start": 1114.83,
+      "duration": 1.62,
+      "text": "It's a totally different effect.",
+      "en": "It's a totally different effect.",
+      "zh": ""
+    },
+    {
+      "start": 1121.16,
+      "duration": 0.83,
+      "text": "Whoa.",
+      "en": "Whoa.",
+      "zh": ""
+    },
+    {
+      "start": 1122.84,
+      "duration": 1.25,
+      "text": "Yeah, that's getting hot.",
+      "en": "Yeah, that's getting hot.",
+      "zh": ""
+    },
+    {
+      "start": 1125.9,
+      "duration": 3.21,
+      "text": "It's getting to the laptop now. This is really cool.",
+      "en": "It's getting to the laptop now. This is really cool.",
+      "zh": ""
+    },
+    {
+      "start": 1129.11,
+      "duration": 2.31,
+      "text": "Like you got to see the molten goo",
+      "en": "Like you got to see the molten goo",
+      "zh": ""
+    },
+    {
+      "start": 1131.42,
+      "duration": 2.88,
+      "text": "coming out from underneath that laptop.",
+      "en": "coming out from underneath that laptop.",
+      "zh": ""
+    },
+    {
+      "start": 1134.3,
+      "duration": 1.65,
+      "text": "That is wild.",
+      "en": "That is wild.",
+      "zh": ""
+    },
+    {
+      "start": 1140.51,
+      "duration": 1.41,
+      "text": "After seeing so much thermite,",
+      "en": "After seeing so much thermite,",
+      "zh": ""
+    },
+    {
+      "start": 1141.92,
+      "duration": 2.91,
+      "text": "this is a totally different version of it.",
+      "en": "this is a totally different version of it.",
+      "zh": ""
+    },
+    {
+      "start": 1144.83,
+      "duration": 2.16,
+      "text": "Look at the puddle of metal there.",
+      "en": "Look at the puddle of metal there.",
+      "zh": ""
+    },
+    {
+      "start": 1146.99,
+      "duration": 0.84,
+      "text": "Oh.",
+      "en": "Oh.",
+      "zh": ""
+    },
+    {
+      "start": 1158.36,
+      "duration": 2.4,
+      "text": "Yeah, nobody's getting any data off that laptop.",
+      "en": "Yeah, nobody's getting any data off that laptop.",
+      "zh": ""
+    },
+    {
+      "start": 1164.36,
+      "duration": 1.23,
+      "text": "That is awesome.",
+      "en": "That is awesome.",
+      "zh": ""
+    },
+    {
+      "start": 1166.58,
+      "duration": 3.15,
+      "text": "I did not expect to see the logo in thermite.",
+      "en": "I did not expect to see the logo in thermite.",
+      "zh": ""
+    },
+    {
+      "start": 1169.73,
+      "duration": 1.52,
+      "text": "Can I lift it? - [Christof] Of course.",
+      "en": "Can I lift it? - [Christof] Of course.",
+      "zh": ""
+    },
+    {
+      "start": 1171.25,
+      "duration": 2.74,
+      "text": "(both laughing)",
+      "en": "(both laughing)",
+      "zh": ""
+    },
+    {
+      "start": 1173.99,
+      "duration": 2.13,
+      "text": "- I've never destroyed data like this before,",
+      "en": "- I've never destroyed data like this before,",
+      "zh": ""
+    },
+    {
+      "start": 1176.12,
+      "duration": 1.95,
+      "text": "but every time I get a spam call,",
+      "en": "but every time I get a spam call,",
+      "zh": ""
+    },
+    {
+      "start": 1178.07,
+      "duration": 2.34,
+      "text": "I wish I could just magically make the records",
+      "en": "I wish I could just magically make the records",
+      "zh": ""
+    },
+    {
+      "start": 1180.41,
+      "duration": 1.62,
+      "text": "of my phone number disappear.",
+      "en": "of my phone number disappear.",
+      "zh": ""
+    },
+    {
+      "start": 1182.03,
+      "duration": 3.09,
+      "text": "Fortunately, today's sponsor Incogni can help.",
+      "en": "Fortunately, today's sponsor Incogni can help.",
+      "zh": ""
+    },
+    {
+      "start": 1185.12,
+      "duration": 2.34,
+      "text": "Now, I used to get several spam calls a day,",
+      "en": "Now, I used to get several spam calls a day,",
+      "zh": ""
+    },
+    {
+      "start": 1187.46,
+      "duration": 2.58,
+      "text": "which frustrated me so much that I contemplated",
+      "en": "which frustrated me so much that I contemplated",
+      "zh": ""
+    },
+    {
+      "start": 1190.04,
+      "duration": 1.56,
+      "text": "making a video where I would just mess",
+      "en": "making a video where I would just mess",
+      "zh": ""
+    },
+    {
+      "start": 1191.6,
+      "duration": 3.42,
+      "text": "with these spam callers to get a small amount of revenge.",
+      "en": "with these spam callers to get a small amount of revenge.",
+      "zh": ""
+    },
+    {
+      "start": 1195.02,
+      "duration": 2.55,
+      "text": "But ever since I started using Incogni back in April,",
+      "en": "But ever since I started using Incogni back in April,",
+      "zh": ""
+    },
+    {
+      "start": 1197.57,
+      "duration": 3.69,
+      "text": "I no longer have to because they solve this problem for me.",
+      "en": "I no longer have to because they solve this problem for me.",
+      "zh": ""
+    },
+    {
+      "start": 1201.26,
+      "duration": 2.22,
+      "text": "You see, there are a lot of data brokers out there",
+      "en": "You see, there are a lot of data brokers out there",
+      "zh": ""
+    },
+    {
+      "start": 1203.48,
+      "duration": 2.55,
+      "text": "that collect all sorts of different information about you,",
+      "en": "that collect all sorts of different information about you,",
+      "zh": ""
+    },
+    {
+      "start": 1206.03,
+      "duration": 2.52,
+      "text": "like your name, phone number, email address,",
+      "en": "like your name, phone number, email address,",
+      "zh": ""
+    },
+    {
+      "start": 1208.55,
+      "duration": 1.95,
+      "text": "and even your social security number.",
+      "en": "and even your social security number.",
+      "zh": ""
+    },
+    {
+      "start": 1210.5,
+      "duration": 3.33,
+      "text": "And then they sell this information on the open market,",
+      "en": "And then they sell this information on the open market,",
+      "zh": ""
+    },
+    {
+      "start": 1213.83,
+      "duration": 2.13,
+      "text": "which is why you can get calls from people",
+      "en": "which is why you can get calls from people",
+      "zh": ""
+    },
+    {
+      "start": 1215.96,
+      "duration": 2.58,
+      "text": "who you've never even given your number to.",
+      "en": "who you've never even given your number to.",
+      "zh": ""
+    },
+    {
+      "start": 1218.54,
+      "duration": 2.82,
+      "text": "But Incogni battles these data brokers.",
+      "en": "But Incogni battles these data brokers.",
+      "zh": ""
+    },
+    {
+      "start": 1221.36,
+      "duration": 2.16,
+      "text": "You simply give Incogni permission",
+      "en": "You simply give Incogni permission",
+      "zh": ""
+    },
+    {
+      "start": 1223.52,
+      "duration": 2.76,
+      "text": "and they figure out who has your data.",
+      "en": "and they figure out who has your data.",
+      "zh": ""
+    },
+    {
+      "start": 1226.28,
+      "duration": 2.43,
+      "text": "And then they know which laws apply,",
+      "en": "And then they know which laws apply,",
+      "zh": ""
+    },
+    {
+      "start": 1228.71,
+      "duration": 1.83,
+      "text": "and so they can send the right letter",
+      "en": "and so they can send the right letter",
+      "zh": ""
+    },
+    {
+      "start": 1230.54,
+      "duration": 3.09,
+      "text": "with the correct legal terms to each data broker",
+      "en": "with the correct legal terms to each data broker",
+      "zh": ""
+    },
+    {
+      "start": 1233.63,
+      "duration": 3.18,
+      "text": "with the request to remove your information.",
+      "en": "with the request to remove your information.",
+      "zh": ""
+    },
+    {
+      "start": 1236.81,
+      "duration": 2.67,
+      "text": "What I love about Incogni is that it's super easy to use",
+      "en": "What I love about Incogni is that it's super easy to use",
+      "zh": ""
+    },
+    {
+      "start": 1239.48,
+      "duration": 3.51,
+      "text": "and it actually works, and it saved me a ton of time.",
+      "en": "and it actually works, and it saved me a ton of time.",
+      "zh": ""
+    },
+    {
+      "start": 1242.99,
+      "duration": 3.99,
+      "text": "So far, they filled out 192 requests on my behalf,",
+      "en": "So far, they filled out 192 requests on my behalf,",
+      "zh": ""
+    },
+    {
+      "start": 1246.98,
+      "duration": 1.89,
+      "text": "145 of which have been completed,",
+      "en": "145 of which have been completed,",
+      "zh": ""
+    },
+    {
+      "start": 1248.87,
+      "duration": 2.7,
+      "text": "saving me over 108 hours of work.",
+      "en": "saving me over 108 hours of work.",
+      "zh": ""
+    },
+    {
+      "start": 1251.57,
+      "duration": 2.34,
+      "text": "And it just keeps running in the background,",
+      "en": "And it just keeps running in the background,",
+      "zh": ""
+    },
+    {
+      "start": 1253.91,
+      "duration": 3.51,
+      "text": "continuously protecting me against these data brokers.",
+      "en": "continuously protecting me against these data brokers.",
+      "zh": ""
+    },
+    {
+      "start": 1257.42,
+      "duration": 2.1,
+      "text": "The best part is that since I've signed up,",
+      "en": "The best part is that since I've signed up,",
+      "zh": ""
+    },
+    {
+      "start": 1259.52,
+      "duration": 2.37,
+      "text": "I've hardly gotten any more spam calls.",
+      "en": "I've hardly gotten any more spam calls.",
+      "zh": ""
+    },
+    {
+      "start": 1261.89,
+      "duration": 2.52,
+      "text": "So to try Incogni and fight against the data brokers,",
+      "en": "So to try Incogni and fight against the data brokers,",
+      "zh": ""
+    },
+    {
+      "start": 1264.41,
+      "duration": 2.61,
+      "text": "visit incogni.com/veritasium.",
+      "en": "visit incogni.com/veritasium.",
+      "zh": ""
+    },
+    {
+      "start": 1267.02,
+      "duration": 1.95,
+      "text": "Click that link down in the description",
+      "en": "Click that link down in the description",
+      "zh": ""
+    },
+    {
+      "start": 1268.97,
+      "duration": 2.22,
+      "text": "or scan the QR code right here.",
+      "en": "or scan the QR code right here.",
+      "zh": ""
+    },
+    {
+      "start": 1271.19,
+      "duration": 2.19,
+      "text": "And make sure to use the code veritasium",
+      "en": "And make sure to use the code veritasium",
+      "zh": ""
+    },
+    {
+      "start": 1273.38,
+      "duration": 2.73,
+      "text": "to get 60% off the annual subscription.",
+      "en": "to get 60% off the annual subscription.",
+      "zh": ""
+    },
+    {
+      "start": 1276.11,
+      "duration": 4.14,
+      "text": "Head over to incogni.com/veritasium to get started yourself.",
+      "en": "Head over to incogni.com/veritasium to get started yourself.",
+      "zh": ""
+    },
+    {
+      "start": 1280.25,
+      "duration": 1.71,
+      "text": "So I want to thank Incogni for sponsoring",
+      "en": "So I want to thank Incogni for sponsoring",
+      "zh": ""
+    },
+    {
+      "start": 1281.96,
+      "duration": 2.45,
+      "text": "this part of the video, and now back to thermite.",
+      "en": "this part of the video, and now back to thermite.",
+      "zh": ""
+    },
+    {
+      "start": 1286.46,
+      "duration": 2.85,
+      "text": "Now you might think, given the amount of energy given off",
+      "en": "Now you might think, given the amount of energy given off",
+      "zh": ""
+    },
+    {
+      "start": 1289.31,
+      "duration": 3.39,
+      "text": "that thermite could be used as an explosive,",
+      "en": "that thermite could be used as an explosive,",
+      "zh": ""
+    },
+    {
+      "start": 1292.7,
+      "duration": 3.0,
+      "text": "but it's actually not well suited for that purpose.",
+      "en": "but it's actually not well suited for that purpose.",
+      "zh": ""
+    },
+    {
+      "start": 1295.7,
+      "duration": 3.87,
+      "text": "- What makes thermite so interesting and so important",
+      "en": "- What makes thermite so interesting and so important",
+      "zh": ""
+    },
+    {
+      "start": 1299.57,
+      "duration": 2.73,
+      "text": "is that you can control it so well.",
+      "en": "is that you can control it so well.",
+      "zh": ""
+    },
+    {
+      "start": 1302.3,
+      "duration": 1.02,
+      "text": "If you have an explosion,",
+      "en": "If you have an explosion,",
+      "zh": ""
+    },
+    {
+      "start": 1303.32,
+      "duration": 2.64,
+      "text": "you can kind of calculate the energy really well",
+      "en": "you can kind of calculate the energy really well",
+      "zh": ""
+    },
+    {
+      "start": 1305.96,
+      "duration": 2.4,
+      "text": "and say it's, you know, X amount of megajoules",
+      "en": "and say it's, you know, X amount of megajoules",
+      "zh": ""
+    },
+    {
+      "start": 1308.36,
+      "duration": 1.14,
+      "text": "that you get out,",
+      "en": "that you get out,",
+      "zh": ""
+    },
+    {
+      "start": 1309.5,
+      "duration": 3.21,
+      "text": "but it's really hard to say over what time.",
+      "en": "but it's really hard to say over what time.",
+      "zh": ""
+    },
+    {
+      "start": 1312.71,
+      "duration": 2.7,
+      "text": "- Maybe one of the reasons why this is not explosive",
+      "en": "- Maybe one of the reasons why this is not explosive",
+      "zh": ""
+    },
+    {
+      "start": 1315.41,
+      "duration": 2.46,
+      "text": "is because when you have explosive reactions,",
+      "en": "is because when you have explosive reactions,",
+      "zh": ""
+    },
+    {
+      "start": 1317.87,
+      "duration": 2.55,
+      "text": "typically your reactants are solid",
+      "en": "typically your reactants are solid",
+      "zh": ""
+    },
+    {
+      "start": 1320.42,
+      "duration": 3.39,
+      "text": "and the products are gases, which obviously expand a lot",
+      "en": "and the products are gases, which obviously expand a lot",
+      "zh": ""
+    },
+    {
+      "start": 1323.81,
+      "duration": 2.04,
+      "text": "and create a lot of pressure.",
+      "en": "and create a lot of pressure.",
+      "zh": ""
+    },
+    {
+      "start": 1325.85,
+      "duration": 1.5,
+      "text": "But in this case, both the reactants",
+      "en": "But in this case, both the reactants",
+      "zh": ""
+    },
+    {
+      "start": 1327.35,
+      "duration": 1.98,
+      "text": "and products are solids?",
+      "en": "and products are solids?",
+      "zh": ""
+    },
+    {
+      "start": 1329.33,
+      "duration": 1.17,
+      "text": "- They're solids and liquids.",
+      "en": "- They're solids and liquids.",
+      "zh": ""
+    },
+    {
+      "start": 1330.5,
+      "duration": 1.05,
+      "text": "- Yeah, right.",
+      "en": "- Yeah, right.",
+      "zh": ""
+    },
+    {
+      "start": 1331.55,
+      "duration": 2.85,
+      "text": "You have so much control over what's going on.",
+      "en": "You have so much control over what's going on.",
+      "zh": ""
+    },
+    {
+      "start": 1335.24,
+      "duration": 3.09,
+      "text": "- Woo. I feel like I got a sunburn from that.",
+      "en": "- Woo. I feel like I got a sunburn from that.",
+      "zh": ""
+    },
+    {
+      "start": 1339.41,
+      "duration": 2.58,
+      "text": "This property makes it possible to take down structures",
+      "en": "This property makes it possible to take down structures",
+      "zh": ""
+    },
+    {
+      "start": 1341.99,
+      "duration": 2.79,
+      "text": "where explosives would cause too much damage.",
+      "en": "where explosives would cause too much damage.",
+      "zh": ""
+    },
+    {
+      "start": 1346.28,
+      "duration": 2.58,
+      "text": "In 1933, 4 weeks after Adolf Hitler",
+      "en": "In 1933, 4 weeks after Adolf Hitler",
+      "zh": ""
+    },
+    {
+      "start": 1348.86,
+      "duration": 1.83,
+      "text": "became the chancellor of Germany,",
+      "en": "became the chancellor of Germany,",
+      "zh": ""
+    },
+    {
+      "start": 1350.69,
+      "duration": 3.12,
+      "text": "the Reichstag building in Berlin was set on fire",
+      "en": "the Reichstag building in Berlin was set on fire",
+      "zh": ""
+    },
+    {
+      "start": 1353.81,
+      "duration": 4.29,
+      "text": "and it would only be fully repaired 24 years later.",
+      "en": "and it would only be fully repaired 24 years later.",
+      "zh": ""
+    },
+    {
+      "start": 1358.1,
+      "duration": 3.18,
+      "text": "But the burnt out steel dome had lost its structural",
+      "en": "But the burnt out steel dome had lost its structural",
+      "zh": ""
+    },
+    {
+      "start": 1361.28,
+      "duration": 2.52,
+      "text": "integrity and needed to be removed.",
+      "en": "integrity and needed to be removed.",
+      "zh": ""
+    },
+    {
+      "start": 1363.8,
+      "duration": 2.58,
+      "text": "Now, conventional explosives would've caused irreparable",
+      "en": "Now, conventional explosives would've caused irreparable",
+      "zh": ""
+    },
+    {
+      "start": 1366.38,
+      "duration": 2.28,
+      "text": "damage to the rest of the old building.",
+      "en": "damage to the rest of the old building.",
+      "zh": ""
+    },
+    {
+      "start": 1368.66,
+      "duration": 4.74,
+      "text": "So on November 22nd, 1957, thermite charges were strapped",
+      "en": "So on November 22nd, 1957, thermite charges were strapped",
+      "zh": ""
+    },
+    {
+      "start": 1373.4,
+      "duration": 3.54,
+      "text": "to the dome and when ignited, they melted through the steel,",
+      "en": "to the dome and when ignited, they melted through the steel,",
+      "zh": ""
+    },
+    {
+      "start": 1376.94,
+      "duration": 3.21,
+      "text": "which fell neatly into the former plenary hall below,",
+      "en": "which fell neatly into the former plenary hall below,",
+      "zh": ""
+    },
+    {
+      "start": 1380.15,
+      "duration": 2.46,
+      "text": "allowing the repairs to be completed.",
+      "en": "allowing the repairs to be completed.",
+      "zh": ""
+    },
+    {
+      "start": 1382.61,
+      "duration": 1.86,
+      "text": "Applications like this are possible",
+      "en": "Applications like this are possible",
+      "zh": ""
+    },
+    {
+      "start": 1384.47,
+      "duration": 3.3,
+      "text": "because the thermite reaction can be carefully controlled.",
+      "en": "because the thermite reaction can be carefully controlled.",
+      "zh": ""
+    },
+    {
+      "start": 1389.33,
+      "duration": 2.07,
+      "text": "They have the ingredients so dialed in",
+      "en": "They have the ingredients so dialed in",
+      "zh": ""
+    },
+    {
+      "start": 1391.4,
+      "duration": 3.0,
+      "text": "that you can actually ignite thermite indoors without fear",
+      "en": "that you can actually ignite thermite indoors without fear",
+      "zh": ""
+    },
+    {
+      "start": 1394.4,
+      "duration": 3.51,
+      "text": "of molten metal flying all over the place.",
+      "en": "of molten metal flying all over the place.",
+      "zh": ""
+    },
+    {
+      "start": 1397.91,
+      "duration": 3.36,
+      "text": "This mixture includes some pieces of pure steel.",
+      "en": "This mixture includes some pieces of pure steel.",
+      "zh": ""
+    },
+    {
+      "start": 1401.27,
+      "duration": 1.89,
+      "text": "They don't participate in the reaction,",
+      "en": "They don't participate in the reaction,",
+      "zh": ""
+    },
+    {
+      "start": 1403.16,
+      "duration": 2.79,
+      "text": "but they do absorb heat as they melt.",
+      "en": "but they do absorb heat as they melt.",
+      "zh": ""
+    },
+    {
+      "start": 1405.95,
+      "duration": 2.25,
+      "text": "So they help control the rate of reaction",
+      "en": "So they help control the rate of reaction",
+      "zh": ""
+    },
+    {
+      "start": 1408.2,
+      "duration": 1.41,
+      "text": "and the temperature reached.",
+      "en": "and the temperature reached.",
+      "zh": ""
+    },
+    {
+      "start": 1410.84,
+      "duration": 2.48,
+      "text": "- [Axel] There you go. - All right.",
+      "en": "- [Axel] There you go. - All right.",
+      "zh": ""
+    },
+    {
+      "start": 1413.32,
+      "duration": 1.72,
+      "text": "- That's it.",
+      "en": "- That's it.",
+      "zh": ""
+    },
+    {
+      "start": 1415.04,
+      "duration": 0.87,
+      "text": "- That's it? - Yes.",
+      "en": "- That's it? - Yes.",
+      "zh": ""
+    },
+    {
+      "start": 1415.91,
+      "duration": 2.16,
+      "text": "- I don't think it was in. Oh boy.",
+      "en": "- I don't think it was in. Oh boy.",
+      "zh": ""
+    },
+    {
+      "start": 1420.29,
+      "duration": 0.84,
+      "text": "Whoa.",
+      "en": "Whoa.",
+      "zh": ""
+    },
+    {
+      "start": 1424.85,
+      "duration": 1.59,
+      "text": "Wow.",
+      "en": "Wow.",
+      "zh": ""
+    },
+    {
+      "start": 1426.44,
+      "duration": 2.31,
+      "text": "- It's interesting, like looking at it through dark glasses,",
+      "en": "- It's interesting, like looking at it through dark glasses,",
+      "zh": ""
+    },
+    {
+      "start": 1428.75,
+      "duration": 2.52,
+      "text": "it looks like a cornbread muffin or something.",
+      "en": "it looks like a cornbread muffin or something.",
+      "zh": ""
+    },
+    {
+      "start": 1433.34,
+      "duration": 2.7,
+      "text": "One of the really important parameters to control is",
+      "en": "One of the really important parameters to control is",
+      "zh": ""
+    },
+    {
+      "start": 1436.04,
+      "duration": 2.82,
+      "text": "how long after the reaction starts does the metal start",
+      "en": "how long after the reaction starts does the metal start",
+      "zh": ""
+    },
+    {
+      "start": 1438.86,
+      "duration": 2.7,
+      "text": "flowing out the bottom of the crucible.",
+      "en": "flowing out the bottom of the crucible.",
+      "zh": ""
+    },
+    {
+      "start": 1441.56,
+      "duration": 2.61,
+      "text": "This is known as the tap time.",
+      "en": "This is known as the tap time.",
+      "zh": ""
+    },
+    {
+      "start": 1444.17,
+      "duration": 2.85,
+      "text": "It's critical because if the tap time is too short,",
+      "en": "It's critical because if the tap time is too short,",
+      "zh": ""
+    },
+    {
+      "start": 1447.02,
+      "duration": 3.33,
+      "text": "the metal inside doesn't fully separate from the slag.",
+      "en": "the metal inside doesn't fully separate from the slag.",
+      "zh": ""
+    },
+    {
+      "start": 1450.35,
+      "duration": 1.89,
+      "text": "But if the tap time is too long,",
+      "en": "But if the tap time is too long,",
+      "zh": ""
+    },
+    {
+      "start": 1452.24,
+      "duration": 2.61,
+      "text": "then the metal dissolves more silica from the walls",
+      "en": "then the metal dissolves more silica from the walls",
+      "zh": ""
+    },
+    {
+      "start": 1454.85,
+      "duration": 2.67,
+      "text": "of the crucible and it also comes out colder",
+      "en": "of the crucible and it also comes out colder",
+      "zh": ""
+    },
+    {
+      "start": 1457.52,
+      "duration": 1.44,
+      "text": "than it could have been.",
+      "en": "than it could have been.",
+      "zh": ""
+    },
+    {
+      "start": 1458.96,
+      "duration": 3.06,
+      "text": "- So the chemistry of the steel actually changes",
+      "en": "- So the chemistry of the steel actually changes",
+      "zh": ""
+    },
+    {
+      "start": 1462.02,
+      "duration": 2.17,
+      "text": "over the time. - The longer it stays",
+      "en": "over the time. - The longer it stays",
+      "zh": ""
+    },
+    {
+      "start": 1464.19,
+      "duration": 0.84,
+      "text": "in there. - Exactly.",
+      "en": "in there. - Exactly.",
+      "zh": ""
+    },
+    {
+      "start": 1465.03,
+      "duration": 0.83,
+      "text": "The log it stays in there,",
+      "en": "The log it stays in there,",
+      "zh": ""
+    },
+    {
+      "start": 1465.86,
+      "duration": 2.25,
+      "text": "and this is why it's very important for us to be able",
+      "en": "and this is why it's very important for us to be able",
+      "zh": ""
+    },
+    {
+      "start": 1468.11,
+      "duration": 2.49,
+      "text": "to control how long it actually stays there.",
+      "en": "to control how long it actually stays there.",
+      "zh": ""
+    },
+    {
+      "start": 1470.6,
+      "duration": 2.64,
+      "text": "- You want the tap time to be somewhere in the middle,",
+      "en": "- You want the tap time to be somewhere in the middle,",
+      "zh": ""
+    },
+    {
+      "start": 1473.24,
+      "duration": 0.87,
+      "text": "just right.",
+      "en": "just right.",
+      "zh": ""
+    },
+    {
+      "start": 1476.27,
+      "duration": 3.15,
+      "text": "We've set up this experiment here to test.",
+      "en": "We've set up this experiment here to test.",
+      "zh": ""
+    },
+    {
+      "start": 1479.42,
+      "duration": 3.69,
+      "text": "Can we control the time when the steel comes out?",
+      "en": "Can we control the time when the steel comes out?",
+      "zh": ""
+    },
+    {
+      "start": 1483.11,
+      "duration": 2.52,
+      "text": "So the idea is it should come out of this one first,",
+      "en": "So the idea is it should come out of this one first,",
+      "zh": ""
+    },
+    {
+      "start": 1485.63,
+      "duration": 2.01,
+      "text": "then this one, then that one.",
+      "en": "then this one, then that one.",
+      "zh": ""
+    },
+    {
+      "start": 1487.64,
+      "duration": 2.64,
+      "text": "We're going to ignite all three simultaneously",
+      "en": "We're going to ignite all three simultaneously",
+      "zh": ""
+    },
+    {
+      "start": 1490.28,
+      "duration": 1.11,
+      "text": "and see what happens.",
+      "en": "and see what happens.",
+      "zh": ""
+    },
+    {
+      "start": 1491.39,
+      "duration": 3.51,
+      "text": "- You good? 3, 2, 1.",
+      "en": "- You good? 3, 2, 1.",
+      "zh": ""
+    },
+    {
+      "start": 1497.12,
+      "duration": 1.32,
+      "text": "Yes.",
+      "en": "Yes.",
+      "zh": ""
+    },
+    {
+      "start": 1499.43,
+      "duration": 2.97,
+      "text": "They all ignited at almost exactly the same time,",
+      "en": "They all ignited at almost exactly the same time,",
+      "zh": ""
+    },
+    {
+      "start": 1505.64,
+      "duration": 1.62,
+      "text": "but the top time of the first crucible,",
+      "en": "but the top time of the first crucible,",
+      "zh": ""
+    },
+    {
+      "start": 1507.26,
+      "duration": 0.84,
+      "text": "we got one,",
+      "en": "we got one,",
+      "zh": ""
+    },
+    {
+      "start": 1508.1,
+      "duration": 1.38,
+      "text": "was by far the shortest.",
+      "en": "was by far the shortest.",
+      "zh": ""
+    },
+    {
+      "start": 1518.55,
+      "duration": 0.83,
+      "text": "Two.",
+      "en": "Two.",
+      "zh": ""
+    },
+    {
+      "start": 1527.27,
+      "duration": 1.65,
+      "text": "It'd be amazing if this one stops",
+      "en": "It'd be amazing if this one stops",
+      "zh": ""
+    },
+    {
+      "start": 1528.92,
+      "duration": 1.15,
+      "text": "and the third one goes,",
+      "en": "and the third one goes,",
+      "zh": ""
+    },
+    {
+      "start": 1531.02,
+      "duration": 2.25,
+      "text": "like that would be very, very impressive.",
+      "en": "like that would be very, very impressive.",
+      "zh": ""
+    },
+    {
+      "start": 1534.26,
+      "duration": 2.46,
+      "text": "Come on, third one. Wow.",
+      "en": "Come on, third one. Wow.",
+      "zh": ""
+    },
+    {
+      "start": 1537.89,
+      "duration": 2.37,
+      "text": "That's great. That's fantastic.",
+      "en": "That's great. That's fantastic.",
+      "zh": ""
+    },
+    {
+      "start": 1542.42,
+      "duration": 1.62,
+      "text": "Another attribute that can be controlled",
+      "en": "Another attribute that can be controlled",
+      "zh": ""
+    },
+    {
+      "start": 1544.04,
+      "duration": 1.95,
+      "text": "is the temperature of the metal.",
+      "en": "is the temperature of the metal.",
+      "zh": ""
+    },
+    {
+      "start": 1545.99,
+      "duration": 1.77,
+      "text": "- Here we have two different versions.",
+      "en": "- Here we have two different versions.",
+      "zh": ""
+    },
+    {
+      "start": 1547.76,
+      "duration": 3.03,
+      "text": "So we have a version with 12% damping,",
+      "en": "So we have a version with 12% damping,",
+      "zh": ""
+    },
+    {
+      "start": 1550.79,
+      "duration": 2.13,
+      "text": "and here we have with 25.",
+      "en": "and here we have with 25.",
+      "zh": ""
+    },
+    {
+      "start": 1552.92,
+      "duration": 1.77,
+      "text": "- Sometimes you want the metal to come out",
+      "en": "- Sometimes you want the metal to come out",
+      "zh": ""
+    },
+    {
+      "start": 1554.69,
+      "duration": 2.85,
+      "text": "a little hotter or a little colder.",
+      "en": "a little hotter or a little colder.",
+      "zh": ""
+    },
+    {
+      "start": 1557.54,
+      "duration": 3.57,
+      "text": "There we go. Nicely controlled ignition.",
+      "en": "There we go. Nicely controlled ignition.",
+      "zh": ""
+    },
+    {
+      "start": 1563.9,
+      "duration": 3.66,
+      "text": "Well, that one goes a lot more. Wow.",
+      "en": "Well, that one goes a lot more. Wow.",
+      "zh": ""
+    },
+    {
+      "start": 1567.56,
+      "duration": 2.34,
+      "text": "You could see the 12% one went first.",
+      "en": "You could see the 12% one went first.",
+      "zh": ""
+    },
+    {
+      "start": 1571.07,
+      "duration": 0.83,
+      "text": "Whoa!",
+      "en": "Whoa!",
+      "zh": ""
+    },
+    {
+      "start": 1575.48,
+      "duration": 3.69,
+      "text": "You can see that, you know, this one starts first,",
+      "en": "You can see that, you know, this one starts first,",
+      "zh": ""
+    },
+    {
+      "start": 1579.17,
+      "duration": 1.29,
+      "text": "so you can get a bit of a sense,",
+      "en": "so you can get a bit of a sense,",
+      "zh": ""
+    },
+    {
+      "start": 1580.46,
+      "duration": 2.28,
+      "text": "but I feel like both of them reached 2,000.",
+      "en": "but I feel like both of them reached 2,000.",
+      "zh": ""
+    },
+    {
+      "start": 1582.74,
+      "duration": 1.41,
+      "text": "I don't know.",
+      "en": "I don't know.",
+      "zh": ""
+    },
+    {
+      "start": 1584.15,
+      "duration": 1.38,
+      "text": "- The one on the right side",
+      "en": "- The one on the right side",
+      "zh": ""
+    },
+    {
+      "start": 1585.53,
+      "duration": 2.31,
+      "text": "is one of the less dampened portions,",
+      "en": "is one of the less dampened portions,",
+      "zh": ""
+    },
+    {
+      "start": 1587.84,
+      "duration": 2.79,
+      "text": "and the other one is one of the more dampened ones.",
+      "en": "and the other one is one of the more dampened ones.",
+      "zh": ""
+    },
+    {
+      "start": 1591.5,
+      "duration": 2.46,
+      "text": "We could dramatically change the temperatures",
+      "en": "We could dramatically change the temperatures",
+      "zh": ""
+    },
+    {
+      "start": 1593.96,
+      "duration": 1.14,
+      "text": "in both directions,",
+      "en": "in both directions,",
+      "zh": ""
+    },
+    {
+      "start": 1595.1,
+      "duration": 2.2,
+      "text": "a little bit higher and significantly lower.",
+      "en": "a little bit higher and significantly lower.",
+      "zh": ""
+    },
+    {
+      "start": 1599.12,
+      "duration": 1.74,
+      "text": "- [Derek] All of this control is achieved",
+      "en": "- [Derek] All of this control is achieved",
+      "zh": ""
+    },
+    {
+      "start": 1600.86,
+      "duration": 3.03,
+      "text": "by carefully adjusting the thermite mixture.",
+      "en": "by carefully adjusting the thermite mixture.",
+      "zh": ""
+    },
+    {
+      "start": 1603.89,
+      "duration": 3.9,
+      "text": "- This is the starting point of the making of thermite.",
+      "en": "- This is the starting point of the making of thermite.",
+      "zh": ""
+    },
+    {
+      "start": 1607.79,
+      "duration": 3.45,
+      "text": "About once or twice a day a truck comes",
+      "en": "About once or twice a day a truck comes",
+      "zh": ""
+    },
+    {
+      "start": 1611.24,
+      "duration": 1.44,
+      "text": "and drops in this.",
+      "en": "and drops in this.",
+      "zh": ""
+    },
+    {
+      "start": 1612.68,
+      "duration": 1.2,
+      "text": "This is mill scale.",
+      "en": "This is mill scale.",
+      "zh": ""
+    },
+    {
+      "start": 1613.88,
+      "duration": 4.41,
+      "text": "So this is basically a mixture of different iron oxides.",
+      "en": "So this is basically a mixture of different iron oxides.",
+      "zh": ""
+    },
+    {
+      "start": 1618.29,
+      "duration": 3.27,
+      "text": "When you hot roll steel, the surface of the steel",
+      "en": "When you hot roll steel, the surface of the steel",
+      "zh": ""
+    },
+    {
+      "start": 1621.56,
+      "duration": 2.43,
+      "text": "is very reactive because it's so hot",
+      "en": "is very reactive because it's so hot",
+      "zh": ""
+    },
+    {
+      "start": 1623.99,
+      "duration": 3.45,
+      "text": "and there is so much water involved to cool the rollers,",
+      "en": "and there is so much water involved to cool the rollers,",
+      "zh": ""
+    },
+    {
+      "start": 1627.44,
+      "duration": 3.6,
+      "text": "so that the surface actually oxidizes very quickly",
+      "en": "so that the surface actually oxidizes very quickly",
+      "zh": ""
+    },
+    {
+      "start": 1631.04,
+      "duration": 1.8,
+      "text": "and creates this mill scale.",
+      "en": "and creates this mill scale.",
+      "zh": ""
+    },
+    {
+      "start": 1632.84,
+      "duration": 2.13,
+      "text": "And then they use like water jets",
+      "en": "And then they use like water jets",
+      "zh": ""
+    },
+    {
+      "start": 1634.97,
+      "duration": 2.34,
+      "text": "to blow it off the steel surface.",
+      "en": "to blow it off the steel surface.",
+      "zh": ""
+    },
+    {
+      "start": 1637.31,
+      "duration": 1.05,
+      "text": "And for the rolling mill,",
+      "en": "And for the rolling mill,",
+      "zh": ""
+    },
+    {
+      "start": 1638.36,
+      "duration": 2.0,
+      "text": "this is just a waste product, right?",
+      "en": "this is just a waste product, right?",
+      "zh": ""
+    },
+    {
+      "start": 1645.46,
+      "duration": 1.45,
+      "text": "- [Derek] Whoa. - [Axel] There you go.",
+      "en": "- [Derek] Whoa. - [Axel] There you go.",
+      "zh": ""
+    },
+    {
+      "start": 1646.91,
+      "duration": 0.84,
+      "text": "- That is cool.",
+      "en": "- That is cool.",
+      "zh": ""
+    },
+    {
+      "start": 1649.73,
+      "duration": 3.45,
+      "text": "- The mill scale from outside comes in here",
+      "en": "- The mill scale from outside comes in here",
+      "zh": ""
+    },
+    {
+      "start": 1653.18,
+      "duration": 4.89,
+      "text": "and then gets dried because thermite and water,",
+      "en": "and then gets dried because thermite and water,",
+      "zh": ""
+    },
+    {
+      "start": 1658.07,
+      "duration": 1.44,
+      "text": "they're not exactly friends",
+      "en": "they're not exactly friends",
+      "zh": ""
+    },
+    {
+      "start": 1659.51,
+      "duration": 4.05,
+      "text": "and you want the mill scale to be as dry as possible",
+      "en": "and you want the mill scale to be as dry as possible",
+      "zh": ""
+    },
+    {
+      "start": 1663.56,
+      "duration": 2.79,
+      "text": "and then stay dry, so this is how we dry it.",
+      "en": "and then stay dry, so this is how we dry it.",
+      "zh": ""
+    },
+    {
+      "start": 1668.87,
+      "duration": 2.46,
+      "text": "- The iron oxide is shaken up the spiral ramp",
+      "en": "- The iron oxide is shaken up the spiral ramp",
+      "zh": ""
+    },
+    {
+      "start": 1671.33,
+      "duration": 1.77,
+      "text": "to the top floor, and there,",
+      "en": "to the top floor, and there,",
+      "zh": ""
+    },
+    {
+      "start": 1673.1,
+      "duration": 2.55,
+      "text": "the particles are separated into different sizes",
+      "en": "the particles are separated into different sizes",
+      "zh": ""
+    },
+    {
+      "start": 1675.65,
+      "duration": 4.23,
+      "text": "and compositions before being mixed with aluminum powder.",
+      "en": "and compositions before being mixed with aluminum powder.",
+      "zh": ""
+    },
+    {
+      "start": 1679.88,
+      "duration": 1.95,
+      "text": "This also has to be very dry, I imagine.",
+      "en": "This also has to be very dry, I imagine.",
+      "zh": ""
+    },
+    {
+      "start": 1681.83,
+      "duration": 2.13,
+      "text": "- It's not as much a problem here",
+      "en": "- It's not as much a problem here",
+      "zh": ""
+    },
+    {
+      "start": 1683.96,
+      "duration": 2.43,
+      "text": "because the way that it's being manufactured",
+      "en": "because the way that it's being manufactured",
+      "zh": ""
+    },
+    {
+      "start": 1686.39,
+      "duration": 1.59,
+      "text": "doesn't contain any water.",
+      "en": "doesn't contain any water.",
+      "zh": ""
+    },
+    {
+      "start": 1687.98,
+      "duration": 2.22,
+      "text": "With the iron oxide, it's getting blown off",
+      "en": "With the iron oxide, it's getting blown off",
+      "zh": ""
+    },
+    {
+      "start": 1690.2,
+      "duration": 1.2,
+      "text": "with the water jets.",
+      "en": "with the water jets.",
+      "zh": ""
+    },
+    {
+      "start": 1691.4,
+      "duration": 3.09,
+      "text": "We have to control all the elements, the reactive elements,",
+      "en": "We have to control all the elements, the reactive elements,",
+      "zh": ""
+    },
+    {
+      "start": 1694.49,
+      "duration": 3.39,
+      "text": "which is the iron oxide and the aluminum to make sure",
+      "en": "which is the iron oxide and the aluminum to make sure",
+      "zh": ""
+    },
+    {
+      "start": 1697.88,
+      "duration": 3.81,
+      "text": "that every portion has their very defined reactivity.",
+      "en": "that every portion has their very defined reactivity.",
+      "zh": ""
+    },
+    {
+      "start": 1701.69,
+      "duration": 2.13,
+      "text": "And then we get the reaction that we want",
+      "en": "And then we get the reaction that we want",
+      "zh": ""
+    },
+    {
+      "start": 1703.82,
+      "duration": 2.9,
+      "text": "and also the chemical qualities in the steel that we want.",
+      "en": "and also the chemical qualities in the steel that we want.",
+      "zh": ""
+    },
+    {
+      "start": 1708.83,
+      "duration": 1.92,
+      "text": "- You guys use this word portion.",
+      "en": "- You guys use this word portion.",
+      "zh": ""
+    },
+    {
+      "start": 1710.75,
+      "duration": 1.89,
+      "text": "- Portion, yeah. That's the word that we use.",
+      "en": "- Portion, yeah. That's the word that we use.",
+      "zh": ""
+    },
+    {
+      "start": 1712.64,
+      "duration": 3.36,
+      "text": "A portion is basically one bag of thermite.",
+      "en": "A portion is basically one bag of thermite.",
+      "zh": ""
+    },
+    {
+      "start": 1717.59,
+      "duration": 0.87,
+      "text": "- No cameras.",
+      "en": "- No cameras.",
+      "zh": ""
+    },
+    {
+      "start": 1718.46,
+      "duration": 2.64,
+      "text": "- [Cameraman] Always breaking the rules, this guy.",
+      "en": "- [Cameraman] Always breaking the rules, this guy.",
+      "zh": ""
+    },
+    {
+      "start": 1721.1,
+      "duration": 2.19,
+      "text": "- [Derek] So the portions are bagged up individually",
+      "en": "- [Derek] So the portions are bagged up individually",
+      "zh": ""
+    },
+    {
+      "start": 1723.29,
+      "duration": 1.92,
+      "text": "and stored in the warehouse.",
+      "en": "and stored in the warehouse.",
+      "zh": ""
+    },
+    {
+      "start": 1727.16,
+      "duration": 2.61,
+      "text": "- This is our warehouse, but this is only one of them.",
+      "en": "- This is our warehouse, but this is only one of them.",
+      "zh": ""
+    },
+    {
+      "start": 1729.77,
+      "duration": 2.31,
+      "text": "And this is not even the biggest.",
+      "en": "And this is not even the biggest.",
+      "zh": ""
+    },
+    {
+      "start": 1734.42,
+      "duration": 1.7,
+      "text": "- Can I ask you one question here?",
+      "en": "- Can I ask you one question here?",
+      "zh": ""
+    },
+    {
+      "start": 1737.0,
+      "duration": 1.59,
+      "text": "Okay, yesterday we saw",
+      "en": "Okay, yesterday we saw",
+      "zh": ""
+    },
+    {
+      "start": 1738.59,
+      "duration": 2.83,
+      "text": "there's a tremendous amount of energy in thermite",
+      "en": "there's a tremendous amount of energy in thermite",
+      "zh": ""
+    },
+    {
+      "start": 1743.09,
+      "duration": 2.22,
+      "text": "and in this warehouse,",
+      "en": "and in this warehouse,",
+      "zh": ""
+    },
+    {
+      "start": 1745.31,
+      "duration": 1.8,
+      "text": "there's a tremendous amount of thermite.",
+      "en": "there's a tremendous amount of thermite.",
+      "zh": ""
+    },
+    {
+      "start": 1747.11,
+      "duration": 4.62,
+      "text": "So the question for you is, is this in any way dangerous?",
+      "en": "So the question for you is, is this in any way dangerous?",
+      "zh": ""
+    },
+    {
+      "start": 1751.73,
+      "duration": 1.77,
+      "text": "- It's a fair question.",
+      "en": "- It's a fair question.",
+      "zh": ""
+    },
+    {
+      "start": 1753.5,
+      "duration": 1.65,
+      "text": "It's a fair question.",
+      "en": "It's a fair question.",
+      "zh": ""
+    },
+    {
+      "start": 1758.21,
+      "duration": 2.01,
+      "text": "- They set up this demonstration for me to see",
+      "en": "- They set up this demonstration for me to see",
+      "zh": ""
+    },
+    {
+      "start": 1760.22,
+      "duration": 2.13,
+      "text": "how safe thermite is to handle.",
+      "en": "how safe thermite is to handle.",
+      "zh": ""
+    },
+    {
+      "start": 1762.35,
+      "duration": 3.48,
+      "text": "They want me to try to ignite this full crucible of thermite",
+      "en": "They want me to try to ignite this full crucible of thermite",
+      "zh": ""
+    },
+    {
+      "start": 1765.83,
+      "duration": 2.67,
+      "text": "with increasing sized ignition sources.",
+      "en": "with increasing sized ignition sources.",
+      "zh": ""
+    },
+    {
+      "start": 1770.21,
+      "duration": 3.57,
+      "text": "But I wasn't entirely confident this was a good idea.",
+      "en": "But I wasn't entirely confident this was a good idea.",
+      "zh": ""
+    },
+    {
+      "start": 1773.78,
+      "duration": 1.6,
+      "text": "Maybe you can help me ignite it.",
+      "en": "Maybe you can help me ignite it.",
+      "zh": ""
+    },
+    {
+      "start": 1777.74,
+      "duration": 1.08,
+      "text": "- Where's Christof?",
+      "en": "- Where's Christof?",
+      "zh": ""
+    },
+    {
+      "start": 1778.82,
+      "duration": 2.22,
+      "text": "Have you tried this by the way?",
+      "en": "Have you tried this by the way?",
+      "zh": ""
+    },
+    {
+      "start": 1781.04,
+      "duration": 0.83,
+      "text": "- [Christof] No.",
+      "en": "- [Christof] No.",
+      "zh": ""
+    },
+    {
+      "start": 1783.83,
+      "duration": 2.1,
+      "text": "- Well then, under these circumstances,",
+      "en": "- Well then, under these circumstances,",
+      "zh": ""
+    },
+    {
+      "start": 1785.93,
+      "duration": 2.04,
+      "text": "I would get you some safety gear.",
+      "en": "I would get you some safety gear.",
+      "zh": ""
+    },
+    {
+      "start": 1788.96,
+      "duration": 3.3,
+      "text": "- [Christof] I'm 95% sure that you cannot ignite it.",
+      "en": "- [Christof] I'm 95% sure that you cannot ignite it.",
+      "zh": ""
+    },
+    {
+      "start": 1792.26,
+      "duration": 1.63,
+      "text": "- 95? - There you go.",
+      "en": "- 95? - There you go.",
+      "zh": ""
+    },
+    {
+      "start": 1793.89,
+      "duration": 0.97,
+      "text": "That's safety gear. - That's a one in 20.",
+      "en": "That's safety gear. - That's a one in 20.",
+      "zh": ""
+    },
+    {
+      "start": 1794.86,
+      "duration": 1.69,
+      "text": "Is that how we're doing it?",
+      "en": "Is that how we're doing it?",
+      "zh": ""
+    },
+    {
+      "start": 1798.35,
+      "duration": 1.47,
+      "text": "This is a fireproof suit.",
+      "en": "This is a fireproof suit.",
+      "zh": ""
+    },
+    {
+      "start": 1805.52,
+      "duration": 3.46,
+      "text": "- At least there will be footage how it happened. (laughs)",
+      "en": "- At least there will be footage how it happened. (laughs)",
+      "zh": ""
+    },
+    {
+      "start": 1810.44,
+      "duration": 2.4,
+      "text": "- So first, here's a little lighter.",
+      "en": "- So first, here's a little lighter.",
+      "zh": ""
+    },
+    {
+      "start": 1812.84,
+      "duration": 1.41,
+      "text": "All right, let's give it a shot.",
+      "en": "All right, let's give it a shot.",
+      "zh": ""
+    },
+    {
+      "start": 1814.25,
+      "duration": 1.35,
+      "text": "See if I can get this to ignite.",
+      "en": "See if I can get this to ignite.",
+      "zh": ""
+    },
+    {
+      "start": 1815.6,
+      "duration": 2.1,
+      "text": "Three, two, one.",
+      "en": "Three, two, one.",
+      "zh": ""
+    },
+    {
+      "start": 1821.3,
+      "duration": 3.63,
+      "text": "I'm making some of the thermite particles here quite hot",
+      "en": "I'm making some of the thermite particles here quite hot",
+      "zh": ""
+    },
+    {
+      "start": 1824.93,
+      "duration": 3.63,
+      "text": "so that they are actually glowing orange.",
+      "en": "so that they are actually glowing orange.",
+      "zh": ""
+    },
+    {
+      "start": 1828.56,
+      "duration": 2.28,
+      "text": "Oh, oh, oh. It's getting quite bright.",
+      "en": "Oh, oh, oh. It's getting quite bright.",
+      "zh": ""
+    },
+    {
+      "start": 1830.84,
+      "duration": 1.44,
+      "text": "Are you getting worried watching that?",
+      "en": "Are you getting worried watching that?",
+      "zh": ""
+    },
+    {
+      "start": 1832.28,
+      "duration": 0.96,
+      "text": "- No, not getting worried.",
+      "en": "- No, not getting worried.",
+      "zh": ""
+    },
+    {
+      "start": 1833.24,
+      "duration": 1.02,
+      "text": "- I heard you make a noise",
+      "en": "- I heard you make a noise",
+      "zh": ""
+    },
+    {
+      "start": 1834.26,
+      "duration": 2.04,
+      "text": "and I was like, \"No, he's getting worried.",
+      "en": "and I was like, \"No, he's getting worried.",
+      "zh": ""
+    },
+    {
+      "start": 1836.3,
+      "duration": 1.92,
+      "text": "I shouldn't keep it on the same spot.\"",
+      "en": "I shouldn't keep it on the same spot.\"",
+      "zh": ""
+    },
+    {
+      "start": 1839.24,
+      "duration": 2.22,
+      "text": "Do you think this whole thing's going to blow up on my face?",
+      "en": "Do you think this whole thing's going to blow up on my face?",
+      "zh": ""
+    },
+    {
+      "start": 1841.46,
+      "duration": 1.68,
+      "text": "- [Axel] No, I hope not.",
+      "en": "- [Axel] No, I hope not.",
+      "zh": ""
+    },
+    {
+      "start": 1843.14,
+      "duration": 2.73,
+      "text": "- So you can see like even getting it-",
+      "en": "- So you can see like even getting it-",
+      "zh": ""
+    },
+    {
+      "start": 1845.87,
+      "duration": 1.94,
+      "text": "- [Axel] Glowing hot. - Glowing hot,",
+      "en": "- [Axel] Glowing hot. - Glowing hot,",
+      "zh": ""
+    },
+    {
+      "start": 1847.81,
+      "duration": 1.66,
+      "text": "it still won't ignite.",
+      "en": "it still won't ignite.",
+      "zh": ""
+    },
+    {
+      "start": 1850.34,
+      "duration": 2.4,
+      "text": "All right, let's pull out a bigger torch.",
+      "en": "All right, let's pull out a bigger torch.",
+      "zh": ""
+    },
+    {
+      "start": 1854.33,
+      "duration": 1.74,
+      "text": "I'm going to try with this one.",
+      "en": "I'm going to try with this one.",
+      "zh": ""
+    },
+    {
+      "start": 1856.07,
+      "duration": 1.77,
+      "text": "Got a nice big blue flame there.",
+      "en": "Got a nice big blue flame there.",
+      "zh": ""
+    },
+    {
+      "start": 1859.55,
+      "duration": 3.18,
+      "text": "I feel like this is not as hot as the other lighter,",
+      "en": "I feel like this is not as hot as the other lighter,",
+      "zh": ""
+    },
+    {
+      "start": 1862.73,
+      "duration": 3.06,
+      "text": "so I'm getting a little bit of orange there,",
+      "en": "so I'm getting a little bit of orange there,",
+      "zh": ""
+    },
+    {
+      "start": 1867.38,
+      "duration": 1.11,
+      "text": "but just barely.",
+      "en": "but just barely.",
+      "zh": ""
+    },
+    {
+      "start": 1871.13,
+      "duration": 2.09,
+      "text": "We're going to have to bring out the big guns.",
+      "en": "We're going to have to bring out the big guns.",
+      "zh": ""
+    },
+    {
+      "start": 1874.34,
+      "duration": 3.57,
+      "text": "All right, let's torch it in three, two, one.",
+      "en": "All right, let's torch it in three, two, one.",
+      "zh": ""
+    },
+    {
+      "start": 1883.66,
+      "duration": 1.68,
+      "text": "Do you think we can build up enough heat?",
+      "en": "Do you think we can build up enough heat?",
+      "zh": ""
+    },
+    {
+      "start": 1886.67,
+      "duration": 0.83,
+      "text": "How hot?",
+      "en": "How hot?",
+      "zh": ""
+    },
+    {
+      "start": 1888.35,
+      "duration": 1.08,
+      "text": "- [Axel] 500.",
+      "en": "- [Axel] 500.",
+      "zh": ""
+    },
+    {
+      "start": 1890.48,
+      "duration": 1.7,
+      "text": "- Did you say 500? - [Axel] Yeah.",
+      "en": "- Did you say 500? - [Axel] Yeah.",
+      "zh": ""
+    },
+    {
+      "start": 1893.24,
+      "duration": 3.15,
+      "text": "- I can see a lot of thermite glowing orange.",
+      "en": "- I can see a lot of thermite glowing orange.",
+      "zh": ""
+    },
+    {
+      "start": 1896.39,
+      "duration": 1.65,
+      "text": "There's some pieces coming out.",
+      "en": "There's some pieces coming out.",
+      "zh": ""
+    },
+    {
+      "start": 1901.58,
+      "duration": 2.25,
+      "text": "- Nice and glowing. - [Christof] 700.",
+      "en": "- Nice and glowing. - [Christof] 700.",
+      "zh": ""
+    },
+    {
+      "start": 1903.83,
+      "duration": 0.99,
+      "text": "- 700 degrees.",
+      "en": "- 700 degrees.",
+      "zh": ""
+    },
+    {
+      "start": 1908.87,
+      "duration": 1.92,
+      "text": "I think this is an excellent demonstration",
+      "en": "I think this is an excellent demonstration",
+      "zh": ""
+    },
+    {
+      "start": 1910.79,
+      "duration": 4.32,
+      "text": "that thermite is not going to ignite",
+      "en": "that thermite is not going to ignite",
+      "zh": ""
+    },
+    {
+      "start": 1915.11,
+      "duration": 1.38,
+      "text": "under normal conditions.",
+      "en": "under normal conditions.",
+      "zh": ""
+    },
+    {
+      "start": 1919.4,
+      "duration": 1.23,
+      "text": "Wow.",
+      "en": "Wow.",
+      "zh": ""
+    },
+    {
+      "start": 1920.63,
+      "duration": 1.05,
+      "text": "- [Axel] There you go. It's still glowing.",
+      "en": "- [Axel] There you go. It's still glowing.",
+      "zh": ""
+    },
+    {
+      "start": 1921.68,
+      "duration": 1.53,
+      "text": "- [Derek] Did it melt?",
+      "en": "- [Derek] Did it melt?",
+      "zh": ""
+    },
+    {
+      "start": 1923.21,
+      "duration": 1.32,
+      "text": "- [Axel] Yeah, that can happen.",
+      "en": "- [Axel] Yeah, that can happen.",
+      "zh": ""
+    },
+    {
+      "start": 1924.53,
+      "duration": 2.07,
+      "text": "- It can melt and not-",
+      "en": "- It can melt and not-",
+      "zh": ""
+    },
+    {
+      "start": 1926.6,
+      "duration": 2.14,
+      "text": "- Not ignite.",
+      "en": "- Not ignite.",
+      "zh": ""
+    },
+    {
+      "start": 1928.74,
+      "duration": 1.52,
+      "text": "What the.",
+      "en": "What the.",
+      "zh": ""
+    },
+    {
+      "start": 1930.26,
+      "duration": 1.62,
+      "text": "That is absolutely nuts.",
+      "en": "That is absolutely nuts.",
+      "zh": ""
+    },
+    {
+      "start": 1933.26,
+      "duration": 3.36,
+      "text": "- Obviously, there is a lot of potential energy here,",
+      "en": "- Obviously, there is a lot of potential energy here,",
+      "zh": ""
+    },
+    {
+      "start": 1936.62,
+      "duration": 2.85,
+      "text": "but getting that energy is really, really difficult.",
+      "en": "but getting that energy is really, really difficult.",
+      "zh": ""
+    },
+    {
+      "start": 1939.47,
+      "duration": 2.82,
+      "text": "So if it would catch a fire and, you know, whatever,",
+      "en": "So if it would catch a fire and, you know, whatever,",
+      "zh": ""
+    },
+    {
+      "start": 1942.29,
+      "duration": 1.82,
+      "text": "the wooden pallets would burn,",
+      "en": "the wooden pallets would burn,",
+      "zh": ""
+    },
+    {
+      "start": 1944.11,
+      "duration": 1.49,
+      "text": "you would not be able to ignite the thermite.",
+      "en": "you would not be able to ignite the thermite.",
+      "zh": ""
+    },
+    {
+      "start": 1945.6,
+      "duration": 1.46,
+      "text": "- Would not even.",
+      "en": "- Would not even.",
+      "zh": ""
+    },
+    {
+      "start": 1947.06,
+      "duration": 2.95,
+      "text": "- No, it would just sit there and it would just ignore you.",
+      "en": "- No, it would just sit there and it would just ignore you.",
+      "zh": ""
+    },
+    {
+      "start": 1951.95,
+      "duration": 3.9,
+      "text": "- The key to this lack of reactivity is the aluminum powder.",
+      "en": "- The key to this lack of reactivity is the aluminum powder.",
+      "zh": ""
+    },
+    {
+      "start": 1956.84,
+      "duration": 2.64,
+      "text": "- The aluminum is quite stable because",
+      "en": "- The aluminum is quite stable because",
+      "zh": ""
+    },
+    {
+      "start": 1959.48,
+      "duration": 2.91,
+      "text": "it's covered in aluminum oxide,",
+      "en": "it's covered in aluminum oxide,",
+      "zh": ""
+    },
+    {
+      "start": 1962.39,
+      "duration": 3.57,
+      "text": "and only if it gets so violently heated",
+      "en": "and only if it gets so violently heated",
+      "zh": ""
+    },
+    {
+      "start": 1965.96,
+      "duration": 3.78,
+      "text": "that that layer breaks down in a large number of particles,",
+      "en": "that that layer breaks down in a large number of particles,",
+      "zh": ""
+    },
+    {
+      "start": 1969.74,
+      "duration": 1.89,
+      "text": "then the reaction can start.",
+      "en": "then the reaction can start.",
+      "zh": ""
+    },
+    {
+      "start": 1971.63,
+      "duration": 3.42,
+      "text": "- So the aluminum oxide is like the secret stopper",
+      "en": "- So the aluminum oxide is like the secret stopper",
+      "zh": ""
+    },
+    {
+      "start": 1975.05,
+      "duration": 1.29,
+      "text": "of thermite? - [Axel] Exactly.",
+      "en": "of thermite? - [Axel] Exactly.",
+      "zh": ""
+    },
+    {
+      "start": 1976.34,
+      "duration": 0.83,
+      "text": "- The seal.",
+      "en": "- The seal.",
+      "zh": ""
+    },
+    {
+      "start": 1981.32,
+      "duration": 3.03,
+      "text": "This reaction has a very high activation energy,",
+      "en": "This reaction has a very high activation energy,",
+      "zh": ""
+    },
+    {
+      "start": 1984.35,
+      "duration": 3.69,
+      "text": "so it can't be started by a lighter or a propane torch.",
+      "en": "so it can't be started by a lighter or a propane torch.",
+      "zh": ""
+    },
+    {
+      "start": 1989.3,
+      "duration": 1.32,
+      "text": "Okay.",
+      "en": "Okay.",
+      "zh": ""
+    },
+    {
+      "start": 1990.62,
+      "duration": 3.33,
+      "text": "This is why we've been using barium hydroxide igniters.",
+      "en": "This is why we've been using barium hydroxide igniters.",
+      "zh": ""
+    },
+    {
+      "start": 1993.95,
+      "duration": 2.49,
+      "text": "Basically, the same stuff that's in sparklers.",
+      "en": "Basically, the same stuff that's in sparklers.",
+      "zh": ""
+    },
+    {
+      "start": 1996.44,
+      "duration": 1.22,
+      "text": "- [Christof] Happy New Year.",
+      "en": "- [Christof] Happy New Year.",
+      "zh": ""
+    },
+    {
+      "start": 1999.95,
+      "duration": 1.2,
+      "text": "- It gets hot enough to break",
+      "en": "- It gets hot enough to break",
+      "zh": ""
+    },
+    {
+      "start": 2001.15,
+      "duration": 2.8,
+      "text": "through the aluminum oxide layer and start the reaction.",
+      "en": "through the aluminum oxide layer and start the reaction.",
+      "zh": ""
+    },
+    {
+      "start": 2005.41,
+      "duration": 2.1,
+      "text": "- We want to make sure that the ignition temperature",
+      "en": "- We want to make sure that the ignition temperature",
+      "zh": ""
+    },
+    {
+      "start": 2007.51,
+      "duration": 2.91,
+      "text": "is so high that it can only light it deliberately.",
+      "en": "is so high that it can only light it deliberately.",
+      "zh": ""
+    },
+    {
+      "start": 2011.8,
+      "duration": 2.04,
+      "text": "Because once it's going.",
+      "en": "Because once it's going.",
+      "zh": ""
+    },
+    {
+      "start": 2016.03,
+      "duration": 4.74,
+      "text": "- [Derek] I am going to push the button in three, two.",
+      "en": "- [Derek] I am going to push the button in three, two.",
+      "zh": ""
+    },
+    {
+      "start": 2022.33,
+      "duration": 1.71,
+      "text": "- There is no way of stopping it.",
+      "en": "- There is no way of stopping it.",
+      "zh": ""
+    },
+    {
+      "start": 2025.16,
+      "duration": 3.0,
+      "text": "(thermite explodes)",
+      "en": "(thermite explodes)",
+      "zh": ""
+    },
+    {
+      "start": 2031.36,
+      "duration": 1.44,
+      "text": "- That is crazy.",
+      "en": "- That is crazy.",
+      "zh": ""
+    },
+    {
+      "start": 2034.42,
+      "duration": 2.76,
+      "text": "I was filming in Germany for a full five days,",
+      "en": "I was filming in Germany for a full five days,",
+      "zh": ""
+    },
+    {
+      "start": 2037.18,
+      "duration": 2.91,
+      "text": "so this is just a taste of what's to come.",
+      "en": "so this is just a taste of what's to come.",
+      "zh": ""
+    },
+    {
+      "start": 2040.09,
+      "duration": 3.54,
+      "text": "We'll find out how thermite reacts with its environment",
+      "en": "We'll find out how thermite reacts with its environment",
+      "zh": ""
+    },
+    {
+      "start": 2043.63,
+      "duration": 1.89,
+      "text": "and we'll have a dedicated video",
+      "en": "and we'll have a dedicated video",
+      "zh": ""
+    },
+    {
+      "start": 2045.52,
+      "duration": 2.52,
+      "text": "on the most common application of thermite,",
+      "en": "on the most common application of thermite,",
+      "zh": ""
+    },
+    {
+      "start": 2050.17,
+      "duration": 1.92,
+      "text": "welding railroad tracks together.",
+      "en": "welding railroad tracks together.",
+      "zh": ""
+    },
+    {
+      "start": 2052.99,
+      "duration": 2.04,
+      "text": "There probably will be millions of people",
+      "en": "There probably will be millions of people",
+      "zh": ""
+    },
+    {
+      "start": 2055.03,
+      "duration": 1.65,
+      "text": "watching this video.",
+      "en": "watching this video.",
+      "zh": ""
+    },
+    {
+      "start": 2056.68,
+      "duration": 2.76,
+      "text": "Most of them have probably ridden on a train.",
+      "en": "Most of them have probably ridden on a train.",
+      "zh": ""
+    },
+    {
+      "start": 2059.44,
+      "duration": 2.13,
+      "text": "What is the likelihood that they have ridden",
+      "en": "What is the likelihood that they have ridden",
+      "zh": ""
+    },
+    {
+      "start": 2061.57,
+      "duration": 2.37,
+      "text": "over one of your thermite welds?",
+      "en": "over one of your thermite welds?",
+      "zh": ""
+    },
+    {
+      "start": 2065.11,
+      "duration": 1.2,
+      "text": "They will.",
+      "en": "They will.",
+      "zh": ""
+    },
+    {
+      "start": 2066.31,
+      "duration": 2.94,
+      "text": "- [Derek] 100%? - 100%.",
+      "en": "- [Derek] 100%? - 100%.",
+      "zh": ""
+    },
+    {
+      "start": 2069.25,
+      "duration": 1.29,
+      "text": "- [Derek] So make sure you're subscribed",
+      "en": "- [Derek] So make sure you're subscribed",
+      "zh": ""
+    },
+    {
+      "start": 2070.54,
+      "duration": 2.65,
+      "text": "to be notified about these videos when they come out.",
+      "en": "to be notified about these videos when they come out.",
+      "zh": ""
+    }
+  ],
+  "words": []
+}

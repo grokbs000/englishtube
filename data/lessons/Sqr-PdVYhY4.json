@@ -1,0 +1,3827 @@
+{
+  "cues": [
+    {
+      "start": 0.0,
+      "duration": 1.25,
+      "text": "This is jigsaw.",
+      "en": "This is jigsaw.",
+      "zh": ""
+    },
+    {
+      "start": 1.25,
+      "duration": 3.63,
+      "text": "He's a friendly little robot that's really, really good at only one thing:",
+      "en": "He's a friendly little robot that's really, really good at only one thing:",
+      "zh": ""
+    },
+    {
+      "start": 4.88,
+      "duration": 2.71,
+      "text": "Putting together any jigsaw puzzle, no matter how complicated.",
+      "en": "Putting together any jigsaw puzzle, no matter how complicated.",
+      "zh": ""
+    },
+    {
+      "start": 7.59,
+      "duration": 1.34,
+      "text": "Really, really fast.",
+      "en": "Really, really fast.",
+      "zh": ""
+    },
+    {
+      "start": 8.93,
+      "duration": 2.21,
+      "text": "It's taken us three years to get to this point,",
+      "en": "It's taken us three years to get to this point,",
+      "zh": ""
+    },
+    {
+      "start": 11.14,
+      "duration": 3.46,
+      "text": "but according to our initial tests, we have hopes he might be 200 times",
+      "en": "but according to our initial tests, we have hopes he might be 200 times",
+      "zh": ""
+    },
+    {
+      "start": 14.6,
+      "duration": 3.54,
+      "text": "faster than the fastest competitive jigsaw puzzler in the world.",
+      "en": "faster than the fastest competitive jigsaw puzzler in the world.",
+      "zh": ""
+    },
+    {
+      "start": 18.14,
+      "duration": 1.5,
+      "text": "So today, we're going to walk through what it took",
+      "en": "So today, we're going to walk through what it took",
+      "zh": ""
+    },
+    {
+      "start": 19.64,
+      "duration": 2.97,
+      "text": "to get ready for the ultimate robot versus human face off.",
+      "en": "to get ready for the ultimate robot versus human face off.",
+      "zh": ""
+    },
+    {
+      "start": 22.61,
+      "duration": 2.29,
+      "text": "And along the way, we may just discover some tricks",
+      "en": "And along the way, we may just discover some tricks",
+      "zh": ""
+    },
+    {
+      "start": 24.9,
+      "duration": 3.88,
+      "text": "you might find helpful as a mere human jigsaw puzzler yourself.",
+      "en": "you might find helpful as a mere human jigsaw puzzler yourself.",
+      "zh": ""
+    },
+    {
+      "start": 28.78,
+      "duration": 2.96,
+      "text": "But before we unpack how jigsaw does what he does",
+      "en": "But before we unpack how jigsaw does what he does",
+      "zh": ""
+    },
+    {
+      "start": 31.74,
+      "duration": 3.71,
+      "text": "I first want to give us humans some well-deserved credit",
+      "en": "I first want to give us humans some well-deserved credit",
+      "zh": ""
+    },
+    {
+      "start": 35.45,
+      "duration": 2.34,
+      "text": "because while this seems pretty straightforward of me",
+      "en": "because while this seems pretty straightforward of me",
+      "zh": ""
+    },
+    {
+      "start": 37.79,
+      "duration": 1.62,
+      "text": "to be able to pick up and arrange",
+      "en": "to be able to pick up and arrange",
+      "zh": ""
+    },
+    {
+      "start": 39.41,
+      "duration": 4.59,
+      "text": "these 12 pieces of a puzzle, I'm actually doing four very complicated tasks.",
+      "en": "these 12 pieces of a puzzle, I'm actually doing four very complicated tasks.",
+      "zh": ""
+    },
+    {
+      "start": 44.0,
+      "duration": 2.8,
+      "text": "The first is just picking up a piece.",
+      "en": "The first is just picking up a piece.",
+      "zh": ""
+    },
+    {
+      "start": 46.8,
+      "duration": 4.12,
+      "text": "Have you ever stopped to think just how amazing our hands are?",
+      "en": "Have you ever stopped to think just how amazing our hands are?",
+      "zh": ""
+    },
+    {
+      "start": 50.92,
+      "duration": 3.55,
+      "text": "Hiding beneath that skin are 27 bones and 34 muscles,",
+      "en": "Hiding beneath that skin are 27 bones and 34 muscles,",
+      "zh": ""
+    },
+    {
+      "start": 54.47,
+      "duration": 4.59,
+      "text": "which makes them flexible and strong, but they're also incredibly precise and dexterous",
+      "en": "which makes them flexible and strong, but they're also incredibly precise and dexterous",
+      "zh": ""
+    },
+    {
+      "start": 59.06,
+      "duration": 2.29,
+      "text": "thanks to the high concentration of nerves in our fingertips",
+      "en": "thanks to the high concentration of nerves in our fingertips",
+      "zh": ""
+    },
+    {
+      "start": 61.35,
+      "duration": 2.34,
+      "text": "for sensing pressure textures, and temperature.",
+      "en": "for sensing pressure textures, and temperature.",
+      "zh": ""
+    },
+    {
+      "start": 63.69,
+      "duration": 2.17,
+      "text": "We've also evolved to have opposable thumbs,",
+      "en": "We've also evolved to have opposable thumbs,",
+      "zh": ""
+    },
+    {
+      "start": 65.86,
+      "duration": 2.25,
+      "text": "which makes it way easier to hold tools",
+      "en": "which makes it way easier to hold tools",
+      "zh": ""
+    },
+    {
+      "start": 68.11,
+      "duration": 1.71,
+      "text": "and to manipulate and pick things up",
+      "en": "and to manipulate and pick things up",
+      "zh": ""
+    },
+    {
+      "start": 69.82,
+      "duration": 3.04,
+      "text": "than if it was just five fingers all side by side.",
+      "en": "than if it was just five fingers all side by side.",
+      "zh": ""
+    },
+    {
+      "start": 72.86,
+      "duration": 2.01,
+      "text": "Step two is rotating the piece",
+      "en": "Step two is rotating the piece",
+      "zh": ""
+    },
+    {
+      "start": 74.87,
+      "duration": 3.12,
+      "text": "to the correct orientation, which again is pretty straightforward",
+      "en": "to the correct orientation, which again is pretty straightforward",
+      "zh": ""
+    },
+    {
+      "start": 77.99,
+      "duration": 2.01,
+      "text": "when you have all the abilities I just mentioned.",
+      "en": "when you have all the abilities I just mentioned.",
+      "zh": ""
+    },
+    {
+      "start": 80.0,
+      "duration": 0.79,
+      "text": "For step three,",
+      "en": "For step three,",
+      "zh": ""
+    },
+    {
+      "start": 80.79,
+      "duration": 4.13,
+      "text": "we need to move the piece into position, and that requires our whole arm.",
+      "en": "we need to move the piece into position, and that requires our whole arm.",
+      "zh": ""
+    },
+    {
+      "start": 84.92,
+      "duration": 1.0,
+      "text": "As I’ve mentioned before",
+      "en": "As I’ve mentioned before",
+      "zh": ""
+    },
+    {
+      "start": 85.92,
+      "duration": 2.92,
+      "text": "most vertebrae have the same basic arm bone configuration",
+      "en": "most vertebrae have the same basic arm bone configuration",
+      "zh": ""
+    },
+    {
+      "start": 88.84,
+      "duration": 4.0,
+      "text": "from a human to a bat, to a chicken to a turtle to a dolphin.",
+      "en": "from a human to a bat, to a chicken to a turtle to a dolphin.",
+      "zh": ""
+    },
+    {
+      "start": 92.84,
+      "duration": 2.34,
+      "text": "But when you include the hand, our configuration",
+      "en": "But when you include the hand, our configuration",
+      "zh": ""
+    },
+    {
+      "start": 95.18,
+      "duration": 1.92,
+      "text": "is the most technically capable arm",
+      "en": "is the most technically capable arm",
+      "zh": ""
+    },
+    {
+      "start": 97.1,
+      "duration": 2.96,
+      "text": "of any living thing to have ever existed on this planet.",
+      "en": "of any living thing to have ever existed on this planet.",
+      "zh": ""
+    },
+    {
+      "start": 100.06,
+      "duration": 3.38,
+      "text": "If you imagine a large cube in front of me, it's wild that us humans",
+      "en": "If you imagine a large cube in front of me, it's wild that us humans",
+      "zh": ""
+    },
+    {
+      "start": 103.44,
+      "duration": 4.54,
+      "text": "can move this puzzle piece to any position and orientation within that cube.",
+      "en": "can move this puzzle piece to any position and orientation within that cube.",
+      "zh": ""
+    },
+    {
+      "start": 107.98,
+      "duration": 1.59,
+      "text": "That's really hard for a robot",
+      "en": "That's really hard for a robot",
+      "zh": ""
+    },
+    {
+      "start": 109.57,
+      "duration": 2.62,
+      "text": "or pretty much any other species to do for that matter.",
+      "en": "or pretty much any other species to do for that matter.",
+      "zh": ""
+    },
+    {
+      "start": 112.19,
+      "duration": 0.8,
+      "text": "For step four,",
+      "en": "For step four,",
+      "zh": ""
+    },
+    {
+      "start": 112.99,
+      "duration": 2.04,
+      "text": "we have to decide where this piece should go",
+      "en": "we have to decide where this piece should go",
+      "zh": ""
+    },
+    {
+      "start": 115.03,
+      "duration": 0.88,
+      "text": "and for us humans, it's hard",
+      "en": "and for us humans, it's hard",
+      "zh": ""
+    },
+    {
+      "start": 115.91,
+      "duration": 1.37,
+      "text": "it’s hard to explain how",
+      "en": "it’s hard to explain how",
+      "zh": ""
+    },
+    {
+      "start": 117.28,
+      "duration": 3.59,
+      "text": "but when we look at this, it just very quickly feels super obvious",
+      "en": "but when we look at this, it just very quickly feels super obvious",
+      "zh": ""
+    },
+    {
+      "start": 120.87,
+      "duration": 2.34,
+      "text": "this piece should go here.",
+      "en": "this piece should go here.",
+      "zh": ""
+    },
+    {
+      "start": 123.21,
+      "duration": 2.25,
+      "text": "What's actually happening, though, is our eyes communicate",
+      "en": "What's actually happening, though, is our eyes communicate",
+      "zh": ""
+    },
+    {
+      "start": 125.46,
+      "duration": 3.38,
+      "text": "visual perception to our brains, which then subconsciously synthesize",
+      "en": "visual perception to our brains, which then subconsciously synthesize",
+      "zh": ""
+    },
+    {
+      "start": 128.84,
+      "duration": 3.21,
+      "text": "a complicated combination of pattern recognition, spatial reasoning,",
+      "en": "a complicated combination of pattern recognition, spatial reasoning,",
+      "zh": ""
+    },
+    {
+      "start": 132.05,
+      "duration": 4.13,
+      "text": "visual memory, and executive function, and as a result, in fractions of a second?",
+      "en": "visual memory, and executive function, and as a result, in fractions of a second?",
+      "zh": ""
+    },
+    {
+      "start": 136.18,
+      "duration": 1.75,
+      "text": "The answer just feels obvious.",
+      "en": "The answer just feels obvious.",
+      "zh": ""
+    },
+    {
+      "start": 137.93,
+      "duration": 0.92,
+      "text": "And not to brag.",
+      "en": "And not to brag.",
+      "zh": ""
+    },
+    {
+      "start": 138.85,
+      "duration": 3.87,
+      "text": "But this is once again where us humans are the undisputed champions.",
+      "en": "But this is once again where us humans are the undisputed champions.",
+      "zh": ""
+    },
+    {
+      "start": 142.72,
+      "duration": 3.09,
+      "text": "Our complex brains are what make us special.",
+      "en": "Our complex brains are what make us special.",
+      "zh": ""
+    },
+    {
+      "start": 145.81,
+      "duration": 3.17,
+      "text": "Physically, we're kind of unremarkable in the animal kingdom.",
+      "en": "Physically, we're kind of unremarkable in the animal kingdom.",
+      "zh": ""
+    },
+    {
+      "start": 148.98,
+      "duration": 2.71,
+      "text": "We're not faster than cheetahs or stronger than bears.",
+      "en": "We're not faster than cheetahs or stronger than bears.",
+      "zh": ""
+    },
+    {
+      "start": 151.69,
+      "duration": 2.96,
+      "text": "We can't swim as well as dolphins or fly like an eagle.",
+      "en": "We can't swim as well as dolphins or fly like an eagle.",
+      "zh": ""
+    },
+    {
+      "start": 154.65,
+      "duration": 3.42,
+      "text": "It's our brains that make up 2% of our body weight,",
+      "en": "It's our brains that make up 2% of our body weight,",
+      "zh": ""
+    },
+    {
+      "start": 158.07,
+      "duration": 3.17,
+      "text": "yet they consume 20% of our energy every day.",
+      "en": "yet they consume 20% of our energy every day.",
+      "zh": ""
+    },
+    {
+      "start": 161.24,
+      "duration": 2.96,
+      "text": "And that ratio is higher than any other living thing ever.",
+      "en": "And that ratio is higher than any other living thing ever.",
+      "zh": ""
+    },
+    {
+      "start": 164.2,
+      "duration": 3.01,
+      "text": "And it's the reason we're the ultimate apex predators",
+      "en": "And it's the reason we're the ultimate apex predators",
+      "zh": ""
+    },
+    {
+      "start": 167.21,
+      "duration": 3.96,
+      "text": "because it allows for the huge survival advantages that come from tool use planning,",
+      "en": "because it allows for the huge survival advantages that come from tool use planning,",
+      "zh": ""
+    },
+    {
+      "start": 171.17,
+      "duration": 3.84,
+      "text": "problem solving, language, and large scale cooperation with other humans.",
+      "en": "problem solving, language, and large scale cooperation with other humans.",
+      "zh": ""
+    },
+    {
+      "start": 175.01,
+      "duration": 3.0,
+      "text": "It's also what has possibly, up until this moment",
+      "en": "It's also what has possibly, up until this moment",
+      "zh": ""
+    },
+    {
+      "start": 178.01,
+      "duration": 2.04,
+      "text": "in history, made us the best...",
+      "en": "in history, made us the best...",
+      "zh": ""
+    },
+    {
+      "start": 180.43,
+      "duration": 1.21,
+      "text": "at jigsaw puzzles.",
+      "en": "at jigsaw puzzles.",
+      "zh": ""
+    },
+    {
+      "start": 181.64,
+      "duration": 2.04,
+      "text": "So if we wanted to make a robot that was as good",
+      "en": "So if we wanted to make a robot that was as good",
+      "zh": ""
+    },
+    {
+      "start": 183.68,
+      "duration": 2.59,
+      "text": "or better than us at puzzles, our daunting challenge",
+      "en": "or better than us at puzzles, our daunting challenge",
+      "zh": ""
+    },
+    {
+      "start": 186.27,
+      "duration": 1.46,
+      "text": "was to take the 200 million years",
+      "en": "was to take the 200 million years",
+      "zh": ""
+    },
+    {
+      "start": 187.73,
+      "duration": 1.88,
+      "text": "of evolution that enabled those four steps,",
+      "en": "of evolution that enabled those four steps,",
+      "zh": ""
+    },
+    {
+      "start": 189.61,
+      "duration": 1.91,
+      "text": "and figure out how to translate it into things",
+      "en": "and figure out how to translate it into things",
+      "zh": ""
+    },
+    {
+      "start": 191.52,
+      "duration": 1.09,
+      "text": "a robot can do",
+      "en": "a robot can do",
+      "zh": ""
+    },
+    {
+      "start": 192.61,
+      "duration": 1.79,
+      "text": "For number one, to pick up a piece",
+      "en": "For number one, to pick up a piece",
+      "zh": ""
+    },
+    {
+      "start": 194.4,
+      "duration": 2.34,
+      "text": "in lieu of an opposable thumb and 27 hand bones",
+      "en": "in lieu of an opposable thumb and 27 hand bones",
+      "zh": ""
+    },
+    {
+      "start": 196.74,
+      "duration": 2.13,
+      "text": "we used a tiny, specialized suction cup",
+      "en": "we used a tiny, specialized suction cup",
+      "zh": ""
+    },
+    {
+      "start": 198.87,
+      "duration": 2.96,
+      "text": "that's often used to manipulate small objects on assembly lines.",
+      "en": "that's often used to manipulate small objects on assembly lines.",
+      "zh": ""
+    },
+    {
+      "start": 201.83,
+      "duration": 3.25,
+      "text": "This solenoid here can cut off and then connect to this vacuum pump,",
+      "en": "This solenoid here can cut off and then connect to this vacuum pump,",
+      "zh": ""
+    },
+    {
+      "start": 205.08,
+      "duration": 3.34,
+      "text": "which means we could turn on the suction exactly when we want to pick it up,",
+      "en": "which means we could turn on the suction exactly when we want to pick it up,",
+      "zh": ""
+    },
+    {
+      "start": 208.42,
+      "duration": 1.0,
+      "text": "and then turn it off",
+      "en": "and then turn it off",
+      "zh": ""
+    },
+    {
+      "start": 209.42,
+      "duration": 1.71,
+      "text": "exactly when we want to let it go",
+      "en": "exactly when we want to let it go",
+      "zh": ""
+    },
+    {
+      "start": 211.13,
+      "duration": 0.79,
+      "text": "For number two",
+      "en": "For number two",
+      "zh": ""
+    },
+    {
+      "start": 211.92,
+      "duration": 2.21,
+      "text": "we attached the suction cup grabber of jigsaw",
+      "en": "we attached the suction cup grabber of jigsaw",
+      "zh": ""
+    },
+    {
+      "start": 214.13,
+      "duration": 2.0,
+      "text": "to this very fine tuned donut motor.",
+      "en": "to this very fine tuned donut motor.",
+      "zh": ""
+    },
+    {
+      "start": 216.13,
+      "duration": 4.17,
+      "text": "That's precise to an incredible 0.005 degrees.",
+      "en": "That's precise to an incredible 0.005 degrees.",
+      "zh": ""
+    },
+    {
+      "start": 220.3,
+      "duration": 3.09,
+      "text": "That means if you attached an infinitely sharp knife to the end of the motor,",
+      "en": "That means if you attached an infinitely sharp knife to the end of the motor,",
+      "zh": ""
+    },
+    {
+      "start": 223.39,
+      "duration": 4.17,
+      "text": "it could slice your circular birthday cake into over 65,000 pieces.",
+      "en": "it could slice your circular birthday cake into over 65,000 pieces.",
+      "zh": ""
+    },
+    {
+      "start": 227.56,
+      "duration": 4.0,
+      "text": "For number three to move a piece around, we modified our avid CNC router",
+      "en": "For number three to move a piece around, we modified our avid CNC router",
+      "zh": ""
+    },
+    {
+      "start": 231.56,
+      "duration": 2.8,
+      "text": "we're constantly using around here for our large builds",
+      "en": "we're constantly using around here for our large builds",
+      "zh": ""
+    },
+    {
+      "start": 234.36,
+      "duration": 3.46,
+      "text": "by upgrading the motors to ClearPath industrial servo motors.",
+      "en": "by upgrading the motors to ClearPath industrial servo motors.",
+      "zh": ""
+    },
+    {
+      "start": 237.82,
+      "duration": 2.46,
+      "text": "These are the same motors we used on the Dominator.",
+      "en": "These are the same motors we used on the Dominator.",
+      "zh": ""
+    },
+    {
+      "start": 240.28,
+      "duration": 1.54,
+      "text": "Our autonomous Domino robot.",
+      "en": "Our autonomous Domino robot.",
+      "zh": ""
+    },
+    {
+      "start": 241.82,
+      "duration": 1.17,
+      "text": "Once we did this, we saw it could",
+      "en": "Once we did this, we saw it could",
+      "zh": ""
+    },
+    {
+      "start": 242.99,
+      "duration": 4.34,
+      "text": "accurately place a puzzle piece down to .0005 inches",
+      "en": "accurately place a puzzle piece down to .0005 inches",
+      "zh": ""
+    },
+    {
+      "start": 247.33,
+      "duration": 2.17,
+      "text": "That's one tenth the width of a human hair,",
+      "en": "That's one tenth the width of a human hair,",
+      "zh": ""
+    },
+    {
+      "start": 249.5,
+      "duration": 1.12,
+      "text": "which means, as you can see here,",
+      "en": "which means, as you can see here,",
+      "zh": ""
+    },
+    {
+      "start": 250.62,
+      "duration": 2.8,
+      "text": "jigsaw can take the lead out of a mechanical pencil",
+      "en": "jigsaw can take the lead out of a mechanical pencil",
+      "zh": ""
+    },
+    {
+      "start": 253.42,
+      "duration": 4.09,
+      "text": "and move all around the table, and then come back and put the lead right back in.",
+      "en": "and move all around the table, and then come back and put the lead right back in.",
+      "zh": ""
+    },
+    {
+      "start": 257.51,
+      "duration": 1.5,
+      "text": "So now that jigsaw could pick up",
+      "en": "So now that jigsaw could pick up",
+      "zh": ""
+    },
+    {
+      "start": 259.01,
+      "duration": 3.13,
+      "text": "rotate, and move any piece with terrifying precision.",
+      "en": "rotate, and move any piece with terrifying precision.",
+      "zh": ""
+    },
+    {
+      "start": 262.14,
+      "duration": 4.33,
+      "text": "The only thing he lacked was step four, knowing exactly where to place the pieces.",
+      "en": "The only thing he lacked was step four, knowing exactly where to place the pieces.",
+      "zh": ""
+    },
+    {
+      "start": 266.47,
+      "duration": 3.34,
+      "text": "And as you might guess, this was by far the hardest one to solve",
+      "en": "And as you might guess, this was by far the hardest one to solve",
+      "zh": ""
+    },
+    {
+      "start": 269.81,
+      "duration": 3.38,
+      "text": "because all the subconscious work performed by neural pathways in our brain",
+      "en": "because all the subconscious work performed by neural pathways in our brain",
+      "zh": ""
+    },
+    {
+      "start": 273.19,
+      "duration": 2.42,
+      "text": "that handle pattern recognition and spatial reasoning, that makes finding",
+      "en": "that handle pattern recognition and spatial reasoning, that makes finding",
+      "zh": ""
+    },
+    {
+      "start": 275.61,
+      "duration": 2.96,
+      "text": "that makes finding the right piece feel so obvious to us",
+      "en": "that makes finding the right piece feel so obvious to us",
+      "zh": ""
+    },
+    {
+      "start": 278.57,
+      "duration": 2.38,
+      "text": "is a really, really hard problem to solve",
+      "en": "is a really, really hard problem to solve",
+      "zh": ""
+    },
+    {
+      "start": 280.95,
+      "duration": 2.21,
+      "text": "using just computer logic and code",
+      "en": "using just computer logic and code",
+      "zh": ""
+    },
+    {
+      "start": 283.16,
+      "duration": 1.04,
+      "text": "To make matters worse",
+      "en": "To make matters worse",
+      "zh": ""
+    },
+    {
+      "start": 284.2,
+      "duration": 3.55,
+      "text": "just as we were really struggling to come up with a good solution to this problem,",
+      "en": "just as we were really struggling to come up with a good solution to this problem,",
+      "zh": ""
+    },
+    {
+      "start": 287.75,
+      "duration": 4.12,
+      "text": "the most devastating thing that can happen as a YouTuber actually happened.",
+      "en": "the most devastating thing that can happen as a YouTuber actually happened.",
+      "zh": ""
+    },
+    {
+      "start": 291.87,
+      "duration": 2.67,
+      "text": "My friend Shane from the YouTube channel Stuff Made Here",
+      "en": "My friend Shane from the YouTube channel Stuff Made Here",
+      "zh": ""
+    },
+    {
+      "start": 294.54,
+      "duration": 4.01,
+      "text": "released a video about, you guessed it, a machine that solves jigsaw puzzles.",
+      "en": "released a video about, you guessed it, a machine that solves jigsaw puzzles.",
+      "zh": ""
+    },
+    {
+      "start": 298.55,
+      "duration": 1.79,
+      "text": "And what you should know about Shane is he's probably",
+      "en": "And what you should know about Shane is he's probably",
+      "zh": ""
+    },
+    {
+      "start": 300.34,
+      "duration": 2.34,
+      "text": "the most technically capable engineer I know.",
+      "en": "the most technically capable engineer I know.",
+      "zh": ""
+    },
+    {
+      "start": 302.68,
+      "duration": 2.88,
+      "text": "If there are like 15 categories that make you a good engineer,",
+      "en": "If there are like 15 categories that make you a good engineer,",
+      "zh": ""
+    },
+    {
+      "start": 305.56,
+      "duration": 3.67,
+      "text": "my knowledge goes pretty deep in maybe four, and I'm a generalist in the rest",
+      "en": "my knowledge goes pretty deep in maybe four, and I'm a generalist in the rest",
+      "zh": ""
+    },
+    {
+      "start": 309.23,
+      "duration": 3.21,
+      "text": "But then I have people like Ian and others on my team who help fill in the gaps.",
+      "en": "But then I have people like Ian and others on my team who help fill in the gaps.",
+      "zh": ""
+    },
+    {
+      "start": 312.44,
+      "duration": 3.21,
+      "text": "Shane, however, is somehow an expert in all 15",
+      "en": "Shane, however, is somehow an expert in all 15",
+      "zh": ""
+    },
+    {
+      "start": 315.65,
+      "duration": 2.12,
+      "text": "which is why you should subscribe to his channel.",
+      "en": "which is why you should subscribe to his channel.",
+      "zh": ""
+    },
+    {
+      "start": 317.77,
+      "duration": 1.8,
+      "text": "When I told him he beat me to the finish line,",
+      "en": "When I told him he beat me to the finish line,",
+      "zh": ""
+    },
+    {
+      "start": 319.57,
+      "duration": 3.5,
+      "text": "he told me he personally wasn't satisfied with where he landed the project",
+      "en": "he told me he personally wasn't satisfied with where he landed the project",
+      "zh": ""
+    },
+    {
+      "start": 323.07,
+      "duration": 2.8,
+      "text": "and encouraged me to keep trying. So I persevered.",
+      "en": "and encouraged me to keep trying. So I persevered.",
+      "zh": ""
+    },
+    {
+      "start": 325.87,
+      "duration": 3.46,
+      "text": "And that's when our fortunes improved, because while filming a video in Rwanda",
+      "en": "And that's when our fortunes improved, because while filming a video in Rwanda",
+      "zh": ""
+    },
+    {
+      "start": 329.33,
+      "duration": 3.04,
+      "text": "covering the work done at Zipline, where they deliver life saving blood",
+      "en": "covering the work done at Zipline, where they deliver life saving blood",
+      "zh": ""
+    },
+    {
+      "start": 332.37,
+      "duration": 2.84,
+      "text": "using autonomous drones, I got to spend some time with Ryan,",
+      "en": "using autonomous drones, I got to spend some time with Ryan,",
+      "zh": ""
+    },
+    {
+      "start": 335.21,
+      "duration": 3.71,
+      "text": "their co-founder, who's responsible for all their complicated software algorithms.",
+      "en": "their co-founder, who's responsible for all their complicated software algorithms.",
+      "zh": ""
+    },
+    {
+      "start": 338.92,
+      "duration": 1.71,
+      "text": "And after hearing all of our challenges",
+      "en": "And after hearing all of our challenges",
+      "zh": ""
+    },
+    {
+      "start": 340.63,
+      "duration": 3.59,
+      "text": "by the time the plane landed on the way back home, he'd coded up a solution",
+      "en": "by the time the plane landed on the way back home, he'd coded up a solution",
+      "zh": ""
+    },
+    {
+      "start": 344.22,
+      "duration": 3.42,
+      "text": "that ended up being the backbone that unlocked everything for us.",
+      "en": "that ended up being the backbone that unlocked everything for us.",
+      "zh": ""
+    },
+    {
+      "start": 347.64,
+      "duration": 1.96,
+      "text": "Basically, instead of trying to compete with our brains",
+      "en": "Basically, instead of trying to compete with our brains",
+      "zh": ""
+    },
+    {
+      "start": 349.6,
+      "duration": 2.17,
+      "text": "very complicated pattern-matching neural network",
+      "en": "very complicated pattern-matching neural network",
+      "zh": ""
+    },
+    {
+      "start": 351.77,
+      "duration": 1.58,
+      "text": "we took a much more simple approach",
+      "en": "we took a much more simple approach",
+      "zh": ""
+    },
+    {
+      "start": 353.35,
+      "duration": 2.42,
+      "text": "by completely ignoring what was printed on the puzzle",
+      "en": "by completely ignoring what was printed on the puzzle",
+      "zh": ""
+    },
+    {
+      "start": 355.77,
+      "duration": 1.5,
+      "text": "and just looked at the edges",
+      "en": "and just looked at the edges",
+      "zh": ""
+    },
+    {
+      "start": 357.27,
+      "duration": 0.84,
+      "text": "so while painting it white",
+      "en": "so while painting it white",
+      "zh": ""
+    },
+    {
+      "start": 358.11,
+      "duration": 3.13,
+      "text": "makes it more impressive and way harder to solve for us humans.",
+      "en": "makes it more impressive and way harder to solve for us humans.",
+      "zh": ""
+    },
+    {
+      "start": 361.24,
+      "duration": 1.54,
+      "text": "It would make no difference to jigsaw.",
+      "en": "It would make no difference to jigsaw.",
+      "zh": ""
+    },
+    {
+      "start": 362.78,
+      "duration": 3.04,
+      "text": "So to do this edge analysis, we first need a set of eyes.",
+      "en": "So to do this edge analysis, we first need a set of eyes.",
+      "zh": ""
+    },
+    {
+      "start": 365.82,
+      "duration": 0.96,
+      "text": "but not those eyes.",
+      "en": "but not those eyes.",
+      "zh": ""
+    },
+    {
+      "start": 366.78,
+      "duration": 1.96,
+      "text": "Those are just decorative because it's no secret",
+      "en": "Those are just decorative because it's no secret",
+      "zh": ""
+    },
+    {
+      "start": 368.74,
+      "duration": 1.88,
+      "text": "I love a good pair of googly eyes.",
+      "en": "I love a good pair of googly eyes.",
+      "zh": ""
+    },
+    {
+      "start": 370.62,
+      "duration": 2.84,
+      "text": "And these were our most advanced set of googly eyes ever.",
+      "en": "And these were our most advanced set of googly eyes ever.",
+      "zh": ""
+    },
+    {
+      "start": 373.46,
+      "duration": 3.0,
+      "text": "Because the googly is controlled by two servo motors",
+      "en": "Because the googly is controlled by two servo motors",
+      "zh": ""
+    },
+    {
+      "start": 376.46,
+      "duration": 1.0,
+      "text": "jigsaws real eyes",
+      "en": "jigsaws real eyes",
+      "zh": ""
+    },
+    {
+      "start": 377.46,
+      "duration": 1.08,
+      "text": "were just a cell phone camera.",
+      "en": "were just a cell phone camera.",
+      "zh": ""
+    },
+    {
+      "start": 378.54,
+      "duration": 3.34,
+      "text": "The idea was to run a serpentine pattern over all the pieces",
+      "en": "The idea was to run a serpentine pattern over all the pieces",
+      "zh": ""
+    },
+    {
+      "start": 381.88,
+      "duration": 3.42,
+      "text": "and take a picture of each one, and then isolate them against the background",
+      "en": "and take a picture of each one, and then isolate them against the background",
+      "zh": ""
+    },
+    {
+      "start": 385.3,
+      "duration": 3.3,
+      "text": "then convert the edges of every piece into four splines.",
+      "en": "then convert the edges of every piece into four splines.",
+      "zh": ""
+    },
+    {
+      "start": 388.6,
+      "duration": 2.66,
+      "text": "So if we wanted to find a match, say for this edge,",
+      "en": "So if we wanted to find a match, say for this edge,",
+      "zh": ""
+    },
+    {
+      "start": 391.26,
+      "duration": 3.22,
+      "text": "we would just need to take that spline and then find the puzzle piece",
+      "en": "we would just need to take that spline and then find the puzzle piece",
+      "zh": ""
+    },
+    {
+      "start": 394.48,
+      "duration": 3.58,
+      "text": "that had a corresponding edge spline that matched up perfectly.",
+      "en": "that had a corresponding edge spline that matched up perfectly.",
+      "zh": ""
+    },
+    {
+      "start": 398.06,
+      "duration": 2.88,
+      "text": "Because matching pieces share identical edges.",
+      "en": "Because matching pieces share identical edges.",
+      "zh": ""
+    },
+    {
+      "start": 400.94,
+      "duration": 3.25,
+      "text": "Now, even for a small, simple puzzle like this, that's over 200",
+      "en": "Now, even for a small, simple puzzle like this, that's over 200",
+      "zh": ""
+    },
+    {
+      "start": 404.19,
+      "duration": 1.88,
+      "text": "edge comparisons that need to be made.",
+      "en": "edge comparisons that need to be made.",
+      "zh": ""
+    },
+    {
+      "start": 406.07,
+      "duration": 2.92,
+      "text": "So the first step is just to look at the overall length of each spline",
+      "en": "So the first step is just to look at the overall length of each spline",
+      "zh": ""
+    },
+    {
+      "start": 408.99,
+      "duration": 3.51,
+      "text": "and disregard any edges that were significantly longer or shorter,",
+      "en": "and disregard any edges that were significantly longer or shorter,",
+      "zh": ""
+    },
+    {
+      "start": 412.5,
+      "duration": 3.21,
+      "text": "and that typically reduced the solution space by about 50%.",
+      "en": "and that typically reduced the solution space by about 50%.",
+      "zh": ""
+    },
+    {
+      "start": 415.71,
+      "duration": 2.83,
+      "text": "Then for the remaining candidates, we would overlay the splines",
+      "en": "Then for the remaining candidates, we would overlay the splines",
+      "zh": ""
+    },
+    {
+      "start": 418.54,
+      "duration": 3.13,
+      "text": "and then quantify the mismatch by calculating the area",
+      "en": "and then quantify the mismatch by calculating the area",
+      "zh": ""
+    },
+    {
+      "start": 421.67,
+      "duration": 1.5,
+      "text": "between the two edge splines.",
+      "en": "between the two edge splines.",
+      "zh": ""
+    },
+    {
+      "start": 423.17,
+      "duration": 4.42,
+      "text": "So two pieces that were obviously not a fit would have a lot of overlapping area,",
+      "en": "So two pieces that were obviously not a fit would have a lot of overlapping area,",
+      "zh": ""
+    },
+    {
+      "start": 427.59,
+      "duration": 2.01,
+      "text": "whereas two pieces that were a perfect match",
+      "en": "whereas two pieces that were a perfect match",
+      "zh": ""
+    },
+    {
+      "start": 429.6,
+      "duration": 2.16,
+      "text": "the overlap area would essentially be zero.",
+      "en": "the overlap area would essentially be zero.",
+      "zh": ""
+    },
+    {
+      "start": 431.76,
+      "duration": 3.51,
+      "text": "From there, we looked at all the possible spline matchups and ranked the pieces",
+      "en": "From there, we looked at all the possible spline matchups and ranked the pieces",
+      "zh": ""
+    },
+    {
+      "start": 435.27,
+      "duration": 3.67,
+      "text": "as potential matches with each other from least overlap area to most.",
+      "en": "as potential matches with each other from least overlap area to most.",
+      "zh": ""
+    },
+    {
+      "start": 438.94,
+      "duration": 1.12,
+      "text": "Then jigsaw would start",
+      "en": "Then jigsaw would start",
+      "zh": ""
+    },
+    {
+      "start": 440.06,
+      "duration": 3.97,
+      "text": "with one of the four corner pieces and map out the potential solution space,",
+      "en": "with one of the four corner pieces and map out the potential solution space,",
+      "zh": ""
+    },
+    {
+      "start": 444.03,
+      "duration": 2.16,
+      "text": "which you could picture visually like this.",
+      "en": "which you could picture visually like this.",
+      "zh": ""
+    },
+    {
+      "start": 446.19,
+      "duration": 1.01,
+      "text": "So the correct solution",
+      "en": "So the correct solution",
+      "zh": ""
+    },
+    {
+      "start": 447.2,
+      "duration": 3.87,
+      "text": "is the only one that finds a good fit for all 12 pieces of the puzzle.",
+      "en": "is the only one that finds a good fit for all 12 pieces of the puzzle.",
+      "zh": ""
+    },
+    {
+      "start": 451.07,
+      "duration": 2.8,
+      "text": "But as you can see, there's lots of forks and dead ends.",
+      "en": "But as you can see, there's lots of forks and dead ends.",
+      "zh": ""
+    },
+    {
+      "start": 453.87,
+      "duration": 3.34,
+      "text": "And that's because sometimes it was really obvious what the matching piece was.",
+      "en": "And that's because sometimes it was really obvious what the matching piece was.",
+      "zh": ""
+    },
+    {
+      "start": 457.21,
+      "duration": 2.79,
+      "text": "But sometimes there were 3 or 4 close contenders",
+      "en": "But sometimes there were 3 or 4 close contenders",
+      "zh": ""
+    },
+    {
+      "start": 460.0,
+      "duration": 3.63,
+      "text": "because the edges are so similar, and our pictures weren't always perfect,",
+      "en": "because the edges are so similar, and our pictures weren't always perfect,",
+      "zh": ""
+    },
+    {
+      "start": 463.63,
+      "duration": 1.42,
+      "text": "so jigsaw would always pick",
+      "en": "so jigsaw would always pick",
+      "zh": ""
+    },
+    {
+      "start": 465.05,
+      "duration": 2.63,
+      "text": "what seemed like the best match for a set of two pieces.",
+      "en": "what seemed like the best match for a set of two pieces.",
+      "zh": ""
+    },
+    {
+      "start": 467.68,
+      "duration": 2.37,
+      "text": "But at some point the puzzle would only be halfway done",
+      "en": "But at some point the puzzle would only be halfway done",
+      "zh": ""
+    },
+    {
+      "start": 470.05,
+      "duration": 3.09,
+      "text": "and there would be no more good candidates to match the edges",
+      "en": "and there would be no more good candidates to match the edges",
+      "zh": ""
+    },
+    {
+      "start": 473.14,
+      "duration": 1.5,
+      "text": "to continue solving the puzzle.",
+      "en": "to continue solving the puzzle.",
+      "zh": ""
+    },
+    {
+      "start": 474.64,
+      "duration": 1.42,
+      "text": "And that's a dead giveaway",
+      "en": "And that's a dead giveaway",
+      "zh": ""
+    },
+    {
+      "start": 476.06,
+      "duration": 2.88,
+      "text": "he chose the wrong piece somewhere previously up the chain,",
+      "en": "he chose the wrong piece somewhere previously up the chain,",
+      "zh": ""
+    },
+    {
+      "start": 478.94,
+      "duration": 1.0,
+      "text": "so he would work his way",
+      "en": "so he would work his way",
+      "zh": ""
+    },
+    {
+      "start": 479.94,
+      "duration": 3.12,
+      "text": "back to the closest fork and then choose the next best option,",
+      "en": "back to the closest fork and then choose the next best option,",
+      "zh": ""
+    },
+    {
+      "start": 483.06,
+      "duration": 1.67,
+      "text": "and he would keep doing this over and over",
+      "en": "and he would keep doing this over and over",
+      "zh": ""
+    },
+    {
+      "start": 484.73,
+      "duration": 3.51,
+      "text": "until he found a path that finally connected all 12 pieces",
+      "en": "until he found a path that finally connected all 12 pieces",
+      "zh": ""
+    },
+    {
+      "start": 488.24,
+      "duration": 3.58,
+      "text": "with essentially zero spline mismatches at every connection.",
+      "en": "with essentially zero spline mismatches at every connection.",
+      "zh": ""
+    },
+    {
+      "start": 491.82,
+      "duration": 0.75,
+      "text": "And then at that point,",
+      "en": "And then at that point,",
+      "zh": ""
+    },
+    {
+      "start": 492.57,
+      "duration": 1.84,
+      "text": "because he took pictures of all the pieces,",
+      "en": "because he took pictures of all the pieces,",
+      "zh": ""
+    },
+    {
+      "start": 494.41,
+      "duration": 2.84,
+      "text": "he knows exactly where each of them is starting from over here.",
+      "en": "he knows exactly where each of them is starting from over here.",
+      "zh": ""
+    },
+    {
+      "start": 497.25,
+      "duration": 2.58,
+      "text": "And he can simply assemble the puzzle using the precision",
+      "en": "And he can simply assemble the puzzle using the precision",
+      "zh": ""
+    },
+    {
+      "start": 499.83,
+      "duration": 2.59,
+      "text": "he demonstrated back in steps one through three.",
+      "en": "he demonstrated back in steps one through three.",
+      "zh": ""
+    },
+    {
+      "start": 502.42,
+      "duration": 3.29,
+      "text": "So it was working on a 12 piece puzzle, but now for the real challenge.",
+      "en": "So it was working on a 12 piece puzzle, but now for the real challenge.",
+      "zh": ""
+    },
+    {
+      "start": 505.71,
+      "duration": 3.72,
+      "text": "Could we scale that up to a 1000 piece, all-white puzzle?",
+      "en": "Could we scale that up to a 1000 piece, all-white puzzle?",
+      "zh": ""
+    },
+    {
+      "start": 509.43,
+      "duration": 3.08,
+      "text": "Since our ultimate goal was to dominate the world's fastest human puzzle solver.",
+      "en": "Since our ultimate goal was to dominate the world's fastest human puzzle solver.",
+      "zh": ""
+    },
+    {
+      "start": 512.51,
+      "duration": 2.59,
+      "text": "We figured maxing out the number of pieces would give the advantage",
+      "en": "We figured maxing out the number of pieces would give the advantage",
+      "zh": ""
+    },
+    {
+      "start": 515.1,
+      "duration": 1.83,
+      "text": "to the non-overwhelmable robot.",
+      "en": "to the non-overwhelmable robot.",
+      "zh": ""
+    },
+    {
+      "start": 516.93,
+      "duration": 2.88,
+      "text": "So after a couple more long weeks filled with plenty of late nights",
+      "en": "So after a couple more long weeks filled with plenty of late nights",
+      "zh": ""
+    },
+    {
+      "start": 519.81,
+      "duration": 1.96,
+      "text": "working through all the challenges that come from",
+      "en": "working through all the challenges that come from",
+      "zh": ""
+    },
+    {
+      "start": 521.77,
+      "duration": 2.38,
+      "text": "scaling up a simple prototype 100 times over...",
+      "en": "scaling up a simple prototype 100 times over...",
+      "zh": ""
+    },
+    {
+      "start": 524.15,
+      "duration": 0.79,
+      "text": "we landed here.",
+      "en": "we landed here.",
+      "zh": ""
+    },
+    {
+      "start": 524.94,
+      "duration": 1.29,
+      "text": "It's 3 a.m.",
+      "en": "It's 3 a.m.",
+      "zh": ""
+    },
+    {
+      "start": 526.23,
+      "duration": 1.55,
+      "text": "after three years.",
+      "en": "after three years.",
+      "zh": ""
+    },
+    {
+      "start": 527.78,
+      "duration": 3.46,
+      "text": "We're at this moment about to fully solve it for the first time.",
+      "en": "We're at this moment about to fully solve it for the first time.",
+      "zh": ""
+    },
+    {
+      "start": 531.24,
+      "duration": 1.29,
+      "text": "What's our confidence level?",
+      "en": "What's our confidence level?",
+      "zh": ""
+    },
+    {
+      "start": 532.53,
+      "duration": 1.29,
+      "text": "I'd say 100%.",
+      "en": "I'd say 100%.",
+      "zh": ""
+    },
+    {
+      "start": 533.82,
+      "duration": 0.92,
+      "text": "Wow!",
+      "en": "Wow!",
+      "zh": ""
+    },
+    {
+      "start": 534.74,
+      "duration": 2.0,
+      "text": "The code always works on the first try",
+      "en": "The code always works on the first try",
+      "zh": ""
+    },
+    {
+      "start": 536.74,
+      "duration": 2.63,
+      "text": "And so with that very heavy dose of sarcasm,",
+      "en": "And so with that very heavy dose of sarcasm,",
+      "zh": ""
+    },
+    {
+      "start": 539.37,
+      "duration": 3.25,
+      "text": "jigsaw got to work starting first with taking all the pictures.",
+      "en": "jigsaw got to work starting first with taking all the pictures.",
+      "zh": ""
+    },
+    {
+      "start": 542.62,
+      "duration": 1.88,
+      "text": "And that took about 1.5 hours.",
+      "en": "And that took about 1.5 hours.",
+      "zh": ""
+    },
+    {
+      "start": 544.5,
+      "duration": 3.59,
+      "text": "And after we had the pictures, and we did the prep work on them I mentioned earlier",
+      "en": "And after we had the pictures, and we did the prep work on them I mentioned earlier",
+      "zh": ""
+    },
+    {
+      "start": 548.09,
+      "duration": 4.0,
+      "text": "it was time for jigsaw to actually try and solve the 1000 piece puzzle.",
+      "en": "it was time for jigsaw to actually try and solve the 1000 piece puzzle.",
+      "zh": ""
+    },
+    {
+      "start": 552.09,
+      "duration": 3.59,
+      "text": "And astoundingly, while running on just a simple laptop",
+      "en": "And astoundingly, while running on just a simple laptop",
+      "zh": ""
+    },
+    {
+      "start": 555.68,
+      "duration": 2.33,
+      "text": "the actual time to figure out the correct placement",
+      "en": "the actual time to figure out the correct placement",
+      "zh": ""
+    },
+    {
+      "start": 558.01,
+      "duration": 2.01,
+      "text": "of all 1000 pieces",
+      "en": "of all 1000 pieces",
+      "zh": ""
+    },
+    {
+      "start": 560.02,
+      "duration": 1.12,
+      "text": "was less than a minute.",
+      "en": "was less than a minute.",
+      "zh": ""
+    },
+    {
+      "start": 561.14,
+      "duration": 1.8,
+      "text": "And I love how you can actually see him",
+      "en": "And I love how you can actually see him",
+      "zh": ""
+    },
+    {
+      "start": 562.94,
+      "duration": 2.37,
+      "text": "working his way around the puzzle from the top corner",
+      "en": "working his way around the puzzle from the top corner",
+      "zh": ""
+    },
+    {
+      "start": 565.31,
+      "duration": 2.88,
+      "text": "solving, and then going back each time he hits a dead end",
+      "en": "solving, and then going back each time he hits a dead end",
+      "zh": ""
+    },
+    {
+      "start": 568.19,
+      "duration": 3.67,
+      "text": "to try and find a different fork in the solution space, until he finds",
+      "en": "to try and find a different fork in the solution space, until he finds",
+      "zh": ""
+    },
+    {
+      "start": 571.86,
+      "duration": 2.88,
+      "text": "the only combination that makes them all fit perfectly.",
+      "en": "the only combination that makes them all fit perfectly.",
+      "zh": ""
+    },
+    {
+      "start": 574.74,
+      "duration": 1.63,
+      "text": "So at this point, all that was left for",
+      "en": "So at this point, all that was left for",
+      "zh": ""
+    },
+    {
+      "start": 576.37,
+      "duration": 3.88,
+      "text": "jigsaw to do was get to work placing the pieces, since he now knew",
+      "en": "jigsaw to do was get to work placing the pieces, since he now knew",
+      "zh": ""
+    },
+    {
+      "start": 580.25,
+      "duration": 2.04,
+      "text": "where every single one needed to go",
+      "en": "where every single one needed to go",
+      "zh": ""
+    },
+    {
+      "start": 582.29,
+      "duration": 1.42,
+      "text": "and things were looking really good.",
+      "en": "and things were looking really good.",
+      "zh": ""
+    },
+    {
+      "start": 583.71,
+      "duration": 3.29,
+      "text": "And just as we made the mistake of having some kind of glimmer of hope,",
+      "en": "And just as we made the mistake of having some kind of glimmer of hope,",
+      "zh": ""
+    },
+    {
+      "start": 587.0,
+      "duration": 2.5,
+      "text": "a single piece didn't quite snap into place.",
+      "en": "a single piece didn't quite snap into place.",
+      "zh": ""
+    },
+    {
+      "start": 589.5,
+      "duration": 2.55,
+      "text": "And then a bunch more followed right behind.",
+      "en": "And then a bunch more followed right behind.",
+      "zh": ""
+    },
+    {
+      "start": 592.05,
+      "duration": 2.08,
+      "text": "And upon troubleshooting, what we discovered was",
+      "en": "And upon troubleshooting, what we discovered was",
+      "zh": ""
+    },
+    {
+      "start": 594.13,
+      "duration": 2.26,
+      "text": "there were a few very small sources of error",
+      "en": "there were a few very small sources of error",
+      "zh": ""
+    },
+    {
+      "start": 596.39,
+      "duration": 1.75,
+      "text": "that tended to compound on each other.",
+      "en": "that tended to compound on each other.",
+      "zh": ""
+    },
+    {
+      "start": 598.14,
+      "duration": 1.5,
+      "text": "The more the puzzle was assembled.",
+      "en": "The more the puzzle was assembled.",
+      "zh": ""
+    },
+    {
+      "start": 599.64,
+      "duration": 1.88,
+      "text": "So, for example, there's always a little slop",
+      "en": "So, for example, there's always a little slop",
+      "zh": ""
+    },
+    {
+      "start": 601.56,
+      "duration": 4.0,
+      "text": "between any two puzzle pieces, which adds up over a lot of pieces.",
+      "en": "between any two puzzle pieces, which adds up over a lot of pieces.",
+      "zh": ""
+    },
+    {
+      "start": 605.56,
+      "duration": 3.34,
+      "text": "Or another source of error is the whole puzzle itself shifting slightly",
+      "en": "Or another source of error is the whole puzzle itself shifting slightly",
+      "zh": ""
+    },
+    {
+      "start": 608.9,
+      "duration": 1.63,
+      "text": "when certain pieces were laid down.",
+      "en": "when certain pieces were laid down.",
+      "zh": ""
+    },
+    {
+      "start": 610.53,
+      "duration": 2.33,
+      "text": "And this led us the realized jigsaw was actually still missing",
+      "en": "And this led us the realized jigsaw was actually still missing",
+      "zh": ""
+    },
+    {
+      "start": 612.86,
+      "duration": 3.38,
+      "text": "one final important feature us impressive humans possess",
+      "en": "one final important feature us impressive humans possess",
+      "zh": ""
+    },
+    {
+      "start": 616.24,
+      "duration": 0.96,
+      "text": "Because if you think about it,",
+      "en": "Because if you think about it,",
+      "zh": ""
+    },
+    {
+      "start": 617.2,
+      "duration": 1.38,
+      "text": "when we assemble a puzzle",
+      "en": "when we assemble a puzzle",
+      "zh": ""
+    },
+    {
+      "start": 618.58,
+      "duration": 2.79,
+      "text": "we first just approximately place the piece where it needs to go",
+      "en": "we first just approximately place the piece where it needs to go",
+      "zh": ""
+    },
+    {
+      "start": 621.37,
+      "duration": 3.63,
+      "text": "and then we rely on those highly sensitive nerves in our fingertips",
+      "en": "and then we rely on those highly sensitive nerves in our fingertips",
+      "zh": ""
+    },
+    {
+      "start": 625.0,
+      "duration": 2.04,
+      "text": "to form a feedback loop with the brain",
+      "en": "to form a feedback loop with the brain",
+      "zh": ""
+    },
+    {
+      "start": 627.04,
+      "duration": 4.05,
+      "text": "to make really tiny adjustments until we feel the piece fall into place",
+      "en": "to make really tiny adjustments until we feel the piece fall into place",
+      "zh": ""
+    },
+    {
+      "start": 631.09,
+      "duration": 3.0,
+      "text": "and then a double tap is the customary move to make it official",
+      "en": "and then a double tap is the customary move to make it official",
+      "zh": ""
+    },
+    {
+      "start": 634.09,
+      "duration": 3.38,
+      "text": "But since jigsaw doesn't have nerves in his gripper, we approximated",
+      "en": "But since jigsaw doesn't have nerves in his gripper, we approximated",
+      "zh": ""
+    },
+    {
+      "start": 637.47,
+      "duration": 3.13,
+      "text": "that with the z height encoder on a spring-loaded linear slider",
+      "en": "that with the z height encoder on a spring-loaded linear slider",
+      "zh": ""
+    },
+    {
+      "start": 640.6,
+      "duration": 1.83,
+      "text": "and that encoder is so accurate",
+      "en": "and that encoder is so accurate",
+      "zh": ""
+    },
+    {
+      "start": 642.43,
+      "duration": 3.17,
+      "text": "if you slice a human hair lengthwise into 50 pieces,",
+      "en": "if you slice a human hair lengthwise into 50 pieces,",
+      "zh": ""
+    },
+    {
+      "start": 645.6,
+      "duration": 4.47,
+      "text": "jigsaw could feel that tiny hair slice if it was resting on top of the table.",
+      "en": "jigsaw could feel that tiny hair slice if it was resting on top of the table.",
+      "zh": ""
+    },
+    {
+      "start": 650.07,
+      "duration": 1.66,
+      "text": "So now if jigsaw went to place a piece",
+      "en": "So now if jigsaw went to place a piece",
+      "zh": ""
+    },
+    {
+      "start": 651.73,
+      "duration": 2.34,
+      "text": "and he could feel it hadn't quite snapped into place",
+      "en": "and he could feel it hadn't quite snapped into place",
+      "zh": ""
+    },
+    {
+      "start": 654.07,
+      "duration": 1.33,
+      "text": "because it was resting too high,",
+      "en": "because it was resting too high,",
+      "zh": ""
+    },
+    {
+      "start": 655.4,
+      "duration": 3.34,
+      "text": "he would employ a wiggle routine where it would just barely translate",
+      "en": "he would employ a wiggle routine where it would just barely translate",
+      "zh": ""
+    },
+    {
+      "start": 658.74,
+      "duration": 3.8,
+      "text": "the piece into various directions until he got the feedback from his finger",
+      "en": "the piece into various directions until he got the feedback from his finger",
+      "zh": ""
+    },
+    {
+      "start": 662.54,
+      "duration": 1.67,
+      "text": "that the piece was fully set down",
+      "en": "that the piece was fully set down",
+      "zh": ""
+    },
+    {
+      "start": 664.21,
+      "duration": 2.12,
+      "text": "at which point he would give it the customary final tap",
+      "en": "at which point he would give it the customary final tap",
+      "zh": ""
+    },
+    {
+      "start": 666.33,
+      "duration": 2.09,
+      "text": "like any puzzle solver worth his salt.",
+      "en": "like any puzzle solver worth his salt.",
+      "zh": ""
+    },
+    {
+      "start": 668.42,
+      "duration": 2.5,
+      "text": "And so, with Jigsaw's new hardware and software upgrades",
+      "en": "And so, with Jigsaw's new hardware and software upgrades",
+      "zh": ""
+    },
+    {
+      "start": 670.92,
+      "duration": 2.21,
+      "text": "he was ready for one more final attempt.",
+      "en": "he was ready for one more final attempt.",
+      "zh": ""
+    },
+    {
+      "start": 673.13,
+      "duration": 1.75,
+      "text": "And I should mention, by the way, from a combined",
+      "en": "And I should mention, by the way, from a combined",
+      "zh": ""
+    },
+    {
+      "start": 674.88,
+      "duration": 3.25,
+      "text": "hardware software perspective, this is by far the most challenging",
+      "en": "hardware software perspective, this is by far the most challenging",
+      "zh": ""
+    },
+    {
+      "start": 678.13,
+      "duration": 1.97,
+      "text": "build ever on my channel, and that includes",
+      "en": "build ever on my channel, and that includes",
+      "zh": ""
+    },
+    {
+      "start": 680.1,
+      "duration": 3.67,
+      "text": "the auto Bullseye dartboard and the automatic Domino Robot Dominator.",
+      "en": "the auto Bullseye dartboard and the automatic Domino Robot Dominator.",
+      "zh": ""
+    },
+    {
+      "start": 683.77,
+      "duration": 1.37,
+      "text": "So if you really want to appreciate",
+      "en": "So if you really want to appreciate",
+      "zh": ""
+    },
+    {
+      "start": 685.14,
+      "duration": 2.8,
+      "text": "all the juicy details, including all of the source code,",
+      "en": "all the juicy details, including all of the source code,",
+      "zh": ""
+    },
+    {
+      "start": 687.94,
+      "duration": 2.67,
+      "text": "you can find a link to the full write up in the video description.",
+      "en": "you can find a link to the full write up in the video description.",
+      "zh": ""
+    },
+    {
+      "start": 690.61,
+      "duration": 2.96,
+      "text": "You boys ready to try this again officially for the 48th time?",
+      "en": "You boys ready to try this again officially for the 48th time?",
+      "zh": ""
+    },
+    {
+      "start": 693.57,
+      "duration": 1.17,
+      "text": "Better work this time.",
+      "en": "Better work this time.",
+      "zh": ""
+    },
+    {
+      "start": 694.74,
+      "duration": 1.46,
+      "text": "What's the confidence levels at?",
+      "en": "What's the confidence levels at?",
+      "zh": ""
+    },
+    {
+      "start": 696.2,
+      "duration": 0.62,
+      "text": "100%.",
+      "en": "100%.",
+      "zh": ""
+    },
+    {
+      "start": 696.82,
+      "duration": 1.67,
+      "text": "Have you learned nothing Ian?!",
+      "en": "Have you learned nothing Ian?!",
+      "zh": ""
+    },
+    {
+      "start": 698.49,
+      "duration": 1.21,
+      "text": "Hit the dang button",
+      "en": "Hit the dang button",
+      "zh": ""
+    },
+    {
+      "start": 699.7,
+      "duration": 2.38,
+      "text": "So jigsaw got to work and after taking pictures",
+      "en": "So jigsaw got to work and after taking pictures",
+      "zh": ""
+    },
+    {
+      "start": 702.08,
+      "duration": 3.17,
+      "text": "of all the pieces, he once again actually solved the whole puzzle",
+      "en": "of all the pieces, he once again actually solved the whole puzzle",
+      "zh": ""
+    },
+    {
+      "start": 705.25,
+      "duration": 2.16,
+      "text": "in a mere 55 seconds",
+      "en": "in a mere 55 seconds",
+      "zh": ""
+    },
+    {
+      "start": 707.41,
+      "duration": 1.8,
+      "text": "which meant it was time to put them all together.",
+      "en": "which meant it was time to put them all together.",
+      "zh": ""
+    },
+    {
+      "start": 709.21,
+      "duration": 1.5,
+      "text": "And thanks to the wiggle routine",
+      "en": "And thanks to the wiggle routine",
+      "zh": ""
+    },
+    {
+      "start": 710.71,
+      "duration": 1.38,
+      "text": "you got this jigsaw.",
+      "en": "you got this jigsaw.",
+      "zh": ""
+    },
+    {
+      "start": 712.09,
+      "duration": 2.87,
+      "text": "The first 20% was knocked out in less than an hour.",
+      "en": "The first 20% was knocked out in less than an hour.",
+      "zh": ""
+    },
+    {
+      "start": 715.34,
+      "duration": 2.08,
+      "text": "Okay, I guess we could sit back down",
+      "en": "Okay, I guess we could sit back down",
+      "zh": ""
+    },
+    {
+      "start": 717.42,
+      "duration": 2.09,
+      "text": "And that meant while jigsaw was doing all the hard work,",
+      "en": "And that meant while jigsaw was doing all the hard work,",
+      "zh": ""
+    },
+    {
+      "start": 719.51,
+      "duration": 2.63,
+      "text": "I just get to kick back and relax in a state of Zen",
+      "en": "I just get to kick back and relax in a state of Zen",
+      "zh": ""
+    },
+    {
+      "start": 722.14,
+      "duration": 3.63,
+      "text": "gazing at this polar gantry sand garden that you can build yourself.",
+      "en": "gazing at this polar gantry sand garden that you can build yourself.",
+      "zh": ""
+    },
+    {
+      "start": 725.77,
+      "duration": 1.75,
+      "text": "Because unlike the CrunchLabs build box,",
+      "en": "Because unlike the CrunchLabs build box,",
+      "zh": ""
+    },
+    {
+      "start": 727.52,
+      "duration": 3.88,
+      "text": "which is made for kids, we just launched HackPack, which is kind of similar",
+      "en": "which is made for kids, we just launched HackPack, which is kind of similar",
+      "zh": ""
+    },
+    {
+      "start": 731.4,
+      "duration": 4.04,
+      "text": "It's just more advanced and created specifically for teenagers and adults.",
+      "en": "It's just more advanced and created specifically for teenagers and adults.",
+      "zh": ""
+    },
+    {
+      "start": 735.44,
+      "duration": 3.26,
+      "text": "With HackPack, you get a series of really fun programable robots",
+      "en": "With HackPack, you get a series of really fun programable robots",
+      "zh": ""
+    },
+    {
+      "start": 738.7,
+      "duration": 2.96,
+      "text": "delivered right to your door, where we build it together and learn,",
+      "en": "delivered right to your door, where we build it together and learn,",
+      "zh": ""
+    },
+    {
+      "start": 741.66,
+      "duration": 2.33,
+      "text": "step by step, the kinds of engineering skills",
+      "en": "step by step, the kinds of engineering skills",
+      "zh": ""
+    },
+    {
+      "start": 743.99,
+      "duration": 1.84,
+      "text": "that go into making the builds on my channel.",
+      "en": "that go into making the builds on my channel.",
+      "zh": ""
+    },
+    {
+      "start": 745.83,
+      "duration": 4.38,
+      "text": "They're all super fun and even useful, and they'll work right out of the box.",
+      "en": "They're all super fun and even useful, and they'll work right out of the box.",
+      "zh": ""
+    },
+    {
+      "start": 750.21,
+      "duration": 1.46,
+      "text": "No programing required,",
+      "en": "No programing required,",
+      "zh": ""
+    },
+    {
+      "start": 753.63,
+      "duration": 3.25,
+      "text": "but since my goal is to get you to always level up your skills",
+      "en": "but since my goal is to get you to always level up your skills",
+      "zh": ""
+    },
+    {
+      "start": 756.88,
+      "duration": 2.21,
+      "text": "with some simple code tweaks we walk you through,",
+      "en": "with some simple code tweaks we walk you through,",
+      "zh": ""
+    },
+    {
+      "start": 759.09,
+      "duration": 4.01,
+      "text": "you can level up the functionality of your robot, or get totally creative",
+      "en": "you can level up the functionality of your robot, or get totally creative",
+      "zh": ""
+    },
+    {
+      "start": 763.1,
+      "duration": 1.12,
+      "text": "with some hacks of your own.",
+      "en": "with some hacks of your own.",
+      "zh": ""
+    },
+    {
+      "start": 764.22,
+      "duration": 2.71,
+      "text": "So if you want to enhance or even just take the first step",
+      "en": "So if you want to enhance or even just take the first step",
+      "zh": ""
+    },
+    {
+      "start": 766.93,
+      "duration": 3.59,
+      "text": "of unlocking the really fun and rewarding hobby of making stuff,",
+      "en": "of unlocking the really fun and rewarding hobby of making stuff,",
+      "zh": ""
+    },
+    {
+      "start": 770.52,
+      "duration": 3.0,
+      "text": "just go to CrunchLabs.com, or use the link in the video description",
+      "en": "just go to CrunchLabs.com, or use the link in the video description",
+      "zh": ""
+    },
+    {
+      "start": 773.52,
+      "duration": 3.46,
+      "text": "where we're giving away one free box as an early subscriber special.",
+      "en": "where we're giving away one free box as an early subscriber special.",
+      "zh": ""
+    },
+    {
+      "start": 776.98,
+      "duration": 1.13,
+      "text": "and back over with Jigsaw",
+      "en": "and back over with Jigsaw",
+      "zh": ""
+    },
+    {
+      "start": 778.11,
+      "duration": 3.04,
+      "text": "Things were looking very promising for the world record attempt",
+      "en": "Things were looking very promising for the world record attempt",
+      "zh": ""
+    },
+    {
+      "start": 781.15,
+      "duration": 3.34,
+      "text": "of an off the shelf puzzle, completely solved and assembled by a robot",
+      "en": "of an off the shelf puzzle, completely solved and assembled by a robot",
+      "zh": ""
+    },
+    {
+      "start": 784.49,
+      "duration": 1.67,
+      "text": "with no human intervention.",
+      "en": "with no human intervention.",
+      "zh": ""
+    },
+    {
+      "start": 787.58,
+      "duration": 1.63,
+      "text": "Some pieces would go right in",
+      "en": "Some pieces would go right in",
+      "zh": ""
+    },
+    {
+      "start": 789.91,
+      "duration": 0.38,
+      "text": "Uno",
+      "en": "Uno",
+      "zh": ""
+    },
+    {
+      "start": 790.29,
+      "duration": 0.71,
+      "text": "Wow",
+      "en": "Wow",
+      "zh": ""
+    },
+    {
+      "start": 791.0,
+      "duration": 1.79,
+      "text": "Some required a little bit of wiggle.",
+      "en": "Some required a little bit of wiggle.",
+      "zh": ""
+    },
+    {
+      "start": 793.38,
+      "duration": 1.21,
+      "text": "Oh, actually, yeah.",
+      "en": "Oh, actually, yeah.",
+      "zh": ""
+    },
+    {
+      "start": 794.59,
+      "duration": 2.0,
+      "text": "And some required a lot of wiggle",
+      "en": "And some required a lot of wiggle",
+      "zh": ""
+    },
+    {
+      "start": 799.88,
+      "duration": 0.75,
+      "text": "But in the end.",
+      "en": "But in the end.",
+      "zh": ""
+    },
+    {
+      "start": 800.63,
+      "duration": 1.25,
+      "text": "let’s go Jigsaw",
+      "en": "let’s go Jigsaw",
+      "zh": ""
+    },
+    {
+      "start": 801.88,
+      "duration": 1.67,
+      "text": "C’mon last piece",
+      "en": "C’mon last piece",
+      "zh": ""
+    },
+    {
+      "start": 803.55,
+      "duration": 1.5,
+      "text": "Jigsaw always came through",
+      "en": "Jigsaw always came through",
+      "zh": ""
+    },
+    {
+      "start": 805.05,
+      "duration": 1.92,
+      "text": "Yes!!",
+      "en": "Yes!!",
+      "zh": ""
+    },
+    {
+      "start": 806.97,
+      "duration": 2.17,
+      "text": "Now feeling more confident in Jigsaw’s abilities",
+      "en": "Now feeling more confident in Jigsaw’s abilities",
+      "zh": ""
+    },
+    {
+      "start": 809.14,
+      "duration": 3.67,
+      "text": "It was time for him to meet the greatest jigsaw puzzler the human race had to offer",
+      "en": "It was time for him to meet the greatest jigsaw puzzler the human race had to offer",
+      "zh": ""
+    },
+    {
+      "start": 813.31,
+      "duration": 1.05,
+      "text": "What? Are you done?",
+      "en": "What? Are you done?",
+      "zh": ""
+    },
+    {
+      "start": 814.36,
+      "duration": 0.87,
+      "text": "Who, fun fact",
+      "en": "Who, fun fact",
+      "zh": ""
+    },
+    {
+      "start": 815.23,
+      "duration": 2.71,
+      "text": "also happens to be a national sudoku champion",
+      "en": "also happens to be a national sudoku champion",
+      "zh": ""
+    },
+    {
+      "start": 817.94,
+      "duration": 0.84,
+      "text": "Tammy McLeod",
+      "en": "Tammy McLeod",
+      "zh": ""
+    },
+    {
+      "start": 818.78,
+      "duration": 2.12,
+      "text": "I’m the Human Benchmark according to my child",
+      "en": "I’m the Human Benchmark according to my child",
+      "zh": ""
+    },
+    {
+      "start": 820.9,
+      "duration": 1.42,
+      "text": "I first wanted her to face off",
+      "en": "I first wanted her to face off",
+      "zh": ""
+    },
+    {
+      "start": 822.32,
+      "duration": 2.42,
+      "text": "against the best jigsaw puzzler I personally know",
+      "en": "against the best jigsaw puzzler I personally know",
+      "zh": ""
+    },
+    {
+      "start": 824.74,
+      "duration": 1.92,
+      "text": "my dear friend Kristen Bell",
+      "en": "my dear friend Kristen Bell",
+      "zh": ""
+    },
+    {
+      "start": 826.66,
+      "duration": 3.84,
+      "text": "aka Anna, or Veronica mars, or Eleanor, or a bunch more",
+      "en": "aka Anna, or Veronica mars, or Eleanor, or a bunch more",
+      "zh": ""
+    },
+    {
+      "start": 830.5,
+      "duration": 0.58,
+      "text": "Kristen",
+      "en": "Kristen",
+      "zh": ""
+    },
+    {
+      "start": 831.08,
+      "duration": 4.17,
+      "text": "ever since I told you I was making a puzzle robot, you've been talking so much trash.",
+      "en": "ever since I told you I was making a puzzle robot, you've been talking so much trash.",
+      "zh": ""
+    },
+    {
+      "start": 835.25,
+      "duration": 1.34,
+      "text": "A little bit of trash. Yeah.",
+      "en": "A little bit of trash. Yeah.",
+      "zh": ""
+    },
+    {
+      "start": 836.59,
+      "duration": 1.58,
+      "text": "The puzzle robot isn't here today.",
+      "en": "The puzzle robot isn't here today.",
+      "zh": ""
+    },
+    {
+      "start": 838.17,
+      "duration": 3.0,
+      "text": "So instead, I have a friend I want you to... challenge.",
+      "en": "So instead, I have a friend I want you to... challenge.",
+      "zh": ""
+    },
+    {
+      "start": 841.42,
+      "duration": 0.84,
+      "text": "This is Tammy.",
+      "en": "This is Tammy.",
+      "zh": ""
+    },
+    {
+      "start": 842.26,
+      "duration": 1.92,
+      "text": "She holds the Guinness World Record for",
+      "en": "She holds the Guinness World Record for",
+      "zh": ""
+    },
+    {
+      "start": 844.18,
+      "duration": 0.95,
+      "text": "the fastest puzzle",
+      "en": "the fastest puzzle",
+      "zh": ""
+    },
+    {
+      "start": 845.13,
+      "duration": 1.47,
+      "text": "Ever solved by a human being.",
+      "en": "Ever solved by a human being.",
+      "zh": ""
+    },
+    {
+      "start": 846.6,
+      "duration": 0.5,
+      "text": "Hi, Kristen.",
+      "en": "Hi, Kristen.",
+      "zh": ""
+    },
+    {
+      "start": 847.1,
+      "duration": 2.33,
+      "text": "We kick things off with a simple 30 piece puzzle.",
+      "en": "We kick things off with a simple 30 piece puzzle.",
+      "zh": ""
+    },
+    {
+      "start": 849.43,
+      "duration": 0.75,
+      "text": "And to be honest,",
+      "en": "And to be honest,",
+      "zh": ""
+    },
+    {
+      "start": 850.18,
+      "duration": 1.42,
+      "text": "Three, two, one. Go!",
+      "en": "Three, two, one. Go!",
+      "zh": ""
+    },
+    {
+      "start": 851.6,
+      "duration": 1.67,
+      "text": "Kristen started off pretty strong.",
+      "en": "Kristen started off pretty strong.",
+      "zh": ""
+    },
+    {
+      "start": 853.27,
+      "duration": 1.37,
+      "text": "Where's the elephant?",
+      "en": "Where's the elephant?",
+      "zh": ""
+    },
+    {
+      "start": 854.64,
+      "duration": 1.88,
+      "text": "Tammy, you don't talk while you're doing it?",
+      "en": "Tammy, you don't talk while you're doing it?",
+      "zh": ""
+    },
+    {
+      "start": 856.52,
+      "duration": 1.75,
+      "text": "I mean, I could trash talk, but-",
+      "en": "I mean, I could trash talk, but-",
+      "zh": ""
+    },
+    {
+      "start": 858.27,
+      "duration": 0.34,
+      "text": "Do it!",
+      "en": "Do it!",
+      "zh": ""
+    },
+    {
+      "start": 858.61,
+      "duration": 1.41,
+      "text": "You're gonna lose Tammy.",
+      "en": "You're gonna lose Tammy.",
+      "zh": ""
+    },
+    {
+      "start": 860.02,
+      "duration": 1.59,
+      "text": "And then you hit me back.",
+      "en": "And then you hit me back.",
+      "zh": ""
+    },
+    {
+      "start": 861.61,
+      "duration": 4.67,
+      "text": "Wow, that was one minute and five seconds for a 30 piece puzzle.",
+      "en": "Wow, that was one minute and five seconds for a 30 piece puzzle.",
+      "zh": ""
+    },
+    {
+      "start": 866.28,
+      "duration": 1.04,
+      "text": "I'm sweating so much",
+      "en": "I'm sweating so much",
+      "zh": ""
+    },
+    {
+      "start": 867.32,
+      "duration": 1.63,
+      "text": "and that was a pretty decisive win.",
+      "en": "and that was a pretty decisive win.",
+      "zh": ""
+    },
+    {
+      "start": 868.95,
+      "duration": 2.05,
+      "text": "But I wanted to see one more face off,",
+      "en": "But I wanted to see one more face off,",
+      "zh": ""
+    },
+    {
+      "start": 871.0,
+      "duration": 2.21,
+      "text": "only this time with a 500 piece puzzle",
+      "en": "only this time with a 500 piece puzzle",
+      "zh": ""
+    },
+    {
+      "start": 873.21,
+      "duration": 2.16,
+      "text": "and a huge advantage in Kristen's favor.",
+      "en": "and a huge advantage in Kristen's favor.",
+      "zh": ""
+    },
+    {
+      "start": 875.37,
+      "duration": 1.42,
+      "text": "I think I'm going to help you on this one.",
+      "en": "I think I'm going to help you on this one.",
+      "zh": ""
+    },
+    {
+      "start": 878.5,
+      "duration": 0.46,
+      "text": "Okay?",
+      "en": "Okay?",
+      "zh": ""
+    },
+    {
+      "start": 878.96,
+      "duration": 2.88,
+      "text": "And with Kristen's renewed confidence, the clock started",
+      "en": "And with Kristen's renewed confidence, the clock started",
+      "zh": ""
+    },
+    {
+      "start": 881.84,
+      "duration": 0.71,
+      "text": "and out of the gate",
+      "en": "and out of the gate",
+      "zh": ""
+    },
+    {
+      "start": 882.55,
+      "duration": 2.67,
+      "text": "Tammy was so confident in this 2-v-1 matchup.",
+      "en": "Tammy was so confident in this 2-v-1 matchup.",
+      "zh": ""
+    },
+    {
+      "start": 885.22,
+      "duration": 1.12,
+      "text": "She's just doing flipping?",
+      "en": "She's just doing flipping?",
+      "zh": ""
+    },
+    {
+      "start": 886.34,
+      "duration": 2.17,
+      "text": "Oh my god, that's crazy organized.",
+      "en": "Oh my god, that's crazy organized.",
+      "zh": ""
+    },
+    {
+      "start": 888.51,
+      "duration": 2.3,
+      "text": "She saw no problem in helping our cause.",
+      "en": "She saw no problem in helping our cause.",
+      "zh": ""
+    },
+    {
+      "start": 890.81,
+      "duration": 1.16,
+      "text": "What is that little guy?",
+      "en": "What is that little guy?",
+      "zh": ""
+    },
+    {
+      "start": 891.97,
+      "duration": 0.59,
+      "text": "his tail",
+      "en": "his tail",
+      "zh": ""
+    },
+    {
+      "start": 892.56,
+      "duration": 0.92,
+      "text": "She’s right",
+      "en": "She’s right",
+      "zh": ""
+    },
+    {
+      "start": 893.48,
+      "duration": 0.75,
+      "text": "SHE’S RIGHT",
+      "en": "SHE’S RIGHT",
+      "zh": ""
+    },
+    {
+      "start": 894.23,
+      "duration": 2.0,
+      "text": "Mark, can I ask you a sincere question?",
+      "en": "Mark, can I ask you a sincere question?",
+      "zh": ""
+    },
+    {
+      "start": 896.23,
+      "duration": 1.46,
+      "text": "Is this the robot?",
+      "en": "Is this the robot?",
+      "zh": ""
+    },
+    {
+      "start": 898.56,
+      "duration": 3.01,
+      "text": "Admittedly, I did have an ulterior motive for this matchup",
+      "en": "Admittedly, I did have an ulterior motive for this matchup",
+      "zh": ""
+    },
+    {
+      "start": 901.57,
+      "duration": 1.62,
+      "text": "and that was espionage.",
+      "en": "and that was espionage.",
+      "zh": ""
+    },
+    {
+      "start": 903.19,
+      "duration": 2.21,
+      "text": "Tammy, I noticed you're using the box.",
+      "en": "Tammy, I noticed you're using the box.",
+      "zh": ""
+    },
+    {
+      "start": 905.4,
+      "duration": 0.67,
+      "text": "What!",
+      "en": "What!",
+      "zh": ""
+    },
+    {
+      "start": 906.74,
+      "duration": 1.58,
+      "text": "Tammy, get real.",
+      "en": "Tammy, get real.",
+      "zh": ""
+    },
+    {
+      "start": 908.32,
+      "duration": 1.51,
+      "text": "You have to look at the picture.",
+      "en": "You have to look at the picture.",
+      "zh": ""
+    },
+    {
+      "start": 909.83,
+      "duration": 0.83,
+      "text": "It’ll just distract me.",
+      "en": "It’ll just distract me.",
+      "zh": ""
+    },
+    {
+      "start": 910.66,
+      "duration": 0.92,
+      "text": "I look at the pictures.",
+      "en": "I look at the pictures.",
+      "zh": ""
+    },
+    {
+      "start": 911.58,
+      "duration": 1.75,
+      "text": "I have good color acuity.",
+      "en": "I have good color acuity.",
+      "zh": ""
+    },
+    {
+      "start": 913.33,
+      "duration": 1.38,
+      "text": "I have very bad shape memory.",
+      "en": "I have very bad shape memory.",
+      "zh": ""
+    },
+    {
+      "start": 914.71,
+      "duration": 3.46,
+      "text": "So if you say had to go against an all white puzzle...",
+      "en": "So if you say had to go against an all white puzzle...",
+      "zh": ""
+    },
+    {
+      "start": 918.17,
+      "duration": 1.67,
+      "text": "That would maybe be my Achilles heel.",
+      "en": "That would maybe be my Achilles heel.",
+      "zh": ""
+    },
+    {
+      "start": 919.84,
+      "duration": 2.04,
+      "text": "And this was a very useful bit of information.",
+      "en": "And this was a very useful bit of information.",
+      "zh": ""
+    },
+    {
+      "start": 921.88,
+      "duration": 1.12,
+      "text": "But she didn't stop there.",
+      "en": "But she didn't stop there.",
+      "zh": ""
+    },
+    {
+      "start": 923.0,
+      "duration": 1.51,
+      "text": "Because she also told me the four tips",
+      "en": "Because she also told me the four tips",
+      "zh": ""
+    },
+    {
+      "start": 924.51,
+      "duration": 3.5,
+      "text": "she tells amateur jigsaw puzzlers to help them solve puzzles faster.",
+      "en": "she tells amateur jigsaw puzzlers to help them solve puzzles faster.",
+      "zh": ""
+    },
+    {
+      "start": 928.01,
+      "duration": 1.71,
+      "text": "First off, dump out all the pieces",
+      "en": "First off, dump out all the pieces",
+      "zh": ""
+    },
+    {
+      "start": 929.72,
+      "duration": 2.63,
+      "text": "and turn them over so you can see them all at the same time.",
+      "en": "and turn them over so you can see them all at the same time.",
+      "zh": ""
+    },
+    {
+      "start": 932.35,
+      "duration": 0.75,
+      "text": "For number two",
+      "en": "For number two",
+      "zh": ""
+    },
+    {
+      "start": 933.1,
+      "duration": 1.58,
+      "text": "most people start with the edge pieces,",
+      "en": "most people start with the edge pieces,",
+      "zh": ""
+    },
+    {
+      "start": 934.68,
+      "duration": 2.51,
+      "text": "and that's not a bad move, but it's not always the best.",
+      "en": "and that's not a bad move, but it's not always the best.",
+      "zh": ""
+    },
+    {
+      "start": 937.19,
+      "duration": 2.0,
+      "text": "For example, if there's a puzzle that has something",
+      "en": "For example, if there's a puzzle that has something",
+      "zh": ""
+    },
+    {
+      "start": 939.19,
+      "duration": 2.04,
+      "text": "like a gold frame around the outside",
+      "en": "like a gold frame around the outside",
+      "zh": ""
+    },
+    {
+      "start": 941.23,
+      "duration": 1.79,
+      "text": "you should set all the edge pieces aside",
+      "en": "you should set all the edge pieces aside",
+      "zh": ""
+    },
+    {
+      "start": 943.02,
+      "duration": 2.01,
+      "text": "and then leave them till the end, where there's a lot",
+      "en": "and then leave them till the end, where there's a lot",
+      "zh": ""
+    },
+    {
+      "start": 945.03,
+      "duration": 3.0,
+      "text": "more information from the interior pieces to help with the border",
+      "en": "more information from the interior pieces to help with the border",
+      "zh": ""
+    },
+    {
+      "start": 948.03,
+      "duration": 0.67,
+      "text": "For tip three",
+      "en": "For tip three",
+      "zh": ""
+    },
+    {
+      "start": 948.7,
+      "duration": 3.25,
+      "text": "look for groupings that catch your eye and organize them into piles.",
+      "en": "look for groupings that catch your eye and organize them into piles.",
+      "zh": ""
+    },
+    {
+      "start": 951.95,
+      "duration": 3.25,
+      "text": "So for example, you could organize by colors, textures, or patterns.",
+      "en": "So for example, you could organize by colors, textures, or patterns.",
+      "zh": ""
+    },
+    {
+      "start": 955.2,
+      "duration": 3.88,
+      "text": "But either way, you're trying to reduce the search space into smaller chunks",
+      "en": "But either way, you're trying to reduce the search space into smaller chunks",
+      "zh": ""
+    },
+    {
+      "start": 959.08,
+      "duration": 3.34,
+      "text": "because scanning and pattern matching are different parts of the brain.",
+      "en": "because scanning and pattern matching are different parts of the brain.",
+      "zh": ""
+    },
+    {
+      "start": 962.42,
+      "duration": 2.79,
+      "text": "And this way you don't have to do them at the same time, which makes it easier.",
+      "en": "And this way you don't have to do them at the same time, which makes it easier.",
+      "zh": ""
+    },
+    {
+      "start": 965.21,
+      "duration": 0.5,
+      "text": "And finally,",
+      "en": "And finally,",
+      "zh": ""
+    },
+    {
+      "start": 965.71,
+      "duration": 3.26,
+      "text": "if you're down to a bunch of pieces that all look the same like a blue sky,",
+      "en": "if you're down to a bunch of pieces that all look the same like a blue sky,",
+      "zh": ""
+    },
+    {
+      "start": 968.97,
+      "duration": 2.79,
+      "text": "sort by shape based on how many ins and outs they have",
+      "en": "sort by shape based on how many ins and outs they have",
+      "zh": ""
+    },
+    {
+      "start": 971.76,
+      "duration": 1.67,
+      "text": "and orient them all the same way.",
+      "en": "and orient them all the same way.",
+      "zh": ""
+    },
+    {
+      "start": 973.43,
+      "duration": 2.13,
+      "text": "This will leave you with six total piles",
+      "en": "This will leave you with six total piles",
+      "zh": ""
+    },
+    {
+      "start": 975.56,
+      "duration": 2.42,
+      "text": "and will make it much easier to find the final matches.",
+      "en": "and will make it much easier to find the final matches.",
+      "zh": ""
+    },
+    {
+      "start": 977.98,
+      "duration": 2.42,
+      "text": "And I needed to look no further than our current match up-",
+      "en": "And I needed to look no further than our current match up-",
+      "zh": ""
+    },
+    {
+      "start": 980.4,
+      "duration": 2.0,
+      "text": "Oh no. I look away for one minute.",
+      "en": "Oh no. I look away for one minute.",
+      "zh": ""
+    },
+    {
+      "start": 982.4,
+      "duration": 1.87,
+      "text": "Don't look at Tammy's, Kristen",
+      "en": "Don't look at Tammy's, Kristen",
+      "zh": ""
+    },
+    {
+      "start": 984.27,
+      "duration": 1.46,
+      "text": "Things have gotten dire.",
+      "en": "Things have gotten dire.",
+      "zh": ""
+    },
+    {
+      "start": 985.73,
+      "duration": 2.67,
+      "text": "-to understand there must be some validity to these four steps.",
+      "en": "-to understand there must be some validity to these four steps.",
+      "zh": ""
+    },
+    {
+      "start": 988.4,
+      "duration": 2.17,
+      "text": "I’m not seeing your hands move or your eyes look at the board",
+      "en": "I’m not seeing your hands move or your eyes look at the board",
+      "zh": ""
+    },
+    {
+      "start": 990.57,
+      "duration": 0.75,
+      "text": "I’M PANICKING",
+      "en": "I’M PANICKING",
+      "zh": ""
+    },
+    {
+      "start": 991.32,
+      "duration": 0.92,
+      "text": "I'm not trying to-",
+      "en": "I'm not trying to-",
+      "zh": ""
+    },
+    {
+      "start": 992.24,
+      "duration": 0.67,
+      "text": "DONE!?",
+      "en": "DONE!?",
+      "zh": ""
+    },
+    {
+      "start": 993.41,
+      "duration": 3.09,
+      "text": "34 minutes and 2 seconds.",
+      "en": "34 minutes and 2 seconds.",
+      "zh": ""
+    },
+    {
+      "start": 996.5,
+      "duration": 1.58,
+      "text": "500 pieces.",
+      "en": "500 pieces.",
+      "zh": ""
+    },
+    {
+      "start": 998.08,
+      "duration": 0.75,
+      "text": "Congratulations.",
+      "en": "Congratulations.",
+      "zh": ""
+    },
+    {
+      "start": 999.66,
+      "duration": 3.34,
+      "text": "Your next puzzle match will not be against mere humans.",
+      "en": "Your next puzzle match will not be against mere humans.",
+      "zh": ""
+    },
+    {
+      "start": 1003.0,
+      "duration": 3.25,
+      "text": "And indeed, after setting things up at CrunchLabs, we were ready to go.",
+      "en": "And indeed, after setting things up at CrunchLabs, we were ready to go.",
+      "zh": ""
+    },
+    {
+      "start": 1006.25,
+      "duration": 3.01,
+      "text": "Tammy, I'd like to officially introduce you to jigsaw.",
+      "en": "Tammy, I'd like to officially introduce you to jigsaw.",
+      "zh": ""
+    },
+    {
+      "start": 1009.92,
+      "duration": 2.01,
+      "text": "This is my upgrade from Kristen",
+      "en": "This is my upgrade from Kristen",
+      "zh": ""
+    },
+    {
+      "start": 1011.93,
+      "duration": 2.67,
+      "text": "And Jigsaw was in no mood for conversation as he got straight to work.",
+      "en": "And Jigsaw was in no mood for conversation as he got straight to work.",
+      "zh": ""
+    },
+    {
+      "start": 1014.6,
+      "duration": 0.66,
+      "text": "All right, then!",
+      "en": "All right, then!",
+      "zh": ""
+    },
+    {
+      "start": 1015.3,
+      "duration": 2.59,
+      "text": "As Tammy entered the matchup of her life with the weight",
+      "en": "As Tammy entered the matchup of her life with the weight",
+      "zh": ""
+    },
+    {
+      "start": 1017.89,
+      "duration": 3.0,
+      "text": "of all humanity resting on her capable shoulders.",
+      "en": "of all humanity resting on her capable shoulders.",
+      "zh": ""
+    },
+    {
+      "start": 1020.89,
+      "duration": 1.0,
+      "text": "What's your strategy here?",
+      "en": "What's your strategy here?",
+      "zh": ""
+    },
+    {
+      "start": 1021.89,
+      "duration": 2.3,
+      "text": "The only shape I can make use of is the edge.",
+      "en": "The only shape I can make use of is the edge.",
+      "zh": ""
+    },
+    {
+      "start": 1024.19,
+      "duration": 1.79,
+      "text": "Okay, how are we doing, jigsaw?",
+      "en": "Okay, how are we doing, jigsaw?",
+      "zh": ""
+    },
+    {
+      "start": 1027.86,
+      "duration": 1.25,
+      "text": "not really sure what I'm supposed to do now...",
+      "en": "not really sure what I'm supposed to do now...",
+      "zh": ""
+    },
+    {
+      "start": 1029.11,
+      "duration": 2.88,
+      "text": "But that’s when I remember I have a specialized skill set of my own",
+      "en": "But that’s when I remember I have a specialized skill set of my own",
+      "zh": ""
+    },
+    {
+      "start": 1031.99,
+      "duration": 2.08,
+      "text": "I might need to take measurements on your neck later.",
+      "en": "I might need to take measurements on your neck later.",
+      "zh": ""
+    },
+    {
+      "start": 1034.07,
+      "duration": 1.01,
+      "text": "I'm making you something.",
+      "en": "I'm making you something.",
+      "zh": ""
+    },
+    {
+      "start": 1035.08,
+      "duration": 2.21,
+      "text": "That's why you don't have any pieces placed yet on your team.",
+      "en": "That's why you don't have any pieces placed yet on your team.",
+      "zh": ""
+    },
+    {
+      "start": 1037.29,
+      "duration": 2.12,
+      "text": "Wow, Tammy",
+      "en": "Wow, Tammy",
+      "zh": ""
+    },
+    {
+      "start": 1039.41,
+      "duration": 2.59,
+      "text": "you're familiar with the saying “measure once, cut twice.”",
+      "en": "you're familiar with the saying “measure once, cut twice.”",
+      "zh": ""
+    },
+    {
+      "start": 1042.0,
+      "duration": 1.0,
+      "text": "No, that's not it.",
+      "en": "No, that's not it.",
+      "zh": ""
+    },
+    {
+      "start": 1044.0,
+      "duration": 1.42,
+      "text": "And as if on cue,",
+      "en": "And as if on cue,",
+      "zh": ""
+    },
+    {
+      "start": 1046.0,
+      "duration": 1.88,
+      "text": "My teammate, wrapped up his measuring.",
+      "en": "My teammate, wrapped up his measuring.",
+      "zh": ""
+    },
+    {
+      "start": 1047.88,
+      "duration": 1.46,
+      "text": "There's a corner piece!",
+      "en": "There's a corner piece!",
+      "zh": ""
+    },
+    {
+      "start": 1049.34,
+      "duration": 1.17,
+      "text": "and began cutting.",
+      "en": "and began cutting.",
+      "zh": ""
+    },
+    {
+      "start": 1053.05,
+      "duration": 1.09,
+      "text": "did you have to make him so noisy?",
+      "en": "did you have to make him so noisy?",
+      "zh": ""
+    },
+    {
+      "start": 1054.14,
+      "duration": 1.41,
+      "text": "Three pieces!",
+      "en": "Three pieces!",
+      "zh": ""
+    },
+    {
+      "start": 1055.55,
+      "duration": 1.38,
+      "text": "Four pieces!",
+      "en": "Four pieces!",
+      "zh": ""
+    },
+    {
+      "start": 1056.93,
+      "duration": 1.34,
+      "text": "Tammy, ignore me...",
+      "en": "Tammy, ignore me...",
+      "zh": ""
+    },
+    {
+      "start": 1058.27,
+      "duration": 2.21,
+      "text": "Saying five pieces!",
+      "en": "Saying five pieces!",
+      "zh": ""
+    },
+    {
+      "start": 1060.48,
+      "duration": 1.58,
+      "text": "It ain’t over till it's over.",
+      "en": "It ain’t over till it's over.",
+      "zh": ""
+    },
+    {
+      "start": 1062.06,
+      "duration": 2.67,
+      "text": "You're still winning, Tammy. Don't let it get to your head.",
+      "en": "You're still winning, Tammy. Don't let it get to your head.",
+      "zh": ""
+    },
+    {
+      "start": 1064.73,
+      "duration": 2.13,
+      "text": "And while I was tempted to count all 1000",
+      "en": "And while I was tempted to count all 1000",
+      "zh": ""
+    },
+    {
+      "start": 1066.86,
+      "duration": 1.29,
+      "text": "Nine pieces!",
+      "en": "Nine pieces!",
+      "zh": ""
+    },
+    {
+      "start": 1068.15,
+      "duration": 2.04,
+      "text": "I decided to take up woodworking instead.",
+      "en": "I decided to take up woodworking instead.",
+      "zh": ""
+    },
+    {
+      "start": 1070.19,
+      "duration": 1.0,
+      "text": "Are you nervous, Tammy?",
+      "en": "Are you nervous, Tammy?",
+      "zh": ""
+    },
+    {
+      "start": 1071.19,
+      "duration": 2.51,
+      "text": "Even if I lost today, my family would still love me.",
+      "en": "Even if I lost today, my family would still love me.",
+      "zh": ""
+    },
+    {
+      "start": 1073.7,
+      "duration": 0.66,
+      "text": "Jigsaw.",
+      "en": "Jigsaw.",
+      "zh": ""
+    },
+    {
+      "start": 1074.36,
+      "duration": 1.84,
+      "text": "If he lost today, would you still love him?",
+      "en": "If he lost today, would you still love him?",
+      "zh": ""
+    },
+    {
+      "start": 1076.2,
+      "duration": 0.5,
+      "text": "No",
+      "en": "No",
+      "zh": ""
+    },
+    {
+      "start": 1077.24,
+      "duration": 1.38,
+      "text": "My love is very conditional.",
+      "en": "My love is very conditional.",
+      "zh": ""
+    },
+    {
+      "start": 1078.62,
+      "duration": 2.04,
+      "text": "Having properly reminded jigsaw what was at stake.",
+      "en": "Having properly reminded jigsaw what was at stake.",
+      "zh": ""
+    },
+    {
+      "start": 1080.66,
+      "duration": 2.09,
+      "text": "Jigsaw has now officially taken the lead.",
+      "en": "Jigsaw has now officially taken the lead.",
+      "zh": ""
+    },
+    {
+      "start": 1082.75,
+      "duration": 3.42,
+      "text": "Jigsaw continued to make steady progress while Tammy...",
+      "en": "Jigsaw continued to make steady progress while Tammy...",
+      "zh": ""
+    },
+    {
+      "start": 1086.17,
+      "duration": 1.17,
+      "text": "Where’s that last edge?",
+      "en": "Where’s that last edge?",
+      "zh": ""
+    },
+    {
+      "start": 1087.34,
+      "duration": 1.54,
+      "text": "Oh, you need one edge piece",
+      "en": "Oh, you need one edge piece",
+      "zh": ""
+    },
+    {
+      "start": 1088.88,
+      "duration": 2.21,
+      "text": "faced the limits inherent in biology",
+      "en": "faced the limits inherent in biology",
+      "zh": ""
+    },
+    {
+      "start": 1091.09,
+      "duration": 2.04,
+      "text": "I really want to actually help find this for you",
+      "en": "I really want to actually help find this for you",
+      "zh": ""
+    },
+    {
+      "start": 1093.13,
+      "duration": 1.75,
+      "text": "That way I can say you needed my help.",
+      "en": "That way I can say you needed my help.",
+      "zh": ""
+    },
+    {
+      "start": 1094.88,
+      "duration": 2.51,
+      "text": "Without the precise search capabilities...",
+      "en": "Without the precise search capabilities...",
+      "zh": ""
+    },
+    {
+      "start": 1097.39,
+      "duration": 1.37,
+      "text": "I found it, I’m done with the edge!",
+      "en": "I found it, I’m done with the edge!",
+      "zh": ""
+    },
+    {
+      "start": 1098.76,
+      "duration": 1.76,
+      "text": "Of a smart phone to laptop nervous system.",
+      "en": "Of a smart phone to laptop nervous system.",
+      "zh": ""
+    },
+    {
+      "start": 1100.52,
+      "duration": 1.25,
+      "text": "Click. I love that sound.",
+      "en": "Click. I love that sound.",
+      "zh": ""
+    },
+    {
+      "start": 1101.77,
+      "duration": 1.5,
+      "text": "Is there any way I could get some water.",
+      "en": "Is there any way I could get some water.",
+      "zh": ""
+    },
+    {
+      "start": 1103.27,
+      "duration": 1.58,
+      "text": "Jigsaw. Do you need a water break?",
+      "en": "Jigsaw. Do you need a water break?",
+      "zh": ""
+    },
+    {
+      "start": 1106.9,
+      "duration": 2.12,
+      "text": "You notice we are missing a piece in the middle",
+      "en": "You notice we are missing a piece in the middle",
+      "zh": ""
+    },
+    {
+      "start": 1109.02,
+      "duration": 0.88,
+      "text": "that's on purpose",
+      "en": "that's on purpose",
+      "zh": ""
+    },
+    {
+      "start": 1109.9,
+      "duration": 2.5,
+      "text": "I was the ideas guy and jigsaw was the muscle.",
+      "en": "I was the ideas guy and jigsaw was the muscle.",
+      "zh": ""
+    },
+    {
+      "start": 1112.4,
+      "duration": 2.38,
+      "text": "Jigsaw. That's your next piece right there buddy.",
+      "en": "Jigsaw. That's your next piece right there buddy.",
+      "zh": ""
+    },
+    {
+      "start": 1114.78,
+      "duration": 1.08,
+      "text": "I'm a team player.",
+      "en": "I'm a team player.",
+      "zh": ""
+    },
+    {
+      "start": 1115.86,
+      "duration": 0.67,
+      "text": "The only thing is",
+      "en": "The only thing is",
+      "zh": ""
+    },
+    {
+      "start": 1116.53,
+      "duration": 1.88,
+      "text": "he could be a bit of a control freak",
+      "en": "he could be a bit of a control freak",
+      "zh": ""
+    },
+    {
+      "start": 1118.78,
+      "duration": 1.88,
+      "text": "So I opted to help Tammy instead.",
+      "en": "So I opted to help Tammy instead.",
+      "zh": ""
+    },
+    {
+      "start": 1120.66,
+      "duration": 2.34,
+      "text": "Tammy, do you need this piece? Do you need this piece?",
+      "en": "Tammy, do you need this piece? Do you need this piece?",
+      "zh": ""
+    },
+    {
+      "start": 1123.0,
+      "duration": 1.71,
+      "text": "Do you need this piece? Do you need thi–",
+      "en": "Do you need this piece? Do you need thi–",
+      "zh": ""
+    },
+    {
+      "start": 1125.0,
+      "duration": 2.5,
+      "text": "And so while jigsaw continued to widen the gap",
+      "en": "And so while jigsaw continued to widen the gap",
+      "zh": ""
+    },
+    {
+      "start": 1127.5,
+      "duration": 2.88,
+      "text": "I made myself useful by woodworking.",
+      "en": "I made myself useful by woodworking.",
+      "zh": ""
+    },
+    {
+      "start": 1130.38,
+      "duration": 1.04,
+      "text": "Solitairing",
+      "en": "Solitairing",
+      "zh": ""
+    },
+    {
+      "start": 1131.42,
+      "duration": 1.59,
+      "text": "Finding Waldo.",
+      "en": "Finding Waldo.",
+      "zh": ""
+    },
+    {
+      "start": 1133.01,
+      "duration": 0.79,
+      "text": "Tammy right here!",
+      "en": "Tammy right here!",
+      "zh": ""
+    },
+    {
+      "start": 1133.8,
+      "duration": 0.83,
+      "text": "Nah I’ll look later",
+      "en": "Nah I’ll look later",
+      "zh": ""
+    },
+    {
+      "start": 1134.63,
+      "duration": 2.3,
+      "text": "and just generally reverting to the role of my youth",
+      "en": "and just generally reverting to the role of my youth",
+      "zh": ""
+    },
+    {
+      "start": 1136.93,
+      "duration": 1.75,
+      "text": "as the annoying youngest sibling.",
+      "en": "as the annoying youngest sibling.",
+      "zh": ""
+    },
+    {
+      "start": 1140.26,
+      "duration": 1.38,
+      "text": "I love doing puzzles",
+      "en": "I love doing puzzles",
+      "zh": ""
+    },
+    {
+      "start": 1141.64,
+      "duration": 2.63,
+      "text": "And after all that, Tammy had made a lot of progress-",
+      "en": "And after all that, Tammy had made a lot of progress-",
+      "zh": ""
+    },
+    {
+      "start": 1144.27,
+      "duration": 2.33,
+      "text": "Tammy, I have good news and bad news.",
+      "en": "Tammy, I have good news and bad news.",
+      "zh": ""
+    },
+    {
+      "start": 1146.6,
+      "duration": 0.96,
+      "text": "The bad news?",
+      "en": "The bad news?",
+      "zh": ""
+    },
+    {
+      "start": 1147.56,
+      "duration": 1.5,
+      "text": "There's only eight pieces left",
+      "en": "There's only eight pieces left",
+      "zh": ""
+    },
+    {
+      "start": 1149.06,
+      "duration": 1.13,
+      "text": "-but not enough.",
+      "en": "-but not enough.",
+      "zh": ""
+    },
+    {
+      "start": 1150.19,
+      "duration": 3.8,
+      "text": "The good news is I made you a scarf!",
+      "en": "The good news is I made you a scarf!",
+      "zh": ""
+    },
+    {
+      "start": 1153.99,
+      "duration": 2.71,
+      "text": "In fact, if you assume it takes one second per side",
+      "en": "In fact, if you assume it takes one second per side",
+      "zh": ""
+    },
+    {
+      "start": 1156.7,
+      "duration": 2.67,
+      "text": "to try all the remaining combination of pieces she had left",
+      "en": "to try all the remaining combination of pieces she had left",
+      "zh": ""
+    },
+    {
+      "start": 1159.37,
+      "duration": 2.96,
+      "text": "working 12 hours a day, skipping weekends.",
+      "en": "working 12 hours a day, skipping weekends.",
+      "zh": ""
+    },
+    {
+      "start": 1162.33,
+      "duration": 2.37,
+      "text": "It would take her one and a half months to finish",
+      "en": "It would take her one and a half months to finish",
+      "zh": ""
+    },
+    {
+      "start": 1164.7,
+      "duration": 1.63,
+      "text": "which made this a good time",
+      "en": "which made this a good time",
+      "zh": ""
+    },
+    {
+      "start": 1166.33,
+      "duration": 1.17,
+      "text": "to throw in the towel.",
+      "en": "to throw in the towel.",
+      "zh": ""
+    },
+    {
+      "start": 1167.5,
+      "duration": 1.29,
+      "text": "Unless you're about to finish",
+      "en": "Unless you're about to finish",
+      "zh": ""
+    },
+    {
+      "start": 1168.79,
+      "duration": 0.67,
+      "text": "I think I'm good.",
+      "en": "I think I'm good.",
+      "zh": ""
+    },
+    {
+      "start": 1169.46,
+      "duration": 1.5,
+      "text": "Oh, this is a moment!",
+      "en": "Oh, this is a moment!",
+      "zh": ""
+    },
+    {
+      "start": 1170.96,
+      "duration": 3.71,
+      "text": "1000 pieces in four hours.",
+      "en": "1000 pieces in four hours.",
+      "zh": ""
+    },
+    {
+      "start": 1174.67,
+      "duration": 3.01,
+      "text": "Okay, Tammy, you represented us humans well,",
+      "en": "Okay, Tammy, you represented us humans well,",
+      "zh": ""
+    },
+    {
+      "start": 1178.22,
+      "duration": 3.88,
+      "text": "But alas, it’s time we welcome our benevolent robot overlords.",
+      "en": "But alas, it’s time we welcome our benevolent robot overlords.",
+      "zh": ""
+    },
+    {
+      "start": 1182.1,
+      "duration": 1.17,
+      "text": "It's an honor to lose to him",
+      "en": "It's an honor to lose to him",
+      "zh": ""
+    },
+    {
+      "start": 1186.31,
+      "duration": 0.92,
+      "text": "That was beautiful.",
+      "en": "That was beautiful.",
+      "zh": ""
+    },
+    {
+      "start": 1187.81,
+      "duration": 1.13,
+      "text": "I gotta say!",
+      "en": "I gotta say!",
+      "zh": ""
+    },
+    {
+      "start": 1188.94,
+      "duration": 1.54,
+      "text": "Good work, jigsaw.",
+      "en": "Good work, jigsaw.",
+      "zh": ""
+    },
+    {
+      "start": 1190.48,
+      "duration": 0.5,
+      "text": "At ease",
+      "en": "At ease",
+      "zh": ""
+    },
+    {
+      "start": 1190.98,
+      "duration": 1.92,
+      "text": "So while jigsaw took his victory lap",
+      "en": "So while jigsaw took his victory lap",
+      "zh": ""
+    },
+    {
+      "start": 1192.9,
+      "duration": 1.46,
+      "text": "I put the final touches",
+      "en": "I put the final touches",
+      "zh": ""
+    },
+    {
+      "start": 1194.36,
+      "duration": 1.38,
+      "text": "on the trophy I'd carved her.",
+      "en": "on the trophy I'd carved her.",
+      "zh": ""
+    },
+    {
+      "start": 1195.74,
+      "duration": 2.37,
+      "text": "You are the best the human race has to offer.",
+      "en": "You are the best the human race has to offer.",
+      "zh": ""
+    },
+    {
+      "start": 1198.11,
+      "duration": 1.17,
+      "text": "And you did a great job.",
+      "en": "And you did a great job.",
+      "zh": ""
+    },
+    {
+      "start": 1199.28,
+      "duration": 2.13,
+      "text": "Just, you know, not that great",
+      "en": "Just, you know, not that great",
+      "zh": ""
+    },
+    {
+      "start": 1202.24,
+      "duration": 1.38,
+      "text": "if you're a teenager or adult",
+      "en": "if you're a teenager or adult",
+      "zh": ""
+    },
+    {
+      "start": 1203.62,
+      "duration": 2.5,
+      "text": "and you've always wanted to make and build cool stuff",
+      "en": "and you've always wanted to make and build cool stuff",
+      "zh": ""
+    },
+    {
+      "start": 1206.12,
+      "duration": 1.84,
+      "text": "but just have it figured out that first step",
+      "en": "but just have it figured out that first step",
+      "zh": ""
+    },
+    {
+      "start": 1207.96,
+      "duration": 0.75,
+      "text": "This is it.",
+      "en": "This is it.",
+      "zh": ""
+    },
+    {
+      "start": 1208.71,
+      "duration": 2.12,
+      "text": "It's called the CrunchLabs Hack Pack",
+      "en": "It's called the CrunchLabs Hack Pack",
+      "zh": ""
+    },
+    {
+      "start": 1210.83,
+      "duration": 1.34,
+      "text": "and it's basically a series",
+      "en": "and it's basically a series",
+      "zh": ""
+    },
+    {
+      "start": 1212.17,
+      "duration": 3.54,
+      "text": "of really fun programable robots that get delivered right to your door.",
+      "en": "of really fun programable robots that get delivered right to your door.",
+      "zh": ""
+    },
+    {
+      "start": 1215.71,
+      "duration": 3.84,
+      "text": "Where we build it together and learn, step by step, the kinds of engineering skills",
+      "en": "Where we build it together and learn, step by step, the kinds of engineering skills",
+      "zh": ""
+    },
+    {
+      "start": 1219.55,
+      "duration": 2.09,
+      "text": "that go into making the builds on my YouTube channel,",
+      "en": "that go into making the builds on my YouTube channel,",
+      "zh": ""
+    },
+    {
+      "start": 1221.64,
+      "duration": 2.5,
+      "text": "and they all work with no programing required.",
+      "en": "and they all work with no programing required.",
+      "zh": ""
+    },
+    {
+      "start": 1224.14,
+      "duration": 2.17,
+      "text": "But since my goal is to take you from wherever you're at",
+      "en": "But since my goal is to take you from wherever you're at",
+      "zh": ""
+    },
+    {
+      "start": 1226.31,
+      "duration": 3.17,
+      "text": "and level you up, you can easily hack the microcontroller brains",
+      "en": "and level you up, you can easily hack the microcontroller brains",
+      "zh": ""
+    },
+    {
+      "start": 1229.48,
+      "duration": 4.67,
+      "text": "of any of these robots in a bunch of ways to completely level up the functionality.",
+      "en": "of any of these robots in a bunch of ways to completely level up the functionality.",
+      "zh": ""
+    },
+    {
+      "start": 1234.15,
+      "duration": 0.88,
+      "text": "There's also a community",
+      "en": "There's also a community",
+      "zh": ""
+    },
+    {
+      "start": 1235.03,
+      "duration": 2.37,
+      "text": "where you could share your builds or post questions,",
+      "en": "where you could share your builds or post questions,",
+      "zh": ""
+    },
+    {
+      "start": 1237.4,
+      "duration": 3.59,
+      "text": "as well as an AI chat bot named Mark Robot that will check your code for you",
+      "en": "as well as an AI chat bot named Mark Robot that will check your code for you",
+      "zh": ""
+    },
+    {
+      "start": 1240.99,
+      "duration": 2.5,
+      "text": "and help you implement your most creative ideas.",
+      "en": "and help you implement your most creative ideas.",
+      "zh": ""
+    },
+    {
+      "start": 1244.33,
+      "duration": 3.5,
+      "text": "On top of all that, each box has a chance to contain a platinum diploma.",
+      "en": "On top of all that, each box has a chance to contain a platinum diploma.",
+      "zh": ""
+    },
+    {
+      "start": 1247.83,
+      "duration": 2.79,
+      "text": "If you're box has it, congratulations because college is now",
+      "en": "If you're box has it, congratulations because college is now",
+      "zh": ""
+    },
+    {
+      "start": 1250.62,
+      "duration": 2.88,
+      "text": "free for you or a loved one you want to transfer it to",
+      "en": "free for you or a loved one you want to transfer it to",
+      "zh": ""
+    },
+    {
+      "start": 1253.5,
+      "duration": 1.75,
+      "text": "plus you get to come out here and brainstorm",
+      "en": "plus you get to come out here and brainstorm",
+      "zh": ""
+    },
+    {
+      "start": 1255.25,
+      "duration": 2.26,
+      "text": "one of your own ideas with me and my team for a day.",
+      "en": "one of your own ideas with me and my team for a day.",
+      "zh": ""
+    },
+    {
+      "start": 1257.51,
+      "duration": 3.08,
+      "text": "So if you want to enhance or even just take the first step",
+      "en": "So if you want to enhance or even just take the first step",
+      "zh": ""
+    },
+    {
+      "start": 1260.59,
+      "duration": 3.51,
+      "text": "of unlocking the really fun and rewarding hobby of making stuff,",
+      "en": "of unlocking the really fun and rewarding hobby of making stuff,",
+      "zh": ""
+    },
+    {
+      "start": 1264.1,
+      "duration": 1.33,
+      "text": "just go to CrunchLabs.com",
+      "en": "just go to CrunchLabs.com",
+      "zh": ""
+    },
+    {
+      "start": 1265.43,
+      "duration": 2.5,
+      "text": "or use the link in the video description where to say thank you",
+      "en": "or use the link in the video description where to say thank you",
+      "zh": ""
+    },
+    {
+      "start": 1267.93,
+      "duration": 3.3,
+      "text": "We're giving away that free box as an early subscriber special",
+      "en": "We're giving away that free box as an early subscriber special",
+      "zh": ""
+    },
+    {
+      "start": 1271.23,
+      "duration": 0.83,
+      "text": "Thanks for watching.",
+      "en": "Thanks for watching.",
+      "zh": ""
+    }
+  ],
+  "words": []
+}

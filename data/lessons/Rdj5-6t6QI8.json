@@ -1,0 +1,4821 @@
+{
+  "cues": [
+    {
+      "start": 0.15,
+      "duration": 1.26,
+      "text": "- Let's torch it!",
+      "en": "- Let's torch it!",
+      "zh": ""
+    },
+    {
+      "start": 1.41,
+      "duration": 2.94,
+      "text": "Previously on Veritasium, we learned how Hans Goldschmidt",
+      "en": "Previously on Veritasium, we learned how Hans Goldschmidt",
+      "zh": ""
+    },
+    {
+      "start": 4.35,
+      "duration": 2.19,
+      "text": "discovered that metal oxide-like rust",
+      "en": "discovered that metal oxide-like rust",
+      "zh": ""
+    },
+    {
+      "start": 6.54,
+      "duration": 1.68,
+      "text": "can react with aluminum powder",
+      "en": "can react with aluminum powder",
+      "zh": ""
+    },
+    {
+      "start": 8.22,
+      "duration": 2.16,
+      "text": "to produce pure liquid metal.",
+      "en": "to produce pure liquid metal.",
+      "zh": ""
+    },
+    {
+      "start": 10.38,
+      "duration": 1.59,
+      "text": "Oh!",
+      "en": "Oh!",
+      "zh": ""
+    },
+    {
+      "start": 11.97,
+      "duration": 3.6,
+      "text": "Reactions of this type are known as thermite reactions.",
+      "en": "Reactions of this type are known as thermite reactions.",
+      "zh": ""
+    },
+    {
+      "start": 15.57,
+      "duration": 1.0,
+      "text": "(dramatic music)",
+      "en": "(dramatic music)",
+      "zh": ""
+    },
+    {
+      "start": 16.57,
+      "duration": 0.84,
+      "text": "Whoa! (laughs)",
+      "en": "Whoa! (laughs)",
+      "zh": ""
+    },
+    {
+      "start": 17.41,
+      "duration": 1.91,
+      "text": "Whoa! Yeah!",
+      "en": "Whoa! Yeah!",
+      "zh": ""
+    },
+    {
+      "start": 19.32,
+      "duration": 2.3,
+      "text": "(explosions popping)",
+      "en": "(explosions popping)",
+      "zh": ""
+    },
+    {
+      "start": 21.62,
+      "duration": 1.3,
+      "text": "That is crazy!",
+      "en": "That is crazy!",
+      "zh": ""
+    },
+    {
+      "start": 22.92,
+      "duration": 0.85,
+      "text": "Wow.",
+      "en": "Wow.",
+      "zh": ""
+    },
+    {
+      "start": 23.77,
+      "duration": 1.35,
+      "text": "(dramatic music continues)",
+      "en": "(dramatic music continues)",
+      "zh": ""
+    },
+    {
+      "start": 25.12,
+      "duration": 2.9,
+      "text": "Initially, thermite found limited applications,",
+      "en": "Initially, thermite found limited applications,",
+      "zh": ""
+    },
+    {
+      "start": 28.02,
+      "duration": 3.42,
+      "text": "repairing heavy machinery in remote locations.",
+      "en": "repairing heavy machinery in remote locations.",
+      "zh": ""
+    },
+    {
+      "start": 31.44,
+      "duration": 1.59,
+      "text": "It's much more common use,",
+      "en": "It's much more common use,",
+      "zh": ""
+    },
+    {
+      "start": 33.03,
+      "duration": 2.88,
+      "text": "The one where it's widely employed today,",
+      "en": "The one where it's widely employed today,",
+      "zh": ""
+    },
+    {
+      "start": 35.91,
+      "duration": 1.8,
+      "text": "took a bit more convincing.",
+      "en": "took a bit more convincing.",
+      "zh": ""
+    },
+    {
+      "start": 38.91,
+      "duration": 3.84,
+      "text": "There is one sound that everyone associates with railroads.",
+      "en": "There is one sound that everyone associates with railroads.",
+      "zh": ""
+    },
+    {
+      "start": 42.75,
+      "duration": 2.91,
+      "text": "(soft banjo music) (train wheels clacking)",
+      "en": "(soft banjo music) (train wheels clacking)",
+      "zh": ""
+    },
+    {
+      "start": 45.66,
+      "duration": 2.7,
+      "text": "This is the sound of train wheels passing over",
+      "en": "This is the sound of train wheels passing over",
+      "zh": ""
+    },
+    {
+      "start": 48.36,
+      "duration": 2.79,
+      "text": "the join between one rail and the next.",
+      "en": "the join between one rail and the next.",
+      "zh": ""
+    },
+    {
+      "start": 52.98,
+      "duration": 3.39,
+      "text": "In the early days of railroads, steel mills produced rails",
+      "en": "In the early days of railroads, steel mills produced rails",
+      "zh": ""
+    },
+    {
+      "start": 56.37,
+      "duration": 2.37,
+      "text": "that were around 12 meters long.",
+      "en": "that were around 12 meters long.",
+      "zh": ""
+    },
+    {
+      "start": 58.74,
+      "duration": 1.35,
+      "text": "Then, out in the field,",
+      "en": "Then, out in the field,",
+      "zh": ""
+    },
+    {
+      "start": 60.09,
+      "duration": 3.05,
+      "text": "these were bolted together using fish plates.",
+      "en": "these were bolted together using fish plates.",
+      "zh": ""
+    },
+    {
+      "start": 63.14,
+      "duration": 1.81,
+      "text": "(soft banjo music fades)",
+      "en": "(soft banjo music fades)",
+      "zh": ""
+    },
+    {
+      "start": 64.95,
+      "duration": 1.71,
+      "text": "- That would create these little gaps",
+      "en": "- That would create these little gaps",
+      "zh": ""
+    },
+    {
+      "start": 66.66,
+      "duration": 1.35,
+      "text": "between the pieces of rail.",
+      "en": "between the pieces of rail.",
+      "zh": ""
+    },
+    {
+      "start": 69.0,
+      "duration": 3.03,
+      "text": "And cause this kinda like signature sound,",
+      "en": "And cause this kinda like signature sound,",
+      "zh": ""
+    },
+    {
+      "start": 72.03,
+      "duration": 1.47,
+      "text": "This ta-tak, ta-tak, right?",
+      "en": "This ta-tak, ta-tak, right?",
+      "zh": ""
+    },
+    {
+      "start": 73.5,
+      "duration": 1.83,
+      "text": "And everybody who thinks railroad,",
+      "en": "And everybody who thinks railroad,",
+      "zh": ""
+    },
+    {
+      "start": 75.33,
+      "duration": 2.13,
+      "text": "this this ta-tak, ta-tak, ta-tak, ta-tak,",
+      "en": "this this ta-tak, ta-tak, ta-tak, ta-tak,",
+      "zh": ""
+    },
+    {
+      "start": 79.17,
+      "duration": 2.58,
+      "text": "even though we don't hear that anymore.",
+      "en": "even though we don't hear that anymore.",
+      "zh": ""
+    },
+    {
+      "start": 83.82,
+      "duration": 3.45,
+      "text": "But we still imagine it because it was so signature",
+      "en": "But we still imagine it because it was so signature",
+      "zh": ""
+    },
+    {
+      "start": 87.27,
+      "duration": 2.69,
+      "text": "for the sound to ride on the train",
+      "en": "for the sound to ride on the train",
+      "zh": ""
+    },
+    {
+      "start": 89.96,
+      "duration": 1.45,
+      "text": "(train wheels clacking)",
+      "en": "(train wheels clacking)",
+      "zh": ""
+    },
+    {
+      "start": 91.41,
+      "duration": 4.23,
+      "text": "- The track would flex, causing the train to rock and roll,",
+      "en": "- The track would flex, causing the train to rock and roll,",
+      "zh": ""
+    },
+    {
+      "start": 95.64,
+      "duration": 2.94,
+      "text": "and it would also increase the wear on the wheels",
+      "en": "and it would also increase the wear on the wheels",
+      "zh": ""
+    },
+    {
+      "start": 98.58,
+      "duration": 2.01,
+      "text": "and create vibrations in the tracks,",
+      "en": "and create vibrations in the tracks,",
+      "zh": ""
+    },
+    {
+      "start": 100.59,
+      "duration": 3.18,
+      "text": "so they required frequent maintenance.",
+      "en": "so they required frequent maintenance.",
+      "zh": ""
+    },
+    {
+      "start": 103.77,
+      "duration": 3.0,
+      "text": "So you might expect that after thermite was invented,",
+      "en": "So you might expect that after thermite was invented,",
+      "zh": ""
+    },
+    {
+      "start": 106.77,
+      "duration": 1.77,
+      "text": "railroads would've been excited",
+      "en": "railroads would've been excited",
+      "zh": ""
+    },
+    {
+      "start": 108.54,
+      "duration": 3.6,
+      "text": "to weld their rails together with liquid metal,",
+      "en": "to weld their rails together with liquid metal,",
+      "zh": ""
+    },
+    {
+      "start": 113.19,
+      "duration": 2.79,
+      "text": "but that was not the case.",
+      "en": "but that was not the case.",
+      "zh": ""
+    },
+    {
+      "start": 115.98,
+      "duration": 1.26,
+      "text": "(soft whimsical music)",
+      "en": "(soft whimsical music)",
+      "zh": ""
+    },
+    {
+      "start": 117.24,
+      "duration": 2.64,
+      "text": "- They would never have the idea to weld them.",
+      "en": "- They would never have the idea to weld them.",
+      "zh": ""
+    },
+    {
+      "start": 119.88,
+      "duration": 3.61,
+      "text": "If he'd come to a railroad manager and told them,",
+      "en": "If he'd come to a railroad manager and told them,",
+      "zh": ""
+    },
+    {
+      "start": 123.49,
+      "duration": 1.31,
+      "text": "\"I'm Dr. Hans Goldschmidt,",
+      "en": "\"I'm Dr. Hans Goldschmidt,",
+      "zh": ""
+    },
+    {
+      "start": 124.8,
+      "duration": 3.06,
+      "text": "I have a process by which I can weld your thumbs together.\"",
+      "en": "I have a process by which I can weld your thumbs together.\"",
+      "zh": ""
+    },
+    {
+      "start": 127.86,
+      "duration": 2.07,
+      "text": "To these railroad managers,",
+      "en": "To these railroad managers,",
+      "zh": ""
+    },
+    {
+      "start": 129.93,
+      "duration": 1.71,
+      "text": "that would've sounded more useful",
+      "en": "that would've sounded more useful",
+      "zh": ""
+    },
+    {
+      "start": 131.64,
+      "duration": 1.59,
+      "text": "than what he actually proposed,",
+      "en": "than what he actually proposed,",
+      "zh": ""
+    },
+    {
+      "start": 133.23,
+      "duration": 1.71,
+      "text": "which was welding their rail.",
+      "en": "which was welding their rail.",
+      "zh": ""
+    },
+    {
+      "start": 135.81,
+      "duration": 3.18,
+      "text": "- See, the gaps between rails were considered essential,",
+      "en": "- See, the gaps between rails were considered essential,",
+      "zh": ""
+    },
+    {
+      "start": 138.99,
+      "duration": 2.55,
+      "text": "because railroads are exposed to the elements",
+      "en": "because railroads are exposed to the elements",
+      "zh": ""
+    },
+    {
+      "start": 141.54,
+      "duration": 1.14,
+      "text": "all year round.",
+      "en": "all year round.",
+      "zh": ""
+    },
+    {
+      "start": 142.68,
+      "duration": 2.34,
+      "text": "So, they shrink when they get cold in winter,",
+      "en": "So, they shrink when they get cold in winter,",
+      "zh": ""
+    },
+    {
+      "start": 145.02,
+      "duration": 2.7,
+      "text": "and expand in the heat of summer.",
+      "en": "and expand in the heat of summer.",
+      "zh": ""
+    },
+    {
+      "start": 147.72,
+      "duration": 2.07,
+      "text": "An increase of 40 degrees Celsius",
+      "en": "An increase of 40 degrees Celsius",
+      "zh": ""
+    },
+    {
+      "start": 149.79,
+      "duration": 2.25,
+      "text": "would cause a 12 meter length of rail",
+      "en": "would cause a 12 meter length of rail",
+      "zh": ""
+    },
+    {
+      "start": 152.04,
+      "duration": 2.7,
+      "text": "to grow by six millimeters.",
+      "en": "to grow by six millimeters.",
+      "zh": ""
+    },
+    {
+      "start": 154.74,
+      "duration": 1.32,
+      "text": "Without gaps in the rail,",
+      "en": "Without gaps in the rail,",
+      "zh": ""
+    },
+    {
+      "start": 156.06,
+      "duration": 2.28,
+      "text": "people expected kilometers of railway",
+      "en": "people expected kilometers of railway",
+      "zh": ""
+    },
+    {
+      "start": 158.34,
+      "duration": 2.19,
+      "text": "to expand and buckle,",
+      "en": "to expand and buckle,",
+      "zh": ""
+    },
+    {
+      "start": 160.53,
+      "duration": 2.4,
+      "text": "leading to the worst possible outcome.",
+      "en": "leading to the worst possible outcome.",
+      "zh": ""
+    },
+    {
+      "start": 163.8,
+      "duration": 2.37,
+      "text": "Train derailments.",
+      "en": "Train derailments.",
+      "zh": ""
+    },
+    {
+      "start": 166.17,
+      "duration": 1.12,
+      "text": "So if someone pitched,",
+      "en": "So if someone pitched,",
+      "zh": ""
+    },
+    {
+      "start": 167.29,
+      "duration": 2.51,
+      "text": "\"We're just gonna connect all the rails together.\"",
+      "en": "\"We're just gonna connect all the rails together.\"",
+      "zh": ""
+    },
+    {
+      "start": 169.8,
+      "duration": 1.17,
+      "text": "That would be a terrible idea.",
+      "en": "That would be a terrible idea.",
+      "zh": ""
+    },
+    {
+      "start": 170.97,
+      "duration": 1.69,
+      "text": "- That would be a terrible idea.",
+      "en": "- That would be a terrible idea.",
+      "zh": ""
+    },
+    {
+      "start": 172.66,
+      "duration": 0.84,
+      "text": "(dramatic music)",
+      "en": "(dramatic music)",
+      "zh": ""
+    },
+    {
+      "start": 173.5,
+      "duration": 1.82,
+      "text": "The longer the rail, the bigger the gap,",
+      "en": "The longer the rail, the bigger the gap,",
+      "zh": ""
+    },
+    {
+      "start": 175.32,
+      "duration": 1.14,
+      "text": "the bigger the problem.",
+      "en": "the bigger the problem.",
+      "zh": ""
+    },
+    {
+      "start": 176.46,
+      "duration": 3.24,
+      "text": "And now somebody says, \"Hey, I can make an infinite rail.\"",
+      "en": "And now somebody says, \"Hey, I can make an infinite rail.\"",
+      "zh": ""
+    },
+    {
+      "start": 179.7,
+      "duration": 2.64,
+      "text": "That just causes an infinite problem.",
+      "en": "That just causes an infinite problem.",
+      "zh": ""
+    },
+    {
+      "start": 182.34,
+      "duration": 1.02,
+      "text": "(dramatic music continues)",
+      "en": "(dramatic music continues)",
+      "zh": ""
+    },
+    {
+      "start": 183.36,
+      "duration": 3.0,
+      "text": "- The first ones that were actually willing to discuss this",
+      "en": "- The first ones that were actually willing to discuss this",
+      "zh": ""
+    },
+    {
+      "start": 186.36,
+      "duration": 1.41,
+      "text": "were the tram rails.",
+      "en": "were the tram rails.",
+      "zh": ""
+    },
+    {
+      "start": 188.61,
+      "duration": 1.92,
+      "text": "Tram rails, they're in cities,",
+      "en": "Tram rails, they're in cities,",
+      "zh": ""
+    },
+    {
+      "start": 190.53,
+      "duration": 2.34,
+      "text": "they're embedded into the streets.",
+      "en": "they're embedded into the streets.",
+      "zh": ""
+    },
+    {
+      "start": 192.87,
+      "duration": 2.4,
+      "text": "Tram rail is much, much smaller,",
+      "en": "Tram rail is much, much smaller,",
+      "zh": ""
+    },
+    {
+      "start": 195.27,
+      "duration": 1.92,
+      "text": "so the forces are much less.",
+      "en": "so the forces are much less.",
+      "zh": ""
+    },
+    {
+      "start": 197.19,
+      "duration": 2.31,
+      "text": "So, the tram rails were the first ones",
+      "en": "So, the tram rails were the first ones",
+      "zh": ""
+    },
+    {
+      "start": 199.5,
+      "duration": 1.24,
+      "text": "that were interested in,",
+      "en": "that were interested in,",
+      "zh": ""
+    },
+    {
+      "start": 200.74,
+      "duration": 2.87,
+      "text": "\"How can we kind of get rid of this ta-tak, ta-tak?\"",
+      "en": "\"How can we kind of get rid of this ta-tak, ta-tak?\"",
+      "zh": ""
+    },
+    {
+      "start": 203.61,
+      "duration": 1.32,
+      "text": "Because it's kind of annoying,",
+      "en": "Because it's kind of annoying,",
+      "zh": ""
+    },
+    {
+      "start": 204.93,
+      "duration": 2.19,
+      "text": "you know, in the middle of the street.",
+      "en": "you know, in the middle of the street.",
+      "zh": ""
+    },
+    {
+      "start": 207.12,
+      "duration": 1.89,
+      "text": "That was basically the first attempts.",
+      "en": "That was basically the first attempts.",
+      "zh": ""
+    },
+    {
+      "start": 209.01,
+      "duration": 2.92,
+      "text": "And I think in Essen, and then later on in other cities",
+      "en": "And I think in Essen, and then later on in other cities",
+      "zh": ""
+    },
+    {
+      "start": 213.49,
+      "duration": 0.86,
+      "text": "(mellow guitar music)",
+      "en": "(mellow guitar music)",
+      "zh": ""
+    },
+    {
+      "start": 214.35,
+      "duration": 1.77,
+      "text": "- For this video, I got the opportunity",
+      "en": "- For this video, I got the opportunity",
+      "zh": ""
+    },
+    {
+      "start": 216.12,
+      "duration": 2.67,
+      "text": "to weld two rails together using thermite.",
+      "en": "to weld two rails together using thermite.",
+      "zh": ""
+    },
+    {
+      "start": 218.79,
+      "duration": 1.71,
+      "text": "And I'm going to take you through",
+      "en": "And I'm going to take you through",
+      "zh": ""
+    },
+    {
+      "start": 220.5,
+      "duration": 2.16,
+      "text": "the eight steps in the process.",
+      "en": "the eight steps in the process.",
+      "zh": ""
+    },
+    {
+      "start": 223.5,
+      "duration": 2.12,
+      "text": "First, I'll show you how I did it...",
+      "en": "First, I'll show you how I did it...",
+      "zh": ""
+    },
+    {
+      "start": 225.62,
+      "duration": 0.83,
+      "text": "(Derek sighs)",
+      "en": "(Derek sighs)",
+      "zh": ""
+    },
+    {
+      "start": 226.45,
+      "duration": 1.46,
+      "text": "Man, this is difficult.",
+      "en": "Man, this is difficult.",
+      "zh": ""
+    },
+    {
+      "start": 227.91,
+      "duration": 3.0,
+      "text": "And then we'll compare that with how the pros do it.",
+      "en": "And then we'll compare that with how the pros do it.",
+      "zh": ""
+    },
+    {
+      "start": 230.91,
+      "duration": 1.62,
+      "text": "All experiments were performed",
+      "en": "All experiments were performed",
+      "zh": ""
+    },
+    {
+      "start": 232.53,
+      "duration": 1.8,
+      "text": "under the supervision of professionals,",
+      "en": "under the supervision of professionals,",
+      "zh": ""
+    },
+    {
+      "start": 234.33,
+      "duration": 2.13,
+      "text": "with proper safety precautions.",
+      "en": "with proper safety precautions.",
+      "zh": ""
+    },
+    {
+      "start": 236.46,
+      "duration": 2.67,
+      "text": "Okay. We're out here in the German countryside,",
+      "en": "Okay. We're out here in the German countryside,",
+      "zh": ""
+    },
+    {
+      "start": 239.13,
+      "duration": 4.41,
+      "text": "and tonight they're going to be welding this rail.",
+      "en": "and tonight they're going to be welding this rail.",
+      "zh": ""
+    },
+    {
+      "start": 243.54,
+      "duration": 2.15,
+      "text": "They're gonna do like 150 welds tonight.",
+      "en": "They're gonna do like 150 welds tonight.",
+      "zh": ""
+    },
+    {
+      "start": 245.69,
+      "duration": 2.59,
+      "text": "(mellow guitar music fades)",
+      "en": "(mellow guitar music fades)",
+      "zh": ""
+    },
+    {
+      "start": 248.28,
+      "duration": 2.01,
+      "text": "When you're welding rail for real,",
+      "en": "When you're welding rail for real,",
+      "zh": ""
+    },
+    {
+      "start": 250.29,
+      "duration": 2.88,
+      "text": "you wanna do it at the neutral temperature of the rail.",
+      "en": "you wanna do it at the neutral temperature of the rail.",
+      "zh": ""
+    },
+    {
+      "start": 253.17,
+      "duration": 2.7,
+      "text": "That is, a predefined temperature at which the rail",
+      "en": "That is, a predefined temperature at which the rail",
+      "zh": ""
+    },
+    {
+      "start": 255.87,
+      "duration": 2.07,
+      "text": "should have no stress in it.",
+      "en": "should have no stress in it.",
+      "zh": ""
+    },
+    {
+      "start": 257.94,
+      "duration": 3.03,
+      "text": "- And is the temperature by which that piece of track",
+      "en": "- And is the temperature by which that piece of track",
+      "zh": ""
+    },
+    {
+      "start": 260.97,
+      "duration": 0.87,
+      "text": "that you're welding in,",
+      "en": "that you're welding in,",
+      "zh": ""
+    },
+    {
+      "start": 261.84,
+      "duration": 1.74,
+      "text": "is supposed to have zero tension.",
+      "en": "is supposed to have zero tension.",
+      "zh": ""
+    },
+    {
+      "start": 263.58,
+      "duration": 1.14,
+      "text": "When it gets colder than this,",
+      "en": "When it gets colder than this,",
+      "zh": ""
+    },
+    {
+      "start": 264.72,
+      "duration": 1.5,
+      "text": "there's going to be negative tension,",
+      "en": "there's going to be negative tension,",
+      "zh": ""
+    },
+    {
+      "start": 266.22,
+      "duration": 2.28,
+      "text": "and when it gets warmer, there's positive tension.",
+      "en": "and when it gets warmer, there's positive tension.",
+      "zh": ""
+    },
+    {
+      "start": 268.5,
+      "duration": 2.7,
+      "text": "- And since we were filming in Germany in the summer,",
+      "en": "- And since we were filming in Germany in the summer,",
+      "zh": ""
+    },
+    {
+      "start": 271.2,
+      "duration": 3.75,
+      "text": "they weld at night, after the rail has cooled off.",
+      "en": "they weld at night, after the rail has cooled off.",
+      "zh": ""
+    },
+    {
+      "start": 274.95,
+      "duration": 1.8,
+      "text": "Initially, when the rails are laid out,",
+      "en": "Initially, when the rails are laid out,",
+      "zh": ""
+    },
+    {
+      "start": 276.75,
+      "duration": 2.58,
+      "text": "they're placed so they're touching each other.",
+      "en": "they're placed so they're touching each other.",
+      "zh": ""
+    },
+    {
+      "start": 279.33,
+      "duration": 1.92,
+      "text": "And the first step in welding rail",
+      "en": "And the first step in welding rail",
+      "zh": ""
+    },
+    {
+      "start": 281.25,
+      "duration": 2.34,
+      "text": "is therefore to create a gap into which",
+      "en": "is therefore to create a gap into which",
+      "zh": ""
+    },
+    {
+      "start": 283.59,
+      "duration": 2.52,
+      "text": "we'll pour the liquid thermite steel.",
+      "en": "we'll pour the liquid thermite steel.",
+      "zh": ""
+    },
+    {
+      "start": 286.11,
+      "duration": 2.46,
+      "text": "So, you have to cut about two and a half centimeters",
+      "en": "So, you have to cut about two and a half centimeters",
+      "zh": ""
+    },
+    {
+      "start": 288.57,
+      "duration": 2.04,
+      "text": "off the end of one rail.",
+      "en": "off the end of one rail.",
+      "zh": ""
+    },
+    {
+      "start": 290.61,
+      "duration": 2.44,
+      "text": "This can be done with a circular saw.",
+      "en": "This can be done with a circular saw.",
+      "zh": ""
+    },
+    {
+      "start": 293.05,
+      "duration": 1.53,
+      "text": "Let's do this.",
+      "en": "Let's do this.",
+      "zh": ""
+    },
+    {
+      "start": 294.58,
+      "duration": 2.12,
+      "text": "(circular saw revs) Cutting a rail.",
+      "en": "(circular saw revs) Cutting a rail.",
+      "zh": ""
+    },
+    {
+      "start": 296.7,
+      "duration": 3.07,
+      "text": "Out in the field, they cut their gap with a torch.",
+      "en": "Out in the field, they cut their gap with a torch.",
+      "zh": ""
+    },
+    {
+      "start": 299.77,
+      "duration": 1.8,
+      "text": "(mellow guitar music)",
+      "en": "(mellow guitar music)",
+      "zh": ""
+    },
+    {
+      "start": 301.57,
+      "duration": 5.0,
+      "text": "Looks good. (circular saw buzzing)",
+      "en": "Looks good. (circular saw buzzing)",
+      "zh": ""
+    },
+    {
+      "start": 309.4,
+      "duration": 1.89,
+      "text": "(mellow guitar music continues)",
+      "en": "(mellow guitar music continues)",
+      "zh": ""
+    },
+    {
+      "start": 311.29,
+      "duration": 1.01,
+      "text": "Whew!",
+      "en": "Whew!",
+      "zh": ""
+    },
+    {
+      "start": 312.3,
+      "duration": 0.99,
+      "text": "I just need to take a little break.",
+      "en": "I just need to take a little break.",
+      "zh": ""
+    },
+    {
+      "start": 313.29,
+      "duration": 1.44,
+      "text": "Ugh.",
+      "en": "Ugh.",
+      "zh": ""
+    },
+    {
+      "start": 314.73,
+      "duration": 2.11,
+      "text": "That is really exhausting.",
+      "en": "That is really exhausting.",
+      "zh": ""
+    },
+    {
+      "start": 316.84,
+      "duration": 3.25,
+      "text": "(circular saw buzzing)",
+      "en": "(circular saw buzzing)",
+      "zh": ""
+    },
+    {
+      "start": 323.43,
+      "duration": 1.98,
+      "text": "The next step is to line up the rail",
+      "en": "The next step is to line up the rail",
+      "zh": ""
+    },
+    {
+      "start": 325.41,
+      "duration": 2.88,
+      "text": "so the weld will make a seamless connection.",
+      "en": "so the weld will make a seamless connection.",
+      "zh": ""
+    },
+    {
+      "start": 328.29,
+      "duration": 3.78,
+      "text": "Both rails have to be angled slightly up toward the gap.",
+      "en": "Both rails have to be angled slightly up toward the gap.",
+      "zh": ""
+    },
+    {
+      "start": 332.07,
+      "duration": 3.03,
+      "text": "This is because when the liquid thermite steel is poured in,",
+      "en": "This is because when the liquid thermite steel is poured in,",
+      "zh": ""
+    },
+    {
+      "start": 335.1,
+      "duration": 2.25,
+      "text": "it will contract as it cools,",
+      "en": "it will contract as it cools,",
+      "zh": ""
+    },
+    {
+      "start": 337.35,
+      "duration": 2.58,
+      "text": "which creates an inward pulling force.",
+      "en": "which creates an inward pulling force.",
+      "zh": ""
+    },
+    {
+      "start": 339.93,
+      "duration": 2.43,
+      "text": "But that force won't be the same everywhere.",
+      "en": "But that force won't be the same everywhere.",
+      "zh": ""
+    },
+    {
+      "start": 342.36,
+      "duration": 1.86,
+      "text": "Since there's more metal at the top,",
+      "en": "Since there's more metal at the top,",
+      "zh": ""
+    },
+    {
+      "start": 344.22,
+      "duration": 2.7,
+      "text": "there's more force pulling the rail together there.",
+      "en": "there's more force pulling the rail together there.",
+      "zh": ""
+    },
+    {
+      "start": 346.92,
+      "duration": 2.67,
+      "text": "So, that's why the rails have to be angled up,",
+      "en": "So, that's why the rails have to be angled up,",
+      "zh": ""
+    },
+    {
+      "start": 349.59,
+      "duration": 2.4,
+      "text": "so that after the liquid steel contracts,",
+      "en": "so that after the liquid steel contracts,",
+      "zh": ""
+    },
+    {
+      "start": 351.99,
+      "duration": 2.01,
+      "text": "the rails will be perfectly flat.",
+      "en": "the rails will be perfectly flat.",
+      "zh": ""
+    },
+    {
+      "start": 355.17,
+      "duration": 1.5,
+      "text": "- Now you take one of the wrenches,",
+      "en": "- Now you take one of the wrenches,",
+      "zh": ""
+    },
+    {
+      "start": 356.67,
+      "duration": 2.76,
+      "text": "and put it a little bit under the rail.",
+      "en": "and put it a little bit under the rail.",
+      "zh": ""
+    },
+    {
+      "start": 359.43,
+      "duration": 2.4,
+      "text": "- Like there? Or like this?",
+      "en": "- Like there? Or like this?",
+      "zh": ""
+    },
+    {
+      "start": 361.83,
+      "duration": 0.83,
+      "text": "Sideways.",
+      "en": "Sideways.",
+      "zh": ""
+    },
+    {
+      "start": 362.66,
+      "duration": 1.06,
+      "text": "- Sideways would be a little bit better.",
+      "en": "- Sideways would be a little bit better.",
+      "zh": ""
+    },
+    {
+      "start": 363.72,
+      "duration": 0.83,
+      "text": "- Yep. (metal clangs)",
+      "en": "- Yep. (metal clangs)",
+      "zh": ""
+    },
+    {
+      "start": 364.55,
+      "duration": 0.85,
+      "text": "- [Christoph] Yep, that's fine.",
+      "en": "- [Christoph] Yep, that's fine.",
+      "zh": ""
+    },
+    {
+      "start": 365.4,
+      "duration": 1.17,
+      "text": "- [Derek] Okay.",
+      "en": "- [Derek] Okay.",
+      "zh": ""
+    },
+    {
+      "start": 366.57,
+      "duration": 1.68,
+      "text": "- Same goes for the other side.",
+      "en": "- Same goes for the other side.",
+      "zh": ""
+    },
+    {
+      "start": 368.25,
+      "duration": 1.65,
+      "text": "We will check.",
+      "en": "We will check.",
+      "zh": ""
+    },
+    {
+      "start": 369.9,
+      "duration": 1.59,
+      "text": "There's no gap at the moment.",
+      "en": "There's no gap at the moment.",
+      "zh": ""
+    },
+    {
+      "start": 371.49,
+      "duration": 3.9,
+      "text": "We need 2.42, 3.6 here.",
+      "en": "We need 2.42, 3.6 here.",
+      "zh": ""
+    },
+    {
+      "start": 375.39,
+      "duration": 1.77,
+      "text": "Hit it. (hammer clangs)",
+      "en": "Hit it. (hammer clangs)",
+      "zh": ""
+    },
+    {
+      "start": 377.16,
+      "duration": 2.4,
+      "text": "But now this rail is way higher than this one,",
+      "en": "But now this rail is way higher than this one,",
+      "zh": ""
+    },
+    {
+      "start": 379.56,
+      "duration": 2.82,
+      "text": "and we want to have both on the same high.",
+      "en": "and we want to have both on the same high.",
+      "zh": ""
+    },
+    {
+      "start": 382.38,
+      "duration": 2.85,
+      "text": "Means now we have to hit this batch.",
+      "en": "Means now we have to hit this batch.",
+      "zh": ""
+    },
+    {
+      "start": 385.23,
+      "duration": 3.3,
+      "text": "We do that so long until we have correct height.",
+      "en": "We do that so long until we have correct height.",
+      "zh": ""
+    },
+    {
+      "start": 388.53,
+      "duration": 1.74,
+      "text": "(hammer clangs) (whimsical music)",
+      "en": "(hammer clangs) (whimsical music)",
+      "zh": ""
+    },
+    {
+      "start": 390.27,
+      "duration": 0.83,
+      "text": "Okay, stop.",
+      "en": "Okay, stop.",
+      "zh": ""
+    },
+    {
+      "start": 397.13,
+      "duration": 1.41,
+      "text": "Up.",
+      "en": "Up.",
+      "zh": ""
+    },
+    {
+      "start": 398.54,
+      "duration": 1.36,
+      "text": "(hammer clangs)",
+      "en": "(hammer clangs)",
+      "zh": ""
+    },
+    {
+      "start": 399.9,
+      "duration": 1.74,
+      "text": "- In addition to the vertical alignment,",
+      "en": "- In addition to the vertical alignment,",
+      "zh": ""
+    },
+    {
+      "start": 401.64,
+      "duration": 2.85,
+      "text": "the rails also have to be horizontally aligned.",
+      "en": "the rails also have to be horizontally aligned.",
+      "zh": ""
+    },
+    {
+      "start": 404.49,
+      "duration": 1.44,
+      "text": "- [Christoph] If we take a look here,",
+      "en": "- [Christoph] If we take a look here,",
+      "zh": ""
+    },
+    {
+      "start": 405.93,
+      "duration": 3.27,
+      "text": "there's a large gap between the straight edge and the rails.",
+      "en": "there's a large gap between the straight edge and the rails.",
+      "zh": ""
+    },
+    {
+      "start": 409.2,
+      "duration": 0.99,
+      "text": "- [Derek] There's a gap there.",
+      "en": "- [Derek] There's a gap there.",
+      "zh": ""
+    },
+    {
+      "start": 410.19,
+      "duration": 0.83,
+      "text": "- [Christoph] And they need to-",
+      "en": "- [Christoph] And they need to-",
+      "zh": ""
+    },
+    {
+      "start": 411.02,
+      "duration": 1.54,
+      "text": "- [Derek] We need more of a peak this side.",
+      "en": "- [Derek] We need more of a peak this side.",
+      "zh": ""
+    },
+    {
+      "start": 412.56,
+      "duration": 0.9,
+      "text": "- [Christoph] Yeah.",
+      "en": "- [Christoph] Yeah.",
+      "zh": ""
+    },
+    {
+      "start": 413.46,
+      "duration": 1.11,
+      "text": "- Okay. (hammer clangs)",
+      "en": "- Okay. (hammer clangs)",
+      "zh": ""
+    },
+    {
+      "start": 414.57,
+      "duration": 1.53,
+      "text": "And it's a frustrating process,",
+      "en": "And it's a frustrating process,",
+      "zh": ""
+    },
+    {
+      "start": 416.1,
+      "duration": 1.77,
+      "text": "because trying to align them horizontally",
+      "en": "because trying to align them horizontally",
+      "zh": ""
+    },
+    {
+      "start": 417.87,
+      "duration": 3.03,
+      "text": "throws out the vertical alignment and vice versa.",
+      "en": "throws out the vertical alignment and vice versa.",
+      "zh": ""
+    },
+    {
+      "start": 420.9,
+      "duration": 4.35,
+      "text": "I'm lucky I had help, or I would've been here for hours.",
+      "en": "I'm lucky I had help, or I would've been here for hours.",
+      "zh": ""
+    },
+    {
+      "start": 425.25,
+      "duration": 1.65,
+      "text": "When we were finally done that,",
+      "en": "When we were finally done that,",
+      "zh": ""
+    },
+    {
+      "start": 426.9,
+      "duration": 1.53,
+      "text": "we double checked the alignment",
+      "en": "we double checked the alignment",
+      "zh": ""
+    },
+    {
+      "start": 428.43,
+      "duration": 2.64,
+      "text": "at the head and foot of the rail,",
+      "en": "at the head and foot of the rail,",
+      "zh": ""
+    },
+    {
+      "start": 431.07,
+      "duration": 3.33,
+      "text": "and we made a terrifying discovery.",
+      "en": "and we made a terrifying discovery.",
+      "zh": ""
+    },
+    {
+      "start": 434.4,
+      "duration": 2.46,
+      "text": "- Our rail is twisted.",
+      "en": "- Our rail is twisted.",
+      "zh": ""
+    },
+    {
+      "start": 436.86,
+      "duration": 3.0,
+      "text": "- [Derek] Even though both rails were aligned at the top,",
+      "en": "- [Derek] Even though both rails were aligned at the top,",
+      "zh": ""
+    },
+    {
+      "start": 439.86,
+      "duration": 2.85,
+      "text": "One rail was slightly twisted relative to the other,",
+      "en": "One rail was slightly twisted relative to the other,",
+      "zh": ""
+    },
+    {
+      "start": 442.71,
+      "duration": 3.39,
+      "text": "which you can see by it not lining up at the foot.",
+      "en": "which you can see by it not lining up at the foot.",
+      "zh": ""
+    },
+    {
+      "start": 446.1,
+      "duration": 1.38,
+      "text": "- [Christoph] We have a maximum tolerance",
+      "en": "- [Christoph] We have a maximum tolerance",
+      "zh": ""
+    },
+    {
+      "start": 447.48,
+      "duration": 1.89,
+      "text": "that is allowed here of two millimeters.",
+      "en": "that is allowed here of two millimeters.",
+      "zh": ""
+    },
+    {
+      "start": 449.37,
+      "duration": 0.83,
+      "text": "- [Derek] Yep.",
+      "en": "- [Derek] Yep.",
+      "zh": ""
+    },
+    {
+      "start": 450.2,
+      "duration": 1.42,
+      "text": "- Here we have more than two millimeters,",
+      "en": "- Here we have more than two millimeters,",
+      "zh": ""
+    },
+    {
+      "start": 451.62,
+      "duration": 3.3,
+      "text": "so we have to untwist the rail.",
+      "en": "so we have to untwist the rail.",
+      "zh": ""
+    },
+    {
+      "start": 454.92,
+      "duration": 0.83,
+      "text": "- This, of course,",
+      "en": "- This, of course,",
+      "zh": ""
+    },
+    {
+      "start": 455.75,
+      "duration": 2.05,
+      "text": "throughout the vertical and horizontal alignment,",
+      "en": "throughout the vertical and horizontal alignment,",
+      "zh": ""
+    },
+    {
+      "start": 457.8,
+      "duration": 2.34,
+      "text": "so we had to do that all over again.",
+      "en": "so we had to do that all over again.",
+      "zh": ""
+    },
+    {
+      "start": 460.14,
+      "duration": 1.32,
+      "text": "(hammer clangs)",
+      "en": "(hammer clangs)",
+      "zh": ""
+    },
+    {
+      "start": 461.46,
+      "duration": 1.41,
+      "text": "Are we getting closer?",
+      "en": "Are we getting closer?",
+      "zh": ""
+    },
+    {
+      "start": 462.87,
+      "duration": 0.94,
+      "text": "- [Christoph] A little bit more.",
+      "en": "- [Christoph] A little bit more.",
+      "zh": ""
+    },
+    {
+      "start": 463.81,
+      "duration": 0.83,
+      "text": "(hammer clangs)",
+      "en": "(hammer clangs)",
+      "zh": ""
+    },
+    {
+      "start": 464.64,
+      "duration": 1.08,
+      "text": "- [Derek] But out in the field,",
+      "en": "- [Derek] But out in the field,",
+      "zh": ""
+    },
+    {
+      "start": 465.72,
+      "duration": 3.06,
+      "text": "the guys align the rail so quickly and easily,",
+      "en": "the guys align the rail so quickly and easily,",
+      "zh": ""
+    },
+    {
+      "start": 468.78,
+      "duration": 1.98,
+      "text": "It really is an art.",
+      "en": "It really is an art.",
+      "zh": ""
+    },
+    {
+      "start": 470.76,
+      "duration": 2.05,
+      "text": "(hammers clanging)",
+      "en": "(hammers clanging)",
+      "zh": ""
+    },
+    {
+      "start": 472.81,
+      "duration": 2.91,
+      "text": "(objects rattling)",
+      "en": "(objects rattling)",
+      "zh": ""
+    },
+    {
+      "start": 477.15,
+      "duration": 2.61,
+      "text": "- Now we can adjust the clamping device.",
+      "en": "- Now we can adjust the clamping device.",
+      "zh": ""
+    },
+    {
+      "start": 479.76,
+      "duration": 1.77,
+      "text": "- [Derek] This will hold the mold shoes",
+      "en": "- [Derek] This will hold the mold shoes",
+      "zh": ""
+    },
+    {
+      "start": 481.53,
+      "duration": 1.89,
+      "text": "and preheating torch in place.",
+      "en": "and preheating torch in place.",
+      "zh": ""
+    },
+    {
+      "start": 483.42,
+      "duration": 1.74,
+      "text": "- The preheating torch will sit in here.",
+      "en": "- The preheating torch will sit in here.",
+      "zh": ""
+    },
+    {
+      "start": 485.16,
+      "duration": 0.84,
+      "text": "- Yeah.",
+      "en": "- Yeah.",
+      "zh": ""
+    },
+    {
+      "start": 486.0,
+      "duration": 1.86,
+      "text": "- [Christoph] And we will keep the molds in place",
+      "en": "- [Christoph] And we will keep the molds in place",
+      "zh": ""
+    },
+    {
+      "start": 487.86,
+      "duration": 1.35,
+      "text": "with that arms here.",
+      "en": "with that arms here.",
+      "zh": ""
+    },
+    {
+      "start": 489.21,
+      "duration": 0.83,
+      "text": "- Okay.",
+      "en": "- Okay.",
+      "zh": ""
+    },
+    {
+      "start": 490.04,
+      "duration": 1.72,
+      "text": "- [Christoph] The next step, we will align the burner.",
+      "en": "- [Christoph] The next step, we will align the burner.",
+      "zh": ""
+    },
+    {
+      "start": 491.76,
+      "duration": 2.76,
+      "text": "- It's really important to align the torch properly,",
+      "en": "- It's really important to align the torch properly,",
+      "zh": ""
+    },
+    {
+      "start": 494.52,
+      "duration": 2.79,
+      "text": "so that both sides of the rail get heated equally.",
+      "en": "so that both sides of the rail get heated equally.",
+      "zh": ""
+    },
+    {
+      "start": 497.31,
+      "duration": 1.86,
+      "text": "I mean, I think it looks pretty good,",
+      "en": "I mean, I think it looks pretty good,",
+      "zh": ""
+    },
+    {
+      "start": 499.17,
+      "duration": 1.26,
+      "text": "but maybe a little bit that way,",
+      "en": "but maybe a little bit that way,",
+      "zh": ""
+    },
+    {
+      "start": 500.43,
+      "duration": 2.67,
+      "text": "so maybe it could go just a touch.",
+      "en": "so maybe it could go just a touch.",
+      "zh": ""
+    },
+    {
+      "start": 503.1,
+      "duration": 1.86,
+      "text": "- [Christoph] There's one mold, and the plug for you.",
+      "en": "- [Christoph] There's one mold, and the plug for you.",
+      "zh": ""
+    },
+    {
+      "start": 504.96,
+      "duration": 2.91,
+      "text": "- [Derek] Next, we'll put the molds inside the mold shoes,",
+      "en": "- [Derek] Next, we'll put the molds inside the mold shoes,",
+      "zh": ""
+    },
+    {
+      "start": 507.87,
+      "duration": 1.26,
+      "text": "attach them to the clamps...",
+      "en": "attach them to the clamps...",
+      "zh": ""
+    },
+    {
+      "start": 509.13,
+      "duration": 0.84,
+      "text": "Line 'em up.",
+      "en": "Line 'em up.",
+      "zh": ""
+    },
+    {
+      "start": 509.97,
+      "duration": 1.98,
+      "text": "And align both sides.",
+      "en": "And align both sides.",
+      "zh": ""
+    },
+    {
+      "start": 511.95,
+      "duration": 2.76,
+      "text": "It's essential to make the seal water tight,",
+      "en": "It's essential to make the seal water tight,",
+      "zh": ""
+    },
+    {
+      "start": 514.71,
+      "duration": 3.3,
+      "text": "because liquid steel is as liquid as water,",
+      "en": "because liquid steel is as liquid as water,",
+      "zh": ""
+    },
+    {
+      "start": 518.01,
+      "duration": 2.61,
+      "text": "but almost eight times more dense.",
+      "en": "but almost eight times more dense.",
+      "zh": ""
+    },
+    {
+      "start": 520.62,
+      "duration": 1.98,
+      "text": "So if it's not sealed properly,",
+      "en": "So if it's not sealed properly,",
+      "zh": ""
+    },
+    {
+      "start": 522.6,
+      "duration": 1.8,
+      "text": "the steel would just pour out.",
+      "en": "the steel would just pour out.",
+      "zh": ""
+    },
+    {
+      "start": 524.4,
+      "duration": 0.93,
+      "text": "It looks pretty good.",
+      "en": "It looks pretty good.",
+      "zh": ""
+    },
+    {
+      "start": 525.33,
+      "duration": 1.03,
+      "text": "- [Christoph] I hope so.",
+      "en": "- [Christoph] I hope so.",
+      "zh": ""
+    },
+    {
+      "start": 526.36,
+      "duration": 0.83,
+      "text": "(both laughing)",
+      "en": "(both laughing)",
+      "zh": ""
+    },
+    {
+      "start": 527.19,
+      "duration": 2.64,
+      "text": "- I didn't expect us to get it this good on our first go,",
+      "en": "- I didn't expect us to get it this good on our first go,",
+      "zh": ""
+    },
+    {
+      "start": 529.83,
+      "duration": 2.69,
+      "text": "after just the trouble aligning the rails.",
+      "en": "after just the trouble aligning the rails.",
+      "zh": ""
+    },
+    {
+      "start": 532.52,
+      "duration": 2.95,
+      "text": "(whimsical music)",
+      "en": "(whimsical music)",
+      "zh": ""
+    },
+    {
+      "start": 535.47,
+      "duration": 2.31,
+      "text": "- The alining the rails is one of the hardest parts.",
+      "en": "- The alining the rails is one of the hardest parts.",
+      "zh": ""
+    },
+    {
+      "start": 537.78,
+      "duration": 0.99,
+      "text": "- Ugh.",
+      "en": "- Ugh.",
+      "zh": ""
+    },
+    {
+      "start": 538.77,
+      "duration": 1.32,
+      "text": "It's madness.",
+      "en": "It's madness.",
+      "zh": ""
+    },
+    {
+      "start": 540.09,
+      "duration": 2.7,
+      "text": "So, this is sand? Like beach sand?",
+      "en": "So, this is sand? Like beach sand?",
+      "zh": ""
+    },
+    {
+      "start": 542.79,
+      "duration": 3.24,
+      "text": "- No, it has larger amount of clay inside.",
+      "en": "- No, it has larger amount of clay inside.",
+      "zh": ""
+    },
+    {
+      "start": 546.03,
+      "duration": 2.49,
+      "text": "It holds in place and seals.",
+      "en": "It holds in place and seals.",
+      "zh": ""
+    },
+    {
+      "start": 548.52,
+      "duration": 2.31,
+      "text": "I will start sealing this side,",
+      "en": "I will start sealing this side,",
+      "zh": ""
+    },
+    {
+      "start": 550.83,
+      "duration": 2.25,
+      "text": "you can start sealing this side.",
+      "en": "you can start sealing this side.",
+      "zh": ""
+    },
+    {
+      "start": 553.08,
+      "duration": 1.74,
+      "text": "I start sealing with hand,",
+      "en": "I start sealing with hand,",
+      "zh": ""
+    },
+    {
+      "start": 554.82,
+      "duration": 4.12,
+      "text": "and I will compact it with stamping the walls.",
+      "en": "and I will compact it with stamping the walls.",
+      "zh": ""
+    },
+    {
+      "start": 558.94,
+      "duration": 2.39,
+      "text": "(whimsical music) (tools clattering)",
+      "en": "(whimsical music) (tools clattering)",
+      "zh": ""
+    },
+    {
+      "start": 561.33,
+      "duration": 2.31,
+      "text": "- [Derek] And to make sure that none of the liquid metal",
+      "en": "- [Derek] And to make sure that none of the liquid metal",
+      "zh": ""
+    },
+    {
+      "start": 563.64,
+      "duration": 0.84,
+      "text": "can spill out,",
+      "en": "can spill out,",
+      "zh": ""
+    },
+    {
+      "start": 564.48,
+      "duration": 4.08,
+      "text": "we pack in additional sand all over on the sides,",
+      "en": "we pack in additional sand all over on the sides,",
+      "zh": ""
+    },
+    {
+      "start": 568.56,
+      "duration": 2.28,
+      "text": "so there's absolutely no gaps.",
+      "en": "so there's absolutely no gaps.",
+      "zh": ""
+    },
+    {
+      "start": 572.28,
+      "duration": 0.84,
+      "text": "(tense music)",
+      "en": "(tense music)",
+      "zh": ""
+    },
+    {
+      "start": 573.12,
+      "duration": 2.22,
+      "text": "Then it's time for one of the most crucial steps,",
+      "en": "Then it's time for one of the most crucial steps,",
+      "zh": ""
+    },
+    {
+      "start": 575.34,
+      "duration": 1.59,
+      "text": "to preheat the rail.",
+      "en": "to preheat the rail.",
+      "zh": ""
+    },
+    {
+      "start": 576.93,
+      "duration": 1.46,
+      "text": "- [Christoph] Put it in, tighten the screw,",
+      "en": "- [Christoph] Put it in, tighten the screw,",
+      "zh": ""
+    },
+    {
+      "start": 578.39,
+      "duration": 2.35,
+      "text": "and the opening the valve.",
+      "en": "and the opening the valve.",
+      "zh": ""
+    },
+    {
+      "start": 580.74,
+      "duration": 2.34,
+      "text": "- [Derek] We also prepared a demo behind glass,",
+      "en": "- [Derek] We also prepared a demo behind glass,",
+      "zh": ""
+    },
+    {
+      "start": 583.08,
+      "duration": 2.1,
+      "text": "so we can see into the welding process,",
+      "en": "so we can see into the welding process,",
+      "zh": ""
+    },
+    {
+      "start": 585.18,
+      "duration": 2.22,
+      "text": "including preheating.",
+      "en": "including preheating.",
+      "zh": ""
+    },
+    {
+      "start": 587.4,
+      "duration": 2.67,
+      "text": "Preheating is essential for a few reasons.",
+      "en": "Preheating is essential for a few reasons.",
+      "zh": ""
+    },
+    {
+      "start": 590.07,
+      "duration": 2.13,
+      "text": "First, it gets rid of any moisture",
+      "en": "First, it gets rid of any moisture",
+      "zh": ""
+    },
+    {
+      "start": 592.2,
+      "duration": 1.71,
+      "text": "and other volatiles in the mold,",
+      "en": "and other volatiles in the mold,",
+      "zh": ""
+    },
+    {
+      "start": 593.91,
+      "duration": 1.23,
+      "text": "which would create bubbles",
+      "en": "which would create bubbles",
+      "zh": ""
+    },
+    {
+      "start": 595.14,
+      "duration": 2.43,
+      "text": "when the molten steel is poured in.",
+      "en": "when the molten steel is poured in.",
+      "zh": ""
+    },
+    {
+      "start": 597.57,
+      "duration": 3.42,
+      "text": "Second, it makes both rail ends really hot,",
+      "en": "Second, it makes both rail ends really hot,",
+      "zh": ""
+    },
+    {
+      "start": 600.99,
+      "duration": 2.76,
+      "text": "which is crucial because the rate of heat transferred",
+      "en": "which is crucial because the rate of heat transferred",
+      "zh": ""
+    },
+    {
+      "start": 603.75,
+      "duration": 1.65,
+      "text": "depends on the difference in temperature",
+      "en": "depends on the difference in temperature",
+      "zh": ""
+    },
+    {
+      "start": 605.4,
+      "duration": 1.71,
+      "text": "between two materials.",
+      "en": "between two materials.",
+      "zh": ""
+    },
+    {
+      "start": 607.11,
+      "duration": 2.52,
+      "text": "If we poured liquid steel in between",
+      "en": "If we poured liquid steel in between",
+      "zh": ""
+    },
+    {
+      "start": 609.63,
+      "duration": 1.95,
+      "text": "two room temperature rails,",
+      "en": "two room temperature rails,",
+      "zh": ""
+    },
+    {
+      "start": 611.58,
+      "duration": 2.73,
+      "text": "well, the liquid steel would cool rapidly,",
+      "en": "well, the liquid steel would cool rapidly,",
+      "zh": ""
+    },
+    {
+      "start": 614.31,
+      "duration": 2.03,
+      "text": "and that's a problem.",
+      "en": "and that's a problem.",
+      "zh": ""
+    },
+    {
+      "start": 616.34,
+      "duration": 1.72,
+      "text": "(tense music)",
+      "en": "(tense music)",
+      "zh": ""
+    },
+    {
+      "start": 618.06,
+      "duration": 2.64,
+      "text": "- We will heat up two pieces of rail...",
+      "en": "- We will heat up two pieces of rail...",
+      "zh": ""
+    },
+    {
+      "start": 620.7,
+      "duration": 2.22,
+      "text": "(torch hisses)",
+      "en": "(torch hisses)",
+      "zh": ""
+    },
+    {
+      "start": 622.92,
+      "duration": 2.94,
+      "text": "And we will cool down one really fast in water...",
+      "en": "And we will cool down one really fast in water...",
+      "zh": ""
+    },
+    {
+      "start": 625.86,
+      "duration": 2.43,
+      "text": "(torch hisses)",
+      "en": "(torch hisses)",
+      "zh": ""
+    },
+    {
+      "start": 628.29,
+      "duration": 4.02,
+      "text": "And the other one we will cool down in sand, so, slowly.",
+      "en": "And the other one we will cool down in sand, so, slowly.",
+      "zh": ""
+    },
+    {
+      "start": 632.31,
+      "duration": 1.41,
+      "text": "(tense music continues)",
+      "en": "(tense music continues)",
+      "zh": ""
+    },
+    {
+      "start": 633.72,
+      "duration": 2.61,
+      "text": "Just to show how the hardness increase",
+      "en": "Just to show how the hardness increase",
+      "zh": ""
+    },
+    {
+      "start": 636.33,
+      "duration": 2.82,
+      "text": "depending on the cool-down time.",
+      "en": "depending on the cool-down time.",
+      "zh": ""
+    },
+    {
+      "start": 640.5,
+      "duration": 2.31,
+      "text": "And now you try to break it.",
+      "en": "And now you try to break it.",
+      "zh": ""
+    },
+    {
+      "start": 645.39,
+      "duration": 1.6,
+      "text": "- That's hard to bend, actually.",
+      "en": "- That's hard to bend, actually.",
+      "zh": ""
+    },
+    {
+      "start": 648.81,
+      "duration": 1.4,
+      "text": "(Derek grunts)",
+      "en": "(Derek grunts)",
+      "zh": ""
+    },
+    {
+      "start": 650.21,
+      "duration": 1.24,
+      "text": "(whimsical music) (tool clangs)",
+      "en": "(whimsical music) (tool clangs)",
+      "zh": ""
+    },
+    {
+      "start": 651.45,
+      "duration": 2.58,
+      "text": "(hammer thuds)",
+      "en": "(hammer thuds)",
+      "zh": ""
+    },
+    {
+      "start": 658.2,
+      "duration": 1.59,
+      "text": "Yeah, it's hard to bend.",
+      "en": "Yeah, it's hard to bend.",
+      "zh": ""
+    },
+    {
+      "start": 659.79,
+      "duration": 1.71,
+      "text": "That's the one that was in the water.",
+      "en": "That's the one that was in the water.",
+      "zh": ""
+    },
+    {
+      "start": 661.5,
+      "duration": 0.89,
+      "text": "- Yeah.",
+      "en": "- Yeah.",
+      "zh": ""
+    },
+    {
+      "start": 662.39,
+      "duration": 2.1,
+      "text": "And we cooled it down really fast.",
+      "en": "And we cooled it down really fast.",
+      "zh": ""
+    },
+    {
+      "start": 664.49,
+      "duration": 1.93,
+      "text": "(whimsical music continues)",
+      "en": "(whimsical music continues)",
+      "zh": ""
+    },
+    {
+      "start": 666.42,
+      "duration": 1.29,
+      "text": "(metal clangs)",
+      "en": "(metal clangs)",
+      "zh": ""
+    },
+    {
+      "start": 667.71,
+      "duration": 3.15,
+      "text": "And that is how to break it.",
+      "en": "And that is how to break it.",
+      "zh": ""
+    },
+    {
+      "start": 670.86,
+      "duration": 4.23,
+      "text": "And now you see how the structure of the steel has changed.",
+      "en": "And now you see how the structure of the steel has changed.",
+      "zh": ""
+    },
+    {
+      "start": 675.09,
+      "duration": 2.19,
+      "text": "It breaks very easily.",
+      "en": "It breaks very easily.",
+      "zh": ""
+    },
+    {
+      "start": 677.28,
+      "duration": 2.49,
+      "text": "- [Derek] That's because when steel cools rapidly,",
+      "en": "- [Derek] That's because when steel cools rapidly,",
+      "zh": ""
+    },
+    {
+      "start": 679.77,
+      "duration": 2.37,
+      "text": "carbon atoms get trapped in the lattice,",
+      "en": "carbon atoms get trapped in the lattice,",
+      "zh": ""
+    },
+    {
+      "start": 682.14,
+      "duration": 2.79,
+      "text": "creating this needle-like microstructure.",
+      "en": "creating this needle-like microstructure.",
+      "zh": ""
+    },
+    {
+      "start": 684.93,
+      "duration": 3.06,
+      "text": "And that forms a kind of steel known as martensite.",
+      "en": "And that forms a kind of steel known as martensite.",
+      "zh": ""
+    },
+    {
+      "start": 687.99,
+      "duration": 3.75,
+      "text": "Martensite is really hard, but also brittle,",
+      "en": "Martensite is really hard, but also brittle,",
+      "zh": ""
+    },
+    {
+      "start": 691.74,
+      "duration": 2.37,
+      "text": "since the lattice can no longer absorb energy",
+      "en": "since the lattice can no longer absorb energy",
+      "zh": ""
+    },
+    {
+      "start": 694.11,
+      "duration": 1.05,
+      "text": "without fracturing.",
+      "en": "without fracturing.",
+      "zh": ""
+    },
+    {
+      "start": 695.16,
+      "duration": 2.13,
+      "text": "(whimsical music fades)",
+      "en": "(whimsical music fades)",
+      "zh": ""
+    },
+    {
+      "start": 697.29,
+      "duration": 1.68,
+      "text": "(metal clangs)",
+      "en": "(metal clangs)",
+      "zh": ""
+    },
+    {
+      "start": 698.97,
+      "duration": 0.84,
+      "text": "(tense music)",
+      "en": "(tense music)",
+      "zh": ""
+    },
+    {
+      "start": 699.81,
+      "duration": 1.46,
+      "text": "- Now we can take a look on the clock.",
+      "en": "- Now we can take a look on the clock.",
+      "zh": ""
+    },
+    {
+      "start": 701.27,
+      "duration": 0.84,
+      "text": "- Yep.",
+      "en": "- Yep.",
+      "zh": ""
+    },
+    {
+      "start": 702.11,
+      "duration": 4.24,
+      "text": "- We have 1.5 minutes until we have to remove it again.",
+      "en": "- We have 1.5 minutes until we have to remove it again.",
+      "zh": ""
+    },
+    {
+      "start": 706.35,
+      "duration": 0.9,
+      "text": "- Okay.",
+      "en": "- Okay.",
+      "zh": ""
+    },
+    {
+      "start": 707.25,
+      "duration": 2.76,
+      "text": "The next step is to ignite the thermite.",
+      "en": "The next step is to ignite the thermite.",
+      "zh": ""
+    },
+    {
+      "start": 710.01,
+      "duration": 1.92,
+      "text": "And it's important to do this right after",
+      "en": "And it's important to do this right after",
+      "zh": ""
+    },
+    {
+      "start": 711.93,
+      "duration": 1.56,
+      "text": "we turn off the preheating.",
+      "en": "we turn off the preheating.",
+      "zh": ""
+    },
+    {
+      "start": 713.49,
+      "duration": 3.59,
+      "text": "- Five, four, three...",
+      "en": "- Five, four, three...",
+      "zh": ""
+    },
+    {
+      "start": 717.98,
+      "duration": 0.83,
+      "text": "Two, one.",
+      "en": "Two, one.",
+      "zh": ""
+    },
+    {
+      "start": 721.02,
+      "duration": 1.62,
+      "text": "- So, I put the plug in the mold,",
+      "en": "- So, I put the plug in the mold,",
+      "zh": ""
+    },
+    {
+      "start": 722.64,
+      "duration": 1.8,
+      "text": "and then the thermite bucket on top,",
+      "en": "and then the thermite bucket on top,",
+      "zh": ""
+    },
+    {
+      "start": 725.37,
+      "duration": 1.9,
+      "text": "and then I ignited it...",
+      "en": "and then I ignited it...",
+      "zh": ""
+    },
+    {
+      "start": 727.27,
+      "duration": 1.31,
+      "text": "(flame hisses)",
+      "en": "(flame hisses)",
+      "zh": ""
+    },
+    {
+      "start": 728.58,
+      "duration": 1.85,
+      "text": "Oh my goodness, no!",
+      "en": "Oh my goodness, no!",
+      "zh": ""
+    },
+    {
+      "start": 730.43,
+      "duration": 2.35,
+      "text": "(tense music)",
+      "en": "(tense music)",
+      "zh": ""
+    },
+    {
+      "start": 732.78,
+      "duration": 1.29,
+      "text": "In making these videos,",
+      "en": "In making these videos,",
+      "zh": ""
+    },
+    {
+      "start": 734.07,
+      "duration": 2.22,
+      "text": "the team and I often travel around the world",
+      "en": "the team and I often travel around the world",
+      "zh": ""
+    },
+    {
+      "start": 736.29,
+      "duration": 2.7,
+      "text": "talking to scientists and filming at research facilities.",
+      "en": "talking to scientists and filming at research facilities.",
+      "zh": ""
+    },
+    {
+      "start": 738.99,
+      "duration": 2.22,
+      "text": "I mean, guess where I am right now?",
+      "en": "I mean, guess where I am right now?",
+      "zh": ""
+    },
+    {
+      "start": 741.21,
+      "duration": 2.07,
+      "text": "We filmed part one of this video in Germany.",
+      "en": "We filmed part one of this video in Germany.",
+      "zh": ""
+    },
+    {
+      "start": 743.28,
+      "duration": 2.76,
+      "text": "Casper's been in the Netherlands learning about strongbase,",
+      "en": "Casper's been in the Netherlands learning about strongbase,",
+      "zh": ""
+    },
+    {
+      "start": 746.04,
+      "duration": 2.58,
+      "text": "and Peter has just come back from trying and failing",
+      "en": "and Peter has just come back from trying and failing",
+      "zh": ""
+    },
+    {
+      "start": 748.62,
+      "duration": 1.74,
+      "text": "to break glass in New York.",
+      "en": "to break glass in New York.",
+      "zh": ""
+    },
+    {
+      "start": 750.36,
+      "duration": 1.68,
+      "text": "It is a great job perk,",
+      "en": "It is a great job perk,",
+      "zh": ""
+    },
+    {
+      "start": 752.04,
+      "duration": 2.25,
+      "text": "but there is one really annoying problem,",
+      "en": "but there is one really annoying problem,",
+      "zh": ""
+    },
+    {
+      "start": 754.29,
+      "duration": 1.86,
+      "text": "which is that it's hard to stay connected",
+      "en": "which is that it's hard to stay connected",
+      "zh": ""
+    },
+    {
+      "start": 756.15,
+      "duration": 2.4,
+      "text": "with the rest of the team while we're out on location.",
+      "en": "with the rest of the team while we're out on location.",
+      "zh": ""
+    },
+    {
+      "start": 758.55,
+      "duration": 2.64,
+      "text": "We either have to pay ridiculous roaming charges,",
+      "en": "We either have to pay ridiculous roaming charges,",
+      "zh": ""
+    },
+    {
+      "start": 761.19,
+      "duration": 1.62,
+      "text": "or find a local sim card,",
+      "en": "or find a local sim card,",
+      "zh": ""
+    },
+    {
+      "start": 762.81,
+      "duration": 2.28,
+      "text": "or just search around for public wifi.",
+      "en": "or just search around for public wifi.",
+      "zh": ""
+    },
+    {
+      "start": 765.09,
+      "duration": 0.93,
+      "text": "And as you can imagine,",
+      "en": "And as you can imagine,",
+      "zh": ""
+    },
+    {
+      "start": 766.02,
+      "duration": 2.37,
+      "text": "this isn't something we really wanna be dealing with",
+      "en": "this isn't something we really wanna be dealing with",
+      "zh": ""
+    },
+    {
+      "start": 768.39,
+      "duration": 1.35,
+      "text": "while we're making a video.",
+      "en": "while we're making a video.",
+      "zh": ""
+    },
+    {
+      "start": 769.74,
+      "duration": 3.3,
+      "text": "Which is why we use this video sponsor, Saily.",
+      "en": "Which is why we use this video sponsor, Saily.",
+      "zh": ""
+    },
+    {
+      "start": 773.04,
+      "duration": 3.12,
+      "text": "Saily makes it incredibly easy and affordable",
+      "en": "Saily makes it incredibly easy and affordable",
+      "zh": ""
+    },
+    {
+      "start": 776.16,
+      "duration": 2.61,
+      "text": "to stay connected while you're abroad.",
+      "en": "to stay connected while you're abroad.",
+      "zh": ""
+    },
+    {
+      "start": 778.77,
+      "duration": 1.32,
+      "text": "You download it once,",
+      "en": "You download it once,",
+      "zh": ""
+    },
+    {
+      "start": 780.09,
+      "duration": 3.09,
+      "text": "and then you can use it in over 180 countries.",
+      "en": "and then you can use it in over 180 countries.",
+      "zh": ""
+    },
+    {
+      "start": 783.18,
+      "duration": 2.37,
+      "text": "Just choose how much data you want,",
+      "en": "Just choose how much data you want,",
+      "zh": ""
+    },
+    {
+      "start": 785.55,
+      "duration": 1.56,
+      "text": "how long you want it for,",
+      "en": "how long you want it for,",
+      "zh": ""
+    },
+    {
+      "start": 787.11,
+      "duration": 1.89,
+      "text": "and it's super quick to set up.",
+      "en": "and it's super quick to set up.",
+      "zh": ""
+    },
+    {
+      "start": 789.0,
+      "duration": 2.64,
+      "text": "All you have to do is select the country and the plan,",
+      "en": "All you have to do is select the country and the plan,",
+      "zh": ""
+    },
+    {
+      "start": 791.64,
+      "duration": 2.43,
+      "text": "then activate the eSIM, and you're done.",
+      "en": "then activate the eSIM, and you're done.",
+      "zh": ""
+    },
+    {
+      "start": 794.07,
+      "duration": 2.58,
+      "text": "It's also much cheaper than roaming.",
+      "en": "It's also much cheaper than roaming.",
+      "zh": ""
+    },
+    {
+      "start": 796.65,
+      "duration": 2.73,
+      "text": "Then when you land, you can automatically connect",
+      "en": "Then when you land, you can automatically connect",
+      "zh": ""
+    },
+    {
+      "start": 799.38,
+      "duration": 2.7,
+      "text": "to a local network with no hidden charges,",
+      "en": "to a local network with no hidden charges,",
+      "zh": ""
+    },
+    {
+      "start": 802.08,
+      "duration": 3.3,
+      "text": "and you're able to do the important things like access maps,",
+      "en": "and you're able to do the important things like access maps,",
+      "zh": ""
+    },
+    {
+      "start": 805.38,
+      "duration": 1.8,
+      "text": "book a car, or make calls.",
+      "en": "book a car, or make calls.",
+      "zh": ""
+    },
+    {
+      "start": 807.18,
+      "duration": 3.33,
+      "text": "So for your next trip, make sure you scan this QR code",
+      "en": "So for your next trip, make sure you scan this QR code",
+      "zh": ""
+    },
+    {
+      "start": 810.51,
+      "duration": 1.23,
+      "text": "to download the app,",
+      "en": "to download the app,",
+      "zh": ""
+    },
+    {
+      "start": 811.74,
+      "duration": 2.64,
+      "text": "choose a plan in the country you're traveling to.",
+      "en": "choose a plan in the country you're traveling to.",
+      "zh": ""
+    },
+    {
+      "start": 814.38,
+      "duration": 1.74,
+      "text": "And here's the most important thing,",
+      "en": "And here's the most important thing,",
+      "zh": ""
+    },
+    {
+      "start": 816.12,
+      "duration": 2.22,
+      "text": "use our code \"Veritasium\" at checkout",
+      "en": "use our code \"Veritasium\" at checkout",
+      "zh": ""
+    },
+    {
+      "start": 818.34,
+      "duration": 4.41,
+      "text": "to get an exclusive 15% off your first purchase.",
+      "en": "to get an exclusive 15% off your first purchase.",
+      "zh": ""
+    },
+    {
+      "start": 822.75,
+      "duration": 2.82,
+      "text": "So, scan that code, checkout with code \"Veritasium\",",
+      "en": "So, scan that code, checkout with code \"Veritasium\",",
+      "zh": ""
+    },
+    {
+      "start": 825.57,
+      "duration": 1.74,
+      "text": "and get ready for traveling.",
+      "en": "and get ready for traveling.",
+      "zh": ""
+    },
+    {
+      "start": 827.31,
+      "duration": 1.59,
+      "text": "So I wanna say a big thank you to Saily",
+      "en": "So I wanna say a big thank you to Saily",
+      "zh": ""
+    },
+    {
+      "start": 828.9,
+      "duration": 1.23,
+      "text": "for sponsoring this video,",
+      "en": "for sponsoring this video,",
+      "zh": ""
+    },
+    {
+      "start": 830.13,
+      "duration": 1.92,
+      "text": "and now back to thermite welding.",
+      "en": "and now back to thermite welding.",
+      "zh": ""
+    },
+    {
+      "start": 832.05,
+      "duration": 2.5,
+      "text": "(tense music)",
+      "en": "(tense music)",
+      "zh": ""
+    },
+    {
+      "start": 836.43,
+      "duration": 1.34,
+      "text": "Oh my goodness!",
+      "en": "Oh my goodness!",
+      "zh": ""
+    },
+    {
+      "start": 837.77,
+      "duration": 2.05,
+      "text": "(Derek laughs) (intense music)",
+      "en": "(Derek laughs) (intense music)",
+      "zh": ""
+    },
+    {
+      "start": 839.82,
+      "duration": 0.83,
+      "text": "Woo!",
+      "en": "Woo!",
+      "zh": ""
+    },
+    {
+      "start": 843.0,
+      "duration": 0.96,
+      "text": "Wow!",
+      "en": "Wow!",
+      "zh": ""
+    },
+    {
+      "start": 845.53,
+      "duration": 3.14,
+      "text": "(intense music continues)",
+      "en": "(intense music continues)",
+      "zh": ""
+    },
+    {
+      "start": 848.67,
+      "duration": 2.34,
+      "text": "So, the thermite reaction is taking place inside.",
+      "en": "So, the thermite reaction is taking place inside.",
+      "zh": ""
+    },
+    {
+      "start": 851.01,
+      "duration": 4.71,
+      "text": "We're forming molten steel and also molten aluminum oxide.",
+      "en": "We're forming molten steel and also molten aluminum oxide.",
+      "zh": ""
+    },
+    {
+      "start": 856.64,
+      "duration": 3.5,
+      "text": "(intense music continues)",
+      "en": "(intense music continues)",
+      "zh": ""
+    },
+    {
+      "start": 868.17,
+      "duration": 3.42,
+      "text": "All these demos are incredibly difficult to shoot,",
+      "en": "All these demos are incredibly difficult to shoot,",
+      "zh": ""
+    },
+    {
+      "start": 871.59,
+      "duration": 1.98,
+      "text": "because they're gonna be many, many",
+      "en": "because they're gonna be many, many",
+      "zh": ""
+    },
+    {
+      "start": 873.57,
+      "duration": 2.94,
+      "text": "orders of magnitude brighter than the normal scene.",
+      "en": "orders of magnitude brighter than the normal scene.",
+      "zh": ""
+    },
+    {
+      "start": 876.51,
+      "duration": 2.88,
+      "text": "So, just getting exposure is a huge challenge.",
+      "en": "So, just getting exposure is a huge challenge.",
+      "zh": ""
+    },
+    {
+      "start": 879.39,
+      "duration": 3.0,
+      "text": "Something this reminds me of is that the power radiated",
+      "en": "Something this reminds me of is that the power radiated",
+      "zh": ""
+    },
+    {
+      "start": 882.39,
+      "duration": 1.92,
+      "text": "by something thermally",
+      "en": "by something thermally",
+      "zh": ""
+    },
+    {
+      "start": 884.31,
+      "duration": 2.1,
+      "text": "is proportional to temperature to the power of four.",
+      "en": "is proportional to temperature to the power of four.",
+      "zh": ""
+    },
+    {
+      "start": 886.41,
+      "duration": 1.77,
+      "text": "So, slight increases in temperature",
+      "en": "So, slight increases in temperature",
+      "zh": ""
+    },
+    {
+      "start": 888.18,
+      "duration": 2.88,
+      "text": "result in huge increases in power.",
+      "en": "result in huge increases in power.",
+      "zh": ""
+    },
+    {
+      "start": 891.06,
+      "duration": 5.0,
+      "text": "(dark tense music) (torch hisses)",
+      "en": "(dark tense music) (torch hisses)",
+      "zh": ""
+    },
+    {
+      "start": 905.57,
+      "duration": 3.75,
+      "text": "(dark tense music continues)",
+      "en": "(dark tense music continues)",
+      "zh": ""
+    },
+    {
+      "start": 912.24,
+      "duration": 0.83,
+      "text": "In the previous video,",
+      "en": "In the previous video,",
+      "zh": ""
+    },
+    {
+      "start": 913.07,
+      "duration": 2.8,
+      "text": "we showed what happened in the crucible through glass.",
+      "en": "we showed what happened in the crucible through glass.",
+      "zh": ""
+    },
+    {
+      "start": 915.87,
+      "duration": 1.11,
+      "text": "So, you can see the liquid steel",
+      "en": "So, you can see the liquid steel",
+      "zh": ""
+    },
+    {
+      "start": 916.98,
+      "duration": 3.51,
+      "text": "and the liquid aluminum oxide forming and separating out,",
+      "en": "and the liquid aluminum oxide forming and separating out,",
+      "zh": ""
+    },
+    {
+      "start": 920.49,
+      "duration": 2.76,
+      "text": "and then the liquid steel dropping out the bottom.",
+      "en": "and then the liquid steel dropping out the bottom.",
+      "zh": ""
+    },
+    {
+      "start": 923.25,
+      "duration": 2.52,
+      "text": "Well, here we get to see that liquid steel",
+      "en": "Well, here we get to see that liquid steel",
+      "zh": ""
+    },
+    {
+      "start": 925.77,
+      "duration": 1.44,
+      "text": "falling into the mold.",
+      "en": "falling into the mold.",
+      "zh": ""
+    },
+    {
+      "start": 929.21,
+      "duration": 3.31,
+      "text": "(dark tense music continues)",
+      "en": "(dark tense music continues)",
+      "zh": ""
+    },
+    {
+      "start": 932.52,
+      "duration": 2.1,
+      "text": "So, the liquid steel comes in first,",
+      "en": "So, the liquid steel comes in first,",
+      "zh": ""
+    },
+    {
+      "start": 934.62,
+      "duration": 2.13,
+      "text": "and it goes all the way to the bottom.",
+      "en": "and it goes all the way to the bottom.",
+      "zh": ""
+    },
+    {
+      "start": 936.75,
+      "duration": 2.61,
+      "text": "Next, the slag starts to come out.",
+      "en": "Next, the slag starts to come out.",
+      "zh": ""
+    },
+    {
+      "start": 939.36,
+      "duration": 3.27,
+      "text": "But since aluminum oxide has a lower density than steel,",
+      "en": "But since aluminum oxide has a lower density than steel,",
+      "zh": ""
+    },
+    {
+      "start": 942.63,
+      "duration": 2.01,
+      "text": "it's just gonna float on top,",
+      "en": "it's just gonna float on top,",
+      "zh": ""
+    },
+    {
+      "start": 944.64,
+      "duration": 3.18,
+      "text": "and go out the sides into the slag pans.",
+      "en": "and go out the sides into the slag pans.",
+      "zh": ""
+    },
+    {
+      "start": 947.82,
+      "duration": 2.55,
+      "text": "So, that makes sure that we don't get any slag",
+      "en": "So, that makes sure that we don't get any slag",
+      "zh": ""
+    },
+    {
+      "start": 950.37,
+      "duration": 1.86,
+      "text": "mixed in with the liquid steel.",
+      "en": "mixed in with the liquid steel.",
+      "zh": ""
+    },
+    {
+      "start": 956.13,
+      "duration": 1.38,
+      "text": "- That is so awesome.",
+      "en": "- That is so awesome.",
+      "zh": ""
+    },
+    {
+      "start": 957.51,
+      "duration": 1.62,
+      "text": "- [Derek] Yeah.",
+      "en": "- [Derek] Yeah.",
+      "zh": ""
+    },
+    {
+      "start": 959.13,
+      "duration": 1.7,
+      "text": "- [Axel] That is just spectacular.",
+      "en": "- [Axel] That is just spectacular.",
+      "zh": ""
+    },
+    {
+      "start": 962.53,
+      "duration": 0.88,
+      "text": "Whoa!",
+      "en": "Whoa!",
+      "zh": ""
+    },
+    {
+      "start": 963.41,
+      "duration": 2.24,
+      "text": "- [Derek] Ah, that is brilliant.",
+      "en": "- [Derek] Ah, that is brilliant.",
+      "zh": ""
+    },
+    {
+      "start": 965.65,
+      "duration": 2.5,
+      "text": "(tense music)",
+      "en": "(tense music)",
+      "zh": ""
+    },
+    {
+      "start": 969.72,
+      "duration": 1.53,
+      "text": "- And now we wait.",
+      "en": "- And now we wait.",
+      "zh": ""
+    },
+    {
+      "start": 972.6,
+      "duration": 2.94,
+      "text": "We need the steel to cool long enough so that it's solid,",
+      "en": "We need the steel to cool long enough so that it's solid,",
+      "zh": ""
+    },
+    {
+      "start": 975.54,
+      "duration": 3.3,
+      "text": "but not too long so that the excess steel and slag",
+      "en": "but not too long so that the excess steel and slag",
+      "zh": ""
+    },
+    {
+      "start": 978.84,
+      "duration": 1.32,
+      "text": "is difficult to remove.",
+      "en": "is difficult to remove.",
+      "zh": ""
+    },
+    {
+      "start": 980.16,
+      "duration": 1.17,
+      "text": "You have to get the time right.",
+      "en": "You have to get the time right.",
+      "zh": ""
+    },
+    {
+      "start": 981.33,
+      "duration": 0.83,
+      "text": "What does he think?",
+      "en": "What does he think?",
+      "zh": ""
+    },
+    {
+      "start": 982.16,
+      "duration": 1.54,
+      "text": "You guys tell me if it's not liquid anymore.",
+      "en": "You guys tell me if it's not liquid anymore.",
+      "zh": ""
+    },
+    {
+      "start": 983.7,
+      "duration": 0.83,
+      "text": "I believe you.",
+      "en": "I believe you.",
+      "zh": ""
+    },
+    {
+      "start": 984.53,
+      "duration": 1.6,
+      "text": "- Oh, two minutes passed.",
+      "en": "- Oh, two minutes passed.",
+      "zh": ""
+    },
+    {
+      "start": 986.13,
+      "duration": 3.21,
+      "text": "So, let's wait 30 seconds more.",
+      "en": "So, let's wait 30 seconds more.",
+      "zh": ""
+    },
+    {
+      "start": 989.34,
+      "duration": 1.5,
+      "text": "- [Derek] After that time has elapsed,",
+      "en": "- [Derek] After that time has elapsed,",
+      "zh": ""
+    },
+    {
+      "start": 990.84,
+      "duration": 3.51,
+      "text": "then it's time to essentially clean up this weld.",
+      "en": "then it's time to essentially clean up this weld.",
+      "zh": ""
+    },
+    {
+      "start": 994.35,
+      "duration": 3.9,
+      "text": "So, we can remove the slag pans and the mold shoes.",
+      "en": "So, we can remove the slag pans and the mold shoes.",
+      "zh": ""
+    },
+    {
+      "start": 998.25,
+      "duration": 2.52,
+      "text": "(objects clanging)",
+      "en": "(objects clanging)",
+      "zh": ""
+    },
+    {
+      "start": 1000.77,
+      "duration": 2.64,
+      "text": "And we break off the top of this mold.",
+      "en": "And we break off the top of this mold.",
+      "zh": ""
+    },
+    {
+      "start": 1004.3,
+      "duration": 0.84,
+      "text": "(soft dramatic music)",
+      "en": "(soft dramatic music)",
+      "zh": ""
+    },
+    {
+      "start": 1005.14,
+      "duration": 2.05,
+      "text": "These are really single use molds.",
+      "en": "These are really single use molds.",
+      "zh": ""
+    },
+    {
+      "start": 1007.19,
+      "duration": 1.86,
+      "text": "They get destroyed in this process.",
+      "en": "They get destroyed in this process.",
+      "zh": ""
+    },
+    {
+      "start": 1009.05,
+      "duration": 1.8,
+      "text": "(machinery humming)",
+      "en": "(machinery humming)",
+      "zh": ""
+    },
+    {
+      "start": 1010.85,
+      "duration": 1.85,
+      "text": "- [Christoph] And now we put it on the side.",
+      "en": "- [Christoph] And now we put it on the side.",
+      "zh": ""
+    },
+    {
+      "start": 1012.7,
+      "duration": 1.47,
+      "text": "- Put this...",
+      "en": "- Put this...",
+      "zh": ""
+    },
+    {
+      "start": 1014.17,
+      "duration": 1.33,
+      "text": "By the slag pens?",
+      "en": "By the slag pens?",
+      "zh": ""
+    },
+    {
+      "start": 1015.5,
+      "duration": 0.83,
+      "text": "- [Christoph] That's fine.",
+      "en": "- [Christoph] That's fine.",
+      "zh": ""
+    },
+    {
+      "start": 1016.33,
+      "duration": 1.69,
+      "text": "- Then we used a weld shear",
+      "en": "- Then we used a weld shear",
+      "zh": ""
+    },
+    {
+      "start": 1018.02,
+      "duration": 2.46,
+      "text": "that can create up to 20 tons of force",
+      "en": "that can create up to 20 tons of force",
+      "zh": ""
+    },
+    {
+      "start": 1020.48,
+      "duration": 3.82,
+      "text": "to shear off the excess steel from the top of the weld.",
+      "en": "to shear off the excess steel from the top of the weld.",
+      "zh": ""
+    },
+    {
+      "start": 1024.3,
+      "duration": 2.75,
+      "text": "(weld shear buzzes)",
+      "en": "(weld shear buzzes)",
+      "zh": ""
+    },
+    {
+      "start": 1027.05,
+      "duration": 3.66,
+      "text": "(soft dramatic music fades)",
+      "en": "(soft dramatic music fades)",
+      "zh": ""
+    },
+    {
+      "start": 1032.93,
+      "duration": 2.5,
+      "text": "(tense music)",
+      "en": "(tense music)",
+      "zh": ""
+    },
+    {
+      "start": 1036.44,
+      "duration": 1.32,
+      "text": "And after that's done,",
+      "en": "And after that's done,",
+      "zh": ""
+    },
+    {
+      "start": 1037.76,
+      "duration": 2.94,
+      "text": "we hammered off the remaining excess parts.",
+      "en": "we hammered off the remaining excess parts.",
+      "zh": ""
+    },
+    {
+      "start": 1040.7,
+      "duration": 2.58,
+      "text": "(hammer bangs)",
+      "en": "(hammer bangs)",
+      "zh": ""
+    },
+    {
+      "start": 1046.13,
+      "duration": 2.22,
+      "text": "That's fun, actually. I like that step.",
+      "en": "That's fun, actually. I like that step.",
+      "zh": ""
+    },
+    {
+      "start": 1048.35,
+      "duration": 2.07,
+      "text": "The next step is to grind down the weld,",
+      "en": "The next step is to grind down the weld,",
+      "zh": ""
+    },
+    {
+      "start": 1050.42,
+      "duration": 2.79,
+      "text": "so it's exactly the same level as the rail.",
+      "en": "so it's exactly the same level as the rail.",
+      "zh": ""
+    },
+    {
+      "start": 1053.21,
+      "duration": 1.08,
+      "text": "Obviously, you don't want any bumps",
+      "en": "Obviously, you don't want any bumps",
+      "zh": ""
+    },
+    {
+      "start": 1054.29,
+      "duration": 1.83,
+      "text": "when the train is going over it,",
+      "en": "when the train is going over it,",
+      "zh": ""
+    },
+    {
+      "start": 1056.12,
+      "duration": 2.07,
+      "text": "but also you don't want any indents,",
+      "en": "but also you don't want any indents,",
+      "zh": ""
+    },
+    {
+      "start": 1058.19,
+      "duration": 2.25,
+      "text": "so this grinding step is really important.",
+      "en": "so this grinding step is really important.",
+      "zh": ""
+    },
+    {
+      "start": 1060.44,
+      "duration": 2.73,
+      "text": "- So, we put on the grinding machine,",
+      "en": "- So, we put on the grinding machine,",
+      "zh": ""
+    },
+    {
+      "start": 1063.17,
+      "duration": 3.51,
+      "text": "and grind until maximum one millimeter of materials left.",
+      "en": "and grind until maximum one millimeter of materials left.",
+      "zh": ""
+    },
+    {
+      "start": 1066.68,
+      "duration": 2.7,
+      "text": "And we try to only grind on top of the weld.",
+      "en": "And we try to only grind on top of the weld.",
+      "zh": ""
+    },
+    {
+      "start": 1069.38,
+      "duration": 1.17,
+      "text": "- Yeah.",
+      "en": "- Yeah.",
+      "zh": ""
+    },
+    {
+      "start": 1070.55,
+      "duration": 2.91,
+      "text": "(grinder whirring)",
+      "en": "(grinder whirring)",
+      "zh": ""
+    },
+    {
+      "start": 1075.42,
+      "duration": 2.67,
+      "text": "(intense music)",
+      "en": "(intense music)",
+      "zh": ""
+    },
+    {
+      "start": 1079.24,
+      "duration": 2.91,
+      "text": "(grinders buzzing)",
+      "en": "(grinders buzzing)",
+      "zh": ""
+    },
+    {
+      "start": 1083.99,
+      "duration": 2.34,
+      "text": "It's normally conducted in two phases.",
+      "en": "It's normally conducted in two phases.",
+      "zh": ""
+    },
+    {
+      "start": 1086.33,
+      "duration": 1.68,
+      "text": "First there's a rough grind,",
+      "en": "First there's a rough grind,",
+      "zh": ""
+    },
+    {
+      "start": 1088.01,
+      "duration": 2.43,
+      "text": "and then a finer grind is applied later.",
+      "en": "and then a finer grind is applied later.",
+      "zh": ""
+    },
+    {
+      "start": 1091.85,
+      "duration": 2.55,
+      "text": "- And we only grinded the top surface.",
+      "en": "- And we only grinded the top surface.",
+      "zh": ""
+    },
+    {
+      "start": 1094.4,
+      "duration": 0.83,
+      "text": "- Yep.",
+      "en": "- Yep.",
+      "zh": ""
+    },
+    {
+      "start": 1095.23,
+      "duration": 1.9,
+      "text": "- We did not grind the running flank.",
+      "en": "- We did not grind the running flank.",
+      "zh": ""
+    },
+    {
+      "start": 1097.13,
+      "duration": 0.93,
+      "text": "- Yep.",
+      "en": "- Yep.",
+      "zh": ""
+    },
+    {
+      "start": 1098.06,
+      "duration": 0.93,
+      "text": "- [Christoph] Then you have to lift down",
+      "en": "- [Christoph] Then you have to lift down",
+      "zh": ""
+    },
+    {
+      "start": 1098.99,
+      "duration": 1.23,
+      "text": "the grinding device,",
+      "en": "the grinding device,",
+      "zh": ""
+    },
+    {
+      "start": 1100.22,
+      "duration": 2.49,
+      "text": "and hold everything so it's even heavier",
+      "en": "and hold everything so it's even heavier",
+      "zh": ""
+    },
+    {
+      "start": 1102.71,
+      "duration": 1.6,
+      "text": "than the part we've done before.",
+      "en": "than the part we've done before.",
+      "zh": ""
+    },
+    {
+      "start": 1105.29,
+      "duration": 1.83,
+      "text": "That's rough grinding right there.",
+      "en": "That's rough grinding right there.",
+      "zh": ""
+    },
+    {
+      "start": 1107.96,
+      "duration": 1.65,
+      "text": "- I'm sweating'",
+      "en": "- I'm sweating'",
+      "zh": ""
+    },
+    {
+      "start": 1109.61,
+      "duration": 1.4,
+      "text": "It's like a serious workout.",
+      "en": "It's like a serious workout.",
+      "zh": ""
+    },
+    {
+      "start": 1112.94,
+      "duration": 1.35,
+      "text": "(Derek chuckles)",
+      "en": "(Derek chuckles)",
+      "zh": ""
+    },
+    {
+      "start": 1114.29,
+      "duration": 2.43,
+      "text": "The guys in the field were obviously much better",
+      "en": "The guys in the field were obviously much better",
+      "zh": ""
+    },
+    {
+      "start": 1116.72,
+      "duration": 2.22,
+      "text": "at grinding down the rail than I was.",
+      "en": "at grinding down the rail than I was.",
+      "zh": ""
+    },
+    {
+      "start": 1118.94,
+      "duration": 1.38,
+      "text": "So, they would move on,",
+      "en": "So, they would move on,",
+      "zh": ""
+    },
+    {
+      "start": 1120.32,
+      "duration": 4.18,
+      "text": "leaving a still glowing hot section of the rail behind them.",
+      "en": "leaving a still glowing hot section of the rail behind them.",
+      "zh": ""
+    },
+    {
+      "start": 1124.5,
+      "duration": 3.09,
+      "text": "(mellow music fades)",
+      "en": "(mellow music fades)",
+      "zh": ""
+    },
+    {
+      "start": 1129.14,
+      "duration": 2.07,
+      "text": "There probably will be millions of people",
+      "en": "There probably will be millions of people",
+      "zh": ""
+    },
+    {
+      "start": 1131.21,
+      "duration": 1.08,
+      "text": "watching this video.",
+      "en": "watching this video.",
+      "zh": ""
+    },
+    {
+      "start": 1132.29,
+      "duration": 2.82,
+      "text": "What is the likelihood that they have ridden over",
+      "en": "What is the likelihood that they have ridden over",
+      "zh": ""
+    },
+    {
+      "start": 1135.11,
+      "duration": 2.25,
+      "text": "one of your thermite welds?",
+      "en": "one of your thermite welds?",
+      "zh": ""
+    },
+    {
+      "start": 1137.36,
+      "duration": 0.83,
+      "text": "- They will.",
+      "en": "- They will.",
+      "zh": ""
+    },
+    {
+      "start": 1138.19,
+      "duration": 0.84,
+      "text": "- Hundred percent.",
+      "en": "- Hundred percent.",
+      "zh": ""
+    },
+    {
+      "start": 1139.94,
+      "duration": 0.87,
+      "text": "- Anywhere in the world?",
+      "en": "- Anywhere in the world?",
+      "zh": ""
+    },
+    {
+      "start": 1140.81,
+      "duration": 0.84,
+      "text": "- Anywhere in the world.",
+      "en": "- Anywhere in the world.",
+      "zh": ""
+    },
+    {
+      "start": 1141.65,
+      "duration": 1.23,
+      "text": "Of course, there is countries-",
+      "en": "Of course, there is countries-",
+      "zh": ""
+    },
+    {
+      "start": 1142.88,
+      "duration": 0.83,
+      "text": "- North Korea.",
+      "en": "- North Korea.",
+      "zh": ""
+    },
+    {
+      "start": 1143.71,
+      "duration": 3.33,
+      "text": "- Where are not the market leader or something, but...",
+      "en": "- Where are not the market leader or something, but...",
+      "zh": ""
+    },
+    {
+      "start": 1148.22,
+      "duration": 2.54,
+      "text": "Finally they will ride above our welds.",
+      "en": "Finally they will ride above our welds.",
+      "zh": ""
+    },
+    {
+      "start": 1150.76,
+      "duration": 1.96,
+      "text": "(soft tense music)",
+      "en": "(soft tense music)",
+      "zh": ""
+    },
+    {
+      "start": 1152.72,
+      "duration": 1.51,
+      "text": "- [Axel] We'll just cut it out,",
+      "en": "- [Axel] We'll just cut it out,",
+      "zh": ""
+    },
+    {
+      "start": 1154.23,
+      "duration": 3.63,
+      "text": "and then take it over to the methodology lab.",
+      "en": "and then take it over to the methodology lab.",
+      "zh": ""
+    },
+    {
+      "start": 1157.86,
+      "duration": 0.84,
+      "text": "(Derek grunts)",
+      "en": "(Derek grunts)",
+      "zh": ""
+    },
+    {
+      "start": 1158.7,
+      "duration": 0.89,
+      "text": "- That is heavy.",
+      "en": "- That is heavy.",
+      "zh": ""
+    },
+    {
+      "start": 1160.49,
+      "duration": 1.53,
+      "text": "Oh!",
+      "en": "Oh!",
+      "zh": ""
+    },
+    {
+      "start": 1162.02,
+      "duration": 1.71,
+      "text": "That's my weld.",
+      "en": "That's my weld.",
+      "zh": ""
+    },
+    {
+      "start": 1163.73,
+      "duration": 1.29,
+      "text": "My first thermite weld.",
+      "en": "My first thermite weld.",
+      "zh": ""
+    },
+    {
+      "start": 1165.02,
+      "duration": 2.35,
+      "text": "Man, that is hot.",
+      "en": "Man, that is hot.",
+      "zh": ""
+    },
+    {
+      "start": 1167.37,
+      "duration": 1.64,
+      "text": "(Derek exhales)",
+      "en": "(Derek exhales)",
+      "zh": ""
+    },
+    {
+      "start": 1169.01,
+      "duration": 2.61,
+      "text": "- This is what you have done yesterday.",
+      "en": "- This is what you have done yesterday.",
+      "zh": ""
+    },
+    {
+      "start": 1171.62,
+      "duration": 2.1,
+      "text": "We can now put it in the acid.",
+      "en": "We can now put it in the acid.",
+      "zh": ""
+    },
+    {
+      "start": 1173.72,
+      "duration": 1.83,
+      "text": "- What does the acid do to the surface?",
+      "en": "- What does the acid do to the surface?",
+      "zh": ""
+    },
+    {
+      "start": 1175.55,
+      "duration": 2.19,
+      "text": "- The acid attacks the steel.",
+      "en": "- The acid attacks the steel.",
+      "zh": ""
+    },
+    {
+      "start": 1178.94,
+      "duration": 3.09,
+      "text": "But because the orientation of the crystals,",
+      "en": "But because the orientation of the crystals,",
+      "zh": ""
+    },
+    {
+      "start": 1182.03,
+      "duration": 1.77,
+      "text": "inside the steel is not the same,",
+      "en": "inside the steel is not the same,",
+      "zh": ""
+    },
+    {
+      "start": 1183.8,
+      "duration": 4.71,
+      "text": "the acid attacks it not in the same way everywhere.",
+      "en": "the acid attacks it not in the same way everywhere.",
+      "zh": ""
+    },
+    {
+      "start": 1188.51,
+      "duration": 1.98,
+      "text": "And because this is different,",
+      "en": "And because this is different,",
+      "zh": ""
+    },
+    {
+      "start": 1190.49,
+      "duration": 3.24,
+      "text": "you can see different structures.",
+      "en": "you can see different structures.",
+      "zh": ""
+    },
+    {
+      "start": 1193.73,
+      "duration": 3.39,
+      "text": "You can see some fine structures in the rail,",
+      "en": "You can see some fine structures in the rail,",
+      "zh": ""
+    },
+    {
+      "start": 1197.12,
+      "duration": 1.65,
+      "text": "in the heat-affected zone,",
+      "en": "in the heat-affected zone,",
+      "zh": ""
+    },
+    {
+      "start": 1198.77,
+      "duration": 2.52,
+      "text": "and in, let's say, the fusion zone.",
+      "en": "and in, let's say, the fusion zone.",
+      "zh": ""
+    },
+    {
+      "start": 1201.29,
+      "duration": 0.83,
+      "text": "- Mhm.",
+      "en": "- Mhm.",
+      "zh": ""
+    },
+    {
+      "start": 1202.12,
+      "duration": 0.84,
+      "text": "Can I touch it?",
+      "en": "Can I touch it?",
+      "zh": ""
+    },
+    {
+      "start": 1202.96,
+      "duration": 0.83,
+      "text": "- Yeah.",
+      "en": "- Yeah.",
+      "zh": ""
+    },
+    {
+      "start": 1204.65,
+      "duration": 1.12,
+      "text": "- [Derek] Yeah, you can't really feel it.",
+      "en": "- [Derek] Yeah, you can't really feel it.",
+      "zh": ""
+    },
+    {
+      "start": 1205.77,
+      "duration": 1.95,
+      "text": "- [Christopher] It's a microscopic basis.",
+      "en": "- [Christopher] It's a microscopic basis.",
+      "zh": ""
+    },
+    {
+      "start": 1207.72,
+      "duration": 1.31,
+      "text": "- Yeah. - You cannot feel it.",
+      "en": "- Yeah. - You cannot feel it.",
+      "zh": ""
+    },
+    {
+      "start": 1209.03,
+      "duration": 1.65,
+      "text": "- It's interesting, you can see it, but not-",
+      "en": "- It's interesting, you can see it, but not-",
+      "zh": ""
+    },
+    {
+      "start": 1210.68,
+      "duration": 0.83,
+      "text": "- Yeah.",
+      "en": "- Yeah.",
+      "zh": ""
+    },
+    {
+      "start": 1211.51,
+      "duration": 0.88,
+      "text": "- [Derek] And it's a very fine line.",
+      "en": "- [Derek] And it's a very fine line.",
+      "zh": ""
+    },
+    {
+      "start": 1212.39,
+      "duration": 1.86,
+      "text": "- [Christoph] I mean, you can see the different structures",
+      "en": "- [Christoph] I mean, you can see the different structures",
+      "zh": ""
+    },
+    {
+      "start": 1214.25,
+      "duration": 1.71,
+      "text": "of the crystals even.",
+      "en": "of the crystals even.",
+      "zh": ""
+    },
+    {
+      "start": 1215.96,
+      "duration": 2.97,
+      "text": "- [Derek] In the weld, you can see three different zones.",
+      "en": "- [Derek] In the weld, you can see three different zones.",
+      "zh": ""
+    },
+    {
+      "start": 1218.93,
+      "duration": 3.81,
+      "text": "The normal rail is on either side with a horizontal grain,",
+      "en": "The normal rail is on either side with a horizontal grain,",
+      "zh": ""
+    },
+    {
+      "start": 1222.74,
+      "duration": 2.15,
+      "text": "due to how it was rolled in the steel mill.",
+      "en": "due to how it was rolled in the steel mill.",
+      "zh": ""
+    },
+    {
+      "start": 1226.25,
+      "duration": 2.22,
+      "text": "In the middle is the thermite steel.",
+      "en": "In the middle is the thermite steel.",
+      "zh": ""
+    },
+    {
+      "start": 1228.47,
+      "duration": 2.88,
+      "text": "You can still see a bit of horizontal grain,",
+      "en": "You can still see a bit of horizontal grain,",
+      "zh": ""
+    },
+    {
+      "start": 1231.35,
+      "duration": 2.91,
+      "text": "but here it doesn't come from the steel being rolled,",
+      "en": "but here it doesn't come from the steel being rolled,",
+      "zh": ""
+    },
+    {
+      "start": 1234.26,
+      "duration": 2.49,
+      "text": "since this just solidified from liquid.",
+      "en": "since this just solidified from liquid.",
+      "zh": ""
+    },
+    {
+      "start": 1236.75,
+      "duration": 2.76,
+      "text": "Instead, it formed from the solidification front,",
+      "en": "Instead, it formed from the solidification front,",
+      "zh": ""
+    },
+    {
+      "start": 1239.51,
+      "duration": 2.13,
+      "text": "moving from the sides to the center.",
+      "en": "moving from the sides to the center.",
+      "zh": ""
+    },
+    {
+      "start": 1241.64,
+      "duration": 2.58,
+      "text": "And when the crystals from both sides meet,",
+      "en": "And when the crystals from both sides meet,",
+      "zh": ""
+    },
+    {
+      "start": 1244.22,
+      "duration": 2.7,
+      "text": "it creates tiny microscopic pores,",
+      "en": "it creates tiny microscopic pores,",
+      "zh": ""
+    },
+    {
+      "start": 1246.92,
+      "duration": 2.76,
+      "text": "resulting in this darker line in the center.",
+      "en": "resulting in this darker line in the center.",
+      "zh": ""
+    },
+    {
+      "start": 1250.64,
+      "duration": 3.09,
+      "text": "Now, the boundary of the thermite steel isn't sharp.",
+      "en": "Now, the boundary of the thermite steel isn't sharp.",
+      "zh": ""
+    },
+    {
+      "start": 1253.73,
+      "duration": 2.55,
+      "text": "And that's because as the liquid steel pours in,",
+      "en": "And that's because as the liquid steel pours in,",
+      "zh": ""
+    },
+    {
+      "start": 1256.28,
+      "duration": 2.67,
+      "text": "it actually melts some of the rail.",
+      "en": "it actually melts some of the rail.",
+      "zh": ""
+    },
+    {
+      "start": 1258.95,
+      "duration": 2.55,
+      "text": "This helps it form a strong bond.",
+      "en": "This helps it form a strong bond.",
+      "zh": ""
+    },
+    {
+      "start": 1262.61,
+      "duration": 1.2,
+      "text": "- A good weld would be enough",
+      "en": "- A good weld would be enough",
+      "zh": ""
+    },
+    {
+      "start": 1263.81,
+      "duration": 3.39,
+      "text": "with just one atom layer fused.",
+      "en": "with just one atom layer fused.",
+      "zh": ""
+    },
+    {
+      "start": 1267.2,
+      "duration": 3.96,
+      "text": "But we are using the process on a construction site.",
+      "en": "But we are using the process on a construction site.",
+      "zh": ""
+    },
+    {
+      "start": 1271.16,
+      "duration": 1.14,
+      "text": "And on the construction site,",
+      "en": "And on the construction site,",
+      "zh": ""
+    },
+    {
+      "start": 1272.3,
+      "duration": 3.66,
+      "text": "not everything is so good handled like in a laboratory.",
+      "en": "not everything is so good handled like in a laboratory.",
+      "zh": ""
+    },
+    {
+      "start": 1275.96,
+      "duration": 2.4,
+      "text": "The gap is not a hundred percent, always the same.",
+      "en": "The gap is not a hundred percent, always the same.",
+      "zh": ""
+    },
+    {
+      "start": 1278.36,
+      "duration": 1.53,
+      "text": "So, we need something robust,",
+      "en": "So, we need something robust,",
+      "zh": ""
+    },
+    {
+      "start": 1279.89,
+      "duration": 2.22,
+      "text": "which functions on construction sites.",
+      "en": "which functions on construction sites.",
+      "zh": ""
+    },
+    {
+      "start": 1282.11,
+      "duration": 2.22,
+      "text": "- [Derek] In Germany, regulations require melting",
+      "en": "- [Derek] In Germany, regulations require melting",
+      "zh": ""
+    },
+    {
+      "start": 1284.33,
+      "duration": 3.51,
+      "text": "of about three millimeters off each rail.",
+      "en": "of about three millimeters off each rail.",
+      "zh": ""
+    },
+    {
+      "start": 1287.84,
+      "duration": 2.67,
+      "text": "The final zone is in between the normal rail",
+      "en": "The final zone is in between the normal rail",
+      "zh": ""
+    },
+    {
+      "start": 1290.51,
+      "duration": 1.5,
+      "text": "and the thermite steel.",
+      "en": "and the thermite steel.",
+      "zh": ""
+    },
+    {
+      "start": 1292.01,
+      "duration": 2.91,
+      "text": "This steel didn't melt, but it received enough heat",
+      "en": "This steel didn't melt, but it received enough heat",
+      "zh": ""
+    },
+    {
+      "start": 1294.92,
+      "duration": 2.01,
+      "text": "that the crystal structure changed,",
+      "en": "that the crystal structure changed,",
+      "zh": ""
+    },
+    {
+      "start": 1296.93,
+      "duration": 2.76,
+      "text": "resulting in a smaller grain structure.",
+      "en": "resulting in a smaller grain structure.",
+      "zh": ""
+    },
+    {
+      "start": 1299.69,
+      "duration": 2.73,
+      "text": "This is known as the Heat Affected Zone.",
+      "en": "This is known as the Heat Affected Zone.",
+      "zh": ""
+    },
+    {
+      "start": 1302.42,
+      "duration": 2.61,
+      "text": "If you measure the hardness across the weld,",
+      "en": "If you measure the hardness across the weld,",
+      "zh": ""
+    },
+    {
+      "start": 1305.03,
+      "duration": 2.04,
+      "text": "this zone is actually the weakest,",
+      "en": "this zone is actually the weakest,",
+      "zh": ""
+    },
+    {
+      "start": 1307.07,
+      "duration": 2.76,
+      "text": "both in terms of hardness and yield.",
+      "en": "both in terms of hardness and yield.",
+      "zh": ""
+    },
+    {
+      "start": 1309.83,
+      "duration": 1.38,
+      "text": "The amount of force it takes",
+      "en": "The amount of force it takes",
+      "zh": ""
+    },
+    {
+      "start": 1311.21,
+      "duration": 2.1,
+      "text": "to permanently deform the steel.",
+      "en": "to permanently deform the steel.",
+      "zh": ""
+    },
+    {
+      "start": 1313.31,
+      "duration": 4.89,
+      "text": "So if a weld breaks, it's almost always here.",
+      "en": "So if a weld breaks, it's almost always here.",
+      "zh": ""
+    },
+    {
+      "start": 1318.2,
+      "duration": 1.53,
+      "text": "- [Christoph] That's a line you could see",
+      "en": "- [Christoph] That's a line you could see",
+      "zh": ""
+    },
+    {
+      "start": 1319.73,
+      "duration": 1.68,
+      "text": "on that macro etching.",
+      "en": "on that macro etching.",
+      "zh": ""
+    },
+    {
+      "start": 1321.41,
+      "duration": 1.77,
+      "text": "Thermite. - [Derek] Yep.",
+      "en": "Thermite. - [Derek] Yep.",
+      "zh": ""
+    },
+    {
+      "start": 1323.18,
+      "duration": 1.77,
+      "text": "- That's a fusion line.",
+      "en": "- That's a fusion line.",
+      "zh": ""
+    },
+    {
+      "start": 1324.95,
+      "duration": 3.27,
+      "text": "And here we have now rail seal heat affected.",
+      "en": "And here we have now rail seal heat affected.",
+      "zh": ""
+    },
+    {
+      "start": 1328.22,
+      "duration": 2.94,
+      "text": "So, the structure is changed by heating up,",
+      "en": "So, the structure is changed by heating up,",
+      "zh": ""
+    },
+    {
+      "start": 1331.16,
+      "duration": 3.0,
+      "text": "and then re-crystallization of the steel.",
+      "en": "and then re-crystallization of the steel.",
+      "zh": ""
+    },
+    {
+      "start": 1335.45,
+      "duration": 1.35,
+      "text": "- [Derek] So then I guess the question is,",
+      "en": "- [Derek] So then I guess the question is,",
+      "zh": ""
+    },
+    {
+      "start": 1336.8,
+      "duration": 3.39,
+      "text": "how strong is rail that's been welded?",
+      "en": "how strong is rail that's been welded?",
+      "zh": ""
+    },
+    {
+      "start": 1340.19,
+      "duration": 2.67,
+      "text": "Well, at Goldschmidt, they actually take sections of rail",
+      "en": "Well, at Goldschmidt, they actually take sections of rail",
+      "zh": ""
+    },
+    {
+      "start": 1342.86,
+      "duration": 1.38,
+      "text": "that they have welded,",
+      "en": "that they have welded,",
+      "zh": ""
+    },
+    {
+      "start": 1344.24,
+      "duration": 2.55,
+      "text": "and they test them until failure.",
+      "en": "and they test them until failure.",
+      "zh": ""
+    },
+    {
+      "start": 1346.79,
+      "duration": 3.96,
+      "text": "- Every 200, basically, we create one test weld,",
+      "en": "- Every 200, basically, we create one test weld,",
+      "zh": ""
+    },
+    {
+      "start": 1350.75,
+      "duration": 2.13,
+      "text": "and we analyze it in terms of chemistry,",
+      "en": "and we analyze it in terms of chemistry,",
+      "zh": ""
+    },
+    {
+      "start": 1352.88,
+      "duration": 2.07,
+      "text": "we analyze it in terms of hardness,",
+      "en": "we analyze it in terms of hardness,",
+      "zh": ""
+    },
+    {
+      "start": 1354.95,
+      "duration": 2.46,
+      "text": "and we analyze the bending.",
+      "en": "and we analyze the bending.",
+      "zh": ""
+    },
+    {
+      "start": 1357.41,
+      "duration": 2.07,
+      "text": "And this is the bending press.",
+      "en": "And this is the bending press.",
+      "zh": ""
+    },
+    {
+      "start": 1359.48,
+      "duration": 1.62,
+      "text": "They put this in, right?",
+      "en": "They put this in, right?",
+      "zh": ""
+    },
+    {
+      "start": 1361.1,
+      "duration": 3.15,
+      "text": "And then the force comes from top and then goes down,",
+      "en": "And then the force comes from top and then goes down,",
+      "zh": ""
+    },
+    {
+      "start": 1364.25,
+      "duration": 1.02,
+      "text": "and it breaks it.",
+      "en": "and it breaks it.",
+      "zh": ""
+    },
+    {
+      "start": 1365.27,
+      "duration": 4.71,
+      "text": "And we measure the speed and also the force.",
+      "en": "And we measure the speed and also the force.",
+      "zh": ""
+    },
+    {
+      "start": 1371.18,
+      "duration": 2.28,
+      "text": "I'd say, it looks like it's flexing a bit.",
+      "en": "I'd say, it looks like it's flexing a bit.",
+      "zh": ""
+    },
+    {
+      "start": 1373.46,
+      "duration": 4.2,
+      "text": "- So we're loading up that weld, bending it until it snaps.",
+      "en": "- So we're loading up that weld, bending it until it snaps.",
+      "zh": ""
+    },
+    {
+      "start": 1378.5,
+      "duration": 1.44,
+      "text": "See that curve go.",
+      "en": "See that curve go.",
+      "zh": ""
+    },
+    {
+      "start": 1379.94,
+      "duration": 2.07,
+      "text": "We wanna see how much force it takes to snap,",
+      "en": "We wanna see how much force it takes to snap,",
+      "zh": ""
+    },
+    {
+      "start": 1382.01,
+      "duration": 2.85,
+      "text": "and exactly where that break occurs.",
+      "en": "and exactly where that break occurs.",
+      "zh": ""
+    },
+    {
+      "start": 1385.7,
+      "duration": 1.05,
+      "text": "140 tons.",
+      "en": "140 tons.",
+      "zh": ""
+    },
+    {
+      "start": 1388.1,
+      "duration": 1.98,
+      "text": "It's getting really deflected now.",
+      "en": "It's getting really deflected now.",
+      "zh": ""
+    },
+    {
+      "start": 1390.08,
+      "duration": 0.83,
+      "text": "- Yes. - Yeah.",
+      "en": "- Yes. - Yeah.",
+      "zh": ""
+    },
+    {
+      "start": 1391.85,
+      "duration": 1.99,
+      "text": "- 150 tons.",
+      "en": "- 150 tons.",
+      "zh": ""
+    },
+    {
+      "start": 1393.84,
+      "duration": 0.83,
+      "text": "(metal clangs)",
+      "en": "(metal clangs)",
+      "zh": ""
+    },
+    {
+      "start": 1394.67,
+      "duration": 1.68,
+      "text": "Ooh! That was cool.",
+      "en": "Ooh! That was cool.",
+      "zh": ""
+    },
+    {
+      "start": 1396.35,
+      "duration": 1.53,
+      "text": "I was just expecting a little crack,",
+      "en": "I was just expecting a little crack,",
+      "zh": ""
+    },
+    {
+      "start": 1397.88,
+      "duration": 2.46,
+      "text": "like that was catastrophic failure.",
+      "en": "like that was catastrophic failure.",
+      "zh": ""
+    },
+    {
+      "start": 1400.34,
+      "duration": 2.58,
+      "text": "(person laughs) Just over 150 tons.",
+      "en": "(person laughs) Just over 150 tons.",
+      "zh": ""
+    },
+    {
+      "start": 1402.92,
+      "duration": 2.46,
+      "text": "So, we think the crack propagated from the bottom upwards?",
+      "en": "So, we think the crack propagated from the bottom upwards?",
+      "zh": ""
+    },
+    {
+      "start": 1405.38,
+      "duration": 1.5,
+      "text": "'Cause it's being pushed down like that.",
+      "en": "'Cause it's being pushed down like that.",
+      "zh": ""
+    },
+    {
+      "start": 1406.88,
+      "duration": 1.44,
+      "text": "So, this is under a lot of tension.",
+      "en": "So, this is under a lot of tension.",
+      "zh": ""
+    },
+    {
+      "start": 1408.32,
+      "duration": 0.83,
+      "text": "- [Axel] Yes.",
+      "en": "- [Axel] Yes.",
+      "zh": ""
+    },
+    {
+      "start": 1409.15,
+      "duration": 3.01,
+      "text": "- So, it breaks under tension down here, rips up this way.",
+      "en": "- So, it breaks under tension down here, rips up this way.",
+      "zh": ""
+    },
+    {
+      "start": 1412.16,
+      "duration": 2.34,
+      "text": "And so it doesn't break in the middle of the weld.",
+      "en": "And so it doesn't break in the middle of the weld.",
+      "zh": ""
+    },
+    {
+      "start": 1414.5,
+      "duration": 1.98,
+      "text": "You're saying this zone beside it,",
+      "en": "You're saying this zone beside it,",
+      "zh": ""
+    },
+    {
+      "start": 1416.48,
+      "duration": 1.62,
+      "text": "which is a previous rail material",
+      "en": "which is a previous rail material",
+      "zh": ""
+    },
+    {
+      "start": 1418.1,
+      "duration": 1.83,
+      "text": "that got heated up in the weld.",
+      "en": "that got heated up in the weld.",
+      "zh": ""
+    },
+    {
+      "start": 1419.93,
+      "duration": 1.17,
+      "text": "- Yeah. - Is actually weaker.",
+      "en": "- Yeah. - Is actually weaker.",
+      "zh": ""
+    },
+    {
+      "start": 1421.1,
+      "duration": 0.83,
+      "text": "- Yes.",
+      "en": "- Yes.",
+      "zh": ""
+    },
+    {
+      "start": 1421.93,
+      "duration": 0.84,
+      "text": "- [Derek] Whoosh.",
+      "en": "- [Derek] Whoosh.",
+      "zh": ""
+    },
+    {
+      "start": 1425.16,
+      "duration": 2.24,
+      "text": "(grinder buzzes)",
+      "en": "(grinder buzzes)",
+      "zh": ""
+    },
+    {
+      "start": 1427.4,
+      "duration": 2.37,
+      "text": "Every year, around 2 million welds",
+      "en": "Every year, around 2 million welds",
+      "zh": ""
+    },
+    {
+      "start": 1429.77,
+      "duration": 1.68,
+      "text": "are performed using thermite.",
+      "en": "are performed using thermite.",
+      "zh": ""
+    },
+    {
+      "start": 1431.45,
+      "duration": 3.06,
+      "text": "And around half use Goldschmidt's thermite.",
+      "en": "And around half use Goldschmidt's thermite.",
+      "zh": ""
+    },
+    {
+      "start": 1434.51,
+      "duration": 1.5,
+      "text": "Now, each weld creates about",
+      "en": "Now, each weld creates about",
+      "zh": ""
+    },
+    {
+      "start": 1436.01,
+      "duration": 2.07,
+      "text": "two and a half centimeters of rail.",
+      "en": "two and a half centimeters of rail.",
+      "zh": ""
+    },
+    {
+      "start": 1438.08,
+      "duration": 3.87,
+      "text": "So, in total, that's 50 kilometers of railroad",
+      "en": "So, in total, that's 50 kilometers of railroad",
+      "zh": ""
+    },
+    {
+      "start": 1441.95,
+      "duration": 3.36,
+      "text": "created every year out of liquid steel.",
+      "en": "created every year out of liquid steel.",
+      "zh": ""
+    },
+    {
+      "start": 1446.81,
+      "duration": 3.42,
+      "text": "- You have a very demanding process,",
+      "en": "- You have a very demanding process,",
+      "zh": ""
+    },
+    {
+      "start": 1450.23,
+      "duration": 2.91,
+      "text": "and you have to make sure that there's certain properties",
+      "en": "and you have to make sure that there's certain properties",
+      "zh": ""
+    },
+    {
+      "start": 1453.14,
+      "duration": 2.58,
+      "text": "with respect to bending, with respect to tension,",
+      "en": "with respect to bending, with respect to tension,",
+      "zh": ""
+    },
+    {
+      "start": 1455.72,
+      "duration": 1.87,
+      "text": "with respect to hardness.",
+      "en": "with respect to hardness.",
+      "zh": ""
+    },
+    {
+      "start": 1457.59,
+      "duration": 2.6,
+      "text": "(soft music)",
+      "en": "(soft music)",
+      "zh": ""
+    },
+    {
+      "start": 1460.19,
+      "duration": 2.43,
+      "text": "That's a process that needs to be kind of replicated",
+      "en": "That's a process that needs to be kind of replicated",
+      "zh": ""
+    },
+    {
+      "start": 1462.62,
+      "duration": 2.58,
+      "text": "every, every, every time, a million times a year.",
+      "en": "every, every, every time, a million times a year.",
+      "zh": ""
+    },
+    {
+      "start": 1467.12,
+      "duration": 2.19,
+      "text": "- So, with all this continuously welded",
+      "en": "- So, with all this continuously welded",
+      "zh": ""
+    },
+    {
+      "start": 1469.31,
+      "duration": 1.47,
+      "text": "rail around the world,",
+      "en": "rail around the world,",
+      "zh": ""
+    },
+    {
+      "start": 1470.78,
+      "duration": 2.79,
+      "text": "why doesn't it buckle in summer when it heats up?",
+      "en": "why doesn't it buckle in summer when it heats up?",
+      "zh": ""
+    },
+    {
+      "start": 1475.97,
+      "duration": 1.89,
+      "text": "Well, that's because there's another way",
+      "en": "Well, that's because there's another way",
+      "zh": ""
+    },
+    {
+      "start": 1477.86,
+      "duration": 2.7,
+      "text": "to change the length of the rail.",
+      "en": "to change the length of the rail.",
+      "zh": ""
+    },
+    {
+      "start": 1480.56,
+      "duration": 2.43,
+      "text": "Okay, imagine a piece of rail.",
+      "en": "Okay, imagine a piece of rail.",
+      "zh": ""
+    },
+    {
+      "start": 1482.99,
+      "duration": 3.93,
+      "text": "If we use a powerful machine to push on it from both sides,",
+      "en": "If we use a powerful machine to push on it from both sides,",
+      "zh": ""
+    },
+    {
+      "start": 1486.92,
+      "duration": 2.07,
+      "text": "it will shorten slightly.",
+      "en": "it will shorten slightly.",
+      "zh": ""
+    },
+    {
+      "start": 1488.99,
+      "duration": 2.49,
+      "text": "And if on the other hand we pull on the rail,",
+      "en": "And if on the other hand we pull on the rail,",
+      "zh": ""
+    },
+    {
+      "start": 1491.48,
+      "duration": 1.14,
+      "text": "it will lengthen.",
+      "en": "it will lengthen.",
+      "zh": ""
+    },
+    {
+      "start": 1492.62,
+      "duration": 1.86,
+      "text": "So, you can use mechanical stress",
+      "en": "So, you can use mechanical stress",
+      "zh": ""
+    },
+    {
+      "start": 1494.48,
+      "duration": 2.13,
+      "text": "to change the length of the rail.",
+      "en": "to change the length of the rail.",
+      "zh": ""
+    },
+    {
+      "start": 1496.61,
+      "duration": 3.21,
+      "text": "The fractional change in length is called \"strain\".",
+      "en": "The fractional change in length is called \"strain\".",
+      "zh": ""
+    },
+    {
+      "start": 1499.82,
+      "duration": 2.91,
+      "text": "And if you plot the relationship between stress and strain,",
+      "en": "And if you plot the relationship between stress and strain,",
+      "zh": ""
+    },
+    {
+      "start": 1502.73,
+      "duration": 2.88,
+      "text": "you find it has a linear relationship,",
+      "en": "you find it has a linear relationship,",
+      "zh": ""
+    },
+    {
+      "start": 1505.61,
+      "duration": 2.37,
+      "text": "at least with elastic deformation.",
+      "en": "at least with elastic deformation.",
+      "zh": ""
+    },
+    {
+      "start": 1507.98,
+      "duration": 2.25,
+      "text": "As long as the stresses applied are not too large,",
+      "en": "As long as the stresses applied are not too large,",
+      "zh": ""
+    },
+    {
+      "start": 1510.23,
+      "duration": 2.55,
+      "text": "the rail will spring back to its original length",
+      "en": "the rail will spring back to its original length",
+      "zh": ""
+    },
+    {
+      "start": 1512.78,
+      "duration": 1.89,
+      "text": "when the stress is removed.",
+      "en": "when the stress is removed.",
+      "zh": ""
+    },
+    {
+      "start": 1514.67,
+      "duration": 3.0,
+      "text": "And this is key, because as long as we do that,",
+      "en": "And this is key, because as long as we do that,",
+      "zh": ""
+    },
+    {
+      "start": 1517.67,
+      "duration": 2.4,
+      "text": "we have two ways to change the length.",
+      "en": "we have two ways to change the length.",
+      "zh": ""
+    },
+    {
+      "start": 1520.07,
+      "duration": 2.1,
+      "text": "Thermal and mechanical.",
+      "en": "Thermal and mechanical.",
+      "zh": ""
+    },
+    {
+      "start": 1522.17,
+      "duration": 3.06,
+      "text": "And we can use one to compensate for the other.",
+      "en": "And we can use one to compensate for the other.",
+      "zh": ""
+    },
+    {
+      "start": 1525.23,
+      "duration": 2.52,
+      "text": "When the rail thermally wants to expand,",
+      "en": "When the rail thermally wants to expand,",
+      "zh": ""
+    },
+    {
+      "start": 1527.75,
+      "duration": 2.85,
+      "text": "we can use mechanical forces to compress it.",
+      "en": "we can use mechanical forces to compress it.",
+      "zh": ""
+    },
+    {
+      "start": 1530.6,
+      "duration": 2.88,
+      "text": "This is what the sleepers and the ballast are for.",
+      "en": "This is what the sleepers and the ballast are for.",
+      "zh": ""
+    },
+    {
+      "start": 1534.47,
+      "duration": 1.89,
+      "text": "The sleepers pin down the rail,",
+      "en": "The sleepers pin down the rail,",
+      "zh": ""
+    },
+    {
+      "start": 1536.36,
+      "duration": 2.97,
+      "text": "and the ballast locks the sleepers in place.",
+      "en": "and the ballast locks the sleepers in place.",
+      "zh": ""
+    },
+    {
+      "start": 1540.32,
+      "duration": 3.81,
+      "text": "So as the temperature increases, the rail doesn't lengthen.",
+      "en": "So as the temperature increases, the rail doesn't lengthen.",
+      "zh": ""
+    },
+    {
+      "start": 1544.13,
+      "duration": 1.95,
+      "text": "Instead, the stress in the rail,",
+      "en": "Instead, the stress in the rail,",
+      "zh": ""
+    },
+    {
+      "start": 1546.08,
+      "duration": 2.01,
+      "text": "the compressive stress increases.",
+      "en": "the compressive stress increases.",
+      "zh": ""
+    },
+    {
+      "start": 1548.09,
+      "duration": 3.3,
+      "text": "And the rail just expands to the top =and sides,",
+      "en": "And the rail just expands to the top =and sides,",
+      "zh": ""
+    },
+    {
+      "start": 1551.39,
+      "duration": 2.04,
+      "text": "which are unconstrained.",
+      "en": "which are unconstrained.",
+      "zh": ""
+    },
+    {
+      "start": 1553.43,
+      "duration": 2.94,
+      "text": "It's also interesting to note that railroads typically use",
+      "en": "It's also interesting to note that railroads typically use",
+      "zh": ""
+    },
+    {
+      "start": 1556.37,
+      "duration": 2.88,
+      "text": "as high of a neutral temperature as they can,",
+      "en": "as high of a neutral temperature as they can,",
+      "zh": ""
+    },
+    {
+      "start": 1559.25,
+      "duration": 2.52,
+      "text": "because a rail that shrinks too much in winter",
+      "en": "because a rail that shrinks too much in winter",
+      "zh": ""
+    },
+    {
+      "start": 1561.77,
+      "duration": 2.64,
+      "text": "and cracks under tension is less problematic",
+      "en": "and cracks under tension is less problematic",
+      "zh": ""
+    },
+    {
+      "start": 1564.41,
+      "duration": 2.31,
+      "text": "than one that expands too much in summer,",
+      "en": "than one that expands too much in summer,",
+      "zh": ""
+    },
+    {
+      "start": 1566.72,
+      "duration": 1.44,
+      "text": "and therefore buckles.",
+      "en": "and therefore buckles.",
+      "zh": ""
+    },
+    {
+      "start": 1568.16,
+      "duration": 2.28,
+      "text": "It's also easier to detect a cracked rail",
+      "en": "It's also easier to detect a cracked rail",
+      "zh": ""
+    },
+    {
+      "start": 1570.44,
+      "duration": 1.5,
+      "text": "using conductivity measurements",
+      "en": "using conductivity measurements",
+      "zh": ""
+    },
+    {
+      "start": 1571.94,
+      "duration": 1.62,
+      "text": "than one that has buckled.",
+      "en": "than one that has buckled.",
+      "zh": ""
+    },
+    {
+      "start": 1573.56,
+      "duration": 2.13,
+      "text": "So, thermal expansion and contraction",
+      "en": "So, thermal expansion and contraction",
+      "zh": ""
+    },
+    {
+      "start": 1575.69,
+      "duration": 2.88,
+      "text": "are counteracted by mechanical stress.",
+      "en": "are counteracted by mechanical stress.",
+      "zh": ""
+    },
+    {
+      "start": 1578.57,
+      "duration": 1.83,
+      "text": "That is the reason why we don't need",
+      "en": "That is the reason why we don't need",
+      "zh": ""
+    },
+    {
+      "start": 1580.4,
+      "duration": 2.97,
+      "text": "expansion joints in railways.",
+      "en": "expansion joints in railways.",
+      "zh": ""
+    },
+    {
+      "start": 1583.37,
+      "duration": 1.83,
+      "text": "It allows trains to go faster",
+      "en": "It allows trains to go faster",
+      "zh": ""
+    },
+    {
+      "start": 1585.2,
+      "duration": 1.74,
+      "text": "with fewer bumps and vibrations,",
+      "en": "with fewer bumps and vibrations,",
+      "zh": ""
+    },
+    {
+      "start": 1586.94,
+      "duration": 1.98,
+      "text": "and much less maintenance.",
+      "en": "and much less maintenance.",
+      "zh": ""
+    },
+    {
+      "start": 1588.92,
+      "duration": 1.92,
+      "text": "Grady from Practical Engineering actually made",
+      "en": "Grady from Practical Engineering actually made",
+      "zh": ""
+    },
+    {
+      "start": 1590.84,
+      "duration": 2.61,
+      "text": "a whole video about this, and it's excellent.",
+      "en": "a whole video about this, and it's excellent.",
+      "zh": ""
+    },
+    {
+      "start": 1593.45,
+      "duration": 0.85,
+      "text": "I'd recommend it.",
+      "en": "I'd recommend it.",
+      "zh": ""
+    },
+    {
+      "start": 1595.31,
+      "duration": 3.9,
+      "text": "So far, we've seen thermite under normal conditions.",
+      "en": "So far, we've seen thermite under normal conditions.",
+      "zh": ""
+    },
+    {
+      "start": 1599.21,
+      "duration": 1.62,
+      "text": "Wow!",
+      "en": "Wow!",
+      "zh": ""
+    },
+    {
+      "start": 1600.83,
+      "duration": 2.07,
+      "text": "Conditions that are expertly tuned",
+      "en": "Conditions that are expertly tuned",
+      "zh": ""
+    },
+    {
+      "start": 1602.9,
+      "duration": 2.82,
+      "text": "to protect thermite from its environment.",
+      "en": "to protect thermite from its environment.",
+      "zh": ""
+    },
+    {
+      "start": 1605.72,
+      "duration": 0.93,
+      "text": "Oh, oh, oh!",
+      "en": "Oh, oh, oh!",
+      "zh": ""
+    },
+    {
+      "start": 1606.65,
+      "duration": 1.62,
+      "text": "But in the next thermite episode,",
+      "en": "But in the next thermite episode,",
+      "zh": ""
+    },
+    {
+      "start": 1608.27,
+      "duration": 2.7,
+      "text": "we'll find out what happens when this is not the case.",
+      "en": "we'll find out what happens when this is not the case.",
+      "zh": ""
+    },
+    {
+      "start": 1610.97,
+      "duration": 1.77,
+      "text": "And we'll learn how to work with thermite",
+      "en": "And we'll learn how to work with thermite",
+      "zh": ""
+    },
+    {
+      "start": 1612.74,
+      "duration": 1.85,
+      "text": "under these conditions.",
+      "en": "under these conditions.",
+      "zh": ""
+    },
+    {
+      "start": 1614.59,
+      "duration": 0.83,
+      "text": "(explosions booming)",
+      "en": "(explosions booming)",
+      "zh": ""
+    },
+    {
+      "start": 1615.42,
+      "duration": 3.53,
+      "text": "So trust me, you don't want to miss part three.",
+      "en": "So trust me, you don't want to miss part three.",
+      "zh": ""
+    },
+    {
+      "start": 1618.95,
+      "duration": 1.2,
+      "text": "- [Cameraman] My hands are shaking.",
+      "en": "- [Cameraman] My hands are shaking.",
+      "zh": ""
+    },
+    {
+      "start": 1620.15,
+      "duration": 1.02,
+      "text": "- Right?",
+      "en": "- Right?",
+      "zh": ""
+    },
+    {
+      "start": 1621.17,
+      "duration": 2.28,
+      "text": "Make sure you're subscribed to get notified",
+      "en": "Make sure you're subscribed to get notified",
+      "zh": ""
+    },
+    {
+      "start": 1623.45,
+      "duration": 1.96,
+      "text": "when that video comes out.",
+      "en": "when that video comes out.",
+      "zh": ""
+    },
+    {
+      "start": 1625.41,
+      "duration": 3.08,
+      "text": "(electronic beeping)",
+      "en": "(electronic beeping)",
+      "zh": ""
+    }
+  ],
+  "words": []
+}

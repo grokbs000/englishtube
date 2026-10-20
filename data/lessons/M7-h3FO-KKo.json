@@ -1,0 +1,2721 @@
+{
+  "cues": [
+    {
+      "start": 0.0,
+      "duration": 3.12,
+      "text": "I'm about to plug in this fan to test whether blowing on this sail",
+      "en": "I'm about to plug in this fan to test whether blowing on this sail",
+      "zh": ""
+    },
+    {
+      "start": 3.12,
+      "duration": 1.34,
+      "text": "will move the boat forward.",
+      "en": "will move the boat forward.",
+      "zh": ""
+    },
+    {
+      "start": 4.46,
+      "duration": 3.29,
+      "text": "And then I'm traveling 4000 miles to the equator",
+      "en": "And then I'm traveling 4000 miles to the equator",
+      "zh": ""
+    },
+    {
+      "start": 7.75,
+      "duration": 3.96,
+      "text": "where I'm actually standing in both the northern and southern hemispheres,",
+      "en": "where I'm actually standing in both the northern and southern hemispheres,",
+      "zh": ""
+    },
+    {
+      "start": 11.71,
+      "duration": 3.87,
+      "text": "because this line here is the equator, and I'm here to investigate",
+      "en": "because this line here is the equator, and I'm here to investigate",
+      "zh": ""
+    },
+    {
+      "start": 15.58,
+      "duration": 3.04,
+      "text": "whether or not this demo for tourists is a scam.",
+      "en": "whether or not this demo for tourists is a scam.",
+      "zh": ""
+    },
+    {
+      "start": 18.67,
+      "duration": 3.45,
+      "text": "Basically, they pour water in this basin and on the north side of the equator,",
+      "en": "Basically, they pour water in this basin and on the north side of the equator,",
+      "zh": ""
+    },
+    {
+      "start": 22.12,
+      "duration": 2.55,
+      "text": "it seems to swirl and drain counterclockwise,",
+      "en": "it seems to swirl and drain counterclockwise,",
+      "zh": ""
+    },
+    {
+      "start": 24.67,
+      "duration": 2.04,
+      "text": "but just a few feet away in the southern hemisphere.",
+      "en": "but just a few feet away in the southern hemisphere.",
+      "zh": ""
+    },
+    {
+      "start": 26.71,
+      "duration": 3.21,
+      "text": "The water seems to drain in the exact opposite direction.",
+      "en": "The water seems to drain in the exact opposite direction.",
+      "zh": ""
+    },
+    {
+      "start": 29.96,
+      "duration": 1.58,
+      "text": "It's sort of like how you also might have heard",
+      "en": "It's sort of like how you also might have heard",
+      "zh": ""
+    },
+    {
+      "start": 31.54,
+      "duration": 3.34,
+      "text": "toilets flush in opposite directions on different sides of the equator.",
+      "en": "toilets flush in opposite directions on different sides of the equator.",
+      "zh": ""
+    },
+    {
+      "start": 34.88,
+      "duration": 1.66,
+      "text": "And we're here to uncover the truth.",
+      "en": "And we're here to uncover the truth.",
+      "zh": ""
+    },
+    {
+      "start": 36.54,
+      "duration": 2.71,
+      "text": "But I'm not stopping there because today we're going to investigate",
+      "en": "But I'm not stopping there because today we're going to investigate",
+      "zh": ""
+    },
+    {
+      "start": 39.25,
+      "duration": 4.83,
+      "text": "six other physics and engineering puzzles using simple demonstrations as we go.",
+      "en": "six other physics and engineering puzzles using simple demonstrations as we go.",
+      "zh": ""
+    },
+    {
+      "start": 44.08,
+      "duration": 2.04,
+      "text": "Because our goal by the end of this video is for you",
+      "en": "Because our goal by the end of this video is for you",
+      "zh": ""
+    },
+    {
+      "start": 46.12,
+      "duration": 2.88,
+      "text": "not just to know the right answers, but more importantly",
+      "en": "not just to know the right answers, but more importantly",
+      "zh": ""
+    },
+    {
+      "start": 49.0,
+      "duration": 2.92,
+      "text": "for you to understand and why they're the right answers.",
+      "en": "for you to understand and why they're the right answers.",
+      "zh": ""
+    },
+    {
+      "start": 51.92,
+      "duration": 0.83,
+      "text": "To kick things off.",
+      "en": "To kick things off.",
+      "zh": ""
+    },
+    {
+      "start": 52.75,
+      "duration": 1.42,
+      "text": "Speaking of Hemispheres",
+      "en": "Speaking of Hemispheres",
+      "zh": ""
+    },
+    {
+      "start": 54.17,
+      "duration": 1.29,
+      "text": "did you know the moon in the sky",
+      "en": "did you know the moon in the sky",
+      "zh": ""
+    },
+    {
+      "start": 55.46,
+      "duration": 2.79,
+      "text": "looks like this in the Northern hemisphere, like in Canada.",
+      "en": "looks like this in the Northern hemisphere, like in Canada.",
+      "zh": ""
+    },
+    {
+      "start": 58.25,
+      "duration": 4.0,
+      "text": "But it looks like this in the southern hemisphere, like in Australia.",
+      "en": "But it looks like this in the southern hemisphere, like in Australia.",
+      "zh": ""
+    },
+    {
+      "start": 62.25,
+      "duration": 2.25,
+      "text": "It's upside down!",
+      "en": "It's upside down!",
+      "zh": ""
+    },
+    {
+      "start": 64.5,
+      "duration": 3.25,
+      "text": "And while that is a fun fact, it's even more fun to understand why.",
+      "en": "And while that is a fun fact, it's even more fun to understand why.",
+      "zh": ""
+    },
+    {
+      "start": 67.75,
+      "duration": 0.79,
+      "text": "And this is why",
+      "en": "And this is why",
+      "zh": ""
+    },
+    {
+      "start": 68.54,
+      "duration": 2.67,
+      "text": "As we all know, the Earth is...",
+      "en": "As we all know, the Earth is...",
+      "zh": ""
+    },
+    {
+      "start": 71.21,
+      "duration": 0.96,
+      "text": "a sphere.",
+      "en": "a sphere.",
+      "zh": ""
+    },
+    {
+      "start": 72.58,
+      "duration": 2.21,
+      "text": "So if you were Superman standing at the North Pole",
+      "en": "So if you were Superman standing at the North Pole",
+      "zh": ""
+    },
+    {
+      "start": 74.79,
+      "duration": 2.29,
+      "text": "in the Northern hemisphere, you'd look like this.",
+      "en": "in the Northern hemisphere, you'd look like this.",
+      "zh": ""
+    },
+    {
+      "start": 77.08,
+      "duration": 0.46,
+      "text": "But if you were",
+      "en": "But if you were",
+      "zh": ""
+    },
+    {
+      "start": 77.54,
+      "duration": 4.21,
+      "text": "Thor standing in the southern hemisphere in Antarctica, you'd look like this.",
+      "en": "Thor standing in the southern hemisphere in Antarctica, you'd look like this.",
+      "zh": ""
+    },
+    {
+      "start": 81.79,
+      "duration": 3.75,
+      "text": "Now, of course, the moon over here orbits around the earth",
+      "en": "Now, of course, the moon over here orbits around the earth",
+      "zh": ""
+    },
+    {
+      "start": 85.54,
+      "duration": 3.63,
+      "text": "like this, and I'm going to add an arrow to it to help us with orientation.",
+      "en": "like this, and I'm going to add an arrow to it to help us with orientation.",
+      "zh": ""
+    },
+    {
+      "start": 89.17,
+      "duration": 1.66,
+      "text": "And so to the Superman at the North Pole",
+      "en": "And so to the Superman at the North Pole",
+      "zh": ""
+    },
+    {
+      "start": 90.83,
+      "duration": 4.25,
+      "text": "That arrow would point up, but from the perspective of Thor at the South Pole",
+      "en": "That arrow would point up, but from the perspective of Thor at the South Pole",
+      "zh": ""
+    },
+    {
+      "start": 95.08,
+      "duration": 2.92,
+      "text": "That arrow would point down from his perspective.",
+      "en": "That arrow would point down from his perspective.",
+      "zh": ""
+    },
+    {
+      "start": 98.0,
+      "duration": 1.33,
+      "text": "And now I know what you're thinking.",
+      "en": "And now I know what you're thinking.",
+      "zh": ""
+    },
+    {
+      "start": 99.33,
+      "duration": 3.0,
+      "text": "If all that's true, then which way would the arrow point?",
+      "en": "If all that's true, then which way would the arrow point?",
+      "zh": ""
+    },
+    {
+      "start": 102.33,
+      "duration": 3.34,
+      "text": "If you're Spiderman, standing here at the equator.",
+      "en": "If you're Spiderman, standing here at the equator.",
+      "zh": ""
+    },
+    {
+      "start": 105.67,
+      "duration": 3.04,
+      "text": "Well, according to our model here, it should be sideways",
+      "en": "Well, according to our model here, it should be sideways",
+      "zh": ""
+    },
+    {
+      "start": 108.88,
+      "duration": 2.87,
+      "text": "and sure enough, here in Ecuador, at the equator.",
+      "en": "and sure enough, here in Ecuador, at the equator.",
+      "zh": ""
+    },
+    {
+      "start": 111.75,
+      "duration": 4.42,
+      "text": "I'm happy to report that the moon does, in fact, appear to be sideways",
+      "en": "I'm happy to report that the moon does, in fact, appear to be sideways",
+      "zh": ""
+    },
+    {
+      "start": 116.17,
+      "duration": 1.29,
+      "text": "For fun fact two of seven.",
+      "en": "For fun fact two of seven.",
+      "zh": ""
+    },
+    {
+      "start": 117.46,
+      "duration": 0.71,
+      "text": "If you just stick",
+      "en": "If you just stick",
+      "zh": ""
+    },
+    {
+      "start": 118.17,
+      "duration": 3.91,
+      "text": "two pins into some cardboard like this and then connect them with a string",
+      "en": "two pins into some cardboard like this and then connect them with a string",
+      "zh": ""
+    },
+    {
+      "start": 122.08,
+      "duration": 3.71,
+      "text": "and trace it out, you get my favorite geometric shape...",
+      "en": "and trace it out, you get my favorite geometric shape...",
+      "zh": ""
+    },
+    {
+      "start": 125.79,
+      "duration": 0.59,
+      "text": "an ellipse!",
+      "en": "an ellipse!",
+      "zh": ""
+    },
+    {
+      "start": 126.38,
+      "duration": 2.7,
+      "text": "But there's something really special about these two pinholes.",
+      "en": "But there's something really special about these two pinholes.",
+      "zh": ""
+    },
+    {
+      "start": 129.08,
+      "duration": 1.5,
+      "text": "They're called the focus points.",
+      "en": "They're called the focus points.",
+      "zh": ""
+    },
+    {
+      "start": 130.58,
+      "duration": 3.88,
+      "text": "And any straight line you shoot out in any direction from one of the points",
+      "en": "And any straight line you shoot out in any direction from one of the points",
+      "zh": ""
+    },
+    {
+      "start": 134.46,
+      "duration": 4.46,
+      "text": "will bounce off the wall of the Ellipse and always hit the other focus point.",
+      "en": "will bounce off the wall of the Ellipse and always hit the other focus point.",
+      "zh": ""
+    },
+    {
+      "start": 138.92,
+      "duration": 1.75,
+      "text": "And here's proof because I've got a laser pointer",
+      "en": "And here's proof because I've got a laser pointer",
+      "zh": ""
+    },
+    {
+      "start": 140.67,
+      "duration": 2.41,
+      "text": "at one focused point, a ball of wax at the other,",
+      "en": "at one focused point, a ball of wax at the other,",
+      "zh": ""
+    },
+    {
+      "start": 143.08,
+      "duration": 2.8,
+      "text": "and a mirrored surface all along the interior wall.",
+      "en": "and a mirrored surface all along the interior wall.",
+      "zh": ""
+    },
+    {
+      "start": 145.88,
+      "duration": 2.62,
+      "text": "And now you can see, no matter which way I point the laser,",
+      "en": "And now you can see, no matter which way I point the laser,",
+      "zh": ""
+    },
+    {
+      "start": 148.5,
+      "duration": 3.08,
+      "text": "it always bounces off and lights up the wax.",
+      "en": "it always bounces off and lights up the wax.",
+      "zh": ""
+    },
+    {
+      "start": 151.58,
+      "duration": 1.63,
+      "text": "But here's the really cool part.",
+      "en": "But here's the really cool part.",
+      "zh": ""
+    },
+    {
+      "start": 153.21,
+      "duration": 1.91,
+      "text": "If you build an actual full sized room",
+      "en": "If you build an actual full sized room",
+      "zh": ""
+    },
+    {
+      "start": 155.12,
+      "duration": 2.71,
+      "text": "in the shape of an ellipse and then you stand at one focus point,",
+      "en": "in the shape of an ellipse and then you stand at one focus point,",
+      "zh": ""
+    },
+    {
+      "start": 157.83,
+      "duration": 2.75,
+      "text": "you can hear even the faintest whisper from anyone",
+      "en": "you can hear even the faintest whisper from anyone",
+      "zh": ""
+    },
+    {
+      "start": 160.58,
+      "duration": 3.09,
+      "text": "standing at the other focus point, even hundreds of feet away,",
+      "en": "standing at the other focus point, even hundreds of feet away,",
+      "zh": ""
+    },
+    {
+      "start": 163.67,
+      "duration": 3.58,
+      "text": "because all the sound waves bounce right back to your ears",
+      "en": "because all the sound waves bounce right back to your ears",
+      "zh": ""
+    },
+    {
+      "start": 167.25,
+      "duration": 0.33,
+      "text": "in fact,",
+      "en": "in fact,",
+      "zh": ""
+    },
+    {
+      "start": 167.58,
+      "duration": 3.75,
+      "text": "this actual ellipse shaped room was built by John Quincy Adams",
+      "en": "this actual ellipse shaped room was built by John Quincy Adams",
+      "zh": ""
+    },
+    {
+      "start": 171.33,
+      "duration": 1.17,
+      "text": "in the US Capitol building.",
+      "en": "in the US Capitol building.",
+      "zh": ""
+    },
+    {
+      "start": 172.5,
+      "duration": 2.88,
+      "text": "And legend has it, he was a master at anticipating the moves",
+      "en": "And legend has it, he was a master at anticipating the moves",
+      "zh": ""
+    },
+    {
+      "start": 175.38,
+      "duration": 3.79,
+      "text": "of his opponents, plotting against him on the opposite side of the large hall.",
+      "en": "of his opponents, plotting against him on the opposite side of the large hall.",
+      "zh": ""
+    },
+    {
+      "start": 179.17,
+      "duration": 1.45,
+      "text": "And now that you know the physics involved,",
+      "en": "And now that you know the physics involved,",
+      "zh": ""
+    },
+    {
+      "start": 180.62,
+      "duration": 2.71,
+      "text": "it should come as no surprise that John Quincy Adams",
+      "en": "it should come as no surprise that John Quincy Adams",
+      "zh": ""
+    },
+    {
+      "start": 183.33,
+      "duration": 4.09,
+      "text": "conveniently placed his desk right on top of this leftmost focus point.",
+      "en": "conveniently placed his desk right on top of this leftmost focus point.",
+      "zh": ""
+    },
+    {
+      "start": 187.42,
+      "duration": 1.12,
+      "text": "Next up at number three,",
+      "en": "Next up at number three,",
+      "zh": ""
+    },
+    {
+      "start": 188.54,
+      "duration": 1.29,
+      "text": "everyone knows when you slam",
+      "en": "everyone knows when you slam",
+      "zh": ""
+    },
+    {
+      "start": 189.83,
+      "duration": 3.75,
+      "text": "on the accelerator pedal in a car, the stuff in slides backwards.",
+      "en": "on the accelerator pedal in a car, the stuff in slides backwards.",
+      "zh": ""
+    },
+    {
+      "start": 193.58,
+      "duration": 3.46,
+      "text": "And then when you slam on the brakes, the stuff inside just keeps moving",
+      "en": "And then when you slam on the brakes, the stuff inside just keeps moving",
+      "zh": ""
+    },
+    {
+      "start": 197.04,
+      "duration": 2.71,
+      "text": "forward, including you, by the way",
+      "en": "forward, including you, by the way",
+      "zh": ""
+    },
+    {
+      "start": 199.92,
+      "duration": 1.16,
+      "text": "which is why we were seatbelts.",
+      "en": "which is why we were seatbelts.",
+      "zh": ""
+    },
+    {
+      "start": 201.54,
+      "duration": 2.88,
+      "text": "So then why the heck when I'm driving to the birthday party",
+      "en": "So then why the heck when I'm driving to the birthday party",
+      "zh": ""
+    },
+    {
+      "start": 204.42,
+      "duration": 1.7,
+      "text": "and I have to slam on the brakes",
+      "en": "and I have to slam on the brakes",
+      "zh": ""
+    },
+    {
+      "start": 206.12,
+      "duration": 1.92,
+      "text": "does the cake slide forward?",
+      "en": "does the cake slide forward?",
+      "zh": ""
+    },
+    {
+      "start": 208.04,
+      "duration": 2.88,
+      "text": "But the balloons actually move backwards?",
+      "en": "But the balloons actually move backwards?",
+      "zh": ""
+    },
+    {
+      "start": 210.92,
+      "duration": 1.62,
+      "text": "Now as for the cake sliding forward",
+      "en": "Now as for the cake sliding forward",
+      "zh": ""
+    },
+    {
+      "start": 212.54,
+      "duration": 2.5,
+      "text": "Well, that's just Newton's first law in action,",
+      "en": "Well, that's just Newton's first law in action,",
+      "zh": ""
+    },
+    {
+      "start": 215.04,
+      "duration": 4.71,
+      "text": "which basically says all stuff is kind of lazy and wants to stay still",
+      "en": "which basically says all stuff is kind of lazy and wants to stay still",
+      "zh": ""
+    },
+    {
+      "start": 219.75,
+      "duration": 2.79,
+      "text": "unless a force comes in and tries to move things.",
+      "en": "unless a force comes in and tries to move things.",
+      "zh": ""
+    },
+    {
+      "start": 222.54,
+      "duration": 2.75,
+      "text": "And then Newton's second law tells us that the more you weigh",
+      "en": "And then Newton's second law tells us that the more you weigh",
+      "zh": ""
+    },
+    {
+      "start": 225.29,
+      "duration": 4.09,
+      "text": "and the more mass you have, the more force is required to even get you to move.",
+      "en": "and the more mass you have, the more force is required to even get you to move.",
+      "zh": ""
+    },
+    {
+      "start": 229.38,
+      "duration": 1.74,
+      "text": "But here's the thing we sometimes forget.",
+      "en": "But here's the thing we sometimes forget.",
+      "zh": ""
+    },
+    {
+      "start": 231.12,
+      "duration": 3.96,
+      "text": "The air around us is a fluid and it also has mass.",
+      "en": "The air around us is a fluid and it also has mass.",
+      "zh": ""
+    },
+    {
+      "start": 235.38,
+      "duration": 1.62,
+      "text": "It weighs something.",
+      "en": "It weighs something.",
+      "zh": ""
+    },
+    {
+      "start": 237.0,
+      "duration": 2.46,
+      "text": "This is why air pressure is a thing.",
+      "en": "This is why air pressure is a thing.",
+      "zh": ""
+    },
+    {
+      "start": 239.46,
+      "duration": 1.54,
+      "text": "There's tons of air molecules",
+      "en": "There's tons of air molecules",
+      "zh": ""
+    },
+    {
+      "start": 241.0,
+      "duration": 3.25,
+      "text": "stacked up above us and they each weigh just a tiny bit.",
+      "en": "stacked up above us and they each weigh just a tiny bit.",
+      "zh": ""
+    },
+    {
+      "start": 244.42,
+      "duration": 4.2,
+      "text": "So we are like at the bottom of this air molecule dogpile.",
+      "en": "So we are like at the bottom of this air molecule dogpile.",
+      "zh": ""
+    },
+    {
+      "start": 248.67,
+      "duration": 3.5,
+      "text": "This is why your chip bag expands when you head up to the mountains.",
+      "en": "This is why your chip bag expands when you head up to the mountains.",
+      "zh": ""
+    },
+    {
+      "start": 252.17,
+      "duration": 2.16,
+      "text": "It's because it's moved up the dogpile.",
+      "en": "It's because it's moved up the dogpile.",
+      "zh": ""
+    },
+    {
+      "start": 254.33,
+      "duration": 4.34,
+      "text": "Now there's less air above it, weighing down, pushing in on all sides.",
+      "en": "Now there's less air above it, weighing down, pushing in on all sides.",
+      "zh": ""
+    },
+    {
+      "start": 258.67,
+      "duration": 2.33,
+      "text": "And for a little proof, here's a simple demonstration",
+      "en": "And for a little proof, here's a simple demonstration",
+      "zh": ""
+    },
+    {
+      "start": 261.0,
+      "duration": 3.08,
+      "text": "that the air molecules around us do actually weigh something.",
+      "en": "that the air molecules around us do actually weigh something.",
+      "zh": ""
+    },
+    {
+      "start": 264.08,
+      "duration": 2.59,
+      "text": "When I throw this balloon at the sign, it moves,",
+      "en": "When I throw this balloon at the sign, it moves,",
+      "zh": ""
+    },
+    {
+      "start": 266.67,
+      "duration": 1.83,
+      "text": "but it doesn't quite knock it over.",
+      "en": "but it doesn't quite knock it over.",
+      "zh": ""
+    },
+    {
+      "start": 268.5,
+      "duration": 4.29,
+      "text": "Now, all I'm going to do is take that exact same balloon and just add air.",
+      "en": "Now, all I'm going to do is take that exact same balloon and just add air.",
+      "zh": ""
+    },
+    {
+      "start": 272.79,
+      "duration": 0.63,
+      "text": "That's it.",
+      "en": "That's it.",
+      "zh": ""
+    },
+    {
+      "start": 273.42,
+      "duration": 2.41,
+      "text": "Everything else is identical and unchanged.",
+      "en": "Everything else is identical and unchanged.",
+      "zh": ""
+    },
+    {
+      "start": 275.83,
+      "duration": 3.09,
+      "text": "And yet now, it bonks the sign over.",
+      "en": "And yet now, it bonks the sign over.",
+      "zh": ""
+    },
+    {
+      "start": 278.92,
+      "duration": 4.7,
+      "text": "So that means we increased the mass only by adding some extra air.",
+      "en": "So that means we increased the mass only by adding some extra air.",
+      "zh": ""
+    },
+    {
+      "start": 283.62,
+      "duration": 1.26,
+      "text": "Because again, Newton's",
+      "en": "Because again, Newton's",
+      "zh": ""
+    },
+    {
+      "start": 284.88,
+      "duration": 1.37,
+      "text": "second law states",
+      "en": "second law states",
+      "zh": ""
+    },
+    {
+      "start": 286.25,
+      "duration": 1.87,
+      "text": "the heavier, the more massive a thing is",
+      "en": "the heavier, the more massive a thing is",
+      "zh": ""
+    },
+    {
+      "start": 288.12,
+      "duration": 2.5,
+      "text": "the better it is at bonking things over.",
+      "en": "the better it is at bonking things over.",
+      "zh": ""
+    },
+    {
+      "start": 290.62,
+      "duration": 1.88,
+      "text": "So in the car, when you slam on the brakes",
+      "en": "So in the car, when you slam on the brakes",
+      "zh": ""
+    },
+    {
+      "start": 292.5,
+      "duration": 3.62,
+      "text": "it’s not just the stuff in the back that has mass that wants to keep moving,",
+      "en": "it’s not just the stuff in the back that has mass that wants to keep moving,",
+      "zh": ""
+    },
+    {
+      "start": 296.12,
+      "duration": 3.26,
+      "text": "but all that invisible air does too.",
+      "en": "but all that invisible air does too.",
+      "zh": ""
+    },
+    {
+      "start": 299.38,
+      "duration": 4.16,
+      "text": "So the air itself also sloshes forward when I slam on the brakes.",
+      "en": "So the air itself also sloshes forward when I slam on the brakes.",
+      "zh": ""
+    },
+    {
+      "start": 303.54,
+      "duration": 3.42,
+      "text": "And since that air is more dense than the helium gas in the balloon,",
+      "en": "And since that air is more dense than the helium gas in the balloon,",
+      "zh": ""
+    },
+    {
+      "start": 306.96,
+      "duration": 2.75,
+      "text": "the lightweight balloon gets forced backwards.",
+      "en": "the lightweight balloon gets forced backwards.",
+      "zh": ""
+    },
+    {
+      "start": 309.71,
+      "duration": 1.62,
+      "text": "And that's what we'd expect, right?",
+      "en": "And that's what we'd expect, right?",
+      "zh": ""
+    },
+    {
+      "start": 311.33,
+      "duration": 3.17,
+      "text": "We say a helium balloon floats in air",
+      "en": "We say a helium balloon floats in air",
+      "zh": ""
+    },
+    {
+      "start": 314.5,
+      "duration": 3.12,
+      "text": "or this ping pong ball floats in water",
+      "en": "or this ping pong ball floats in water",
+      "zh": ""
+    },
+    {
+      "start": 317.62,
+      "duration": 2.63,
+      "text": "but it's almost more like the heavier, more dense thing",
+      "en": "but it's almost more like the heavier, more dense thing",
+      "zh": ""
+    },
+    {
+      "start": 320.25,
+      "duration": 1.21,
+      "text": "in this case, the water",
+      "en": "in this case, the water",
+      "zh": ""
+    },
+    {
+      "start": 321.46,
+      "duration": 2.0,
+      "text": "rudely cuts to the front of the line",
+      "en": "rudely cuts to the front of the line",
+      "zh": ""
+    },
+    {
+      "start": 323.46,
+      "duration": 3.58,
+      "text": "forcing the poor ping pong ball up and out of the way.",
+      "en": "forcing the poor ping pong ball up and out of the way.",
+      "zh": ""
+    },
+    {
+      "start": 327.04,
+      "duration": 2.75,
+      "text": "In fact, you can see if we lay this jar on its side.",
+      "en": "In fact, you can see if we lay this jar on its side.",
+      "zh": ""
+    },
+    {
+      "start": 329.79,
+      "duration": 2.21,
+      "text": "The same thing happens as in the car.",
+      "en": "The same thing happens as in the car.",
+      "zh": ""
+    },
+    {
+      "start": 332.0,
+      "duration": 1.38,
+      "text": "When I give the jar a push,",
+      "en": "When I give the jar a push,",
+      "zh": ""
+    },
+    {
+      "start": 333.38,
+      "duration": 3.91,
+      "text": "the water sloshes back, which forces the ping pong ball forward",
+      "en": "the water sloshes back, which forces the ping pong ball forward",
+      "zh": ""
+    },
+    {
+      "start": 337.38,
+      "duration": 1.41,
+      "text": "and then when it stops",
+      "en": "and then when it stops",
+      "zh": ""
+    },
+    {
+      "start": 338.79,
+      "duration": 3.42,
+      "text": "the water sloshes forward, forcing the ping pong ball back",
+      "en": "the water sloshes forward, forcing the ping pong ball back",
+      "zh": ""
+    },
+    {
+      "start": 342.21,
+      "duration": 2.08,
+      "text": "then for number four, we're back here on the lake",
+      "en": "then for number four, we're back here on the lake",
+      "zh": ""
+    },
+    {
+      "start": 344.29,
+      "duration": 3.13,
+      "text": "to figure out if sailboats move by having wind blow in their sails",
+      "en": "to figure out if sailboats move by having wind blow in their sails",
+      "zh": ""
+    },
+    {
+      "start": 347.42,
+      "duration": 2.2,
+      "text": "Why don't they just get a big old fan like this",
+      "en": "Why don't they just get a big old fan like this",
+      "zh": ""
+    },
+    {
+      "start": 349.62,
+      "duration": 1.55,
+      "text": "to power them through the water?",
+      "en": "to power them through the water?",
+      "zh": ""
+    },
+    {
+      "start": 351.17,
+      "duration": 3.71,
+      "text": "Sort of like the guy in this viral video who's using a leaf blower",
+      "en": "Sort of like the guy in this viral video who's using a leaf blower",
+      "zh": ""
+    },
+    {
+      "start": 354.88,
+      "duration": 3.79,
+      "text": "pointing into an umbrella to scoot his way around on a skateboard.",
+      "en": "pointing into an umbrella to scoot his way around on a skateboard.",
+      "zh": ""
+    },
+    {
+      "start": 358.67,
+      "duration": 2.87,
+      "text": "Well, let's think this through with the simple demo of a fan",
+      "en": "Well, let's think this through with the simple demo of a fan",
+      "zh": ""
+    },
+    {
+      "start": 361.54,
+      "duration": 1.75,
+      "text": "that's attached to this train car.",
+      "en": "that's attached to this train car.",
+      "zh": ""
+    },
+    {
+      "start": 363.29,
+      "duration": 1.42,
+      "text": "When I turn the fan on",
+      "en": "When I turn the fan on",
+      "zh": ""
+    },
+    {
+      "start": 364.71,
+      "duration": 3.25,
+      "text": "and it blows air to the right, which way will the car go?",
+      "en": "and it blows air to the right, which way will the car go?",
+      "zh": ""
+    },
+    {
+      "start": 368.54,
+      "duration": 2.17,
+      "text": "Well, of course it goes to the left because it's basically",
+      "en": "Well, of course it goes to the left because it's basically",
+      "zh": ""
+    },
+    {
+      "start": 370.71,
+      "duration": 2.0,
+      "text": "cutting through the air and pushing it backwards,",
+      "en": "cutting through the air and pushing it backwards,",
+      "zh": ""
+    },
+    {
+      "start": 372.71,
+      "duration": 3.21,
+      "text": "which creates an equal and opposite reaction that pushes the train forward.",
+      "en": "which creates an equal and opposite reaction that pushes the train forward.",
+      "zh": ""
+    },
+    {
+      "start": 375.92,
+      "duration": 3.62,
+      "text": "Just like an airplane propeller pushing air backwards, moves the plane forward.",
+      "en": "Just like an airplane propeller pushing air backwards, moves the plane forward.",
+      "zh": ""
+    },
+    {
+      "start": 379.54,
+      "duration": 2.0,
+      "text": "It's so different than me standing on this skateboard",
+      "en": "It's so different than me standing on this skateboard",
+      "zh": ""
+    },
+    {
+      "start": 381.54,
+      "duration": 2.92,
+      "text": "And when I push watermelons to the left, they push back on me",
+      "en": "And when I push watermelons to the left, they push back on me",
+      "zh": ""
+    },
+    {
+      "start": 384.46,
+      "duration": 1.33,
+      "text": "So I roll to the right",
+      "en": "So I roll to the right",
+      "zh": ""
+    },
+    {
+      "start": 386.08,
+      "duration": 1.38,
+      "text": "NATE! AGAIN!?",
+      "en": "NATE! AGAIN!?",
+      "zh": ""
+    },
+    {
+      "start": 387.46,
+      "duration": 3.16,
+      "text": "And so now let's place a brick here so this car can't move.",
+      "en": "And so now let's place a brick here so this car can't move.",
+      "zh": ""
+    },
+    {
+      "start": 390.62,
+      "duration": 2.76,
+      "text": "And then add a second car here with a sail.",
+      "en": "And then add a second car here with a sail.",
+      "zh": ""
+    },
+    {
+      "start": 393.38,
+      "duration": 3.37,
+      "text": "Now, when I turn the fan on, which way will this cart move?",
+      "en": "Now, when I turn the fan on, which way will this cart move?",
+      "zh": ""
+    },
+    {
+      "start": 398.17,
+      "duration": 1.0,
+      "text": "Of course, to the right.",
+      "en": "Of course, to the right.",
+      "zh": ""
+    },
+    {
+      "start": 399.17,
+      "duration": 2.79,
+      "text": "Because all that fast moving air hits the sail.",
+      "en": "Because all that fast moving air hits the sail.",
+      "zh": ""
+    },
+    {
+      "start": 401.96,
+      "duration": 3.46,
+      "text": "It's like it's being bonked by all those tiny little watermelons.",
+      "en": "It's like it's being bonked by all those tiny little watermelons.",
+      "zh": ""
+    },
+    {
+      "start": 405.42,
+      "duration": 3.37,
+      "text": "So if we now remove the brick and this cart wants to move to the left,",
+      "en": "So if we now remove the brick and this cart wants to move to the left,",
+      "zh": ""
+    },
+    {
+      "start": 408.79,
+      "duration": 2.09,
+      "text": "and then this one wants to move to the right,",
+      "en": "and then this one wants to move to the right,",
+      "zh": ""
+    },
+    {
+      "start": 410.88,
+      "duration": 1.79,
+      "text": "what'll happen when we connect them?",
+      "en": "what'll happen when we connect them?",
+      "zh": ""
+    },
+    {
+      "start": 415.75,
+      "duration": 0.75,
+      "text": "Nothing,",
+      "en": "Nothing,",
+      "zh": ""
+    },
+    {
+      "start": 416.5,
+      "duration": 3.0,
+      "text": "because it's a perfectly timed tug of war with each car",
+      "en": "because it's a perfectly timed tug of war with each car",
+      "zh": ""
+    },
+    {
+      "start": 419.5,
+      "duration": 3.42,
+      "text": "trying to move in opposite directions with the same amount of force.",
+      "en": "trying to move in opposite directions with the same amount of force.",
+      "zh": ""
+    },
+    {
+      "start": 422.96,
+      "duration": 2.96,
+      "text": "A fan actually sort of does work to move a boat forward,",
+      "en": "A fan actually sort of does work to move a boat forward,",
+      "zh": ""
+    },
+    {
+      "start": 425.92,
+      "duration": 2.91,
+      "text": "you just have to lose the sail and point it the other way.",
+      "en": "you just have to lose the sail and point it the other way.",
+      "zh": ""
+    },
+    {
+      "start": 428.83,
+      "duration": 1.13,
+      "text": "But at that point you might as well",
+      "en": "But at that point you might as well",
+      "zh": ""
+    },
+    {
+      "start": 429.96,
+      "duration": 3.16,
+      "text": "just take that same fan and stick it underneath the boat",
+      "en": "just take that same fan and stick it underneath the boat",
+      "zh": ""
+    },
+    {
+      "start": 433.12,
+      "duration": 1.42,
+      "text": "so you could much more effectively push",
+      "en": "so you could much more effectively push",
+      "zh": ""
+    },
+    {
+      "start": 434.54,
+      "duration": 2.0,
+      "text": "against the heavy water instead of just air,",
+      "en": "against the heavy water instead of just air,",
+      "zh": ""
+    },
+    {
+      "start": 436.54,
+      "duration": 2.84,
+      "text": "which is, of course, exactly what a boat propeller does.",
+      "en": "which is, of course, exactly what a boat propeller does.",
+      "zh": ""
+    },
+    {
+      "start": 439.38,
+      "duration": 2.29,
+      "text": "And sure enough, when I plug it in, in real life",
+      "en": "And sure enough, when I plug it in, in real life",
+      "zh": ""
+    },
+    {
+      "start": 442.21,
+      "duration": 1.37,
+      "text": "as you can see,",
+      "en": "as you can see,",
+      "zh": ""
+    },
+    {
+      "start": 444.29,
+      "duration": 1.46,
+      "text": "I don't go anywhere.",
+      "en": "I don't go anywhere.",
+      "zh": ""
+    },
+    {
+      "start": 445.75,
+      "duration": 3.33,
+      "text": "So then if we've totally debunked the idea of blowing your own sail,",
+      "en": "So then if we've totally debunked the idea of blowing your own sail,",
+      "zh": ""
+    },
+    {
+      "start": 449.08,
+      "duration": 3.34,
+      "text": "then what about that guy with the leaf blower and umbrella on the skateboard?",
+      "en": "then what about that guy with the leaf blower and umbrella on the skateboard?",
+      "zh": ""
+    },
+    {
+      "start": 452.42,
+      "duration": 3.08,
+      "text": "Well, I've copied his exact same setup here, and I can confirm it",
+      "en": "Well, I've copied his exact same setup here, and I can confirm it",
+      "zh": ""
+    },
+    {
+      "start": 455.5,
+      "duration": 1.38,
+      "text": "actually does work.",
+      "en": "actually does work.",
+      "zh": ""
+    },
+    {
+      "start": 457.0,
+      "duration": 1.12,
+      "text": "Yeee Hooo!",
+      "en": "Yeee Hooo!",
+      "zh": ""
+    },
+    {
+      "start": 458.12,
+      "duration": 0.8,
+      "text": "Yeee Haaa!",
+      "en": "Yeee Haaa!",
+      "zh": ""
+    },
+    {
+      "start": 458.92,
+      "duration": 1.62,
+      "text": "It just has nothing to do with the umbrella",
+      "en": "It just has nothing to do with the umbrella",
+      "zh": ""
+    },
+    {
+      "start": 460.54,
+      "duration": 0.96,
+      "text": "or the leaf blower",
+      "en": "or the leaf blower",
+      "zh": ""
+    },
+    {
+      "start": 461.5,
+      "duration": 3.75,
+      "text": "and everything to do with the fact that this is an electric skateboard",
+      "en": "and everything to do with the fact that this is an electric skateboard",
+      "zh": ""
+    },
+    {
+      "start": 465.25,
+      "duration": 2.37,
+      "text": "with the battery stored right under here.",
+      "en": "with the battery stored right under here.",
+      "zh": ""
+    },
+    {
+      "start": 467.62,
+      "duration": 3.8,
+      "text": "Exactly the same as you can see in a bunch of these shots from his video.",
+      "en": "Exactly the same as you can see in a bunch of these shots from his video.",
+      "zh": ""
+    },
+    {
+      "start": 471.46,
+      "duration": 2.62,
+      "text": "Now, before we get to the last three, including answering",
+      "en": "Now, before we get to the last three, including answering",
+      "zh": ""
+    },
+    {
+      "start": 474.08,
+      "duration": 3.3,
+      "text": "if this demo for tourists is a scam, if you're like me and you love that",
+      "en": "if this demo for tourists is a scam, if you're like me and you love that",
+      "zh": ""
+    },
+    {
+      "start": 477.42,
+      "duration": 2.37,
+      "text": "ah-ha moment when you learn something new",
+      "en": "ah-ha moment when you learn something new",
+      "zh": ""
+    },
+    {
+      "start": 479.79,
+      "duration": 1.33,
+      "text": "well, I got great news for you.",
+      "en": "well, I got great news for you.",
+      "zh": ""
+    },
+    {
+      "start": 481.17,
+      "duration": 1.5,
+      "text": "Let me guess. CrunchLabs?",
+      "en": "Let me guess. CrunchLabs?",
+      "zh": ""
+    },
+    {
+      "start": 482.67,
+      "duration": 1.91,
+      "text": "I'm glad you said it, Jimmy. That's right.",
+      "en": "I'm glad you said it, Jimmy. That's right.",
+      "zh": ""
+    },
+    {
+      "start": 484.58,
+      "duration": 3.5,
+      "text": "Because packaging up that movement is why I created CrunchLabs,",
+      "en": "Because packaging up that movement is why I created CrunchLabs,",
+      "zh": ""
+    },
+    {
+      "start": 488.08,
+      "duration": 2.34,
+      "text": "where you get a super fun toy every month in the mail",
+      "en": "where you get a super fun toy every month in the mail",
+      "zh": ""
+    },
+    {
+      "start": 490.42,
+      "duration": 1.0,
+      "text": "that comes with a video",
+      "en": "that comes with a video",
+      "zh": ""
+    },
+    {
+      "start": 491.42,
+      "duration": 3.08,
+      "text": "where I teach you all the juicy physics that make the toy work.",
+      "en": "where I teach you all the juicy physics that make the toy work.",
+      "zh": ""
+    },
+    {
+      "start": 494.83,
+      "duration": 1.25,
+      "text": "Mark won't say this himself,",
+      "en": "Mark won't say this himself,",
+      "zh": ""
+    },
+    {
+      "start": 496.08,
+      "duration": 1.96,
+      "text": "but obviously he used to work at NASA and Apple.",
+      "en": "but obviously he used to work at NASA and Apple.",
+      "zh": ""
+    },
+    {
+      "start": 498.04,
+      "duration": 2.13,
+      "text": "He's one of the greatest engineers that you can ever find,",
+      "en": "He's one of the greatest engineers that you can ever find,",
+      "zh": ""
+    },
+    {
+      "start": 500.17,
+      "duration": 2.0,
+      "text": "and he's specifically designing these boxes",
+      "en": "and he's specifically designing these boxes",
+      "zh": ""
+    },
+    {
+      "start": 502.17,
+      "duration": 1.41,
+      "text": "teach you all the stuff he learned",
+      "en": "teach you all the stuff he learned",
+      "zh": ""
+    },
+    {
+      "start": 503.58,
+      "duration": 1.59,
+      "text": "He had this water gun that we made.",
+      "en": "He had this water gun that we made.",
+      "zh": ""
+    },
+    {
+      "start": 505.17,
+      "duration": 1.95,
+      "text": "And you can flip a switch when you give it to someone else",
+      "en": "And you can flip a switch when you give it to someone else",
+      "zh": ""
+    },
+    {
+      "start": 507.12,
+      "duration": 1.46,
+      "text": "and it shoots back at you.",
+      "en": "and it shoots back at you.",
+      "zh": ""
+    },
+    {
+      "start": 508.58,
+      "duration": 1.09,
+      "text": "I mean, that's awesome.",
+      "en": "I mean, that's awesome.",
+      "zh": ""
+    },
+    {
+      "start": 509.67,
+      "duration": 2.12,
+      "text": "I've pranked you a couple times with the boxes, Jimmy.",
+      "en": "I've pranked you a couple times with the boxes, Jimmy.",
+      "zh": ""
+    },
+    {
+      "start": 511.79,
+      "duration": 0.42,
+      "text": "I know.",
+      "en": "I know.",
+      "zh": ""
+    },
+    {
+      "start": 514.0,
+      "duration": 1.54,
+      "text": "So if you want to prank MrBeast",
+      "en": "So if you want to prank MrBeast",
+      "zh": ""
+    },
+    {
+      "start": 515.54,
+      "duration": 1.04,
+      "text": "while experiencing",
+      "en": "while experiencing",
+      "zh": ""
+    },
+    {
+      "start": 516.58,
+      "duration": 3.04,
+      "text": "a bunch of those lovely ah-ha moments at the same time",
+      "en": "a bunch of those lovely ah-ha moments at the same time",
+      "zh": ""
+    },
+    {
+      "start": 519.62,
+      "duration": 0.88,
+      "text": "It worked!",
+      "en": "It worked!",
+      "zh": ""
+    },
+    {
+      "start": 520.5,
+      "duration": 1.54,
+      "text": "just visit crunchlabs.com",
+      "en": "just visit crunchlabs.com",
+      "zh": ""
+    },
+    {
+      "start": 522.04,
+      "duration": 0.79,
+      "text": "to learn more.",
+      "en": "to learn more.",
+      "zh": ""
+    },
+    {
+      "start": 522.83,
+      "duration": 0.71,
+      "text": "Yesss!",
+      "en": "Yesss!",
+      "zh": ""
+    },
+    {
+      "start": 523.54,
+      "duration": 3.29,
+      "text": "Now coming in at number five is the craziest fact I know",
+      "en": "Now coming in at number five is the craziest fact I know",
+      "zh": ""
+    },
+    {
+      "start": 526.83,
+      "duration": 4.63,
+      "text": "Imagine I just finished tying this rope all the way around the world,",
+      "en": "Imagine I just finished tying this rope all the way around the world,",
+      "zh": ""
+    },
+    {
+      "start": 531.46,
+      "duration": 1.25,
+      "text": "but now I just found out",
+      "en": "but now I just found out",
+      "zh": ""
+    },
+    {
+      "start": 532.71,
+      "duration": 4.08,
+      "text": "it was supposed to be a foot off the ground the whole way around.",
+      "en": "it was supposed to be a foot off the ground the whole way around.",
+      "zh": ""
+    },
+    {
+      "start": 536.79,
+      "duration": 3.79,
+      "text": "So the question is how much more extra rope would I need to buy to add",
+      "en": "So the question is how much more extra rope would I need to buy to add",
+      "zh": ""
+    },
+    {
+      "start": 540.58,
+      "duration": 2.09,
+      "text": "to this rope to make that happen.",
+      "en": "to this rope to make that happen.",
+      "zh": ""
+    },
+    {
+      "start": 542.67,
+      "duration": 3.25,
+      "text": "Now, you might be thinking double or even triple this amount, but",
+      "en": "Now, you might be thinking double or even triple this amount, but",
+      "zh": ""
+    },
+    {
+      "start": 545.92,
+      "duration": 3.46,
+      "text": "what if I told you you only need this much extra rope",
+      "en": "what if I told you you only need this much extra rope",
+      "zh": ""
+    },
+    {
+      "start": 549.38,
+      "duration": 2.62,
+      "text": "6.28 feet to be exact.",
+      "en": "6.28 feet to be exact.",
+      "zh": ""
+    },
+    {
+      "start": 552.12,
+      "duration": 1.09,
+      "text": "Think about that.",
+      "en": "Think about that.",
+      "zh": ""
+    },
+    {
+      "start": 553.21,
+      "duration": 3.41,
+      "text": "The circumference of the earth is 131 million feet.",
+      "en": "The circumference of the earth is 131 million feet.",
+      "zh": ""
+    },
+    {
+      "start": 556.62,
+      "duration": 3.76,
+      "text": "And yet you only need this much extra rope to lift the whole thing",
+      "en": "And yet you only need this much extra rope to lift the whole thing",
+      "zh": ""
+    },
+    {
+      "start": 560.38,
+      "duration": 2.33,
+      "text": "a foot off the ground all the way around.",
+      "en": "a foot off the ground all the way around.",
+      "zh": ""
+    },
+    {
+      "start": 562.71,
+      "duration": 3.25,
+      "text": "And what's even crazier is if you did this around a basketball,",
+      "en": "And what's even crazier is if you did this around a basketball,",
+      "zh": ""
+    },
+    {
+      "start": 565.96,
+      "duration": 2.66,
+      "text": "it would be the exact same amount of extra rope.",
+      "en": "it would be the exact same amount of extra rope.",
+      "zh": ""
+    },
+    {
+      "start": 568.62,
+      "duration": 2.84,
+      "text": "Now the math is just some straightforward eighth grade algebra.",
+      "en": "Now the math is just some straightforward eighth grade algebra.",
+      "zh": ""
+    },
+    {
+      "start": 571.46,
+      "duration": 1.04,
+      "text": "And you can see here",
+      "en": "And you can see here",
+      "zh": ""
+    },
+    {
+      "start": 572.5,
+      "duration": 3.79,
+      "text": "because the radius cancels out, it doesn't matter what size circle",
+      "en": "because the radius cancels out, it doesn't matter what size circle",
+      "zh": ""
+    },
+    {
+      "start": 576.29,
+      "duration": 5.75,
+      "text": "you use, it always works out to two pi or about 6.28 feet of extra rope.",
+      "en": "you use, it always works out to two pi or about 6.28 feet of extra rope.",
+      "zh": ""
+    },
+    {
+      "start": 582.04,
+      "duration": 1.79,
+      "text": "But if math isn't your thing, don't worry,",
+      "en": "But if math isn't your thing, don't worry,",
+      "zh": ""
+    },
+    {
+      "start": 583.83,
+      "duration": 2.13,
+      "text": "because if you just pretend the earth is a square,",
+      "en": "because if you just pretend the earth is a square,",
+      "zh": ""
+    },
+    {
+      "start": 585.96,
+      "duration": 3.75,
+      "text": "it will immediately be obvious why the size of the object doesn't matter.",
+      "en": "it will immediately be obvious why the size of the object doesn't matter.",
+      "zh": ""
+    },
+    {
+      "start": 589.71,
+      "duration": 1.21,
+      "text": "So if this is my initial rope",
+      "en": "So if this is my initial rope",
+      "zh": ""
+    },
+    {
+      "start": 590.92,
+      "duration": 1.2,
+      "text": "When I raise it off the earth",
+      "en": "When I raise it off the earth",
+      "zh": ""
+    },
+    {
+      "start": 592.12,
+      "duration": 3.84,
+      "text": "by one foot, you can see in each corner I only need two extra feet.",
+      "en": "by one foot, you can see in each corner I only need two extra feet.",
+      "zh": ""
+    },
+    {
+      "start": 595.96,
+      "duration": 1.42,
+      "text": "So eight feet total.",
+      "en": "So eight feet total.",
+      "zh": ""
+    },
+    {
+      "start": 597.38,
+      "duration": 2.7,
+      "text": "And just like with the basketball, you’d still get the same answer",
+      "en": "And just like with the basketball, you’d still get the same answer",
+      "zh": ""
+    },
+    {
+      "start": 600.08,
+      "duration": 3.46,
+      "text": "If you try it on a smaller four-sided shape like your TV,",
+      "en": "If you try it on a smaller four-sided shape like your TV,",
+      "zh": ""
+    },
+    {
+      "start": 603.54,
+      "duration": 4.75,
+      "text": "which is pretty close to the 6.28 extra feet needed for a circle.",
+      "en": "which is pretty close to the 6.28 extra feet needed for a circle.",
+      "zh": ""
+    },
+    {
+      "start": 608.29,
+      "duration": 2.21,
+      "text": "At number six, there was a Kickstarter a while back.",
+      "en": "At number six, there was a Kickstarter a while back.",
+      "zh": ""
+    },
+    {
+      "start": 610.5,
+      "duration": 2.92,
+      "text": "that claimed to have invented a floating backpack that reduced",
+      "en": "that claimed to have invented a floating backpack that reduced",
+      "zh": ""
+    },
+    {
+      "start": 613.42,
+      "duration": 2.29,
+      "text": "impact forces by 86%.",
+      "en": "impact forces by 86%.",
+      "zh": ""
+    },
+    {
+      "start": 615.71,
+      "duration": 2.33,
+      "text": "Welcome to the Future of backpacking.",
+      "en": "Welcome to the Future of backpacking.",
+      "zh": ""
+    },
+    {
+      "start": 618.04,
+      "duration": 2.67,
+      "text": "You've never seen a backpack that moves like this",
+      "en": "You've never seen a backpack that moves like this",
+      "zh": ""
+    },
+    {
+      "start": 620.71,
+      "duration": 1.71,
+      "text": "or that lets you move like this.",
+      "en": "or that lets you move like this.",
+      "zh": ""
+    },
+    {
+      "start": 622.42,
+      "duration": 2.12,
+      "text": "And this motion isn't just for show.",
+      "en": "And this motion isn't just for show.",
+      "zh": ""
+    },
+    {
+      "start": 624.54,
+      "duration": 5.25,
+      "text": "By suspending the load, hoverglide reduces impact forces by 80 to 90%.",
+      "en": "By suspending the load, hoverglide reduces impact forces by 80 to 90%.",
+      "zh": ""
+    },
+    {
+      "start": 629.79,
+      "duration": 1.75,
+      "text": "I really took an interest once I noticed",
+      "en": "I really took an interest once I noticed",
+      "zh": ""
+    },
+    {
+      "start": 631.54,
+      "duration": 1.46,
+      "text": "a lot of people in the comment section",
+      "en": "a lot of people in the comment section",
+      "zh": ""
+    },
+    {
+      "start": 633.0,
+      "duration": 2.42,
+      "text": "were debating whether or not this would actually help.",
+      "en": "were debating whether or not this would actually help.",
+      "zh": ""
+    },
+    {
+      "start": 635.42,
+      "duration": 1.25,
+      "text": "So what do you think?",
+      "en": "So what do you think?",
+      "zh": ""
+    },
+    {
+      "start": 636.67,
+      "duration": 0.91,
+      "text": "Is this a scam?",
+      "en": "Is this a scam?",
+      "zh": ""
+    },
+    {
+      "start": 637.58,
+      "duration": 3.25,
+      "text": "The case for it not being a scam is that when you wear a normal backpack",
+      "en": "The case for it not being a scam is that when you wear a normal backpack",
+      "zh": ""
+    },
+    {
+      "start": 640.83,
+      "duration": 1.38,
+      "text": "as you bounce up and down",
+      "en": "as you bounce up and down",
+      "zh": ""
+    },
+    {
+      "start": 642.21,
+      "duration": 0.96,
+      "text": "with each step you take",
+      "en": "with each step you take",
+      "zh": ""
+    },
+    {
+      "start": 643.17,
+      "duration": 3.08,
+      "text": "you're working against gravity as you move that entire weight",
+      "en": "you're working against gravity as you move that entire weight",
+      "zh": ""
+    },
+    {
+      "start": 646.25,
+      "duration": 1.29,
+      "text": "up and down with you as well.",
+      "en": "up and down with you as well.",
+      "zh": ""
+    },
+    {
+      "start": 647.54,
+      "duration": 2.63,
+      "text": "Sort of like pulling this weight up and down with a stiff rope.",
+      "en": "Sort of like pulling this weight up and down with a stiff rope.",
+      "zh": ""
+    },
+    {
+      "start": 650.17,
+      "duration": 3.08,
+      "text": "But if the backpack was elastically suspended on a track, its own",
+      "en": "But if the backpack was elastically suspended on a track, its own",
+      "zh": ""
+    },
+    {
+      "start": 653.25,
+      "duration": 3.0,
+      "text": "inertia would tend to keep it vertically in the same spot.",
+      "en": "inertia would tend to keep it vertically in the same spot.",
+      "zh": ""
+    },
+    {
+      "start": 656.25,
+      "duration": 3.21,
+      "text": "So you can still bounce up and down while the pack wouldn't move",
+      "en": "So you can still bounce up and down while the pack wouldn't move",
+      "zh": ""
+    },
+    {
+      "start": 659.46,
+      "duration": 1.75,
+      "text": "so it’d be like replacing that stiff rope",
+      "en": "so it’d be like replacing that stiff rope",
+      "zh": ""
+    },
+    {
+      "start": 661.21,
+      "duration": 3.08,
+      "text": "with an elastic one at which point you can see it makes it a lot",
+      "en": "with an elastic one at which point you can see it makes it a lot",
+      "zh": ""
+    },
+    {
+      "start": 664.29,
+      "duration": 3.59,
+      "text": "easier on my arms moving up and down as the weight stays in place.",
+      "en": "easier on my arms moving up and down as the weight stays in place.",
+      "zh": ""
+    },
+    {
+      "start": 667.88,
+      "duration": 1.2,
+      "text": "But the naysayers pointed out",
+      "en": "But the naysayers pointed out",
+      "zh": ""
+    },
+    {
+      "start": 669.08,
+      "duration": 3.34,
+      "text": "all the pulleys, cords and extra frames to make the system work",
+      "en": "all the pulleys, cords and extra frames to make the system work",
+      "zh": ""
+    },
+    {
+      "start": 672.42,
+      "duration": 2.08,
+      "text": "is still an extra 4 pounds of weight.",
+      "en": "is still an extra 4 pounds of weight.",
+      "zh": ""
+    },
+    {
+      "start": 674.5,
+      "duration": 3.83,
+      "text": "And whether it's bouncing or not, you're still carrying four extra pounds",
+      "en": "And whether it's bouncing or not, you're still carrying four extra pounds",
+      "zh": ""
+    },
+    {
+      "start": 678.33,
+      "duration": 1.05,
+      "text": "to the top of the mountain.",
+      "en": "to the top of the mountain.",
+      "zh": ""
+    },
+    {
+      "start": 679.38,
+      "duration": 3.37,
+      "text": "Plus, the video just shows the ideal use cases, and in real life",
+      "en": "Plus, the video just shows the ideal use cases, and in real life",
+      "zh": ""
+    },
+    {
+      "start": 682.75,
+      "duration": 3.33,
+      "text": "it probably wouldn't work that smoothly, hiking over rough terrain.",
+      "en": "it probably wouldn't work that smoothly, hiking over rough terrain.",
+      "zh": ""
+    },
+    {
+      "start": 686.08,
+      "duration": 2.84,
+      "text": "And I felt like both sides sort of had valid arguments.",
+      "en": "And I felt like both sides sort of had valid arguments.",
+      "zh": ""
+    },
+    {
+      "start": 688.92,
+      "duration": 3.04,
+      "text": "So as a firm believer in the scientific method, I ordered one myself.",
+      "en": "So as a firm believer in the scientific method, I ordered one myself.",
+      "zh": ""
+    },
+    {
+      "start": 691.96,
+      "duration": 1.54,
+      "text": "And then went hiking for a few miles",
+      "en": "And then went hiking for a few miles",
+      "zh": ""
+    },
+    {
+      "start": 693.5,
+      "duration": 3.04,
+      "text": "with a normal backpack and then put the exact same amount of",
+      "en": "with a normal backpack and then put the exact same amount of",
+      "zh": ""
+    },
+    {
+      "start": 696.54,
+      "duration": 3.75,
+      "text": "weight in the hover glide backpack to qualitatively compare the difference.",
+      "en": "weight in the hover glide backpack to qualitatively compare the difference.",
+      "zh": ""
+    },
+    {
+      "start": 700.96,
+      "duration": 3.71,
+      "text": "So far, I don't like it. Feels like it's, like, rocking me back.",
+      "en": "So far, I don't like it. Feels like it's, like, rocking me back.",
+      "zh": ""
+    },
+    {
+      "start": 704.67,
+      "duration": 1.45,
+      "text": "I’m going to try jogging.",
+      "en": "I’m going to try jogging.",
+      "zh": ""
+    },
+    {
+      "start": 706.75,
+      "duration": 1.08,
+      "text": "oh that feels good.",
+      "en": "oh that feels good.",
+      "zh": ""
+    },
+    {
+      "start": 707.83,
+      "duration": 1.71,
+      "text": "That's kind of the trick I feel like",
+      "en": "That's kind of the trick I feel like",
+      "zh": ""
+    },
+    {
+      "start": 709.54,
+      "duration": 2.34,
+      "text": "if you hit the right cadence, it's magical.",
+      "en": "if you hit the right cadence, it's magical.",
+      "zh": ""
+    },
+    {
+      "start": 711.88,
+      "duration": 1.37,
+      "text": "if it's not the right cadence,",
+      "en": "if it's not the right cadence,",
+      "zh": ""
+    },
+    {
+      "start": 713.25,
+      "duration": 2.71,
+      "text": "It's the opposite of magic. oh yeah. Now it's.",
+      "en": "It's the opposite of magic. oh yeah. Now it's.",
+      "zh": ""
+    },
+    {
+      "start": 715.96,
+      "duration": 3.21,
+      "text": "And then it gets out of sync, throws you literally off balance",
+      "en": "And then it gets out of sync, throws you literally off balance",
+      "zh": ""
+    },
+    {
+      "start": 719.17,
+      "duration": 2.45,
+      "text": "So my verdict is that on flat, predictable terrain,",
+      "en": "So my verdict is that on flat, predictable terrain,",
+      "zh": ""
+    },
+    {
+      "start": 721.62,
+      "duration": 1.38,
+      "text": "it can be beneficial.",
+      "en": "it can be beneficial.",
+      "zh": ""
+    },
+    {
+      "start": 723.0,
+      "duration": 3.54,
+      "text": "But on any sort of rough, sporadic hiking terrain, it's just not worth",
+      "en": "But on any sort of rough, sporadic hiking terrain, it's just not worth",
+      "zh": ""
+    },
+    {
+      "start": 726.54,
+      "duration": 3.04,
+      "text": "the extra weight in force from out of sync issues.",
+      "en": "the extra weight in force from out of sync issues.",
+      "zh": ""
+    },
+    {
+      "start": 729.58,
+      "duration": 3.21,
+      "text": "And for our final science challenge, we're back here at the equator",
+      "en": "And for our final science challenge, we're back here at the equator",
+      "zh": ""
+    },
+    {
+      "start": 732.79,
+      "duration": 3.75,
+      "text": "in Ecuador to see if this popular demonstration for tourists",
+      "en": "in Ecuador to see if this popular demonstration for tourists",
+      "zh": ""
+    },
+    {
+      "start": 736.88,
+      "duration": 1.12,
+      "text": "is actually a scam.",
+      "en": "is actually a scam.",
+      "zh": ""
+    },
+    {
+      "start": 738.0,
+      "duration": 2.58,
+      "text": "Does the water really drain in opposite directions,",
+      "en": "Does the water really drain in opposite directions,",
+      "zh": ""
+    },
+    {
+      "start": 740.58,
+      "duration": 3.0,
+      "text": "even just a few feet on either side of the equator?",
+      "en": "even just a few feet on either side of the equator?",
+      "zh": ""
+    },
+    {
+      "start": 743.58,
+      "duration": 3.5,
+      "text": "And relatedly, do toilets also swirl in opposite directions",
+      "en": "And relatedly, do toilets also swirl in opposite directions",
+      "zh": ""
+    },
+    {
+      "start": 747.08,
+      "duration": 1.84,
+      "text": "in the northern versus southern hemisphere.",
+      "en": "in the northern versus southern hemisphere.",
+      "zh": ""
+    },
+    {
+      "start": 748.92,
+      "duration": 2.66,
+      "text": "Now, for the toilets, let me just debunk that myth out of the gate,",
+      "en": "Now, for the toilets, let me just debunk that myth out of the gate,",
+      "zh": ""
+    },
+    {
+      "start": 752.67,
+      "duration": 2.33,
+      "text": "because if you look closely, the swirl direction is just",
+      "en": "because if you look closely, the swirl direction is just",
+      "zh": ""
+    },
+    {
+      "start": 755.0,
+      "duration": 3.38,
+      "text": "a function of which way the nozzles point, as you could see here.",
+      "en": "a function of which way the nozzles point, as you could see here.",
+      "zh": ""
+    },
+    {
+      "start": 758.38,
+      "duration": 2.37,
+      "text": "And with any toilet you inspect yourself.",
+      "en": "And with any toilet you inspect yourself.",
+      "zh": ""
+    },
+    {
+      "start": 760.75,
+      "duration": 2.21,
+      "text": "But what about sinks that have just a drain",
+      "en": "But what about sinks that have just a drain",
+      "zh": ""
+    },
+    {
+      "start": 762.96,
+      "duration": 2.21,
+      "text": "like in the demo here where there are no nozzles?",
+      "en": "like in the demo here where there are no nozzles?",
+      "zh": ""
+    },
+    {
+      "start": 765.17,
+      "duration": 2.41,
+      "text": "Well, believe it or not, there's actually some truth to this idea",
+      "en": "Well, believe it or not, there's actually some truth to this idea",
+      "zh": ""
+    },
+    {
+      "start": 767.58,
+      "duration": 2.21,
+      "text": "because of something called the Coriolis effect.",
+      "en": "because of something called the Coriolis effect.",
+      "zh": ""
+    },
+    {
+      "start": 769.79,
+      "duration": 2.71,
+      "text": "And it's the same reason you might have noticed weather patterns",
+      "en": "And it's the same reason you might have noticed weather patterns",
+      "zh": ""
+    },
+    {
+      "start": 772.5,
+      "duration": 3.54,
+      "text": "like this spinning counterclockwise in the northern hemisphere,",
+      "en": "like this spinning counterclockwise in the northern hemisphere,",
+      "zh": ""
+    },
+    {
+      "start": 776.04,
+      "duration": 3.0,
+      "text": "in which case we call them hurricanes and clockwise",
+      "en": "in which case we call them hurricanes and clockwise",
+      "zh": ""
+    },
+    {
+      "start": 779.04,
+      "duration": 3.42,
+      "text": "in the southern hemisphere, in which case we call them cyclones.",
+      "en": "in the southern hemisphere, in which case we call them cyclones.",
+      "zh": ""
+    },
+    {
+      "start": 782.46,
+      "duration": 2.58,
+      "text": "And the reason for this is pretty straightforward to understand",
+      "en": "And the reason for this is pretty straightforward to understand",
+      "zh": ""
+    },
+    {
+      "start": 785.04,
+      "duration": 3.63,
+      "text": "If you imagine you have a very big sink that spans from the equator",
+      "en": "If you imagine you have a very big sink that spans from the equator",
+      "zh": ""
+    },
+    {
+      "start": 788.67,
+      "duration": 2.16,
+      "text": "all the way up to the North Pole, In that case,",
+      "en": "all the way up to the North Pole, In that case,",
+      "zh": ""
+    },
+    {
+      "start": 790.83,
+      "duration": 1.75,
+      "text": "a single drop of water in the sink at",
+      "en": "a single drop of water in the sink at",
+      "zh": ""
+    },
+    {
+      "start": 792.58,
+      "duration": 4.13,
+      "text": "the equator here is going for a joyride really fast as the earth spins",
+      "en": "the equator here is going for a joyride really fast as the earth spins",
+      "zh": ""
+    },
+    {
+      "start": 796.71,
+      "duration": 3.12,
+      "text": "and a drop of water near the middle is moving at a medium speed.",
+      "en": "and a drop of water near the middle is moving at a medium speed.",
+      "zh": ""
+    },
+    {
+      "start": 799.83,
+      "duration": 1.59,
+      "text": "But a drop of water at the North Pole",
+      "en": "But a drop of water at the North Pole",
+      "zh": ""
+    },
+    {
+      "start": 801.42,
+      "duration": 3.2,
+      "text": "isn't moving at all because it's right on the axis.",
+      "en": "isn't moving at all because it's right on the axis.",
+      "zh": ""
+    },
+    {
+      "start": 804.62,
+      "duration": 1.63,
+      "text": "So now when you pull the plug on the sink",
+      "en": "So now when you pull the plug on the sink",
+      "zh": ""
+    },
+    {
+      "start": 806.25,
+      "duration": 3.46,
+      "text": "and the water moves towards the middle, the joyriding drop here is suddenly",
+      "en": "and the water moves towards the middle, the joyriding drop here is suddenly",
+      "zh": ""
+    },
+    {
+      "start": 809.71,
+      "duration": 3.83,
+      "text": "moving faster than the slower water that was away from the equator.",
+      "en": "moving faster than the slower water that was away from the equator.",
+      "zh": ""
+    },
+    {
+      "start": 813.54,
+      "duration": 2.34,
+      "text": "So it gets out in front of the drain",
+      "en": "So it gets out in front of the drain",
+      "zh": ""
+    },
+    {
+      "start": 815.88,
+      "duration": 2.12,
+      "text": "and conversely, the drop at the North Pole",
+      "en": "and conversely, the drop at the North Pole",
+      "zh": ""
+    },
+    {
+      "start": 818.0,
+      "duration": 3.38,
+      "text": "is now moving much slower than the water closer to the equator.",
+      "en": "is now moving much slower than the water closer to the equator.",
+      "zh": ""
+    },
+    {
+      "start": 821.38,
+      "duration": 1.54,
+      "text": "So it falls behind.",
+      "en": "So it falls behind.",
+      "zh": ""
+    },
+    {
+      "start": 822.92,
+      "duration": 1.75,
+      "text": "So when all the drops are affected this way",
+      "en": "So when all the drops are affected this way",
+      "zh": ""
+    },
+    {
+      "start": 824.67,
+      "duration": 4.29,
+      "text": "you naturally get a counterclockwise swirl just like a hurricane",
+      "en": "you naturally get a counterclockwise swirl just like a hurricane",
+      "zh": ""
+    },
+    {
+      "start": 828.96,
+      "duration": 3.46,
+      "text": "where the eye of the hurricane is the low pressure zone like a drain.",
+      "en": "where the eye of the hurricane is the low pressure zone like a drain.",
+      "zh": ""
+    },
+    {
+      "start": 832.42,
+      "duration": 3.04,
+      "text": "Then of course, applying all this same logic to the southern hemisphere",
+      "en": "Then of course, applying all this same logic to the southern hemisphere",
+      "zh": ""
+    },
+    {
+      "start": 835.46,
+      "duration": 3.79,
+      "text": "would of course do the opposite, resulting in a clockwise swirl.",
+      "en": "would of course do the opposite, resulting in a clockwise swirl.",
+      "zh": ""
+    },
+    {
+      "start": 839.25,
+      "duration": 2.13,
+      "text": "So does this mean that sinks do in fact drain",
+      "en": "So does this mean that sinks do in fact drain",
+      "zh": ""
+    },
+    {
+      "start": 841.38,
+      "duration": 2.7,
+      "text": "opposite in the northern and southern hemispheres?",
+      "en": "opposite in the northern and southern hemispheres?",
+      "zh": ""
+    },
+    {
+      "start": 844.08,
+      "duration": 4.3,
+      "text": "Well, sadly, no, because the Coriolis effect is really only noticeable",
+      "en": "Well, sadly, no, because the Coriolis effect is really only noticeable",
+      "zh": ""
+    },
+    {
+      "start": 848.38,
+      "duration": 3.24,
+      "text": "The greater distance you're moving up or down from the equator.",
+      "en": "The greater distance you're moving up or down from the equator.",
+      "zh": ""
+    },
+    {
+      "start": 851.62,
+      "duration": 4.26,
+      "text": "So unless you have a five mile wide sink, or if you make the most perfect",
+      "en": "So unless you have a five mile wide sink, or if you make the most perfect",
+      "zh": ""
+    },
+    {
+      "start": 855.88,
+      "duration": 3.2,
+      "text": "of perfect conditions, like my friends Destin and Derrick showed,",
+      "en": "of perfect conditions, like my friends Destin and Derrick showed,",
+      "zh": ""
+    },
+    {
+      "start": 859.08,
+      "duration": 3.5,
+      "text": "The water is flowing clockwise due to the earth’s rotation",
+      "en": "The water is flowing clockwise due to the earth’s rotation",
+      "zh": ""
+    },
+    {
+      "start": 862.58,
+      "duration": 3.3,
+      "text": "The water is going counter clockwise because I’m in the northern hemisphere",
+      "en": "The water is going counter clockwise because I’m in the northern hemisphere",
+      "zh": ""
+    },
+    {
+      "start": 865.88,
+      "duration": 0.7,
+      "text": "It’s real!",
+      "en": "It’s real!",
+      "zh": ""
+    },
+    {
+      "start": 866.58,
+      "duration": 3.0,
+      "text": "this effect is way too small to have any meaningful impact",
+      "en": "this effect is way too small to have any meaningful impact",
+      "zh": ""
+    },
+    {
+      "start": 869.58,
+      "duration": 2.09,
+      "text": "on the swirl directions of sinks and toilets,",
+      "en": "on the swirl directions of sinks and toilets,",
+      "zh": ""
+    },
+    {
+      "start": 871.67,
+      "duration": 0.58,
+      "text": "at which point",
+      "en": "at which point",
+      "zh": ""
+    },
+    {
+      "start": 872.25,
+      "duration": 2.79,
+      "text": "it comes down to other factors like sink geometry",
+      "en": "it comes down to other factors like sink geometry",
+      "zh": ""
+    },
+    {
+      "start": 875.04,
+      "duration": 2.21,
+      "text": "or the fact that the seemingly still water",
+      "en": "or the fact that the seemingly still water",
+      "zh": ""
+    },
+    {
+      "start": 877.25,
+      "duration": 3.96,
+      "text": "was actually still barely moving around when the plug was pulled.",
+      "en": "was actually still barely moving around when the plug was pulled.",
+      "zh": ""
+    },
+    {
+      "start": 881.21,
+      "duration": 1.83,
+      "text": "So then what about that tourist demo? Well,",
+      "en": "So then what about that tourist demo? Well,",
+      "zh": ""
+    },
+    {
+      "start": 883.04,
+      "duration": 3.34,
+      "text": "if you play it back and look closely, you can see the end of his pour.",
+      "en": "if you play it back and look closely, you can see the end of his pour.",
+      "zh": ""
+    },
+    {
+      "start": 886.38,
+      "duration": 3.12,
+      "text": "He does this subtle twisting motion so the water would just continue",
+      "en": "He does this subtle twisting motion so the water would just continue",
+      "zh": ""
+    },
+    {
+      "start": 889.5,
+      "duration": 2.25,
+      "text": "to swirl in the direction of the twist.",
+      "en": "to swirl in the direction of the twist.",
+      "zh": ""
+    },
+    {
+      "start": 891.75,
+      "duration": 1.46,
+      "text": "So when he finishes the pour here,",
+      "en": "So when he finishes the pour here,",
+      "zh": ""
+    },
+    {
+      "start": 893.21,
+      "duration": 3.71,
+      "text": "he twists this way and the water continues swirling that way.",
+      "en": "he twists this way and the water continues swirling that way.",
+      "zh": ""
+    },
+    {
+      "start": 896.92,
+      "duration": 2.58,
+      "text": "And then after moving the sink, allegedly over the equator,",
+      "en": "And then after moving the sink, allegedly over the equator,",
+      "zh": ""
+    },
+    {
+      "start": 899.5,
+      "duration": 2.79,
+      "text": "he finishes his pour, twisting the opposite direction,",
+      "en": "he finishes his pour, twisting the opposite direction,",
+      "zh": ""
+    },
+    {
+      "start": 902.29,
+      "duration": 3.0,
+      "text": "and then the water swirls in that opposite direction.",
+      "en": "and then the water swirls in that opposite direction.",
+      "zh": ""
+    },
+    {
+      "start": 905.29,
+      "duration": 3.04,
+      "text": "In fact, you can easily recreate this demo yourself at home",
+      "en": "In fact, you can easily recreate this demo yourself at home",
+      "zh": ""
+    },
+    {
+      "start": 908.33,
+      "duration": 1.96,
+      "text": "to see that by copying this method,",
+      "en": "to see that by copying this method,",
+      "zh": ""
+    },
+    {
+      "start": 910.29,
+      "duration": 3.75,
+      "text": "you can also easily get a whirlpool in both directions",
+      "en": "you can also easily get a whirlpool in both directions",
+      "zh": ""
+    },
+    {
+      "start": 914.04,
+      "duration": 3.21,
+      "text": "and therefore it should come as no surprise that when I ask this question",
+      "en": "and therefore it should come as no surprise that when I ask this question",
+      "zh": ""
+    },
+    {
+      "start": 917.25,
+      "duration": 1.87,
+      "text": "does it work even like if I pour the water,",
+      "en": "does it work even like if I pour the water,",
+      "zh": ""
+    },
+    {
+      "start": 921.08,
+      "duration": 2.88,
+      "text": "I was denied the opportunity to test and observe",
+      "en": "I was denied the opportunity to test and observe",
+      "zh": ""
+    },
+    {
+      "start": 923.96,
+      "duration": 2.66,
+      "text": "on top of all that as the final nail in the coffin",
+      "en": "on top of all that as the final nail in the coffin",
+      "zh": ""
+    },
+    {
+      "start": 926.62,
+      "duration": 3.5,
+      "text": "If you actually look up the GPS coordinates of this place,",
+      "en": "If you actually look up the GPS coordinates of this place,",
+      "zh": ""
+    },
+    {
+      "start": 930.12,
+      "duration": 3.13,
+      "text": "it’s more than a football field away from the official equator,",
+      "en": "it’s more than a football field away from the official equator,",
+      "zh": ""
+    },
+    {
+      "start": 933.25,
+      "duration": 3.92,
+      "text": "which means we were actually in the southern hemisphere the whole time.",
+      "en": "which means we were actually in the southern hemisphere the whole time.",
+      "zh": ""
+    },
+    {
+      "start": 937.17,
+      "duration": 2.33,
+      "text": "So instead of actual science, this is just an attempt",
+      "en": "So instead of actual science, this is just an attempt",
+      "zh": ""
+    },
+    {
+      "start": 939.5,
+      "duration": 3.04,
+      "text": "to take your money with nothing more than a lame magic trick",
+      "en": "to take your money with nothing more than a lame magic trick",
+      "zh": ""
+    },
+    {
+      "start": 942.54,
+      "duration": 2.75,
+      "text": "where the real magic is all that new juicy knowledge",
+      "en": "where the real magic is all that new juicy knowledge",
+      "zh": ""
+    },
+    {
+      "start": 945.29,
+      "duration": 3.5,
+      "text": "I just wirelessly transfered through that screen you’re watching me on",
+      "en": "I just wirelessly transfered through that screen you’re watching me on",
+      "zh": ""
+    },
+    {
+      "start": 948.79,
+      "duration": 2.42,
+      "text": "from my brain into yours.",
+      "en": "from my brain into yours.",
+      "zh": ""
+    },
+    {
+      "start": 952.04,
+      "duration": 2.34,
+      "text": "It's a new year, which means it's a great time",
+      "en": "It's a new year, which means it's a great time",
+      "zh": ""
+    },
+    {
+      "start": 954.38,
+      "duration": 3.24,
+      "text": "to invest in that passion for learning, because that passion is not",
+      "en": "to invest in that passion for learning, because that passion is not",
+      "zh": ""
+    },
+    {
+      "start": 957.62,
+      "duration": 2.84,
+      "text": "only the main driver for why I make these YouTube videos,",
+      "en": "only the main driver for why I make these YouTube videos,",
+      "zh": ""
+    },
+    {
+      "start": 960.46,
+      "duration": 2.12,
+      "text": "but it's also why I created CrunchLabs",
+      "en": "but it's also why I created CrunchLabs",
+      "zh": ""
+    },
+    {
+      "start": 962.58,
+      "duration": 2.5,
+      "text": "where we ship a really fun toy to your porch every month.",
+      "en": "where we ship a really fun toy to your porch every month.",
+      "zh": ""
+    },
+    {
+      "start": 965.08,
+      "duration": 3.42,
+      "text": "And not only do you learn how to build and think like an engineer,",
+      "en": "And not only do you learn how to build and think like an engineer,",
+      "zh": ""
+    },
+    {
+      "start": 968.5,
+      "duration": 3.17,
+      "text": "but you learn the fascinating physics and engineering principles",
+      "en": "but you learn the fascinating physics and engineering principles",
+      "zh": ""
+    },
+    {
+      "start": 971.67,
+      "duration": 1.45,
+      "text": "that make the toys work.",
+      "en": "that make the toys work.",
+      "zh": ""
+    },
+    {
+      "start": 973.12,
+      "duration": 3.0,
+      "text": "Every month is a new principle, and the best part is just like",
+      "en": "Every month is a new principle, and the best part is just like",
+      "zh": ""
+    },
+    {
+      "start": 976.12,
+      "duration": 2.34,
+      "text": "how you hopefully enjoyed watching this video.",
+      "en": "how you hopefully enjoyed watching this video.",
+      "zh": ""
+    },
+    {
+      "start": 978.46,
+      "duration": 2.66,
+      "text": "It doesn't feel like learning because we're real good",
+      "en": "It doesn't feel like learning because we're real good",
+      "zh": ""
+    },
+    {
+      "start": 981.12,
+      "duration": 1.38,
+      "text": "at hiding the vegetables.",
+      "en": "at hiding the vegetables.",
+      "zh": ""
+    },
+    {
+      "start": 982.5,
+      "duration": 3.92,
+      "text": "And what I mean by that is 87% of kids rate it an eight through ten",
+      "en": "And what I mean by that is 87% of kids rate it an eight through ten",
+      "zh": ""
+    },
+    {
+      "start": 986.42,
+      "duration": 1.5,
+      "text": "on a fun scale out of ten.",
+      "en": "on a fun scale out of ten.",
+      "zh": ""
+    },
+    {
+      "start": 988.79,
+      "duration": 3.38,
+      "text": "But also more than three out of four parents said their child",
+      "en": "But also more than three out of four parents said their child",
+      "zh": ""
+    },
+    {
+      "start": 992.17,
+      "duration": 3.79,
+      "text": "gained a new passion around STEM and engineering after getting the build box.",
+      "en": "gained a new passion around STEM and engineering after getting the build box.",
+      "zh": ""
+    },
+    {
+      "start": 995.96,
+      "duration": 0.75,
+      "text": "Yessss",
+      "en": "Yessss",
+      "zh": ""
+    },
+    {
+      "start": 996.71,
+      "duration": 1.58,
+      "text": "On top of that, each month, your box",
+      "en": "On top of that, each month, your box",
+      "zh": ""
+    },
+    {
+      "start": 998.29,
+      "duration": 2.71,
+      "text": "has a chance to contain the platinum ticket and if you get it,",
+      "en": "has a chance to contain the platinum ticket and if you get it,",
+      "zh": ""
+    },
+    {
+      "start": 1003.25,
+      "duration": 3.08,
+      "text": "Well then you coming out to CrunchLabs to build with me and my team for a day.",
+      "en": "Well then you coming out to CrunchLabs to build with me and my team for a day.",
+      "zh": ""
+    },
+    {
+      "start": 1006.33,
+      "duration": 2.59,
+      "text": "So if you want to invest in the superpower",
+      "en": "So if you want to invest in the superpower",
+      "zh": ""
+    },
+    {
+      "start": 1008.92,
+      "duration": 3.37,
+      "text": "of having a passion for learning, just go to CrunchLabs.com or use",
+      "en": "of having a passion for learning, just go to CrunchLabs.com or use",
+      "zh": ""
+    },
+    {
+      "start": 1012.29,
+      "duration": 4.13,
+      "text": "the link in the video description to get your build box subscription today.",
+      "en": "the link in the video description to get your build box subscription today.",
+      "zh": ""
+    },
+    {
+      "start": 1017.08,
+      "duration": 0.84,
+      "text": "Thanks for watching.",
+      "en": "Thanks for watching.",
+      "zh": ""
+    }
+  ],
+  "words": []
+}

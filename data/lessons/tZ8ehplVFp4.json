@@ -1,0 +1,3624 @@
+{
+  "cues": [
+    {
+      "start": 0.11,
+      "duration": 2.29,
+      "text": "- On October 23rd, 2018,",
+      "en": "- On October 23rd, 2018,",
+      "zh": ""
+    },
+    {
+      "start": 2.4,
+      "duration": 2.0,
+      "text": "thousands of football fans were making their way",
+      "en": "thousands of football fans were making their way",
+      "zh": ""
+    },
+    {
+      "start": 4.4,
+      "duration": 1.52,
+      "text": "to the game in Rome.",
+      "en": "to the game in Rome.",
+      "zh": ""
+    },
+    {
+      "start": 5.92,
+      "duration": 1.52,
+      "text": "Excitement for the game was high,",
+      "en": "Excitement for the game was high,",
+      "zh": ""
+    },
+    {
+      "start": 7.44,
+      "duration": 2.72,
+      "text": "and the fans began to chant and sing.",
+      "en": "and the fans began to chant and sing.",
+      "zh": ""
+    },
+    {
+      "start": 10.16,
+      "duration": 1.44,
+      "text": "At 7:03 pm,",
+      "en": "At 7:03 pm,",
+      "zh": ""
+    },
+    {
+      "start": 11.6,
+      "duration": 2.64,
+      "text": "around 50 people were riding the long escalator",
+      "en": "around 50 people were riding the long escalator",
+      "zh": ""
+    },
+    {
+      "start": 14.24,
+      "duration": 2.56,
+      "text": "down to the platform, but within 30 seconds,",
+      "en": "down to the platform, but within 30 seconds,",
+      "zh": ""
+    },
+    {
+      "start": 16.8,
+      "duration": 2.72,
+      "text": "the crowd had swelled to nearly double that.",
+      "en": "the crowd had swelled to nearly double that.",
+      "zh": ""
+    },
+    {
+      "start": 19.52,
+      "duration": 1.28,
+      "text": "Everything seemed fine,",
+      "en": "Everything seemed fine,",
+      "zh": ""
+    },
+    {
+      "start": 20.8,
+      "duration": 3.44,
+      "text": "but inside the escalator was a problem.",
+      "en": "but inside the escalator was a problem.",
+      "zh": ""
+    },
+    {
+      "start": 25.04,
+      "duration": 3.2,
+      "text": "The weight of the passengers was bearing down on the steps,",
+      "en": "The weight of the passengers was bearing down on the steps,",
+      "zh": ""
+    },
+    {
+      "start": 28.24,
+      "duration": 2.96,
+      "text": "and the load on the main motor was increasing.",
+      "en": "and the load on the main motor was increasing.",
+      "zh": ""
+    },
+    {
+      "start": 31.2,
+      "duration": 1.68,
+      "text": "To try to slow the descent,",
+      "en": "To try to slow the descent,",
+      "zh": ""
+    },
+    {
+      "start": 32.88,
+      "duration": 2.16,
+      "text": "the motor applied a counter torque.",
+      "en": "the motor applied a counter torque.",
+      "zh": ""
+    },
+    {
+      "start": 35.04,
+      "duration": 1.76,
+      "text": "But as the force continued to increase,",
+      "en": "But as the force continued to increase,",
+      "zh": ""
+    },
+    {
+      "start": 36.8,
+      "duration": 2.64,
+      "text": "the stairs began to move faster.",
+      "en": "the stairs began to move faster.",
+      "zh": ""
+    },
+    {
+      "start": 39.44,
+      "duration": 2.64,
+      "text": "By 7:04 pm, the crowd had tripled.",
+      "en": "By 7:04 pm, the crowd had tripled.",
+      "zh": ""
+    },
+    {
+      "start": 42.08,
+      "duration": 1.92,
+      "text": "The motor finally reached its limit,",
+      "en": "The motor finally reached its limit,",
+      "zh": ""
+    },
+    {
+      "start": 44.0,
+      "duration": 3.84,
+      "text": "and under the massive strain, the drum began to slip.",
+      "en": "and under the massive strain, the drum began to slip.",
+      "zh": ""
+    },
+    {
+      "start": 47.84,
+      "duration": 1.52,
+      "text": "With the motor losing control,",
+      "en": "With the motor losing control,",
+      "zh": ""
+    },
+    {
+      "start": 49.36,
+      "duration": 2.88,
+      "text": "the escalator triggered its second line of defense.",
+      "en": "the escalator triggered its second line of defense.",
+      "zh": ""
+    },
+    {
+      "start": 52.24,
+      "duration": 2.48,
+      "text": "A safety relay tripped,",
+      "en": "A safety relay tripped,",
+      "zh": ""
+    },
+    {
+      "start": 54.72,
+      "duration": 2.24,
+      "text": "immediately cutting power to the motor.",
+      "en": "immediately cutting power to the motor.",
+      "zh": ""
+    },
+    {
+      "start": 56.96,
+      "duration": 2.4,
+      "text": "The main brake clamped down on the metal drum",
+      "en": "The main brake clamped down on the metal drum",
+      "zh": ""
+    },
+    {
+      "start": 59.36,
+      "duration": 3.92,
+      "text": "to stop the descent of the stairs,",
+      "en": "to stop the descent of the stairs,",
+      "zh": ""
+    },
+    {
+      "start": 63.28,
+      "duration": 2.64,
+      "text": "but, it failed.",
+      "en": "but, it failed.",
+      "zh": ""
+    },
+    {
+      "start": 65.92,
+      "duration": 2.24,
+      "text": "The friction on the main drum wasn't enough",
+      "en": "The friction on the main drum wasn't enough",
+      "zh": ""
+    },
+    {
+      "start": 68.16,
+      "duration": 1.68,
+      "text": "to stop the motor from spinning,",
+      "en": "to stop the motor from spinning,",
+      "zh": ""
+    },
+    {
+      "start": 69.84,
+      "duration": 3.12,
+      "text": "and the stairs continued to accelerate.",
+      "en": "and the stairs continued to accelerate.",
+      "zh": ""
+    },
+    {
+      "start": 72.96,
+      "duration": 1.92,
+      "text": "Sensing the motor had lost control of the steps,",
+      "en": "Sensing the motor had lost control of the steps,",
+      "zh": ""
+    },
+    {
+      "start": 74.88,
+      "duration": 2.8,
+      "text": "the escalator engaged the last line of defense.",
+      "en": "the escalator engaged the last line of defense.",
+      "zh": ""
+    },
+    {
+      "start": 77.68,
+      "duration": 2.88,
+      "text": "In the event of an emergency, an auxiliary break is designed",
+      "en": "In the event of an emergency, an auxiliary break is designed",
+      "zh": ""
+    },
+    {
+      "start": 80.56,
+      "duration": 1.68,
+      "text": "to bypass the motor entirely",
+      "en": "to bypass the motor entirely",
+      "zh": ""
+    },
+    {
+      "start": 82.24,
+      "duration": 3.28,
+      "text": "and directly lock the drive shaft.",
+      "en": "and directly lock the drive shaft.",
+      "zh": ""
+    },
+    {
+      "start": 85.52,
+      "duration": 1.68,
+      "text": "Under normal circumstances,",
+      "en": "Under normal circumstances,",
+      "zh": ""
+    },
+    {
+      "start": 87.2,
+      "duration": 2.56,
+      "text": "the chance that all three safety measures fail",
+      "en": "the chance that all three safety measures fail",
+      "zh": ""
+    },
+    {
+      "start": 89.76,
+      "duration": 3.28,
+      "text": "at the same time is vanishingly small.",
+      "en": "at the same time is vanishingly small.",
+      "zh": ""
+    },
+    {
+      "start": 93.04,
+      "duration": 2.8,
+      "text": "But these weren't normal circumstances.",
+      "en": "But these weren't normal circumstances.",
+      "zh": ""
+    },
+    {
+      "start": 95.84,
+      "duration": 3.52,
+      "text": "At 7:05 pm, the third and final safety system failed,",
+      "en": "At 7:05 pm, the third and final safety system failed,",
+      "zh": ""
+    },
+    {
+      "start": 99.36,
+      "duration": 2.64,
+      "text": "and the stairs began to plummet.",
+      "en": "and the stairs began to plummet.",
+      "zh": ""
+    },
+    {
+      "start": 102.0,
+      "duration": 1.36,
+      "text": "Fans were flung forward",
+      "en": "Fans were flung forward",
+      "zh": ""
+    },
+    {
+      "start": 103.36,
+      "duration": 3.28,
+      "text": "and started streaming down the escalator.",
+      "en": "and started streaming down the escalator.",
+      "zh": ""
+    },
+    {
+      "start": 106.64,
+      "duration": 2.64,
+      "text": "Some lept over the central barrier in desperation,",
+      "en": "Some lept over the central barrier in desperation,",
+      "zh": ""
+    },
+    {
+      "start": 109.28,
+      "duration": 2.96,
+      "text": "while others were swept into a crushing pileup.",
+      "en": "while others were swept into a crushing pileup.",
+      "zh": ""
+    },
+    {
+      "start": 112.24,
+      "duration": 3.12,
+      "text": "At the bottom, the landing became a dangerous choke point.",
+      "en": "At the bottom, the landing became a dangerous choke point.",
+      "zh": ""
+    },
+    {
+      "start": 115.36,
+      "duration": 1.76,
+      "text": "Under the pressure, the steps twisted",
+      "en": "Under the pressure, the steps twisted",
+      "zh": ""
+    },
+    {
+      "start": 117.12,
+      "duration": 4.72,
+      "text": "and buckled into jagged metal, leaving 24 people injured.",
+      "en": "and buckled into jagged metal, leaving 24 people injured.",
+      "zh": ""
+    },
+    {
+      "start": 121.84,
+      "duration": 2.64,
+      "text": "Something like this shouldn't have been possible,",
+      "en": "Something like this shouldn't have been possible,",
+      "zh": ""
+    },
+    {
+      "start": 124.48,
+      "duration": 3.36,
+      "text": "and experts at the time knew that something had gone wrong,",
+      "en": "and experts at the time knew that something had gone wrong,",
+      "zh": ""
+    },
+    {
+      "start": 127.84,
+      "duration": 2.24,
+      "text": "and they started to suspect foul play.",
+      "en": "and they started to suspect foul play.",
+      "zh": ""
+    },
+    {
+      "start": 130.08,
+      "duration": 2.32,
+      "text": "In the aftermath, Rome's Transit Agency",
+      "en": "In the aftermath, Rome's Transit Agency",
+      "zh": ""
+    },
+    {
+      "start": 132.4,
+      "duration": 1.36,
+      "text": "sealed off the accident site",
+      "en": "sealed off the accident site",
+      "zh": ""
+    },
+    {
+      "start": 133.76,
+      "duration": 3.12,
+      "text": "and closed the Republica station for several months.",
+      "en": "and closed the Republica station for several months.",
+      "zh": ""
+    },
+    {
+      "start": 136.88,
+      "duration": 2.4,
+      "text": "The authorities ordered both a technical",
+      "en": "The authorities ordered both a technical",
+      "zh": ""
+    },
+    {
+      "start": 139.28,
+      "duration": 1.68,
+      "text": "and a criminal investigation,",
+      "en": "and a criminal investigation,",
+      "zh": ""
+    },
+    {
+      "start": 140.96,
+      "duration": 1.92,
+      "text": "and the mayor even publicly vowed",
+      "en": "and the mayor even publicly vowed",
+      "zh": ""
+    },
+    {
+      "start": 142.88,
+      "duration": 2.32,
+      "text": "to discover the cause of the accident.",
+      "en": "to discover the cause of the accident.",
+      "zh": ""
+    },
+    {
+      "start": 145.2,
+      "duration": 2.8,
+      "text": "So investigators began dismantling the wreck,",
+      "en": "So investigators began dismantling the wreck,",
+      "zh": ""
+    },
+    {
+      "start": 148.0,
+      "duration": 1.52,
+      "text": "tearing it down piece by piece",
+      "en": "tearing it down piece by piece",
+      "zh": ""
+    },
+    {
+      "start": 149.52,
+      "duration": 4.72,
+      "text": "to reconstruct what had happened.",
+      "en": "to reconstruct what had happened.",
+      "zh": ""
+    },
+    {
+      "start": 154.24,
+      "duration": 2.48,
+      "text": "The ride people experienced on that escalator",
+      "en": "The ride people experienced on that escalator",
+      "zh": ""
+    },
+    {
+      "start": 156.72,
+      "duration": 2.8,
+      "text": "was one of the most terrifying rides of their lives.",
+      "en": "was one of the most terrifying rides of their lives.",
+      "zh": ""
+    },
+    {
+      "start": 159.52,
+      "duration": 2.48,
+      "text": "But maybe it's more similar to the origin",
+      "en": "But maybe it's more similar to the origin",
+      "zh": ""
+    },
+    {
+      "start": 162.0,
+      "duration": 1.92,
+      "text": "of escalators than you might think.",
+      "en": "of escalators than you might think.",
+      "zh": ""
+    },
+    {
+      "start": 163.92,
+      "duration": 3.28,
+      "text": "Like what was the first escalator even used for?",
+      "en": "Like what was the first escalator even used for?",
+      "zh": ""
+    },
+    {
+      "start": 167.2,
+      "duration": 4.24,
+      "text": "Do you wanna have a guess?",
+      "en": "Do you wanna have a guess?",
+      "zh": ""
+    },
+    {
+      "start": 171.44,
+      "duration": 2.0,
+      "text": "It was an attraction in a theme park",
+      "en": "It was an attraction in a theme park",
+      "zh": ""
+    },
+    {
+      "start": 173.44,
+      "duration": 2.16,
+      "text": "all the way back in 1896.",
+      "en": "all the way back in 1896.",
+      "zh": ""
+    },
+    {
+      "start": 175.6,
+      "duration": 3.2,
+      "text": "It had no steps, a 25 degree incline,",
+      "en": "It had no steps, a 25 degree incline,",
+      "zh": ""
+    },
+    {
+      "start": 178.8,
+      "duration": 2.48,
+      "text": "and it was essentially just a slow conveyor belt",
+      "en": "and it was essentially just a slow conveyor belt",
+      "zh": ""
+    },
+    {
+      "start": 181.28,
+      "duration": 2.08,
+      "text": "made of metal and wooden parts.",
+      "en": "made of metal and wooden parts.",
+      "zh": ""
+    },
+    {
+      "start": 183.36,
+      "duration": 2.4,
+      "text": "It brought people up a full seven feet",
+      "en": "It brought people up a full seven feet",
+      "zh": ""
+    },
+    {
+      "start": 185.76,
+      "duration": 3.68,
+      "text": "before they would have to walk downstairs on the other side,",
+      "en": "before they would have to walk downstairs on the other side,",
+      "zh": ""
+    },
+    {
+      "start": 189.44,
+      "duration": 2.32,
+      "text": "and it was a huge success.",
+      "en": "and it was a huge success.",
+      "zh": ""
+    },
+    {
+      "start": 191.76,
+      "duration": 2.72,
+      "text": "Over 75,000 people enjoyed the attraction",
+      "en": "Over 75,000 people enjoyed the attraction",
+      "zh": ""
+    },
+    {
+      "start": 194.48,
+      "duration": 2.4,
+      "text": "during its two week stay at the Old Iron Pier",
+      "en": "during its two week stay at the Old Iron Pier",
+      "zh": ""
+    },
+    {
+      "start": 196.88,
+      "duration": 1.12,
+      "text": "on Coney Island.",
+      "en": "on Coney Island.",
+      "zh": ""
+    },
+    {
+      "start": 198.0,
+      "duration": 2.72,
+      "text": "The ride was named the Continuous Elevator",
+      "en": "The ride was named the Continuous Elevator",
+      "zh": ""
+    },
+    {
+      "start": 200.72,
+      "duration": 2.8,
+      "text": "and its inventor, Jesse Reno, had created it",
+      "en": "and its inventor, Jesse Reno, had created it",
+      "zh": ""
+    },
+    {
+      "start": 203.52,
+      "duration": 3.6,
+      "text": "not just as an attraction, but as a proof of concept,",
+      "en": "not just as an attraction, but as a proof of concept,",
+      "zh": ""
+    },
+    {
+      "start": 207.12,
+      "duration": 4.32,
+      "text": "because he saw it as the future of transportation.",
+      "en": "because he saw it as the future of transportation.",
+      "zh": ""
+    },
+    {
+      "start": 213.2,
+      "duration": 2.88,
+      "text": "But as Reno watched people ride his invention,",
+      "en": "But as Reno watched people ride his invention,",
+      "zh": ""
+    },
+    {
+      "start": 216.08,
+      "duration": 2.08,
+      "text": "he began to notice a pattern.",
+      "en": "he began to notice a pattern.",
+      "zh": ""
+    },
+    {
+      "start": 218.16,
+      "duration": 1.2,
+      "text": "Nobody walked.",
+      "en": "Nobody walked.",
+      "zh": ""
+    },
+    {
+      "start": 219.36,
+      "duration": 4.16,
+      "text": "Instead, they stood still, feet planted firmly sideways",
+      "en": "Instead, they stood still, feet planted firmly sideways",
+      "zh": ""
+    },
+    {
+      "start": 223.52,
+      "duration": 3.84,
+      "text": "with people gripping the handrail tightly.",
+      "en": "with people gripping the handrail tightly.",
+      "zh": ""
+    },
+    {
+      "start": 227.36,
+      "duration": 2.48,
+      "text": "Two years later, the department store Harrods in England",
+      "en": "Two years later, the department store Harrods in England",
+      "zh": ""
+    },
+    {
+      "start": 229.84,
+      "duration": 1.6,
+      "text": "installed a similar device,",
+      "en": "installed a similar device,",
+      "zh": ""
+    },
+    {
+      "start": 231.44,
+      "duration": 2.48,
+      "text": "but the ride was so unsettling that Harrods",
+      "en": "but the ride was so unsettling that Harrods",
+      "zh": ""
+    },
+    {
+      "start": 233.92,
+      "duration": 2.32,
+      "text": "had to put staff at the top to offer brandy to men",
+      "en": "had to put staff at the top to offer brandy to men",
+      "zh": ""
+    },
+    {
+      "start": 236.24,
+      "duration": 4.24,
+      "text": "and smelling salts to women just to calm their nerves.",
+      "en": "and smelling salts to women just to calm their nerves.",
+      "zh": ""
+    },
+    {
+      "start": 240.48,
+      "duration": 1.44,
+      "text": "You see, for both devices,",
+      "en": "You see, for both devices,",
+      "zh": ""
+    },
+    {
+      "start": 241.92,
+      "duration": 3.36,
+      "text": "the 25 degree conveyor belt was precarious to walk on",
+      "en": "the 25 degree conveyor belt was precarious to walk on",
+      "zh": ""
+    },
+    {
+      "start": 245.28,
+      "duration": 2.0,
+      "text": "and unnerving to stand on.",
+      "en": "and unnerving to stand on.",
+      "zh": ""
+    },
+    {
+      "start": 247.28,
+      "duration": 1.52,
+      "text": "At around 12 degrees,",
+      "en": "At around 12 degrees,",
+      "zh": ""
+    },
+    {
+      "start": 248.8,
+      "duration": 2.08,
+      "text": "walking on an incline becomes difficult,",
+      "en": "walking on an incline becomes difficult,",
+      "zh": ""
+    },
+    {
+      "start": 250.88,
+      "duration": 2.64,
+      "text": "and 25 degrees is roughly the limit",
+      "en": "and 25 degrees is roughly the limit",
+      "zh": ""
+    },
+    {
+      "start": 253.52,
+      "duration": 2.64,
+      "text": "that our ankles can flex.",
+      "en": "that our ankles can flex.",
+      "zh": ""
+    },
+    {
+      "start": 256.16,
+      "duration": 2.4,
+      "text": "If only there was a way to replace the conveyor belt",
+      "en": "If only there was a way to replace the conveyor belt",
+      "zh": ""
+    },
+    {
+      "start": 258.56,
+      "duration": 2.0,
+      "text": "with a moving set of stairs.",
+      "en": "with a moving set of stairs.",
+      "zh": ""
+    },
+    {
+      "start": 260.56,
+      "duration": 2.96,
+      "text": "Well, then the riders would always have a flat surface",
+      "en": "Well, then the riders would always have a flat surface",
+      "zh": ""
+    },
+    {
+      "start": 263.52,
+      "duration": 2.64,
+      "text": "to stand on and a staircase they could climb",
+      "en": "to stand on and a staircase they could climb",
+      "zh": ""
+    },
+    {
+      "start": 266.16,
+      "duration": 1.36,
+      "text": "if they wanted to.",
+      "en": "if they wanted to.",
+      "zh": ""
+    },
+    {
+      "start": 268.16,
+      "duration": 2.24,
+      "text": "One attempt at a solution had already been around",
+      "en": "One attempt at a solution had already been around",
+      "zh": ""
+    },
+    {
+      "start": 270.4,
+      "duration": 3.6,
+      "text": "for four decades, and it was called the revolving stairs.",
+      "en": "for four decades, and it was called the revolving stairs.",
+      "zh": ""
+    },
+    {
+      "start": 274.0,
+      "duration": 2.72,
+      "text": "It consisted of a chain that went around a loop,",
+      "en": "It consisted of a chain that went around a loop,",
+      "zh": ""
+    },
+    {
+      "start": 276.72,
+      "duration": 2.88,
+      "text": "then fixed stair shaped blocks were attached to it,",
+      "en": "then fixed stair shaped blocks were attached to it,",
+      "zh": ""
+    },
+    {
+      "start": 279.6,
+      "duration": 3.36,
+      "text": "creating a flat surface to stand on during the main incline.",
+      "en": "creating a flat surface to stand on during the main incline.",
+      "zh": ""
+    },
+    {
+      "start": 282.96,
+      "duration": 1.44,
+      "text": "But as soon as you'd reached the top,",
+      "en": "But as soon as you'd reached the top,",
+      "zh": ""
+    },
+    {
+      "start": 284.4,
+      "duration": 3.52,
+      "text": "the steps tilted forward, making it treacherous to get off,",
+      "en": "the steps tilted forward, making it treacherous to get off,",
+      "zh": ""
+    },
+    {
+      "start": 287.92,
+      "duration": 3.2,
+      "text": "and a similar problem plagued you at the bottom.",
+      "en": "and a similar problem plagued you at the bottom.",
+      "zh": ""
+    },
+    {
+      "start": 291.12,
+      "duration": 1.28,
+      "text": "Now, you might think if the top",
+      "en": "Now, you might think if the top",
+      "zh": ""
+    },
+    {
+      "start": 292.4,
+      "duration": 3.44,
+      "text": "and bottom are causing problems, just extend each landing,",
+      "en": "and bottom are causing problems, just extend each landing,",
+      "zh": ""
+    },
+    {
+      "start": 295.84,
+      "duration": 1.76,
+      "text": "but that also doesn't work.",
+      "en": "but that also doesn't work.",
+      "zh": ""
+    },
+    {
+      "start": 297.6,
+      "duration": 3.12,
+      "text": "You just end up with a jagged mess for longer.",
+      "en": "You just end up with a jagged mess for longer.",
+      "zh": ""
+    },
+    {
+      "start": 300.72,
+      "duration": 3.36,
+      "text": "So how do modern escalators solve this problem?",
+      "en": "So how do modern escalators solve this problem?",
+      "zh": ""
+    },
+    {
+      "start": 304.08,
+      "duration": 2.24,
+      "text": "I mean, have you ever stopped to think what happens",
+      "en": "I mean, have you ever stopped to think what happens",
+      "zh": ""
+    },
+    {
+      "start": 306.32,
+      "duration": 1.52,
+      "text": "to the stairs at the top",
+      "en": "to the stairs at the top",
+      "zh": ""
+    },
+    {
+      "start": 307.84,
+      "duration": 2.16,
+      "text": "of the escalator when they disappear?",
+      "en": "of the escalator when they disappear?",
+      "zh": ""
+    },
+    {
+      "start": 310.0,
+      "duration": 3.36,
+      "text": "Clearly, we have steps going around in some sort of loop,",
+      "en": "Clearly, we have steps going around in some sort of loop,",
+      "zh": ""
+    },
+    {
+      "start": 313.36,
+      "duration": 3.2,
+      "text": "but how do they actually behave on the return journey?",
+      "en": "but how do they actually behave on the return journey?",
+      "zh": ""
+    },
+    {
+      "start": 316.56,
+      "duration": 1.76,
+      "text": "What if I give you two options?",
+      "en": "What if I give you two options?",
+      "zh": ""
+    },
+    {
+      "start": 318.32,
+      "duration": 2.56,
+      "text": "Do they stay right side up like the cabins",
+      "en": "Do they stay right side up like the cabins",
+      "zh": ""
+    },
+    {
+      "start": 320.88,
+      "duration": 2.88,
+      "text": "in a Ferris wheel, or do they flip upside down",
+      "en": "in a Ferris wheel, or do they flip upside down",
+      "zh": ""
+    },
+    {
+      "start": 323.76,
+      "duration": 2.8,
+      "text": "and then flip back again at the other side?",
+      "en": "and then flip back again at the other side?",
+      "zh": ""
+    },
+    {
+      "start": 326.56,
+      "duration": 2.0,
+      "text": "- I'm gonna go this one all day.",
+      "en": "- I'm gonna go this one all day.",
+      "zh": ""
+    },
+    {
+      "start": 328.56,
+      "duration": 1.48,
+      "text": "- Ferris wheel. - This one makes more sense.",
+      "en": "- Ferris wheel. - This one makes more sense.",
+      "zh": ""
+    },
+    {
+      "start": 330.04,
+      "duration": 0.8,
+      "text": "- Ferris Wheel.",
+      "en": "- Ferris Wheel.",
+      "zh": ""
+    },
+    {
+      "start": 330.84,
+      "duration": 1.2,
+      "text": "- Yeah, this one.",
+      "en": "- Yeah, this one.",
+      "zh": ""
+    },
+    {
+      "start": 332.04,
+      "duration": 2.24,
+      "text": "- I think they turn upside down.",
+      "en": "- I think they turn upside down.",
+      "zh": ""
+    },
+    {
+      "start": 334.28,
+      "duration": 1.48,
+      "text": "- And they're actually right side up.",
+      "en": "- And they're actually right side up.",
+      "zh": ""
+    },
+    {
+      "start": 335.76,
+      "duration": 1.68,
+      "text": "- I think I'm gonna go with this.",
+      "en": "- I think I'm gonna go with this.",
+      "zh": ""
+    },
+    {
+      "start": 337.44,
+      "duration": 1.81,
+      "text": "- Wow. You're both",
+      "en": "- Wow. You're both",
+      "zh": ""
+    },
+    {
+      "start": 339.25,
+      "duration": 0.3,
+      "text": "- They just keep- - Yeah.",
+      "en": "- They just keep- - Yeah.",
+      "zh": ""
+    },
+    {
+      "start": 339.28,
+      "duration": 2.48,
+      "text": "- The solution to this problem came from another inventor",
+      "en": "- The solution to this problem came from another inventor",
+      "zh": ""
+    },
+    {
+      "start": 341.76,
+      "duration": 1.76,
+      "text": "named George Wheeler.",
+      "en": "named George Wheeler.",
+      "zh": ""
+    },
+    {
+      "start": 343.52,
+      "duration": 4.0,
+      "text": "His idea forms the basis of every escalator in use today.",
+      "en": "His idea forms the basis of every escalator in use today.",
+      "zh": ""
+    },
+    {
+      "start": 347.52,
+      "duration": 3.2,
+      "text": "A modern version of it works something like this.",
+      "en": "A modern version of it works something like this.",
+      "zh": ""
+    },
+    {
+      "start": 350.72,
+      "duration": 3.04,
+      "text": "A typical subway escalator has an electric motor at the top",
+      "en": "A typical subway escalator has an electric motor at the top",
+      "zh": ""
+    },
+    {
+      "start": 353.76,
+      "duration": 2.88,
+      "text": "with a power output of around 50 kilowatts.",
+      "en": "with a power output of around 50 kilowatts.",
+      "zh": ""
+    },
+    {
+      "start": 356.64,
+      "duration": 2.4,
+      "text": "Smaller than most electric cars.",
+      "en": "Smaller than most electric cars.",
+      "zh": ""
+    },
+    {
+      "start": 359.04,
+      "duration": 3.84,
+      "text": "This motor spins extremely fast at over a 1,000 RPM,",
+      "en": "This motor spins extremely fast at over a 1,000 RPM,",
+      "zh": ""
+    },
+    {
+      "start": 362.88,
+      "duration": 1.52,
+      "text": "but it's pretty weak.",
+      "en": "but it's pretty weak.",
+      "zh": ""
+    },
+    {
+      "start": 364.4,
+      "duration": 2.16,
+      "text": "So to drive the steps, the escalator needs",
+      "en": "So to drive the steps, the escalator needs",
+      "zh": ""
+    },
+    {
+      "start": 366.56,
+      "duration": 3.44,
+      "text": "to convert this into a slower output with more force.",
+      "en": "to convert this into a slower output with more force.",
+      "zh": ""
+    },
+    {
+      "start": 370.0,
+      "duration": 3.44,
+      "text": "To do this, it uses a reduction gearbox in a gear system,",
+      "en": "To do this, it uses a reduction gearbox in a gear system,",
+      "zh": ""
+    },
+    {
+      "start": 373.44,
+      "duration": 2.32,
+      "text": "lowering the output to just a few RPM",
+      "en": "lowering the output to just a few RPM",
+      "zh": ""
+    },
+    {
+      "start": 375.76,
+      "duration": 3.68,
+      "text": "and increasing the torque by a factor of around 100.",
+      "en": "and increasing the torque by a factor of around 100.",
+      "zh": ""
+    },
+    {
+      "start": 380.24,
+      "duration": 2.32,
+      "text": "The motor is connected with a large sprocket",
+      "en": "The motor is connected with a large sprocket",
+      "zh": ""
+    },
+    {
+      "start": 382.56,
+      "duration": 1.84,
+      "text": "to a reinforced steel chain,",
+      "en": "to a reinforced steel chain,",
+      "zh": ""
+    },
+    {
+      "start": 384.4,
+      "duration": 2.08,
+      "text": "which pulls the stairs around a loop.",
+      "en": "which pulls the stairs around a loop.",
+      "zh": ""
+    },
+    {
+      "start": 386.48,
+      "duration": 2.48,
+      "text": "The so-called step chain is fitted with wheels",
+      "en": "The so-called step chain is fitted with wheels",
+      "zh": ""
+    },
+    {
+      "start": 388.96,
+      "duration": 3.12,
+      "text": "to allow it to roll smoothly around curves.",
+      "en": "to allow it to roll smoothly around curves.",
+      "zh": ""
+    },
+    {
+      "start": 392.08,
+      "duration": 2.56,
+      "text": "But unlike the design for the revolving stairs,",
+      "en": "But unlike the design for the revolving stairs,",
+      "zh": ""
+    },
+    {
+      "start": 394.64,
+      "duration": 2.56,
+      "text": "Wheeler proposed attaching each step to this chain",
+      "en": "Wheeler proposed attaching each step to this chain",
+      "zh": ""
+    },
+    {
+      "start": 397.2,
+      "duration": 3.52,
+      "text": "through a single axle, giving it the freedom to rotate.",
+      "en": "through a single axle, giving it the freedom to rotate.",
+      "zh": ""
+    },
+    {
+      "start": 401.28,
+      "duration": 2.64,
+      "text": "Next, he added a second set of wheels to each step",
+      "en": "Next, he added a second set of wheels to each step",
+      "zh": ""
+    },
+    {
+      "start": 403.92,
+      "duration": 1.92,
+      "text": "that followed a different track,",
+      "en": "that followed a different track,",
+      "zh": ""
+    },
+    {
+      "start": 405.84,
+      "duration": 3.84,
+      "text": "allowing him to control the angle of each step at any point.",
+      "en": "allowing him to control the angle of each step at any point.",
+      "zh": ""
+    },
+    {
+      "start": 409.68,
+      "duration": 2.32,
+      "text": "On the incline, the two tracks overlap",
+      "en": "On the incline, the two tracks overlap",
+      "zh": ""
+    },
+    {
+      "start": 412.0,
+      "duration": 1.84,
+      "text": "just like the revolving staircase,",
+      "en": "just like the revolving staircase,",
+      "zh": ""
+    },
+    {
+      "start": 413.84,
+      "duration": 2.64,
+      "text": "but then at the top, the two tracks separate,",
+      "en": "but then at the top, the two tracks separate,",
+      "zh": ""
+    },
+    {
+      "start": 416.48,
+      "duration": 1.44,
+      "text": "and this is what allows us",
+      "en": "and this is what allows us",
+      "zh": ""
+    },
+    {
+      "start": 417.92,
+      "duration": 3.12,
+      "text": "to keep the steps level throughout the entire ride.",
+      "en": "to keep the steps level throughout the entire ride.",
+      "zh": ""
+    },
+    {
+      "start": 421.04,
+      "duration": 3.04,
+      "text": "The tracks then remain separated and curve around.",
+      "en": "The tracks then remain separated and curve around.",
+      "zh": ""
+    },
+    {
+      "start": 424.08,
+      "duration": 1.76,
+      "text": "The steps flip upside down,",
+      "en": "The steps flip upside down,",
+      "zh": ""
+    },
+    {
+      "start": 425.84,
+      "duration": 2.96,
+      "text": "tuck into the loop, and start their return journey.",
+      "en": "tuck into the loop, and start their return journey.",
+      "zh": ""
+    },
+    {
+      "start": 428.8,
+      "duration": 2.16,
+      "text": "At the start of the incline, the tracks rejoin",
+      "en": "At the start of the incline, the tracks rejoin",
+      "zh": ""
+    },
+    {
+      "start": 430.96,
+      "duration": 2.32,
+      "text": "and the whole process repeats.",
+      "en": "and the whole process repeats.",
+      "zh": ""
+    },
+    {
+      "start": 433.28,
+      "duration": 2.92,
+      "text": "- So the answer is, you are both wrong.",
+      "en": "- So the answer is, you are both wrong.",
+      "zh": ""
+    },
+    {
+      "start": 436.2,
+      "duration": 4.42,
+      "text": "- Oh my God.",
+      "en": "- Oh my God.",
+      "zh": ""
+    },
+    {
+      "start": 440.62,
+      "duration": 0.58,
+      "text": "- I don't want to be interviewed anymore.",
+      "en": "- I don't want to be interviewed anymore.",
+      "zh": ""
+    },
+    {
+      "start": 441.2,
+      "duration": 1.88,
+      "text": "- Yeah. - Wow. I never really thought about that.",
+      "en": "- Yeah. - Wow. I never really thought about that.",
+      "zh": ""
+    },
+    {
+      "start": 443.08,
+      "duration": 1.8,
+      "text": "- Yeah, like, I would say,",
+      "en": "- Yeah, like, I would say,",
+      "zh": ""
+    },
+    {
+      "start": 444.88,
+      "duration": 2.52,
+      "text": "it's like a upside down elevator, bro.",
+      "en": "it's like a upside down elevator, bro.",
+      "zh": ""
+    },
+    {
+      "start": 447.4,
+      "duration": 2.84,
+      "text": "- Guess what? You're right.",
+      "en": "- Guess what? You're right.",
+      "zh": ""
+    },
+    {
+      "start": 450.24,
+      "duration": 2.4,
+      "text": "- Yeah? - Yeah.",
+      "en": "- Yeah? - Yeah.",
+      "zh": ""
+    },
+    {
+      "start": 452.64,
+      "duration": 2.08,
+      "text": "- But despite all modern escalators",
+      "en": "- But despite all modern escalators",
+      "zh": ""
+    },
+    {
+      "start": 454.72,
+      "duration": 2.24,
+      "text": "adopting Wheeler's design, at the time,",
+      "en": "adopting Wheeler's design, at the time,",
+      "zh": ""
+    },
+    {
+      "start": 456.96,
+      "duration": 1.52,
+      "text": "it caught so little attention",
+      "en": "it caught so little attention",
+      "zh": ""
+    },
+    {
+      "start": 458.48,
+      "duration": 2.4,
+      "text": "that he was forced to shelve the idea.",
+      "en": "that he was forced to shelve the idea.",
+      "zh": ""
+    },
+    {
+      "start": 460.88,
+      "duration": 2.64,
+      "text": "It wasn't until eight years later that another inventor,",
+      "en": "It wasn't until eight years later that another inventor,",
+      "zh": ""
+    },
+    {
+      "start": 463.52,
+      "duration": 2.0,
+      "text": "Charles Seeberger, bought his patent",
+      "en": "Charles Seeberger, bought his patent",
+      "zh": ""
+    },
+    {
+      "start": 465.52,
+      "duration": 2.4,
+      "text": "and capitalized on the invention.",
+      "en": "and capitalized on the invention.",
+      "zh": ""
+    },
+    {
+      "start": 467.92,
+      "duration": 2.56,
+      "text": "Seeberger partnered with the Otis Elevator Company,",
+      "en": "Seeberger partnered with the Otis Elevator Company,",
+      "zh": ""
+    },
+    {
+      "start": 470.48,
+      "duration": 3.44,
+      "text": "and together they built a prototype.",
+      "en": "and together they built a prototype.",
+      "zh": ""
+    },
+    {
+      "start": 473.92,
+      "duration": 1.52,
+      "text": "A year later, in 1900,",
+      "en": "A year later, in 1900,",
+      "zh": ""
+    },
+    {
+      "start": 475.44,
+      "duration": 3.84,
+      "text": "they showcased it at the Paris Exposition Universelle.",
+      "en": "they showcased it at the Paris Exposition Universelle.",
+      "zh": ""
+    },
+    {
+      "start": 479.28,
+      "duration": 2.96,
+      "text": "In total, 51 million people flocked to the exposition",
+      "en": "In total, 51 million people flocked to the exposition",
+      "zh": ""
+    },
+    {
+      "start": 482.24,
+      "duration": 2.16,
+      "text": "to see the marvels of modern technology.",
+      "en": "to see the marvels of modern technology.",
+      "zh": ""
+    },
+    {
+      "start": 484.4,
+      "duration": 1.68,
+      "text": "But one of the most popular exhibitions",
+      "en": "But one of the most popular exhibitions",
+      "zh": ""
+    },
+    {
+      "start": 486.08,
+      "duration": 2.96,
+      "text": "was the world's first true commercial escalator.",
+      "en": "was the world's first true commercial escalator.",
+      "zh": ""
+    },
+    {
+      "start": 489.04,
+      "duration": 2.16,
+      "text": "The machine drew huge crowds.",
+      "en": "The machine drew huge crowds.",
+      "zh": ""
+    },
+    {
+      "start": 491.2,
+      "duration": 2.4,
+      "text": "French historian Philippe Jullian described it",
+      "en": "French historian Philippe Jullian described it",
+      "zh": ""
+    },
+    {
+      "start": 493.6,
+      "duration": 2.24,
+      "text": "as the jolliest attraction at the exhibition",
+      "en": "as the jolliest attraction at the exhibition",
+      "zh": ""
+    },
+    {
+      "start": 495.84,
+      "duration": 3.36,
+      "text": "and wrote, \"The escalator caused many an incident worthy",
+      "en": "and wrote, \"The escalator caused many an incident worthy",
+      "zh": ""
+    },
+    {
+      "start": 499.2,
+      "duration": 2.0,
+      "text": "\"of the vaudeville, separating families,",
+      "en": "\"of the vaudeville, separating families,",
+      "zh": ""
+    },
+    {
+      "start": 501.2,
+      "duration": 2.56,
+      "text": "\"sending old men sprawling, delighting the children,",
+      "en": "\"sending old men sprawling, delighting the children,",
+      "zh": ""
+    },
+    {
+      "start": 503.76,
+      "duration": 2.4,
+      "text": "\"and reducing their nannies to despair.\"",
+      "en": "\"and reducing their nannies to despair.\"",
+      "zh": ""
+    },
+    {
+      "start": 506.16,
+      "duration": 2.8,
+      "text": "The escalator was even awarded one of the grand prizes",
+      "en": "The escalator was even awarded one of the grand prizes",
+      "zh": ""
+    },
+    {
+      "start": 508.96,
+      "duration": 1.2,
+      "text": "of the fair.",
+      "en": "of the fair.",
+      "zh": ""
+    },
+    {
+      "start": 510.16,
+      "duration": 2.4,
+      "text": "Shortly after, escalators started being installed",
+      "en": "Shortly after, escalators started being installed",
+      "zh": ""
+    },
+    {
+      "start": 512.56,
+      "duration": 3.2,
+      "text": "in different places across the world.",
+      "en": "in different places across the world.",
+      "zh": ""
+    },
+    {
+      "start": 515.76,
+      "duration": 2.56,
+      "text": "But these escalators weren't perfect.",
+      "en": "But these escalators weren't perfect.",
+      "zh": ""
+    },
+    {
+      "start": 518.32,
+      "duration": 1.84,
+      "text": "They had smooth flat stairs,",
+      "en": "They had smooth flat stairs,",
+      "zh": ""
+    },
+    {
+      "start": 520.16,
+      "duration": 1.44,
+      "text": "and when they reached the top,",
+      "en": "and when they reached the top,",
+      "zh": ""
+    },
+    {
+      "start": 521.6,
+      "duration": 2.96,
+      "text": "these stairs would disappear under a wooden board,",
+      "en": "these stairs would disappear under a wooden board,",
+      "zh": ""
+    },
+    {
+      "start": 524.56,
+      "duration": 2.56,
+      "text": "leaving a dangerous gap between them.",
+      "en": "leaving a dangerous gap between them.",
+      "zh": ""
+    },
+    {
+      "start": 527.12,
+      "duration": 2.56,
+      "text": "Shoe laces, coats, and especially the long skirts",
+      "en": "Shoe laces, coats, and especially the long skirts",
+      "zh": ""
+    },
+    {
+      "start": 529.68,
+      "duration": 3.52,
+      "text": "in fashion at the time easily got caught in the machinery.",
+      "en": "in fashion at the time easily got caught in the machinery.",
+      "zh": ""
+    },
+    {
+      "start": 533.2,
+      "duration": 2.32,
+      "text": "One incident even saw a three year girl",
+      "en": "One incident even saw a three year girl",
+      "zh": ""
+    },
+    {
+      "start": 535.52,
+      "duration": 2.24,
+      "text": "getting her foot pinched in the gap.",
+      "en": "getting her foot pinched in the gap.",
+      "zh": ""
+    },
+    {
+      "start": 537.76,
+      "duration": 2.64,
+      "text": "And while the girl luckily escaped with injured toes",
+      "en": "And while the girl luckily escaped with injured toes",
+      "zh": ""
+    },
+    {
+      "start": 540.4,
+      "duration": 4.32,
+      "text": "and a missing shoe, something in the design had to change.",
+      "en": "and a missing shoe, something in the design had to change.",
+      "zh": ""
+    },
+    {
+      "start": 544.72,
+      "duration": 1.6,
+      "text": "To solve this, Seeberger",
+      "en": "To solve this, Seeberger",
+      "zh": ""
+    },
+    {
+      "start": 546.32,
+      "duration": 2.72,
+      "text": "and Otis installed a triangular shunt at the end",
+      "en": "and Otis installed a triangular shunt at the end",
+      "zh": ""
+    },
+    {
+      "start": 549.04,
+      "duration": 2.96,
+      "text": "of the escalator, forcing rider to go off to the left",
+      "en": "of the escalator, forcing rider to go off to the left",
+      "zh": ""
+    },
+    {
+      "start": 552.0,
+      "duration": 2.48,
+      "text": "before they reached the dangerous gap.",
+      "en": "before they reached the dangerous gap.",
+      "zh": ""
+    },
+    {
+      "start": 554.48,
+      "duration": 2.16,
+      "text": "This system worked, but it was awkward",
+      "en": "This system worked, but it was awkward",
+      "zh": ""
+    },
+    {
+      "start": 556.64,
+      "duration": 1.92,
+      "text": "because it meant people had to put one foot",
+      "en": "because it meant people had to put one foot",
+      "zh": ""
+    },
+    {
+      "start": 558.56,
+      "duration": 2.56,
+      "text": "onto solid ground while the other was still moving,",
+      "en": "onto solid ground while the other was still moving,",
+      "zh": ""
+    },
+    {
+      "start": 561.12,
+      "duration": 1.44,
+      "text": "which became especially tricky",
+      "en": "which became especially tricky",
+      "zh": ""
+    },
+    {
+      "start": 562.56,
+      "duration": 3.12,
+      "text": "when some people stood still and others walked.",
+      "en": "when some people stood still and others walked.",
+      "zh": ""
+    },
+    {
+      "start": 565.68,
+      "duration": 3.12,
+      "text": "So to reduce the risk of people getting in each other's way,",
+      "en": "So to reduce the risk of people getting in each other's way,",
+      "zh": ""
+    },
+    {
+      "start": 568.8,
+      "duration": 2.56,
+      "text": "operators asked people to stand on the right",
+      "en": "operators asked people to stand on the right",
+      "zh": ""
+    },
+    {
+      "start": 571.36,
+      "duration": 3.04,
+      "text": "and keep the left lane clear for faster walkers.",
+      "en": "and keep the left lane clear for faster walkers.",
+      "zh": ""
+    },
+    {
+      "start": 574.4,
+      "duration": 4.0,
+      "text": "It's a convention we still often follow to this day,",
+      "en": "It's a convention we still often follow to this day,",
+      "zh": ""
+    },
+    {
+      "start": 578.4,
+      "duration": 1.12,
+      "text": "but as it turns out,",
+      "en": "but as it turns out,",
+      "zh": ""
+    },
+    {
+      "start": 579.52,
+      "duration": 3.68,
+      "text": "there's a much better solution than the shunt.",
+      "en": "there's a much better solution than the shunt.",
+      "zh": ""
+    },
+    {
+      "start": 583.2,
+      "duration": 3.36,
+      "text": "Modern escalator steps aren't smooth, they're grooved.",
+      "en": "Modern escalator steps aren't smooth, they're grooved.",
+      "zh": ""
+    },
+    {
+      "start": 586.56,
+      "duration": 1.92,
+      "text": "These grooves then interlock perfectly",
+      "en": "These grooves then interlock perfectly",
+      "zh": ""
+    },
+    {
+      "start": 588.48,
+      "duration": 2.88,
+      "text": "with a comb plate at the top of the escalator.",
+      "en": "with a comb plate at the top of the escalator.",
+      "zh": ""
+    },
+    {
+      "start": 591.36,
+      "duration": 2.64,
+      "text": "So now, if a small item approaches the end,",
+      "en": "So now, if a small item approaches the end,",
+      "zh": ""
+    },
+    {
+      "start": 594.0,
+      "duration": 3.28,
+      "text": "the comb plate lifts it up and out of harm's way.",
+      "en": "the comb plate lifts it up and out of harm's way.",
+      "zh": ""
+    },
+    {
+      "start": 597.28,
+      "duration": 2.24,
+      "text": "This makes it much harder for things to get stuck,",
+      "en": "This makes it much harder for things to get stuck,",
+      "zh": ""
+    },
+    {
+      "start": 599.52,
+      "duration": 1.36,
+      "text": "and perhaps more importantly,",
+      "en": "and perhaps more importantly,",
+      "zh": ""
+    },
+    {
+      "start": 600.88,
+      "duration": 4.72,
+      "text": "it allows people to safely step off forwards.",
+      "en": "it allows people to safely step off forwards.",
+      "zh": ""
+    },
+    {
+      "start": 605.6,
+      "duration": 2.72,
+      "text": "But the comb plate doesn't entirely solve the problem.",
+      "en": "But the comb plate doesn't entirely solve the problem.",
+      "zh": ""
+    },
+    {
+      "start": 608.32,
+      "duration": 2.56,
+      "text": "We still have these gaps on the side of the escalator",
+      "en": "We still have these gaps on the side of the escalator",
+      "zh": ""
+    },
+    {
+      "start": 610.88,
+      "duration": 2.96,
+      "text": "that can pinch and trap objects as the steps move.",
+      "en": "that can pinch and trap objects as the steps move.",
+      "zh": ""
+    },
+    {
+      "start": 613.84,
+      "duration": 1.12,
+      "text": "So to address this,",
+      "en": "So to address this,",
+      "zh": ""
+    },
+    {
+      "start": 614.96,
+      "duration": 2.24,
+      "text": "a new safety feature called the skirt brush was added",
+      "en": "a new safety feature called the skirt brush was added",
+      "zh": ""
+    },
+    {
+      "start": 617.2,
+      "duration": 4.16,
+      "text": "to the escalator in 1982.",
+      "en": "to the escalator in 1982.",
+      "zh": ""
+    },
+    {
+      "start": 621.36,
+      "duration": 3.04,
+      "text": "Escalators are full of subtle safety features like this,",
+      "en": "Escalators are full of subtle safety features like this,",
+      "zh": ""
+    },
+    {
+      "start": 624.4,
+      "duration": 1.52,
+      "text": "some old and some new,",
+      "en": "some old and some new,",
+      "zh": ""
+    },
+    {
+      "start": 625.92,
+      "duration": 2.56,
+      "text": "but almost all of them are designed around people.",
+      "en": "but almost all of them are designed around people.",
+      "zh": ""
+    },
+    {
+      "start": 628.48,
+      "duration": 2.8,
+      "text": "All the way back in 1896, Jesse Reno predicted",
+      "en": "All the way back in 1896, Jesse Reno predicted",
+      "zh": ""
+    },
+    {
+      "start": 631.28,
+      "duration": 2.08,
+      "text": "that riders on his attraction would need something",
+      "en": "that riders on his attraction would need something",
+      "zh": ""
+    },
+    {
+      "start": 633.36,
+      "duration": 3.36,
+      "text": "to hold onto, so he introduced a moving handrail.",
+      "en": "to hold onto, so he introduced a moving handrail.",
+      "zh": ""
+    },
+    {
+      "start": 636.72,
+      "duration": 3.12,
+      "text": "In a modern escalator, the motor has a separate connection",
+      "en": "In a modern escalator, the motor has a separate connection",
+      "zh": ""
+    },
+    {
+      "start": 639.84,
+      "duration": 3.6,
+      "text": "to turn a friction wheel that drives the handrail.",
+      "en": "to turn a friction wheel that drives the handrail.",
+      "zh": ""
+    },
+    {
+      "start": 643.44,
+      "duration": 3.12,
+      "text": "The only problem is that friction wears things down.",
+      "en": "The only problem is that friction wears things down.",
+      "zh": ""
+    },
+    {
+      "start": 646.56,
+      "duration": 2.4,
+      "text": "So over time, the wheel gets smaller,",
+      "en": "So over time, the wheel gets smaller,",
+      "zh": ""
+    },
+    {
+      "start": 648.96,
+      "duration": 2.32,
+      "text": "and as its circumference decreases,",
+      "en": "and as its circumference decreases,",
+      "zh": ""
+    },
+    {
+      "start": 651.28,
+      "duration": 3.04,
+      "text": "each rotation moves the rubber loop a slightly shorter",
+      "en": "each rotation moves the rubber loop a slightly shorter",
+      "zh": ""
+    },
+    {
+      "start": 654.32,
+      "duration": 3.92,
+      "text": "distance, so the handrail begins to move more slowly.",
+      "en": "distance, so the handrail begins to move more slowly.",
+      "zh": ""
+    },
+    {
+      "start": 658.24,
+      "duration": 2.8,
+      "text": "The effect is small, but it builds up over time.",
+      "en": "The effect is small, but it builds up over time.",
+      "zh": ""
+    },
+    {
+      "start": 661.04,
+      "duration": 3.2,
+      "text": "So to compensate for this, a new handrail is calibrated",
+      "en": "So to compensate for this, a new handrail is calibrated",
+      "zh": ""
+    },
+    {
+      "start": 664.24,
+      "duration": 3.36,
+      "text": "to move around 2% faster than the steps.",
+      "en": "to move around 2% faster than the steps.",
+      "zh": ""
+    },
+    {
+      "start": 667.6,
+      "duration": 1.68,
+      "text": "You can actually try this yourself.",
+      "en": "You can actually try this yourself.",
+      "zh": ""
+    },
+    {
+      "start": 669.28,
+      "duration": 1.92,
+      "text": "Next time you're standing on an escalator,",
+      "en": "Next time you're standing on an escalator,",
+      "zh": ""
+    },
+    {
+      "start": 671.2,
+      "duration": 3.28,
+      "text": "just place your hand next to you as you stand still,",
+      "en": "just place your hand next to you as you stand still,",
+      "zh": ""
+    },
+    {
+      "start": 674.48,
+      "duration": 4.08,
+      "text": "and you will watch as your hand slowly drifts forward.",
+      "en": "and you will watch as your hand slowly drifts forward.",
+      "zh": ""
+    },
+    {
+      "start": 678.56,
+      "duration": 2.16,
+      "text": "This speed difference stops the handrail",
+      "en": "This speed difference stops the handrail",
+      "zh": ""
+    },
+    {
+      "start": 680.72,
+      "duration": 3.04,
+      "text": "from lagging too far behind the steps over time.",
+      "en": "from lagging too far behind the steps over time.",
+      "zh": ""
+    },
+    {
+      "start": 683.76,
+      "duration": 2.72,
+      "text": "- Because I have definitely noticed that,",
+      "en": "- Because I have definitely noticed that,",
+      "zh": ""
+    },
+    {
+      "start": 686.48,
+      "duration": 1.92,
+      "text": "that sometimes I'm on an escalator",
+      "en": "that sometimes I'm on an escalator",
+      "zh": ""
+    },
+    {
+      "start": 688.4,
+      "duration": 2.48,
+      "text": "and then it's going faster than me.",
+      "en": "and then it's going faster than me.",
+      "zh": ""
+    },
+    {
+      "start": 690.88,
+      "duration": 3.68,
+      "text": "My hand is going faster than my body,",
+      "en": "My hand is going faster than my body,",
+      "zh": ""
+    },
+    {
+      "start": 694.56,
+      "duration": 1.56,
+      "text": "but that means it's a new escalator.",
+      "en": "but that means it's a new escalator.",
+      "zh": ""
+    },
+    {
+      "start": 696.12,
+      "duration": 2.76,
+      "text": "- Well, it's a new frictional wheel.",
+      "en": "- Well, it's a new frictional wheel.",
+      "zh": ""
+    },
+    {
+      "start": 698.88,
+      "duration": 4.96,
+      "text": "That wheel that drives the hand, we don't replace,",
+      "en": "That wheel that drives the hand, we don't replace,",
+      "zh": ""
+    },
+    {
+      "start": 703.84,
+      "duration": 1.92,
+      "text": "we don't replace the entire escalator.",
+      "en": "we don't replace the entire escalator.",
+      "zh": ""
+    },
+    {
+      "start": 705.76,
+      "duration": 3.76,
+      "text": "- Oh, wow, so that's like a party trick I can use",
+      "en": "- Oh, wow, so that's like a party trick I can use",
+      "zh": ""
+    },
+    {
+      "start": 709.52,
+      "duration": 1.12,
+      "text": "to entertain my friends.",
+      "en": "to entertain my friends.",
+      "zh": ""
+    },
+    {
+      "start": 710.64,
+      "duration": 2.08,
+      "text": "I mean, I don't know when I'd have a party on an escalator,",
+      "en": "I mean, I don't know when I'd have a party on an escalator,",
+      "zh": ""
+    },
+    {
+      "start": 712.72,
+      "duration": 2.64,
+      "text": "but whatever, if I'm on an escalator with my friends",
+      "en": "but whatever, if I'm on an escalator with my friends",
+      "zh": ""
+    },
+    {
+      "start": 715.36,
+      "duration": 1.84,
+      "text": "and I can see it moving, I'd be like,",
+      "en": "and I can see it moving, I'd be like,",
+      "zh": ""
+    },
+    {
+      "start": 717.2,
+      "duration": 2.16,
+      "text": "\"Hey, that's 'cause there's a new frictional wheel.\"",
+      "en": "\"Hey, that's 'cause there's a new frictional wheel.\"",
+      "zh": ""
+    },
+    {
+      "start": 720.08,
+      "duration": 3.36,
+      "text": "I can tell them that and impress them.",
+      "en": "I can tell them that and impress them.",
+      "zh": ""
+    },
+    {
+      "start": 723.44,
+      "duration": 3.28,
+      "text": "- But it's not just the handrail.",
+      "en": "- But it's not just the handrail.",
+      "zh": ""
+    },
+    {
+      "start": 726.72,
+      "duration": 2.32,
+      "text": "The speed of the steps themselves is also something",
+      "en": "The speed of the steps themselves is also something",
+      "zh": ""
+    },
+    {
+      "start": 729.04,
+      "duration": 1.64,
+      "text": "that needs to be carefully controlled.",
+      "en": "that needs to be carefully controlled.",
+      "zh": ""
+    },
+    {
+      "start": 730.68,
+      "duration": 3.0,
+      "text": "And modern escalators use AC induction motors,",
+      "en": "And modern escalators use AC induction motors,",
+      "zh": ""
+    },
+    {
+      "start": 733.68,
+      "duration": 1.92,
+      "text": "which are extremely good at regulating",
+      "en": "which are extremely good at regulating",
+      "zh": ""
+    },
+    {
+      "start": 735.6,
+      "duration": 1.76,
+      "text": "their rotational speed.",
+      "en": "their rotational speed.",
+      "zh": ""
+    },
+    {
+      "start": 737.36,
+      "duration": 4.72,
+      "text": "And this has an unexpected benefit on downward escalators.",
+      "en": "And this has an unexpected benefit on downward escalators.",
+      "zh": ""
+    },
+    {
+      "start": 742.08,
+      "duration": 2.72,
+      "text": "With enough people riding, their weight is enough",
+      "en": "With enough people riding, their weight is enough",
+      "zh": ""
+    },
+    {
+      "start": 744.8,
+      "duration": 2.88,
+      "text": "that the motor no longer has to power the ride.",
+      "en": "that the motor no longer has to power the ride.",
+      "zh": ""
+    },
+    {
+      "start": 747.68,
+      "duration": 2.88,
+      "text": "Instead, the weight of the passengers themselves",
+      "en": "Instead, the weight of the passengers themselves",
+      "zh": ""
+    },
+    {
+      "start": 750.56,
+      "duration": 2.72,
+      "text": "drives the chain and causes the motor to spin.",
+      "en": "drives the chain and causes the motor to spin.",
+      "zh": ""
+    },
+    {
+      "start": 753.28,
+      "duration": 3.04,
+      "text": "As more people board, the force on the motor increases,",
+      "en": "As more people board, the force on the motor increases,",
+      "zh": ""
+    },
+    {
+      "start": 756.32,
+      "duration": 2.4,
+      "text": "and it's pushed to turn faster.",
+      "en": "and it's pushed to turn faster.",
+      "zh": ""
+    },
+    {
+      "start": 758.72,
+      "duration": 1.92,
+      "text": "But modern AC induction motors work",
+      "en": "But modern AC induction motors work",
+      "zh": ""
+    },
+    {
+      "start": 760.64,
+      "duration": 2.16,
+      "text": "by creating a rotating magnetic field.",
+      "en": "by creating a rotating magnetic field.",
+      "zh": ""
+    },
+    {
+      "start": 762.8,
+      "duration": 2.4,
+      "text": "When the motor tries to spin faster than the field,",
+      "en": "When the motor tries to spin faster than the field,",
+      "zh": ""
+    },
+    {
+      "start": 765.2,
+      "duration": 2.0,
+      "text": "electric currents are induced inside it,",
+      "en": "electric currents are induced inside it,",
+      "zh": ""
+    },
+    {
+      "start": 767.2,
+      "duration": 2.48,
+      "text": "which then create their own magnetic field.",
+      "en": "which then create their own magnetic field.",
+      "zh": ""
+    },
+    {
+      "start": 769.68,
+      "duration": 2.32,
+      "text": "This new field pushes back in the opposite direction",
+      "en": "This new field pushes back in the opposite direction",
+      "zh": ""
+    },
+    {
+      "start": 772.0,
+      "duration": 2.32,
+      "text": "to the spin, creating a braking force,",
+      "en": "to the spin, creating a braking force,",
+      "zh": ""
+    },
+    {
+      "start": 774.32,
+      "duration": 3.84,
+      "text": "which resists the increase in speed.",
+      "en": "which resists the increase in speed.",
+      "zh": ""
+    },
+    {
+      "start": 778.16,
+      "duration": 2.72,
+      "text": "But something interesting happens when the motor resists",
+      "en": "But something interesting happens when the motor resists",
+      "zh": ""
+    },
+    {
+      "start": 780.88,
+      "duration": 2.96,
+      "text": "like this, rather than consuming energy,",
+      "en": "like this, rather than consuming energy,",
+      "zh": ""
+    },
+    {
+      "start": 783.84,
+      "duration": 1.6,
+      "text": "the physics of the motor flips",
+      "en": "the physics of the motor flips",
+      "zh": ""
+    },
+    {
+      "start": 785.44,
+      "duration": 2.32,
+      "text": "and it uses the excess mechanical energy",
+      "en": "and it uses the excess mechanical energy",
+      "zh": ""
+    },
+    {
+      "start": 787.76,
+      "duration": 2.08,
+      "text": "to produce an electric current.",
+      "en": "to produce an electric current.",
+      "zh": ""
+    },
+    {
+      "start": 789.84,
+      "duration": 1.76,
+      "text": "This is called regenerative braking,",
+      "en": "This is called regenerative braking,",
+      "zh": ""
+    },
+    {
+      "start": 791.6,
+      "duration": 2.24,
+      "text": "and it's the same trick that electric vehicles use",
+      "en": "and it's the same trick that electric vehicles use",
+      "zh": ""
+    },
+    {
+      "start": 793.84,
+      "duration": 1.84,
+      "text": "to recharge their batteries.",
+      "en": "to recharge their batteries.",
+      "zh": ""
+    },
+    {
+      "start": 795.68,
+      "duration": 3.04,
+      "text": "In effect, the motor turns into a generator.",
+      "en": "In effect, the motor turns into a generator.",
+      "zh": ""
+    },
+    {
+      "start": 798.72,
+      "duration": 2.08,
+      "text": "The result is that on a busy day,",
+      "en": "The result is that on a busy day,",
+      "zh": ""
+    },
+    {
+      "start": 800.8,
+      "duration": 3.12,
+      "text": "many modern downward escalators aren't just moving people,",
+      "en": "many modern downward escalators aren't just moving people,",
+      "zh": ""
+    },
+    {
+      "start": 803.92,
+      "duration": 2.48,
+      "text": "they're actually generating electricity.",
+      "en": "they're actually generating electricity.",
+      "zh": ""
+    },
+    {
+      "start": 806.4,
+      "duration": 2.96,
+      "text": "Often this is channeled back to the building's internal grid",
+      "en": "Often this is channeled back to the building's internal grid",
+      "zh": ""
+    },
+    {
+      "start": 809.36,
+      "duration": 1.84,
+      "text": "and used to power other devices,",
+      "en": "and used to power other devices,",
+      "zh": ""
+    },
+    {
+      "start": 811.2,
+      "duration": 1.68,
+      "text": "including the upward escalators.",
+      "en": "including the upward escalators.",
+      "zh": ""
+    },
+    {
+      "start": 812.88,
+      "duration": 5.2,
+      "text": "- So even the escalator that was invented",
+      "en": "- So even the escalator that was invented",
+      "zh": ""
+    },
+    {
+      "start": 818.08,
+      "duration": 1.28,
+      "text": "by George Wheeler",
+      "en": "by George Wheeler",
+      "zh": ""
+    },
+    {
+      "start": 819.36,
+      "duration": 4.88,
+      "text": "and was installed in 1920, the Paris Exhibition,",
+      "en": "and was installed in 1920, the Paris Exhibition,",
+      "zh": ""
+    },
+    {
+      "start": 824.24,
+      "duration": 3.28,
+      "text": "et cetera, I mean, all these escalators were regenerators.",
+      "en": "et cetera, I mean, all these escalators were regenerators.",
+      "zh": ""
+    },
+    {
+      "start": 827.52,
+      "duration": 0.56,
+      "text": "- What?",
+      "en": "- What?",
+      "zh": ""
+    },
+    {
+      "start": 828.08,
+      "duration": 1.84,
+      "text": "- Yeah, when there were people standing",
+      "en": "- Yeah, when there were people standing",
+      "zh": ""
+    },
+    {
+      "start": 829.92,
+      "duration": 2.48,
+      "text": "on the escalator in down direction,",
+      "en": "on the escalator in down direction,",
+      "zh": ""
+    },
+    {
+      "start": 832.4,
+      "duration": 3.44,
+      "text": "these escalators were feeding energy back into the grid.",
+      "en": "these escalators were feeding energy back into the grid.",
+      "zh": ""
+    },
+    {
+      "start": 835.84,
+      "duration": 3.96,
+      "text": "- No, it's like the down escalator's a generator?",
+      "en": "- No, it's like the down escalator's a generator?",
+      "zh": ""
+    },
+    {
+      "start": 839.8,
+      "duration": 2.28,
+      "text": "- This regenerative braking",
+      "en": "- This regenerative braking",
+      "zh": ""
+    },
+    {
+      "start": 842.08,
+      "duration": 2.8,
+      "text": "makes escalators extremely power efficient,",
+      "en": "makes escalators extremely power efficient,",
+      "zh": ""
+    },
+    {
+      "start": 844.88,
+      "duration": 1.04,
+      "text": "but more importantly,",
+      "en": "but more importantly,",
+      "zh": ""
+    },
+    {
+      "start": 845.92,
+      "duration": 2.56,
+      "text": "it makes them inherently safe.",
+      "en": "it makes them inherently safe.",
+      "zh": ""
+    },
+    {
+      "start": 848.48,
+      "duration": 2.8,
+      "text": "But there is a point where if you keep adding weight,",
+      "en": "But there is a point where if you keep adding weight,",
+      "zh": ""
+    },
+    {
+      "start": 851.28,
+      "duration": 2.0,
+      "text": "then eventually the force becomes so strong",
+      "en": "then eventually the force becomes so strong",
+      "zh": ""
+    },
+    {
+      "start": 853.28,
+      "duration": 2.32,
+      "text": "that the motor can no longer resist it.",
+      "en": "that the motor can no longer resist it.",
+      "zh": ""
+    },
+    {
+      "start": 855.6,
+      "duration": 1.2,
+      "text": "And if left unchecked,",
+      "en": "And if left unchecked,",
+      "zh": ""
+    },
+    {
+      "start": 856.8,
+      "duration": 2.8,
+      "text": "it would start accelerating uncontrollably.",
+      "en": "it would start accelerating uncontrollably.",
+      "zh": ""
+    },
+    {
+      "start": 859.6,
+      "duration": 3.2,
+      "text": "The stairs would go plummeting down,",
+      "en": "The stairs would go plummeting down,",
+      "zh": ""
+    },
+    {
+      "start": 862.8,
+      "duration": 3.12,
+      "text": "which is exactly what happened in Rome.",
+      "en": "which is exactly what happened in Rome.",
+      "zh": ""
+    },
+    {
+      "start": 865.92,
+      "duration": 2.24,
+      "text": "After a nearly two year long investigation,",
+      "en": "After a nearly two year long investigation,",
+      "zh": ""
+    },
+    {
+      "start": 868.16,
+      "duration": 3.36,
+      "text": "the investigators published this 86 page report.",
+      "en": "the investigators published this 86 page report.",
+      "zh": ""
+    },
+    {
+      "start": 871.52,
+      "duration": 2.48,
+      "text": "Inside it lists the exact sequence of events",
+      "en": "Inside it lists the exact sequence of events",
+      "zh": ""
+    },
+    {
+      "start": 874.0,
+      "duration": 2.16,
+      "text": "that led to the disaster.",
+      "en": "that led to the disaster.",
+      "zh": ""
+    },
+    {
+      "start": 876.16,
+      "duration": 2.08,
+      "text": "As fans crowded onto the escalator,",
+      "en": "As fans crowded onto the escalator,",
+      "zh": ""
+    },
+    {
+      "start": 878.24,
+      "duration": 3.04,
+      "text": "their combined weight increased the load on the main motor.",
+      "en": "their combined weight increased the load on the main motor.",
+      "zh": ""
+    },
+    {
+      "start": 881.28,
+      "duration": 1.76,
+      "text": "The motor tried to resist this change,",
+      "en": "The motor tried to resist this change,",
+      "zh": ""
+    },
+    {
+      "start": 883.04,
+      "duration": 2.0,
+      "text": "but as more and more people funneled on,",
+      "en": "but as more and more people funneled on,",
+      "zh": ""
+    },
+    {
+      "start": 885.04,
+      "duration": 1.68,
+      "text": "the force got too high,",
+      "en": "the force got too high,",
+      "zh": ""
+    },
+    {
+      "start": 886.72,
+      "duration": 1.76,
+      "text": "and eventually it hit a tipping point",
+      "en": "and eventually it hit a tipping point",
+      "zh": ""
+    },
+    {
+      "start": 888.48,
+      "duration": 3.6,
+      "text": "and the motor started accelerating uncontrollably.",
+      "en": "and the motor started accelerating uncontrollably.",
+      "zh": ""
+    },
+    {
+      "start": 892.08,
+      "duration": 2.96,
+      "text": "Safety sensors in the machine noticed this sudden change",
+      "en": "Safety sensors in the machine noticed this sudden change",
+      "zh": ""
+    },
+    {
+      "start": 895.04,
+      "duration": 2.4,
+      "text": "and triggered two things in short succession.",
+      "en": "and triggered two things in short succession.",
+      "zh": ""
+    },
+    {
+      "start": 897.44,
+      "duration": 2.72,
+      "text": "At first, the power to the motor was cut,",
+      "en": "At first, the power to the motor was cut,",
+      "zh": ""
+    },
+    {
+      "start": 900.16,
+      "duration": 3.44,
+      "text": "and immediately after that, the main brake engaged.",
+      "en": "and immediately after that, the main brake engaged.",
+      "zh": ""
+    },
+    {
+      "start": 903.6,
+      "duration": 2.64,
+      "text": "Two massive arms clamped down on the drum",
+      "en": "Two massive arms clamped down on the drum",
+      "zh": ""
+    },
+    {
+      "start": 906.24,
+      "duration": 3.44,
+      "text": "to lock it in place and avert a runaway.",
+      "en": "to lock it in place and avert a runaway.",
+      "zh": ""
+    },
+    {
+      "start": 910.8,
+      "duration": 2.24,
+      "text": "This break should have had enough stopping power",
+      "en": "This break should have had enough stopping power",
+      "zh": ""
+    },
+    {
+      "start": 913.04,
+      "duration": 2.56,
+      "text": "to bring the fully loaded escalator to a halt,",
+      "en": "to bring the fully loaded escalator to a halt,",
+      "zh": ""
+    },
+    {
+      "start": 915.6,
+      "duration": 3.68,
+      "text": "even under the massive strain, but it didn't.",
+      "en": "even under the massive strain, but it didn't.",
+      "zh": ""
+    },
+    {
+      "start": 919.28,
+      "duration": 1.6,
+      "text": "Tests after the incident showed",
+      "en": "Tests after the incident showed",
+      "zh": ""
+    },
+    {
+      "start": 920.88,
+      "duration": 3.84,
+      "text": "that its braking force was far too low, around 37%",
+      "en": "that its braking force was far too low, around 37%",
+      "zh": ""
+    },
+    {
+      "start": 924.72,
+      "duration": 3.2,
+      "text": "of the manufacturer's specification.",
+      "en": "of the manufacturer's specification.",
+      "zh": ""
+    },
+    {
+      "start": 927.92,
+      "duration": 2.64,
+      "text": "The weakened brake struggled to slow the spinning motor",
+      "en": "The weakened brake struggled to slow the spinning motor",
+      "zh": ""
+    },
+    {
+      "start": 930.56,
+      "duration": 4.0,
+      "text": "and the escalators downhill acceleration continued.",
+      "en": "and the escalators downhill acceleration continued.",
+      "zh": ""
+    },
+    {
+      "start": 934.56,
+      "duration": 2.8,
+      "text": "This is when the last line of defense kicked in.",
+      "en": "This is when the last line of defense kicked in.",
+      "zh": ""
+    },
+    {
+      "start": 937.36,
+      "duration": 2.88,
+      "text": "When the escalator speed rose by more than 20%,",
+      "en": "When the escalator speed rose by more than 20%,",
+      "zh": ""
+    },
+    {
+      "start": 940.24,
+      "duration": 3.04,
+      "text": "the auxiliary brake triggered driving steel wedges",
+      "en": "the auxiliary brake triggered driving steel wedges",
+      "zh": ""
+    },
+    {
+      "start": 943.28,
+      "duration": 2.72,
+      "text": "into a disc on the drive shaft.",
+      "en": "into a disc on the drive shaft.",
+      "zh": ""
+    },
+    {
+      "start": 946.0,
+      "duration": 2.16,
+      "text": "But when investigators opened up this brake,",
+      "en": "But when investigators opened up this brake,",
+      "zh": ""
+    },
+    {
+      "start": 948.16,
+      "duration": 1.36,
+      "text": "they were shocked.",
+      "en": "they were shocked.",
+      "zh": ""
+    },
+    {
+      "start": 949.52,
+      "duration": 3.92,
+      "text": "The final mechanical backstop had been partially disabled.",
+      "en": "The final mechanical backstop had been partially disabled.",
+      "zh": ""
+    },
+    {
+      "start": 953.44,
+      "duration": 2.8,
+      "text": "Someone had physically tied plastic straps",
+      "en": "Someone had physically tied plastic straps",
+      "zh": ""
+    },
+    {
+      "start": 956.24,
+      "duration": 6.56,
+      "text": "around one of the two brake wedges and rendered it useless.",
+      "en": "around one of the two brake wedges and rendered it useless.",
+      "zh": ""
+    },
+    {
+      "start": 962.8,
+      "duration": 2.08,
+      "text": "(dramatic music) With half the system unable to engage,",
+      "en": "(dramatic music) With half the system unable to engage,",
+      "zh": ""
+    },
+    {
+      "start": 964.88,
+      "duration": 2.4,
+      "text": "its stopping power was cut by 50%,",
+      "en": "its stopping power was cut by 50%,",
+      "zh": ""
+    },
+    {
+      "start": 967.28,
+      "duration": 2.96,
+      "text": "just enough for the weight of all those passengers",
+      "en": "just enough for the weight of all those passengers",
+      "zh": ""
+    },
+    {
+      "start": 970.24,
+      "duration": 1.28,
+      "text": "to overpower the brake",
+      "en": "to overpower the brake",
+      "zh": ""
+    },
+    {
+      "start": 971.52,
+      "duration": 4.08,
+      "text": "and render the last line of defense useless.",
+      "en": "and render the last line of defense useless.",
+      "zh": ""
+    },
+    {
+      "start": 975.6,
+      "duration": 2.32,
+      "text": "Investigators knew that these failures",
+      "en": "Investigators knew that these failures",
+      "zh": ""
+    },
+    {
+      "start": 977.92,
+      "duration": 1.76,
+      "text": "should have been automatically recorded",
+      "en": "should have been automatically recorded",
+      "zh": ""
+    },
+    {
+      "start": 979.68,
+      "duration": 1.68,
+      "text": "in the error logs,",
+      "en": "in the error logs,",
+      "zh": ""
+    },
+    {
+      "start": 981.36,
+      "duration": 3.68,
+      "text": "but when they went to check, they found nothing.",
+      "en": "but when they went to check, they found nothing.",
+      "zh": ""
+    },
+    {
+      "start": 985.04,
+      "duration": 2.08,
+      "text": "The error codes had been turned off.",
+      "en": "The error codes had been turned off.",
+      "zh": ""
+    },
+    {
+      "start": 987.12,
+      "duration": 1.92,
+      "text": "Meaning critical malfunctions could occur",
+      "en": "Meaning critical malfunctions could occur",
+      "zh": ""
+    },
+    {
+      "start": 989.04,
+      "duration": 1.84,
+      "text": "without leaving a trace.",
+      "en": "without leaving a trace.",
+      "zh": ""
+    },
+    {
+      "start": 990.88,
+      "duration": 2.56,
+      "text": "The only way this could happen was if they had been disabled",
+      "en": "The only way this could happen was if they had been disabled",
+      "zh": ""
+    },
+    {
+      "start": 993.44,
+      "duration": 2.96,
+      "text": "on purpose, meaning someone must have reprogrammed",
+      "en": "on purpose, meaning someone must have reprogrammed",
+      "zh": ""
+    },
+    {
+      "start": 996.4,
+      "duration": 4.08,
+      "text": "the system to stop recording fault codes.",
+      "en": "the system to stop recording fault codes.",
+      "zh": ""
+    },
+    {
+      "start": 1000.48,
+      "duration": 3.76,
+      "text": "Next investigators turn to the maintenance records,",
+      "en": "Next investigators turn to the maintenance records,",
+      "zh": ""
+    },
+    {
+      "start": 1004.24,
+      "duration": 2.56,
+      "text": "but they found these similarly incomplete",
+      "en": "but they found these similarly incomplete",
+      "zh": ""
+    },
+    {
+      "start": 1006.8,
+      "duration": 2.0,
+      "text": "and evidence of major work on the escalator",
+      "en": "and evidence of major work on the escalator",
+      "zh": ""
+    },
+    {
+      "start": 1008.8,
+      "duration": 3.52,
+      "text": "was nowhere to be found at all.",
+      "en": "was nowhere to be found at all.",
+      "zh": ""
+    },
+    {
+      "start": 1012.32,
+      "duration": 2.32,
+      "text": "With all the main safety systems compromised",
+      "en": "With all the main safety systems compromised",
+      "zh": ""
+    },
+    {
+      "start": 1014.64,
+      "duration": 2.08,
+      "text": "and critical alerts turned off,",
+      "en": "and critical alerts turned off,",
+      "zh": ""
+    },
+    {
+      "start": 1016.72,
+      "duration": 3.04,
+      "text": "the escalator had been a ticking time bomb.",
+      "en": "the escalator had been a ticking time bomb.",
+      "zh": ""
+    },
+    {
+      "start": 1019.76,
+      "duration": 1.92,
+      "text": "All findings from the technical investigation",
+      "en": "All findings from the technical investigation",
+      "zh": ""
+    },
+    {
+      "start": 1021.68,
+      "duration": 2.56,
+      "text": "pointed not to a manufacturing defect,",
+      "en": "pointed not to a manufacturing defect,",
+      "zh": ""
+    },
+    {
+      "start": 1024.24,
+      "duration": 1.52,
+      "text": "but to a pattern of neglect",
+      "en": "but to a pattern of neglect",
+      "zh": ""
+    },
+    {
+      "start": 1025.76,
+      "duration": 1.92,
+      "text": "and falsification by those in charge",
+      "en": "and falsification by those in charge",
+      "zh": ""
+    },
+    {
+      "start": 1027.68,
+      "duration": 2.08,
+      "text": "of keeping the machine safe.",
+      "en": "of keeping the machine safe.",
+      "zh": ""
+    },
+    {
+      "start": 1029.76,
+      "duration": 3.44,
+      "text": "This left the prosecution with one clear question,",
+      "en": "This left the prosecution with one clear question,",
+      "zh": ""
+    },
+    {
+      "start": 1033.2,
+      "duration": 3.76,
+      "text": "who was responsible?",
+      "en": "who was responsible?",
+      "zh": ""
+    },
+    {
+      "start": 1036.96,
+      "duration": 1.36,
+      "text": "The trail of evidence led back",
+      "en": "The trail of evidence led back",
+      "zh": ""
+    },
+    {
+      "start": 1038.32,
+      "duration": 3.04,
+      "text": "to June, 2017 when maintenance responsibilities",
+      "en": "to June, 2017 when maintenance responsibilities",
+      "zh": ""
+    },
+    {
+      "start": 1041.36,
+      "duration": 1.76,
+      "text": "for Rome's escalators shifted",
+      "en": "for Rome's escalators shifted",
+      "zh": ""
+    },
+    {
+      "start": 1043.12,
+      "duration": 2.96,
+      "text": "to a new contractor, Metro Roma.",
+      "en": "to a new contractor, Metro Roma.",
+      "zh": ""
+    },
+    {
+      "start": 1046.08,
+      "duration": 2.56,
+      "text": "The Transit Authority ATAC severed its contract",
+      "en": "The Transit Authority ATAC severed its contract",
+      "zh": ""
+    },
+    {
+      "start": 1048.64,
+      "duration": 1.44,
+      "text": "with Metro Roma in an attempt",
+      "en": "with Metro Roma in an attempt",
+      "zh": ""
+    },
+    {
+      "start": 1050.08,
+      "duration": 2.16,
+      "text": "to wash its hands of the situation.",
+      "en": "to wash its hands of the situation.",
+      "zh": ""
+    },
+    {
+      "start": 1052.24,
+      "duration": 2.72,
+      "text": "But as the criminal inquest continued, it became clear",
+      "en": "But as the criminal inquest continued, it became clear",
+      "zh": ""
+    },
+    {
+      "start": 1054.96,
+      "duration": 2.48,
+      "text": "that the problem went far deeper.",
+      "en": "that the problem went far deeper.",
+      "zh": ""
+    },
+    {
+      "start": 1057.44,
+      "duration": 1.36,
+      "text": "The investigators discovered",
+      "en": "The investigators discovered",
+      "zh": ""
+    },
+    {
+      "start": 1058.8,
+      "duration": 2.4,
+      "text": "that Metro Roma had been working hand in hand",
+      "en": "that Metro Roma had been working hand in hand",
+      "zh": ""
+    },
+    {
+      "start": 1061.2,
+      "duration": 2.16,
+      "text": "with the Transit Authority ATAC,",
+      "en": "with the Transit Authority ATAC,",
+      "zh": ""
+    },
+    {
+      "start": 1063.36,
+      "duration": 2.72,
+      "text": "and together they presided over negligent maintenance",
+      "en": "and together they presided over negligent maintenance",
+      "zh": ""
+    },
+    {
+      "start": 1066.08,
+      "duration": 3.2,
+      "text": "and falsified records all across the network.",
+      "en": "and falsified records all across the network.",
+      "zh": ""
+    },
+    {
+      "start": 1069.28,
+      "duration": 3.12,
+      "text": "By September 2019, 11 suspects were named",
+      "en": "By September 2019, 11 suspects were named",
+      "zh": ""
+    },
+    {
+      "start": 1072.4,
+      "duration": 2.8,
+      "text": "and the courts had suspended three ATAC managers",
+      "en": "and the courts had suspended three ATAC managers",
+      "zh": ""
+    },
+    {
+      "start": 1075.2,
+      "duration": 3.2,
+      "text": "along with the chief of Metro Roma.",
+      "en": "along with the chief of Metro Roma.",
+      "zh": ""
+    },
+    {
+      "start": 1078.4,
+      "duration": 2.72,
+      "text": "The prosecution's findings were grave.",
+      "en": "The prosecution's findings were grave.",
+      "zh": ""
+    },
+    {
+      "start": 1081.12,
+      "duration": 1.04,
+      "text": "In many cases,",
+      "en": "In many cases,",
+      "zh": ""
+    },
+    {
+      "start": 1082.16,
+      "duration": 2.48,
+      "text": "safety devices had been deliberately sabotaged",
+      "en": "safety devices had been deliberately sabotaged",
+      "zh": ""
+    },
+    {
+      "start": 1084.64,
+      "duration": 2.24,
+      "text": "to avoid escalator shutdowns,",
+      "en": "to avoid escalator shutdowns,",
+      "zh": ""
+    },
+    {
+      "start": 1086.88,
+      "duration": 2.16,
+      "text": "and those in charge had covered their tracks",
+      "en": "and those in charge had covered their tracks",
+      "zh": ""
+    },
+    {
+      "start": 1089.04,
+      "duration": 2.72,
+      "text": "through a pattern of fraud and obstruction.",
+      "en": "through a pattern of fraud and obstruction.",
+      "zh": ""
+    },
+    {
+      "start": 1091.76,
+      "duration": 1.84,
+      "text": "In the midst of the public outrage,",
+      "en": "In the midst of the public outrage,",
+      "zh": ""
+    },
+    {
+      "start": 1093.6,
+      "duration": 2.32,
+      "text": "prosecutors recorded a chilling wiretap",
+      "en": "prosecutors recorded a chilling wiretap",
+      "zh": ""
+    },
+    {
+      "start": 1095.92,
+      "duration": 2.8,
+      "text": "of ATAC Manager Renato Domico.",
+      "en": "of ATAC Manager Renato Domico.",
+      "zh": ""
+    },
+    {
+      "start": 1098.72,
+      "duration": 2.16,
+      "text": "The translation, \"If you run the numbers,",
+      "en": "The translation, \"If you run the numbers,",
+      "zh": ""
+    },
+    {
+      "start": 1100.88,
+      "duration": 2.48,
+      "text": "\"out of 700 escalators, there'd be like three",
+      "en": "\"out of 700 escalators, there'd be like three",
+      "zh": ""
+    },
+    {
+      "start": 1103.36,
+      "duration": 2.56,
+      "text": "\"or four more dropping. Come on.\"",
+      "en": "\"or four more dropping. Come on.\"",
+      "zh": ""
+    },
+    {
+      "start": 1105.92,
+      "duration": 1.44,
+      "text": "The prosecutors note in their report",
+      "en": "The prosecutors note in their report",
+      "zh": ""
+    },
+    {
+      "start": 1107.36,
+      "duration": 2.72,
+      "text": "that Domico appeared uninterested in the possibility",
+      "en": "that Domico appeared uninterested in the possibility",
+      "zh": ""
+    },
+    {
+      "start": 1110.08,
+      "duration": 0.96,
+      "text": "there might have been people",
+      "en": "there might have been people",
+      "zh": ""
+    },
+    {
+      "start": 1111.04,
+      "duration": 2.4,
+      "text": "on those three or four escalators.",
+      "en": "on those three or four escalators.",
+      "zh": ""
+    },
+    {
+      "start": 1113.44,
+      "duration": 3.68,
+      "text": "It was simply a matter of numbers and percentages to him.",
+      "en": "It was simply a matter of numbers and percentages to him.",
+      "zh": ""
+    },
+    {
+      "start": 1117.12,
+      "duration": 1.04,
+      "text": "It was a callous remark",
+      "en": "It was a callous remark",
+      "zh": ""
+    },
+    {
+      "start": 1118.16,
+      "duration": 3.04,
+      "text": "and it painted a clear picture of the incident.",
+      "en": "and it painted a clear picture of the incident.",
+      "zh": ""
+    },
+    {
+      "start": 1121.2,
+      "duration": 4.48,
+      "text": "This wasn't an engineering failure, it was a human one.",
+      "en": "This wasn't an engineering failure, it was a human one.",
+      "zh": ""
+    },
+    {
+      "start": 1127.12,
+      "duration": 2.48,
+      "text": "But that brings us to a more fundamental question.",
+      "en": "But that brings us to a more fundamental question.",
+      "zh": ""
+    },
+    {
+      "start": 1129.6,
+      "duration": 2.88,
+      "text": "I mean, how safe are escalators really?",
+      "en": "I mean, how safe are escalators really?",
+      "zh": ""
+    },
+    {
+      "start": 1132.48,
+      "duration": 2.16,
+      "text": "The truth is when they're properly maintained,",
+      "en": "The truth is when they're properly maintained,",
+      "zh": ""
+    },
+    {
+      "start": 1134.64,
+      "duration": 2.64,
+      "text": "the safety margins on escalators are enormous.",
+      "en": "the safety margins on escalators are enormous.",
+      "zh": ""
+    },
+    {
+      "start": 1137.28,
+      "duration": 3.04,
+      "text": "Each system is engineered to handle forces far beyond",
+      "en": "Each system is engineered to handle forces far beyond",
+      "zh": ""
+    },
+    {
+      "start": 1140.32,
+      "duration": 1.76,
+      "text": "what they'll ever see in service.",
+      "en": "what they'll ever see in service.",
+      "zh": ""
+    },
+    {
+      "start": 1142.08,
+      "duration": 1.84,
+      "text": "- So the breaking load",
+      "en": "- So the breaking load",
+      "zh": ""
+    },
+    {
+      "start": 1143.92,
+      "duration": 5.04,
+      "text": "of our step is like greater 15 kilonewtons to 1.5 tons.",
+      "en": "of our step is like greater 15 kilonewtons to 1.5 tons.",
+      "zh": ""
+    },
+    {
+      "start": 1148.96,
+      "duration": 3.47,
+      "text": "So you can put an elephant on the step and it won't break.",
+      "en": "So you can put an elephant on the step and it won't break.",
+      "zh": ""
+    },
+    {
+      "start": 1152.43,
+      "duration": 4.29,
+      "text": "Well, I've never seen a step break in my work career.",
+      "en": "Well, I've never seen a step break in my work career.",
+      "zh": ""
+    },
+    {
+      "start": 1156.72,
+      "duration": 2.0,
+      "text": "Never seen a step chain break either.",
+      "en": "Never seen a step chain break either.",
+      "zh": ""
+    },
+    {
+      "start": 1158.72,
+      "duration": 2.48,
+      "text": "I mean, it's does not happen.",
+      "en": "I mean, it's does not happen.",
+      "zh": ""
+    },
+    {
+      "start": 1161.2,
+      "duration": 3.28,
+      "text": "I mean, I'm not here to say that there are no accidents",
+      "en": "I mean, I'm not here to say that there are no accidents",
+      "zh": ""
+    },
+    {
+      "start": 1164.48,
+      "duration": 4.72,
+      "text": "on an escalator, but the accidents I know,",
+      "en": "on an escalator, but the accidents I know,",
+      "zh": ""
+    },
+    {
+      "start": 1169.2,
+      "duration": 3.52,
+      "text": "I mean, it's critical like that you,",
+      "en": "I mean, it's critical like that you,",
+      "zh": ""
+    },
+    {
+      "start": 1172.72,
+      "duration": 2.8,
+      "text": "that you ensure the right maintenance.",
+      "en": "that you ensure the right maintenance.",
+      "zh": ""
+    },
+    {
+      "start": 1175.52,
+      "duration": 1.92,
+      "text": "That's the most important thing,",
+      "en": "That's the most important thing,",
+      "zh": ""
+    },
+    {
+      "start": 1177.44,
+      "duration": 3.8,
+      "text": "because in the end, it's all about maintenance.",
+      "en": "because in the end, it's all about maintenance.",
+      "zh": ""
+    },
+    {
+      "start": 1181.24,
+      "duration": 2.2,
+      "text": "- When this is done right,",
+      "en": "- When this is done right,",
+      "zh": ""
+    },
+    {
+      "start": 1183.44,
+      "duration": 4.08,
+      "text": "the chances of a catastrophic failure are vanishingly small",
+      "en": "the chances of a catastrophic failure are vanishingly small",
+      "zh": ""
+    },
+    {
+      "start": 1187.52,
+      "duration": 3.12,
+      "text": "and with around 1.5 million escalators worldwide,",
+      "en": "and with around 1.5 million escalators worldwide,",
+      "zh": ""
+    },
+    {
+      "start": 1190.64,
+      "duration": 2.24,
+      "text": "that really is how it should be.",
+      "en": "that really is how it should be.",
+      "zh": ""
+    },
+    {
+      "start": 1192.88,
+      "duration": 1.76,
+      "text": "In the US and Canada alone,",
+      "en": "In the US and Canada alone,",
+      "zh": ""
+    },
+    {
+      "start": 1194.64,
+      "duration": 2.56,
+      "text": "over a hundred billion escalator trips",
+      "en": "over a hundred billion escalator trips",
+      "zh": ""
+    },
+    {
+      "start": 1197.2,
+      "duration": 1.52,
+      "text": "are happening every year,",
+      "en": "are happening every year,",
+      "zh": ""
+    },
+    {
+      "start": 1198.72,
+      "duration": 2.72,
+      "text": "making the escalator one of the most widely used forms",
+      "en": "making the escalator one of the most widely used forms",
+      "zh": ""
+    },
+    {
+      "start": 1201.44,
+      "duration": 1.84,
+      "text": "of transport on the planet.",
+      "en": "of transport on the planet.",
+      "zh": ""
+    },
+    {
+      "start": 1203.28,
+      "duration": 2.4,
+      "text": "On a scale that large, it's sometimes easy",
+      "en": "On a scale that large, it's sometimes easy",
+      "zh": ""
+    },
+    {
+      "start": 1205.68,
+      "duration": 2.88,
+      "text": "to point the finger at our technology when things go wrong.",
+      "en": "to point the finger at our technology when things go wrong.",
+      "zh": ""
+    },
+    {
+      "start": 1208.56,
+      "duration": 1.2,
+      "text": "But the truth is,",
+      "en": "But the truth is,",
+      "zh": ""
+    },
+    {
+      "start": 1209.76,
+      "duration": 2.24,
+      "text": "no matter how well designed our systems are,",
+      "en": "no matter how well designed our systems are,",
+      "zh": ""
+    },
+    {
+      "start": 1212.0,
+      "duration": 2.8,
+      "text": "they all rely on people to maintain them.",
+      "en": "they all rely on people to maintain them.",
+      "zh": ""
+    },
+    {
+      "start": 1214.8,
+      "duration": 2.4,
+      "text": "And perhaps that's the lesson here.",
+      "en": "And perhaps that's the lesson here.",
+      "zh": ""
+    },
+    {
+      "start": 1217.2,
+      "duration": 3.68,
+      "text": "As humans, we have a duty of care, not just to ourselves,",
+      "en": "As humans, we have a duty of care, not just to ourselves,",
+      "zh": ""
+    },
+    {
+      "start": 1220.88,
+      "duration": 2.16,
+      "text": "but to everyone around us.",
+      "en": "but to everyone around us.",
+      "zh": ""
+    },
+    {
+      "start": 1223.04,
+      "duration": 2.0,
+      "text": "And sometimes that means taking responsibility",
+      "en": "And sometimes that means taking responsibility",
+      "zh": ""
+    },
+    {
+      "start": 1225.04,
+      "duration": 8.64,
+      "text": "for keeping each other safe.",
+      "en": "for keeping each other safe.",
+      "zh": ""
+    },
+    {
+      "start": 1233.68,
+      "duration": 0.3,
+      "text": "(gentle music)",
+      "en": "(gentle music)",
+      "zh": ""
+    },
+    {
+      "start": 1233.76,
+      "duration": 2.88,
+      "text": "In a way, that's how the escalators story began",
+      "en": "In a way, that's how the escalators story began",
+      "zh": ""
+    },
+    {
+      "start": 1236.64,
+      "duration": 2.32,
+      "text": "with one person deciding to take responsibility",
+      "en": "with one person deciding to take responsibility",
+      "zh": ""
+    },
+    {
+      "start": 1238.96,
+      "duration": 2.56,
+      "text": "for a problem that everyone else ignored.",
+      "en": "for a problem that everyone else ignored.",
+      "zh": ""
+    },
+    {
+      "start": 1241.52,
+      "duration": 2.8,
+      "text": "Back when Jesse Reno was at university, every day,",
+      "en": "Back when Jesse Reno was at university, every day,",
+      "zh": ""
+    },
+    {
+      "start": 1244.32,
+      "duration": 4.4,
+      "text": "he had to climb more than 300 steps to get to his frat house.",
+      "en": "he had to climb more than 300 steps to get to his frat house.",
+      "zh": ""
+    },
+    {
+      "start": 1248.72,
+      "duration": 1.92,
+      "text": "But while everyone else complained about this,",
+      "en": "But while everyone else complained about this,",
+      "zh": ""
+    },
+    {
+      "start": 1250.64,
+      "duration": 1.84,
+      "text": "Reno did something about it.",
+      "en": "Reno did something about it.",
+      "zh": ""
+    },
+    {
+      "start": 1252.48,
+      "duration": 1.36,
+      "text": "He had the math, the science,",
+      "en": "He had the math, the science,",
+      "zh": ""
+    },
+    {
+      "start": 1253.84,
+      "duration": 2.16,
+      "text": "and most importantly, the problem solving skills",
+      "en": "and most importantly, the problem solving skills",
+      "zh": ""
+    },
+    {
+      "start": 1256.0,
+      "duration": 2.64,
+      "text": "to create the world's very first escalator,",
+      "en": "to create the world's very first escalator,",
+      "zh": ""
+    },
+    {
+      "start": 1258.64,
+      "duration": 2.08,
+      "text": "which he took to Coney Island.",
+      "en": "which he took to Coney Island.",
+      "zh": ""
+    },
+    {
+      "start": 1260.72,
+      "duration": 2.96,
+      "text": "So how do you go from a frustrating, everyday problem",
+      "en": "So how do you go from a frustrating, everyday problem",
+      "zh": ""
+    },
+    {
+      "start": 1263.68,
+      "duration": 2.32,
+      "text": "to an innovation that changes the world?",
+      "en": "to an innovation that changes the world?",
+      "zh": ""
+    },
+    {
+      "start": 1266.0,
+      "duration": 2.88,
+      "text": "Well, that's where today's sponsor, Brilliant, comes in.",
+      "en": "Well, that's where today's sponsor, Brilliant, comes in.",
+      "zh": ""
+    },
+    {
+      "start": 1268.88,
+      "duration": 1.84,
+      "text": "Brilliant is a learning app built",
+      "en": "Brilliant is a learning app built",
+      "zh": ""
+    },
+    {
+      "start": 1270.72,
+      "duration": 1.92,
+      "text": "around interactive problem solving.",
+      "en": "around interactive problem solving.",
+      "zh": ""
+    },
+    {
+      "start": 1272.64,
+      "duration": 2.16,
+      "text": "Whether it's electric circuits, probability,",
+      "en": "Whether it's electric circuits, probability,",
+      "zh": ""
+    },
+    {
+      "start": 1274.8,
+      "duration": 2.72,
+      "text": "or even AI, Brilliant's courses are designed",
+      "en": "or even AI, Brilliant's courses are designed",
+      "zh": ""
+    },
+    {
+      "start": 1277.52,
+      "duration": 1.6,
+      "text": "to help you build intuition,",
+      "en": "to help you build intuition,",
+      "zh": ""
+    },
+    {
+      "start": 1279.12,
+      "duration": 2.96,
+      "text": "the kind that helps you see the world in new ways.",
+      "en": "the kind that helps you see the world in new ways.",
+      "zh": ""
+    },
+    {
+      "start": 1282.08,
+      "duration": 2.56,
+      "text": "Their unique approach lets you play with concepts",
+      "en": "Their unique approach lets you play with concepts",
+      "zh": ""
+    },
+    {
+      "start": 1284.64,
+      "duration": 2.56,
+      "text": "and build your understanding from the ground up.",
+      "en": "and build your understanding from the ground up.",
+      "zh": ""
+    },
+    {
+      "start": 1287.2,
+      "duration": 2.64,
+      "text": "This is actually my favorite way to learn anything,",
+      "en": "This is actually my favorite way to learn anything,",
+      "zh": ""
+    },
+    {
+      "start": 1289.84,
+      "duration": 1.76,
+      "text": "getting hands-on with ideas",
+      "en": "getting hands-on with ideas",
+      "zh": ""
+    },
+    {
+      "start": 1291.6,
+      "duration": 2.08,
+      "text": "so that you actually understand them.",
+      "en": "so that you actually understand them.",
+      "zh": ""
+    },
+    {
+      "start": 1293.68,
+      "duration": 3.04,
+      "text": "Plus, it's been proven to be up to six times more effective",
+      "en": "Plus, it's been proven to be up to six times more effective",
+      "zh": ""
+    },
+    {
+      "start": 1296.72,
+      "duration": 2.08,
+      "text": "than watching lecture videos.",
+      "en": "than watching lecture videos.",
+      "zh": ""
+    },
+    {
+      "start": 1298.8,
+      "duration": 1.28,
+      "text": "They're also releasing new",
+      "en": "They're also releasing new",
+      "zh": ""
+    },
+    {
+      "start": 1300.08,
+      "duration": 3.04,
+      "text": "and updated courses across math, science, coding, data,",
+      "en": "and updated courses across math, science, coding, data,",
+      "zh": ""
+    },
+    {
+      "start": 1303.12,
+      "duration": 1.68,
+      "text": "technology, you name it.",
+      "en": "technology, you name it.",
+      "zh": ""
+    },
+    {
+      "start": 1304.8,
+      "duration": 2.72,
+      "text": "So there is always something new to dive into.",
+      "en": "So there is always something new to dive into.",
+      "zh": ""
+    },
+    {
+      "start": 1307.52,
+      "duration": 2.56,
+      "text": "The best part is you can start learning on Brilliant",
+      "en": "The best part is you can start learning on Brilliant",
+      "zh": ""
+    },
+    {
+      "start": 1310.08,
+      "duration": 1.36,
+      "text": "for free right now.",
+      "en": "for free right now.",
+      "zh": ""
+    },
+    {
+      "start": 1311.44,
+      "duration": 2.8,
+      "text": "Just go to brilliant.org/veritasium.",
+      "en": "Just go to brilliant.org/veritasium.",
+      "zh": ""
+    },
+    {
+      "start": 1314.24,
+      "duration": 1.68,
+      "text": "You can scan this QR code",
+      "en": "You can scan this QR code",
+      "zh": ""
+    },
+    {
+      "start": 1315.92,
+      "duration": 3.12,
+      "text": "or click the link that I'll put down in the description.",
+      "en": "or click the link that I'll put down in the description.",
+      "zh": ""
+    },
+    {
+      "start": 1319.04,
+      "duration": 2.56,
+      "text": "Brilliant has also given our viewers 20% off",
+      "en": "Brilliant has also given our viewers 20% off",
+      "zh": ""
+    },
+    {
+      "start": 1321.6,
+      "duration": 1.76,
+      "text": "an annual premium subscription,",
+      "en": "an annual premium subscription,",
+      "zh": ""
+    },
+    {
+      "start": 1323.36,
+      "duration": 1.84,
+      "text": "which gives you unlimited daily access",
+      "en": "which gives you unlimited daily access",
+      "zh": ""
+    },
+    {
+      "start": 1325.2,
+      "duration": 1.76,
+      "text": "to everything they have to offer.",
+      "en": "to everything they have to offer.",
+      "zh": ""
+    },
+    {
+      "start": 1326.96,
+      "duration": 2.16,
+      "text": "So I wanna thank Brilliant for sponsoring this video,",
+      "en": "So I wanna thank Brilliant for sponsoring this video,",
+      "zh": ""
+    },
+    {
+      "start": 1329.12,
+      "duration": 2.32,
+      "text": "and I wanna thank you for watching.",
+      "en": "and I wanna thank you for watching.",
+      "zh": ""
+    }
+  ],
+  "words": []
+}

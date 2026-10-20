@@ -1,0 +1,6459 @@
+{
+  "cues": [
+    {
+      "start": 0.3,
+      "duration": 2.28,
+      "text": "- Imagine you are in empty space",
+      "en": "- Imagine you are in empty space",
+      "zh": ""
+    },
+    {
+      "start": 2.58,
+      "duration": 2.58,
+      "text": "and you fire off a stream of electrons.",
+      "en": "and you fire off a stream of electrons.",
+      "zh": ""
+    },
+    {
+      "start": 5.16,
+      "duration": 2.07,
+      "text": "Well then, according to most physics textbooks,",
+      "en": "Well then, according to most physics textbooks,",
+      "zh": ""
+    },
+    {
+      "start": 7.23,
+      "duration": 1.08,
+      "text": "the only way to change",
+      "en": "the only way to change",
+      "zh": ""
+    },
+    {
+      "start": 8.31,
+      "duration": 2.37,
+      "text": "how those electrons behave is by applying",
+      "en": "how those electrons behave is by applying",
+      "zh": ""
+    },
+    {
+      "start": 10.68,
+      "duration": 3.63,
+      "text": "an electric or magnetic or gravitational force to them.",
+      "en": "an electric or magnetic or gravitational force to them.",
+      "zh": ""
+    },
+    {
+      "start": 14.31,
+      "duration": 3.06,
+      "text": "But most physics textbooks are wrong.",
+      "en": "But most physics textbooks are wrong.",
+      "zh": ""
+    },
+    {
+      "start": 17.37,
+      "duration": 1.11,
+      "text": "In the 1950s,",
+      "en": "In the 1950s,",
+      "zh": ""
+    },
+    {
+      "start": 18.48,
+      "duration": 2.55,
+      "text": "two physicists came up with a clever experiment.",
+      "en": "two physicists came up with a clever experiment.",
+      "zh": ""
+    },
+    {
+      "start": 21.03,
+      "duration": 2.37,
+      "text": "You could have electrons travel through a region",
+      "en": "You could have electrons travel through a region",
+      "zh": ""
+    },
+    {
+      "start": 23.4,
+      "duration": 3.3,
+      "text": "with no electric or magnetic fields whatsoever,",
+      "en": "with no electric or magnetic fields whatsoever,",
+      "zh": ""
+    },
+    {
+      "start": 26.7,
+      "duration": 1.98,
+      "text": "and yet by flipping a switch,",
+      "en": "and yet by flipping a switch,",
+      "zh": ""
+    },
+    {
+      "start": 28.68,
+      "duration": 2.22,
+      "text": "you could change their behavior.",
+      "en": "you could change their behavior.",
+      "zh": ""
+    },
+    {
+      "start": 30.9,
+      "duration": 2.61,
+      "text": "- The magnetic field could be just zero,",
+      "en": "- The magnetic field could be just zero,",
+      "zh": ""
+    },
+    {
+      "start": 33.51,
+      "duration": 3.33,
+      "text": "and yet the presence of some quantity",
+      "en": "and yet the presence of some quantity",
+      "zh": ""
+    },
+    {
+      "start": 36.84,
+      "duration": 2.46,
+      "text": "could actually lead to observable effects.",
+      "en": "could actually lead to observable effects.",
+      "zh": ""
+    },
+    {
+      "start": 39.3,
+      "duration": 2.01,
+      "text": "That wasn't supposed to happen, right?",
+      "en": "That wasn't supposed to happen, right?",
+      "zh": ""
+    },
+    {
+      "start": 41.31,
+      "duration": 3.39,
+      "text": "- This experiment split the physics community in two.",
+      "en": "- This experiment split the physics community in two.",
+      "zh": ""
+    },
+    {
+      "start": 44.7,
+      "duration": 3.15,
+      "text": "It made them question whether fields are fundamental",
+      "en": "It made them question whether fields are fundamental",
+      "zh": ""
+    },
+    {
+      "start": 47.85,
+      "duration": 2.67,
+      "text": "or whether something that was supposed to be",
+      "en": "or whether something that was supposed to be",
+      "zh": ""
+    },
+    {
+      "start": 50.52,
+      "duration": 2.61,
+      "text": "just an abstract mathematical tool",
+      "en": "just an abstract mathematical tool",
+      "zh": ""
+    },
+    {
+      "start": 53.13,
+      "duration": 3.12,
+      "text": "was actually more core to reality.",
+      "en": "was actually more core to reality.",
+      "zh": ""
+    },
+    {
+      "start": 56.25,
+      "duration": 3.27,
+      "text": "This tool was first introduced in an attempt to solve",
+      "en": "This tool was first introduced in an attempt to solve",
+      "zh": ""
+    },
+    {
+      "start": 59.52,
+      "duration": 2.91,
+      "text": "one of the hardest unsolved problems in physics,",
+      "en": "one of the hardest unsolved problems in physics,",
+      "zh": ""
+    },
+    {
+      "start": 62.43,
+      "duration": 1.53,
+      "text": "the three-body problem.",
+      "en": "the three-body problem.",
+      "zh": ""
+    },
+    {
+      "start": 65.4,
+      "duration": 1.86,
+      "text": "That is if you have three bodies",
+      "en": "That is if you have three bodies",
+      "zh": ""
+    },
+    {
+      "start": 67.26,
+      "duration": 2.58,
+      "text": "and you know their initial positions and velocities,",
+      "en": "and you know their initial positions and velocities,",
+      "zh": ""
+    },
+    {
+      "start": 69.84,
+      "duration": 1.08,
+      "text": "how will they move",
+      "en": "how will they move",
+      "zh": ""
+    },
+    {
+      "start": 70.92,
+      "duration": 2.46,
+      "text": "under the influence of each other's gravity?",
+      "en": "under the influence of each other's gravity?",
+      "zh": ""
+    },
+    {
+      "start": 73.38,
+      "duration": 1.71,
+      "text": "- It's a juicy, juicy problem,",
+      "en": "- It's a juicy, juicy problem,",
+      "zh": ""
+    },
+    {
+      "start": 75.09,
+      "duration": 2.58,
+      "text": "which occupied literally generations,",
+      "en": "which occupied literally generations,",
+      "zh": ""
+    },
+    {
+      "start": 77.67,
+      "duration": 1.65,
+      "text": "hundreds and hundreds of years of",
+      "en": "hundreds and hundreds of years of",
+      "zh": ""
+    },
+    {
+      "start": 79.32,
+      "duration": 3.12,
+      "text": "incredibly ambitious, talented mathematicians,",
+      "en": "incredibly ambitious, talented mathematicians,",
+      "zh": ""
+    },
+    {
+      "start": 82.44,
+      "duration": 3.18,
+      "text": "physicists, and astronomers, and beyond.",
+      "en": "physicists, and astronomers, and beyond.",
+      "zh": ""
+    },
+    {
+      "start": 85.62,
+      "duration": 2.64,
+      "text": "- The fact that this problem is so difficult to solve",
+      "en": "- The fact that this problem is so difficult to solve",
+      "zh": ""
+    },
+    {
+      "start": 88.26,
+      "duration": 2.19,
+      "text": "should at least be a little surprising",
+      "en": "should at least be a little surprising",
+      "zh": ""
+    },
+    {
+      "start": 90.45,
+      "duration": 2.01,
+      "text": "because if you have just two bodies,",
+      "en": "because if you have just two bodies,",
+      "zh": ""
+    },
+    {
+      "start": 92.46,
+      "duration": 2.25,
+      "text": "then the solution is easy to find.",
+      "en": "then the solution is easy to find.",
+      "zh": ""
+    },
+    {
+      "start": 94.71,
+      "duration": 1.89,
+      "text": "In fact, the general case was already solved",
+      "en": "In fact, the general case was already solved",
+      "zh": ""
+    },
+    {
+      "start": 96.6,
+      "duration": 3.96,
+      "text": "over 300 years ago by Newton himself.",
+      "en": "over 300 years ago by Newton himself.",
+      "zh": ""
+    },
+    {
+      "start": 100.56,
+      "duration": 2.22,
+      "text": "- But when Newton added a third body,",
+      "en": "- But when Newton added a third body,",
+      "zh": ""
+    },
+    {
+      "start": 102.78,
+      "duration": 2.31,
+      "text": "well, that's when everything fell apart.",
+      "en": "well, that's when everything fell apart.",
+      "zh": ""
+    },
+    {
+      "start": 106.02,
+      "duration": 2.88,
+      "text": "In the two body case, the forces behaved predictably,",
+      "en": "In the two body case, the forces behaved predictably,",
+      "zh": ""
+    },
+    {
+      "start": 108.9,
+      "duration": 3.42,
+      "text": "always pointing where the system's shared center of mass.",
+      "en": "always pointing where the system's shared center of mass.",
+      "zh": ""
+    },
+    {
+      "start": 112.32,
+      "duration": 3.39,
+      "text": "But with three bodies, this is no longer the case.",
+      "en": "But with three bodies, this is no longer the case.",
+      "zh": ""
+    },
+    {
+      "start": 115.71,
+      "duration": 1.5,
+      "text": "When you try to calculate the forces,",
+      "en": "When you try to calculate the forces,",
+      "zh": ""
+    },
+    {
+      "start": 117.21,
+      "duration": 2.46,
+      "text": "they end up being extremely dynamic.",
+      "en": "they end up being extremely dynamic.",
+      "zh": ""
+    },
+    {
+      "start": 119.67,
+      "duration": 2.22,
+      "text": "In addition to worrying about the magnitude of the forces,",
+      "en": "In addition to worrying about the magnitude of the forces,",
+      "zh": ""
+    },
+    {
+      "start": 121.89,
+      "duration": 2.28,
+      "text": "you also have to worry about their direction.",
+      "en": "you also have to worry about their direction.",
+      "zh": ""
+    },
+    {
+      "start": 124.17,
+      "duration": 3.0,
+      "text": "So you end up with this chaotic mess of vectors.",
+      "en": "So you end up with this chaotic mess of vectors.",
+      "zh": ""
+    },
+    {
+      "start": 128.04,
+      "duration": 1.44,
+      "text": "For the next hundred years,",
+      "en": "For the next hundred years,",
+      "zh": ""
+    },
+    {
+      "start": 129.48,
+      "duration": 3.21,
+      "text": "everyone who tried to solve this problem failed.",
+      "en": "everyone who tried to solve this problem failed.",
+      "zh": ""
+    },
+    {
+      "start": 132.69,
+      "duration": 3.48,
+      "text": "But what if there was some other way to approach it,",
+      "en": "But what if there was some other way to approach it,",
+      "zh": ""
+    },
+    {
+      "start": 136.17,
+      "duration": 1.41,
+      "text": "a way to simplify the math",
+      "en": "a way to simplify the math",
+      "zh": ""
+    },
+    {
+      "start": 137.58,
+      "duration": 3.81,
+      "text": "and not have to worry about these three-dimensional vectors?",
+      "en": "and not have to worry about these three-dimensional vectors?",
+      "zh": ""
+    },
+    {
+      "start": 141.39,
+      "duration": 3.12,
+      "text": "Well, that's where Joseph-Louis Lagrange comes in.",
+      "en": "Well, that's where Joseph-Louis Lagrange comes in.",
+      "zh": ""
+    },
+    {
+      "start": 144.51,
+      "duration": 1.2,
+      "text": "In the 1770s,",
+      "en": "In the 1770s,",
+      "zh": ""
+    },
+    {
+      "start": 145.71,
+      "duration": 2.76,
+      "text": "he was also trying to solve the three-body problem,",
+      "en": "he was also trying to solve the three-body problem,",
+      "zh": ""
+    },
+    {
+      "start": 148.47,
+      "duration": 2.4,
+      "text": "and he came up with a new approach.",
+      "en": "and he came up with a new approach.",
+      "zh": ""
+    },
+    {
+      "start": 150.87,
+      "duration": 1.65,
+      "text": "It works something like this.",
+      "en": "It works something like this.",
+      "zh": ""
+    },
+    {
+      "start": 153.42,
+      "duration": 2.67,
+      "text": "Say you've got a single mass like a star,",
+      "en": "Say you've got a single mass like a star,",
+      "zh": ""
+    },
+    {
+      "start": 156.09,
+      "duration": 1.95,
+      "text": "Lagrange imagined assigning a value",
+      "en": "Lagrange imagined assigning a value",
+      "zh": ""
+    },
+    {
+      "start": 158.04,
+      "duration": 2.25,
+      "text": "to each point in space around the star.",
+      "en": "to each point in space around the star.",
+      "zh": ""
+    },
+    {
+      "start": 160.29,
+      "duration": 2.1,
+      "text": "The value is determined by the star's mass",
+      "en": "The value is determined by the star's mass",
+      "zh": ""
+    },
+    {
+      "start": 162.39,
+      "duration": 2.13,
+      "text": "and the distance from the star.",
+      "en": "and the distance from the star.",
+      "zh": ""
+    },
+    {
+      "start": 164.52,
+      "duration": 2.52,
+      "text": "You can think of each value as a height,",
+      "en": "You can think of each value as a height,",
+      "zh": ""
+    },
+    {
+      "start": 167.04,
+      "duration": 2.61,
+      "text": "and if we then turn this into an altitude map,",
+      "en": "and if we then turn this into an altitude map,",
+      "zh": ""
+    },
+    {
+      "start": 169.65,
+      "duration": 2.64,
+      "text": "you can see how the star creates this sort of well.",
+      "en": "you can see how the star creates this sort of well.",
+      "zh": ""
+    },
+    {
+      "start": 172.29,
+      "duration": 1.98,
+      "text": "What Lagrange had developed was",
+      "en": "What Lagrange had developed was",
+      "zh": ""
+    },
+    {
+      "start": 174.27,
+      "duration": 2.04,
+      "text": "the gravitational potential V.",
+      "en": "the gravitational potential V.",
+      "zh": ""
+    },
+    {
+      "start": 176.31,
+      "duration": 3.06,
+      "text": "And what's important to note is that V is a scalar,",
+      "en": "And what's important to note is that V is a scalar,",
+      "zh": ""
+    },
+    {
+      "start": 179.37,
+      "duration": 2.34,
+      "text": "it has a magnitude but no direction.",
+      "en": "it has a magnitude but no direction.",
+      "zh": ""
+    },
+    {
+      "start": 182.82,
+      "duration": 3.39,
+      "text": "So the genius in Lagrange's idea is this.",
+      "en": "So the genius in Lagrange's idea is this.",
+      "zh": ""
+    },
+    {
+      "start": 186.21,
+      "duration": 0.96,
+      "text": "At any given point,",
+      "en": "At any given point,",
+      "zh": ""
+    },
+    {
+      "start": 187.17,
+      "duration": 2.79,
+      "text": "we can draw an arrow pointing directly downhill",
+      "en": "we can draw an arrow pointing directly downhill",
+      "zh": ""
+    },
+    {
+      "start": 189.96,
+      "duration": 1.65,
+      "text": "where the size of the arrow corresponds",
+      "en": "where the size of the arrow corresponds",
+      "zh": ""
+    },
+    {
+      "start": 191.61,
+      "duration": 2.43,
+      "text": "to the steepness of the hill at that point.",
+      "en": "to the steepness of the hill at that point.",
+      "zh": ""
+    },
+    {
+      "start": 194.04,
+      "duration": 2.01,
+      "text": "We can repeat this process at every point,",
+      "en": "We can repeat this process at every point,",
+      "zh": ""
+    },
+    {
+      "start": 196.05,
+      "duration": 2.82,
+      "text": "and if we then shift our perspective to two dimensions,",
+      "en": "and if we then shift our perspective to two dimensions,",
+      "zh": ""
+    },
+    {
+      "start": 198.87,
+      "duration": 3.87,
+      "text": "look, what we've got is the gravitational field of the star.",
+      "en": "look, what we've got is the gravitational field of the star.",
+      "zh": ""
+    },
+    {
+      "start": 202.74,
+      "duration": 2.58,
+      "text": "Mathematically, we say that the gravitational field G",
+      "en": "Mathematically, we say that the gravitational field G",
+      "zh": ""
+    },
+    {
+      "start": 205.32,
+      "duration": 3.72,
+      "text": "is equal to the negative gradient of V.",
+      "en": "is equal to the negative gradient of V.",
+      "zh": ""
+    },
+    {
+      "start": 209.04,
+      "duration": 1.38,
+      "text": "- So Lagrange had found a way",
+      "en": "- So Lagrange had found a way",
+      "zh": ""
+    },
+    {
+      "start": 210.42,
+      "duration": 1.68,
+      "text": "to switch the problem back and forth",
+      "en": "to switch the problem back and forth",
+      "zh": ""
+    },
+    {
+      "start": 212.1,
+      "duration": 2.55,
+      "text": "between one of vectors and one of scalars.",
+      "en": "between one of vectors and one of scalars.",
+      "zh": ""
+    },
+    {
+      "start": 214.65,
+      "duration": 2.31,
+      "text": "And while adding up vectors is hard,",
+      "en": "And while adding up vectors is hard,",
+      "zh": ""
+    },
+    {
+      "start": 216.96,
+      "duration": 2.52,
+      "text": "adding scalars is a piece of cake.",
+      "en": "adding scalars is a piece of cake.",
+      "zh": ""
+    },
+    {
+      "start": 219.48,
+      "duration": 2.04,
+      "text": "To find the combined potential landscape",
+      "en": "To find the combined potential landscape",
+      "zh": ""
+    },
+    {
+      "start": 221.52,
+      "duration": 1.35,
+      "text": "of any number of bodies,",
+      "en": "of any number of bodies,",
+      "zh": ""
+    },
+    {
+      "start": 222.87,
+      "duration": 2.4,
+      "text": "you just add up their individual potentials.",
+      "en": "you just add up their individual potentials.",
+      "zh": ""
+    },
+    {
+      "start": 225.27,
+      "duration": 1.5,
+      "text": "And then you can always use that",
+      "en": "And then you can always use that",
+      "zh": ""
+    },
+    {
+      "start": 226.77,
+      "duration": 2.49,
+      "text": "to get back to forces if you want.",
+      "en": "to get back to forces if you want.",
+      "zh": ""
+    },
+    {
+      "start": 229.26,
+      "duration": 1.92,
+      "text": "For a simple two body system",
+      "en": "For a simple two body system",
+      "zh": ""
+    },
+    {
+      "start": 231.18,
+      "duration": 2.01,
+      "text": "like the Earth orbiting the sun,",
+      "en": "like the Earth orbiting the sun,",
+      "zh": ""
+    },
+    {
+      "start": 233.19,
+      "duration": 2.97,
+      "text": "that combined potential look something like this.",
+      "en": "that combined potential look something like this.",
+      "zh": ""
+    },
+    {
+      "start": 236.16,
+      "duration": 1.02,
+      "text": "If you look closely,",
+      "en": "If you look closely,",
+      "zh": ""
+    },
+    {
+      "start": 237.18,
+      "duration": 1.48,
+      "text": "you see that there are five points",
+      "en": "you see that there are five points",
+      "zh": ""
+    },
+    {
+      "start": 238.66,
+      "duration": 1.91,
+      "text": "where the gradient is zero.",
+      "en": "where the gradient is zero.",
+      "zh": ""
+    },
+    {
+      "start": 240.57,
+      "duration": 3.75,
+      "text": "And so Lagrange realized the forces there are also zero,",
+      "en": "And so Lagrange realized the forces there are also zero,",
+      "zh": ""
+    },
+    {
+      "start": 244.32,
+      "duration": 2.31,
+      "text": "which means that at each of these points,",
+      "en": "which means that at each of these points,",
+      "zh": ""
+    },
+    {
+      "start": 246.63,
+      "duration": 2.07,
+      "text": "you could place a tiny third body",
+      "en": "you could place a tiny third body",
+      "zh": ""
+    },
+    {
+      "start": 248.7,
+      "duration": 2.61,
+      "text": "and it would maintain a perfectly stable orbit.",
+      "en": "and it would maintain a perfectly stable orbit.",
+      "zh": ""
+    },
+    {
+      "start": 251.31,
+      "duration": 2.07,
+      "text": "That is if it isn't disturbed.",
+      "en": "That is if it isn't disturbed.",
+      "zh": ""
+    },
+    {
+      "start": 253.38,
+      "duration": 2.85,
+      "text": "These points are now known as the Lagrange Points.",
+      "en": "These points are now known as the Lagrange Points.",
+      "zh": ""
+    },
+    {
+      "start": 256.23,
+      "duration": 3.39,
+      "text": "And while they didn't help solve the three-body problem,",
+      "en": "And while they didn't help solve the three-body problem,",
+      "zh": ""
+    },
+    {
+      "start": 259.62,
+      "duration": 3.06,
+      "text": "Lagrange was developing more sophisticated tools.",
+      "en": "Lagrange was developing more sophisticated tools.",
+      "zh": ""
+    },
+    {
+      "start": 262.68,
+      "duration": 0.83,
+      "text": "In fact,",
+      "en": "In fact,",
+      "zh": ""
+    },
+    {
+      "start": 263.51,
+      "duration": 2.89,
+      "text": "he developed an entirely new way of doing mechanics.",
+      "en": "he developed an entirely new way of doing mechanics.",
+      "zh": ""
+    },
+    {
+      "start": 266.4,
+      "duration": 1.38,
+      "text": "But for that to work,",
+      "en": "But for that to work,",
+      "zh": ""
+    },
+    {
+      "start": 267.78,
+      "duration": 1.59,
+      "text": "he didn't just need the potential,",
+      "en": "he didn't just need the potential,",
+      "zh": ""
+    },
+    {
+      "start": 269.37,
+      "duration": 4.29,
+      "text": "he needed the potential energy and the kinetic energy too.",
+      "en": "he needed the potential energy and the kinetic energy too.",
+      "zh": ""
+    },
+    {
+      "start": 273.66,
+      "duration": 2.13,
+      "text": "I think when people hear potential,",
+      "en": "I think when people hear potential,",
+      "zh": ""
+    },
+    {
+      "start": 275.79,
+      "duration": 2.22,
+      "text": "they think potential energy.",
+      "en": "they think potential energy.",
+      "zh": ""
+    },
+    {
+      "start": 278.01,
+      "duration": 1.92,
+      "text": "And while they're very similar,",
+      "en": "And while they're very similar,",
+      "zh": ""
+    },
+    {
+      "start": 279.93,
+      "duration": 1.77,
+      "text": "there is a subtle difference.",
+      "en": "there is a subtle difference.",
+      "zh": ""
+    },
+    {
+      "start": 281.7,
+      "duration": 1.53,
+      "text": "If you have the potential",
+      "en": "If you have the potential",
+      "zh": ""
+    },
+    {
+      "start": 283.23,
+      "duration": 4.23,
+      "text": "that's basically the field corresponding to a single body,",
+      "en": "that's basically the field corresponding to a single body,",
+      "zh": ""
+    },
+    {
+      "start": 287.46,
+      "duration": 2.76,
+      "text": "then it will have some potential field around it,",
+      "en": "then it will have some potential field around it,",
+      "zh": ""
+    },
+    {
+      "start": 290.22,
+      "duration": 5.0,
+      "text": "which is described as V equals minus G M over r,",
+      "en": "which is described as V equals minus G M over r,",
+      "zh": ""
+    },
+    {
+      "start": 296.07,
+      "duration": 2.31,
+      "text": "where this is the mass of the sun.",
+      "en": "where this is the mass of the sun.",
+      "zh": ""
+    },
+    {
+      "start": 298.38,
+      "duration": 1.62,
+      "text": "But to get the potential energy,",
+      "en": "But to get the potential energy,",
+      "zh": ""
+    },
+    {
+      "start": 300.0,
+      "duration": 1.92,
+      "text": "we need to add in a second body.",
+      "en": "we need to add in a second body.",
+      "zh": ""
+    },
+    {
+      "start": 301.92,
+      "duration": 2.43,
+      "text": "So let's say that's the Earth.",
+      "en": "So let's say that's the Earth.",
+      "zh": ""
+    },
+    {
+      "start": 304.35,
+      "duration": 3.0,
+      "text": "The potential energy, let's call it U,",
+      "en": "The potential energy, let's call it U,",
+      "zh": ""
+    },
+    {
+      "start": 307.35,
+      "duration": 2.07,
+      "text": "is basically just the potential",
+      "en": "is basically just the potential",
+      "zh": ""
+    },
+    {
+      "start": 309.42,
+      "duration": 1.59,
+      "text": "times the mass of the second body.",
+      "en": "times the mass of the second body.",
+      "zh": ""
+    },
+    {
+      "start": 311.01,
+      "duration": 3.39,
+      "text": "So they're very similar, but they're slightly different.",
+      "en": "So they're very similar, but they're slightly different.",
+      "zh": ""
+    },
+    {
+      "start": 314.4,
+      "duration": 2.46,
+      "text": "And the kinetic energy of the Earth is simple.",
+      "en": "And the kinetic energy of the Earth is simple.",
+      "zh": ""
+    },
+    {
+      "start": 316.86,
+      "duration": 3.36,
+      "text": "That's of course 1/2 mv squared.",
+      "en": "That's of course 1/2 mv squared.",
+      "zh": ""
+    },
+    {
+      "start": 320.22,
+      "duration": 2.94,
+      "text": "So now we have everything we need to try this new method.",
+      "en": "So now we have everything we need to try this new method.",
+      "zh": ""
+    },
+    {
+      "start": 323.16,
+      "duration": 2.97,
+      "text": "In fact, we made a whole video on this over a year ago,",
+      "en": "In fact, we made a whole video on this over a year ago,",
+      "zh": ""
+    },
+    {
+      "start": 326.13,
+      "duration": 1.8,
+      "text": "but for now, all we need to know is that",
+      "en": "but for now, all we need to know is that",
+      "zh": ""
+    },
+    {
+      "start": 327.93,
+      "duration": 2.31,
+      "text": "we can write down the kinetic minus potential energy",
+      "en": "we can write down the kinetic minus potential energy",
+      "zh": ""
+    },
+    {
+      "start": 330.24,
+      "duration": 2.4,
+      "text": "to find what's known as the Lagrangian.",
+      "en": "to find what's known as the Lagrangian.",
+      "zh": ""
+    },
+    {
+      "start": 332.64,
+      "duration": 1.07,
+      "text": "Then you sub that in",
+      "en": "Then you sub that in",
+      "zh": ""
+    },
+    {
+      "start": 333.71,
+      "duration": 2.26,
+      "text": "to the so-called Euler-Lagrange Equation,",
+      "en": "to the so-called Euler-Lagrange Equation,",
+      "zh": ""
+    },
+    {
+      "start": 335.97,
+      "duration": 2.34,
+      "text": "and out comes your solution.",
+      "en": "and out comes your solution.",
+      "zh": ""
+    },
+    {
+      "start": 338.31,
+      "duration": 3.12,
+      "text": "For example, predicting the motion of a double pendulum",
+      "en": "For example, predicting the motion of a double pendulum",
+      "zh": ""
+    },
+    {
+      "start": 341.43,
+      "duration": 3.75,
+      "text": "by using this standard forces approach is infamously hard.",
+      "en": "by using this standard forces approach is infamously hard.",
+      "zh": ""
+    },
+    {
+      "start": 345.18,
+      "duration": 2.19,
+      "text": "- Because as one pendulum is swinging,",
+      "en": "- Because as one pendulum is swinging,",
+      "zh": ""
+    },
+    {
+      "start": 347.37,
+      "duration": 1.56,
+      "text": "it provides the attachment point",
+      "en": "it provides the attachment point",
+      "zh": ""
+    },
+    {
+      "start": 348.93,
+      "duration": 1.62,
+      "text": "for the pendulum hanging below it.",
+      "en": "for the pendulum hanging below it.",
+      "zh": ""
+    },
+    {
+      "start": 350.55,
+      "duration": 0.99,
+      "text": "And so that pendulum is",
+      "en": "And so that pendulum is",
+      "zh": ""
+    },
+    {
+      "start": 351.54,
+      "duration": 2.85,
+      "text": "in this moving reference frame as it's swinging.",
+      "en": "in this moving reference frame as it's swinging.",
+      "zh": ""
+    },
+    {
+      "start": 354.39,
+      "duration": 2.4,
+      "text": "- [Casper] But if you pluck the kinetic and potential energy",
+      "en": "- [Casper] But if you pluck the kinetic and potential energy",
+      "zh": ""
+    },
+    {
+      "start": 356.79,
+      "duration": 2.13,
+      "text": "into the Euler-Lagrange Equation,",
+      "en": "into the Euler-Lagrange Equation,",
+      "zh": ""
+    },
+    {
+      "start": 358.92,
+      "duration": 3.24,
+      "text": "then you can quickly get to a solution at least numerically.",
+      "en": "then you can quickly get to a solution at least numerically.",
+      "zh": ""
+    },
+    {
+      "start": 362.16,
+      "duration": 3.0,
+      "text": "That's actually how we made this simulation.",
+      "en": "That's actually how we made this simulation.",
+      "zh": ""
+    },
+    {
+      "start": 365.16,
+      "duration": 1.08,
+      "text": "- I remember thinking,",
+      "en": "- I remember thinking,",
+      "zh": ""
+    },
+    {
+      "start": 366.24,
+      "duration": 2.64,
+      "text": "man, force is like hard to get the right answer.",
+      "en": "man, force is like hard to get the right answer.",
+      "zh": ""
+    },
+    {
+      "start": 368.88,
+      "duration": 1.41,
+      "text": "You can do it if you're good,",
+      "en": "You can do it if you're good,",
+      "zh": ""
+    },
+    {
+      "start": 370.29,
+      "duration": 2.34,
+      "text": "and people who are good at mechanics can do it.",
+      "en": "and people who are good at mechanics can do it.",
+      "zh": ""
+    },
+    {
+      "start": 372.63,
+      "duration": 1.92,
+      "text": "But with the Lagrangian approach,",
+      "en": "But with the Lagrangian approach,",
+      "zh": ""
+    },
+    {
+      "start": 374.55,
+      "duration": 1.44,
+      "text": "you could just write down the energy,",
+      "en": "you could just write down the energy,",
+      "zh": ""
+    },
+    {
+      "start": 375.99,
+      "duration": 1.77,
+      "text": "which is a scalar not a vector,",
+      "en": "which is a scalar not a vector,",
+      "zh": ""
+    },
+    {
+      "start": 377.76,
+      "duration": 2.13,
+      "text": "plug it into the Euler-Lagrange Equation,",
+      "en": "plug it into the Euler-Lagrange Equation,",
+      "zh": ""
+    },
+    {
+      "start": 379.89,
+      "duration": 1.95,
+      "text": "and you get the right equation to motion",
+      "en": "and you get the right equation to motion",
+      "zh": ""
+    },
+    {
+      "start": 381.84,
+      "duration": 2.01,
+      "text": "and you don't have to be a good physicist.",
+      "en": "and you don't have to be a good physicist.",
+      "zh": ""
+    },
+    {
+      "start": 383.85,
+      "duration": 1.83,
+      "text": "- But for all its usefulness,",
+      "en": "- But for all its usefulness,",
+      "zh": ""
+    },
+    {
+      "start": 385.68,
+      "duration": 1.65,
+      "text": "the potential wasn't enough",
+      "en": "the potential wasn't enough",
+      "zh": ""
+    },
+    {
+      "start": 387.33,
+      "duration": 2.34,
+      "text": "to help Lagrange solve the three-body problem.",
+      "en": "to help Lagrange solve the three-body problem.",
+      "zh": ""
+    },
+    {
+      "start": 389.67,
+      "duration": 4.47,
+      "text": "In 1887, mathematician Heinrich Bruns finally proved",
+      "en": "In 1887, mathematician Heinrich Bruns finally proved",
+      "zh": ""
+    },
+    {
+      "start": 394.14,
+      "duration": 3.69,
+      "text": "that the three-body problem is unsolvable.",
+      "en": "that the three-body problem is unsolvable.",
+      "zh": ""
+    },
+    {
+      "start": 397.83,
+      "duration": 1.95,
+      "text": "There are simply too many unknowns",
+      "en": "There are simply too many unknowns",
+      "zh": ""
+    },
+    {
+      "start": 399.78,
+      "duration": 2.61,
+      "text": "and no way to simplify the problem to reduce them.",
+      "en": "and no way to simplify the problem to reduce them.",
+      "zh": ""
+    },
+    {
+      "start": 402.39,
+      "duration": 1.98,
+      "text": "So the best we've got are computer simulations,",
+      "en": "So the best we've got are computer simulations,",
+      "zh": ""
+    },
+    {
+      "start": 404.37,
+      "duration": 2.04,
+      "text": "which compute the potentials from moment to moment,",
+      "en": "which compute the potentials from moment to moment,",
+      "zh": ""
+    },
+    {
+      "start": 406.41,
+      "duration": 3.57,
+      "text": "and use that to predict how the system will evolve in time.",
+      "en": "and use that to predict how the system will evolve in time.",
+      "zh": ""
+    },
+    {
+      "start": 411.24,
+      "duration": 2.4,
+      "text": "- And so that's where we come to realize",
+      "en": "- And so that's where we come to realize",
+      "zh": ""
+    },
+    {
+      "start": 413.64,
+      "duration": 1.92,
+      "text": "that the three-body problem is beautiful",
+      "en": "that the three-body problem is beautiful",
+      "zh": ""
+    },
+    {
+      "start": 415.56,
+      "duration": 1.53,
+      "text": "for what it's taught us.",
+      "en": "for what it's taught us.",
+      "zh": ""
+    },
+    {
+      "start": 417.09,
+      "duration": 1.92,
+      "text": "Even though we now recognize",
+      "en": "Even though we now recognize",
+      "zh": ""
+    },
+    {
+      "start": 419.01,
+      "duration": 2.19,
+      "text": "that we can't actually solve for this exact problem",
+      "en": "that we can't actually solve for this exact problem",
+      "zh": ""
+    },
+    {
+      "start": 421.2,
+      "duration": 1.83,
+      "text": "as many folks had hoped to do.",
+      "en": "as many folks had hoped to do.",
+      "zh": ""
+    },
+    {
+      "start": 423.03,
+      "duration": 0.9,
+      "text": "And in doing that,",
+      "en": "And in doing that,",
+      "zh": ""
+    },
+    {
+      "start": 423.93,
+      "duration": 1.89,
+      "text": "they merely gave us the machinery of",
+      "en": "they merely gave us the machinery of",
+      "zh": ""
+    },
+    {
+      "start": 425.82,
+      "duration": 1.23,
+      "text": "modern mathematical physics.",
+      "en": "modern mathematical physics.",
+      "zh": ""
+    },
+    {
+      "start": 427.05,
+      "duration": 2.37,
+      "text": "So I'm pretty happy they tried.",
+      "en": "So I'm pretty happy they tried.",
+      "zh": ""
+    },
+    {
+      "start": 429.42,
+      "duration": 3.66,
+      "text": "- The potential helped simplify a wide array of problems.",
+      "en": "- The potential helped simplify a wide array of problems.",
+      "zh": ""
+    },
+    {
+      "start": 433.08,
+      "duration": 1.01,
+      "text": "For many physicists,",
+      "en": "For many physicists,",
+      "zh": ""
+    },
+    {
+      "start": 434.09,
+      "duration": 3.22,
+      "text": "it even replaced forces as their primary tool.",
+      "en": "it even replaced forces as their primary tool.",
+      "zh": ""
+    },
+    {
+      "start": 437.31,
+      "duration": 2.67,
+      "text": "It became so useful that people started to wonder",
+      "en": "It became so useful that people started to wonder",
+      "zh": ""
+    },
+    {
+      "start": 439.98,
+      "duration": 1.89,
+      "text": "if other forces in nature might have",
+      "en": "if other forces in nature might have",
+      "zh": ""
+    },
+    {
+      "start": 441.87,
+      "duration": 1.65,
+      "text": "a corresponding potential,",
+      "en": "a corresponding potential,",
+      "zh": ""
+    },
+    {
+      "start": 443.52,
+      "duration": 2.67,
+      "text": "starting with the electric force.",
+      "en": "starting with the electric force.",
+      "zh": ""
+    },
+    {
+      "start": 446.19,
+      "duration": 2.61,
+      "text": "- If you look at the formula for the electric force,",
+      "en": "- If you look at the formula for the electric force,",
+      "zh": ""
+    },
+    {
+      "start": 448.8,
+      "duration": 3.69,
+      "text": "you notice that it's remarkably similar to that for gravity,",
+      "en": "you notice that it's remarkably similar to that for gravity,",
+      "zh": ""
+    },
+    {
+      "start": 452.49,
+      "duration": 2.73,
+      "text": "just with masses and charges swapped.",
+      "en": "just with masses and charges swapped.",
+      "zh": ""
+    },
+    {
+      "start": 455.22,
+      "duration": 2.51,
+      "text": "In the 1810s, Simeon Denis Poisson,",
+      "en": "In the 1810s, Simeon Denis Poisson,",
+      "zh": ""
+    },
+    {
+      "start": 457.73,
+      "duration": 3.52,
+      "text": "one of Lagrange's students also noticed the similarity.",
+      "en": "one of Lagrange's students also noticed the similarity.",
+      "zh": ""
+    },
+    {
+      "start": 461.25,
+      "duration": 2.01,
+      "text": "And he realized that you can define",
+      "en": "And he realized that you can define",
+      "zh": ""
+    },
+    {
+      "start": 463.26,
+      "duration": 3.33,
+      "text": "an electric potential phi in a very similar way.",
+      "en": "an electric potential phi in a very similar way.",
+      "zh": ""
+    },
+    {
+      "start": 466.59,
+      "duration": 2.64,
+      "text": "But there is one important difference.",
+      "en": "But there is one important difference.",
+      "zh": ""
+    },
+    {
+      "start": 469.23,
+      "duration": 2.79,
+      "text": "And that is while two masses can only attract,",
+      "en": "And that is while two masses can only attract,",
+      "zh": ""
+    },
+    {
+      "start": 472.02,
+      "duration": 3.27,
+      "text": "two charges can attract or repel.",
+      "en": "two charges can attract or repel.",
+      "zh": ""
+    },
+    {
+      "start": 475.29,
+      "duration": 3.15,
+      "text": "So now, with the potential you don't only get pits,",
+      "en": "So now, with the potential you don't only get pits,",
+      "zh": ""
+    },
+    {
+      "start": 478.44,
+      "duration": 2.64,
+      "text": "you also get hills.",
+      "en": "you also get hills.",
+      "zh": ""
+    },
+    {
+      "start": 481.08,
+      "duration": 3.36,
+      "text": "But one force was much trickier to find the potential for,",
+      "en": "But one force was much trickier to find the potential for,",
+      "zh": ""
+    },
+    {
+      "start": 484.44,
+      "duration": 1.92,
+      "text": "and that was the magnetic force.",
+      "en": "and that was the magnetic force.",
+      "zh": ""
+    },
+    {
+      "start": 486.36,
+      "duration": 1.56,
+      "text": "And that's because magnetism is",
+      "en": "And that's because magnetism is",
+      "zh": ""
+    },
+    {
+      "start": 487.92,
+      "duration": 1.83,
+      "text": "a fundamentally different beast",
+      "en": "a fundamentally different beast",
+      "zh": ""
+    },
+    {
+      "start": 489.75,
+      "duration": 2.85,
+      "text": "from the gravitational and electric force.",
+      "en": "from the gravitational and electric force.",
+      "zh": ""
+    },
+    {
+      "start": 492.6,
+      "duration": 1.32,
+      "text": "Take a bar magnet,",
+      "en": "Take a bar magnet,",
+      "zh": ""
+    },
+    {
+      "start": 493.92,
+      "duration": 2.22,
+      "text": "we can draw the magnetic field it produces.",
+      "en": "we can draw the magnetic field it produces.",
+      "zh": ""
+    },
+    {
+      "start": 496.14,
+      "duration": 1.53,
+      "text": "It looks something like this.",
+      "en": "It looks something like this.",
+      "zh": ""
+    },
+    {
+      "start": 497.67,
+      "duration": 1.26,
+      "text": "Now at first glance,",
+      "en": "Now at first glance,",
+      "zh": ""
+    },
+    {
+      "start": 498.93,
+      "duration": 2.79,
+      "text": "this looks very similar to the electric scenario",
+      "en": "this looks very similar to the electric scenario",
+      "zh": ""
+    },
+    {
+      "start": 501.72,
+      "duration": 2.58,
+      "text": "where we have a positive and negative charge,",
+      "en": "where we have a positive and negative charge,",
+      "zh": ""
+    },
+    {
+      "start": 504.3,
+      "duration": 2.13,
+      "text": "but this picture doesn't look at what's going on",
+      "en": "but this picture doesn't look at what's going on",
+      "zh": ""
+    },
+    {
+      "start": 506.43,
+      "duration": 1.02,
+      "text": "inside the magnet.",
+      "en": "inside the magnet.",
+      "zh": ""
+    },
+    {
+      "start": 507.45,
+      "duration": 2.04,
+      "text": "So if we reveal what's inside",
+      "en": "So if we reveal what's inside",
+      "zh": ""
+    },
+    {
+      "start": 509.49,
+      "duration": 2.25,
+      "text": "and you see that these lines actually continue,",
+      "en": "and you see that these lines actually continue,",
+      "zh": ""
+    },
+    {
+      "start": 511.74,
+      "duration": 2.37,
+      "text": "but now they point from south to north.",
+      "en": "but now they point from south to north.",
+      "zh": ""
+    },
+    {
+      "start": 514.11,
+      "duration": 2.34,
+      "text": "So magnetic field lines are actually loops,",
+      "en": "So magnetic field lines are actually loops,",
+      "zh": ""
+    },
+    {
+      "start": 516.45,
+      "duration": 2.64,
+      "text": "they don't have an origin or endpoint.",
+      "en": "they don't have an origin or endpoint.",
+      "zh": ""
+    },
+    {
+      "start": 519.09,
+      "duration": 2.16,
+      "text": "And that fundamentally changes things.",
+      "en": "And that fundamentally changes things.",
+      "zh": ""
+    },
+    {
+      "start": 521.25,
+      "duration": 1.98,
+      "text": "So physicists needed a new way",
+      "en": "So physicists needed a new way",
+      "zh": ""
+    },
+    {
+      "start": 523.23,
+      "duration": 2.19,
+      "text": "to describe the magnetic potential.",
+      "en": "to describe the magnetic potential.",
+      "zh": ""
+    },
+    {
+      "start": 525.42,
+      "duration": 2.13,
+      "text": "- [Derek] The breakthrough came in the 1840s",
+      "en": "- [Derek] The breakthrough came in the 1840s",
+      "zh": ""
+    },
+    {
+      "start": 527.55,
+      "duration": 2.85,
+      "text": "from an undergraduate student named William Thomson.",
+      "en": "from an undergraduate student named William Thomson.",
+      "zh": ""
+    },
+    {
+      "start": 530.4,
+      "duration": 2.52,
+      "text": "- His day job as an undergraduate was to learn",
+      "en": "- His day job as an undergraduate was to learn",
+      "zh": ""
+    },
+    {
+      "start": 532.92,
+      "duration": 1.47,
+      "text": "as much fancy calculus as possible.",
+      "en": "as much fancy calculus as possible.",
+      "zh": ""
+    },
+    {
+      "start": 534.39,
+      "duration": 2.31,
+      "text": "And then when he learned that he invented more.",
+      "en": "And then when he learned that he invented more.",
+      "zh": ""
+    },
+    {
+      "start": 536.7,
+      "duration": 1.71,
+      "text": "- Thomson found that the mathematics of his day",
+      "en": "- Thomson found that the mathematics of his day",
+      "zh": ""
+    },
+    {
+      "start": 538.41,
+      "duration": 2.04,
+      "text": "was unable to describe the relationship",
+      "en": "was unable to describe the relationship",
+      "zh": ""
+    },
+    {
+      "start": 540.45,
+      "duration": 3.12,
+      "text": "between a magnetic field and its associated potential.",
+      "en": "between a magnetic field and its associated potential.",
+      "zh": ""
+    },
+    {
+      "start": 543.57,
+      "duration": 4.32,
+      "text": "So he came up with an entirely new function, the curl.",
+      "en": "So he came up with an entirely new function, the curl.",
+      "zh": ""
+    },
+    {
+      "start": 547.89,
+      "duration": 1.17,
+      "text": "To see how this works,",
+      "en": "To see how this works,",
+      "zh": ""
+    },
+    {
+      "start": 549.06,
+      "duration": 2.01,
+      "text": "imagine the arrows of this vector field are like",
+      "en": "imagine the arrows of this vector field are like",
+      "zh": ""
+    },
+    {
+      "start": 551.07,
+      "duration": 1.32,
+      "text": "currents in a liquid.",
+      "en": "currents in a liquid.",
+      "zh": ""
+    },
+    {
+      "start": 552.39,
+      "duration": 2.04,
+      "text": "If we were to place a paddle wheel right here,",
+      "en": "If we were to place a paddle wheel right here,",
+      "zh": ""
+    },
+    {
+      "start": 554.43,
+      "duration": 3.03,
+      "text": "it would start to rotate rapidly counterclockwise.",
+      "en": "it would start to rotate rapidly counterclockwise.",
+      "zh": ""
+    },
+    {
+      "start": 557.46,
+      "duration": 3.51,
+      "text": "As Thomson defined it, this spot has high positive curl.",
+      "en": "As Thomson defined it, this spot has high positive curl.",
+      "zh": ""
+    },
+    {
+      "start": 560.97,
+      "duration": 0.87,
+      "text": "At this spot,",
+      "en": "At this spot,",
+      "zh": ""
+    },
+    {
+      "start": 561.84,
+      "duration": 2.64,
+      "text": "it would rotate clockwise but not as rapidly,",
+      "en": "it would rotate clockwise but not as rapidly,",
+      "zh": ""
+    },
+    {
+      "start": 564.48,
+      "duration": 2.28,
+      "text": "so it has lower negative curl.",
+      "en": "so it has lower negative curl.",
+      "zh": ""
+    },
+    {
+      "start": 566.76,
+      "duration": 0.83,
+      "text": "And here,",
+      "en": "And here,",
+      "zh": ""
+    },
+    {
+      "start": 567.59,
+      "duration": 2.62,
+      "text": "the current pushes on it equally in both directions,",
+      "en": "the current pushes on it equally in both directions,",
+      "zh": ""
+    },
+    {
+      "start": 570.21,
+      "duration": 1.83,
+      "text": "so it wouldn't rotate at all.",
+      "en": "so it wouldn't rotate at all.",
+      "zh": ""
+    },
+    {
+      "start": 572.04,
+      "duration": 2.31,
+      "text": "This spot has zero curl.",
+      "en": "This spot has zero curl.",
+      "zh": ""
+    },
+    {
+      "start": 574.35,
+      "duration": 2.64,
+      "text": "But Thomson realized that the magnetic vector field B",
+      "en": "But Thomson realized that the magnetic vector field B",
+      "zh": ""
+    },
+    {
+      "start": 576.99,
+      "duration": 2.76,
+      "text": "could be defined as the curl of some other vector field,",
+      "en": "could be defined as the curl of some other vector field,",
+      "zh": ""
+    },
+    {
+      "start": 579.75,
+      "duration": 3.06,
+      "text": "the magnetic vector potential A.",
+      "en": "the magnetic vector potential A.",
+      "zh": ""
+    },
+    {
+      "start": 582.81,
+      "duration": 1.8,
+      "text": "Now even though they're both vector fields,",
+      "en": "Now even though they're both vector fields,",
+      "zh": ""
+    },
+    {
+      "start": 584.61,
+      "duration": 2.91,
+      "text": "it turns out that A is often much easier to work with",
+      "en": "it turns out that A is often much easier to work with",
+      "zh": ""
+    },
+    {
+      "start": 587.52,
+      "duration": 2.07,
+      "text": "than the magnetic field itself,",
+      "en": "than the magnetic field itself,",
+      "zh": ""
+    },
+    {
+      "start": 589.59,
+      "duration": 3.15,
+      "text": "much like the other potentials V and phi,",
+      "en": "much like the other potentials V and phi,",
+      "zh": ""
+    },
+    {
+      "start": 592.74,
+      "duration": 1.77,
+      "text": "- Thomson was showing there was a kind of",
+      "en": "- Thomson was showing there was a kind of",
+      "zh": ""
+    },
+    {
+      "start": 594.51,
+      "duration": 2.97,
+      "text": "underlying mathematical structure one could use",
+      "en": "underlying mathematical structure one could use",
+      "zh": ""
+    },
+    {
+      "start": 597.48,
+      "duration": 2.43,
+      "text": "that would streamline the calculations.",
+      "en": "that would streamline the calculations.",
+      "zh": ""
+    },
+    {
+      "start": 599.91,
+      "duration": 2.76,
+      "text": "But even Thomson thought this was a kind of device,",
+      "en": "But even Thomson thought this was a kind of device,",
+      "zh": ""
+    },
+    {
+      "start": 602.67,
+      "duration": 1.11,
+      "text": "a helpful device,",
+      "en": "a helpful device,",
+      "zh": ""
+    },
+    {
+      "start": 603.78,
+      "duration": 4.32,
+      "text": "and not a substitute for like the real physics.",
+      "en": "and not a substitute for like the real physics.",
+      "zh": ""
+    },
+    {
+      "start": 608.1,
+      "duration": 0.83,
+      "text": "- [Derek] Decades later,",
+      "en": "- [Derek] Decades later,",
+      "zh": ""
+    },
+    {
+      "start": 608.93,
+      "duration": 1.78,
+      "text": "Thomson was elevated to the House of Lords",
+      "en": "Thomson was elevated to the House of Lords",
+      "zh": ""
+    },
+    {
+      "start": 610.71,
+      "duration": 1.41,
+      "text": "for his contributions to science",
+      "en": "for his contributions to science",
+      "zh": ""
+    },
+    {
+      "start": 612.12,
+      "duration": 3.15,
+      "text": "where he received a new title, Lord Kelvin.",
+      "en": "where he received a new title, Lord Kelvin.",
+      "zh": ""
+    },
+    {
+      "start": 615.27,
+      "duration": 1.71,
+      "text": "With Kelvin's latest edition,",
+      "en": "With Kelvin's latest edition,",
+      "zh": ""
+    },
+    {
+      "start": 616.98,
+      "duration": 1.98,
+      "text": "there were now three fundamental equations",
+      "en": "there were now three fundamental equations",
+      "zh": ""
+    },
+    {
+      "start": 618.96,
+      "duration": 3.15,
+      "text": "relating the potentials to their respective fields.",
+      "en": "relating the potentials to their respective fields.",
+      "zh": ""
+    },
+    {
+      "start": 622.11,
+      "duration": 1.59,
+      "text": "- Thanks to each of these,",
+      "en": "- Thanks to each of these,",
+      "zh": ""
+    },
+    {
+      "start": 623.7,
+      "duration": 2.55,
+      "text": "you could now solve problems much easier.",
+      "en": "you could now solve problems much easier.",
+      "zh": ""
+    },
+    {
+      "start": 627.09,
+      "duration": 1.32,
+      "text": "And so ever since,",
+      "en": "And so ever since,",
+      "zh": ""
+    },
+    {
+      "start": 628.41,
+      "duration": 2.4,
+      "text": "professional physicists often use potentials",
+      "en": "professional physicists often use potentials",
+      "zh": ""
+    },
+    {
+      "start": 630.81,
+      "duration": 2.1,
+      "text": "instead of forces or fields",
+      "en": "instead of forces or fields",
+      "zh": ""
+    },
+    {
+      "start": 632.91,
+      "duration": 2.07,
+      "text": "to solve the problems they're working on.",
+      "en": "to solve the problems they're working on.",
+      "zh": ""
+    },
+    {
+      "start": 634.98,
+      "duration": 1.26,
+      "text": "Potentials even show up",
+      "en": "Potentials even show up",
+      "zh": ""
+    },
+    {
+      "start": 636.24,
+      "duration": 3.69,
+      "text": "in some of our best physical theories of the universe.",
+      "en": "in some of our best physical theories of the universe.",
+      "zh": ""
+    },
+    {
+      "start": 639.93,
+      "duration": 2.1,
+      "text": "But that raises an important question.",
+      "en": "But that raises an important question.",
+      "zh": ""
+    },
+    {
+      "start": 642.03,
+      "duration": 2.4,
+      "text": "If potentials pop up everywhere,",
+      "en": "If potentials pop up everywhere,",
+      "zh": ""
+    },
+    {
+      "start": 644.43,
+      "duration": 2.91,
+      "text": "then do they actually represent anything physical,",
+      "en": "then do they actually represent anything physical,",
+      "zh": ""
+    },
+    {
+      "start": 647.34,
+      "duration": 3.33,
+      "text": "that is, can they have a direct influence on reality?",
+      "en": "that is, can they have a direct influence on reality?",
+      "zh": ""
+    },
+    {
+      "start": 650.67,
+      "duration": 4.2,
+      "text": "Well, to most physicists, the answer was a resounding no.",
+      "en": "Well, to most physicists, the answer was a resounding no.",
+      "zh": ""
+    },
+    {
+      "start": 654.87,
+      "duration": 2.82,
+      "text": "Take the gravitational potential of a single star",
+      "en": "Take the gravitational potential of a single star",
+      "zh": ""
+    },
+    {
+      "start": 657.69,
+      "duration": 0.96,
+      "text": "for example,",
+      "en": "for example,",
+      "zh": ""
+    },
+    {
+      "start": 658.65,
+      "duration": 3.09,
+      "text": "well, we could just add 10 to each value of the potential,",
+      "en": "well, we could just add 10 to each value of the potential,",
+      "zh": ""
+    },
+    {
+      "start": 661.74,
+      "duration": 2.37,
+      "text": "and this would shift the overall landscape.",
+      "en": "and this would shift the overall landscape.",
+      "zh": ""
+    },
+    {
+      "start": 664.11,
+      "duration": 3.0,
+      "text": "But the change in landscape from one point to the next",
+      "en": "But the change in landscape from one point to the next",
+      "zh": ""
+    },
+    {
+      "start": 667.11,
+      "duration": 1.92,
+      "text": "remains the exact same.",
+      "en": "remains the exact same.",
+      "zh": ""
+    },
+    {
+      "start": 669.03,
+      "duration": 3.21,
+      "text": "So the field is the same as the one we had before",
+      "en": "So the field is the same as the one we had before",
+      "zh": ""
+    },
+    {
+      "start": 672.24,
+      "duration": 2.88,
+      "text": "and the force an object would experience at any point",
+      "en": "and the force an object would experience at any point",
+      "zh": ""
+    },
+    {
+      "start": 675.12,
+      "duration": 2.01,
+      "text": "would remain unchanged.",
+      "en": "would remain unchanged.",
+      "zh": ""
+    },
+    {
+      "start": 677.13,
+      "duration": 2.19,
+      "text": "In fact, we can add any constant,",
+      "en": "In fact, we can add any constant,",
+      "zh": ""
+    },
+    {
+      "start": 679.32,
+      "duration": 4.65,
+      "text": "10, a hundred, a million, and the field doesn't change.",
+      "en": "10, a hundred, a million, and the field doesn't change.",
+      "zh": ""
+    },
+    {
+      "start": 683.97,
+      "duration": 3.24,
+      "text": "And so the forces an object would experience going around it",
+      "en": "And so the forces an object would experience going around it",
+      "zh": ""
+    },
+    {
+      "start": 687.21,
+      "duration": 1.68,
+      "text": "also don't change.",
+      "en": "also don't change.",
+      "zh": ""
+    },
+    {
+      "start": 688.89,
+      "duration": 2.07,
+      "text": "There are an infinite number of ways",
+      "en": "There are an infinite number of ways",
+      "zh": ""
+    },
+    {
+      "start": 690.96,
+      "duration": 2.13,
+      "text": "we could write the gravitational potential",
+      "en": "we could write the gravitational potential",
+      "zh": ""
+    },
+    {
+      "start": 693.09,
+      "duration": 1.95,
+      "text": "for any gravitational field",
+      "en": "for any gravitational field",
+      "zh": ""
+    },
+    {
+      "start": 695.04,
+      "duration": 3.45,
+      "text": "and get the system to evolve in the same way.",
+      "en": "and get the system to evolve in the same way.",
+      "zh": ""
+    },
+    {
+      "start": 698.49,
+      "duration": 3.03,
+      "text": "And the same is true for electricity and magnetism.",
+      "en": "And the same is true for electricity and magnetism.",
+      "zh": ""
+    },
+    {
+      "start": 701.52,
+      "duration": 3.54,
+      "text": "The value of the field and thus the force is fixed,",
+      "en": "The value of the field and thus the force is fixed,",
+      "zh": ""
+    },
+    {
+      "start": 705.06,
+      "duration": 2.55,
+      "text": "but the value of the potential is arbitrary.",
+      "en": "but the value of the potential is arbitrary.",
+      "zh": ""
+    },
+    {
+      "start": 707.61,
+      "duration": 2.61,
+      "text": "So from this, most physicists concluded that",
+      "en": "So from this, most physicists concluded that",
+      "zh": ""
+    },
+    {
+      "start": 710.22,
+      "duration": 2.97,
+      "text": "potentials can't possibly have any physical significance.",
+      "en": "potentials can't possibly have any physical significance.",
+      "zh": ""
+    },
+    {
+      "start": 713.19,
+      "duration": 3.36,
+      "text": "It must just be a trick that makes the math easier.",
+      "en": "It must just be a trick that makes the math easier.",
+      "zh": ""
+    },
+    {
+      "start": 716.55,
+      "duration": 2.85,
+      "text": "But most physicists might be wrong.",
+      "en": "But most physicists might be wrong.",
+      "zh": ""
+    },
+    {
+      "start": 719.4,
+      "duration": 3.69,
+      "text": "- [Derek] In 1942, 23-year-old David Bohm was hard at work",
+      "en": "- [Derek] In 1942, 23-year-old David Bohm was hard at work",
+      "zh": ""
+    },
+    {
+      "start": 723.09,
+      "duration": 1.8,
+      "text": "on his thesis in particle physics",
+      "en": "on his thesis in particle physics",
+      "zh": ""
+    },
+    {
+      "start": 724.89,
+      "duration": 3.06,
+      "text": "when one day he received an unexpected visit.",
+      "en": "when one day he received an unexpected visit.",
+      "zh": ""
+    },
+    {
+      "start": 727.95,
+      "duration": 0.83,
+      "text": "- [David] Robert Oppenheimer,",
+      "en": "- [David] Robert Oppenheimer,",
+      "zh": ""
+    },
+    {
+      "start": 728.78,
+      "duration": 2.38,
+      "text": "who was David Bohm's PhD advisor,",
+      "en": "who was David Bohm's PhD advisor,",
+      "zh": ""
+    },
+    {
+      "start": 731.16,
+      "duration": 1.32,
+      "text": "wanted to bring him squarely onto",
+      "en": "wanted to bring him squarely onto",
+      "zh": ""
+    },
+    {
+      "start": 732.48,
+      "duration": 2.25,
+      "text": "the new Manhattan Project efforts.",
+      "en": "the new Manhattan Project efforts.",
+      "zh": ""
+    },
+    {
+      "start": 734.73,
+      "duration": 2.16,
+      "text": "- [Derek] This was a life-changing opportunity.",
+      "en": "- [Derek] This was a life-changing opportunity.",
+      "zh": ""
+    },
+    {
+      "start": 736.89,
+      "duration": 1.65,
+      "text": "Bohm would be working side by side",
+      "en": "Bohm would be working side by side",
+      "zh": ""
+    },
+    {
+      "start": 738.54,
+      "duration": 2.34,
+      "text": "with some of the top minds in physics.",
+      "en": "with some of the top minds in physics.",
+      "zh": ""
+    },
+    {
+      "start": 740.88,
+      "duration": 1.53,
+      "text": "But there was a problem.",
+      "en": "But there was a problem.",
+      "zh": ""
+    },
+    {
+      "start": 742.41,
+      "duration": 2.67,
+      "text": "The project's military director General Leslie Groves",
+      "en": "The project's military director General Leslie Groves",
+      "zh": ""
+    },
+    {
+      "start": 745.08,
+      "duration": 2.19,
+      "text": "had to approve Oppenheimer's recruits.",
+      "en": "had to approve Oppenheimer's recruits.",
+      "zh": ""
+    },
+    {
+      "start": 747.27,
+      "duration": 1.95,
+      "text": "And when he ran a background check on Bohm,",
+      "en": "And when he ran a background check on Bohm,",
+      "zh": ""
+    },
+    {
+      "start": 749.22,
+      "duration": 2.07,
+      "text": "he didn't like what he saw.",
+      "en": "he didn't like what he saw.",
+      "zh": ""
+    },
+    {
+      "start": 751.29,
+      "duration": 1.32,
+      "text": "- He briefly joined",
+      "en": "- He briefly joined",
+      "zh": ""
+    },
+    {
+      "start": 752.61,
+      "duration": 2.04,
+      "text": "the American branch of the Communist Party",
+      "en": "the American branch of the Communist Party",
+      "zh": ""
+    },
+    {
+      "start": 754.65,
+      "duration": 1.08,
+      "text": "when he was in California.",
+      "en": "when he was in California.",
+      "zh": ""
+    },
+    {
+      "start": 755.73,
+      "duration": 1.56,
+      "text": "By his own recollections,",
+      "en": "By his own recollections,",
+      "zh": ""
+    },
+    {
+      "start": 757.29,
+      "duration": 1.59,
+      "text": "he quit pretty quickly 'cause he got bored.",
+      "en": "he quit pretty quickly 'cause he got bored.",
+      "zh": ""
+    },
+    {
+      "start": 758.88,
+      "duration": 1.41,
+      "text": "He said, these people just sit around talking all day",
+      "en": "He said, these people just sit around talking all day",
+      "zh": ""
+    },
+    {
+      "start": 760.29,
+      "duration": 1.11,
+      "text": "and don't do anything.",
+      "en": "and don't do anything.",
+      "zh": ""
+    },
+    {
+      "start": 761.4,
+      "duration": 2.61,
+      "text": "- [Derek] Even so, Groves deemed Bohm a security risk",
+      "en": "- [Derek] Even so, Groves deemed Bohm a security risk",
+      "zh": ""
+    },
+    {
+      "start": 764.01,
+      "duration": 2.64,
+      "text": "and banned him from working on the Manhattan Project.",
+      "en": "and banned him from working on the Manhattan Project.",
+      "zh": ""
+    },
+    {
+      "start": 766.65,
+      "duration": 2.16,
+      "text": "But things got even worse.",
+      "en": "But things got even worse.",
+      "zh": ""
+    },
+    {
+      "start": 768.81,
+      "duration": 1.26,
+      "text": "- Just as he was about to finish",
+      "en": "- Just as he was about to finish",
+      "zh": ""
+    },
+    {
+      "start": 770.07,
+      "duration": 1.56,
+      "text": "his dissertation in Berkeley,",
+      "en": "his dissertation in Berkeley,",
+      "zh": ""
+    },
+    {
+      "start": 771.63,
+      "duration": 2.07,
+      "text": "the topic was then classified.",
+      "en": "the topic was then classified.",
+      "zh": ""
+    },
+    {
+      "start": 773.7,
+      "duration": 1.74,
+      "text": "He did not have clearance,",
+      "en": "He did not have clearance,",
+      "zh": ""
+    },
+    {
+      "start": 775.44,
+      "duration": 1.83,
+      "text": "so he couldn't even work on or even write up",
+      "en": "so he couldn't even work on or even write up",
+      "zh": ""
+    },
+    {
+      "start": 777.27,
+      "duration": 1.47,
+      "text": "his own dissertation.",
+      "en": "his own dissertation.",
+      "zh": ""
+    },
+    {
+      "start": 778.74,
+      "duration": 3.36,
+      "text": "So Oppenheimer had to certify that Bohm had done good work.",
+      "en": "So Oppenheimer had to certify that Bohm had done good work.",
+      "zh": ""
+    },
+    {
+      "start": 782.1,
+      "duration": 2.04,
+      "text": "And in 1943 in wartime,",
+      "en": "And in 1943 in wartime,",
+      "zh": ""
+    },
+    {
+      "start": 784.14,
+      "duration": 3.27,
+      "text": "that was sufficient for Bohm to actually get a PhD.",
+      "en": "that was sufficient for Bohm to actually get a PhD.",
+      "zh": ""
+    },
+    {
+      "start": 787.41,
+      "duration": 0.83,
+      "text": "- [Derek] After the war,",
+      "en": "- [Derek] After the war,",
+      "zh": ""
+    },
+    {
+      "start": 788.24,
+      "duration": 3.16,
+      "text": "Bohm became an assistant professor at Princeton University.",
+      "en": "Bohm became an assistant professor at Princeton University.",
+      "zh": ""
+    },
+    {
+      "start": 791.4,
+      "duration": 2.01,
+      "text": "But fear surrounding his communist sympathies",
+      "en": "But fear surrounding his communist sympathies",
+      "zh": ""
+    },
+    {
+      "start": 793.41,
+      "duration": 2.31,
+      "text": "followed him wherever he went.",
+      "en": "followed him wherever he went.",
+      "zh": ""
+    },
+    {
+      "start": 795.72,
+      "duration": 1.74,
+      "text": "In 1949, he was brought before",
+      "en": "In 1949, he was brought before",
+      "zh": ""
+    },
+    {
+      "start": 797.46,
+      "duration": 3.3,
+      "text": "the House Un-American Activities Committee for questioning.",
+      "en": "the House Un-American Activities Committee for questioning.",
+      "zh": ""
+    },
+    {
+      "start": 800.76,
+      "duration": 1.83,
+      "text": "While Bohm was under investigation,",
+      "en": "While Bohm was under investigation,",
+      "zh": ""
+    },
+    {
+      "start": 802.59,
+      "duration": 2.28,
+      "text": "Princeton let his professorship lapse.",
+      "en": "Princeton let his professorship lapse.",
+      "zh": ""
+    },
+    {
+      "start": 804.87,
+      "duration": 1.47,
+      "text": "And even after he was acquitted,",
+      "en": "And even after he was acquitted,",
+      "zh": ""
+    },
+    {
+      "start": 806.34,
+      "duration": 2.37,
+      "text": "the university refused to reinstate him.",
+      "en": "the university refused to reinstate him.",
+      "zh": ""
+    },
+    {
+      "start": 808.71,
+      "duration": 4.23,
+      "text": "It seemed that Bohm was destined for obscurity.",
+      "en": "It seemed that Bohm was destined for obscurity.",
+      "zh": ""
+    },
+    {
+      "start": 812.94,
+      "duration": 3.0,
+      "text": "And so Oppenheimer gave him a firm recommendation,",
+      "en": "And so Oppenheimer gave him a firm recommendation,",
+      "zh": ""
+    },
+    {
+      "start": 815.94,
+      "duration": 2.64,
+      "text": "leave the country and start fresh somewhere else.",
+      "en": "leave the country and start fresh somewhere else.",
+      "zh": ""
+    },
+    {
+      "start": 818.58,
+      "duration": 2.64,
+      "text": "Oppenheimer was no stranger to political persecution,",
+      "en": "Oppenheimer was no stranger to political persecution,",
+      "zh": ""
+    },
+    {
+      "start": 821.22,
+      "duration": 2.88,
+      "text": "and he didn't want Bohm to suffer the same fate.",
+      "en": "and he didn't want Bohm to suffer the same fate.",
+      "zh": ""
+    },
+    {
+      "start": 824.1,
+      "duration": 2.07,
+      "text": "So Bohm took the advice.",
+      "en": "So Bohm took the advice.",
+      "zh": ""
+    },
+    {
+      "start": 826.17,
+      "duration": 3.51,
+      "text": "His journeys brought him to Brazil and then Israel.",
+      "en": "His journeys brought him to Brazil and then Israel.",
+      "zh": ""
+    },
+    {
+      "start": 829.68,
+      "duration": 0.83,
+      "text": "And though he was free",
+      "en": "And though he was free",
+      "zh": ""
+    },
+    {
+      "start": 830.51,
+      "duration": 2.14,
+      "text": "from the political pressures he had felt in America,",
+      "en": "from the political pressures he had felt in America,",
+      "zh": ""
+    },
+    {
+      "start": 832.65,
+      "duration": 2.31,
+      "text": "he still found himself an outcast.",
+      "en": "he still found himself an outcast.",
+      "zh": ""
+    },
+    {
+      "start": 834.96,
+      "duration": 1.59,
+      "text": "Many of Bohm's academic peers",
+      "en": "Many of Bohm's academic peers",
+      "zh": ""
+    },
+    {
+      "start": 836.55,
+      "duration": 2.67,
+      "text": "were put off by his more unorthodox ideas,",
+      "en": "were put off by his more unorthodox ideas,",
+      "zh": ""
+    },
+    {
+      "start": 839.22,
+      "duration": 2.64,
+      "text": "including his radical interpretation of quantum mechanics",
+      "en": "including his radical interpretation of quantum mechanics",
+      "zh": ""
+    },
+    {
+      "start": 841.86,
+      "duration": 2.25,
+      "text": "and his new theory of human consciousness.",
+      "en": "and his new theory of human consciousness.",
+      "zh": ""
+    },
+    {
+      "start": 845.1,
+      "duration": 1.08,
+      "text": "But there was one student",
+      "en": "But there was one student",
+      "zh": ""
+    },
+    {
+      "start": 846.18,
+      "duration": 2.4,
+      "text": "who was enthralled by Bohm's approach,",
+      "en": "who was enthralled by Bohm's approach,",
+      "zh": ""
+    },
+    {
+      "start": 848.58,
+      "duration": 2.43,
+      "text": "and that was Yakir Aharonov.",
+      "en": "and that was Yakir Aharonov.",
+      "zh": ""
+    },
+    {
+      "start": 851.01,
+      "duration": 2.08,
+      "text": "- He was, first of all,",
+      "en": "- He was, first of all,",
+      "zh": ""
+    },
+    {
+      "start": 853.09,
+      "duration": 1.52,
+      "text": "extremely, extremely bright,",
+      "en": "extremely, extremely bright,",
+      "zh": ""
+    },
+    {
+      "start": 854.61,
+      "duration": 4.44,
+      "text": "and also had a very nice personality.",
+      "en": "and also had a very nice personality.",
+      "zh": ""
+    },
+    {
+      "start": 859.05,
+      "duration": 4.41,
+      "text": "So it was beautiful to interact with him.",
+      "en": "So it was beautiful to interact with him.",
+      "zh": ""
+    },
+    {
+      "start": 863.46,
+      "duration": 2.13,
+      "text": "- When Bohm relocated once more,",
+      "en": "- When Bohm relocated once more,",
+      "zh": ""
+    },
+    {
+      "start": 865.59,
+      "duration": 2.85,
+      "text": "this time moving to the University of Bristol in England,",
+      "en": "this time moving to the University of Bristol in England,",
+      "zh": ""
+    },
+    {
+      "start": 868.44,
+      "duration": 2.07,
+      "text": "Aharonov chose to come with him.",
+      "en": "Aharonov chose to come with him.",
+      "zh": ""
+    },
+    {
+      "start": 870.51,
+      "duration": 2.0,
+      "text": "And it was there in Bristol in the 1950s",
+      "en": "And it was there in Bristol in the 1950s",
+      "zh": ""
+    },
+    {
+      "start": 872.51,
+      "duration": 4.54,
+      "text": "that Aharonov and Bohm stumbled upon something huge.",
+      "en": "that Aharonov and Bohm stumbled upon something huge.",
+      "zh": ""
+    },
+    {
+      "start": 877.05,
+      "duration": 3.54,
+      "text": "- For a long time, I was thinking more and more",
+      "en": "- For a long time, I was thinking more and more",
+      "zh": ""
+    },
+    {
+      "start": 880.59,
+      "duration": 3.57,
+      "text": "deeply about the interpretation of quantum mechanics.",
+      "en": "deeply about the interpretation of quantum mechanics.",
+      "zh": ""
+    },
+    {
+      "start": 884.16,
+      "duration": 4.29,
+      "text": "It wasn't to solve any problem, it was just curiosity.",
+      "en": "It wasn't to solve any problem, it was just curiosity.",
+      "zh": ""
+    },
+    {
+      "start": 888.45,
+      "duration": 1.59,
+      "text": "- According to quantum mechanics,",
+      "en": "- According to quantum mechanics,",
+      "zh": ""
+    },
+    {
+      "start": 890.04,
+      "duration": 3.36,
+      "text": "at the smallest scale, particles behave like waves.",
+      "en": "at the smallest scale, particles behave like waves.",
+      "zh": ""
+    },
+    {
+      "start": 893.4,
+      "duration": 3.63,
+      "text": "And this behavior is governed by the Schrodinger equation.",
+      "en": "And this behavior is governed by the Schrodinger equation.",
+      "zh": ""
+    },
+    {
+      "start": 897.03,
+      "duration": 2.25,
+      "text": "The solution to this equation is called",
+      "en": "The solution to this equation is called",
+      "zh": ""
+    },
+    {
+      "start": 899.28,
+      "duration": 1.74,
+      "text": "the wave function psi.",
+      "en": "the wave function psi.",
+      "zh": ""
+    },
+    {
+      "start": 901.02,
+      "duration": 1.92,
+      "text": "If you take its modulus squared,",
+      "en": "If you take its modulus squared,",
+      "zh": ""
+    },
+    {
+      "start": 902.94,
+      "duration": 3.21,
+      "text": "you get the probability density of finding a particle",
+      "en": "you get the probability density of finding a particle",
+      "zh": ""
+    },
+    {
+      "start": 906.15,
+      "duration": 2.67,
+      "text": "at a given point, at a given time.",
+      "en": "at a given point, at a given time.",
+      "zh": ""
+    },
+    {
+      "start": 908.82,
+      "duration": 1.8,
+      "text": "The left side of this equation",
+      "en": "The left side of this equation",
+      "zh": ""
+    },
+    {
+      "start": 910.62,
+      "duration": 3.87,
+      "text": "tells you how the wave function changes over time and space.",
+      "en": "tells you how the wave function changes over time and space.",
+      "zh": ""
+    },
+    {
+      "start": 914.49,
+      "duration": 1.5,
+      "text": "And the right side tells you",
+      "en": "And the right side tells you",
+      "zh": ""
+    },
+    {
+      "start": 915.99,
+      "duration": 2.25,
+      "text": "that this change depends on H,",
+      "en": "that this change depends on H,",
+      "zh": ""
+    },
+    {
+      "start": 918.24,
+      "duration": 1.5,
+      "text": "what is known as the Hamiltonian.",
+      "en": "what is known as the Hamiltonian.",
+      "zh": ""
+    },
+    {
+      "start": 919.74,
+      "duration": 3.03,
+      "text": "It's basically just the total energy of the system.",
+      "en": "It's basically just the total energy of the system.",
+      "zh": ""
+    },
+    {
+      "start": 922.77,
+      "duration": 1.29,
+      "text": "In the case where we have both",
+      "en": "In the case where we have both",
+      "zh": ""
+    },
+    {
+      "start": 924.06,
+      "duration": 1.89,
+      "text": "an electric and magnetic potential,",
+      "en": "an electric and magnetic potential,",
+      "zh": ""
+    },
+    {
+      "start": 925.95,
+      "duration": 1.65,
+      "text": "the solution to the Schrodinger equation",
+      "en": "the solution to the Schrodinger equation",
+      "zh": ""
+    },
+    {
+      "start": 927.6,
+      "duration": 1.56,
+      "text": "looks something like this.",
+      "en": "looks something like this.",
+      "zh": ""
+    },
+    {
+      "start": 929.16,
+      "duration": 2.07,
+      "text": "Where this is just a constant.",
+      "en": "Where this is just a constant.",
+      "zh": ""
+    },
+    {
+      "start": 931.23,
+      "duration": 2.82,
+      "text": "And this term describes the complex phase.",
+      "en": "And this term describes the complex phase.",
+      "zh": ""
+    },
+    {
+      "start": 934.05,
+      "duration": 1.17,
+      "text": "It looks complicated,",
+      "en": "It looks complicated,",
+      "zh": ""
+    },
+    {
+      "start": 935.22,
+      "duration": 2.46,
+      "text": "but it's actually quite easy to get a feel for it.",
+      "en": "but it's actually quite easy to get a feel for it.",
+      "zh": ""
+    },
+    {
+      "start": 937.68,
+      "duration": 2.1,
+      "text": "So let's plot it in two dimensions",
+      "en": "So let's plot it in two dimensions",
+      "zh": ""
+    },
+    {
+      "start": 939.78,
+      "duration": 2.52,
+      "text": "for an electron moving to the right.",
+      "en": "for an electron moving to the right.",
+      "zh": ""
+    },
+    {
+      "start": 942.3,
+      "duration": 3.15,
+      "text": "The different colors here represent the different phases.",
+      "en": "The different colors here represent the different phases.",
+      "zh": ""
+    },
+    {
+      "start": 945.45,
+      "duration": 3.99,
+      "text": "And you can see how the phase evolves over time and space.",
+      "en": "And you can see how the phase evolves over time and space.",
+      "zh": ""
+    },
+    {
+      "start": 949.44,
+      "duration": 3.48,
+      "text": "Thank you to Richard Behiel for inspiring this approach.",
+      "en": "Thank you to Richard Behiel for inspiring this approach.",
+      "zh": ""
+    },
+    {
+      "start": 952.92,
+      "duration": 2.76,
+      "text": "Now, if you look closely at the original phase term,",
+      "en": "Now, if you look closely at the original phase term,",
+      "zh": ""
+    },
+    {
+      "start": 955.68,
+      "duration": 1.98,
+      "text": "you see A and phi,",
+      "en": "you see A and phi,",
+      "zh": ""
+    },
+    {
+      "start": 957.66,
+      "duration": 2.46,
+      "text": "the magnetic and electric potentials.",
+      "en": "the magnetic and electric potentials.",
+      "zh": ""
+    },
+    {
+      "start": 960.12,
+      "duration": 3.15,
+      "text": "So watch what happens if we add a magnetic vector potential",
+      "en": "So watch what happens if we add a magnetic vector potential",
+      "zh": ""
+    },
+    {
+      "start": 963.27,
+      "duration": 1.71,
+      "text": "that points in the same direction",
+      "en": "that points in the same direction",
+      "zh": ""
+    },
+    {
+      "start": 964.98,
+      "duration": 1.92,
+      "text": "as the electron is traveling.",
+      "en": "as the electron is traveling.",
+      "zh": ""
+    },
+    {
+      "start": 966.9,
+      "duration": 2.13,
+      "text": "You can see that the wave stretches out.",
+      "en": "You can see that the wave stretches out.",
+      "zh": ""
+    },
+    {
+      "start": 969.03,
+      "duration": 3.06,
+      "text": "So now the phase changes more slowly over space",
+      "en": "So now the phase changes more slowly over space",
+      "zh": ""
+    },
+    {
+      "start": 972.09,
+      "duration": 1.38,
+      "text": "than it did before.",
+      "en": "than it did before.",
+      "zh": ""
+    },
+    {
+      "start": 973.47,
+      "duration": 2.01,
+      "text": "And if the potential points the other way,",
+      "en": "And if the potential points the other way,",
+      "zh": ""
+    },
+    {
+      "start": 975.48,
+      "duration": 2.13,
+      "text": "then now the wave gets more compressed",
+      "en": "then now the wave gets more compressed",
+      "zh": ""
+    },
+    {
+      "start": 977.61,
+      "duration": 3.09,
+      "text": "and its phase changes faster over space.",
+      "en": "and its phase changes faster over space.",
+      "zh": ""
+    },
+    {
+      "start": 980.7,
+      "duration": 1.47,
+      "text": "And a similar thing would happen",
+      "en": "And a similar thing would happen",
+      "zh": ""
+    },
+    {
+      "start": 982.17,
+      "duration": 2.85,
+      "text": "if you change the electric potential phi.",
+      "en": "if you change the electric potential phi.",
+      "zh": ""
+    },
+    {
+      "start": 985.02,
+      "duration": 1.02,
+      "text": "Now, this by itself,",
+      "en": "Now, this by itself,",
+      "zh": ""
+    },
+    {
+      "start": 986.04,
+      "duration": 2.16,
+      "text": "I think wasn't shocking to most physicists.",
+      "en": "I think wasn't shocking to most physicists.",
+      "zh": ""
+    },
+    {
+      "start": 988.2,
+      "duration": 2.25,
+      "text": "Just as you would always use the potentials",
+      "en": "Just as you would always use the potentials",
+      "zh": ""
+    },
+    {
+      "start": 990.45,
+      "duration": 1.05,
+      "text": "to make the math easier,",
+      "en": "to make the math easier,",
+      "zh": ""
+    },
+    {
+      "start": 991.5,
+      "duration": 2.46,
+      "text": "that's also why you use it in the Schrodinger equation.",
+      "en": "that's also why you use it in the Schrodinger equation.",
+      "zh": ""
+    },
+    {
+      "start": 993.96,
+      "duration": 2.28,
+      "text": "But really what's responsible for these,",
+      "en": "But really what's responsible for these,",
+      "zh": ""
+    },
+    {
+      "start": 996.24,
+      "duration": 2.97,
+      "text": "you know, even phase changes were still the fields.",
+      "en": "you know, even phase changes were still the fields.",
+      "zh": ""
+    },
+    {
+      "start": 999.21,
+      "duration": 2.46,
+      "text": "But you spoke to Aharonov. - Yeah.",
+      "en": "But you spoke to Aharonov. - Yeah.",
+      "zh": ""
+    },
+    {
+      "start": 1001.67,
+      "duration": 1.62,
+      "text": "- And that wasn't his take.",
+      "en": "- And that wasn't his take.",
+      "zh": ""
+    },
+    {
+      "start": 1003.29,
+      "duration": 0.87,
+      "text": "- No.",
+      "en": "- No.",
+      "zh": ""
+    },
+    {
+      "start": 1004.16,
+      "duration": 2.4,
+      "text": "If you look at the Schrodinger equation,",
+      "en": "If you look at the Schrodinger equation,",
+      "zh": ""
+    },
+    {
+      "start": 1006.56,
+      "duration": 2.19,
+      "text": "you can't just replace the potential phi",
+      "en": "you can't just replace the potential phi",
+      "zh": ""
+    },
+    {
+      "start": 1008.75,
+      "duration": 1.56,
+      "text": "with the electric field E.",
+      "en": "with the electric field E.",
+      "zh": ""
+    },
+    {
+      "start": 1010.31,
+      "duration": 1.05,
+      "text": "- Why not?",
+      "en": "- Why not?",
+      "zh": ""
+    },
+    {
+      "start": 1011.36,
+      "duration": 1.35,
+      "text": "- 'Cause you're losing information.",
+      "en": "- 'Cause you're losing information.",
+      "zh": ""
+    },
+    {
+      "start": 1012.71,
+      "duration": 1.44,
+      "text": "- Okay. - Because remember,",
+      "en": "- Okay. - Because remember,",
+      "zh": ""
+    },
+    {
+      "start": 1014.15,
+      "duration": 3.63,
+      "text": "you can define any number of potentials",
+      "en": "you can define any number of potentials",
+      "zh": ""
+    },
+    {
+      "start": 1017.78,
+      "duration": 1.95,
+      "text": "for a specific electric field",
+      "en": "for a specific electric field",
+      "zh": ""
+    },
+    {
+      "start": 1019.73,
+      "duration": 2.16,
+      "text": "because you can pick an arbitrary height,",
+      "en": "because you can pick an arbitrary height,",
+      "zh": ""
+    },
+    {
+      "start": 1021.89,
+      "duration": 1.65,
+      "text": "but that information is lost",
+      "en": "but that information is lost",
+      "zh": ""
+    },
+    {
+      "start": 1023.54,
+      "duration": 3.03,
+      "text": "when you go and swap it out for the electric field.",
+      "en": "when you go and swap it out for the electric field.",
+      "zh": ""
+    },
+    {
+      "start": 1026.57,
+      "duration": 0.83,
+      "text": "There's another way",
+      "en": "There's another way",
+      "zh": ""
+    },
+    {
+      "start": 1027.4,
+      "duration": 0.84,
+      "text": "to think about it. - Okay, okay.",
+      "en": "to think about it. - Okay, okay.",
+      "zh": ""
+    },
+    {
+      "start": 1028.24,
+      "duration": 0.83,
+      "text": "It's getting real.",
+      "en": "It's getting real.",
+      "zh": ""
+    },
+    {
+      "start": 1029.07,
+      "duration": 3.11,
+      "text": "- So if you have an expression like 5x squared plus 5,",
+      "en": "- So if you have an expression like 5x squared plus 5,",
+      "zh": ""
+    },
+    {
+      "start": 1032.18,
+      "duration": 1.59,
+      "text": "you think you could just write this as",
+      "en": "you think you could just write this as",
+      "zh": ""
+    },
+    {
+      "start": 1033.77,
+      "duration": 2.94,
+      "text": "the integral of 10x dx, right?",
+      "en": "the integral of 10x dx, right?",
+      "zh": ""
+    },
+    {
+      "start": 1036.71,
+      "duration": 3.84,
+      "text": "Because the integral is 5x squared plus.",
+      "en": "Because the integral is 5x squared plus.",
+      "zh": ""
+    },
+    {
+      "start": 1040.55,
+      "duration": 1.5,
+      "text": "- C.",
+      "en": "- C.",
+      "zh": ""
+    },
+    {
+      "start": 1042.05,
+      "duration": 1.35,
+      "text": "- Right. - C is a constant.",
+      "en": "- Right. - C is a constant.",
+      "zh": ""
+    },
+    {
+      "start": 1043.4,
+      "duration": 2.94,
+      "text": "So it includes 5, but it also includes any other number.",
+      "en": "So it includes 5, but it also includes any other number.",
+      "zh": ""
+    },
+    {
+      "start": 1046.34,
+      "duration": 4.23,
+      "text": "But importantly, C is not 5,",
+      "en": "But importantly, C is not 5,",
+      "zh": ""
+    },
+    {
+      "start": 1050.57,
+      "duration": 1.44,
+      "text": "or at least not in every case.",
+      "en": "or at least not in every case.",
+      "zh": ""
+    },
+    {
+      "start": 1052.01,
+      "duration": 1.71,
+      "text": "So you lose this specificity",
+      "en": "So you lose this specificity",
+      "zh": ""
+    },
+    {
+      "start": 1053.72,
+      "duration": 2.58,
+      "text": "when you grow from a potential to an electric field.",
+      "en": "when you grow from a potential to an electric field.",
+      "zh": ""
+    },
+    {
+      "start": 1056.3,
+      "duration": 2.67,
+      "text": "And Aharonov wasn't comfortable with that.",
+      "en": "And Aharonov wasn't comfortable with that.",
+      "zh": ""
+    },
+    {
+      "start": 1058.97,
+      "duration": 3.33,
+      "text": "So he thought, what if every quantum system",
+      "en": "So he thought, what if every quantum system",
+      "zh": ""
+    },
+    {
+      "start": 1062.3,
+      "duration": 1.83,
+      "text": "was actually influenced by the potential",
+      "en": "was actually influenced by the potential",
+      "zh": ""
+    },
+    {
+      "start": 1064.13,
+      "duration": 1.74,
+      "text": "and not by the field. - Right.",
+      "en": "and not by the field. - Right.",
+      "zh": ""
+    },
+    {
+      "start": 1065.87,
+      "duration": 1.59,
+      "text": "- So it's the potential that shows up",
+      "en": "- So it's the potential that shows up",
+      "zh": ""
+    },
+    {
+      "start": 1067.46,
+      "duration": 1.05,
+      "text": "in the Schrodinger equation.",
+      "en": "in the Schrodinger equation.",
+      "zh": ""
+    },
+    {
+      "start": 1068.51,
+      "duration": 2.34,
+      "text": "So it is what influences wave functions.",
+      "en": "So it is what influences wave functions.",
+      "zh": ""
+    },
+    {
+      "start": 1070.85,
+      "duration": 3.51,
+      "text": "He had to find a way to prove that what we're observing is",
+      "en": "He had to find a way to prove that what we're observing is",
+      "zh": ""
+    },
+    {
+      "start": 1074.36,
+      "duration": 3.42,
+      "text": "always because of a potential and not because of the field.",
+      "en": "always because of a potential and not because of the field.",
+      "zh": ""
+    },
+    {
+      "start": 1077.78,
+      "duration": 1.44,
+      "text": "- How do you do that?",
+      "en": "- How do you do that?",
+      "zh": ""
+    },
+    {
+      "start": 1079.22,
+      "duration": 1.47,
+      "text": "- Complicated.",
+      "en": "- Complicated.",
+      "zh": ""
+    },
+    {
+      "start": 1080.69,
+      "duration": 2.37,
+      "text": "See, Aharonov had to design an experiment",
+      "en": "See, Aharonov had to design an experiment",
+      "zh": ""
+    },
+    {
+      "start": 1083.06,
+      "duration": 2.19,
+      "text": "that would send a particle through a region",
+      "en": "that would send a particle through a region",
+      "zh": ""
+    },
+    {
+      "start": 1085.25,
+      "duration": 3.03,
+      "text": "where there's no electric or magnetic field,",
+      "en": "where there's no electric or magnetic field,",
+      "zh": ""
+    },
+    {
+      "start": 1088.28,
+      "duration": 1.92,
+      "text": "but there is a potential.",
+      "en": "but there is a potential.",
+      "zh": ""
+    },
+    {
+      "start": 1090.2,
+      "duration": 1.2,
+      "text": "In such a setup,",
+      "en": "In such a setup,",
+      "zh": ""
+    },
+    {
+      "start": 1091.4,
+      "duration": 2.01,
+      "text": "if the phase of the particle's wave function",
+      "en": "if the phase of the particle's wave function",
+      "zh": ""
+    },
+    {
+      "start": 1093.41,
+      "duration": 2.88,
+      "text": "started changing slower or faster,",
+      "en": "started changing slower or faster,",
+      "zh": ""
+    },
+    {
+      "start": 1096.29,
+      "duration": 3.57,
+      "text": "that had to be the direct result of the potential itself",
+      "en": "that had to be the direct result of the potential itself",
+      "zh": ""
+    },
+    {
+      "start": 1099.86,
+      "duration": 1.59,
+      "text": "because there are no fields.",
+      "en": "because there are no fields.",
+      "zh": ""
+    },
+    {
+      "start": 1102.68,
+      "duration": 2.16,
+      "text": "- But that's where you run into a problem",
+      "en": "- But that's where you run into a problem",
+      "zh": ""
+    },
+    {
+      "start": 1104.84,
+      "duration": 2.37,
+      "text": "because there's no way to directly measure",
+      "en": "because there's no way to directly measure",
+      "zh": ""
+    },
+    {
+      "start": 1107.21,
+      "duration": 2.13,
+      "text": "the phase of a particle's wave function.",
+      "en": "the phase of a particle's wave function.",
+      "zh": ""
+    },
+    {
+      "start": 1109.34,
+      "duration": 1.98,
+      "text": "So how do you devise an experiment",
+      "en": "So how do you devise an experiment",
+      "zh": ""
+    },
+    {
+      "start": 1111.32,
+      "duration": 2.61,
+      "text": "that can yield a measurable result?",
+      "en": "that can yield a measurable result?",
+      "zh": ""
+    },
+    {
+      "start": 1113.93,
+      "duration": 2.98,
+      "text": "Well, Aharonov enlisted the help of his mentor Bohm,",
+      "en": "Well, Aharonov enlisted the help of his mentor Bohm,",
+      "zh": ""
+    },
+    {
+      "start": 1116.91,
+      "duration": 1.34,
+      "text": "and together they came up",
+      "en": "and together they came up",
+      "zh": ""
+    },
+    {
+      "start": 1118.25,
+      "duration": 2.85,
+      "text": "with the following theoretical experiment.",
+      "en": "with the following theoretical experiment.",
+      "zh": ""
+    },
+    {
+      "start": 1121.1,
+      "duration": 3.36,
+      "text": "It starts with a beam of electrons, which is split into two.",
+      "en": "It starts with a beam of electrons, which is split into two.",
+      "zh": ""
+    },
+    {
+      "start": 1124.46,
+      "duration": 1.38,
+      "text": "In the middle of these two beams",
+      "en": "In the middle of these two beams",
+      "zh": ""
+    },
+    {
+      "start": 1125.84,
+      "duration": 3.0,
+      "text": "is a tightly coiled wire known as a solenoid.",
+      "en": "is a tightly coiled wire known as a solenoid.",
+      "zh": ""
+    },
+    {
+      "start": 1128.84,
+      "duration": 2.16,
+      "text": "Now, solenoids have an interesting property.",
+      "en": "Now, solenoids have an interesting property.",
+      "zh": ""
+    },
+    {
+      "start": 1131.0,
+      "duration": 1.59,
+      "text": "When you run a current through one,",
+      "en": "When you run a current through one,",
+      "zh": ""
+    },
+    {
+      "start": 1132.59,
+      "duration": 2.7,
+      "text": "it produces a strong magnetic field inside the coil",
+      "en": "it produces a strong magnetic field inside the coil",
+      "zh": ""
+    },
+    {
+      "start": 1135.29,
+      "duration": 2.46,
+      "text": "and a very weak field outside the coil.",
+      "en": "and a very weak field outside the coil.",
+      "zh": ""
+    },
+    {
+      "start": 1137.75,
+      "duration": 0.99,
+      "text": "The longer the solenoid,",
+      "en": "The longer the solenoid,",
+      "zh": ""
+    },
+    {
+      "start": 1138.74,
+      "duration": 2.22,
+      "text": "the weaker the field in the surrounding space.",
+      "en": "the weaker the field in the surrounding space.",
+      "zh": ""
+    },
+    {
+      "start": 1140.96,
+      "duration": 1.02,
+      "text": "For simplicity,",
+      "en": "For simplicity,",
+      "zh": ""
+    },
+    {
+      "start": 1141.98,
+      "duration": 1.59,
+      "text": "Aharonov and Bohm imagined a setup",
+      "en": "Aharonov and Bohm imagined a setup",
+      "zh": ""
+    },
+    {
+      "start": 1143.57,
+      "duration": 2.85,
+      "text": "with an ideal, infinitely long solenoid,",
+      "en": "with an ideal, infinitely long solenoid,",
+      "zh": ""
+    },
+    {
+      "start": 1146.42,
+      "duration": 1.83,
+      "text": "one where the magnetic field outside the coil",
+      "en": "one where the magnetic field outside the coil",
+      "zh": ""
+    },
+    {
+      "start": 1148.25,
+      "duration": 1.83,
+      "text": "is exactly zero.",
+      "en": "is exactly zero.",
+      "zh": ""
+    },
+    {
+      "start": 1150.08,
+      "duration": 2.1,
+      "text": "After traveling on opposite sides of the solenoid,",
+      "en": "After traveling on opposite sides of the solenoid,",
+      "zh": ""
+    },
+    {
+      "start": 1152.18,
+      "duration": 2.7,
+      "text": "the electron beams are redirected back towards each other",
+      "en": "the electron beams are redirected back towards each other",
+      "zh": ""
+    },
+    {
+      "start": 1154.88,
+      "duration": 1.26,
+      "text": "by the researchers.",
+      "en": "by the researchers.",
+      "zh": ""
+    },
+    {
+      "start": 1156.14,
+      "duration": 3.21,
+      "text": "And here at this point, they intersect.",
+      "en": "And here at this point, they intersect.",
+      "zh": ""
+    },
+    {
+      "start": 1159.35,
+      "duration": 2.1,
+      "text": "Now since electrons behave as waves,",
+      "en": "Now since electrons behave as waves,",
+      "zh": ""
+    },
+    {
+      "start": 1161.45,
+      "duration": 2.31,
+      "text": "the waves from the intersecting beams overlap",
+      "en": "the waves from the intersecting beams overlap",
+      "zh": ""
+    },
+    {
+      "start": 1163.76,
+      "duration": 1.98,
+      "text": "and produce an interference pattern,",
+      "en": "and produce an interference pattern,",
+      "zh": ""
+    },
+    {
+      "start": 1165.74,
+      "duration": 2.31,
+      "text": "bright fringes with gaps in between them.",
+      "en": "bright fringes with gaps in between them.",
+      "zh": ""
+    },
+    {
+      "start": 1168.05,
+      "duration": 1.65,
+      "text": "The exact pattern depends on",
+      "en": "The exact pattern depends on",
+      "zh": ""
+    },
+    {
+      "start": 1169.7,
+      "duration": 1.98,
+      "text": "the phase of each of these waves.",
+      "en": "the phase of each of these waves.",
+      "zh": ""
+    },
+    {
+      "start": 1171.68,
+      "duration": 1.38,
+      "text": "When the solenoid is off,",
+      "en": "When the solenoid is off,",
+      "zh": ""
+    },
+    {
+      "start": 1173.06,
+      "duration": 1.16,
+      "text": "there is no magnetic field",
+      "en": "there is no magnetic field",
+      "zh": ""
+    },
+    {
+      "start": 1174.22,
+      "duration": 2.26,
+      "text": "in the region the electrons are traveling through,",
+      "en": "in the region the electrons are traveling through,",
+      "zh": ""
+    },
+    {
+      "start": 1176.48,
+      "duration": 2.16,
+      "text": "and there is no magnetic potential.",
+      "en": "and there is no magnetic potential.",
+      "zh": ""
+    },
+    {
+      "start": 1178.64,
+      "duration": 1.92,
+      "text": "The phase of the electrons changes",
+      "en": "The phase of the electrons changes",
+      "zh": ""
+    },
+    {
+      "start": 1180.56,
+      "duration": 1.74,
+      "text": "in the same way across both beams,",
+      "en": "in the same way across both beams,",
+      "zh": ""
+    },
+    {
+      "start": 1182.3,
+      "duration": 3.36,
+      "text": "regardless of whether they pass above or below the solenoid.",
+      "en": "regardless of whether they pass above or below the solenoid.",
+      "zh": ""
+    },
+    {
+      "start": 1185.66,
+      "duration": 3.69,
+      "text": "And so you get an interference pattern that looks like this.",
+      "en": "And so you get an interference pattern that looks like this.",
+      "zh": ""
+    },
+    {
+      "start": 1189.35,
+      "duration": 1.95,
+      "text": "But when the solenoid is turned on,",
+      "en": "But when the solenoid is turned on,",
+      "zh": ""
+    },
+    {
+      "start": 1191.3,
+      "duration": 2.67,
+      "text": "well, there is still no magnetic field",
+      "en": "well, there is still no magnetic field",
+      "zh": ""
+    },
+    {
+      "start": 1193.97,
+      "duration": 2.46,
+      "text": "because it's confined entirely within the coil,",
+      "en": "because it's confined entirely within the coil,",
+      "zh": ""
+    },
+    {
+      "start": 1196.43,
+      "duration": 2.82,
+      "text": "but there is a magnetic potential.",
+      "en": "but there is a magnetic potential.",
+      "zh": ""
+    },
+    {
+      "start": 1199.25,
+      "duration": 1.92,
+      "text": "That may sound strange, but remember,",
+      "en": "That may sound strange, but remember,",
+      "zh": ""
+    },
+    {
+      "start": 1201.17,
+      "duration": 3.54,
+      "text": "the magnetic field is the curl of the magnetic potential.",
+      "en": "the magnetic field is the curl of the magnetic potential.",
+      "zh": ""
+    },
+    {
+      "start": 1204.71,
+      "duration": 2.97,
+      "text": "The curl of the potential can be zero in some region,",
+      "en": "The curl of the potential can be zero in some region,",
+      "zh": ""
+    },
+    {
+      "start": 1207.68,
+      "duration": 2.7,
+      "text": "even when the potential itself is not.",
+      "en": "even when the potential itself is not.",
+      "zh": ""
+    },
+    {
+      "start": 1210.38,
+      "duration": 2.16,
+      "text": "And that's exactly what's happening here.",
+      "en": "And that's exactly what's happening here.",
+      "zh": ""
+    },
+    {
+      "start": 1213.44,
+      "duration": 2.94,
+      "text": "Now take a closer look at the vector potential.",
+      "en": "Now take a closer look at the vector potential.",
+      "zh": ""
+    },
+    {
+      "start": 1216.38,
+      "duration": 2.43,
+      "text": "In the space the upper beam passes through,",
+      "en": "In the space the upper beam passes through,",
+      "zh": ""
+    },
+    {
+      "start": 1218.81,
+      "duration": 3.03,
+      "text": "the potential points in the opposite direction as the beam.",
+      "en": "the potential points in the opposite direction as the beam.",
+      "zh": ""
+    },
+    {
+      "start": 1221.84,
+      "duration": 2.4,
+      "text": "So here the phase changes faster.",
+      "en": "So here the phase changes faster.",
+      "zh": ""
+    },
+    {
+      "start": 1224.24,
+      "duration": 1.11,
+      "text": "But below the solenoid,",
+      "en": "But below the solenoid,",
+      "zh": ""
+    },
+    {
+      "start": 1225.35,
+      "duration": 2.1,
+      "text": "it points in the same direction as the beam.",
+      "en": "it points in the same direction as the beam.",
+      "zh": ""
+    },
+    {
+      "start": 1227.45,
+      "duration": 1.92,
+      "text": "So the phase changes slower.",
+      "en": "So the phase changes slower.",
+      "zh": ""
+    },
+    {
+      "start": 1229.37,
+      "duration": 2.55,
+      "text": "If the phase truly depends on the potential alone",
+      "en": "If the phase truly depends on the potential alone",
+      "zh": ""
+    },
+    {
+      "start": 1231.92,
+      "duration": 1.2,
+      "text": "and not the field,",
+      "en": "and not the field,",
+      "zh": ""
+    },
+    {
+      "start": 1233.12,
+      "duration": 3.36,
+      "text": "then the phases of the two beams should evolve differently.",
+      "en": "then the phases of the two beams should evolve differently.",
+      "zh": ""
+    },
+    {
+      "start": 1236.48,
+      "duration": 2.91,
+      "text": "So as a result, the interference pattern should shift",
+      "en": "So as a result, the interference pattern should shift",
+      "zh": ""
+    },
+    {
+      "start": 1239.39,
+      "duration": 3.6,
+      "text": "when the solenoid is on versus when it's off.",
+      "en": "when the solenoid is on versus when it's off.",
+      "zh": ""
+    },
+    {
+      "start": 1242.99,
+      "duration": 2.67,
+      "text": "- The magnetic field could be just zero,",
+      "en": "- The magnetic field could be just zero,",
+      "zh": ""
+    },
+    {
+      "start": 1245.66,
+      "duration": 4.38,
+      "text": "and yet the presence of some vector potential",
+      "en": "and yet the presence of some vector potential",
+      "zh": ""
+    },
+    {
+      "start": 1250.04,
+      "duration": 2.49,
+      "text": "could actually lead to observable effects.",
+      "en": "could actually lead to observable effects.",
+      "zh": ""
+    },
+    {
+      "start": 1252.53,
+      "duration": 2.04,
+      "text": "That wasn't supposed to happen, right?",
+      "en": "That wasn't supposed to happen, right?",
+      "zh": ""
+    },
+    {
+      "start": 1254.57,
+      "duration": 2.82,
+      "text": "- What I love about this story is that it reminds me that",
+      "en": "- What I love about this story is that it reminds me that",
+      "zh": ""
+    },
+    {
+      "start": 1257.39,
+      "duration": 3.18,
+      "text": "individual people can challenge entire paradigms.",
+      "en": "individual people can challenge entire paradigms.",
+      "zh": ""
+    },
+    {
+      "start": 1260.57,
+      "duration": 1.53,
+      "text": "For nearly 200 years,",
+      "en": "For nearly 200 years,",
+      "zh": ""
+    },
+    {
+      "start": 1262.1,
+      "duration": 2.31,
+      "text": "many of the smartest minds in history",
+      "en": "many of the smartest minds in history",
+      "zh": ""
+    },
+    {
+      "start": 1264.41,
+      "duration": 1.5,
+      "text": "all believed that potentials",
+      "en": "all believed that potentials",
+      "zh": ""
+    },
+    {
+      "start": 1265.91,
+      "duration": 2.1,
+      "text": "were nothing more than mathematical tools.",
+      "en": "were nothing more than mathematical tools.",
+      "zh": ""
+    },
+    {
+      "start": 1268.01,
+      "duration": 2.91,
+      "text": "But then two outsider physicists came along",
+      "en": "But then two outsider physicists came along",
+      "zh": ""
+    },
+    {
+      "start": 1270.92,
+      "duration": 2.46,
+      "text": "and defied that interpretation.",
+      "en": "and defied that interpretation.",
+      "zh": ""
+    },
+    {
+      "start": 1273.38,
+      "duration": 1.71,
+      "text": "Confident in their approach,",
+      "en": "Confident in their approach,",
+      "zh": ""
+    },
+    {
+      "start": 1275.09,
+      "duration": 3.36,
+      "text": "they took on the entire scientific establishment.",
+      "en": "they took on the entire scientific establishment.",
+      "zh": ""
+    },
+    {
+      "start": 1278.45,
+      "duration": 2.91,
+      "text": "That same belief in the power of the individual is",
+      "en": "That same belief in the power of the individual is",
+      "zh": ""
+    },
+    {
+      "start": 1281.36,
+      "duration": 3.21,
+      "text": "what motivated me to partner with Planet Wild.",
+      "en": "what motivated me to partner with Planet Wild.",
+      "zh": ""
+    },
+    {
+      "start": 1284.57,
+      "duration": 1.53,
+      "text": "Many of us can feel helpless",
+      "en": "Many of us can feel helpless",
+      "zh": ""
+    },
+    {
+      "start": 1286.1,
+      "duration": 3.42,
+      "text": "when we look at the huge problems facing the Earth today.",
+      "en": "when we look at the huge problems facing the Earth today.",
+      "zh": ""
+    },
+    {
+      "start": 1289.52,
+      "duration": 2.22,
+      "text": "Deforestation, plastic pollution,",
+      "en": "Deforestation, plastic pollution,",
+      "zh": ""
+    },
+    {
+      "start": 1291.74,
+      "duration": 3.0,
+      "text": "and the extinction of entire species.",
+      "en": "and the extinction of entire species.",
+      "zh": ""
+    },
+    {
+      "start": 1294.74,
+      "duration": 2.58,
+      "text": "The easy solution is just to wait around",
+      "en": "The easy solution is just to wait around",
+      "zh": ""
+    },
+    {
+      "start": 1297.32,
+      "duration": 2.73,
+      "text": "and hope someone else will do something about it.",
+      "en": "and hope someone else will do something about it.",
+      "zh": ""
+    },
+    {
+      "start": 1300.05,
+      "duration": 2.01,
+      "text": "Planet Wild gets boots on the ground",
+      "en": "Planet Wild gets boots on the ground",
+      "zh": ""
+    },
+    {
+      "start": 1302.06,
+      "duration": 1.86,
+      "text": "to actually protect our planet,",
+      "en": "to actually protect our planet,",
+      "zh": ""
+    },
+    {
+      "start": 1303.92,
+      "duration": 2.67,
+      "text": "and they make it easy for anyone to join the cause,",
+      "en": "and they make it easy for anyone to join the cause,",
+      "zh": ""
+    },
+    {
+      "start": 1306.59,
+      "duration": 3.0,
+      "text": "which is one of the reasons I became a member.",
+      "en": "which is one of the reasons I became a member.",
+      "zh": ""
+    },
+    {
+      "start": 1309.59,
+      "duration": 1.95,
+      "text": "Another reason is that every month",
+      "en": "Another reason is that every month",
+      "zh": ""
+    },
+    {
+      "start": 1311.54,
+      "duration": 2.28,
+      "text": "we as a community fund new projects",
+      "en": "we as a community fund new projects",
+      "zh": ""
+    },
+    {
+      "start": 1313.82,
+      "duration": 2.43,
+      "text": "to clean up oceans, rewild forests,",
+      "en": "to clean up oceans, rewild forests,",
+      "zh": ""
+    },
+    {
+      "start": 1316.25,
+      "duration": 2.94,
+      "text": "protect endangered species and raise awareness.",
+      "en": "protect endangered species and raise awareness.",
+      "zh": ""
+    },
+    {
+      "start": 1319.19,
+      "duration": 3.84,
+      "text": "You can think of Planet Wild as crowdfunding for nature.",
+      "en": "You can think of Planet Wild as crowdfunding for nature.",
+      "zh": ""
+    },
+    {
+      "start": 1323.03,
+      "duration": 0.99,
+      "text": "My favorite part,",
+      "en": "My favorite part,",
+      "zh": ""
+    },
+    {
+      "start": 1324.02,
+      "duration": 2.1,
+      "text": "I get to see the impact of my contributions",
+      "en": "I get to see the impact of my contributions",
+      "zh": ""
+    },
+    {
+      "start": 1326.12,
+      "duration": 1.83,
+      "text": "through outstanding monthly videos,",
+      "en": "through outstanding monthly videos,",
+      "zh": ""
+    },
+    {
+      "start": 1327.95,
+      "duration": 2.16,
+      "text": "which are published right here on YouTube.",
+      "en": "which are published right here on YouTube.",
+      "zh": ""
+    },
+    {
+      "start": 1330.11,
+      "duration": 1.41,
+      "text": "Take this for instance.",
+      "en": "Take this for instance.",
+      "zh": ""
+    },
+    {
+      "start": 1331.52,
+      "duration": 2.61,
+      "text": "This is a Planet Wild mission in Mumbai.",
+      "en": "This is a Planet Wild mission in Mumbai.",
+      "zh": ""
+    },
+    {
+      "start": 1334.13,
+      "duration": 3.3,
+      "text": "It's a scalable technology that stops plastic at the source,",
+      "en": "It's a scalable technology that stops plastic at the source,",
+      "zh": ""
+    },
+    {
+      "start": 1337.43,
+      "duration": 3.69,
+      "text": "preventing 10 tons from reaching the ocean every month.",
+      "en": "preventing 10 tons from reaching the ocean every month.",
+      "zh": ""
+    },
+    {
+      "start": 1341.12,
+      "duration": 3.33,
+      "text": "Planet Wild invested over $100,000 in this,",
+      "en": "Planet Wild invested over $100,000 in this,",
+      "zh": ""
+    },
+    {
+      "start": 1344.45,
+      "duration": 3.51,
+      "text": "and that money didn't come from governments or corporations,",
+      "en": "and that money didn't come from governments or corporations,",
+      "zh": ""
+    },
+    {
+      "start": 1347.96,
+      "duration": 3.63,
+      "text": "it came from ordinary people like you and me.",
+      "en": "it came from ordinary people like you and me.",
+      "zh": ""
+    },
+    {
+      "start": 1351.59,
+      "duration": 2.73,
+      "text": "You can sign up for whatever amount feels right for you",
+      "en": "You can sign up for whatever amount feels right for you",
+      "zh": ""
+    },
+    {
+      "start": 1354.32,
+      "duration": 1.98,
+      "text": "and cancel any time.",
+      "en": "and cancel any time.",
+      "zh": ""
+    },
+    {
+      "start": 1356.3,
+      "duration": 4.32,
+      "text": "The first 150 people to sign up using my code VERITASIUM1",
+      "en": "The first 150 people to sign up using my code VERITASIUM1",
+      "zh": ""
+    },
+    {
+      "start": 1360.62,
+      "duration": 3.12,
+      "text": "will get their first month paid for by me.",
+      "en": "will get their first month paid for by me.",
+      "zh": ""
+    },
+    {
+      "start": 1363.74,
+      "duration": 3.69,
+      "text": "Just scan this QR code or click the link in the description.",
+      "en": "Just scan this QR code or click the link in the description.",
+      "zh": ""
+    },
+    {
+      "start": 1367.43,
+      "duration": 2.61,
+      "text": "If you're interested in the science behind their projects,",
+      "en": "If you're interested in the science behind their projects,",
+      "zh": ""
+    },
+    {
+      "start": 1370.04,
+      "duration": 1.98,
+      "text": "then go check out their YouTube channel.",
+      "en": "then go check out their YouTube channel.",
+      "zh": ""
+    },
+    {
+      "start": 1372.02,
+      "duration": 2.79,
+      "text": "I'm leaving the link to the plastic cleanup mission",
+      "en": "I'm leaving the link to the plastic cleanup mission",
+      "zh": ""
+    },
+    {
+      "start": 1374.81,
+      "duration": 1.53,
+      "text": "in the description.",
+      "en": "in the description.",
+      "zh": ""
+    },
+    {
+      "start": 1376.34,
+      "duration": 2.79,
+      "text": "And now back to the mystery of the potential.",
+      "en": "And now back to the mystery of the potential.",
+      "zh": ""
+    },
+    {
+      "start": 1380.31,
+      "duration": 3.26,
+      "text": "Aharonov and Bohm published their findings in 1959",
+      "en": "Aharonov and Bohm published their findings in 1959",
+      "zh": ""
+    },
+    {
+      "start": 1383.57,
+      "duration": 2.55,
+      "text": "and the reception was mixed.",
+      "en": "and the reception was mixed.",
+      "zh": ""
+    },
+    {
+      "start": 1386.12,
+      "duration": 1.62,
+      "text": "- Certainly in the beginning,",
+      "en": "- Certainly in the beginning,",
+      "zh": ""
+    },
+    {
+      "start": 1387.74,
+      "duration": 2.79,
+      "text": "many people thought that it can't be true.",
+      "en": "many people thought that it can't be true.",
+      "zh": ""
+    },
+    {
+      "start": 1390.53,
+      "duration": 2.01,
+      "text": "So there were many people",
+      "en": "So there were many people",
+      "zh": ""
+    },
+    {
+      "start": 1392.54,
+      "duration": 3.6,
+      "text": "that tried to write articles against it.",
+      "en": "that tried to write articles against it.",
+      "zh": ""
+    },
+    {
+      "start": 1396.14,
+      "duration": 1.08,
+      "text": "- Even Niels Bohr,",
+      "en": "- Even Niels Bohr,",
+      "zh": ""
+    },
+    {
+      "start": 1397.22,
+      "duration": 1.86,
+      "text": "one of the founding fathers of quantum mechanics,",
+      "en": "one of the founding fathers of quantum mechanics,",
+      "zh": ""
+    },
+    {
+      "start": 1399.08,
+      "duration": 1.65,
+      "text": "found it impossible to accept",
+      "en": "found it impossible to accept",
+      "zh": ""
+    },
+    {
+      "start": 1400.73,
+      "duration": 2.16,
+      "text": "that a particle could be influenced by a potential",
+      "en": "that a particle could be influenced by a potential",
+      "zh": ""
+    },
+    {
+      "start": 1402.89,
+      "duration": 1.89,
+      "text": "in the absence of any force.",
+      "en": "in the absence of any force.",
+      "zh": ""
+    },
+    {
+      "start": 1404.78,
+      "duration": 3.12,
+      "text": "But some physicists supported Aharonov and Bohm.",
+      "en": "But some physicists supported Aharonov and Bohm.",
+      "zh": ""
+    },
+    {
+      "start": 1407.9,
+      "duration": 1.03,
+      "text": "Richard Feynman wrote,",
+      "en": "Richard Feynman wrote,",
+      "zh": ""
+    },
+    {
+      "start": 1408.93,
+      "duration": 1.82,
+      "text": "\"The fact that the vector potential appears",
+      "en": "\"The fact that the vector potential appears",
+      "zh": ""
+    },
+    {
+      "start": 1410.75,
+      "duration": 1.65,
+      "text": "in the wave equation of quantum mechanics",
+      "en": "in the wave equation of quantum mechanics",
+      "zh": ""
+    },
+    {
+      "start": 1412.4,
+      "duration": 1.8,
+      "text": "was obvious from the day it was written.",
+      "en": "was obvious from the day it was written.",
+      "zh": ""
+    },
+    {
+      "start": 1414.2,
+      "duration": 1.44,
+      "text": "It seems strange in retrospect that",
+      "en": "It seems strange in retrospect that",
+      "zh": ""
+    },
+    {
+      "start": 1415.64,
+      "duration": 2.81,
+      "text": "no one thought of discussing this experiment until 1959,",
+      "en": "no one thought of discussing this experiment until 1959,",
+      "zh": ""
+    },
+    {
+      "start": 1418.45,
+      "duration": 2.35,
+      "text": "when Bohm and Aharonov first suggested it",
+      "en": "when Bohm and Aharonov first suggested it",
+      "zh": ""
+    },
+    {
+      "start": 1420.8,
+      "duration": 2.82,
+      "text": "and made the whole question crystal clear.\"",
+      "en": "and made the whole question crystal clear.\"",
+      "zh": ""
+    },
+    {
+      "start": 1423.62,
+      "duration": 2.43,
+      "text": "Feynman included himself that statement.",
+      "en": "Feynman included himself that statement.",
+      "zh": ""
+    },
+    {
+      "start": 1426.05,
+      "duration": 3.36,
+      "text": "He later wondered why he had never noticed the effect.",
+      "en": "He later wondered why he had never noticed the effect.",
+      "zh": ""
+    },
+    {
+      "start": 1429.41,
+      "duration": 2.74,
+      "text": "Physicist Victor Weisskopf had a similar response.",
+      "en": "Physicist Victor Weisskopf had a similar response.",
+      "zh": ""
+    },
+    {
+      "start": 1432.15,
+      "duration": 2.57,
+      "text": "\"The first reaction to this work is that it's wrong.",
+      "en": "\"The first reaction to this work is that it's wrong.",
+      "zh": ""
+    },
+    {
+      "start": 1434.72,
+      "duration": 2.76,
+      "text": "The second is that it's obvious.\"",
+      "en": "The second is that it's obvious.\"",
+      "zh": ""
+    },
+    {
+      "start": 1437.48,
+      "duration": 3.45,
+      "text": "Ultimately, there was only one way to settle the debate.",
+      "en": "Ultimately, there was only one way to settle the debate.",
+      "zh": ""
+    },
+    {
+      "start": 1440.93,
+      "duration": 2.97,
+      "text": "Someone had to actually do the experiment.",
+      "en": "Someone had to actually do the experiment.",
+      "zh": ""
+    },
+    {
+      "start": 1443.9,
+      "duration": 3.18,
+      "text": "The first to try was a colleague of Aharonov and Bohm's",
+      "en": "The first to try was a colleague of Aharonov and Bohm's",
+      "zh": ""
+    },
+    {
+      "start": 1447.08,
+      "duration": 1.5,
+      "text": "at the University of Bristol,",
+      "en": "at the University of Bristol,",
+      "zh": ""
+    },
+    {
+      "start": 1448.58,
+      "duration": 1.86,
+      "text": "Robert Chambers.",
+      "en": "Robert Chambers.",
+      "zh": ""
+    },
+    {
+      "start": 1450.44,
+      "duration": 1.62,
+      "text": "Chambers experiment largely followed",
+      "en": "Chambers experiment largely followed",
+      "zh": ""
+    },
+    {
+      "start": 1452.06,
+      "duration": 1.98,
+      "text": "the setup Aharonov and Bohm proposed",
+      "en": "the setup Aharonov and Bohm proposed",
+      "zh": ""
+    },
+    {
+      "start": 1454.04,
+      "duration": 2.07,
+      "text": "with one notable exception.",
+      "en": "with one notable exception.",
+      "zh": ""
+    },
+    {
+      "start": 1456.11,
+      "duration": 2.58,
+      "text": "An ideal solenoid would have to be infinitely long,",
+      "en": "An ideal solenoid would have to be infinitely long,",
+      "zh": ""
+    },
+    {
+      "start": 1458.69,
+      "duration": 1.74,
+      "text": "which is physically impossible.",
+      "en": "which is physically impossible.",
+      "zh": ""
+    },
+    {
+      "start": 1460.43,
+      "duration": 3.6,
+      "text": "So instead, Chambers used a tiny needle-like piece of iron,",
+      "en": "So instead, Chambers used a tiny needle-like piece of iron,",
+      "zh": ""
+    },
+    {
+      "start": 1464.03,
+      "duration": 4.26,
+      "text": "about a millionth of a meter thick and 500 times as long.",
+      "en": "about a millionth of a meter thick and 500 times as long.",
+      "zh": ""
+    },
+    {
+      "start": 1468.29,
+      "duration": 2.37,
+      "text": "When this iron whisker was magnetized,",
+      "en": "When this iron whisker was magnetized,",
+      "zh": ""
+    },
+    {
+      "start": 1470.66,
+      "duration": 1.35,
+      "text": "it produced a magnetic field",
+      "en": "it produced a magnetic field",
+      "zh": ""
+    },
+    {
+      "start": 1472.01,
+      "duration": 1.74,
+      "text": "that was strong within the metal itself,",
+      "en": "that was strong within the metal itself,",
+      "zh": ""
+    },
+    {
+      "start": 1473.75,
+      "duration": 1.98,
+      "text": "but negligible outside of it,",
+      "en": "but negligible outside of it,",
+      "zh": ""
+    },
+    {
+      "start": 1475.73,
+      "duration": 1.56,
+      "text": "as well as a magnetic potential",
+      "en": "as well as a magnetic potential",
+      "zh": ""
+    },
+    {
+      "start": 1477.29,
+      "duration": 2.22,
+      "text": "in the surrounding region of space.",
+      "en": "in the surrounding region of space.",
+      "zh": ""
+    },
+    {
+      "start": 1479.51,
+      "duration": 1.98,
+      "text": "To get a baseline interference pattern,",
+      "en": "To get a baseline interference pattern,",
+      "zh": ""
+    },
+    {
+      "start": 1481.49,
+      "duration": 1.86,
+      "text": "Chambers fired two beams of electrons",
+      "en": "Chambers fired two beams of electrons",
+      "zh": ""
+    },
+    {
+      "start": 1483.35,
+      "duration": 2.34,
+      "text": "around an empty region of space.",
+      "en": "around an empty region of space.",
+      "zh": ""
+    },
+    {
+      "start": 1485.69,
+      "duration": 2.85,
+      "text": "And then he added the magnetic whisker.",
+      "en": "And then he added the magnetic whisker.",
+      "zh": ""
+    },
+    {
+      "start": 1488.54,
+      "duration": 1.59,
+      "text": "When he fired the beams again,",
+      "en": "When he fired the beams again,",
+      "zh": ""
+    },
+    {
+      "start": 1490.13,
+      "duration": 1.98,
+      "text": "the interference pattern shifted.",
+      "en": "the interference pattern shifted.",
+      "zh": ""
+    },
+    {
+      "start": 1492.11,
+      "duration": 2.64,
+      "text": "It seemed that Aharonov and Bohm were right.",
+      "en": "It seemed that Aharonov and Bohm were right.",
+      "zh": ""
+    },
+    {
+      "start": 1495.8,
+      "duration": 2.79,
+      "text": "But critics were unconvinced.",
+      "en": "But critics were unconvinced.",
+      "zh": ""
+    },
+    {
+      "start": 1498.59,
+      "duration": 3.21,
+      "text": "- People objected to it because",
+      "en": "- People objected to it because",
+      "zh": ""
+    },
+    {
+      "start": 1501.8,
+      "duration": 2.37,
+      "text": "since the whisker is finite,",
+      "en": "since the whisker is finite,",
+      "zh": ""
+    },
+    {
+      "start": 1504.17,
+      "duration": 3.26,
+      "text": "there is always some magnetic field that will go out.",
+      "en": "there is always some magnetic field that will go out.",
+      "zh": ""
+    },
+    {
+      "start": 1508.73,
+      "duration": 3.12,
+      "text": "- Maybe a stray field was responsible for the effect,",
+      "en": "- Maybe a stray field was responsible for the effect,",
+      "zh": ""
+    },
+    {
+      "start": 1511.85,
+      "duration": 1.59,
+      "text": "not the potential.",
+      "en": "not the potential.",
+      "zh": ""
+    },
+    {
+      "start": 1513.44,
+      "duration": 0.93,
+      "text": "- And that's showing,",
+      "en": "- And that's showing,",
+      "zh": ""
+    },
+    {
+      "start": 1514.37,
+      "duration": 1.53,
+      "text": "throwing no shade on their colleague",
+      "en": "throwing no shade on their colleague",
+      "zh": ""
+    },
+    {
+      "start": 1515.9,
+      "duration": 1.11,
+      "text": "who did these cool experiments.",
+      "en": "who did these cool experiments.",
+      "zh": ""
+    },
+    {
+      "start": 1517.01,
+      "duration": 0.99,
+      "text": "It's like it's hard, right?",
+      "en": "It's like it's hard, right?",
+      "zh": ""
+    },
+    {
+      "start": 1518.0,
+      "duration": 1.11,
+      "text": "It's really hard.",
+      "en": "It's really hard.",
+      "zh": ""
+    },
+    {
+      "start": 1519.11,
+      "duration": 2.43,
+      "text": "- And so it went for several decades.",
+      "en": "- And so it went for several decades.",
+      "zh": ""
+    },
+    {
+      "start": 1521.54,
+      "duration": 3.57,
+      "text": "Experimentalists repeatedly tested the Aharonov-Bohm effect,",
+      "en": "Experimentalists repeatedly tested the Aharonov-Bohm effect,",
+      "zh": ""
+    },
+    {
+      "start": 1525.11,
+      "duration": 2.13,
+      "text": "but each trial had flaws",
+      "en": "but each trial had flaws",
+      "zh": ""
+    },
+    {
+      "start": 1527.24,
+      "duration": 1.89,
+      "text": "that left the result open to debate.",
+      "en": "that left the result open to debate.",
+      "zh": ""
+    },
+    {
+      "start": 1530.24,
+      "duration": 1.71,
+      "text": "- Until in 1986,",
+      "en": "- Until in 1986,",
+      "zh": ""
+    },
+    {
+      "start": 1531.95,
+      "duration": 3.24,
+      "text": "a team of Japanese researchers led by Akira Tonomura",
+      "en": "a team of Japanese researchers led by Akira Tonomura",
+      "zh": ""
+    },
+    {
+      "start": 1535.19,
+      "duration": 2.7,
+      "text": "came up with a new way to do the experiment.",
+      "en": "came up with a new way to do the experiment.",
+      "zh": ""
+    },
+    {
+      "start": 1537.89,
+      "duration": 2.82,
+      "text": "See, they used a tiny donut-shaped magnet",
+      "en": "See, they used a tiny donut-shaped magnet",
+      "zh": ""
+    },
+    {
+      "start": 1540.71,
+      "duration": 1.83,
+      "text": "to make their magnetic field.",
+      "en": "to make their magnetic field.",
+      "zh": ""
+    },
+    {
+      "start": 1542.54,
+      "duration": 1.02,
+      "text": "With a perfect torus,",
+      "en": "With a perfect torus,",
+      "zh": ""
+    },
+    {
+      "start": 1543.56,
+      "duration": 3.0,
+      "text": "all the magnetic field is contained within the loop.",
+      "en": "all the magnetic field is contained within the loop.",
+      "zh": ""
+    },
+    {
+      "start": 1546.56,
+      "duration": 2.58,
+      "text": "Outside it, it's absolutely zero.",
+      "en": "Outside it, it's absolutely zero.",
+      "zh": ""
+    },
+    {
+      "start": 1549.14,
+      "duration": 2.16,
+      "text": "And as an added layer of protection,",
+      "en": "And as an added layer of protection,",
+      "zh": ""
+    },
+    {
+      "start": 1551.3,
+      "duration": 2.16,
+      "text": "the team also coated the entire magnet",
+      "en": "the team also coated the entire magnet",
+      "zh": ""
+    },
+    {
+      "start": 1553.46,
+      "duration": 2.34,
+      "text": "in a layer of superconducting niobium,",
+      "en": "in a layer of superconducting niobium,",
+      "zh": ""
+    },
+    {
+      "start": 1555.8,
+      "duration": 3.09,
+      "text": "which would block out any leaking fields.",
+      "en": "which would block out any leaking fields.",
+      "zh": ""
+    },
+    {
+      "start": 1558.89,
+      "duration": 1.71,
+      "text": "Now, previous experiments relied on",
+      "en": "Now, previous experiments relied on",
+      "zh": ""
+    },
+    {
+      "start": 1560.6,
+      "duration": 2.49,
+      "text": "turning a magnetic field on or off,",
+      "en": "turning a magnetic field on or off,",
+      "zh": ""
+    },
+    {
+      "start": 1563.09,
+      "duration": 2.55,
+      "text": "but Tonomura's team took on a different approach.",
+      "en": "but Tonomura's team took on a different approach.",
+      "zh": ""
+    },
+    {
+      "start": 1565.64,
+      "duration": 2.58,
+      "text": "In their case, the magnet is always on,",
+      "en": "In their case, the magnet is always on,",
+      "zh": ""
+    },
+    {
+      "start": 1568.22,
+      "duration": 1.56,
+      "text": "but because of its unique shape,",
+      "en": "but because of its unique shape,",
+      "zh": ""
+    },
+    {
+      "start": 1569.78,
+      "duration": 2.31,
+      "text": "the potential outside the torus is different",
+      "en": "the potential outside the torus is different",
+      "zh": ""
+    },
+    {
+      "start": 1572.09,
+      "duration": 1.5,
+      "text": "from the one in the center.",
+      "en": "from the one in the center.",
+      "zh": ""
+    },
+    {
+      "start": 1573.59,
+      "duration": 2.07,
+      "text": "It points towards us on the outside",
+      "en": "It points towards us on the outside",
+      "zh": ""
+    },
+    {
+      "start": 1575.66,
+      "duration": 2.58,
+      "text": "and away from us on the inside.",
+      "en": "and away from us on the inside.",
+      "zh": ""
+    },
+    {
+      "start": 1578.24,
+      "duration": 3.03,
+      "text": "And the team realized they could take advantage of this.",
+      "en": "And the team realized they could take advantage of this.",
+      "zh": ""
+    },
+    {
+      "start": 1581.27,
+      "duration": 2.43,
+      "text": "They started by firing off an electron beam,",
+      "en": "They started by firing off an electron beam,",
+      "zh": ""
+    },
+    {
+      "start": 1583.7,
+      "duration": 2.04,
+      "text": "which was actually wide enough to be treated",
+      "en": "which was actually wide enough to be treated",
+      "zh": ""
+    },
+    {
+      "start": 1585.74,
+      "duration": 1.74,
+      "text": "as two separate beams.",
+      "en": "as two separate beams.",
+      "zh": ""
+    },
+    {
+      "start": 1587.48,
+      "duration": 2.37,
+      "text": "Part of it traveled along through empty space",
+      "en": "Part of it traveled along through empty space",
+      "zh": ""
+    },
+    {
+      "start": 1589.85,
+      "duration": 1.83,
+      "text": "and functioned as the control,",
+      "en": "and functioned as the control,",
+      "zh": ""
+    },
+    {
+      "start": 1591.68,
+      "duration": 3.66,
+      "text": "whereas the other part washed over the entire torus.",
+      "en": "whereas the other part washed over the entire torus.",
+      "zh": ""
+    },
+    {
+      "start": 1595.34,
+      "duration": 2.25,
+      "text": "And what's important here is that the beam is wide enough",
+      "en": "And what's important here is that the beam is wide enough",
+      "zh": ""
+    },
+    {
+      "start": 1597.59,
+      "duration": 2.28,
+      "text": "so that part of it passes around the torus",
+      "en": "so that part of it passes around the torus",
+      "zh": ""
+    },
+    {
+      "start": 1599.87,
+      "duration": 1.77,
+      "text": "and part of it passes through.",
+      "en": "and part of it passes through.",
+      "zh": ""
+    },
+    {
+      "start": 1601.64,
+      "duration": 0.93,
+      "text": "Then at the end,",
+      "en": "Then at the end,",
+      "zh": ""
+    },
+    {
+      "start": 1602.57,
+      "duration": 3.69,
+      "text": "a biprism deflects the electron beams toward each other,",
+      "en": "a biprism deflects the electron beams toward each other,",
+      "zh": ""
+    },
+    {
+      "start": 1606.26,
+      "duration": 1.08,
+      "text": "they intersect,",
+      "en": "they intersect,",
+      "zh": ""
+    },
+    {
+      "start": 1607.34,
+      "duration": 3.18,
+      "text": "and this is where they create an interference pattern.",
+      "en": "and this is where they create an interference pattern.",
+      "zh": ""
+    },
+    {
+      "start": 1610.52,
+      "duration": 1.14,
+      "text": "Now think about",
+      "en": "Now think about",
+      "zh": ""
+    },
+    {
+      "start": 1611.66,
+      "duration": 2.46,
+      "text": "what this interference pattern should look like.",
+      "en": "what this interference pattern should look like.",
+      "zh": ""
+    },
+    {
+      "start": 1614.12,
+      "duration": 0.96,
+      "text": "Well, for starters,",
+      "en": "Well, for starters,",
+      "zh": ""
+    },
+    {
+      "start": 1615.08,
+      "duration": 1.65,
+      "text": "there should be a shadow of the torus,",
+      "en": "there should be a shadow of the torus,",
+      "zh": ""
+    },
+    {
+      "start": 1616.73,
+      "duration": 1.68,
+      "text": "so we can fill that in.",
+      "en": "so we can fill that in.",
+      "zh": ""
+    },
+    {
+      "start": 1618.41,
+      "duration": 1.05,
+      "text": "But the rest,",
+      "en": "But the rest,",
+      "zh": ""
+    },
+    {
+      "start": 1619.46,
+      "duration": 1.68,
+      "text": "well, it depends on whether",
+      "en": "well, it depends on whether",
+      "zh": ""
+    },
+    {
+      "start": 1621.14,
+      "duration": 2.55,
+      "text": "the Aharonov-Bohm effect is real or not.",
+      "en": "the Aharonov-Bohm effect is real or not.",
+      "zh": ""
+    },
+    {
+      "start": 1623.69,
+      "duration": 0.9,
+      "text": "If it's not real,",
+      "en": "If it's not real,",
+      "zh": ""
+    },
+    {
+      "start": 1624.59,
+      "duration": 1.8,
+      "text": "we'd expect to see an interference pattern",
+      "en": "we'd expect to see an interference pattern",
+      "zh": ""
+    },
+    {
+      "start": 1626.39,
+      "duration": 1.8,
+      "text": "that looks something like this,",
+      "en": "that looks something like this,",
+      "zh": ""
+    },
+    {
+      "start": 1628.19,
+      "duration": 1.53,
+      "text": "where the pattern outside the torus",
+      "en": "where the pattern outside the torus",
+      "zh": ""
+    },
+    {
+      "start": 1629.72,
+      "duration": 1.98,
+      "text": "and in the center match up.",
+      "en": "and in the center match up.",
+      "zh": ""
+    },
+    {
+      "start": 1631.7,
+      "duration": 1.59,
+      "text": "But if it is real,",
+      "en": "But if it is real,",
+      "zh": ""
+    },
+    {
+      "start": 1633.29,
+      "duration": 2.31,
+      "text": "then the electrons that traveled through the center",
+      "en": "then the electrons that traveled through the center",
+      "zh": ""
+    },
+    {
+      "start": 1635.6,
+      "duration": 2.43,
+      "text": "would've experienced a different potential,",
+      "en": "would've experienced a different potential,",
+      "zh": ""
+    },
+    {
+      "start": 1638.03,
+      "duration": 3.06,
+      "text": "which would've shifted their pattern by half a phase.",
+      "en": "which would've shifted their pattern by half a phase.",
+      "zh": ""
+    },
+    {
+      "start": 1641.09,
+      "duration": 3.24,
+      "text": "So that should look something like this.",
+      "en": "So that should look something like this.",
+      "zh": ""
+    },
+    {
+      "start": 1644.33,
+      "duration": 3.3,
+      "text": "Now here are the results from Tonomura's experiment.",
+      "en": "Now here are the results from Tonomura's experiment.",
+      "zh": ""
+    },
+    {
+      "start": 1647.63,
+      "duration": 2.16,
+      "text": "You see these are the interference fringes",
+      "en": "You see these are the interference fringes",
+      "zh": ""
+    },
+    {
+      "start": 1649.79,
+      "duration": 1.26,
+      "text": "inside and outside the magnet.",
+      "en": "inside and outside the magnet.",
+      "zh": ""
+    },
+    {
+      "start": 1651.05,
+      "duration": 3.09,
+      "text": "And then if you follow what is a peak outside the torus",
+      "en": "And then if you follow what is a peak outside the torus",
+      "zh": ""
+    },
+    {
+      "start": 1654.14,
+      "duration": 0.93,
+      "text": "it lines up with,",
+      "en": "it lines up with,",
+      "zh": ""
+    },
+    {
+      "start": 1655.07,
+      "duration": 1.53,
+      "text": "- Right. - a trough inside the middle.",
+      "en": "- Right. - a trough inside the middle.",
+      "zh": ""
+    },
+    {
+      "start": 1656.6,
+      "duration": 0.83,
+      "text": "And then it's a peak - Yeah.",
+      "en": "And then it's a peak - Yeah.",
+      "zh": ""
+    },
+    {
+      "start": 1657.43,
+      "duration": 0.84,
+      "text": "- outside again.",
+      "en": "- outside again.",
+      "zh": ""
+    },
+    {
+      "start": 1658.27,
+      "duration": 1.03,
+      "text": "- And that's exactly what they predicted.",
+      "en": "- And that's exactly what they predicted.",
+      "zh": ""
+    },
+    {
+      "start": 1659.3,
+      "duration": 1.56,
+      "text": "- This is exactly what they predicted.",
+      "en": "- This is exactly what they predicted.",
+      "zh": ""
+    },
+    {
+      "start": 1660.86,
+      "duration": 1.02,
+      "text": "- So it's real?",
+      "en": "- So it's real?",
+      "zh": ""
+    },
+    {
+      "start": 1661.88,
+      "duration": 0.99,
+      "text": "- It's real",
+      "en": "- It's real",
+      "zh": ""
+    },
+    {
+      "start": 1662.87,
+      "duration": 3.09,
+      "text": "- Only the Tonomura experiment was",
+      "en": "- Only the Tonomura experiment was",
+      "zh": ""
+    },
+    {
+      "start": 1665.96,
+      "duration": 3.3,
+      "text": "really the final proof, experimentally.",
+      "en": "really the final proof, experimentally.",
+      "zh": ""
+    },
+    {
+      "start": 1670.31,
+      "duration": 2.91,
+      "text": "- And yet, soon a new debate emerged.",
+      "en": "- And yet, soon a new debate emerged.",
+      "zh": ""
+    },
+    {
+      "start": 1673.22,
+      "duration": 3.51,
+      "text": "The effect is real, sure, but how should we interpret it?",
+      "en": "The effect is real, sure, but how should we interpret it?",
+      "zh": ""
+    },
+    {
+      "start": 1676.73,
+      "duration": 1.5,
+      "text": "What is it really telling us",
+      "en": "What is it really telling us",
+      "zh": ""
+    },
+    {
+      "start": 1678.23,
+      "duration": 1.98,
+      "text": "about the nature of the universe?",
+      "en": "about the nature of the universe?",
+      "zh": ""
+    },
+    {
+      "start": 1681.14,
+      "duration": 3.3,
+      "text": "Today, physicists largely fall into one of two camps.",
+      "en": "Today, physicists largely fall into one of two camps.",
+      "zh": ""
+    },
+    {
+      "start": 1684.44,
+      "duration": 1.23,
+      "text": "The first camp claims that",
+      "en": "The first camp claims that",
+      "zh": ""
+    },
+    {
+      "start": 1685.67,
+      "duration": 2.4,
+      "text": "potentials aren't just mathematical conveniences,",
+      "en": "potentials aren't just mathematical conveniences,",
+      "zh": ""
+    },
+    {
+      "start": 1688.07,
+      "duration": 2.25,
+      "text": "they can influence physical reality.",
+      "en": "they can influence physical reality.",
+      "zh": ""
+    },
+    {
+      "start": 1690.32,
+      "duration": 1.68,
+      "text": "This is the perspective initially favored",
+      "en": "This is the perspective initially favored",
+      "zh": ""
+    },
+    {
+      "start": 1692.0,
+      "duration": 1.41,
+      "text": "by Aharonov and Bohm.",
+      "en": "by Aharonov and Bohm.",
+      "zh": ""
+    },
+    {
+      "start": 1693.41,
+      "duration": 2.11,
+      "text": "As they wrote in the abstract of their paper,",
+      "en": "As they wrote in the abstract of their paper,",
+      "zh": ""
+    },
+    {
+      "start": 1695.52,
+      "duration": 2.3,
+      "text": "\"contrary to the conclusions of classical mechanics,",
+      "en": "\"contrary to the conclusions of classical mechanics,",
+      "zh": ""
+    },
+    {
+      "start": 1697.82,
+      "duration": 3.15,
+      "text": "there exist effects of potentials on charged particles,",
+      "en": "there exist effects of potentials on charged particles,",
+      "zh": ""
+    },
+    {
+      "start": 1700.97,
+      "duration": 3.15,
+      "text": "even in the region where all fields vanish.\"",
+      "en": "even in the region where all fields vanish.\"",
+      "zh": ""
+    },
+    {
+      "start": 1704.12,
+      "duration": 2.55,
+      "text": "Some take this position a step further,",
+      "en": "Some take this position a step further,",
+      "zh": ""
+    },
+    {
+      "start": 1706.67,
+      "duration": 2.58,
+      "text": "since the potentials show up in the Schrodinger equation",
+      "en": "since the potentials show up in the Schrodinger equation",
+      "zh": ""
+    },
+    {
+      "start": 1709.25,
+      "duration": 1.53,
+      "text": "and the fields do not,",
+      "en": "and the fields do not,",
+      "zh": ""
+    },
+    {
+      "start": 1710.78,
+      "duration": 1.83,
+      "text": "well, they argue that the potentials are",
+      "en": "well, they argue that the potentials are",
+      "zh": ""
+    },
+    {
+      "start": 1712.61,
+      "duration": 3.36,
+      "text": "more fundamental to physics than fields are.",
+      "en": "more fundamental to physics than fields are.",
+      "zh": ""
+    },
+    {
+      "start": 1715.97,
+      "duration": 2.38,
+      "text": "Richard Feynman supported this idea, he wrote,",
+      "en": "Richard Feynman supported this idea, he wrote,",
+      "zh": ""
+    },
+    {
+      "start": 1718.35,
+      "duration": 1.97,
+      "text": "\"A is as real as B,",
+      "en": "\"A is as real as B,",
+      "zh": ""
+    },
+    {
+      "start": 1720.32,
+      "duration": 1.92,
+      "text": "realer, whatever that means.\"",
+      "en": "realer, whatever that means.\"",
+      "zh": ""
+    },
+    {
+      "start": 1723.17,
+      "duration": 1.86,
+      "text": "- I mean, I kind of like that interpretation,",
+      "en": "- I mean, I kind of like that interpretation,",
+      "zh": ""
+    },
+    {
+      "start": 1725.03,
+      "duration": 2.43,
+      "text": "but something about the potential bothers me.",
+      "en": "but something about the potential bothers me.",
+      "zh": ""
+    },
+    {
+      "start": 1727.46,
+      "duration": 1.95,
+      "text": "And that's the fact that",
+      "en": "And that's the fact that",
+      "zh": ""
+    },
+    {
+      "start": 1729.41,
+      "duration": 2.82,
+      "text": "you can set the potential at any arbitrary height.",
+      "en": "you can set the potential at any arbitrary height.",
+      "zh": ""
+    },
+    {
+      "start": 1732.23,
+      "duration": 1.05,
+      "text": "It can be plus infinity.",
+      "en": "It can be plus infinity.",
+      "zh": ""
+    },
+    {
+      "start": 1733.28,
+      "duration": 1.05,
+      "text": "It can be minus infinity.",
+      "en": "It can be minus infinity.",
+      "zh": ""
+    },
+    {
+      "start": 1734.33,
+      "duration": 1.41,
+      "text": "Anything in between.",
+      "en": "Anything in between.",
+      "zh": ""
+    },
+    {
+      "start": 1735.74,
+      "duration": 1.65,
+      "text": "So wouldn't that change, you know,",
+      "en": "So wouldn't that change, you know,",
+      "zh": ""
+    },
+    {
+      "start": 1737.39,
+      "duration": 2.49,
+      "text": "how the potential actually influences the wave function?",
+      "en": "how the potential actually influences the wave function?",
+      "zh": ""
+    },
+    {
+      "start": 1739.88,
+      "duration": 1.02,
+      "text": "- This bothered me too.",
+      "en": "- This bothered me too.",
+      "zh": ""
+    },
+    {
+      "start": 1740.9,
+      "duration": 1.59,
+      "text": "So much so that I actually ended up",
+      "en": "So much so that I actually ended up",
+      "zh": ""
+    },
+    {
+      "start": 1742.49,
+      "duration": 2.04,
+      "text": "asking a professor about this,",
+      "en": "asking a professor about this,",
+      "zh": ""
+    },
+    {
+      "start": 1744.53,
+      "duration": 1.86,
+      "text": "but it turns out it can't.",
+      "en": "but it turns out it can't.",
+      "zh": ""
+    },
+    {
+      "start": 1746.39,
+      "duration": 1.83,
+      "text": "- It knows it's not just the potential",
+      "en": "- It knows it's not just the potential",
+      "zh": ""
+    },
+    {
+      "start": 1748.22,
+      "duration": 1.44,
+      "text": "that's entering the observable,",
+      "en": "that's entering the observable,",
+      "zh": ""
+    },
+    {
+      "start": 1749.66,
+      "duration": 1.65,
+      "text": "it's the line integral.",
+      "en": "it's the line integral.",
+      "zh": ""
+    },
+    {
+      "start": 1751.31,
+      "duration": 3.15,
+      "text": "So it's only A that enters, it's not the magnetic field.",
+      "en": "So it's only A that enters, it's not the magnetic field.",
+      "zh": ""
+    },
+    {
+      "start": 1754.46,
+      "duration": 3.81,
+      "text": "B vanishes, it's only A, but it's not A alone.",
+      "en": "B vanishes, it's only A, but it's not A alone.",
+      "zh": ""
+    },
+    {
+      "start": 1758.27,
+      "duration": 1.47,
+      "text": "- It gets a little technical here,",
+      "en": "- It gets a little technical here,",
+      "zh": ""
+    },
+    {
+      "start": 1759.74,
+      "duration": 1.26,
+      "text": "but you know,",
+      "en": "but you know,",
+      "zh": ""
+    },
+    {
+      "start": 1761.0,
+      "duration": 3.39,
+      "text": "if I pull up, you know.",
+      "en": "if I pull up, you know.",
+      "zh": ""
+    },
+    {
+      "start": 1764.39,
+      "duration": 0.84,
+      "text": "- As one does.",
+      "en": "- As one does.",
+      "zh": ""
+    },
+    {
+      "start": 1765.23,
+      "duration": 2.76,
+      "text": "- As one does, a flip chart.",
+      "en": "- As one does, a flip chart.",
+      "zh": ""
+    },
+    {
+      "start": 1767.99,
+      "duration": 1.86,
+      "text": "Now we can actually run this.",
+      "en": "Now we can actually run this.",
+      "zh": ""
+    },
+    {
+      "start": 1769.85,
+      "duration": 3.63,
+      "text": "So if you look at how the potential shows up,",
+      "en": "So if you look at how the potential shows up,",
+      "zh": ""
+    },
+    {
+      "start": 1773.48,
+      "duration": 2.85,
+      "text": "then what's measurable is not the phase directly,",
+      "en": "then what's measurable is not the phase directly,",
+      "zh": ""
+    },
+    {
+      "start": 1776.33,
+      "duration": 1.2,
+      "text": "but it's the phase shift.",
+      "en": "but it's the phase shift.",
+      "zh": ""
+    },
+    {
+      "start": 1777.53,
+      "duration": 2.37,
+      "text": "Call it delta theta.",
+      "en": "Call it delta theta.",
+      "zh": ""
+    },
+    {
+      "start": 1779.9,
+      "duration": 3.21,
+      "text": "Then the phase shift is line integral of A over the path",
+      "en": "Then the phase shift is line integral of A over the path",
+      "zh": ""
+    },
+    {
+      "start": 1783.11,
+      "duration": 1.56,
+      "text": "or dotted with the path.",
+      "en": "or dotted with the path.",
+      "zh": ""
+    },
+    {
+      "start": 1784.67,
+      "duration": 1.08,
+      "text": "So you get this.",
+      "en": "So you get this.",
+      "zh": ""
+    },
+    {
+      "start": 1785.75,
+      "duration": 3.03,
+      "text": "Now you can imagine, okay, let's add a constant to this.",
+      "en": "Now you can imagine, okay, let's add a constant to this.",
+      "zh": ""
+    },
+    {
+      "start": 1788.78,
+      "duration": 4.29,
+      "text": "And if our setup is roughly, you know, we start here,",
+      "en": "And if our setup is roughly, you know, we start here,",
+      "zh": ""
+    },
+    {
+      "start": 1793.07,
+      "duration": 2.07,
+      "text": "one electron beam goes like this,",
+      "en": "one electron beam goes like this,",
+      "zh": ""
+    },
+    {
+      "start": 1795.14,
+      "duration": 2.49,
+      "text": "and the other one goes like this,",
+      "en": "and the other one goes like this,",
+      "zh": ""
+    },
+    {
+      "start": 1797.63,
+      "duration": 1.17,
+      "text": "and these are symmetric,",
+      "en": "and these are symmetric,",
+      "zh": ""
+    },
+    {
+      "start": 1798.8,
+      "duration": 2.49,
+      "text": "then the potential here will point",
+      "en": "then the potential here will point",
+      "zh": ""
+    },
+    {
+      "start": 1801.29,
+      "duration": 2.22,
+      "text": "let's say in this direction.",
+      "en": "let's say in this direction.",
+      "zh": ""
+    },
+    {
+      "start": 1803.51,
+      "duration": 2.31,
+      "text": "But here, it will point in that direction.",
+      "en": "But here, it will point in that direction.",
+      "zh": ""
+    },
+    {
+      "start": 1805.82,
+      "duration": 4.35,
+      "text": "Let's say instead of A, we do A plus C, some constant.",
+      "en": "Let's say instead of A, we do A plus C, some constant.",
+      "zh": ""
+    },
+    {
+      "start": 1810.17,
+      "duration": 3.03,
+      "text": "Then when we're taking the path this way,",
+      "en": "Then when we're taking the path this way,",
+      "zh": ""
+    },
+    {
+      "start": 1813.2,
+      "duration": 3.24,
+      "text": "we'll be adding that C and we'll be dotting it with dx.",
+      "en": "we'll be adding that C and we'll be dotting it with dx.",
+      "zh": ""
+    },
+    {
+      "start": 1816.44,
+      "duration": 2.46,
+      "text": "But because that path is the exact same",
+      "en": "But because that path is the exact same",
+      "zh": ""
+    },
+    {
+      "start": 1818.9,
+      "duration": 3.09,
+      "text": "when we go this way, which is subtracted.",
+      "en": "when we go this way, which is subtracted.",
+      "zh": ""
+    },
+    {
+      "start": 1821.99,
+      "duration": 1.56,
+      "text": "- Mm-hmm. - So it cancels out.",
+      "en": "- Mm-hmm. - So it cancels out.",
+      "zh": ""
+    },
+    {
+      "start": 1823.55,
+      "duration": 2.76,
+      "text": "So the potential, yeah, it does show up,",
+      "en": "So the potential, yeah, it does show up,",
+      "zh": ""
+    },
+    {
+      "start": 1826.31,
+      "duration": 1.17,
+      "text": "but in such a way that",
+      "en": "but in such a way that",
+      "zh": ""
+    },
+    {
+      "start": 1827.48,
+      "duration": 2.85,
+      "text": "all the arbitrariness of the potential,",
+      "en": "all the arbitrariness of the potential,",
+      "zh": ""
+    },
+    {
+      "start": 1830.33,
+      "duration": 1.32,
+      "text": "it cancels out perfectly.",
+      "en": "it cancels out perfectly.",
+      "zh": ""
+    },
+    {
+      "start": 1831.65,
+      "duration": 0.83,
+      "text": "- Okay.",
+      "en": "- Okay.",
+      "zh": ""
+    },
+    {
+      "start": 1832.48,
+      "duration": 3.04,
+      "text": "- It's a geometrical quantity solving A",
+      "en": "- It's a geometrical quantity solving A",
+      "zh": ""
+    },
+    {
+      "start": 1835.52,
+      "duration": 1.89,
+      "text": "that has taken care of",
+      "en": "that has taken care of",
+      "zh": ""
+    },
+    {
+      "start": 1837.41,
+      "duration": 1.62,
+      "text": "for which all that residual ambiguity",
+      "en": "for which all that residual ambiguity",
+      "zh": ""
+    },
+    {
+      "start": 1839.03,
+      "duration": 2.16,
+      "text": "has literally canceled out.",
+      "en": "has literally canceled out.",
+      "zh": ""
+    },
+    {
+      "start": 1841.19,
+      "duration": 3.09,
+      "text": "- The potentials being physical might sound strange,",
+      "en": "- The potentials being physical might sound strange,",
+      "zh": ""
+    },
+    {
+      "start": 1844.28,
+      "duration": 3.84,
+      "text": "but the second interpretation is even stranger.",
+      "en": "but the second interpretation is even stranger.",
+      "zh": ""
+    },
+    {
+      "start": 1848.12,
+      "duration": 2.4,
+      "text": "Physicists in camp two maintain that potentials",
+      "en": "Physicists in camp two maintain that potentials",
+      "zh": ""
+    },
+    {
+      "start": 1850.52,
+      "duration": 2.25,
+      "text": "really are just mathematical objects",
+      "en": "really are just mathematical objects",
+      "zh": ""
+    },
+    {
+      "start": 1852.77,
+      "duration": 2.73,
+      "text": "and the fields are responsible for the effect.",
+      "en": "and the fields are responsible for the effect.",
+      "zh": ""
+    },
+    {
+      "start": 1855.5,
+      "duration": 1.59,
+      "text": "But in Tonomura's experiment,",
+      "en": "But in Tonomura's experiment,",
+      "zh": ""
+    },
+    {
+      "start": 1857.09,
+      "duration": 2.16,
+      "text": "the magnetic field was completely confined",
+      "en": "the magnetic field was completely confined",
+      "zh": ""
+    },
+    {
+      "start": 1859.25,
+      "duration": 1.53,
+      "text": "within the solenoid.",
+      "en": "within the solenoid.",
+      "zh": ""
+    },
+    {
+      "start": 1860.78,
+      "duration": 1.44,
+      "text": "For this interpretation to be true,",
+      "en": "For this interpretation to be true,",
+      "zh": ""
+    },
+    {
+      "start": 1862.22,
+      "duration": 1.71,
+      "text": "its supporters are forced to assert that",
+      "en": "its supporters are forced to assert that",
+      "zh": ""
+    },
+    {
+      "start": 1863.93,
+      "duration": 1.98,
+      "text": "fields can act non-locally.",
+      "en": "fields can act non-locally.",
+      "zh": ""
+    },
+    {
+      "start": 1865.91,
+      "duration": 1.95,
+      "text": "That is a field can influence things",
+      "en": "That is a field can influence things",
+      "zh": ""
+    },
+    {
+      "start": 1867.86,
+      "duration": 3.57,
+      "text": "outside the region of space where the field itself exists.",
+      "en": "outside the region of space where the field itself exists.",
+      "zh": ""
+    },
+    {
+      "start": 1871.43,
+      "duration": 3.18,
+      "text": "Many physicists find this idea difficult to swallow.",
+      "en": "Many physicists find this idea difficult to swallow.",
+      "zh": ""
+    },
+    {
+      "start": 1874.61,
+      "duration": 1.11,
+      "text": "- I think the idea of saying that",
+      "en": "- I think the idea of saying that",
+      "zh": ""
+    },
+    {
+      "start": 1875.72,
+      "duration": 2.04,
+      "text": "these fields act non-locally",
+      "en": "these fields act non-locally",
+      "zh": ""
+    },
+    {
+      "start": 1877.76,
+      "duration": 2.7,
+      "text": "undoes the reason why we have field theory, right?",
+      "en": "undoes the reason why we have field theory, right?",
+      "zh": ""
+    },
+    {
+      "start": 1880.46,
+      "duration": 1.62,
+      "text": "The great triad of a field theory,",
+      "en": "The great triad of a field theory,",
+      "zh": ""
+    },
+    {
+      "start": 1882.08,
+      "duration": 2.91,
+      "text": "which has served us so well for more than 100 years,",
+      "en": "which has served us so well for more than 100 years,",
+      "zh": ""
+    },
+    {
+      "start": 1884.99,
+      "duration": 0.93,
+      "text": "is this notion,",
+      "en": "is this notion,",
+      "zh": ""
+    },
+    {
+      "start": 1885.92,
+      "duration": 3.51,
+      "text": "stubborn notion that local causes yield only local effects.",
+      "en": "stubborn notion that local causes yield only local effects.",
+      "zh": ""
+    },
+    {
+      "start": 1889.43,
+      "duration": 2.25,
+      "text": "- [Derek] And yet Aharonov's own perspective has shifted",
+      "en": "- [Derek] And yet Aharonov's own perspective has shifted",
+      "zh": ""
+    },
+    {
+      "start": 1891.68,
+      "duration": 1.83,
+      "text": "from camp one to camp two.",
+      "en": "from camp one to camp two.",
+      "zh": ""
+    },
+    {
+      "start": 1893.51,
+      "duration": 2.37,
+      "text": "- When we publish the article,",
+      "en": "- When we publish the article,",
+      "zh": ""
+    },
+    {
+      "start": 1895.88,
+      "duration": 2.34,
+      "text": "we called it the effects of potentials.",
+      "en": "we called it the effects of potentials.",
+      "zh": ""
+    },
+    {
+      "start": 1898.22,
+      "duration": 3.51,
+      "text": "When you use local potential",
+      "en": "When you use local potential",
+      "zh": ""
+    },
+    {
+      "start": 1901.73,
+      "duration": 2.52,
+      "text": "and use the Schrodinger representation,",
+      "en": "and use the Schrodinger representation,",
+      "zh": ""
+    },
+    {
+      "start": 1904.25,
+      "duration": 1.89,
+      "text": "it looks as if everything is local.",
+      "en": "it looks as if everything is local.",
+      "zh": ""
+    },
+    {
+      "start": 1906.14,
+      "duration": 2.52,
+      "text": "But it's misleading because",
+      "en": "But it's misleading because",
+      "zh": ""
+    },
+    {
+      "start": 1908.66,
+      "duration": 2.51,
+      "text": "that local potential",
+      "en": "that local potential",
+      "zh": ""
+    },
+    {
+      "start": 1911.17,
+      "duration": 1.39,
+      "text": "is really not physical.",
+      "en": "is really not physical.",
+      "zh": ""
+    },
+    {
+      "start": 1912.56,
+      "duration": 3.12,
+      "text": "Later, I decided that it should be called",
+      "en": "Later, I decided that it should be called",
+      "zh": ""
+    },
+    {
+      "start": 1915.68,
+      "duration": 3.15,
+      "text": "a non-local effects of the",
+      "en": "a non-local effects of the",
+      "zh": ""
+    },
+    {
+      "start": 1918.83,
+      "duration": 2.44,
+      "text": "electric or magnetic field.",
+      "en": "electric or magnetic field.",
+      "zh": ""
+    },
+    {
+      "start": 1921.27,
+      "duration": 3.44,
+      "text": "The electron can feel the effect of a field",
+      "en": "The electron can feel the effect of a field",
+      "zh": ""
+    },
+    {
+      "start": 1924.71,
+      "duration": 2.37,
+      "text": "that is not where it is.",
+      "en": "that is not where it is.",
+      "zh": ""
+    },
+    {
+      "start": 1927.08,
+      "duration": 2.76,
+      "text": "- While non-locality remains a controversial idea,",
+      "en": "- While non-locality remains a controversial idea,",
+      "zh": ""
+    },
+    {
+      "start": 1929.84,
+      "duration": 4.17,
+      "text": "a sizable portion of physicists do side with Aharonov.",
+      "en": "a sizable portion of physicists do side with Aharonov.",
+      "zh": ""
+    },
+    {
+      "start": 1934.01,
+      "duration": 2.94,
+      "text": "And the debate continues to this day.",
+      "en": "And the debate continues to this day.",
+      "zh": ""
+    },
+    {
+      "start": 1937.85,
+      "duration": 2.25,
+      "text": "- I maybe have a third interpretation.",
+      "en": "- I maybe have a third interpretation.",
+      "zh": ""
+    },
+    {
+      "start": 1940.1,
+      "duration": 0.83,
+      "text": "- Good.",
+      "en": "- Good.",
+      "zh": ""
+    },
+    {
+      "start": 1940.93,
+      "duration": 1.45,
+      "text": "- And I would love to get your thoughts.",
+      "en": "- And I would love to get your thoughts.",
+      "zh": ""
+    },
+    {
+      "start": 1942.38,
+      "duration": 2.4,
+      "text": "And if it's bad, please tell me honestly.",
+      "en": "And if it's bad, please tell me honestly.",
+      "zh": ""
+    },
+    {
+      "start": 1944.78,
+      "duration": 0.83,
+      "text": "- Okay.",
+      "en": "- Okay.",
+      "zh": ""
+    },
+    {
+      "start": 1945.61,
+      "duration": 3.37,
+      "text": "- So we did this other video about particles essentially",
+      "en": "- So we did this other video about particles essentially",
+      "zh": ""
+    },
+    {
+      "start": 1948.98,
+      "duration": 3.03,
+      "text": "exploring all possible paths all at once.",
+      "en": "exploring all possible paths all at once.",
+      "zh": ""
+    },
+    {
+      "start": 1952.01,
+      "duration": 1.08,
+      "text": "And so right now we're saying",
+      "en": "And so right now we're saying",
+      "zh": ""
+    },
+    {
+      "start": 1953.09,
+      "duration": 2.46,
+      "text": "either the potentials are real",
+      "en": "either the potentials are real",
+      "zh": ""
+    },
+    {
+      "start": 1955.55,
+      "duration": 2.94,
+      "text": "or fields are acting non-locally.",
+      "en": "or fields are acting non-locally.",
+      "zh": ""
+    },
+    {
+      "start": 1958.49,
+      "duration": 1.65,
+      "text": "But what if there's a third option",
+      "en": "But what if there's a third option",
+      "zh": ""
+    },
+    {
+      "start": 1960.14,
+      "duration": 2.22,
+      "text": "where the fields are still local",
+      "en": "where the fields are still local",
+      "zh": ""
+    },
+    {
+      "start": 1962.36,
+      "duration": 2.82,
+      "text": "and it is the fields that are affecting the change,",
+      "en": "and it is the fields that are affecting the change,",
+      "zh": ""
+    },
+    {
+      "start": 1965.18,
+      "duration": 1.5,
+      "text": "but rather it's the particles",
+      "en": "but rather it's the particles",
+      "zh": ""
+    },
+    {
+      "start": 1966.68,
+      "duration": 2.67,
+      "text": "that are exploring all possible paths all at once.",
+      "en": "that are exploring all possible paths all at once.",
+      "zh": ""
+    },
+    {
+      "start": 1969.35,
+      "duration": 1.14,
+      "text": "You could potentially even have",
+      "en": "You could potentially even have",
+      "zh": ""
+    },
+    {
+      "start": 1970.49,
+      "duration": 3.21,
+      "text": "some quantum tunneling effects going inside an area",
+      "en": "some quantum tunneling effects going inside an area",
+      "zh": ""
+    },
+    {
+      "start": 1973.7,
+      "duration": 1.41,
+      "text": "where there are fields,",
+      "en": "where there are fields,",
+      "zh": ""
+    },
+    {
+      "start": 1975.11,
+      "duration": 2.19,
+      "text": "you know, as the electron or the wave function at least",
+      "en": "you know, as the electron or the wave function at least",
+      "zh": ""
+    },
+    {
+      "start": 1977.3,
+      "duration": 2.07,
+      "text": "explores all possible paths,",
+      "en": "explores all possible paths,",
+      "zh": ""
+    },
+    {
+      "start": 1979.37,
+      "duration": 2.16,
+      "text": "gets influenced by those slight bits",
+      "en": "gets influenced by those slight bits",
+      "zh": ""
+    },
+    {
+      "start": 1981.53,
+      "duration": 3.0,
+      "text": "where the wave function is inside the field.",
+      "en": "where the wave function is inside the field.",
+      "zh": ""
+    },
+    {
+      "start": 1984.53,
+      "duration": 1.89,
+      "text": "- I actually don't think that's ridiculous, Casper.",
+      "en": "- I actually don't think that's ridiculous, Casper.",
+      "zh": ""
+    },
+    {
+      "start": 1986.42,
+      "duration": 2.13,
+      "text": "That's for a strong ringing endorsement.",
+      "en": "That's for a strong ringing endorsement.",
+      "zh": ""
+    },
+    {
+      "start": 1988.55,
+      "duration": 2.13,
+      "text": "I think there's a lot to that. - Okay.",
+      "en": "I think there's a lot to that. - Okay.",
+      "zh": ""
+    },
+    {
+      "start": 1990.68,
+      "duration": 2.19,
+      "text": "- If we could think about these things as",
+      "en": "- If we could think about these things as",
+      "zh": ""
+    },
+    {
+      "start": 1992.87,
+      "duration": 1.65,
+      "text": "it is indeed the quantum phase",
+      "en": "it is indeed the quantum phase",
+      "zh": ""
+    },
+    {
+      "start": 1994.52,
+      "duration": 1.95,
+      "text": "that's being affected, - Yeah.",
+      "en": "that's being affected, - Yeah.",
+      "zh": ""
+    },
+    {
+      "start": 1996.47,
+      "duration": 1.92,
+      "text": "- we can describe that phase in terms of",
+      "en": "- we can describe that phase in terms of",
+      "zh": ""
+    },
+    {
+      "start": 1998.39,
+      "duration": 1.56,
+      "text": "quantum mechanical path integrals,",
+      "en": "quantum mechanical path integrals,",
+      "zh": ""
+    },
+    {
+      "start": 1999.95,
+      "duration": 3.69,
+      "text": "I think that's a perfectly reasonable way to to frame it.",
+      "en": "I think that's a perfectly reasonable way to to frame it.",
+      "zh": ""
+    },
+    {
+      "start": 2003.64,
+      "duration": 2.13,
+      "text": "So, yeah, I'd buy that.",
+      "en": "So, yeah, I'd buy that.",
+      "zh": ""
+    },
+    {
+      "start": 2005.77,
+      "duration": 0.83,
+      "text": "- That's awesome.",
+      "en": "- That's awesome.",
+      "zh": ""
+    },
+    {
+      "start": 2006.6,
+      "duration": 2.44,
+      "text": "I'm pretty sure this isn't the complete answer,",
+      "en": "I'm pretty sure this isn't the complete answer,",
+      "zh": ""
+    },
+    {
+      "start": 2009.04,
+      "duration": 1.8,
+      "text": "but one thing which would be cool is",
+      "en": "but one thing which would be cool is",
+      "zh": ""
+    },
+    {
+      "start": 2010.84,
+      "duration": 2.43,
+      "text": "if someone else takes this idea, you know,",
+      "en": "if someone else takes this idea, you know,",
+      "zh": ""
+    },
+    {
+      "start": 2013.27,
+      "duration": 1.83,
+      "text": "or maybe it gets inspired by it and they're like,",
+      "en": "or maybe it gets inspired by it and they're like,",
+      "zh": ""
+    },
+    {
+      "start": 2015.1,
+      "duration": 1.53,
+      "text": "actually that doesn't work,",
+      "en": "actually that doesn't work,",
+      "zh": ""
+    },
+    {
+      "start": 2016.63,
+      "duration": 2.94,
+      "text": "but here is how it does work and now we're closer.",
+      "en": "but here is how it does work and now we're closer.",
+      "zh": ""
+    },
+    {
+      "start": 2019.57,
+      "duration": 1.83,
+      "text": "- That's right, that would be the best possible outcome.",
+      "en": "- That's right, that would be the best possible outcome.",
+      "zh": ""
+    },
+    {
+      "start": 2021.4,
+      "duration": 1.68,
+      "text": "Well, the best possible outcome is you're just right.",
+      "en": "Well, the best possible outcome is you're just right.",
+      "zh": ""
+    },
+    {
+      "start": 2023.08,
+      "duration": 2.19,
+      "text": "But the second best possible outcome is that",
+      "en": "But the second best possible outcome is that",
+      "zh": ""
+    },
+    {
+      "start": 2025.27,
+      "duration": 2.72,
+      "text": "that nudges the community more broadly",
+      "en": "that nudges the community more broadly",
+      "zh": ""
+    },
+    {
+      "start": 2027.99,
+      "duration": 2.71,
+      "text": "to ask new questions of familiar material.",
+      "en": "to ask new questions of familiar material.",
+      "zh": ""
+    },
+    {
+      "start": 2030.7,
+      "duration": 1.38,
+      "text": "That's right.",
+      "en": "That's right.",
+      "zh": ""
+    },
+    {
+      "start": 2032.08,
+      "duration": 2.13,
+      "text": "- One new question the community asked was,",
+      "en": "- One new question the community asked was,",
+      "zh": ""
+    },
+    {
+      "start": 2034.21,
+      "duration": 2.49,
+      "text": "is there also a gravitational version?",
+      "en": "is there also a gravitational version?",
+      "zh": ""
+    },
+    {
+      "start": 2036.7,
+      "duration": 3.69,
+      "text": "In 2022, researchers at Stanford tested this.",
+      "en": "In 2022, researchers at Stanford tested this.",
+      "zh": ""
+    },
+    {
+      "start": 2040.39,
+      "duration": 2.04,
+      "text": "A simplified version of their experiment",
+      "en": "A simplified version of their experiment",
+      "zh": ""
+    },
+    {
+      "start": 2042.43,
+      "duration": 1.8,
+      "text": "works something like this.",
+      "en": "works something like this.",
+      "zh": ""
+    },
+    {
+      "start": 2044.23,
+      "duration": 2.19,
+      "text": "They shot up ultracold rubidium atoms",
+      "en": "They shot up ultracold rubidium atoms",
+      "zh": ""
+    },
+    {
+      "start": 2046.42,
+      "duration": 2.25,
+      "text": "into a tube-shaped vacuum chamber,",
+      "en": "into a tube-shaped vacuum chamber,",
+      "zh": ""
+    },
+    {
+      "start": 2048.67,
+      "duration": 2.91,
+      "text": "at the top of which was a tungsten mass.",
+      "en": "at the top of which was a tungsten mass.",
+      "zh": ""
+    },
+    {
+      "start": 2051.58,
+      "duration": 1.86,
+      "text": "Now atoms like electrons are",
+      "en": "Now atoms like electrons are",
+      "zh": ""
+    },
+    {
+      "start": 2053.44,
+      "duration": 2.1,
+      "text": "also governed by a wave function.",
+      "en": "also governed by a wave function.",
+      "zh": ""
+    },
+    {
+      "start": 2055.54,
+      "duration": 2.73,
+      "text": "So they split each rubidium atoms wave function",
+      "en": "So they split each rubidium atoms wave function",
+      "zh": ""
+    },
+    {
+      "start": 2058.27,
+      "duration": 1.65,
+      "text": "into two distinct packets,",
+      "en": "into two distinct packets,",
+      "zh": ""
+    },
+    {
+      "start": 2059.92,
+      "duration": 2.22,
+      "text": "and they launched them to different heights.",
+      "en": "and they launched them to different heights.",
+      "zh": ""
+    },
+    {
+      "start": 2062.14,
+      "duration": 2.79,
+      "text": "One was sent really high and got close to the mass,",
+      "en": "One was sent really high and got close to the mass,",
+      "zh": ""
+    },
+    {
+      "start": 2064.93,
+      "duration": 1.41,
+      "text": "whereas the other didn't.",
+      "en": "whereas the other didn't.",
+      "zh": ""
+    },
+    {
+      "start": 2066.34,
+      "duration": 1.98,
+      "text": "And then when the two collided at the bottom,",
+      "en": "And then when the two collided at the bottom,",
+      "zh": ""
+    },
+    {
+      "start": 2068.32,
+      "duration": 2.46,
+      "text": "this created an interference pattern.",
+      "en": "this created an interference pattern.",
+      "zh": ""
+    },
+    {
+      "start": 2070.78,
+      "duration": 1.35,
+      "text": "And when they let this interfere",
+      "en": "And when they let this interfere",
+      "zh": ""
+    },
+    {
+      "start": 2072.13,
+      "duration": 1.95,
+      "text": "and accounted for all other effects,",
+      "en": "and accounted for all other effects,",
+      "zh": ""
+    },
+    {
+      "start": 2074.08,
+      "duration": 2.31,
+      "text": "they could clearly see the phase shift",
+      "en": "they could clearly see the phase shift",
+      "zh": ""
+    },
+    {
+      "start": 2076.39,
+      "duration": 1.86,
+      "text": "as predicted by Aharonov and Bohm.",
+      "en": "as predicted by Aharonov and Bohm.",
+      "zh": ""
+    },
+    {
+      "start": 2078.25,
+      "duration": 0.83,
+      "text": "So it seems like",
+      "en": "So it seems like",
+      "zh": ""
+    },
+    {
+      "start": 2079.08,
+      "duration": 3.52,
+      "text": "the gravitational Aharonov and Bohm effect is real.",
+      "en": "the gravitational Aharonov and Bohm effect is real.",
+      "zh": ""
+    },
+    {
+      "start": 2082.6,
+      "duration": 2.01,
+      "text": "If the results hold up the scrutiny,",
+      "en": "If the results hold up the scrutiny,",
+      "zh": ""
+    },
+    {
+      "start": 2084.61,
+      "duration": 1.59,
+      "text": "this is a huge finding.",
+      "en": "this is a huge finding.",
+      "zh": ""
+    },
+    {
+      "start": 2086.2,
+      "duration": 1.32,
+      "text": "Because it suggests that",
+      "en": "Because it suggests that",
+      "zh": ""
+    },
+    {
+      "start": 2087.52,
+      "duration": 2.79,
+      "text": "the electromagnetic and gravitational potentials",
+      "en": "the electromagnetic and gravitational potentials",
+      "zh": ""
+    },
+    {
+      "start": 2090.31,
+      "duration": 3.51,
+      "text": "can influence reality at the most fundamental skill,",
+      "en": "can influence reality at the most fundamental skill,",
+      "zh": ""
+    },
+    {
+      "start": 2093.82,
+      "duration": 3.06,
+      "text": "even when all the fields are exactly zero.",
+      "en": "even when all the fields are exactly zero.",
+      "zh": ""
+    },
+    {
+      "start": 2096.88,
+      "duration": 3.45,
+      "text": "So does that mean that most physics textbooks are wrong",
+      "en": "So does that mean that most physics textbooks are wrong",
+      "zh": ""
+    },
+    {
+      "start": 2100.33,
+      "duration": 1.56,
+      "text": "or need updating?",
+      "en": "or need updating?",
+      "zh": ""
+    },
+    {
+      "start": 2101.89,
+      "duration": 1.53,
+      "text": "- Don't throw out all the textbooks.",
+      "en": "- Don't throw out all the textbooks.",
+      "zh": ""
+    },
+    {
+      "start": 2103.42,
+      "duration": 0.83,
+      "text": "They're beautiful.",
+      "en": "They're beautiful.",
+      "zh": ""
+    },
+    {
+      "start": 2104.25,
+      "duration": 0.97,
+      "text": "We learn a lot.",
+      "en": "We learn a lot.",
+      "zh": ""
+    },
+    {
+      "start": 2105.22,
+      "duration": 1.74,
+      "text": "But that doesn't mean we're done.",
+      "en": "But that doesn't mean we're done.",
+      "zh": ""
+    },
+    {
+      "start": 2106.96,
+      "duration": 1.83,
+      "text": "And we should be open to surprise.",
+      "en": "And we should be open to surprise.",
+      "zh": ""
+    },
+    {
+      "start": 2108.79,
+      "duration": 1.53,
+      "text": "And just because things haven't changed",
+      "en": "And just because things haven't changed",
+      "zh": ""
+    },
+    {
+      "start": 2110.32,
+      "duration": 1.41,
+      "text": "in let's say 200 years,",
+      "en": "in let's say 200 years,",
+      "zh": ""
+    },
+    {
+      "start": 2111.73,
+      "duration": 2.58,
+      "text": "roughly between say Lagrange and Aharonov-Bohm,",
+      "en": "roughly between say Lagrange and Aharonov-Bohm,",
+      "zh": ""
+    },
+    {
+      "start": 2114.31,
+      "duration": 1.65,
+      "text": "they still could change, right?",
+      "en": "they still could change, right?",
+      "zh": ""
+    },
+    {
+      "start": 2115.96,
+      "duration": 1.44,
+      "text": "And they can sometimes change",
+      "en": "And they can sometimes change",
+      "zh": ""
+    },
+    {
+      "start": 2117.4,
+      "duration": 3.66,
+      "text": "in beautiful and surprising and very powerful ways.",
+      "en": "in beautiful and surprising and very powerful ways.",
+      "zh": ""
+    },
+    {
+      "start": 2121.06,
+      "duration": 1.38,
+      "text": "- I read somewhere that",
+      "en": "- I read somewhere that",
+      "zh": ""
+    },
+    {
+      "start": 2122.44,
+      "duration": 4.89,
+      "text": "the reason you decided to do the AB effect was",
+      "en": "the reason you decided to do the AB effect was",
+      "zh": ""
+    },
+    {
+      "start": 2127.33,
+      "duration": 3.12,
+      "text": "that you didn't really think potentials were",
+      "en": "that you didn't really think potentials were",
+      "zh": ""
+    },
+    {
+      "start": 2130.45,
+      "duration": 2.25,
+      "text": "something that was just a mathematical tool",
+      "en": "something that was just a mathematical tool",
+      "zh": ""
+    },
+    {
+      "start": 2132.7,
+      "duration": 2.2,
+      "text": "like most scientists believe.",
+      "en": "like most scientists believe.",
+      "zh": ""
+    },
+    {
+      "start": 2134.9,
+      "duration": 1.19,
+      "text": "- That is correct.",
+      "en": "- That is correct.",
+      "zh": ""
+    },
+    {
+      "start": 2136.09,
+      "duration": 2.44,
+      "text": "I was very ignorant, luckily.",
+      "en": "I was very ignorant, luckily.",
+      "zh": ""
+    },
+    {
+      "start": 2138.53,
+      "duration": 2.6,
+      "text": "Sometimes it's good not to know too much.",
+      "en": "Sometimes it's good not to know too much.",
+      "zh": ""
+    },
+    {
+      "start": 2142.4,
+      "duration": 2.59,
+      "text": "(gentle music)",
+      "en": "(gentle music)",
+      "zh": ""
+    }
+  ],
+  "words": []
+}

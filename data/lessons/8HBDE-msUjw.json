@@ -1,0 +1,6760 @@
+{
+  "cues": [
+    {
+      "start": 0.18,
+      "duration": 2.43,
+      "text": "- [Derek] On the morning of the 17th of April, 2013,",
+      "en": "- [Derek] On the morning of the 17th of April, 2013,",
+      "zh": ""
+    },
+    {
+      "start": 2.61,
+      "duration": 3.66,
+      "text": "the journal Annals of Mathematics received a curious email.",
+      "en": "the journal Annals of Mathematics received a curious email.",
+      "zh": ""
+    },
+    {
+      "start": 6.27,
+      "duration": 2.97,
+      "text": "It claimed to contain a 50 page proof relating to one",
+      "en": "It claimed to contain a 50 page proof relating to one",
+      "zh": ""
+    },
+    {
+      "start": 9.24,
+      "duration": 3.3,
+      "text": "of the oldest unsolved problems in mathematics.",
+      "en": "of the oldest unsolved problems in mathematics.",
+      "zh": ""
+    },
+    {
+      "start": 12.54,
+      "duration": 2.76,
+      "text": "A problem that great mathematician Edmund Landau",
+      "en": "A problem that great mathematician Edmund Landau",
+      "zh": ""
+    },
+    {
+      "start": 15.3,
+      "duration": 1.62,
+      "text": "called unattackable.",
+      "en": "called unattackable.",
+      "zh": ""
+    },
+    {
+      "start": 18.72,
+      "duration": 2.4,
+      "text": "But this proof didn't come from a famous professor,",
+      "en": "But this proof didn't come from a famous professor,",
+      "zh": ""
+    },
+    {
+      "start": 21.12,
+      "duration": 2.52,
+      "text": "it came from an unknown.",
+      "en": "it came from an unknown.",
+      "zh": ""
+    },
+    {
+      "start": 23.64,
+      "duration": 1.56,
+      "text": "(bright music)",
+      "en": "(bright music)",
+      "zh": ""
+    },
+    {
+      "start": 25.2,
+      "duration": 2.37,
+      "text": "Someone who had once spent years working",
+      "en": "Someone who had once spent years working",
+      "zh": ""
+    },
+    {
+      "start": 27.57,
+      "duration": 1.44,
+      "text": "at a subway restaurant.",
+      "en": "at a subway restaurant.",
+      "zh": ""
+    },
+    {
+      "start": 29.01,
+      "duration": 1.35,
+      "text": "- So, they're like, okay,",
+      "en": "- So, they're like, okay,",
+      "zh": ""
+    },
+    {
+      "start": 30.36,
+      "duration": 2.07,
+      "text": "surely this isn't gonna work out, but whatever.",
+      "en": "surely this isn't gonna work out, but whatever.",
+      "zh": ""
+    },
+    {
+      "start": 32.43,
+      "duration": 2.04,
+      "text": "You know, we'll send it to a referee.",
+      "en": "You know, we'll send it to a referee.",
+      "zh": ""
+    },
+    {
+      "start": 34.47,
+      "duration": 3.24,
+      "text": "- [Derek] They expected to find a mistake in an afternoon,",
+      "en": "- [Derek] They expected to find a mistake in an afternoon,",
+      "zh": ""
+    },
+    {
+      "start": 37.71,
+      "duration": 1.38,
+      "text": "but they didn't.",
+      "en": "but they didn't.",
+      "zh": ""
+    },
+    {
+      "start": 39.09,
+      "duration": 1.38,
+      "text": "So, they went through it again,",
+      "en": "So, they went through it again,",
+      "zh": ""
+    },
+    {
+      "start": 40.47,
+      "duration": 2.01,
+      "text": "closely studying the fragile parts",
+      "en": "closely studying the fragile parts",
+      "zh": ""
+    },
+    {
+      "start": 42.48,
+      "duration": 3.06,
+      "text": "where a proof like this normally falls apart,",
+      "en": "where a proof like this normally falls apart,",
+      "zh": ""
+    },
+    {
+      "start": 45.54,
+      "duration": 2.22,
+      "text": "but still nothing.",
+      "en": "but still nothing.",
+      "zh": ""
+    },
+    {
+      "start": 47.76,
+      "duration": 2.73,
+      "text": "Soon they realized they were witnessing a breakthrough.",
+      "en": "Soon they realized they were witnessing a breakthrough.",
+      "zh": ""
+    },
+    {
+      "start": 50.49,
+      "duration": 2.13,
+      "text": "- Oh, damn, he did it.",
+      "en": "- Oh, damn, he did it.",
+      "zh": ""
+    },
+    {
+      "start": 52.62,
+      "duration": 1.71,
+      "text": "- So, how did he do It?",
+      "en": "- So, how did he do It?",
+      "zh": ""
+    },
+    {
+      "start": 54.33,
+      "duration": 2.7,
+      "text": "What did the experts miss and what was the problem",
+      "en": "What did the experts miss and what was the problem",
+      "zh": ""
+    },
+    {
+      "start": 57.03,
+      "duration": 1.71,
+      "text": "he was working on?",
+      "en": "he was working on?",
+      "zh": ""
+    },
+    {
+      "start": 58.74,
+      "duration": 1.23,
+      "text": "He was working on a new way",
+      "en": "He was working on a new way",
+      "zh": ""
+    },
+    {
+      "start": 59.97,
+      "duration": 2.64,
+      "text": "to attack one of the hardest unsolved problems",
+      "en": "to attack one of the hardest unsolved problems",
+      "zh": ""
+    },
+    {
+      "start": 62.61,
+      "duration": 1.02,
+      "text": "in number theory,",
+      "en": "in number theory,",
+      "zh": ""
+    },
+    {
+      "start": 63.63,
+      "duration": 1.77,
+      "text": "the twin prime conjecture.",
+      "en": "the twin prime conjecture.",
+      "zh": ""
+    },
+    {
+      "start": 66.9,
+      "duration": 0.83,
+      "text": "The twin primes",
+      "en": "The twin primes",
+      "zh": ""
+    },
+    {
+      "start": 67.73,
+      "duration": 2.47,
+      "text": "are prime numbers separated by just one number,",
+      "en": "are prime numbers separated by just one number,",
+      "zh": ""
+    },
+    {
+      "start": 70.2,
+      "duration": 3.45,
+      "text": "like 11 and 13 or 17 and 19.",
+      "en": "like 11 and 13 or 17 and 19.",
+      "zh": ""
+    },
+    {
+      "start": 73.65,
+      "duration": 2.64,
+      "text": "As you go up, the number line, primes become rarer",
+      "en": "As you go up, the number line, primes become rarer",
+      "zh": ""
+    },
+    {
+      "start": 76.29,
+      "duration": 2.67,
+      "text": "and twin primes become rarer still.",
+      "en": "and twin primes become rarer still.",
+      "zh": ""
+    },
+    {
+      "start": 78.96,
+      "duration": 1.8,
+      "text": "But the twin prime conjecture claims",
+      "en": "But the twin prime conjecture claims",
+      "zh": ""
+    },
+    {
+      "start": 80.76,
+      "duration": 3.33,
+      "text": "that there are infinitely many of them you never run out.",
+      "en": "that there are infinitely many of them you never run out.",
+      "zh": ""
+    },
+    {
+      "start": 85.47,
+      "duration": 1.47,
+      "text": "But is it true?",
+      "en": "But is it true?",
+      "zh": ""
+    },
+    {
+      "start": 86.94,
+      "duration": 1.71,
+      "text": "Well, one way to approach this problem",
+      "en": "Well, one way to approach this problem",
+      "zh": ""
+    },
+    {
+      "start": 88.65,
+      "duration": 3.15,
+      "text": "is to look at the gaps between consecutive primes",
+      "en": "is to look at the gaps between consecutive primes",
+      "zh": ""
+    },
+    {
+      "start": 91.8,
+      "duration": 1.58,
+      "text": "as you go up the number line.",
+      "en": "as you go up the number line.",
+      "zh": ""
+    },
+    {
+      "start": 93.38,
+      "duration": 0.83,
+      "text": "(bright music)",
+      "en": "(bright music)",
+      "zh": ""
+    },
+    {
+      "start": 94.21,
+      "duration": 2.15,
+      "text": "Now, at first they seem chaotic,",
+      "en": "Now, at first they seem chaotic,",
+      "zh": ""
+    },
+    {
+      "start": 96.36,
+      "duration": 3.45,
+      "text": "but if you average them out, a clear trend emerges.",
+      "en": "but if you average them out, a clear trend emerges.",
+      "zh": ""
+    },
+    {
+      "start": 101.04,
+      "duration": 2.88,
+      "text": "The average gap between two primes grows roughly",
+      "en": "The average gap between two primes grows roughly",
+      "zh": ""
+    },
+    {
+      "start": 103.92,
+      "duration": 3.57,
+      "text": "as the natural logarithm of the number N.",
+      "en": "as the natural logarithm of the number N.",
+      "zh": ""
+    },
+    {
+      "start": 107.49,
+      "duration": 1.62,
+      "text": "So, for example, the average gap",
+      "en": "So, for example, the average gap",
+      "zh": ""
+    },
+    {
+      "start": 109.11,
+      "duration": 4.49,
+      "text": "between primes around 100, is approximately 4.6.",
+      "en": "between primes around 100, is approximately 4.6.",
+      "zh": ""
+    },
+    {
+      "start": 113.6,
+      "duration": 3.82,
+      "text": "The average gap between primes around 1000 is 6.9.",
+      "en": "The average gap between primes around 1000 is 6.9.",
+      "zh": ""
+    },
+    {
+      "start": 117.42,
+      "duration": 1.77,
+      "text": "Logarithms grow very slowly,",
+      "en": "Logarithms grow very slowly,",
+      "zh": ""
+    },
+    {
+      "start": 119.19,
+      "duration": 2.4,
+      "text": "but they do keep growing forever.",
+      "en": "but they do keep growing forever.",
+      "zh": ""
+    },
+    {
+      "start": 121.59,
+      "duration": 1.86,
+      "text": "So, as N approaches infinity,",
+      "en": "So, as N approaches infinity,",
+      "zh": ""
+    },
+    {
+      "start": 123.45,
+      "duration": 4.32,
+      "text": "the average gap between primes also goes to infinity,",
+      "en": "the average gap between primes also goes to infinity,",
+      "zh": ""
+    },
+    {
+      "start": 127.77,
+      "duration": 2.07,
+      "text": "which is not particularly encouraging",
+      "en": "which is not particularly encouraging",
+      "zh": ""
+    },
+    {
+      "start": 129.84,
+      "duration": 3.09,
+      "text": "if you expect to always be able to find primes",
+      "en": "if you expect to always be able to find primes",
+      "zh": ""
+    },
+    {
+      "start": 132.93,
+      "duration": 1.68,
+      "text": "that are just two apart.",
+      "en": "that are just two apart.",
+      "zh": ""
+    },
+    {
+      "start": 135.6,
+      "duration": 2.01,
+      "text": "But if you start checking large numbers,",
+      "en": "But if you start checking large numbers,",
+      "zh": ""
+    },
+    {
+      "start": 137.61,
+      "duration": 2.99,
+      "text": "then after a million you quickly find the twin primes,",
+      "en": "then after a million you quickly find the twin primes,",
+      "zh": ""
+    },
+    {
+      "start": 140.6,
+      "duration": 2.92,
+      "text": "1,000,037 and 1,000,039.",
+      "en": "1,000,037 and 1,000,039.",
+      "zh": ""
+    },
+    {
+      "start": 144.51,
+      "duration": 4.29,
+      "text": "Past a billion, there's 1,000,000,007 and 1,000,000,009.",
+      "en": "Past a billion, there's 1,000,000,007 and 1,000,000,009.",
+      "zh": ""
+    },
+    {
+      "start": 148.8,
+      "duration": 2.94,
+      "text": "In fact, we have found a twin prime that's as large",
+      "en": "In fact, we have found a twin prime that's as large",
+      "zh": ""
+    },
+    {
+      "start": 151.74,
+      "duration": 6.93,
+      "text": "as 2,996,863,034,895",
+      "en": "as 2,996,863,034,895",
+      "zh": ""
+    },
+    {
+      "start": 158.67,
+      "duration": 3.78,
+      "text": "times two to the power of 1,290,000",
+      "en": "times two to the power of 1,290,000",
+      "zh": ""
+    },
+    {
+      "start": 162.45,
+      "duration": 2.04,
+      "text": "plus or minus one.",
+      "en": "plus or minus one.",
+      "zh": ""
+    },
+    {
+      "start": 164.49,
+      "duration": 6.63,
+      "text": "That is a pair of numbers each 388,342 digits long.",
+      "en": "That is a pair of numbers each 388,342 digits long.",
+      "zh": ""
+    },
+    {
+      "start": 171.12,
+      "duration": 3.24,
+      "text": "If you wanted to print those in a book for some reason,",
+      "en": "If you wanted to print those in a book for some reason,",
+      "zh": ""
+    },
+    {
+      "start": 174.36,
+      "duration": 3.9,
+      "text": "you would need around 260 pages per number.",
+      "en": "you would need around 260 pages per number.",
+      "zh": ""
+    },
+    {
+      "start": 179.7,
+      "duration": 2.46,
+      "text": "All of this is to say that as far as we've looked,",
+      "en": "All of this is to say that as far as we've looked,",
+      "zh": ""
+    },
+    {
+      "start": 182.16,
+      "duration": 2.46,
+      "text": "we've kept finding twin primes.",
+      "en": "we've kept finding twin primes.",
+      "zh": ""
+    },
+    {
+      "start": 184.62,
+      "duration": 2.01,
+      "text": "But of course, that is not how you solve",
+      "en": "But of course, that is not how you solve",
+      "zh": ""
+    },
+    {
+      "start": 186.63,
+      "duration": 0.99,
+      "text": "the twin prime conjecture,",
+      "en": "the twin prime conjecture,",
+      "zh": ""
+    },
+    {
+      "start": 187.62,
+      "duration": 2.13,
+      "text": "because you cannot physically check",
+      "en": "because you cannot physically check",
+      "zh": ""
+    },
+    {
+      "start": 189.75,
+      "duration": 1.77,
+      "text": "all the numbers out to infinity.",
+      "en": "all the numbers out to infinity.",
+      "zh": ""
+    },
+    {
+      "start": 191.52,
+      "duration": 2.34,
+      "text": "So, we need another way.",
+      "en": "So, we need another way.",
+      "zh": ""
+    },
+    {
+      "start": 193.86,
+      "duration": 1.62,
+      "text": "And around 100 years ago,",
+      "en": "And around 100 years ago,",
+      "zh": ""
+    },
+    {
+      "start": 195.48,
+      "duration": 2.19,
+      "text": "it felt like mathematicians were getting close",
+      "en": "it felt like mathematicians were getting close",
+      "zh": ""
+    },
+    {
+      "start": 197.67,
+      "duration": 2.64,
+      "text": "with a more sophisticated method.",
+      "en": "with a more sophisticated method.",
+      "zh": ""
+    },
+    {
+      "start": 200.31,
+      "duration": 2.13,
+      "text": "In 1923, English mathematicians,",
+      "en": "In 1923, English mathematicians,",
+      "zh": ""
+    },
+    {
+      "start": 202.44,
+      "duration": 2.76,
+      "text": "Hardy and Littlewood figured out how you can estimate",
+      "en": "Hardy and Littlewood figured out how you can estimate",
+      "zh": ""
+    },
+    {
+      "start": 205.2,
+      "duration": 2.22,
+      "text": "how many twin primes there should be.",
+      "en": "how many twin primes there should be.",
+      "zh": ""
+    },
+    {
+      "start": 207.42,
+      "duration": 2.46,
+      "text": "To do it, they started with one of the crowning achievements",
+      "en": "To do it, they started with one of the crowning achievements",
+      "zh": ""
+    },
+    {
+      "start": 209.88,
+      "duration": 2.43,
+      "text": "of number theory, the prime number theorem,",
+      "en": "of number theory, the prime number theorem,",
+      "zh": ""
+    },
+    {
+      "start": 212.31,
+      "duration": 1.47,
+      "text": "which tells you that the odds",
+      "en": "which tells you that the odds",
+      "zh": ""
+    },
+    {
+      "start": 213.78,
+      "duration": 2.16,
+      "text": "of a large number near N being prime",
+      "en": "of a large number near N being prime",
+      "zh": ""
+    },
+    {
+      "start": 215.94,
+      "duration": 3.3,
+      "text": "are roughly one over the natural logarithm of N.",
+      "en": "are roughly one over the natural logarithm of N.",
+      "zh": ""
+    },
+    {
+      "start": 219.24,
+      "duration": 3.06,
+      "text": "So, let's do a quick example to see how they use this.",
+      "en": "So, let's do a quick example to see how they use this.",
+      "zh": ""
+    },
+    {
+      "start": 223.29,
+      "duration": 4.3,
+      "text": "Say you wanna find the odds that 137,037 is prime.",
+      "en": "Say you wanna find the odds that 137,037 is prime.",
+      "zh": ""
+    },
+    {
+      "start": 227.59,
+      "duration": 1.58,
+      "text": "Well, you just plug that in",
+      "en": "Well, you just plug that in",
+      "zh": ""
+    },
+    {
+      "start": 229.17,
+      "duration": 2.13,
+      "text": "and find that it has about an eight and a half percent",
+      "en": "and find that it has about an eight and a half percent",
+      "zh": ""
+    },
+    {
+      "start": 231.3,
+      "duration": 2.04,
+      "text": "chance of being prime.",
+      "en": "chance of being prime.",
+      "zh": ""
+    },
+    {
+      "start": 233.34,
+      "duration": 1.53,
+      "text": "Of course, you could use the same trick",
+      "en": "Of course, you could use the same trick",
+      "zh": ""
+    },
+    {
+      "start": 234.87,
+      "duration": 3.96,
+      "text": "to find the odds that 137,039 is prime,",
+      "en": "to find the odds that 137,039 is prime,",
+      "zh": ""
+    },
+    {
+      "start": 238.83,
+      "duration": 2.36,
+      "text": "which is also around 8.5%.",
+      "en": "which is also around 8.5%.",
+      "zh": ""
+    },
+    {
+      "start": 242.13,
+      "duration": 3.09,
+      "text": "So, what are the odds that both of them are prime?",
+      "en": "So, what are the odds that both of them are prime?",
+      "zh": ""
+    },
+    {
+      "start": 245.22,
+      "duration": 2.25,
+      "text": "Well, you just multiply those odds together,",
+      "en": "Well, you just multiply those odds together,",
+      "zh": ""
+    },
+    {
+      "start": 247.47,
+      "duration": 3.3,
+      "text": "that gives you around a 0.7% chance.",
+      "en": "that gives you around a 0.7% chance.",
+      "zh": ""
+    },
+    {
+      "start": 250.77,
+      "duration": 1.86,
+      "text": "Now we are simplifying a little here",
+      "en": "Now we are simplifying a little here",
+      "zh": ""
+    },
+    {
+      "start": 252.63,
+      "duration": 2.55,
+      "text": "because we're assuming that primes are independent,",
+      "en": "because we're assuming that primes are independent,",
+      "zh": ""
+    },
+    {
+      "start": 255.18,
+      "duration": 1.26,
+      "text": "which they're not.",
+      "en": "which they're not.",
+      "zh": ""
+    },
+    {
+      "start": 256.44,
+      "duration": 1.59,
+      "text": "But putting that to one side,",
+      "en": "But putting that to one side,",
+      "zh": ""
+    },
+    {
+      "start": 258.03,
+      "duration": 2.49,
+      "text": "the odds of both a large number N",
+      "en": "the odds of both a large number N",
+      "zh": ""
+    },
+    {
+      "start": 260.52,
+      "duration": 1.86,
+      "text": "and N plus two being prime,",
+      "en": "and N plus two being prime,",
+      "zh": ""
+    },
+    {
+      "start": 262.38,
+      "duration": 4.02,
+      "text": "is one over ln(n) times one over ln(n) plus two,",
+      "en": "is one over ln(n) times one over ln(n) plus two,",
+      "zh": ""
+    },
+    {
+      "start": 266.4,
+      "duration": 3.03,
+      "text": "for large N the plus two is insignificant.",
+      "en": "for large N the plus two is insignificant.",
+      "zh": ""
+    },
+    {
+      "start": 269.43,
+      "duration": 2.82,
+      "text": "So, we get the odds of any pair of numbers",
+      "en": "So, we get the odds of any pair of numbers",
+      "zh": ""
+    },
+    {
+      "start": 272.25,
+      "duration": 1.86,
+      "text": "of size N being a twin prime",
+      "en": "of size N being a twin prime",
+      "zh": ""
+    },
+    {
+      "start": 274.11,
+      "duration": 3.0,
+      "text": "are roughly one over ln(n) squared.",
+      "en": "are roughly one over ln(n) squared.",
+      "zh": ""
+    },
+    {
+      "start": 278.46,
+      "duration": 1.68,
+      "text": "But of course, the problem with this approach",
+      "en": "But of course, the problem with this approach",
+      "zh": ""
+    },
+    {
+      "start": 280.14,
+      "duration": 3.15,
+      "text": "is that the odds of a pair being a twin prime decrease",
+      "en": "is that the odds of a pair being a twin prime decrease",
+      "zh": ""
+    },
+    {
+      "start": 283.29,
+      "duration": 1.53,
+      "text": "as you go to larger numbers.",
+      "en": "as you go to larger numbers.",
+      "zh": ""
+    },
+    {
+      "start": 284.82,
+      "duration": 2.28,
+      "text": "So, to count all twin primes up to N,",
+      "en": "So, to count all twin primes up to N,",
+      "zh": ""
+    },
+    {
+      "start": 287.1,
+      "duration": 2.64,
+      "text": "we add up the odds at every single position.",
+      "en": "we add up the odds at every single position.",
+      "zh": ""
+    },
+    {
+      "start": 289.74,
+      "duration": 2.34,
+      "text": "In other words, we integrate this expression",
+      "en": "In other words, we integrate this expression",
+      "zh": ""
+    },
+    {
+      "start": 292.08,
+      "duration": 3.21,
+      "text": "from the first prime two up to that number.",
+      "en": "from the first prime two up to that number.",
+      "zh": ""
+    },
+    {
+      "start": 295.29,
+      "duration": 2.88,
+      "text": "Now Hardy and Littlewood refine this argument further",
+      "en": "Now Hardy and Littlewood refine this argument further",
+      "zh": ""
+    },
+    {
+      "start": 298.17,
+      "duration": 1.32,
+      "text": "to account for the fact that primes",
+      "en": "to account for the fact that primes",
+      "zh": ""
+    },
+    {
+      "start": 299.49,
+      "duration": 2.04,
+      "text": "aren't really independent.",
+      "en": "aren't really independent.",
+      "zh": ""
+    },
+    {
+      "start": 301.53,
+      "duration": 3.24,
+      "text": "But all that added is just this correction factor upfront.",
+      "en": "But all that added is just this correction factor upfront.",
+      "zh": ""
+    },
+    {
+      "start": 304.77,
+      "duration": 2.85,
+      "text": "So, the final expression looks like this.",
+      "en": "So, the final expression looks like this.",
+      "zh": ""
+    },
+    {
+      "start": 307.62,
+      "duration": 1.14,
+      "text": "(bright music)",
+      "en": "(bright music)",
+      "zh": ""
+    },
+    {
+      "start": 308.76,
+      "duration": 1.86,
+      "text": "Now let's plot how many twin primes,",
+      "en": "Now let's plot how many twin primes,",
+      "zh": ""
+    },
+    {
+      "start": 310.62,
+      "duration": 1.74,
+      "text": "this predicts up to 1 trillion.",
+      "en": "this predicts up to 1 trillion.",
+      "zh": ""
+    },
+    {
+      "start": 312.36,
+      "duration": 1.5,
+      "text": "We see that it keeps growing",
+      "en": "We see that it keeps growing",
+      "zh": ""
+    },
+    {
+      "start": 313.86,
+      "duration": 2.52,
+      "text": "and if we fill in the actual count,",
+      "en": "and if we fill in the actual count,",
+      "zh": ""
+    },
+    {
+      "start": 316.38,
+      "duration": 2.26,
+      "text": "you'll notice that it is extremely close",
+      "en": "you'll notice that it is extremely close",
+      "zh": ""
+    },
+    {
+      "start": 320.04,
+      "duration": 1.92,
+      "text": "to the point where by 1 trillion,",
+      "en": "to the point where by 1 trillion,",
+      "zh": ""
+    },
+    {
+      "start": 321.96,
+      "duration": 4.07,
+      "text": "our estimate is only off by 0.001%.",
+      "en": "our estimate is only off by 0.001%.",
+      "zh": ""
+    },
+    {
+      "start": 326.03,
+      "duration": 3.04,
+      "text": "(bright music)",
+      "en": "(bright music)",
+      "zh": ""
+    },
+    {
+      "start": 329.07,
+      "duration": 4.38,
+      "text": "- The only issue though, is that this is just an estimate",
+      "en": "- The only issue though, is that this is just an estimate",
+      "zh": ""
+    },
+    {
+      "start": 333.45,
+      "duration": 2.88,
+      "text": "or what mathematicians call a heuristic.",
+      "en": "or what mathematicians call a heuristic.",
+      "zh": ""
+    },
+    {
+      "start": 336.33,
+      "duration": 3.45,
+      "text": "It can tell you roughly how many twin primes to expect,",
+      "en": "It can tell you roughly how many twin primes to expect,",
+      "zh": ""
+    },
+    {
+      "start": 339.78,
+      "duration": 2.79,
+      "text": "but it can't guarantee that they never stop.",
+      "en": "but it can't guarantee that they never stop.",
+      "zh": ""
+    },
+    {
+      "start": 342.57,
+      "duration": 2.82,
+      "text": "As Terry Tao puts it, for all we know,",
+      "en": "As Terry Tao puts it, for all we know,",
+      "zh": ""
+    },
+    {
+      "start": 345.39,
+      "duration": 2.01,
+      "text": "there could be this fast conspiracy",
+      "en": "there could be this fast conspiracy",
+      "zh": ""
+    },
+    {
+      "start": 347.4,
+      "duration": 3.15,
+      "text": "that every time a number N decides to be prime,",
+      "en": "that every time a number N decides to be prime,",
+      "zh": ""
+    },
+    {
+      "start": 350.55,
+      "duration": 1.95,
+      "text": "it has some secret agreement",
+      "en": "it has some secret agreement",
+      "zh": ""
+    },
+    {
+      "start": 352.5,
+      "duration": 2.31,
+      "text": "with its neighbor N plus two saying",
+      "en": "with its neighbor N plus two saying",
+      "zh": ""
+    },
+    {
+      "start": 354.81,
+      "duration": 2.34,
+      "text": "you're not allowed to be prime anymore.",
+      "en": "you're not allowed to be prime anymore.",
+      "zh": ""
+    },
+    {
+      "start": 357.15,
+      "duration": 5.0,
+      "text": "So, what we need is a rigorous airtight mathematical proof,",
+      "en": "So, what we need is a rigorous airtight mathematical proof,",
+      "zh": ""
+    },
+    {
+      "start": 362.16,
+      "duration": 1.41,
+      "text": "but finding such a proof",
+      "en": "but finding such a proof",
+      "zh": ""
+    },
+    {
+      "start": 363.57,
+      "duration": 2.67,
+      "text": "it turns out, is extremely difficult.",
+      "en": "it turns out, is extremely difficult.",
+      "zh": ""
+    },
+    {
+      "start": 367.17,
+      "duration": 1.56,
+      "text": "One of the first mathematicians",
+      "en": "One of the first mathematicians",
+      "zh": ""
+    },
+    {
+      "start": 368.73,
+      "duration": 3.92,
+      "text": "to really try was a 29-year-old Norwegian Viggo Brun.",
+      "en": "to really try was a 29-year-old Norwegian Viggo Brun.",
+      "zh": ""
+    },
+    {
+      "start": 372.65,
+      "duration": 1.45,
+      "text": "(bright music)",
+      "en": "(bright music)",
+      "zh": ""
+    },
+    {
+      "start": 374.1,
+      "duration": 2.07,
+      "text": "Brun was working during the early years",
+      "en": "Brun was working during the early years",
+      "zh": ""
+    },
+    {
+      "start": 376.17,
+      "duration": 1.56,
+      "text": "of the first World War,",
+      "en": "of the first World War,",
+      "zh": ""
+    },
+    {
+      "start": 377.73,
+      "duration": 1.38,
+      "text": "and with travel disrupted",
+      "en": "and with travel disrupted",
+      "zh": ""
+    },
+    {
+      "start": 379.11,
+      "duration": 2.94,
+      "text": "and Europe's mathematical centers largely out of reach,",
+      "en": "and Europe's mathematical centers largely out of reach,",
+      "zh": ""
+    },
+    {
+      "start": 382.05,
+      "duration": 3.96,
+      "text": "much of his work happened in quiet isolation back in Norway.",
+      "en": "much of his work happened in quiet isolation back in Norway.",
+      "zh": ""
+    },
+    {
+      "start": 387.36,
+      "duration": 3.21,
+      "text": "His goal was simple to try and prove that the number",
+      "en": "His goal was simple to try and prove that the number",
+      "zh": ""
+    },
+    {
+      "start": 390.57,
+      "duration": 2.94,
+      "text": "or count of twin primes always increases.",
+      "en": "or count of twin primes always increases.",
+      "zh": ""
+    },
+    {
+      "start": 393.51,
+      "duration": 3.69,
+      "text": "And to do this, he took a 2000 year old prime counting tool",
+      "en": "And to do this, he took a 2000 year old prime counting tool",
+      "zh": ""
+    },
+    {
+      "start": 397.2,
+      "duration": 2.67,
+      "text": "and tried to adapt it for twin primes.",
+      "en": "and tried to adapt it for twin primes.",
+      "zh": ""
+    },
+    {
+      "start": 399.87,
+      "duration": 2.07,
+      "text": "Now the normal version of this tool is called",
+      "en": "Now the normal version of this tool is called",
+      "zh": ""
+    },
+    {
+      "start": 401.94,
+      "duration": 4.25,
+      "text": "the sieve of Eratosthenes, and it works something like this.",
+      "en": "the sieve of Eratosthenes, and it works something like this.",
+      "zh": ""
+    },
+    {
+      "start": 406.19,
+      "duration": 1.03,
+      "text": "(bright music)",
+      "en": "(bright music)",
+      "zh": ""
+    },
+    {
+      "start": 407.22,
+      "duration": 2.94,
+      "text": "Say we want to find the primes up to 100.",
+      "en": "Say we want to find the primes up to 100.",
+      "zh": ""
+    },
+    {
+      "start": 410.16,
+      "duration": 3.03,
+      "text": "First we remove one because that's not prime.",
+      "en": "First we remove one because that's not prime.",
+      "zh": ""
+    },
+    {
+      "start": 413.19,
+      "duration": 2.37,
+      "text": "Then we circle the first prime, that is two,",
+      "en": "Then we circle the first prime, that is two,",
+      "zh": ""
+    },
+    {
+      "start": 415.56,
+      "duration": 2.7,
+      "text": "and we remove all of its multiples.",
+      "en": "and we remove all of its multiples.",
+      "zh": ""
+    },
+    {
+      "start": 418.26,
+      "duration": 1.35,
+      "text": "We do the same for three.",
+      "en": "We do the same for three.",
+      "zh": ""
+    },
+    {
+      "start": 419.61,
+      "duration": 2.56,
+      "text": "Circle it and remove its multiples,",
+      "en": "Circle it and remove its multiples,",
+      "zh": ""
+    },
+    {
+      "start": 422.17,
+      "duration": 1.22,
+      "text": "(bright music)",
+      "en": "(bright music)",
+      "zh": ""
+    },
+    {
+      "start": 423.39,
+      "duration": 2.22,
+      "text": "and then repeat that for five and seven.",
+      "en": "and then repeat that for five and seven.",
+      "zh": ""
+    },
+    {
+      "start": 426.78,
+      "duration": 2.91,
+      "text": "And with these four very quick operations,",
+      "en": "And with these four very quick operations,",
+      "zh": ""
+    },
+    {
+      "start": 429.69,
+      "duration": 3.24,
+      "text": "every single number that's left on your 10 by 10 grid",
+      "en": "every single number that's left on your 10 by 10 grid",
+      "zh": ""
+    },
+    {
+      "start": 432.93,
+      "duration": 2.07,
+      "text": "is a prime number.",
+      "en": "is a prime number.",
+      "zh": ""
+    },
+    {
+      "start": 435.0,
+      "duration": 2.37,
+      "text": "Now we stop the sieve at seven,",
+      "en": "Now we stop the sieve at seven,",
+      "zh": ""
+    },
+    {
+      "start": 437.37,
+      "duration": 3.63,
+      "text": "and we could keep going sieve by 11 or 30,",
+      "en": "and we could keep going sieve by 11 or 30,",
+      "zh": ""
+    },
+    {
+      "start": 441.0,
+      "duration": 2.25,
+      "text": "but it turns out that we don't have to.",
+      "en": "but it turns out that we don't have to.",
+      "zh": ""
+    },
+    {
+      "start": 443.25,
+      "duration": 1.17,
+      "text": "So, why is that?",
+      "en": "So, why is that?",
+      "zh": ""
+    },
+    {
+      "start": 445.83,
+      "duration": 1.59,
+      "text": "Well, the next prime is 11.",
+      "en": "Well, the next prime is 11.",
+      "zh": ""
+    },
+    {
+      "start": 447.42,
+      "duration": 2.25,
+      "text": "So, let's check the numbers below 100",
+      "en": "So, let's check the numbers below 100",
+      "zh": ""
+    },
+    {
+      "start": 449.67,
+      "duration": 2.16,
+      "text": "that are divisible by 11.",
+      "en": "that are divisible by 11.",
+      "zh": ""
+    },
+    {
+      "start": 451.83,
+      "duration": 1.92,
+      "text": "22 is two times 11,",
+      "en": "22 is two times 11,",
+      "zh": ""
+    },
+    {
+      "start": 453.75,
+      "duration": 2.85,
+      "text": "but since it's divisible by two, we already caught it.",
+      "en": "but since it's divisible by two, we already caught it.",
+      "zh": ""
+    },
+    {
+      "start": 456.6,
+      "duration": 3.12,
+      "text": "We also have 33, but that is divisible by three.",
+      "en": "We also have 33, but that is divisible by three.",
+      "zh": ""
+    },
+    {
+      "start": 459.72,
+      "duration": 3.81,
+      "text": "And a similar logic holds for 55 and 77.",
+      "en": "And a similar logic holds for 55 and 77.",
+      "zh": ""
+    },
+    {
+      "start": 463.53,
+      "duration": 2.55,
+      "text": "But what about 11 times 11?",
+      "en": "But what about 11 times 11?",
+      "zh": ""
+    },
+    {
+      "start": 466.08,
+      "duration": 5.0,
+      "text": "Well notice that is 121, which is not in our range.",
+      "en": "Well notice that is 121, which is not in our range.",
+      "zh": ""
+    },
+    {
+      "start": 471.54,
+      "duration": 3.09,
+      "text": "So, every multiple of 11 below 100",
+      "en": "So, every multiple of 11 below 100",
+      "zh": ""
+    },
+    {
+      "start": 474.63,
+      "duration": 2.73,
+      "text": "was already caught by a smaller prime.",
+      "en": "was already caught by a smaller prime.",
+      "zh": ""
+    },
+    {
+      "start": 477.36,
+      "duration": 3.36,
+      "text": "So, sieving by 11 would cross out nothing new.",
+      "en": "So, sieving by 11 would cross out nothing new.",
+      "zh": ""
+    },
+    {
+      "start": 480.72,
+      "duration": 1.68,
+      "text": "- So, Eratosthenes,",
+      "en": "- So, Eratosthenes,",
+      "zh": ""
+    },
+    {
+      "start": 482.4,
+      "duration": 2.67,
+      "text": "has this idea that you only need to sieve out",
+      "en": "has this idea that you only need to sieve out",
+      "zh": ""
+    },
+    {
+      "start": 485.07,
+      "duration": 1.62,
+      "text": "the primes that are at most square root,",
+      "en": "the primes that are at most square root,",
+      "zh": ""
+    },
+    {
+      "start": 486.69,
+      "duration": 1.47,
+      "text": "the size of the number.",
+      "en": "the size of the number.",
+      "zh": ""
+    },
+    {
+      "start": 488.16,
+      "duration": 3.57,
+      "text": "- But there's also a second wave to visualize this sieve.",
+      "en": "- But there's also a second wave to visualize this sieve.",
+      "zh": ""
+    },
+    {
+      "start": 491.73,
+      "duration": 1.29,
+      "text": "Take the number line",
+      "en": "Take the number line",
+      "zh": ""
+    },
+    {
+      "start": 493.02,
+      "duration": 3.54,
+      "text": "and let each prime send out a wave with the wavelength equal",
+      "en": "and let each prime send out a wave with the wavelength equal",
+      "zh": ""
+    },
+    {
+      "start": 496.56,
+      "duration": 1.68,
+      "text": "to the size of that number.",
+      "en": "to the size of that number.",
+      "zh": ""
+    },
+    {
+      "start": 498.24,
+      "duration": 2.76,
+      "text": "So, the wave from two lands on every second number",
+      "en": "So, the wave from two lands on every second number",
+      "zh": ""
+    },
+    {
+      "start": 501.0,
+      "duration": 3.42,
+      "text": "and the wave from three on every third and so on.",
+      "en": "and the wave from three on every third and so on.",
+      "zh": ""
+    },
+    {
+      "start": 504.42,
+      "duration": 1.59,
+      "text": "(bright music)",
+      "en": "(bright music)",
+      "zh": ""
+    },
+    {
+      "start": 506.01,
+      "duration": 3.03,
+      "text": "Now, notice that wherever a wave lands,",
+      "en": "Now, notice that wherever a wave lands,",
+      "zh": ""
+    },
+    {
+      "start": 509.04,
+      "duration": 2.16,
+      "text": "that number has to be composite.",
+      "en": "that number has to be composite.",
+      "zh": ""
+    },
+    {
+      "start": 512.1,
+      "duration": 2.58,
+      "text": "But the numbers that escape every preceding wave,",
+      "en": "But the numbers that escape every preceding wave,",
+      "zh": ""
+    },
+    {
+      "start": 514.68,
+      "duration": 2.13,
+      "text": "well those have to be prime.",
+      "en": "well those have to be prime.",
+      "zh": ""
+    },
+    {
+      "start": 517.95,
+      "duration": 3.06,
+      "text": "And so you end up with this beautiful visualization",
+      "en": "And so you end up with this beautiful visualization",
+      "zh": ""
+    },
+    {
+      "start": 521.01,
+      "duration": 1.36,
+      "text": "of the sieve.",
+      "en": "of the sieve.",
+      "zh": ""
+    },
+    {
+      "start": 522.37,
+      "duration": 1.37,
+      "text": "(bright music)",
+      "en": "(bright music)",
+      "zh": ""
+    },
+    {
+      "start": 523.74,
+      "duration": 3.21,
+      "text": "And both of these methods make it incredibly easy",
+      "en": "And both of these methods make it incredibly easy",
+      "zh": ""
+    },
+    {
+      "start": 526.95,
+      "duration": 2.46,
+      "text": "to identify the primes.",
+      "en": "to identify the primes.",
+      "zh": ""
+    },
+    {
+      "start": 529.41,
+      "duration": 3.39,
+      "text": "- But Brun didn't care about which primes were left,",
+      "en": "- But Brun didn't care about which primes were left,",
+      "zh": ""
+    },
+    {
+      "start": 532.8,
+      "duration": 2.67,
+      "text": "he just needed to know how many were left.",
+      "en": "he just needed to know how many were left.",
+      "zh": ""
+    },
+    {
+      "start": 535.47,
+      "duration": 2.64,
+      "text": "And to do this, he counted all the numbers",
+      "en": "And to do this, he counted all the numbers",
+      "zh": ""
+    },
+    {
+      "start": 538.11,
+      "duration": 2.25,
+      "text": "that were crossed out and then subtracted",
+      "en": "that were crossed out and then subtracted",
+      "zh": ""
+    },
+    {
+      "start": 540.36,
+      "duration": 1.59,
+      "text": "this from the total,",
+      "en": "this from the total,",
+      "zh": ""
+    },
+    {
+      "start": 541.95,
+      "duration": 3.69,
+      "text": "since whatever is not crossed out must be prime.",
+      "en": "since whatever is not crossed out must be prime.",
+      "zh": ""
+    },
+    {
+      "start": 545.64,
+      "duration": 3.51,
+      "text": "So, let's use this to find the number of primes below 100.",
+      "en": "So, let's use this to find the number of primes below 100.",
+      "zh": ""
+    },
+    {
+      "start": 549.15,
+      "duration": 1.56,
+      "text": "We can keep a running count.",
+      "en": "We can keep a running count.",
+      "zh": ""
+    },
+    {
+      "start": 550.71,
+      "duration": 1.95,
+      "text": "So, we'll start with 100.",
+      "en": "So, we'll start with 100.",
+      "zh": ""
+    },
+    {
+      "start": 552.66,
+      "duration": 1.8,
+      "text": "We're gonna throw out all the multiples of two.",
+      "en": "We're gonna throw out all the multiples of two.",
+      "zh": ""
+    },
+    {
+      "start": 554.46,
+      "duration": 1.62,
+      "text": "Well, that's 50 numbers left, okay?",
+      "en": "Well, that's 50 numbers left, okay?",
+      "zh": ""
+    },
+    {
+      "start": 556.08,
+      "duration": 2.37,
+      "text": "Then we're gonna throw away multiples of three.",
+      "en": "Then we're gonna throw away multiples of three.",
+      "zh": ""
+    },
+    {
+      "start": 558.45,
+      "duration": 1.14,
+      "text": "Well, how many multiples of three",
+      "en": "Well, how many multiples of three",
+      "zh": ""
+    },
+    {
+      "start": 559.59,
+      "duration": 0.83,
+      "text": "are there less than 100.",
+      "en": "are there less than 100.",
+      "zh": ""
+    },
+    {
+      "start": 560.42,
+      "duration": 2.17,
+      "text": "100 divided by three is not a whole number.",
+      "en": "100 divided by three is not a whole number.",
+      "zh": ""
+    },
+    {
+      "start": 562.59,
+      "duration": 3.81,
+      "text": "It's like 33 and a third, but we don't throw out fractions.",
+      "en": "It's like 33 and a third, but we don't throw out fractions.",
+      "zh": ""
+    },
+    {
+      "start": 566.4,
+      "duration": 2.19,
+      "text": "So, okay, forget that stupid little fraction.",
+      "en": "So, okay, forget that stupid little fraction.",
+      "zh": ""
+    },
+    {
+      "start": 568.59,
+      "duration": 2.37,
+      "text": "We do the same for the multiples of five and seven,",
+      "en": "We do the same for the multiples of five and seven,",
+      "zh": ""
+    },
+    {
+      "start": 570.96,
+      "duration": 2.37,
+      "text": "but now the count has gone negative.",
+      "en": "but now the count has gone negative.",
+      "zh": ""
+    },
+    {
+      "start": 573.33,
+      "duration": 2.76,
+      "text": "Well, it turns out that some numbers got crossed out twice,",
+      "en": "Well, it turns out that some numbers got crossed out twice,",
+      "zh": ""
+    },
+    {
+      "start": 576.09,
+      "duration": 3.3,
+      "text": "like six for example, it's a multiple of two and three.",
+      "en": "like six for example, it's a multiple of two and three.",
+      "zh": ""
+    },
+    {
+      "start": 579.39,
+      "duration": 3.06,
+      "text": "So, we crossed it out once when we removed multiples of two",
+      "en": "So, we crossed it out once when we removed multiples of two",
+      "zh": ""
+    },
+    {
+      "start": 582.45,
+      "duration": 2.52,
+      "text": "and again when we removed multiples of three.",
+      "en": "and again when we removed multiples of three.",
+      "zh": ""
+    },
+    {
+      "start": 584.97,
+      "duration": 1.77,
+      "text": "So, we have to add it back once.",
+      "en": "So, we have to add it back once.",
+      "zh": ""
+    },
+    {
+      "start": 586.74,
+      "duration": 1.89,
+      "text": "The same thing happens for multiples of 10,",
+      "en": "The same thing happens for multiples of 10,",
+      "zh": ""
+    },
+    {
+      "start": 588.63,
+      "duration": 1.59,
+      "text": "which is two times five,",
+      "en": "which is two times five,",
+      "zh": ""
+    },
+    {
+      "start": 590.22,
+      "duration": 1.56,
+      "text": "14 which is two times seven,",
+      "en": "14 which is two times seven,",
+      "zh": ""
+    },
+    {
+      "start": 591.78,
+      "duration": 2.64,
+      "text": "15, which is three times five and so on.",
+      "en": "15, which is three times five and so on.",
+      "zh": ""
+    },
+    {
+      "start": 594.42,
+      "duration": 2.22,
+      "text": "So, we add these overlaps back",
+      "en": "So, we add these overlaps back",
+      "zh": ""
+    },
+    {
+      "start": 596.64,
+      "duration": 2.46,
+      "text": "and now the count rises to 28,",
+      "en": "and now the count rises to 28,",
+      "zh": ""
+    },
+    {
+      "start": 599.1,
+      "duration": 2.04,
+      "text": "but it's still not quite right.",
+      "en": "but it's still not quite right.",
+      "zh": ""
+    },
+    {
+      "start": 601.14,
+      "duration": 3.42,
+      "text": "- Now we've triple added back in the multiples",
+      "en": "- Now we've triple added back in the multiples",
+      "zh": ""
+    },
+    {
+      "start": 604.56,
+      "duration": 1.95,
+      "text": "of two times three times five,",
+      "en": "of two times three times five,",
+      "zh": ""
+    },
+    {
+      "start": 606.51,
+      "duration": 2.22,
+      "text": "so that we need to subtract one more time.",
+      "en": "so that we need to subtract one more time.",
+      "zh": ""
+    },
+    {
+      "start": 608.73,
+      "duration": 1.95,
+      "text": "- The same thing happens for 42,",
+      "en": "- The same thing happens for 42,",
+      "zh": ""
+    },
+    {
+      "start": 610.68,
+      "duration": 1.74,
+      "text": "which is two times three times seven,",
+      "en": "which is two times three times seven,",
+      "zh": ""
+    },
+    {
+      "start": 612.42,
+      "duration": 2.61,
+      "text": "and 70, which is two times five times seven.",
+      "en": "and 70, which is two times five times seven.",
+      "zh": ""
+    },
+    {
+      "start": 615.03,
+      "duration": 2.79,
+      "text": "There's a fourth triple two, three times five times seven,",
+      "en": "There's a fourth triple two, three times five times seven,",
+      "zh": ""
+    },
+    {
+      "start": 617.82,
+      "duration": 3.57,
+      "text": "which is 105, but that's already bigger than 100.",
+      "en": "which is 105, but that's already bigger than 100.",
+      "zh": ""
+    },
+    {
+      "start": 621.39,
+      "duration": 2.07,
+      "text": "So, it contributes nothing here.",
+      "en": "So, it contributes nothing here.",
+      "zh": ""
+    },
+    {
+      "start": 623.46,
+      "duration": 3.42,
+      "text": "But we'll write it in to keep the pattern complete.",
+      "en": "But we'll write it in to keep the pattern complete.",
+      "zh": ""
+    },
+    {
+      "start": 626.88,
+      "duration": 2.64,
+      "text": "After the triples, we add back the quadruple,",
+      "en": "After the triples, we add back the quadruple,",
+      "zh": ""
+    },
+    {
+      "start": 629.52,
+      "duration": 3.24,
+      "text": "two times three times five times seven, which is 210.",
+      "en": "two times three times five times seven, which is 210.",
+      "zh": ""
+    },
+    {
+      "start": 632.76,
+      "duration": 1.41,
+      "text": "That's also bigger than 100,",
+      "en": "That's also bigger than 100,",
+      "zh": ""
+    },
+    {
+      "start": 634.17,
+      "duration": 2.55,
+      "text": "so it contributes zero as well.",
+      "en": "so it contributes zero as well.",
+      "zh": ""
+    },
+    {
+      "start": 636.72,
+      "duration": 3.42,
+      "text": "And finally, we add back the four sieving primes themselves",
+      "en": "And finally, we add back the four sieving primes themselves",
+      "zh": ""
+    },
+    {
+      "start": 640.14,
+      "duration": 3.75,
+      "text": "and subtract one because it was included in the count.",
+      "en": "and subtract one because it was included in the count.",
+      "zh": ""
+    },
+    {
+      "start": 643.89,
+      "duration": 3.24,
+      "text": "So, the count lands at 25 primes.",
+      "en": "So, the count lands at 25 primes.",
+      "zh": ""
+    },
+    {
+      "start": 647.13,
+      "duration": 1.68,
+      "text": "This process of alternating",
+      "en": "This process of alternating",
+      "zh": ""
+    },
+    {
+      "start": 648.81,
+      "duration": 2.34,
+      "text": "between subtracting and adding numbers back in",
+      "en": "between subtracting and adding numbers back in",
+      "zh": ""
+    },
+    {
+      "start": 651.15,
+      "duration": 2.34,
+      "text": "is called inclusion exclusion.",
+      "en": "is called inclusion exclusion.",
+      "zh": ""
+    },
+    {
+      "start": 653.49,
+      "duration": 1.47,
+      "text": "And it makes it super easy to find out",
+      "en": "And it makes it super easy to find out",
+      "zh": ""
+    },
+    {
+      "start": 654.96,
+      "duration": 3.57,
+      "text": "how many primes there are up to some given number.",
+      "en": "how many primes there are up to some given number.",
+      "zh": ""
+    },
+    {
+      "start": 658.53,
+      "duration": 3.39,
+      "text": "Now this equation still looks a little bit like a mess,",
+      "en": "Now this equation still looks a little bit like a mess,",
+      "zh": ""
+    },
+    {
+      "start": 661.92,
+      "duration": 3.51,
+      "text": "but actually we can rearrange it into this form.",
+      "en": "but actually we can rearrange it into this form.",
+      "zh": ""
+    },
+    {
+      "start": 665.43,
+      "duration": 2.07,
+      "text": "Now notice that every prime factor",
+      "en": "Now notice that every prime factor",
+      "zh": ""
+    },
+    {
+      "start": 667.5,
+      "duration": 3.48,
+      "text": "we added just adds an additional term in this series.",
+      "en": "we added just adds an additional term in this series.",
+      "zh": ""
+    },
+    {
+      "start": 670.98,
+      "duration": 2.22,
+      "text": "We've got the two that goes over here,",
+      "en": "We've got the two that goes over here,",
+      "zh": ""
+    },
+    {
+      "start": 673.2,
+      "duration": 3.0,
+      "text": "the three goes over here, five goes over here,",
+      "en": "the three goes over here, five goes over here,",
+      "zh": ""
+    },
+    {
+      "start": 676.2,
+      "duration": 2.13,
+      "text": "and seven goes over here.",
+      "en": "and seven goes over here.",
+      "zh": ""
+    },
+    {
+      "start": 678.33,
+      "duration": 3.03,
+      "text": "And if we were trying to find primes for some higher number",
+      "en": "And if we were trying to find primes for some higher number",
+      "zh": ""
+    },
+    {
+      "start": 681.36,
+      "duration": 2.04,
+      "text": "and we wanted to add 11 as a prime factor,",
+      "en": "and we wanted to add 11 as a prime factor,",
+      "zh": ""
+    },
+    {
+      "start": 683.4,
+      "duration": 4.32,
+      "text": "it would just add one additional one minus one over 11 term.",
+      "en": "it would just add one additional one minus one over 11 term.",
+      "zh": ""
+    },
+    {
+      "start": 687.72,
+      "duration": 0.87,
+      "text": "Now in general,",
+      "en": "Now in general,",
+      "zh": ""
+    },
+    {
+      "start": 688.59,
+      "duration": 2.58,
+      "text": "if we keep the sieve going up to some prime P,",
+      "en": "if we keep the sieve going up to some prime P,",
+      "zh": ""
+    },
+    {
+      "start": 691.17,
+      "duration": 1.92,
+      "text": "which is less than the square root of N,",
+      "en": "which is less than the square root of N,",
+      "zh": ""
+    },
+    {
+      "start": 693.09,
+      "duration": 2.55,
+      "text": "then the count becomes approximately this.",
+      "en": "then the count becomes approximately this.",
+      "zh": ""
+    },
+    {
+      "start": 698.16,
+      "duration": 2.73,
+      "text": "- But this is still just the count of primes.",
+      "en": "- But this is still just the count of primes.",
+      "zh": ""
+    },
+    {
+      "start": 700.89,
+      "duration": 3.02,
+      "text": "What Brun really wanted was the count of twin primes.",
+      "en": "What Brun really wanted was the count of twin primes.",
+      "zh": ""
+    },
+    {
+      "start": 703.91,
+      "duration": 3.52,
+      "text": "And so this is the part where he adapted his sieve,",
+      "en": "And so this is the part where he adapted his sieve,",
+      "zh": ""
+    },
+    {
+      "start": 707.43,
+      "duration": 3.93,
+      "text": "to find a case where both N and N plus two are prime.",
+      "en": "to find a case where both N and N plus two are prime.",
+      "zh": ""
+    },
+    {
+      "start": 711.36,
+      "duration": 2.46,
+      "text": "For example, when you're sieving by five,",
+      "en": "For example, when you're sieving by five,",
+      "zh": ""
+    },
+    {
+      "start": 713.82,
+      "duration": 2.97,
+      "text": "you remove the numbers where N is divisible by five,",
+      "en": "you remove the numbers where N is divisible by five,",
+      "zh": ""
+    },
+    {
+      "start": 716.79,
+      "duration": 1.44,
+      "text": "just as before.",
+      "en": "just as before.",
+      "zh": ""
+    },
+    {
+      "start": 718.23,
+      "duration": 2.22,
+      "text": "But in addition, you need to remove the numbers",
+      "en": "But in addition, you need to remove the numbers",
+      "zh": ""
+    },
+    {
+      "start": 720.45,
+      "duration": 3.12,
+      "text": "where N plus two is divisible by five.",
+      "en": "where N plus two is divisible by five.",
+      "zh": ""
+    },
+    {
+      "start": 723.57,
+      "duration": 4.23,
+      "text": "So, you also remove 23, 28, 33 and so on",
+      "en": "So, you also remove 23, 28, 33 and so on",
+      "zh": ""
+    },
+    {
+      "start": 727.8,
+      "duration": 5.0,
+      "text": "because in those cases, N plus two is 25, 30, 35 and so on.",
+      "en": "because in those cases, N plus two is 25, 30, 35 and so on.",
+      "zh": ""
+    },
+    {
+      "start": 733.5,
+      "duration": 2.64,
+      "text": "So, this means that while in the ordinary sieve",
+      "en": "So, this means that while in the ordinary sieve",
+      "zh": ""
+    },
+    {
+      "start": 736.14,
+      "duration": 3.72,
+      "text": "a prime P removes about one out of every P numbers,",
+      "en": "a prime P removes about one out of every P numbers,",
+      "zh": ""
+    },
+    {
+      "start": 739.86,
+      "duration": 2.64,
+      "text": "the twin prime sieve removes two.",
+      "en": "the twin prime sieve removes two.",
+      "zh": ""
+    },
+    {
+      "start": 742.5,
+      "duration": 2.91,
+      "text": "And this changes the count to this,",
+      "en": "And this changes the count to this,",
+      "zh": ""
+    },
+    {
+      "start": 745.41,
+      "duration": 3.09,
+      "text": "where the numerator for all the terms after two,",
+      "en": "where the numerator for all the terms after two,",
+      "zh": ""
+    },
+    {
+      "start": 748.5,
+      "duration": 1.68,
+      "text": "ends up getting a two.",
+      "en": "ends up getting a two.",
+      "zh": ""
+    },
+    {
+      "start": 751.14,
+      "duration": 3.51,
+      "text": "Now, if we plot the count of twin primes that this predicts,",
+      "en": "Now, if we plot the count of twin primes that this predicts,",
+      "zh": ""
+    },
+    {
+      "start": 754.65,
+      "duration": 2.22,
+      "text": "we see that it grows roughly like N",
+      "en": "we see that it grows roughly like N",
+      "zh": ""
+    },
+    {
+      "start": 756.87,
+      "duration": 2.79,
+      "text": "over the natural logarithm of N squared,",
+      "en": "over the natural logarithm of N squared,",
+      "zh": ""
+    },
+    {
+      "start": 759.66,
+      "duration": 1.68,
+      "text": "just as for our heuristic.",
+      "en": "just as for our heuristic.",
+      "zh": ""
+    },
+    {
+      "start": 761.34,
+      "duration": 2.55,
+      "text": "And so it seems like Brun did it,",
+      "en": "And so it seems like Brun did it,",
+      "zh": ""
+    },
+    {
+      "start": 763.89,
+      "duration": 3.6,
+      "text": "but unfortunately that is not the case.",
+      "en": "but unfortunately that is not the case.",
+      "zh": ""
+    },
+    {
+      "start": 767.49,
+      "duration": 3.72,
+      "text": "- We said that 100 divided by three is 33, and a third,",
+      "en": "- We said that 100 divided by three is 33, and a third,",
+      "zh": ""
+    },
+    {
+      "start": 771.21,
+      "duration": 1.29,
+      "text": "but forget about that little error,",
+      "en": "but forget about that little error,",
+      "zh": ""
+    },
+    {
+      "start": 772.5,
+      "duration": 1.77,
+      "text": "those little errors,",
+      "en": "those little errors,",
+      "zh": ""
+    },
+    {
+      "start": 774.27,
+      "duration": 2.1,
+      "text": "it's very difficult to control those errors",
+      "en": "it's very difficult to control those errors",
+      "zh": ""
+    },
+    {
+      "start": 776.37,
+      "duration": 1.74,
+      "text": "'cause there are so many of those little errors.",
+      "en": "'cause there are so many of those little errors.",
+      "zh": ""
+    },
+    {
+      "start": 778.11,
+      "duration": 2.85,
+      "text": "Each one of them is at most one it's a rounding error.",
+      "en": "Each one of them is at most one it's a rounding error.",
+      "zh": ""
+    },
+    {
+      "start": 780.96,
+      "duration": 2.4,
+      "text": "- Take the traditional sieve of Eratosthenes again,",
+      "en": "- Take the traditional sieve of Eratosthenes again,",
+      "zh": ""
+    },
+    {
+      "start": 783.36,
+      "duration": 2.07,
+      "text": "when we're sieving with just one prime,",
+      "en": "when we're sieving with just one prime,",
+      "zh": ""
+    },
+    {
+      "start": 785.43,
+      "duration": 1.83,
+      "text": "we just have an over two.",
+      "en": "we just have an over two.",
+      "zh": ""
+    },
+    {
+      "start": 787.26,
+      "duration": 1.86,
+      "text": "So, one rounding error,",
+      "en": "So, one rounding error,",
+      "zh": ""
+    },
+    {
+      "start": 789.12,
+      "duration": 1.65,
+      "text": "with two primes, two and three,",
+      "en": "with two primes, two and three,",
+      "zh": ""
+    },
+    {
+      "start": 790.77,
+      "duration": 2.37,
+      "text": "there are three separate rounding errors,",
+      "en": "there are three separate rounding errors,",
+      "zh": ""
+    },
+    {
+      "start": 793.14,
+      "duration": 2.4,
+      "text": "but with three primes, two, three, and five,",
+      "en": "but with three primes, two, three, and five,",
+      "zh": ""
+    },
+    {
+      "start": 795.54,
+      "duration": 3.24,
+      "text": "there are already seven separate rounding errors,",
+      "en": "there are already seven separate rounding errors,",
+      "zh": ""
+    },
+    {
+      "start": 798.78,
+      "duration": 3.57,
+      "text": "each for one term in the inclusion exclusion.",
+      "en": "each for one term in the inclusion exclusion.",
+      "zh": ""
+    },
+    {
+      "start": 802.35,
+      "duration": 2.94,
+      "text": "And so you might start to see the general pattern here.",
+      "en": "And so you might start to see the general pattern here.",
+      "zh": ""
+    },
+    {
+      "start": 805.29,
+      "duration": 3.42,
+      "text": "One prime gives two to the power one minus one terms,",
+      "en": "One prime gives two to the power one minus one terms,",
+      "zh": ""
+    },
+    {
+      "start": 808.71,
+      "duration": 2.79,
+      "text": "two gives two to the power two minus one terms,",
+      "en": "two gives two to the power two minus one terms,",
+      "zh": ""
+    },
+    {
+      "start": 811.5,
+      "duration": 1.74,
+      "text": "and three primes gives two",
+      "en": "and three primes gives two",
+      "zh": ""
+    },
+    {
+      "start": 813.24,
+      "duration": 2.4,
+      "text": "to the power three minus one terms.",
+      "en": "to the power three minus one terms.",
+      "zh": ""
+    },
+    {
+      "start": 815.64,
+      "duration": 2.73,
+      "text": "In general, if you sieve by K primes,",
+      "en": "In general, if you sieve by K primes,",
+      "zh": ""
+    },
+    {
+      "start": 818.37,
+      "duration": 4.26,
+      "text": "you get roughly two to the power K minus one error terms,",
+      "en": "you get roughly two to the power K minus one error terms,",
+      "zh": ""
+    },
+    {
+      "start": 822.63,
+      "duration": 1.17,
+      "text": "but we can drop the one",
+      "en": "but we can drop the one",
+      "zh": ""
+    },
+    {
+      "start": 823.8,
+      "duration": 3.24,
+      "text": "because it doesn't really make much of a difference.",
+      "en": "because it doesn't really make much of a difference.",
+      "zh": ""
+    },
+    {
+      "start": 827.04,
+      "duration": 2.61,
+      "text": "So, that means that if you're sieving for normal primes,",
+      "en": "So, that means that if you're sieving for normal primes,",
+      "zh": ""
+    },
+    {
+      "start": 829.65,
+      "duration": 3.51,
+      "text": "the error grows roughly like two to the power K.",
+      "en": "the error grows roughly like two to the power K.",
+      "zh": ""
+    },
+    {
+      "start": 833.16,
+      "duration": 3.21,
+      "text": "But if you're saving for twin primes, it gets even worse.",
+      "en": "But if you're saving for twin primes, it gets even worse.",
+      "zh": ""
+    },
+    {
+      "start": 836.37,
+      "duration": 3.57,
+      "text": "And now the error grows roughly like four to the power K.",
+      "en": "And now the error grows roughly like four to the power K.",
+      "zh": ""
+    },
+    {
+      "start": 839.94,
+      "duration": 3.68,
+      "text": "And so this causes a lot of trouble very, very quick.",
+      "en": "And so this causes a lot of trouble very, very quick.",
+      "zh": ""
+    },
+    {
+      "start": 843.62,
+      "duration": 2.68,
+      "text": "(bright music)",
+      "en": "(bright music)",
+      "zh": ""
+    },
+    {
+      "start": 846.3,
+      "duration": 3.87,
+      "text": "And then here for the twin primes, it's even worse.",
+      "en": "And then here for the twin primes, it's even worse.",
+      "zh": ""
+    },
+    {
+      "start": 851.07,
+      "duration": 3.12,
+      "text": "The main term grows a bit more slowly,",
+      "en": "The main term grows a bit more slowly,",
+      "zh": ""
+    },
+    {
+      "start": 855.33,
+      "duration": 3.3,
+      "text": "but the error term grows much faster.",
+      "en": "but the error term grows much faster.",
+      "zh": ""
+    },
+    {
+      "start": 858.63,
+      "duration": 2.49,
+      "text": "So, it still starts off slow.",
+      "en": "So, it still starts off slow.",
+      "zh": ""
+    },
+    {
+      "start": 861.12,
+      "duration": 1.23,
+      "text": "And so you can quickly see",
+      "en": "And so you can quickly see",
+      "zh": ""
+    },
+    {
+      "start": 862.35,
+      "duration": 2.67,
+      "text": "that once these error terms start dominating,",
+      "en": "that once these error terms start dominating,",
+      "zh": ""
+    },
+    {
+      "start": 865.02,
+      "duration": 1.17,
+      "text": "you get into trouble.",
+      "en": "you get into trouble.",
+      "zh": ""
+    },
+    {
+      "start": 866.19,
+      "duration": 2.76,
+      "text": "So, the issue he was facing is he had this main term",
+      "en": "So, the issue he was facing is he had this main term",
+      "zh": ""
+    },
+    {
+      "start": 868.95,
+      "duration": 1.44,
+      "text": "and the main term, you know,",
+      "en": "and the main term, you know,",
+      "zh": ""
+    },
+    {
+      "start": 870.39,
+      "duration": 1.92,
+      "text": "it grew in the way he wanted to,",
+      "en": "it grew in the way he wanted to,",
+      "zh": ""
+    },
+    {
+      "start": 872.31,
+      "duration": 1.8,
+      "text": "but then it just got overtaken",
+      "en": "but then it just got overtaken",
+      "zh": ""
+    },
+    {
+      "start": 874.11,
+      "duration": 1.53,
+      "text": "and dominated by those error terms.",
+      "en": "and dominated by those error terms.",
+      "zh": ""
+    },
+    {
+      "start": 875.64,
+      "duration": 0.83,
+      "text": "- Exactly.",
+      "en": "- Exactly.",
+      "zh": ""
+    },
+    {
+      "start": 876.47,
+      "duration": 1.45,
+      "text": "And that's all of analysis,",
+      "en": "And that's all of analysis,",
+      "zh": ""
+    },
+    {
+      "start": 877.92,
+      "duration": 2.28,
+      "text": "in general analytic number theory in particular",
+      "en": "in general analytic number theory in particular",
+      "zh": ""
+    },
+    {
+      "start": 880.2,
+      "duration": 1.44,
+      "text": "is the fight between the main term",
+      "en": "is the fight between the main term",
+      "zh": ""
+    },
+    {
+      "start": 881.64,
+      "duration": 2.55,
+      "text": "that you think is the truth, if it actually is the truth,",
+      "en": "that you think is the truth, if it actually is the truth,",
+      "zh": ""
+    },
+    {
+      "start": 884.19,
+      "duration": 3.6,
+      "text": "and getting the error term to be provably lower order.",
+      "en": "and getting the error term to be provably lower order.",
+      "zh": ""
+    },
+    {
+      "start": 887.79,
+      "duration": 1.29,
+      "text": "- So, for twin primes,",
+      "en": "- So, for twin primes,",
+      "zh": ""
+    },
+    {
+      "start": 889.08,
+      "duration": 2.31,
+      "text": "the main term grows roughly like this,",
+      "en": "the main term grows roughly like this,",
+      "zh": ""
+    },
+    {
+      "start": 891.39,
+      "duration": 3.93,
+      "text": "something like N over the natural logarithm of N squared.",
+      "en": "something like N over the natural logarithm of N squared.",
+      "zh": ""
+    },
+    {
+      "start": 895.32,
+      "duration": 1.35,
+      "text": "But that's not the true count,",
+      "en": "But that's not the true count,",
+      "zh": ""
+    },
+    {
+      "start": 896.67,
+      "duration": 1.23,
+      "text": "because to get the true count,",
+      "en": "because to get the true count,",
+      "zh": ""
+    },
+    {
+      "start": 897.9,
+      "duration": 2.76,
+      "text": "we must add and subtract the error terms,",
+      "en": "we must add and subtract the error terms,",
+      "zh": ""
+    },
+    {
+      "start": 900.66,
+      "duration": 3.3,
+      "text": "which gives us this upper and lower bound.",
+      "en": "which gives us this upper and lower bound.",
+      "zh": ""
+    },
+    {
+      "start": 903.96,
+      "duration": 1.59,
+      "text": "And now you can see the problem.",
+      "en": "And now you can see the problem.",
+      "zh": ""
+    },
+    {
+      "start": 905.55,
+      "duration": 2.79,
+      "text": "Because the true count can be anywhere in this range,",
+      "en": "Because the true count can be anywhere in this range,",
+      "zh": ""
+    },
+    {
+      "start": 908.34,
+      "duration": 3.51,
+      "text": "and as you can see, a big swath of it is negative.",
+      "en": "and as you can see, a big swath of it is negative.",
+      "zh": ""
+    },
+    {
+      "start": 911.85,
+      "duration": 2.31,
+      "text": "So, to prove the conjecture, what we must do",
+      "en": "So, to prove the conjecture, what we must do",
+      "zh": ""
+    },
+    {
+      "start": 914.16,
+      "duration": 2.34,
+      "text": "is we must show that this lower bound",
+      "en": "is we must show that this lower bound",
+      "zh": ""
+    },
+    {
+      "start": 916.5,
+      "duration": 2.79,
+      "text": "is always positive and growing.",
+      "en": "is always positive and growing.",
+      "zh": ""
+    },
+    {
+      "start": 919.29,
+      "duration": 2.49,
+      "text": "But that is where we run into a problem",
+      "en": "But that is where we run into a problem",
+      "zh": ""
+    },
+    {
+      "start": 921.78,
+      "duration": 2.01,
+      "text": "with the sieve we've been using.",
+      "en": "with the sieve we've been using.",
+      "zh": ""
+    },
+    {
+      "start": 923.79,
+      "duration": 2.16,
+      "text": "Because the more primes we sieve by,",
+      "en": "Because the more primes we sieve by,",
+      "zh": ""
+    },
+    {
+      "start": 925.95,
+      "duration": 3.06,
+      "text": "the more those error terms start to accumulate",
+      "en": "the more those error terms start to accumulate",
+      "zh": ""
+    },
+    {
+      "start": 929.01,
+      "duration": 1.89,
+      "text": "and we just can show this.",
+      "en": "and we just can show this.",
+      "zh": ""
+    },
+    {
+      "start": 930.9,
+      "duration": 2.97,
+      "text": "- And so what Brun eventually realized",
+      "en": "- And so what Brun eventually realized",
+      "zh": ""
+    },
+    {
+      "start": 933.87,
+      "duration": 1.8,
+      "text": "is that if you weaken the sieve,",
+      "en": "is that if you weaken the sieve,",
+      "zh": ""
+    },
+    {
+      "start": 935.67,
+      "duration": 2.31,
+      "text": "if you don't sieve all the way up to square root X,",
+      "en": "if you don't sieve all the way up to square root X,",
+      "zh": ""
+    },
+    {
+      "start": 937.98,
+      "duration": 2.13,
+      "text": "but to up to something less than that,",
+      "en": "but to up to something less than that,",
+      "zh": ""
+    },
+    {
+      "start": 940.11,
+      "duration": 4.32,
+      "text": "and you are very careful about your inclusion exclusion,",
+      "en": "and you are very careful about your inclusion exclusion,",
+      "zh": ""
+    },
+    {
+      "start": 944.43,
+      "duration": 2.01,
+      "text": "you can actually take care of those error terms.",
+      "en": "you can actually take care of those error terms.",
+      "zh": ""
+    },
+    {
+      "start": 946.44,
+      "duration": 2.4,
+      "text": "- So, run a sieve by fewer factors,",
+      "en": "- So, run a sieve by fewer factors,",
+      "zh": ""
+    },
+    {
+      "start": 948.84,
+      "duration": 3.54,
+      "text": "only up to N to the power one over 10.",
+      "en": "only up to N to the power one over 10.",
+      "zh": ""
+    },
+    {
+      "start": 952.38,
+      "duration": 1.05,
+      "text": "And as a result,",
+      "en": "And as a result,",
+      "zh": ""
+    },
+    {
+      "start": 953.43,
+      "duration": 2.79,
+      "text": "he gained enough control over the error term.",
+      "en": "he gained enough control over the error term.",
+      "zh": ""
+    },
+    {
+      "start": 956.22,
+      "duration": 2.28,
+      "text": "But this chooses a trade off.",
+      "en": "But this chooses a trade off.",
+      "zh": ""
+    },
+    {
+      "start": 958.5,
+      "duration": 2.31,
+      "text": "Say you wanted to find all the prime numbers",
+      "en": "Say you wanted to find all the prime numbers",
+      "zh": ""
+    },
+    {
+      "start": 960.81,
+      "duration": 1.26,
+      "text": "up to 10 billion,",
+      "en": "up to 10 billion,",
+      "zh": ""
+    },
+    {
+      "start": 962.07,
+      "duration": 1.8,
+      "text": "then using the square root method,",
+      "en": "then using the square root method,",
+      "zh": ""
+    },
+    {
+      "start": 963.87,
+      "duration": 2.94,
+      "text": "you would need to sieve up to the square root of 10 billion,",
+      "en": "you would need to sieve up to the square root of 10 billion,",
+      "zh": ""
+    },
+    {
+      "start": 966.81,
+      "duration": 1.95,
+      "text": "which is 100,000.",
+      "en": "which is 100,000.",
+      "zh": ""
+    },
+    {
+      "start": 968.76,
+      "duration": 3.33,
+      "text": "But that gives you a lot of error terms.",
+      "en": "But that gives you a lot of error terms.",
+      "zh": ""
+    },
+    {
+      "start": 972.09,
+      "duration": 1.8,
+      "text": "But with Brun's method,",
+      "en": "But with Brun's method,",
+      "zh": ""
+    },
+    {
+      "start": 973.89,
+      "duration": 2.37,
+      "text": "you would only need to sieve up to 10 billion",
+      "en": "you would only need to sieve up to 10 billion",
+      "zh": ""
+    },
+    {
+      "start": 976.26,
+      "duration": 3.96,
+      "text": "to the power one over 10, which is just 10.",
+      "en": "to the power one over 10, which is just 10.",
+      "zh": ""
+    },
+    {
+      "start": 980.22,
+      "duration": 1.41,
+      "text": "But there's a catch.",
+      "en": "But there's a catch.",
+      "zh": ""
+    },
+    {
+      "start": 981.63,
+      "duration": 2.37,
+      "text": "Because Brun, didn't sieve by all the primes,",
+      "en": "Because Brun, didn't sieve by all the primes,",
+      "zh": ""
+    },
+    {
+      "start": 984.0,
+      "duration": 2.79,
+      "text": "there were some survivors that weren't prime at all,",
+      "en": "there were some survivors that weren't prime at all,",
+      "zh": ""
+    },
+    {
+      "start": 986.79,
+      "duration": 2.25,
+      "text": "but numbers with many prime factors,",
+      "en": "but numbers with many prime factors,",
+      "zh": ""
+    },
+    {
+      "start": 989.04,
+      "duration": 2.04,
+      "text": "in Brun's case up to nine.",
+      "en": "in Brun's case up to nine.",
+      "zh": ""
+    },
+    {
+      "start": 991.92,
+      "duration": 2.16,
+      "text": "So, what he actually ended up proving",
+      "en": "So, what he actually ended up proving",
+      "zh": ""
+    },
+    {
+      "start": 994.08,
+      "duration": 2.1,
+      "text": "is that there are infinitely many pairs",
+      "en": "is that there are infinitely many pairs",
+      "zh": ""
+    },
+    {
+      "start": 996.18,
+      "duration": 1.68,
+      "text": "of numbers two apart,",
+      "en": "of numbers two apart,",
+      "zh": ""
+    },
+    {
+      "start": 997.86,
+      "duration": 3.39,
+      "text": "where each number has at most nine prime factors.",
+      "en": "where each number has at most nine prime factors.",
+      "zh": ""
+    },
+    {
+      "start": 1002.27,
+      "duration": 3.72,
+      "text": "- Brun's techniques were improved and improved and improved,",
+      "en": "- Brun's techniques were improved and improved and improved,",
+      "zh": ""
+    },
+    {
+      "start": 1005.99,
+      "duration": 3.06,
+      "text": "and we went from nine prime factors to seven prime factors",
+      "en": "and we went from nine prime factors to seven prime factors",
+      "zh": ""
+    },
+    {
+      "start": 1009.05,
+      "duration": 1.62,
+      "text": "to three prime factors.",
+      "en": "to three prime factors.",
+      "zh": ""
+    },
+    {
+      "start": 1010.67,
+      "duration": 2.13,
+      "text": "Until in 1973,",
+      "en": "Until in 1973,",
+      "zh": ""
+    },
+    {
+      "start": 1012.8,
+      "duration": 3.27,
+      "text": "a Chinese mathematician Chen Jingrun comes along",
+      "en": "a Chinese mathematician Chen Jingrun comes along",
+      "zh": ""
+    },
+    {
+      "start": 1016.07,
+      "duration": 2.61,
+      "text": "and proved that there are infinitely many prime P,",
+      "en": "and proved that there are infinitely many prime P,",
+      "zh": ""
+    },
+    {
+      "start": 1018.68,
+      "duration": 4.23,
+      "text": "where P plus two has at most two prime factors.",
+      "en": "where P plus two has at most two prime factors.",
+      "zh": ""
+    },
+    {
+      "start": 1022.91,
+      "duration": 2.61,
+      "text": "- This is as close as you could get",
+      "en": "- This is as close as you could get",
+      "zh": ""
+    },
+    {
+      "start": 1025.52,
+      "duration": 2.19,
+      "text": "to proving the twin prime conjecture",
+      "en": "to proving the twin prime conjecture",
+      "zh": ""
+    },
+    {
+      "start": 1027.71,
+      "duration": 1.47,
+      "text": "without actually getting there.",
+      "en": "without actually getting there.",
+      "zh": ""
+    },
+    {
+      "start": 1029.18,
+      "duration": 3.66,
+      "text": "We're stuck like we're like as close as we can get",
+      "en": "We're stuck like we're like as close as we can get",
+      "zh": ""
+    },
+    {
+      "start": 1032.84,
+      "duration": 1.23,
+      "text": "and no further.",
+      "en": "and no further.",
+      "zh": ""
+    },
+    {
+      "start": 1034.07,
+      "duration": 0.83,
+      "text": "- Right.",
+      "en": "- Right.",
+      "zh": ""
+    },
+    {
+      "start": 1034.9,
+      "duration": 2.14,
+      "text": "So, that's one approximation,",
+      "en": "So, that's one approximation,",
+      "zh": ""
+    },
+    {
+      "start": 1037.04,
+      "duration": 2.73,
+      "text": "one mechanism for approximating twin primes.",
+      "en": "one mechanism for approximating twin primes.",
+      "zh": ""
+    },
+    {
+      "start": 1039.77,
+      "duration": 1.11,
+      "text": "There's another.",
+      "en": "There's another.",
+      "zh": ""
+    },
+    {
+      "start": 1040.88,
+      "duration": 3.6,
+      "text": "So, the other mechanism is what's the smallest gap",
+      "en": "So, the other mechanism is what's the smallest gap",
+      "zh": ""
+    },
+    {
+      "start": 1044.48,
+      "duration": 1.41,
+      "text": "between two consecutive primes?",
+      "en": "between two consecutive primes?",
+      "zh": ""
+    },
+    {
+      "start": 1045.89,
+      "duration": 1.98,
+      "text": "So, instead of saying they differ by two",
+      "en": "So, instead of saying they differ by two",
+      "zh": ""
+    },
+    {
+      "start": 1047.87,
+      "duration": 2.16,
+      "text": "and one of them's prime and the other one, well,",
+      "en": "and one of them's prime and the other one, well,",
+      "zh": ""
+    },
+    {
+      "start": 1050.03,
+      "duration": 2.25,
+      "text": "we're gonna try to get, you know, reduce the number",
+      "en": "we're gonna try to get, you know, reduce the number",
+      "zh": ""
+    },
+    {
+      "start": 1052.28,
+      "duration": 1.11,
+      "text": "of prime factors that it has.",
+      "en": "of prime factors that it has.",
+      "zh": ""
+    },
+    {
+      "start": 1053.39,
+      "duration": 3.24,
+      "text": "Instead we're gonna say both numbers must be prime,",
+      "en": "Instead we're gonna say both numbers must be prime,",
+      "zh": ""
+    },
+    {
+      "start": 1056.63,
+      "duration": 2.16,
+      "text": "but let's reduce the distance between them.",
+      "en": "but let's reduce the distance between them.",
+      "zh": ""
+    },
+    {
+      "start": 1059.66,
+      "duration": 2.73,
+      "text": "- Now remember, on average consecutive primes sit",
+      "en": "- Now remember, on average consecutive primes sit",
+      "zh": ""
+    },
+    {
+      "start": 1062.39,
+      "duration": 2.85,
+      "text": "about the natural logarithm of N apart.",
+      "en": "about the natural logarithm of N apart.",
+      "zh": ""
+    },
+    {
+      "start": 1065.24,
+      "duration": 2.88,
+      "text": "And so the question became, can we at least prove",
+      "en": "And so the question became, can we at least prove",
+      "zh": ""
+    },
+    {
+      "start": 1068.12,
+      "duration": 3.03,
+      "text": "that primes come closer than that average gap?",
+      "en": "that primes come closer than that average gap?",
+      "zh": ""
+    },
+    {
+      "start": 1072.62,
+      "duration": 2.52,
+      "text": "For decades, mathematicians kept chipping away",
+      "en": "For decades, mathematicians kept chipping away",
+      "zh": ""
+    },
+    {
+      "start": 1075.14,
+      "duration": 0.9,
+      "text": "at this problem.",
+      "en": "at this problem.",
+      "zh": ""
+    },
+    {
+      "start": 1076.04,
+      "duration": 2.73,
+      "text": "By 1988, the gap had dropped all the way down",
+      "en": "By 1988, the gap had dropped all the way down",
+      "zh": ""
+    },
+    {
+      "start": 1078.77,
+      "duration": 2.58,
+      "text": "to roughly a quarter of the average gap.",
+      "en": "to roughly a quarter of the average gap.",
+      "zh": ""
+    },
+    {
+      "start": 1081.35,
+      "duration": 2.61,
+      "text": "This means that say the average gap is 100",
+      "en": "This means that say the average gap is 100",
+      "zh": ""
+    },
+    {
+      "start": 1083.96,
+      "duration": 1.38,
+      "text": "at some enormous scale,",
+      "en": "at some enormous scale,",
+      "zh": ""
+    },
+    {
+      "start": 1085.34,
+      "duration": 1.92,
+      "text": "then primes must sometimes come",
+      "en": "then primes must sometimes come",
+      "zh": ""
+    },
+    {
+      "start": 1087.26,
+      "duration": 2.28,
+      "text": "within about 25 of each other.",
+      "en": "within about 25 of each other.",
+      "zh": ""
+    },
+    {
+      "start": 1090.92,
+      "duration": 3.36,
+      "text": "But then in 2005, Goldston, Pintz and Yildirim,",
+      "en": "But then in 2005, Goldston, Pintz and Yildirim,",
+      "zh": ""
+    },
+    {
+      "start": 1094.28,
+      "duration": 3.06,
+      "text": "proved a result that shocked the mathematical community.",
+      "en": "proved a result that shocked the mathematical community.",
+      "zh": ""
+    },
+    {
+      "start": 1097.34,
+      "duration": 3.15,
+      "text": "- And they announced the proof of a spectacular result,",
+      "en": "- And they announced the proof of a spectacular result,",
+      "zh": ""
+    },
+    {
+      "start": 1100.49,
+      "duration": 4.2,
+      "text": "0% bounded gaps of 0% of the average.",
+      "en": "0% bounded gaps of 0% of the average.",
+      "zh": ""
+    },
+    {
+      "start": 1104.69,
+      "duration": 1.41,
+      "text": "- Wait, what?",
+      "en": "- Wait, what?",
+      "zh": ""
+    },
+    {
+      "start": 1106.1,
+      "duration": 1.89,
+      "text": "- They proved that you can make the fraction",
+      "en": "- They proved that you can make the fraction",
+      "zh": ""
+    },
+    {
+      "start": 1107.99,
+      "duration": 1.92,
+      "text": "as small as you want.",
+      "en": "as small as you want.",
+      "zh": ""
+    },
+    {
+      "start": 1109.91,
+      "duration": 3.33,
+      "text": "This means the gap could be one 10th or 100th,",
+      "en": "This means the gap could be one 10th or 100th,",
+      "zh": ""
+    },
+    {
+      "start": 1113.24,
+      "duration": 2.67,
+      "text": "or even 1000000th of the average gap.",
+      "en": "or even 1000000th of the average gap.",
+      "zh": ""
+    },
+    {
+      "start": 1115.91,
+      "duration": 2.55,
+      "text": "It could be as arbitrarily small as you like,",
+      "en": "It could be as arbitrarily small as you like,",
+      "zh": ""
+    },
+    {
+      "start": 1118.46,
+      "duration": 3.03,
+      "text": "and infinitely often primes get that close.",
+      "en": "and infinitely often primes get that close.",
+      "zh": ""
+    },
+    {
+      "start": 1122.78,
+      "duration": 2.01,
+      "text": "- When I was young, we didn't know there were gaps of size,",
+      "en": "- When I was young, we didn't know there were gaps of size,",
+      "zh": ""
+    },
+    {
+      "start": 1124.79,
+      "duration": 2.1,
+      "text": "less than say one 10th log X",
+      "en": "less than say one 10th log X",
+      "zh": ""
+    },
+    {
+      "start": 1126.89,
+      "duration": 3.12,
+      "text": "or infinitely many primes pairs",
+      "en": "or infinitely many primes pairs",
+      "zh": ""
+    },
+    {
+      "start": 1130.01,
+      "duration": 0.93,
+      "text": "and Goldston and Yildirim,",
+      "en": "and Goldston and Yildirim,",
+      "zh": ""
+    },
+    {
+      "start": 1130.94,
+      "duration": 3.42,
+      "text": "came up with a method to attack that.",
+      "en": "came up with a method to attack that.",
+      "zh": ""
+    },
+    {
+      "start": 1134.36,
+      "duration": 3.54,
+      "text": "- But the method also came close to something even bigger,",
+      "en": "- But the method also came close to something even bigger,",
+      "zh": ""
+    },
+    {
+      "start": 1137.9,
+      "duration": 3.53,
+      "text": "an absolute bounded gap between two primes.",
+      "en": "an absolute bounded gap between two primes.",
+      "zh": ""
+    },
+    {
+      "start": 1141.43,
+      "duration": 1.0,
+      "text": "(bright music)",
+      "en": "(bright music)",
+      "zh": ""
+    },
+    {
+      "start": 1142.43,
+      "duration": 2.25,
+      "text": "- And so that was like a big thing.",
+      "en": "- And so that was like a big thing.",
+      "zh": ""
+    },
+    {
+      "start": 1144.68,
+      "duration": 2.88,
+      "text": "- What was the big desire to go from 0%",
+      "en": "- What was the big desire to go from 0%",
+      "zh": ""
+    },
+    {
+      "start": 1147.56,
+      "duration": 4.2,
+      "text": "or arbitrarily small to a concrete bounded gap?",
+      "en": "or arbitrarily small to a concrete bounded gap?",
+      "zh": ""
+    },
+    {
+      "start": 1151.76,
+      "duration": 1.53,
+      "text": "- Well, because we think that the bound",
+      "en": "- Well, because we think that the bound",
+      "zh": ""
+    },
+    {
+      "start": 1153.29,
+      "duration": 2.43,
+      "text": "between two consecutive primes infinitely often is two,",
+      "en": "between two consecutive primes infinitely often is two,",
+      "zh": ""
+    },
+    {
+      "start": 1155.72,
+      "duration": 3.24,
+      "text": "and right now we're showing that it's log X, and X grows.",
+      "en": "and right now we're showing that it's log X, and X grows.",
+      "zh": ""
+    },
+    {
+      "start": 1158.96,
+      "duration": 2.31,
+      "text": "- If they could get to bounded gaps,",
+      "en": "- If they could get to bounded gaps,",
+      "zh": ""
+    },
+    {
+      "start": 1161.27,
+      "duration": 3.75,
+      "text": "then they had another method to attack the conjecture.",
+      "en": "then they had another method to attack the conjecture.",
+      "zh": ""
+    },
+    {
+      "start": 1165.02,
+      "duration": 1.38,
+      "text": "The only problem",
+      "en": "The only problem",
+      "zh": ""
+    },
+    {
+      "start": 1166.4,
+      "duration": 3.96,
+      "text": "was that it seemed like their tool ran into a wall.",
+      "en": "was that it seemed like their tool ran into a wall.",
+      "zh": ""
+    },
+    {
+      "start": 1170.36,
+      "duration": 1.68,
+      "text": "And so in 2005,",
+      "en": "And so in 2005,",
+      "zh": ""
+    },
+    {
+      "start": 1172.04,
+      "duration": 3.57,
+      "text": "the American Institute of Mathematics convened a meeting,",
+      "en": "the American Institute of Mathematics convened a meeting,",
+      "zh": ""
+    },
+    {
+      "start": 1175.61,
+      "duration": 3.96,
+      "text": "gathering all the world's leading experts on this problem.",
+      "en": "gathering all the world's leading experts on this problem.",
+      "zh": ""
+    },
+    {
+      "start": 1179.57,
+      "duration": 3.81,
+      "text": "GPY, Andrew Granville, Kannan Soundararajan,",
+      "en": "GPY, Andrew Granville, Kannan Soundararajan,",
+      "zh": ""
+    },
+    {
+      "start": 1183.38,
+      "duration": 2.85,
+      "text": "all gathered for a week in California",
+      "en": "all gathered for a week in California",
+      "zh": ""
+    },
+    {
+      "start": 1186.23,
+      "duration": 2.16,
+      "text": "with one explicit goal,",
+      "en": "with one explicit goal,",
+      "zh": ""
+    },
+    {
+      "start": 1188.39,
+      "duration": 3.3,
+      "text": "to prove a bounded gap between primes.",
+      "en": "to prove a bounded gap between primes.",
+      "zh": ""
+    },
+    {
+      "start": 1191.69,
+      "duration": 1.92,
+      "text": "- I was a young graduate student,",
+      "en": "- I was a young graduate student,",
+      "zh": ""
+    },
+    {
+      "start": 1193.61,
+      "duration": 3.24,
+      "text": "I was very lucky to get to go to this meeting.",
+      "en": "I was very lucky to get to go to this meeting.",
+      "zh": ""
+    },
+    {
+      "start": 1196.85,
+      "duration": 1.74,
+      "text": "You're surrounded by the world's top experts",
+      "en": "You're surrounded by the world's top experts",
+      "zh": ""
+    },
+    {
+      "start": 1198.59,
+      "duration": 0.83,
+      "text": "on this subject.",
+      "en": "on this subject.",
+      "zh": ""
+    },
+    {
+      "start": 1199.42,
+      "duration": 1.87,
+      "text": "We spent an entire week.",
+      "en": "We spent an entire week.",
+      "zh": ""
+    },
+    {
+      "start": 1201.29,
+      "duration": 1.5,
+      "text": "And the upshot of this week",
+      "en": "And the upshot of this week",
+      "zh": ""
+    },
+    {
+      "start": 1202.79,
+      "duration": 1.35,
+      "text": "was basically that it's impossible.",
+      "en": "was basically that it's impossible.",
+      "zh": ""
+    },
+    {
+      "start": 1204.14,
+      "duration": 3.33,
+      "text": "And Soundararajan shows how it's not possible",
+      "en": "And Soundararajan shows how it's not possible",
+      "zh": ""
+    },
+    {
+      "start": 1207.47,
+      "duration": 0.87,
+      "text": "to do this thing.",
+      "en": "to do this thing.",
+      "zh": ""
+    },
+    {
+      "start": 1208.34,
+      "duration": 2.82,
+      "text": "And so as far as I was concerned, that was that, and I,",
+      "en": "And so as far as I was concerned, that was that, and I,",
+      "zh": ""
+    },
+    {
+      "start": 1211.16,
+      "duration": 1.98,
+      "text": "you know, this wasn't gonna be my thesis problem,",
+      "en": "you know, this wasn't gonna be my thesis problem,",
+      "zh": ""
+    },
+    {
+      "start": 1213.14,
+      "duration": 1.14,
+      "text": "I'd have to do something else",
+      "en": "I'd have to do something else",
+      "zh": ""
+    },
+    {
+      "start": 1214.28,
+      "duration": 2.22,
+      "text": "and I went off and and did other things.",
+      "en": "and I went off and and did other things.",
+      "zh": ""
+    },
+    {
+      "start": 1216.5,
+      "duration": 2.64,
+      "text": "But there was one person who was not at this meeting,",
+      "en": "But there was one person who was not at this meeting,",
+      "zh": ""
+    },
+    {
+      "start": 1219.14,
+      "duration": 1.46,
+      "text": "Yitang Zhang.",
+      "en": "Yitang Zhang.",
+      "zh": ""
+    },
+    {
+      "start": 1220.6,
+      "duration": 2.17,
+      "text": "(bright music)",
+      "en": "(bright music)",
+      "zh": ""
+    },
+    {
+      "start": 1222.77,
+      "duration": 1.65,
+      "text": "- Zhang grew up in China,",
+      "en": "- Zhang grew up in China,",
+      "zh": ""
+    },
+    {
+      "start": 1224.42,
+      "duration": 2.7,
+      "text": "and around the age of 30 moved to the U.S.",
+      "en": "and around the age of 30 moved to the U.S.",
+      "zh": ""
+    },
+    {
+      "start": 1227.12,
+      "duration": 2.19,
+      "text": "to get his PhD in mathematics,",
+      "en": "to get his PhD in mathematics,",
+      "zh": ""
+    },
+    {
+      "start": 1229.31,
+      "duration": 2.34,
+      "text": "but he never got any recommendation letters",
+      "en": "but he never got any recommendation letters",
+      "zh": ""
+    },
+    {
+      "start": 1231.65,
+      "duration": 2.22,
+      "text": "and so struggled to find a job.",
+      "en": "and so struggled to find a job.",
+      "zh": ""
+    },
+    {
+      "start": 1236.63,
+      "duration": 1.86,
+      "text": "He ended up living in his car for time",
+      "en": "He ended up living in his car for time",
+      "zh": ""
+    },
+    {
+      "start": 1238.49,
+      "duration": 3.42,
+      "text": "and ultimately working odd jobs for seven years,",
+      "en": "and ultimately working odd jobs for seven years,",
+      "zh": ""
+    },
+    {
+      "start": 1241.91,
+      "duration": 2.82,
+      "text": "including at Subway, where he kept the books",
+      "en": "including at Subway, where he kept the books",
+      "zh": ""
+    },
+    {
+      "start": 1244.73,
+      "duration": 1.56,
+      "text": "and sorted receipts.",
+      "en": "and sorted receipts.",
+      "zh": ""
+    },
+    {
+      "start": 1247.61,
+      "duration": 2.75,
+      "text": "Yet, while doing all of that in his spare time,",
+      "en": "Yet, while doing all of that in his spare time,",
+      "zh": ""
+    },
+    {
+      "start": 1250.36,
+      "duration": 2.62,
+      "text": "he would drive down to the local library",
+      "en": "he would drive down to the local library",
+      "zh": ""
+    },
+    {
+      "start": 1252.98,
+      "duration": 3.19,
+      "text": "to read books and journals on number theory.",
+      "en": "to read books and journals on number theory.",
+      "zh": ""
+    },
+    {
+      "start": 1256.17,
+      "duration": 1.64,
+      "text": "(bright music)",
+      "en": "(bright music)",
+      "zh": ""
+    },
+    {
+      "start": 1257.81,
+      "duration": 3.69,
+      "text": "Then in 1999, he got a lucky break.",
+      "en": "Then in 1999, he got a lucky break.",
+      "zh": ""
+    },
+    {
+      "start": 1261.5,
+      "duration": 2.94,
+      "text": "One of his friends helped him get a job as a lecturer",
+      "en": "One of his friends helped him get a job as a lecturer",
+      "zh": ""
+    },
+    {
+      "start": 1264.44,
+      "duration": 2.55,
+      "text": "at the University of New Hampshire.",
+      "en": "at the University of New Hampshire.",
+      "zh": ""
+    },
+    {
+      "start": 1266.99,
+      "duration": 2.79,
+      "text": "So, now he could spend all his time doing",
+      "en": "So, now he could spend all his time doing",
+      "zh": ""
+    },
+    {
+      "start": 1269.78,
+      "duration": 2.4,
+      "text": "what he loved most, math.",
+      "en": "what he loved most, math.",
+      "zh": ""
+    },
+    {
+      "start": 1272.18,
+      "duration": 1.95,
+      "text": "Zhang said that when he was a kid,",
+      "en": "Zhang said that when he was a kid,",
+      "zh": ""
+    },
+    {
+      "start": 1274.13,
+      "duration": 1.74,
+      "text": "he \"Imagined there would be a day",
+      "en": "he \"Imagined there would be a day",
+      "zh": ""
+    },
+    {
+      "start": 1275.87,
+      "duration": 2.76,
+      "text": "that I would solve a major math problem.\"",
+      "en": "that I would solve a major math problem.\"",
+      "zh": ""
+    },
+    {
+      "start": 1279.56,
+      "duration": 2.37,
+      "text": "And by 2010, he had identified",
+      "en": "And by 2010, he had identified",
+      "zh": ""
+    },
+    {
+      "start": 1281.93,
+      "duration": 2.28,
+      "text": "his major problem to focus on,",
+      "en": "his major problem to focus on,",
+      "zh": ""
+    },
+    {
+      "start": 1284.21,
+      "duration": 2.19,
+      "text": "bounded gaps between primes.",
+      "en": "bounded gaps between primes.",
+      "zh": ""
+    },
+    {
+      "start": 1287.24,
+      "duration": 2.52,
+      "text": "But to understand what he was working on,",
+      "en": "But to understand what he was working on,",
+      "zh": ""
+    },
+    {
+      "start": 1289.76,
+      "duration": 5.0,
+      "text": "we need to understand what exactly it is that GPY had built.",
+      "en": "we need to understand what exactly it is that GPY had built.",
+      "zh": ""
+    },
+    {
+      "start": 1295.13,
+      "duration": 3.57,
+      "text": "See, they wanted to find two primes within a bounded gap.",
+      "en": "See, they wanted to find two primes within a bounded gap.",
+      "zh": ""
+    },
+    {
+      "start": 1298.7,
+      "duration": 3.27,
+      "text": "And to do this, they imagined a stencil of sorts",
+      "en": "And to do this, they imagined a stencil of sorts",
+      "zh": ""
+    },
+    {
+      "start": 1301.97,
+      "duration": 1.59,
+      "text": "with some holes in it.",
+      "en": "with some holes in it.",
+      "zh": ""
+    },
+    {
+      "start": 1303.56,
+      "duration": 1.41,
+      "text": "So, let's do the same,",
+      "en": "So, let's do the same,",
+      "zh": ""
+    },
+    {
+      "start": 1304.97,
+      "duration": 2.04,
+      "text": "and for the sake of this example,",
+      "en": "and for the sake of this example,",
+      "zh": ""
+    },
+    {
+      "start": 1307.01,
+      "duration": 2.85,
+      "text": "let's say the stencil has a diameter of six",
+      "en": "let's say the stencil has a diameter of six",
+      "zh": ""
+    },
+    {
+      "start": 1309.86,
+      "duration": 3.63,
+      "text": "and holes at spot zero, two and six.",
+      "en": "and holes at spot zero, two and six.",
+      "zh": ""
+    },
+    {
+      "start": 1313.49,
+      "duration": 3.21,
+      "text": "Next we place the stencil anywhere on the number line,",
+      "en": "Next we place the stencil anywhere on the number line,",
+      "zh": ""
+    },
+    {
+      "start": 1316.7,
+      "duration": 1.71,
+      "text": "say starting at 12.",
+      "en": "say starting at 12.",
+      "zh": ""
+    },
+    {
+      "start": 1319.28,
+      "duration": 4.32,
+      "text": "And we ask a simple question, how many primes do we see?",
+      "en": "And we ask a simple question, how many primes do we see?",
+      "zh": ""
+    },
+    {
+      "start": 1323.6,
+      "duration": 3.18,
+      "text": "In this case, we see 12, 14, and 18,",
+      "en": "In this case, we see 12, 14, and 18,",
+      "zh": ""
+    },
+    {
+      "start": 1326.78,
+      "duration": 1.08,
+      "text": "none of which are prime.",
+      "en": "none of which are prime.",
+      "zh": ""
+    },
+    {
+      "start": 1327.86,
+      "duration": 1.92,
+      "text": "So, we write down zero.",
+      "en": "So, we write down zero.",
+      "zh": ""
+    },
+    {
+      "start": 1329.78,
+      "duration": 3.69,
+      "text": "Next we shift the stencil over one spot and repeat,",
+      "en": "Next we shift the stencil over one spot and repeat,",
+      "zh": ""
+    },
+    {
+      "start": 1333.47,
+      "duration": 3.54,
+      "text": "13, 15, and 19, two of which are prime.",
+      "en": "13, 15, and 19, two of which are prime.",
+      "zh": ""
+    },
+    {
+      "start": 1337.01,
+      "duration": 1.95,
+      "text": "So, we write down two.",
+      "en": "So, we write down two.",
+      "zh": ""
+    },
+    {
+      "start": 1338.96,
+      "duration": 1.5,
+      "text": "And then we keep doing this.",
+      "en": "And then we keep doing this.",
+      "zh": ""
+    },
+    {
+      "start": 1340.46,
+      "duration": 1.32,
+      "text": "If you slide it a bit further,",
+      "en": "If you slide it a bit further,",
+      "zh": ""
+    },
+    {
+      "start": 1341.78,
+      "duration": 4.05,
+      "text": "we catch two primes again, 23 and 29.",
+      "en": "we catch two primes again, 23 and 29.",
+      "zh": ""
+    },
+    {
+      "start": 1345.83,
+      "duration": 3.57,
+      "text": "Now, if you keep moving the stencil across the number line",
+      "en": "Now, if you keep moving the stencil across the number line",
+      "zh": ""
+    },
+    {
+      "start": 1349.4,
+      "duration": 2.31,
+      "text": "and it keeps catching two primes,",
+      "en": "and it keeps catching two primes,",
+      "zh": ""
+    },
+    {
+      "start": 1351.71,
+      "duration": 1.44,
+      "text": "then you have proven",
+      "en": "then you have proven",
+      "zh": ""
+    },
+    {
+      "start": 1353.15,
+      "duration": 2.88,
+      "text": "that infinitely often pairs of primes exist",
+      "en": "that infinitely often pairs of primes exist",
+      "zh": ""
+    },
+    {
+      "start": 1356.03,
+      "duration": 1.5,
+      "text": "within a bounded gap.",
+      "en": "within a bounded gap.",
+      "zh": ""
+    },
+    {
+      "start": 1357.53,
+      "duration": 4.47,
+      "text": "Six in this case, since that's the diameter of our stencil.",
+      "en": "Six in this case, since that's the diameter of our stencil.",
+      "zh": ""
+    },
+    {
+      "start": 1362.0,
+      "duration": 3.18,
+      "text": "But there are two problems with this approach.",
+      "en": "But there are two problems with this approach.",
+      "zh": ""
+    },
+    {
+      "start": 1365.18,
+      "duration": 2.37,
+      "text": "The first is that we don't know exactly",
+      "en": "The first is that we don't know exactly",
+      "zh": ""
+    },
+    {
+      "start": 1367.55,
+      "duration": 1.8,
+      "text": "where all the primes are.",
+      "en": "where all the primes are.",
+      "zh": ""
+    },
+    {
+      "start": 1369.35,
+      "duration": 3.39,
+      "text": "And the second is that of course you can't keep sliding",
+      "en": "And the second is that of course you can't keep sliding",
+      "zh": ""
+    },
+    {
+      "start": 1372.74,
+      "duration": 2.1,
+      "text": "a stencil down the number line forever",
+      "en": "a stencil down the number line forever",
+      "zh": ""
+    },
+    {
+      "start": 1374.84,
+      "duration": 2.37,
+      "text": "because well, it's infinitely long.",
+      "en": "because well, it's infinitely long.",
+      "zh": ""
+    },
+    {
+      "start": 1377.21,
+      "duration": 2.37,
+      "text": "Fortunately, there is an easy way",
+      "en": "Fortunately, there is an easy way",
+      "zh": ""
+    },
+    {
+      "start": 1379.58,
+      "duration": 1.56,
+      "text": "to get around that first problem.",
+      "en": "to get around that first problem.",
+      "zh": ""
+    },
+    {
+      "start": 1381.14,
+      "duration": 3.36,
+      "text": "See, while we don't know exactly where all the primes are,",
+      "en": "See, while we don't know exactly where all the primes are,",
+      "zh": ""
+    },
+    {
+      "start": 1384.5,
+      "duration": 3.0,
+      "text": "we do know how they behave on average.",
+      "en": "we do know how they behave on average.",
+      "zh": ""
+    },
+    {
+      "start": 1387.5,
+      "duration": 3.36,
+      "text": "For example, say we take some stretch of the number line",
+      "en": "For example, say we take some stretch of the number line",
+      "zh": ""
+    },
+    {
+      "start": 1390.86,
+      "duration": 3.27,
+      "text": "from some very large number X to two X,",
+      "en": "from some very large number X to two X,",
+      "zh": ""
+    },
+    {
+      "start": 1394.13,
+      "duration": 2.76,
+      "text": "then we can't predict exactly which numbers",
+      "en": "then we can't predict exactly which numbers",
+      "zh": ""
+    },
+    {
+      "start": 1396.89,
+      "duration": 1.59,
+      "text": "in this stretch will be prime.",
+      "en": "in this stretch will be prime.",
+      "zh": ""
+    },
+    {
+      "start": 1398.48,
+      "duration": 3.21,
+      "text": "But what we can do is put this into the prime number theorem",
+      "en": "But what we can do is put this into the prime number theorem",
+      "zh": ""
+    },
+    {
+      "start": 1401.69,
+      "duration": 3.92,
+      "text": "and estimate how many primes to expect on average.",
+      "en": "and estimate how many primes to expect on average.",
+      "zh": ""
+    },
+    {
+      "start": 1405.61,
+      "duration": 1.63,
+      "text": "(bright music)",
+      "en": "(bright music)",
+      "zh": ""
+    },
+    {
+      "start": 1407.24,
+      "duration": 3.24,
+      "text": "And GPY realized they could do a similar thing",
+      "en": "And GPY realized they could do a similar thing",
+      "zh": ""
+    },
+    {
+      "start": 1410.48,
+      "duration": 1.65,
+      "text": "for their stencil method",
+      "en": "for their stencil method",
+      "zh": ""
+    },
+    {
+      "start": 1412.13,
+      "duration": 3.03,
+      "text": "to build an averaging machine of sorts.",
+      "en": "to build an averaging machine of sorts.",
+      "zh": ""
+    },
+    {
+      "start": 1415.16,
+      "duration": 2.52,
+      "text": "All you do is you set up the stencil you want,",
+      "en": "All you do is you set up the stencil you want,",
+      "zh": ""
+    },
+    {
+      "start": 1417.68,
+      "duration": 3.18,
+      "text": "input your range, and out comes the average number of primes",
+      "en": "input your range, and out comes the average number of primes",
+      "zh": ""
+    },
+    {
+      "start": 1420.86,
+      "duration": 2.07,
+      "text": "it caught per position.",
+      "en": "it caught per position.",
+      "zh": ""
+    },
+    {
+      "start": 1422.93,
+      "duration": 3.21,
+      "text": "So, let's do a quick example without the machine",
+      "en": "So, let's do a quick example without the machine",
+      "zh": ""
+    },
+    {
+      "start": 1426.14,
+      "duration": 1.92,
+      "text": "to see how this helps.",
+      "en": "to see how this helps.",
+      "zh": ""
+    },
+    {
+      "start": 1428.06,
+      "duration": 2.19,
+      "text": "Let's use the same stencil from before",
+      "en": "Let's use the same stencil from before",
+      "zh": ""
+    },
+    {
+      "start": 1430.25,
+      "duration": 2.61,
+      "text": "and use the range 20 to 40.",
+      "en": "and use the range 20 to 40.",
+      "zh": ""
+    },
+    {
+      "start": 1432.86,
+      "duration": 3.0,
+      "text": "Now, in reality, you would use a much larger range,",
+      "en": "Now, in reality, you would use a much larger range,",
+      "zh": ""
+    },
+    {
+      "start": 1435.86,
+      "duration": 2.82,
+      "text": "but for simplicity, let's stick to this.",
+      "en": "but for simplicity, let's stick to this.",
+      "zh": ""
+    },
+    {
+      "start": 1438.68,
+      "duration": 2.7,
+      "text": "To find the average, you just place the stencil",
+      "en": "To find the average, you just place the stencil",
+      "zh": ""
+    },
+    {
+      "start": 1441.38,
+      "duration": 1.38,
+      "text": "at the start of your range,",
+      "en": "at the start of your range,",
+      "zh": ""
+    },
+    {
+      "start": 1442.76,
+      "duration": 2.22,
+      "text": "and you'll look at which numbers you see,",
+      "en": "and you'll look at which numbers you see,",
+      "zh": ""
+    },
+    {
+      "start": 1444.98,
+      "duration": 2.01,
+      "text": "20, 22 and 26.",
+      "en": "20, 22 and 26.",
+      "zh": ""
+    },
+    {
+      "start": 1446.99,
+      "duration": 1.05,
+      "text": "None of which are prime",
+      "en": "None of which are prime",
+      "zh": ""
+    },
+    {
+      "start": 1448.04,
+      "duration": 2.58,
+      "text": "and so the total prime count is zero.",
+      "en": "and so the total prime count is zero.",
+      "zh": ""
+    },
+    {
+      "start": 1450.62,
+      "duration": 2.22,
+      "text": "Then we shift the stencil over one spot",
+      "en": "Then we shift the stencil over one spot",
+      "zh": ""
+    },
+    {
+      "start": 1452.84,
+      "duration": 3.06,
+      "text": "and see 21, 23 and 27.",
+      "en": "and see 21, 23 and 27.",
+      "zh": ""
+    },
+    {
+      "start": 1455.9,
+      "duration": 3.99,
+      "text": "One of which is prime, so we increase the total by one.",
+      "en": "One of which is prime, so we increase the total by one.",
+      "zh": ""
+    },
+    {
+      "start": 1459.89,
+      "duration": 2.1,
+      "text": "Now let's keep shifting the stencil",
+      "en": "Now let's keep shifting the stencil",
+      "zh": ""
+    },
+    {
+      "start": 1461.99,
+      "duration": 2.55,
+      "text": "and keep adding all the primes we see.",
+      "en": "and keep adding all the primes we see.",
+      "zh": ""
+    },
+    {
+      "start": 1464.54,
+      "duration": 1.62,
+      "text": "No primes, so add zero,",
+      "en": "No primes, so add zero,",
+      "zh": ""
+    },
+    {
+      "start": 1466.16,
+      "duration": 2.96,
+      "text": "two primes, add two, and so on.",
+      "en": "two primes, add two, and so on.",
+      "zh": ""
+    },
+    {
+      "start": 1469.12,
+      "duration": 2.8,
+      "text": "(stencil shuffling)",
+      "en": "(stencil shuffling)",
+      "zh": ""
+    },
+    {
+      "start": 1471.92,
+      "duration": 2.01,
+      "text": "Now, if you keep shifting the stencil",
+      "en": "Now, if you keep shifting the stencil",
+      "zh": ""
+    },
+    {
+      "start": 1473.93,
+      "duration": 1.53,
+      "text": "all the way until the end,",
+      "en": "all the way until the end,",
+      "zh": ""
+    },
+    {
+      "start": 1475.46,
+      "duration": 4.66,
+      "text": "you find a total of 14 primes across 21 starting positions.",
+      "en": "you find a total of 14 primes across 21 starting positions.",
+      "zh": ""
+    },
+    {
+      "start": 1480.12,
+      "duration": 2.45,
+      "text": "(bright music)",
+      "en": "(bright music)",
+      "zh": ""
+    },
+    {
+      "start": 1482.57,
+      "duration": 3.36,
+      "text": "And so the average is 14 over 21,",
+      "en": "And so the average is 14 over 21,",
+      "zh": ""
+    },
+    {
+      "start": 1485.93,
+      "duration": 4.02,
+      "text": "or about 0.67 primes per location.",
+      "en": "or about 0.67 primes per location.",
+      "zh": ""
+    },
+    {
+      "start": 1491.69,
+      "duration": 3.78,
+      "text": "Now in this case where we checked every spot by hand,",
+      "en": "Now in this case where we checked every spot by hand,",
+      "zh": ""
+    },
+    {
+      "start": 1495.47,
+      "duration": 2.91,
+      "text": "we could see that the stencil caught several positions",
+      "en": "we could see that the stencil caught several positions",
+      "zh": ""
+    },
+    {
+      "start": 1498.38,
+      "duration": 1.98,
+      "text": "with two primes in them.",
+      "en": "with two primes in them.",
+      "zh": ""
+    },
+    {
+      "start": 1500.36,
+      "duration": 2.79,
+      "text": "But the averaging machine doesn't tell us this.",
+      "en": "But the averaging machine doesn't tell us this.",
+      "zh": ""
+    },
+    {
+      "start": 1503.15,
+      "duration": 2.19,
+      "text": "All that spits out is an average,",
+      "en": "All that spits out is an average,",
+      "zh": ""
+    },
+    {
+      "start": 1505.34,
+      "duration": 1.71,
+      "text": "and that average alone",
+      "en": "and that average alone",
+      "zh": ""
+    },
+    {
+      "start": 1507.05,
+      "duration": 3.42,
+      "text": "can't guarantee that it caught two primes at once,",
+      "en": "can't guarantee that it caught two primes at once,",
+      "zh": ""
+    },
+    {
+      "start": 1510.47,
+      "duration": 2.49,
+      "text": "because you could just as well imagine spreading",
+      "en": "because you could just as well imagine spreading",
+      "zh": ""
+    },
+    {
+      "start": 1512.96,
+      "duration": 4.38,
+      "text": "all of these 14 primes over 14 individual positions.",
+      "en": "all of these 14 primes over 14 individual positions.",
+      "zh": ""
+    },
+    {
+      "start": 1517.34,
+      "duration": 4.02,
+      "text": "And the same would be true if the average was 0.8, 0.9,",
+      "en": "And the same would be true if the average was 0.8, 0.9,",
+      "zh": ""
+    },
+    {
+      "start": 1521.36,
+      "duration": 1.74,
+      "text": "or even one.",
+      "en": "or even one.",
+      "zh": ""
+    },
+    {
+      "start": 1523.1,
+      "duration": 1.47,
+      "text": "I know it's unlikely,",
+      "en": "I know it's unlikely,",
+      "zh": ""
+    },
+    {
+      "start": 1524.57,
+      "duration": 4.23,
+      "text": "but it could be that every position only caught one prime",
+      "en": "but it could be that every position only caught one prime",
+      "zh": ""
+    },
+    {
+      "start": 1528.8,
+      "duration": 2.43,
+      "text": "to bring the average to one.",
+      "en": "to bring the average to one.",
+      "zh": ""
+    },
+    {
+      "start": 1531.23,
+      "duration": 3.18,
+      "text": "But what if the average was larger than one?",
+      "en": "But what if the average was larger than one?",
+      "zh": ""
+    },
+    {
+      "start": 1534.41,
+      "duration": 3.54,
+      "text": "What if we found 22 primes in total?",
+      "en": "What if we found 22 primes in total?",
+      "zh": ""
+    },
+    {
+      "start": 1537.95,
+      "duration": 3.63,
+      "text": "Well, even if every position had caught one prime,",
+      "en": "Well, even if every position had caught one prime,",
+      "zh": ""
+    },
+    {
+      "start": 1541.58,
+      "duration": 2.07,
+      "text": "you would still have one prime left over",
+      "en": "you would still have one prime left over",
+      "zh": ""
+    },
+    {
+      "start": 1543.65,
+      "duration": 3.36,
+      "text": "and that needs to go in one of those other positions.",
+      "en": "and that needs to go in one of those other positions.",
+      "zh": ""
+    },
+    {
+      "start": 1547.01,
+      "duration": 3.21,
+      "text": "So, in other words, if the average is above one,",
+      "en": "So, in other words, if the average is above one,",
+      "zh": ""
+    },
+    {
+      "start": 1550.22,
+      "duration": 1.5,
+      "text": "then that guarantees",
+      "en": "then that guarantees",
+      "zh": ""
+    },
+    {
+      "start": 1551.72,
+      "duration": 3.42,
+      "text": "that at least one position caught two primes.",
+      "en": "that at least one position caught two primes.",
+      "zh": ""
+    },
+    {
+      "start": 1555.14,
+      "duration": 1.38,
+      "text": "And so that's the game.",
+      "en": "And so that's the game.",
+      "zh": ""
+    },
+    {
+      "start": 1556.52,
+      "duration": 3.24,
+      "text": "Get the average number of primes above one,",
+      "en": "Get the average number of primes above one,",
+      "zh": ""
+    },
+    {
+      "start": 1559.76,
+      "duration": 2.88,
+      "text": "but that still leaves one question.",
+      "en": "but that still leaves one question.",
+      "zh": ""
+    },
+    {
+      "start": 1562.64,
+      "duration": 4.26,
+      "text": "Even if you could do that, then how does that help you prove",
+      "en": "Even if you could do that, then how does that help you prove",
+      "zh": ""
+    },
+    {
+      "start": 1566.9,
+      "duration": 2.04,
+      "text": "that you keep getting bounded gaps",
+      "en": "that you keep getting bounded gaps",
+      "zh": ""
+    },
+    {
+      "start": 1568.94,
+      "duration": 2.04,
+      "text": "all the way up to infinity?",
+      "en": "all the way up to infinity?",
+      "zh": ""
+    },
+    {
+      "start": 1570.98,
+      "duration": 4.2,
+      "text": "Well, remember you just proved that for any large number X,",
+      "en": "Well, remember you just proved that for any large number X,",
+      "zh": ""
+    },
+    {
+      "start": 1575.18,
+      "duration": 3.12,
+      "text": "so there's nothing stopping you from replacing that X",
+      "en": "so there's nothing stopping you from replacing that X",
+      "zh": ""
+    },
+    {
+      "start": 1578.3,
+      "duration": 3.48,
+      "text": "with two X, and that two X with four X,",
+      "en": "with two X, and that two X with four X,",
+      "zh": ""
+    },
+    {
+      "start": 1581.78,
+      "duration": 2.19,
+      "text": "and then you could replace the two X with four X",
+      "en": "and then you could replace the two X with four X",
+      "zh": ""
+    },
+    {
+      "start": 1583.97,
+      "duration": 3.2,
+      "text": "and the four X with eight X, and so,",
+      "en": "and the four X with eight X, and so,",
+      "zh": ""
+    },
+    {
+      "start": 1587.17,
+      "duration": 2.14,
+      "text": "on all the way up to infinity.",
+      "en": "on all the way up to infinity.",
+      "zh": ""
+    },
+    {
+      "start": 1589.31,
+      "duration": 2.52,
+      "text": "So, if you can prove that the average gap",
+      "en": "So, if you can prove that the average gap",
+      "zh": ""
+    },
+    {
+      "start": 1591.83,
+      "duration": 3.36,
+      "text": "is above one for any large number X,",
+      "en": "is above one for any large number X,",
+      "zh": ""
+    },
+    {
+      "start": 1595.19,
+      "duration": 1.68,
+      "text": "then with this clever setup,",
+      "en": "then with this clever setup,",
+      "zh": ""
+    },
+    {
+      "start": 1596.87,
+      "duration": 3.6,
+      "text": "it immediately extends all the way out to infinity,",
+      "en": "it immediately extends all the way out to infinity,",
+      "zh": ""
+    },
+    {
+      "start": 1600.47,
+      "duration": 2.64,
+      "text": "and you would've proven your bounded gap.",
+      "en": "and you would've proven your bounded gap.",
+      "zh": ""
+    },
+    {
+      "start": 1603.11,
+      "duration": 2.34,
+      "text": "(bright music)",
+      "en": "(bright music)",
+      "zh": ""
+    },
+    {
+      "start": 1605.45,
+      "duration": 1.56,
+      "text": "- Unfortunately, running the machine",
+      "en": "- Unfortunately, running the machine",
+      "zh": ""
+    },
+    {
+      "start": 1607.01,
+      "duration": 1.53,
+      "text": "with just the current inputs,",
+      "en": "with just the current inputs,",
+      "zh": ""
+    },
+    {
+      "start": 1608.54,
+      "duration": 1.71,
+      "text": "the stencil visits many positions",
+      "en": "the stencil visits many positions",
+      "zh": ""
+    },
+    {
+      "start": 1610.25,
+      "duration": 2.07,
+      "text": "where it catches zero primes,",
+      "en": "where it catches zero primes,",
+      "zh": ""
+    },
+    {
+      "start": 1612.32,
+      "duration": 1.47,
+      "text": "this drags the average down",
+      "en": "this drags the average down",
+      "zh": ""
+    },
+    {
+      "start": 1613.79,
+      "duration": 2.4,
+      "text": "and means it will never get above one.",
+      "en": "and means it will never get above one.",
+      "zh": ""
+    },
+    {
+      "start": 1616.19,
+      "duration": 3.45,
+      "text": "So, GPY made one final tweak to their machine.",
+      "en": "So, GPY made one final tweak to their machine.",
+      "zh": ""
+    },
+    {
+      "start": 1619.64,
+      "duration": 2.04,
+      "text": "They realize that some starting positions",
+      "en": "They realize that some starting positions",
+      "zh": ""
+    },
+    {
+      "start": 1621.68,
+      "duration": 2.52,
+      "text": "are more likely to catch primes than others.",
+      "en": "are more likely to catch primes than others.",
+      "zh": ""
+    },
+    {
+      "start": 1624.2,
+      "duration": 3.03,
+      "text": "For example, if the stencil only lands on even numbers,",
+      "en": "For example, if the stencil only lands on even numbers,",
+      "zh": ""
+    },
+    {
+      "start": 1627.23,
+      "duration": 3.9,
+      "text": "it will always give zero primes unless it includes two.",
+      "en": "it will always give zero primes unless it includes two.",
+      "zh": ""
+    },
+    {
+      "start": 1631.13,
+      "duration": 1.29,
+      "text": "So, those positions",
+      "en": "So, those positions",
+      "zh": ""
+    },
+    {
+      "start": 1632.42,
+      "duration": 2.7,
+      "text": "should not be weighted equally to the others.",
+      "en": "should not be weighted equally to the others.",
+      "zh": ""
+    },
+    {
+      "start": 1635.12,
+      "duration": 2.34,
+      "text": "Similarly, if you can divide one or more of the numbers",
+      "en": "Similarly, if you can divide one or more of the numbers",
+      "zh": ""
+    },
+    {
+      "start": 1637.46,
+      "duration": 1.98,
+      "text": "in the stencil by three, five, seven,",
+      "en": "in the stencil by three, five, seven,",
+      "zh": ""
+    },
+    {
+      "start": 1639.44,
+      "duration": 1.83,
+      "text": "or other small prime factors,",
+      "en": "or other small prime factors,",
+      "zh": ""
+    },
+    {
+      "start": 1641.27,
+      "duration": 3.45,
+      "text": "it's also more unlikely you have primes in your stencil.",
+      "en": "it's also more unlikely you have primes in your stencil.",
+      "zh": ""
+    },
+    {
+      "start": 1644.72,
+      "duration": 2.67,
+      "text": "So, they should also be weighted less.",
+      "en": "So, they should also be weighted less.",
+      "zh": ""
+    },
+    {
+      "start": 1647.39,
+      "duration": 3.57,
+      "text": "Now, GPY did a few simple checks like this for each position",
+      "en": "Now, GPY did a few simple checks like this for each position",
+      "zh": ""
+    },
+    {
+      "start": 1650.96,
+      "duration": 2.79,
+      "text": "to assign it a weight, and estimate of how likely",
+      "en": "to assign it a weight, and estimate of how likely",
+      "zh": ""
+    },
+    {
+      "start": 1653.75,
+      "duration": 2.55,
+      "text": "it is that this position contains primes.",
+      "en": "it is that this position contains primes.",
+      "zh": ""
+    },
+    {
+      "start": 1656.3,
+      "duration": 1.8,
+      "text": "This turned their averaging machine",
+      "en": "This turned their averaging machine",
+      "zh": ""
+    },
+    {
+      "start": 1658.1,
+      "duration": 2.55,
+      "text": "into a weighted averaging machine.",
+      "en": "into a weighted averaging machine.",
+      "zh": ""
+    },
+    {
+      "start": 1660.65,
+      "duration": 3.27,
+      "text": "And as a result, that weighted average shot up.",
+      "en": "And as a result, that weighted average shot up.",
+      "zh": ""
+    },
+    {
+      "start": 1663.92,
+      "duration": 1.47,
+      "text": "With their updated machine",
+      "en": "With their updated machine",
+      "zh": ""
+    },
+    {
+      "start": 1665.39,
+      "duration": 3.0,
+      "text": "they proved that if you pick any large number X,",
+      "en": "they proved that if you pick any large number X,",
+      "zh": ""
+    },
+    {
+      "start": 1668.39,
+      "duration": 2.19,
+      "text": "then in the range X to two X,",
+      "en": "then in the range X to two X,",
+      "zh": ""
+    },
+    {
+      "start": 1670.58,
+      "duration": 3.48,
+      "text": "you could get the weighted average arbitrarily close to one,",
+      "en": "you could get the weighted average arbitrarily close to one,",
+      "zh": ""
+    },
+    {
+      "start": 1674.06,
+      "duration": 2.13,
+      "text": "but not above one.",
+      "en": "but not above one.",
+      "zh": ""
+    },
+    {
+      "start": 1676.19,
+      "duration": 3.54,
+      "text": "They were close, but they ran into a wall.",
+      "en": "They were close, but they ran into a wall.",
+      "zh": ""
+    },
+    {
+      "start": 1679.73,
+      "duration": 2.46,
+      "text": "A wall that came from their weights,",
+      "en": "A wall that came from their weights,",
+      "zh": ""
+    },
+    {
+      "start": 1682.19,
+      "duration": 2.58,
+      "text": "because to figure out how to weigh different positions,",
+      "en": "because to figure out how to weigh different positions,",
+      "zh": ""
+    },
+    {
+      "start": 1684.77,
+      "duration": 2.28,
+      "text": "they needed to know how primes are distributed",
+      "en": "they needed to know how primes are distributed",
+      "zh": ""
+    },
+    {
+      "start": 1687.05,
+      "duration": 2.94,
+      "text": "in something known as an arithmetic progression.",
+      "en": "in something known as an arithmetic progression.",
+      "zh": ""
+    },
+    {
+      "start": 1689.99,
+      "duration": 2.31,
+      "text": "These are basically just series of numbers",
+      "en": "These are basically just series of numbers",
+      "zh": ""
+    },
+    {
+      "start": 1692.3,
+      "duration": 2.7,
+      "text": "where they're all the same step size apart.",
+      "en": "where they're all the same step size apart.",
+      "zh": ""
+    },
+    {
+      "start": 1695.0,
+      "duration": 2.64,
+      "text": "So, 3, 7, 11, 15,",
+      "en": "So, 3, 7, 11, 15,",
+      "zh": ""
+    },
+    {
+      "start": 1697.64,
+      "duration": 3.45,
+      "text": "that's an arithmetic progression with a step size of four.",
+      "en": "that's an arithmetic progression with a step size of four.",
+      "zh": ""
+    },
+    {
+      "start": 1701.09,
+      "duration": 3.33,
+      "text": "Now, GPY needed to know how primes were distributed",
+      "en": "Now, GPY needed to know how primes were distributed",
+      "zh": ""
+    },
+    {
+      "start": 1704.42,
+      "duration": 2.28,
+      "text": "over many such arithmetic progressions",
+      "en": "over many such arithmetic progressions",
+      "zh": ""
+    },
+    {
+      "start": 1706.7,
+      "duration": 2.7,
+      "text": "with all kinds of different step sizes.",
+      "en": "with all kinds of different step sizes.",
+      "zh": ""
+    },
+    {
+      "start": 1709.4,
+      "duration": 2.91,
+      "text": "Fortunately, they knew of theorem from the 1960s",
+      "en": "Fortunately, they knew of theorem from the 1960s",
+      "zh": ""
+    },
+    {
+      "start": 1712.31,
+      "duration": 2.1,
+      "text": "they could use to do exactly this.",
+      "en": "they could use to do exactly this.",
+      "zh": ""
+    },
+    {
+      "start": 1714.41,
+      "duration": 3.15,
+      "text": "- It's the substitute for the Riemann hypothesis on average,",
+      "en": "- It's the substitute for the Riemann hypothesis on average,",
+      "zh": ""
+    },
+    {
+      "start": 1717.56,
+      "duration": 2.7,
+      "text": "and it turns out that that's what's actually necessary",
+      "en": "and it turns out that that's what's actually necessary",
+      "zh": ""
+    },
+    {
+      "start": 1720.26,
+      "duration": 2.34,
+      "text": "in a lot of these arithmetic applications.",
+      "en": "in a lot of these arithmetic applications.",
+      "zh": ""
+    },
+    {
+      "start": 1722.6,
+      "duration": 2.58,
+      "text": "- But that theorem doesn't work everywhere.",
+      "en": "- But that theorem doesn't work everywhere.",
+      "zh": ""
+    },
+    {
+      "start": 1725.18,
+      "duration": 3.3,
+      "text": "It only works for step sizes up to the square root of X",
+      "en": "It only works for step sizes up to the square root of X",
+      "zh": ""
+    },
+    {
+      "start": 1728.48,
+      "duration": 1.98,
+      "text": "or X to the one half.",
+      "en": "or X to the one half.",
+      "zh": ""
+    },
+    {
+      "start": 1730.46,
+      "duration": 2.31,
+      "text": "The technical term for this one half",
+      "en": "The technical term for this one half",
+      "zh": ""
+    },
+    {
+      "start": 1732.77,
+      "duration": 2.73,
+      "text": "is the level of distribution or theta.",
+      "en": "is the level of distribution or theta.",
+      "zh": ""
+    },
+    {
+      "start": 1735.5,
+      "duration": 2.34,
+      "text": "It tells you how large the step sizes",
+      "en": "It tells you how large the step sizes",
+      "zh": ""
+    },
+    {
+      "start": 1737.84,
+      "duration": 3.0,
+      "text": "can be while still getting a reliable count of primes",
+      "en": "can be while still getting a reliable count of primes",
+      "zh": ""
+    },
+    {
+      "start": 1740.84,
+      "duration": 1.26,
+      "text": "in those progressions.",
+      "en": "in those progressions.",
+      "zh": ""
+    },
+    {
+      "start": 1742.1,
+      "duration": 1.47,
+      "text": "And mathematicians believed",
+      "en": "And mathematicians believed",
+      "zh": ""
+    },
+    {
+      "start": 1743.57,
+      "duration": 2.94,
+      "text": "that the theorem worked beyond X to the half,",
+      "en": "that the theorem worked beyond X to the half,",
+      "zh": ""
+    },
+    {
+      "start": 1746.51,
+      "duration": 2.25,
+      "text": "but this was never proven,",
+      "en": "but this was never proven,",
+      "zh": ""
+    },
+    {
+      "start": 1748.76,
+      "duration": 2.55,
+      "text": "and that is where the trouble lies.",
+      "en": "and that is where the trouble lies.",
+      "zh": ""
+    },
+    {
+      "start": 1751.31,
+      "duration": 3.3,
+      "text": "When GPY ran their calculation with this ceiling,",
+      "en": "When GPY ran their calculation with this ceiling,",
+      "zh": ""
+    },
+    {
+      "start": 1754.61,
+      "duration": 2.64,
+      "text": "they found the maximum weighted average they could get",
+      "en": "they found the maximum weighted average they could get",
+      "zh": ""
+    },
+    {
+      "start": 1757.25,
+      "duration": 2.1,
+      "text": "was two times theta.",
+      "en": "was two times theta.",
+      "zh": ""
+    },
+    {
+      "start": 1759.35,
+      "duration": 2.91,
+      "text": "In other words, they got really close to one,",
+      "en": "In other words, they got really close to one,",
+      "zh": ""
+    },
+    {
+      "start": 1762.26,
+      "duration": 3.0,
+      "text": "but they could never actually cross it.",
+      "en": "but they could never actually cross it.",
+      "zh": ""
+    },
+    {
+      "start": 1765.26,
+      "duration": 1.2,
+      "text": "- They showed in their method",
+      "en": "- They showed in their method",
+      "zh": ""
+    },
+    {
+      "start": 1766.46,
+      "duration": 1.65,
+      "text": "that if you could get beyond a half,",
+      "en": "that if you could get beyond a half,",
+      "zh": ""
+    },
+    {
+      "start": 1768.11,
+      "duration": 3.09,
+      "text": "you could do 0.5000001.",
+      "en": "you could do 0.5000001.",
+      "zh": ""
+    },
+    {
+      "start": 1771.2,
+      "duration": 3.51,
+      "text": "Then instead of just getting 0% of the average gap,",
+      "en": "Then instead of just getting 0% of the average gap,",
+      "zh": ""
+    },
+    {
+      "start": 1774.71,
+      "duration": 1.35,
+      "text": "they can get bounded gaps.",
+      "en": "they can get bounded gaps.",
+      "zh": ""
+    },
+    {
+      "start": 1776.06,
+      "duration": 2.82,
+      "text": "The primes would be some fixed distance apart.",
+      "en": "The primes would be some fixed distance apart.",
+      "zh": ""
+    },
+    {
+      "start": 1778.88,
+      "duration": 2.49,
+      "text": "- That's what the 2005 meeting was all about.",
+      "en": "- That's what the 2005 meeting was all about.",
+      "zh": ""
+    },
+    {
+      "start": 1781.37,
+      "duration": 3.69,
+      "text": "They kept trying to push past that one half barrier,",
+      "en": "They kept trying to push past that one half barrier,",
+      "zh": ""
+    },
+    {
+      "start": 1785.06,
+      "duration": 4.08,
+      "text": "but they ended up concluding that it was impossible.",
+      "en": "but they ended up concluding that it was impossible.",
+      "zh": ""
+    },
+    {
+      "start": 1789.14,
+      "duration": 3.48,
+      "text": "From 2010 on, Zhang spent two years hacking away",
+      "en": "From 2010 on, Zhang spent two years hacking away",
+      "zh": ""
+    },
+    {
+      "start": 1792.62,
+      "duration": 3.48,
+      "text": "at it as well, internalizing the GPY argument,",
+      "en": "at it as well, internalizing the GPY argument,",
+      "zh": ""
+    },
+    {
+      "start": 1796.1,
+      "duration": 3.54,
+      "text": "working day and night just to try and find a way through.",
+      "en": "working day and night just to try and find a way through.",
+      "zh": ""
+    },
+    {
+      "start": 1800.71,
+      "duration": 1.6,
+      "text": "(bright music)",
+      "en": "(bright music)",
+      "zh": ""
+    },
+    {
+      "start": 1802.31,
+      "duration": 2.1,
+      "text": "But by the summer of 2012,",
+      "en": "But by the summer of 2012,",
+      "zh": ""
+    },
+    {
+      "start": 1804.41,
+      "duration": 3.93,
+      "text": "Zhang was exhausted, and had nothing to show for it.",
+      "en": "Zhang was exhausted, and had nothing to show for it.",
+      "zh": ""
+    },
+    {
+      "start": 1808.34,
+      "duration": 4.11,
+      "text": "Hoping to clear his head, he visited a friend in Colorado,",
+      "en": "Hoping to clear his head, he visited a friend in Colorado,",
+      "zh": ""
+    },
+    {
+      "start": 1812.45,
+      "duration": 2.04,
+      "text": "where one evening while they were waiting",
+      "en": "where one evening while they were waiting",
+      "zh": ""
+    },
+    {
+      "start": 1814.49,
+      "duration": 1.38,
+      "text": "to leave for concert,",
+      "en": "to leave for concert,",
+      "zh": ""
+    },
+    {
+      "start": 1815.87,
+      "duration": 3.81,
+      "text": "Zhang stepped outside alone into the backyard,",
+      "en": "Zhang stepped outside alone into the backyard,",
+      "zh": ""
+    },
+    {
+      "start": 1819.68,
+      "duration": 3.42,
+      "text": "looking out for the deer that usually roamed the property,",
+      "en": "looking out for the deer that usually roamed the property,",
+      "zh": ""
+    },
+    {
+      "start": 1823.1,
+      "duration": 1.56,
+      "text": "but no deer came.",
+      "en": "but no deer came.",
+      "zh": ""
+    },
+    {
+      "start": 1826.34,
+      "duration": 2.58,
+      "text": "So, he was just walking and thinking",
+      "en": "So, he was just walking and thinking",
+      "zh": ""
+    },
+    {
+      "start": 1828.92,
+      "duration": 3.03,
+      "text": "when all of a sudden the answer came to him.",
+      "en": "when all of a sudden the answer came to him.",
+      "zh": ""
+    },
+    {
+      "start": 1833.18,
+      "duration": 2.37,
+      "text": "He hadn't brought any notes or paper,",
+      "en": "He hadn't brought any notes or paper,",
+      "zh": ""
+    },
+    {
+      "start": 1835.55,
+      "duration": 3.15,
+      "text": "but Zhang believed his idea would work.",
+      "en": "but Zhang believed his idea would work.",
+      "zh": ""
+    },
+    {
+      "start": 1838.7,
+      "duration": 2.34,
+      "text": "(bright music)",
+      "en": "(bright music)",
+      "zh": ""
+    },
+    {
+      "start": 1841.04,
+      "duration": 1.83,
+      "text": "- You see, GPY had to count primes",
+      "en": "- You see, GPY had to count primes",
+      "zh": ""
+    },
+    {
+      "start": 1842.87,
+      "duration": 1.8,
+      "text": "in many different arithmetic progressions",
+      "en": "in many different arithmetic progressions",
+      "zh": ""
+    },
+    {
+      "start": 1844.67,
+      "duration": 2.19,
+      "text": "with all sorts of step sizes.",
+      "en": "with all sorts of step sizes.",
+      "zh": ""
+    },
+    {
+      "start": 1846.86,
+      "duration": 3.06,
+      "text": "But Zhang focused on a special class of step sizes,",
+      "en": "But Zhang focused on a special class of step sizes,",
+      "zh": ""
+    },
+    {
+      "start": 1849.92,
+      "duration": 2.61,
+      "text": "one's built only from small prime factors,",
+      "en": "one's built only from small prime factors,",
+      "zh": ""
+    },
+    {
+      "start": 1852.53,
+      "duration": 2.58,
+      "text": "and he realized he could reorganize the error terms",
+      "en": "and he realized he could reorganize the error terms",
+      "zh": ""
+    },
+    {
+      "start": 1855.11,
+      "duration": 3.51,
+      "text": "into a form where most of them get canceled out.",
+      "en": "into a form where most of them get canceled out.",
+      "zh": ""
+    },
+    {
+      "start": 1858.62,
+      "duration": 2.34,
+      "text": "This allowed him to push past the half barrier",
+      "en": "This allowed him to push past the half barrier",
+      "zh": ""
+    },
+    {
+      "start": 1860.96,
+      "duration": 4.32,
+      "text": "by a tiny fraction, just one over 584.",
+      "en": "by a tiny fraction, just one over 584.",
+      "zh": ""
+    },
+    {
+      "start": 1866.12,
+      "duration": 3.0,
+      "text": "Zhang spent the next year finalizing his proof,",
+      "en": "Zhang spent the next year finalizing his proof,",
+      "zh": ""
+    },
+    {
+      "start": 1869.12,
+      "duration": 2.43,
+      "text": "and then on the 17th of April, 2013,",
+      "en": "and then on the 17th of April, 2013,",
+      "zh": ""
+    },
+    {
+      "start": 1871.55,
+      "duration": 3.72,
+      "text": "he sent off that curious email to the Annals of Mathematics.",
+      "en": "he sent off that curious email to the Annals of Mathematics.",
+      "zh": ""
+    },
+    {
+      "start": 1876.35,
+      "duration": 1.08,
+      "text": "- Now, the Annals gets a proof",
+      "en": "- Now, the Annals gets a proof",
+      "zh": ""
+    },
+    {
+      "start": 1877.43,
+      "duration": 2.94,
+      "text": "of the Riemann Hypothesis every other day,",
+      "en": "of the Riemann Hypothesis every other day,",
+      "zh": ""
+    },
+    {
+      "start": 1880.37,
+      "duration": 2.73,
+      "text": "so they're like, okay, surely this isn't gonna work out,",
+      "en": "so they're like, okay, surely this isn't gonna work out,",
+      "zh": ""
+    },
+    {
+      "start": 1883.1,
+      "duration": 0.83,
+      "text": "but whatever.",
+      "en": "but whatever.",
+      "zh": ""
+    },
+    {
+      "start": 1883.93,
+      "duration": 1.87,
+      "text": "You know, we'll send it to a referee.",
+      "en": "You know, we'll send it to a referee.",
+      "zh": ""
+    },
+    {
+      "start": 1885.8,
+      "duration": 2.67,
+      "text": "And they're like, well,",
+      "en": "And they're like, well,",
+      "zh": ""
+    },
+    {
+      "start": 1888.47,
+      "duration": 1.77,
+      "text": "let's spend a few hours this afternoon.",
+      "en": "let's spend a few hours this afternoon.",
+      "zh": ""
+    },
+    {
+      "start": 1890.24,
+      "duration": 1.17,
+      "text": "We'll find a mistake.",
+      "en": "We'll find a mistake.",
+      "zh": ""
+    },
+    {
+      "start": 1891.41,
+      "duration": 1.98,
+      "text": "We'll tell the annals, you know, sorry, it didn't work out.",
+      "en": "We'll tell the annals, you know, sorry, it didn't work out.",
+      "zh": ""
+    },
+    {
+      "start": 1893.39,
+      "duration": 2.55,
+      "text": "Here's where the the gap is.",
+      "en": "Here's where the the gap is.",
+      "zh": ""
+    },
+    {
+      "start": 1895.94,
+      "duration": 1.53,
+      "text": "And they start reading it,",
+      "en": "And they start reading it,",
+      "zh": ""
+    },
+    {
+      "start": 1897.47,
+      "duration": 1.8,
+      "text": "and then they flip back, because they're experts.",
+      "en": "and then they flip back, because they're experts.",
+      "zh": ""
+    },
+    {
+      "start": 1899.27,
+      "duration": 1.89,
+      "text": "So, they can just flip through like, yeah, this'll work,",
+      "en": "So, they can just flip through like, yeah, this'll work,",
+      "zh": ""
+    },
+    {
+      "start": 1901.16,
+      "duration": 1.29,
+      "text": "this will work, but wait a second,",
+      "en": "this will work, but wait a second,",
+      "zh": ""
+    },
+    {
+      "start": 1902.45,
+      "duration": 1.44,
+      "text": "you're gonna get stuck here.",
+      "en": "you're gonna get stuck here.",
+      "zh": ""
+    },
+    {
+      "start": 1903.89,
+      "duration": 2.25,
+      "text": "And they flip five pages and they're like, oh,",
+      "en": "And they flip five pages and they're like, oh,",
+      "zh": ""
+    },
+    {
+      "start": 1906.14,
+      "duration": 0.84,
+      "text": "that's interesting.",
+      "en": "that's interesting.",
+      "zh": ""
+    },
+    {
+      "start": 1906.98,
+      "duration": 1.53,
+      "text": "That's how you're gonna handle that.",
+      "en": "That's how you're gonna handle that.",
+      "zh": ""
+    },
+    {
+      "start": 1908.51,
+      "duration": 2.13,
+      "text": "Okay, but then you're gonna have another,",
+      "en": "Okay, but then you're gonna have another,",
+      "zh": ""
+    },
+    {
+      "start": 1910.64,
+      "duration": 2.54,
+      "text": "it's like trying to lay down a carpet",
+      "en": "it's like trying to lay down a carpet",
+      "zh": ""
+    },
+    {
+      "start": 1913.18,
+      "duration": 1.35,
+      "text": "in a room.",
+      "en": "in a room.",
+      "zh": ""
+    },
+    {
+      "start": 1914.53,
+      "duration": 1.54,
+      "text": "You're like, okay, I know that corner,",
+      "en": "You're like, okay, I know that corner,",
+      "zh": ""
+    },
+    {
+      "start": 1916.07,
+      "duration": 1.23,
+      "text": "that corner's gonna screw you up",
+      "en": "that corner's gonna screw you up",
+      "zh": ""
+    },
+    {
+      "start": 1917.3,
+      "duration": 2.19,
+      "text": "even if you managed to make it work over there.",
+      "en": "even if you managed to make it work over there.",
+      "zh": ""
+    },
+    {
+      "start": 1919.49,
+      "duration": 2.01,
+      "text": "And then he goes over there, no, he cut it just right.",
+      "en": "And then he goes over there, no, he cut it just right.",
+      "zh": ""
+    },
+    {
+      "start": 1921.5,
+      "duration": 0.87,
+      "text": "It fits in that corner.",
+      "en": "It fits in that corner.",
+      "zh": ""
+    },
+    {
+      "start": 1922.37,
+      "duration": 1.05,
+      "text": "Wait a second.",
+      "en": "Wait a second.",
+      "zh": ""
+    },
+    {
+      "start": 1923.42,
+      "duration": 2.4,
+      "text": "And then they flip, you know, five more pages",
+      "en": "And then they flip, you know, five more pages",
+      "zh": ""
+    },
+    {
+      "start": 1925.82,
+      "duration": 0.87,
+      "text": "and by the end of the week,",
+      "en": "and by the end of the week,",
+      "zh": ""
+    },
+    {
+      "start": 1926.69,
+      "duration": 2.75,
+      "text": "they've reconstructed the proof and everything's right.",
+      "en": "they've reconstructed the proof and everything's right.",
+      "zh": ""
+    },
+    {
+      "start": 1930.41,
+      "duration": 1.59,
+      "text": "- Wow.",
+      "en": "- Wow.",
+      "zh": ""
+    },
+    {
+      "start": 1932.0,
+      "duration": 0.83,
+      "text": "(bright music)",
+      "en": "(bright music)",
+      "zh": ""
+    },
+    {
+      "start": 1932.83,
+      "duration": 3.19,
+      "text": "- Zhang's stencil had 3.5 million slots,",
+      "en": "- Zhang's stencil had 3.5 million slots,",
+      "zh": ""
+    },
+    {
+      "start": 1936.02,
+      "duration": 2.94,
+      "text": "spread across a span of 70 million.",
+      "en": "spread across a span of 70 million.",
+      "zh": ""
+    },
+    {
+      "start": 1938.96,
+      "duration": 3.48,
+      "text": "And by proving two of those slots always catch primes,",
+      "en": "And by proving two of those slots always catch primes,",
+      "zh": ""
+    },
+    {
+      "start": 1942.44,
+      "duration": 3.75,
+      "text": "he proved a bounded gap of 70 million.",
+      "en": "he proved a bounded gap of 70 million.",
+      "zh": ""
+    },
+    {
+      "start": 1946.19,
+      "duration": 0.93,
+      "text": "When the news broke,",
+      "en": "When the news broke,",
+      "zh": ""
+    },
+    {
+      "start": 1947.12,
+      "duration": 2.07,
+      "text": "mathematicians were in disbelief.",
+      "en": "mathematicians were in disbelief.",
+      "zh": ""
+    },
+    {
+      "start": 1949.19,
+      "duration": 2.07,
+      "text": "- It was basically an unknown in the field.",
+      "en": "- It was basically an unknown in the field.",
+      "zh": ""
+    },
+    {
+      "start": 1951.26,
+      "duration": 0.9,
+      "text": "I actually thought",
+      "en": "I actually thought",
+      "zh": ""
+    },
+    {
+      "start": 1952.16,
+      "duration": 1.56,
+      "text": "when I started reading Yitang Zhang's paper",
+      "en": "when I started reading Yitang Zhang's paper",
+      "zh": ""
+    },
+    {
+      "start": 1953.72,
+      "duration": 2.46,
+      "text": "and started realizing it was probably correct,",
+      "en": "and started realizing it was probably correct,",
+      "zh": ""
+    },
+    {
+      "start": 1956.18,
+      "duration": 1.44,
+      "text": "I thought it was probably one of the people",
+      "en": "I thought it was probably one of the people",
+      "zh": ""
+    },
+    {
+      "start": 1957.62,
+      "duration": 1.56,
+      "text": "I knew under a pseudonym,",
+      "en": "I knew under a pseudonym,",
+      "zh": ""
+    },
+    {
+      "start": 1959.18,
+      "duration": 2.34,
+      "text": "trying to avoid being embarrassed by being wrong.",
+      "en": "trying to avoid being embarrassed by being wrong.",
+      "zh": ""
+    },
+    {
+      "start": 1961.52,
+      "duration": 1.35,
+      "text": "If they were wrong.",
+      "en": "If they were wrong.",
+      "zh": ""
+    },
+    {
+      "start": 1962.87,
+      "duration": 2.79,
+      "text": "- Of course it wasn't, Zhang was real.",
+      "en": "- Of course it wasn't, Zhang was real.",
+      "zh": ""
+    },
+    {
+      "start": 1965.66,
+      "duration": 1.32,
+      "text": "And just over a year later",
+      "en": "And just over a year later",
+      "zh": ""
+    },
+    {
+      "start": 1966.98,
+      "duration": 2.9,
+      "text": "he was awarded the MacArthur Genius Grant.",
+      "en": "he was awarded the MacArthur Genius Grant.",
+      "zh": ""
+    },
+    {
+      "start": 1969.88,
+      "duration": 1.9,
+      "text": "(bright music)",
+      "en": "(bright music)",
+      "zh": ""
+    },
+    {
+      "start": 1971.78,
+      "duration": 3.0,
+      "text": "- To me, this is a really interesting aspect",
+      "en": "- To me, this is a really interesting aspect",
+      "zh": ""
+    },
+    {
+      "start": 1974.78,
+      "duration": 1.56,
+      "text": "of mathematics in particular.",
+      "en": "of mathematics in particular.",
+      "zh": ""
+    },
+    {
+      "start": 1976.34,
+      "duration": 2.25,
+      "text": "I think it's one of the very few fields",
+      "en": "I think it's one of the very few fields",
+      "zh": ""
+    },
+    {
+      "start": 1978.59,
+      "duration": 3.81,
+      "text": "where we have a truly honest approach",
+      "en": "where we have a truly honest approach",
+      "zh": ""
+    },
+    {
+      "start": 1982.4,
+      "duration": 3.48,
+      "text": "to success and what counts as success.",
+      "en": "to success and what counts as success.",
+      "zh": ""
+    },
+    {
+      "start": 1985.88,
+      "duration": 2.61,
+      "text": "He sent in an argument, people took it seriously.",
+      "en": "He sent in an argument, people took it seriously.",
+      "zh": ""
+    },
+    {
+      "start": 1988.49,
+      "duration": 0.83,
+      "text": "They looked at it.",
+      "en": "They looked at it.",
+      "zh": ""
+    },
+    {
+      "start": 1989.32,
+      "duration": 1.6,
+      "text": "They didn't think that he had a true proof.",
+      "en": "They didn't think that he had a true proof.",
+      "zh": ""
+    },
+    {
+      "start": 1990.92,
+      "duration": 3.42,
+      "text": "They sat there, they gave him the time",
+      "en": "They sat there, they gave him the time",
+      "zh": ""
+    },
+    {
+      "start": 1994.34,
+      "duration": 1.02,
+      "text": "that the argument was due,",
+      "en": "that the argument was due,",
+      "zh": ""
+    },
+    {
+      "start": 1995.36,
+      "duration": 2.46,
+      "text": "and he was immediately made a hero as he should have been.",
+      "en": "and he was immediately made a hero as he should have been.",
+      "zh": ""
+    },
+    {
+      "start": 1997.82,
+      "duration": 2.16,
+      "text": "To me, it shows that mathematics culture works.",
+      "en": "To me, it shows that mathematics culture works.",
+      "zh": ""
+    },
+    {
+      "start": 1999.98,
+      "duration": 1.65,
+      "text": "We're doing the right thing.",
+      "en": "We're doing the right thing.",
+      "zh": ""
+    },
+    {
+      "start": 2001.63,
+      "duration": 2.97,
+      "text": "I think the cover of like Scientific American",
+      "en": "I think the cover of like Scientific American",
+      "zh": ""
+    },
+    {
+      "start": 2004.6,
+      "duration": 2.55,
+      "text": "or whatever in 2013 is the story Yitang Zhang",
+      "en": "or whatever in 2013 is the story Yitang Zhang",
+      "zh": ""
+    },
+    {
+      "start": 2007.15,
+      "duration": 1.71,
+      "text": "and how he got this bounded gap",
+      "en": "and how he got this bounded gap",
+      "zh": ""
+    },
+    {
+      "start": 2008.86,
+      "duration": 2.85,
+      "text": "between primes toiling in complete isolation.",
+      "en": "between primes toiling in complete isolation.",
+      "zh": ""
+    },
+    {
+      "start": 2011.71,
+      "duration": 1.89,
+      "text": "And maybe it's because he was in isolation",
+      "en": "And maybe it's because he was in isolation",
+      "zh": ""
+    },
+    {
+      "start": 2013.6,
+      "duration": 2.22,
+      "text": "that he didn't have the group think that the rest of us did.",
+      "en": "that he didn't have the group think that the rest of us did.",
+      "zh": ""
+    },
+    {
+      "start": 2015.82,
+      "duration": 2.16,
+      "text": "To know that this was not,",
+      "en": "To know that this was not,",
+      "zh": ""
+    },
+    {
+      "start": 2017.98,
+      "duration": 1.89,
+      "text": "we were all told it's an impossible problem.",
+      "en": "we were all told it's an impossible problem.",
+      "zh": ""
+    },
+    {
+      "start": 2019.87,
+      "duration": 4.17,
+      "text": "- After realizing a bounded gap was not an impossible dream,",
+      "en": "- After realizing a bounded gap was not an impossible dream,",
+      "zh": ""
+    },
+    {
+      "start": 2024.04,
+      "duration": 3.42,
+      "text": "people reworked Zhang's method to optimize it.",
+      "en": "people reworked Zhang's method to optimize it.",
+      "zh": ""
+    },
+    {
+      "start": 2027.46,
+      "duration": 2.97,
+      "text": "Terence Tao spearheaded an online group called Polymath,",
+      "en": "Terence Tao spearheaded an online group called Polymath,",
+      "zh": ""
+    },
+    {
+      "start": 2030.43,
+      "duration": 1.62,
+      "text": "and they sharpened the method.",
+      "en": "and they sharpened the method.",
+      "zh": ""
+    },
+    {
+      "start": 2032.05,
+      "duration": 2.7,
+      "text": "So, every month, week or day,",
+      "en": "So, every month, week or day,",
+      "zh": ""
+    },
+    {
+      "start": 2034.75,
+      "duration": 2.22,
+      "text": "that upper bound kept coming down.",
+      "en": "that upper bound kept coming down.",
+      "zh": ""
+    },
+    {
+      "start": 2036.97,
+      "duration": 2.25,
+      "text": "One of the attendees described being at a conference",
+      "en": "One of the attendees described being at a conference",
+      "zh": ""
+    },
+    {
+      "start": 2039.22,
+      "duration": 2.88,
+      "text": "at the time, as I remember, sort of day by day,",
+      "en": "at the time, as I remember, sort of day by day,",
+      "zh": ""
+    },
+    {
+      "start": 2042.1,
+      "duration": 2.55,
+      "text": "everyone was refreshing their screens to see",
+      "en": "everyone was refreshing their screens to see",
+      "zh": ""
+    },
+    {
+      "start": 2044.65,
+      "duration": 2.01,
+      "text": "who had the world record now,",
+      "en": "who had the world record now,",
+      "zh": ""
+    },
+    {
+      "start": 2046.66,
+      "duration": 1.65,
+      "text": "and ultimately they got the number",
+      "en": "and ultimately they got the number",
+      "zh": ""
+    },
+    {
+      "start": 2048.31,
+      "duration": 2.61,
+      "text": "all the way down to 4,680.",
+      "en": "all the way down to 4,680.",
+      "zh": ""
+    },
+    {
+      "start": 2052.54,
+      "duration": 3.48,
+      "text": "- Meanwhile, there's a young postdoc named James Maynard,",
+      "en": "- Meanwhile, there's a young postdoc named James Maynard,",
+      "zh": ""
+    },
+    {
+      "start": 2056.02,
+      "duration": 3.0,
+      "text": "who just got his PhD at Oxford with Roger Heath-Brown",
+      "en": "who just got his PhD at Oxford with Roger Heath-Brown",
+      "zh": ""
+    },
+    {
+      "start": 2059.02,
+      "duration": 3.78,
+      "text": "and other one of these analytic number theory world experts.",
+      "en": "and other one of these analytic number theory world experts.",
+      "zh": ""
+    },
+    {
+      "start": 2062.8,
+      "duration": 2.88,
+      "text": "And he's working with Andrew Granville, in Montreal.",
+      "en": "And he's working with Andrew Granville, in Montreal.",
+      "zh": ""
+    },
+    {
+      "start": 2066.85,
+      "duration": 4.77,
+      "text": "And he has a completely orthogonal approach to this problem",
+      "en": "And he has a completely orthogonal approach to this problem",
+      "zh": ""
+    },
+    {
+      "start": 2071.62,
+      "duration": 0.83,
+      "text": "that he'd been making",
+      "en": "that he'd been making",
+      "zh": ""
+    },
+    {
+      "start": 2072.45,
+      "duration": 2.32,
+      "text": "some very incremental progress on independently.",
+      "en": "some very incremental progress on independently.",
+      "zh": ""
+    },
+    {
+      "start": 2074.77,
+      "duration": 3.46,
+      "text": "- When Maynard started, his advisor explicitly told him,",
+      "en": "- When Maynard started, his advisor explicitly told him,",
+      "zh": ""
+    },
+    {
+      "start": 2078.23,
+      "duration": 3.14,
+      "text": "\"I hope you won't work on this problem full time,",
+      "en": "\"I hope you won't work on this problem full time,",
+      "zh": ""
+    },
+    {
+      "start": 2081.37,
+      "duration": 3.15,
+      "text": "because I'm really pretty confident you're going to fail.\"",
+      "en": "because I'm really pretty confident you're going to fail.\"",
+      "zh": ""
+    },
+    {
+      "start": 2085.84,
+      "duration": 2.07,
+      "text": "But Maynard ignored the warning,",
+      "en": "But Maynard ignored the warning,",
+      "zh": ""
+    },
+    {
+      "start": 2087.91,
+      "duration": 3.6,
+      "text": "and came up with a different way to attack the problem,",
+      "en": "and came up with a different way to attack the problem,",
+      "zh": ""
+    },
+    {
+      "start": 2091.51,
+      "duration": 3.81,
+      "text": "and within just a few months, he got it to work.",
+      "en": "and within just a few months, he got it to work.",
+      "zh": ""
+    },
+    {
+      "start": 2095.32,
+      "duration": 2.37,
+      "text": "Further bring down the gap to 600.",
+      "en": "Further bring down the gap to 600.",
+      "zh": ""
+    },
+    {
+      "start": 2098.74,
+      "duration": 2.88,
+      "text": "But his method also proved something else.",
+      "en": "But his method also proved something else.",
+      "zh": ""
+    },
+    {
+      "start": 2101.62,
+      "duration": 2.1,
+      "text": "- He can get three primes in a bounded window.",
+      "en": "- He can get three primes in a bounded window.",
+      "zh": ""
+    },
+    {
+      "start": 2103.72,
+      "duration": 1.92,
+      "text": "The bound has to change depending on how many primes",
+      "en": "The bound has to change depending on how many primes",
+      "zh": ""
+    },
+    {
+      "start": 2105.64,
+      "duration": 1.35,
+      "text": "you wanna put in that window,",
+      "en": "you wanna put in that window,",
+      "zh": ""
+    },
+    {
+      "start": 2106.99,
+      "duration": 1.41,
+      "text": "and that his number is better.",
+      "en": "and that his number is better.",
+      "zh": ""
+    },
+    {
+      "start": 2108.4,
+      "duration": 3.51,
+      "text": "And the method has nothing to do with the exponent one half.",
+      "en": "And the method has nothing to do with the exponent one half.",
+      "zh": ""
+    },
+    {
+      "start": 2111.91,
+      "duration": 1.2,
+      "text": "- Wait, what?",
+      "en": "- Wait, what?",
+      "zh": ""
+    },
+    {
+      "start": 2113.11,
+      "duration": 3.69,
+      "text": "- One half was a pure mirage.",
+      "en": "- One half was a pure mirage.",
+      "zh": ""
+    },
+    {
+      "start": 2116.8,
+      "duration": 1.65,
+      "text": "It was a red herring.",
+      "en": "It was a red herring.",
+      "zh": ""
+    },
+    {
+      "start": 2118.45,
+      "duration": 1.14,
+      "text": "- That is crazy.",
+      "en": "- That is crazy.",
+      "zh": ""
+    },
+    {
+      "start": 2119.59,
+      "duration": 3.0,
+      "text": "One half was not a fundamental limit at all.",
+      "en": "One half was not a fundamental limit at all.",
+      "zh": ""
+    },
+    {
+      "start": 2122.59,
+      "duration": 3.63,
+      "text": "See where GPY average was stuck at two times theta,",
+      "en": "See where GPY average was stuck at two times theta,",
+      "zh": ""
+    },
+    {
+      "start": 2126.22,
+      "duration": 3.3,
+      "text": "Maynard's average grew roughly like theta over two",
+      "en": "Maynard's average grew roughly like theta over two",
+      "zh": ""
+    },
+    {
+      "start": 2129.52,
+      "duration": 1.98,
+      "text": "times the natural logarithm of K,",
+      "en": "times the natural logarithm of K,",
+      "zh": ""
+    },
+    {
+      "start": 2131.5,
+      "duration": 2.94,
+      "text": "where K is the number of slots in the stencil.",
+      "en": "where K is the number of slots in the stencil.",
+      "zh": ""
+    },
+    {
+      "start": 2134.44,
+      "duration": 3.66,
+      "text": "So, all Maynard needed was enough slots and it worked.",
+      "en": "So, all Maynard needed was enough slots and it worked.",
+      "zh": ""
+    },
+    {
+      "start": 2139.03,
+      "duration": 2.31,
+      "text": "- You need any number greater than zero.",
+      "en": "- You need any number greater than zero.",
+      "zh": ""
+    },
+    {
+      "start": 2141.34,
+      "duration": 1.86,
+      "text": "When you go up to one half because you have one half,",
+      "en": "When you go up to one half because you have one half,",
+      "zh": ""
+    },
+    {
+      "start": 2143.2,
+      "duration": 1.86,
+      "text": "you'll get better numerics.",
+      "en": "you'll get better numerics.",
+      "zh": ""
+    },
+    {
+      "start": 2145.06,
+      "duration": 2.67,
+      "text": "But the bounded gaps you could do, just going up to,",
+      "en": "But the bounded gaps you could do, just going up to,",
+      "zh": ""
+    },
+    {
+      "start": 2147.73,
+      "duration": 3.18,
+      "text": "you know, 0.01, not 0.50101.",
+      "en": "you know, 0.01, not 0.50101.",
+      "zh": ""
+    },
+    {
+      "start": 2150.91,
+      "duration": 3.18,
+      "text": "Now, curiously, Terry Tao independently",
+      "en": "Now, curiously, Terry Tao independently",
+      "zh": ""
+    },
+    {
+      "start": 2154.09,
+      "duration": 2.34,
+      "text": "has the same approach.",
+      "en": "has the same approach.",
+      "zh": ""
+    },
+    {
+      "start": 2156.43,
+      "duration": 1.38,
+      "text": "He tells Ben Green about it,",
+      "en": "He tells Ben Green about it,",
+      "zh": ""
+    },
+    {
+      "start": 2157.81,
+      "duration": 2.79,
+      "text": "Ben Green is meeting with Andrew Granville,",
+      "en": "Ben Green is meeting with Andrew Granville,",
+      "zh": ""
+    },
+    {
+      "start": 2160.6,
+      "duration": 3.09,
+      "text": "and says, \"Hey, Terry's got this new idea",
+      "en": "and says, \"Hey, Terry's got this new idea",
+      "zh": ""
+    },
+    {
+      "start": 2163.69,
+      "duration": 1.83,
+      "text": "that he thinks is gonna get even farther.\"",
+      "en": "that he thinks is gonna get even farther.\"",
+      "zh": ""
+    },
+    {
+      "start": 2165.52,
+      "duration": 1.23,
+      "text": "And Granville, says, wait a second.",
+      "en": "And Granville, says, wait a second.",
+      "zh": ""
+    },
+    {
+      "start": 2166.75,
+      "duration": 3.06,
+      "text": "My postdoc, Maynard, is doing exactly the same thing.",
+      "en": "My postdoc, Maynard, is doing exactly the same thing.",
+      "zh": ""
+    },
+    {
+      "start": 2169.81,
+      "duration": 1.89,
+      "text": "We gotta get these two guys to talk to one another.",
+      "en": "We gotta get these two guys to talk to one another.",
+      "zh": ""
+    },
+    {
+      "start": 2171.7,
+      "duration": 1.47,
+      "text": "Terry's a Fields medalist,",
+      "en": "Terry's a Fields medalist,",
+      "zh": ""
+    },
+    {
+      "start": 2173.17,
+      "duration": 3.57,
+      "text": "he's like a super heavyweight by this point,",
+      "en": "he's like a super heavyweight by this point,",
+      "zh": ""
+    },
+    {
+      "start": 2176.74,
+      "duration": 4.5,
+      "text": "whereas James is this, you know, fresh PhD,",
+      "en": "whereas James is this, you know, fresh PhD,",
+      "zh": ""
+    },
+    {
+      "start": 2181.24,
+      "duration": 2.52,
+      "text": "and Terry says, you take it, I don't need this.",
+      "en": "and Terry says, you take it, I don't need this.",
+      "zh": ""
+    },
+    {
+      "start": 2183.76,
+      "duration": 0.93,
+      "text": "You know, you this,",
+      "en": "You know, you this,",
+      "zh": ""
+    },
+    {
+      "start": 2184.69,
+      "duration": 1.92,
+      "text": "it's your idea, you go with it.",
+      "en": "it's your idea, you go with it.",
+      "zh": ""
+    },
+    {
+      "start": 2186.61,
+      "duration": 2.79,
+      "text": "- By early 2014, Maynard joined forces",
+      "en": "- By early 2014, Maynard joined forces",
+      "zh": ""
+    },
+    {
+      "start": 2189.4,
+      "duration": 1.68,
+      "text": "with Tao's Polymath group.",
+      "en": "with Tao's Polymath group.",
+      "zh": ""
+    },
+    {
+      "start": 2191.08,
+      "duration": 3.48,
+      "text": "- It was clear that somehow 600 was just a proof of concept,",
+      "en": "- It was clear that somehow 600 was just a proof of concept,",
+      "zh": ""
+    },
+    {
+      "start": 2194.56,
+      "duration": 2.94,
+      "text": "and the same methods would give something smaller,",
+      "en": "and the same methods would give something smaller,",
+      "zh": ""
+    },
+    {
+      "start": 2197.5,
+      "duration": 3.27,
+      "text": "but there were extra ideas that you could maybe use",
+      "en": "but there were extra ideas that you could maybe use",
+      "zh": ""
+    },
+    {
+      "start": 2200.77,
+      "duration": 1.38,
+      "text": "to squeeze everything out.",
+      "en": "to squeeze everything out.",
+      "zh": ""
+    },
+    {
+      "start": 2202.15,
+      "duration": 1.74,
+      "text": "And so the current world record",
+      "en": "And so the current world record",
+      "zh": ""
+    },
+    {
+      "start": 2203.89,
+      "duration": 1.8,
+      "text": "is that there's infinitely many pairs of primes",
+      "en": "is that there's infinitely many pairs of primes",
+      "zh": ""
+    },
+    {
+      "start": 2205.69,
+      "duration": 3.42,
+      "text": "that differ by no more than 246.",
+      "en": "that differ by no more than 246.",
+      "zh": ""
+    },
+    {
+      "start": 2209.11,
+      "duration": 0.83,
+      "text": "(bright music)",
+      "en": "(bright music)",
+      "zh": ""
+    },
+    {
+      "start": 2209.94,
+      "duration": 3.01,
+      "text": "- And that for now is where it stops.",
+      "en": "- And that for now is where it stops.",
+      "zh": ""
+    },
+    {
+      "start": 2212.95,
+      "duration": 3.54,
+      "text": "In 2022, James Maynard was awarded the Fields Medal,",
+      "en": "In 2022, James Maynard was awarded the Fields Medal,",
+      "zh": ""
+    },
+    {
+      "start": 2216.49,
+      "duration": 4.47,
+      "text": "Mathematics, highest honor for his work on prime gaps.",
+      "en": "Mathematics, highest honor for his work on prime gaps.",
+      "zh": ""
+    },
+    {
+      "start": 2220.96,
+      "duration": 2.22,
+      "text": "- Yeah, I think that's the basic outline",
+      "en": "- Yeah, I think that's the basic outline",
+      "zh": ""
+    },
+    {
+      "start": 2223.18,
+      "duration": 2.88,
+      "text": "is the kind of two directions of approximation",
+      "en": "is the kind of two directions of approximation",
+      "zh": ""
+    },
+    {
+      "start": 2226.06,
+      "duration": 2.61,
+      "text": "to twin primes Chen's direction,",
+      "en": "to twin primes Chen's direction,",
+      "zh": ""
+    },
+    {
+      "start": 2228.67,
+      "duration": 4.08,
+      "text": "Brun, Chen, whatever, versus Zhang and Maynard,",
+      "en": "Brun, Chen, whatever, versus Zhang and Maynard,",
+      "zh": ""
+    },
+    {
+      "start": 2232.75,
+      "duration": 2.25,
+      "text": "and this story that the Zhang wasn't at this meeting,",
+      "en": "and this story that the Zhang wasn't at this meeting,",
+      "zh": ""
+    },
+    {
+      "start": 2235.0,
+      "duration": 1.32,
+      "text": "so he didn't know it was impossible.",
+      "en": "so he didn't know it was impossible.",
+      "zh": ""
+    },
+    {
+      "start": 2236.32,
+      "duration": 1.56,
+      "text": "- It reminded me of the four minute mile",
+      "en": "- It reminded me of the four minute mile",
+      "zh": ""
+    },
+    {
+      "start": 2237.88,
+      "duration": 1.77,
+      "text": "where everyone thought it was impossible.",
+      "en": "where everyone thought it was impossible.",
+      "zh": ""
+    },
+    {
+      "start": 2239.65,
+      "duration": 1.38,
+      "text": "No one did it.",
+      "en": "No one did it.",
+      "zh": ""
+    },
+    {
+      "start": 2241.03,
+      "duration": 1.65,
+      "text": "- And then for the first time ever,",
+      "en": "- And then for the first time ever,",
+      "zh": ""
+    },
+    {
+      "start": 2242.68,
+      "duration": 3.18,
+      "text": "Roger Bannister broke it in 1954,",
+      "en": "Roger Bannister broke it in 1954,",
+      "zh": ""
+    },
+    {
+      "start": 2245.86,
+      "duration": 1.92,
+      "text": "and after knowing it was possible,",
+      "en": "and after knowing it was possible,",
+      "zh": ""
+    },
+    {
+      "start": 2247.78,
+      "duration": 1.86,
+      "text": "just 46 days later,",
+      "en": "just 46 days later,",
+      "zh": ""
+    },
+    {
+      "start": 2249.64,
+      "duration": 3.33,
+      "text": "another runner called John Landy broke it as well.",
+      "en": "another runner called John Landy broke it as well.",
+      "zh": ""
+    },
+    {
+      "start": 2252.97,
+      "duration": 4.38,
+      "text": "And by the end of 1956, 10 people had broken it,",
+      "en": "And by the end of 1956, 10 people had broken it,",
+      "zh": ""
+    },
+    {
+      "start": 2257.35,
+      "duration": 2.34,
+      "text": "all from knowing that it was possible.",
+      "en": "all from knowing that it was possible.",
+      "zh": ""
+    },
+    {
+      "start": 2261.49,
+      "duration": 3.45,
+      "text": "So, what about pushing that gap down even lower?",
+      "en": "So, what about pushing that gap down even lower?",
+      "zh": ""
+    },
+    {
+      "start": 2264.94,
+      "duration": 1.29,
+      "text": "Is that possible?",
+      "en": "Is that possible?",
+      "zh": ""
+    },
+    {
+      "start": 2266.23,
+      "duration": 1.95,
+      "text": "Well, mathematicians have found ways",
+      "en": "Well, mathematicians have found ways",
+      "zh": ""
+    },
+    {
+      "start": 2268.18,
+      "duration": 1.92,
+      "text": "to bring it down even more,",
+      "en": "to bring it down even more,",
+      "zh": ""
+    },
+    {
+      "start": 2270.1,
+      "duration": 2.82,
+      "text": "but all of these results are conditional.",
+      "en": "but all of these results are conditional.",
+      "zh": ""
+    },
+    {
+      "start": 2272.92,
+      "duration": 3.63,
+      "text": "For example, there is the Elliot-Halberstam conjecture,",
+      "en": "For example, there is the Elliot-Halberstam conjecture,",
+      "zh": ""
+    },
+    {
+      "start": 2276.55,
+      "duration": 1.35,
+      "text": "which assumes primes",
+      "en": "which assumes primes",
+      "zh": ""
+    },
+    {
+      "start": 2277.9,
+      "duration": 2.88,
+      "text": "are spread evenly across arithmetic progressions,",
+      "en": "are spread evenly across arithmetic progressions,",
+      "zh": ""
+    },
+    {
+      "start": 2280.78,
+      "duration": 1.74,
+      "text": "or that the level of distribution",
+      "en": "or that the level of distribution",
+      "zh": ""
+    },
+    {
+      "start": 2282.52,
+      "duration": 2.31,
+      "text": "can be taken as large as one.",
+      "en": "can be taken as large as one.",
+      "zh": ""
+    },
+    {
+      "start": 2284.83,
+      "duration": 3.36,
+      "text": "And in 2013, Maynard showed that if you assume",
+      "en": "And in 2013, Maynard showed that if you assume",
+      "zh": ""
+    },
+    {
+      "start": 2288.19,
+      "duration": 1.35,
+      "text": "this conjecture is true,",
+      "en": "this conjecture is true,",
+      "zh": ""
+    },
+    {
+      "start": 2289.54,
+      "duration": 2.52,
+      "text": "then the gap plummets to just 12.",
+      "en": "then the gap plummets to just 12.",
+      "zh": ""
+    },
+    {
+      "start": 2292.06,
+      "duration": 0.83,
+      "text": "A year later,",
+      "en": "A year later,",
+      "zh": ""
+    },
+    {
+      "start": 2292.89,
+      "duration": 2.29,
+      "text": "the Polymath Group proved that if you assume",
+      "en": "the Polymath Group proved that if you assume",
+      "zh": ""
+    },
+    {
+      "start": 2295.18,
+      "duration": 2.61,
+      "text": "an even stronger version of this conjecture,",
+      "en": "an even stronger version of this conjecture,",
+      "zh": ""
+    },
+    {
+      "start": 2297.79,
+      "duration": 3.21,
+      "text": "the gap drops all the way down to six.",
+      "en": "the gap drops all the way down to six.",
+      "zh": ""
+    },
+    {
+      "start": 2301.0,
+      "duration": 4.47,
+      "text": "But without assuming anything, 246 still stands.",
+      "en": "But without assuming anything, 246 still stands.",
+      "zh": ""
+    },
+    {
+      "start": 2307.93,
+      "duration": 2.13,
+      "text": "Let me ask you, do you think we're gonna solve",
+      "en": "Let me ask you, do you think we're gonna solve",
+      "zh": ""
+    },
+    {
+      "start": 2310.06,
+      "duration": 1.59,
+      "text": "the twin Prime conjecture?",
+      "en": "the twin Prime conjecture?",
+      "zh": ""
+    },
+    {
+      "start": 2311.65,
+      "duration": 4.35,
+      "text": "- I am totally convinced that humanity will eventually solve",
+      "en": "- I am totally convinced that humanity will eventually solve",
+      "zh": ""
+    },
+    {
+      "start": 2316.0,
+      "duration": 1.41,
+      "text": "the twin prime conjecture.",
+      "en": "the twin prime conjecture.",
+      "zh": ""
+    },
+    {
+      "start": 2317.41,
+      "duration": 3.3,
+      "text": "Often when I'm asked about some of these big famous problems",
+      "en": "Often when I'm asked about some of these big famous problems",
+      "zh": ""
+    },
+    {
+      "start": 2320.71,
+      "duration": 4.41,
+      "text": "like Twin Primes or Riemann or something like that,",
+      "en": "like Twin Primes or Riemann or something like that,",
+      "zh": ""
+    },
+    {
+      "start": 2325.12,
+      "duration": 3.21,
+      "text": "one way of kind of avoiding the question",
+      "en": "one way of kind of avoiding the question",
+      "zh": ""
+    },
+    {
+      "start": 2328.33,
+      "duration": 3.75,
+      "text": "is that if you imagine you are randomly distributed in time,",
+      "en": "is that if you imagine you are randomly distributed in time,",
+      "zh": ""
+    },
+    {
+      "start": 2332.08,
+      "duration": 4.95,
+      "text": "you'd expect to be sort of typically roughly halfway",
+      "en": "you'd expect to be sort of typically roughly halfway",
+      "zh": ""
+    },
+    {
+      "start": 2337.03,
+      "duration": 2.46,
+      "text": "through when the conjectures been open for.",
+      "en": "through when the conjectures been open for.",
+      "zh": ""
+    },
+    {
+      "start": 2339.49,
+      "duration": 2.85,
+      "text": "So, an actual guess, if you have no other information,",
+      "en": "So, an actual guess, if you have no other information,",
+      "zh": ""
+    },
+    {
+      "start": 2342.34,
+      "duration": 3.12,
+      "text": "is to guess that a problem will be open",
+      "en": "is to guess that a problem will be open",
+      "zh": ""
+    },
+    {
+      "start": 2345.46,
+      "duration": 2.4,
+      "text": "for as long as it has been open for already.",
+      "en": "for as long as it has been open for already.",
+      "zh": ""
+    },
+    {
+      "start": 2347.86,
+      "duration": 1.89,
+      "text": "But obviously this doesn't work for twin primes,",
+      "en": "But obviously this doesn't work for twin primes,",
+      "zh": ""
+    },
+    {
+      "start": 2349.75,
+      "duration": 2.19,
+      "text": "'cause we don't know whether it's-",
+      "en": "'cause we don't know whether it's-",
+      "zh": ""
+    },
+    {
+      "start": 2351.94,
+      "duration": 0.96,
+      "text": "- Right.",
+      "en": "- Right.",
+      "zh": ""
+    },
+    {
+      "start": 2352.9,
+      "duration": 0.83,
+      "text": "(all laughing)",
+      "en": "(all laughing)",
+      "zh": ""
+    },
+    {
+      "start": 2353.73,
+      "duration": 3.16,
+      "text": "- 125 years old or whether it's like 2000 years old.",
+      "en": "- 125 years old or whether it's like 2000 years old.",
+      "zh": ""
+    },
+    {
+      "start": 2356.89,
+      "duration": 1.71,
+      "text": "So, I think it's a fools game to guess,",
+      "en": "So, I think it's a fools game to guess,",
+      "zh": ""
+    },
+    {
+      "start": 2358.6,
+      "duration": 3.09,
+      "text": "but it clearly needs a really big idea,",
+      "en": "but it clearly needs a really big idea,",
+      "zh": ""
+    },
+    {
+      "start": 2361.69,
+      "duration": 3.09,
+      "text": "but maybe it only needs one big idea.",
+      "en": "but maybe it only needs one big idea.",
+      "zh": ""
+    },
+    {
+      "start": 2364.78,
+      "duration": 2.49,
+      "text": "- Although maybe, just maybe,",
+      "en": "- Although maybe, just maybe,",
+      "zh": ""
+    },
+    {
+      "start": 2367.27,
+      "duration": 3.24,
+      "text": "not knowing this with certainty is for the best.",
+      "en": "not knowing this with certainty is for the best.",
+      "zh": ""
+    },
+    {
+      "start": 2370.51,
+      "duration": 3.96,
+      "text": "Because if we knew for sure that this was impossible,",
+      "en": "Because if we knew for sure that this was impossible,",
+      "zh": ""
+    },
+    {
+      "start": 2374.47,
+      "duration": 1.77,
+      "text": "then we would've likely missed out",
+      "en": "then we would've likely missed out",
+      "zh": ""
+    },
+    {
+      "start": 2376.24,
+      "duration": 1.68,
+      "text": "on most of these inventions",
+      "en": "on most of these inventions",
+      "zh": ""
+    },
+    {
+      "start": 2377.92,
+      "duration": 2.37,
+      "text": "and new methods over the past century.",
+      "en": "and new methods over the past century.",
+      "zh": ""
+    },
+    {
+      "start": 2380.29,
+      "duration": 3.39,
+      "text": "So, sometimes it pays not to know everything.",
+      "en": "So, sometimes it pays not to know everything.",
+      "zh": ""
+    },
+    {
+      "start": 2386.29,
+      "duration": 2.34,
+      "text": "- You know, before I started this channel,",
+      "en": "- You know, before I started this channel,",
+      "zh": ""
+    },
+    {
+      "start": 2388.63,
+      "duration": 2.22,
+      "text": "I was a teacher at a tutoring company,",
+      "en": "I was a teacher at a tutoring company,",
+      "zh": ""
+    },
+    {
+      "start": 2390.85,
+      "duration": 1.83,
+      "text": "and honestly, it was the best job",
+      "en": "and honestly, it was the best job",
+      "zh": ""
+    },
+    {
+      "start": 2392.68,
+      "duration": 2.22,
+      "text": "I'd had up until that point.",
+      "en": "I'd had up until that point.",
+      "zh": ""
+    },
+    {
+      "start": 2394.9,
+      "duration": 1.98,
+      "text": "I could be the person who gave my students",
+      "en": "I could be the person who gave my students",
+      "zh": ""
+    },
+    {
+      "start": 2396.88,
+      "duration": 3.3,
+      "text": "that one big idea that would help everything click.",
+      "en": "that one big idea that would help everything click.",
+      "zh": ""
+    },
+    {
+      "start": 2400.18,
+      "duration": 2.46,
+      "text": "You know, the fastest way to learn something",
+      "en": "You know, the fastest way to learn something",
+      "zh": ""
+    },
+    {
+      "start": 2402.64,
+      "duration": 3.87,
+      "text": "is to have someone next to you who already understands it.",
+      "en": "is to have someone next to you who already understands it.",
+      "zh": ""
+    },
+    {
+      "start": 2406.51,
+      "duration": 2.13,
+      "text": "Unfortunately, many students don't have access",
+      "en": "Unfortunately, many students don't have access",
+      "zh": ""
+    },
+    {
+      "start": 2408.64,
+      "duration": 1.68,
+      "text": "to that kind of support.",
+      "en": "to that kind of support.",
+      "zh": ""
+    },
+    {
+      "start": 2410.32,
+      "duration": 3.51,
+      "text": "That is, until now, our long-term sponsor Brilliant,",
+      "en": "That is, until now, our long-term sponsor Brilliant,",
+      "zh": ""
+    },
+    {
+      "start": 2413.83,
+      "duration": 1.65,
+      "text": "has just launched Koji,",
+      "en": "has just launched Koji,",
+      "zh": ""
+    },
+    {
+      "start": 2415.48,
+      "duration": 2.16,
+      "text": "which is a revolutionary personal tutor",
+      "en": "which is a revolutionary personal tutor",
+      "zh": ""
+    },
+    {
+      "start": 2417.64,
+      "duration": 3.0,
+      "text": "that makes one-on-one learning accessible for everyone.",
+      "en": "that makes one-on-one learning accessible for everyone.",
+      "zh": ""
+    },
+    {
+      "start": 2420.64,
+      "duration": 1.44,
+      "text": "Koji can see what you do",
+      "en": "Koji can see what you do",
+      "zh": ""
+    },
+    {
+      "start": 2422.08,
+      "duration": 2.04,
+      "text": "and answer any questions.",
+      "en": "and answer any questions.",
+      "zh": ""
+    },
+    {
+      "start": 2424.12,
+      "duration": 3.12,
+      "text": "He can even draw onscreen to help explain those big ideas,",
+      "en": "He can even draw onscreen to help explain those big ideas,",
+      "zh": ""
+    },
+    {
+      "start": 2427.24,
+      "duration": 2.1,
+      "text": "just like a person sitting next to you.",
+      "en": "just like a person sitting next to you.",
+      "zh": ""
+    },
+    {
+      "start": 2429.34,
+      "duration": 1.47,
+      "text": "He asks guiding questions,",
+      "en": "He asks guiding questions,",
+      "zh": ""
+    },
+    {
+      "start": 2430.81,
+      "duration": 2.01,
+      "text": "walks you through problems step by step,",
+      "en": "walks you through problems step by step,",
+      "zh": ""
+    },
+    {
+      "start": 2432.82,
+      "duration": 2.49,
+      "text": "and adapts to where you're at in real time.",
+      "en": "and adapts to where you're at in real time.",
+      "zh": ""
+    },
+    {
+      "start": 2435.31,
+      "duration": 2.79,
+      "text": "You get a world class personal tutor in your pocket.",
+      "en": "You get a world class personal tutor in your pocket.",
+      "zh": ""
+    },
+    {
+      "start": 2438.1,
+      "duration": 2.55,
+      "text": "Koji can help you work through math and coding streams",
+      "en": "Koji can help you work through math and coding streams",
+      "zh": ""
+    },
+    {
+      "start": 2440.65,
+      "duration": 2.85,
+      "text": "from grade five through college and beyond.",
+      "en": "from grade five through college and beyond.",
+      "zh": ""
+    },
+    {
+      "start": 2443.5,
+      "duration": 3.21,
+      "text": "Each course is designed by experts from places like MIT,",
+      "en": "Each course is designed by experts from places like MIT,",
+      "zh": ""
+    },
+    {
+      "start": 2446.71,
+      "duration": 1.74,
+      "text": "Harvard, Stanford, and Caltech.",
+      "en": "Harvard, Stanford, and Caltech.",
+      "zh": ""
+    },
+    {
+      "start": 2448.45,
+      "duration": 3.51,
+      "text": "It's a great way to get seriously engaged with math, coding,",
+      "en": "It's a great way to get seriously engaged with math, coding,",
+      "zh": ""
+    },
+    {
+      "start": 2451.96,
+      "duration": 1.47,
+      "text": "think hard and have fun,",
+      "en": "think hard and have fun,",
+      "zh": ""
+    },
+    {
+      "start": 2453.43,
+      "duration": 2.58,
+      "text": "especially for students on summer break to stay sharp",
+      "en": "especially for students on summer break to stay sharp",
+      "zh": ""
+    },
+    {
+      "start": 2456.01,
+      "duration": 1.74,
+      "text": "or get ahead for next year.",
+      "en": "or get ahead for next year.",
+      "zh": ""
+    },
+    {
+      "start": 2457.75,
+      "duration": 1.86,
+      "text": "So, click the link below to get started",
+      "en": "So, click the link below to get started",
+      "zh": ""
+    },
+    {
+      "start": 2459.61,
+      "duration": 1.83,
+      "text": "with Brilliant's tutor for free,",
+      "en": "with Brilliant's tutor for free,",
+      "zh": ""
+    },
+    {
+      "start": 2461.44,
+      "duration": 2.28,
+      "text": "and you can also upgrade to Premium",
+      "en": "and you can also upgrade to Premium",
+      "zh": ""
+    },
+    {
+      "start": 2463.72,
+      "duration": 1.86,
+      "text": "to get full tutor support.",
+      "en": "to get full tutor support.",
+      "zh": ""
+    },
+    {
+      "start": 2465.58,
+      "duration": 2.25,
+      "text": "Right now, Brilliant is giving Veritasium viewers",
+      "en": "Right now, Brilliant is giving Veritasium viewers",
+      "zh": ""
+    },
+    {
+      "start": 2467.83,
+      "duration": 3.45,
+      "text": "a special 20% off an annual premium subscription.",
+      "en": "a special 20% off an annual premium subscription.",
+      "zh": ""
+    },
+    {
+      "start": 2471.28,
+      "duration": 3.0,
+      "text": "Just go to brilliant.org/veritasium.",
+      "en": "Just go to brilliant.org/veritasium.",
+      "zh": ""
+    },
+    {
+      "start": 2474.28,
+      "duration": 1.71,
+      "text": "You can scan this QR code",
+      "en": "You can scan this QR code",
+      "zh": ""
+    },
+    {
+      "start": 2475.99,
+      "duration": 2.04,
+      "text": "or click the link in the description.",
+      "en": "or click the link in the description.",
+      "zh": ""
+    },
+    {
+      "start": 2478.03,
+      "duration": 2.34,
+      "text": "So, I wanna thank Brilliant for sponsoring this video",
+      "en": "So, I wanna thank Brilliant for sponsoring this video",
+      "zh": ""
+    },
+    {
+      "start": 2480.37,
+      "duration": 1.75,
+      "text": "and I wanna thank you for watching.",
+      "en": "and I wanna thank you for watching.",
+      "zh": ""
+    }
+  ],
+  "words": []
+}

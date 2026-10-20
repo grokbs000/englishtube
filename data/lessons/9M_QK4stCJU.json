@@ -1,0 +1,4163 @@
+{
+  "cues": [
+    {
+      "start": 1.01,
+      "duration": 2.56,
+      "text": "- [Derek] Friday, the 17th of July, 1992.",
+      "en": "- [Derek] Friday, the 17th of July, 1992.",
+      "zh": ""
+    },
+    {
+      "start": 3.57,
+      "duration": 1.8,
+      "text": "Amidst the chaos of the trading floor",
+      "en": "Amidst the chaos of the trading floor",
+      "zh": ""
+    },
+    {
+      "start": 5.37,
+      "duration": 2.19,
+      "text": "at Singapore's international stock exchange,",
+      "en": "at Singapore's international stock exchange,",
+      "zh": ""
+    },
+    {
+      "start": 7.56,
+      "duration": 2.85,
+      "text": "one of the junior traders makes an expensive mistake.",
+      "en": "one of the junior traders makes an expensive mistake.",
+      "zh": ""
+    },
+    {
+      "start": 11.34,
+      "duration": 2.76,
+      "text": "Instead of buying 20 futures contracts for a client,",
+      "en": "Instead of buying 20 futures contracts for a client,",
+      "zh": ""
+    },
+    {
+      "start": 14.1,
+      "duration": 1.5,
+      "text": "she sold them instead,",
+      "en": "she sold them instead,",
+      "zh": ""
+    },
+    {
+      "start": 15.6,
+      "duration": 3.95,
+      "text": "costing Barings Bank nearly $40,000.",
+      "en": "costing Barings Bank nearly $40,000.",
+      "zh": ""
+    },
+    {
+      "start": 19.55,
+      "duration": 2.08,
+      "text": "To save her job, Her boss, Nick Leeson,",
+      "en": "To save her job, Her boss, Nick Leeson,",
+      "zh": ""
+    },
+    {
+      "start": 21.63,
+      "duration": 1.83,
+      "text": "a young trader keen to make his mark,",
+      "en": "a young trader keen to make his mark,",
+      "zh": ""
+    },
+    {
+      "start": 23.46,
+      "duration": 2.49,
+      "text": "decides to hide the loss.",
+      "en": "decides to hide the loss.",
+      "zh": ""
+    },
+    {
+      "start": 25.95,
+      "duration": 2.76,
+      "text": "He puts it in an obscure error account,",
+      "en": "He puts it in an obscure error account,",
+      "zh": ""
+    },
+    {
+      "start": 28.71,
+      "duration": 2.67,
+      "text": "that's account 88888.",
+      "en": "that's account 88888.",
+      "zh": ""
+    },
+    {
+      "start": 31.38,
+      "duration": 3.99,
+      "text": "It's used by banks to solve small discrepancies and trades.",
+      "en": "It's used by banks to solve small discrepancies and trades.",
+      "zh": ""
+    },
+    {
+      "start": 35.37,
+      "duration": 1.41,
+      "text": "It's a dangerous move",
+      "en": "It's a dangerous move",
+      "zh": ""
+    },
+    {
+      "start": 36.78,
+      "duration": 1.41,
+      "text": "and it should have been picked up",
+      "en": "and it should have been picked up",
+      "zh": ""
+    },
+    {
+      "start": 38.19,
+      "duration": 1.83,
+      "text": "by the central office immediately,",
+      "en": "by the central office immediately,",
+      "zh": ""
+    },
+    {
+      "start": 40.02,
+      "duration": 3.63,
+      "text": "but when nobody from Barings notices, he gains confidence,",
+      "en": "but when nobody from Barings notices, he gains confidence,",
+      "zh": ""
+    },
+    {
+      "start": 43.65,
+      "duration": 1.95,
+      "text": "convinced he can win back the loss",
+      "en": "convinced he can win back the loss",
+      "zh": ""
+    },
+    {
+      "start": 45.6,
+      "duration": 1.86,
+      "text": "and get the team out of trouble.",
+      "en": "and get the team out of trouble.",
+      "zh": ""
+    },
+    {
+      "start": 47.46,
+      "duration": 2.65,
+      "text": "- I'm operating in the belief that I can get it back.",
+      "en": "- I'm operating in the belief that I can get it back.",
+      "zh": ""
+    },
+    {
+      "start": 51.15,
+      "duration": 2.7,
+      "text": "You know, maybe it goes back to the confidence thing.",
+      "en": "You know, maybe it goes back to the confidence thing.",
+      "zh": ""
+    },
+    {
+      "start": 53.85,
+      "duration": 0.84,
+      "text": "I don't know.",
+      "en": "I don't know.",
+      "zh": ""
+    },
+    {
+      "start": 54.69,
+      "duration": 2.4,
+      "text": "I mean, I'm confident I can get it back at that stage.",
+      "en": "I mean, I'm confident I can get it back at that stage.",
+      "zh": ""
+    },
+    {
+      "start": 57.09,
+      "duration": 2.52,
+      "text": "- But Leeson's staggering overconfidence",
+      "en": "- But Leeson's staggering overconfidence",
+      "zh": ""
+    },
+    {
+      "start": 59.61,
+      "duration": 2.73,
+      "text": "would create a debt of gargantuan proportions",
+      "en": "would create a debt of gargantuan proportions",
+      "zh": ""
+    },
+    {
+      "start": 62.34,
+      "duration": 3.47,
+      "text": "and lead to one of the biggest collapses in banking history.",
+      "en": "and lead to one of the biggest collapses in banking history.",
+      "zh": ""
+    },
+    {
+      "start": 67.68,
+      "duration": 2.01,
+      "text": "- It's easy for me to make the case at overconfidence",
+      "en": "- It's easy for me to make the case at overconfidence",
+      "zh": ""
+    },
+    {
+      "start": 69.69,
+      "duration": 2.79,
+      "text": "as the most dangerous of the human biases.",
+      "en": "as the most dangerous of the human biases.",
+      "zh": ""
+    },
+    {
+      "start": 72.48,
+      "duration": 3.81,
+      "text": "Overconfidence gets us into all sorts of trouble.",
+      "en": "Overconfidence gets us into all sorts of trouble.",
+      "zh": ""
+    },
+    {
+      "start": 77.4,
+      "duration": 4.62,
+      "text": "It leads us to take risks, make commitments,",
+      "en": "It leads us to take risks, make commitments,",
+      "zh": ""
+    },
+    {
+      "start": 82.02,
+      "duration": 4.89,
+      "text": "enter contests, try things that will ultimately fail,",
+      "en": "enter contests, try things that will ultimately fail,",
+      "zh": ""
+    },
+    {
+      "start": 86.91,
+      "duration": 3.3,
+      "text": "sometimes in costly, embarrassing, and dangerous ways.",
+      "en": "sometimes in costly, embarrassing, and dangerous ways.",
+      "zh": ""
+    },
+    {
+      "start": 90.21,
+      "duration": 1.65,
+      "text": "- Overconfidence has been implicated",
+      "en": "- Overconfidence has been implicated",
+      "zh": ""
+    },
+    {
+      "start": 91.86,
+      "duration": 2.04,
+      "text": "in almost every big disaster,",
+      "en": "in almost every big disaster,",
+      "zh": ""
+    },
+    {
+      "start": 93.9,
+      "duration": 1.77,
+      "text": "from the sinking of the Titanic",
+      "en": "from the sinking of the Titanic",
+      "zh": ""
+    },
+    {
+      "start": 95.67,
+      "duration": 2.04,
+      "text": "to the Chernobyl nuclear disaster,",
+      "en": "to the Chernobyl nuclear disaster,",
+      "zh": ""
+    },
+    {
+      "start": 97.71,
+      "duration": 2.19,
+      "text": "to the loss of the space shuttle Challenger.",
+      "en": "to the loss of the space shuttle Challenger.",
+      "zh": ""
+    },
+    {
+      "start": 99.9,
+      "duration": 2.19,
+      "text": "But overconfidence isn't reserved",
+      "en": "But overconfidence isn't reserved",
+      "zh": ""
+    },
+    {
+      "start": 102.09,
+      "duration": 2.25,
+      "text": "for just a few reckless individuals.",
+      "en": "for just a few reckless individuals.",
+      "zh": ""
+    },
+    {
+      "start": 104.34,
+      "duration": 2.13,
+      "text": "We can all fall victim to it.",
+      "en": "We can all fall victim to it.",
+      "zh": ""
+    },
+    {
+      "start": 106.47,
+      "duration": 3.36,
+      "text": "For example, 93% of us think we are better drivers",
+      "en": "For example, 93% of us think we are better drivers",
+      "zh": ""
+    },
+    {
+      "start": 109.83,
+      "duration": 2.7,
+      "text": "than the median, which is, of course, impossible.",
+      "en": "than the median, which is, of course, impossible.",
+      "zh": ""
+    },
+    {
+      "start": 112.53,
+      "duration": 1.62,
+      "text": "The scale of the problem was identified",
+      "en": "The scale of the problem was identified",
+      "zh": ""
+    },
+    {
+      "start": 114.15,
+      "duration": 1.92,
+      "text": "in some now-classic research",
+      "en": "in some now-classic research",
+      "zh": ""
+    },
+    {
+      "start": 116.07,
+      "duration": 2.04,
+      "text": "with a set of simple quiz questions.",
+      "en": "with a set of simple quiz questions.",
+      "zh": ""
+    },
+    {
+      "start": 118.11,
+      "duration": 3.63,
+      "text": "True or false, Australia is wider than the moon.",
+      "en": "True or false, Australia is wider than the moon.",
+      "zh": ""
+    },
+    {
+      "start": 121.74,
+      "duration": 1.62,
+      "text": "- Oh!",
+      "en": "- Oh!",
+      "zh": ""
+    },
+    {
+      "start": 123.36,
+      "duration": 2.03,
+      "text": "I bet they're about the same size.",
+      "en": "I bet they're about the same size.",
+      "zh": ""
+    },
+    {
+      "start": 125.39,
+      "duration": 2.38,
+      "text": "- It looks small on a map, but it's huge.",
+      "en": "- It looks small on a map, but it's huge.",
+      "zh": ""
+    },
+    {
+      "start": 127.77,
+      "duration": 3.3,
+      "text": "- Are there more or less stars in the Milky Way",
+      "en": "- Are there more or less stars in the Milky Way",
+      "zh": ""
+    },
+    {
+      "start": 131.07,
+      "duration": 1.47,
+      "text": "than trees on Earth?",
+      "en": "than trees on Earth?",
+      "zh": ""
+    },
+    {
+      "start": 132.54,
+      "duration": 0.99,
+      "text": "- More stars. - Than trees?",
+      "en": "- More stars. - Than trees?",
+      "zh": ""
+    },
+    {
+      "start": 133.53,
+      "duration": 0.83,
+      "text": "- More stars.",
+      "en": "- More stars.",
+      "zh": ""
+    },
+    {
+      "start": 134.36,
+      "duration": 3.28,
+      "text": "- One teaspoon of pure olive oil,",
+      "en": "- One teaspoon of pure olive oil,",
+      "zh": ""
+    },
+    {
+      "start": 137.64,
+      "duration": 1.8,
+      "text": "- Right. - Four and a half grams,",
+      "en": "- Right. - Four and a half grams,",
+      "zh": ""
+    },
+    {
+      "start": 139.44,
+      "duration": 3.21,
+      "text": "contains more chemical potential energy",
+      "en": "contains more chemical potential energy",
+      "zh": ""
+    },
+    {
+      "start": 142.65,
+      "duration": 4.44,
+      "text": "than an equivalent four and a half gram amount of TNT.",
+      "en": "than an equivalent four and a half gram amount of TNT.",
+      "zh": ""
+    },
+    {
+      "start": 147.09,
+      "duration": 1.53,
+      "text": "- I'm gonna say true.",
+      "en": "- I'm gonna say true.",
+      "zh": ""
+    },
+    {
+      "start": 148.62,
+      "duration": 1.2,
+      "text": "- Hmm.",
+      "en": "- Hmm.",
+      "zh": ""
+    },
+    {
+      "start": 149.82,
+      "duration": 1.11,
+      "text": "Oh no.",
+      "en": "Oh no.",
+      "zh": ""
+    },
+    {
+      "start": 150.93,
+      "duration": 1.08,
+      "text": "(Derek laughs)",
+      "en": "(Derek laughs)",
+      "zh": ""
+    },
+    {
+      "start": 152.01,
+      "duration": 1.86,
+      "text": "- This feels kind of like a trick question.",
+      "en": "- This feels kind of like a trick question.",
+      "zh": ""
+    },
+    {
+      "start": 153.87,
+      "duration": 2.64,
+      "text": "- The energy density of butter",
+      "en": "- The energy density of butter",
+      "zh": ""
+    },
+    {
+      "start": 156.51,
+      "duration": 4.68,
+      "text": "is 10 times that of lithium batteries, right?",
+      "en": "is 10 times that of lithium batteries, right?",
+      "zh": ""
+    },
+    {
+      "start": 161.19,
+      "duration": 1.65,
+      "text": "I mean, lithium batteries are rubbish.",
+      "en": "I mean, lithium batteries are rubbish.",
+      "zh": ""
+    },
+    {
+      "start": 162.84,
+      "duration": 1.23,
+      "text": "Everyone's going on about them.",
+      "en": "Everyone's going on about them.",
+      "zh": ""
+    },
+    {
+      "start": 164.07,
+      "duration": 0.83,
+      "text": "(Derek laughs)",
+      "en": "(Derek laughs)",
+      "zh": ""
+    },
+    {
+      "start": 164.9,
+      "duration": 1.99,
+      "text": "Just run your car on butter, I say.",
+      "en": "Just run your car on butter, I say.",
+      "zh": ""
+    },
+    {
+      "start": 166.89,
+      "duration": 1.77,
+      "text": "- True or false, plants are more efficient",
+      "en": "- True or false, plants are more efficient",
+      "zh": ""
+    },
+    {
+      "start": 168.66,
+      "duration": 3.0,
+      "text": "than the average solar panel at absorbing the sun's energy.",
+      "en": "than the average solar panel at absorbing the sun's energy.",
+      "zh": ""
+    },
+    {
+      "start": 171.66,
+      "duration": 0.83,
+      "text": "- Yeah.",
+      "en": "- Yeah.",
+      "zh": ""
+    },
+    {
+      "start": 172.49,
+      "duration": 0.84,
+      "text": "- They must be.",
+      "en": "- They must be.",
+      "zh": ""
+    },
+    {
+      "start": 173.33,
+      "duration": 2.02,
+      "text": "- Now, these aren't the exact questions",
+      "en": "- Now, these aren't the exact questions",
+      "zh": ""
+    },
+    {
+      "start": 175.35,
+      "duration": 2.43,
+      "text": "from the original research, more on those later,",
+      "en": "from the original research, more on those later,",
+      "zh": ""
+    },
+    {
+      "start": 177.78,
+      "duration": 1.77,
+      "text": "but the specifics don't really matter.",
+      "en": "but the specifics don't really matter.",
+      "zh": ""
+    },
+    {
+      "start": 179.55,
+      "duration": 2.61,
+      "text": "The interesting bit is what they asked next,",
+      "en": "The interesting bit is what they asked next,",
+      "zh": ""
+    },
+    {
+      "start": 182.16,
+      "duration": 3.2,
+      "text": "how confident are you that you are right?",
+      "en": "how confident are you that you are right?",
+      "zh": ""
+    },
+    {
+      "start": 185.36,
+      "duration": 1.46,
+      "text": "- 100% confident. (interviewee speaks faintly)",
+      "en": "- 100% confident. (interviewee speaks faintly)",
+      "zh": ""
+    },
+    {
+      "start": 186.82,
+      "duration": 1.34,
+      "text": "- 100% confident? - 100, yes.",
+      "en": "- 100% confident? - 100, yes.",
+      "zh": ""
+    },
+    {
+      "start": 188.16,
+      "duration": 1.0,
+      "text": "- I think it's true.",
+      "en": "- I think it's true.",
+      "zh": ""
+    },
+    {
+      "start": 190.02,
+      "duration": 1.35,
+      "text": "So, I've also gotta go 90%.",
+      "en": "So, I've also gotta go 90%.",
+      "zh": ""
+    },
+    {
+      "start": 191.37,
+      "duration": 1.77,
+      "text": "- 100%.",
+      "en": "- 100%.",
+      "zh": ""
+    },
+    {
+      "start": 193.14,
+      "duration": 1.41,
+      "text": "- 100%? - Yeah.",
+      "en": "- 100%? - Yeah.",
+      "zh": ""
+    },
+    {
+      "start": 194.55,
+      "duration": 2.82,
+      "text": "- I don't think we actually had any expectations.",
+      "en": "- I don't think we actually had any expectations.",
+      "zh": ""
+    },
+    {
+      "start": 197.37,
+      "duration": 4.62,
+      "text": "This was very early on in the research",
+      "en": "This was very early on in the research",
+      "zh": ""
+    },
+    {
+      "start": 201.99,
+      "duration": 2.46,
+      "text": "on confidence assessment,",
+      "en": "on confidence assessment,",
+      "zh": ""
+    },
+    {
+      "start": 204.45,
+      "duration": 2.67,
+      "text": "but we didn't really know what we would find.",
+      "en": "but we didn't really know what we would find.",
+      "zh": ""
+    },
+    {
+      "start": 207.12,
+      "duration": 2.43,
+      "text": "- The results revealed a surprising disparity",
+      "en": "- The results revealed a surprising disparity",
+      "zh": ""
+    },
+    {
+      "start": 209.55,
+      "duration": 2.31,
+      "text": "between how accurate someone thinks they are",
+      "en": "between how accurate someone thinks they are",
+      "zh": ""
+    },
+    {
+      "start": 211.86,
+      "duration": 2.13,
+      "text": "and how accurate they actually are.",
+      "en": "and how accurate they actually are.",
+      "zh": ""
+    },
+    {
+      "start": 213.99,
+      "duration": 3.24,
+      "text": "When people are 90% certain, they are right,",
+      "en": "When people are 90% certain, they are right,",
+      "zh": ""
+    },
+    {
+      "start": 217.23,
+      "duration": 2.82,
+      "text": "only 75% of the time.",
+      "en": "only 75% of the time.",
+      "zh": ""
+    },
+    {
+      "start": 220.05,
+      "duration": 2.7,
+      "text": "In fact, we ran our own version of this online",
+      "en": "In fact, we ran our own version of this online",
+      "zh": ""
+    },
+    {
+      "start": 222.75,
+      "duration": 2.97,
+      "text": "and found an even more extreme discrepancy.",
+      "en": "and found an even more extreme discrepancy.",
+      "zh": ""
+    },
+    {
+      "start": 225.72,
+      "duration": 2.4,
+      "text": "We asked the Veritasium community a bunch",
+      "en": "We asked the Veritasium community a bunch",
+      "zh": ""
+    },
+    {
+      "start": 228.12,
+      "duration": 1.56,
+      "text": "of science questions and then asked",
+      "en": "of science questions and then asked",
+      "zh": ""
+    },
+    {
+      "start": 229.68,
+      "duration": 1.98,
+      "text": "how confident they were in their answer.",
+      "en": "how confident they were in their answer.",
+      "zh": ""
+    },
+    {
+      "start": 231.66,
+      "duration": 1.35,
+      "text": "Our results showed that those",
+      "en": "Our results showed that those",
+      "zh": ""
+    },
+    {
+      "start": 233.01,
+      "duration": 1.98,
+      "text": "who were the most confident describing themselves",
+      "en": "who were the most confident describing themselves",
+      "zh": ""
+    },
+    {
+      "start": 234.99,
+      "duration": 5.0,
+      "text": "as 91 to 100% sure were only correct 51% of the time.",
+      "en": "as 91 to 100% sure were only correct 51% of the time.",
+      "zh": ""
+    },
+    {
+      "start": 241.23,
+      "duration": 1.74,
+      "text": "Since the original research,",
+      "en": "Since the original research,",
+      "zh": ""
+    },
+    {
+      "start": 242.97,
+      "duration": 2.73,
+      "text": "these results have been replicated again and again",
+      "en": "these results have been replicated again and again",
+      "zh": ""
+    },
+    {
+      "start": 245.7,
+      "duration": 3.51,
+      "text": "in all areas from general knowledge to motor skills,",
+      "en": "in all areas from general knowledge to motor skills,",
+      "zh": ""
+    },
+    {
+      "start": 249.21,
+      "duration": 3.03,
+      "text": "and it affects everyone, even experts.",
+      "en": "and it affects everyone, even experts.",
+      "zh": ""
+    },
+    {
+      "start": 252.24,
+      "duration": 2.28,
+      "text": "- I have a paper where we analyze the survey",
+      "en": "- I have a paper where we analyze the survey",
+      "zh": ""
+    },
+    {
+      "start": 254.52,
+      "duration": 1.8,
+      "text": "of professional forecasters.",
+      "en": "of professional forecasters.",
+      "zh": ""
+    },
+    {
+      "start": 256.32,
+      "duration": 2.85,
+      "text": "These are chief economists at various corporations",
+      "en": "These are chief economists at various corporations",
+      "zh": ""
+    },
+    {
+      "start": 259.17,
+      "duration": 3.27,
+      "text": "and banks who are invited to forecast the state",
+      "en": "and banks who are invited to forecast the state",
+      "zh": ""
+    },
+    {
+      "start": 262.44,
+      "duration": 2.1,
+      "text": "of the economy on a quarterly basis.",
+      "en": "of the economy on a quarterly basis.",
+      "zh": ""
+    },
+    {
+      "start": 264.54,
+      "duration": 2.49,
+      "text": "We find that they are, on average,",
+      "en": "We find that they are, on average,",
+      "zh": ""
+    },
+    {
+      "start": 267.03,
+      "duration": 2.55,
+      "text": "too sure that they know what's going to happen,",
+      "en": "too sure that they know what's going to happen,",
+      "zh": ""
+    },
+    {
+      "start": 269.58,
+      "duration": 1.62,
+      "text": "so they, on average,",
+      "en": "so they, on average,",
+      "zh": ""
+    },
+    {
+      "start": 271.2,
+      "duration": 3.45,
+      "text": "say there's something like 53% sure",
+      "en": "say there's something like 53% sure",
+      "zh": ""
+    },
+    {
+      "start": 274.65,
+      "duration": 1.65,
+      "text": "they have correctly predicted",
+      "en": "they have correctly predicted",
+      "zh": ""
+    },
+    {
+      "start": 276.3,
+      "duration": 3.0,
+      "text": "what's gonna happen to inflation, for instance,",
+      "en": "what's gonna happen to inflation, for instance,",
+      "zh": ""
+    },
+    {
+      "start": 279.3,
+      "duration": 3.06,
+      "text": "and they are right, like, 23% of the time.",
+      "en": "and they are right, like, 23% of the time.",
+      "zh": ""
+    },
+    {
+      "start": 282.36,
+      "duration": 2.04,
+      "text": "- How well what you think you know matches",
+      "en": "- How well what you think you know matches",
+      "zh": ""
+    },
+    {
+      "start": 284.4,
+      "duration": 2.91,
+      "text": "with what you actually know is called your calibration.",
+      "en": "with what you actually know is called your calibration.",
+      "zh": ""
+    },
+    {
+      "start": 287.31,
+      "duration": 3.39,
+      "text": "So, if you're perfectly calibrated and, say, 80% confident,",
+      "en": "So, if you're perfectly calibrated and, say, 80% confident,",
+      "zh": ""
+    },
+    {
+      "start": 290.7,
+      "duration": 2.4,
+      "text": "you should be right 80% of the time,",
+      "en": "you should be right 80% of the time,",
+      "zh": ""
+    },
+    {
+      "start": 293.1,
+      "duration": 2.44,
+      "text": "but most of us are not well calibrated.",
+      "en": "but most of us are not well calibrated.",
+      "zh": ""
+    },
+    {
+      "start": 295.54,
+      "duration": 1.34,
+      "text": "100% - 100%?",
+      "en": "100% - 100%?",
+      "zh": ""
+    },
+    {
+      "start": 296.88,
+      "duration": 1.92,
+      "text": "- Yeah. - There are 200 billion stars",
+      "en": "- Yeah. - There are 200 billion stars",
+      "zh": ""
+    },
+    {
+      "start": 298.8,
+      "duration": 1.11,
+      "text": "in the Milky Way,",
+      "en": "in the Milky Way,",
+      "zh": ""
+    },
+    {
+      "start": 299.91,
+      "duration": 2.02,
+      "text": "but there are 3 trillion trees on Earth.",
+      "en": "but there are 3 trillion trees on Earth.",
+      "zh": ""
+    },
+    {
+      "start": 301.93,
+      "duration": 1.69,
+      "text": "- [Group] Oh!",
+      "en": "- [Group] Oh!",
+      "zh": ""
+    },
+    {
+      "start": 303.62,
+      "duration": 0.83,
+      "text": "(interviewee groans)",
+      "en": "(interviewee groans)",
+      "zh": ""
+    },
+    {
+      "start": 304.45,
+      "duration": 1.13,
+      "text": "- 100% confident? - 100, yes.",
+      "en": "- 100% confident? - 100, yes.",
+      "zh": ""
+    },
+    {
+      "start": 305.58,
+      "duration": 1.98,
+      "text": "False! (laughs)",
+      "en": "False! (laughs)",
+      "zh": ""
+    },
+    {
+      "start": 307.56,
+      "duration": 1.18,
+      "text": "(interviewee mimics mocking tune)",
+      "en": "(interviewee mimics mocking tune)",
+      "zh": ""
+    },
+    {
+      "start": 308.74,
+      "duration": 1.16,
+      "text": "(group laughs)",
+      "en": "(group laughs)",
+      "zh": ""
+    },
+    {
+      "start": 309.9,
+      "duration": 3.48,
+      "text": "- Most of the time, being overconfident isn't a huge issue,",
+      "en": "- Most of the time, being overconfident isn't a huge issue,",
+      "zh": ""
+    },
+    {
+      "start": 313.38,
+      "duration": 3.75,
+      "text": "but for Nick Leeson, the stakes soon became very high.",
+      "en": "but for Nick Leeson, the stakes soon became very high.",
+      "zh": ""
+    },
+    {
+      "start": 317.13,
+      "duration": 2.07,
+      "text": "Leeson's plan to recover his team's loss",
+      "en": "Leeson's plan to recover his team's loss",
+      "zh": ""
+    },
+    {
+      "start": 319.2,
+      "duration": 2.88,
+      "text": "was to bet that the Japanese stock market would go up,",
+      "en": "was to bet that the Japanese stock market would go up,",
+      "zh": ""
+    },
+    {
+      "start": 322.08,
+      "duration": 3.54,
+      "text": "so he went long on the top 225 companies in Japan,",
+      "en": "so he went long on the top 225 companies in Japan,",
+      "zh": ""
+    },
+    {
+      "start": 325.62,
+      "duration": 1.06,
+      "text": "the Nikkei 225.",
+      "en": "the Nikkei 225.",
+      "zh": ""
+    },
+    {
+      "start": 327.54,
+      "duration": 1.77,
+      "text": "Ever since the Japanese asset price bubble",
+      "en": "Ever since the Japanese asset price bubble",
+      "zh": ""
+    },
+    {
+      "start": 329.31,
+      "duration": 1.59,
+      "text": "peaked two years previously,",
+      "en": "peaked two years previously,",
+      "zh": ""
+    },
+    {
+      "start": 330.9,
+      "duration": 4.35,
+      "text": "the Nikkei had been dropping from 38,000 to 16,000,",
+      "en": "the Nikkei had been dropping from 38,000 to 16,000,",
+      "zh": ""
+    },
+    {
+      "start": 335.25,
+      "duration": 1.35,
+      "text": "and he was confident the market",
+      "en": "and he was confident the market",
+      "zh": ""
+    },
+    {
+      "start": 336.6,
+      "duration": 2.61,
+      "text": "would soon bottom out and start rising,",
+      "en": "would soon bottom out and start rising,",
+      "zh": ""
+    },
+    {
+      "start": 339.21,
+      "duration": 2.28,
+      "text": "but it continued to fall.",
+      "en": "but it continued to fall.",
+      "zh": ""
+    },
+    {
+      "start": 341.49,
+      "duration": 3.54,
+      "text": "Over the next few weeks, it dropped to a low of 14,000,",
+      "en": "Over the next few weeks, it dropped to a low of 14,000,",
+      "zh": ""
+    },
+    {
+      "start": 345.03,
+      "duration": 2.82,
+      "text": "and the whole time, Nick was betting the wrong way",
+      "en": "and the whole time, Nick was betting the wrong way",
+      "zh": ""
+    },
+    {
+      "start": 347.85,
+      "duration": 2.7,
+      "text": "with ever bigger and riskier bets,",
+      "en": "with ever bigger and riskier bets,",
+      "zh": ""
+    },
+    {
+      "start": 350.55,
+      "duration": 2.37,
+      "text": "he would double down, betting double his losses,",
+      "en": "he would double down, betting double his losses,",
+      "zh": ""
+    },
+    {
+      "start": 352.92,
+      "duration": 2.94,
+      "text": "so the next win would bring him back above water.",
+      "en": "so the next win would bring him back above water.",
+      "zh": ""
+    },
+    {
+      "start": 355.86,
+      "duration": 3.33,
+      "text": "This strategy should work when the next win comes along,",
+      "en": "This strategy should work when the next win comes along,",
+      "zh": ""
+    },
+    {
+      "start": 359.19,
+      "duration": 2.37,
+      "text": "but the market collapse was unrelenting,",
+      "en": "but the market collapse was unrelenting,",
+      "zh": ""
+    },
+    {
+      "start": 361.56,
+      "duration": 5.0,
+      "text": "and his losses ballooned from $40,000 to around $3 million.",
+      "en": "and his losses ballooned from $40,000 to around $3 million.",
+      "zh": ""
+    },
+    {
+      "start": 366.69,
+      "duration": 2.88,
+      "text": "In spite of this, Leeson remained confident,",
+      "en": "In spite of this, Leeson remained confident,",
+      "zh": ""
+    },
+    {
+      "start": 370.5,
+      "duration": 2.28,
+      "text": "and eventually, his luck turned around.",
+      "en": "and eventually, his luck turned around.",
+      "zh": ""
+    },
+    {
+      "start": 372.78,
+      "duration": 3.81,
+      "text": "In the spring of 1993, the market rebounded up to 20,000,",
+      "en": "In the spring of 1993, the market rebounded up to 20,000,",
+      "zh": ""
+    },
+    {
+      "start": 376.59,
+      "duration": 3.42,
+      "text": "and by the summer, that account was back in credit.",
+      "en": "and by the summer, that account was back in credit.",
+      "zh": ""
+    },
+    {
+      "start": 381.09,
+      "duration": 2.25,
+      "text": "Leeson goes out to celebrate that weekend,",
+      "en": "Leeson goes out to celebrate that weekend,",
+      "zh": ""
+    },
+    {
+      "start": 383.34,
+      "duration": 1.95,
+      "text": "drinking and dancing on tables,",
+      "en": "drinking and dancing on tables,",
+      "zh": ""
+    },
+    {
+      "start": 385.29,
+      "duration": 2.88,
+      "text": "finally free of the hole he had dug himself into.",
+      "en": "finally free of the hole he had dug himself into.",
+      "zh": ""
+    },
+    {
+      "start": 390.42,
+      "duration": 1.05,
+      "text": "But on Monday morning,",
+      "en": "But on Monday morning,",
+      "zh": ""
+    },
+    {
+      "start": 391.47,
+      "duration": 3.24,
+      "text": "he made another trading error on the futures market,",
+      "en": "he made another trading error on the futures market,",
+      "zh": ""
+    },
+    {
+      "start": 394.71,
+      "duration": 2.73,
+      "text": "a damaging loss that Leeson didn't want to admit,",
+      "en": "a damaging loss that Leeson didn't want to admit,",
+      "zh": ""
+    },
+    {
+      "start": 397.44,
+      "duration": 3.84,
+      "text": "so he put the loss back into account 88888,",
+      "en": "so he put the loss back into account 88888,",
+      "zh": ""
+    },
+    {
+      "start": 401.28,
+      "duration": 2.25,
+      "text": "confident that if he'd got outta the previous one,",
+      "en": "confident that if he'd got outta the previous one,",
+      "zh": ""
+    },
+    {
+      "start": 403.53,
+      "duration": 1.98,
+      "text": "he could do it again.",
+      "en": "he could do it again.",
+      "zh": ""
+    },
+    {
+      "start": 405.51,
+      "duration": 1.59,
+      "text": "He began making risky trades",
+      "en": "He began making risky trades",
+      "zh": ""
+    },
+    {
+      "start": 407.1,
+      "duration": 1.89,
+      "text": "to try to recover that initial loss,",
+      "en": "to try to recover that initial loss,",
+      "zh": ""
+    },
+    {
+      "start": 408.99,
+      "duration": 2.34,
+      "text": "and as the losses mounted in the five eights account,",
+      "en": "and as the losses mounted in the five eights account,",
+      "zh": ""
+    },
+    {
+      "start": 411.33,
+      "duration": 2.67,
+      "text": "it became harder and harder to make new trades",
+      "en": "it became harder and harder to make new trades",
+      "zh": ""
+    },
+    {
+      "start": 414.0,
+      "duration": 2.16,
+      "text": "to cover the last loss.",
+      "en": "to cover the last loss.",
+      "zh": ""
+    },
+    {
+      "start": 416.16,
+      "duration": 3.48,
+      "text": "By the end of 1993, his losses exceeded $30 million.",
+      "en": "By the end of 1993, his losses exceeded $30 million.",
+      "zh": ""
+    },
+    {
+      "start": 421.47,
+      "duration": 2.1,
+      "text": "Leeson is obviously an extreme example,",
+      "en": "Leeson is obviously an extreme example,",
+      "zh": ""
+    },
+    {
+      "start": 423.57,
+      "duration": 2.64,
+      "text": "but this tendency to overestimate our abilities",
+      "en": "but this tendency to overestimate our abilities",
+      "zh": ""
+    },
+    {
+      "start": 426.21,
+      "duration": 1.74,
+      "text": "is something we all share.",
+      "en": "is something we all share.",
+      "zh": ""
+    },
+    {
+      "start": 427.95,
+      "duration": 2.16,
+      "text": "So, the question is why?",
+      "en": "So, the question is why?",
+      "zh": ""
+    },
+    {
+      "start": 430.11,
+      "duration": 3.6,
+      "text": "- The obvious explanation that a lot of people default to",
+      "en": "- The obvious explanation that a lot of people default to",
+      "zh": ""
+    },
+    {
+      "start": 433.71,
+      "duration": 4.92,
+      "text": "that is we wanna feel good about ourselves",
+      "en": "that is we wanna feel good about ourselves",
+      "zh": ""
+    },
+    {
+      "start": 438.63,
+      "duration": 3.66,
+      "text": "and pretend like we're well-informed,",
+      "en": "and pretend like we're well-informed,",
+      "zh": ""
+    },
+    {
+      "start": 442.29,
+      "duration": 3.24,
+      "text": "that we enjoy enormous satisfaction",
+      "en": "that we enjoy enormous satisfaction",
+      "zh": ""
+    },
+    {
+      "start": 445.53,
+      "duration": 2.56,
+      "text": "from being able to say,",
+      "en": "from being able to say,",
+      "zh": ""
+    },
+    {
+      "start": 448.09,
+      "duration": 0.83,
+      "text": "\"I know,\"",
+      "en": "\"I know,\"",
+      "zh": ""
+    },
+    {
+      "start": 448.92,
+      "duration": 0.83,
+      "text": "or even better,",
+      "en": "or even better,",
+      "zh": ""
+    },
+    {
+      "start": 449.75,
+      "duration": 1.21,
+      "text": "\"I told you so.\"",
+      "en": "\"I told you so.\"",
+      "zh": ""
+    },
+    {
+      "start": 450.96,
+      "duration": 4.35,
+      "text": "And so, we pretend to ourselves and others",
+      "en": "And so, we pretend to ourselves and others",
+      "zh": ""
+    },
+    {
+      "start": 455.31,
+      "duration": 1.56,
+      "text": "that we know when we don't.",
+      "en": "that we know when we don't.",
+      "zh": ""
+    },
+    {
+      "start": 456.87,
+      "duration": 3.99,
+      "text": "That is the motivated egocentric version",
+      "en": "That is the motivated egocentric version",
+      "zh": ""
+    },
+    {
+      "start": 460.86,
+      "duration": 2.76,
+      "text": "of an explanation for excessive faith in our own judgment.",
+      "en": "of an explanation for excessive faith in our own judgment.",
+      "zh": ""
+    },
+    {
+      "start": 463.62,
+      "duration": 2.37,
+      "text": "- [Narrator] Reichelt had faith than the idea,",
+      "en": "- [Narrator] Reichelt had faith than the idea,",
+      "zh": ""
+    },
+    {
+      "start": 465.99,
+      "duration": 0.84,
+      "text": "if nothing else.",
+      "en": "if nothing else.",
+      "zh": ""
+    },
+    {
+      "start": 466.83,
+      "duration": 3.4,
+      "text": "- But what if it's something more uncomfortable, stupidity?",
+      "en": "- But what if it's something more uncomfortable, stupidity?",
+      "zh": ""
+    },
+    {
+      "start": 470.23,
+      "duration": 0.98,
+      "text": "(lively retro music)",
+      "en": "(lively retro music)",
+      "zh": ""
+    },
+    {
+      "start": 471.21,
+      "duration": 3.21,
+      "text": "Franz Reichelt was a tailor with no formal scientific",
+      "en": "Franz Reichelt was a tailor with no formal scientific",
+      "zh": ""
+    },
+    {
+      "start": 474.42,
+      "duration": 2.07,
+      "text": "or engineering training, but he was obsessed",
+      "en": "or engineering training, but he was obsessed",
+      "zh": ""
+    },
+    {
+      "start": 476.49,
+      "duration": 2.34,
+      "text": "with solving the problem of aviation safety.",
+      "en": "with solving the problem of aviation safety.",
+      "zh": ""
+    },
+    {
+      "start": 478.83,
+      "duration": 2.67,
+      "text": "He spent months designing a parachute suit,",
+      "en": "He spent months designing a parachute suit,",
+      "zh": ""
+    },
+    {
+      "start": 481.5,
+      "duration": 2.79,
+      "text": "which repeatedly failed during testing,",
+      "en": "which repeatedly failed during testing,",
+      "zh": ""
+    },
+    {
+      "start": 484.29,
+      "duration": 2.31,
+      "text": "but he became convinced the issue",
+      "en": "but he became convinced the issue",
+      "zh": ""
+    },
+    {
+      "start": 486.6,
+      "duration": 2.91,
+      "text": "was that he didn't have enough height for it to work.",
+      "en": "was that he didn't have enough height for it to work.",
+      "zh": ""
+    },
+    {
+      "start": 489.51,
+      "duration": 3.12,
+      "text": "So, in February, 1912, he took it to the Eiffel Tower,",
+      "en": "So, in February, 1912, he took it to the Eiffel Tower,",
+      "zh": ""
+    },
+    {
+      "start": 492.63,
+      "duration": 4.47,
+      "text": "and rather than using a dummy to test it, he jumped himself.",
+      "en": "and rather than using a dummy to test it, he jumped himself.",
+      "zh": ""
+    },
+    {
+      "start": 497.1,
+      "duration": 2.05,
+      "text": "Tragic, but also really dumb.",
+      "en": "Tragic, but also really dumb.",
+      "zh": ""
+    },
+    {
+      "start": 499.15,
+      "duration": 0.86,
+      "text": "(soft electro music)",
+      "en": "(soft electro music)",
+      "zh": ""
+    },
+    {
+      "start": 500.01,
+      "duration": 2.7,
+      "text": "Do you recognize this graph?",
+      "en": "Do you recognize this graph?",
+      "zh": ""
+    },
+    {
+      "start": 502.71,
+      "duration": 2.55,
+      "text": "- The, like, Dunning-Kruger graph?",
+      "en": "- The, like, Dunning-Kruger graph?",
+      "zh": ""
+    },
+    {
+      "start": 505.26,
+      "duration": 1.05,
+      "text": "- Are you confident that this",
+      "en": "- Are you confident that this",
+      "zh": ""
+    },
+    {
+      "start": 506.31,
+      "duration": 2.01,
+      "text": "is the actual Dunning-Kruger graph?",
+      "en": "is the actual Dunning-Kruger graph?",
+      "zh": ""
+    },
+    {
+      "start": 508.32,
+      "duration": 1.41,
+      "text": "- Not at all, in fact, I think",
+      "en": "- Not at all, in fact, I think",
+      "zh": ""
+    },
+    {
+      "start": 509.73,
+      "duration": 1.47,
+      "text": "that this is not the Dunning-Kruger graph.",
+      "en": "that this is not the Dunning-Kruger graph.",
+      "zh": ""
+    },
+    {
+      "start": 511.2,
+      "duration": 3.78,
+      "text": "I think that this is a bit of a communication trick.",
+      "en": "I think that this is a bit of a communication trick.",
+      "zh": ""
+    },
+    {
+      "start": 514.98,
+      "duration": 2.46,
+      "text": "- This is what people call the Mount Stupid Curve,",
+      "en": "- This is what people call the Mount Stupid Curve,",
+      "zh": ""
+    },
+    {
+      "start": 517.44,
+      "duration": 1.38,
+      "text": "which will pop up if you search",
+      "en": "which will pop up if you search",
+      "zh": ""
+    },
+    {
+      "start": 518.82,
+      "duration": 2.25,
+      "text": "for the Dunning-Kruger effect into Google images.",
+      "en": "for the Dunning-Kruger effect into Google images.",
+      "zh": ""
+    },
+    {
+      "start": 521.07,
+      "duration": 3.21,
+      "text": "- As far as I understand it, it's an effect",
+      "en": "- As far as I understand it, it's an effect",
+      "zh": ""
+    },
+    {
+      "start": 524.28,
+      "duration": 2.16,
+      "text": "that says that when you know very little about it,",
+      "en": "that says that when you know very little about it,",
+      "zh": ""
+    },
+    {
+      "start": 526.44,
+      "duration": 1.77,
+      "text": "your confidence is high,",
+      "en": "your confidence is high,",
+      "zh": ""
+    },
+    {
+      "start": 528.21,
+      "duration": 1.53,
+      "text": "and as you know more about it,",
+      "en": "and as you know more about it,",
+      "zh": ""
+    },
+    {
+      "start": 529.74,
+      "duration": 2.76,
+      "text": "your confidence sinks until you become a master at it.",
+      "en": "your confidence sinks until you become a master at it.",
+      "zh": ""
+    },
+    {
+      "start": 532.5,
+      "duration": 1.53,
+      "text": "- But I think that the actual result",
+      "en": "- But I think that the actual result",
+      "zh": ""
+    },
+    {
+      "start": 534.03,
+      "duration": 3.15,
+      "text": "is, like, a little bit more fuzzy than this.",
+      "en": "is, like, a little bit more fuzzy than this.",
+      "zh": ""
+    },
+    {
+      "start": 537.18,
+      "duration": 0.83,
+      "text": "- It was.",
+      "en": "- It was.",
+      "zh": ""
+    },
+    {
+      "start": 539.04,
+      "duration": 3.03,
+      "text": "This graph doesn't actually show the Dunning-Kruger effect.",
+      "en": "This graph doesn't actually show the Dunning-Kruger effect.",
+      "zh": ""
+    },
+    {
+      "start": 542.07,
+      "duration": 2.79,
+      "text": "It's just a meme that resonates with a lot of people,",
+      "en": "It's just a meme that resonates with a lot of people,",
+      "zh": ""
+    },
+    {
+      "start": 544.86,
+      "duration": 2.67,
+      "text": "and it became conflated with the effect.",
+      "en": "and it became conflated with the effect.",
+      "zh": ""
+    },
+    {
+      "start": 547.53,
+      "duration": 1.29,
+      "text": "In their original research,",
+      "en": "In their original research,",
+      "zh": ""
+    },
+    {
+      "start": 548.82,
+      "duration": 1.74,
+      "text": "Dunning and Kruger tested people",
+      "en": "Dunning and Kruger tested people",
+      "zh": ""
+    },
+    {
+      "start": 550.56,
+      "duration": 2.76,
+      "text": "on tasks like grammar, logic and humor,",
+      "en": "on tasks like grammar, logic and humor,",
+      "zh": ""
+    },
+    {
+      "start": 553.32,
+      "duration": 2.22,
+      "text": "and then they asked participants to estimate",
+      "en": "and then they asked participants to estimate",
+      "zh": ""
+    },
+    {
+      "start": 555.54,
+      "duration": 1.59,
+      "text": "how well they performed.",
+      "en": "how well they performed.",
+      "zh": ""
+    },
+    {
+      "start": 557.13,
+      "duration": 2.13,
+      "text": "That produced this curve.",
+      "en": "That produced this curve.",
+      "zh": ""
+    },
+    {
+      "start": 559.26,
+      "duration": 2.34,
+      "text": "You can see that those who performed worse",
+      "en": "You can see that those who performed worse",
+      "zh": ""
+    },
+    {
+      "start": 561.6,
+      "duration": 1.26,
+      "text": "had the largest mismatch",
+      "en": "had the largest mismatch",
+      "zh": ""
+    },
+    {
+      "start": 562.86,
+      "duration": 1.86,
+      "text": "between their confidence and performance.",
+      "en": "between their confidence and performance.",
+      "zh": ""
+    },
+    {
+      "start": 564.72,
+      "duration": 2.25,
+      "text": "They were the most overconfident.",
+      "en": "They were the most overconfident.",
+      "zh": ""
+    },
+    {
+      "start": 566.97,
+      "duration": 1.26,
+      "text": "Those who performed the best",
+      "en": "Those who performed the best",
+      "zh": ""
+    },
+    {
+      "start": 568.23,
+      "duration": 2.28,
+      "text": "were actually slightly underconfident.",
+      "en": "were actually slightly underconfident.",
+      "zh": ""
+    },
+    {
+      "start": 570.51,
+      "duration": 2.28,
+      "text": "This suggests that overconfidence may be linked",
+      "en": "This suggests that overconfidence may be linked",
+      "zh": ""
+    },
+    {
+      "start": 572.79,
+      "duration": 1.74,
+      "text": "to how much we know.",
+      "en": "to how much we know.",
+      "zh": ""
+    },
+    {
+      "start": 574.53,
+      "duration": 3.39,
+      "text": "Those who know less think that they know more than they do,",
+      "en": "Those who know less think that they know more than they do,",
+      "zh": ""
+    },
+    {
+      "start": 577.92,
+      "duration": 2.16,
+      "text": "but to me, this effect looks a little",
+      "en": "but to me, this effect looks a little",
+      "zh": ""
+    },
+    {
+      "start": 580.08,
+      "duration": 1.65,
+      "text": "like a statistical artifact",
+      "en": "like a statistical artifact",
+      "zh": ""
+    },
+    {
+      "start": 581.73,
+      "duration": 1.77,
+      "text": "because while I was doing my PhD,",
+      "en": "because while I was doing my PhD,",
+      "zh": ""
+    },
+    {
+      "start": 583.5,
+      "duration": 2.28,
+      "text": "I asked students some physics questions",
+      "en": "I asked students some physics questions",
+      "zh": ""
+    },
+    {
+      "start": 585.78,
+      "duration": 2.97,
+      "text": "and I also asked for their confidence in their answers.",
+      "en": "and I also asked for their confidence in their answers.",
+      "zh": ""
+    },
+    {
+      "start": 588.75,
+      "duration": 1.68,
+      "text": "And when I looked at the results,",
+      "en": "And when I looked at the results,",
+      "zh": ""
+    },
+    {
+      "start": 590.43,
+      "duration": 2.01,
+      "text": "accuracy spanned the full range",
+      "en": "accuracy spanned the full range",
+      "zh": ""
+    },
+    {
+      "start": 592.44,
+      "duration": 3.12,
+      "text": "from nearly 0% to 100%,",
+      "en": "from nearly 0% to 100%,",
+      "zh": ""
+    },
+    {
+      "start": 595.56,
+      "duration": 3.57,
+      "text": "but confidence varied over a much narrower range.",
+      "en": "but confidence varied over a much narrower range.",
+      "zh": ""
+    },
+    {
+      "start": 599.13,
+      "duration": 2.55,
+      "text": "All the scores were roughly in the middle.",
+      "en": "All the scores were roughly in the middle.",
+      "zh": ""
+    },
+    {
+      "start": 601.68,
+      "duration": 3.3,
+      "text": "This meant that poor performers were the most overconfident",
+      "en": "This meant that poor performers were the most overconfident",
+      "zh": ""
+    },
+    {
+      "start": 604.98,
+      "duration": 1.32,
+      "text": "and the highest performers",
+      "en": "and the highest performers",
+      "zh": ""
+    },
+    {
+      "start": 606.3,
+      "duration": 2.16,
+      "text": "were actually slightly under confident.",
+      "en": "were actually slightly under confident.",
+      "zh": ""
+    },
+    {
+      "start": 608.46,
+      "duration": 2.73,
+      "text": "This is exactly what Dunning and Kruger found,",
+      "en": "This is exactly what Dunning and Kruger found,",
+      "zh": ""
+    },
+    {
+      "start": 611.19,
+      "duration": 2.64,
+      "text": "so maybe overconfidence isn't entirely",
+      "en": "so maybe overconfidence isn't entirely",
+      "zh": ""
+    },
+    {
+      "start": 613.83,
+      "duration": 1.5,
+      "text": "due to how much we know,",
+      "en": "due to how much we know,",
+      "zh": ""
+    },
+    {
+      "start": 615.33,
+      "duration": 2.16,
+      "text": "but also because most of us express",
+      "en": "but also because most of us express",
+      "zh": ""
+    },
+    {
+      "start": 617.49,
+      "duration": 3.03,
+      "text": "at least kind of middle-of-the-road confidence.",
+      "en": "at least kind of middle-of-the-road confidence.",
+      "zh": ""
+    },
+    {
+      "start": 620.52,
+      "duration": 2.67,
+      "text": "But there is another factor at play here,",
+      "en": "But there is another factor at play here,",
+      "zh": ""
+    },
+    {
+      "start": 623.19,
+      "duration": 2.55,
+      "text": "which is how much information our brains",
+      "en": "which is how much information our brains",
+      "zh": ""
+    },
+    {
+      "start": 625.74,
+      "duration": 1.62,
+      "text": "are capable of processing.",
+      "en": "are capable of processing.",
+      "zh": ""
+    },
+    {
+      "start": 628.53,
+      "duration": 2.76,
+      "text": "Monday, the 27th of January, 1986,",
+      "en": "Monday, the 27th of January, 1986,",
+      "zh": ""
+    },
+    {
+      "start": 631.29,
+      "duration": 3.15,
+      "text": "it's 5:45 PM at the Kennedy Space Center in Cape Canaveral,",
+      "en": "it's 5:45 PM at the Kennedy Space Center in Cape Canaveral,",
+      "zh": ""
+    },
+    {
+      "start": 634.44,
+      "duration": 2.25,
+      "text": "and the engineers from Morton Thiokol,",
+      "en": "and the engineers from Morton Thiokol,",
+      "zh": ""
+    },
+    {
+      "start": 636.69,
+      "duration": 2.46,
+      "text": "who made the Challenger space shuttle's rocket boosters",
+      "en": "who made the Challenger space shuttle's rocket boosters",
+      "zh": ""
+    },
+    {
+      "start": 639.15,
+      "duration": 2.07,
+      "text": "make an emergency conference call.",
+      "en": "make an emergency conference call.",
+      "zh": ""
+    },
+    {
+      "start": 641.22,
+      "duration": 1.53,
+      "text": "They've just seen the weather forecast,",
+      "en": "They've just seen the weather forecast,",
+      "zh": ""
+    },
+    {
+      "start": 642.75,
+      "duration": 1.95,
+      "text": "predicting temperatures overnight will plummet",
+      "en": "predicting temperatures overnight will plummet",
+      "zh": ""
+    },
+    {
+      "start": 644.7,
+      "duration": 1.68,
+      "text": "to 25 degrees Fahrenheit,",
+      "en": "to 25 degrees Fahrenheit,",
+      "zh": ""
+    },
+    {
+      "start": 646.38,
+      "duration": 3.06,
+      "text": "far colder than any previous shuttle launch.",
+      "en": "far colder than any previous shuttle launch.",
+      "zh": ""
+    },
+    {
+      "start": 649.44,
+      "duration": 2.46,
+      "text": "They know the rubber O-rings that seal joints",
+      "en": "They know the rubber O-rings that seal joints",
+      "zh": ""
+    },
+    {
+      "start": 651.9,
+      "duration": 1.74,
+      "text": "in the boosters become less flexible",
+      "en": "in the boosters become less flexible",
+      "zh": ""
+    },
+    {
+      "start": 653.64,
+      "duration": 2.82,
+      "text": "in the cold, but have just a few hours to gather data,",
+      "en": "in the cold, but have just a few hours to gather data,",
+      "zh": ""
+    },
+    {
+      "start": 656.46,
+      "duration": 1.86,
+      "text": "create charts, and present their case.",
+      "en": "create charts, and present their case.",
+      "zh": ""
+    },
+    {
+      "start": 658.32,
+      "duration": 1.14,
+      "text": "Over the next six hours,",
+      "en": "Over the next six hours,",
+      "zh": ""
+    },
+    {
+      "start": 659.46,
+      "duration": 2.4,
+      "text": "the engineers present 13 charts with data",
+      "en": "the engineers present 13 charts with data",
+      "zh": ""
+    },
+    {
+      "start": 661.86,
+      "duration": 2.43,
+      "text": "on O-ring temperature, hot gas erosion,",
+      "en": "on O-ring temperature, hot gas erosion,",
+      "zh": ""
+    },
+    {
+      "start": 664.29,
+      "duration": 2.25,
+      "text": "joint rotation, and more.",
+      "en": "joint rotation, and more.",
+      "zh": ""
+    },
+    {
+      "start": 666.54,
+      "duration": 2.07,
+      "text": "But the data is scattered, incomplete,",
+      "en": "But the data is scattered, incomplete,",
+      "zh": ""
+    },
+    {
+      "start": 668.61,
+      "duration": 2.43,
+      "text": "and not synthesized into a clear narrative.",
+      "en": "and not synthesized into a clear narrative.",
+      "zh": ""
+    },
+    {
+      "start": 671.04,
+      "duration": 2.52,
+      "text": "They'd never tested below 53 degrees Fahrenheit,",
+      "en": "They'd never tested below 53 degrees Fahrenheit,",
+      "zh": ""
+    },
+    {
+      "start": 673.56,
+      "duration": 2.28,
+      "text": "so NASA managers were trying simultaneously",
+      "en": "so NASA managers were trying simultaneously",
+      "zh": ""
+    },
+    {
+      "start": 675.84,
+      "duration": 2.97,
+      "text": "to track historical O-ring data, erosion patterns,",
+      "en": "to track historical O-ring data, erosion patterns,",
+      "zh": ""
+    },
+    {
+      "start": 678.81,
+      "duration": 2.31,
+      "text": "joint dynamics, seal resiliency,",
+      "en": "joint dynamics, seal resiliency,",
+      "zh": ""
+    },
+    {
+      "start": 681.12,
+      "duration": 2.31,
+      "text": "pressure differentials, and more.",
+      "en": "pressure differentials, and more.",
+      "zh": ""
+    },
+    {
+      "start": 683.43,
+      "duration": 2.28,
+      "text": "No single chart told the whole story.",
+      "en": "No single chart told the whole story.",
+      "zh": ""
+    },
+    {
+      "start": 685.71,
+      "duration": 2.91,
+      "text": "So, overwhelmed by seemingly contradictory data",
+      "en": "So, overwhelmed by seemingly contradictory data",
+      "zh": ""
+    },
+    {
+      "start": 688.62,
+      "duration": 2.64,
+      "text": "and confident that their rocket boosters were safe,",
+      "en": "and confident that their rocket boosters were safe,",
+      "zh": ""
+    },
+    {
+      "start": 691.26,
+      "duration": 3.09,
+      "text": "Thiokol management overruled their own engineers",
+      "en": "Thiokol management overruled their own engineers",
+      "zh": ""
+    },
+    {
+      "start": 694.35,
+      "duration": 1.44,
+      "text": "and approved the launch.",
+      "en": "and approved the launch.",
+      "zh": ""
+    },
+    {
+      "start": 695.79,
+      "duration": 1.74,
+      "text": "(fire roars)",
+      "en": "(fire roars)",
+      "zh": ""
+    },
+    {
+      "start": 697.53,
+      "duration": 3.94,
+      "text": "At 11:38 the next morning, 73 seconds after launch,",
+      "en": "At 11:38 the next morning, 73 seconds after launch,",
+      "zh": ""
+    },
+    {
+      "start": 701.47,
+      "duration": 2.12,
+      "text": "(explosion booms)",
+      "en": "(explosion booms)",
+      "zh": ""
+    },
+    {
+      "start": 703.59,
+      "duration": 2.73,
+      "text": "all seven crew members were killed.",
+      "en": "all seven crew members were killed.",
+      "zh": ""
+    },
+    {
+      "start": 706.32,
+      "duration": 1.11,
+      "text": "(chiming mysterious music)",
+      "en": "(chiming mysterious music)",
+      "zh": ""
+    },
+    {
+      "start": 707.43,
+      "duration": 4.14,
+      "text": "- Calibrating your certainty requires thinking",
+      "en": "- Calibrating your certainty requires thinking",
+      "zh": ""
+    },
+    {
+      "start": 711.57,
+      "duration": 2.37,
+      "text": "of all the ways that you could be wrong,",
+      "en": "of all the ways that you could be wrong,",
+      "zh": ""
+    },
+    {
+      "start": 713.94,
+      "duration": 4.08,
+      "text": "and that's hard for finite, fallible agents like us",
+      "en": "and that's hard for finite, fallible agents like us",
+      "zh": ""
+    },
+    {
+      "start": 718.02,
+      "duration": 3.93,
+      "text": "if it means considering everything that we don't know.",
+      "en": "if it means considering everything that we don't know.",
+      "zh": ""
+    },
+    {
+      "start": 721.95,
+      "duration": 2.13,
+      "text": "- How many chunks of novel information you can hold",
+      "en": "- How many chunks of novel information you can hold",
+      "zh": ""
+    },
+    {
+      "start": 724.08,
+      "duration": 3.45,
+      "text": "in your head at one time is your short-term memory capacity.",
+      "en": "in your head at one time is your short-term memory capacity.",
+      "zh": ""
+    },
+    {
+      "start": 727.53,
+      "duration": 2.34,
+      "text": "In 2008, Hansson, Juslin, and Windmann",
+      "en": "In 2008, Hansson, Juslin, and Windmann",
+      "zh": ""
+    },
+    {
+      "start": 729.87,
+      "duration": 1.98,
+      "text": "investigated how short-term memory capacity",
+      "en": "investigated how short-term memory capacity",
+      "zh": ""
+    },
+    {
+      "start": 731.85,
+      "duration": 2.1,
+      "text": "was linked to accuracy and overconfidence.",
+      "en": "was linked to accuracy and overconfidence.",
+      "zh": ""
+    },
+    {
+      "start": 733.95,
+      "duration": 1.47,
+      "text": "Participants were asked to give ranges",
+      "en": "Participants were asked to give ranges",
+      "zh": ""
+    },
+    {
+      "start": 735.42,
+      "duration": 2.19,
+      "text": "for factual questions like the length of a river",
+      "en": "for factual questions like the length of a river",
+      "zh": ""
+    },
+    {
+      "start": 737.61,
+      "duration": 1.26,
+      "text": "or the population of a city.",
+      "en": "or the population of a city.",
+      "zh": ""
+    },
+    {
+      "start": 738.87,
+      "duration": 2.43,
+      "text": "People's ranges were consistently too narrow,",
+      "en": "People's ranges were consistently too narrow,",
+      "zh": ""
+    },
+    {
+      "start": 741.3,
+      "duration": 2.82,
+      "text": "which effectively meant they were being overconfident,",
+      "en": "which effectively meant they were being overconfident,",
+      "zh": ""
+    },
+    {
+      "start": 744.12,
+      "duration": 1.98,
+      "text": "and those who had worse short-term memory",
+      "en": "and those who had worse short-term memory",
+      "zh": ""
+    },
+    {
+      "start": 746.1,
+      "duration": 3.84,
+      "text": "were more often wrong and more likely to be overconfident.",
+      "en": "were more often wrong and more likely to be overconfident.",
+      "zh": ""
+    },
+    {
+      "start": 749.94,
+      "duration": 3.18,
+      "text": "Another study conducted by Conte in 2023 asked participants",
+      "en": "Another study conducted by Conte in 2023 asked participants",
+      "zh": ""
+    },
+    {
+      "start": 753.12,
+      "duration": 2.16,
+      "text": "to keep sequences of letters in their mind",
+      "en": "to keep sequences of letters in their mind",
+      "zh": ""
+    },
+    {
+      "start": 755.28,
+      "duration": 2.01,
+      "text": "while they judged their own performance.",
+      "en": "while they judged their own performance.",
+      "zh": ""
+    },
+    {
+      "start": 757.29,
+      "duration": 1.71,
+      "text": "As the memory load increased,",
+      "en": "As the memory load increased,",
+      "zh": ""
+    },
+    {
+      "start": 759.0,
+      "duration": 2.34,
+      "text": "confidence estimates became less accurate,",
+      "en": "confidence estimates became less accurate,",
+      "zh": ""
+    },
+    {
+      "start": 761.34,
+      "duration": 2.97,
+      "text": "even for participants with higher working memory capacities.",
+      "en": "even for participants with higher working memory capacities.",
+      "zh": ""
+    },
+    {
+      "start": 764.31,
+      "duration": 2.7,
+      "text": "Together, these studies suggest that assessing your accuracy",
+      "en": "Together, these studies suggest that assessing your accuracy",
+      "zh": ""
+    },
+    {
+      "start": 767.01,
+      "duration": 2.4,
+      "text": "is a mentally taxing task.",
+      "en": "is a mentally taxing task.",
+      "zh": ""
+    },
+    {
+      "start": 769.41,
+      "duration": 2.76,
+      "text": "So, overconfidence isn't necessarily about arrogance.",
+      "en": "So, overconfidence isn't necessarily about arrogance.",
+      "zh": ""
+    },
+    {
+      "start": 772.17,
+      "duration": 1.98,
+      "text": "It's your brain working at the limits",
+      "en": "It's your brain working at the limits",
+      "zh": ""
+    },
+    {
+      "start": 774.15,
+      "duration": 2.07,
+      "text": "of what it can track and hold.",
+      "en": "of what it can track and hold.",
+      "zh": ""
+    },
+    {
+      "start": 776.22,
+      "duration": 3.27,
+      "text": "And because of this, your brain can start using shortcuts.",
+      "en": "And because of this, your brain can start using shortcuts.",
+      "zh": ""
+    },
+    {
+      "start": 780.33,
+      "duration": 1.59,
+      "text": "Psychologist Daniel Kahneman describes",
+      "en": "Psychologist Daniel Kahneman describes",
+      "zh": ""
+    },
+    {
+      "start": 781.92,
+      "duration": 2.4,
+      "text": "these mental shortcuts as heuristics, that together,",
+      "en": "these mental shortcuts as heuristics, that together,",
+      "zh": ""
+    },
+    {
+      "start": 784.32,
+      "duration": 2.94,
+      "text": "create systemic errors called cognitive biases.",
+      "en": "create systemic errors called cognitive biases.",
+      "zh": ""
+    },
+    {
+      "start": 787.26,
+      "duration": 3.0,
+      "text": "One shortcut we use a lot is substituting hard questions",
+      "en": "One shortcut we use a lot is substituting hard questions",
+      "zh": ""
+    },
+    {
+      "start": 790.26,
+      "duration": 1.68,
+      "text": "with easier related ones.",
+      "en": "with easier related ones.",
+      "zh": ""
+    },
+    {
+      "start": 791.94,
+      "duration": 2.04,
+      "text": "Researchers have tested this by asking students",
+      "en": "Researchers have tested this by asking students",
+      "zh": ""
+    },
+    {
+      "start": 793.98,
+      "duration": 1.62,
+      "text": "how happy they were in their life",
+      "en": "how happy they were in their life",
+      "zh": ""
+    },
+    {
+      "start": 795.6,
+      "duration": 2.7,
+      "text": "and how many dates they'd had in the last month.",
+      "en": "and how many dates they'd had in the last month.",
+      "zh": ""
+    },
+    {
+      "start": 798.3,
+      "duration": 3.0,
+      "text": "Unsurprisingly, these two questions did not correlate.",
+      "en": "Unsurprisingly, these two questions did not correlate.",
+      "zh": ""
+    },
+    {
+      "start": 801.3,
+      "duration": 2.61,
+      "text": "There's a lot more to happiness than matches on Tinder,",
+      "en": "There's a lot more to happiness than matches on Tinder,",
+      "zh": ""
+    },
+    {
+      "start": 803.91,
+      "duration": 1.47,
+      "text": "at least for most people.",
+      "en": "at least for most people.",
+      "zh": ""
+    },
+    {
+      "start": 805.38,
+      "duration": 1.8,
+      "text": "However, if you switch it around",
+      "en": "However, if you switch it around",
+      "zh": ""
+    },
+    {
+      "start": 807.18,
+      "duration": 1.74,
+      "text": "and ask about their dates first,",
+      "en": "and ask about their dates first,",
+      "zh": ""
+    },
+    {
+      "start": 808.92,
+      "duration": 2.97,
+      "text": "suddenly, the correlation jumps to 0.66.",
+      "en": "suddenly, the correlation jumps to 0.66.",
+      "zh": ""
+    },
+    {
+      "start": 811.89,
+      "duration": 2.01,
+      "text": "Working out how happy you are in your life",
+      "en": "Working out how happy you are in your life",
+      "zh": ""
+    },
+    {
+      "start": 813.9,
+      "duration": 1.44,
+      "text": "is a difficult question.",
+      "en": "is a difficult question.",
+      "zh": ""
+    },
+    {
+      "start": 815.34,
+      "duration": 2.85,
+      "text": "You have to consider many things and balance them all out.",
+      "en": "You have to consider many things and balance them all out.",
+      "zh": ""
+    },
+    {
+      "start": 818.19,
+      "duration": 1.29,
+      "text": "So, when you're primed",
+      "en": "So, when you're primed",
+      "zh": ""
+    },
+    {
+      "start": 819.48,
+      "duration": 1.95,
+      "text": "with the information about your dating life,",
+      "en": "with the information about your dating life,",
+      "zh": ""
+    },
+    {
+      "start": 821.43,
+      "duration": 2.82,
+      "text": "you're very likely to substitute that hard question,",
+      "en": "you're very likely to substitute that hard question,",
+      "zh": ""
+    },
+    {
+      "start": 824.25,
+      "duration": 1.77,
+      "text": "how happy am I in my life,",
+      "en": "how happy am I in my life,",
+      "zh": ""
+    },
+    {
+      "start": 826.02,
+      "duration": 2.61,
+      "text": "with, how many dates have I recently had?",
+      "en": "with, how many dates have I recently had?",
+      "zh": ""
+    },
+    {
+      "start": 828.63,
+      "duration": 2.52,
+      "text": "Overconfidence from misprocessing information",
+      "en": "Overconfidence from misprocessing information",
+      "zh": ""
+    },
+    {
+      "start": 831.15,
+      "duration": 1.95,
+      "text": "like this can be disastrous.",
+      "en": "like this can be disastrous.",
+      "zh": ""
+    },
+    {
+      "start": 833.1,
+      "duration": 0.96,
+      "text": "(low mysterious music)",
+      "en": "(low mysterious music)",
+      "zh": ""
+    },
+    {
+      "start": 834.06,
+      "duration": 2.64,
+      "text": "So, why are our brains wired this way?",
+      "en": "So, why are our brains wired this way?",
+      "zh": ""
+    },
+    {
+      "start": 836.7,
+      "duration": 1.83,
+      "text": "I mean, you might expect natural selection",
+      "en": "I mean, you might expect natural selection",
+      "zh": ""
+    },
+    {
+      "start": 838.53,
+      "duration": 3.39,
+      "text": "to have wiped out the confidently incorrect,",
+      "en": "to have wiped out the confidently incorrect,",
+      "zh": ""
+    },
+    {
+      "start": 841.92,
+      "duration": 2.37,
+      "text": "but there is evidence that overconfidence",
+      "en": "but there is evidence that overconfidence",
+      "zh": ""
+    },
+    {
+      "start": 844.29,
+      "duration": 1.92,
+      "text": "can actually be advantageous.",
+      "en": "can actually be advantageous.",
+      "zh": ""
+    },
+    {
+      "start": 847.89,
+      "duration": 3.12,
+      "text": "Overconfidence can massively improve your status.",
+      "en": "Overconfidence can massively improve your status.",
+      "zh": ""
+    },
+    {
+      "start": 851.01,
+      "duration": 1.86,
+      "text": "In a scientific version of \"The Apprentice,\"",
+      "en": "In a scientific version of \"The Apprentice,\"",
+      "zh": ""
+    },
+    {
+      "start": 852.87,
+      "duration": 3.06,
+      "text": "scientists in 2012 compared participants' own assessments",
+      "en": "scientists in 2012 compared participants' own assessments",
+      "zh": ""
+    },
+    {
+      "start": 855.93,
+      "duration": 2.13,
+      "text": "of their skill with objective measures.",
+      "en": "of their skill with objective measures.",
+      "zh": ""
+    },
+    {
+      "start": 858.06,
+      "duration": 2.64,
+      "text": "They placed them in group tasks to see who is chosen",
+      "en": "They placed them in group tasks to see who is chosen",
+      "zh": ""
+    },
+    {
+      "start": 860.7,
+      "duration": 2.4,
+      "text": "as a leader and whose ideas influenced the group,",
+      "en": "as a leader and whose ideas influenced the group,",
+      "zh": ""
+    },
+    {
+      "start": 863.1,
+      "duration": 2.01,
+      "text": "tracking status over multiple sessions",
+      "en": "tracking status over multiple sessions",
+      "zh": ""
+    },
+    {
+      "start": 865.11,
+      "duration": 2.7,
+      "text": "and assessing whether the desire for status led participants",
+      "en": "and assessing whether the desire for status led participants",
+      "zh": ""
+    },
+    {
+      "start": 867.81,
+      "duration": 1.74,
+      "text": "to exaggerate their abilities.",
+      "en": "to exaggerate their abilities.",
+      "zh": ""
+    },
+    {
+      "start": 869.55,
+      "duration": 1.53,
+      "text": "The results were clear,",
+      "en": "The results were clear,",
+      "zh": ""
+    },
+    {
+      "start": 871.08,
+      "duration": 2.73,
+      "text": "overconfident individuals were more likely to lead,",
+      "en": "overconfident individuals were more likely to lead,",
+      "zh": ""
+    },
+    {
+      "start": 873.81,
+      "duration": 2.49,
+      "text": "assert themselves, and maintain influence,",
+      "en": "assert themselves, and maintain influence,",
+      "zh": ""
+    },
+    {
+      "start": 876.3,
+      "duration": 2.76,
+      "text": "even when their actual abilities were mid.",
+      "en": "even when their actual abilities were mid.",
+      "zh": ""
+    },
+    {
+      "start": 879.06,
+      "duration": 2.64,
+      "text": "And the evidence certainly shows people react better",
+      "en": "And the evidence certainly shows people react better",
+      "zh": ""
+    },
+    {
+      "start": 881.7,
+      "duration": 1.65,
+      "text": "to confident individuals.",
+      "en": "to confident individuals.",
+      "zh": ""
+    },
+    {
+      "start": 883.35,
+      "duration": 3.24,
+      "text": "Using an fMRI, researchers at the University of Sussex",
+      "en": "Using an fMRI, researchers at the University of Sussex",
+      "zh": ""
+    },
+    {
+      "start": 886.59,
+      "duration": 1.56,
+      "text": "measured brain activity of people",
+      "en": "measured brain activity of people",
+      "zh": ""
+    },
+    {
+      "start": 888.15,
+      "duration": 3.72,
+      "text": "after hearing unconfident versus confident advice,",
+      "en": "after hearing unconfident versus confident advice,",
+      "zh": ""
+    },
+    {
+      "start": 891.87,
+      "duration": 1.89,
+      "text": "and those who listened to the confident advice",
+      "en": "and those who listened to the confident advice",
+      "zh": ""
+    },
+    {
+      "start": 893.76,
+      "duration": 1.14,
+      "text": "had increased activity",
+      "en": "had increased activity",
+      "zh": ""
+    },
+    {
+      "start": 894.9,
+      "duration": 2.25,
+      "text": "in the ventromedial prefrontal cortex.",
+      "en": "in the ventromedial prefrontal cortex.",
+      "zh": ""
+    },
+    {
+      "start": 897.15,
+      "duration": 2.64,
+      "text": "That's a brain region associated with processing rewards",
+      "en": "That's a brain region associated with processing rewards",
+      "zh": ""
+    },
+    {
+      "start": 899.79,
+      "duration": 1.53,
+      "text": "and expected satisfaction.",
+      "en": "and expected satisfaction.",
+      "zh": ""
+    },
+    {
+      "start": 901.32,
+      "duration": 3.03,
+      "text": "This means that human brains are biologically tuned",
+      "en": "This means that human brains are biologically tuned",
+      "zh": ""
+    },
+    {
+      "start": 904.35,
+      "duration": 2.79,
+      "text": "to be influenced by confident individuals.",
+      "en": "to be influenced by confident individuals.",
+      "zh": ""
+    },
+    {
+      "start": 907.14,
+      "duration": 3.45,
+      "text": "We literally feel better when we hear confident people.",
+      "en": "We literally feel better when we hear confident people.",
+      "zh": ""
+    },
+    {
+      "start": 910.59,
+      "duration": 3.0,
+      "text": "- But recognizing that dynamic",
+      "en": "- But recognizing that dynamic",
+      "zh": ""
+    },
+    {
+      "start": 913.59,
+      "duration": 3.51,
+      "text": "highlights a potentially problematic incentive",
+      "en": "highlights a potentially problematic incentive",
+      "zh": ""
+    },
+    {
+      "start": 917.1,
+      "duration": 3.93,
+      "text": "for anyone who's contending for positions that they want.",
+      "en": "for anyone who's contending for positions that they want.",
+      "zh": ""
+    },
+    {
+      "start": 921.03,
+      "duration": 4.8,
+      "text": "People who express more confidence in employment interviews",
+      "en": "People who express more confidence in employment interviews",
+      "zh": ""
+    },
+    {
+      "start": 925.83,
+      "duration": 3.33,
+      "text": "or political campaigns, for instance,",
+      "en": "or political campaigns, for instance,",
+      "zh": ""
+    },
+    {
+      "start": 929.16,
+      "duration": 5.0,
+      "text": "do earn the confidence of interviewers and potential voters,",
+      "en": "do earn the confidence of interviewers and potential voters,",
+      "zh": ""
+    },
+    {
+      "start": 934.59,
+      "duration": 2.97,
+      "text": "even if they're being overconfident.",
+      "en": "even if they're being overconfident.",
+      "zh": ""
+    },
+    {
+      "start": 937.56,
+      "duration": 1.44,
+      "text": "They can't actually deliver.",
+      "en": "They can't actually deliver.",
+      "zh": ""
+    },
+    {
+      "start": 939.0,
+      "duration": 2.22,
+      "text": "They don't actually know the answer,",
+      "en": "They don't actually know the answer,",
+      "zh": ""
+    },
+    {
+      "start": 941.22,
+      "duration": 3.87,
+      "text": "but they can talk a good line to impress others,",
+      "en": "but they can talk a good line to impress others,",
+      "zh": ""
+    },
+    {
+      "start": 945.09,
+      "duration": 1.89,
+      "text": "even if they can't ultimately deliver",
+      "en": "even if they can't ultimately deliver",
+      "zh": ""
+    },
+    {
+      "start": 946.98,
+      "duration": 1.86,
+      "text": "on those grand assertions.",
+      "en": "on those grand assertions.",
+      "zh": ""
+    },
+    {
+      "start": 948.84,
+      "duration": 2.25,
+      "text": "They know the audience",
+      "en": "They know the audience",
+      "zh": ""
+    },
+    {
+      "start": 951.09,
+      "duration": 2.19,
+      "text": "will place more faith in them, if they express...",
+      "en": "will place more faith in them, if they express...",
+      "zh": ""
+    },
+    {
+      "start": 953.28,
+      "duration": 2.94,
+      "text": "Well, they should express maximal confidence.",
+      "en": "Well, they should express maximal confidence.",
+      "zh": ""
+    },
+    {
+      "start": 956.22,
+      "duration": 2.28,
+      "text": "- [Derek] Leeson knew this and he took advantage of it.",
+      "en": "- [Derek] Leeson knew this and he took advantage of it.",
+      "zh": ""
+    },
+    {
+      "start": 958.5,
+      "duration": 1.62,
+      "text": "While he was secretly racking up",
+      "en": "While he was secretly racking up",
+      "zh": ""
+    },
+    {
+      "start": 960.12,
+      "duration": 2.4,
+      "text": "huge losses in the infamous five eights account,",
+      "en": "huge losses in the infamous five eights account,",
+      "zh": ""
+    },
+    {
+      "start": 962.52,
+      "duration": 2.61,
+      "text": "he was publicly posting huge profits",
+      "en": "he was publicly posting huge profits",
+      "zh": ""
+    },
+    {
+      "start": 965.13,
+      "duration": 1.86,
+      "text": "and everyone believed the illusion.",
+      "en": "and everyone believed the illusion.",
+      "zh": ""
+    },
+    {
+      "start": 966.99,
+      "duration": 2.35,
+      "text": "- They come in and they don't test any records,",
+      "en": "- They come in and they don't test any records,",
+      "zh": ""
+    },
+    {
+      "start": 970.77,
+      "duration": 1.98,
+      "text": "so I can't be happier.",
+      "en": "so I can't be happier.",
+      "zh": ""
+    },
+    {
+      "start": 972.75,
+      "duration": 1.35,
+      "text": "They didn't test one record.",
+      "en": "They didn't test one record.",
+      "zh": ""
+    },
+    {
+      "start": 974.1,
+      "duration": 1.68,
+      "text": "- [Derek] As Leeson's hidden losses mounted,",
+      "en": "- [Derek] As Leeson's hidden losses mounted,",
+      "zh": ""
+    },
+    {
+      "start": 975.78,
+      "duration": 2.22,
+      "text": "he requested huge sums from head office",
+      "en": "he requested huge sums from head office",
+      "zh": ""
+    },
+    {
+      "start": 978.0,
+      "duration": 3.51,
+      "text": "to keep doubling down up to $5 million at a time.",
+      "en": "to keep doubling down up to $5 million at a time.",
+      "zh": ""
+    },
+    {
+      "start": 981.51,
+      "duration": 2.28,
+      "text": "Barings management, barely understanding futures",
+      "en": "Barings management, barely understanding futures",
+      "zh": ""
+    },
+    {
+      "start": 983.79,
+      "duration": 1.5,
+      "text": "and believing in their star trader,",
+      "en": "and believing in their star trader,",
+      "zh": ""
+    },
+    {
+      "start": 985.29,
+      "duration": 1.74,
+      "text": "they granted his requests",
+      "en": "they granted his requests",
+      "zh": ""
+    },
+    {
+      "start": 987.03,
+      "duration": 2.49,
+      "text": "and continued to grant future requests.",
+      "en": "and continued to grant future requests.",
+      "zh": ""
+    },
+    {
+      "start": 989.52,
+      "duration": 1.74,
+      "text": "- Every day that I make one of these requests",
+      "en": "- Every day that I make one of these requests",
+      "zh": ""
+    },
+    {
+      "start": 991.26,
+      "duration": 2.01,
+      "text": "for additional money, I never expect it to come.",
+      "en": "for additional money, I never expect it to come.",
+      "zh": ""
+    },
+    {
+      "start": 993.27,
+      "duration": 1.66,
+      "text": "I expect somebody to say,",
+      "en": "I expect somebody to say,",
+      "zh": ""
+    },
+    {
+      "start": 994.93,
+      "duration": 2.21,
+      "text": "\"Look, mate, what the hell's going on?\"",
+      "en": "\"Look, mate, what the hell's going on?\"",
+      "zh": ""
+    },
+    {
+      "start": 997.14,
+      "duration": 1.41,
+      "text": "- By Autumn 1994,",
+      "en": "- By Autumn 1994,",
+      "zh": ""
+    },
+    {
+      "start": 998.55,
+      "duration": 3.6,
+      "text": "the account was nearly $260 million in the red.",
+      "en": "the account was nearly $260 million in the red.",
+      "zh": ""
+    },
+    {
+      "start": 1002.15,
+      "duration": 3.3,
+      "text": "To mask this, Leeson began buying futures from himself,",
+      "en": "To mask this, Leeson began buying futures from himself,",
+      "zh": ""
+    },
+    {
+      "start": 1005.45,
+      "duration": 2.13,
+      "text": "inflating his perceived profits further.",
+      "en": "inflating his perceived profits further.",
+      "zh": ""
+    },
+    {
+      "start": 1007.58,
+      "duration": 2.67,
+      "text": "At SIMEX's 10th anniversary in September,",
+      "en": "At SIMEX's 10th anniversary in September,",
+      "zh": ""
+    },
+    {
+      "start": 1010.25,
+      "duration": 3.72,
+      "text": "Barings received two awards, largely credited to Leeson.",
+      "en": "Barings received two awards, largely credited to Leeson.",
+      "zh": ""
+    },
+    {
+      "start": 1013.97,
+      "duration": 1.77,
+      "text": "In December, he was flown to New York,",
+      "en": "In December, he was flown to New York,",
+      "zh": ""
+    },
+    {
+      "start": 1015.74,
+      "duration": 2.31,
+      "text": "seemingly responsible for $44 million",
+      "en": "seemingly responsible for $44 million",
+      "zh": ""
+    },
+    {
+      "start": 1018.05,
+      "duration": 2.19,
+      "text": "in Barings turnover that year.",
+      "en": "in Barings turnover that year.",
+      "zh": ""
+    },
+    {
+      "start": 1020.24,
+      "duration": 1.5,
+      "text": "Some traders raised doubts",
+      "en": "Some traders raised doubts",
+      "zh": ""
+    },
+    {
+      "start": 1021.74,
+      "duration": 1.68,
+      "text": "that these kinds of profits could be made",
+      "en": "that these kinds of profits could be made",
+      "zh": ""
+    },
+    {
+      "start": 1023.42,
+      "duration": 2.28,
+      "text": "from the low risk trading he was supposed to be doing.",
+      "en": "from the low risk trading he was supposed to be doing.",
+      "zh": ""
+    },
+    {
+      "start": 1025.7,
+      "duration": 3.21,
+      "text": "But management's faith in Leeson's talent was unshakeable,",
+      "en": "But management's faith in Leeson's talent was unshakeable,",
+      "zh": ""
+    },
+    {
+      "start": 1028.91,
+      "duration": 2.28,
+      "text": "and they dismissed these concerns.",
+      "en": "and they dismissed these concerns.",
+      "zh": ""
+    },
+    {
+      "start": 1031.19,
+      "duration": 1.8,
+      "text": "Barings' overconfidence in Leeson",
+      "en": "Barings' overconfidence in Leeson",
+      "zh": ""
+    },
+    {
+      "start": 1032.99,
+      "duration": 2.16,
+      "text": "and Leeson's overconfidence in himself",
+      "en": "and Leeson's overconfidence in himself",
+      "zh": ""
+    },
+    {
+      "start": 1035.15,
+      "duration": 2.07,
+      "text": "would be the bank's downfall.",
+      "en": "would be the bank's downfall.",
+      "zh": ""
+    },
+    {
+      "start": 1037.22,
+      "duration": 1.47,
+      "text": "The figures are so big,",
+      "en": "The figures are so big,",
+      "zh": ""
+    },
+    {
+      "start": 1038.69,
+      "duration": 2.79,
+      "text": "it seems like the ultimate confidence trick,",
+      "en": "it seems like the ultimate confidence trick,",
+      "zh": ""
+    },
+    {
+      "start": 1041.48,
+      "duration": 1.83,
+      "text": "but there's a partial explanation",
+      "en": "but there's a partial explanation",
+      "zh": ""
+    },
+    {
+      "start": 1043.31,
+      "duration": 2.13,
+      "text": "for the delusion on both sides.",
+      "en": "for the delusion on both sides.",
+      "zh": ""
+    },
+    {
+      "start": 1045.44,
+      "duration": 2.85,
+      "text": "Leeson's and Barings' overconfidence was amplified",
+      "en": "Leeson's and Barings' overconfidence was amplified",
+      "zh": ""
+    },
+    {
+      "start": 1048.29,
+      "duration": 2.64,
+      "text": "by the complexity and unpredictability of the market",
+      "en": "by the complexity and unpredictability of the market",
+      "zh": ""
+    },
+    {
+      "start": 1050.93,
+      "duration": 1.56,
+      "text": "and the trades he was making.",
+      "en": "and the trades he was making.",
+      "zh": ""
+    },
+    {
+      "start": 1052.49,
+      "duration": 2.23,
+      "text": "It's sort of an issue of feedback.",
+      "en": "It's sort of an issue of feedback.",
+      "zh": ""
+    },
+    {
+      "start": 1056.96,
+      "duration": 2.34,
+      "text": "In a controlled environment where there are clear rules",
+      "en": "In a controlled environment where there are clear rules",
+      "zh": ""
+    },
+    {
+      "start": 1059.3,
+      "duration": 2.7,
+      "text": "and guaranteed outcomes like in a chess match,",
+      "en": "and guaranteed outcomes like in a chess match,",
+      "zh": ""
+    },
+    {
+      "start": 1062.0,
+      "duration": 1.2,
+      "text": "there is clear feedback",
+      "en": "there is clear feedback",
+      "zh": ""
+    },
+    {
+      "start": 1063.2,
+      "duration": 1.95,
+      "text": "on whether decisions are good or bad.",
+      "en": "on whether decisions are good or bad.",
+      "zh": ""
+    },
+    {
+      "start": 1065.15,
+      "duration": 2.55,
+      "text": "With reliable feedback, professional chess players",
+      "en": "With reliable feedback, professional chess players",
+      "zh": ""
+    },
+    {
+      "start": 1067.7,
+      "duration": 1.92,
+      "text": "are able to learn to make better decisions",
+      "en": "are able to learn to make better decisions",
+      "zh": ""
+    },
+    {
+      "start": 1069.62,
+      "duration": 1.92,
+      "text": "with more accurate confidence.",
+      "en": "with more accurate confidence.",
+      "zh": ""
+    },
+    {
+      "start": 1071.54,
+      "duration": 3.24,
+      "text": "But in a noisy environment where there is rarely consistent",
+      "en": "But in a noisy environment where there is rarely consistent",
+      "zh": ""
+    },
+    {
+      "start": 1074.78,
+      "duration": 2.19,
+      "text": "or timely consequences for predictions,",
+      "en": "or timely consequences for predictions,",
+      "zh": ""
+    },
+    {
+      "start": 1076.97,
+      "duration": 1.8,
+      "text": "this feedback is unreliable.",
+      "en": "this feedback is unreliable.",
+      "zh": ""
+    },
+    {
+      "start": 1078.77,
+      "duration": 2.52,
+      "text": "Whether our confidence is accurate or misplaced",
+      "en": "Whether our confidence is accurate or misplaced",
+      "zh": ""
+    },
+    {
+      "start": 1081.29,
+      "duration": 2.76,
+      "text": "is increasingly hard to judge, even amongst experts.",
+      "en": "is increasingly hard to judge, even amongst experts.",
+      "zh": ""
+    },
+    {
+      "start": 1084.05,
+      "duration": 2.91,
+      "text": "It's especially problematic for political pundits.",
+      "en": "It's especially problematic for political pundits.",
+      "zh": ""
+    },
+    {
+      "start": 1086.96,
+      "duration": 1.83,
+      "text": "- This is going to be a landslide.",
+      "en": "- This is going to be a landslide.",
+      "zh": ""
+    },
+    {
+      "start": 1088.79,
+      "duration": 1.92,
+      "text": "I think Romney's gonna win by quite a bit.",
+      "en": "I think Romney's gonna win by quite a bit.",
+      "zh": ""
+    },
+    {
+      "start": 1090.71,
+      "duration": 2.28,
+      "text": "- So, right now, we have Hillary's about a 75",
+      "en": "- So, right now, we have Hillary's about a 75",
+      "zh": ""
+    },
+    {
+      "start": 1092.99,
+      "duration": 1.35,
+      "text": "or an 80% favorite.",
+      "en": "or an 80% favorite.",
+      "zh": ""
+    },
+    {
+      "start": 1094.34,
+      "duration": 1.89,
+      "text": "- [Derek] For example, prior to 2024,",
+      "en": "- [Derek] For example, prior to 2024,",
+      "zh": ""
+    },
+    {
+      "start": 1096.23,
+      "duration": 1.53,
+      "text": "political analyst Allan Lichtman",
+      "en": "political analyst Allan Lichtman",
+      "zh": ""
+    },
+    {
+      "start": 1097.76,
+      "duration": 1.77,
+      "text": "had accurately predicted the winner of nine",
+      "en": "had accurately predicted the winner of nine",
+      "zh": ""
+    },
+    {
+      "start": 1099.53,
+      "duration": 2.49,
+      "text": "of the 10 previous US presidential elections,",
+      "en": "of the 10 previous US presidential elections,",
+      "zh": ""
+    },
+    {
+      "start": 1102.02,
+      "duration": 2.67,
+      "text": "using his 13 keys to the White House method.",
+      "en": "using his 13 keys to the White House method.",
+      "zh": ""
+    },
+    {
+      "start": 1104.69,
+      "duration": 2.88,
+      "text": "Using the same strategy in 2024, he predicted that-",
+      "en": "Using the same strategy in 2024, he predicted that-",
+      "zh": ""
+    },
+    {
+      "start": 1107.57,
+      "duration": 5.0,
+      "text": "- Kamala Harris will be a precedent-breaking president.",
+      "en": "- Kamala Harris will be a precedent-breaking president.",
+      "zh": ""
+    },
+    {
+      "start": 1112.85,
+      "duration": 1.1,
+      "text": "- And look what happened.",
+      "en": "- And look what happened.",
+      "zh": ""
+    },
+    {
+      "start": 1113.95,
+      "duration": 2.32,
+      "text": "Is this crazy? (crowd cheering)",
+      "en": "Is this crazy? (crowd cheering)",
+      "zh": ""
+    },
+    {
+      "start": 1116.27,
+      "duration": 2.31,
+      "text": "- He attributed his miscalculation to the spread",
+      "en": "- He attributed his miscalculation to the spread",
+      "zh": ""
+    },
+    {
+      "start": 1118.58,
+      "duration": 2.34,
+      "text": "of disinformation that misled the electorate.",
+      "en": "of disinformation that misled the electorate.",
+      "zh": ""
+    },
+    {
+      "start": 1120.92,
+      "duration": 1.95,
+      "text": "This noisy environment made it difficult",
+      "en": "This noisy environment made it difficult",
+      "zh": ""
+    },
+    {
+      "start": 1122.87,
+      "duration": 3.15,
+      "text": "to discern key issues like the actual state of the economy.",
+      "en": "to discern key issues like the actual state of the economy.",
+      "zh": ""
+    },
+    {
+      "start": 1126.02,
+      "duration": 1.89,
+      "text": "Similarly, the feedback Leeson",
+      "en": "Similarly, the feedback Leeson",
+      "zh": ""
+    },
+    {
+      "start": 1127.91,
+      "duration": 1.86,
+      "text": "had received was inconsistent.",
+      "en": "had received was inconsistent.",
+      "zh": ""
+    },
+    {
+      "start": 1129.77,
+      "duration": 1.56,
+      "text": "He was making some bad trades,",
+      "en": "He was making some bad trades,",
+      "zh": ""
+    },
+    {
+      "start": 1131.33,
+      "duration": 2.34,
+      "text": "but he had also won it all back before,",
+      "en": "but he had also won it all back before,",
+      "zh": ""
+    },
+    {
+      "start": 1133.67,
+      "duration": 2.19,
+      "text": "and this significantly clouded his judgment,",
+      "en": "and this significantly clouded his judgment,",
+      "zh": ""
+    },
+    {
+      "start": 1135.86,
+      "duration": 1.83,
+      "text": "amplifying his overconfidence.",
+      "en": "amplifying his overconfidence.",
+      "zh": ""
+    },
+    {
+      "start": 1137.69,
+      "duration": 3.75,
+      "text": "By 1995, Leeson's losses were in the hundreds of millions,",
+      "en": "By 1995, Leeson's losses were in the hundreds of millions,",
+      "zh": ""
+    },
+    {
+      "start": 1141.44,
+      "duration": 3.93,
+      "text": "and Barings had unwittingly sent him $1 billion.",
+      "en": "and Barings had unwittingly sent him $1 billion.",
+      "zh": ""
+    },
+    {
+      "start": 1145.37,
+      "duration": 3.63,
+      "text": "For a bank with around $700 million in capital base,",
+      "en": "For a bank with around $700 million in capital base,",
+      "zh": ""
+    },
+    {
+      "start": 1149.0,
+      "duration": 2.22,
+      "text": "they were legally only allowed to lend",
+      "en": "they were legally only allowed to lend",
+      "zh": ""
+    },
+    {
+      "start": 1151.22,
+      "duration": 1.41,
+      "text": "around a quarter of that,",
+      "en": "around a quarter of that,",
+      "zh": ""
+    },
+    {
+      "start": 1152.63,
+      "duration": 1.41,
+      "text": "but no one questioned it.",
+      "en": "but no one questioned it.",
+      "zh": ""
+    },
+    {
+      "start": 1154.04,
+      "duration": 2.73,
+      "text": "They were all blinded by his apparent success.",
+      "en": "They were all blinded by his apparent success.",
+      "zh": ""
+    },
+    {
+      "start": 1156.77,
+      "duration": 1.8,
+      "text": "At this point, his positions were so big,",
+      "en": "At this point, his positions were so big,",
+      "zh": ""
+    },
+    {
+      "start": 1158.57,
+      "duration": 1.86,
+      "text": "he estimates that he was probably half",
+      "en": "he estimates that he was probably half",
+      "zh": ""
+    },
+    {
+      "start": 1160.43,
+      "duration": 2.34,
+      "text": "of the entire Nikkei futures market,",
+      "en": "of the entire Nikkei futures market,",
+      "zh": ""
+    },
+    {
+      "start": 1162.77,
+      "duration": 1.95,
+      "text": "so all he could do was buy himself some time",
+      "en": "so all he could do was buy himself some time",
+      "zh": ""
+    },
+    {
+      "start": 1164.72,
+      "duration": 2.22,
+      "text": "and hope that the market went his way.",
+      "en": "and hope that the market went his way.",
+      "zh": ""
+    },
+    {
+      "start": 1166.94,
+      "duration": 1.86,
+      "text": "And for a while, it worked.",
+      "en": "And for a while, it worked.",
+      "zh": ""
+    },
+    {
+      "start": 1168.8,
+      "duration": 2.7,
+      "text": "The economy was stable and he couldn't see anything",
+      "en": "The economy was stable and he couldn't see anything",
+      "zh": ""
+    },
+    {
+      "start": 1171.5,
+      "duration": 2.22,
+      "text": "on the horizon that would change this.",
+      "en": "on the horizon that would change this.",
+      "zh": ""
+    },
+    {
+      "start": 1173.72,
+      "duration": 2.49,
+      "text": "But then disaster struck.",
+      "en": "But then disaster struck.",
+      "zh": ""
+    },
+    {
+      "start": 1176.21,
+      "duration": 1.86,
+      "text": "- [Reporter] Japan is tonight in a state of mourning",
+      "en": "- [Reporter] Japan is tonight in a state of mourning",
+      "zh": ""
+    },
+    {
+      "start": 1178.07,
+      "duration": 2.01,
+      "text": "and of shock. (siren wailing)",
+      "en": "and of shock. (siren wailing)",
+      "zh": ""
+    },
+    {
+      "start": 1180.08,
+      "duration": 1.86,
+      "text": "- On the 17th of January, 1995,",
+      "en": "- On the 17th of January, 1995,",
+      "zh": ""
+    },
+    {
+      "start": 1181.94,
+      "duration": 2.49,
+      "text": "the Great Hanshin Earthquake struck Japan",
+      "en": "the Great Hanshin Earthquake struck Japan",
+      "zh": ""
+    },
+    {
+      "start": 1184.43,
+      "duration": 2.25,
+      "text": "20 kilometers from the city of Kobe.",
+      "en": "20 kilometers from the city of Kobe.",
+      "zh": ""
+    },
+    {
+      "start": 1186.68,
+      "duration": 3.3,
+      "text": "With the magnitude of 6.9, it devastated the city,",
+      "en": "With the magnitude of 6.9, it devastated the city,",
+      "zh": ""
+    },
+    {
+      "start": 1189.98,
+      "duration": 2.16,
+      "text": "which was one of Japan's key ports.",
+      "en": "which was one of Japan's key ports.",
+      "zh": ""
+    },
+    {
+      "start": 1192.14,
+      "duration": 2.55,
+      "text": "This devastation spread to the stock market.",
+      "en": "This devastation spread to the stock market.",
+      "zh": ""
+    },
+    {
+      "start": 1194.69,
+      "duration": 3.24,
+      "text": "The Nikkei index plunged 1055 points.",
+      "en": "The Nikkei index plunged 1055 points.",
+      "zh": ""
+    },
+    {
+      "start": 1197.93,
+      "duration": 2.01,
+      "text": "Leeson, attempting to double down again,",
+      "en": "Leeson, attempting to double down again,",
+      "zh": ""
+    },
+    {
+      "start": 1199.94,
+      "duration": 1.68,
+      "text": "risked even more money.",
+      "en": "risked even more money.",
+      "zh": ""
+    },
+    {
+      "start": 1201.62,
+      "duration": 3.51,
+      "text": "He bet heavily that the Nikkei would make a rapid recovery,",
+      "en": "He bet heavily that the Nikkei would make a rapid recovery,",
+      "zh": ""
+    },
+    {
+      "start": 1205.13,
+      "duration": 1.38,
+      "text": "but it didn't.",
+      "en": "but it didn't.",
+      "zh": ""
+    },
+    {
+      "start": 1206.51,
+      "duration": 1.74,
+      "text": "And in the end, in today's money,",
+      "en": "And in the end, in today's money,",
+      "zh": ""
+    },
+    {
+      "start": 1208.25,
+      "duration": 2.91,
+      "text": "Leeson had lost $2.8 billion.",
+      "en": "Leeson had lost $2.8 billion.",
+      "zh": ""
+    },
+    {
+      "start": 1212.0,
+      "duration": 3.0,
+      "text": "On the 23rd of February, Leeson went on the run.",
+      "en": "On the 23rd of February, Leeson went on the run.",
+      "zh": ""
+    },
+    {
+      "start": 1215.0,
+      "duration": 1.44,
+      "text": "And three days later, Barings,",
+      "en": "And three days later, Barings,",
+      "zh": ""
+    },
+    {
+      "start": 1216.44,
+      "duration": 1.83,
+      "text": "one of the oldest and most trusted banks",
+      "en": "one of the oldest and most trusted banks",
+      "zh": ""
+    },
+    {
+      "start": 1218.27,
+      "duration": 2.04,
+      "text": "in the world, collapsed.",
+      "en": "in the world, collapsed.",
+      "zh": ""
+    },
+    {
+      "start": 1220.31,
+      "duration": 2.67,
+      "text": "Overconfidence was at least partially to blame",
+      "en": "Overconfidence was at least partially to blame",
+      "zh": ""
+    },
+    {
+      "start": 1222.98,
+      "duration": 1.26,
+      "text": "for its downfall.",
+      "en": "for its downfall.",
+      "zh": ""
+    },
+    {
+      "start": 1224.24,
+      "duration": 1.95,
+      "text": "Realizing the walls were closing in,",
+      "en": "Realizing the walls were closing in,",
+      "zh": ""
+    },
+    {
+      "start": 1226.19,
+      "duration": 2.55,
+      "text": "Leeson fled to Malaysia and then Thailand,",
+      "en": "Leeson fled to Malaysia and then Thailand,",
+      "zh": ""
+    },
+    {
+      "start": 1228.74,
+      "duration": 1.65,
+      "text": "but his escape was short-lived.",
+      "en": "but his escape was short-lived.",
+      "zh": ""
+    },
+    {
+      "start": 1230.39,
+      "duration": 1.71,
+      "text": "He was eventually arrested in Germany",
+      "en": "He was eventually arrested in Germany",
+      "zh": ""
+    },
+    {
+      "start": 1232.1,
+      "duration": 1.77,
+      "text": "and extradited to face justice,",
+      "en": "and extradited to face justice,",
+      "zh": ""
+    },
+    {
+      "start": 1233.87,
+      "duration": 3.12,
+      "text": "marking the end of a spectacularly destructive gamble.",
+      "en": "marking the end of a spectacularly destructive gamble.",
+      "zh": ""
+    },
+    {
+      "start": 1236.99,
+      "duration": 2.07,
+      "text": "He was just 28 years old.",
+      "en": "He was just 28 years old.",
+      "zh": ""
+    },
+    {
+      "start": 1240.71,
+      "duration": 1.86,
+      "text": "Now, we don't all bring down banks,",
+      "en": "Now, we don't all bring down banks,",
+      "zh": ""
+    },
+    {
+      "start": 1242.57,
+      "duration": 2.94,
+      "text": "but we are all vulnerable to overconfidence.",
+      "en": "but we are all vulnerable to overconfidence.",
+      "zh": ""
+    },
+    {
+      "start": 1245.51,
+      "duration": 2.73,
+      "text": "In a complex world with unclear, noisy feedback",
+      "en": "In a complex world with unclear, noisy feedback",
+      "zh": ""
+    },
+    {
+      "start": 1248.24,
+      "duration": 1.98,
+      "text": "where our brains are overwhelmed,",
+      "en": "where our brains are overwhelmed,",
+      "zh": ""
+    },
+    {
+      "start": 1250.22,
+      "duration": 2.97,
+      "text": "a set of simplistic biases can take over.",
+      "en": "a set of simplistic biases can take over.",
+      "zh": ""
+    },
+    {
+      "start": 1253.19,
+      "duration": 1.89,
+      "text": "And we all too often end up thinking",
+      "en": "And we all too often end up thinking",
+      "zh": ""
+    },
+    {
+      "start": 1255.08,
+      "duration": 1.59,
+      "text": "we know more than we do.",
+      "en": "we know more than we do.",
+      "zh": ""
+    },
+    {
+      "start": 1256.67,
+      "duration": 2.67,
+      "text": "So, what can we actually do about this?",
+      "en": "So, what can we actually do about this?",
+      "zh": ""
+    },
+    {
+      "start": 1259.34,
+      "duration": 4.38,
+      "text": "- I try to get better at calibrating my confidence judgments",
+      "en": "- I try to get better at calibrating my confidence judgments",
+      "zh": ""
+    },
+    {
+      "start": 1263.72,
+      "duration": 3.24,
+      "text": "by keeping track and keeping score.",
+      "en": "by keeping track and keeping score.",
+      "zh": ""
+    },
+    {
+      "start": 1266.96,
+      "duration": 2.11,
+      "text": "So, when a colleague asks me,",
+      "en": "So, when a colleague asks me,",
+      "zh": ""
+    },
+    {
+      "start": 1269.07,
+      "duration": 1.88,
+      "text": "\"How long is it going to take you",
+      "en": "\"How long is it going to take you",
+      "zh": ""
+    },
+    {
+      "start": 1270.95,
+      "duration": 4.32,
+      "text": "to get me comments on this paper draft we're working on?\"",
+      "en": "to get me comments on this paper draft we're working on?\"",
+      "zh": ""
+    },
+    {
+      "start": 1275.27,
+      "duration": 3.27,
+      "text": "I don't promise I'll do it by Friday.",
+      "en": "I don't promise I'll do it by Friday.",
+      "zh": ""
+    },
+    {
+      "start": 1278.54,
+      "duration": 2.02,
+      "text": "I'm much more likely to say something like,",
+      "en": "I'm much more likely to say something like,",
+      "zh": ""
+    },
+    {
+      "start": 1280.56,
+      "duration": 1.61,
+      "text": "\"I think there's a 60% chance",
+      "en": "\"I think there's a 60% chance",
+      "zh": ""
+    },
+    {
+      "start": 1282.17,
+      "duration": 1.68,
+      "text": "I can get you comments by Friday.\"",
+      "en": "I can get you comments by Friday.\"",
+      "zh": ""
+    },
+    {
+      "start": 1283.85,
+      "duration": 6.32,
+      "text": "They'll often react with a quizzical look or a laugh.",
+      "en": "They'll often react with a quizzical look or a laugh.",
+      "zh": ""
+    },
+    {
+      "start": 1290.39,
+      "duration": 2.37,
+      "text": "- Well, practicing and being aware of our calibration",
+      "en": "- Well, practicing and being aware of our calibration",
+      "zh": ""
+    },
+    {
+      "start": 1292.76,
+      "duration": 1.47,
+      "text": "is the obvious way to improve,",
+      "en": "is the obvious way to improve,",
+      "zh": ""
+    },
+    {
+      "start": 1294.23,
+      "duration": 2.91,
+      "text": "but so is being intellectually humble.",
+      "en": "but so is being intellectually humble.",
+      "zh": ""
+    },
+    {
+      "start": 1297.14,
+      "duration": 5.0,
+      "text": "- I think that the best medicine for overconfidence",
+      "en": "- I think that the best medicine for overconfidence",
+      "zh": ""
+    },
+    {
+      "start": 1302.51,
+      "duration": 3.3,
+      "text": "is not so much information as feedback, (chuckles)",
+      "en": "is not so much information as feedback, (chuckles)",
+      "zh": ""
+    },
+    {
+      "start": 1305.81,
+      "duration": 2.13,
+      "text": "and I get plenty of that. (laughs)",
+      "en": "and I get plenty of that. (laughs)",
+      "zh": ""
+    },
+    {
+      "start": 1307.94,
+      "duration": 0.96,
+      "text": "(Derek laughs)",
+      "en": "(Derek laughs)",
+      "zh": ""
+    },
+    {
+      "start": 1308.9,
+      "duration": 1.95,
+      "text": "Though also, I think people are right,",
+      "en": "Though also, I think people are right,",
+      "zh": ""
+    },
+    {
+      "start": 1310.85,
+      "duration": 2.46,
+      "text": "that sometimes I do have a little bit of overconfidence.",
+      "en": "that sometimes I do have a little bit of overconfidence.",
+      "zh": ""
+    },
+    {
+      "start": 1313.31,
+      "duration": 2.31,
+      "text": "- If we wanna become more accurate,",
+      "en": "- If we wanna become more accurate,",
+      "zh": ""
+    },
+    {
+      "start": 1315.62,
+      "duration": 1.89,
+      "text": "we should capitalize on the wisdom of the crowd",
+      "en": "we should capitalize on the wisdom of the crowd",
+      "zh": ""
+    },
+    {
+      "start": 1317.51,
+      "duration": 1.86,
+      "text": "by listening more to others.",
+      "en": "by listening more to others.",
+      "zh": ""
+    },
+    {
+      "start": 1319.37,
+      "duration": 1.44,
+      "text": "In particular, we should listen",
+      "en": "In particular, we should listen",
+      "zh": ""
+    },
+    {
+      "start": 1320.81,
+      "duration": 1.41,
+      "text": "to people who disagree with us.",
+      "en": "to people who disagree with us.",
+      "zh": ""
+    },
+    {
+      "start": 1322.22,
+      "duration": 2.88,
+      "text": "Understanding the best arguments of your critics,",
+      "en": "Understanding the best arguments of your critics,",
+      "zh": ""
+    },
+    {
+      "start": 1325.1,
+      "duration": 1.86,
+      "text": "understanding what information",
+      "en": "understanding what information",
+      "zh": ""
+    },
+    {
+      "start": 1326.96,
+      "duration": 2.76,
+      "text": "those who disagree with you have that you lack",
+      "en": "those who disagree with you have that you lack",
+      "zh": ""
+    },
+    {
+      "start": 1329.72,
+      "duration": 2.22,
+      "text": "is very helpful for making better decisions.",
+      "en": "is very helpful for making better decisions.",
+      "zh": ""
+    },
+    {
+      "start": 1331.94,
+      "duration": 3.27,
+      "text": "- The best calibrated people aren't those who know the most.",
+      "en": "- The best calibrated people aren't those who know the most.",
+      "zh": ""
+    },
+    {
+      "start": 1335.21,
+      "duration": 2.67,
+      "text": "It's those who know what they don't know.",
+      "en": "It's those who know what they don't know.",
+      "zh": ""
+    },
+    {
+      "start": 1337.88,
+      "duration": 2.82,
+      "text": "So, true wisdom lies not in being certain,",
+      "en": "So, true wisdom lies not in being certain,",
+      "zh": ""
+    },
+    {
+      "start": 1340.7,
+      "duration": 3.15,
+      "text": "but in knowing the limits of your own certainty.",
+      "en": "but in knowing the limits of your own certainty.",
+      "zh": ""
+    },
+    {
+      "start": 1343.85,
+      "duration": 3.15,
+      "text": "And that's an idea that's inspired our latest project.",
+      "en": "And that's an idea that's inspired our latest project.",
+      "zh": ""
+    },
+    {
+      "start": 1347.0,
+      "duration": 1.44,
+      "text": "All those questions I asked-",
+      "en": "All those questions I asked-",
+      "zh": ""
+    },
+    {
+      "start": 1348.44,
+      "duration": 1.39,
+      "text": "- These are good questions. (laughs)",
+      "en": "- These are good questions. (laughs)",
+      "zh": ""
+    },
+    {
+      "start": 1349.83,
+      "duration": 0.84,
+      "text": "- Aw!",
+      "en": "- Aw!",
+      "zh": ""
+    },
+    {
+      "start": 1350.67,
+      "duration": 0.95,
+      "text": "(Hannah laughs)",
+      "en": "(Hannah laughs)",
+      "zh": ""
+    },
+    {
+      "start": 1351.62,
+      "duration": 2.22,
+      "text": "- They come from a new board game that we've made.",
+      "en": "- They come from a new board game that we've made.",
+      "zh": ""
+    },
+    {
+      "start": 1353.84,
+      "duration": 2.31,
+      "text": "It's called \"Elements of Truth.\"",
+      "en": "It's called \"Elements of Truth.\"",
+      "zh": ""
+    },
+    {
+      "start": 1356.15,
+      "duration": 2.46,
+      "text": "The game contains over 800 fascinating",
+      "en": "The game contains over 800 fascinating",
+      "zh": ""
+    },
+    {
+      "start": 1358.61,
+      "duration": 2.25,
+      "text": "science trivia questions with a twist.",
+      "en": "science trivia questions with a twist.",
+      "zh": ""
+    },
+    {
+      "start": 1360.86,
+      "duration": 2.25,
+      "text": "The number of points you win on each question",
+      "en": "The number of points you win on each question",
+      "zh": ""
+    },
+    {
+      "start": 1363.11,
+      "duration": 3.18,
+      "text": "depends on how confident you are.",
+      "en": "depends on how confident you are.",
+      "zh": ""
+    },
+    {
+      "start": 1366.29,
+      "duration": 2.64,
+      "text": "You can bid any number from 1 to 10.",
+      "en": "You can bid any number from 1 to 10.",
+      "zh": ""
+    },
+    {
+      "start": 1368.93,
+      "duration": 2.61,
+      "text": "If you're not sure, you can play a low number",
+      "en": "If you're not sure, you can play a low number",
+      "zh": ""
+    },
+    {
+      "start": 1371.54,
+      "duration": 2.25,
+      "text": "or you can try to follow the lead of someone else",
+      "en": "or you can try to follow the lead of someone else",
+      "zh": ""
+    },
+    {
+      "start": 1373.79,
+      "duration": 2.04,
+      "text": "who you think should know the answer.",
+      "en": "who you think should know the answer.",
+      "zh": ""
+    },
+    {
+      "start": 1375.83,
+      "duration": 2.13,
+      "text": "We've tested this game with scientists,",
+      "en": "We've tested this game with scientists,",
+      "zh": ""
+    },
+    {
+      "start": 1377.96,
+      "duration": 2.73,
+      "text": "teachers, and students, and what we've found",
+      "en": "teachers, and students, and what we've found",
+      "zh": ""
+    },
+    {
+      "start": 1380.69,
+      "duration": 2.04,
+      "text": "is that it regularly leads to discussions",
+      "en": "is that it regularly leads to discussions",
+      "zh": ""
+    },
+    {
+      "start": 1382.73,
+      "duration": 3.3,
+      "text": "that go way beyond the initial questions.",
+      "en": "that go way beyond the initial questions.",
+      "zh": ""
+    },
+    {
+      "start": 1386.03,
+      "duration": 2.1,
+      "text": "The core game comes with 200 questions",
+      "en": "The core game comes with 200 questions",
+      "zh": ""
+    },
+    {
+      "start": 1388.13,
+      "duration": 1.83,
+      "text": "that cover all aspects of science,",
+      "en": "that cover all aspects of science,",
+      "zh": ""
+    },
+    {
+      "start": 1389.96,
+      "duration": 2.88,
+      "text": "and there are five additional packs on specific topics",
+      "en": "and there are five additional packs on specific topics",
+      "zh": ""
+    },
+    {
+      "start": 1392.84,
+      "duration": 3.21,
+      "text": "like physics, technology, engineering, and astronomy.",
+      "en": "like physics, technology, engineering, and astronomy.",
+      "zh": ""
+    },
+    {
+      "start": 1396.05,
+      "duration": 2.61,
+      "text": "Plus, there's a Veritasium pack on concepts covered",
+      "en": "Plus, there's a Veritasium pack on concepts covered",
+      "zh": ""
+    },
+    {
+      "start": 1398.66,
+      "duration": 2.07,
+      "text": "in many of our most popular videos.",
+      "en": "in many of our most popular videos.",
+      "zh": ""
+    },
+    {
+      "start": 1401.69,
+      "duration": 1.59,
+      "text": "We're launching the game through Kickstarter",
+      "en": "We're launching the game through Kickstarter",
+      "zh": ""
+    },
+    {
+      "start": 1403.28,
+      "duration": 2.76,
+      "text": "to give you the opportunity to shape it with us.",
+      "en": "to give you the opportunity to shape it with us.",
+      "zh": ""
+    },
+    {
+      "start": 1406.04,
+      "duration": 2.37,
+      "text": "Over the next month, you'll be able to submit questions",
+      "en": "Over the next month, you'll be able to submit questions",
+      "zh": ""
+    },
+    {
+      "start": 1408.41,
+      "duration": 2.1,
+      "text": "for a special community pack.",
+      "en": "for a special community pack.",
+      "zh": ""
+    },
+    {
+      "start": 1410.51,
+      "duration": 2.04,
+      "text": "This is your chance to etch your name",
+      "en": "This is your chance to etch your name",
+      "zh": ""
+    },
+    {
+      "start": 1412.55,
+      "duration": 1.35,
+      "text": "into Veritasium history",
+      "en": "into Veritasium history",
+      "zh": ""
+    },
+    {
+      "start": 1413.9,
+      "duration": 2.67,
+      "text": "with a credited question in the game.",
+      "en": "with a credited question in the game.",
+      "zh": ""
+    },
+    {
+      "start": 1416.57,
+      "duration": 2.13,
+      "text": "To reserve your copy and get involved,",
+      "en": "To reserve your copy and get involved,",
+      "zh": ""
+    },
+    {
+      "start": 1418.7,
+      "duration": 2.67,
+      "text": "use this QR code or the link in the description",
+      "en": "use this QR code or the link in the description",
+      "zh": ""
+    },
+    {
+      "start": 1421.37,
+      "duration": 2.28,
+      "text": "to head over to Kickstarter.",
+      "en": "to head over to Kickstarter.",
+      "zh": ""
+    },
+    {
+      "start": 1423.65,
+      "duration": 2.25,
+      "text": "It is only because of you that I've been able",
+      "en": "It is only because of you that I've been able",
+      "zh": ""
+    },
+    {
+      "start": 1425.9,
+      "duration": 2.04,
+      "text": "to make this channel and this game,",
+      "en": "to make this channel and this game,",
+      "zh": ""
+    },
+    {
+      "start": 1427.94,
+      "duration": 2.91,
+      "text": "so as always, I wanna thank you for your support",
+      "en": "so as always, I wanna thank you for your support",
+      "zh": ""
+    },
+    {
+      "start": 1430.85,
+      "duration": 1.65,
+      "text": "and thank you for watching.",
+      "en": "and thank you for watching.",
+      "zh": ""
+    }
+  ],
+  "words": []
+}

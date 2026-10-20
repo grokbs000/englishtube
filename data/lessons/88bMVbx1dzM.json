@@ -1,0 +1,2196 @@
+{
+  "cues": [
+    {
+      "start": 0.2,
+      "duration": 3.52,
+      "text": "This is a tiny piece of metal just three millimeters across.",
+      "en": "This is a tiny piece of metal just three millimeters across.",
+      "zh": ""
+    },
+    {
+      "start": 3.72,
+      "duration": 3.48,
+      "text": "And here's what happens if you just keep zooming in:",
+      "en": "And here's what happens if you just keep zooming in:",
+      "zh": ""
+    },
+    {
+      "start": 7.2,
+      "duration": 2.72,
+      "text": "1,000 times,",
+      "en": "1,000 times,",
+      "zh": ""
+    },
+    {
+      "start": 9.92,
+      "duration": 2.24,
+      "text": "100,000 times,",
+      "en": "100,000 times,",
+      "zh": ""
+    },
+    {
+      "start": 12.16,
+      "duration": 2.32,
+      "text": "50 million times.",
+      "en": "50 million times.",
+      "zh": ""
+    },
+    {
+      "start": 14.48,
+      "duration": 4.04,
+      "text": "Each of these blobs is an actual atom.",
+      "en": "Each of these blobs is an actual atom.",
+      "zh": ""
+    },
+    {
+      "start": 18.52,
+      "duration": 2.12,
+      "text": "I saw this the other day at the University of Sydney,",
+      "en": "I saw this the other day at the University of Sydney,",
+      "zh": ""
+    },
+    {
+      "start": 20.64,
+      "duration": 4.04,
+      "text": "and it kind of blew my mind because up until just 30 years ago,",
+      "en": "and it kind of blew my mind because up until just 30 years ago,",
+      "zh": ""
+    },
+    {
+      "start": 24.68,
+      "duration": 4.56,
+      "text": "directly seeing atoms like this was thought to be impossible.",
+      "en": "directly seeing atoms like this was thought to be impossible.",
+      "zh": ""
+    },
+    {
+      "start": 29.24,
+      "duration": 5.72,
+      "text": "The rooms that you're going to see here are perhaps the most shielded rooms on campus,",
+      "en": "The rooms that you're going to see here are perhaps the most shielded rooms on campus,",
+      "zh": ""
+    },
+    {
+      "start": 34.96,
+      "duration": 2.52,
+      "text": "or even in the whole of Sydney, I would say.",
+      "en": "or even in the whole of Sydney, I would say.",
+      "zh": ""
+    },
+    {
+      "start": 37.48,
+      "duration": 2.52,
+      "text": "And perhaps also the most expensive.",
+      "en": "And perhaps also the most expensive.",
+      "zh": ""
+    },
+    {
+      "start": 40.0,
+      "duration": 1.92,
+      "text": "That's wild.",
+      "en": "That's wild.",
+      "zh": ""
+    },
+    {
+      "start": 41.92,
+      "duration": 3.68,
+      "text": "So why is it so hard to see atoms?",
+      "en": "So why is it so hard to see atoms?",
+      "zh": ""
+    },
+    {
+      "start": 45.6,
+      "duration": 2.6,
+      "text": "Well, you can't actually see atoms with visible light.",
+      "en": "Well, you can't actually see atoms with visible light.",
+      "zh": ""
+    },
+    {
+      "start": 48.2,
+      "duration": 4.36,
+      "text": "That's because while light has wavelengths between 380 and 750 nanometers,",
+      "en": "That's because while light has wavelengths between 380 and 750 nanometers,",
+      "zh": ""
+    },
+    {
+      "start": 52.56,
+      "duration": 5.32,
+      "text": "an atom is still over 3000 times smaller, just 0.1 nanometers.",
+      "en": "an atom is still over 3000 times smaller, just 0.1 nanometers.",
+      "zh": ""
+    },
+    {
+      "start": 57.88,
+      "duration": 3.04,
+      "text": "And if the wavelength of light is much bigger than the thing you're trying to see,",
+      "en": "And if the wavelength of light is much bigger than the thing you're trying to see,",
+      "zh": ""
+    },
+    {
+      "start": 60.92,
+      "duration": 5.44,
+      "text": "the light will just diffract or bend around it so you won't be able to see it.",
+      "en": "the light will just diffract or bend around it so you won't be able to see it.",
+      "zh": ""
+    },
+    {
+      "start": 66.36,
+      "duration": 5.08,
+      "text": "So if you want to see atoms, you need something with a much, much smaller wavelength.",
+      "en": "So if you want to see atoms, you need something with a much, much smaller wavelength.",
+      "zh": ""
+    },
+    {
+      "start": 71.44,
+      "duration": 3.48,
+      "text": "The best candidate isn't even light.",
+      "en": "The best candidate isn't even light.",
+      "zh": ""
+    },
+    {
+      "start": 74.92,
+      "duration": 2.84,
+      "text": "It's electrons.",
+      "en": "It's electrons.",
+      "zh": ""
+    },
+    {
+      "start": 77.76,
+      "duration": 6.68,
+      "text": "In 1924, a French physicist named Louis de Broglie worked out that everything was sort of wavelike.",
+      "en": "In 1924, a French physicist named Louis de Broglie worked out that everything was sort of wavelike.",
+      "zh": ""
+    },
+    {
+      "start": 84.44,
+      "duration": 2.0,
+      "text": "Not just light, but matter too.",
+      "en": "Not just light, but matter too.",
+      "zh": ""
+    },
+    {
+      "start": 86.44,
+      "duration": 3.96,
+      "text": "Atoms, molecules, even you yourself have a wavelength.",
+      "en": "Atoms, molecules, even you yourself have a wavelength.",
+      "zh": ""
+    },
+    {
+      "start": 90.4,
+      "duration": 2.88,
+      "text": "And the formula for this wavelength is Planck's constant,",
+      "en": "And the formula for this wavelength is Planck's constant,",
+      "zh": ""
+    },
+    {
+      "start": 93.28,
+      "duration": 4.68,
+      "text": "divided by the object's momentum, that is, mass times velocity.",
+      "en": "divided by the object's momentum, that is, mass times velocity.",
+      "zh": ""
+    },
+    {
+      "start": 97.96,
+      "duration": 1.36,
+      "text": "So here what you actually see,",
+      "en": "So here what you actually see,",
+      "zh": ""
+    },
+    {
+      "start": 99.32,
+      "duration": 4.84,
+      "text": "that's the column of the microscope where we accelerate the 300 kV electrons down.",
+      "en": "that's the column of the microscope where we accelerate the 300 kV electrons down.",
+      "zh": ""
+    },
+    {
+      "start": 104.16,
+      "duration": 2.4,
+      "text": "300 kilovolts, these electrons?",
+      "en": "300 kilovolts, these electrons?",
+      "zh": ""
+    },
+    {
+      "start": 106.56,
+      "duration": 2.0,
+      "text": "So they are relativistic particles.",
+      "en": "So they are relativistic particles.",
+      "zh": ""
+    },
+    {
+      "start": 109.46,
+      "duration": 2.16,
+      "text": "How fast are they moving? 99% of the speed of light?",
+      "en": "How fast are they moving? 99% of the speed of light?",
+      "zh": ""
+    },
+    {
+      "start": 111.62,
+      "duration": 2.94,
+      "text": "Around 80. 80% the speed of light?",
+      "en": "Around 80. 80% the speed of light?",
+      "zh": ""
+    },
+    {
+      "start": 114.56,
+      "duration": 1.8,
+      "text": "Yeah. So what would be their wavelength?",
+      "en": "Yeah. So what would be their wavelength?",
+      "zh": ""
+    },
+    {
+      "start": 116.36,
+      "duration": 2.88,
+      "text": "The wavelength is the Planck constant over the momentum, right?",
+      "en": "The wavelength is the Planck constant over the momentum, right?",
+      "zh": ""
+    },
+    {
+      "start": 119.24,
+      "duration": 5.04,
+      "text": "So if we calculate that, we come to around between 2 to 3 picometers.",
+      "en": "So if we calculate that, we come to around between 2 to 3 picometers.",
+      "zh": ""
+    },
+    {
+      "start": 124.28,
+      "duration": 1.08,
+      "text": "Whoa!",
+      "en": "Whoa!",
+      "zh": ""
+    },
+    {
+      "start": 125.36,
+      "duration": 2.72,
+      "text": "That's over 100,000 times smaller than visible light.",
+      "en": "That's over 100,000 times smaller than visible light.",
+      "zh": ""
+    },
+    {
+      "start": 128.08,
+      "duration": 5.56,
+      "text": "So theoretically, you get 100,000 times more resolution.",
+      "en": "So theoretically, you get 100,000 times more resolution.",
+      "zh": ""
+    },
+    {
+      "start": 133.64,
+      "duration": 3.68,
+      "text": "Shortly after de Broglie's discovery, a group of scientists in Germany started",
+      "en": "Shortly after de Broglie's discovery, a group of scientists in Germany started",
+      "zh": ""
+    },
+    {
+      "start": 137.32,
+      "duration": 4.28,
+      "text": "working on a microscope that would use these high-speed electrons.",
+      "en": "working on a microscope that would use these high-speed electrons.",
+      "zh": ""
+    },
+    {
+      "start": 141.6,
+      "duration": 4.24,
+      "text": "The only problem is you can't bend electrons using glass lenses.",
+      "en": "The only problem is you can't bend electrons using glass lenses.",
+      "zh": ""
+    },
+    {
+      "start": 145.84,
+      "duration": 2.88,
+      "text": "So how do you focus them?",
+      "en": "So how do you focus them?",
+      "zh": ""
+    },
+    {
+      "start": 148.72,
+      "duration": 5.16,
+      "text": "Hans Busch, a German physicist, suggested that an electromagnetic lens might do the trick.",
+      "en": "Hans Busch, a German physicist, suggested that an electromagnetic lens might do the trick.",
+      "zh": ""
+    },
+    {
+      "start": 153.88,
+      "duration": 5.04,
+      "text": "He published his results in 1926, but never actually built one.",
+      "en": "He published his results in 1926, but never actually built one.",
+      "zh": ""
+    },
+    {
+      "start": 158.92,
+      "duration": 7.2,
+      "text": "Fortunately, a copy of his paper fell into the hands of an eager young PhD student, Ernst Ruska.",
+      "en": "Fortunately, a copy of his paper fell into the hands of an eager young PhD student, Ernst Ruska.",
+      "zh": ""
+    },
+    {
+      "start": 166.12,
+      "duration": 2.2,
+      "text": "Ruska built his first prototype by coiling up",
+      "en": "Ruska built his first prototype by coiling up",
+      "zh": ""
+    },
+    {
+      "start": 168.32,
+      "duration": 4.72,
+      "text": "some wire and surrounding it with iron — taking care to leave a gap in the middle.",
+      "en": "some wire and surrounding it with iron — taking care to leave a gap in the middle.",
+      "zh": ""
+    },
+    {
+      "start": 173.04,
+      "duration": 2.12,
+      "text": "Then, when he passed a current through the coil,",
+      "en": "Then, when he passed a current through the coil,",
+      "zh": ""
+    },
+    {
+      "start": 175.16,
+      "duration": 4.44,
+      "text": "it induced a donut-shaped magnetic field through the metal and across this gap.",
+      "en": "it induced a donut-shaped magnetic field through the metal and across this gap.",
+      "zh": ""
+    },
+    {
+      "start": 179.6,
+      "duration": 2.8,
+      "text": "This was his lens.",
+      "en": "This was his lens.",
+      "zh": ""
+    },
+    {
+      "start": 182.4,
+      "duration": 3.64,
+      "text": "To test it, Ruska first boiled electrons off a tungsten filament,",
+      "en": "To test it, Ruska first boiled electrons off a tungsten filament,",
+      "zh": ""
+    },
+    {
+      "start": 186.04,
+      "duration": 3.6,
+      "text": "the same kind of filament you'd find in an incandescent light bulb.",
+      "en": "the same kind of filament you'd find in an incandescent light bulb.",
+      "zh": ""
+    },
+    {
+      "start": 189.64,
+      "duration": 2.0,
+      "text": "He accelerated these free electrons through a",
+      "en": "He accelerated these free electrons through a",
+      "zh": ""
+    },
+    {
+      "start": 191.64,
+      "duration": 4.28,
+      "text": "positively charged anode down to his electromagnetic lens.",
+      "en": "positively charged anode down to his electromagnetic lens.",
+      "zh": ""
+    },
+    {
+      "start": 195.92,
+      "duration": 4.16,
+      "text": "As an electron approaches the lens, the magnetic field exerts a force on it.",
+      "en": "As an electron approaches the lens, the magnetic field exerts a force on it.",
+      "zh": ""
+    },
+    {
+      "start": 200.08,
+      "duration": 4.68,
+      "text": "So if an electron is traveling in the y direction and the magnetic fields are in the x direction,",
+      "en": "So if an electron is traveling in the y direction and the magnetic fields are in the x direction,",
+      "zh": ""
+    },
+    {
+      "start": 204.76,
+      "duration": 4.08,
+      "text": "this force, called the Lorentz force, pushes it in the z direction.",
+      "en": "this force, called the Lorentz force, pushes it in the z direction.",
+      "zh": ""
+    },
+    {
+      "start": 208.84,
+      "duration": 5.24,
+      "text": "But as the electron moves this way, it encounters other magnetic field lines along the donut shape,",
+      "en": "But as the electron moves this way, it encounters other magnetic field lines along the donut shape,",
+      "zh": ""
+    },
+    {
+      "start": 214.08,
+      "duration": 3.16,
+      "text": "which constantly point its motion in a circle.",
+      "en": "which constantly point its motion in a circle.",
+      "zh": ""
+    },
+    {
+      "start": 217.24,
+      "duration": 3.32,
+      "text": "But then this circular motion means the Lorentz force starts pushing the",
+      "en": "But then this circular motion means the Lorentz force starts pushing the",
+      "zh": ""
+    },
+    {
+      "start": 220.56,
+      "duration": 4.88,
+      "text": "electron inwards as well, spiraling it into the center of the lens.",
+      "en": "electron inwards as well, spiraling it into the center of the lens.",
+      "zh": ""
+    },
+    {
+      "start": 225.44,
+      "duration": 3.04,
+      "text": "Now, if you trace the path of the whole beam of electrons,",
+      "en": "Now, if you trace the path of the whole beam of electrons,",
+      "zh": ""
+    },
+    {
+      "start": 228.48,
+      "duration": 6.4,
+      "text": "you'll see they all get steered into the center, focusing the beam.",
+      "en": "you'll see they all get steered into the center, focusing the beam.",
+      "zh": ""
+    },
+    {
+      "start": 234.88,
+      "duration": 4.96,
+      "text": "By 1931, Ruska and his colleague, Max Knoll, used this kind of design",
+      "en": "By 1931, Ruska and his colleague, Max Knoll, used this kind of design",
+      "zh": ""
+    },
+    {
+      "start": 239.84,
+      "duration": 2.84,
+      "text": "to build the first working electron microscope.",
+      "en": "to build the first working electron microscope.",
+      "zh": ""
+    },
+    {
+      "start": 242.68,
+      "duration": 7.96,
+      "text": "It was pretty basic, made of brass roughly bolted together, but it worked.",
+      "en": "It was pretty basic, made of brass roughly bolted together, but it worked.",
+      "zh": ""
+    },
+    {
+      "start": 250.64,
+      "duration": 2.32,
+      "text": "The image itself was created once the focused",
+      "en": "The image itself was created once the focused",
+      "zh": ""
+    },
+    {
+      "start": 252.96,
+      "duration": 2.92,
+      "text": "electron beam hit a sample sitting at the focal point.",
+      "en": "electron beam hit a sample sitting at the focal point.",
+      "zh": ""
+    },
+    {
+      "start": 255.88,
+      "duration": 4.44,
+      "text": "The sample needed to be incredibly thin, only around 100 nanometers thick.",
+      "en": "The sample needed to be incredibly thin, only around 100 nanometers thick.",
+      "zh": ""
+    },
+    {
+      "start": 260.32,
+      "duration": 2.8,
+      "text": "More electrons would make it through the thinner parts of the sample than",
+      "en": "More electrons would make it through the thinner parts of the sample than",
+      "zh": ""
+    },
+    {
+      "start": 263.12,
+      "duration": 4.04,
+      "text": "the thicker parts, creating an electron imprint of the sample.",
+      "en": "the thicker parts, creating an electron imprint of the sample.",
+      "zh": ""
+    },
+    {
+      "start": 267.16,
+      "duration": 2.72,
+      "text": "Then a second electromagnetic lens magnified this",
+      "en": "Then a second electromagnetic lens magnified this",
+      "zh": ""
+    },
+    {
+      "start": 269.88,
+      "duration": 4.52,
+      "text": "imprint down onto a fluorescent detector, producing the final image.",
+      "en": "imprint down onto a fluorescent detector, producing the final image.",
+      "zh": ""
+    },
+    {
+      "start": 274.4,
+      "duration": 5.4,
+      "text": "This was known as a transmission electron microscope or TEM.",
+      "en": "This was known as a transmission electron microscope or TEM.",
+      "zh": ""
+    },
+    {
+      "start": 279.8,
+      "duration": 3.28,
+      "text": "Now, early versions of the microscope barely magnified at all.",
+      "en": "Now, early versions of the microscope barely magnified at all.",
+      "zh": ""
+    },
+    {
+      "start": 283.08,
+      "duration": 3.6,
+      "text": "In fact, it wasn't even better than an optical microscope.",
+      "en": "In fact, it wasn't even better than an optical microscope.",
+      "zh": ""
+    },
+    {
+      "start": 286.68,
+      "duration": 3.32,
+      "text": "But Ruska was determined.",
+      "en": "But Ruska was determined.",
+      "zh": ""
+    },
+    {
+      "start": 290.0,
+      "duration": 2.32,
+      "text": "Over the next few years, he experimented with",
+      "en": "Over the next few years, he experimented with",
+      "zh": ""
+    },
+    {
+      "start": 292.32,
+      "duration": 4.48,
+      "text": "adding more lenses onto the microscope to create bigger and bigger images.",
+      "en": "adding more lenses onto the microscope to create bigger and bigger images.",
+      "zh": ""
+    },
+    {
+      "start": 296.8,
+      "duration": 6.04,
+      "text": "By the mid-1930s, Ruska had gotten the TEM way past 10,000 times magnification.",
+      "en": "By the mid-1930s, Ruska had gotten the TEM way past 10,000 times magnification.",
+      "zh": ""
+    },
+    {
+      "start": 302.84,
+      "duration": 3.12,
+      "text": "It could produce close-ups of insects, bacteria,",
+      "en": "It could produce close-ups of insects, bacteria,",
+      "zh": ""
+    },
+    {
+      "start": 305.96,
+      "duration": 5.88,
+      "text": "and even viruses at a level far surpassing the optical microscope.",
+      "en": "and even viruses at a level far surpassing the optical microscope.",
+      "zh": ""
+    },
+    {
+      "start": 311.84,
+      "duration": 5.01,
+      "text": "But right as Ruska's TEM was taking off, a German physicist named Otto Scherzer",
+      "en": "But right as Ruska's TEM was taking off, a German physicist named Otto Scherzer",
+      "zh": ""
+    },
+    {
+      "start": 316.85,
+      "duration": 6.51,
+      "text": "published a paper claiming that the microscope was about to hit a brick wall.",
+      "en": "published a paper claiming that the microscope was about to hit a brick wall.",
+      "zh": ""
+    },
+    {
+      "start": 323.36,
+      "duration": 6.28,
+      "text": "There was a flaw in the electromagnetic lens, he wrote, that was completely unavoidable.",
+      "en": "There was a flaw in the electromagnetic lens, he wrote, that was completely unavoidable.",
+      "zh": ""
+    },
+    {
+      "start": 330.76,
+      "duration": 2.76,
+      "text": "For an electron to make it to the focus of the lens,",
+      "en": "For an electron to make it to the focus of the lens,",
+      "zh": ""
+    },
+    {
+      "start": 333.52,
+      "duration": 2.88,
+      "text": "it needs to be deflected by a specific amount.",
+      "en": "it needs to be deflected by a specific amount.",
+      "zh": ""
+    },
+    {
+      "start": 336.4,
+      "duration": 5.84,
+      "text": "If you simplify its trajectory, you can define that ideal deflection with this angle theta.",
+      "en": "If you simplify its trajectory, you can define that ideal deflection with this angle theta.",
+      "zh": ""
+    },
+    {
+      "start": 342.24,
+      "duration": 2.12,
+      "text": "This angle depends on the horizontal distance",
+      "en": "This angle depends on the horizontal distance",
+      "zh": ""
+    },
+    {
+      "start": 344.36,
+      "duration": 5.17,
+      "text": "of the electron from the optical axis, and how far down the axis the focus is,",
+      "en": "of the electron from the optical axis, and how far down the axis the focus is,",
+      "zh": ""
+    },
+    {
+      "start": 349.53,
+      "duration": 1.56,
+      "text": "also known as the focal length.",
+      "en": "also known as the focal length.",
+      "zh": ""
+    },
+    {
+      "start": 351.09,
+      "duration": 3.71,
+      "text": "The shorter the focal length, the stronger the magnification.",
+      "en": "The shorter the focal length, the stronger the magnification.",
+      "zh": ""
+    },
+    {
+      "start": 354.8,
+      "duration": 3.64,
+      "text": "If you graph this angle as a function of distance to the optical axis,",
+      "en": "If you graph this angle as a function of distance to the optical axis,",
+      "zh": ""
+    },
+    {
+      "start": 358.44,
+      "duration": 3.48,
+      "text": "you'll see that it can be approximated as linear.",
+      "en": "you'll see that it can be approximated as linear.",
+      "zh": ""
+    },
+    {
+      "start": 361.92,
+      "duration": 3.48,
+      "text": "The problem is that the magnetic field doesn't scale linearly.",
+      "en": "The problem is that the magnetic field doesn't scale linearly.",
+      "zh": ""
+    },
+    {
+      "start": 365.4,
+      "duration": 3.2,
+      "text": "It's much stronger near the edges of the magnet.",
+      "en": "It's much stronger near the edges of the magnet.",
+      "zh": ""
+    },
+    {
+      "start": 368.6,
+      "duration": 3.44,
+      "text": "So if you plot the curve for the actual deflection of the electrons,",
+      "en": "So if you plot the curve for the actual deflection of the electrons,",
+      "zh": ""
+    },
+    {
+      "start": 372.04,
+      "duration": 4.0,
+      "text": "you'll see that the magnetic field overdeflects the electrons further out.",
+      "en": "you'll see that the magnetic field overdeflects the electrons further out.",
+      "zh": ""
+    },
+    {
+      "start": 376.04,
+      "duration": 1.88,
+      "text": "Their angles are bigger than they should be,",
+      "en": "Their angles are bigger than they should be,",
+      "zh": ""
+    },
+    {
+      "start": 377.92,
+      "duration": 3.08,
+      "text": "so they end up focusing before the rays in the middle.",
+      "en": "so they end up focusing before the rays in the middle.",
+      "zh": ""
+    },
+    {
+      "start": 381.0,
+      "duration": 2.88,
+      "text": "And as a result, the focus is spread across the",
+      "en": "And as a result, the focus is spread across the",
+      "zh": ""
+    },
+    {
+      "start": 383.88,
+      "duration": 4.12,
+      "text": "optical axis instead of being contained in a single point.",
+      "en": "optical axis instead of being contained in a single point.",
+      "zh": ""
+    },
+    {
+      "start": 388.0,
+      "duration": 5.76,
+      "text": "The blur starts out around the edges of the image, but it gets worse the higher the magnification.",
+      "en": "The blur starts out around the edges of the image, but it gets worse the higher the magnification.",
+      "zh": ""
+    },
+    {
+      "start": 393.76,
+      "duration": 6.72,
+      "text": "This is called spherical aberration, and it distorts every radially symmetric magnetic lens.",
+      "en": "This is called spherical aberration, and it distorts every radially symmetric magnetic lens.",
+      "zh": ""
+    },
+    {
+      "start": 400.48,
+      "duration": 3.56,
+      "text": "In fact, it doesn't just affect magnetic lenses.",
+      "en": "In fact, it doesn't just affect magnetic lenses.",
+      "zh": ""
+    },
+    {
+      "start": 404.04,
+      "duration": 6.92,
+      "text": "Every spherical lens, from a camera to a telescope to a magnifying glass also suffers from it.",
+      "en": "Every spherical lens, from a camera to a telescope to a magnifying glass also suffers from it.",
+      "zh": ""
+    },
+    {
+      "start": 410.96,
+      "duration": 4.84,
+      "text": "But there is a surprisingly simple way to minimize spherical aberration. Just add",
+      "en": "But there is a surprisingly simple way to minimize spherical aberration. Just add",
+      "zh": ""
+    },
+    {
+      "start": 415.8,
+      "duration": 4.04,
+      "text": "a second lens, one that diverges light instead of converging it.",
+      "en": "a second lens, one that diverges light instead of converging it.",
+      "zh": ""
+    },
+    {
+      "start": 420.72,
+      "duration": 3.52,
+      "text": "Now, a diverging lens also suffers from spherical aberration.",
+      "en": "Now, a diverging lens also suffers from spherical aberration.",
+      "zh": ""
+    },
+    {
+      "start": 424.24,
+      "duration": 4.88,
+      "text": "But if it has the same amount of aberration as your converging lens just in reverse,",
+      "en": "But if it has the same amount of aberration as your converging lens just in reverse,",
+      "zh": ""
+    },
+    {
+      "start": 429.12,
+      "duration": 3.84,
+      "text": "you can stack the two to essentially cancel out their effects.",
+      "en": "you can stack the two to essentially cancel out their effects.",
+      "zh": ""
+    },
+    {
+      "start": 432.96,
+      "duration": 3.36,
+      "text": "And that removes the aberrations almost entirely.",
+      "en": "And that removes the aberrations almost entirely.",
+      "zh": ""
+    },
+    {
+      "start": 436.32,
+      "duration": 2.32,
+      "text": "Almost all modern lens systems in cameras",
+      "en": "Almost all modern lens systems in cameras",
+      "zh": ""
+    },
+    {
+      "start": 438.64,
+      "duration": 4.04,
+      "text": "and microscopes use some sort of correcting divergent lens.",
+      "en": "and microscopes use some sort of correcting divergent lens.",
+      "zh": ""
+    },
+    {
+      "start": 442.68,
+      "duration": 4.08,
+      "text": "So you might imagine that the TEM simply needs its own version of a",
+      "en": "So you might imagine that the TEM simply needs its own version of a",
+      "zh": ""
+    },
+    {
+      "start": 446.76,
+      "duration": 3.16,
+      "text": "diverging spherical lens to magnify further.",
+      "en": "diverging spherical lens to magnify further.",
+      "zh": ""
+    },
+    {
+      "start": 449.92,
+      "duration": 3.76,
+      "text": "But with magnets, this is physically impossible.",
+      "en": "But with magnets, this is physically impossible.",
+      "zh": ""
+    },
+    {
+      "start": 453.68,
+      "duration": 5.56,
+      "text": "Every magnet has two poles, a North and a South. It's impossible to just have one.",
+      "en": "Every magnet has two poles, a North and a South. It's impossible to just have one.",
+      "zh": ""
+    },
+    {
+      "start": 459.24,
+      "duration": 1.88,
+      "text": "Even if you split a magnet down the middle,",
+      "en": "Even if you split a magnet down the middle,",
+      "zh": ""
+    },
+    {
+      "start": 461.12,
+      "duration": 4.12,
+      "text": "it creates two smaller magnets, both with a North and South.",
+      "en": "it creates two smaller magnets, both with a North and South.",
+      "zh": ""
+    },
+    {
+      "start": 465.24,
+      "duration": 5.6,
+      "text": "And all magnetic field lines have to start at one pole and end at the other, forming a closed loop.",
+      "en": "And all magnetic field lines have to start at one pole and end at the other, forming a closed loop.",
+      "zh": ""
+    },
+    {
+      "start": 470.84,
+      "duration": 3.52,
+      "text": "It's a direct result of the second Maxwell equation because the field",
+      "en": "It's a direct result of the second Maxwell equation because the field",
+      "zh": ""
+    },
+    {
+      "start": 474.36,
+      "duration": 4.76,
+      "text": "that you create has field lines that start and end at the same magnet.",
+      "en": "that you create has field lines that start and end at the same magnet.",
+      "zh": ""
+    },
+    {
+      "start": 479.12,
+      "duration": 4.0,
+      "text": "So the electrons will always cross through two lines.",
+      "en": "So the electrons will always cross through two lines.",
+      "zh": ""
+    },
+    {
+      "start": 483.12,
+      "duration": 5.04,
+      "text": "The first time it passes through, by the Lorentz force, it's brought into the spiraling motion.",
+      "en": "The first time it passes through, by the Lorentz force, it's brought into the spiraling motion.",
+      "zh": ""
+    },
+    {
+      "start": 488.16,
+      "duration": 3.2,
+      "text": "And then the second time from that spiraling motion,",
+      "en": "And then the second time from that spiraling motion,",
+      "zh": ""
+    },
+    {
+      "start": 491.36,
+      "duration": 5.16,
+      "text": "which has then a slightly different direction, it's pushed towards the axis.",
+      "en": "which has then a slightly different direction, it's pushed towards the axis.",
+      "zh": ""
+    },
+    {
+      "start": 496.52,
+      "duration": 7.72,
+      "text": "That's why all electromagnetic lenses by default will converge that beam, and never diverge it.",
+      "en": "That's why all electromagnetic lenses by default will converge that beam, and never diverge it.",
+      "zh": ""
+    },
+    {
+      "start": 504.24,
+      "duration": 5.2,
+      "text": "Even if you shot electrons in from the other side of the lens, they would still get focused.",
+      "en": "Even if you shot electrons in from the other side of the lens, they would still get focused.",
+      "zh": ""
+    },
+    {
+      "start": 510.08,
+      "duration": 5.6,
+      "text": "This is what Otto Scherzer's paper proved in 1936, stopping progress on the TEM.",
+      "en": "This is what Otto Scherzer's paper proved in 1936, stopping progress on the TEM.",
+      "zh": ""
+    },
+    {
+      "start": 515.68,
+      "duration": 5.6,
+      "text": "It is impossible to produce a radially symmetric magnetic lens that diverges.",
+      "en": "It is impossible to produce a radially symmetric magnetic lens that diverges.",
+      "zh": ""
+    },
+    {
+      "start": 521.28,
+      "duration": 3.76,
+      "text": "And this was, of course, a big roadblock for the development of electron microscopy,",
+      "en": "And this was, of course, a big roadblock for the development of electron microscopy,",
+      "zh": ""
+    },
+    {
+      "start": 525.04,
+      "duration": 5.16,
+      "text": "because people saw, okay, we can accelerate electrons as much as we want,",
+      "en": "because people saw, okay, we can accelerate electrons as much as we want,",
+      "zh": ""
+    },
+    {
+      "start": 530.2,
+      "duration": 5.16,
+      "text": "the presence of spherical aberration will always be in the way.",
+      "en": "the presence of spherical aberration will always be in the way.",
+      "zh": ""
+    },
+    {
+      "start": 535.36,
+      "duration": 4.08,
+      "text": "Because of this roadblock, advancements in the microscope's resolution slowed significantly.",
+      "en": "Because of this roadblock, advancements in the microscope's resolution slowed significantly.",
+      "zh": ""
+    },
+    {
+      "start": 540.28,
+      "duration": 4.28,
+      "text": "By 1955, another microscope beat the TEM to the punch and",
+      "en": "By 1955, another microscope beat the TEM to the punch and",
+      "zh": ""
+    },
+    {
+      "start": 544.56,
+      "duration": 4.52,
+      "text": "took the first generally accepted image of atoms.",
+      "en": "took the first generally accepted image of atoms.",
+      "zh": ""
+    },
+    {
+      "start": 549.08,
+      "duration": 2.2,
+      "text": "This was called the field ion microscope,",
+      "en": "This was called the field ion microscope,",
+      "zh": ""
+    },
+    {
+      "start": 551.28,
+      "duration": 5.24,
+      "text": "and it worked by shooting helium or neon atoms at an atomically sharp needle tip.",
+      "en": "and it worked by shooting helium or neon atoms at an atomically sharp needle tip.",
+      "zh": ""
+    },
+    {
+      "start": 556.52,
+      "duration": 4.24,
+      "text": "The tip was positively charged. So when the gas atoms hit the needle,",
+      "en": "The tip was positively charged. So when the gas atoms hit the needle,",
+      "zh": ""
+    },
+    {
+      "start": 560.76,
+      "duration": 4.12,
+      "text": "they got ionized and were ejected off perpendicular to the surface.",
+      "en": "they got ionized and were ejected off perpendicular to the surface.",
+      "zh": ""
+    },
+    {
+      "start": 564.88,
+      "duration": 4.84,
+      "text": "And that could form an impression of the atomic structure of the tip.",
+      "en": "And that could form an impression of the atomic structure of the tip.",
+      "zh": ""
+    },
+    {
+      "start": 569.72,
+      "duration": 2.2,
+      "text": "But this method was limited.",
+      "en": "But this method was limited.",
+      "zh": ""
+    },
+    {
+      "start": 571.92,
+      "duration": 4.28,
+      "text": "You could only get a sense of the atomic structure of the very tip of the needle.",
+      "en": "You could only get a sense of the atomic structure of the very tip of the needle.",
+      "zh": ""
+    },
+    {
+      "start": 576.2,
+      "duration": 3.44,
+      "text": "And the images weren't all that impressive.",
+      "en": "And the images weren't all that impressive.",
+      "zh": ""
+    },
+    {
+      "start": 579.64,
+      "duration": 2.16,
+      "text": "Luckily, Ruska's electron microscope",
+      "en": "Luckily, Ruska's electron microscope",
+      "zh": ""
+    },
+    {
+      "start": 581.8,
+      "duration": 5.12,
+      "text": "wouldn't stay stuck in the realm of insects and bacteria forever.",
+      "en": "wouldn't stay stuck in the realm of insects and bacteria forever.",
+      "zh": ""
+    },
+    {
+      "start": 586.92,
+      "duration": 3.76,
+      "text": "Now, you might not be an insect getting bombarded with relativistic electrons,",
+      "en": "Now, you might not be an insect getting bombarded with relativistic electrons,",
+      "zh": ""
+    },
+    {
+      "start": 590.68,
+      "duration": 3.0,
+      "text": "but it can sometimes feel like it when you're getting",
+      "en": "but it can sometimes feel like it when you're getting",
+      "zh": ""
+    },
+    {
+      "start": 593.68,
+      "duration": 3.12,
+      "text": "bombarded with spam calls and targeted ads.",
+      "en": "bombarded with spam calls and targeted ads.",
+      "zh": ""
+    },
+    {
+      "start": 596.8,
+      "duration": 2.72,
+      "text": "It's a real problem when we're researching for our videos.",
+      "en": "It's a real problem when we're researching for our videos.",
+      "zh": ""
+    },
+    {
+      "start": 599.52,
+      "duration": 2.24,
+      "text": "I was reading up on lenses and optics,",
+      "en": "I was reading up on lenses and optics,",
+      "zh": ""
+    },
+    {
+      "start": 601.76,
+      "duration": 5.08,
+      "text": "and a few days later I started getting targeted ads for glasses and eye surgery.",
+      "en": "and a few days later I started getting targeted ads for glasses and eye surgery.",
+      "zh": ""
+    },
+    {
+      "start": 606.84,
+      "duration": 3.48,
+      "text": "So someone out there is probably selling my browsing data.",
+      "en": "So someone out there is probably selling my browsing data.",
+      "zh": ""
+    },
+    {
+      "start": 610.32,
+      "duration": 3.08,
+      "text": "But this is where today's sponsor, Incogni, comes in.",
+      "en": "But this is where today's sponsor, Incogni, comes in.",
+      "zh": ""
+    },
+    {
+      "start": 613.4,
+      "duration": 3.12,
+      "text": "With your permission, Incogni will fight the data",
+      "en": "With your permission, Incogni will fight the data",
+      "zh": ""
+    },
+    {
+      "start": 616.52,
+      "duration": 4.12,
+      "text": "brokers on your behalf by finding out who has your data, which laws apply,",
+      "en": "brokers on your behalf by finding out who has your data, which laws apply,",
+      "zh": ""
+    },
+    {
+      "start": 620.64,
+      "duration": 4.88,
+      "text": "and then they request, with the appropriate legal language, your information be deleted.",
+      "en": "and then they request, with the appropriate legal language, your information be deleted.",
+      "zh": ""
+    },
+    {
+      "start": 625.52,
+      "duration": 4.2,
+      "text": "You just sign up and they'll give you a list of all the companies that have your information,",
+      "en": "You just sign up and they'll give you a list of all the companies that have your information,",
+      "zh": ""
+    },
+    {
+      "start": 629.72,
+      "duration": 3.28,
+      "text": "how severe each claim is, and the status of all your requests.",
+      "en": "how severe each claim is, and the status of all your requests.",
+      "zh": ""
+    },
+    {
+      "start": 633.0,
+      "duration": 4.52,
+      "text": "Now, I signed up last April, and since then they filed 317 requests for me,",
+      "en": "Now, I signed up last April, and since then they filed 317 requests for me,",
+      "zh": ""
+    },
+    {
+      "start": 637.52,
+      "duration": 4.8,
+      "text": "281 of which have been completed, saving me over 210 hours of work.",
+      "en": "281 of which have been completed, saving me over 210 hours of work.",
+      "zh": ""
+    },
+    {
+      "start": 642.32,
+      "duration": 3.32,
+      "text": "And now I'm no longer getting ads for glasses I don't need.",
+      "en": "And now I'm no longer getting ads for glasses I don't need.",
+      "zh": ""
+    },
+    {
+      "start": 645.64,
+      "duration": 5.26,
+      "text": "So to try it Incogni and fight against the data brokers, visit Incogni.com/Veritasium.",
+      "en": "So to try it Incogni and fight against the data brokers, visit Incogni.com/Veritasium.",
+      "zh": ""
+    },
+    {
+      "start": 650.9,
+      "duration": 3.62,
+      "text": "You can also click the link in the description or scan this QR code.",
+      "en": "You can also click the link in the description or scan this QR code.",
+      "zh": ""
+    },
+    {
+      "start": 654.52,
+      "duration": 2.64,
+      "text": "Make sure to use the code Veritasium to get 60%",
+      "en": "Make sure to use the code Veritasium to get 60%",
+      "zh": ""
+    },
+    {
+      "start": 657.16,
+      "duration": 3.52,
+      "text": "off your annual subscription to take control of your data today.",
+      "en": "off your annual subscription to take control of your data today.",
+      "zh": ""
+    },
+    {
+      "start": 660.68,
+      "duration": 2.4,
+      "text": "That's Incogni.com/Veritasium.",
+      "en": "That's Incogni.com/Veritasium.",
+      "zh": ""
+    },
+    {
+      "start": 663.08,
+      "duration": 3.12,
+      "text": "And now back to the electron microscope.",
+      "en": "And now back to the electron microscope.",
+      "zh": ""
+    },
+    {
+      "start": 666.2,
+      "duration": 5.01,
+      "text": "Despite Scherzer's aberration limit work on the transmission electron microscope continued.",
+      "en": "Despite Scherzer's aberration limit work on the transmission electron microscope continued.",
+      "zh": ""
+    },
+    {
+      "start": 671.21,
+      "duration": 1.93,
+      "text": "During the next four decades.",
+      "en": "During the next four decades.",
+      "zh": ""
+    },
+    {
+      "start": 673.14,
+      "duration": 3.86,
+      "text": "People tried boosting the resolution with clever workarounds, and perhaps none more",
+      "en": "People tried boosting the resolution with clever workarounds, and perhaps none more",
+      "zh": ""
+    },
+    {
+      "start": 677.0,
+      "duration": 4.0,
+      "text": "so than British-American physicist Albert Crewe.",
+      "en": "so than British-American physicist Albert Crewe.",
+      "zh": ""
+    },
+    {
+      "start": 681.0,
+      "duration": 2.48,
+      "text": "His idea was to replace the tungsten filament,",
+      "en": "His idea was to replace the tungsten filament,",
+      "zh": ""
+    },
+    {
+      "start": 683.48,
+      "duration": 4.36,
+      "text": "which fired off electrons at random, with a more directed source.",
+      "en": "which fired off electrons at random, with a more directed source.",
+      "zh": ""
+    },
+    {
+      "start": 687.84,
+      "duration": 2.36,
+      "text": "So instead of boiling electrons off the surface,",
+      "en": "So instead of boiling electrons off the surface,",
+      "zh": ""
+    },
+    {
+      "start": 690.2,
+      "duration": 3.92,
+      "text": "he tried pulling them off with a stronger electric field.",
+      "en": "he tried pulling them off with a stronger electric field.",
+      "zh": ""
+    },
+    {
+      "start": 694.12,
+      "duration": 2.92,
+      "text": "And, by sharpening the tungsten into a fine tip,",
+      "en": "And, by sharpening the tungsten into a fine tip,",
+      "zh": ""
+    },
+    {
+      "start": 697.04,
+      "duration": 6.32,
+      "text": "he was able to create a narrow beam which was over a thousand times brighter than before.",
+      "en": "he was able to create a narrow beam which was over a thousand times brighter than before.",
+      "zh": ""
+    },
+    {
+      "start": 703.36,
+      "duration": 5.28,
+      "text": "He paired his new narrow beam with an unlikely technology.",
+      "en": "He paired his new narrow beam with an unlikely technology.",
+      "zh": ""
+    },
+    {
+      "start": 708.64,
+      "duration": 2.68,
+      "text": "The cathode ray tube TV.",
+      "en": "The cathode ray tube TV.",
+      "zh": ""
+    },
+    {
+      "start": 711.32,
+      "duration": 3.68,
+      "text": "These TVs worked by scanning an electron beam across a screen. The",
+      "en": "These TVs worked by scanning an electron beam across a screen. The",
+      "zh": ""
+    },
+    {
+      "start": 715.0,
+      "duration": 3.76,
+      "text": "screen was coated in a phosphor that produced light when hit by electrons.",
+      "en": "screen was coated in a phosphor that produced light when hit by electrons.",
+      "zh": ""
+    },
+    {
+      "start": 718.76,
+      "duration": 2.4,
+      "text": "And by varying the intensity of the electron beam,",
+      "en": "And by varying the intensity of the electron beam,",
+      "zh": ""
+    },
+    {
+      "start": 721.16,
+      "duration": 6.04,
+      "text": "you could vary the brightness of the screen, giving you a black-and-white image.",
+      "en": "you could vary the brightness of the screen, giving you a black-and-white image.",
+      "zh": ""
+    },
+    {
+      "start": 727.2,
+      "duration": 3.72,
+      "text": "Crewe was inspired to design a similar electron beam for the TEM",
+      "en": "Crewe was inspired to design a similar electron beam for the TEM",
+      "zh": ""
+    },
+    {
+      "start": 730.92,
+      "duration": 3.04,
+      "text": "that would scan across the nanoscopic sample.",
+      "en": "that would scan across the nanoscopic sample.",
+      "zh": ""
+    },
+    {
+      "start": 733.96,
+      "duration": 3.68,
+      "text": "So instead of creating an imprint of the whole sample at once,",
+      "en": "So instead of creating an imprint of the whole sample at once,",
+      "zh": ""
+    },
+    {
+      "start": 737.64,
+      "duration": 5.24,
+      "text": "Crewe's electron beam made smaller imprints, mapping the sample out bit by bit.",
+      "en": "Crewe's electron beam made smaller imprints, mapping the sample out bit by bit.",
+      "zh": ""
+    },
+    {
+      "start": 742.88,
+      "duration": 4.16,
+      "text": "This wasn't the first time someone had tried to make a scanning version of the TEM.",
+      "en": "This wasn't the first time someone had tried to make a scanning version of the TEM.",
+      "zh": ""
+    },
+    {
+      "start": 747.04,
+      "duration": 5.96,
+      "text": "German researcher Manfred von Ardenne built an early prototype in the 1930s,",
+      "en": "German researcher Manfred von Ardenne built an early prototype in the 1930s,",
+      "zh": ""
+    },
+    {
+      "start": 753.0,
+      "duration": 3.12,
+      "text": "but it was destroyed during WWII.",
+      "en": "but it was destroyed during WWII.",
+      "zh": ""
+    },
+    {
+      "start": 756.12,
+      "duration": 4.16,
+      "text": "When Crewe revived Ardenne's design, he made several drastic improvements,",
+      "en": "When Crewe revived Ardenne's design, he made several drastic improvements,",
+      "zh": ""
+    },
+    {
+      "start": 760.28,
+      "duration": 2.92,
+      "text": "and by 1970 he had this.",
+      "en": "and by 1970 he had this.",
+      "zh": ""
+    },
+    {
+      "start": 763.2,
+      "duration": 6.84,
+      "text": "The first image of single atoms taken with the electron microscope.",
+      "en": "The first image of single atoms taken with the electron microscope.",
+      "zh": ""
+    },
+    {
+      "start": 770.04,
+      "duration": 6.04,
+      "text": "Researchers quickly jumped to employ his tech, producing countless images of atoms.",
+      "en": "Researchers quickly jumped to employ his tech, producing countless images of atoms.",
+      "zh": ""
+    },
+    {
+      "start": 776.08,
+      "duration": 4.24,
+      "text": "After nearly a century of improvements from Ruska, Crewe, and many others,",
+      "en": "After nearly a century of improvements from Ruska, Crewe, and many others,",
+      "zh": ""
+    },
+    {
+      "start": 780.32,
+      "duration": 4.96,
+      "text": "the magnification upgrades on the TEM had reached their peak.",
+      "en": "the magnification upgrades on the TEM had reached their peak.",
+      "zh": ""
+    },
+    {
+      "start": 785.28,
+      "duration": 3.0,
+      "text": "But Scherzer's problem persisted.",
+      "en": "But Scherzer's problem persisted.",
+      "zh": ""
+    },
+    {
+      "start": 788.28,
+      "duration": 4.32,
+      "text": "Spherical aberration set a hard limit on how small you could see.",
+      "en": "Spherical aberration set a hard limit on how small you could see.",
+      "zh": ""
+    },
+    {
+      "start": 792.6,
+      "duration": 5.12,
+      "text": "Even Crewe himself gave up on trying to get around it after over ten years of work.",
+      "en": "Even Crewe himself gave up on trying to get around it after over ten years of work.",
+      "zh": ""
+    },
+    {
+      "start": 797.72,
+      "duration": 4.56,
+      "text": "\"Unfortunately, we could never make it work. After many heartbreaking attempts,",
+      "en": "\"Unfortunately, we could never make it work. After many heartbreaking attempts,",
+      "zh": ""
+    },
+    {
+      "start": 802.28,
+      "duration": 2.72,
+      "text": "we were forced to admit defeat.\"",
+      "en": "we were forced to admit defeat.\"",
+      "zh": ""
+    },
+    {
+      "start": 805.0,
+      "duration": 4.6,
+      "text": "Around this time, other microscopes emerged that could also image atoms.",
+      "en": "Around this time, other microscopes emerged that could also image atoms.",
+      "zh": ""
+    },
+    {
+      "start": 809.6,
+      "duration": 5.32,
+      "text": "These probe microscopes work by gliding an incredibly small stylus across the sample.",
+      "en": "These probe microscopes work by gliding an incredibly small stylus across the sample.",
+      "zh": ""
+    },
+    {
+      "start": 814.92,
+      "duration": 2.48,
+      "text": "The stylus detects variations in quantum effects",
+      "en": "The stylus detects variations in quantum effects",
+      "zh": ""
+    },
+    {
+      "start": 817.4,
+      "duration": 4.32,
+      "text": "or nanoscale forces to then map the surface structure of the sample.",
+      "en": "or nanoscale forces to then map the surface structure of the sample.",
+      "zh": ""
+    },
+    {
+      "start": 821.72,
+      "duration": 3.76,
+      "text": "These were easier to build, and because they didn't use any lenses,",
+      "en": "These were easier to build, and because they didn't use any lenses,",
+      "zh": ""
+    },
+    {
+      "start": 825.48,
+      "duration": 2.68,
+      "text": "they weren't limited by spherical aberration.",
+      "en": "they weren't limited by spherical aberration.",
+      "zh": ""
+    },
+    {
+      "start": 828.16,
+      "duration": 2.92,
+      "text": "Their images were even 3D.",
+      "en": "Their images were even 3D.",
+      "zh": ""
+    },
+    {
+      "start": 831.08,
+      "duration": 3.16,
+      "text": "But the looming issue was that these probes weren't really",
+      "en": "But the looming issue was that these probes weren't really",
+      "zh": ""
+    },
+    {
+      "start": 834.24,
+      "duration": 3.92,
+      "text": "seeing atoms. It was more like feeling atoms.",
+      "en": "seeing atoms. It was more like feeling atoms.",
+      "zh": ""
+    },
+    {
+      "start": 838.16,
+      "duration": 3.72,
+      "text": "Throughout the 80s and 90s, this was all we had.",
+      "en": "Throughout the 80s and 90s, this was all we had.",
+      "zh": ""
+    },
+    {
+      "start": 841.88,
+      "duration": 2.56,
+      "text": "But what if there was another way?",
+      "en": "But what if there was another way?",
+      "zh": ""
+    },
+    {
+      "start": 844.44,
+      "duration": 4.96,
+      "text": "Scherzer's theorem proof that a diverging, radially symmetric lens isn't possible.",
+      "en": "Scherzer's theorem proof that a diverging, radially symmetric lens isn't possible.",
+      "zh": ""
+    },
+    {
+      "start": 849.4,
+      "duration": 5.0,
+      "text": "But if you're willing to give up on that symmetry, well, the theorem no longer applies.",
+      "en": "But if you're willing to give up on that symmetry, well, the theorem no longer applies.",
+      "zh": ""
+    },
+    {
+      "start": 854.4,
+      "duration": 4.0,
+      "text": "The problem is that radial symmetry is arguably the most important property of",
+      "en": "The problem is that radial symmetry is arguably the most important property of",
+      "zh": ""
+    },
+    {
+      "start": 858.4,
+      "duration": 7.88,
+      "text": "any lens, because if you break the symmetry, you also break the image.",
+      "en": "any lens, because if you break the symmetry, you also break the image.",
+      "zh": ""
+    },
+    {
+      "start": 866.28,
+      "duration": 2.76,
+      "text": "But three maverick scientists thought there might be a way.",
+      "en": "But three maverick scientists thought there might be a way.",
+      "zh": ""
+    },
+    {
+      "start": 869.8,
+      "duration": 3.0,
+      "text": "Knut Urban, Max Haider, and Harold Rose were known",
+      "en": "Knut Urban, Max Haider, and Harold Rose were known",
+      "zh": ""
+    },
+    {
+      "start": 872.8,
+      "duration": 3.24,
+      "text": "in the electron microscope community as troublemakers,",
+      "en": "in the electron microscope community as troublemakers,",
+      "zh": ""
+    },
+    {
+      "start": 876.04,
+      "duration": 4.4,
+      "text": "and for years barely anyone had been interested in their research or,",
+      "en": "and for years barely anyone had been interested in their research or,",
+      "zh": ""
+    },
+    {
+      "start": 880.44,
+      "duration": 2.64,
+      "text": "more importantly, in funding it.",
+      "en": "more importantly, in funding it.",
+      "zh": ""
+    },
+    {
+      "start": 883.08,
+      "duration": 3.88,
+      "text": "And for a good reason too. Their idea was kind of crazy.",
+      "en": "And for a good reason too. Their idea was kind of crazy.",
+      "zh": ""
+    },
+    {
+      "start": 886.96,
+      "duration": 4.68,
+      "text": "I mean, they purposely wanted to break the image using a lens that wasn't symmetric.",
+      "en": "I mean, they purposely wanted to break the image using a lens that wasn't symmetric.",
+      "zh": ""
+    },
+    {
+      "start": 891.64,
+      "duration": 2.56,
+      "text": "Their hope was that there would be a small part",
+      "en": "Their hope was that there would be a small part",
+      "zh": ""
+    },
+    {
+      "start": 894.2,
+      "duration": 3.76,
+      "text": "of this distorted image that would be slightly diverging.",
+      "en": "of this distorted image that would be slightly diverging.",
+      "zh": ""
+    },
+    {
+      "start": 897.96,
+      "duration": 3.8,
+      "text": "And maybe, just maybe, this small part could correct the",
+      "en": "And maybe, just maybe, this small part could correct the",
+      "zh": ""
+    },
+    {
+      "start": 901.76,
+      "duration": 2.96,
+      "text": "spherical aberration of the original lens.",
+      "en": "spherical aberration of the original lens.",
+      "zh": ""
+    },
+    {
+      "start": 904.72,
+      "duration": 3.37,
+      "text": "So they got to work",
+      "en": "So they got to work",
+      "zh": ""
+    },
+    {
+      "start": 908.09,
+      "duration": 4.51,
+      "text": "To distort the image, they used a massive nest of electromagnets with six,",
+      "en": "To distort the image, they used a massive nest of electromagnets with six,",
+      "zh": ""
+    },
+    {
+      "start": 912.6,
+      "duration": 5.4,
+      "text": "eight, or even ten separate coils and magnets with bumpy magnetic fields.",
+      "en": "eight, or even ten separate coils and magnets with bumpy magnetic fields.",
+      "zh": ""
+    },
+    {
+      "start": 918.0,
+      "duration": 4.52,
+      "text": "These were known as the hexapole, octopole, and decapole magnets.",
+      "en": "These were known as the hexapole, octopole, and decapole magnets.",
+      "zh": ""
+    },
+    {
+      "start": 922.52,
+      "duration": 2.92,
+      "text": "So as the electron beam passed through a hexapole,",
+      "en": "So as the electron beam passed through a hexapole,",
+      "zh": ""
+    },
+    {
+      "start": 925.44,
+      "duration": 5.56,
+      "text": "it would twist and squeeze the flat 2D image into a triangular saddle.",
+      "en": "it would twist and squeeze the flat 2D image into a triangular saddle.",
+      "zh": ""
+    },
+    {
+      "start": 931.0,
+      "duration": 4.4,
+      "text": "And the circumference of the original beam would be pushed into the three corners,",
+      "en": "And the circumference of the original beam would be pushed into the three corners,",
+      "zh": ""
+    },
+    {
+      "start": 935.4,
+      "duration": 3.32,
+      "text": "with the rest of the interior stretched out.",
+      "en": "with the rest of the interior stretched out.",
+      "zh": ""
+    },
+    {
+      "start": 938.72,
+      "duration": 3.72,
+      "text": "But now the middle of the image would have a slight concave bow,",
+      "en": "But now the middle of the image would have a slight concave bow,",
+      "zh": ""
+    },
+    {
+      "start": 942.44,
+      "duration": 2.92,
+      "text": "giving the effect of a small divergence.",
+      "en": "giving the effect of a small divergence.",
+      "zh": ""
+    },
+    {
+      "start": 945.36,
+      "duration": 4.56,
+      "text": "Then Rose, Haider, and Urban forced the beam through a second hexapole , one that worked",
+      "en": "Then Rose, Haider, and Urban forced the beam through a second hexapole , one that worked",
+      "zh": ""
+    },
+    {
+      "start": 949.92,
+      "duration": 5.84,
+      "text": "the opposite way, so it would unbend the distorted image back into a circular shape.",
+      "en": "the opposite way, so it would unbend the distorted image back into a circular shape.",
+      "zh": ""
+    },
+    {
+      "start": 955.76,
+      "duration": 3.48,
+      "text": "But now they, calculated this new image might have the remnants",
+      "en": "But now they, calculated this new image might have the remnants",
+      "zh": ""
+    },
+    {
+      "start": 959.24,
+      "duration": 6.12,
+      "text": "of that tiny divergence still in its center, with spherical aberration pointing in the opposite way.",
+      "en": "of that tiny divergence still in its center, with spherical aberration pointing in the opposite way.",
+      "zh": ""
+    },
+    {
+      "start": 965.36,
+      "duration": 4.6,
+      "text": "So if they got their maths and engineering exactly right, they could feed an image with",
+      "en": "So if they got their maths and engineering exactly right, they could feed an image with",
+      "zh": ""
+    },
+    {
+      "start": 969.96,
+      "duration": 6.0,
+      "text": "spherical aberration through these two lenses to almost completely counteract the effect.",
+      "en": "spherical aberration through these two lenses to almost completely counteract the effect.",
+      "zh": ""
+    },
+    {
+      "start": 975.96,
+      "duration": 3.96,
+      "text": "And I imagine a lot of people in the field thought it was a crazy idea when it was proposed, right?",
+      "en": "And I imagine a lot of people in the field thought it was a crazy idea when it was proposed, right?",
+      "zh": ""
+    },
+    {
+      "start": 979.92,
+      "duration": 5.44,
+      "text": "Not only the concept, but, that this is, like, technically feasible, I believe.",
+      "en": "Not only the concept, but, that this is, like, technically feasible, I believe.",
+      "zh": ""
+    },
+    {
+      "start": 985.36,
+      "duration": 3.56,
+      "text": "It was thought that this is not possible.",
+      "en": "It was thought that this is not possible.",
+      "zh": ""
+    },
+    {
+      "start": 989.72,
+      "duration": 2.8,
+      "text": "By May 1997, the group had just two months of",
+      "en": "By May 1997, the group had just two months of",
+      "zh": ""
+    },
+    {
+      "start": 992.52,
+      "duration": 3.56,
+      "text": "development time left before their last sponsor withdrew their backing.",
+      "en": "development time left before their last sponsor withdrew their backing.",
+      "zh": ""
+    },
+    {
+      "start": 996.08,
+      "duration": 5.16,
+      "text": "And to make matters worse, their latest lens iteration was still just on the drawing board.",
+      "en": "And to make matters worse, their latest lens iteration was still just on the drawing board.",
+      "zh": ""
+    },
+    {
+      "start": 1001.24,
+      "duration": 1.96,
+      "text": "But somehow, by the 23rd of July,",
+      "en": "But somehow, by the 23rd of July,",
+      "zh": ""
+    },
+    {
+      "start": 1003.2,
+      "duration": 4.64,
+      "text": "just a week before their funding ran out, the new lens was ready to test.",
+      "en": "just a week before their funding ran out, the new lens was ready to test.",
+      "zh": ""
+    },
+    {
+      "start": 1007.84,
+      "duration": 2.64,
+      "text": "They gingerly placed it into the microscope,",
+      "en": "They gingerly placed it into the microscope,",
+      "zh": ""
+    },
+    {
+      "start": 1010.48,
+      "duration": 4.36,
+      "text": "but like every time before it, the lens was unstable and failed.",
+      "en": "but like every time before it, the lens was unstable and failed.",
+      "zh": ""
+    },
+    {
+      "start": 1014.84,
+      "duration": 5.48,
+      "text": "So they decided to switch off the equipment for 24 hours to allow the magnets to settle.",
+      "en": "So they decided to switch off the equipment for 24 hours to allow the magnets to settle.",
+      "zh": ""
+    },
+    {
+      "start": 1020.32,
+      "duration": 4.6,
+      "text": "And then at 2 a.m. on the 24th, they turned it on again,",
+      "en": "And then at 2 a.m. on the 24th, they turned it on again,",
+      "zh": ""
+    },
+    {
+      "start": 1024.92,
+      "duration": 5.96,
+      "text": "and almost magically, the picture started to stabilize.",
+      "en": "and almost magically, the picture started to stabilize.",
+      "zh": ""
+    },
+    {
+      "start": 1030.88,
+      "duration": 8.68,
+      "text": "Suddenly, there was no aberration. Only beautiful, clear images of atoms.",
+      "en": "Suddenly, there was no aberration. Only beautiful, clear images of atoms.",
+      "zh": ""
+    },
+    {
+      "start": 1039.56,
+      "duration": 2.64,
+      "text": "After more than 60 years of failed attempts,",
+      "en": "After more than 60 years of failed attempts,",
+      "zh": ""
+    },
+    {
+      "start": 1042.2,
+      "duration": 3.64,
+      "text": "Urban, Rose, and Haider pulled off the seemingly impossible.",
+      "en": "Urban, Rose, and Haider pulled off the seemingly impossible.",
+      "zh": ""
+    },
+    {
+      "start": 1045.84,
+      "duration": 5.88,
+      "text": "With this method, they cut the resolution of the TEM down to only 0.13 nanometers.",
+      "en": "With this method, they cut the resolution of the TEM down to only 0.13 nanometers.",
+      "zh": ""
+    },
+    {
+      "start": 1051.72,
+      "duration": 6.4,
+      "text": "An average TEM image went from looking like this to this.",
+      "en": "An average TEM image went from looking like this to this.",
+      "zh": ""
+    },
+    {
+      "start": 1058.12,
+      "duration": 1.96,
+      "text": "A few months after the group's breakthrough,",
+      "en": "A few months after the group's breakthrough,",
+      "zh": ""
+    },
+    {
+      "start": 1060.08,
+      "duration": 3.84,
+      "text": "Knut Urban attended a microscopy conference to share these results.",
+      "en": "Knut Urban attended a microscopy conference to share these results.",
+      "zh": ""
+    },
+    {
+      "start": 1063.92,
+      "duration": 1.76,
+      "text": "But because of the group's reputation,",
+      "en": "But because of the group's reputation,",
+      "zh": ""
+    },
+    {
+      "start": 1065.68,
+      "duration": 5.16,
+      "text": "he was relegated to a small back room that barely anyone noticed.",
+      "en": "he was relegated to a small back room that barely anyone noticed.",
+      "zh": ""
+    },
+    {
+      "start": 1070.84,
+      "duration": 3.08,
+      "text": "Soon, however, word spread that against all odds,",
+      "en": "Soon, however, word spread that against all odds,",
+      "zh": ""
+    },
+    {
+      "start": 1073.92,
+      "duration": 5.36,
+      "text": "his pictures seemed real. Then a crowd of hundreds formed.",
+      "en": "his pictures seemed real. Then a crowd of hundreds formed.",
+      "zh": ""
+    },
+    {
+      "start": 1079.28,
+      "duration": 10.68,
+      "text": "People were lining up outside, hoping to get a glimpse of their stunningly sharp images.",
+      "en": "People were lining up outside, hoping to get a glimpse of their stunningly sharp images.",
+      "zh": ""
+    },
+    {
+      "start": 1089.96,
+      "duration": 3.12,
+      "text": "So we're going to get a sample holder.",
+      "en": "So we're going to get a sample holder.",
+      "zh": ""
+    },
+    {
+      "start": 1093.08,
+      "duration": 2.64,
+      "text": "Yeah, so we got a sample holder out.",
+      "en": "Yeah, so we got a sample holder out.",
+      "zh": ""
+    },
+    {
+      "start": 1095.72,
+      "duration": 2.56,
+      "text": "We put that under the optical microscope.",
+      "en": "We put that under the optical microscope.",
+      "zh": ""
+    },
+    {
+      "start": 1098.28,
+      "duration": 7.76,
+      "text": "So the sample itself is a small lamella that you can't see without the optical microscope.",
+      "en": "So the sample itself is a small lamella that you can't see without the optical microscope.",
+      "zh": ""
+    },
+    {
+      "start": 1106.04,
+      "duration": 2.72,
+      "text": "Yeah. Have a look through that.",
+      "en": "Yeah. Have a look through that.",
+      "zh": ""
+    },
+    {
+      "start": 1110.4,
+      "duration": 4.44,
+      "text": "Beautiful. On top of the B there's a prong. Yeah. And on the very top",
+      "en": "Beautiful. On top of the B there's a prong. Yeah. And on the very top",
+      "zh": ""
+    },
+    {
+      "start": 1114.84,
+      "duration": 4.0,
+      "text": "of that on the left-hand side, looks like a little bit of dust.",
+      "en": "of that on the left-hand side, looks like a little bit of dust.",
+      "zh": ""
+    },
+    {
+      "start": 1118.84,
+      "duration": 8.56,
+      "text": "That's our actual sample.",
+      "en": "That's our actual sample.",
+      "zh": ""
+    },
+    {
+      "start": 1127.4,
+      "duration": 7.8,
+      "text": "Okay, now I simply go up with the magnification and I do a very few, like, more basic alignments.",
+      "en": "Okay, now I simply go up with the magnification and I do a very few, like, more basic alignments.",
+      "zh": ""
+    },
+    {
+      "start": 1135.2,
+      "duration": 4.32,
+      "text": "In this electron microscope because it's called transmission electron microscope,",
+      "en": "In this electron microscope because it's called transmission electron microscope,",
+      "zh": ""
+    },
+    {
+      "start": 1139.52,
+      "duration": 2.39,
+      "text": "the electrons always transmit the sample.",
+      "en": "the electrons always transmit the sample.",
+      "zh": ""
+    },
+    {
+      "start": 1141.91,
+      "duration": 3.91,
+      "text": "Here we  look through our entire sample at the same time.",
+      "en": "Here we  look through our entire sample at the same time.",
+      "zh": ""
+    },
+    {
+      "start": 1145.82,
+      "duration": 2.21,
+      "text": "And that's why it's so important that we align the sample.",
+      "en": "And that's why it's so important that we align the sample.",
+      "zh": ""
+    },
+    {
+      "start": 1148.06,
+      "duration": 6.15,
+      "text": "If you imagine atoms in a high-symmetry direction are lined up like pearls on a string.",
+      "en": "If you imagine atoms in a high-symmetry direction are lined up like pearls on a string.",
+      "zh": ""
+    },
+    {
+      "start": 1154.21,
+      "duration": 2.59,
+      "text": "When we look down it, well, we can see an image.",
+      "en": "When we look down it, well, we can see an image.",
+      "zh": ""
+    },
+    {
+      "start": 1156.8,
+      "duration": 3.8,
+      "text": "But if we are in, like, some random direction that everything would be just blurred.",
+      "en": "But if we are in, like, some random direction that everything would be just blurred.",
+      "zh": ""
+    },
+    {
+      "start": 1160.6,
+      "duration": 2.8,
+      "text": "So that's why we have to do some tilting in the edge.",
+      "en": "So that's why we have to do some tilting in the edge.",
+      "zh": ""
+    },
+    {
+      "start": 1163.4,
+      "duration": 3.76,
+      "text": "And this is where the actual sample starts — the strontium titanate.",
+      "en": "And this is where the actual sample starts — the strontium titanate.",
+      "zh": ""
+    },
+    {
+      "start": 1167.16,
+      "duration": 5.24,
+      "text": "And this is a thin region where we hope to get atomic resolution.",
+      "en": "And this is a thin region where we hope to get atomic resolution.",
+      "zh": ""
+    },
+    {
+      "start": 1172.4,
+      "duration": 3.16,
+      "text": "So this is 5000 times? Yes",
+      "en": "So this is 5000 times? Yes",
+      "zh": ""
+    },
+    {
+      "start": 1175.56,
+      "duration": 0.64,
+      "text": "Wow.",
+      "en": "Wow.",
+      "zh": ""
+    },
+    {
+      "start": 1176.2,
+      "duration": 6.08,
+      "text": "And we see strontium, titanium. We see oxygen. We see carbon. That's contamination.",
+      "en": "And we see strontium, titanium. We see oxygen. We see carbon. That's contamination.",
+      "zh": ""
+    },
+    {
+      "start": 1182.28,
+      "duration": 4.08,
+      "text": "So most likely what we're looking at is carbon contamination.",
+      "en": "So most likely what we're looking at is carbon contamination.",
+      "zh": ""
+    },
+    {
+      "start": 1186.36,
+      "duration": 3.28,
+      "text": "When you do this focus, what are you really looking for?",
+      "en": "When you do this focus, what are you really looking for?",
+      "zh": ""
+    },
+    {
+      "start": 1189.64,
+      "duration": 8.37,
+      "text": "I look for this edge to become sharp.",
+      "en": "I look for this edge to become sharp.",
+      "zh": ""
+    },
+    {
+      "start": 1198.01,
+      "duration": 1.08,
+      "text": "See atoms.",
+      "en": "See atoms.",
+      "zh": ""
+    },
+    {
+      "start": 1199.09,
+      "duration": 8.59,
+      "text": "What? Just like that. That's wild.",
+      "en": "What? Just like that. That's wild.",
+      "zh": ""
+    },
+    {
+      "start": 1207.68,
+      "duration": 3.49,
+      "text": "Shortly after, the group successfully corrected",
+      "en": "Shortly after, the group successfully corrected",
+      "zh": ""
+    },
+    {
+      "start": 1211.17,
+      "duration": 2.1,
+      "text": "Orndrej Krivanek independently achieved",
+      "en": "Orndrej Krivanek independently achieved",
+      "zh": ""
+    },
+    {
+      "start": 1213.27,
+      "duration": 5.29,
+      "text": "the same for Crewe’s version of the microscope, the scanning TEM.",
+      "en": "the same for Crewe’s version of the microscope, the scanning TEM.",
+      "zh": ""
+    },
+    {
+      "start": 1218.56,
+      "duration": 4.12,
+      "text": "And in 2020, all four were awarded the prestigious Kavli Prize in",
+      "en": "And in 2020, all four were awarded the prestigious Kavli Prize in",
+      "zh": ""
+    },
+    {
+      "start": 1222.68,
+      "duration": 4.84,
+      "text": "Nanoscience for accomplishing what so many others thought impossible.",
+      "en": "Nanoscience for accomplishing what so many others thought impossible.",
+      "zh": ""
+    },
+    {
+      "start": 1227.52,
+      "duration": 8.92,
+      "text": "Through their persistence and ingenuity, seeing atoms like this is, well, normal.",
+      "en": "Through their persistence and ingenuity, seeing atoms like this is, well, normal.",
+      "zh": ""
+    },
+    {
+      "start": 1236.44,
+      "duration": 3.12,
+      "text": "How big of a difference does aberration correction make?",
+      "en": "How big of a difference does aberration correction make?",
+      "zh": ""
+    },
+    {
+      "start": 1239.56,
+      "duration": 5.8,
+      "text": "If you want to see atoms and if you want to, for example, measure in atomic distances,",
+      "en": "If you want to see atoms and if you want to, for example, measure in atomic distances,",
+      "zh": ""
+    },
+    {
+      "start": 1245.36,
+      "duration": 5.6,
+      "text": "and if you want to learn what type of atoms you have, you need aberration correction.",
+      "en": "and if you want to learn what type of atoms you have, you need aberration correction.",
+      "zh": ""
+    },
+    {
+      "start": 1250.96,
+      "duration": 6.2,
+      "text": "Any research that's material science. Materials engineering, chemical engineering...",
+      "en": "Any research that's material science. Materials engineering, chemical engineering...",
+      "zh": ""
+    },
+    {
+      "start": 1257.16,
+      "duration": 2.46,
+      "text": "You need to see what's happening at the atomic  level",
+      "en": "You need to see what's happening at the atomic  level",
+      "zh": ""
+    },
+    {
+      "start": 1259.62,
+      "duration": 3.5,
+      "text": "because you want to relate the properties to the structure.",
+      "en": "because you want to relate the properties to the structure.",
+      "zh": ""
+    },
+    {
+      "start": 1263.12,
+      "duration": 4.2,
+      "text": "If you can't see the structure at the atomic level, you only have half of the information.",
+      "en": "If you can't see the structure at the atomic level, you only have half of the information.",
+      "zh": ""
+    },
+    {
+      "start": 1267.32,
+      "duration": 1.56,
+      "text": "So that was a game changer.",
+      "en": "So that was a game changer.",
+      "zh": ""
+    },
+    {
+      "start": 1268.88,
+      "duration": 6.24,
+      "text": "That's why nowadays every university in principle needs a microscope like that.",
+      "en": "That's why nowadays every university in principle needs a microscope like that.",
+      "zh": ""
+    }
+  ],
+  "words": []
+}

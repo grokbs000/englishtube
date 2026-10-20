@@ -1,0 +1,922 @@
+{
+  "cues": [
+    {
+      "start": 1.0,
+      "duration": 4.8,
+      "text": "You’re going forward through time one second every second. Congratulations,",
+      "en": "You’re going forward through time one second every second. Congratulations,",
+      "zh": ""
+    },
+    {
+      "start": 5.8,
+      "duration": 4.84,
+      "text": "you’re a time traveler! A bit lame, but let's start here to get to the fun,",
+      "en": "you’re a time traveler! A bit lame, but let's start here to get to the fun,",
+      "zh": ""
+    },
+    {
+      "start": 10.64,
+      "duration": 4.12,
+      "text": "real time travel to ride on dinosaurs and high five Einstein.",
+      "en": "real time travel to ride on dinosaurs and high five Einstein.",
+      "zh": ""
+    },
+    {
+      "start": 14.76,
+      "duration": 3.0,
+      "text": "Time isn’t really a thing that passes but a dimension,",
+      "en": "Time isn’t really a thing that passes but a dimension,",
+      "zh": ""
+    },
+    {
+      "start": 17.76,
+      "duration": 5.12,
+      "text": "a direction you can move in. We think our universe is four dimensional, with three",
+      "en": "a direction you can move in. We think our universe is four dimensional, with three",
+      "zh": ""
+    },
+    {
+      "start": 22.88,
+      "duration": 6.28,
+      "text": "spatial and one time dimensions - smooshed together into a fancy thing we call spacetime.",
+      "en": "spatial and one time dimensions - smooshed together into a fancy thing we call spacetime.",
+      "zh": ""
+    },
+    {
+      "start": 29.16,
+      "duration": 5.52,
+      "text": "What you experience as time passing and your life happening, is actually you moving through",
+      "en": "What you experience as time passing and your life happening, is actually you moving through",
+      "zh": ""
+    },
+    {
+      "start": 34.68,
+      "duration": 6.32,
+      "text": "the time dimension. And this dimension is a bummer. While you can go forward-backward,",
+      "en": "the time dimension. And this dimension is a bummer. While you can go forward-backward,",
+      "zh": ""
+    },
+    {
+      "start": 41.0,
+      "duration": 4.96,
+      "text": "left and right, up and down in the space dimensions – in time you can only go:",
+      "en": "left and right, up and down in the space dimensions – in time you can only go:",
+      "zh": ""
+    },
+    {
+      "start": 45.96,
+      "duration": 5.76,
+      "text": "Forward. You only get older, never younger, you can’t make detours.",
+      "en": "Forward. You only get older, never younger, you can’t make detours.",
+      "zh": ""
+    },
+    {
+      "start": 51.72,
+      "duration": 5.0,
+      "text": "But this is an illusion. You have far more control over how you move through time. To",
+      "en": "But this is an illusion. You have far more control over how you move through time. To",
+      "zh": ""
+    },
+    {
+      "start": 56.72,
+      "duration": 4.0,
+      "text": "explain how this actually works without making a math video, we have to make a",
+      "en": "explain how this actually works without making a math video, we have to make a",
+      "zh": ""
+    },
+    {
+      "start": 60.72,
+      "duration": 5.8,
+      "text": "lot of physicists grumpy, so please keep in mind that we are simplifying and lying a bit.",
+      "en": "lot of physicists grumpy, so please keep in mind that we are simplifying and lying a bit.",
+      "zh": ""
+    },
+    {
+      "start": 66.52,
+      "duration": 5.56,
+      "text": "Ok. So there is a very strange rule: Everything in our universe moves at the speed of light through",
+      "en": "Ok. So there is a very strange rule: Everything in our universe moves at the speed of light through",
+      "zh": ""
+    },
+    {
+      "start": 72.08,
+      "duration": 5.28,
+      "text": "four dimensional spacetime. Your speed through spacetime is the sum of your separate speeds",
+      "en": "four dimensional spacetime. Your speed through spacetime is the sum of your separate speeds",
+      "zh": ""
+    },
+    {
+      "start": 77.36,
+      "duration": 6.28,
+      "text": "through time and space. It's impossible for you to stay still. Even if you are not moving through",
+      "en": "through time and space. It's impossible for you to stay still. Even if you are not moving through",
+      "zh": ""
+    },
+    {
+      "start": 83.64,
+      "duration": 5.68,
+      "text": "space dimensions, you are moving through the time dimension, blasting face first into the future.",
+      "en": "space dimensions, you are moving through the time dimension, blasting face first into the future.",
+      "zh": ""
+    },
+    {
+      "start": 89.32,
+      "duration": 5.4,
+      "text": "You can slow down in the time dimension, by moving faster through the space dimensions but in total,",
+      "en": "You can slow down in the time dimension, by moving faster through the space dimensions but in total,",
+      "zh": ""
+    },
+    {
+      "start": 94.72,
+      "duration": 4.56,
+      "text": "you will always move at the speed of light through spacetime. If you could somehow truly",
+      "en": "you will always move at the speed of light through spacetime. If you could somehow truly",
+      "zh": ""
+    },
+    {
+      "start": 99.28,
+      "duration": 6.28,
+      "text": "stand still in space – you'd still move through time at the speed of light. And the other way around.",
+      "en": "stand still in space – you'd still move through time at the speed of light. And the other way around.",
+      "zh": ""
+    },
+    {
+      "start": 105.56,
+      "duration": 5.16,
+      "text": "Photons, light particles, move at the speed of light through space. They don’t experience any",
+      "en": "Photons, light particles, move at the speed of light through space. They don’t experience any",
+      "zh": ""
+    },
+    {
+      "start": 110.72,
+      "duration": 5.64,
+      "text": "time passing because their speed in that time dimension is 0. In the time dimension they are",
+      "en": "time passing because their speed in that time dimension is 0. In the time dimension they are",
+      "zh": ""
+    },
+    {
+      "start": 116.36,
+      "duration": 5.6,
+      "text": "frozen in place. If you see light on earth, from the photon’s perspective it was just on",
+      "en": "frozen in place. If you see light on earth, from the photon’s perspective it was just on",
+      "zh": ""
+    },
+    {
+      "start": 121.96,
+      "duration": 4.8,
+      "text": "the surface of the sun and then suddenly crashed into your eye with nothing happening in between.",
+      "en": "the surface of the sun and then suddenly crashed into your eye with nothing happening in between.",
+      "zh": ""
+    },
+    {
+      "start": 130.76,
+      "duration": 5.2,
+      "text": "Remember we are telling a science story here, in real life things are more complicated – for one,",
+      "en": "Remember we are telling a science story here, in real life things are more complicated – for one,",
+      "zh": ""
+    },
+    {
+      "start": 135.96,
+      "duration": 4.72,
+      "text": "it's impossible to truly stand still relative to space itself, you can only be standing still",
+      "en": "it's impossible to truly stand still relative to space itself, you can only be standing still",
+      "zh": ""
+    },
+    {
+      "start": 140.68,
+      "duration": 4.72,
+      "text": "relative to other things IN space. And you can’t really define a reference frame for",
+      "en": "relative to other things IN space. And you can’t really define a reference frame for",
+      "zh": ""
+    },
+    {
+      "start": 145.4,
+      "duration": 6.32,
+      "text": "photons as we just did. For details check out our sources, but now back to our story.",
+      "en": "photons as we just did. For details check out our sources, but now back to our story.",
+      "zh": ""
+    },
+    {
+      "start": 151.72,
+      "duration": 4.2,
+      "text": "Ok, so everything in the universe moves at the same breathtaking speed,",
+      "en": "Ok, so everything in the universe moves at the same breathtaking speed,",
+      "zh": ""
+    },
+    {
+      "start": 155.92,
+      "duration": 4.36,
+      "text": "but this speed is split between space and time.",
+      "en": "but this speed is split between space and time.",
+      "zh": ""
+    },
+    {
+      "start": 160.28,
+      "duration": 5.8,
+      "text": "Which leads to all sorts of wacky things and where we can see time travel happen.",
+      "en": "Which leads to all sorts of wacky things and where we can see time travel happen.",
+      "zh": ""
+    },
+    {
+      "start": 166.08,
+      "duration": 2.44,
+      "text": "Real and Easy Time Travel",
+      "en": "Real and Easy Time Travel",
+      "zh": ""
+    },
+    {
+      "start": 168.52,
+      "duration": 3.72,
+      "text": "When a bus drives past you it's moving a little bit faster through space than you",
+      "en": "When a bus drives past you it's moving a little bit faster through space than you",
+      "zh": ""
+    },
+    {
+      "start": 172.24,
+      "duration": 6.0,
+      "text": "are. So it moves slower through time than you. Or how it is usually worded: The car is moving",
+      "en": "are. So it moves slower through time than you. Or how it is usually worded: The car is moving",
+      "zh": ""
+    },
+    {
+      "start": 178.24,
+      "duration": 6.04,
+      "text": "slower through time relative to you. While this makes things feel like weird physics magic,",
+      "en": "slower through time relative to you. While this makes things feel like weird physics magic,",
+      "zh": ""
+    },
+    {
+      "start": 184.28,
+      "duration": 5.84,
+      "text": "it's very simple. Move faster through space, go slower in time, move slower through space,",
+      "en": "it's very simple. Move faster through space, go slower in time, move slower through space,",
+      "zh": ""
+    },
+    {
+      "start": 190.12,
+      "duration": 5.52,
+      "text": "go faster in time. And if you add another person moving way faster or slower than you,",
+      "en": "go faster in time. And if you add another person moving way faster or slower than you,",
+      "zh": ""
+    },
+    {
+      "start": 195.64,
+      "duration": 3.92,
+      "text": "both end up traveling different distances in the time dimension.",
+      "en": "both end up traveling different distances in the time dimension.",
+      "zh": ""
+    },
+    {
+      "start": 199.56,
+      "duration": 3.24,
+      "text": "The story that is usually told to demonstrate this, is to get twins,",
+      "en": "The story that is usually told to demonstrate this, is to get twins,",
+      "zh": ""
+    },
+    {
+      "start": 202.8,
+      "duration": 4.12,
+      "text": "force one of them into a rocket against their will, shoot them through space super fast while",
+      "en": "force one of them into a rocket against their will, shoot them through space super fast while",
+      "zh": ""
+    },
+    {
+      "start": 206.92,
+      "duration": 4.88,
+      "text": "the other twin chills on Earth. And because one twin moves very fast through space",
+      "en": "the other twin chills on Earth. And because one twin moves very fast through space",
+      "zh": ""
+    },
+    {
+      "start": 211.8,
+      "duration": 4.48,
+      "text": "while the other moves slowly on Earth, they move at different speeds through time. When",
+      "en": "while the other moves slowly on Earth, they move at different speeds through time. When",
+      "zh": ""
+    },
+    {
+      "start": 216.28,
+      "duration": 3.44,
+      "text": "the rocket finally gets home, they are no longer the same age and the younger",
+      "en": "the rocket finally gets home, they are no longer the same age and the younger",
+      "zh": ""
+    },
+    {
+      "start": 219.72,
+      "duration": 4.76,
+      "text": "space twin is ready to start years of therapy for being abducted by theoretical physicists.",
+      "en": "space twin is ready to start years of therapy for being abducted by theoretical physicists.",
+      "zh": ""
+    },
+    {
+      "start": 224.48,
+      "duration": 3.12,
+      "text": "This is the twin paradox and it makes perfect sense within the",
+      "en": "This is the twin paradox and it makes perfect sense within the",
+      "zh": ""
+    },
+    {
+      "start": 227.6,
+      "duration": 3.84,
+      "text": "rules of the universe. If you want to learn more about the paradoxes of time,",
+      "en": "rules of the universe. If you want to learn more about the paradoxes of time,",
+      "zh": ""
+    },
+    {
+      "start": 231.44,
+      "duration": 5.12,
+      "text": "we made a video about it. But in a nutshell you are using time dilation, the fact that your",
+      "en": "we made a video about it. But in a nutshell you are using time dilation, the fact that your",
+      "zh": ""
+    },
+    {
+      "start": 236.56,
+      "duration": 5.88,
+      "text": "position in time is subjective and only true for yourself. With sufficiently fast rockets,",
+      "en": "position in time is subjective and only true for yourself. With sufficiently fast rockets,",
+      "zh": ""
+    },
+    {
+      "start": 242.44,
+      "duration": 4.76,
+      "text": "you could get as far as you want into the future. Technically this way you could witness the end",
+      "en": "you could get as far as you want into the future. Technically this way you could witness the end",
+      "zh": ""
+    },
+    {
+      "start": 247.2,
+      "duration": 5.96,
+      "text": "of the universe or look at the final thing that will ever happen! We also made videos about that!",
+      "en": "of the universe or look at the final thing that will ever happen! We also made videos about that!",
+      "zh": ""
+    },
+    {
+      "start": 253.16,
+      "duration": 3.6,
+      "text": "We should mention that there's another way to jump forward in time.",
+      "en": "We should mention that there's another way to jump forward in time.",
+      "zh": ""
+    },
+    {
+      "start": 256.76,
+      "duration": 6.04,
+      "text": "Massive objects bend space time, causing time to go slower near them. On Earth the effect is",
+      "en": "Massive objects bend space time, causing time to go slower near them. On Earth the effect is",
+      "zh": ""
+    },
+    {
+      "start": 262.8,
+      "duration": 9.28,
+      "text": "tiny - the gravity of our planet makes time pass 0.00000007% slower than in deep space,",
+      "en": "tiny - the gravity of our planet makes time pass 0.00000007% slower than in deep space,",
+      "zh": ""
+    },
+    {
+      "start": 272.08,
+      "duration": 5.4,
+      "text": "far from any gravitational fields. Hardly useful for time travel, but it’s a start.",
+      "en": "far from any gravitational fields. Hardly useful for time travel, but it’s a start.",
+      "zh": ""
+    },
+    {
+      "start": 277.48,
+      "duration": 4.64,
+      "text": "If you move into a really strong gravitational field, like around a black hole, the closer",
+      "en": "If you move into a really strong gravitational field, like around a black hole, the closer",
+      "zh": ""
+    },
+    {
+      "start": 282.12,
+      "duration": 5.12,
+      "text": "you get to the event horizon, the slower time passes for you. If we kidnap our twin again,",
+      "en": "you get to the event horizon, the slower time passes for you. If we kidnap our twin again,",
+      "zh": ""
+    },
+    {
+      "start": 287.24,
+      "duration": 4.44,
+      "text": "they won’t notice it at all - their watch ticks as fast as it always does. But from",
+      "en": "they won’t notice it at all - their watch ticks as fast as it always does. But from",
+      "zh": ""
+    },
+    {
+      "start": 291.68,
+      "duration": 4.88,
+      "text": "the outside they seem to almost stand still. Only when the twin leaves the gravitational",
+      "en": "the outside they seem to almost stand still. Only when the twin leaves the gravitational",
+      "zh": ""
+    },
+    {
+      "start": 296.56,
+      "duration": 3.08,
+      "text": "field and comes back to earth do they realize they time traveled.",
+      "en": "field and comes back to earth do they realize they time traveled.",
+      "zh": ""
+    },
+    {
+      "start": 300.52,
+      "duration": 5.52,
+      "text": "Ok, so you can time travel to the future by going fast or near a black hole. But this is pretty",
+      "en": "Ok, so you can time travel to the future by going fast or near a black hole. But this is pretty",
+      "zh": ""
+    },
+    {
+      "start": 306.04,
+      "duration": 4.84,
+      "text": "lame and has literally only downsides except for people who want to sort of teleport into",
+      "en": "lame and has literally only downsides except for people who want to sort of teleport into",
+      "zh": ""
+    },
+    {
+      "start": 310.88,
+      "duration": 5.28,
+      "text": "the future. And it makes building a gigantic human space empire super hard – because even",
+      "en": "the future. And it makes building a gigantic human space empire super hard – because even",
+      "zh": ""
+    },
+    {
+      "start": 316.16,
+      "duration": 4.88,
+      "text": "if we develop the technology to go really super fast between stars, going on a far away journey",
+      "en": "if we develop the technology to go really super fast between stars, going on a far away journey",
+      "zh": ""
+    },
+    {
+      "start": 321.04,
+      "duration": 5.2,
+      "text": "will always mean leaving your home as you knew it forever. But now that we know all of this,",
+      "en": "will always mean leaving your home as you knew it forever. But now that we know all of this,",
+      "zh": ""
+    },
+    {
+      "start": 326.24,
+      "duration": 5.4,
+      "text": "there is actually a way we could use the rules of our universe to travel BACKWARDS through time.",
+      "en": "there is actually a way we could use the rules of our universe to travel BACKWARDS through time.",
+      "zh": ""
+    },
+    {
+      "start": 331.64,
+      "duration": 3.84,
+      "text": "The Past is a Far Away Land – Let’s go there",
+      "en": "The Past is a Far Away Land – Let’s go there",
+      "zh": ""
+    },
+    {
+      "start": 335.48,
+      "duration": 4.68,
+      "text": "So you always move through spacetime at the speed of light. If you go fast through",
+      "en": "So you always move through spacetime at the speed of light. If you go fast through",
+      "zh": ""
+    },
+    {
+      "start": 340.16,
+      "duration": 4.68,
+      "text": "the space dimension, you slow down in the time dimension. And here we find an actual",
+      "en": "the space dimension, you slow down in the time dimension. And here we find an actual",
+      "zh": ""
+    },
+    {
+      "start": 344.84,
+      "duration": 4.08,
+      "text": "opening for backwards time travel: The theory of relativity, which may be the",
+      "en": "opening for backwards time travel: The theory of relativity, which may be the",
+      "zh": ""
+    },
+    {
+      "start": 348.92,
+      "duration": 5.92,
+      "text": "most solid scientific theory we know, does NOT forbid faster than light motion through space.",
+      "en": "most solid scientific theory we know, does NOT forbid faster than light motion through space.",
+      "zh": ""
+    },
+    {
+      "start": 354.84,
+      "duration": 4.52,
+      "text": "IF you move through the space dimension faster than the speed of light – superluminal – you need",
+      "en": "IF you move through the space dimension faster than the speed of light – superluminal – you need",
+      "zh": ""
+    },
+    {
+      "start": 359.36,
+      "duration": 5.32,
+      "text": "to move through the time dimension with negative speed. That means you go BACKWARDS through time",
+      "en": "to move through the time dimension with negative speed. That means you go BACKWARDS through time",
+      "zh": ""
+    },
+    {
+      "start": 364.68,
+      "duration": 5.16,
+      "text": "relative to the rest of the universe – into the past. Actually, scientists have been looking for",
+      "en": "relative to the rest of the universe – into the past. Actually, scientists have been looking for",
+      "zh": ""
+    },
+    {
+      "start": 369.84,
+      "duration": 5.76,
+      "text": "superluminal particles and given them a name: “tachyons”. They could exist and would have",
+      "en": "superluminal particles and given them a name: “tachyons”. They could exist and would have",
+      "zh": ""
+    },
+    {
+      "start": 375.6,
+      "duration": 6.28,
+      "text": "wild properties like getting faster when they lose energy and of course, traveling backwards in time.",
+      "en": "wild properties like getting faster when they lose energy and of course, traveling backwards in time.",
+      "zh": ""
+    },
+    {
+      "start": 381.88,
+      "duration": 2.64,
+      "text": "Finally REAL time travel!",
+      "en": "Finally REAL time travel!",
+      "zh": ""
+    },
+    {
+      "start": 384.52,
+      "duration": 4.76,
+      "text": "Just like with photons, it isn't really possible to clearly define how time passes for tachyons",
+      "en": "Just like with photons, it isn't really possible to clearly define how time passes for tachyons",
+      "zh": ""
+    },
+    {
+      "start": 389.28,
+      "duration": 5.0,
+      "text": "themselves – it depends on how you move through spacetime relative to them. But now for the first",
+      "en": "themselves – it depends on how you move through spacetime relative to them. But now for the first",
+      "zh": ""
+    },
+    {
+      "start": 394.28,
+      "duration": 4.92,
+      "text": "time, some observers could actually see tachyons literally traveling backwards in time. Which",
+      "en": "time, some observers could actually see tachyons literally traveling backwards in time. Which",
+      "zh": ""
+    },
+    {
+      "start": 399.2,
+      "duration": 5.56,
+      "text": "means they could be used to directly interact with the past. In theory you could use them",
+      "en": "means they could be used to directly interact with the past. In theory you could use them",
+      "zh": ""
+    },
+    {
+      "start": 404.76,
+      "duration": 5.0,
+      "text": "to send messages to your past self and change all sorts of things that have already happened.",
+      "en": "to send messages to your past self and change all sorts of things that have already happened.",
+      "zh": ""
+    },
+    {
+      "start": 409.76,
+      "duration": 5.44,
+      "text": "Maybe with some tachyon powered sci-fi future tech you could see a star die before it was born. Meet",
+      "en": "Maybe with some tachyon powered sci-fi future tech you could see a star die before it was born. Meet",
+      "zh": ""
+    },
+    {
+      "start": 415.2,
+      "duration": 5.88,
+      "text": "your great-grandparents. Prevent your past self from making that one dumb mistake, win the lottery",
+      "en": "your great-grandparents. Prevent your past self from making that one dumb mistake, win the lottery",
+      "zh": ""
+    },
+    {
+      "start": 421.08,
+      "duration": 7.75,
+      "text": "or get eaten by dinosaurs. And create juicy time paradoxes that also kind of break the universe...",
+      "en": "or get eaten by dinosaurs. And create juicy time paradoxes that also kind of break the universe...",
+      "zh": ""
+    },
+    {
+      "start": 430.0,
+      "duration": 4.8,
+      "text": "Oh, what's that? (Short Pause) Right. Sigh...",
+      "en": "Oh, what's that? (Short Pause) Right. Sigh...",
+      "zh": ""
+    },
+    {
+      "start": 434.8,
+      "duration": 5.52,
+      "text": "It seems there are things in our universe that are impossible to mix. Unfortunately the theory",
+      "en": "It seems there are things in our universe that are impossible to mix. Unfortunately the theory",
+      "zh": ""
+    },
+    {
+      "start": 440.32,
+      "duration": 4.48,
+      "text": "of relativity, specifically forbids anything that starts out traveling slower than the speed of",
+      "en": "of relativity, specifically forbids anything that starts out traveling slower than the speed of",
+      "zh": ""
+    },
+    {
+      "start": 444.8,
+      "duration": 4.92,
+      "text": "light, to reach the speed of light. Because moving faster through space requires energy",
+      "en": "light, to reach the speed of light. Because moving faster through space requires energy",
+      "zh": ""
+    },
+    {
+      "start": 449.72,
+      "duration": 5.2,
+      "text": "and the energy required to reach the speed of light is literally infinite. Even if you",
+      "en": "and the energy required to reach the speed of light is literally infinite. Even if you",
+      "zh": ""
+    },
+    {
+      "start": 454.92,
+      "duration": 3.8,
+      "text": "could gather all the energy of the universe you couldn’t accelerate a grain of sand to",
+      "en": "could gather all the energy of the universe you couldn’t accelerate a grain of sand to",
+      "zh": ""
+    },
+    {
+      "start": 458.72,
+      "duration": 4.84,
+      "text": "the speed of light. You can get as close as you like but you can never reach it.",
+      "en": "the speed of light. You can get as close as you like but you can never reach it.",
+      "zh": ""
+    },
+    {
+      "start": 463.56,
+      "duration": 4.76,
+      "text": "It is possible to move at the speed of light, as photons do. But they ALWAYS move at the speed",
+      "en": "It is possible to move at the speed of light, as photons do. But they ALWAYS move at the speed",
+      "zh": ""
+    },
+    {
+      "start": 468.32,
+      "duration": 7.08,
+      "text": "of light. If you move superluminally, you will always move superluminally. And sadly, so far,",
+      "en": "of light. If you move superluminally, you will always move superluminally. And sadly, so far,",
+      "zh": ""
+    },
+    {
+      "start": 475.4,
+      "duration": 4.2,
+      "text": "we don’t have the tiniest bit of evidence that tachyons exist. While they work on",
+      "en": "we don’t have the tiniest bit of evidence that tachyons exist. While they work on",
+      "zh": ""
+    },
+    {
+      "start": 479.6,
+      "duration": 3.0,
+      "text": "paper, most scientists think they are not real.",
+      "en": "paper, most scientists think they are not real.",
+      "zh": ""
+    },
+    {
+      "start": 482.6,
+      "duration": 4.44,
+      "text": "So for now it seems that time travel into the past is strictly impossible,",
+      "en": "So for now it seems that time travel into the past is strictly impossible,",
+      "zh": ""
+    },
+    {
+      "start": 487.04,
+      "duration": 5.6,
+      "text": "no matter how hard we try. The past is a faraway land and while we can look at it in pictures",
+      "en": "no matter how hard we try. The past is a faraway land and while we can look at it in pictures",
+      "zh": ""
+    },
+    {
+      "start": 492.64,
+      "duration": 7.28,
+      "text": "and movies and our memories, it's locked away. Forever outside of our reach. While this is sad,",
+      "en": "and movies and our memories, it's locked away. Forever outside of our reach. While this is sad,",
+      "zh": ""
+    },
+    {
+      "start": 499.92,
+      "duration": 5.4,
+      "text": "it leaves you with the most important time there is: Right now, the moment where you actually",
+      "en": "it leaves you with the most important time there is: Right now, the moment where you actually",
+      "zh": ""
+    },
+    {
+      "start": 505.32,
+      "duration": 7.2,
+      "text": "exist – and a future that's yours to forge. If you want you could even time travel to it.",
+      "en": "exist – and a future that's yours to forge. If you want you could even time travel to it.",
+      "zh": ""
+    },
+    {
+      "start": 515.2,
+      "duration": 5.24,
+      "text": "Luckily, shaping the future is much easier than trying to change the past. With the",
+      "en": "Luckily, shaping the future is much easier than trying to change the past. With the",
+      "zh": ""
+    },
+    {
+      "start": 520.44,
+      "duration": 3.4,
+      "text": "right knowledge and problem-solving skills, you’ll be ready for whatever",
+      "en": "right knowledge and problem-solving skills, you’ll be ready for whatever",
+      "zh": ""
+    },
+    {
+      "start": 523.84,
+      "duration": 4.8,
+      "text": "obstacles or opportunities lie ahead. Which is where our friends at Brilliant come in.",
+      "en": "obstacles or opportunities lie ahead. Which is where our friends at Brilliant come in.",
+      "zh": ""
+    },
+    {
+      "start": 528.64,
+      "duration": 3.88,
+      "text": "Brilliant will make you a better thinker and problem solver, with thousands of interactive,",
+      "en": "Brilliant will make you a better thinker and problem solver, with thousands of interactive,",
+      "zh": ""
+    },
+    {
+      "start": 532.52,
+      "duration": 4.32,
+      "text": "bite-sized lessons on just about anything you may be curious about — from physics and",
+      "en": "bite-sized lessons on just about anything you may be curious about — from physics and",
+      "zh": ""
+    },
+    {
+      "start": 536.84,
+      "duration": 4.4,
+      "text": "maths to technology, data analysis, and beyond. You can build real knowledge in",
+      "en": "maths to technology, data analysis, and beyond. You can build real knowledge in",
+      "zh": ""
+    },
+    {
+      "start": 541.24,
+      "duration": 4.56,
+      "text": "just minutes a day — a terrific use of your precious, present moments.",
+      "en": "just minutes a day — a terrific use of your precious, present moments.",
+      "zh": ""
+    },
+    {
+      "start": 545.8,
+      "duration": 5.52,
+      "text": "On Brilliant, you’ll learn through discovery, by trying things yourself. Their course on",
+      "en": "On Brilliant, you’ll learn through discovery, by trying things yourself. Their course on",
+      "zh": ""
+    },
+    {
+      "start": 551.32,
+      "duration": 4.08,
+      "text": "Scientific Thinking, for example, gets you hands-on with fascinating questions like",
+      "en": "Scientific Thinking, for example, gets you hands-on with fascinating questions like",
+      "zh": ""
+    },
+    {
+      "start": 555.4,
+      "duration": 2.28,
+      "text": "the ones in this video. And since each",
+      "en": "the ones in this video. And since each",
+      "zh": ""
+    },
+    {
+      "start": 557.68,
+      "duration": 3.96,
+      "text": "course is like an immersive workshop, you’ll gain knowledge of key concepts",
+      "en": "course is like an immersive workshop, you’ll gain knowledge of key concepts",
+      "zh": ""
+    },
+    {
+      "start": 561.64,
+      "duration": 4.52,
+      "text": "while building your intuition — helping you learn to think like a scientist.",
+      "en": "while building your intuition — helping you learn to think like a scientist.",
+      "zh": ""
+    },
+    {
+      "start": 566.16,
+      "duration": 4.8,
+      "text": "kurzgesagt has also partnered with Brilliant to create a series of lessons to take your scientific",
+      "en": "kurzgesagt has also partnered with Brilliant to create a series of lessons to take your scientific",
+      "zh": ""
+    },
+    {
+      "start": 570.96,
+      "duration": 4.76,
+      "text": "knowledge to the next level. Each one is like a one-on-one version of a kurzgesagt video,",
+      "en": "knowledge to the next level. Each one is like a one-on-one version of a kurzgesagt video,",
+      "zh": ""
+    },
+    {
+      "start": 575.72,
+      "duration": 3.28,
+      "text": "letting you further explore the topics of popular videos like rabies,",
+      "en": "letting you further explore the topics of popular videos like rabies,",
+      "zh": ""
+    },
+    {
+      "start": 579.0,
+      "duration": 5.44,
+      "text": "mammalian metabolism or climate science and supernovae. And you can get started whenever,",
+      "en": "mammalian metabolism or climate science and supernovae. And you can get started whenever,",
+      "zh": ""
+    },
+    {
+      "start": 584.44,
+      "duration": 2.76,
+      "text": "wherever — right from whatever device you’d like.",
+      "en": "wherever — right from whatever device you’d like.",
+      "zh": ""
+    },
+    {
+      "start": 587.2,
+      "duration": 4.2,
+      "text": "To get hands-on with kurzgesagt lessons and explore everything Brilliant has to offer — from",
+      "en": "To get hands-on with kurzgesagt lessons and explore everything Brilliant has to offer — from",
+      "zh": ""
+    },
+    {
+      "start": 591.4,
+      "duration": 4.68,
+      "text": "AI and programming to math, science, and beyond — start your free 30-day trial by",
+      "en": "AI and programming to math, science, and beyond — start your free 30-day trial by",
+      "zh": ""
+    },
+    {
+      "start": 596.08,
+      "duration": 5.32,
+      "text": "signing up at Brilliant.org/nutshell. There’s even an extra perk for kurzgesagt viewers:",
+      "en": "signing up at Brilliant.org/nutshell. There’s even an extra perk for kurzgesagt viewers:",
+      "zh": ""
+    },
+    {
+      "start": 601.4,
+      "duration": 5.0,
+      "text": "anyone signing up through our link will get 20% off an annual membership once their trial ends.",
+      "en": "anyone signing up through our link will get 20% off an annual membership once their trial ends.",
+      "zh": ""
+    },
+    {
+      "start": 607.27,
+      "duration": 2.61,
+      "text": "We found a way to evade the laws of the universe and go on",
+      "en": "We found a way to evade the laws of the universe and go on",
+      "zh": ""
+    },
+    {
+      "start": 609.88,
+      "duration": 9.08,
+      "text": "a truly breathtaking time travel adventure. Are you ready? Well too bad, here we gooooo!",
+      "en": "a truly breathtaking time travel adventure. Are you ready? Well too bad, here we gooooo!",
+      "zh": ""
+    },
+    {
+      "start": 618.96,
+      "duration": 7.12,
+      "text": "Look, it’s the human Era! 12,000 years of human innovation brought to life.",
+      "en": "Look, it’s the human Era! 12,000 years of human innovation brought to life.",
+      "zh": ""
+    },
+    {
+      "start": 626.08,
+      "duration": 5.04,
+      "text": "Absolutely incredible how our ancestors laid the foundation for the life we lead today.",
+      "en": "Absolutely incredible how our ancestors laid the foundation for the life we lead today.",
+      "zh": ""
+    },
+    {
+      "start": 631.12,
+      "duration": 4.08,
+      "text": "Let’s go back even further and take a look at the timeline of life – wow",
+      "en": "Let’s go back even further and take a look at the timeline of life – wow",
+      "zh": ""
+    },
+    {
+      "start": 635.2,
+      "duration": 5.08,
+      "text": "humans are only a tiny blip at this scale. Mammals haven’t been around for long either.",
+      "en": "humans are only a tiny blip at this scale. Mammals haven’t been around for long either.",
+      "zh": ""
+    },
+    {
+      "start": 640.28,
+      "duration": 6.8,
+      "text": "Here is the age of the dinosaurs – and going further back we can see where it all began.",
+      "en": "Here is the age of the dinosaurs – and going further back we can see where it all began.",
+      "zh": ""
+    },
+    {
+      "start": 647.08,
+      "duration": 4.84,
+      "text": "You can now go on your very own time travel adventure with our Timeline of Human History and",
+      "en": "You can now go on your very own time travel adventure with our Timeline of Human History and",
+      "zh": ""
+    },
+    {
+      "start": 651.92,
+      "duration": 6.4,
+      "text": "Timeline of Complex Life Posters. They are expert approved and designed with great love and care.",
+      "en": "Timeline of Complex Life Posters. They are expert approved and designed with great love and care.",
+      "zh": ""
+    },
+    {
+      "start": 658.32,
+      "duration": 5.89,
+      "text": "Get them both to get the full time travel effect and to support everything we do on this channel.",
+      "en": "Get them both to get the full time travel effect and to support everything we do on this channel.",
+      "zh": ""
+    }
+  ],
+  "words": []
+}

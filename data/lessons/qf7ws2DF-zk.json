@@ -1,0 +1,3694 @@
+{
+  "cues": [
+    {
+      "start": 0.15,
+      "duration": 2.68,
+      "text": "- Democracy might be mathematically impossible.",
+      "en": "- Democracy might be mathematically impossible.",
+      "zh": ""
+    },
+    {
+      "start": 2.83,
+      "duration": 1.22,
+      "text": "(serious music)",
+      "en": "(serious music)",
+      "zh": ""
+    },
+    {
+      "start": 4.05,
+      "duration": 4.14,
+      "text": "This isn't a value judgment, a comment about human nature,",
+      "en": "This isn't a value judgment, a comment about human nature,",
+      "zh": ""
+    },
+    {
+      "start": 8.19,
+      "duration": 1.53,
+      "text": "nor a statement about how rare",
+      "en": "nor a statement about how rare",
+      "zh": ""
+    },
+    {
+      "start": 9.72,
+      "duration": 2.16,
+      "text": "and unstable democratic societies have been",
+      "en": "and unstable democratic societies have been",
+      "zh": ""
+    },
+    {
+      "start": 11.88,
+      "duration": 1.55,
+      "text": "in the history of civilization.",
+      "en": "in the history of civilization.",
+      "zh": ""
+    },
+    {
+      "start": 14.43,
+      "duration": 2.04,
+      "text": "Our current attempt at democracy,",
+      "en": "Our current attempt at democracy,",
+      "zh": ""
+    },
+    {
+      "start": 16.47,
+      "duration": 2.91,
+      "text": "the methods we're using to elect our leaders,",
+      "en": "the methods we're using to elect our leaders,",
+      "zh": ""
+    },
+    {
+      "start": 19.38,
+      "duration": 2.22,
+      "text": "are fundamentally irrational.",
+      "en": "are fundamentally irrational.",
+      "zh": ""
+    },
+    {
+      "start": 21.6,
+      "duration": 3.51,
+      "text": "And this is a well-established mathematical fact.",
+      "en": "And this is a well-established mathematical fact.",
+      "zh": ""
+    },
+    {
+      "start": 27.03,
+      "duration": 1.71,
+      "text": "This is a video about the math",
+      "en": "This is a video about the math",
+      "zh": ""
+    },
+    {
+      "start": 28.74,
+      "duration": 3.45,
+      "text": "that proved that fact and led to a Nobel Prize.",
+      "en": "that proved that fact and led to a Nobel Prize.",
+      "zh": ""
+    },
+    {
+      "start": 32.19,
+      "duration": 2.85,
+      "text": "It's a video about how groups of people make decisions",
+      "en": "It's a video about how groups of people make decisions",
+      "zh": ""
+    },
+    {
+      "start": 35.04,
+      "duration": 2.55,
+      "text": "and the pitfalls that our voting systems fall into.",
+      "en": "and the pitfalls that our voting systems fall into.",
+      "zh": ""
+    },
+    {
+      "start": 39.81,
+      "duration": 1.44,
+      "text": "(subdued music)",
+      "en": "(subdued music)",
+      "zh": ""
+    },
+    {
+      "start": 41.25,
+      "duration": 2.19,
+      "text": "One of the simplest ways to hold an election",
+      "en": "One of the simplest ways to hold an election",
+      "zh": ""
+    },
+    {
+      "start": 43.44,
+      "duration": 2.43,
+      "text": "is to ask the voters to mark one candidate",
+      "en": "is to ask the voters to mark one candidate",
+      "zh": ""
+    },
+    {
+      "start": 45.87,
+      "duration": 2.01,
+      "text": "as their favorite on a ballot.",
+      "en": "as their favorite on a ballot.",
+      "zh": ""
+    },
+    {
+      "start": 47.88,
+      "duration": 1.32,
+      "text": "And when the votes are counted,",
+      "en": "And when the votes are counted,",
+      "zh": ""
+    },
+    {
+      "start": 49.2,
+      "duration": 3.39,
+      "text": "the candidate with the most votes wins the election.",
+      "en": "the candidate with the most votes wins the election.",
+      "zh": ""
+    },
+    {
+      "start": 52.59,
+      "duration": 3.57,
+      "text": "This is known as \"first past the post\" voting.",
+      "en": "This is known as \"first past the post\" voting.",
+      "zh": ""
+    },
+    {
+      "start": 56.16,
+      "duration": 1.86,
+      "text": "The name is kind of a misnomer though.",
+      "en": "The name is kind of a misnomer though.",
+      "zh": ""
+    },
+    {
+      "start": 58.02,
+      "duration": 1.26,
+      "text": "There is no post",
+      "en": "There is no post",
+      "zh": ""
+    },
+    {
+      "start": 59.28,
+      "duration": 2.49,
+      "text": "that any of the candidates need to get past.",
+      "en": "that any of the candidates need to get past.",
+      "zh": ""
+    },
+    {
+      "start": 61.77,
+      "duration": 3.18,
+      "text": "The winner is just the candidate with the most votes.",
+      "en": "The winner is just the candidate with the most votes.",
+      "zh": ""
+    },
+    {
+      "start": 66.09,
+      "duration": 2.64,
+      "text": "This method likely goes back to antiquity.",
+      "en": "This method likely goes back to antiquity.",
+      "zh": ""
+    },
+    {
+      "start": 68.73,
+      "duration": 1.65,
+      "text": "It has been used to elect members",
+      "en": "It has been used to elect members",
+      "zh": ""
+    },
+    {
+      "start": 70.38,
+      "duration": 3.06,
+      "text": "of the House of Commons in England since the 14th century,",
+      "en": "of the House of Commons in England since the 14th century,",
+      "zh": ""
+    },
+    {
+      "start": 73.44,
+      "duration": 2.25,
+      "text": "and it's still a common voting system",
+      "en": "and it's still a common voting system",
+      "zh": ""
+    },
+    {
+      "start": 75.69,
+      "duration": 2.52,
+      "text": "with 44 countries in the world using it",
+      "en": "with 44 countries in the world using it",
+      "zh": ""
+    },
+    {
+      "start": 78.21,
+      "duration": 1.41,
+      "text": "to elect its leaders.",
+      "en": "to elect its leaders.",
+      "zh": ""
+    },
+    {
+      "start": 79.62,
+      "duration": 3.0,
+      "text": "30 of these countries were former British colonies.",
+      "en": "30 of these countries were former British colonies.",
+      "zh": ""
+    },
+    {
+      "start": 83.79,
+      "duration": 2.13,
+      "text": "The US, being a former British colony,",
+      "en": "The US, being a former British colony,",
+      "zh": ""
+    },
+    {
+      "start": 85.92,
+      "duration": 2.85,
+      "text": "still uses first past the post in most of its states",
+      "en": "still uses first past the post in most of its states",
+      "zh": ""
+    },
+    {
+      "start": 88.77,
+      "duration": 3.63,
+      "text": "to elect their representatives to the electoral college.",
+      "en": "to elect their representatives to the electoral college.",
+      "zh": ""
+    },
+    {
+      "start": 92.4,
+      "duration": 2.46,
+      "text": "But first past the post has problems.",
+      "en": "But first past the post has problems.",
+      "zh": ""
+    },
+    {
+      "start": 96.06,
+      "duration": 2.79,
+      "text": "If you are selecting representatives in a parliament,",
+      "en": "If you are selecting representatives in a parliament,",
+      "zh": ""
+    },
+    {
+      "start": 98.85,
+      "duration": 1.68,
+      "text": "you can, and frequently do,",
+      "en": "you can, and frequently do,",
+      "zh": ""
+    },
+    {
+      "start": 100.53,
+      "duration": 2.31,
+      "text": "get situations where the majority of the country",
+      "en": "get situations where the majority of the country",
+      "zh": ""
+    },
+    {
+      "start": 102.84,
+      "duration": 3.33,
+      "text": "did not vote for the party that ends up holding the power.",
+      "en": "did not vote for the party that ends up holding the power.",
+      "zh": ""
+    },
+    {
+      "start": 108.21,
+      "duration": 1.56,
+      "text": "In the last a hundred years,",
+      "en": "In the last a hundred years,",
+      "zh": ""
+    },
+    {
+      "start": 109.77,
+      "duration": 2.55,
+      "text": "there were 21 times a single party held",
+      "en": "there were 21 times a single party held",
+      "zh": ""
+    },
+    {
+      "start": 112.32,
+      "duration": 2.43,
+      "text": "a majority of the seats in the British Parliament,",
+      "en": "a majority of the seats in the British Parliament,",
+      "zh": ""
+    },
+    {
+      "start": 114.75,
+      "duration": 3.69,
+      "text": "but only two of those times did the majority of the voters",
+      "en": "but only two of those times did the majority of the voters",
+      "zh": ""
+    },
+    {
+      "start": 118.44,
+      "duration": 1.95,
+      "text": "actually vote for that party.",
+      "en": "actually vote for that party.",
+      "zh": ""
+    },
+    {
+      "start": 121.5,
+      "duration": 3.21,
+      "text": "So a party, which only a minority of the people voted for,",
+      "en": "So a party, which only a minority of the people voted for,",
+      "zh": ""
+    },
+    {
+      "start": 124.71,
+      "duration": 2.7,
+      "text": "ends up holding all of the power in government.",
+      "en": "ends up holding all of the power in government.",
+      "zh": ""
+    },
+    {
+      "start": 128.52,
+      "duration": 2.4,
+      "text": "Another thing that happens because of first past the post",
+      "en": "Another thing that happens because of first past the post",
+      "zh": ""
+    },
+    {
+      "start": 130.92,
+      "duration": 2.55,
+      "text": "is that similar parties end up stealing votes",
+      "en": "is that similar parties end up stealing votes",
+      "zh": ""
+    },
+    {
+      "start": 133.47,
+      "duration": 0.84,
+      "text": "from each other.",
+      "en": "from each other.",
+      "zh": ""
+    },
+    {
+      "start": 135.42,
+      "duration": 2.67,
+      "text": "- The 2000 US presidential election,",
+      "en": "- The 2000 US presidential election,",
+      "zh": ""
+    },
+    {
+      "start": 138.09,
+      "duration": 1.95,
+      "text": "which was an election essentially",
+      "en": "which was an election essentially",
+      "zh": ""
+    },
+    {
+      "start": 140.04,
+      "duration": 3.36,
+      "text": "between Al Gore and George W. Bush.",
+      "en": "between Al Gore and George W. Bush.",
+      "zh": ""
+    },
+    {
+      "start": 143.4,
+      "duration": 1.92,
+      "text": "At that point, every state in the nation",
+      "en": "At that point, every state in the nation",
+      "zh": ""
+    },
+    {
+      "start": 145.32,
+      "duration": 1.8,
+      "text": "used first past the post",
+      "en": "used first past the post",
+      "zh": ""
+    },
+    {
+      "start": 147.12,
+      "duration": 1.86,
+      "text": "to determine the outcome of the election.",
+      "en": "to determine the outcome of the election.",
+      "zh": ""
+    },
+    {
+      "start": 148.98,
+      "duration": 2.58,
+      "text": "Bush had more votes in Florida,",
+      "en": "Bush had more votes in Florida,",
+      "zh": ""
+    },
+    {
+      "start": 151.56,
+      "duration": 2.85,
+      "text": "but by a ridiculously slim margin.",
+      "en": "but by a ridiculously slim margin.",
+      "zh": ""
+    },
+    {
+      "start": 154.41,
+      "duration": 2.37,
+      "text": "It was fewer than 600 votes.",
+      "en": "It was fewer than 600 votes.",
+      "zh": ""
+    },
+    {
+      "start": 156.78,
+      "duration": 4.38,
+      "text": "But there was another candidate on the ballot, Ralph Nader.",
+      "en": "But there was another candidate on the ballot, Ralph Nader.",
+      "zh": ""
+    },
+    {
+      "start": 161.16,
+      "duration": 2.28,
+      "text": "Nader was a Green candidate.",
+      "en": "Nader was a Green candidate.",
+      "zh": ""
+    },
+    {
+      "start": 163.44,
+      "duration": 4.68,
+      "text": "He was certainly to the left of either Gore or Bush.",
+      "en": "He was certainly to the left of either Gore or Bush.",
+      "zh": ""
+    },
+    {
+      "start": 168.12,
+      "duration": 2.16,
+      "text": "- And what we need is the upsurge",
+      "en": "- And what we need is the upsurge",
+      "zh": ""
+    },
+    {
+      "start": 170.28,
+      "duration": 2.58,
+      "text": "of citizen concern, people concern,",
+      "en": "of citizen concern, people concern,",
+      "zh": ""
+    },
+    {
+      "start": 172.86,
+      "duration": 1.65,
+      "text": "poor, rich, or middle class,",
+      "en": "poor, rich, or middle class,",
+      "zh": ""
+    },
+    {
+      "start": 174.51,
+      "duration": 3.0,
+      "text": "to counteract the power of the special interests.",
+      "en": "to counteract the power of the special interests.",
+      "zh": ""
+    },
+    {
+      "start": 177.51,
+      "duration": 3.45,
+      "text": "- And he got almost a hundred thousand votes in Florida.",
+      "en": "- And he got almost a hundred thousand votes in Florida.",
+      "zh": ""
+    },
+    {
+      "start": 180.96,
+      "duration": 2.28,
+      "text": "- I just don't know if I can, with a conscience,",
+      "en": "- I just don't know if I can, with a conscience,",
+      "zh": ""
+    },
+    {
+      "start": 183.24,
+      "duration": 2.04,
+      "text": "vote for Bush or Gore.",
+      "en": "vote for Bush or Gore.",
+      "zh": ""
+    },
+    {
+      "start": 185.28,
+      "duration": 1.8,
+      "text": "- I will vote for Ralph Nader.",
+      "en": "- I will vote for Ralph Nader.",
+      "zh": ""
+    },
+    {
+      "start": 187.08,
+      "duration": 4.53,
+      "text": "- Most of those voters were devastated",
+      "en": "- Most of those voters were devastated",
+      "zh": ""
+    },
+    {
+      "start": 191.61,
+      "duration": 2.61,
+      "text": "that by voting for Nader rather than Gore,",
+      "en": "that by voting for Nader rather than Gore,",
+      "zh": ""
+    },
+    {
+      "start": 194.22,
+      "duration": 2.22,
+      "text": "they ended up electing Bush.",
+      "en": "they ended up electing Bush.",
+      "zh": ""
+    },
+    {
+      "start": 196.44,
+      "duration": 2.7,
+      "text": "This is what is called a spoiler effect.",
+      "en": "This is what is called a spoiler effect.",
+      "zh": ""
+    },
+    {
+      "start": 199.14,
+      "duration": 4.17,
+      "text": "Almost all Nader voters preferred Gore to Bush,",
+      "en": "Almost all Nader voters preferred Gore to Bush,",
+      "zh": ""
+    },
+    {
+      "start": 203.31,
+      "duration": 2.07,
+      "text": "but in a first past the post system,",
+      "en": "but in a first past the post system,",
+      "zh": ""
+    },
+    {
+      "start": 205.38,
+      "duration": 3.4,
+      "text": "they had no way of expressing that preference",
+      "en": "they had no way of expressing that preference",
+      "zh": ""
+    },
+    {
+      "start": 210.45,
+      "duration": 2.62,
+      "text": "because you could only vote for one candidate.",
+      "en": "because you could only vote for one candidate.",
+      "zh": ""
+    },
+    {
+      "start": 213.07,
+      "duration": 1.49,
+      "text": "(inquisitive music)",
+      "en": "(inquisitive music)",
+      "zh": ""
+    },
+    {
+      "start": 214.56,
+      "duration": 2.7,
+      "text": "- So first past the post incentivizes voters",
+      "en": "- So first past the post incentivizes voters",
+      "zh": ""
+    },
+    {
+      "start": 217.26,
+      "duration": 2.07,
+      "text": "to vote strategically.",
+      "en": "to vote strategically.",
+      "zh": ""
+    },
+    {
+      "start": 219.33,
+      "duration": 2.04,
+      "text": "Say there are five parties,",
+      "en": "Say there are five parties,",
+      "zh": ""
+    },
+    {
+      "start": 221.37,
+      "duration": 4.26,
+      "text": "one of them will be the smallest one, and so they won't win.",
+      "en": "one of them will be the smallest one, and so they won't win.",
+      "zh": ""
+    },
+    {
+      "start": 225.63,
+      "duration": 1.77,
+      "text": "Why would you vote for them?",
+      "en": "Why would you vote for them?",
+      "zh": ""
+    },
+    {
+      "start": 227.4,
+      "duration": 4.5,
+      "text": "This is also true if you have four parties or three parties.",
+      "en": "This is also true if you have four parties or three parties.",
+      "zh": ""
+    },
+    {
+      "start": 231.9,
+      "duration": 2.52,
+      "text": "This winner-takes-all voting system leads",
+      "en": "This winner-takes-all voting system leads",
+      "zh": ""
+    },
+    {
+      "start": 234.42,
+      "duration": 3.33,
+      "text": "to a concentration of power in larger parties,",
+      "en": "to a concentration of power in larger parties,",
+      "zh": ""
+    },
+    {
+      "start": 237.75,
+      "duration": 2.88,
+      "text": "eventually, leading to a two-party system.",
+      "en": "eventually, leading to a two-party system.",
+      "zh": ""
+    },
+    {
+      "start": 241.62,
+      "duration": 1.5,
+      "text": "This effect is common enough",
+      "en": "This effect is common enough",
+      "zh": ""
+    },
+    {
+      "start": 243.12,
+      "duration": 3.24,
+      "text": "that it has a name: Duverger's Law.",
+      "en": "that it has a name: Duverger's Law.",
+      "zh": ""
+    },
+    {
+      "start": 248.88,
+      "duration": 2.76,
+      "text": "So first past the post isn't a great option.",
+      "en": "So first past the post isn't a great option.",
+      "zh": ""
+    },
+    {
+      "start": 251.64,
+      "duration": 2.07,
+      "text": "So what else could we do?",
+      "en": "So what else could we do?",
+      "zh": ""
+    },
+    {
+      "start": 253.71,
+      "duration": 1.32,
+      "text": "(subdued music)",
+      "en": "(subdued music)",
+      "zh": ""
+    },
+    {
+      "start": 255.03,
+      "duration": 2.94,
+      "text": "Well, we can say that a candidate can only win an election",
+      "en": "Well, we can say that a candidate can only win an election",
+      "zh": ""
+    },
+    {
+      "start": 257.97,
+      "duration": 4.8,
+      "text": "if they get a majority, at least 50% plus one of the vote.",
+      "en": "if they get a majority, at least 50% plus one of the vote.",
+      "zh": ""
+    },
+    {
+      "start": 262.77,
+      "duration": 3.75,
+      "text": "But what if we hold an election and no one gets a majority?",
+      "en": "But what if we hold an election and no one gets a majority?",
+      "zh": ""
+    },
+    {
+      "start": 266.52,
+      "duration": 1.74,
+      "text": "We could go to the people who voted for the candidate",
+      "en": "We could go to the people who voted for the candidate",
+      "zh": ""
+    },
+    {
+      "start": 268.26,
+      "duration": 2.82,
+      "text": "with the fewest votes and ask them to vote again,",
+      "en": "with the fewest votes and ask them to vote again,",
+      "zh": ""
+    },
+    {
+      "start": 271.08,
+      "duration": 2.01,
+      "text": "but choose a different candidate",
+      "en": "but choose a different candidate",
+      "zh": ""
+    },
+    {
+      "start": 273.09,
+      "duration": 3.24,
+      "text": "and we could repeat this process over and over",
+      "en": "and we could repeat this process over and over",
+      "zh": ""
+    },
+    {
+      "start": 276.33,
+      "duration": 2.01,
+      "text": "eliminating the smallest candidate",
+      "en": "eliminating the smallest candidate",
+      "zh": ""
+    },
+    {
+      "start": 278.34,
+      "duration": 2.49,
+      "text": "until one candidate reaches a majority.",
+      "en": "until one candidate reaches a majority.",
+      "zh": ""
+    },
+    {
+      "start": 281.79,
+      "duration": 2.64,
+      "text": "But holding many elections is a big hassle",
+      "en": "But holding many elections is a big hassle",
+      "zh": ""
+    },
+    {
+      "start": 284.43,
+      "duration": 2.55,
+      "text": "so instead we could just ask voters",
+      "en": "so instead we could just ask voters",
+      "zh": ""
+    },
+    {
+      "start": 286.98,
+      "duration": 1.65,
+      "text": "to rank their preferences",
+      "en": "to rank their preferences",
+      "zh": ""
+    },
+    {
+      "start": 288.63,
+      "duration": 2.28,
+      "text": "from their favorite to their least favorite.",
+      "en": "from their favorite to their least favorite.",
+      "zh": ""
+    },
+    {
+      "start": 290.91,
+      "duration": 2.01,
+      "text": "And if their favorite candidate gets eliminated,",
+      "en": "And if their favorite candidate gets eliminated,",
+      "zh": ""
+    },
+    {
+      "start": 292.92,
+      "duration": 2.37,
+      "text": "we go to their second preferences.",
+      "en": "we go to their second preferences.",
+      "zh": ""
+    },
+    {
+      "start": 295.29,
+      "duration": 3.6,
+      "text": "When the polls close, you count the voters' first choices.",
+      "en": "When the polls close, you count the voters' first choices.",
+      "zh": ""
+    },
+    {
+      "start": 298.89,
+      "duration": 2.28,
+      "text": "If any candidate has a majority of the votes,",
+      "en": "If any candidate has a majority of the votes,",
+      "zh": ""
+    },
+    {
+      "start": 301.17,
+      "duration": 1.26,
+      "text": "then they're the winner.",
+      "en": "then they're the winner.",
+      "zh": ""
+    },
+    {
+      "start": 302.43,
+      "duration": 2.04,
+      "text": "But if no candidate has a majority,",
+      "en": "But if no candidate has a majority,",
+      "zh": ""
+    },
+    {
+      "start": 304.47,
+      "duration": 2.4,
+      "text": "the candidate with the fewest votes gets eliminated",
+      "en": "the candidate with the fewest votes gets eliminated",
+      "zh": ""
+    },
+    {
+      "start": 306.87,
+      "duration": 1.38,
+      "text": "and their ballots are distributed",
+      "en": "and their ballots are distributed",
+      "zh": ""
+    },
+    {
+      "start": 308.25,
+      "duration": 2.1,
+      "text": "to those voters' second preferences,",
+      "en": "to those voters' second preferences,",
+      "zh": ""
+    },
+    {
+      "start": 310.35,
+      "duration": 1.47,
+      "text": "and this keeps happening",
+      "en": "and this keeps happening",
+      "zh": ""
+    },
+    {
+      "start": 311.82,
+      "duration": 3.9,
+      "text": "until one candidate has a majority of the votes.",
+      "en": "until one candidate has a majority of the votes.",
+      "zh": ""
+    },
+    {
+      "start": 315.72,
+      "duration": 1.74,
+      "text": "This is mathematically identical",
+      "en": "This is mathematically identical",
+      "zh": ""
+    },
+    {
+      "start": 317.46,
+      "duration": 1.83,
+      "text": "to holding repeated elections,",
+      "en": "to holding repeated elections,",
+      "zh": ""
+    },
+    {
+      "start": 319.29,
+      "duration": 1.74,
+      "text": "it just saves the time and hassle",
+      "en": "it just saves the time and hassle",
+      "zh": ""
+    },
+    {
+      "start": 321.03,
+      "duration": 3.36,
+      "text": "so it's referred to as instant runoff,",
+      "en": "so it's referred to as instant runoff,",
+      "zh": ""
+    },
+    {
+      "start": 324.39,
+      "duration": 1.44,
+      "text": "but the system is also known",
+      "en": "but the system is also known",
+      "zh": ""
+    },
+    {
+      "start": 325.83,
+      "duration": 3.84,
+      "text": "as preferential voting or ranked-choice voting.",
+      "en": "as preferential voting or ranked-choice voting.",
+      "zh": ""
+    },
+    {
+      "start": 329.67,
+      "duration": 2.91,
+      "text": "An instant runoff doesn't just affect the voters,",
+      "en": "An instant runoff doesn't just affect the voters,",
+      "zh": ""
+    },
+    {
+      "start": 332.58,
+      "duration": 3.81,
+      "text": "it affects how the candidates behave towards each other.",
+      "en": "it affects how the candidates behave towards each other.",
+      "zh": ""
+    },
+    {
+      "start": 336.39,
+      "duration": 3.0,
+      "text": "- It was the Minneapolis mayor's race, 2013,",
+      "en": "- It was the Minneapolis mayor's race, 2013,",
+      "zh": ""
+    },
+    {
+      "start": 339.39,
+      "duration": 2.01,
+      "text": "they were using ranked-choice voting.",
+      "en": "they were using ranked-choice voting.",
+      "zh": ""
+    },
+    {
+      "start": 341.4,
+      "duration": 2.97,
+      "text": "The incumbent mayor had stepped down",
+      "en": "The incumbent mayor had stepped down",
+      "zh": ""
+    },
+    {
+      "start": 344.37,
+      "duration": 2.46,
+      "text": "and there were all of these people",
+      "en": "and there were all of these people",
+      "zh": ""
+    },
+    {
+      "start": 346.83,
+      "duration": 1.26,
+      "text": "came out from the woodwork wanting to be mayor.",
+      "en": "came out from the woodwork wanting to be mayor.",
+      "zh": ""
+    },
+    {
+      "start": 348.09,
+      "duration": 2.58,
+      "text": "There're 35 candidates.",
+      "en": "There're 35 candidates.",
+      "zh": ""
+    },
+    {
+      "start": 350.67,
+      "duration": 2.55,
+      "text": "And so you would think if there's 35 candidates",
+      "en": "And so you would think if there's 35 candidates",
+      "zh": ""
+    },
+    {
+      "start": 353.22,
+      "duration": 1.74,
+      "text": "you'd want to dunk on someone,",
+      "en": "you'd want to dunk on someone,",
+      "zh": ""
+    },
+    {
+      "start": 354.96,
+      "duration": 3.36,
+      "text": "you'd wanna like kind of elbow yourself into the spotlight.",
+      "en": "you'd wanna like kind of elbow yourself into the spotlight.",
+      "zh": ""
+    },
+    {
+      "start": 358.32,
+      "duration": 1.44,
+      "text": "That's not what happened.",
+      "en": "That's not what happened.",
+      "zh": ""
+    },
+    {
+      "start": 359.76,
+      "duration": 1.08,
+      "text": "These 35 candidates,",
+      "en": "These 35 candidates,",
+      "zh": ""
+    },
+    {
+      "start": 360.84,
+      "duration": 2.97,
+      "text": "all of them were really nice to each other.",
+      "en": "all of them were really nice to each other.",
+      "zh": ""
+    },
+    {
+      "start": 363.81,
+      "duration": 3.42,
+      "text": "They were all super cordial, super polite,",
+      "en": "They were all super cordial, super polite,",
+      "zh": ""
+    },
+    {
+      "start": 367.23,
+      "duration": 5.0,
+      "text": "to the degree that at the end of the final mayoral debate,",
+      "en": "to the degree that at the end of the final mayoral debate,",
+      "zh": ""
+    },
+    {
+      "start": 373.65,
+      "duration": 5.0,
+      "text": "they all came together and they sang \"Kumbaya\" together.",
+      "en": "they all came together and they sang \"Kumbaya\" together.",
+      "zh": ""
+    },
+    {
+      "start": 379.79,
+      "duration": 5.0,
+      "text": "♪ Kumbaya, my Lord, kumbaya ♪",
+      "en": "♪ Kumbaya, my Lord, kumbaya ♪",
+      "zh": ""
+    },
+    {
+      "start": 384.8,
+      "duration": 3.0,
+      "text": "♪ Oh, Lord, kumbaya ♪",
+      "en": "♪ Oh, Lord, kumbaya ♪",
+      "zh": ""
+    },
+    {
+      "start": 390.03,
+      "duration": 2.37,
+      "text": "- The amount of vitriol and anger",
+      "en": "- The amount of vitriol and anger",
+      "zh": ""
+    },
+    {
+      "start": 392.4,
+      "duration": 3.6,
+      "text": "and partisan, you know, mudslinging that we're all used to,",
+      "en": "and partisan, you know, mudslinging that we're all used to,",
+      "zh": ""
+    },
+    {
+      "start": 396.0,
+      "duration": 4.02,
+      "text": "to see this vision of an actual \"Kumbaya.\"",
+      "en": "to see this vision of an actual \"Kumbaya.\"",
+      "zh": ""
+    },
+    {
+      "start": 400.02,
+      "duration": 1.38,
+      "text": "It's not even a joke.",
+      "en": "It's not even a joke.",
+      "zh": ""
+    },
+    {
+      "start": 401.4,
+      "duration": 1.62,
+      "text": "All of these people getting along",
+      "en": "All of these people getting along",
+      "zh": ""
+    },
+    {
+      "start": 403.02,
+      "duration": 2.22,
+      "text": "so desperate for second and third choices",
+      "en": "so desperate for second and third choices",
+      "zh": ""
+    },
+    {
+      "start": 405.24,
+      "duration": 1.24,
+      "text": "from other people that they're like,",
+      "en": "from other people that they're like,",
+      "zh": ""
+    },
+    {
+      "start": 406.48,
+      "duration": 2.06,
+      "text": "\"I'm gonna be the picture-perfect,",
+      "en": "\"I'm gonna be the picture-perfect,",
+      "zh": ""
+    },
+    {
+      "start": 408.54,
+      "duration": 2.46,
+      "text": "kindest candidate possible.\"",
+      "en": "kindest candidate possible.\"",
+      "zh": ""
+    },
+    {
+      "start": 412.17,
+      "duration": 3.0,
+      "text": "- But there's also a problem with instant runoff.",
+      "en": "- But there's also a problem with instant runoff.",
+      "zh": ""
+    },
+    {
+      "start": 415.17,
+      "duration": 3.36,
+      "text": "There can be cases where a candidate doing worse",
+      "en": "There can be cases where a candidate doing worse",
+      "zh": ""
+    },
+    {
+      "start": 418.53,
+      "duration": 2.28,
+      "text": "can actually help get them elected.",
+      "en": "can actually help get them elected.",
+      "zh": ""
+    },
+    {
+      "start": 422.1,
+      "duration": 2.1,
+      "text": "Let's say we have three candidates:",
+      "en": "Let's say we have three candidates:",
+      "zh": ""
+    },
+    {
+      "start": 424.2,
+      "duration": 2.46,
+      "text": "Einstein, Curie, and Bohr.",
+      "en": "Einstein, Curie, and Bohr.",
+      "zh": ""
+    },
+    {
+      "start": 426.66,
+      "duration": 3.63,
+      "text": "Now, Einstein and Bohr have very conflicting views",
+      "en": "Now, Einstein and Bohr have very conflicting views",
+      "zh": ""
+    },
+    {
+      "start": 430.29,
+      "duration": 3.48,
+      "text": "while Curie is ideologically in the center.",
+      "en": "while Curie is ideologically in the center.",
+      "zh": ""
+    },
+    {
+      "start": 433.77,
+      "duration": 2.97,
+      "text": "So let's say Einstein gets 25% of the vote,",
+      "en": "So let's say Einstein gets 25% of the vote,",
+      "zh": ""
+    },
+    {
+      "start": 436.74,
+      "duration": 2.88,
+      "text": "Curie gets 30, and Bohr gets 45.",
+      "en": "Curie gets 30, and Bohr gets 45.",
+      "zh": ""
+    },
+    {
+      "start": 439.62,
+      "duration": 1.47,
+      "text": "No one got a majority.",
+      "en": "No one got a majority.",
+      "zh": ""
+    },
+    {
+      "start": 441.09,
+      "duration": 1.74,
+      "text": "So it goes to the second round",
+      "en": "So it goes to the second round",
+      "zh": ""
+    },
+    {
+      "start": 442.83,
+      "duration": 1.95,
+      "text": "with Einstein being eliminated",
+      "en": "with Einstein being eliminated",
+      "zh": ""
+    },
+    {
+      "start": 444.78,
+      "duration": 2.28,
+      "text": "and because people who voted for Einstein",
+      "en": "and because people who voted for Einstein",
+      "zh": ""
+    },
+    {
+      "start": 447.06,
+      "duration": 2.28,
+      "text": "put down Curie as their second choice,",
+      "en": "put down Curie as their second choice,",
+      "zh": ""
+    },
+    {
+      "start": 449.34,
+      "duration": 2.49,
+      "text": "well, Curie ultimately gets elected.",
+      "en": "well, Curie ultimately gets elected.",
+      "zh": ""
+    },
+    {
+      "start": 452.76,
+      "duration": 3.75,
+      "text": "But now imagine that Bohr has a terrible campaign speech",
+      "en": "But now imagine that Bohr has a terrible campaign speech",
+      "zh": ""
+    },
+    {
+      "start": 456.51,
+      "duration": 2.85,
+      "text": "or proposes a very unpopular policy",
+      "en": "or proposes a very unpopular policy",
+      "zh": ""
+    },
+    {
+      "start": 459.36,
+      "duration": 2.19,
+      "text": "so bad that some of his voters",
+      "en": "so bad that some of his voters",
+      "zh": ""
+    },
+    {
+      "start": 461.55,
+      "duration": 2.82,
+      "text": "actually switch over to Einstein's side.",
+      "en": "actually switch over to Einstein's side.",
+      "zh": ""
+    },
+    {
+      "start": 464.37,
+      "duration": 3.57,
+      "text": "Well now it's Curie that gets eliminated",
+      "en": "Well now it's Curie that gets eliminated",
+      "zh": ""
+    },
+    {
+      "start": 467.94,
+      "duration": 1.92,
+      "text": "and because she's more moderate,",
+      "en": "and because she's more moderate,",
+      "zh": ""
+    },
+    {
+      "start": 469.86,
+      "duration": 2.13,
+      "text": "half of her voters select Einstein",
+      "en": "half of her voters select Einstein",
+      "zh": ""
+    },
+    {
+      "start": 471.99,
+      "duration": 2.58,
+      "text": "and the other half select Bohr in the second round,",
+      "en": "and the other half select Bohr in the second round,",
+      "zh": ""
+    },
+    {
+      "start": 474.57,
+      "duration": 3.24,
+      "text": "and this leads to Bohr winning.",
+      "en": "and this leads to Bohr winning.",
+      "zh": ""
+    },
+    {
+      "start": 477.81,
+      "duration": 3.15,
+      "text": "So Bohr doing worse in the first round",
+      "en": "So Bohr doing worse in the first round",
+      "zh": ""
+    },
+    {
+      "start": 480.96,
+      "duration": 3.42,
+      "text": "actually leads to him winning the election.",
+      "en": "actually leads to him winning the election.",
+      "zh": ""
+    },
+    {
+      "start": 484.38,
+      "duration": 1.47,
+      "text": "Clearly, this isn't something",
+      "en": "Clearly, this isn't something",
+      "zh": ""
+    },
+    {
+      "start": 485.85,
+      "duration": 2.41,
+      "text": "that we want in a voting system.",
+      "en": "that we want in a voting system.",
+      "zh": ""
+    },
+    {
+      "start": 488.26,
+      "duration": 1.07,
+      "text": "(serious music) This is what",
+      "en": "(serious music) This is what",
+      "zh": ""
+    },
+    {
+      "start": 489.33,
+      "duration": 3.36,
+      "text": "the French mathematician Condorcet also thought.",
+      "en": "the French mathematician Condorcet also thought.",
+      "zh": ""
+    },
+    {
+      "start": 492.69,
+      "duration": 2.64,
+      "text": "Condorcet was one of the first people applying logic",
+      "en": "Condorcet was one of the first people applying logic",
+      "zh": ""
+    },
+    {
+      "start": 495.33,
+      "duration": 3.27,
+      "text": "and mathematics to rigorously study voting systems",
+      "en": "and mathematics to rigorously study voting systems",
+      "zh": ""
+    },
+    {
+      "start": 498.6,
+      "duration": 1.47,
+      "text": "making him one of the founders",
+      "en": "making him one of the founders",
+      "zh": ""
+    },
+    {
+      "start": 500.07,
+      "duration": 3.33,
+      "text": "of a branch of mathematics known as social choice theory.",
+      "en": "of a branch of mathematics known as social choice theory.",
+      "zh": ""
+    },
+    {
+      "start": 504.6,
+      "duration": 2.34,
+      "text": "He was working during the time of the French Revolution,",
+      "en": "He was working during the time of the French Revolution,",
+      "zh": ""
+    },
+    {
+      "start": 506.94,
+      "duration": 2.28,
+      "text": "so fairly determining the will of the people",
+      "en": "so fairly determining the will of the people",
+      "zh": ""
+    },
+    {
+      "start": 509.22,
+      "duration": 2.67,
+      "text": "was having a cultural moment right then.",
+      "en": "was having a cultural moment right then.",
+      "zh": ""
+    },
+    {
+      "start": 514.74,
+      "duration": 2.76,
+      "text": "In 1784, Condorcet's contemporary",
+      "en": "In 1784, Condorcet's contemporary",
+      "zh": ""
+    },
+    {
+      "start": 517.5,
+      "duration": 2.16,
+      "text": "at the French Royal Society of Science,",
+      "en": "at the French Royal Society of Science,",
+      "zh": ""
+    },
+    {
+      "start": 519.66,
+      "duration": 3.54,
+      "text": "Jean-Charles de Borda, proposed a voting method.",
+      "en": "Jean-Charles de Borda, proposed a voting method.",
+      "zh": ""
+    },
+    {
+      "start": 524.73,
+      "duration": 2.37,
+      "text": "You ask the voters to rank the candidates.",
+      "en": "You ask the voters to rank the candidates.",
+      "zh": ""
+    },
+    {
+      "start": 527.1,
+      "duration": 1.44,
+      "text": "If there are five candidates,",
+      "en": "If there are five candidates,",
+      "zh": ""
+    },
+    {
+      "start": 528.54,
+      "duration": 3.18,
+      "text": "ranking someone first gives that candidate four points,",
+      "en": "ranking someone first gives that candidate four points,",
+      "zh": ""
+    },
+    {
+      "start": 531.72,
+      "duration": 3.0,
+      "text": "ranking them second would give them three, and so on,",
+      "en": "ranking them second would give them three, and so on,",
+      "zh": ""
+    },
+    {
+      "start": 534.72,
+      "duration": 3.06,
+      "text": "with zero points being awarded for last place.",
+      "en": "with zero points being awarded for last place.",
+      "zh": ""
+    },
+    {
+      "start": 539.07,
+      "duration": 2.19,
+      "text": "But the Borda count has a problem",
+      "en": "But the Borda count has a problem",
+      "zh": ""
+    },
+    {
+      "start": 541.26,
+      "duration": 2.55,
+      "text": "because the number of points given to each candidate",
+      "en": "because the number of points given to each candidate",
+      "zh": ""
+    },
+    {
+      "start": 543.81,
+      "duration": 3.15,
+      "text": "is dependent on the total number of candidates.",
+      "en": "is dependent on the total number of candidates.",
+      "zh": ""
+    },
+    {
+      "start": 546.96,
+      "duration": 2.82,
+      "text": "Adding extra people that have no chance of winning",
+      "en": "Adding extra people that have no chance of winning",
+      "zh": ""
+    },
+    {
+      "start": 549.78,
+      "duration": 2.07,
+      "text": "can affect the winner.",
+      "en": "can affect the winner.",
+      "zh": ""
+    },
+    {
+      "start": 551.85,
+      "duration": 2.97,
+      "text": "Because of this, Condorcet hated Borda's idea.",
+      "en": "Because of this, Condorcet hated Borda's idea.",
+      "zh": ""
+    },
+    {
+      "start": 554.82,
+      "duration": 2.31,
+      "text": "He wrote that it was \"bound to lead to error",
+      "en": "He wrote that it was \"bound to lead to error",
+      "zh": ""
+    },
+    {
+      "start": 557.13,
+      "duration": 3.33,
+      "text": "because it relies on irrelevant factors for its judgments.\"",
+      "en": "because it relies on irrelevant factors for its judgments.\"",
+      "zh": ""
+    },
+    {
+      "start": 561.42,
+      "duration": 3.03,
+      "text": "So in 1785, Condorcet published an essay",
+      "en": "So in 1785, Condorcet published an essay",
+      "zh": ""
+    },
+    {
+      "start": 564.45,
+      "duration": 2.64,
+      "text": "in which he proposed a new voting system,",
+      "en": "in which he proposed a new voting system,",
+      "zh": ""
+    },
+    {
+      "start": 567.09,
+      "duration": 2.71,
+      "text": "one he thought was the most fair.",
+      "en": "one he thought was the most fair.",
+      "zh": ""
+    },
+    {
+      "start": 569.8,
+      "duration": 0.83,
+      "text": "(soft music)",
+      "en": "(soft music)",
+      "zh": ""
+    },
+    {
+      "start": 570.63,
+      "duration": 0.99,
+      "text": "Basically the winner needs",
+      "en": "Basically the winner needs",
+      "zh": ""
+    },
+    {
+      "start": 571.62,
+      "duration": 3.9,
+      "text": "to beat every other candidate in a head-to-head election.",
+      "en": "to beat every other candidate in a head-to-head election.",
+      "zh": ""
+    },
+    {
+      "start": 575.52,
+      "duration": 1.74,
+      "text": "But with more than two candidates,",
+      "en": "But with more than two candidates,",
+      "zh": ""
+    },
+    {
+      "start": 577.26,
+      "duration": 1.62,
+      "text": "do you need to hold a large number",
+      "en": "do you need to hold a large number",
+      "zh": ""
+    },
+    {
+      "start": 578.88,
+      "duration": 2.52,
+      "text": "of head-to-head elections to pick the winner?",
+      "en": "of head-to-head elections to pick the winner?",
+      "zh": ""
+    },
+    {
+      "start": 581.4,
+      "duration": 0.93,
+      "text": "Well, no.",
+      "en": "Well, no.",
+      "zh": ""
+    },
+    {
+      "start": 582.33,
+      "duration": 2.31,
+      "text": "Just ask the voters to rank their preferences",
+      "en": "Just ask the voters to rank their preferences",
+      "zh": ""
+    },
+    {
+      "start": 584.64,
+      "duration": 1.47,
+      "text": "just like in instant runoff",
+      "en": "just like in instant runoff",
+      "zh": ""
+    },
+    {
+      "start": 586.11,
+      "duration": 3.36,
+      "text": "and then count how many voters rank each candidate higher",
+      "en": "and then count how many voters rank each candidate higher",
+      "zh": ""
+    },
+    {
+      "start": 589.47,
+      "duration": 1.68,
+      "text": "than each other candidate.",
+      "en": "than each other candidate.",
+      "zh": ""
+    },
+    {
+      "start": 591.15,
+      "duration": 2.31,
+      "text": "This feels like the most fair voting method.",
+      "en": "This feels like the most fair voting method.",
+      "zh": ""
+    },
+    {
+      "start": 596.79,
+      "duration": 1.86,
+      "text": "This voting system was actually discovered",
+      "en": "This voting system was actually discovered",
+      "zh": ""
+    },
+    {
+      "start": 598.65,
+      "duration": 2.73,
+      "text": "450 years earlier by Ramon Llull,",
+      "en": "450 years earlier by Ramon Llull,",
+      "zh": ""
+    },
+    {
+      "start": 601.38,
+      "duration": 3.18,
+      "text": "a monk who was looking at how church leaders were chosen,",
+      "en": "a monk who was looking at how church leaders were chosen,",
+      "zh": ""
+    },
+    {
+      "start": 604.56,
+      "duration": 2.07,
+      "text": "but Llull's ideas didn't make an impact",
+      "en": "but Llull's ideas didn't make an impact",
+      "zh": ""
+    },
+    {
+      "start": 606.63,
+      "duration": 4.02,
+      "text": "because his book, \"Ars eleccionis,\" the art of elections,",
+      "en": "because his book, \"Ars eleccionis,\" the art of elections,",
+      "zh": ""
+    },
+    {
+      "start": 610.65,
+      "duration": 3.33,
+      "text": "was lost and only rediscovered in 2001.",
+      "en": "was lost and only rediscovered in 2001.",
+      "zh": ""
+    },
+    {
+      "start": 613.98,
+      "duration": 4.86,
+      "text": "So the voting system is named after Condorcet and not Llull.",
+      "en": "So the voting system is named after Condorcet and not Llull.",
+      "zh": ""
+    },
+    {
+      "start": 618.84,
+      "duration": 0.83,
+      "text": "(gentle music)",
+      "en": "(gentle music)",
+      "zh": ""
+    },
+    {
+      "start": 619.67,
+      "duration": 3.19,
+      "text": "But will there always be a winner in this way?",
+      "en": "But will there always be a winner in this way?",
+      "zh": ""
+    },
+    {
+      "start": 622.86,
+      "duration": 2.22,
+      "text": "Let's try Condorcet's method for choosing dinner",
+      "en": "Let's try Condorcet's method for choosing dinner",
+      "zh": ""
+    },
+    {
+      "start": 625.08,
+      "duration": 2.07,
+      "text": "between you and two friends.",
+      "en": "between you and two friends.",
+      "zh": ""
+    },
+    {
+      "start": 627.15,
+      "duration": 3.84,
+      "text": "There are three options: burgers, pizza or sushi.",
+      "en": "There are three options: burgers, pizza or sushi.",
+      "zh": ""
+    },
+    {
+      "start": 630.99,
+      "duration": 2.88,
+      "text": "You really like burgers, so that's your first preference,",
+      "en": "You really like burgers, so that's your first preference,",
+      "zh": ""
+    },
+    {
+      "start": 633.87,
+      "duration": 3.42,
+      "text": "your second choice is pizza, and you put sushi last.",
+      "en": "your second choice is pizza, and you put sushi last.",
+      "zh": ""
+    },
+    {
+      "start": 637.29,
+      "duration": 3.6,
+      "text": "Your friend prefers pizza, then sushi, then burgers,",
+      "en": "Your friend prefers pizza, then sushi, then burgers,",
+      "zh": ""
+    },
+    {
+      "start": 640.89,
+      "duration": 1.77,
+      "text": "and your other friend prefers sushi,",
+      "en": "and your other friend prefers sushi,",
+      "zh": ""
+    },
+    {
+      "start": 642.66,
+      "duration": 2.04,
+      "text": "then burgers, then pizza.",
+      "en": "then burgers, then pizza.",
+      "zh": ""
+    },
+    {
+      "start": 644.7,
+      "duration": 2.64,
+      "text": "Now if you choose burgers, it can be argued",
+      "en": "Now if you choose burgers, it can be argued",
+      "zh": ""
+    },
+    {
+      "start": 647.34,
+      "duration": 2.07,
+      "text": "that sushi should have won instead",
+      "en": "that sushi should have won instead",
+      "zh": ""
+    },
+    {
+      "start": 649.41,
+      "duration": 2.82,
+      "text": "since two of you prefer sushi over burgers",
+      "en": "since two of you prefer sushi over burgers",
+      "zh": ""
+    },
+    {
+      "start": 652.23,
+      "duration": 2.97,
+      "text": "and only one prefers burgers to sushi.",
+      "en": "and only one prefers burgers to sushi.",
+      "zh": ""
+    },
+    {
+      "start": 655.2,
+      "duration": 3.6,
+      "text": "However, by the same argument, pizza is preferred to sushi",
+      "en": "However, by the same argument, pizza is preferred to sushi",
+      "zh": ""
+    },
+    {
+      "start": 658.8,
+      "duration": 2.28,
+      "text": "and burgers are preferred to pizza",
+      "en": "and burgers are preferred to pizza",
+      "zh": ""
+    },
+    {
+      "start": 661.08,
+      "duration": 2.88,
+      "text": "by a margin of two-to-one on each occasion.",
+      "en": "by a margin of two-to-one on each occasion.",
+      "zh": ""
+    },
+    {
+      "start": 663.96,
+      "duration": 3.57,
+      "text": "So it seems like you and your friends are stuck in a loop.",
+      "en": "So it seems like you and your friends are stuck in a loop.",
+      "zh": ""
+    },
+    {
+      "start": 667.53,
+      "duration": 2.52,
+      "text": "Burgers are preferred to pizza, which is preferred to sushi,",
+      "en": "Burgers are preferred to pizza, which is preferred to sushi,",
+      "zh": ""
+    },
+    {
+      "start": 670.05,
+      "duration": 2.67,
+      "text": "which is preferred to burgers and so on.",
+      "en": "which is preferred to burgers and so on.",
+      "zh": ""
+    },
+    {
+      "start": 674.91,
+      "duration": 3.6,
+      "text": "This situation is known as Condorcet's paradox.",
+      "en": "This situation is known as Condorcet's paradox.",
+      "zh": ""
+    },
+    {
+      "start": 680.4,
+      "duration": 2.07,
+      "text": "Condorcet died before he could resolve",
+      "en": "Condorcet died before he could resolve",
+      "zh": ""
+    },
+    {
+      "start": 682.47,
+      "duration": 1.89,
+      "text": "this problem with his voting system.",
+      "en": "this problem with his voting system.",
+      "zh": ""
+    },
+    {
+      "start": 684.36,
+      "duration": 2.37,
+      "text": "He was politically active during the French Revolution",
+      "en": "He was politically active during the French Revolution",
+      "zh": ""
+    },
+    {
+      "start": 686.73,
+      "duration": 2.25,
+      "text": "writing a draft of France's constitution.",
+      "en": "writing a draft of France's constitution.",
+      "zh": ""
+    },
+    {
+      "start": 690.63,
+      "duration": 2.28,
+      "text": "In 1793 during the Reign of Terror",
+      "en": "In 1793 during the Reign of Terror",
+      "zh": ""
+    },
+    {
+      "start": 692.91,
+      "duration": 2.49,
+      "text": "when La Montagne came to power,",
+      "en": "when La Montagne came to power,",
+      "zh": ""
+    },
+    {
+      "start": 695.4,
+      "duration": 2.52,
+      "text": "he was deemed a traitor for criticizing the regime,",
+      "en": "he was deemed a traitor for criticizing the regime,",
+      "zh": ""
+    },
+    {
+      "start": 697.92,
+      "duration": 2.52,
+      "text": "specifically their new constitution.",
+      "en": "specifically their new constitution.",
+      "zh": ""
+    },
+    {
+      "start": 700.44,
+      "duration": 3.06,
+      "text": "In the next year, he was arrested and died in jail.",
+      "en": "In the next year, he was arrested and died in jail.",
+      "zh": ""
+    },
+    {
+      "start": 705.21,
+      "duration": 1.08,
+      "text": "(gentle music)",
+      "en": "(gentle music)",
+      "zh": ""
+    },
+    {
+      "start": 706.29,
+      "duration": 3.48,
+      "text": "Over the next 150 years, dozens of mathematicians",
+      "en": "Over the next 150 years, dozens of mathematicians",
+      "zh": ""
+    },
+    {
+      "start": 709.77,
+      "duration": 2.19,
+      "text": "were proposing their own voting systems",
+      "en": "were proposing their own voting systems",
+      "zh": ""
+    },
+    {
+      "start": 711.96,
+      "duration": 4.53,
+      "text": "or modifications to Condorcet's or Borda's ideas.",
+      "en": "or modifications to Condorcet's or Borda's ideas.",
+      "zh": ""
+    },
+    {
+      "start": 716.49,
+      "duration": 2.58,
+      "text": "One of those mathematicians was Charles Dodgson,",
+      "en": "One of those mathematicians was Charles Dodgson,",
+      "zh": ""
+    },
+    {
+      "start": 719.07,
+      "duration": 2.25,
+      "text": "better known as Lewis Carroll.",
+      "en": "better known as Lewis Carroll.",
+      "zh": ""
+    },
+    {
+      "start": 721.32,
+      "duration": 2.13,
+      "text": "When he wasn't writing \"Alice in Wonderland,\"",
+      "en": "When he wasn't writing \"Alice in Wonderland,\"",
+      "zh": ""
+    },
+    {
+      "start": 723.45,
+      "duration": 3.81,
+      "text": "he was trying to find a system to hold fair elections.",
+      "en": "he was trying to find a system to hold fair elections.",
+      "zh": ""
+    },
+    {
+      "start": 728.37,
+      "duration": 2.73,
+      "text": "But every voting system had similar kinds of problems,",
+      "en": "But every voting system had similar kinds of problems,",
+      "zh": ""
+    },
+    {
+      "start": 731.1,
+      "duration": 1.98,
+      "text": "You'd either get Condorcet loops",
+      "en": "You'd either get Condorcet loops",
+      "zh": ""
+    },
+    {
+      "start": 733.08,
+      "duration": 2.97,
+      "text": "or other candidates that had no chance of winning",
+      "en": "or other candidates that had no chance of winning",
+      "zh": ""
+    },
+    {
+      "start": 736.05,
+      "duration": 2.7,
+      "text": "would affect the outcome of the election.",
+      "en": "would affect the outcome of the election.",
+      "zh": ""
+    },
+    {
+      "start": 738.75,
+      "duration": 1.77,
+      "text": "(lively jazz music)",
+      "en": "(lively jazz music)",
+      "zh": ""
+    },
+    {
+      "start": 740.52,
+      "duration": 4.08,
+      "text": "In 1951, Kenneth Arrow published his PhD thesis",
+      "en": "In 1951, Kenneth Arrow published his PhD thesis",
+      "zh": ""
+    },
+    {
+      "start": 744.6,
+      "duration": 2.82,
+      "text": "and in it he outlined five very obvious",
+      "en": "and in it he outlined five very obvious",
+      "zh": ""
+    },
+    {
+      "start": 747.42,
+      "duration": 1.29,
+      "text": "and reasonable conditions",
+      "en": "and reasonable conditions",
+      "zh": ""
+    },
+    {
+      "start": 748.71,
+      "duration": 2.61,
+      "text": "that a rational voting system should have.",
+      "en": "that a rational voting system should have.",
+      "zh": ""
+    },
+    {
+      "start": 751.32,
+      "duration": 1.14,
+      "text": "Condition number one:",
+      "en": "Condition number one:",
+      "zh": ""
+    },
+    {
+      "start": 752.46,
+      "duration": 3.24,
+      "text": "if everyone in the group chooses one option over another,",
+      "en": "if everyone in the group chooses one option over another,",
+      "zh": ""
+    },
+    {
+      "start": 755.7,
+      "duration": 1.95,
+      "text": "the outcome should reflect that.",
+      "en": "the outcome should reflect that.",
+      "zh": ""
+    },
+    {
+      "start": 757.65,
+      "duration": 1.47,
+      "text": "If every individual in the group",
+      "en": "If every individual in the group",
+      "zh": ""
+    },
+    {
+      "start": 759.12,
+      "duration": 2.16,
+      "text": "prefers to eat sushi over pizza,",
+      "en": "prefers to eat sushi over pizza,",
+      "zh": ""
+    },
+    {
+      "start": 761.28,
+      "duration": 3.51,
+      "text": "then the group as a whole should prefer sushi over pizza.",
+      "en": "then the group as a whole should prefer sushi over pizza.",
+      "zh": ""
+    },
+    {
+      "start": 764.79,
+      "duration": 2.94,
+      "text": "This is known as unanimity.",
+      "en": "This is known as unanimity.",
+      "zh": ""
+    },
+    {
+      "start": 767.73,
+      "duration": 2.4,
+      "text": "Condition two: no single person's vote",
+      "en": "Condition two: no single person's vote",
+      "zh": ""
+    },
+    {
+      "start": 770.13,
+      "duration": 2.64,
+      "text": "should override the preferences of everyone else.",
+      "en": "should override the preferences of everyone else.",
+      "zh": ""
+    },
+    {
+      "start": 772.77,
+      "duration": 1.59,
+      "text": "If everyone votes for pizza",
+      "en": "If everyone votes for pizza",
+      "zh": ""
+    },
+    {
+      "start": 774.36,
+      "duration": 2.25,
+      "text": "except one person who votes for sushi,",
+      "en": "except one person who votes for sushi,",
+      "zh": ""
+    },
+    {
+      "start": 776.61,
+      "duration": 2.58,
+      "text": "the group should obviously choose pizza.",
+      "en": "the group should obviously choose pizza.",
+      "zh": ""
+    },
+    {
+      "start": 779.19,
+      "duration": 3.51,
+      "text": "If a single vote is decisive, that's not a democracy,",
+      "en": "If a single vote is decisive, that's not a democracy,",
+      "zh": ""
+    },
+    {
+      "start": 782.7,
+      "duration": 1.23,
+      "text": "that's a dictatorship.",
+      "en": "that's a dictatorship.",
+      "zh": ""
+    },
+    {
+      "start": 784.8,
+      "duration": 2.25,
+      "text": "Condition three: everyone should be able",
+      "en": "Condition three: everyone should be able",
+      "zh": ""
+    },
+    {
+      "start": 787.05,
+      "duration": 1.56,
+      "text": "to vote however they want",
+      "en": "to vote however they want",
+      "zh": ""
+    },
+    {
+      "start": 788.61,
+      "duration": 3.27,
+      "text": "and the voting system must produce a conclusion for society",
+      "en": "and the voting system must produce a conclusion for society",
+      "zh": ""
+    },
+    {
+      "start": 791.88,
+      "duration": 2.7,
+      "text": "based on all the ballots, every time.",
+      "en": "based on all the ballots, every time.",
+      "zh": ""
+    },
+    {
+      "start": 794.58,
+      "duration": 1.83,
+      "text": "It can't avoid problematic ballots",
+      "en": "It can't avoid problematic ballots",
+      "zh": ""
+    },
+    {
+      "start": 796.41,
+      "duration": 2.46,
+      "text": "or candidates by simply ignoring them",
+      "en": "or candidates by simply ignoring them",
+      "zh": ""
+    },
+    {
+      "start": 798.87,
+      "duration": 3.72,
+      "text": "or just guessing randomly, it must reach the same answer",
+      "en": "or just guessing randomly, it must reach the same answer",
+      "zh": ""
+    },
+    {
+      "start": 802.59,
+      "duration": 2.76,
+      "text": "for the same set of ballots every time.",
+      "en": "for the same set of ballots every time.",
+      "zh": ""
+    },
+    {
+      "start": 805.35,
+      "duration": 3.24,
+      "text": "This is called unrestricted domain.",
+      "en": "This is called unrestricted domain.",
+      "zh": ""
+    },
+    {
+      "start": 808.59,
+      "duration": 3.24,
+      "text": "Condition four: the voting system should be transitive.",
+      "en": "Condition four: the voting system should be transitive.",
+      "zh": ""
+    },
+    {
+      "start": 811.83,
+      "duration": 1.98,
+      "text": "If a group prefers burgers over pizza",
+      "en": "If a group prefers burgers over pizza",
+      "zh": ""
+    },
+    {
+      "start": 813.81,
+      "duration": 1.53,
+      "text": "and pizza over sushi,",
+      "en": "and pizza over sushi,",
+      "zh": ""
+    },
+    {
+      "start": 815.34,
+      "duration": 2.88,
+      "text": "then they should also prefer burgers over sushi.",
+      "en": "then they should also prefer burgers over sushi.",
+      "zh": ""
+    },
+    {
+      "start": 818.22,
+      "duration": 2.61,
+      "text": "This is known as transitivity.",
+      "en": "This is known as transitivity.",
+      "zh": ""
+    },
+    {
+      "start": 820.83,
+      "duration": 2.4,
+      "text": "Condition five: if the preference of the group",
+      "en": "Condition five: if the preference of the group",
+      "zh": ""
+    },
+    {
+      "start": 823.23,
+      "duration": 1.47,
+      "text": "is sushi over pizza,",
+      "en": "is sushi over pizza,",
+      "zh": ""
+    },
+    {
+      "start": 824.7,
+      "duration": 2.55,
+      "text": "the introduction of another option, like burgers,",
+      "en": "the introduction of another option, like burgers,",
+      "zh": ""
+    },
+    {
+      "start": 827.25,
+      "duration": 2.31,
+      "text": "should not change that preference.",
+      "en": "should not change that preference.",
+      "zh": ""
+    },
+    {
+      "start": 829.56,
+      "duration": 3.15,
+      "text": "Sure, the group might collectively rank burgers above both",
+      "en": "Sure, the group might collectively rank burgers above both",
+      "zh": ""
+    },
+    {
+      "start": 832.71,
+      "duration": 1.95,
+      "text": "or in the middle or at the bottom,",
+      "en": "or in the middle or at the bottom,",
+      "zh": ""
+    },
+    {
+      "start": 834.66,
+      "duration": 1.95,
+      "text": "but the ranking of sushi over pizza",
+      "en": "but the ranking of sushi over pizza",
+      "zh": ""
+    },
+    {
+      "start": 836.61,
+      "duration": 2.88,
+      "text": "should not be affected by the new option.",
+      "en": "should not be affected by the new option.",
+      "zh": ""
+    },
+    {
+      "start": 839.49,
+      "duration": 3.6,
+      "text": "This is called the independence of irrelevant alternatives.",
+      "en": "This is called the independence of irrelevant alternatives.",
+      "zh": ""
+    },
+    {
+      "start": 844.32,
+      "duration": 3.48,
+      "text": "But here's the thing, Arrow proved that satisfying all five",
+      "en": "But here's the thing, Arrow proved that satisfying all five",
+      "zh": ""
+    },
+    {
+      "start": 847.8,
+      "duration": 1.98,
+      "text": "of these conditions in a ranked voting system",
+      "en": "of these conditions in a ranked voting system",
+      "zh": ""
+    },
+    {
+      "start": 849.78,
+      "duration": 3.09,
+      "text": "with three or more candidates is impossible.",
+      "en": "with three or more candidates is impossible.",
+      "zh": ""
+    },
+    {
+      "start": 852.87,
+      "duration": 2.31,
+      "text": "This is Arrow's Impossibility Theorem,",
+      "en": "This is Arrow's Impossibility Theorem,",
+      "zh": ""
+    },
+    {
+      "start": 855.18,
+      "duration": 1.53,
+      "text": "and it was so groundbreaking",
+      "en": "and it was so groundbreaking",
+      "zh": ""
+    },
+    {
+      "start": 856.71,
+      "duration": 4.2,
+      "text": "that Arrow was awarded the Nobel Prize in Economics in 1972.",
+      "en": "that Arrow was awarded the Nobel Prize in Economics in 1972.",
+      "zh": ""
+    },
+    {
+      "start": 860.91,
+      "duration": 2.13,
+      "text": "So I wanna go through a version of his proof",
+      "en": "So I wanna go through a version of his proof",
+      "zh": ""
+    },
+    {
+      "start": 863.04,
+      "duration": 2.46,
+      "text": "based on a formulation by Geanakoplos.",
+      "en": "based on a formulation by Geanakoplos.",
+      "zh": ""
+    },
+    {
+      "start": 866.43,
+      "duration": 1.2,
+      "text": "So let's say there are",
+      "en": "So let's say there are",
+      "zh": ""
+    },
+    {
+      "start": 867.63,
+      "duration": 2.58,
+      "text": "three candidates running for election:",
+      "en": "three candidates running for election:",
+      "zh": ""
+    },
+    {
+      "start": 870.21,
+      "duration": 3.09,
+      "text": "Aristotle, Bohr, and Curie,",
+      "en": "Aristotle, Bohr, and Curie,",
+      "zh": ""
+    },
+    {
+      "start": 873.3,
+      "duration": 3.33,
+      "text": "but we'll refer to them as A, B, and C,",
+      "en": "but we'll refer to them as A, B, and C,",
+      "zh": ""
+    },
+    {
+      "start": 876.63,
+      "duration": 1.68,
+      "text": "and we have a collection of voters",
+      "en": "and we have a collection of voters",
+      "zh": ""
+    },
+    {
+      "start": 878.31,
+      "duration": 1.41,
+      "text": "that we'll line up in order.",
+      "en": "that we'll line up in order.",
+      "zh": ""
+    },
+    {
+      "start": 879.72,
+      "duration": 4.92,
+      "text": "So we have voter 1, 2, 3, and so on all the way up to N.",
+      "en": "So we have voter 1, 2, 3, and so on all the way up to N.",
+      "zh": ""
+    },
+    {
+      "start": 884.64,
+      "duration": 0.87,
+      "text": "Each of these voters",
+      "en": "Each of these voters",
+      "zh": ""
+    },
+    {
+      "start": 885.51,
+      "duration": 3.12,
+      "text": "is free to rank A, B and C however they like.",
+      "en": "is free to rank A, B and C however they like.",
+      "zh": ""
+    },
+    {
+      "start": 888.63,
+      "duration": 2.01,
+      "text": "I'll even allow ties.",
+      "en": "I'll even allow ties.",
+      "zh": ""
+    },
+    {
+      "start": 890.64,
+      "duration": 2.55,
+      "text": "And the first we wanna show is that if everyone ranks",
+      "en": "And the first we wanna show is that if everyone ranks",
+      "zh": ""
+    },
+    {
+      "start": 893.19,
+      "duration": 2.49,
+      "text": "a particular candidate first or last,",
+      "en": "a particular candidate first or last,",
+      "zh": ""
+    },
+    {
+      "start": 895.68,
+      "duration": 1.68,
+      "text": "then society as a whole",
+      "en": "then society as a whole",
+      "zh": ""
+    },
+    {
+      "start": 897.36,
+      "duration": 3.6,
+      "text": "must also rank that candidate first or last.",
+      "en": "must also rank that candidate first or last.",
+      "zh": ""
+    },
+    {
+      "start": 900.96,
+      "duration": 2.58,
+      "text": "Let's arbitrarily pick candidate B.",
+      "en": "Let's arbitrarily pick candidate B.",
+      "zh": ""
+    },
+    {
+      "start": 903.54,
+      "duration": 2.46,
+      "text": "If say half of the voters rank B first",
+      "en": "If say half of the voters rank B first",
+      "zh": ""
+    },
+    {
+      "start": 906.0,
+      "duration": 2.91,
+      "text": "and half rank B last, then the claim is",
+      "en": "and half rank B last, then the claim is",
+      "zh": ""
+    },
+    {
+      "start": 908.91,
+      "duration": 4.62,
+      "text": "our voting system must put B either first or last",
+      "en": "our voting system must put B either first or last",
+      "zh": ""
+    },
+    {
+      "start": 913.53,
+      "duration": 2.73,
+      "text": "and we'll prove it by contradiction.",
+      "en": "and we'll prove it by contradiction.",
+      "zh": ""
+    },
+    {
+      "start": 916.26,
+      "duration": 3.06,
+      "text": "So say this is how everyone voted.",
+      "en": "So say this is how everyone voted.",
+      "zh": ""
+    },
+    {
+      "start": 919.32,
+      "duration": 3.18,
+      "text": "If our system does not put B first or last,",
+      "en": "If our system does not put B first or last,",
+      "zh": ""
+    },
+    {
+      "start": 922.5,
+      "duration": 3.21,
+      "text": "but rather in the middle, say A is ranked above B,",
+      "en": "but rather in the middle, say A is ranked above B,",
+      "zh": ""
+    },
+    {
+      "start": 925.71,
+      "duration": 3.78,
+      "text": "which is above C, then we'll get a contradiction.",
+      "en": "which is above C, then we'll get a contradiction.",
+      "zh": ""
+    },
+    {
+      "start": 929.49,
+      "duration": 4.23,
+      "text": "Because if each of our voters moved C above A,",
+      "en": "Because if each of our voters moved C above A,",
+      "zh": ""
+    },
+    {
+      "start": 933.72,
+      "duration": 4.47,
+      "text": "then by unanimity, C must be ranked above A.",
+      "en": "then by unanimity, C must be ranked above A.",
+      "zh": ""
+    },
+    {
+      "start": 938.19,
+      "duration": 2.34,
+      "text": "However, because we didn't change the position",
+      "en": "However, because we didn't change the position",
+      "zh": ""
+    },
+    {
+      "start": 940.53,
+      "duration": 2.58,
+      "text": "of any A relative to B,",
+      "en": "of any A relative to B,",
+      "zh": ""
+    },
+    {
+      "start": 943.11,
+      "duration": 3.03,
+      "text": "A must still be ranked above B",
+      "en": "A must still be ranked above B",
+      "zh": ""
+    },
+    {
+      "start": 946.14,
+      "duration": 1.89,
+      "text": "and because we didn't change the position",
+      "en": "and because we didn't change the position",
+      "zh": ""
+    },
+    {
+      "start": 948.03,
+      "duration": 4.8,
+      "text": "of any C relative to B, C must still be ranked below B,",
+      "en": "of any C relative to B, C must still be ranked below B,",
+      "zh": ""
+    },
+    {
+      "start": 952.83,
+      "duration": 1.32,
+      "text": "and by transitivity,",
+      "en": "and by transitivity,",
+      "zh": ""
+    },
+    {
+      "start": 954.15,
+      "duration": 3.57,
+      "text": "if A is preferred to B and B is preferred to C,",
+      "en": "if A is preferred to B and B is preferred to C,",
+      "zh": ""
+    },
+    {
+      "start": 957.72,
+      "duration": 2.97,
+      "text": "then A must be ranked above C.",
+      "en": "then A must be ranked above C.",
+      "zh": ""
+    },
+    {
+      "start": 960.69,
+      "duration": 2.79,
+      "text": "But this contradicts the result by unanimity",
+      "en": "But this contradicts the result by unanimity",
+      "zh": ""
+    },
+    {
+      "start": 963.48,
+      "duration": 2.19,
+      "text": "and that proves that if everyone ranks",
+      "en": "and that proves that if everyone ranks",
+      "zh": ""
+    },
+    {
+      "start": 965.67,
+      "duration": 1.92,
+      "text": "a candidate first or last,",
+      "en": "a candidate first or last,",
+      "zh": ""
+    },
+    {
+      "start": 967.59,
+      "duration": 4.05,
+      "text": "then society must also rank them first or last.",
+      "en": "then society must also rank them first or last.",
+      "zh": ""
+    },
+    {
+      "start": 973.2,
+      "duration": 1.44,
+      "text": "Now let's do a thought experiment",
+      "en": "Now let's do a thought experiment",
+      "zh": ""
+    },
+    {
+      "start": 974.64,
+      "duration": 3.63,
+      "text": "where every voter puts B at the bottom of their ranking,",
+      "en": "where every voter puts B at the bottom of their ranking,",
+      "zh": ""
+    },
+    {
+      "start": 978.27,
+      "duration": 3.42,
+      "text": "we'll leave the ranking of A and C arbitrary.",
+      "en": "we'll leave the ranking of A and C arbitrary.",
+      "zh": ""
+    },
+    {
+      "start": 981.69,
+      "duration": 1.5,
+      "text": "Well then, by unanimity,",
+      "en": "Well then, by unanimity,",
+      "zh": ""
+    },
+    {
+      "start": 983.19,
+      "duration": 3.9,
+      "text": "we know that B must be at the bottom of society's ranking",
+      "en": "we know that B must be at the bottom of society's ranking",
+      "zh": ""
+    },
+    {
+      "start": 987.09,
+      "duration": 2.55,
+      "text": "and we'll call this setup Profile 0.",
+      "en": "and we'll call this setup Profile 0.",
+      "zh": ""
+    },
+    {
+      "start": 990.54,
+      "duration": 3.72,
+      "text": "Now we'll create Profile 1 which is identical to Profile 0",
+      "en": "Now we'll create Profile 1 which is identical to Profile 0",
+      "zh": ""
+    },
+    {
+      "start": 994.26,
+      "duration": 4.38,
+      "text": "except the first voter moves B from the bottom to the top.",
+      "en": "except the first voter moves B from the bottom to the top.",
+      "zh": ""
+    },
+    {
+      "start": 998.64,
+      "duration": 2.31,
+      "text": "This, of course, doesn't affect the outcome,",
+      "en": "This, of course, doesn't affect the outcome,",
+      "zh": ""
+    },
+    {
+      "start": 1000.95,
+      "duration": 1.29,
+      "text": "but we can keep doing this",
+      "en": "but we can keep doing this",
+      "zh": ""
+    },
+    {
+      "start": 1002.24,
+      "duration": 3.45,
+      "text": "creating Profiles 2, 3, 4, and so on",
+      "en": "creating Profiles 2, 3, 4, and so on",
+      "zh": ""
+    },
+    {
+      "start": 1005.69,
+      "duration": 1.83,
+      "text": "with one more voter flipping B",
+      "en": "with one more voter flipping B",
+      "zh": ""
+    },
+    {
+      "start": 1007.52,
+      "duration": 2.37,
+      "text": "from the bottom to the top each time.",
+      "en": "from the bottom to the top each time.",
+      "zh": ""
+    },
+    {
+      "start": 1009.89,
+      "duration": 3.33,
+      "text": "If we keep doing this, there will eventually come a voter",
+      "en": "If we keep doing this, there will eventually come a voter",
+      "zh": ""
+    },
+    {
+      "start": 1013.22,
+      "duration": 3.42,
+      "text": "whose change from having B at the bottom to B at the top",
+      "en": "whose change from having B at the bottom to B at the top",
+      "zh": ""
+    },
+    {
+      "start": 1016.64,
+      "duration": 4.89,
+      "text": "will first flip society's ranking, moving B to the top.",
+      "en": "will first flip society's ranking, moving B to the top.",
+      "zh": ""
+    },
+    {
+      "start": 1021.53,
+      "duration": 2.34,
+      "text": "Let's call this voter the pivotal voter",
+      "en": "Let's call this voter the pivotal voter",
+      "zh": ""
+    },
+    {
+      "start": 1023.87,
+      "duration": 1.65,
+      "text": "and we'll label the Profile p.",
+      "en": "and we'll label the Profile p.",
+      "zh": ""
+    },
+    {
+      "start": 1026.88,
+      "duration": 1.79,
+      "text": "Profile o is then the profile",
+      "en": "Profile o is then the profile",
+      "zh": ""
+    },
+    {
+      "start": 1028.67,
+      "duration": 2.61,
+      "text": "right before the pivotal change happens.",
+      "en": "right before the pivotal change happens.",
+      "zh": ""
+    },
+    {
+      "start": 1031.28,
+      "duration": 3.93,
+      "text": "Let's now create a Profile q, which is the same as p,",
+      "en": "Let's now create a Profile q, which is the same as p,",
+      "zh": ""
+    },
+    {
+      "start": 1035.21,
+      "duration": 4.71,
+      "text": "except the pivotal voter moves A above B.",
+      "en": "except the pivotal voter moves A above B.",
+      "zh": ""
+    },
+    {
+      "start": 1039.92,
+      "duration": 2.4,
+      "text": "By independence of irrelevant alternatives,",
+      "en": "By independence of irrelevant alternatives,",
+      "zh": ""
+    },
+    {
+      "start": 1042.32,
+      "duration": 3.75,
+      "text": "the social rank must also put A above B.",
+      "en": "the social rank must also put A above B.",
+      "zh": ""
+    },
+    {
+      "start": 1046.07,
+      "duration": 1.98,
+      "text": "Since for all of our voters,",
+      "en": "Since for all of our voters,",
+      "zh": ""
+    },
+    {
+      "start": 1048.05,
+      "duration": 2.13,
+      "text": "the relative position of A and B",
+      "en": "the relative position of A and B",
+      "zh": ""
+    },
+    {
+      "start": 1050.18,
+      "duration": 3.15,
+      "text": "is the same as it was in Profile o,",
+      "en": "is the same as it was in Profile o,",
+      "zh": ""
+    },
+    {
+      "start": 1053.33,
+      "duration": 3.33,
+      "text": "and B must be ranked above C",
+      "en": "and B must be ranked above C",
+      "zh": ""
+    },
+    {
+      "start": 1056.66,
+      "duration": 3.6,
+      "text": "because the relative positions of B and C are the same",
+      "en": "because the relative positions of B and C are the same",
+      "zh": ""
+    },
+    {
+      "start": 1060.26,
+      "duration": 2.49,
+      "text": "as they were in Profile p,",
+      "en": "as they were in Profile p,",
+      "zh": ""
+    },
+    {
+      "start": 1062.75,
+      "duration": 3.18,
+      "text": "where our pivotal voter moved B to the top.",
+      "en": "where our pivotal voter moved B to the top.",
+      "zh": ""
+    },
+    {
+      "start": 1065.93,
+      "duration": 3.69,
+      "text": "By transitivity A must be ranked above C",
+      "en": "By transitivity A must be ranked above C",
+      "zh": ""
+    },
+    {
+      "start": 1069.62,
+      "duration": 1.59,
+      "text": "in the social ranking.",
+      "en": "in the social ranking.",
+      "zh": ""
+    },
+    {
+      "start": 1071.21,
+      "duration": 1.62,
+      "text": "This is true regardless",
+      "en": "This is true regardless",
+      "zh": ""
+    },
+    {
+      "start": 1072.83,
+      "duration": 3.06,
+      "text": "of how any of the non-pivotal voters rearrange",
+      "en": "of how any of the non-pivotal voters rearrange",
+      "zh": ""
+    },
+    {
+      "start": 1075.89,
+      "duration": 2.22,
+      "text": "their positions of A and C,",
+      "en": "their positions of A and C,",
+      "zh": ""
+    },
+    {
+      "start": 1078.11,
+      "duration": 2.64,
+      "text": "because these rearrangements don't change",
+      "en": "because these rearrangements don't change",
+      "zh": ""
+    },
+    {
+      "start": 1080.75,
+      "duration": 4.14,
+      "text": "the position of A relative to B or C relative to B.",
+      "en": "the position of A relative to B or C relative to B.",
+      "zh": ""
+    },
+    {
+      "start": 1086.42,
+      "duration": 3.15,
+      "text": "This means the pivotal voter is actually a dictator",
+      "en": "This means the pivotal voter is actually a dictator",
+      "zh": ""
+    },
+    {
+      "start": 1089.57,
+      "duration": 3.78,
+      "text": "for determining society's preference of A over C.",
+      "en": "for determining society's preference of A over C.",
+      "zh": ""
+    },
+    {
+      "start": 1093.35,
+      "duration": 2.85,
+      "text": "The social rank will always agree with the pivotal voter",
+      "en": "The social rank will always agree with the pivotal voter",
+      "zh": ""
+    },
+    {
+      "start": 1096.2,
+      "duration": 2.46,
+      "text": "regardless of what the other voters do.",
+      "en": "regardless of what the other voters do.",
+      "zh": ""
+    },
+    {
+      "start": 1099.86,
+      "duration": 2.1,
+      "text": "We can run a similar thought experiment",
+      "en": "We can run a similar thought experiment",
+      "zh": ""
+    },
+    {
+      "start": 1101.96,
+      "duration": 1.8,
+      "text": "where we put C at the bottom",
+      "en": "where we put C at the bottom",
+      "zh": ""
+    },
+    {
+      "start": 1103.76,
+      "duration": 2.55,
+      "text": "and prove that there is again, a dictator,",
+      "en": "and prove that there is again, a dictator,",
+      "zh": ""
+    },
+    {
+      "start": 1106.31,
+      "duration": 1.89,
+      "text": "who in this case determines",
+      "en": "who in this case determines",
+      "zh": ""
+    },
+    {
+      "start": 1108.2,
+      "duration": 2.28,
+      "text": "the social preference of A over B.",
+      "en": "the social preference of A over B.",
+      "zh": ""
+    },
+    {
+      "start": 1111.38,
+      "duration": 2.46,
+      "text": "And it turns out this voter is the same one",
+      "en": "And it turns out this voter is the same one",
+      "zh": ""
+    },
+    {
+      "start": 1113.84,
+      "duration": 2.97,
+      "text": "who determines the social preference for A over C.",
+      "en": "who determines the social preference for A over C.",
+      "zh": ""
+    },
+    {
+      "start": 1118.91,
+      "duration": 4.0,
+      "text": "The pivotal voter is therefore a complete dictator.",
+      "en": "The pivotal voter is therefore a complete dictator.",
+      "zh": ""
+    },
+    {
+      "start": 1122.91,
+      "duration": 1.28,
+      "text": "(dark music)",
+      "en": "(dark music)",
+      "zh": ""
+    },
+    {
+      "start": 1124.19,
+      "duration": 2.19,
+      "text": "So is democracy doomed?",
+      "en": "So is democracy doomed?",
+      "zh": ""
+    },
+    {
+      "start": 1126.38,
+      "duration": 3.06,
+      "text": "Well, Arrow's impossibility theorem seems to say so.",
+      "en": "Well, Arrow's impossibility theorem seems to say so.",
+      "zh": ""
+    },
+    {
+      "start": 1129.44,
+      "duration": 2.76,
+      "text": "If there are three or more candidates to choose from,",
+      "en": "If there are three or more candidates to choose from,",
+      "zh": ""
+    },
+    {
+      "start": 1132.2,
+      "duration": 2.1,
+      "text": "there is no ranked-choice method",
+      "en": "there is no ranked-choice method",
+      "zh": ""
+    },
+    {
+      "start": 1134.3,
+      "duration": 2.52,
+      "text": "to rationally aggregate voter preferences.",
+      "en": "to rationally aggregate voter preferences.",
+      "zh": ""
+    },
+    {
+      "start": 1136.82,
+      "duration": 3.27,
+      "text": "You always need to give something up.",
+      "en": "You always need to give something up.",
+      "zh": ""
+    },
+    {
+      "start": 1142.6,
+      "duration": 0.83,
+      "text": "(hopeful music)",
+      "en": "(hopeful music)",
+      "zh": ""
+    },
+    {
+      "start": 1143.43,
+      "duration": 1.88,
+      "text": "But the mathematician, Duncan Black,",
+      "en": "But the mathematician, Duncan Black,",
+      "zh": ""
+    },
+    {
+      "start": 1145.31,
+      "duration": 2.04,
+      "text": "found a much more optimistic theorem",
+      "en": "found a much more optimistic theorem",
+      "zh": ""
+    },
+    {
+      "start": 1147.35,
+      "duration": 2.67,
+      "text": "which might actually represent reality better.",
+      "en": "which might actually represent reality better.",
+      "zh": ""
+    },
+    {
+      "start": 1151.01,
+      "duration": 2.34,
+      "text": "If voters and candidates are naturally spread",
+      "en": "If voters and candidates are naturally spread",
+      "zh": ""
+    },
+    {
+      "start": 1153.35,
+      "duration": 1.56,
+      "text": "along a single dimension,",
+      "en": "along a single dimension,",
+      "zh": ""
+    },
+    {
+      "start": 1154.91,
+      "duration": 2.01,
+      "text": "say ranging from liberal on the left",
+      "en": "say ranging from liberal on the left",
+      "zh": ""
+    },
+    {
+      "start": 1156.92,
+      "duration": 1.68,
+      "text": "to conservative on the right,",
+      "en": "to conservative on the right,",
+      "zh": ""
+    },
+    {
+      "start": 1158.6,
+      "duration": 3.12,
+      "text": "but this could apply to any other political dimension.",
+      "en": "but this could apply to any other political dimension.",
+      "zh": ""
+    },
+    {
+      "start": 1161.72,
+      "duration": 2.88,
+      "text": "Well, then Black showed that the preference",
+      "en": "Well, then Black showed that the preference",
+      "zh": ""
+    },
+    {
+      "start": 1164.6,
+      "duration": 3.96,
+      "text": "of the median voter will reflect the majority decision.",
+      "en": "of the median voter will reflect the majority decision.",
+      "zh": ""
+    },
+    {
+      "start": 1168.56,
+      "duration": 1.5,
+      "text": "The median voter's choice",
+      "en": "The median voter's choice",
+      "zh": ""
+    },
+    {
+      "start": 1170.06,
+      "duration": 2.79,
+      "text": "will often determine the outcome of the election,",
+      "en": "will often determine the outcome of the election,",
+      "zh": ""
+    },
+    {
+      "start": 1172.85,
+      "duration": 2.85,
+      "text": "a result that aligns with the majority of voters,",
+      "en": "a result that aligns with the majority of voters,",
+      "zh": ""
+    },
+    {
+      "start": 1175.7,
+      "duration": 1.2,
+      "text": "avoiding the paradoxes",
+      "en": "avoiding the paradoxes",
+      "zh": ""
+    },
+    {
+      "start": 1176.9,
+      "duration": 3.24,
+      "text": "and inconsistencies highlighted by Arrow.",
+      "en": "and inconsistencies highlighted by Arrow.",
+      "zh": ""
+    },
+    {
+      "start": 1180.14,
+      "duration": 1.95,
+      "text": "And there's more good news.",
+      "en": "And there's more good news.",
+      "zh": ""
+    },
+    {
+      "start": 1182.09,
+      "duration": 2.22,
+      "text": "Arrow's Impossibility Theorem only applies",
+      "en": "Arrow's Impossibility Theorem only applies",
+      "zh": ""
+    },
+    {
+      "start": 1184.31,
+      "duration": 1.68,
+      "text": "to ordinal voting systems,",
+      "en": "to ordinal voting systems,",
+      "zh": ""
+    },
+    {
+      "start": 1185.99,
+      "duration": 3.84,
+      "text": "ones in which the voters rank candidates over others.",
+      "en": "ones in which the voters rank candidates over others.",
+      "zh": ""
+    },
+    {
+      "start": 1189.83,
+      "duration": 3.69,
+      "text": "There is another way: rated voting systems.",
+      "en": "There is another way: rated voting systems.",
+      "zh": ""
+    },
+    {
+      "start": 1193.52,
+      "duration": 2.7,
+      "text": "The simplest version is known as approval voting",
+      "en": "The simplest version is known as approval voting",
+      "zh": ""
+    },
+    {
+      "start": 1196.22,
+      "duration": 2.01,
+      "text": "where instead of ranking the candidates,",
+      "en": "where instead of ranking the candidates,",
+      "zh": ""
+    },
+    {
+      "start": 1198.23,
+      "duration": 3.45,
+      "text": "the voters just tick the candidates they approve of.",
+      "en": "the voters just tick the candidates they approve of.",
+      "zh": ""
+    },
+    {
+      "start": 1201.68,
+      "duration": 2.04,
+      "text": "There are also versions where you could indicate",
+      "en": "There are also versions where you could indicate",
+      "zh": ""
+    },
+    {
+      "start": 1203.72,
+      "duration": 2.22,
+      "text": "how strongly you like each candidate,",
+      "en": "how strongly you like each candidate,",
+      "zh": ""
+    },
+    {
+      "start": 1205.94,
+      "duration": 2.76,
+      "text": "say from -10, strongly disapprove of,",
+      "en": "say from -10, strongly disapprove of,",
+      "zh": ""
+    },
+    {
+      "start": 1208.7,
+      "duration": 3.15,
+      "text": "to +10, strongly approve.",
+      "en": "to +10, strongly approve.",
+      "zh": ""
+    },
+    {
+      "start": 1211.85,
+      "duration": 1.02,
+      "text": "Research has found",
+      "en": "Research has found",
+      "zh": ""
+    },
+    {
+      "start": 1212.87,
+      "duration": 2.46,
+      "text": "that approval voting increases voter turnout,",
+      "en": "that approval voting increases voter turnout,",
+      "zh": ""
+    },
+    {
+      "start": 1215.33,
+      "duration": 1.86,
+      "text": "decreases negative campaigning",
+      "en": "decreases negative campaigning",
+      "zh": ""
+    },
+    {
+      "start": 1217.19,
+      "duration": 2.34,
+      "text": "and prevents the spoiler effect.",
+      "en": "and prevents the spoiler effect.",
+      "zh": ""
+    },
+    {
+      "start": 1219.53,
+      "duration": 2.28,
+      "text": "Voters could express their approval for a candidate",
+      "en": "Voters could express their approval for a candidate",
+      "zh": ""
+    },
+    {
+      "start": 1221.81,
+      "duration": 1.47,
+      "text": "without worrying about the size",
+      "en": "without worrying about the size",
+      "zh": ""
+    },
+    {
+      "start": 1223.28,
+      "duration": 1.95,
+      "text": "of the party they're voting for.",
+      "en": "of the party they're voting for.",
+      "zh": ""
+    },
+    {
+      "start": 1225.23,
+      "duration": 1.8,
+      "text": "It's also simple to tally,",
+      "en": "It's also simple to tally,",
+      "zh": ""
+    },
+    {
+      "start": 1227.03,
+      "duration": 2.04,
+      "text": "just count up what percentage of the voters",
+      "en": "just count up what percentage of the voters",
+      "zh": ""
+    },
+    {
+      "start": 1229.07,
+      "duration": 1.38,
+      "text": "approve of each candidate",
+      "en": "approve of each candidate",
+      "zh": ""
+    },
+    {
+      "start": 1230.45,
+      "duration": 3.21,
+      "text": "and the one with the highest approval wins.",
+      "en": "and the one with the highest approval wins.",
+      "zh": ""
+    },
+    {
+      "start": 1233.66,
+      "duration": 2.19,
+      "text": "Kenneth Arrow was initially skeptical",
+      "en": "Kenneth Arrow was initially skeptical",
+      "zh": ""
+    },
+    {
+      "start": 1235.85,
+      "duration": 1.56,
+      "text": "of rated-voting systems,",
+      "en": "of rated-voting systems,",
+      "zh": ""
+    },
+    {
+      "start": 1237.41,
+      "duration": 1.26,
+      "text": "but toward the end of his life,",
+      "en": "but toward the end of his life,",
+      "zh": ""
+    },
+    {
+      "start": 1238.67,
+      "duration": 3.27,
+      "text": "he agreed that they were likely the best method.",
+      "en": "he agreed that they were likely the best method.",
+      "zh": ""
+    },
+    {
+      "start": 1241.94,
+      "duration": 1.92,
+      "text": "Approval voting is not new.",
+      "en": "Approval voting is not new.",
+      "zh": ""
+    },
+    {
+      "start": 1243.86,
+      "duration": 1.95,
+      "text": "It was used by priests in the Vatican",
+      "en": "It was used by priests in the Vatican",
+      "zh": ""
+    },
+    {
+      "start": 1245.81,
+      "duration": 3.75,
+      "text": "to elect the Pope between 1294 and 1621.",
+      "en": "to elect the Pope between 1294 and 1621.",
+      "zh": ""
+    },
+    {
+      "start": 1249.56,
+      "duration": 1.5,
+      "text": "It's also used to elect",
+      "en": "It's also used to elect",
+      "zh": ""
+    },
+    {
+      "start": 1251.06,
+      "duration": 2.67,
+      "text": "the Secretary General of the United Nations,",
+      "en": "the Secretary General of the United Nations,",
+      "zh": ""
+    },
+    {
+      "start": 1253.73,
+      "duration": 3.42,
+      "text": "but it hasn't been widely used in large-scale elections.",
+      "en": "but it hasn't been widely used in large-scale elections.",
+      "zh": ""
+    },
+    {
+      "start": 1257.15,
+      "duration": 3.95,
+      "text": "And so more real-world testing is likely required.",
+      "en": "And so more real-world testing is likely required.",
+      "zh": ""
+    },
+    {
+      "start": 1261.1,
+      "duration": 0.97,
+      "text": "(mellow music)",
+      "en": "(mellow music)",
+      "zh": ""
+    },
+    {
+      "start": 1262.07,
+      "duration": 2.91,
+      "text": "So is democracy mathematically impossible?",
+      "en": "So is democracy mathematically impossible?",
+      "zh": ""
+    },
+    {
+      "start": 1264.98,
+      "duration": 2.85,
+      "text": "Well, yes, if we use ranked choice methods of voting,",
+      "en": "Well, yes, if we use ranked choice methods of voting,",
+      "zh": ""
+    },
+    {
+      "start": 1267.83,
+      "duration": 2.19,
+      "text": "which is what most countries in the world use",
+      "en": "which is what most countries in the world use",
+      "zh": ""
+    },
+    {
+      "start": 1270.02,
+      "duration": 1.38,
+      "text": "to elect their leaders.",
+      "en": "to elect their leaders.",
+      "zh": ""
+    },
+    {
+      "start": 1271.4,
+      "duration": 2.04,
+      "text": "And some methods are clearly better",
+      "en": "And some methods are clearly better",
+      "zh": ""
+    },
+    {
+      "start": 1273.44,
+      "duration": 2.37,
+      "text": "at aggregating the people's preferences than others,",
+      "en": "at aggregating the people's preferences than others,",
+      "zh": ""
+    },
+    {
+      "start": 1275.81,
+      "duration": 2.28,
+      "text": "the use of first past the post voting",
+      "en": "the use of first past the post voting",
+      "zh": ""
+    },
+    {
+      "start": 1278.09,
+      "duration": 2.01,
+      "text": "feels quite frankly ridiculous to me,",
+      "en": "feels quite frankly ridiculous to me,",
+      "zh": ""
+    },
+    {
+      "start": 1280.1,
+      "duration": 1.59,
+      "text": "given all of its flaws.",
+      "en": "given all of its flaws.",
+      "zh": ""
+    },
+    {
+      "start": 1281.69,
+      "duration": 1.95,
+      "text": "But just because things aren't perfect",
+      "en": "But just because things aren't perfect",
+      "zh": ""
+    },
+    {
+      "start": 1283.64,
+      "duration": 1.95,
+      "text": "doesn't mean we shouldn't try.",
+      "en": "doesn't mean we shouldn't try.",
+      "zh": ""
+    },
+    {
+      "start": 1285.59,
+      "duration": 1.68,
+      "text": "Being interested in the world around us,",
+      "en": "Being interested in the world around us,",
+      "zh": ""
+    },
+    {
+      "start": 1287.27,
+      "duration": 1.32,
+      "text": "caring about issues,",
+      "en": "caring about issues,",
+      "zh": ""
+    },
+    {
+      "start": 1288.59,
+      "duration": 3.0,
+      "text": "and being politically engaged is important.",
+      "en": "and being politically engaged is important.",
+      "zh": ""
+    },
+    {
+      "start": 1291.59,
+      "duration": 1.62,
+      "text": "It might be one of the few ways",
+      "en": "It might be one of the few ways",
+      "zh": ""
+    },
+    {
+      "start": 1293.21,
+      "duration": 2.37,
+      "text": "we can make a real difference in the world.",
+      "en": "we can make a real difference in the world.",
+      "zh": ""
+    },
+    {
+      "start": 1295.58,
+      "duration": 1.21,
+      "text": "Like Winston Churchill said,",
+      "en": "Like Winston Churchill said,",
+      "zh": ""
+    },
+    {
+      "start": 1296.79,
+      "duration": 3.41,
+      "text": "\"Democracy is the worst form of government",
+      "en": "\"Democracy is the worst form of government",
+      "zh": ""
+    },
+    {
+      "start": 1300.2,
+      "duration": 3.3,
+      "text": "except for all the other forms that have been tried.\"",
+      "en": "except for all the other forms that have been tried.\"",
+      "zh": ""
+    },
+    {
+      "start": 1303.5,
+      "duration": 3.6,
+      "text": "Democracy is not perfect, but it's the best thing we've got.",
+      "en": "Democracy is not perfect, but it's the best thing we've got.",
+      "zh": ""
+    },
+    {
+      "start": 1307.1,
+      "duration": 3.62,
+      "text": "The game might be crooked, but it's the only game in town.",
+      "en": "The game might be crooked, but it's the only game in town.",
+      "zh": ""
+    },
+    {
+      "start": 1310.72,
+      "duration": 3.58,
+      "text": "(static buzzes and whines)",
+      "en": "(static buzzes and whines)",
+      "zh": ""
+    },
+    {
+      "start": 1315.62,
+      "duration": 1.86,
+      "text": "The world is changing.",
+      "en": "The world is changing.",
+      "zh": ""
+    },
+    {
+      "start": 1317.48,
+      "duration": 1.83,
+      "text": "How it works today is no guarantee",
+      "en": "How it works today is no guarantee",
+      "zh": ""
+    },
+    {
+      "start": 1319.31,
+      "duration": 1.29,
+      "text": "of how it'll work tomorrow",
+      "en": "of how it'll work tomorrow",
+      "zh": ""
+    },
+    {
+      "start": 1320.6,
+      "duration": 3.27,
+      "text": "from how we elect presidents to how we do our jobs.",
+      "en": "from how we elect presidents to how we do our jobs.",
+      "zh": ""
+    },
+    {
+      "start": 1323.87,
+      "duration": 1.92,
+      "text": "Luckily, there's an easy way to be ready",
+      "en": "Luckily, there's an easy way to be ready",
+      "zh": ""
+    },
+    {
+      "start": 1325.79,
+      "duration": 3.21,
+      "text": "for whatever the future holds by expanding your knowledge",
+      "en": "for whatever the future holds by expanding your knowledge",
+      "zh": ""
+    },
+    {
+      "start": 1329.0,
+      "duration": 2.91,
+      "text": "and critical thinking skills a little bit every day.",
+      "en": "and critical thinking skills a little bit every day.",
+      "zh": ""
+    },
+    {
+      "start": 1331.91,
+      "duration": 2.58,
+      "text": "And you can get started doing that right now for free",
+      "en": "And you can get started doing that right now for free",
+      "zh": ""
+    },
+    {
+      "start": 1334.49,
+      "duration": 1.74,
+      "text": "with today's sponsor: Brilliant.",
+      "en": "with today's sponsor: Brilliant.",
+      "zh": ""
+    },
+    {
+      "start": 1336.23,
+      "duration": 2.94,
+      "text": "Brilliant will make you a better thinker and problem solver",
+      "en": "Brilliant will make you a better thinker and problem solver",
+      "zh": ""
+    },
+    {
+      "start": 1339.17,
+      "duration": 1.92,
+      "text": "while helping you build real skills",
+      "en": "while helping you build real skills",
+      "zh": ""
+    },
+    {
+      "start": 1341.09,
+      "duration": 2.19,
+      "text": "in everything from math and data analysis",
+      "en": "in everything from math and data analysis",
+      "zh": ""
+    },
+    {
+      "start": 1343.28,
+      "duration": 2.37,
+      "text": "to programming and AI,",
+      "en": "to programming and AI,",
+      "zh": ""
+    },
+    {
+      "start": 1345.65,
+      "duration": 2.22,
+      "text": "whatever it is that you're curious about.",
+      "en": "whatever it is that you're curious about.",
+      "zh": ""
+    },
+    {
+      "start": 1347.87,
+      "duration": 1.95,
+      "text": "On Brilliant you'll learn through discovery",
+      "en": "On Brilliant you'll learn through discovery",
+      "zh": ""
+    },
+    {
+      "start": 1349.82,
+      "duration": 1.56,
+      "text": "by trying things out for yourself,",
+      "en": "by trying things out for yourself,",
+      "zh": ""
+    },
+    {
+      "start": 1351.38,
+      "duration": 3.0,
+      "text": "and you'll not only gain knowledge of key concepts,",
+      "en": "and you'll not only gain knowledge of key concepts,",
+      "zh": ""
+    },
+    {
+      "start": 1354.38,
+      "duration": 3.33,
+      "text": "you'll learn to apply them to real-world situations.",
+      "en": "you'll learn to apply them to real-world situations.",
+      "zh": ""
+    },
+    {
+      "start": 1357.71,
+      "duration": 1.53,
+      "text": "Learning a little every day",
+      "en": "Learning a little every day",
+      "zh": ""
+    },
+    {
+      "start": 1359.24,
+      "duration": 2.58,
+      "text": "is one of the most important things you can do,",
+      "en": "is one of the most important things you can do,",
+      "zh": ""
+    },
+    {
+      "start": 1361.82,
+      "duration": 2.43,
+      "text": "and Brilliant is the perfect way to do it",
+      "en": "and Brilliant is the perfect way to do it",
+      "zh": ""
+    },
+    {
+      "start": 1364.25,
+      "duration": 4.41,
+      "text": "with thousands of bite-sized lessons that take just minutes.",
+      "en": "with thousands of bite-sized lessons that take just minutes.",
+      "zh": ""
+    },
+    {
+      "start": 1368.66,
+      "duration": 2.43,
+      "text": "Now, thinking about elections for this video",
+      "en": "Now, thinking about elections for this video",
+      "zh": ""
+    },
+    {
+      "start": 1371.09,
+      "duration": 2.1,
+      "text": "led me to revisit some of their courses",
+      "en": "led me to revisit some of their courses",
+      "zh": ""
+    },
+    {
+      "start": 1373.19,
+      "duration": 2.25,
+      "text": "on probability and statistics.",
+      "en": "on probability and statistics.",
+      "zh": ""
+    },
+    {
+      "start": 1375.44,
+      "duration": 1.8,
+      "text": "They're a great on-ramp to learning",
+      "en": "They're a great on-ramp to learning",
+      "zh": ""
+    },
+    {
+      "start": 1377.24,
+      "duration": 1.89,
+      "text": "how we use data to make predictions.",
+      "en": "how we use data to make predictions.",
+      "zh": ""
+    },
+    {
+      "start": 1379.13,
+      "duration": 2.34,
+      "text": "Plus, they get you hands-on with real data",
+      "en": "Plus, they get you hands-on with real data",
+      "zh": ""
+    },
+    {
+      "start": 1381.47,
+      "duration": 1.59,
+      "text": "and even let you run simulations",
+      "en": "and even let you run simulations",
+      "zh": ""
+    },
+    {
+      "start": 1383.06,
+      "duration": 2.31,
+      "text": "for things like who will win the World Cup.",
+      "en": "for things like who will win the World Cup.",
+      "zh": ""
+    },
+    {
+      "start": 1385.37,
+      "duration": 1.77,
+      "text": "And the best part about Brilliant is",
+      "en": "And the best part about Brilliant is",
+      "zh": ""
+    },
+    {
+      "start": 1387.14,
+      "duration": 3.18,
+      "text": "you can learn from anywhere right on your phone.",
+      "en": "you can learn from anywhere right on your phone.",
+      "zh": ""
+    },
+    {
+      "start": 1390.32,
+      "duration": 1.89,
+      "text": "So whenever you have a few minutes,",
+      "en": "So whenever you have a few minutes,",
+      "zh": ""
+    },
+    {
+      "start": 1392.21,
+      "duration": 3.06,
+      "text": "you can be building a quicker, sharper mind.",
+      "en": "you can be building a quicker, sharper mind.",
+      "zh": ""
+    },
+    {
+      "start": 1395.27,
+      "duration": 1.8,
+      "text": "To try everything Brilliant has to offer",
+      "en": "To try everything Brilliant has to offer",
+      "zh": ""
+    },
+    {
+      "start": 1397.07,
+      "duration": 1.26,
+      "text": "for free for 30 days,",
+      "en": "for free for 30 days,",
+      "zh": ""
+    },
+    {
+      "start": 1398.33,
+      "duration": 2.88,
+      "text": "visit brilliant.org/veritasium",
+      "en": "visit brilliant.org/veritasium",
+      "zh": ""
+    },
+    {
+      "start": 1401.21,
+      "duration": 1.56,
+      "text": "or scan this QR code",
+      "en": "or scan this QR code",
+      "zh": ""
+    },
+    {
+      "start": 1402.77,
+      "duration": 2.16,
+      "text": "or click that link down in the description.",
+      "en": "or click that link down in the description.",
+      "zh": ""
+    },
+    {
+      "start": 1404.93,
+      "duration": 3.45,
+      "text": "You will also get 20% off an annual Premium subscription.",
+      "en": "You will also get 20% off an annual Premium subscription.",
+      "zh": ""
+    },
+    {
+      "start": 1408.38,
+      "duration": 2.4,
+      "text": "So I want to thank Brilliant for supporting the show",
+      "en": "So I want to thank Brilliant for supporting the show",
+      "zh": ""
+    },
+    {
+      "start": 1410.78,
+      "duration": 2.16,
+      "text": "and I want to thank you for watching.",
+      "en": "and I want to thank you for watching.",
+      "zh": ""
+    }
+  ],
+  "words": []
+}

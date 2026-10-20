@@ -1,0 +1,2581 @@
+{
+  "cues": [
+    {
+      "start": 0.0,
+      "duration": 4.29,
+      "text": "There is this famous Google interview question that everyone gets wrong.",
+      "en": "There is this famous Google interview question that everyone gets wrong.",
+      "zh": ""
+    },
+    {
+      "start": 4.29,
+      "duration": 4.05,
+      "text": "You're shrunk down to the size of a nickel and put into a blender.",
+      "en": "You're shrunk down to the size of a nickel and put into a blender.",
+      "zh": ""
+    },
+    {
+      "start": 8.34,
+      "duration": 4.92,
+      "text": "The blades will start spinning in 60 seconds, so what do you do?",
+      "en": "The blades will start spinning in 60 seconds, so what do you do?",
+      "zh": ""
+    },
+    {
+      "start": 13.26,
+      "duration": 3.17,
+      "text": "I would like to think I could duck down and miss the blades",
+      "en": "I would like to think I could duck down and miss the blades",
+      "zh": ""
+    },
+    {
+      "start": 16.43,
+      "duration": 1.8,
+      "text": "Break the thing at the bottom maybe?",
+      "en": "Break the thing at the bottom maybe?",
+      "zh": ""
+    },
+    {
+      "start": 18.23,
+      "duration": 2.08,
+      "text": "Push the blades?",
+      "en": "Push the blades?",
+      "zh": ""
+    },
+    {
+      "start": 20.31,
+      "duration": 3.21,
+      "text": "Ask nicely for the blender not to be turned on.",
+      "en": "Ask nicely for the blender not to be turned on.",
+      "zh": ""
+    },
+    {
+      "start": 23.52,
+      "duration": 3.51,
+      "text": "Tie my clothes together, and then like use it as a rope I guess?",
+      "en": "Tie my clothes together, and then like use it as a rope I guess?",
+      "zh": ""
+    },
+    {
+      "start": 27.03,
+      "duration": 2.87,
+      "text": "If I was lighter I could maybe catch a draft up?",
+      "en": "If I was lighter I could maybe catch a draft up?",
+      "zh": ""
+    },
+    {
+      "start": 29.9,
+      "duration": 2.22,
+      "text": "- Just accept defeat. - I mean, I'm the size of a nickel",
+      "en": "- Just accept defeat. - I mean, I'm the size of a nickel",
+      "zh": ""
+    },
+    {
+      "start": 32.12,
+      "duration": 2.16,
+      "text": "what quality of life is that?",
+      "en": "what quality of life is that?",
+      "zh": ""
+    },
+    {
+      "start": 34.28,
+      "duration": 1.25,
+      "text": "Okay, resonance.",
+      "en": "Okay, resonance.",
+      "zh": ""
+    },
+    {
+      "start": 35.53,
+      "duration": 3.67,
+      "text": "I'm going to run to one wall, push on it, run to the other wall. Push on it.",
+      "en": "I'm going to run to one wall, push on it, run to the other wall. Push on it.",
+      "zh": ""
+    },
+    {
+      "start": 39.2,
+      "duration": 2.47,
+      "text": "Run to the other wall, so I'm going to tip the container over.",
+      "en": "Run to the other wall, so I'm going to tip the container over.",
+      "zh": ""
+    },
+    {
+      "start": 41.67,
+      "duration": 1.71,
+      "text": "Honestly, the thing I would think about",
+      "en": "Honestly, the thing I would think about",
+      "zh": ""
+    },
+    {
+      "start": 43.38,
+      "duration": 2.75,
+      "text": "is trying to get to the very center of the blades.",
+      "en": "is trying to get to the very center of the blades.",
+      "zh": ""
+    },
+    {
+      "start": 46.13,
+      "duration": 1.67,
+      "text": "It's spinning around me, but",
+      "en": "It's spinning around me, but",
+      "zh": ""
+    },
+    {
+      "start": 47.8,
+      "duration": 3.5,
+      "text": "the actual RPM is probably not that high, if I'm standing in the middle.",
+      "en": "the actual RPM is probably not that high, if I'm standing in the middle.",
+      "zh": ""
+    },
+    {
+      "start": 51.3,
+      "duration": 5.05,
+      "text": "I tie my clothes to one of the tips of the blades as it’s starting up.",
+      "en": "I tie my clothes to one of the tips of the blades as it’s starting up.",
+      "zh": ""
+    },
+    {
+      "start": 56.35,
+      "duration": 3.46,
+      "text": "Yeah, I get it to swing me around and then I woooo!",
+      "en": "Yeah, I get it to swing me around and then I woooo!",
+      "zh": ""
+    },
+    {
+      "start": 59.81,
+      "duration": 2.46,
+      "text": "But these answers don't cut it.",
+      "en": "But these answers don't cut it.",
+      "zh": ""
+    },
+    {
+      "start": 63.98,
+      "duration": 2.96,
+      "text": "Now, I first heard about this problem in this book.",
+      "en": "Now, I first heard about this problem in this book.",
+      "zh": ""
+    },
+    {
+      "start": 66.94,
+      "duration": 2.88,
+      "text": "It describes how each year Google received",
+      "en": "It describes how each year Google received",
+      "zh": ""
+    },
+    {
+      "start": 69.82,
+      "duration": 4.42,
+      "text": "about 3 million applications, but they would only hire 7000 people.",
+      "en": "about 3 million applications, but they would only hire 7000 people.",
+      "zh": ""
+    },
+    {
+      "start": 74.24,
+      "duration": 2.71,
+      "text": "That's a 0.2% acceptance rate.",
+      "en": "That's a 0.2% acceptance rate.",
+      "zh": ""
+    },
+    {
+      "start": 76.95,
+      "duration": 4.55,
+      "text": "So one way to screen out millions of applicants was to use brainteasers,",
+      "en": "So one way to screen out millions of applicants was to use brainteasers,",
+      "zh": ""
+    },
+    {
+      "start": 81.5,
+      "duration": 3.63,
+      "text": "and the interviewers would make these up for fun.",
+      "en": "and the interviewers would make these up for fun.",
+      "zh": ""
+    },
+    {
+      "start": 85.13,
+      "duration": 3.96,
+      "text": "We didn't get a list, at that time of what questions to ask.",
+      "en": "We didn't get a list, at that time of what questions to ask.",
+      "zh": ""
+    },
+    {
+      "start": 89.09,
+      "duration": 2.13,
+      "text": "We would share questions among each other.",
+      "en": "We would share questions among each other.",
+      "zh": ""
+    },
+    {
+      "start": 91.22,
+      "duration": 2.46,
+      "text": "Some of them gained traction, questions like:",
+      "en": "Some of them gained traction, questions like:",
+      "zh": ""
+    },
+    {
+      "start": 93.68,
+      "duration": 4.13,
+      "text": "How many golf balls can fit in a 747?",
+      "en": "How many golf balls can fit in a 747?",
+      "zh": ""
+    },
+    {
+      "start": 97.81,
+      "duration": 4.92,
+      "text": "Or, how much should you charge to wash all the windows in Seattle?",
+      "en": "Or, how much should you charge to wash all the windows in Seattle?",
+      "zh": ""
+    },
+    {
+      "start": 102.73,
+      "duration": 4.71,
+      "text": "But the blender question really stuck with me, and I'm not alone.",
+      "en": "But the blender question really stuck with me, and I'm not alone.",
+      "zh": ""
+    },
+    {
+      "start": 107.44,
+      "duration": 6.97,
+      "text": "- Just lay back and enjoy that breeze. The best model in the world is only going to run maybe 10 or 11 hours,",
+      "en": "- Just lay back and enjoy that breeze. The best model in the world is only going to run maybe 10 or 11 hours,",
+      "zh": ""
+    },
+    {
+      "start": 114.41,
+      "duration": 4.54,
+      "text": "so we're getting out and when we do, we're better off for it because whatever doesn't kill you makes you stronger.",
+      "en": "so we're getting out and when we do, we're better off for it because whatever doesn't kill you makes you stronger.",
+      "zh": ""
+    },
+    {
+      "start": 118.95,
+      "duration": 3.63,
+      "text": "- The question has been hotly debated in Reddit comment sections.",
+      "en": "- The question has been hotly debated in Reddit comment sections.",
+      "zh": ""
+    },
+    {
+      "start": 126.75,
+      "duration": 5.55,
+      "text": "There are so many different answers, but which one is the best?",
+      "en": "There are so many different answers, but which one is the best?",
+      "zh": ""
+    },
+    {
+      "start": 132.3,
+      "duration": 1.96,
+      "text": "I try to hide underneath the blades, I guess.",
+      "en": "I try to hide underneath the blades, I guess.",
+      "zh": ""
+    },
+    {
+      "start": 134.26,
+      "duration": 2.5,
+      "text": "Hide under the blade, probably",
+      "en": "Hide under the blade, probably",
+      "zh": ""
+    },
+    {
+      "start": 136.76,
+      "duration": 1.46,
+      "text": "Great first reaction,",
+      "en": "Great first reaction,",
+      "zh": ""
+    },
+    {
+      "start": 138.22,
+      "duration": 2.04,
+      "text": "but maybe that doesn't solve your problem entirely.",
+      "en": "but maybe that doesn't solve your problem entirely.",
+      "zh": ""
+    },
+    {
+      "start": 140.26,
+      "duration": 3.38,
+      "text": "Now you're just stuck inside of a spinning blender, so maybe you want to escape.",
+      "en": "Now you're just stuck inside of a spinning blender, so maybe you want to escape.",
+      "zh": ""
+    },
+    {
+      "start": 143.64,
+      "duration": 1.09,
+      "text": "Can I climb the walls?",
+      "en": "Can I climb the walls?",
+      "zh": ""
+    },
+    {
+      "start": 144.73,
+      "duration": 4.67,
+      "text": "Are there defects in the walls that are sufficiently large for me to grip on to?",
+      "en": "Are there defects in the walls that are sufficiently large for me to grip on to?",
+      "zh": ""
+    },
+    {
+      "start": 149.4,
+      "duration": 4.34,
+      "text": "Do I have Van der Waals forces that are strong enough to connect me to the wall?",
+      "en": "Do I have Van der Waals forces that are strong enough to connect me to the wall?",
+      "zh": ""
+    },
+    {
+      "start": 153.74,
+      "duration": 2.75,
+      "text": "Am I, like, essentially a tiny gecko?",
+      "en": "Am I, like, essentially a tiny gecko?",
+      "zh": ""
+    },
+    {
+      "start": 156.49,
+      "duration": 2.79,
+      "text": "A gecko can stick to the wall of a blender,",
+      "en": "A gecko can stick to the wall of a blender,",
+      "zh": ""
+    },
+    {
+      "start": 159.28,
+      "duration": 3.05,
+      "text": "even though neither its foot, nor the glass are charged.",
+      "en": "even though neither its foot, nor the glass are charged.",
+      "zh": ""
+    },
+    {
+      "start": 162.33,
+      "duration": 3.0,
+      "text": "The gecko's foot has to be pressed firmly against the glass,",
+      "en": "The gecko's foot has to be pressed firmly against the glass,",
+      "zh": ""
+    },
+    {
+      "start": 165.33,
+      "duration": 3.96,
+      "text": "so its atoms are within a few nanometers of the glass atoms.",
+      "en": "so its atoms are within a few nanometers of the glass atoms.",
+      "zh": ""
+    },
+    {
+      "start": 169.29,
+      "duration": 5.22,
+      "text": "Then, at any moment one atoms electrons aren't uniformly spread about the nucleus,",
+      "en": "Then, at any moment one atoms electrons aren't uniformly spread about the nucleus,",
+      "zh": ""
+    },
+    {
+      "start": 174.51,
+      "duration": 3.75,
+      "text": "they might be slightly more on one side than the other.",
+      "en": "they might be slightly more on one side than the other.",
+      "zh": ""
+    },
+    {
+      "start": 178.26,
+      "duration": 3.0,
+      "text": "This makes the atom momentarily slightly positively charged",
+      "en": "This makes the atom momentarily slightly positively charged",
+      "zh": ""
+    },
+    {
+      "start": 181.26,
+      "duration": 4.01,
+      "text": "on one side and slightly negatively charged on the other.",
+      "en": "on one side and slightly negatively charged on the other.",
+      "zh": ""
+    },
+    {
+      "start": 185.27,
+      "duration": 4.59,
+      "text": "The glass atom next to it experiences the pull of this charge imbalance,",
+      "en": "The glass atom next to it experiences the pull of this charge imbalance,",
+      "zh": ""
+    },
+    {
+      "start": 189.86,
+      "duration": 4.33,
+      "text": "and so a similar charge imbalance is induced on the glass atom,",
+      "en": "and so a similar charge imbalance is induced on the glass atom,",
+      "zh": ""
+    },
+    {
+      "start": 194.19,
+      "duration": 2.8,
+      "text": "and therefore the electrons in the glass atom are drawn",
+      "en": "and therefore the electrons in the glass atom are drawn",
+      "zh": ""
+    },
+    {
+      "start": 196.99,
+      "duration": 3.04,
+      "text": "to the nucleus of the gecko atom, and vice versa.",
+      "en": "to the nucleus of the gecko atom, and vice versa.",
+      "zh": ""
+    },
+    {
+      "start": 200.03,
+      "duration": 4.42,
+      "text": "So there is a very weak attractive force between neutral atoms.",
+      "en": "So there is a very weak attractive force between neutral atoms.",
+      "zh": ""
+    },
+    {
+      "start": 204.45,
+      "duration": 5.63,
+      "text": "This is known as a Van der Waals force, and it's what makes geckos stick to walls.",
+      "en": "This is known as a Van der Waals force, and it's what makes geckos stick to walls.",
+      "zh": ""
+    },
+    {
+      "start": 210.08,
+      "duration": 2.55,
+      "text": "It's the same force that holds graphite together.",
+      "en": "It's the same force that holds graphite together.",
+      "zh": ""
+    },
+    {
+      "start": 212.63,
+      "duration": 3.96,
+      "text": "There's no actual bonding between the layers of graphene in a pencil.",
+      "en": "There's no actual bonding between the layers of graphene in a pencil.",
+      "zh": ""
+    },
+    {
+      "start": 216.59,
+      "duration": 1.84,
+      "text": "It's like a stack of paper.",
+      "en": "It's like a stack of paper.",
+      "zh": ""
+    },
+    {
+      "start": 218.43,
+      "duration": 3.83,
+      "text": "The layers only stick because of Van der Waals forces.",
+      "en": "The layers only stick because of Van der Waals forces.",
+      "zh": ""
+    },
+    {
+      "start": 222.26,
+      "duration": 1.84,
+      "text": "Now these forces are pretty weak.",
+      "en": "Now these forces are pretty weak.",
+      "zh": ""
+    },
+    {
+      "start": 224.1,
+      "duration": 5.09,
+      "text": "But since we're so small, maybe they'd be enough to help us climb out.",
+      "en": "But since we're so small, maybe they'd be enough to help us climb out.",
+      "zh": ""
+    },
+    {
+      "start": 229.19,
+      "duration": 3.08,
+      "text": "This I can almost certainly say, we wouldn't be sticking at that scale,",
+      "en": "This I can almost certainly say, we wouldn't be sticking at that scale,",
+      "zh": ""
+    },
+    {
+      "start": 232.27,
+      "duration": 5.55,
+      "text": "and that's because the Van der Waals type interactions are still small.",
+      "en": "and that's because the Van der Waals type interactions are still small.",
+      "zh": ""
+    },
+    {
+      "start": 237.82,
+      "duration": 4.92,
+      "text": "And I studied climbing, so that of these types of scale, cockroach and gecko, you know,",
+      "en": "And I studied climbing, so that of these types of scale, cockroach and gecko, you know,",
+      "zh": ""
+    },
+    {
+      "start": 242.74,
+      "duration": 2.84,
+      "text": "it turns out that you have to get very special to do that.",
+      "en": "it turns out that you have to get very special to do that.",
+      "zh": ""
+    },
+    {
+      "start": 245.58,
+      "duration": 3.71,
+      "text": "Geckos have millions of tiny branches on their feet that increase",
+      "en": "Geckos have millions of tiny branches on their feet that increase",
+      "zh": ""
+    },
+    {
+      "start": 249.29,
+      "duration": 4.21,
+      "text": "their surface area and allow them to mold to surfaces.",
+      "en": "their surface area and allow them to mold to surfaces.",
+      "zh": ""
+    },
+    {
+      "start": 253.5,
+      "duration": 3.88,
+      "text": "Our hands aren't like that, but ants and cockroaches",
+      "en": "Our hands aren't like that, but ants and cockroaches",
+      "zh": ""
+    },
+    {
+      "start": 257.38,
+      "duration": 4.92,
+      "text": "don't rely on Van der Waals forces, and they can still climb up walls.",
+      "en": "don't rely on Van der Waals forces, and they can still climb up walls.",
+      "zh": ""
+    },
+    {
+      "start": 262.3,
+      "duration": 3.21,
+      "text": "So maybe a miniature human could too?",
+      "en": "So maybe a miniature human could too?",
+      "zh": ""
+    },
+    {
+      "start": 265.51,
+      "duration": 2.09,
+      "text": "The mechanism of a cockroach foot,",
+      "en": "The mechanism of a cockroach foot,",
+      "zh": ""
+    },
+    {
+      "start": 267.6,
+      "duration": 3.88,
+      "text": "and I used to know all that cockroach feet, is absolutely gorgeous,",
+      "en": "and I used to know all that cockroach feet, is absolutely gorgeous,",
+      "zh": ""
+    },
+    {
+      "start": 271.48,
+      "duration": 1.5,
+      "text": "Same with an ant, by the way.",
+      "en": "Same with an ant, by the way.",
+      "zh": ""
+    },
+    {
+      "start": 272.98,
+      "duration": 2.21,
+      "text": "There's two little claws, the tarsal claws",
+      "en": "There's two little claws, the tarsal claws",
+      "zh": ""
+    },
+    {
+      "start": 275.19,
+      "duration": 3.17,
+      "text": "those are things that slap down on a surface and really do slap",
+      "en": "those are things that slap down on a surface and really do slap",
+      "zh": ""
+    },
+    {
+      "start": 278.36,
+      "duration": 5.26,
+      "text": "when climbing meters a second... slap and engage, despite having no adhesion,",
+      "en": "when climbing meters a second... slap and engage, despite having no adhesion,",
+      "zh": ""
+    },
+    {
+      "start": 283.62,
+      "duration": 3.54,
+      "text": "they have very sophisticated, frictional attachment.",
+      "en": "they have very sophisticated, frictional attachment.",
+      "zh": ""
+    },
+    {
+      "start": 287.16,
+      "duration": 4.17,
+      "text": "Those claws can grip almost anything, even glass.",
+      "en": "Those claws can grip almost anything, even glass.",
+      "zh": ""
+    },
+    {
+      "start": 291.33,
+      "duration": 1.84,
+      "text": "While glass feels smooth to us,",
+      "en": "While glass feels smooth to us,",
+      "zh": ""
+    },
+    {
+      "start": 293.17,
+      "duration": 3.13,
+      "text": "It's actually covered in tiny surface imperfections.",
+      "en": "It's actually covered in tiny surface imperfections.",
+      "zh": ""
+    },
+    {
+      "start": 296.3,
+      "duration": 4.17,
+      "text": "At insect scale, these features are significant.",
+      "en": "At insect scale, these features are significant.",
+      "zh": ""
+    },
+    {
+      "start": 300.47,
+      "duration": 3.0,
+      "text": "- Ants basically have climbing gear. - Oh yeah.",
+      "en": "- Ants basically have climbing gear. - Oh yeah.",
+      "zh": ""
+    },
+    {
+      "start": 303.47,
+      "duration": 3.34,
+      "text": "They're like, using these little like axes basically to pick their way in.",
+      "en": "They're like, using these little like axes basically to pick their way in.",
+      "zh": ""
+    },
+    {
+      "start": 306.81,
+      "duration": 3.71,
+      "text": "We don't have the attachment disks or whatever that would be,",
+      "en": "We don't have the attachment disks or whatever that would be,",
+      "zh": ""
+    },
+    {
+      "start": 310.52,
+      "duration": 3.59,
+      "text": "or like the special claws or the Van der Waals forces.",
+      "en": "or like the special claws or the Van der Waals forces.",
+      "zh": ""
+    },
+    {
+      "start": 314.11,
+      "duration": 2.62,
+      "text": "Well, we have claws, if you're that scale, our fingers are claws.",
+      "en": "Well, we have claws, if you're that scale, our fingers are claws.",
+      "zh": ""
+    },
+    {
+      "start": 316.73,
+      "duration": 3.26,
+      "text": "We have only really got... we have two claws, really.",
+      "en": "We have only really got... we have two claws, really.",
+      "zh": ""
+    },
+    {
+      "start": 319.99,
+      "duration": 3.37,
+      "text": "And then our feet aren't great at climbing, I don't know.",
+      "en": "And then our feet aren't great at climbing, I don't know.",
+      "zh": ""
+    },
+    {
+      "start": 323.36,
+      "duration": 3.17,
+      "text": "Well, again, at that scale though, I don't know, right?",
+      "en": "Well, again, at that scale though, I don't know, right?",
+      "zh": ""
+    },
+    {
+      "start": 326.53,
+      "duration": 2.59,
+      "text": "Imagine putting a little sharp, spike into your foot",
+      "en": "Imagine putting a little sharp, spike into your foot",
+      "zh": ""
+    },
+    {
+      "start": 329.12,
+      "duration": 4.76,
+      "text": "and sharpen your shoes, wear high heel shoes.",
+      "en": "and sharpen your shoes, wear high heel shoes.",
+      "zh": ""
+    },
+    {
+      "start": 333.88,
+      "duration": 1.29,
+      "text": "You'll be good to go.",
+      "en": "You'll be good to go.",
+      "zh": ""
+    },
+    {
+      "start": 335.17,
+      "duration": 3.0,
+      "text": "So now I'm climbing in heels.",
+      "en": "So now I'm climbing in heels.",
+      "zh": ""
+    },
+    {
+      "start": 338.17,
+      "duration": 1.54,
+      "text": "But there's still a problem.",
+      "en": "But there's still a problem.",
+      "zh": ""
+    },
+    {
+      "start": 339.71,
+      "duration": 4.47,
+      "text": "I mean, I'll have to be pretty careful placing each hand and foot slowly.",
+      "en": "I mean, I'll have to be pretty careful placing each hand and foot slowly.",
+      "zh": ""
+    },
+    {
+      "start": 344.18,
+      "duration": 3.54,
+      "text": "It's going to take longer than 60 seconds to get out.",
+      "en": "It's going to take longer than 60 seconds to get out.",
+      "zh": ""
+    },
+    {
+      "start": 347.72,
+      "duration": 3.42,
+      "text": "And in that time, the blades will have started spinning.",
+      "en": "And in that time, the blades will have started spinning.",
+      "zh": ""
+    },
+    {
+      "start": 351.14,
+      "duration": 3.17,
+      "text": "One mistake and I'm a smoothie.",
+      "en": "One mistake and I'm a smoothie.",
+      "zh": ""
+    },
+    {
+      "start": 355.1,
+      "duration": 3.42,
+      "text": "So Google was looking for a different answer.",
+      "en": "So Google was looking for a different answer.",
+      "zh": ""
+    },
+    {
+      "start": 358.52,
+      "duration": 2.72,
+      "text": "Now we’re going to the physics building. Maybe they know?",
+      "en": "Now we’re going to the physics building. Maybe they know?",
+      "zh": ""
+    },
+    {
+      "start": 361.24,
+      "duration": 3.0,
+      "text": "Yeah. I really got nothing. I’m stumped.",
+      "en": "Yeah. I really got nothing. I’m stumped.",
+      "zh": ""
+    },
+    {
+      "start": 364.24,
+      "duration": 1.46,
+      "text": "This is so embarrassing.",
+      "en": "This is so embarrassing.",
+      "zh": ""
+    },
+    {
+      "start": 365.7,
+      "duration": 3.13,
+      "text": "We’re in our last year of our degree, we should definitely know this!",
+      "en": "We’re in our last year of our degree, we should definitely know this!",
+      "zh": ""
+    },
+    {
+      "start": 368.83,
+      "duration": 4.5,
+      "text": "I feel like I could probably swing running around the sides and yeeting myself out.",
+      "en": "I feel like I could probably swing running around the sides and yeeting myself out.",
+      "zh": ""
+    },
+    {
+      "start": 373.33,
+      "duration": 1.5,
+      "text": "Okay, if we're just talking about the entropy,",
+      "en": "Okay, if we're just talking about the entropy,",
+      "zh": ""
+    },
+    {
+      "start": 374.83,
+      "duration": 2.96,
+      "text": "it should increase at some point. So some sort of chaos should be...",
+      "en": "it should increase at some point. So some sort of chaos should be...",
+      "zh": ""
+    },
+    {
+      "start": 377.79,
+      "duration": 2.96,
+      "text": "None of the system will stay un-disrupted...",
+      "en": "None of the system will stay un-disrupted...",
+      "zh": ""
+    },
+    {
+      "start": 380.75,
+      "duration": 1.92,
+      "text": "Take that as a limit to infinity and I'll be chilling...",
+      "en": "Take that as a limit to infinity and I'll be chilling...",
+      "zh": ""
+    },
+    {
+      "start": 382.67,
+      "duration": 3.01,
+      "text": "Like using that logic if I just like extrapolate...",
+      "en": "Like using that logic if I just like extrapolate...",
+      "zh": ""
+    },
+    {
+      "start": 385.68,
+      "duration": 3.71,
+      "text": "Now that's still too big for me to Quantum Tunnel or anything like that.",
+      "en": "Now that's still too big for me to Quantum Tunnel or anything like that.",
+      "zh": ""
+    },
+    {
+      "start": 389.39,
+      "duration": 1.58,
+      "text": "- Whoa whoa whoa whoa.",
+      "en": "- Whoa whoa whoa whoa.",
+      "zh": ""
+    },
+    {
+      "start": 390.97,
+      "duration": 2.71,
+      "text": "I mean, that is really overthinking it.",
+      "en": "I mean, that is really overthinking it.",
+      "zh": ""
+    },
+    {
+      "start": 393.68,
+      "duration": 2.38,
+      "text": "It's actually not that complicated.",
+      "en": "It's actually not that complicated.",
+      "zh": ""
+    },
+    {
+      "start": 396.06,
+      "duration": 2.38,
+      "text": "- Do you want to hear the best answer I've heard yet? - Sure.",
+      "en": "- Do you want to hear the best answer I've heard yet? - Sure.",
+      "zh": ""
+    },
+    {
+      "start": 398.44,
+      "duration": 1.04,
+      "text": "Just jump.",
+      "en": "Just jump.",
+      "zh": ""
+    },
+    {
+      "start": 399.48,
+      "duration": 0.96,
+      "text": "Just jump?",
+      "en": "Just jump?",
+      "zh": ""
+    },
+    {
+      "start": 400.44,
+      "duration": 0.88,
+      "text": "How would that work?",
+      "en": "How would that work?",
+      "zh": ""
+    },
+    {
+      "start": 401.32,
+      "duration": 1.83,
+      "text": "- Just jump! - How?",
+      "en": "- Just jump! - How?",
+      "zh": ""
+    },
+    {
+      "start": 403.15,
+      "duration": 3.26,
+      "text": "-Does that work like that? - Jump where? - Out of the blender, just go up.",
+      "en": "-Does that work like that? - Jump where? - Out of the blender, just go up.",
+      "zh": ""
+    },
+    {
+      "start": 406.41,
+      "duration": 2.87,
+      "text": "- So whoever told you that is... - ...crazy, right?",
+      "en": "- So whoever told you that is... - ...crazy, right?",
+      "zh": ""
+    },
+    {
+      "start": 409.28,
+      "duration": 1.96,
+      "text": "Yeah, does that makes sense to you?",
+      "en": "Yeah, does that makes sense to you?",
+      "zh": ""
+    },
+    {
+      "start": 411.24,
+      "duration": 2.8,
+      "text": "No, it doesn't, but... do you want to hear why that works?",
+      "en": "No, it doesn't, but... do you want to hear why that works?",
+      "zh": ""
+    },
+    {
+      "start": 414.04,
+      "duration": 1.21,
+      "text": "Yeah, tell me how it works.",
+      "en": "Yeah, tell me how it works.",
+      "zh": ""
+    },
+    {
+      "start": 415.25,
+      "duration": 3.96,
+      "text": "Jumping out of a blender seems impossible because at nickel size,",
+      "en": "Jumping out of a blender seems impossible because at nickel size,",
+      "zh": ""
+    },
+    {
+      "start": 419.21,
+      "duration": 2.75,
+      "text": "the wall of a blender is 15x your height.",
+      "en": "the wall of a blender is 15x your height.",
+      "zh": ""
+    },
+    {
+      "start": 421.96,
+      "duration": 3.42,
+      "text": "It'd be like leaping over an eight story building.",
+      "en": "It'd be like leaping over an eight story building.",
+      "zh": ""
+    },
+    {
+      "start": 425.38,
+      "duration": 2.05,
+      "text": "But watch these clips...",
+      "en": "But watch these clips...",
+      "zh": ""
+    },
+    {
+      "start": 434.85,
+      "duration": 2.75,
+      "text": "Did you notice it?",
+      "en": "Did you notice it?",
+      "zh": ""
+    },
+    {
+      "start": 437.6,
+      "duration": 2.34,
+      "text": "A horse, a dog and a squirrel.",
+      "en": "A horse, a dog and a squirrel.",
+      "zh": ""
+    },
+    {
+      "start": 439.94,
+      "duration": 4.09,
+      "text": "They all jump to about the same height.",
+      "en": "They all jump to about the same height.",
+      "zh": ""
+    },
+    {
+      "start": 444.03,
+      "duration": 3.42,
+      "text": "This is exactly what Alfonso Borrelli, the father of biomechanics,",
+      "en": "This is exactly what Alfonso Borrelli, the father of biomechanics,",
+      "zh": ""
+    },
+    {
+      "start": 447.45,
+      "duration": 4.25,
+      "text": "looked at in the 17th century. As he put it, in the same conditions,",
+      "en": "looked at in the 17th century. As he put it, in the same conditions,",
+      "zh": ""
+    },
+    {
+      "start": 451.7,
+      "duration": 4.05,
+      "text": "smaller and lighter animals make bigger jumps relative to their body.",
+      "en": "smaller and lighter animals make bigger jumps relative to their body.",
+      "zh": ""
+    },
+    {
+      "start": 455.75,
+      "duration": 4.5,
+      "text": "if the other conditions are equal, and indeed the limbs and the other organs",
+      "en": "if the other conditions are equal, and indeed the limbs and the other organs",
+      "zh": ""
+    },
+    {
+      "start": 460.25,
+      "duration": 4.71,
+      "text": "are in the same proportion, the dog will jump as far as the horse.",
+      "en": "are in the same proportion, the dog will jump as far as the horse.",
+      "zh": ""
+    },
+    {
+      "start": 464.96,
+      "duration": 2.38,
+      "text": "Now, sure, there is variation.",
+      "en": "Now, sure, there is variation.",
+      "zh": ""
+    },
+    {
+      "start": 467.34,
+      "duration": 4.05,
+      "text": "A species whose survival depends on jumping will be optimized for it,",
+      "en": "A species whose survival depends on jumping will be optimized for it,",
+      "zh": ""
+    },
+    {
+      "start": 471.39,
+      "duration": 4.54,
+      "text": "while others, like turtles and elephants, they don't jump at all.",
+      "en": "while others, like turtles and elephants, they don't jump at all.",
+      "zh": ""
+    },
+    {
+      "start": 475.93,
+      "duration": 2.8,
+      "text": "But when you consider the huge variations in size,",
+      "en": "But when you consider the huge variations in size,",
+      "zh": ""
+    },
+    {
+      "start": 478.73,
+      "duration": 3.92,
+      "text": "I mean a horse is 1500 times heavier than a squirrel.",
+      "en": "I mean a horse is 1500 times heavier than a squirrel.",
+      "zh": ""
+    },
+    {
+      "start": 482.65,
+      "duration": 3.92,
+      "text": "It's incredible that they jump to around the same height.",
+      "en": "It's incredible that they jump to around the same height.",
+      "zh": ""
+    },
+    {
+      "start": 486.57,
+      "duration": 4.21,
+      "text": "And it's not because squirrels are super muscly or something.",
+      "en": "And it's not because squirrels are super muscly or something.",
+      "zh": ""
+    },
+    {
+      "start": 490.78,
+      "duration": 3.51,
+      "text": "Horses and squirrels have similar muscle to weight percentages,",
+      "en": "Horses and squirrels have similar muscle to weight percentages,",
+      "zh": ""
+    },
+    {
+      "start": 494.29,
+      "duration": 3.96,
+      "text": "and insects have even less muscle relative to their weight.",
+      "en": "and insects have even less muscle relative to their weight.",
+      "zh": ""
+    },
+    {
+      "start": 498.25,
+      "duration": 5.42,
+      "text": "Why do you think an ant can lift 50 times its own body weight?",
+      "en": "Why do you think an ant can lift 50 times its own body weight?",
+      "zh": ""
+    },
+    {
+      "start": 503.67,
+      "duration": 1.92,
+      "text": "Like, is it any more muscular? No you guys hit the gym.",
+      "en": "Like, is it any more muscular? No you guys hit the gym.",
+      "zh": ""
+    },
+    {
+      "start": 505.59,
+      "duration": 2.83,
+      "text": "Come on. Like you're more muscular than an ant.",
+      "en": "Come on. Like you're more muscular than an ant.",
+      "zh": ""
+    },
+    {
+      "start": 508.42,
+      "duration": 3.59,
+      "text": "So how are small things so strong?",
+      "en": "So how are small things so strong?",
+      "zh": ""
+    },
+    {
+      "start": 512.01,
+      "duration": 5.59,
+      "text": "Well if you look closely at a muscle. It’s made up of tiny units called sarcomeres.",
+      "en": "Well if you look closely at a muscle. It’s made up of tiny units called sarcomeres.",
+      "zh": ""
+    },
+    {
+      "start": 517.6,
+      "duration": 2.71,
+      "text": "They act like miniature springs.",
+      "en": "They act like miniature springs.",
+      "zh": ""
+    },
+    {
+      "start": 520.31,
+      "duration": 5.46,
+      "text": "How far a muscle compresses depends on how many of these springs are in series.",
+      "en": "How far a muscle compresses depends on how many of these springs are in series.",
+      "zh": ""
+    },
+    {
+      "start": 525.77,
+      "duration": 5.68,
+      "text": "But the strength of a muscle depends only on how many are working in parallel.",
+      "en": "But the strength of a muscle depends only on how many are working in parallel.",
+      "zh": ""
+    },
+    {
+      "start": 531.45,
+      "duration": 5.59,
+      "text": "The thicker the muscle, the more springs in parallel, and the greater the strength.",
+      "en": "The thicker the muscle, the more springs in parallel, and the greater the strength.",
+      "zh": ""
+    },
+    {
+      "start": 537.04,
+      "duration": 4.12,
+      "text": "Therefore strength depends on the cross-sectional area of a muscle.",
+      "en": "Therefore strength depends on the cross-sectional area of a muscle.",
+      "zh": ""
+    },
+    {
+      "start": 541.16,
+      "duration": 3.13,
+      "text": "And as animals shrink, this cross-sectional area",
+      "en": "And as animals shrink, this cross-sectional area",
+      "zh": ""
+    },
+    {
+      "start": 544.29,
+      "duration": 3.05,
+      "text": "scales down with the square of their height.",
+      "en": "scales down with the square of their height.",
+      "zh": ""
+    },
+    {
+      "start": 547.34,
+      "duration": 3.08,
+      "text": "But an animal's weight is proportional to its volume,",
+      "en": "But an animal's weight is proportional to its volume,",
+      "zh": ""
+    },
+    {
+      "start": 550.42,
+      "duration": 4.18,
+      "text": "so that scales with the cube of their height.",
+      "en": "so that scales with the cube of their height.",
+      "zh": ""
+    },
+    {
+      "start": 554.6,
+      "duration": 4.33,
+      "text": "So as you scale down, weight decreases faster than strength,",
+      "en": "So as you scale down, weight decreases faster than strength,",
+      "zh": ""
+    },
+    {
+      "start": 558.93,
+      "duration": 4.67,
+      "text": "and as a result, smaller animals have much higher strength to weight ratios.",
+      "en": "and as a result, smaller animals have much higher strength to weight ratios.",
+      "zh": ""
+    },
+    {
+      "start": 563.6,
+      "duration": 2.17,
+      "text": "I mean, you could probably lift, your own weight,",
+      "en": "I mean, you could probably lift, your own weight,",
+      "zh": ""
+    },
+    {
+      "start": 565.77,
+      "duration": 1.46,
+      "text": "like if you were to put your own body",
+      "en": "like if you were to put your own body",
+      "zh": ""
+    },
+    {
+      "start": 567.23,
+      "duration": 4.59,
+      "text": "weight on your back and squat that, you could now lift... 100 hundred times.",
+      "en": "weight on your back and squat that, you could now lift... 100 hundred times.",
+      "zh": ""
+    },
+    {
+      "start": 571.82,
+      "duration": 1.5,
+      "text": "Yeah. Let's go!",
+      "en": "Yeah. Let's go!",
+      "zh": ""
+    },
+    {
+      "start": 573.32,
+      "duration": 3.42,
+      "text": "And for us, stuck in that blender, that extra strength",
+      "en": "And for us, stuck in that blender, that extra strength",
+      "zh": ""
+    },
+    {
+      "start": 576.74,
+      "duration": 3.84,
+      "text": "relative to our weight means we could jump right out.",
+      "en": "relative to our weight means we could jump right out.",
+      "zh": ""
+    },
+    {
+      "start": 580.58,
+      "duration": 2.25,
+      "text": "Your surface area decreases with the square.",
+      "en": "Your surface area decreases with the square.",
+      "zh": ""
+    },
+    {
+      "start": 582.83,
+      "duration": 2.25,
+      "text": "You'd be like a little superman.",
+      "en": "You'd be like a little superman.",
+      "zh": ""
+    },
+    {
+      "start": 585.08,
+      "duration": 2.38,
+      "text": "- I see, okay! - That's really cool.",
+      "en": "- I see, okay! - That's really cool.",
+      "zh": ""
+    },
+    {
+      "start": 587.46,
+      "duration": 2.71,
+      "text": "So I could jump, like, literally out of a blender.",
+      "en": "So I could jump, like, literally out of a blender.",
+      "zh": ""
+    },
+    {
+      "start": 590.17,
+      "duration": 1.42,
+      "text": "You could jump out of a blender.",
+      "en": "You could jump out of a blender.",
+      "zh": ""
+    },
+    {
+      "start": 591.59,
+      "duration": 1.58,
+      "text": "But in movies and games",
+      "en": "But in movies and games",
+      "zh": ""
+    },
+    {
+      "start": 593.17,
+      "duration": 3.76,
+      "text": "where people are shrunk, they almost never show it like that.",
+      "en": "where people are shrunk, they almost never show it like that.",
+      "zh": ""
+    },
+    {
+      "start": 596.93,
+      "duration": 3.25,
+      "text": "Honey, I Shrunk the Kids It was one of my favorite movies when I was a kid.",
+      "en": "Honey, I Shrunk the Kids It was one of my favorite movies when I was a kid.",
+      "zh": ""
+    },
+    {
+      "start": 600.18,
+      "duration": 0.92,
+      "text": "I loved that.",
+      "en": "I loved that.",
+      "zh": ""
+    },
+    {
+      "start": 601.1,
+      "duration": 2.79,
+      "text": "Tiny people struggle picking up scissors.",
+      "en": "Tiny people struggle picking up scissors.",
+      "zh": ""
+    },
+    {
+      "start": 603.89,
+      "duration": 2.51,
+      "text": "They almost get crushed by raindrops.",
+      "en": "They almost get crushed by raindrops.",
+      "zh": ""
+    },
+    {
+      "start": 606.4,
+      "duration": 4.29,
+      "text": "If it was scientifically accurate, they’d actually be overpowered.",
+      "en": "If it was scientifically accurate, they’d actually be overpowered.",
+      "zh": ""
+    },
+    {
+      "start": 610.69,
+      "duration": 3.76,
+      "text": "Most people don't think of this when they first hear the question.",
+      "en": "Most people don't think of this when they first hear the question.",
+      "zh": ""
+    },
+    {
+      "start": 614.45,
+      "duration": 2.88,
+      "text": "The answer almost seems too simple.",
+      "en": "The answer almost seems too simple.",
+      "zh": ""
+    },
+    {
+      "start": 617.33,
+      "duration": 3.29,
+      "text": "When you ask the right questions, you define the problem.",
+      "en": "When you ask the right questions, you define the problem.",
+      "zh": ""
+    },
+    {
+      "start": 620.62,
+      "duration": 3.5,
+      "text": "There's some really obvious solutions that work, and that's",
+      "en": "There's some really obvious solutions that work, and that's",
+      "zh": ""
+    },
+    {
+      "start": 624.12,
+      "duration": 3.13,
+      "text": "actually true for a lot of problems in the real world too.",
+      "en": "actually true for a lot of problems in the real world too.",
+      "zh": ""
+    },
+    {
+      "start": 627.25,
+      "duration": 3.46,
+      "text": "Now I'm all for obvious solutions, but from the start,",
+      "en": "Now I'm all for obvious solutions, but from the start,",
+      "zh": ""
+    },
+    {
+      "start": 630.71,
+      "duration": 3.3,
+      "text": "the answer of jumping out didn't sit right with me.",
+      "en": "the answer of jumping out didn't sit right with me.",
+      "zh": ""
+    },
+    {
+      "start": 634.01,
+      "duration": 3.46,
+      "text": "Even this idea of like, I'm going to jump out of the blender like that",
+      "en": "Even this idea of like, I'm going to jump out of the blender like that",
+      "zh": ""
+    },
+    {
+      "start": 637.47,
+      "duration": 3.46,
+      "text": "doesn't make sense to me, because jumping is not just like,",
+      "en": "doesn't make sense to me, because jumping is not just like,",
+      "zh": ""
+    },
+    {
+      "start": 640.93,
+      "duration": 1.88,
+      "text": "okay, how strong you are relative to your weight.",
+      "en": "okay, how strong you are relative to your weight.",
+      "zh": ""
+    },
+    {
+      "start": 642.81,
+      "duration": 2.63,
+      "text": "It's also timing and your kinetics and all that.",
+      "en": "It's also timing and your kinetics and all that.",
+      "zh": ""
+    },
+    {
+      "start": 645.44,
+      "duration": 2.62,
+      "text": "So like, how long can you be in touch with the ground?",
+      "en": "So like, how long can you be in touch with the ground?",
+      "zh": ""
+    },
+    {
+      "start": 648.06,
+      "duration": 4.09,
+      "text": "How much can you apply that force in one burst like over a really short period?",
+      "en": "How much can you apply that force in one burst like over a really short period?",
+      "zh": ""
+    },
+    {
+      "start": 652.15,
+      "duration": 3.8,
+      "text": "Would it be fair to say you're overthinking things?",
+      "en": "Would it be fair to say you're overthinking things?",
+      "zh": ""
+    },
+    {
+      "start": 655.95,
+      "duration": 2.08,
+      "text": "You got to suspend your disbelief somewhere.",
+      "en": "You got to suspend your disbelief somewhere.",
+      "zh": ""
+    },
+    {
+      "start": 658.03,
+      "duration": 4.21,
+      "text": "I think if you like, factor in all the potential challenges a human would have.",
+      "en": "I think if you like, factor in all the potential challenges a human would have.",
+      "zh": ""
+    },
+    {
+      "start": 662.24,
+      "duration": 3.09,
+      "text": "Just like if they just all of a sudden that size, they don't have",
+      "en": "Just like if they just all of a sudden that size, they don't have",
+      "zh": ""
+    },
+    {
+      "start": 665.33,
+      "duration": 4.01,
+      "text": "like time to practice using their legs and stuff in that new environment.",
+      "en": "like time to practice using their legs and stuff in that new environment.",
+      "zh": ""
+    },
+    {
+      "start": 669.34,
+      "duration": 2.37,
+      "text": "Like, I don't give them very good chances of jumping out.",
+      "en": "Like, I don't give them very good chances of jumping out.",
+      "zh": ""
+    },
+    {
+      "start": 671.71,
+      "duration": 2.76,
+      "text": "Sometimes there are people who make everything more complex",
+      "en": "Sometimes there are people who make everything more complex",
+      "zh": ""
+    },
+    {
+      "start": 674.47,
+      "duration": 2.66,
+      "text": "than it needs to be, and that can be problematic.",
+      "en": "than it needs to be, and that can be problematic.",
+      "zh": ""
+    },
+    {
+      "start": 677.13,
+      "duration": 1.38,
+      "text": "I would like to see like,",
+      "en": "I would like to see like,",
+      "zh": ""
+    },
+    {
+      "start": 678.51,
+      "duration": 4.88,
+      "text": "you know, realistic modeling of, we scale me down 100 times.",
+      "en": "you know, realistic modeling of, we scale me down 100 times.",
+      "zh": ""
+    },
+    {
+      "start": 683.39,
+      "duration": 1.63,
+      "text": "Like, can I jump higher?",
+      "en": "Like, can I jump higher?",
+      "zh": ""
+    },
+    {
+      "start": 685.02,
+      "duration": 3.21,
+      "text": "I want to see someone do those physics equations, yeah,",
+      "en": "I want to see someone do those physics equations, yeah,",
+      "zh": ""
+    },
+    {
+      "start": 688.23,
+      "duration": 4.0,
+      "text": "you could jump higher, but you couldn’t jump 100x higher, you know?",
+      "en": "you could jump higher, but you couldn’t jump 100x higher, you know?",
+      "zh": ""
+    },
+    {
+      "start": 692.23,
+      "duration": 5.01,
+      "text": "So that's why we got the researchers at Georgia Tech's biomechanics lab to investigate.",
+      "en": "So that's why we got the researchers at Georgia Tech's biomechanics lab to investigate.",
+      "zh": ""
+    },
+    {
+      "start": 697.24,
+      "duration": 1.83,
+      "text": "While, they're figuring that out,",
+      "en": "While, they're figuring that out,",
+      "zh": ""
+    },
+    {
+      "start": 699.07,
+      "duration": 2.88,
+      "text": "let me tell you about today's sponsor, Incogni.",
+      "en": "let me tell you about today's sponsor, Incogni.",
+      "zh": ""
+    },
+    {
+      "start": 701.95,
+      "duration": 3.84,
+      "text": "Every time you browse the internet, sign up for a newsletter, or even just buy",
+      "en": "Every time you browse the internet, sign up for a newsletter, or even just buy",
+      "zh": ""
+    },
+    {
+      "start": 705.79,
+      "duration": 1.17,
+      "text": "something online.",
+      "en": "something online.",
+      "zh": ""
+    },
+    {
+      "start": 706.96,
+      "duration": 3.08,
+      "text": "Your personal data is collected, it is stored.",
+      "en": "Your personal data is collected, it is stored.",
+      "zh": ""
+    },
+    {
+      "start": 710.04,
+      "duration": 3.59,
+      "text": "And sometimes sold without your permission.",
+      "en": "And sometimes sold without your permission.",
+      "zh": ""
+    },
+    {
+      "start": 713.63,
+      "duration": 2.63,
+      "text": "So how do you escape?",
+      "en": "So how do you escape?",
+      "zh": ""
+    },
+    {
+      "start": 716.26,
+      "duration": 4.42,
+      "text": "Well, with your permission, Incogni contacts data brokers on your behalf",
+      "en": "Well, with your permission, Incogni contacts data brokers on your behalf",
+      "zh": ""
+    },
+    {
+      "start": 720.68,
+      "duration": 2.46,
+      "text": "and requests using proper legal language",
+      "en": "and requests using proper legal language",
+      "zh": ""
+    },
+    {
+      "start": 723.14,
+      "duration": 2.71,
+      "text": "that they delete your personal information.",
+      "en": "that they delete your personal information.",
+      "zh": ""
+    },
+    {
+      "start": 725.85,
+      "duration": 2.96,
+      "text": "So instead of spending countless hours trying to track these companies",
+      "en": "So instead of spending countless hours trying to track these companies",
+      "zh": ""
+    },
+    {
+      "start": 728.81,
+      "duration": 4.09,
+      "text": "down yourself, Incogni does all that hard work for you.",
+      "en": "down yourself, Incogni does all that hard work for you.",
+      "zh": ""
+    },
+    {
+      "start": 732.9,
+      "duration": 2.54,
+      "text": "I started using Incogni and within just a week",
+      "en": "I started using Incogni and within just a week",
+      "zh": ""
+    },
+    {
+      "start": 735.44,
+      "duration": 4.46,
+      "text": "my inbox was less overrun and my phone even got fewer spam calls.",
+      "en": "my inbox was less overrun and my phone even got fewer spam calls.",
+      "zh": ""
+    },
+    {
+      "start": 739.9,
+      "duration": 3.34,
+      "text": "After a month, my dashboard showed even more removals.",
+      "en": "After a month, my dashboard showed even more removals.",
+      "zh": ""
+    },
+    {
+      "start": 743.24,
+      "duration": 3.01,
+      "text": "Companies I had never even interacted with, but who",
+      "en": "Companies I had never even interacted with, but who",
+      "zh": ""
+    },
+    {
+      "start": 746.25,
+      "duration": 2.96,
+      "text": "somehow had my personal information.",
+      "en": "somehow had my personal information.",
+      "zh": ""
+    },
+    {
+      "start": 749.21,
+      "duration": 2.92,
+      "text": "If you want to try the easy way to escape the clutches",
+      "en": "If you want to try the easy way to escape the clutches",
+      "zh": ""
+    },
+    {
+      "start": 752.13,
+      "duration": 3.21,
+      "text": "of data brokers, visit incogni.com/veritasium.",
+      "en": "of data brokers, visit incogni.com/veritasium.",
+      "zh": ""
+    },
+    {
+      "start": 755.34,
+      "duration": 4.33,
+      "text": "You can click that link down in the description or scan this QR code.",
+      "en": "You can click that link down in the description or scan this QR code.",
+      "zh": ""
+    },
+    {
+      "start": 759.67,
+      "duration": 2.84,
+      "text": "Make sure to use Code Veritasium to get 60% off",
+      "en": "Make sure to use Code Veritasium to get 60% off",
+      "zh": ""
+    },
+    {
+      "start": 762.51,
+      "duration": 3.67,
+      "text": "your annual subscription to take control of your data today.",
+      "en": "your annual subscription to take control of your data today.",
+      "zh": ""
+    },
+    {
+      "start": 766.18,
+      "duration": 3.3,
+      "text": "That's incogni.com/veritasium.",
+      "en": "That's incogni.com/veritasium.",
+      "zh": ""
+    },
+    {
+      "start": 769.48,
+      "duration": 3.42,
+      "text": "Now let's see how that simulation is coming along.",
+      "en": "Now let's see how that simulation is coming along.",
+      "zh": ""
+    },
+    {
+      "start": 772.9,
+      "duration": 2.83,
+      "text": "Okay, so we have our simulated blender.",
+      "en": "Okay, so we have our simulated blender.",
+      "zh": ""
+    },
+    {
+      "start": 775.73,
+      "duration": 4.84,
+      "text": "We’re 2 centimeters tall and we have to jump at least 30 centimeters to get out.",
+      "en": "We’re 2 centimeters tall and we have to jump at least 30 centimeters to get out.",
+      "zh": ""
+    },
+    {
+      "start": 780.57,
+      "duration": 1.75,
+      "text": "I was like, well, what about me?",
+      "en": "I was like, well, what about me?",
+      "zh": ""
+    },
+    {
+      "start": 782.32,
+      "duration": 4.26,
+      "text": "Like, I'm pretty, you know, embarrassingly non-athletic.",
+      "en": "Like, I'm pretty, you know, embarrassingly non-athletic.",
+      "zh": ""
+    },
+    {
+      "start": 786.58,
+      "duration": 3.33,
+      "text": "What if I do this? So I did it right here next to my desk.",
+      "en": "What if I do this? So I did it right here next to my desk.",
+      "zh": ""
+    },
+    {
+      "start": 789.91,
+      "duration": 2.01,
+      "text": "My partner sort of measured my jump height,",
+      "en": "My partner sort of measured my jump height,",
+      "zh": ""
+    },
+    {
+      "start": 791.92,
+      "duration": 1.58,
+      "text": "and I know how much I weigh and all that stuff.",
+      "en": "and I know how much I weigh and all that stuff.",
+      "zh": ""
+    },
+    {
+      "start": 793.5,
+      "duration": 2.34,
+      "text": "So what would it look like for me?",
+      "en": "So what would it look like for me?",
+      "zh": ""
+    },
+    {
+      "start": 795.84,
+      "duration": 3.92,
+      "text": "If we have a person that weighs 84kg, is squatting",
+      "en": "If we have a person that weighs 84kg, is squatting",
+      "zh": ""
+    },
+    {
+      "start": 799.76,
+      "duration": 4.79,
+      "text": "15cm and has a jump height of 27cm.",
+      "en": "15cm and has a jump height of 27cm.",
+      "zh": ""
+    },
+    {
+      "start": 804.55,
+      "duration": 3.13,
+      "text": "That person, if they were scaled down",
+      "en": "That person, if they were scaled down",
+      "zh": ""
+    },
+    {
+      "start": 807.68,
+      "duration": 2.63,
+      "text": "to 1% of their original size,",
+      "en": "to 1% of their original size,",
+      "zh": ""
+    },
+    {
+      "start": 810.31,
+      "duration": 3.54,
+      "text": "they would jump 42cm high.",
+      "en": "they would jump 42cm high.",
+      "zh": ""
+    },
+    {
+      "start": 813.85,
+      "duration": 4.17,
+      "text": "The simple simulation shows a jump height of 42cm.",
+      "en": "The simple simulation shows a jump height of 42cm.",
+      "zh": ""
+    },
+    {
+      "start": 818.02,
+      "duration": 2.38,
+      "text": "So you would make it out.",
+      "en": "So you would make it out.",
+      "zh": ""
+    },
+    {
+      "start": 820.4,
+      "duration": 3.26,
+      "text": "But we need to add in air resistance.",
+      "en": "But we need to add in air resistance.",
+      "zh": ""
+    },
+    {
+      "start": 823.66,
+      "duration": 4.42,
+      "text": "Since our cross-sectional area is now 100 times larger relative to our weight,",
+      "en": "Since our cross-sectional area is now 100 times larger relative to our weight,",
+      "zh": ""
+    },
+    {
+      "start": 828.08,
+      "duration": 3.92,
+      "text": "drag should have a greater effect at nickel size.",
+      "en": "drag should have a greater effect at nickel size.",
+      "zh": ""
+    },
+    {
+      "start": 832.0,
+      "duration": 4.59,
+      "text": "If it was 42cm jump height before for the jumper, with drag...",
+      "en": "If it was 42cm jump height before for the jumper, with drag...",
+      "zh": ""
+    },
+    {
+      "start": 836.59,
+      "duration": 4.75,
+      "text": "considering drag, then it's about 39cm.",
+      "en": "considering drag, then it's about 39cm.",
+      "zh": ""
+    },
+    {
+      "start": 841.34,
+      "duration": 2.67,
+      "text": "So we do decrease in jump height a little bit.",
+      "en": "So we do decrease in jump height a little bit.",
+      "zh": ""
+    },
+    {
+      "start": 844.01,
+      "duration": 4.67,
+      "text": "But that drag calculation is assuming you jump perfectly vertically.",
+      "en": "But that drag calculation is assuming you jump perfectly vertically.",
+      "zh": ""
+    },
+    {
+      "start": 848.68,
+      "duration": 4.84,
+      "text": "But what if you're a bit uncoordinated and you flip onto your side mid jump?",
+      "en": "But what if you're a bit uncoordinated and you flip onto your side mid jump?",
+      "zh": ""
+    },
+    {
+      "start": 853.52,
+      "duration": 3.21,
+      "text": "Well, then you're exposing ten times the surface area",
+      "en": "Well, then you're exposing ten times the surface area",
+      "zh": ""
+    },
+    {
+      "start": 856.73,
+      "duration": 3.38,
+      "text": "and that increases the amount of air resistance.",
+      "en": "and that increases the amount of air resistance.",
+      "zh": ""
+    },
+    {
+      "start": 860.11,
+      "duration": 3.34,
+      "text": "Like if somehow you flipped, and you're still moving up like this.",
+      "en": "Like if somehow you flipped, and you're still moving up like this.",
+      "zh": ""
+    },
+    {
+      "start": 863.45,
+      "duration": 1.96,
+      "text": "Like what is the air resistance then?",
+      "en": "Like what is the air resistance then?",
+      "zh": ""
+    },
+    {
+      "start": 865.41,
+      "duration": 2.71,
+      "text": "So doing that,",
+      "en": "So doing that,",
+      "zh": ""
+    },
+    {
+      "start": 868.12,
+      "duration": 2.58,
+      "text": "that means 22 centimeter jump height.",
+      "en": "that means 22 centimeter jump height.",
+      "zh": ""
+    },
+    {
+      "start": 870.7,
+      "duration": 1.92,
+      "text": "Oh. So we don't we don't.",
+      "en": "Oh. So we don't we don't.",
+      "zh": ""
+    },
+    {
+      "start": 872.62,
+      "duration": 2.04,
+      "text": "Oh. Darn.",
+      "en": "Oh. Darn.",
+      "zh": ""
+    },
+    {
+      "start": 874.66,
+      "duration": 3.3,
+      "text": "If you start getting overconfident and you wanted to do,",
+      "en": "If you start getting overconfident and you wanted to do,",
+      "zh": ""
+    },
+    {
+      "start": 877.96,
+      "duration": 4.71,
+      "text": "like, a backflip while you're at it, then you're going to mess it up. Yeah.",
+      "en": "like, a backflip while you're at it, then you're going to mess it up. Yeah.",
+      "zh": ""
+    },
+    {
+      "start": 882.67,
+      "duration": 3.88,
+      "text": "Don't backflip out of the blender is a good piece of advice.",
+      "en": "Don't backflip out of the blender is a good piece of advice.",
+      "zh": ""
+    },
+    {
+      "start": 886.55,
+      "duration": 1.13,
+      "text": "Don't try and show off.",
+      "en": "Don't try and show off.",
+      "zh": ""
+    },
+    {
+      "start": 887.68,
+      "duration": 1.87,
+      "text": "You're trying to not get chopped up.",
+      "en": "You're trying to not get chopped up.",
+      "zh": ""
+    },
+    {
+      "start": 889.55,
+      "duration": 2.34,
+      "text": "Just like, just go headfirst.",
+      "en": "Just like, just go headfirst.",
+      "zh": ""
+    },
+    {
+      "start": 891.89,
+      "duration": 2.63,
+      "text": "It's not so much getting out of the blender.",
+      "en": "It's not so much getting out of the blender.",
+      "zh": ""
+    },
+    {
+      "start": 894.52,
+      "duration": 1.79,
+      "text": "It's what happens next.",
+      "en": "It's what happens next.",
+      "zh": ""
+    },
+    {
+      "start": 896.31,
+      "duration": 4.71,
+      "text": "You've got two nickel sized men free in the world. Think of the posibilities.",
+      "en": "You've got two nickel sized men free in the world. Think of the posibilities.",
+      "zh": ""
+    },
+    {
+      "start": 901.02,
+      "duration": 1.51,
+      "text": "The simulation came back,",
+      "en": "The simulation came back,",
+      "zh": ""
+    },
+    {
+      "start": 902.53,
+      "duration": 2.96,
+      "text": "You can jump out of the freaking blender.",
+      "en": "You can jump out of the freaking blender.",
+      "zh": ""
+    },
+    {
+      "start": 905.49,
+      "duration": 2.13,
+      "text": "Alright, okay.",
+      "en": "Alright, okay.",
+      "zh": ""
+    },
+    {
+      "start": 907.62,
+      "duration": 3.41,
+      "text": "I'm glad we went through this, this exercise.",
+      "en": "I'm glad we went through this, this exercise.",
+      "zh": ""
+    },
+    {
+      "start": 911.03,
+      "duration": 2.92,
+      "text": "Do you want me to do another month of research on this?",
+      "en": "Do you want me to do another month of research on this?",
+      "zh": ""
+    },
+    {
+      "start": 913.95,
+      "duration": 1.42,
+      "text": "No. You know, like you've done it.",
+      "en": "No. You know, like you've done it.",
+      "zh": ""
+    },
+    {
+      "start": 915.37,
+      "duration": 2.8,
+      "text": "You've done enough. You've done enough. I'm convinced.",
+      "en": "You've done enough. You've done enough. I'm convinced.",
+      "zh": ""
+    },
+    {
+      "start": 921.29,
+      "duration": 3.13,
+      "text": "I feel like jumping is an unsatisfactory answer.",
+      "en": "I feel like jumping is an unsatisfactory answer.",
+      "zh": ""
+    },
+    {
+      "start": 924.42,
+      "duration": 3.51,
+      "text": "It was unsatisfactory when you mentioned it in the first place.",
+      "en": "It was unsatisfactory when you mentioned it in the first place.",
+      "zh": ""
+    },
+    {
+      "start": 927.93,
+      "duration": 1.87,
+      "text": "And you went through and you got the simulation,",
+      "en": "And you went through and you got the simulation,",
+      "zh": ""
+    },
+    {
+      "start": 929.8,
+      "duration": 4.01,
+      "text": "you got the model, and you're like, look, you know, our little guy can jump 40cm.",
+      "en": "you got the model, and you're like, look, you know, our little guy can jump 40cm.",
+      "zh": ""
+    },
+    {
+      "start": 933.81,
+      "duration": 1.0,
+      "text": "Are you convinced now?",
+      "en": "Are you convinced now?",
+      "zh": ""
+    },
+    {
+      "start": 934.81,
+      "duration": 3.17,
+      "text": "And I'm like, I guess.",
+      "en": "And I'm like, I guess.",
+      "zh": ""
+    },
+    {
+      "start": 937.98,
+      "duration": 3.42,
+      "text": "But like, my spidey sense was tingling.",
+      "en": "But like, my spidey sense was tingling.",
+      "zh": ""
+    },
+    {
+      "start": 941.4,
+      "duration": 2.92,
+      "text": "- Oh was it now! - There is something going on...",
+      "en": "- Oh was it now! - There is something going on...",
+      "zh": ""
+    },
+    {
+      "start": 944.32,
+      "duration": 5.0,
+      "text": "You're telling me that I have to apply a force",
+      "en": "You're telling me that I have to apply a force",
+      "zh": ""
+    },
+    {
+      "start": 949.32,
+      "duration": 3.63,
+      "text": "in 1/1000 of a second, and I have to undergo",
+      "en": "in 1/1000 of a second, and I have to undergo",
+      "zh": ""
+    },
+    {
+      "start": 952.95,
+      "duration": 3.88,
+      "text": "278 G's?",
+      "en": "278 G's?",
+      "zh": ""
+    },
+    {
+      "start": 956.83,
+      "duration": 1.84,
+      "text": "I'm not going to survive that.",
+      "en": "I'm not going to survive that.",
+      "zh": ""
+    },
+    {
+      "start": 958.67,
+      "duration": 4.87,
+      "text": "So what I'm getting now is that, like, my intuition was good.",
+      "en": "So what I'm getting now is that, like, my intuition was good.",
+      "zh": ""
+    },
+    {
+      "start": 963.54,
+      "duration": 3.8,
+      "text": "I think everyone's intuition was like, you can't jump out of a blender.",
+      "en": "I think everyone's intuition was like, you can't jump out of a blender.",
+      "zh": ""
+    },
+    {
+      "start": 967.34,
+      "duration": 2.09,
+      "text": "I think they're right.",
+      "en": "I think they're right.",
+      "zh": ""
+    },
+    {
+      "start": 969.43,
+      "duration": 0.91,
+      "text": "And you may say,",
+      "en": "And you may say,",
+      "zh": ""
+    },
+    {
+      "start": 970.34,
+      "duration": 3.01,
+      "text": "well, that's overthinking it, but that's the whole point of the brain",
+      "en": "well, that's overthinking it, but that's the whole point of the brain",
+      "zh": ""
+    },
+    {
+      "start": 973.35,
+      "duration": 5.34,
+      "text": "teaser is to overthink it is to get to that point where you're thinking about it",
+      "en": "teaser is to overthink it is to get to that point where you're thinking about it",
+      "zh": ""
+    },
+    {
+      "start": 978.69,
+      "duration": 3.83,
+      "text": "in the detail of like, what would actually be feasible.",
+      "en": "in the detail of like, what would actually be feasible.",
+      "zh": ""
+    },
+    {
+      "start": 982.52,
+      "duration": 2.05,
+      "text": "A whole lot of things would go wrong.",
+      "en": "A whole lot of things would go wrong.",
+      "zh": ""
+    },
+    {
+      "start": 984.57,
+      "duration": 2.71,
+      "text": "Our hearts have to generate a certain amount of pressure",
+      "en": "Our hearts have to generate a certain amount of pressure",
+      "zh": ""
+    },
+    {
+      "start": 987.28,
+      "duration": 3.79,
+      "text": "to get the blood, you know, going up to our head and going all the way down.",
+      "en": "to get the blood, you know, going up to our head and going all the way down.",
+      "zh": ""
+    },
+    {
+      "start": 991.07,
+      "duration": 2.26,
+      "text": "If you take the human heart and shrink it down,",
+      "en": "If you take the human heart and shrink it down,",
+      "zh": ""
+    },
+    {
+      "start": 993.33,
+      "duration": 3.04,
+      "text": "it's not going to be able to generate the same kinds of forces.",
+      "en": "it's not going to be able to generate the same kinds of forces.",
+      "zh": ""
+    },
+    {
+      "start": 996.37,
+      "duration": 3.25,
+      "text": "I think it would be a catastrophe, in a smaller size. Controlling",
+      "en": "I think it would be a catastrophe, in a smaller size. Controlling",
+      "zh": ""
+    },
+    {
+      "start": 999.62,
+      "duration": 4.34,
+      "text": "air pressure inside these countless sacks inside of our lungs.",
+      "en": "air pressure inside these countless sacks inside of our lungs.",
+      "zh": ""
+    },
+    {
+      "start": 1003.96,
+      "duration": 1.63,
+      "text": "There's an exquisite balance there.",
+      "en": "There's an exquisite balance there.",
+      "zh": ""
+    },
+    {
+      "start": 1005.59,
+      "duration": 4.71,
+      "text": "Now, you try to take that same design and squeeze it down.",
+      "en": "Now, you try to take that same design and squeeze it down.",
+      "zh": ""
+    },
+    {
+      "start": 1010.3,
+      "duration": 4.05,
+      "text": "I would be skeptical that you'd be able to keep the passageways open.",
+      "en": "I would be skeptical that you'd be able to keep the passageways open.",
+      "zh": ""
+    },
+    {
+      "start": 1014.35,
+      "duration": 3.12,
+      "text": "You wouldn't even be able to think this through, because you just",
+      "en": "You wouldn't even be able to think this through, because you just",
+      "zh": ""
+    },
+    {
+      "start": 1017.47,
+      "duration": 3.09,
+      "text": "wouldn't have the brain structures that we have.",
+      "en": "wouldn't have the brain structures that we have.",
+      "zh": ""
+    },
+    {
+      "start": 1020.56,
+      "duration": 3.75,
+      "text": "You can't fit 86 billion neurons in a nickel sized volume.",
+      "en": "You can't fit 86 billion neurons in a nickel sized volume.",
+      "zh": ""
+    },
+    {
+      "start": 1024.31,
+      "duration": 2.38,
+      "text": "You can't scale cells down either.",
+      "en": "You can't scale cells down either.",
+      "zh": ""
+    },
+    {
+      "start": 1026.69,
+      "duration": 2.34,
+      "text": "That's the thing. Like cells are cells.",
+      "en": "That's the thing. Like cells are cells.",
+      "zh": ""
+    },
+    {
+      "start": 1029.03,
+      "duration": 3.63,
+      "text": "I mean, jumping out would be, to me, seems like your only option, but I don't",
+      "en": "I mean, jumping out would be, to me, seems like your only option, but I don't",
+      "zh": ""
+    },
+    {
+      "start": 1032.66,
+      "duration": 1.46,
+      "text": "think you're going to be able to jump",
+      "en": "think you're going to be able to jump",
+      "zh": ""
+    },
+    {
+      "start": 1034.12,
+      "duration": 4.17,
+      "text": "because you can't breathe and your heart can't pump blood,",
+      "en": "because you can't breathe and your heart can't pump blood,",
+      "zh": ""
+    },
+    {
+      "start": 1038.29,
+      "duration": 3.92,
+      "text": "so you just keel over and die before you can make your jump.",
+      "en": "so you just keel over and die before you can make your jump.",
+      "zh": ""
+    },
+    {
+      "start": 1043.0,
+      "duration": 3.84,
+      "text": "Okay, so if you're a biologist, you think we die.",
+      "en": "Okay, so if you're a biologist, you think we die.",
+      "zh": ""
+    },
+    {
+      "start": 1046.84,
+      "duration": 3.79,
+      "text": "If you're a physicist, you can decide whether we'd be little supermen or,",
+      "en": "If you're a physicist, you can decide whether we'd be little supermen or,",
+      "zh": ""
+    },
+    {
+      "start": 1050.63,
+      "duration": 3.59,
+      "text": "as I believe, incapable of fully harnessing our extra strength.",
+      "en": "as I believe, incapable of fully harnessing our extra strength.",
+      "zh": ""
+    },
+    {
+      "start": 1054.22,
+      "duration": 0.83,
+      "text": "What did Borelli know?",
+      "en": "What did Borelli know?",
+      "zh": ""
+    },
+    {
+      "start": 1055.05,
+      "duration": 2.97,
+      "text": "He didn't even have blenders.",
+      "en": "He didn't even have blenders.",
+      "zh": ""
+    },
+    {
+      "start": 1058.02,
+      "duration": 1.62,
+      "text": "He doesn't know the stress.",
+      "en": "He doesn't know the stress.",
+      "zh": ""
+    },
+    {
+      "start": 1059.64,
+      "duration": 5.8,
+      "text": "But if you're an interviewer at Google, you might not even care what the answer is.",
+      "en": "But if you're an interviewer at Google, you might not even care what the answer is.",
+      "zh": ""
+    },
+    {
+      "start": 1065.44,
+      "duration": 4.0,
+      "text": "I think one of the misconceptions that candidates have is",
+      "en": "I think one of the misconceptions that candidates have is",
+      "zh": ""
+    },
+    {
+      "start": 1069.44,
+      "duration": 4.26,
+      "text": "when I'm asked this question, it's because they want to see",
+      "en": "when I'm asked this question, it's because they want to see",
+      "zh": ""
+    },
+    {
+      "start": 1073.7,
+      "duration": 1.92,
+      "text": "if I can solve this problem.",
+      "en": "if I can solve this problem.",
+      "zh": ""
+    },
+    {
+      "start": 1075.62,
+      "duration": 1.29,
+      "text": "That's actually not quite right.",
+      "en": "That's actually not quite right.",
+      "zh": ""
+    },
+    {
+      "start": 1076.91,
+      "duration": 2.04,
+      "text": "There are five attributes people are looking for.",
+      "en": "There are five attributes people are looking for.",
+      "zh": ""
+    },
+    {
+      "start": 1078.95,
+      "duration": 2.8,
+      "text": "There's addressing ambiguity,",
+      "en": "There's addressing ambiguity,",
+      "zh": ""
+    },
+    {
+      "start": 1081.75,
+      "duration": 3.96,
+      "text": "There's breaking down the problem, being creative, being smart,",
+      "en": "There's breaking down the problem, being creative, being smart,",
+      "zh": ""
+    },
+    {
+      "start": 1085.71,
+      "duration": 1.25,
+      "text": "and then communication.",
+      "en": "and then communication.",
+      "zh": ""
+    },
+    {
+      "start": 1086.96,
+      "duration": 5.26,
+      "text": "- So I guess like none of those five are whether it's correct. - Right.",
+      "en": "- So I guess like none of those five are whether it's correct. - Right.",
+      "zh": ""
+    },
+    {
+      "start": 1092.22,
+      "duration": 3.08,
+      "text": "We’re the idiots who went and tried to figure out what's the best",
+      "en": "We’re the idiots who went and tried to figure out what's the best",
+      "zh": ""
+    },
+    {
+      "start": 1095.3,
+      "duration": 5.3,
+      "text": "of those answers. Um, yes!",
+      "en": "of those answers. Um, yes!",
+      "zh": ""
+    },
+    {
+      "start": 1100.6,
+      "duration": 5.21,
+      "text": "Google realized that asking these types of questions didn't make much sense.",
+      "en": "Google realized that asking these types of questions didn't make much sense.",
+      "zh": ""
+    },
+    {
+      "start": 1105.81,
+      "duration": 4.76,
+      "text": "Laszlo Bock, the senior vice president of people operations at Google, said this:",
+      "en": "Laszlo Bock, the senior vice president of people operations at Google, said this:",
+      "zh": ""
+    },
+    {
+      "start": 1110.57,
+      "duration": 4.42,
+      "text": "On the hiring side, we found that brain teasers are a complete waste of time.",
+      "en": "On the hiring side, we found that brain teasers are a complete waste of time.",
+      "zh": ""
+    },
+    {
+      "start": 1114.99,
+      "duration": 2.33,
+      "text": "How many golf balls can you fit into an airplane?",
+      "en": "How many golf balls can you fit into an airplane?",
+      "zh": ""
+    },
+    {
+      "start": 1117.32,
+      "duration": 2.34,
+      "text": "How many gas stations are in Manhattan?",
+      "en": "How many gas stations are in Manhattan?",
+      "zh": ""
+    },
+    {
+      "start": 1119.66,
+      "duration": 2.42,
+      "text": "A complete waste of time. They don't predict anything.",
+      "en": "A complete waste of time. They don't predict anything.",
+      "zh": ""
+    },
+    {
+      "start": 1122.08,
+      "duration": 3.42,
+      "text": "They serve primarily to make the interviewer feel smart.",
+      "en": "They serve primarily to make the interviewer feel smart.",
+      "zh": ""
+    },
+    {
+      "start": 1125.5,
+      "duration": 1.63,
+      "text": "But I just feel like there's that moment",
+      "en": "But I just feel like there's that moment",
+      "zh": ""
+    },
+    {
+      "start": 1127.13,
+      "duration": 2.33,
+      "text": "where you're like, so are you going to admit you're wrong?",
+      "en": "where you're like, so are you going to admit you're wrong?",
+      "zh": ""
+    },
+    {
+      "start": 1129.46,
+      "duration": 5.38,
+      "text": "And I'm like, nyah, you know, I think this is further to like, I'm not wrong.",
+      "en": "And I'm like, nyah, you know, I think this is further to like, I'm not wrong.",
+      "zh": ""
+    },
+    {
+      "start": 1134.84,
+      "duration": 0.84,
+      "text": "This is crazy.",
+      "en": "This is crazy.",
+      "zh": ""
+    },
+    {
+      "start": 1135.68,
+      "duration": 1.66,
+      "text": "This question is crazy.",
+      "en": "This question is crazy.",
+      "zh": ""
+    },
+    {
+      "start": 1137.34,
+      "duration": 2.26,
+      "text": "And I think it goes to your very point.",
+      "en": "And I think it goes to your very point.",
+      "zh": ""
+    },
+    {
+      "start": 1139.6,
+      "duration": 3.25,
+      "text": "Your very point, which is that like brain teasers like this",
+      "en": "Your very point, which is that like brain teasers like this",
+      "zh": ""
+    },
+    {
+      "start": 1142.85,
+      "duration": 4.55,
+      "text": "are not good ways to assess whether people know what they're talking about.",
+      "en": "are not good ways to assess whether people know what they're talking about.",
+      "zh": ""
+    },
+    {
+      "start": 1147.4,
+      "duration": 2.79,
+      "text": "So although brain teasers aren't useful to assess",
+      "en": "So although brain teasers aren't useful to assess",
+      "zh": ""
+    },
+    {
+      "start": 1150.19,
+      "duration": 3.25,
+      "text": "job applicants, they are useful for something.",
+      "en": "job applicants, they are useful for something.",
+      "zh": ""
+    },
+    {
+      "start": 1153.44,
+      "duration": 3.76,
+      "text": "I mean, every time we ask this question to people on the street,",
+      "en": "I mean, every time we ask this question to people on the street,",
+      "zh": ""
+    },
+    {
+      "start": 1157.2,
+      "duration": 4.34,
+      "text": "to physics students and to scientists, they lit up.",
+      "en": "to physics students and to scientists, they lit up.",
+      "zh": ""
+    },
+    {
+      "start": 1161.54,
+      "duration": 3.37,
+      "text": "They had to try to see the world from a new perspective.",
+      "en": "They had to try to see the world from a new perspective.",
+      "zh": ""
+    },
+    {
+      "start": 1164.91,
+      "duration": 2.42,
+      "text": "And it's exactly this way of thinking that has led to",
+      "en": "And it's exactly this way of thinking that has led to",
+      "zh": ""
+    },
+    {
+      "start": 1167.33,
+      "duration": 2.42,
+      "text": "some of the biggest scientific discoveries.",
+      "en": "some of the biggest scientific discoveries.",
+      "zh": ""
+    },
+    {
+      "start": 1169.75,
+      "duration": 4.3,
+      "text": "Einstein used thought experiments to come up with his theory of relativity.",
+      "en": "Einstein used thought experiments to come up with his theory of relativity.",
+      "zh": ""
+    },
+    {
+      "start": 1174.05,
+      "duration": 3.29,
+      "text": "Euler's solution to the bridges of Königsberg puzzle",
+      "en": "Euler's solution to the bridges of Königsberg puzzle",
+      "zh": ""
+    },
+    {
+      "start": 1177.34,
+      "duration": 2.38,
+      "text": "is what inspired graph theory.",
+      "en": "is what inspired graph theory.",
+      "zh": ""
+    },
+    {
+      "start": 1179.72,
+      "duration": 4.0,
+      "text": "And when Schrödinger wanted to illustrate his problems with quantum mechanics,",
+      "en": "And when Schrödinger wanted to illustrate his problems with quantum mechanics,",
+      "zh": ""
+    },
+    {
+      "start": 1183.72,
+      "duration": 3.97,
+      "text": "he imagined a cat in a torture box.",
+      "en": "he imagined a cat in a torture box.",
+      "zh": ""
+    },
+    {
+      "start": 1187.69,
+      "duration": 3.21,
+      "text": "The blender question is admittedly silly, but silly",
+      "en": "The blender question is admittedly silly, but silly",
+      "zh": ""
+    },
+    {
+      "start": 1190.9,
+      "duration": 4.17,
+      "text": "questions can yield profound answers and show us new things.",
+      "en": "questions can yield profound answers and show us new things.",
+      "zh": ""
+    },
+    {
+      "start": 1195.07,
+      "duration": 3.17,
+      "text": "I think in order to learn something new, you have to be willing",
+      "en": "I think in order to learn something new, you have to be willing",
+      "zh": ""
+    },
+    {
+      "start": 1198.24,
+      "duration": 3.5,
+      "text": "to embrace the ridiculous and just go with it.",
+      "en": "to embrace the ridiculous and just go with it.",
+      "zh": ""
+    }
+  ],
+  "words": []
+}

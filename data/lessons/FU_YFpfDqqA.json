@@ -1,0 +1,3358 @@
+{
+  "cues": [
+    {
+      "start": 0.12,
+      "duration": 1.95,
+      "text": "- [Derek] The modern era of electronics",
+      "en": "- [Derek] The modern era of electronics",
+      "zh": ""
+    },
+    {
+      "start": 2.07,
+      "duration": 1.9,
+      "text": "began with the light bulb",
+      "en": "began with the light bulb",
+      "zh": ""
+    },
+    {
+      "start": 4.86,
+      "duration": 2.1,
+      "text": "but not in the way you might think.",
+      "en": "but not in the way you might think.",
+      "zh": ""
+    },
+    {
+      "start": 8.01,
+      "duration": 2.28,
+      "text": "Early light bulbs consisted of a carbon filament",
+      "en": "Early light bulbs consisted of a carbon filament",
+      "zh": ""
+    },
+    {
+      "start": 10.29,
+      "duration": 1.56,
+      "text": "sealed inside a glass bulb",
+      "en": "sealed inside a glass bulb",
+      "zh": ""
+    },
+    {
+      "start": 11.85,
+      "duration": 2.19,
+      "text": "with a vacuum inside.",
+      "en": "with a vacuum inside.",
+      "zh": ""
+    },
+    {
+      "start": 14.04,
+      "duration": 2.79,
+      "text": "When a potential difference was applied across the filament,",
+      "en": "When a potential difference was applied across the filament,",
+      "zh": ""
+    },
+    {
+      "start": 16.83,
+      "duration": 1.68,
+      "text": "current flowed through it,",
+      "en": "current flowed through it,",
+      "zh": ""
+    },
+    {
+      "start": 18.51,
+      "duration": 2.7,
+      "text": "heating it up to over 2000 Kelvin,",
+      "en": "heating it up to over 2000 Kelvin,",
+      "zh": ""
+    },
+    {
+      "start": 21.21,
+      "duration": 2.22,
+      "text": "so hot that it glowed.",
+      "en": "so hot that it glowed.",
+      "zh": ""
+    },
+    {
+      "start": 23.43,
+      "duration": 2.19,
+      "text": "If there had been much oxygen in the bulb,",
+      "en": "If there had been much oxygen in the bulb,",
+      "zh": ""
+    },
+    {
+      "start": 25.62,
+      "duration": 2.52,
+      "text": "the filament would've burned immediately.",
+      "en": "the filament would've burned immediately.",
+      "zh": ""
+    },
+    {
+      "start": 28.14,
+      "duration": 2.49,
+      "text": "That was the reason for the vacuum.",
+      "en": "That was the reason for the vacuum.",
+      "zh": ""
+    },
+    {
+      "start": 30.63,
+      "duration": 2.16,
+      "text": "But from the perspective of electronics,",
+      "en": "But from the perspective of electronics,",
+      "zh": ""
+    },
+    {
+      "start": 32.79,
+      "duration": 2.79,
+      "text": "the real breakthrough came from a curious observation",
+      "en": "the real breakthrough came from a curious observation",
+      "zh": ""
+    },
+    {
+      "start": 35.58,
+      "duration": 1.83,
+      "text": "made by Thomas Edison.",
+      "en": "made by Thomas Edison.",
+      "zh": ""
+    },
+    {
+      "start": 38.34,
+      "duration": 2.17,
+      "text": "He saw that over a bulb's lifetime,",
+      "en": "He saw that over a bulb's lifetime,",
+      "zh": ""
+    },
+    {
+      "start": 40.51,
+      "duration": 2.69,
+      "text": "the glass became discolored,",
+      "en": "the glass became discolored,",
+      "zh": ""
+    },
+    {
+      "start": 43.2,
+      "duration": 2.4,
+      "text": "turning yellow, and then brown,",
+      "en": "turning yellow, and then brown,",
+      "zh": ""
+    },
+    {
+      "start": 45.6,
+      "duration": 2.76,
+      "text": "but only on one side.",
+      "en": "but only on one side.",
+      "zh": ""
+    },
+    {
+      "start": 48.36,
+      "duration": 1.92,
+      "text": "So what was going on?",
+      "en": "So what was going on?",
+      "zh": ""
+    },
+    {
+      "start": 51.18,
+      "duration": 3.66,
+      "text": "Well, the heated filament emits not only light and heat",
+      "en": "Well, the heated filament emits not only light and heat",
+      "zh": ""
+    },
+    {
+      "start": 54.84,
+      "duration": 2.16,
+      "text": "but also electrons.",
+      "en": "but also electrons.",
+      "zh": ""
+    },
+    {
+      "start": 57.0,
+      "duration": 2.52,
+      "text": "You can think of them being boiled off the surface",
+      "en": "You can think of them being boiled off the surface",
+      "zh": ""
+    },
+    {
+      "start": 59.52,
+      "duration": 1.77,
+      "text": "of the carbon.",
+      "en": "of the carbon.",
+      "zh": ""
+    },
+    {
+      "start": 61.29,
+      "duration": 2.73,
+      "text": "This phenomenon, known as thermionic emission,",
+      "en": "This phenomenon, known as thermionic emission,",
+      "zh": ""
+    },
+    {
+      "start": 64.02,
+      "duration": 2.07,
+      "text": "had twice been discovered independently",
+      "en": "had twice been discovered independently",
+      "zh": ""
+    },
+    {
+      "start": 66.09,
+      "duration": 3.3,
+      "text": "by other scientists up to 27 years earlier.",
+      "en": "by other scientists up to 27 years earlier.",
+      "zh": ""
+    },
+    {
+      "start": 69.39,
+      "duration": 3.63,
+      "text": "But after Edison, it became widely known.",
+      "en": "But after Edison, it became widely known.",
+      "zh": ""
+    },
+    {
+      "start": 73.02,
+      "duration": 1.05,
+      "text": "In fact, for a time,",
+      "en": "In fact, for a time,",
+      "zh": ""
+    },
+    {
+      "start": 74.07,
+      "duration": 2.22,
+      "text": "the emission of electrons off a hot filament",
+      "en": "the emission of electrons off a hot filament",
+      "zh": ""
+    },
+    {
+      "start": 76.29,
+      "duration": 2.7,
+      "text": "was called the Edison effect.",
+      "en": "was called the Edison effect.",
+      "zh": ""
+    },
+    {
+      "start": 78.99,
+      "duration": 2.93,
+      "text": "Now, these electrons floating around were unobstructed",
+      "en": "Now, these electrons floating around were unobstructed",
+      "zh": ""
+    },
+    {
+      "start": 81.92,
+      "duration": 2.29,
+      "text": "because they're in a vacuum.",
+      "en": "because they're in a vacuum.",
+      "zh": ""
+    },
+    {
+      "start": 84.21,
+      "duration": 1.74,
+      "text": "But since there was a potential difference",
+      "en": "But since there was a potential difference",
+      "zh": ""
+    },
+    {
+      "start": 85.95,
+      "duration": 2.04,
+      "text": "across the wires that led to the filament,",
+      "en": "across the wires that led to the filament,",
+      "zh": ""
+    },
+    {
+      "start": 87.99,
+      "duration": 3.39,
+      "text": "the electrons were attracted to the positive wire.",
+      "en": "the electrons were attracted to the positive wire.",
+      "zh": ""
+    },
+    {
+      "start": 91.38,
+      "duration": 2.31,
+      "text": "So they accelerated towards it",
+      "en": "So they accelerated towards it",
+      "zh": ""
+    },
+    {
+      "start": 93.69,
+      "duration": 2.08,
+      "text": "and most would whizz straight past it",
+      "en": "and most would whizz straight past it",
+      "zh": ""
+    },
+    {
+      "start": 95.77,
+      "duration": 2.24,
+      "text": "and crash into the glass,",
+      "en": "and crash into the glass,",
+      "zh": ""
+    },
+    {
+      "start": 98.01,
+      "duration": 4.8,
+      "text": "over time discoloring it only on the positive side.",
+      "en": "over time discoloring it only on the positive side.",
+      "zh": ""
+    },
+    {
+      "start": 102.81,
+      "duration": 2.45,
+      "text": "I should note that Edison was using DC electricity.",
+      "en": "I should note that Edison was using DC electricity.",
+      "zh": ""
+    },
+    {
+      "start": 105.26,
+      "duration": 2.2,
+      "text": "If he had been using AC,",
+      "en": "If he had been using AC,",
+      "zh": ""
+    },
+    {
+      "start": 107.46,
+      "duration": 3.12,
+      "text": "then both sides would've been discolored.",
+      "en": "then both sides would've been discolored.",
+      "zh": ""
+    },
+    {
+      "start": 110.58,
+      "duration": 2.46,
+      "text": "But it was this observation that set the scene",
+      "en": "But it was this observation that set the scene",
+      "zh": ""
+    },
+    {
+      "start": 113.04,
+      "duration": 1.77,
+      "text": "for an electronics revolution,",
+      "en": "for an electronics revolution,",
+      "zh": ""
+    },
+    {
+      "start": 114.81,
+      "duration": 3.36,
+      "text": "and eventually the first digital computers.",
+      "en": "and eventually the first digital computers.",
+      "zh": ""
+    },
+    {
+      "start": 119.91,
+      "duration": 2.86,
+      "text": "In 1904, John Ambrose Fleming patented a device",
+      "en": "In 1904, John Ambrose Fleming patented a device",
+      "zh": ""
+    },
+    {
+      "start": 122.77,
+      "duration": 2.93,
+      "text": "that was very similar to Edison's light bulb,",
+      "en": "that was very similar to Edison's light bulb,",
+      "zh": ""
+    },
+    {
+      "start": 125.7,
+      "duration": 2.52,
+      "text": "but with one important addition:",
+      "en": "but with one important addition:",
+      "zh": ""
+    },
+    {
+      "start": 128.22,
+      "duration": 2.76,
+      "text": "a second electrode in the bulb.",
+      "en": "a second electrode in the bulb.",
+      "zh": ""
+    },
+    {
+      "start": 130.98,
+      "duration": 1.68,
+      "text": "By charging this plate positively",
+      "en": "By charging this plate positively",
+      "zh": ""
+    },
+    {
+      "start": 132.66,
+      "duration": 1.65,
+      "text": "with respect to the filament,",
+      "en": "with respect to the filament,",
+      "zh": ""
+    },
+    {
+      "start": 134.31,
+      "duration": 2.58,
+      "text": "electrons could be accelerated across the gap,",
+      "en": "electrons could be accelerated across the gap,",
+      "zh": ""
+    },
+    {
+      "start": 136.89,
+      "duration": 1.71,
+      "text": "completing the circuit.",
+      "en": "completing the circuit.",
+      "zh": ""
+    },
+    {
+      "start": 138.6,
+      "duration": 1.83,
+      "text": "But if the plate were slightly negative",
+      "en": "But if the plate were slightly negative",
+      "zh": ""
+    },
+    {
+      "start": 140.43,
+      "duration": 1.23,
+      "text": "relative to the filament,",
+      "en": "relative to the filament,",
+      "zh": ""
+    },
+    {
+      "start": 141.66,
+      "duration": 1.56,
+      "text": "then it would repel electrons",
+      "en": "then it would repel electrons",
+      "zh": ""
+    },
+    {
+      "start": 143.22,
+      "duration": 2.16,
+      "text": "and no current would flow.",
+      "en": "and no current would flow.",
+      "zh": ""
+    },
+    {
+      "start": 145.38,
+      "duration": 4.08,
+      "text": "Fleming called his device a one-way street for electricity.",
+      "en": "Fleming called his device a one-way street for electricity.",
+      "zh": ""
+    },
+    {
+      "start": 149.46,
+      "duration": 2.46,
+      "text": "Since only one of the electrodes was heated,",
+      "en": "Since only one of the electrodes was heated,",
+      "zh": ""
+    },
+    {
+      "start": 151.92,
+      "duration": 2.85,
+      "text": "electrons could only flow from there to the plate",
+      "en": "electrons could only flow from there to the plate",
+      "zh": ""
+    },
+    {
+      "start": 154.77,
+      "duration": 2.34,
+      "text": "and not the other way around.",
+      "en": "and not the other way around.",
+      "zh": ""
+    },
+    {
+      "start": 157.11,
+      "duration": 2.73,
+      "text": "The device was called a thermionic diode",
+      "en": "The device was called a thermionic diode",
+      "zh": ""
+    },
+    {
+      "start": 159.84,
+      "duration": 3.48,
+      "text": "and it was used initially for detecting radio signals",
+      "en": "and it was used initially for detecting radio signals",
+      "zh": ""
+    },
+    {
+      "start": 163.32,
+      "duration": 1.38,
+      "text": "but it could also convert",
+      "en": "but it could also convert",
+      "zh": ""
+    },
+    {
+      "start": 164.7,
+      "duration": 2.52,
+      "text": "alternating current to direct current.",
+      "en": "alternating current to direct current.",
+      "zh": ""
+    },
+    {
+      "start": 168.21,
+      "duration": 2.97,
+      "text": "Scientists quickly realized that a more efficient design",
+      "en": "Scientists quickly realized that a more efficient design",
+      "zh": ""
+    },
+    {
+      "start": 171.18,
+      "duration": 1.32,
+      "text": "had the filament in the center",
+      "en": "had the filament in the center",
+      "zh": ""
+    },
+    {
+      "start": 172.5,
+      "duration": 2.46,
+      "text": "and the other electrode to the plate or anode",
+      "en": "and the other electrode to the plate or anode",
+      "zh": ""
+    },
+    {
+      "start": 174.96,
+      "duration": 2.52,
+      "text": "as a cylinder surrounding it.",
+      "en": "as a cylinder surrounding it.",
+      "zh": ""
+    },
+    {
+      "start": 177.48,
+      "duration": 2.23,
+      "text": "This geometry captured more of the electrons",
+      "en": "This geometry captured more of the electrons",
+      "zh": ""
+    },
+    {
+      "start": 179.71,
+      "duration": 1.43,
+      "text": "coming off the filament",
+      "en": "coming off the filament",
+      "zh": ""
+    },
+    {
+      "start": 181.14,
+      "duration": 2.55,
+      "text": "and allowed for larger currents to flow.",
+      "en": "and allowed for larger currents to flow.",
+      "zh": ""
+    },
+    {
+      "start": 186.68,
+      "duration": 2.59,
+      "text": "-  Oh, there she goes.",
+      "en": "-  Oh, there she goes.",
+      "zh": ""
+    },
+    {
+      "start": 189.27,
+      "duration": 1.62,
+      "text": "- [Derek] With just one of these diodes,",
+      "en": "- [Derek] With just one of these diodes,",
+      "zh": ""
+    },
+    {
+      "start": 190.89,
+      "duration": 4.35,
+      "text": "you could convert AC into a bumpy kind of DC.",
+      "en": "you could convert AC into a bumpy kind of DC.",
+      "zh": ""
+    },
+    {
+      "start": 195.24,
+      "duration": 2.02,
+      "text": "But combining a few diodes and a capacitor",
+      "en": "But combining a few diodes and a capacitor",
+      "zh": ""
+    },
+    {
+      "start": 197.26,
+      "duration": 3.77,
+      "text": "led to a fairly steady direct current,",
+      "en": "led to a fairly steady direct current,",
+      "zh": ""
+    },
+    {
+      "start": 201.03,
+      "duration": 1.56,
+      "text": "and this was a big deal.",
+      "en": "and this was a big deal.",
+      "zh": ""
+    },
+    {
+      "start": 202.59,
+      "duration": 2.85,
+      "text": "It was the first practical vacuum tube device",
+      "en": "It was the first practical vacuum tube device",
+      "zh": ""
+    },
+    {
+      "start": 205.44,
+      "duration": 2.22,
+      "text": "and the model for all vacuum tubes",
+      "en": "and the model for all vacuum tubes",
+      "zh": ""
+    },
+    {
+      "start": 207.66,
+      "duration": 1.23,
+      "text": "that would dominate the industry",
+      "en": "that would dominate the industry",
+      "zh": ""
+    },
+    {
+      "start": 208.89,
+      "duration": 1.56,
+      "text": "for the next half century.",
+      "en": "for the next half century.",
+      "zh": ""
+    },
+    {
+      "start": 213.45,
+      "duration": 1.29,
+      "text": "In the early 1900s,",
+      "en": "In the early 1900s,",
+      "zh": ""
+    },
+    {
+      "start": 214.74,
+      "duration": 3.15,
+      "text": "the big problem in electronics was amplification.",
+      "en": "the big problem in electronics was amplification.",
+      "zh": ""
+    },
+    {
+      "start": 217.89,
+      "duration": 1.8,
+      "text": "Radio had just been invented",
+      "en": "Radio had just been invented",
+      "zh": ""
+    },
+    {
+      "start": 219.69,
+      "duration": 1.41,
+      "text": "but its range was limited",
+      "en": "but its range was limited",
+      "zh": ""
+    },
+    {
+      "start": 221.1,
+      "duration": 1.74,
+      "text": "by the lack of reliable equipment",
+      "en": "by the lack of reliable equipment",
+      "zh": ""
+    },
+    {
+      "start": 222.84,
+      "duration": 2.1,
+      "text": "that could boost weak signals.",
+      "en": "that could boost weak signals.",
+      "zh": ""
+    },
+    {
+      "start": 224.94,
+      "duration": 2.1,
+      "text": "Similarly, telephone calls were limited",
+      "en": "Similarly, telephone calls were limited",
+      "zh": ""
+    },
+    {
+      "start": 227.04,
+      "duration": 2.64,
+      "text": "to at most 1300 kilometers",
+      "en": "to at most 1300 kilometers",
+      "zh": ""
+    },
+    {
+      "start": 229.68,
+      "duration": 1.17,
+      "text": "because by that point,",
+      "en": "because by that point,",
+      "zh": ""
+    },
+    {
+      "start": 230.85,
+      "duration": 2.69,
+      "text": "the signal was two faint to hear.",
+      "en": "the signal was two faint to hear.",
+      "zh": ""
+    },
+    {
+      "start": 233.54,
+      "duration": 2.4,
+      "text": "Rudimentary form of amplification had been built",
+      "en": "Rudimentary form of amplification had been built",
+      "zh": ""
+    },
+    {
+      "start": 235.94,
+      "duration": 3.46,
+      "text": "for telegraph operation called the relay.",
+      "en": "for telegraph operation called the relay.",
+      "zh": ""
+    },
+    {
+      "start": 239.4,
+      "duration": 2.58,
+      "text": "In a relay, there is an electromagnet.",
+      "en": "In a relay, there is an electromagnet.",
+      "zh": ""
+    },
+    {
+      "start": 241.98,
+      "duration": 2.4,
+      "text": "And when current flows through that electromagnet,",
+      "en": "And when current flows through that electromagnet,",
+      "zh": ""
+    },
+    {
+      "start": 244.38,
+      "duration": 1.8,
+      "text": "it attracts a switch,",
+      "en": "it attracts a switch,",
+      "zh": ""
+    },
+    {
+      "start": 246.18,
+      "duration": 2.16,
+      "text": "turning on a second circuit.",
+      "en": "turning on a second circuit.",
+      "zh": ""
+    },
+    {
+      "start": 248.34,
+      "duration": 2.13,
+      "text": "But when the current through the electromagnet stops,",
+      "en": "But when the current through the electromagnet stops,",
+      "zh": ""
+    },
+    {
+      "start": 250.47,
+      "duration": 1.35,
+      "text": "the switch is released",
+      "en": "the switch is released",
+      "zh": ""
+    },
+    {
+      "start": 251.82,
+      "duration": 2.58,
+      "text": "and the second circuit is open again.",
+      "en": "and the second circuit is open again.",
+      "zh": ""
+    },
+    {
+      "start": 254.4,
+      "duration": 1.95,
+      "text": "This device works well for amplifying",
+      "en": "This device works well for amplifying",
+      "zh": ""
+    },
+    {
+      "start": 256.35,
+      "duration": 3.36,
+      "text": "the dots and dashes of Morse code along a telegraph line",
+      "en": "the dots and dashes of Morse code along a telegraph line",
+      "zh": ""
+    },
+    {
+      "start": 259.71,
+      "duration": 2.22,
+      "text": "but its binary output means it's incapable",
+      "en": "but its binary output means it's incapable",
+      "zh": ""
+    },
+    {
+      "start": 261.93,
+      "duration": 3.05,
+      "text": "of amplifying the complex and analog signals",
+      "en": "of amplifying the complex and analog signals",
+      "zh": ""
+    },
+    {
+      "start": 264.98,
+      "duration": 2.59,
+      "text": "of phone calls and radio waves.",
+      "en": "of phone calls and radio waves.",
+      "zh": ""
+    },
+    {
+      "start": 268.8,
+      "duration": 2.73,
+      "text": "And that's why it was such a breakthrough in 1906",
+      "en": "And that's why it was such a breakthrough in 1906",
+      "zh": ""
+    },
+    {
+      "start": 271.53,
+      "duration": 2.19,
+      "text": "when Lee de Forest took the diode",
+      "en": "when Lee de Forest took the diode",
+      "zh": ""
+    },
+    {
+      "start": 273.72,
+      "duration": 3.03,
+      "text": "and added another electrode into the bulb.",
+      "en": "and added another electrode into the bulb.",
+      "zh": ""
+    },
+    {
+      "start": 276.75,
+      "duration": 2.88,
+      "text": "This electrode wasn't a solid piece of metal",
+      "en": "This electrode wasn't a solid piece of metal",
+      "zh": ""
+    },
+    {
+      "start": 279.63,
+      "duration": 2.61,
+      "text": "but rather a sparse wire mesh",
+      "en": "but rather a sparse wire mesh",
+      "zh": ""
+    },
+    {
+      "start": 282.24,
+      "duration": 3.42,
+      "text": "and it was positioned in between the filament or cathode",
+      "en": "and it was positioned in between the filament or cathode",
+      "zh": ""
+    },
+    {
+      "start": 285.66,
+      "duration": 1.62,
+      "text": "and the anode.",
+      "en": "and the anode.",
+      "zh": ""
+    },
+    {
+      "start": 287.28,
+      "duration": 3.63,
+      "text": "With three electrodes, it was called a triode.",
+      "en": "With three electrodes, it was called a triode.",
+      "zh": ""
+    },
+    {
+      "start": 290.91,
+      "duration": 2.34,
+      "text": "Now, a large potential difference could be applied",
+      "en": "Now, a large potential difference could be applied",
+      "zh": ""
+    },
+    {
+      "start": 293.25,
+      "duration": 2.13,
+      "text": "across the anode and cathode",
+      "en": "across the anode and cathode",
+      "zh": ""
+    },
+    {
+      "start": 295.38,
+      "duration": 1.14,
+      "text": "but the number of electrons",
+      "en": "but the number of electrons",
+      "zh": ""
+    },
+    {
+      "start": 296.52,
+      "duration": 2.04,
+      "text": "that actually flowed between them",
+      "en": "that actually flowed between them",
+      "zh": ""
+    },
+    {
+      "start": 298.56,
+      "duration": 2.79,
+      "text": "was controlled by the voltage on the grid,",
+      "en": "was controlled by the voltage on the grid,",
+      "zh": ""
+    },
+    {
+      "start": 301.35,
+      "duration": 2.25,
+      "text": "as this new electrode was known.",
+      "en": "as this new electrode was known.",
+      "zh": ""
+    },
+    {
+      "start": 303.6,
+      "duration": 2.16,
+      "text": "If the grid were slightly negatively charged,",
+      "en": "If the grid were slightly negatively charged,",
+      "zh": ""
+    },
+    {
+      "start": 305.76,
+      "duration": 2.13,
+      "text": "it repelled electrons from the filament",
+      "en": "it repelled electrons from the filament",
+      "zh": ""
+    },
+    {
+      "start": 307.89,
+      "duration": 2.4,
+      "text": "so that none could flow through to the anode.",
+      "en": "so that none could flow through to the anode.",
+      "zh": ""
+    },
+    {
+      "start": 310.29,
+      "duration": 2.01,
+      "text": "But if the grid were slightly positive,",
+      "en": "But if the grid were slightly positive,",
+      "zh": ""
+    },
+    {
+      "start": 312.3,
+      "duration": 3.18,
+      "text": "then electrons were attracted away from the filament",
+      "en": "then electrons were attracted away from the filament",
+      "zh": ""
+    },
+    {
+      "start": 315.48,
+      "duration": 2.55,
+      "text": "and most of them would pass through the holes in the grid,",
+      "en": "and most of them would pass through the holes in the grid,",
+      "zh": ""
+    },
+    {
+      "start": 318.03,
+      "duration": 2.55,
+      "text": "and then accelerate to the anode.",
+      "en": "and then accelerate to the anode.",
+      "zh": ""
+    },
+    {
+      "start": 320.58,
+      "duration": 3.72,
+      "text": "So in this way, a small change in voltage on the grid",
+      "en": "So in this way, a small change in voltage on the grid",
+      "zh": ""
+    },
+    {
+      "start": 324.3,
+      "duration": 3.24,
+      "text": "can control a huge voltage at the anode",
+      "en": "can control a huge voltage at the anode",
+      "zh": ""
+    },
+    {
+      "start": 327.54,
+      "duration": 1.5,
+      "text": "and the response is rapid.",
+      "en": "and the response is rapid.",
+      "zh": ""
+    },
+    {
+      "start": 329.04,
+      "duration": 3.48,
+      "text": "So you can get high frequency amplification.",
+      "en": "So you can get high frequency amplification.",
+      "zh": ""
+    },
+    {
+      "start": 332.52,
+      "duration": 1.11,
+      "text": "I like to think of it",
+      "en": "I like to think of it",
+      "zh": ""
+    },
+    {
+      "start": 333.63,
+      "duration": 2.55,
+      "text": "as standing at the top of a high cliff,",
+      "en": "as standing at the top of a high cliff,",
+      "zh": ""
+    },
+    {
+      "start": 336.18,
+      "duration": 3.45,
+      "text": "opening and closing a valve on a big water pipe.",
+      "en": "opening and closing a valve on a big water pipe.",
+      "zh": ""
+    },
+    {
+      "start": 339.63,
+      "duration": 3.06,
+      "text": "I mean, it doesn't take much energy to turn the valve",
+      "en": "I mean, it doesn't take much energy to turn the valve",
+      "zh": ""
+    },
+    {
+      "start": 342.69,
+      "duration": 1.85,
+      "text": "but that small input is converted",
+      "en": "but that small input is converted",
+      "zh": ""
+    },
+    {
+      "start": 344.54,
+      "duration": 4.57,
+      "text": "into a huge output of water falling down the cliff.",
+      "en": "into a huge output of water falling down the cliff.",
+      "zh": ""
+    },
+    {
+      "start": 350.73,
+      "duration": 1.57,
+      "text": "- [Derek] You're powering up this track here.",
+      "en": "- [Derek] You're powering up this track here.",
+      "zh": ""
+    },
+    {
+      "start": 352.3,
+      "duration": 2.21,
+      "text": "- [David] Warming up, you can see it warming up there.",
+      "en": "- [David] Warming up, you can see it warming up there.",
+      "zh": ""
+    },
+    {
+      "start": 354.51,
+      "duration": 1.55,
+      "text": "- [Derek] So the yellow is the input?",
+      "en": "- [Derek] So the yellow is the input?",
+      "zh": ""
+    },
+    {
+      "start": 356.06,
+      "duration": 1.3,
+      "text": "- [David] Yellow is the input.",
+      "en": "- [David] Yellow is the input.",
+      "zh": ""
+    },
+    {
+      "start": 357.36,
+      "duration": 1.26,
+      "text": "Purple is the output.",
+      "en": "Purple is the output.",
+      "zh": ""
+    },
+    {
+      "start": 358.62,
+      "duration": 1.63,
+      "text": "We have essentially a two-volt change",
+      "en": "We have essentially a two-volt change",
+      "zh": ""
+    },
+    {
+      "start": 360.25,
+      "duration": 2.0,
+      "text": "on the input giving us, what is this?",
+      "en": "on the input giving us, what is this?",
+      "zh": ""
+    },
+    {
+      "start": 362.25,
+      "duration": 4.11,
+      "text": "Five volts, so five, 10, 15-volt change on the output.",
+      "en": "Five volts, so five, 10, 15-volt change on the output.",
+      "zh": ""
+    },
+    {
+      "start": 366.36,
+      "duration": 1.32,
+      "text": "- [Derek] For this demonstration,",
+      "en": "- [Derek] For this demonstration,",
+      "zh": ""
+    },
+    {
+      "start": 367.68,
+      "duration": 2.61,
+      "text": "we were only using 24 volts on the anode.",
+      "en": "we were only using 24 volts on the anode.",
+      "zh": ""
+    },
+    {
+      "start": 370.29,
+      "duration": 1.53,
+      "text": "If we had used a higher voltage,",
+      "en": "If we had used a higher voltage,",
+      "zh": ""
+    },
+    {
+      "start": 371.82,
+      "duration": 2.7,
+      "text": "we could have got a lot more amplification",
+      "en": "we could have got a lot more amplification",
+      "zh": ""
+    },
+    {
+      "start": 374.52,
+      "duration": 2.13,
+      "text": "and people did.",
+      "en": "and people did.",
+      "zh": ""
+    },
+    {
+      "start": 376.65,
+      "duration": 2.01,
+      "text": "This was the device that allowed us",
+      "en": "This was the device that allowed us",
+      "zh": ""
+    },
+    {
+      "start": 378.66,
+      "duration": 2.73,
+      "text": "to call long distance for the first time.",
+      "en": "to call long distance for the first time.",
+      "zh": ""
+    },
+    {
+      "start": 381.39,
+      "duration": 1.05,
+      "text": "Using vacuum tubes,",
+      "en": "Using vacuum tubes,",
+      "zh": ""
+    },
+    {
+      "start": 382.44,
+      "duration": 1.53,
+      "text": "the first transcontinental call",
+      "en": "the first transcontinental call",
+      "zh": ""
+    },
+    {
+      "start": 383.97,
+      "duration": 1.86,
+      "text": "from New York to San Francisco",
+      "en": "from New York to San Francisco",
+      "zh": ""
+    },
+    {
+      "start": 385.83,
+      "duration": 3.6,
+      "text": "took place on the 25th of January, 1915.",
+      "en": "took place on the 25th of January, 1915.",
+      "zh": ""
+    },
+    {
+      "start": 391.71,
+      "duration": 1.29,
+      "text": "- [Derek] Whoa.",
+      "en": "- [Derek] Whoa.",
+      "zh": ""
+    },
+    {
+      "start": 393.0,
+      "duration": 1.29,
+      "text": "- [David] Yeah, there we go,",
+      "en": "- [David] Yeah, there we go,",
+      "zh": ""
+    },
+    {
+      "start": 394.29,
+      "duration": 1.8,
+      "text": "should be 10 volts.",
+      "en": "should be 10 volts.",
+      "zh": ""
+    },
+    {
+      "start": 396.09,
+      "duration": 1.65,
+      "text": "- [Derek] It's hard to see the grid here",
+      "en": "- [Derek] It's hard to see the grid here",
+      "zh": ""
+    },
+    {
+      "start": 397.74,
+      "duration": 3.24,
+      "text": "because just like with the cylindrical diode,",
+      "en": "because just like with the cylindrical diode,",
+      "zh": ""
+    },
+    {
+      "start": 400.98,
+      "duration": 1.51,
+      "text": "the best configuration for a triode",
+      "en": "the best configuration for a triode",
+      "zh": ""
+    },
+    {
+      "start": 402.49,
+      "duration": 2.63,
+      "text": "is to have a cylindrical configuration.",
+      "en": "is to have a cylindrical configuration.",
+      "zh": ""
+    },
+    {
+      "start": 405.12,
+      "duration": 1.26,
+      "text": "The anode is on the outside,",
+      "en": "The anode is on the outside,",
+      "zh": ""
+    },
+    {
+      "start": 406.38,
+      "duration": 1.98,
+      "text": "the grid is cylindrically inside that,",
+      "en": "the grid is cylindrically inside that,",
+      "zh": ""
+    },
+    {
+      "start": 408.36,
+      "duration": 3.12,
+      "text": "and the cathode or filament is in the center.",
+      "en": "and the cathode or filament is in the center.",
+      "zh": ""
+    },
+    {
+      "start": 412.53,
+      "duration": 2.61,
+      "text": "The invention of the triode was incredibly important.",
+      "en": "The invention of the triode was incredibly important.",
+      "zh": ""
+    },
+    {
+      "start": 415.14,
+      "duration": 3.69,
+      "text": "Radios, TVs, whatever electronics people had",
+      "en": "Radios, TVs, whatever electronics people had",
+      "zh": ""
+    },
+    {
+      "start": 418.83,
+      "duration": 1.98,
+      "text": "were powered by vacuum tubes.",
+      "en": "were powered by vacuum tubes.",
+      "zh": ""
+    },
+    {
+      "start": 420.81,
+      "duration": 1.92,
+      "text": "You would've had so many in your house",
+      "en": "You would've had so many in your house",
+      "zh": ""
+    },
+    {
+      "start": 422.73,
+      "duration": 3.03,
+      "text": "even up until the 1960s and '70s.",
+      "en": "even up until the 1960s and '70s.",
+      "zh": ""
+    },
+    {
+      "start": 425.76,
+      "duration": 3.54,
+      "text": "But vacuum tubes weren't done revolutionizing electronics.",
+      "en": "But vacuum tubes weren't done revolutionizing electronics.",
+      "zh": ""
+    },
+    {
+      "start": 430.5,
+      "duration": 2.13,
+      "text": "In his 1937 thesis,",
+      "en": "In his 1937 thesis,",
+      "zh": ""
+    },
+    {
+      "start": 432.63,
+      "duration": 3.18,
+      "text": "Claude Shannon found a connection between electric circuits",
+      "en": "Claude Shannon found a connection between electric circuits",
+      "zh": ""
+    },
+    {
+      "start": 435.81,
+      "duration": 3.6,
+      "text": "and a branch of mathematics known as Boolean algebra.",
+      "en": "and a branch of mathematics known as Boolean algebra.",
+      "zh": ""
+    },
+    {
+      "start": 439.41,
+      "duration": 1.98,
+      "text": "Working in the mid-1800s,",
+      "en": "Working in the mid-1800s,",
+      "zh": ""
+    },
+    {
+      "start": 441.39,
+      "duration": 1.95,
+      "text": "George Boole was trying to find",
+      "en": "George Boole was trying to find",
+      "zh": ""
+    },
+    {
+      "start": 443.34,
+      "duration": 2.37,
+      "text": "a mathematical foundation for logic.",
+      "en": "a mathematical foundation for logic.",
+      "zh": ""
+    },
+    {
+      "start": 445.71,
+      "duration": 1.02,
+      "text": "Under his system,",
+      "en": "Under his system,",
+      "zh": ""
+    },
+    {
+      "start": 446.73,
+      "duration": 1.59,
+      "text": "a true statement was represented",
+      "en": "a true statement was represented",
+      "zh": ""
+    },
+    {
+      "start": 448.32,
+      "duration": 3.06,
+      "text": "as a 1 and a false statement as a 0.",
+      "en": "as a 1 and a false statement as a 0.",
+      "zh": ""
+    },
+    {
+      "start": 451.38,
+      "duration": 3.96,
+      "text": "And Boole also developed a few operations like AND.",
+      "en": "And Boole also developed a few operations like AND.",
+      "zh": ""
+    },
+    {
+      "start": 455.34,
+      "duration": 2.08,
+      "text": "If both statements A and B were true,",
+      "en": "If both statements A and B were true,",
+      "zh": ""
+    },
+    {
+      "start": 457.42,
+      "duration": 2.72,
+      "text": "then the output would also be true.",
+      "en": "then the output would also be true.",
+      "zh": ""
+    },
+    {
+      "start": 461.31,
+      "duration": 2.61,
+      "text": "What Shannon realized is that Boole's operations",
+      "en": "What Shannon realized is that Boole's operations",
+      "zh": ""
+    },
+    {
+      "start": 463.92,
+      "duration": 2.7,
+      "text": "could be represented as electronic circuits,",
+      "en": "could be represented as electronic circuits,",
+      "zh": ""
+    },
+    {
+      "start": 466.62,
+      "duration": 1.47,
+      "text": "that there was an equivalence",
+      "en": "that there was an equivalence",
+      "zh": ""
+    },
+    {
+      "start": 468.09,
+      "duration": 2.1,
+      "text": "between mathematical statements",
+      "en": "between mathematical statements",
+      "zh": ""
+    },
+    {
+      "start": 470.19,
+      "duration": 1.8,
+      "text": "and electric circuits.",
+      "en": "and electric circuits.",
+      "zh": ""
+    },
+    {
+      "start": 471.99,
+      "duration": 3.12,
+      "text": "All you needed to realize these circuits in the real world",
+      "en": "All you needed to realize these circuits in the real world",
+      "zh": ""
+    },
+    {
+      "start": 475.11,
+      "duration": 1.71,
+      "text": "were a couple switches.",
+      "en": "were a couple switches.",
+      "zh": ""
+    },
+    {
+      "start": 477.78,
+      "duration": 2.04,
+      "text": "That same year, 1937,",
+      "en": "That same year, 1937,",
+      "zh": ""
+    },
+    {
+      "start": 479.82,
+      "duration": 3.09,
+      "text": "George Stibitz built the first digital calculator.",
+      "en": "George Stibitz built the first digital calculator.",
+      "zh": ""
+    },
+    {
+      "start": 482.91,
+      "duration": 3.42,
+      "text": "It could add two 1-bit binary numbers.",
+      "en": "It could add two 1-bit binary numbers.",
+      "zh": ""
+    },
+    {
+      "start": 486.33,
+      "duration": 1.92,
+      "text": "That is it could add two numbers",
+      "en": "That is it could add two numbers",
+      "zh": ""
+    },
+    {
+      "start": 488.25,
+      "duration": 2.82,
+      "text": "so long as they were either 0 or 1.",
+      "en": "so long as they were either 0 or 1.",
+      "zh": ""
+    },
+    {
+      "start": 491.07,
+      "duration": 2.43,
+      "text": "The calculator worked using a relay,",
+      "en": "The calculator worked using a relay,",
+      "zh": ""
+    },
+    {
+      "start": 493.5,
+      "duration": 3.0,
+      "text": "that electromechanical switch from telegraphy.",
+      "en": "that electromechanical switch from telegraphy.",
+      "zh": ""
+    },
+    {
+      "start": 496.5,
+      "duration": 1.38,
+      "text": "There were two inputs.",
+      "en": "There were two inputs.",
+      "zh": ""
+    },
+    {
+      "start": 497.88,
+      "duration": 2.64,
+      "text": "If they were left open, the input was 0.",
+      "en": "If they were left open, the input was 0.",
+      "zh": ""
+    },
+    {
+      "start": 500.52,
+      "duration": 2.25,
+      "text": "If closed, it was a 1.",
+      "en": "If closed, it was a 1.",
+      "zh": ""
+    },
+    {
+      "start": 502.77,
+      "duration": 2.51,
+      "text": "The output was shown with two light bulbs.",
+      "en": "The output was shown with two light bulbs.",
+      "zh": ""
+    },
+    {
+      "start": 505.28,
+      "duration": 1.69,
+      "text": "If no lights were on,",
+      "en": "If no lights were on,",
+      "zh": ""
+    },
+    {
+      "start": 506.97,
+      "duration": 1.29,
+      "text": "the answer was 0.",
+      "en": "the answer was 0.",
+      "zh": ""
+    },
+    {
+      "start": 508.26,
+      "duration": 1.47,
+      "text": "If the output light was on,",
+      "en": "If the output light was on,",
+      "zh": ""
+    },
+    {
+      "start": 509.73,
+      "duration": 1.08,
+      "text": "the answer was 1.",
+      "en": "the answer was 1.",
+      "zh": ""
+    },
+    {
+      "start": 510.81,
+      "duration": 1.29,
+      "text": "And if the carry light was on,",
+      "en": "And if the carry light was on,",
+      "zh": ""
+    },
+    {
+      "start": 512.1,
+      "duration": 1.53,
+      "text": "the answer was a 2.",
+      "en": "the answer was a 2.",
+      "zh": ""
+    },
+    {
+      "start": 513.63,
+      "duration": 3.06,
+      "text": "The circuit diagram works like this.",
+      "en": "The circuit diagram works like this.",
+      "zh": ""
+    },
+    {
+      "start": 516.69,
+      "duration": 2.73,
+      "text": "If neither switch A or B is closed,",
+      "en": "If neither switch A or B is closed,",
+      "zh": ""
+    },
+    {
+      "start": 519.42,
+      "duration": 1.83,
+      "text": "so adding 0 + 0,",
+      "en": "so adding 0 + 0,",
+      "zh": ""
+    },
+    {
+      "start": 521.25,
+      "duration": 2.19,
+      "text": "then no current flows through the circuit",
+      "en": "then no current flows through the circuit",
+      "zh": ""
+    },
+    {
+      "start": 523.44,
+      "duration": 2.16,
+      "text": "and no light bulb would light up.",
+      "en": "and no light bulb would light up.",
+      "zh": ""
+    },
+    {
+      "start": 525.6,
+      "duration": 1.95,
+      "text": "But if input A was closed,",
+      "en": "But if input A was closed,",
+      "zh": ""
+    },
+    {
+      "start": 527.55,
+      "duration": 1.65,
+      "text": "the current would flow through the solenoid,",
+      "en": "the current would flow through the solenoid,",
+      "zh": ""
+    },
+    {
+      "start": 529.2,
+      "duration": 1.62,
+      "text": "creating a magnetic field",
+      "en": "creating a magnetic field",
+      "zh": ""
+    },
+    {
+      "start": 530.82,
+      "duration": 2.64,
+      "text": "that pulls the switch inside it closed,",
+      "en": "that pulls the switch inside it closed,",
+      "zh": ""
+    },
+    {
+      "start": 533.46,
+      "duration": 2.39,
+      "text": "and this connects the output light bulb to power",
+      "en": "and this connects the output light bulb to power",
+      "zh": ""
+    },
+    {
+      "start": 535.85,
+      "duration": 2.17,
+      "text": "and disconnects the carry light bulb.",
+      "en": "and disconnects the carry light bulb.",
+      "zh": ""
+    },
+    {
+      "start": 538.02,
+      "duration": 2.49,
+      "text": "So the output light bulb lights up,",
+      "en": "So the output light bulb lights up,",
+      "zh": ""
+    },
+    {
+      "start": 540.51,
+      "duration": 1.92,
+      "text": "meaning that the answer is 1.",
+      "en": "meaning that the answer is 1.",
+      "zh": ""
+    },
+    {
+      "start": 542.43,
+      "duration": 1.11,
+      "text": "And the same thing would happen",
+      "en": "And the same thing would happen",
+      "zh": ""
+    },
+    {
+      "start": 543.54,
+      "duration": 3.51,
+      "text": "when input B was closed and A was open.",
+      "en": "when input B was closed and A was open.",
+      "zh": ""
+    },
+    {
+      "start": 547.05,
+      "duration": 2.56,
+      "text": "But if you closed both A and B simultaneously,",
+      "en": "But if you closed both A and B simultaneously,",
+      "zh": ""
+    },
+    {
+      "start": 549.61,
+      "duration": 3.5,
+      "text": "then there is no current flowing through the solenoid",
+      "en": "then there is no current flowing through the solenoid",
+      "zh": ""
+    },
+    {
+      "start": 553.11,
+      "duration": 1.86,
+      "text": "but there would be a current flowing",
+      "en": "but there would be a current flowing",
+      "zh": ""
+    },
+    {
+      "start": 554.97,
+      "duration": 1.28,
+      "text": "from the battery connected to A,",
+      "en": "from the battery connected to A,",
+      "zh": ""
+    },
+    {
+      "start": 556.25,
+      "duration": 2.47,
+      "text": "which is connected to the carry light bulb.",
+      "en": "which is connected to the carry light bulb.",
+      "zh": ""
+    },
+    {
+      "start": 558.72,
+      "duration": 4.35,
+      "text": "So it lights up indicating 1 + 1 equals 2.",
+      "en": "So it lights up indicating 1 + 1 equals 2.",
+      "zh": ""
+    },
+    {
+      "start": 563.07,
+      "duration": 2.17,
+      "text": "This is the beginning of the digital age,",
+      "en": "This is the beginning of the digital age,",
+      "zh": ""
+    },
+    {
+      "start": 565.24,
+      "duration": 2.39,
+      "text": "and no it was not glamorous.",
+      "en": "and no it was not glamorous.",
+      "zh": ""
+    },
+    {
+      "start": 567.63,
+      "duration": 2.91,
+      "text": "Stibitz built his device out of a few batteries,",
+      "en": "Stibitz built his device out of a few batteries,",
+      "zh": ""
+    },
+    {
+      "start": 570.54,
+      "duration": 3.09,
+      "text": "light bulbs, and relays he had lying around.",
+      "en": "light bulbs, and relays he had lying around.",
+      "zh": ""
+    },
+    {
+      "start": 573.63,
+      "duration": 3.42,
+      "text": "And for the inputs, he cut up a tin of tobacco.",
+      "en": "And for the inputs, he cut up a tin of tobacco.",
+      "zh": ""
+    },
+    {
+      "start": 577.05,
+      "duration": 2.4,
+      "text": "He built it in one night at his kitchen table",
+      "en": "He built it in one night at his kitchen table",
+      "zh": ""
+    },
+    {
+      "start": 579.45,
+      "duration": 3.27,
+      "text": "which is why it became known as the Model K.",
+      "en": "which is why it became known as the Model K.",
+      "zh": ""
+    },
+    {
+      "start": 582.72,
+      "duration": 1.44,
+      "text": "The circuit that Stibitz built",
+      "en": "The circuit that Stibitz built",
+      "zh": ""
+    },
+    {
+      "start": 584.16,
+      "duration": 2.4,
+      "text": "is now called a half adder.",
+      "en": "is now called a half adder.",
+      "zh": ""
+    },
+    {
+      "start": 586.56,
+      "duration": 1.35,
+      "text": "But if you look at the circuit",
+      "en": "But if you look at the circuit",
+      "zh": ""
+    },
+    {
+      "start": 587.91,
+      "duration": 1.74,
+      "text": "through the eyes of Claude Shannon,",
+      "en": "through the eyes of Claude Shannon,",
+      "zh": ""
+    },
+    {
+      "start": 589.65,
+      "duration": 3.63,
+      "text": "you realize it's actually a pair of logic gates.",
+      "en": "you realize it's actually a pair of logic gates.",
+      "zh": ""
+    },
+    {
+      "start": 593.28,
+      "duration": 2.01,
+      "text": "The output light bulb should turn on",
+      "en": "The output light bulb should turn on",
+      "zh": ""
+    },
+    {
+      "start": 595.29,
+      "duration": 4.17,
+      "text": "when either A or B, but not both, are closed,",
+      "en": "when either A or B, but not both, are closed,",
+      "zh": ""
+    },
+    {
+      "start": 599.46,
+      "duration": 3.39,
+      "text": "so this is known as an exclusive OR gate.",
+      "en": "so this is known as an exclusive OR gate.",
+      "zh": ""
+    },
+    {
+      "start": 602.85,
+      "duration": 2.04,
+      "text": "Whereas the carry light bulb should only turn on",
+      "en": "Whereas the carry light bulb should only turn on",
+      "zh": ""
+    },
+    {
+      "start": 604.89,
+      "duration": 2.14,
+      "text": "when both A and B are closed,",
+      "en": "when both A and B are closed,",
+      "zh": ""
+    },
+    {
+      "start": 607.03,
+      "duration": 3.11,
+      "text": "so this is an AND gate.",
+      "en": "so this is an AND gate.",
+      "zh": ""
+    },
+    {
+      "start": 610.14,
+      "duration": 2.16,
+      "text": "This circuit uses electrical versions",
+      "en": "This circuit uses electrical versions",
+      "zh": ""
+    },
+    {
+      "start": 612.3,
+      "duration": 3.27,
+      "text": "of Boolean operators, XOR and AND.",
+      "en": "of Boolean operators, XOR and AND.",
+      "zh": ""
+    },
+    {
+      "start": 615.57,
+      "duration": 2.22,
+      "text": "And it's possible to build other Boolean operators",
+      "en": "And it's possible to build other Boolean operators",
+      "zh": ""
+    },
+    {
+      "start": 617.79,
+      "duration": 0.95,
+      "text": "as electronic gates",
+      "en": "as electronic gates",
+      "zh": ""
+    },
+    {
+      "start": 618.74,
+      "duration": 3.73,
+      "text": "for things like OR, NOR, and NAND.",
+      "en": "for things like OR, NOR, and NAND.",
+      "zh": ""
+    },
+    {
+      "start": 622.47,
+      "duration": 2.46,
+      "text": "And you might say, what's the big deal?",
+      "en": "And you might say, what's the big deal?",
+      "zh": ""
+    },
+    {
+      "start": 624.93,
+      "duration": 1.71,
+      "text": "I mean, the big deal is that you just tricked",
+      "en": "I mean, the big deal is that you just tricked",
+      "zh": ""
+    },
+    {
+      "start": 626.64,
+      "duration": 2.52,
+      "text": "a bunch of electrons into doing math for you.",
+      "en": "a bunch of electrons into doing math for you.",
+      "zh": ""
+    },
+    {
+      "start": 629.16,
+      "duration": 1.77,
+      "text": "Sure, it's very simple math,",
+      "en": "Sure, it's very simple math,",
+      "zh": ""
+    },
+    {
+      "start": 630.93,
+      "duration": 2.64,
+      "text": "but you could connect a bunch of these half adders together",
+      "en": "but you could connect a bunch of these half adders together",
+      "zh": ""
+    },
+    {
+      "start": 633.57,
+      "duration": 1.96,
+      "text": "and build more and more complicated circuits",
+      "en": "and build more and more complicated circuits",
+      "zh": ""
+    },
+    {
+      "start": 635.53,
+      "duration": 2.81,
+      "text": "that could do more complex math,",
+      "en": "that could do more complex math,",
+      "zh": ""
+    },
+    {
+      "start": 638.34,
+      "duration": 1.74,
+      "text": "which is exactly what Stibitz",
+      "en": "which is exactly what Stibitz",
+      "zh": ""
+    },
+    {
+      "start": 640.08,
+      "duration": 2.19,
+      "text": "and his colleagues at Bell Labs did.",
+      "en": "and his colleagues at Bell Labs did.",
+      "zh": ""
+    },
+    {
+      "start": 642.27,
+      "duration": 2.28,
+      "text": "Two years later, they built the model I,",
+      "en": "Two years later, they built the model I,",
+      "zh": ""
+    },
+    {
+      "start": 644.55,
+      "duration": 2.13,
+      "text": "which had more than 400 relays",
+      "en": "which had more than 400 relays",
+      "zh": ""
+    },
+    {
+      "start": 646.68,
+      "duration": 2.28,
+      "text": "and could add two eight digit numbers together",
+      "en": "and could add two eight digit numbers together",
+      "zh": ""
+    },
+    {
+      "start": 648.96,
+      "duration": 1.53,
+      "text": "in a 10th of a second.",
+      "en": "in a 10th of a second.",
+      "zh": ""
+    },
+    {
+      "start": 650.49,
+      "duration": 2.1,
+      "text": "It could also multiply eight digit numbers",
+      "en": "It could also multiply eight digit numbers",
+      "zh": ""
+    },
+    {
+      "start": 652.59,
+      "duration": 2.28,
+      "text": "and do multiplication of complex numbers,",
+      "en": "and do multiplication of complex numbers,",
+      "zh": ""
+    },
+    {
+      "start": 654.87,
+      "duration": 2.55,
+      "text": "though these more complicated operations took longer,",
+      "en": "though these more complicated operations took longer,",
+      "zh": ""
+    },
+    {
+      "start": 657.42,
+      "duration": 2.13,
+      "text": "about a minute per calculation.",
+      "en": "about a minute per calculation.",
+      "zh": ""
+    },
+    {
+      "start": 659.55,
+      "duration": 2.36,
+      "text": "- So you put a voltage through a coil",
+      "en": "- So you put a voltage through a coil",
+      "zh": ""
+    },
+    {
+      "start": 661.91,
+      "duration": 2.56,
+      "text": "and it'll turn that switch on or off.",
+      "en": "and it'll turn that switch on or off.",
+      "zh": ""
+    },
+    {
+      "start": 664.47,
+      "duration": 2.49,
+      "text": "So you've got your two operands here.",
+      "en": "So you've got your two operands here.",
+      "zh": ""
+    },
+    {
+      "start": 667.92,
+      "duration": 2.04,
+      "text": "And if you wanna add two numbers together,",
+      "en": "And if you wanna add two numbers together,",
+      "zh": ""
+    },
+    {
+      "start": 669.96,
+      "duration": 1.17,
+      "text": "so 2 is this,",
+      "en": "so 2 is this,",
+      "zh": ""
+    },
+    {
+      "start": 671.13,
+      "duration": 1.65,
+      "text": "3 is this, right?",
+      "en": "3 is this, right?",
+      "zh": ""
+    },
+    {
+      "start": 672.78,
+      "duration": 3.51,
+      "text": "So 1, 0 is 2.",
+      "en": "So 1, 0 is 2.",
+      "zh": ""
+    },
+    {
+      "start": 676.29,
+      "duration": 0.83,
+      "text": "- [Derek] Yeah.",
+      "en": "- [Derek] Yeah.",
+      "zh": ""
+    },
+    {
+      "start": 677.12,
+      "duration": 2.35,
+      "text": "- [David] And 1, 1 is 3.",
+      "en": "- [David] And 1, 1 is 3.",
+      "zh": ""
+    },
+    {
+      "start": 679.47,
+      "duration": 1.8,
+      "text": "And so then when you want to calculate it,",
+      "en": "And so then when you want to calculate it,",
+      "zh": ""
+    },
+    {
+      "start": 681.27,
+      "duration": 1.85,
+      "text": "you just hit the go button down here.",
+      "en": "you just hit the go button down here.",
+      "zh": ""
+    },
+    {
+      "start": 684.3,
+      "duration": 1.8,
+      "text": "We get 101.",
+      "en": "We get 101.",
+      "zh": ""
+    },
+    {
+      "start": 686.1,
+      "duration": 2.04,
+      "text": "- [Derek] I love the sound of that.",
+      "en": "- [Derek] I love the sound of that.",
+      "zh": ""
+    },
+    {
+      "start": 688.14,
+      "duration": 0.87,
+      "text": "That is amazing.",
+      "en": "That is amazing.",
+      "zh": ""
+    },
+    {
+      "start": 689.01,
+      "duration": 2.28,
+      "text": "- It's magical, so if you wanna do like say,",
+      "en": "- It's magical, so if you wanna do like say,",
+      "zh": ""
+    },
+    {
+      "start": 692.16,
+      "duration": 3.21,
+      "text": "8 plus, that would be 4",
+      "en": "8 plus, that would be 4",
+      "zh": ""
+    },
+    {
+      "start": 695.37,
+      "duration": 2.07,
+      "text": "so 8 + 8, I think, right?",
+      "en": "so 8 + 8, I think, right?",
+      "zh": ""
+    },
+    {
+      "start": 697.44,
+      "duration": 0.83,
+      "text": "- [Derek] Okay.",
+      "en": "- [Derek] Okay.",
+      "zh": ""
+    },
+    {
+      "start": 698.27,
+      "duration": 0.84,
+      "text": "- [David] Yeah, 8 + 8,",
+      "en": "- [David] Yeah, 8 + 8,",
+      "zh": ""
+    },
+    {
+      "start": 699.11,
+      "duration": 2.08,
+      "text": "that would be, 16, no, it clears it on its own.",
+      "en": "that would be, 16, no, it clears it on its own.",
+      "zh": ""
+    },
+    {
+      "start": 701.19,
+      "duration": 1.26,
+      "text": "- [Derek] Okay.",
+      "en": "- [Derek] Okay.",
+      "zh": ""
+    },
+    {
+      "start": 702.45,
+      "duration": 1.98,
+      "text": "- [David] There you go.",
+      "en": "- [David] There you go.",
+      "zh": ""
+    },
+    {
+      "start": 704.43,
+      "duration": 1.99,
+      "text": "Eight plus eight is 16 in binary,",
+      "en": "Eight plus eight is 16 in binary,",
+      "zh": ""
+    },
+    {
+      "start": 706.42,
+      "duration": 3.29,
+      "text": "which would be 1 0 0 0 0.",
+      "en": "which would be 1 0 0 0 0.",
+      "zh": ""
+    },
+    {
+      "start": 710.58,
+      "duration": 1.77,
+      "text": "(machine clacking)",
+      "en": "(machine clacking)",
+      "zh": ""
+    },
+    {
+      "start": 712.35,
+      "duration": 2.64,
+      "text": "This is essentially a 1-bit arithmetic unit.",
+      "en": "This is essentially a 1-bit arithmetic unit.",
+      "zh": ""
+    },
+    {
+      "start": 714.99,
+      "duration": 1.26,
+      "text": "There's no logic functions.",
+      "en": "There's no logic functions.",
+      "zh": ""
+    },
+    {
+      "start": 716.25,
+      "duration": 1.53,
+      "text": "It only ever does add.",
+      "en": "It only ever does add.",
+      "zh": ""
+    },
+    {
+      "start": 717.78,
+      "duration": 2.25,
+      "text": "Now, let's say we wanna do 5 - 2,",
+      "en": "Now, let's say we wanna do 5 - 2,",
+      "zh": ""
+    },
+    {
+      "start": 720.03,
+      "duration": 1.53,
+      "text": "the answer's gonna be 3.",
+      "en": "the answer's gonna be 3.",
+      "zh": ""
+    },
+    {
+      "start": 721.56,
+      "duration": 1.29,
+      "text": "So we flip this little switch here",
+      "en": "So we flip this little switch here",
+      "zh": ""
+    },
+    {
+      "start": 722.85,
+      "duration": 2.49,
+      "text": "that lets me know that I'm doing a subtraction operation",
+      "en": "that lets me know that I'm doing a subtraction operation",
+      "zh": ""
+    },
+    {
+      "start": 725.34,
+      "duration": 2.85,
+      "text": "and we do subtraction by doing 2's complement.",
+      "en": "and we do subtraction by doing 2's complement.",
+      "zh": ""
+    },
+    {
+      "start": 728.19,
+      "duration": 0.99,
+      "text": "So essentially what we're doing",
+      "en": "So essentially what we're doing",
+      "zh": ""
+    },
+    {
+      "start": 729.18,
+      "duration": 2.4,
+      "text": "is we're inverting one of the operands",
+      "en": "is we're inverting one of the operands",
+      "zh": ""
+    },
+    {
+      "start": 731.58,
+      "duration": 1.62,
+      "text": "and we're adding one.",
+      "en": "and we're adding one.",
+      "zh": ""
+    },
+    {
+      "start": 733.2,
+      "duration": 0.98,
+      "text": "So now when I run it,",
+      "en": "So now when I run it,",
+      "zh": ""
+    },
+    {
+      "start": 734.18,
+      "duration": 1.54,
+      "text": "(machine clacking)",
+      "en": "(machine clacking)",
+      "zh": ""
+    },
+    {
+      "start": 735.72,
+      "duration": 2.49,
+      "text": "we can see 5 - 2 is equal to 3,",
+      "en": "we can see 5 - 2 is equal to 3,",
+      "zh": ""
+    },
+    {
+      "start": 738.21,
+      "duration": 1.9,
+      "text": "so 2 and 1 is 3.",
+      "en": "so 2 and 1 is 3.",
+      "zh": ""
+    },
+    {
+      "start": 740.11,
+      "duration": 2.1,
+      "text": "Now, because of the way that we do this,",
+      "en": "Now, because of the way that we do this,",
+      "zh": ""
+    },
+    {
+      "start": 742.21,
+      "duration": 1.26,
+      "text": "the final carry flag",
+      "en": "the final carry flag",
+      "zh": ""
+    },
+    {
+      "start": 743.47,
+      "duration": 2.09,
+      "text": "ends up getting illuminated here on the end.",
+      "en": "ends up getting illuminated here on the end.",
+      "zh": ""
+    },
+    {
+      "start": 745.56,
+      "duration": 3.09,
+      "text": "But if we know that we're doing a subtraction operation,",
+      "en": "But if we know that we're doing a subtraction operation,",
+      "zh": ""
+    },
+    {
+      "start": 748.65,
+      "duration": 1.38,
+      "text": "we know that this final carry flag",
+      "en": "we know that this final carry flag",
+      "zh": ""
+    },
+    {
+      "start": 750.03,
+      "duration": 2.91,
+      "text": "is never going to be on otherwise.",
+      "en": "is never going to be on otherwise.",
+      "zh": ""
+    },
+    {
+      "start": 752.94,
+      "duration": 1.11,
+      "text": "- [Derek] Over the next 10 years,",
+      "en": "- [Derek] Over the next 10 years,",
+      "zh": ""
+    },
+    {
+      "start": 754.05,
+      "duration": 2.58,
+      "text": "they built six more computers based on relays",
+      "en": "they built six more computers based on relays",
+      "zh": ""
+    },
+    {
+      "start": 756.63,
+      "duration": 1.89,
+      "text": "which were used by the US military",
+      "en": "which were used by the US military",
+      "zh": ""
+    },
+    {
+      "start": 758.52,
+      "duration": 1.56,
+      "text": "and the National Advisory Committee",
+      "en": "and the National Advisory Committee",
+      "zh": ""
+    },
+    {
+      "start": 760.08,
+      "duration": 2.58,
+      "text": "for Astronautics or NACA,",
+      "en": "for Astronautics or NACA,",
+      "zh": ""
+    },
+    {
+      "start": 762.66,
+      "duration": 2.31,
+      "text": "which later would become NASA.",
+      "en": "which later would become NASA.",
+      "zh": ""
+    },
+    {
+      "start": 764.97,
+      "duration": 1.54,
+      "text": "But even by the early 1940s,",
+      "en": "But even by the early 1940s,",
+      "zh": ""
+    },
+    {
+      "start": 766.51,
+      "duration": 2.99,
+      "text": "it was clear that the mechanical nature of the relay,",
+      "en": "it was clear that the mechanical nature of the relay,",
+      "zh": ""
+    },
+    {
+      "start": 769.5,
+      "duration": 2.76,
+      "text": "the physical closing and opening of the switches,",
+      "en": "the physical closing and opening of the switches,",
+      "zh": ""
+    },
+    {
+      "start": 772.26,
+      "duration": 2.88,
+      "text": "was too slow to be the future of computers",
+      "en": "was too slow to be the future of computers",
+      "zh": ""
+    },
+    {
+      "start": 775.14,
+      "duration": 1.89,
+      "text": "and they were also prone to breaking.",
+      "en": "and they were also prone to breaking.",
+      "zh": ""
+    },
+    {
+      "start": 777.03,
+      "duration": 1.62,
+      "text": "- Anytime you have something that's mechanical,",
+      "en": "- Anytime you have something that's mechanical,",
+      "zh": ""
+    },
+    {
+      "start": 778.65,
+      "duration": 1.38,
+      "text": "it's gonna wear down.",
+      "en": "it's gonna wear down.",
+      "zh": ""
+    },
+    {
+      "start": 780.03,
+      "duration": 2.01,
+      "text": "Every time that relay switches,",
+      "en": "Every time that relay switches,",
+      "zh": ""
+    },
+    {
+      "start": 782.04,
+      "duration": 1.23,
+      "text": "there's a little bit of friction",
+      "en": "there's a little bit of friction",
+      "zh": ""
+    },
+    {
+      "start": 783.27,
+      "duration": 2.28,
+      "text": "on the rotation point inside of there",
+      "en": "on the rotation point inside of there",
+      "zh": ""
+    },
+    {
+      "start": 785.55,
+      "duration": 1.71,
+      "text": "and there's contacts",
+      "en": "and there's contacts",
+      "zh": ""
+    },
+    {
+      "start": 787.26,
+      "duration": 2.13,
+      "text": "that are making and breaking electrical connections,",
+      "en": "that are making and breaking electrical connections,",
+      "zh": ""
+    },
+    {
+      "start": 789.39,
+      "duration": 1.2,
+      "text": "and those are gonna wear out.",
+      "en": "and those are gonna wear out.",
+      "zh": ""
+    },
+    {
+      "start": 790.59,
+      "duration": 2.1,
+      "text": "- [Derek] And all the relays opening and closing",
+      "en": "- [Derek] And all the relays opening and closing",
+      "zh": ""
+    },
+    {
+      "start": 792.69,
+      "duration": 2.99,
+      "text": "meant that the computers were incredibly loud.",
+      "en": "meant that the computers were incredibly loud.",
+      "zh": ""
+    },
+    {
+      "start": 795.68,
+      "duration": 3.28,
+      "text": "(machine clacking)",
+      "en": "(machine clacking)",
+      "zh": ""
+    },
+    {
+      "start": 798.96,
+      "duration": 1.86,
+      "text": "- So it doesn't really work",
+      "en": "- So it doesn't really work",
+      "zh": ""
+    },
+    {
+      "start": 800.82,
+      "duration": 1.68,
+      "text": "in a business environment all that well.",
+      "en": "in a business environment all that well.",
+      "zh": ""
+    },
+    {
+      "start": 802.5,
+      "duration": 2.05,
+      "text": "You can't really stuff it into your office",
+      "en": "You can't really stuff it into your office",
+      "zh": ""
+    },
+    {
+      "start": 804.55,
+      "duration": 1.9,
+      "text": "that you're gonna drive people insane.",
+      "en": "that you're gonna drive people insane.",
+      "zh": ""
+    },
+    {
+      "start": 808.32,
+      "duration": 1.86,
+      "text": "- [Derek] So what computer scientists really needed",
+      "en": "- [Derek] So what computer scientists really needed",
+      "zh": ""
+    },
+    {
+      "start": 810.18,
+      "duration": 1.89,
+      "text": "was an electronic switch",
+      "en": "was an electronic switch",
+      "zh": ""
+    },
+    {
+      "start": 812.07,
+      "duration": 3.18,
+      "text": "and that is where the vacuum tube triode comes in.",
+      "en": "and that is where the vacuum tube triode comes in.",
+      "zh": ""
+    },
+    {
+      "start": 816.15,
+      "duration": 0.83,
+      "text": "Whoa!",
+      "en": "Whoa!",
+      "zh": ""
+    },
+    {
+      "start": 819.03,
+      "duration": 1.9,
+      "text": "I mean, sure it can work as an amplifier",
+      "en": "I mean, sure it can work as an amplifier",
+      "zh": ""
+    },
+    {
+      "start": 820.93,
+      "duration": 1.52,
+      "text": "if you put slightly positive",
+      "en": "if you put slightly positive",
+      "zh": ""
+    },
+    {
+      "start": 822.45,
+      "duration": 2.4,
+      "text": "or negative voltages on the grid,",
+      "en": "or negative voltages on the grid,",
+      "zh": ""
+    },
+    {
+      "start": 824.85,
+      "duration": 2.67,
+      "text": "but it can also work as a switch.",
+      "en": "but it can also work as a switch.",
+      "zh": ""
+    },
+    {
+      "start": 827.52,
+      "duration": 2.4,
+      "text": "If the grid voltage is very negative,",
+      "en": "If the grid voltage is very negative,",
+      "zh": ""
+    },
+    {
+      "start": 829.92,
+      "duration": 1.56,
+      "text": "then no current flows.",
+      "en": "then no current flows.",
+      "zh": ""
+    },
+    {
+      "start": 831.48,
+      "duration": 2.4,
+      "text": "And if the grid voltage is very positive,",
+      "en": "And if the grid voltage is very positive,",
+      "zh": ""
+    },
+    {
+      "start": 833.88,
+      "duration": 2.16,
+      "text": "then maximum current flows.",
+      "en": "then maximum current flows.",
+      "zh": ""
+    },
+    {
+      "start": 836.04,
+      "duration": 2.1,
+      "text": "So a triode can be controlled",
+      "en": "So a triode can be controlled",
+      "zh": ""
+    },
+    {
+      "start": 838.14,
+      "duration": 2.22,
+      "text": "using no moving parts.",
+      "en": "using no moving parts.",
+      "zh": ""
+    },
+    {
+      "start": 840.36,
+      "duration": 1.8,
+      "text": "Just a voltage will set it",
+      "en": "Just a voltage will set it",
+      "zh": ""
+    },
+    {
+      "start": 842.16,
+      "duration": 2.52,
+      "text": "to be either a 0 or a 1.",
+      "en": "to be either a 0 or a 1.",
+      "zh": ""
+    },
+    {
+      "start": 844.68,
+      "duration": 1.86,
+      "text": "And best of all, switching between the two",
+      "en": "And best of all, switching between the two",
+      "zh": ""
+    },
+    {
+      "start": 846.54,
+      "duration": 2.91,
+      "text": "can be done rapidly with no noise",
+      "en": "can be done rapidly with no noise",
+      "zh": ""
+    },
+    {
+      "start": 849.45,
+      "duration": 1.49,
+      "text": "since you're just controlling electrons",
+      "en": "since you're just controlling electrons",
+      "zh": ""
+    },
+    {
+      "start": 850.94,
+      "duration": 2.56,
+      "text": "zipping around in a vacuum.",
+      "en": "zipping around in a vacuum.",
+      "zh": ""
+    },
+    {
+      "start": 853.5,
+      "duration": 3.18,
+      "text": "This is the invention that took computing to the next level.",
+      "en": "This is the invention that took computing to the next level.",
+      "zh": ""
+    },
+    {
+      "start": 858.06,
+      "duration": 2.37,
+      "text": "The world's first electronic programmable computer",
+      "en": "The world's first electronic programmable computer",
+      "zh": ""
+    },
+    {
+      "start": 860.43,
+      "duration": 1.26,
+      "text": "was called ENIAC",
+      "en": "was called ENIAC",
+      "zh": ""
+    },
+    {
+      "start": 861.69,
+      "duration": 1.62,
+      "text": "and it came online for the first time",
+      "en": "and it came online for the first time",
+      "zh": ""
+    },
+    {
+      "start": 863.31,
+      "duration": 2.52,
+      "text": "on December 10th, 1945.",
+      "en": "on December 10th, 1945.",
+      "zh": ""
+    },
+    {
+      "start": 865.83,
+      "duration": 3.51,
+      "text": "It took up a whole room, weighed 30 tons,",
+      "en": "It took up a whole room, weighed 30 tons,",
+      "zh": ""
+    },
+    {
+      "start": 869.34,
+      "duration": 3.66,
+      "text": "and used 175 kilowatts of power.",
+      "en": "and used 175 kilowatts of power.",
+      "zh": ""
+    },
+    {
+      "start": 873.0,
+      "duration": 1.58,
+      "text": "So much that it led to a rumor",
+      "en": "So much that it led to a rumor",
+      "zh": ""
+    },
+    {
+      "start": 874.58,
+      "duration": 1.42,
+      "text": "that every time it turned on,",
+      "en": "that every time it turned on,",
+      "zh": ""
+    },
+    {
+      "start": 876.0,
+      "duration": 1.31,
+      "text": "the lights in Philadelphia,",
+      "en": "the lights in Philadelphia,",
+      "zh": ""
+    },
+    {
+      "start": 877.31,
+      "duration": 3.19,
+      "text": "where ENIAC was located, would dim.",
+      "en": "where ENIAC was located, would dim.",
+      "zh": ""
+    },
+    {
+      "start": 881.85,
+      "duration": 1.38,
+      "text": "Now, that was just a rumor,",
+      "en": "Now, that was just a rumor,",
+      "zh": ""
+    },
+    {
+      "start": 883.23,
+      "duration": 1.59,
+      "text": "but mainly because ENIAC",
+      "en": "but mainly because ENIAC",
+      "zh": ""
+    },
+    {
+      "start": 884.82,
+      "duration": 1.78,
+      "text": "had its own dedicated electrical generator",
+      "en": "had its own dedicated electrical generator",
+      "zh": ""
+    },
+    {
+      "start": 886.6,
+      "duration": 3.62,
+      "text": "to keep up with the enormous power draw.",
+      "en": "to keep up with the enormous power draw.",
+      "zh": ""
+    },
+    {
+      "start": 890.22,
+      "duration": 1.5,
+      "text": "Unlike previous computers,",
+      "en": "Unlike previous computers,",
+      "zh": ""
+    },
+    {
+      "start": 891.72,
+      "duration": 0.96,
+      "text": "ENIAC wasn't limited",
+      "en": "ENIAC wasn't limited",
+      "zh": ""
+    },
+    {
+      "start": 892.68,
+      "duration": 3.06,
+      "text": "to just solving one type of mathematical problem.",
+      "en": "to just solving one type of mathematical problem.",
+      "zh": ""
+    },
+    {
+      "start": 895.74,
+      "duration": 2.7,
+      "text": "It could be programmed and it was fast,",
+      "en": "It could be programmed and it was fast,",
+      "zh": ""
+    },
+    {
+      "start": 898.44,
+      "duration": 3.42,
+      "text": "completing 500 operations per second.",
+      "en": "completing 500 operations per second.",
+      "zh": ""
+    },
+    {
+      "start": 901.86,
+      "duration": 1.62,
+      "text": "At the time, the word computers",
+      "en": "At the time, the word computers",
+      "zh": ""
+    },
+    {
+      "start": 903.48,
+      "duration": 1.06,
+      "text": "still referred to people",
+      "en": "still referred to people",
+      "zh": ""
+    },
+    {
+      "start": 904.54,
+      "duration": 2.93,
+      "text": "doing calculations with pen and paper.",
+      "en": "doing calculations with pen and paper.",
+      "zh": ""
+    },
+    {
+      "start": 907.47,
+      "duration": 4.5,
+      "text": "So 500 operations per second was really fast.",
+      "en": "So 500 operations per second was really fast.",
+      "zh": ""
+    },
+    {
+      "start": 911.97,
+      "duration": 1.92,
+      "text": "ENIAC's flexibility and power",
+      "en": "ENIAC's flexibility and power",
+      "zh": ""
+    },
+    {
+      "start": 913.89,
+      "duration": 1.29,
+      "text": "was immediately useful",
+      "en": "was immediately useful",
+      "zh": ""
+    },
+    {
+      "start": 915.18,
+      "duration": 2.25,
+      "text": "for the development of the hydrogen bomb.",
+      "en": "for the development of the hydrogen bomb.",
+      "zh": ""
+    },
+    {
+      "start": 917.43,
+      "duration": 2.28,
+      "text": "The computations needed were so complex",
+      "en": "The computations needed were so complex",
+      "zh": ""
+    },
+    {
+      "start": 919.71,
+      "duration": 1.8,
+      "text": "that the director of Los Alamos at the time",
+      "en": "that the director of Los Alamos at the time",
+      "zh": ""
+    },
+    {
+      "start": 921.51,
+      "duration": 1.77,
+      "text": "said that, \"It would've been impossible",
+      "en": "said that, \"It would've been impossible",
+      "zh": ""
+    },
+    {
+      "start": 923.28,
+      "duration": 1.65,
+      "text": "to arrive at any solution",
+      "en": "to arrive at any solution",
+      "zh": ""
+    },
+    {
+      "start": 924.93,
+      "duration": 2.46,
+      "text": "without the aid of ENIAC.\"",
+      "en": "without the aid of ENIAC.\"",
+      "zh": ""
+    },
+    {
+      "start": 927.39,
+      "duration": 2.76,
+      "text": "- This is a hilarious part bout having a processor",
+      "en": "- This is a hilarious part bout having a processor",
+      "zh": ""
+    },
+    {
+      "start": 930.15,
+      "duration": 3.03,
+      "text": "that is 1 meter tall and 70 centimeters wide,",
+      "en": "that is 1 meter tall and 70 centimeters wide,",
+      "zh": ""
+    },
+    {
+      "start": 933.18,
+      "duration": 3.15,
+      "text": "is that you can point at actual parts of the processor.",
+      "en": "is that you can point at actual parts of the processor.",
+      "zh": ""
+    },
+    {
+      "start": 936.33,
+      "duration": 1.41,
+      "text": "- [Derek] This is what a 1-bit",
+      "en": "- [Derek] This is what a 1-bit",
+      "zh": ""
+    },
+    {
+      "start": 937.74,
+      "duration": 2.1,
+      "text": "vacuum tube computer looks like.",
+      "en": "vacuum tube computer looks like.",
+      "zh": ""
+    },
+    {
+      "start": 942.69,
+      "duration": 2.37,
+      "text": "- [David] Can you feel the heat coming off of it?",
+      "en": "- [David] Can you feel the heat coming off of it?",
+      "zh": ""
+    },
+    {
+      "start": 945.06,
+      "duration": 1.08,
+      "text": "- [Derek] I certainly can.",
+      "en": "- [Derek] I certainly can.",
+      "zh": ""
+    },
+    {
+      "start": 946.14,
+      "duration": 1.83,
+      "text": "- [David] I can feel the heat coming off.",
+      "en": "- [David] I can feel the heat coming off.",
+      "zh": ""
+    },
+    {
+      "start": 947.97,
+      "duration": 1.11,
+      "text": "- [Derek] It's getting warm.",
+      "en": "- [Derek] It's getting warm.",
+      "zh": ""
+    },
+    {
+      "start": 949.08,
+      "duration": 2.79,
+      "text": "- Well, I mean, 190 vacuum tubes is a lot.",
+      "en": "- Well, I mean, 190 vacuum tubes is a lot.",
+      "zh": ""
+    },
+    {
+      "start": 951.87,
+      "duration": 1.17,
+      "text": "I think we figured it out.",
+      "en": "I think we figured it out.",
+      "zh": ""
+    },
+    {
+      "start": 953.04,
+      "duration": 3.48,
+      "text": "This is pulling like 350 or 400 watts of power",
+      "en": "This is pulling like 350 or 400 watts of power",
+      "zh": ""
+    },
+    {
+      "start": 956.52,
+      "duration": 1.33,
+      "text": "or something like that,",
+      "en": "or something like that,",
+      "zh": ""
+    },
+    {
+      "start": 957.85,
+      "duration": 2.06,
+      "text": "which is absurd.",
+      "en": "which is absurd.",
+      "zh": ""
+    },
+    {
+      "start": 959.91,
+      "duration": 2.19,
+      "text": "At night, it's awesome.",
+      "en": "At night, it's awesome.",
+      "zh": ""
+    },
+    {
+      "start": 962.1,
+      "duration": 2.04,
+      "text": "It looks like a city.",
+      "en": "It looks like a city.",
+      "zh": ""
+    },
+    {
+      "start": 965.88,
+      "duration": 1.71,
+      "text": "- [Derek] But there were also major flaws",
+      "en": "- [Derek] But there were also major flaws",
+      "zh": ""
+    },
+    {
+      "start": 967.59,
+      "duration": 1.26,
+      "text": "with vacuum tubes.",
+      "en": "with vacuum tubes.",
+      "zh": ""
+    },
+    {
+      "start": 968.85,
+      "duration": 1.98,
+      "text": "The filaments always needed to be heated,",
+      "en": "The filaments always needed to be heated,",
+      "zh": ""
+    },
+    {
+      "start": 970.83,
+      "duration": 3.24,
+      "text": "so they used a lot of power even when idle,",
+      "en": "so they used a lot of power even when idle,",
+      "zh": ""
+    },
+    {
+      "start": 974.07,
+      "duration": 1.38,
+      "text": "and they were big.",
+      "en": "and they were big.",
+      "zh": ""
+    },
+    {
+      "start": 975.45,
+      "duration": 2.55,
+      "text": "It was hard to make a glass vacuum tube",
+      "en": "It was hard to make a glass vacuum tube",
+      "zh": ""
+    },
+    {
+      "start": 978.0,
+      "duration": 3.9,
+      "text": "with complex electrodes inside arbitrarily small.",
+      "en": "with complex electrodes inside arbitrarily small.",
+      "zh": ""
+    },
+    {
+      "start": 981.9,
+      "duration": 1.89,
+      "text": "They were also unreliable.",
+      "en": "They were also unreliable.",
+      "zh": ""
+    },
+    {
+      "start": 983.79,
+      "duration": 1.42,
+      "text": "On average, a vacuum tube in ENIAC",
+      "en": "On average, a vacuum tube in ENIAC",
+      "zh": ""
+    },
+    {
+      "start": 985.21,
+      "duration": 2.3,
+      "text": "broke down every few days.",
+      "en": "broke down every few days.",
+      "zh": ""
+    },
+    {
+      "start": 987.51,
+      "duration": 3.39,
+      "text": "And then, it needed to be found and replaced.",
+      "en": "And then, it needed to be found and replaced.",
+      "zh": ""
+    },
+    {
+      "start": 990.9,
+      "duration": 2.35,
+      "text": "The longest that ENIAC operated for without failure",
+      "en": "The longest that ENIAC operated for without failure",
+      "zh": ""
+    },
+    {
+      "start": 993.25,
+      "duration": 3.44,
+      "text": "was just 116 hours.",
+      "en": "was just 116 hours.",
+      "zh": ""
+    },
+    {
+      "start": 996.69,
+      "duration": 4.95,
+      "text": "The first digital computers ran on glorified light bulbs.",
+      "en": "The first digital computers ran on glorified light bulbs.",
+      "zh": ""
+    },
+    {
+      "start": 1001.64,
+      "duration": 3.96,
+      "text": "That is why they were so big, power-hungry, and unreliable.",
+      "en": "That is why they were so big, power-hungry, and unreliable.",
+      "zh": ""
+    },
+    {
+      "start": 1005.6,
+      "duration": 3.21,
+      "text": "The miracle and what has made our modern lives possible",
+      "en": "The miracle and what has made our modern lives possible",
+      "zh": ""
+    },
+    {
+      "start": 1008.81,
+      "duration": 1.32,
+      "text": "is that someone figured out",
+      "en": "is that someone figured out",
+      "zh": ""
+    },
+    {
+      "start": 1010.13,
+      "duration": 2.94,
+      "text": "how to perform the same trick with electrons",
+      "en": "how to perform the same trick with electrons",
+      "zh": ""
+    },
+    {
+      "start": 1013.07,
+      "duration": 4.92,
+      "text": "inside a solid piece of material, in silicon.",
+      "en": "inside a solid piece of material, in silicon.",
+      "zh": ""
+    },
+    {
+      "start": 1017.99,
+      "duration": 2.37,
+      "text": "But that's a story for another day.",
+      "en": "But that's a story for another day.",
+      "zh": ""
+    },
+    {
+      "start": 1026.57,
+      "duration": 2.31,
+      "text": "If you wanna learn about how modern computing devices",
+      "en": "If you wanna learn about how modern computing devices",
+      "zh": ""
+    },
+    {
+      "start": 1028.88,
+      "duration": 1.5,
+      "text": "store and access information,",
+      "en": "store and access information,",
+      "zh": ""
+    },
+    {
+      "start": 1030.38,
+      "duration": 1.5,
+      "text": "I highly recommend you check out",
+      "en": "I highly recommend you check out",
+      "zh": ""
+    },
+    {
+      "start": 1031.88,
+      "duration": 2.46,
+      "text": "this video's sponsor brilliant.org.",
+      "en": "this video's sponsor brilliant.org.",
+      "zh": ""
+    },
+    {
+      "start": 1034.34,
+      "duration": 1.32,
+      "text": "They have courses on everything",
+      "en": "They have courses on everything",
+      "zh": ""
+    },
+    {
+      "start": 1035.66,
+      "duration": 1.56,
+      "text": "from computer science fundamentals",
+      "en": "from computer science fundamentals",
+      "zh": ""
+    },
+    {
+      "start": 1037.22,
+      "duration": 2.7,
+      "text": "to neural networks to quantum computing.",
+      "en": "to neural networks to quantum computing.",
+      "zh": ""
+    },
+    {
+      "start": 1039.92,
+      "duration": 1.35,
+      "text": "Their latest interactive course",
+      "en": "Their latest interactive course",
+      "zh": ""
+    },
+    {
+      "start": 1041.27,
+      "duration": 2.25,
+      "text": "is called How Technology Works.",
+      "en": "is called How Technology Works.",
+      "zh": ""
+    },
+    {
+      "start": 1043.52,
+      "duration": 2.07,
+      "text": "It includes a lesson on computer memory",
+      "en": "It includes a lesson on computer memory",
+      "zh": ""
+    },
+    {
+      "start": 1045.59,
+      "duration": 1.8,
+      "text": "where you can get hands-on with the kinds",
+      "en": "where you can get hands-on with the kinds",
+      "zh": ""
+    },
+    {
+      "start": 1047.39,
+      "duration": 3.45,
+      "text": "of computational logic gates we discussed in this video.",
+      "en": "of computational logic gates we discussed in this video.",
+      "zh": ""
+    },
+    {
+      "start": 1050.84,
+      "duration": 2.39,
+      "text": "It also has a lesson that delves into the ingenious ways",
+      "en": "It also has a lesson that delves into the ingenious ways",
+      "zh": ""
+    },
+    {
+      "start": 1053.23,
+      "duration": 3.4,
+      "text": "video compression makes modern day streaming possible,",
+      "en": "video compression makes modern day streaming possible,",
+      "zh": ""
+    },
+    {
+      "start": 1056.63,
+      "duration": 2.58,
+      "text": "so you can watch videos like this one.",
+      "en": "so you can watch videos like this one.",
+      "zh": ""
+    },
+    {
+      "start": 1059.21,
+      "duration": 2.25,
+      "text": "Ever wondered how your phone knows where you are?",
+      "en": "Ever wondered how your phone knows where you are?",
+      "zh": ""
+    },
+    {
+      "start": 1061.46,
+      "duration": 1.95,
+      "text": "There's a lesson on that too.",
+      "en": "There's a lesson on that too.",
+      "zh": ""
+    },
+    {
+      "start": 1063.41,
+      "duration": 2.16,
+      "text": "There's even a lesson on password theft",
+      "en": "There's even a lesson on password theft",
+      "zh": ""
+    },
+    {
+      "start": 1065.57,
+      "duration": 2.1,
+      "text": "where you can walk in the footsteps of a hacker",
+      "en": "where you can walk in the footsteps of a hacker",
+      "zh": ""
+    },
+    {
+      "start": 1067.67,
+      "duration": 3.15,
+      "text": "to discover why some passwords are stronger than others.",
+      "en": "to discover why some passwords are stronger than others.",
+      "zh": ""
+    },
+    {
+      "start": 1070.82,
+      "duration": 1.56,
+      "text": "You can try all these out for free",
+      "en": "You can try all these out for free",
+      "zh": ""
+    },
+    {
+      "start": 1072.38,
+      "duration": 3.21,
+      "text": "by going to brilliant.org/veritasium.",
+      "en": "by going to brilliant.org/veritasium.",
+      "zh": ""
+    },
+    {
+      "start": 1075.59,
+      "duration": 1.71,
+      "text": "You know, whether it's getting a working knowledge",
+      "en": "You know, whether it's getting a working knowledge",
+      "zh": ""
+    },
+    {
+      "start": 1077.3,
+      "duration": 2.88,
+      "text": "of modern day technology or building skills in math,",
+      "en": "of modern day technology or building skills in math,",
+      "zh": ""
+    },
+    {
+      "start": 1080.18,
+      "duration": 1.92,
+      "text": "computer science or data science,",
+      "en": "computer science or data science,",
+      "zh": ""
+    },
+    {
+      "start": 1082.1,
+      "duration": 2.13,
+      "text": "Brilliant is the best way to learn.",
+      "en": "Brilliant is the best way to learn.",
+      "zh": ""
+    },
+    {
+      "start": 1084.23,
+      "duration": 2.7,
+      "text": "They have thousands of bite-sized interactive lessons",
+      "en": "They have thousands of bite-sized interactive lessons",
+      "zh": ""
+    },
+    {
+      "start": 1086.93,
+      "duration": 1.54,
+      "text": "that not only help master key concepts",
+      "en": "that not only help master key concepts",
+      "zh": ""
+    },
+    {
+      "start": 1088.47,
+      "duration": 3.26,
+      "text": "but connect what you learn to real-world examples.",
+      "en": "but connect what you learn to real-world examples.",
+      "zh": ""
+    },
+    {
+      "start": 1091.73,
+      "duration": 2.1,
+      "text": "And because each lesson is hands-on,",
+      "en": "And because each lesson is hands-on,",
+      "zh": ""
+    },
+    {
+      "start": 1093.83,
+      "duration": 1.68,
+      "text": "you'll build real intuition",
+      "en": "you'll build real intuition",
+      "zh": ""
+    },
+    {
+      "start": 1095.51,
+      "duration": 2.37,
+      "text": "so you can put what you've learned to use.",
+      "en": "so you can put what you've learned to use.",
+      "zh": ""
+    },
+    {
+      "start": 1097.88,
+      "duration": 1.77,
+      "text": "Now, as we've seen, the development of technology",
+      "en": "Now, as we've seen, the development of technology",
+      "zh": ""
+    },
+    {
+      "start": 1099.65,
+      "duration": 2.15,
+      "text": "is an ongoing process that constantly reshapes",
+      "en": "is an ongoing process that constantly reshapes",
+      "zh": ""
+    },
+    {
+      "start": 1101.8,
+      "duration": 2.68,
+      "text": "the way we interact with the world around us.",
+      "en": "the way we interact with the world around us.",
+      "zh": ""
+    },
+    {
+      "start": 1104.48,
+      "duration": 1.74,
+      "text": "Today, it's more important than ever",
+      "en": "Today, it's more important than ever",
+      "zh": ""
+    },
+    {
+      "start": 1106.22,
+      "duration": 1.98,
+      "text": "to keep up with these changes.",
+      "en": "to keep up with these changes.",
+      "zh": ""
+    },
+    {
+      "start": 1108.2,
+      "duration": 2.85,
+      "text": "Who knows what revolutionary technology will emerge next?",
+      "en": "Who knows what revolutionary technology will emerge next?",
+      "zh": ""
+    },
+    {
+      "start": 1111.05,
+      "duration": 2.28,
+      "text": "But whatever it is, you can rest assured",
+      "en": "But whatever it is, you can rest assured",
+      "zh": ""
+    },
+    {
+      "start": 1113.33,
+      "duration": 2.28,
+      "text": "that you'll be able to learn about it on Brilliant.",
+      "en": "that you'll be able to learn about it on Brilliant.",
+      "zh": ""
+    },
+    {
+      "start": 1115.61,
+      "duration": 2.88,
+      "text": "And you can try everything Brilliant has to offer for free",
+      "en": "And you can try everything Brilliant has to offer for free",
+      "zh": ""
+    },
+    {
+      "start": 1118.49,
+      "duration": 1.06,
+      "text": "for a full 30 days.",
+      "en": "for a full 30 days.",
+      "zh": ""
+    },
+    {
+      "start": 1119.55,
+      "duration": 3.38,
+      "text": "Just go to brilliant.org/veritasium.",
+      "en": "Just go to brilliant.org/veritasium.",
+      "zh": ""
+    },
+    {
+      "start": 1122.93,
+      "duration": 2.25,
+      "text": "I will put that link down in the description",
+      "en": "I will put that link down in the description",
+      "zh": ""
+    },
+    {
+      "start": 1125.18,
+      "duration": 2.16,
+      "text": "and the first 200 of you to sign up",
+      "en": "and the first 200 of you to sign up",
+      "zh": ""
+    },
+    {
+      "start": 1127.34,
+      "duration": 3.6,
+      "text": "will get 20% off Brilliant's annual premium subscription.",
+      "en": "will get 20% off Brilliant's annual premium subscription.",
+      "zh": ""
+    },
+    {
+      "start": 1130.94,
+      "duration": 2.28,
+      "text": "So I wanna thank Brilliant for sponsoring this video",
+      "en": "So I wanna thank Brilliant for sponsoring this video",
+      "zh": ""
+    },
+    {
+      "start": 1133.22,
+      "duration": 1.92,
+      "text": "and I wanna thank you for watching.",
+      "en": "and I wanna thank you for watching.",
+      "zh": ""
+    }
+  ],
+  "words": []
+}

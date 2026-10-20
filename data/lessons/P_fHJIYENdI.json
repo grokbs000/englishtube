@@ -1,0 +1,4030 @@
+{
+  "cues": [
+    {
+      "start": 0.45,
+      "duration": 1.14,
+      "text": "What if, all",
+      "en": "What if, all",
+      "zh": ""
+    },
+    {
+      "start": 1.59,
+      "duration": 2.58,
+      "text": "of the world's biggest problems from climate change,",
+      "en": "of the world's biggest problems from climate change,",
+      "zh": ""
+    },
+    {
+      "start": 4.17,
+      "duration": 3.63,
+      "text": "to curing diseases, to disposal of plastic waste,",
+      "en": "to curing diseases, to disposal of plastic waste,",
+      "zh": ""
+    },
+    {
+      "start": 7.8,
+      "duration": 2.79,
+      "text": "what if they all had the same solution?",
+      "en": "what if they all had the same solution?",
+      "zh": ""
+    },
+    {
+      "start": 10.59,
+      "duration": 3.45,
+      "text": "A solution so tiny it would be invisible.",
+      "en": "A solution so tiny it would be invisible.",
+      "zh": ""
+    },
+    {
+      "start": 14.04,
+      "duration": 2.13,
+      "text": "I'm inclined to believe this is possible,",
+      "en": "I'm inclined to believe this is possible,",
+      "zh": ""
+    },
+    {
+      "start": 16.17,
+      "duration": 2.13,
+      "text": "thanks to a recent breakthrough that solved one",
+      "en": "thanks to a recent breakthrough that solved one",
+      "zh": ""
+    },
+    {
+      "start": 18.3,
+      "duration": 2.7,
+      "text": "of the biggest problems of the last century.",
+      "en": "of the biggest problems of the last century.",
+      "zh": ""
+    },
+    {
+      "start": 21.0,
+      "duration": 2.67,
+      "text": "How to determine the structure of a protein?",
+      "en": "How to determine the structure of a protein?",
+      "zh": ""
+    },
+    {
+      "start": 23.67,
+      "duration": 1.86,
+      "text": "- It's been described to me as equivalent",
+      "en": "- It's been described to me as equivalent",
+      "zh": ""
+    },
+    {
+      "start": 25.53,
+      "duration": 2.88,
+      "text": "to Fermat's last theorem, but for biology.",
+      "en": "to Fermat's last theorem, but for biology.",
+      "zh": ""
+    },
+    {
+      "start": 28.41,
+      "duration": 2.13,
+      "text": "- Over six decades, tens of thousands",
+      "en": "- Over six decades, tens of thousands",
+      "zh": ""
+    },
+    {
+      "start": 30.54,
+      "duration": 2.01,
+      "text": "of biologists painstakingly worked out",
+      "en": "of biologists painstakingly worked out",
+      "zh": ""
+    },
+    {
+      "start": 32.55,
+      "duration": 3.23,
+      "text": "the structure of 150,000 proteins.",
+      "en": "the structure of 150,000 proteins.",
+      "zh": ""
+    },
+    {
+      "start": 35.78,
+      "duration": 2.89,
+      "text": "Then in just a few years, a team of",
+      "en": "Then in just a few years, a team of",
+      "zh": ""
+    },
+    {
+      "start": 38.67,
+      "duration": 4.32,
+      "text": "around 15 determined the structure of 200 million.",
+      "en": "around 15 determined the structure of 200 million.",
+      "zh": ""
+    },
+    {
+      "start": 42.99,
+      "duration": 3.66,
+      "text": "That's basically every protein known to exist in nature.",
+      "en": "That's basically every protein known to exist in nature.",
+      "zh": ""
+    },
+    {
+      "start": 46.65,
+      "duration": 1.71,
+      "text": "So how did they do it",
+      "en": "So how did they do it",
+      "zh": ""
+    },
+    {
+      "start": 48.36,
+      "duration": 1.59,
+      "text": "and why does this have the potential",
+      "en": "and why does this have the potential",
+      "zh": ""
+    },
+    {
+      "start": 49.95,
+      "duration": 3.51,
+      "text": "to solve problems way outside the realm of biology?",
+      "en": "to solve problems way outside the realm of biology?",
+      "zh": ""
+    },
+    {
+      "start": 55.94,
+      "duration": 3.67,
+      "text": "A protein starts simply as a string of amino acids.",
+      "en": "A protein starts simply as a string of amino acids.",
+      "zh": ""
+    },
+    {
+      "start": 59.61,
+      "duration": 2.64,
+      "text": "Each amino acid has a carbon atom at the center.",
+      "en": "Each amino acid has a carbon atom at the center.",
+      "zh": ""
+    },
+    {
+      "start": 62.25,
+      "duration": 2.07,
+      "text": "Then on one side is an amine group,",
+      "en": "Then on one side is an amine group,",
+      "zh": ""
+    },
+    {
+      "start": 64.32,
+      "duration": 2.88,
+      "text": "and on the other side is a carboxyl group.",
+      "en": "and on the other side is a carboxyl group.",
+      "zh": ""
+    },
+    {
+      "start": 67.2,
+      "duration": 2.01,
+      "text": "And the last thing it's bonded to could be one",
+      "en": "And the last thing it's bonded to could be one",
+      "zh": ""
+    },
+    {
+      "start": 69.21,
+      "duration": 2.25,
+      "text": "of 20 different side chains,",
+      "en": "of 20 different side chains,",
+      "zh": ""
+    },
+    {
+      "start": 71.46,
+      "duration": 1.74,
+      "text": "and which one determines which",
+      "en": "and which one determines which",
+      "zh": ""
+    },
+    {
+      "start": 73.2,
+      "duration": 3.39,
+      "text": "of the 20 different amino acids this molecule is.",
+      "en": "of the 20 different amino acids this molecule is.",
+      "zh": ""
+    },
+    {
+      "start": 77.46,
+      "duration": 2.67,
+      "text": "The amine group from one amino acid can react",
+      "en": "The amine group from one amino acid can react",
+      "zh": ""
+    },
+    {
+      "start": 80.13,
+      "duration": 3.84,
+      "text": "with the carboxyl group of another to form a peptide bond.",
+      "en": "with the carboxyl group of another to form a peptide bond.",
+      "zh": ""
+    },
+    {
+      "start": 83.97,
+      "duration": 3.9,
+      "text": "So a series of amino acids can bond to form a string",
+      "en": "So a series of amino acids can bond to form a string",
+      "zh": ""
+    },
+    {
+      "start": 87.87,
+      "duration": 1.23,
+      "text": "and pushing and pulling",
+      "en": "and pushing and pulling",
+      "zh": ""
+    },
+    {
+      "start": 89.1,
+      "duration": 2.85,
+      "text": "between countless molecules, electrostatic forces,",
+      "en": "between countless molecules, electrostatic forces,",
+      "zh": ""
+    },
+    {
+      "start": 91.95,
+      "duration": 2.52,
+      "text": "hydrogen bonds, solvent interactions",
+      "en": "hydrogen bonds, solvent interactions",
+      "zh": ""
+    },
+    {
+      "start": 94.47,
+      "duration": 3.3,
+      "text": "can cause this string to coil up and fold onto itself.",
+      "en": "can cause this string to coil up and fold onto itself.",
+      "zh": ""
+    },
+    {
+      "start": 97.77,
+      "duration": 4.17,
+      "text": "This ultimately determines the 3D structure of the protein.",
+      "en": "This ultimately determines the 3D structure of the protein.",
+      "zh": ""
+    },
+    {
+      "start": 101.94,
+      "duration": 1.41,
+      "text": "And this shape is the thing",
+      "en": "And this shape is the thing",
+      "zh": ""
+    },
+    {
+      "start": 103.35,
+      "duration": 2.49,
+      "text": "that really matters about the protein.",
+      "en": "that really matters about the protein.",
+      "zh": ""
+    },
+    {
+      "start": 105.84,
+      "duration": 2.22,
+      "text": "It's built for a specific purpose,",
+      "en": "It's built for a specific purpose,",
+      "zh": ""
+    },
+    {
+      "start": 108.06,
+      "duration": 2.37,
+      "text": "like how hemoglobin has the perfect binding site",
+      "en": "like how hemoglobin has the perfect binding site",
+      "zh": ""
+    },
+    {
+      "start": 110.43,
+      "duration": 2.43,
+      "text": "to carry around oxygen in your blood.",
+      "en": "to carry around oxygen in your blood.",
+      "zh": ""
+    },
+    {
+      "start": 113.79,
+      "duration": 1.35,
+      "text": "- These are machines, they need",
+      "en": "- These are machines, they need",
+      "zh": ""
+    },
+    {
+      "start": 115.14,
+      "duration": 3.39,
+      "text": "to be in their correct orientation in order to work together",
+      "en": "to be in their correct orientation in order to work together",
+      "zh": ""
+    },
+    {
+      "start": 118.53,
+      "duration": 2.55,
+      "text": "to move, for example, the proteins in your muscles.",
+      "en": "to move, for example, the proteins in your muscles.",
+      "zh": ""
+    },
+    {
+      "start": 121.08,
+      "duration": 1.38,
+      "text": "They change their shape a little bit",
+      "en": "They change their shape a little bit",
+      "zh": ""
+    },
+    {
+      "start": 122.46,
+      "duration": 1.95,
+      "text": "in order to pull and contract.",
+      "en": "in order to pull and contract.",
+      "zh": ""
+    },
+    {
+      "start": 124.41,
+      "duration": 2.37,
+      "text": "- But it would take people a long time",
+      "en": "- But it would take people a long time",
+      "zh": ""
+    },
+    {
+      "start": 126.78,
+      "duration": 2.07,
+      "text": "to get the structure of just one protein.",
+      "en": "to get the structure of just one protein.",
+      "zh": ""
+    },
+    {
+      "start": 128.85,
+      "duration": 0.83,
+      "text": "- Absolutely.",
+      "en": "- Absolutely.",
+      "zh": ""
+    },
+    {
+      "start": 129.68,
+      "duration": 1.9,
+      "text": "So what should proteins look like?",
+      "en": "So what should proteins look like?",
+      "zh": ""
+    },
+    {
+      "start": 131.58,
+      "duration": 1.35,
+      "text": "Was only started to answer really",
+      "en": "Was only started to answer really",
+      "zh": ""
+    },
+    {
+      "start": 132.93,
+      "duration": 2.13,
+      "text": "with experimental techniques.",
+      "en": "with experimental techniques.",
+      "zh": ""
+    },
+    {
+      "start": 135.06,
+      "duration": 2.13,
+      "text": "- [Derek] The first way protein structure was determined",
+      "en": "- [Derek] The first way protein structure was determined",
+      "zh": ""
+    },
+    {
+      "start": 137.19,
+      "duration": 3.12,
+      "text": "was by creating a crystal out of that protein.",
+      "en": "was by creating a crystal out of that protein.",
+      "zh": ""
+    },
+    {
+      "start": 140.31,
+      "duration": 1.95,
+      "text": "This was then exposed to x-rays",
+      "en": "This was then exposed to x-rays",
+      "zh": ""
+    },
+    {
+      "start": 142.26,
+      "duration": 2.01,
+      "text": "to get a diffraction pattern,",
+      "en": "to get a diffraction pattern,",
+      "zh": ""
+    },
+    {
+      "start": 144.27,
+      "duration": 2.04,
+      "text": "and then scientists would work backwards",
+      "en": "and then scientists would work backwards",
+      "zh": ""
+    },
+    {
+      "start": 146.31,
+      "duration": 1.47,
+      "text": "to try to figure out what shape",
+      "en": "to try to figure out what shape",
+      "zh": ""
+    },
+    {
+      "start": 147.78,
+      "duration": 2.76,
+      "text": "of molecules would create such a pattern.",
+      "en": "of molecules would create such a pattern.",
+      "zh": ""
+    },
+    {
+      "start": 151.68,
+      "duration": 2.85,
+      "text": "It took British biochemist, John Kendrew, 12 years",
+      "en": "It took British biochemist, John Kendrew, 12 years",
+      "zh": ""
+    },
+    {
+      "start": 154.53,
+      "duration": 2.13,
+      "text": "to get the first protein structure.",
+      "en": "to get the first protein structure.",
+      "zh": ""
+    },
+    {
+      "start": 156.66,
+      "duration": 3.57,
+      "text": "His target was an oxygen storing protein called myoglobin,",
+      "en": "His target was an oxygen storing protein called myoglobin,",
+      "zh": ""
+    },
+    {
+      "start": 160.23,
+      "duration": 1.89,
+      "text": "an important protein in our hearts.",
+      "en": "an important protein in our hearts.",
+      "zh": ""
+    },
+    {
+      "start": 163.17,
+      "duration": 1.92,
+      "text": "He first tried a horse heart,",
+      "en": "He first tried a horse heart,",
+      "zh": ""
+    },
+    {
+      "start": 165.09,
+      "duration": 1.8,
+      "text": "but this produced rather small crystals",
+      "en": "but this produced rather small crystals",
+      "zh": ""
+    },
+    {
+      "start": 166.89,
+      "duration": 3.03,
+      "text": "because it didn't have enough myoglobin.",
+      "en": "because it didn't have enough myoglobin.",
+      "zh": ""
+    },
+    {
+      "start": 169.92,
+      "duration": 2.19,
+      "text": "He knew diving mammals would have lots",
+      "en": "He knew diving mammals would have lots",
+      "zh": ""
+    },
+    {
+      "start": 172.11,
+      "duration": 1.38,
+      "text": "of myoglobin in their muscles",
+      "en": "of myoglobin in their muscles",
+      "zh": ""
+    },
+    {
+      "start": 173.49,
+      "duration": 2.4,
+      "text": "since they're the best at conserving oxygen.",
+      "en": "since they're the best at conserving oxygen.",
+      "zh": ""
+    },
+    {
+      "start": 175.89,
+      "duration": 4.08,
+      "text": "So he obtained a huge chunk of whale meat from Peru.",
+      "en": "So he obtained a huge chunk of whale meat from Peru.",
+      "zh": ""
+    },
+    {
+      "start": 179.97,
+      "duration": 2.22,
+      "text": "This finally gave Kendrew large enough crystals",
+      "en": "This finally gave Kendrew large enough crystals",
+      "zh": ""
+    },
+    {
+      "start": 182.19,
+      "duration": 2.79,
+      "text": "to create an x-ray diffraction image.",
+      "en": "to create an x-ray diffraction image.",
+      "zh": ""
+    },
+    {
+      "start": 184.98,
+      "duration": 2.43,
+      "text": "- And when it came out, it looked really weird.",
+      "en": "- And when it came out, it looked really weird.",
+      "zh": ""
+    },
+    {
+      "start": 187.41,
+      "duration": 1.29,
+      "text": "People expected something",
+      "en": "People expected something",
+      "zh": ""
+    },
+    {
+      "start": 188.7,
+      "duration": 2.61,
+      "text": "kind of logical, mathematical, understandable,",
+      "en": "kind of logical, mathematical, understandable,",
+      "zh": ""
+    },
+    {
+      "start": 191.31,
+      "duration": 3.06,
+      "text": "and it almost looked, I wouldn't say ugly, but intricate",
+      "en": "and it almost looked, I wouldn't say ugly, but intricate",
+      "zh": ""
+    },
+    {
+      "start": 194.37,
+      "duration": 1.23,
+      "text": "and complex and kind",
+      "en": "and complex and kind",
+      "zh": ""
+    },
+    {
+      "start": 195.6,
+      "duration": 2.73,
+      "text": "of like if you see a rocket motor,",
+      "en": "of like if you see a rocket motor,",
+      "zh": ""
+    },
+    {
+      "start": 198.33,
+      "duration": 1.68,
+      "text": "and all the parts hanging off.",
+      "en": "and all the parts hanging off.",
+      "zh": ""
+    },
+    {
+      "start": 200.01,
+      "duration": 1.69,
+      "text": "- [Derek] This structure, which has been called",
+      "en": "- [Derek] This structure, which has been called",
+      "zh": ""
+    },
+    {
+      "start": 201.7,
+      "duration": 1.67,
+      "text": "\"Turd of the century,\"",
+      "en": "\"Turd of the century,\"",
+      "zh": ""
+    },
+    {
+      "start": 203.37,
+      "duration": 3.78,
+      "text": "won Kendrew, the 1962 Nobel Prize in chemistry.",
+      "en": "won Kendrew, the 1962 Nobel Prize in chemistry.",
+      "zh": ""
+    },
+    {
+      "start": 208.23,
+      "duration": 1.29,
+      "text": "Over the next two decades,",
+      "en": "Over the next two decades,",
+      "zh": ""
+    },
+    {
+      "start": 209.52,
+      "duration": 3.33,
+      "text": "only around a hundred more structures were resolved.",
+      "en": "only around a hundred more structures were resolved.",
+      "zh": ""
+    },
+    {
+      "start": 212.85,
+      "duration": 4.14,
+      "text": "Even today, protein crystallization remains a big challenge.",
+      "en": "Even today, protein crystallization remains a big challenge.",
+      "zh": ""
+    },
+    {
+      "start": 216.99,
+      "duration": 1.8,
+      "text": "- Frankly it is not uncommon",
+      "en": "- Frankly it is not uncommon",
+      "zh": ""
+    },
+    {
+      "start": 218.79,
+      "duration": 2.28,
+      "text": "that just a couple protein structures",
+      "en": "that just a couple protein structures",
+      "zh": ""
+    },
+    {
+      "start": 221.07,
+      "duration": 1.62,
+      "text": "can be someone's entire PhD.",
+      "en": "can be someone's entire PhD.",
+      "zh": ""
+    },
+    {
+      "start": 222.69,
+      "duration": 3.51,
+      "text": "Sometimes just one, sometimes even just progress toward one,",
+      "en": "Sometimes just one, sometimes even just progress toward one,",
+      "zh": ""
+    },
+    {
+      "start": 226.2,
+      "duration": 1.26,
+      "text": "- And it's expensive.",
+      "en": "- And it's expensive.",
+      "zh": ""
+    },
+    {
+      "start": 227.46,
+      "duration": 2.64,
+      "text": "X-ray crystallography can cost 10s of thousands",
+      "en": "X-ray crystallography can cost 10s of thousands",
+      "zh": ""
+    },
+    {
+      "start": 230.1,
+      "duration": 2.01,
+      "text": "of dollars per protein.",
+      "en": "of dollars per protein.",
+      "zh": ""
+    },
+    {
+      "start": 232.11,
+      "duration": 1.71,
+      "text": "So scientists sought another way",
+      "en": "So scientists sought another way",
+      "zh": ""
+    },
+    {
+      "start": 233.82,
+      "duration": 1.56,
+      "text": "to work out protein structure.",
+      "en": "to work out protein structure.",
+      "zh": ""
+    },
+    {
+      "start": 235.38,
+      "duration": 2.19,
+      "text": "It only costs around a hundred dollars",
+      "en": "It only costs around a hundred dollars",
+      "zh": ""
+    },
+    {
+      "start": 237.57,
+      "duration": 2.67,
+      "text": "to find a protein sequence of amino acids.",
+      "en": "to find a protein sequence of amino acids.",
+      "zh": ""
+    },
+    {
+      "start": 240.24,
+      "duration": 1.83,
+      "text": "So if you could use this to figure out",
+      "en": "So if you could use this to figure out",
+      "zh": ""
+    },
+    {
+      "start": 242.07,
+      "duration": 1.41,
+      "text": "how the protein would fold,",
+      "en": "how the protein would fold,",
+      "zh": ""
+    },
+    {
+      "start": 243.48,
+      "duration": 3.63,
+      "text": "that would save a lot of time, effort, and money.",
+      "en": "that would save a lot of time, effort, and money.",
+      "zh": ""
+    },
+    {
+      "start": 247.11,
+      "duration": 1.41,
+      "text": "I kind of know how carbon behaves",
+      "en": "I kind of know how carbon behaves",
+      "zh": ""
+    },
+    {
+      "start": 248.52,
+      "duration": 1.62,
+      "text": "and I know how carbon sticks to a sulfur",
+      "en": "and I know how carbon sticks to a sulfur",
+      "zh": ""
+    },
+    {
+      "start": 250.14,
+      "duration": 2.64,
+      "text": "and how that might stick next to a nitrogen.",
+      "en": "and how that might stick next to a nitrogen.",
+      "zh": ""
+    },
+    {
+      "start": 252.78,
+      "duration": 0.93,
+      "text": "And if these ones are here,",
+      "en": "And if these ones are here,",
+      "zh": ""
+    },
+    {
+      "start": 253.71,
+      "duration": 2.22,
+      "text": "then I can imagine this one folding, making that bond there.",
+      "en": "then I can imagine this one folding, making that bond there.",
+      "zh": ""
+    },
+    {
+      "start": 255.93,
+      "duration": 1.71,
+      "text": "So it seems like if you have some sense",
+      "en": "So it seems like if you have some sense",
+      "zh": ""
+    },
+    {
+      "start": 257.64,
+      "duration": 3.99,
+      "text": "of basic molecular dynamics, you might be able to figure out",
+      "en": "of basic molecular dynamics, you might be able to figure out",
+      "zh": ""
+    },
+    {
+      "start": 261.63,
+      "duration": 1.17,
+      "text": "how this protein's gonna fold.",
+      "en": "how this protein's gonna fold.",
+      "zh": ""
+    },
+    {
+      "start": 262.8,
+      "duration": 2.43,
+      "text": "- One of the few true predictions in biology",
+      "en": "- One of the few true predictions in biology",
+      "zh": ""
+    },
+    {
+      "start": 265.23,
+      "duration": 3.03,
+      "text": "was actually Linus Pauling looking at just the geometry",
+      "en": "was actually Linus Pauling looking at just the geometry",
+      "zh": ""
+    },
+    {
+      "start": 268.26,
+      "duration": 1.08,
+      "text": "of the building blocks of proteins",
+      "en": "of the building blocks of proteins",
+      "zh": ""
+    },
+    {
+      "start": 269.34,
+      "duration": 3.54,
+      "text": "and saying, actually they should make helices and sheets.",
+      "en": "and saying, actually they should make helices and sheets.",
+      "zh": ""
+    },
+    {
+      "start": 272.88,
+      "duration": 1.59,
+      "text": "That's what we call secondary structure,",
+      "en": "That's what we call secondary structure,",
+      "zh": ""
+    },
+    {
+      "start": 274.47,
+      "duration": 3.33,
+      "text": "the very local kind of twists and turns of the protein.",
+      "en": "the very local kind of twists and turns of the protein.",
+      "zh": ""
+    },
+    {
+      "start": 277.8,
+      "duration": 1.77,
+      "text": "- But beyond helices and sheets,",
+      "en": "- But beyond helices and sheets,",
+      "zh": ""
+    },
+    {
+      "start": 279.57,
+      "duration": 3.27,
+      "text": "biochemists could not figure out any reliable patterns",
+      "en": "biochemists could not figure out any reliable patterns",
+      "zh": ""
+    },
+    {
+      "start": 282.84,
+      "duration": 3.36,
+      "text": "that would lead to the final structure of all proteins.",
+      "en": "that would lead to the final structure of all proteins.",
+      "zh": ""
+    },
+    {
+      "start": 286.2,
+      "duration": 3.24,
+      "text": "One reason for this is that evolution didn't design proteins",
+      "en": "One reason for this is that evolution didn't design proteins",
+      "zh": ""
+    },
+    {
+      "start": 289.44,
+      "duration": 1.29,
+      "text": "from the ground up.",
+      "en": "from the ground up.",
+      "zh": ""
+    },
+    {
+      "start": 290.73,
+      "duration": 2.13,
+      "text": "- It's kind of like a programmer",
+      "en": "- It's kind of like a programmer",
+      "zh": ""
+    },
+    {
+      "start": 292.86,
+      "duration": 1.17,
+      "text": "that doesn't know what they're doing,",
+      "en": "that doesn't know what they're doing,",
+      "zh": ""
+    },
+    {
+      "start": 294.03,
+      "duration": 0.96,
+      "text": "and whenever it looked good,",
+      "en": "and whenever it looked good,",
+      "zh": ""
+    },
+    {
+      "start": 294.99,
+      "duration": 1.56,
+      "text": "they just kept adding that kind of thing.",
+      "en": "they just kept adding that kind of thing.",
+      "zh": ""
+    },
+    {
+      "start": 296.55,
+      "duration": 1.41,
+      "text": "And that's how you end up",
+      "en": "And that's how you end up",
+      "zh": ""
+    },
+    {
+      "start": 297.96,
+      "duration": 1.65,
+      "text": "with these both amazing objects",
+      "en": "with these both amazing objects",
+      "zh": ""
+    },
+    {
+      "start": 299.61,
+      "duration": 2.4,
+      "text": "and incredibly complex and hard to describe.",
+      "en": "and incredibly complex and hard to describe.",
+      "zh": ""
+    },
+    {
+      "start": 302.01,
+      "duration": 3.03,
+      "text": "They don't have purpose underneath them in the same way",
+      "en": "They don't have purpose underneath them in the same way",
+      "zh": ""
+    },
+    {
+      "start": 305.04,
+      "duration": 3.93,
+      "text": "as like a human designed machine would.",
+      "en": "as like a human designed machine would.",
+      "zh": ""
+    },
+    {
+      "start": 308.97,
+      "duration": 2.49,
+      "text": "- [Derek] To illustrate just how complicated this process",
+      "en": "- [Derek] To illustrate just how complicated this process",
+      "zh": ""
+    },
+    {
+      "start": 311.46,
+      "duration": 3.18,
+      "text": "can get, MIT biologist Cyrus Levinthal did",
+      "en": "can get, MIT biologist Cyrus Levinthal did",
+      "zh": ""
+    },
+    {
+      "start": 314.64,
+      "duration": 2.04,
+      "text": "a back-of-the-envelope calculation,",
+      "en": "a back-of-the-envelope calculation,",
+      "zh": ""
+    },
+    {
+      "start": 316.68,
+      "duration": 2.25,
+      "text": "and he showed that even a short protein chain",
+      "en": "and he showed that even a short protein chain",
+      "zh": ""
+    },
+    {
+      "start": 318.93,
+      "duration": 2.4,
+      "text": "with 35 amino acids can fold",
+      "en": "with 35 amino acids can fold",
+      "zh": ""
+    },
+    {
+      "start": 321.33,
+      "duration": 2.46,
+      "text": "in an astronomical number of ways.",
+      "en": "in an astronomical number of ways.",
+      "zh": ""
+    },
+    {
+      "start": 324.78,
+      "duration": 2.7,
+      "text": "So even if a computer checked the energy instability",
+      "en": "So even if a computer checked the energy instability",
+      "zh": ""
+    },
+    {
+      "start": 327.48,
+      "duration": 3.18,
+      "text": "of 30,000 configurations every nanosecond,",
+      "en": "of 30,000 configurations every nanosecond,",
+      "zh": ""
+    },
+    {
+      "start": 330.66,
+      "duration": 3.3,
+      "text": "it would take 200 times the age of the universe",
+      "en": "it would take 200 times the age of the universe",
+      "zh": ""
+    },
+    {
+      "start": 333.96,
+      "duration": 1.98,
+      "text": "to find the correct structure.",
+      "en": "to find the correct structure.",
+      "zh": ""
+    },
+    {
+      "start": 337.89,
+      "duration": 1.77,
+      "text": "Refusing to give up,",
+      "en": "Refusing to give up,",
+      "zh": ""
+    },
+    {
+      "start": 339.66,
+      "duration": 2.04,
+      "text": "the University of Maryland professor John Moult",
+      "en": "the University of Maryland professor John Moult",
+      "zh": ""
+    },
+    {
+      "start": 341.7,
+      "duration": 3.93,
+      "text": "started a competition called CASP in 1994.",
+      "en": "started a competition called CASP in 1994.",
+      "zh": ""
+    },
+    {
+      "start": 345.63,
+      "duration": 2.97,
+      "text": "The challenge was simple, to design a computer model",
+      "en": "The challenge was simple, to design a computer model",
+      "zh": ""
+    },
+    {
+      "start": 348.6,
+      "duration": 1.92,
+      "text": "that could take an amino acid sequence",
+      "en": "that could take an amino acid sequence",
+      "zh": ""
+    },
+    {
+      "start": 350.52,
+      "duration": 2.19,
+      "text": "and output its structure.",
+      "en": "and output its structure.",
+      "zh": ""
+    },
+    {
+      "start": 352.71,
+      "duration": 2.73,
+      "text": "The modelers would not know the correct structure",
+      "en": "The modelers would not know the correct structure",
+      "zh": ""
+    },
+    {
+      "start": 355.44,
+      "duration": 3.6,
+      "text": "beforehand, but the output from each model would be compared",
+      "en": "beforehand, but the output from each model would be compared",
+      "zh": ""
+    },
+    {
+      "start": 359.04,
+      "duration": 2.49,
+      "text": "to the experimentally determined structure.",
+      "en": "to the experimentally determined structure.",
+      "zh": ""
+    },
+    {
+      "start": 362.51,
+      "duration": 2.35,
+      "text": "A perfect match would get a score of a hundred,",
+      "en": "A perfect match would get a score of a hundred,",
+      "zh": ""
+    },
+    {
+      "start": 364.86,
+      "duration": 2.7,
+      "text": "but anything over 90 was considered close enough",
+      "en": "but anything over 90 was considered close enough",
+      "zh": ""
+    },
+    {
+      "start": 367.56,
+      "duration": 2.25,
+      "text": "that the structure was solved.",
+      "en": "that the structure was solved.",
+      "zh": ""
+    },
+    {
+      "start": 369.81,
+      "duration": 2.67,
+      "text": "CASP competitors gathered at an old wooden chapel",
+      "en": "CASP competitors gathered at an old wooden chapel",
+      "zh": ""
+    },
+    {
+      "start": 372.48,
+      "duration": 3.0,
+      "text": "turned conference center in Monterey, California,",
+      "en": "turned conference center in Monterey, California,",
+      "zh": ""
+    },
+    {
+      "start": 375.48,
+      "duration": 2.43,
+      "text": "and at any point where a prediction didn't make sense,",
+      "en": "and at any point where a prediction didn't make sense,",
+      "zh": ""
+    },
+    {
+      "start": 377.91,
+      "duration": 3.63,
+      "text": "they were encouraged to tap their feet as friendly banter.",
+      "en": "they were encouraged to tap their feet as friendly banter.",
+      "zh": ""
+    },
+    {
+      "start": 381.54,
+      "duration": 2.31,
+      "text": "There was a lot of foot tapping.",
+      "en": "There was a lot of foot tapping.",
+      "zh": ""
+    },
+    {
+      "start": 383.85,
+      "duration": 1.83,
+      "text": "(foot tapping)",
+      "en": "(foot tapping)",
+      "zh": ""
+    },
+    {
+      "start": 385.68,
+      "duration": 2.61,
+      "text": "In the first year, teams could not achieve scores",
+      "en": "In the first year, teams could not achieve scores",
+      "zh": ""
+    },
+    {
+      "start": 388.29,
+      "duration": 1.71,
+      "text": "higher than 40.",
+      "en": "higher than 40.",
+      "zh": ""
+    },
+    {
+      "start": 390.0,
+      "duration": 3.27,
+      "text": "The early front runner was an algorithm called Rosetta,",
+      "en": "The early front runner was an algorithm called Rosetta,",
+      "zh": ""
+    },
+    {
+      "start": 393.27,
+      "duration": 3.78,
+      "text": "created by University of Washington biologist David Baker.",
+      "en": "created by University of Washington biologist David Baker.",
+      "zh": ""
+    },
+    {
+      "start": 397.05,
+      "duration": 2.61,
+      "text": "One of his innovations was to boost computation",
+      "en": "One of his innovations was to boost computation",
+      "zh": ""
+    },
+    {
+      "start": 399.66,
+      "duration": 3.21,
+      "text": "by pooling together processing power from idle computers",
+      "en": "by pooling together processing power from idle computers",
+      "zh": ""
+    },
+    {
+      "start": 402.87,
+      "duration": 3.12,
+      "text": "in homes, schools, and libraries that volunteered",
+      "en": "in homes, schools, and libraries that volunteered",
+      "zh": ""
+    },
+    {
+      "start": 405.99,
+      "duration": 3.45,
+      "text": "to install his software called Rosetta at Home.",
+      "en": "to install his software called Rosetta at Home.",
+      "zh": ""
+    },
+    {
+      "start": 409.44,
+      "duration": 1.65,
+      "text": "- As part of it, there was a screensaver",
+      "en": "- As part of it, there was a screensaver",
+      "zh": ""
+    },
+    {
+      "start": 411.09,
+      "duration": 1.35,
+      "text": "that showed basically the course",
+      "en": "that showed basically the course",
+      "zh": ""
+    },
+    {
+      "start": 412.44,
+      "duration": 3.21,
+      "text": "of the protein folding calculation.",
+      "en": "of the protein folding calculation.",
+      "zh": ""
+    },
+    {
+      "start": 415.65,
+      "duration": 2.16,
+      "text": "And then we started getting people writing in saying",
+      "en": "And then we started getting people writing in saying",
+      "zh": ""
+    },
+    {
+      "start": 417.81,
+      "duration": 1.92,
+      "text": "that they were watching the screensaver",
+      "en": "that they were watching the screensaver",
+      "zh": ""
+    },
+    {
+      "start": 419.73,
+      "duration": 2.82,
+      "text": "and they thought they could do better than the computer.",
+      "en": "and they thought they could do better than the computer.",
+      "zh": ""
+    },
+    {
+      "start": 422.55,
+      "duration": 1.8,
+      "text": "- So Baker had an idea.",
+      "en": "- So Baker had an idea.",
+      "zh": ""
+    },
+    {
+      "start": 424.35,
+      "duration": 2.14,
+      "text": "He created a video game.",
+      "en": "He created a video game.",
+      "zh": ""
+    },
+    {
+      "start": 426.49,
+      "duration": 2.15,
+      "text": "(upbeat music)",
+      "en": "(upbeat music)",
+      "zh": ""
+    },
+    {
+      "start": 428.64,
+      "duration": 1.47,
+      "text": "The game called Fold It,",
+      "en": "The game called Fold It,",
+      "zh": ""
+    },
+    {
+      "start": 430.11,
+      "duration": 2.4,
+      "text": "set up a protein chain capable of twisting",
+      "en": "set up a protein chain capable of twisting",
+      "zh": ""
+    },
+    {
+      "start": 432.51,
+      "duration": 2.46,
+      "text": "and turning into different arrangements.",
+      "en": "and turning into different arrangements.",
+      "zh": ""
+    },
+    {
+      "start": 434.97,
+      "duration": 2.97,
+      "text": "- But now instead of the computer making the moves,",
+      "en": "- But now instead of the computer making the moves,",
+      "zh": ""
+    },
+    {
+      "start": 437.94,
+      "duration": 2.28,
+      "text": "the game players, the humans could make the moves.",
+      "en": "the game players, the humans could make the moves.",
+      "zh": ""
+    },
+    {
+      "start": 440.22,
+      "duration": 1.08,
+      "text": "- Within three weeks,",
+      "en": "- Within three weeks,",
+      "zh": ""
+    },
+    {
+      "start": 441.3,
+      "duration": 2.1,
+      "text": "more than 50,000 gamers pooled",
+      "en": "more than 50,000 gamers pooled",
+      "zh": ""
+    },
+    {
+      "start": 443.4,
+      "duration": 1.74,
+      "text": "their efforts to decipher an enzyme",
+      "en": "their efforts to decipher an enzyme",
+      "zh": ""
+    },
+    {
+      "start": 445.14,
+      "duration": 2.46,
+      "text": "that plays a key role in HIV.",
+      "en": "that plays a key role in HIV.",
+      "zh": ""
+    },
+    {
+      "start": 447.6,
+      "duration": 3.12,
+      "text": "X-Ray crystallography showed their result was correct.",
+      "en": "X-Ray crystallography showed their result was correct.",
+      "zh": ""
+    },
+    {
+      "start": 450.72,
+      "duration": 1.59,
+      "text": "The gamers even got credited",
+      "en": "The gamers even got credited",
+      "zh": ""
+    },
+    {
+      "start": 452.31,
+      "duration": 2.01,
+      "text": "as co-authors on the research paper.",
+      "en": "as co-authors on the research paper.",
+      "zh": ""
+    },
+    {
+      "start": 456.12,
+      "duration": 1.68,
+      "text": "Now, one man who played Fold It",
+      "en": "Now, one man who played Fold It",
+      "zh": ""
+    },
+    {
+      "start": 457.8,
+      "duration": 3.54,
+      "text": "was a former child chess prodigy named Demis Hassabis.",
+      "en": "was a former child chess prodigy named Demis Hassabis.",
+      "zh": ""
+    },
+    {
+      "start": 461.34,
+      "duration": 3.84,
+      "text": "Hassabis had recently started an AI company called DeepMind.",
+      "en": "Hassabis had recently started an AI company called DeepMind.",
+      "zh": ""
+    },
+    {
+      "start": 465.18,
+      "duration": 2.7,
+      "text": "Their AI algorithm, AlphaGo made headlines",
+      "en": "Their AI algorithm, AlphaGo made headlines",
+      "zh": ""
+    },
+    {
+      "start": 467.88,
+      "duration": 3.81,
+      "text": "for beating world champion Lee Sedol at the game of Go.",
+      "en": "for beating world champion Lee Sedol at the game of Go.",
+      "zh": ""
+    },
+    {
+      "start": 471.69,
+      "duration": 5.0,
+      "text": "One of AlphaGo's moves, move 37, shook Sedol to his core.",
+      "en": "One of AlphaGo's moves, move 37, shook Sedol to his core.",
+      "zh": ""
+    },
+    {
+      "start": 476.82,
+      "duration": 3.9,
+      "text": "But Hassabis never forgot about his time as a Fold It gamer.",
+      "en": "But Hassabis never forgot about his time as a Fold It gamer.",
+      "zh": ""
+    },
+    {
+      "start": 480.72,
+      "duration": 1.56,
+      "text": "- So of course I was fascinated this",
+      "en": "- So of course I was fascinated this",
+      "zh": ""
+    },
+    {
+      "start": 482.28,
+      "duration": 1.47,
+      "text": "just from games design perspective.",
+      "en": "just from games design perspective.",
+      "zh": ""
+    },
+    {
+      "start": 483.75,
+      "duration": 2.13,
+      "text": "You know, wouldn't it be amazing if we could mimic",
+      "en": "You know, wouldn't it be amazing if we could mimic",
+      "zh": ""
+    },
+    {
+      "start": 485.88,
+      "duration": 3.06,
+      "text": "the intuition of these gamers who were only, by the way,",
+      "en": "the intuition of these gamers who were only, by the way,",
+      "zh": ""
+    },
+    {
+      "start": 488.94,
+      "duration": 2.19,
+      "text": "of course, amateur biologists.",
+      "en": "of course, amateur biologists.",
+      "zh": ""
+    },
+    {
+      "start": 491.13,
+      "duration": 1.74,
+      "text": "- After returning from Korea,",
+      "en": "- After returning from Korea,",
+      "zh": ""
+    },
+    {
+      "start": 492.87,
+      "duration": 2.16,
+      "text": "DeepMind researchers had a week-long hackathon",
+      "en": "DeepMind researchers had a week-long hackathon",
+      "zh": ""
+    },
+    {
+      "start": 495.03,
+      "duration": 3.24,
+      "text": "where they tried to train AI to play Fold It.",
+      "en": "where they tried to train AI to play Fold It.",
+      "zh": ""
+    },
+    {
+      "start": 498.27,
+      "duration": 3.0,
+      "text": "This was the beginning of Hassabis' longstanding goal",
+      "en": "This was the beginning of Hassabis' longstanding goal",
+      "zh": ""
+    },
+    {
+      "start": 501.27,
+      "duration": 2.43,
+      "text": "of using AI to advance science.",
+      "en": "of using AI to advance science.",
+      "zh": ""
+    },
+    {
+      "start": 503.7,
+      "duration": 2.82,
+      "text": "He initiated a new project called Alpha Fold",
+      "en": "He initiated a new project called Alpha Fold",
+      "zh": ""
+    },
+    {
+      "start": 506.52,
+      "duration": 2.19,
+      "text": "to solve the protein folding problem.",
+      "en": "to solve the protein folding problem.",
+      "zh": ""
+    },
+    {
+      "start": 510.03,
+      "duration": 1.89,
+      "text": "Meanwhile at CASP, the quality",
+      "en": "Meanwhile at CASP, the quality",
+      "zh": ""
+    },
+    {
+      "start": 511.92,
+      "duration": 1.53,
+      "text": "of prediction from the best performers,",
+      "en": "of prediction from the best performers,",
+      "zh": ""
+    },
+    {
+      "start": 513.45,
+      "duration": 2.79,
+      "text": "including Rosetta had plateaued.",
+      "en": "including Rosetta had plateaued.",
+      "zh": ""
+    },
+    {
+      "start": 516.24,
+      "duration": 3.48,
+      "text": "In fact, the performance went downhill after CASP eight.",
+      "en": "In fact, the performance went downhill after CASP eight.",
+      "zh": ""
+    },
+    {
+      "start": 520.89,
+      "duration": 1.47,
+      "text": "The predictions weren't good enough,",
+      "en": "The predictions weren't good enough,",
+      "zh": ""
+    },
+    {
+      "start": 522.36,
+      "duration": 1.47,
+      "text": "even with faster computers",
+      "en": "even with faster computers",
+      "zh": ""
+    },
+    {
+      "start": 523.83,
+      "duration": 1.5,
+      "text": "and a growing number of structures",
+      "en": "and a growing number of structures",
+      "zh": ""
+    },
+    {
+      "start": 525.33,
+      "duration": 1.86,
+      "text": "in the protein data bank to train on.",
+      "en": "in the protein data bank to train on.",
+      "zh": ""
+    },
+    {
+      "start": 528.39,
+      "duration": 2.7,
+      "text": "DeepMind hoped to change this with AlphaFold.",
+      "en": "DeepMind hoped to change this with AlphaFold.",
+      "zh": ""
+    },
+    {
+      "start": 532.38,
+      "duration": 2.16,
+      "text": "Its first iteration, AlphaFold 1,",
+      "en": "Its first iteration, AlphaFold 1,",
+      "zh": ""
+    },
+    {
+      "start": 534.54,
+      "duration": 2.52,
+      "text": "was a standard off-the-shelf deep neural network like",
+      "en": "was a standard off-the-shelf deep neural network like",
+      "zh": ""
+    },
+    {
+      "start": 537.06,
+      "duration": 2.82,
+      "text": "the ones used for computer vision at that time.",
+      "en": "the ones used for computer vision at that time.",
+      "zh": ""
+    },
+    {
+      "start": 539.88,
+      "duration": 2.04,
+      "text": "The researchers trained it on lots",
+      "en": "The researchers trained it on lots",
+      "zh": ""
+    },
+    {
+      "start": 541.92,
+      "duration": 3.66,
+      "text": "and lots of protein structures from the protein data bank.",
+      "en": "and lots of protein structures from the protein data bank.",
+      "zh": ""
+    },
+    {
+      "start": 545.58,
+      "duration": 3.48,
+      "text": "As input, AlphaFold took the protein's amino acid sequence",
+      "en": "As input, AlphaFold took the protein's amino acid sequence",
+      "zh": ""
+    },
+    {
+      "start": 549.06,
+      "duration": 2.82,
+      "text": "and an important set of clues given by evolution.",
+      "en": "and an important set of clues given by evolution.",
+      "zh": ""
+    },
+    {
+      "start": 553.68,
+      "duration": 2.13,
+      "text": "Evolution is driven by mutations,",
+      "en": "Evolution is driven by mutations,",
+      "zh": ""
+    },
+    {
+      "start": 555.81,
+      "duration": 1.35,
+      "text": "changes in the genetic code,",
+      "en": "changes in the genetic code,",
+      "zh": ""
+    },
+    {
+      "start": 557.16,
+      "duration": 2.28,
+      "text": "which in turn change the amino acids",
+      "en": "which in turn change the amino acids",
+      "zh": ""
+    },
+    {
+      "start": 559.44,
+      "duration": 2.16,
+      "text": "within a given protein sequence.",
+      "en": "within a given protein sequence.",
+      "zh": ""
+    },
+    {
+      "start": 561.6,
+      "duration": 3.09,
+      "text": "But as species evolve, proteins need to retain the shape",
+      "en": "But as species evolve, proteins need to retain the shape",
+      "zh": ""
+    },
+    {
+      "start": 564.69,
+      "duration": 2.58,
+      "text": "that allows them to perform their specific function.",
+      "en": "that allows them to perform their specific function.",
+      "zh": ""
+    },
+    {
+      "start": 567.27,
+      "duration": 3.45,
+      "text": "For instance, hemoglobin looks the same in humans, cats,",
+      "en": "For instance, hemoglobin looks the same in humans, cats,",
+      "zh": ""
+    },
+    {
+      "start": 570.72,
+      "duration": 2.43,
+      "text": "horses, and basically any mammal.",
+      "en": "horses, and basically any mammal.",
+      "zh": ""
+    },
+    {
+      "start": 573.15,
+      "duration": 3.12,
+      "text": "Evolution says, if it ain't broke, don't fix it.",
+      "en": "Evolution says, if it ain't broke, don't fix it.",
+      "zh": ""
+    },
+    {
+      "start": 576.27,
+      "duration": 1.68,
+      "text": "So we can compare sequences",
+      "en": "So we can compare sequences",
+      "zh": ""
+    },
+    {
+      "start": 577.95,
+      "duration": 2.22,
+      "text": "of the same protein across different species",
+      "en": "of the same protein across different species",
+      "zh": ""
+    },
+    {
+      "start": 580.17,
+      "duration": 1.62,
+      "text": "in this evolutionary table.",
+      "en": "in this evolutionary table.",
+      "zh": ""
+    },
+    {
+      "start": 582.66,
+      "duration": 1.53,
+      "text": "Where sequences are similar,",
+      "en": "Where sequences are similar,",
+      "zh": ""
+    },
+    {
+      "start": 584.19,
+      "duration": 1.68,
+      "text": "it's likely they are important",
+      "en": "it's likely they are important",
+      "zh": ""
+    },
+    {
+      "start": 585.87,
+      "duration": 2.25,
+      "text": "in the protein structure and function.",
+      "en": "in the protein structure and function.",
+      "zh": ""
+    },
+    {
+      "start": 588.12,
+      "duration": 2.04,
+      "text": "But even where the sequences are different,",
+      "en": "But even where the sequences are different,",
+      "zh": ""
+    },
+    {
+      "start": 590.16,
+      "duration": 3.93,
+      "text": "it's helpful to look at where mutations happen in pairs",
+      "en": "it's helpful to look at where mutations happen in pairs",
+      "zh": ""
+    },
+    {
+      "start": 594.09,
+      "duration": 2.61,
+      "text": "because they can identify which amino acids",
+      "en": "because they can identify which amino acids",
+      "zh": ""
+    },
+    {
+      "start": 596.7,
+      "duration": 2.85,
+      "text": "are close to each other in the final structure.",
+      "en": "are close to each other in the final structure.",
+      "zh": ""
+    },
+    {
+      "start": 599.55,
+      "duration": 3.21,
+      "text": "Say two amino acids, a positively charged lysine",
+      "en": "Say two amino acids, a positively charged lysine",
+      "zh": ""
+    },
+    {
+      "start": 602.76,
+      "duration": 2.94,
+      "text": "and a negatively charged glutamic acid attract",
+      "en": "and a negatively charged glutamic acid attract",
+      "zh": ""
+    },
+    {
+      "start": 605.7,
+      "duration": 2.91,
+      "text": "and hold each other in the folded protein.",
+      "en": "and hold each other in the folded protein.",
+      "zh": ""
+    },
+    {
+      "start": 608.61,
+      "duration": 2.19,
+      "text": "Now, if a mutation changes lysine",
+      "en": "Now, if a mutation changes lysine",
+      "zh": ""
+    },
+    {
+      "start": 610.8,
+      "duration": 2.28,
+      "text": "to a negatively charged amino acid,",
+      "en": "to a negatively charged amino acid,",
+      "zh": ""
+    },
+    {
+      "start": 613.08,
+      "duration": 1.98,
+      "text": "it would repel glutamic acid",
+      "en": "it would repel glutamic acid",
+      "zh": ""
+    },
+    {
+      "start": 615.06,
+      "duration": 2.19,
+      "text": "and destabilize the whole protein.",
+      "en": "and destabilize the whole protein.",
+      "zh": ""
+    },
+    {
+      "start": 617.25,
+      "duration": 3.3,
+      "text": "Therefore, another mutation must replace glutamic acid",
+      "en": "Therefore, another mutation must replace glutamic acid",
+      "zh": ""
+    },
+    {
+      "start": 620.55,
+      "duration": 2.79,
+      "text": "with a positively charged amino acid.",
+      "en": "with a positively charged amino acid.",
+      "zh": ""
+    },
+    {
+      "start": 623.34,
+      "duration": 2.52,
+      "text": "This is known as co-evolution.",
+      "en": "This is known as co-evolution.",
+      "zh": ""
+    },
+    {
+      "start": 625.86,
+      "duration": 1.35,
+      "text": "These evolutionary tables",
+      "en": "These evolutionary tables",
+      "zh": ""
+    },
+    {
+      "start": 627.21,
+      "duration": 2.52,
+      "text": "were an important input for AlphaFold.",
+      "en": "were an important input for AlphaFold.",
+      "zh": ""
+    },
+    {
+      "start": 631.62,
+      "duration": 3.63,
+      "text": "As output, instead of directly producing a 3D structure,",
+      "en": "As output, instead of directly producing a 3D structure,",
+      "zh": ""
+    },
+    {
+      "start": 635.25,
+      "duration": 3.51,
+      "text": "AlphaFold predicted a simpler 2D pair representation",
+      "en": "AlphaFold predicted a simpler 2D pair representation",
+      "zh": ""
+    },
+    {
+      "start": 638.76,
+      "duration": 1.26,
+      "text": "of that structure.",
+      "en": "of that structure.",
+      "zh": ""
+    },
+    {
+      "start": 640.02,
+      "duration": 1.53,
+      "text": "The amino acid sequence",
+      "en": "The amino acid sequence",
+      "zh": ""
+    },
+    {
+      "start": 641.55,
+      "duration": 2.43,
+      "text": "is laid out horizontally and vertically.",
+      "en": "is laid out horizontally and vertically.",
+      "zh": ""
+    },
+    {
+      "start": 643.98,
+      "duration": 1.89,
+      "text": "Whenever two amino acids are close",
+      "en": "Whenever two amino acids are close",
+      "zh": ""
+    },
+    {
+      "start": 645.87,
+      "duration": 1.53,
+      "text": "to each other in the final structure,",
+      "en": "to each other in the final structure,",
+      "zh": ""
+    },
+    {
+      "start": 647.4,
+      "duration": 3.15,
+      "text": "their corresponding row column intersection is bright.",
+      "en": "their corresponding row column intersection is bright.",
+      "zh": ""
+    },
+    {
+      "start": 652.29,
+      "duration": 2.31,
+      "text": "Distant amino acid pairs are dim.",
+      "en": "Distant amino acid pairs are dim.",
+      "zh": ""
+    },
+    {
+      "start": 656.94,
+      "duration": 1.23,
+      "text": "In addition to distances,",
+      "en": "In addition to distances,",
+      "zh": ""
+    },
+    {
+      "start": 658.17,
+      "duration": 2.43,
+      "text": "the pair representation can also hold information",
+      "en": "the pair representation can also hold information",
+      "zh": ""
+    },
+    {
+      "start": 660.6,
+      "duration": 2.52,
+      "text": "on how amino acid molecules are twisted",
+      "en": "on how amino acid molecules are twisted",
+      "zh": ""
+    },
+    {
+      "start": 663.12,
+      "duration": 1.05,
+      "text": "within the structure.",
+      "en": "within the structure.",
+      "zh": ""
+    },
+    {
+      "start": 665.13,
+      "duration": 2.1,
+      "text": "AlphaFold 1 fed the protein sequence",
+      "en": "AlphaFold 1 fed the protein sequence",
+      "zh": ""
+    },
+    {
+      "start": 667.23,
+      "duration": 3.09,
+      "text": "and its evolutionary table into its deep neural network,",
+      "en": "and its evolutionary table into its deep neural network,",
+      "zh": ""
+    },
+    {
+      "start": 670.32,
+      "duration": 2.85,
+      "text": "which it had trained to predict the pair representation.",
+      "en": "which it had trained to predict the pair representation.",
+      "zh": ""
+    },
+    {
+      "start": 674.01,
+      "duration": 2.49,
+      "text": "Once it had this, a separate algorithm folded",
+      "en": "Once it had this, a separate algorithm folded",
+      "zh": ""
+    },
+    {
+      "start": 676.5,
+      "duration": 1.59,
+      "text": "the amino acid string based",
+      "en": "the amino acid string based",
+      "zh": ""
+    },
+    {
+      "start": 678.09,
+      "duration": 2.55,
+      "text": "on the distance and torsion constraints.",
+      "en": "on the distance and torsion constraints.",
+      "zh": ""
+    },
+    {
+      "start": 680.64,
+      "duration": 2.73,
+      "text": "And this was the final protein structure prediction.",
+      "en": "And this was the final protein structure prediction.",
+      "zh": ""
+    },
+    {
+      "start": 684.48,
+      "duration": 3.63,
+      "text": "With this framework, AlphaFold entered CASP 13",
+      "en": "With this framework, AlphaFold entered CASP 13",
+      "zh": ""
+    },
+    {
+      "start": 688.11,
+      "duration": 2.97,
+      "text": "and it immediately turned heads.",
+      "en": "and it immediately turned heads.",
+      "zh": ""
+    },
+    {
+      "start": 691.08,
+      "duration": 3.6,
+      "text": "It was the clear winner after many additions,",
+      "en": "It was the clear winner after many additions,",
+      "zh": ""
+    },
+    {
+      "start": 694.68,
+      "duration": 2.04,
+      "text": "but it wasn't perfect.",
+      "en": "but it wasn't perfect.",
+      "zh": ""
+    },
+    {
+      "start": 696.72,
+      "duration": 1.89,
+      "text": "Its score of 70 was not enough",
+      "en": "Its score of 70 was not enough",
+      "zh": ""
+    },
+    {
+      "start": 698.61,
+      "duration": 2.13,
+      "text": "to clear the CASP threshold of 90.",
+      "en": "to clear the CASP threshold of 90.",
+      "zh": ""
+    },
+    {
+      "start": 702.6,
+      "duration": 2.16,
+      "text": "DeepMind needed to get back to the drawing board",
+      "en": "DeepMind needed to get back to the drawing board",
+      "zh": ""
+    },
+    {
+      "start": 704.76,
+      "duration": 1.38,
+      "text": "to get better results.",
+      "en": "to get better results.",
+      "zh": ""
+    },
+    {
+      "start": 706.14,
+      "duration": 3.06,
+      "text": "So Hassabis recruited John Jumper to lead AlphaFold.",
+      "en": "So Hassabis recruited John Jumper to lead AlphaFold.",
+      "zh": ""
+    },
+    {
+      "start": 710.08,
+      "duration": 2.9,
+      "text": "- AlphaFold 2 was really a system about designing",
+      "en": "- AlphaFold 2 was really a system about designing",
+      "zh": ""
+    },
+    {
+      "start": 712.98,
+      "duration": 1.14,
+      "text": "our deep learning.",
+      "en": "our deep learning.",
+      "zh": ""
+    },
+    {
+      "start": 714.12,
+      "duration": 3.09,
+      "text": "The individual blocks to be good at learning about proteins,",
+      "en": "The individual blocks to be good at learning about proteins,",
+      "zh": ""
+    },
+    {
+      "start": 717.21,
+      "duration": 4.11,
+      "text": "have the types of geometric physical, evolutionary concepts",
+      "en": "have the types of geometric physical, evolutionary concepts",
+      "zh": ""
+    },
+    {
+      "start": 721.32,
+      "duration": 2.31,
+      "text": "that were needed and put it into the middle of the network",
+      "en": "that were needed and put it into the middle of the network",
+      "zh": ""
+    },
+    {
+      "start": 723.63,
+      "duration": 1.23,
+      "text": "instead of a process around it.",
+      "en": "instead of a process around it.",
+      "zh": ""
+    },
+    {
+      "start": 724.86,
+      "duration": 2.52,
+      "text": "And that was a tremendous accuracy boost.",
+      "en": "And that was a tremendous accuracy boost.",
+      "zh": ""
+    },
+    {
+      "start": 727.38,
+      "duration": 3.66,
+      "text": "- [Derek] There were three key steps to get better results with AI.",
+      "en": "- [Derek] There were three key steps to get better results with AI.",
+      "zh": ""
+    },
+    {
+      "start": 731.04,
+      "duration": 2.64,
+      "text": "First, maximum compute power.",
+      "en": "First, maximum compute power.",
+      "zh": ""
+    },
+    {
+      "start": 733.68,
+      "duration": 2.25,
+      "text": "Here, DeepMind was already better positioned",
+      "en": "Here, DeepMind was already better positioned",
+      "zh": ""
+    },
+    {
+      "start": 735.93,
+      "duration": 2.25,
+      "text": "than anybody in the world.",
+      "en": "than anybody in the world.",
+      "zh": ""
+    },
+    {
+      "start": 738.18,
+      "duration": 2.88,
+      "text": "It had access to the enormous computing power of Google,",
+      "en": "It had access to the enormous computing power of Google,",
+      "zh": ""
+    },
+    {
+      "start": 741.06,
+      "duration": 2.25,
+      "text": "including their tensor processing units.",
+      "en": "including their tensor processing units.",
+      "zh": ""
+    },
+    {
+      "start": 744.18,
+      "duration": 3.48,
+      "text": "Second, they needed a large and diverse data set.",
+      "en": "Second, they needed a large and diverse data set.",
+      "zh": ""
+    },
+    {
+      "start": 747.66,
+      "duration": 3.54,
+      "text": "Is data the biggest roadblock and why?",
+      "en": "Is data the biggest roadblock and why?",
+      "zh": ""
+    },
+    {
+      "start": 751.2,
+      "duration": 2.76,
+      "text": "- I think it's too easy to say data's the roadblock",
+      "en": "- I think it's too easy to say data's the roadblock",
+      "zh": ""
+    },
+    {
+      "start": 753.96,
+      "duration": 0.83,
+      "text": "and we should be careful about it.",
+      "en": "and we should be careful about it.",
+      "zh": ""
+    },
+    {
+      "start": 754.79,
+      "duration": 2.95,
+      "text": "AlphaFold 2 was trained on the exact same data with much,",
+      "en": "AlphaFold 2 was trained on the exact same data with much,",
+      "zh": ""
+    },
+    {
+      "start": 757.74,
+      "duration": 3.69,
+      "text": "much better machine learning as AlphaFold 1.",
+      "en": "much better machine learning as AlphaFold 1.",
+      "zh": ""
+    },
+    {
+      "start": 761.43,
+      "duration": 2.73,
+      "text": "So everyone overestimates the data blockage",
+      "en": "So everyone overestimates the data blockage",
+      "zh": ""
+    },
+    {
+      "start": 764.16,
+      "duration": 4.68,
+      "text": "because it gets less severe with better machine learning.",
+      "en": "because it gets less severe with better machine learning.",
+      "zh": ""
+    },
+    {
+      "start": 768.84,
+      "duration": 4.17,
+      "text": "- [Derek] And that was the third key element, better AI algorithms.",
+      "en": "- [Derek] And that was the third key element, better AI algorithms.",
+      "zh": ""
+    },
+    {
+      "start": 773.01,
+      "duration": 3.03,
+      "text": "Now AI is not just good at protein folding.",
+      "en": "Now AI is not just good at protein folding.",
+      "zh": ""
+    },
+    {
+      "start": 776.04,
+      "duration": 1.71,
+      "text": "It can do all kinds of tasks",
+      "en": "It can do all kinds of tasks",
+      "zh": ""
+    },
+    {
+      "start": 777.75,
+      "duration": 2.1,
+      "text": "that no one likes from writing emails",
+      "en": "that no one likes from writing emails",
+      "zh": ""
+    },
+    {
+      "start": 779.85,
+      "duration": 1.77,
+      "text": "to answering phone calls.",
+      "en": "to answering phone calls.",
+      "zh": ""
+    },
+    {
+      "start": 781.62,
+      "duration": 3.33,
+      "text": "Something I hate is building and maintaining a website.",
+      "en": "Something I hate is building and maintaining a website.",
+      "zh": ""
+    },
+    {
+      "start": 784.95,
+      "duration": 2.73,
+      "text": "It's so much work from optimizing the website",
+      "en": "It's so much work from optimizing the website",
+      "zh": ""
+    },
+    {
+      "start": 787.68,
+      "duration": 2.22,
+      "text": "for different platforms, finding a good design",
+      "en": "for different platforms, finding a good design",
+      "zh": ""
+    },
+    {
+      "start": 789.9,
+      "duration": 2.94,
+      "text": "so it looks professional to constantly updating it",
+      "en": "so it looks professional to constantly updating it",
+      "zh": ""
+    },
+    {
+      "start": 792.84,
+      "duration": 3.42,
+      "text": "with new information about the business as it grows.",
+      "en": "with new information about the business as it grows.",
+      "zh": ""
+    },
+    {
+      "start": 796.26,
+      "duration": 2.01,
+      "text": "That's why we partnered with Hostinger,",
+      "en": "That's why we partnered with Hostinger,",
+      "zh": ""
+    },
+    {
+      "start": 798.27,
+      "duration": 2.1,
+      "text": "the sponsor of today's video.",
+      "en": "the sponsor of today's video.",
+      "zh": ""
+    },
+    {
+      "start": 800.37,
+      "duration": 2.61,
+      "text": "Hostinger makes it super easy to build a website",
+      "en": "Hostinger makes it super easy to build a website",
+      "zh": ""
+    },
+    {
+      "start": 802.98,
+      "duration": 1.41,
+      "text": "for yourself or your business.",
+      "en": "for yourself or your business.",
+      "zh": ""
+    },
+    {
+      "start": 804.39,
+      "duration": 3.63,
+      "text": "And with their advanced AI tools, you can simply describe",
+      "en": "And with their advanced AI tools, you can simply describe",
+      "zh": ""
+    },
+    {
+      "start": 808.02,
+      "duration": 2.07,
+      "text": "what you want your website to look like.",
+      "en": "what you want your website to look like.",
+      "zh": ""
+    },
+    {
+      "start": 810.09,
+      "duration": 1.17,
+      "text": "And in just a few seconds,",
+      "en": "And in just a few seconds,",
+      "zh": ""
+    },
+    {
+      "start": 811.26,
+      "duration": 2.91,
+      "text": "your personalized website is up and running.",
+      "en": "your personalized website is up and running.",
+      "zh": ""
+    },
+    {
+      "start": 814.17,
+      "duration": 2.7,
+      "text": "Hostinger is designed to be as easy as possible",
+      "en": "Hostinger is designed to be as easy as possible",
+      "zh": ""
+    },
+    {
+      "start": 816.87,
+      "duration": 1.65,
+      "text": "for beginners and professionals.",
+      "en": "for beginners and professionals.",
+      "zh": ""
+    },
+    {
+      "start": 818.52,
+      "duration": 1.71,
+      "text": "So any tweaks you need to make",
+      "en": "So any tweaks you need to make",
+      "zh": ""
+    },
+    {
+      "start": 820.23,
+      "duration": 2.1,
+      "text": "after that are super easy too.",
+      "en": "after that are super easy too.",
+      "zh": ""
+    },
+    {
+      "start": 822.33,
+      "duration": 1.56,
+      "text": "Just drag and drop any pictures",
+      "en": "Just drag and drop any pictures",
+      "zh": ""
+    },
+    {
+      "start": 823.89,
+      "duration": 2.22,
+      "text": "or videos you want, where you want them,",
+      "en": "or videos you want, where you want them,",
+      "zh": ""
+    },
+    {
+      "start": 826.11,
+      "duration": 2.07,
+      "text": "or just type what you want to say",
+      "en": "or just type what you want to say",
+      "zh": ""
+    },
+    {
+      "start": 828.18,
+      "duration": 1.77,
+      "text": "or have the AI help you here too,",
+      "en": "or have the AI help you here too,",
+      "zh": ""
+    },
+    {
+      "start": 829.95,
+      "duration": 1.74,
+      "text": "if writing isn't your thing either.",
+      "en": "if writing isn't your thing either.",
+      "zh": ""
+    },
+    {
+      "start": 831.69,
+      "duration": 2.13,
+      "text": "And if you still want that human touch, Hostinger",
+      "en": "And if you still want that human touch, Hostinger",
+      "zh": ""
+    },
+    {
+      "start": 833.82,
+      "duration": 1.14,
+      "text": "is always available",
+      "en": "is always available",
+      "zh": ""
+    },
+    {
+      "start": 834.96,
+      "duration": 3.03,
+      "text": "with 24/7 support if you ever run into any issues.",
+      "en": "with 24/7 support if you ever run into any issues.",
+      "zh": ""
+    },
+    {
+      "start": 837.99,
+      "duration": 1.98,
+      "text": "But when you're done building in just a few clicks,",
+      "en": "But when you're done building in just a few clicks,",
+      "zh": ""
+    },
+    {
+      "start": 839.97,
+      "duration": 1.77,
+      "text": "your website is live.",
+      "en": "your website is live.",
+      "zh": ""
+    },
+    {
+      "start": 841.74,
+      "duration": 2.55,
+      "text": "It's all incredibly affordable too, with a domain",
+      "en": "It's all incredibly affordable too, with a domain",
+      "zh": ""
+    },
+    {
+      "start": 844.29,
+      "duration": 2.43,
+      "text": "and business email included for free.",
+      "en": "and business email included for free.",
+      "zh": ""
+    },
+    {
+      "start": 846.72,
+      "duration": 2.07,
+      "text": "So to take your big idea online today,",
+      "en": "So to take your big idea online today,",
+      "zh": ""
+    },
+    {
+      "start": 848.79,
+      "duration": 5.0,
+      "text": "visit hostinger.com/ve or scan this QR code right here.",
+      "en": "visit hostinger.com/ve or scan this QR code right here.",
+      "zh": ""
+    },
+    {
+      "start": 853.95,
+      "duration": 3.33,
+      "text": "And when you sign up, remember to use code VE at checkout",
+      "en": "And when you sign up, remember to use code VE at checkout",
+      "zh": ""
+    },
+    {
+      "start": 857.28,
+      "duration": 2.01,
+      "text": "to get 10% off your plan.",
+      "en": "to get 10% off your plan.",
+      "zh": ""
+    },
+    {
+      "start": 859.29,
+      "duration": 1.62,
+      "text": "I wanna thank Hostinger for sponsoring",
+      "en": "I wanna thank Hostinger for sponsoring",
+      "zh": ""
+    },
+    {
+      "start": 860.91,
+      "duration": 0.96,
+      "text": "this part of the video.",
+      "en": "this part of the video.",
+      "zh": ""
+    },
+    {
+      "start": 861.87,
+      "duration": 1.86,
+      "text": "And now back to protein folding.",
+      "en": "And now back to protein folding.",
+      "zh": ""
+    },
+    {
+      "start": 864.66,
+      "duration": 2.88,
+      "text": "As the AlphaFold 2 team searched for better algorithms,",
+      "en": "As the AlphaFold 2 team searched for better algorithms,",
+      "zh": ""
+    },
+    {
+      "start": 867.54,
+      "duration": 1.8,
+      "text": "they turned to the transformer.",
+      "en": "they turned to the transformer.",
+      "zh": ""
+    },
+    {
+      "start": 869.34,
+      "duration": 2.61,
+      "text": "That's the T in ChatGPT.",
+      "en": "That's the T in ChatGPT.",
+      "zh": ""
+    },
+    {
+      "start": 871.95,
+      "duration": 3.15,
+      "text": "And it relies on a concept called attention.",
+      "en": "And it relies on a concept called attention.",
+      "zh": ""
+    },
+    {
+      "start": 875.1,
+      "duration": 0.83,
+      "text": "In the sentence,",
+      "en": "In the sentence,",
+      "zh": ""
+    },
+    {
+      "start": 875.93,
+      "duration": 3.52,
+      "text": "the animal didn't cross the street because it was too tired.",
+      "en": "the animal didn't cross the street because it was too tired.",
+      "zh": ""
+    },
+    {
+      "start": 879.45,
+      "duration": 2.85,
+      "text": "Attention recognizes that it refers to animal",
+      "en": "Attention recognizes that it refers to animal",
+      "zh": ""
+    },
+    {
+      "start": 882.3,
+      "duration": 3.45,
+      "text": "and not street based on the word tired.",
+      "en": "and not street based on the word tired.",
+      "zh": ""
+    },
+    {
+      "start": 885.75,
+      "duration": 3.63,
+      "text": "Attention adds context to any kind of sequential information",
+      "en": "Attention adds context to any kind of sequential information",
+      "zh": ""
+    },
+    {
+      "start": 889.38,
+      "duration": 2.13,
+      "text": "by breaking it down into chunks,",
+      "en": "by breaking it down into chunks,",
+      "zh": ""
+    },
+    {
+      "start": 891.51,
+      "duration": 2.22,
+      "text": "converting these into numerical representations",
+      "en": "converting these into numerical representations",
+      "zh": ""
+    },
+    {
+      "start": 893.73,
+      "duration": 3.18,
+      "text": "or embeddings and making connections between them.",
+      "en": "or embeddings and making connections between them.",
+      "zh": ""
+    },
+    {
+      "start": 896.91,
+      "duration": 3.12,
+      "text": "In this case, the word it and animal.",
+      "en": "In this case, the word it and animal.",
+      "zh": ""
+    },
+    {
+      "start": 900.03,
+      "duration": 1.83,
+      "text": "3Blue1Brown has a great series",
+      "en": "3Blue1Brown has a great series",
+      "zh": ""
+    },
+    {
+      "start": 901.86,
+      "duration": 3.21,
+      "text": "of videos specifically about transformers and attention.",
+      "en": "of videos specifically about transformers and attention.",
+      "zh": ""
+    },
+    {
+      "start": 906.21,
+      "duration": 1.74,
+      "text": "Large language models use attention",
+      "en": "Large language models use attention",
+      "zh": ""
+    },
+    {
+      "start": 907.95,
+      "duration": 2.91,
+      "text": "to predict the most appropriate word to add to a sentence,",
+      "en": "to predict the most appropriate word to add to a sentence,",
+      "zh": ""
+    },
+    {
+      "start": 910.86,
+      "duration": 2.88,
+      "text": "but AlphaFold also has sequential information,",
+      "en": "but AlphaFold also has sequential information,",
+      "zh": ""
+    },
+    {
+      "start": 913.74,
+      "duration": 3.36,
+      "text": "not sentences, but amino acid sequences.",
+      "en": "not sentences, but amino acid sequences.",
+      "zh": ""
+    },
+    {
+      "start": 917.1,
+      "duration": 1.05,
+      "text": "And to analyze them,",
+      "en": "And to analyze them,",
+      "zh": ""
+    },
+    {
+      "start": 918.15,
+      "duration": 2.31,
+      "text": "the AlphaFold team built their own version",
+      "en": "the AlphaFold team built their own version",
+      "zh": ""
+    },
+    {
+      "start": 920.46,
+      "duration": 2.61,
+      "text": "of the transformer called an EVO Former.",
+      "en": "of the transformer called an EVO Former.",
+      "zh": ""
+    },
+    {
+      "start": 924.09,
+      "duration": 2.7,
+      "text": "The EVO Former contained two towers,",
+      "en": "The EVO Former contained two towers,",
+      "zh": ""
+    },
+    {
+      "start": 926.79,
+      "duration": 2.73,
+      "text": "evolutionary information in the biology tower",
+      "en": "evolutionary information in the biology tower",
+      "zh": ""
+    },
+    {
+      "start": 929.52,
+      "duration": 3.57,
+      "text": "and pair representations in the geometry tower.",
+      "en": "and pair representations in the geometry tower.",
+      "zh": ""
+    },
+    {
+      "start": 933.09,
+      "duration": 3.09,
+      "text": "Gone was AlphaFold 1's deep neural network that started",
+      "en": "Gone was AlphaFold 1's deep neural network that started",
+      "zh": ""
+    },
+    {
+      "start": 936.18,
+      "duration": 2.22,
+      "text": "with one tower and predicted the other.",
+      "en": "with one tower and predicted the other.",
+      "zh": ""
+    },
+    {
+      "start": 938.4,
+      "duration": 2.22,
+      "text": "Instead, AlphaFold 2's EVO Former",
+      "en": "Instead, AlphaFold 2's EVO Former",
+      "zh": ""
+    },
+    {
+      "start": 940.62,
+      "duration": 1.86,
+      "text": "builds each tower separately.",
+      "en": "builds each tower separately.",
+      "zh": ""
+    },
+    {
+      "start": 942.48,
+      "duration": 2.07,
+      "text": "It starts with some initial guesses,",
+      "en": "It starts with some initial guesses,",
+      "zh": ""
+    },
+    {
+      "start": 944.55,
+      "duration": 3.6,
+      "text": "evolutionary tables taken from known data sets as before,",
+      "en": "evolutionary tables taken from known data sets as before,",
+      "zh": ""
+    },
+    {
+      "start": 948.15,
+      "duration": 1.41,
+      "text": "and the pair representations",
+      "en": "and the pair representations",
+      "zh": ""
+    },
+    {
+      "start": 949.56,
+      "duration": 2.4,
+      "text": "based on similar known proteins.",
+      "en": "based on similar known proteins.",
+      "zh": ""
+    },
+    {
+      "start": 951.96,
+      "duration": 2.73,
+      "text": "And this time there's a bridge connecting the two towers",
+      "en": "And this time there's a bridge connecting the two towers",
+      "zh": ""
+    },
+    {
+      "start": 954.69,
+      "duration": 3.66,
+      "text": "that conveys newly found biological and geometry clues",
+      "en": "that conveys newly found biological and geometry clues",
+      "zh": ""
+    },
+    {
+      "start": 958.35,
+      "duration": 1.68,
+      "text": "back and forth.",
+      "en": "back and forth.",
+      "zh": ""
+    },
+    {
+      "start": 960.03,
+      "duration": 1.23,
+      "text": "In the biology tower,",
+      "en": "In the biology tower,",
+      "zh": ""
+    },
+    {
+      "start": 961.26,
+      "duration": 2.13,
+      "text": "attention applied on a column identifies",
+      "en": "attention applied on a column identifies",
+      "zh": ""
+    },
+    {
+      "start": 963.39,
+      "duration": 3.15,
+      "text": "amino acid sequences that have been conserved.",
+      "en": "amino acid sequences that have been conserved.",
+      "zh": ""
+    },
+    {
+      "start": 966.54,
+      "duration": 2.85,
+      "text": "While along a row, it finds amino acid mutations",
+      "en": "While along a row, it finds amino acid mutations",
+      "zh": ""
+    },
+    {
+      "start": 969.39,
+      "duration": 1.68,
+      "text": "that have occurred together.",
+      "en": "that have occurred together.",
+      "zh": ""
+    },
+    {
+      "start": 971.07,
+      "duration": 3.42,
+      "text": "Whenever the EVO Former finds too closely linked amino acids",
+      "en": "Whenever the EVO Former finds too closely linked amino acids",
+      "zh": ""
+    },
+    {
+      "start": 974.49,
+      "duration": 1.41,
+      "text": "in the evolutionary table.",
+      "en": "in the evolutionary table.",
+      "zh": ""
+    },
+    {
+      "start": 975.9,
+      "duration": 2.31,
+      "text": "It means they are important to structure",
+      "en": "It means they are important to structure",
+      "zh": ""
+    },
+    {
+      "start": 978.21,
+      "duration": 2.7,
+      "text": "and it sends this information to the geometry tower.",
+      "en": "and it sends this information to the geometry tower.",
+      "zh": ""
+    },
+    {
+      "start": 980.91,
+      "duration": 1.53,
+      "text": "Here attention is applied",
+      "en": "Here attention is applied",
+      "zh": ""
+    },
+    {
+      "start": 982.44,
+      "duration": 2.97,
+      "text": "to help calculate distances between amino acids.",
+      "en": "to help calculate distances between amino acids.",
+      "zh": ""
+    },
+    {
+      "start": 985.41,
+      "duration": 3.18,
+      "text": "- There's also this thing called triangular attention",
+      "en": "- There's also this thing called triangular attention",
+      "zh": ""
+    },
+    {
+      "start": 988.59,
+      "duration": 1.68,
+      "text": "that got introduced,",
+      "en": "that got introduced,",
+      "zh": ""
+    },
+    {
+      "start": 990.27,
+      "duration": 1.14,
+      "text": "which is essentially about letting",
+      "en": "which is essentially about letting",
+      "zh": ""
+    },
+    {
+      "start": 991.41,
+      "duration": 1.86,
+      "text": "triplets attend to each other.",
+      "en": "triplets attend to each other.",
+      "zh": ""
+    },
+    {
+      "start": 993.27,
+      "duration": 1.89,
+      "text": "- [Derek] For each triplet of amino acids,",
+      "en": "- [Derek] For each triplet of amino acids,",
+      "zh": ""
+    },
+    {
+      "start": 995.16,
+      "duration": 2.76,
+      "text": "AlphaFold applies the triangle inequality.",
+      "en": "AlphaFold applies the triangle inequality.",
+      "zh": ""
+    },
+    {
+      "start": 997.92,
+      "duration": 3.57,
+      "text": "The sum of two sides must be greater than the third.",
+      "en": "The sum of two sides must be greater than the third.",
+      "zh": ""
+    },
+    {
+      "start": 1001.49,
+      "duration": 1.83,
+      "text": "This constrains how far apart",
+      "en": "This constrains how far apart",
+      "zh": ""
+    },
+    {
+      "start": 1003.32,
+      "duration": 2.52,
+      "text": "these three amino acids can be.",
+      "en": "these three amino acids can be.",
+      "zh": ""
+    },
+    {
+      "start": 1005.84,
+      "duration": 3.48,
+      "text": "This information is used to update the pair representation,",
+      "en": "This information is used to update the pair representation,",
+      "zh": ""
+    },
+    {
+      "start": 1009.32,
+      "duration": 2.13,
+      "text": "- And that helps the model produce like",
+      "en": "- And that helps the model produce like",
+      "zh": ""
+    },
+    {
+      "start": 1011.45,
+      "duration": 2.39,
+      "text": "a self-consistent picture of the structure.",
+      "en": "a self-consistent picture of the structure.",
+      "zh": ""
+    },
+    {
+      "start": 1013.84,
+      "duration": 2.5,
+      "text": "- [Derek] If the geometry tower finds it's impossible",
+      "en": "- [Derek] If the geometry tower finds it's impossible",
+      "zh": ""
+    },
+    {
+      "start": 1016.34,
+      "duration": 2.34,
+      "text": "for two amino acids to be close to each other,",
+      "en": "for two amino acids to be close to each other,",
+      "zh": ""
+    },
+    {
+      "start": 1018.68,
+      "duration": 1.35,
+      "text": "then it tells the first tower",
+      "en": "then it tells the first tower",
+      "zh": ""
+    },
+    {
+      "start": 1020.03,
+      "duration": 3.48,
+      "text": "to ignore their relationship in the evolutionary table.",
+      "en": "to ignore their relationship in the evolutionary table.",
+      "zh": ""
+    },
+    {
+      "start": 1023.51,
+      "duration": 2.64,
+      "text": "This exchange of information within the EVO Former",
+      "en": "This exchange of information within the EVO Former",
+      "zh": ""
+    },
+    {
+      "start": 1026.15,
+      "duration": 1.92,
+      "text": "goes on for 48 times,",
+      "en": "goes on for 48 times,",
+      "zh": ""
+    },
+    {
+      "start": 1028.07,
+      "duration": 3.18,
+      "text": "until information within both towers is refined.",
+      "en": "until information within both towers is refined.",
+      "zh": ""
+    },
+    {
+      "start": 1031.25,
+      "duration": 2.19,
+      "text": "The geometrical features learned by this network",
+      "en": "The geometrical features learned by this network",
+      "zh": ""
+    },
+    {
+      "start": 1033.44,
+      "duration": 3.72,
+      "text": "are passed onto AlphaFold 2's second main innovation,",
+      "en": "are passed onto AlphaFold 2's second main innovation,",
+      "zh": ""
+    },
+    {
+      "start": 1037.16,
+      "duration": 1.59,
+      "text": "the structure module.",
+      "en": "the structure module.",
+      "zh": ""
+    },
+    {
+      "start": 1038.75,
+      "duration": 1.17,
+      "text": "- For each amino acid,",
+      "en": "- For each amino acid,",
+      "zh": ""
+    },
+    {
+      "start": 1039.92,
+      "duration": 3.06,
+      "text": "we pick three special atoms in the amino acid",
+      "en": "we pick three special atoms in the amino acid",
+      "zh": ""
+    },
+    {
+      "start": 1042.98,
+      "duration": 1.59,
+      "text": "and say that those define a frame.",
+      "en": "and say that those define a frame.",
+      "zh": ""
+    },
+    {
+      "start": 1044.57,
+      "duration": 2.1,
+      "text": "And what the network does is it imagines",
+      "en": "And what the network does is it imagines",
+      "zh": ""
+    },
+    {
+      "start": 1046.67,
+      "duration": 2.49,
+      "text": "that all the amino acids start out with the origin",
+      "en": "that all the amino acids start out with the origin",
+      "zh": ""
+    },
+    {
+      "start": 1049.16,
+      "duration": 2.07,
+      "text": "and it has to predict the appropriate translation",
+      "en": "and it has to predict the appropriate translation",
+      "zh": ""
+    },
+    {
+      "start": 1051.23,
+      "duration": 2.07,
+      "text": "and rotation to move these frames",
+      "en": "and rotation to move these frames",
+      "zh": ""
+    },
+    {
+      "start": 1053.3,
+      "duration": 1.74,
+      "text": "to where they sit in the real structure.",
+      "en": "to where they sit in the real structure.",
+      "zh": ""
+    },
+    {
+      "start": 1055.04,
+      "duration": 2.13,
+      "text": "So that's essentially what the structure module does.",
+      "en": "So that's essentially what the structure module does.",
+      "zh": ""
+    },
+    {
+      "start": 1057.17,
+      "duration": 2.82,
+      "text": "- But the thing that sets the structure module apart",
+      "en": "- But the thing that sets the structure module apart",
+      "zh": ""
+    },
+    {
+      "start": 1059.99,
+      "duration": 1.89,
+      "text": "is what it doesn't do.",
+      "en": "is what it doesn't do.",
+      "zh": ""
+    },
+    {
+      "start": 1061.88,
+      "duration": 2.25,
+      "text": "- Previously, people might have imagined that you would",
+      "en": "- Previously, people might have imagined that you would",
+      "zh": ""
+    },
+    {
+      "start": 1064.13,
+      "duration": 3.36,
+      "text": "like to encode the fact that this is a chain, you know,",
+      "en": "like to encode the fact that this is a chain, you know,",
+      "zh": ""
+    },
+    {
+      "start": 1067.49,
+      "duration": 3.3,
+      "text": "and that certain residue should sit next to each other.",
+      "en": "and that certain residue should sit next to each other.",
+      "zh": ""
+    },
+    {
+      "start": 1070.79,
+      "duration": 2.43,
+      "text": "We don't really explicitly tell AlphaFold that.",
+      "en": "We don't really explicitly tell AlphaFold that.",
+      "zh": ""
+    },
+    {
+      "start": 1073.22,
+      "duration": 3.0,
+      "text": "It's more like we give it a bag of amino acids",
+      "en": "It's more like we give it a bag of amino acids",
+      "zh": ""
+    },
+    {
+      "start": 1076.22,
+      "duration": 2.55,
+      "text": "and it's allowed to position each of them separately.",
+      "en": "and it's allowed to position each of them separately.",
+      "zh": ""
+    },
+    {
+      "start": 1078.77,
+      "duration": 3.27,
+      "text": "And some people have thought that that helps it",
+      "en": "And some people have thought that that helps it",
+      "zh": ""
+    },
+    {
+      "start": 1082.04,
+      "duration": 3.48,
+      "text": "to not get stuck in terms of where things should be placed.",
+      "en": "to not get stuck in terms of where things should be placed.",
+      "zh": ""
+    },
+    {
+      "start": 1085.52,
+      "duration": 1.86,
+      "text": "It doesn't have to always be thinking about the constraint",
+      "en": "It doesn't have to always be thinking about the constraint",
+      "zh": ""
+    },
+    {
+      "start": 1087.38,
+      "duration": 1.65,
+      "text": "of these things forming a chain,",
+      "en": "of these things forming a chain,",
+      "zh": ""
+    },
+    {
+      "start": 1089.03,
+      "duration": 2.61,
+      "text": "that's something that emerges naturally later.",
+      "en": "that's something that emerges naturally later.",
+      "zh": ""
+    },
+    {
+      "start": 1091.64,
+      "duration": 2.34,
+      "text": "- [Derek] That's why live AlphaFold folding videos",
+      "en": "- [Derek] That's why live AlphaFold folding videos",
+      "zh": ""
+    },
+    {
+      "start": 1093.98,
+      "duration": 3.51,
+      "text": "can show it doing some weirdly non-physical stuff.",
+      "en": "can show it doing some weirdly non-physical stuff.",
+      "zh": ""
+    },
+    {
+      "start": 1100.07,
+      "duration": 2.91,
+      "text": "The structure module outputs a 3D protein,",
+      "en": "The structure module outputs a 3D protein,",
+      "zh": ""
+    },
+    {
+      "start": 1102.98,
+      "duration": 1.89,
+      "text": "but it still isn't ready.",
+      "en": "but it still isn't ready.",
+      "zh": ""
+    },
+    {
+      "start": 1104.87,
+      "duration": 2.13,
+      "text": "It's recycled at least three more times",
+      "en": "It's recycled at least three more times",
+      "zh": ""
+    },
+    {
+      "start": 1107.0,
+      "duration": 2.58,
+      "text": "through the Evo Former to gain a deeper understanding",
+      "en": "through the Evo Former to gain a deeper understanding",
+      "zh": ""
+    },
+    {
+      "start": 1109.58,
+      "duration": 3.75,
+      "text": "of the protein only then the final prediction is made.",
+      "en": "of the protein only then the final prediction is made.",
+      "zh": ""
+    },
+    {
+      "start": 1115.49,
+      "duration": 3.87,
+      "text": "In December, 2020, DeepMind returned to a virtual CASP",
+      "en": "In December, 2020, DeepMind returned to a virtual CASP",
+      "zh": ""
+    },
+    {
+      "start": 1119.36,
+      "duration": 4.56,
+      "text": "with AlphaFold 2, and this time they did it.",
+      "en": "with AlphaFold 2, and this time they did it.",
+      "zh": ""
+    },
+    {
+      "start": 1123.92,
+      "duration": 2.62,
+      "text": "- I'm going to read an email from John Moult.",
+      "en": "- I'm going to read an email from John Moult.",
+      "zh": ""
+    },
+    {
+      "start": 1126.54,
+      "duration": 3.8,
+      "text": "\"Your group has performed amazingly well in CASP 14,",
+      "en": "\"Your group has performed amazingly well in CASP 14,",
+      "zh": ""
+    },
+    {
+      "start": 1130.34,
+      "duration": 2.01,
+      "text": "both relative to other groups",
+      "en": "both relative to other groups",
+      "zh": ""
+    },
+    {
+      "start": 1132.35,
+      "duration": 2.49,
+      "text": "and in absolute model accuracy.",
+      "en": "and in absolute model accuracy.",
+      "zh": ""
+    },
+    {
+      "start": 1134.84,
+      "duration": 2.61,
+      "text": "Congratulations on this work.\"",
+      "en": "Congratulations on this work.\"",
+      "zh": ""
+    },
+    {
+      "start": 1137.45,
+      "duration": 2.64,
+      "text": "- [Derek] For many proteins, AlphaFold 2 predictions",
+      "en": "- [Derek] For many proteins, AlphaFold 2 predictions",
+      "zh": ""
+    },
+    {
+      "start": 1140.09,
+      "duration": 3.84,
+      "text": "were virtually indistinguishable from the actual structures",
+      "en": "were virtually indistinguishable from the actual structures",
+      "zh": ""
+    },
+    {
+      "start": 1143.93,
+      "duration": 3.39,
+      "text": "and they finally beat the gold standard score of 90.",
+      "en": "and they finally beat the gold standard score of 90.",
+      "zh": ""
+    },
+    {
+      "start": 1150.47,
+      "duration": 3.0,
+      "text": "- For me, having worked on this problem so long,",
+      "en": "- For me, having worked on this problem so long,",
+      "zh": ""
+    },
+    {
+      "start": 1153.47,
+      "duration": 2.58,
+      "text": "after many, many stops and starts,",
+      "en": "after many, many stops and starts,",
+      "zh": ""
+    },
+    {
+      "start": 1156.05,
+      "duration": 1.83,
+      "text": "and suddenly this is a solution.",
+      "en": "and suddenly this is a solution.",
+      "zh": ""
+    },
+    {
+      "start": 1157.88,
+      "duration": 1.56,
+      "text": "We'd solved the problem.",
+      "en": "We'd solved the problem.",
+      "zh": ""
+    },
+    {
+      "start": 1159.44,
+      "duration": 3.84,
+      "text": "This gives you such excitement about the way science works.",
+      "en": "This gives you such excitement about the way science works.",
+      "zh": ""
+    },
+    {
+      "start": 1163.28,
+      "duration": 2.82,
+      "text": "- [Derek] Over six decades, all of the scientists working",
+      "en": "- [Derek] Over six decades, all of the scientists working",
+      "zh": ""
+    },
+    {
+      "start": 1166.1,
+      "duration": 2.91,
+      "text": "around the world on proteins painstakingly found",
+      "en": "around the world on proteins painstakingly found",
+      "zh": ""
+    },
+    {
+      "start": 1169.01,
+      "duration": 3.66,
+      "text": "about 150,000 protein structures.",
+      "en": "about 150,000 protein structures.",
+      "zh": ""
+    },
+    {
+      "start": 1172.67,
+      "duration": 3.27,
+      "text": "Then in one fell swoop, AlphaFold came in",
+      "en": "Then in one fell swoop, AlphaFold came in",
+      "zh": ""
+    },
+    {
+      "start": 1175.94,
+      "duration": 3.69,
+      "text": "and unveiled over 200 million of them.",
+      "en": "and unveiled over 200 million of them.",
+      "zh": ""
+    },
+    {
+      "start": 1179.63,
+      "duration": 3.99,
+      "text": "Nearly all proteins known to exist in nature.",
+      "en": "Nearly all proteins known to exist in nature.",
+      "zh": ""
+    },
+    {
+      "start": 1183.62,
+      "duration": 3.15,
+      "text": "In just a few months, AlphaFold advanced the work",
+      "en": "In just a few months, AlphaFold advanced the work",
+      "zh": ""
+    },
+    {
+      "start": 1186.77,
+      "duration": 3.27,
+      "text": "of research labs worldwide by several decades.",
+      "en": "of research labs worldwide by several decades.",
+      "zh": ""
+    },
+    {
+      "start": 1191.03,
+      "duration": 3.99,
+      "text": "It has directly helped us develop a vaccine for malaria.",
+      "en": "It has directly helped us develop a vaccine for malaria.",
+      "zh": ""
+    },
+    {
+      "start": 1195.02,
+      "duration": 2.07,
+      "text": "It's made possible the breaking down",
+      "en": "It's made possible the breaking down",
+      "zh": ""
+    },
+    {
+      "start": 1197.09,
+      "duration": 1.98,
+      "text": "of antibiotic resistance enzymes,",
+      "en": "of antibiotic resistance enzymes,",
+      "zh": ""
+    },
+    {
+      "start": 1199.07,
+      "duration": 3.27,
+      "text": "which make many life-saving drugs effective again.",
+      "en": "which make many life-saving drugs effective again.",
+      "zh": ""
+    },
+    {
+      "start": 1202.34,
+      "duration": 1.2,
+      "text": "It's even helped us understand",
+      "en": "It's even helped us understand",
+      "zh": ""
+    },
+    {
+      "start": 1203.54,
+      "duration": 1.29,
+      "text": "how protein mutations lead",
+      "en": "how protein mutations lead",
+      "zh": ""
+    },
+    {
+      "start": 1204.83,
+      "duration": 2.97,
+      "text": "to various diseases from schizophrenia to cancer,",
+      "en": "to various diseases from schizophrenia to cancer,",
+      "zh": ""
+    },
+    {
+      "start": 1207.8,
+      "duration": 1.89,
+      "text": "and biologists studying little known",
+      "en": "and biologists studying little known",
+      "zh": ""
+    },
+    {
+      "start": 1209.69,
+      "duration": 1.95,
+      "text": "and endangered species suddenly",
+      "en": "and endangered species suddenly",
+      "zh": ""
+    },
+    {
+      "start": 1211.64,
+      "duration": 3.12,
+      "text": "had access to proteins and their life mechanism.",
+      "en": "had access to proteins and their life mechanism.",
+      "zh": ""
+    },
+    {
+      "start": 1215.63,
+      "duration": 4.11,
+      "text": "The AlphaFold 2 paper has been cited over 30,000 times.",
+      "en": "The AlphaFold 2 paper has been cited over 30,000 times.",
+      "zh": ""
+    },
+    {
+      "start": 1219.74,
+      "duration": 2.58,
+      "text": "It has truly made a step function leap",
+      "en": "It has truly made a step function leap",
+      "zh": ""
+    },
+    {
+      "start": 1222.32,
+      "duration": 1.59,
+      "text": "in our understanding of life.",
+      "en": "in our understanding of life.",
+      "zh": ""
+    },
+    {
+      "start": 1224.87,
+      "duration": 2.67,
+      "text": "John Jumper and Demis Hassabis were awarded one half",
+      "en": "John Jumper and Demis Hassabis were awarded one half",
+      "zh": ""
+    },
+    {
+      "start": 1227.54,
+      "duration": 3.36,
+      "text": "of the 2024 Nobel Prize in chemistry for this breakthrough.",
+      "en": "of the 2024 Nobel Prize in chemistry for this breakthrough.",
+      "zh": ""
+    },
+    {
+      "start": 1230.9,
+      "duration": 2.1,
+      "text": "The other half went to David Baker,",
+      "en": "The other half went to David Baker,",
+      "zh": ""
+    },
+    {
+      "start": 1233.0,
+      "duration": 2.7,
+      "text": "but not for predicting structures using Rosetta.",
+      "en": "but not for predicting structures using Rosetta.",
+      "zh": ""
+    },
+    {
+      "start": 1235.7,
+      "duration": 1.71,
+      "text": "Instead, it was for designing",
+      "en": "Instead, it was for designing",
+      "zh": ""
+    },
+    {
+      "start": 1237.41,
+      "duration": 2.76,
+      "text": "completely new proteins from scratch.",
+      "en": "completely new proteins from scratch.",
+      "zh": ""
+    },
+    {
+      "start": 1240.17,
+      "duration": 2.07,
+      "text": "- It was really hard to make brand new proteins",
+      "en": "- It was really hard to make brand new proteins",
+      "zh": ""
+    },
+    {
+      "start": 1242.24,
+      "duration": 1.08,
+      "text": "that would do things.",
+      "en": "that would do things.",
+      "zh": ""
+    },
+    {
+      "start": 1243.32,
+      "duration": 2.19,
+      "text": "And so that's kind of the problem that we solved.",
+      "en": "And so that's kind of the problem that we solved.",
+      "zh": ""
+    },
+    {
+      "start": 1245.51,
+      "duration": 3.12,
+      "text": "- To do so, he uses the same kind of generative AI",
+      "en": "- To do so, he uses the same kind of generative AI",
+      "zh": ""
+    },
+    {
+      "start": 1248.63,
+      "duration": 3.0,
+      "text": "that makes art in programs like Dall-E.",
+      "en": "that makes art in programs like Dall-E.",
+      "zh": ""
+    },
+    {
+      "start": 1251.63,
+      "duration": 1.14,
+      "text": "- You can say draw a picture",
+      "en": "- You can say draw a picture",
+      "zh": ""
+    },
+    {
+      "start": 1252.77,
+      "duration": 1.44,
+      "text": "of a kangaroo riding on a rabbit",
+      "en": "of a kangaroo riding on a rabbit",
+      "zh": ""
+    },
+    {
+      "start": 1254.21,
+      "duration": 2.42,
+      "text": "or something, and it will do that.",
+      "en": "or something, and it will do that.",
+      "zh": ""
+    },
+    {
+      "start": 1256.63,
+      "duration": 1.93,
+      "text": "And so it's exactly what we did with proteins.",
+      "en": "And so it's exactly what we did with proteins.",
+      "zh": ""
+    },
+    {
+      "start": 1258.56,
+      "duration": 3.12,
+      "text": "- His technique called \"RF Diffusion\" is trained",
+      "en": "- His technique called \"RF Diffusion\" is trained",
+      "zh": ""
+    },
+    {
+      "start": 1261.68,
+      "duration": 3.12,
+      "text": "by adding random noise to a known protein structure,",
+      "en": "by adding random noise to a known protein structure,",
+      "zh": ""
+    },
+    {
+      "start": 1264.8,
+      "duration": 3.03,
+      "text": "and then the AI has to remove this noise.",
+      "en": "and then the AI has to remove this noise.",
+      "zh": ""
+    },
+    {
+      "start": 1267.83,
+      "duration": 2.46,
+      "text": "Once trained in this way, the AI can be asked",
+      "en": "Once trained in this way, the AI can be asked",
+      "zh": ""
+    },
+    {
+      "start": 1270.29,
+      "duration": 2.37,
+      "text": "to produce proteins for various functions.",
+      "en": "to produce proteins for various functions.",
+      "zh": ""
+    },
+    {
+      "start": 1272.66,
+      "duration": 2.1,
+      "text": "It's given a random noise input,",
+      "en": "It's given a random noise input,",
+      "zh": ""
+    },
+    {
+      "start": 1274.76,
+      "duration": 2.97,
+      "text": "and the AI figures out a brand new protein",
+      "en": "and the AI figures out a brand new protein",
+      "zh": ""
+    },
+    {
+      "start": 1277.73,
+      "duration": 1.7,
+      "text": "that does what you asked it to do.",
+      "en": "that does what you asked it to do.",
+      "zh": ""
+    },
+    {
+      "start": 1280.4,
+      "duration": 2.55,
+      "text": "This work has huge implications.",
+      "en": "This work has huge implications.",
+      "zh": ""
+    },
+    {
+      "start": 1282.95,
+      "duration": 2.87,
+      "text": "I mean, imagine you got bitten by a venomous snake.",
+      "en": "I mean, imagine you got bitten by a venomous snake.",
+      "zh": ""
+    },
+    {
+      "start": 1285.82,
+      "duration": 3.25,
+      "text": "If you're lucky, you'll have access to anti-venom prepared",
+      "en": "If you're lucky, you'll have access to anti-venom prepared",
+      "zh": ""
+    },
+    {
+      "start": 1289.07,
+      "duration": 3.06,
+      "text": "by milking venom from the exact kind of snake,",
+      "en": "by milking venom from the exact kind of snake,",
+      "zh": ""
+    },
+    {
+      "start": 1292.13,
+      "duration": 2.97,
+      "text": "which is then injected into live animals,",
+      "en": "which is then injected into live animals,",
+      "zh": ""
+    },
+    {
+      "start": 1295.1,
+      "duration": 2.7,
+      "text": "and the antibodies from that animal are extracted",
+      "en": "and the antibodies from that animal are extracted",
+      "zh": ""
+    },
+    {
+      "start": 1297.8,
+      "duration": 3.81,
+      "text": "and refined and then given to you as an anti-venom.",
+      "en": "and refined and then given to you as an anti-venom.",
+      "zh": ""
+    },
+    {
+      "start": 1301.61,
+      "duration": 2.73,
+      "text": "The trouble is often people have allergic reactions",
+      "en": "The trouble is often people have allergic reactions",
+      "zh": ""
+    },
+    {
+      "start": 1304.34,
+      "duration": 2.55,
+      "text": "to these antibodies from other organisms.",
+      "en": "to these antibodies from other organisms.",
+      "zh": ""
+    },
+    {
+      "start": 1306.89,
+      "duration": 1.89,
+      "text": "But your odds of survival can be a lot better",
+      "en": "But your odds of survival can be a lot better",
+      "zh": ""
+    },
+    {
+      "start": 1308.78,
+      "duration": 3.42,
+      "text": "with the latest synthetic proteins designed in Baker's lab.",
+      "en": "with the latest synthetic proteins designed in Baker's lab.",
+      "zh": ""
+    },
+    {
+      "start": 1312.2,
+      "duration": 2.37,
+      "text": "They've created human compatible antibodies",
+      "en": "They've created human compatible antibodies",
+      "zh": ""
+    },
+    {
+      "start": 1314.57,
+      "duration": 2.55,
+      "text": "that can neutralize lethal snake venom.",
+      "en": "that can neutralize lethal snake venom.",
+      "zh": ""
+    },
+    {
+      "start": 1317.12,
+      "duration": 3.12,
+      "text": "This anti-venom could be manufactured in large quantities",
+      "en": "This anti-venom could be manufactured in large quantities",
+      "zh": ""
+    },
+    {
+      "start": 1320.24,
+      "duration": 2.75,
+      "text": "and easily transported to the places where it's needed.",
+      "en": "and easily transported to the places where it's needed.",
+      "zh": ""
+    },
+    {
+      "start": 1323.96,
+      "duration": 1.98,
+      "text": "With these tiny molecular machines,",
+      "en": "With these tiny molecular machines,",
+      "zh": ""
+    },
+    {
+      "start": 1325.94,
+      "duration": 2.01,
+      "text": "the possibilities are endless.",
+      "en": "the possibilities are endless.",
+      "zh": ""
+    },
+    {
+      "start": 1327.95,
+      "duration": 2.43,
+      "text": "What are the applications you're most excited about?",
+      "en": "What are the applications you're most excited about?",
+      "zh": ""
+    },
+    {
+      "start": 1330.38,
+      "duration": 2.55,
+      "text": "- So I think vaccines are gonna be really powerful.",
+      "en": "- So I think vaccines are gonna be really powerful.",
+      "zh": ""
+    },
+    {
+      "start": 1332.93,
+      "duration": 1.17,
+      "text": "We have a number of proteins",
+      "en": "We have a number of proteins",
+      "zh": ""
+    },
+    {
+      "start": 1334.1,
+      "duration": 2.16,
+      "text": "that are in human clinical trials for cancer,",
+      "en": "that are in human clinical trials for cancer,",
+      "zh": ""
+    },
+    {
+      "start": 1336.26,
+      "duration": 1.92,
+      "text": "and we're working on autoimmune disease now.",
+      "en": "and we're working on autoimmune disease now.",
+      "zh": ""
+    },
+    {
+      "start": 1338.18,
+      "duration": 1.77,
+      "text": "We're really excited about problems",
+      "en": "We're really excited about problems",
+      "zh": ""
+    },
+    {
+      "start": 1339.95,
+      "duration": 1.62,
+      "text": "like capturing greenhouse gases.",
+      "en": "like capturing greenhouse gases.",
+      "zh": ""
+    },
+    {
+      "start": 1341.57,
+      "duration": 1.35,
+      "text": "So we're designing enzymes",
+      "en": "So we're designing enzymes",
+      "zh": ""
+    },
+    {
+      "start": 1342.92,
+      "duration": 3.72,
+      "text": "that can fix methane, break down plastic.",
+      "en": "that can fix methane, break down plastic.",
+      "zh": ""
+    },
+    {
+      "start": 1346.64,
+      "duration": 2.25,
+      "text": "- What makes this approach so effective is",
+      "en": "- What makes this approach so effective is",
+      "zh": ""
+    },
+    {
+      "start": 1348.89,
+      "duration": 3.66,
+      "text": "how fast they can create and iterate the proteins.",
+      "en": "how fast they can create and iterate the proteins.",
+      "zh": ""
+    },
+    {
+      "start": 1352.55,
+      "duration": 1.89,
+      "text": "- It's really quite miraculous",
+      "en": "- It's really quite miraculous",
+      "zh": ""
+    },
+    {
+      "start": 1354.44,
+      "duration": 2.4,
+      "text": "for anyone who's a conventional school biochemist",
+      "en": "for anyone who's a conventional school biochemist",
+      "zh": ""
+    },
+    {
+      "start": 1356.84,
+      "duration": 1.35,
+      "text": "or protein scientist.",
+      "en": "or protein scientist.",
+      "zh": ""
+    },
+    {
+      "start": 1358.19,
+      "duration": 2.64,
+      "text": "We can now have designs on the computer,",
+      "en": "We can now have designs on the computer,",
+      "zh": ""
+    },
+    {
+      "start": 1360.83,
+      "duration": 2.7,
+      "text": "get the amino acid sequence of the design proteins,",
+      "en": "get the amino acid sequence of the design proteins,",
+      "zh": ""
+    },
+    {
+      "start": 1363.53,
+      "duration": 4.53,
+      "text": "and then in just a couple days we can get the protein out.",
+      "en": "and then in just a couple days we can get the protein out.",
+      "zh": ""
+    },
+    {
+      "start": 1368.06,
+      "duration": 1.26,
+      "text": "Yeah. We've given a name to this,",
+      "en": "Yeah. We've given a name to this,",
+      "zh": ""
+    },
+    {
+      "start": 1369.32,
+      "duration": 1.89,
+      "text": "which is \"Cowboy Biochemistry\"",
+      "en": "which is \"Cowboy Biochemistry\"",
+      "zh": ""
+    },
+    {
+      "start": 1371.21,
+      "duration": 3.54,
+      "text": "because we just like, you just got kind of go for it",
+      "en": "because we just like, you just got kind of go for it",
+      "zh": ""
+    },
+    {
+      "start": 1374.75,
+      "duration": 3.3,
+      "text": "as fast as you can, and it turns out to work pretty well.",
+      "en": "as fast as you can, and it turns out to work pretty well.",
+      "zh": ""
+    },
+    {
+      "start": 1378.05,
+      "duration": 2.79,
+      "text": "- What AI has done for proteins is just a hint",
+      "en": "- What AI has done for proteins is just a hint",
+      "zh": ""
+    },
+    {
+      "start": 1380.84,
+      "duration": 2.04,
+      "text": "of what it can do in other fields",
+      "en": "of what it can do in other fields",
+      "zh": ""
+    },
+    {
+      "start": 1382.88,
+      "duration": 2.19,
+      "text": "and on larger scales.",
+      "en": "and on larger scales.",
+      "zh": ""
+    },
+    {
+      "start": 1385.07,
+      "duration": 1.77,
+      "text": "In materials science, for example,",
+      "en": "In materials science, for example,",
+      "zh": ""
+    },
+    {
+      "start": 1386.84,
+      "duration": 4.38,
+      "text": "DeepMind's GNoME program has found 2.2 million new crystals,",
+      "en": "DeepMind's GNoME program has found 2.2 million new crystals,",
+      "zh": ""
+    },
+    {
+      "start": 1391.22,
+      "duration": 3.03,
+      "text": "including over 400,000 stable materials",
+      "en": "including over 400,000 stable materials",
+      "zh": ""
+    },
+    {
+      "start": 1394.25,
+      "duration": 1.65,
+      "text": "that could power future technologies",
+      "en": "that could power future technologies",
+      "zh": ""
+    },
+    {
+      "start": 1395.9,
+      "duration": 2.94,
+      "text": "from superconductors to batteries.",
+      "en": "from superconductors to batteries.",
+      "zh": ""
+    },
+    {
+      "start": 1398.84,
+      "duration": 3.0,
+      "text": "AI is creating transformative leaps in science",
+      "en": "AI is creating transformative leaps in science",
+      "zh": ""
+    },
+    {
+      "start": 1401.84,
+      "duration": 2.4,
+      "text": "by helping to solve some of the fundamental problems",
+      "en": "by helping to solve some of the fundamental problems",
+      "zh": ""
+    },
+    {
+      "start": 1404.24,
+      "duration": 2.31,
+      "text": "that have blocked human progress.",
+      "en": "that have blocked human progress.",
+      "zh": ""
+    },
+    {
+      "start": 1406.55,
+      "duration": 1.77,
+      "text": "- If we think of the whole tree of knowledge,",
+      "en": "- If we think of the whole tree of knowledge,",
+      "zh": ""
+    },
+    {
+      "start": 1408.32,
+      "duration": 1.23,
+      "text": "you know there are certain problems",
+      "en": "you know there are certain problems",
+      "zh": ""
+    },
+    {
+      "start": 1409.55,
+      "duration": 1.98,
+      "text": "where you know if their root, no problems.",
+      "en": "where you know if their root, no problems.",
+      "zh": ""
+    },
+    {
+      "start": 1411.53,
+      "duration": 2.34,
+      "text": "If you unlock them, if you discover a solution to them,",
+      "en": "If you unlock them, if you discover a solution to them,",
+      "zh": ""
+    },
+    {
+      "start": 1413.87,
+      "duration": 4.23,
+      "text": "it would unlock a whole new branch or avenue of discovery.",
+      "en": "it would unlock a whole new branch or avenue of discovery.",
+      "zh": ""
+    },
+    {
+      "start": 1418.1,
+      "duration": 3.33,
+      "text": "- And with this, AI is pushing forward the boundaries",
+      "en": "- And with this, AI is pushing forward the boundaries",
+      "zh": ""
+    },
+    {
+      "start": 1421.43,
+      "duration": 3.33,
+      "text": "of human knowledge at a rate never seen before.",
+      "en": "of human knowledge at a rate never seen before.",
+      "zh": ""
+    },
+    {
+      "start": 1424.76,
+      "duration": 2.1,
+      "text": "- Speed ups of 2x are nice,",
+      "en": "- Speed ups of 2x are nice,",
+      "zh": ""
+    },
+    {
+      "start": 1426.86,
+      "duration": 1.95,
+      "text": "they're great, we love them.",
+      "en": "they're great, we love them.",
+      "zh": ""
+    },
+    {
+      "start": 1428.81,
+      "duration": 4.44,
+      "text": "Speed ups of a 100,000x, change what you do.",
+      "en": "Speed ups of a 100,000x, change what you do.",
+      "zh": ""
+    },
+    {
+      "start": 1433.25,
+      "duration": 2.55,
+      "text": "You do fundamentally different stuff",
+      "en": "You do fundamentally different stuff",
+      "zh": ""
+    },
+    {
+      "start": 1435.8,
+      "duration": 2.94,
+      "text": "and you start to rebuild your science",
+      "en": "and you start to rebuild your science",
+      "zh": ""
+    },
+    {
+      "start": 1438.74,
+      "duration": 2.61,
+      "text": "around the things that got easy.",
+      "en": "around the things that got easy.",
+      "zh": ""
+    },
+    {
+      "start": 1441.35,
+      "duration": 2.43,
+      "text": "- And that's what I'm excited about.",
+      "en": "- And that's what I'm excited about.",
+      "zh": ""
+    },
+    {
+      "start": 1443.78,
+      "duration": 2.82,
+      "text": "These discoveries represent real step function",
+      "en": "These discoveries represent real step function",
+      "zh": ""
+    },
+    {
+      "start": 1446.6,
+      "duration": 1.8,
+      "text": "changes in science.",
+      "en": "changes in science.",
+      "zh": ""
+    },
+    {
+      "start": 1448.4,
+      "duration": 2.52,
+      "text": "Even if AI doesn't advance beyond where it is today,",
+      "en": "Even if AI doesn't advance beyond where it is today,",
+      "zh": ""
+    },
+    {
+      "start": 1450.92,
+      "duration": 1.77,
+      "text": "we will be reaping the benefits",
+      "en": "we will be reaping the benefits",
+      "zh": ""
+    },
+    {
+      "start": 1452.69,
+      "duration": 2.31,
+      "text": "of these breakthroughs for decades.",
+      "en": "of these breakthroughs for decades.",
+      "zh": ""
+    },
+    {
+      "start": 1455.0,
+      "duration": 2.52,
+      "text": "And assuming AI does continue to develop,",
+      "en": "And assuming AI does continue to develop,",
+      "zh": ""
+    },
+    {
+      "start": 1457.52,
+      "duration": 1.8,
+      "text": "well, it will open up opportunities",
+      "en": "well, it will open up opportunities",
+      "zh": ""
+    },
+    {
+      "start": 1459.32,
+      "duration": 2.07,
+      "text": "that were previously thought impossible.",
+      "en": "that were previously thought impossible.",
+      "zh": ""
+    },
+    {
+      "start": 1461.39,
+      "duration": 2.55,
+      "text": "Whether that's curing all diseases,",
+      "en": "Whether that's curing all diseases,",
+      "zh": ""
+    },
+    {
+      "start": 1463.94,
+      "duration": 1.44,
+      "text": "creating novel materials,",
+      "en": "creating novel materials,",
+      "zh": ""
+    },
+    {
+      "start": 1465.38,
+      "duration": 4.05,
+      "text": "or restoring the environment to a pristine state.",
+      "en": "or restoring the environment to a pristine state.",
+      "zh": ""
+    },
+    {
+      "start": 1469.43,
+      "duration": 3.36,
+      "text": "This sounds like an amazing future as long",
+      "en": "This sounds like an amazing future as long",
+      "zh": ""
+    },
+    {
+      "start": 1472.79,
+      "duration": 3.85,
+      "text": "as the AI doesn't take over and destroy us all first.",
+      "en": "as the AI doesn't take over and destroy us all first.",
+      "zh": ""
+    },
+    {
+      "start": 1476.64,
+      "duration": 3.08,
+      "text": "(slow cosmic music)",
+      "en": "(slow cosmic music)",
+      "zh": ""
+    }
+  ],
+  "words": []
+}

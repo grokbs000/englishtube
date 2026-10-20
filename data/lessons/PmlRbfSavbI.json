@@ -1,0 +1,2560 @@
+{
+  "cues": [
+    {
+      "start": 1.97,
+      "duration": 2.74,
+      "text": "(audience members yelling)",
+      "en": "(audience members yelling)",
+      "zh": ""
+    },
+    {
+      "start": 4.71,
+      "duration": 1.14,
+      "text": "- No steal.",
+      "en": "- No steal.",
+      "zh": ""
+    },
+    {
+      "start": 5.85,
+      "duration": 1.05,
+      "text": "There's no steal there.",
+      "en": "There's no steal there.",
+      "zh": ""
+    },
+    {
+      "start": 6.9,
+      "duration": 1.26,
+      "text": "I predict not a steal.",
+      "en": "I predict not a steal.",
+      "zh": ""
+    },
+    {
+      "start": 8.16,
+      "duration": 0.99,
+      "text": "Watch this.",
+      "en": "Watch this.",
+      "zh": ""
+    },
+    {
+      "start": 12.12,
+      "duration": 0.99,
+      "text": "And he stayed.",
+      "en": "And he stayed.",
+      "zh": ""
+    },
+    {
+      "start": 17.79,
+      "duration": 0.83,
+      "text": "He's gonna steal.",
+      "en": "He's gonna steal.",
+      "zh": ""
+    },
+    {
+      "start": 18.62,
+      "duration": 0.84,
+      "text": "This is a steal.",
+      "en": "This is a steal.",
+      "zh": ""
+    },
+    {
+      "start": 19.46,
+      "duration": 2.37,
+      "text": "If this app works, this kid's about to steal.",
+      "en": "If this app works, this kid's about to steal.",
+      "zh": ""
+    },
+    {
+      "start": 21.83,
+      "duration": 3.57,
+      "text": "(excited vocalizing)",
+      "en": "(excited vocalizing)",
+      "zh": ""
+    },
+    {
+      "start": 25.4,
+      "duration": 1.69,
+      "text": "There he goes!",
+      "en": "There he goes!",
+      "zh": ""
+    },
+    {
+      "start": 27.09,
+      "duration": 1.56,
+      "text": "It fricking works.",
+      "en": "It fricking works.",
+      "zh": ""
+    },
+    {
+      "start": 28.65,
+      "duration": 1.02,
+      "text": "It works.",
+      "en": "It works.",
+      "zh": ""
+    },
+    {
+      "start": 29.67,
+      "duration": 2.25,
+      "text": "Two years ago I came up with an idea for an app",
+      "en": "Two years ago I came up with an idea for an app",
+      "zh": ""
+    },
+    {
+      "start": 31.92,
+      "duration": 1.95,
+      "text": "where you could decode baseball signs,",
+      "en": "where you could decode baseball signs,",
+      "zh": ""
+    },
+    {
+      "start": 33.87,
+      "duration": 1.35,
+      "text": "so you would know when the other team",
+      "en": "so you would know when the other team",
+      "zh": ""
+    },
+    {
+      "start": 35.22,
+      "duration": 2.61,
+      "text": "was going to steal even after just the first inning.",
+      "en": "was going to steal even after just the first inning.",
+      "zh": ""
+    },
+    {
+      "start": 37.83,
+      "duration": 2.22,
+      "text": "Then in a covert effort to get people more interested",
+      "en": "Then in a covert effort to get people more interested",
+      "zh": ""
+    },
+    {
+      "start": 40.05,
+      "duration": 1.29,
+      "text": "in coding and machine learning,",
+      "en": "in coding and machine learning,",
+      "zh": ""
+    },
+    {
+      "start": 41.34,
+      "duration": 2.49,
+      "text": "I would make the app free and available to everyone.",
+      "en": "I would make the app free and available to everyone.",
+      "zh": ""
+    },
+    {
+      "start": 43.83,
+      "duration": 3.02,
+      "text": "I'm happy to report it's no longer just an idea.",
+      "en": "I'm happy to report it's no longer just an idea.",
+      "zh": ""
+    },
+    {
+      "start": 46.85,
+      "duration": 2.68,
+      "text": "Today I'm gonna show you exactly how the app works",
+      "en": "Today I'm gonna show you exactly how the app works",
+      "zh": ""
+    },
+    {
+      "start": 49.53,
+      "duration": 1.38,
+      "text": "and we'll use it in the wild.",
+      "en": "and we'll use it in the wild.",
+      "zh": ""
+    },
+    {
+      "start": 50.91,
+      "duration": 1.65,
+      "text": "And then we're gonna talk about machine learning",
+      "en": "And then we're gonna talk about machine learning",
+      "zh": ""
+    },
+    {
+      "start": 52.56,
+      "duration": 2.31,
+      "text": "in very simple terms with my buddy Jabril.",
+      "en": "in very simple terms with my buddy Jabril.",
+      "zh": ""
+    },
+    {
+      "start": 54.87,
+      "duration": 1.16,
+      "text": "But first, to set the stage,",
+      "en": "But first, to set the stage,",
+      "zh": ""
+    },
+    {
+      "start": 56.03,
+      "duration": 2.68,
+      "text": "we need to understand the fascinating world",
+      "en": "we need to understand the fascinating world",
+      "zh": ""
+    },
+    {
+      "start": 58.71,
+      "duration": 1.56,
+      "text": "of secret baseball signs.",
+      "en": "of secret baseball signs.",
+      "zh": ""
+    },
+    {
+      "start": 60.27,
+      "duration": 2.04,
+      "text": "It's the game within the game.",
+      "en": "It's the game within the game.",
+      "zh": ""
+    },
+    {
+      "start": 62.31,
+      "duration": 2.55,
+      "text": "Most people know the catcher will give signs to the pitcher",
+      "en": "Most people know the catcher will give signs to the pitcher",
+      "zh": ""
+    },
+    {
+      "start": 64.86,
+      "duration": 1.29,
+      "text": "when your team is on defense,",
+      "en": "when your team is on defense,",
+      "zh": ""
+    },
+    {
+      "start": 66.15,
+      "duration": 1.05,
+      "text": "but when you're on offense,",
+      "en": "but when you're on offense,",
+      "zh": ""
+    },
+    {
+      "start": 67.2,
+      "duration": 1.74,
+      "text": "the third base coach gives signs",
+      "en": "the third base coach gives signs",
+      "zh": ""
+    },
+    {
+      "start": 68.94,
+      "duration": 2.01,
+      "text": "to both the batter and the base runner.",
+      "en": "to both the batter and the base runner.",
+      "zh": ""
+    },
+    {
+      "start": 70.95,
+      "duration": 2.2,
+      "text": "For example, he could secretly tell the batter to bunt",
+      "en": "For example, he could secretly tell the batter to bunt",
+      "zh": ""
+    },
+    {
+      "start": 73.15,
+      "duration": 2.27,
+      "text": "or to not swing at the next pitch.",
+      "en": "or to not swing at the next pitch.",
+      "zh": ""
+    },
+    {
+      "start": 75.42,
+      "duration": 2.04,
+      "text": "Or you can tell the base runner to steal.",
+      "en": "Or you can tell the base runner to steal.",
+      "zh": ""
+    },
+    {
+      "start": 77.46,
+      "duration": 0.96,
+      "text": "And just to be clear,",
+      "en": "And just to be clear,",
+      "zh": ""
+    },
+    {
+      "start": 78.42,
+      "duration": 1.89,
+      "text": "stealing a base is when you start running",
+      "en": "stealing a base is when you start running",
+      "zh": ""
+    },
+    {
+      "start": 80.31,
+      "duration": 1.53,
+      "text": "as soon as the pitch is thrown,",
+      "en": "as soon as the pitch is thrown,",
+      "zh": ""
+    },
+    {
+      "start": 81.84,
+      "duration": 1.98,
+      "text": "instead of waiting for the batter to try and hit it.",
+      "en": "instead of waiting for the batter to try and hit it.",
+      "zh": ""
+    },
+    {
+      "start": 83.82,
+      "duration": 2.79,
+      "text": "It's risky because if the batter doesn't hit the ball",
+      "en": "It's risky because if the batter doesn't hit the ball",
+      "zh": ""
+    },
+    {
+      "start": 86.61,
+      "duration": 1.08,
+      "text": "and the catcher's good,",
+      "en": "and the catcher's good,",
+      "zh": ""
+    },
+    {
+      "start": 87.69,
+      "duration": 1.71,
+      "text": "he can throw you out at second base.",
+      "en": "he can throw you out at second base.",
+      "zh": ""
+    },
+    {
+      "start": 89.4,
+      "duration": 1.35,
+      "text": "Because it's a big advantage,",
+      "en": "Because it's a big advantage,",
+      "zh": ""
+    },
+    {
+      "start": 90.75,
+      "duration": 1.89,
+      "text": "coaches will actually tell their players",
+      "en": "coaches will actually tell their players",
+      "zh": ""
+    },
+    {
+      "start": 92.64,
+      "duration": 1.74,
+      "text": "to watch and see if they could figure out",
+      "en": "to watch and see if they could figure out",
+      "zh": ""
+    },
+    {
+      "start": 94.38,
+      "duration": 1.11,
+      "text": "the other team's signs.",
+      "en": "the other team's signs.",
+      "zh": ""
+    },
+    {
+      "start": 95.49,
+      "duration": 2.76,
+      "text": "That's considered a fair play and it's part of the game.",
+      "en": "That's considered a fair play and it's part of the game.",
+      "zh": ""
+    },
+    {
+      "start": 98.25,
+      "duration": 3.0,
+      "text": "The problem is our brains aren't great at figuring out",
+      "en": "The problem is our brains aren't great at figuring out",
+      "zh": ""
+    },
+    {
+      "start": 101.25,
+      "duration": 1.17,
+      "text": "the complex pattern.",
+      "en": "the complex pattern.",
+      "zh": ""
+    },
+    {
+      "start": 102.42,
+      "duration": 1.29,
+      "text": "So we set out to create an app",
+      "en": "So we set out to create an app",
+      "zh": ""
+    },
+    {
+      "start": 103.71,
+      "duration": 2.4,
+      "text": "that would use machine learning to do exactly that.",
+      "en": "that would use machine learning to do exactly that.",
+      "zh": ""
+    },
+    {
+      "start": 106.11,
+      "duration": 1.59,
+      "text": "And by we, I mean Jabril",
+      "en": "And by we, I mean Jabril",
+      "zh": ""
+    },
+    {
+      "start": 107.7,
+      "duration": 1.77,
+      "text": "actually sat down and wrote the code",
+      "en": "actually sat down and wrote the code",
+      "zh": ""
+    },
+    {
+      "start": 109.47,
+      "duration": 2.46,
+      "text": "and I just made sure he had unlimited Cheez-Its and LaCroix.",
+      "en": "and I just made sure he had unlimited Cheez-Its and LaCroix.",
+      "zh": ""
+    },
+    {
+      "start": 111.93,
+      "duration": 1.17,
+      "text": "Here's how it works.",
+      "en": "Here's how it works.",
+      "zh": ""
+    },
+    {
+      "start": 113.1,
+      "duration": 3.27,
+      "text": "If I saw coach touched his nose, ears, arm, chin and so on,",
+      "en": "If I saw coach touched his nose, ears, arm, chin and so on,",
+      "zh": ""
+    },
+    {
+      "start": 116.37,
+      "duration": 2.15,
+      "text": "I would assign those to letters in the app.",
+      "en": "I would assign those to letters in the app.",
+      "zh": ""
+    },
+    {
+      "start": 118.52,
+      "duration": 2.77,
+      "text": "Then I would just watch him sign and record the order.",
+      "en": "Then I would just watch him sign and record the order.",
+      "zh": ""
+    },
+    {
+      "start": 121.29,
+      "duration": 2.4,
+      "text": "After that, I would just let the app know the outcome.",
+      "en": "After that, I would just let the app know the outcome.",
+      "zh": ""
+    },
+    {
+      "start": 123.69,
+      "duration": 1.74,
+      "text": "So was it a steal or not?",
+      "en": "So was it a steal or not?",
+      "zh": ""
+    },
+    {
+      "start": 125.43,
+      "duration": 1.68,
+      "text": "After you do this for enough sequences,",
+      "en": "After you do this for enough sequences,",
+      "zh": ""
+    },
+    {
+      "start": 127.11,
+      "duration": 1.86,
+      "text": "the app will start to make predictions.",
+      "en": "the app will start to make predictions.",
+      "zh": ""
+    },
+    {
+      "start": 128.97,
+      "duration": 2.79,
+      "text": "In this case, it's predicting the combination of AD",
+      "en": "In this case, it's predicting the combination of AD",
+      "zh": ""
+    },
+    {
+      "start": 131.76,
+      "duration": 2.58,
+      "text": "or nose then chin is their steal sign.",
+      "en": "or nose then chin is their steal sign.",
+      "zh": ""
+    },
+    {
+      "start": 134.34,
+      "duration": 1.62,
+      "text": "This worked well enough on my workbench,",
+      "en": "This worked well enough on my workbench,",
+      "zh": ""
+    },
+    {
+      "start": 135.96,
+      "duration": 2.13,
+      "text": "so now it was time for the first real world test",
+      "en": "so now it was time for the first real world test",
+      "zh": ""
+    },
+    {
+      "start": 138.09,
+      "duration": 2.7,
+      "text": "in a kids versus adults Wiffle Ball game.",
+      "en": "in a kids versus adults Wiffle Ball game.",
+      "zh": ""
+    },
+    {
+      "start": 140.79,
+      "duration": 1.83,
+      "text": "And my friend Sarah takes the game of Wiffle Ball",
+      "en": "And my friend Sarah takes the game of Wiffle Ball",
+      "zh": ""
+    },
+    {
+      "start": 142.62,
+      "duration": 1.05,
+      "text": "pretty seriously.",
+      "en": "pretty seriously.",
+      "zh": ""
+    },
+    {
+      "start": 143.67,
+      "duration": 1.89,
+      "text": "So she was the captain of the kids team",
+      "en": "So she was the captain of the kids team",
+      "zh": ""
+    },
+    {
+      "start": 145.56,
+      "duration": 2.07,
+      "text": "and was signaling for them to steal",
+      "en": "and was signaling for them to steal",
+      "zh": ""
+    },
+    {
+      "start": 147.63,
+      "duration": 1.71,
+      "text": "at just the right moments.",
+      "en": "at just the right moments.",
+      "zh": ""
+    },
+    {
+      "start": 150.23,
+      "duration": 3.0,
+      "text": "(everyone cheering)",
+      "en": "(everyone cheering)",
+      "zh": ""
+    },
+    {
+      "start": 155.16,
+      "duration": 1.08,
+      "text": "And I wasn't sure on the ethics",
+      "en": "And I wasn't sure on the ethics",
+      "zh": ""
+    },
+    {
+      "start": 156.24,
+      "duration": 2.19,
+      "text": "of using our app against a bunch of little kids,",
+      "en": "of using our app against a bunch of little kids,",
+      "zh": ""
+    },
+    {
+      "start": 158.43,
+      "duration": 3.48,
+      "text": "but they were scoring runs and stealing bases with impunity",
+      "en": "but they were scoring runs and stealing bases with impunity",
+      "zh": ""
+    },
+    {
+      "start": 161.91,
+      "duration": 1.01,
+      "text": "and then they got so confident,",
+      "en": "and then they got so confident,",
+      "zh": ""
+    },
+    {
+      "start": 162.92,
+      "duration": 1.84,
+      "text": "they started talking trash.",
+      "en": "they started talking trash.",
+      "zh": ""
+    },
+    {
+      "start": 164.76,
+      "duration": 3.02,
+      "text": "- [All] We want a pitcher not a belly itcher.",
+      "en": "- [All] We want a pitcher not a belly itcher.",
+      "zh": ""
+    },
+    {
+      "start": 167.78,
+      "duration": 2.14,
+      "text": "- And no one says that about my pitcher,",
+      "en": "- And no one says that about my pitcher,",
+      "zh": ""
+    },
+    {
+      "start": 169.92,
+      "duration": 2.19,
+      "text": "so at that point, the gloves came off.",
+      "en": "so at that point, the gloves came off.",
+      "zh": ""
+    },
+    {
+      "start": 172.11,
+      "duration": 2.61,
+      "text": "We found it easiest to film her signs with our phone",
+      "en": "We found it easiest to film her signs with our phone",
+      "zh": ""
+    },
+    {
+      "start": 174.72,
+      "duration": 1.41,
+      "text": "and then scrub through",
+      "en": "and then scrub through",
+      "zh": ""
+    },
+    {
+      "start": 176.13,
+      "duration": 2.49,
+      "text": "and capture the order in the app afterwards,",
+      "en": "and capture the order in the app afterwards,",
+      "zh": ""
+    },
+    {
+      "start": 178.62,
+      "duration": 1.8,
+      "text": "as opposed to trying to do it real time.",
+      "en": "as opposed to trying to do it real time.",
+      "zh": ""
+    },
+    {
+      "start": 180.42,
+      "duration": 1.59,
+      "text": "And I'm very happy to report",
+      "en": "And I'm very happy to report",
+      "zh": ""
+    },
+    {
+      "start": 182.01,
+      "duration": 3.41,
+      "text": "we cracked their code after only three sequences.",
+      "en": "we cracked their code after only three sequences.",
+      "zh": ""
+    },
+    {
+      "start": 185.42,
+      "duration": 3.04,
+      "text": "(upbeat music)",
+      "en": "(upbeat music)",
+      "zh": ""
+    },
+    {
+      "start": 188.46,
+      "duration": 1.74,
+      "text": "And what's cool is once you know the code,",
+      "en": "And what's cool is once you know the code,",
+      "zh": ""
+    },
+    {
+      "start": 190.2,
+      "duration": 1.14,
+      "text": "you no longer need the app",
+      "en": "you no longer need the app",
+      "zh": ""
+    },
+    {
+      "start": 191.34,
+      "duration": 1.86,
+      "text": "because you can just watch for the steal signal.",
+      "en": "because you can just watch for the steal signal.",
+      "zh": ""
+    },
+    {
+      "start": 193.2,
+      "duration": 0.88,
+      "text": "And when we saw it,",
+      "en": "And when we saw it,",
+      "zh": ""
+    },
+    {
+      "start": 194.08,
+      "duration": 3.35,
+      "text": "we alerted our pitcher with the secret sign of our own.",
+      "en": "we alerted our pitcher with the secret sign of our own.",
+      "zh": ""
+    },
+    {
+      "start": 198.36,
+      "duration": 2.59,
+      "text": "(upbeat music)",
+      "en": "(upbeat music)",
+      "zh": ""
+    },
+    {
+      "start": 202.94,
+      "duration": 2.53,
+      "text": "- Yeah. You're outta there buddy.",
+      "en": "- Yeah. You're outta there buddy.",
+      "zh": ""
+    },
+    {
+      "start": 206.88,
+      "duration": 1.79,
+      "text": "- And after that, the tides of the game shifted",
+      "en": "- And after that, the tides of the game shifted",
+      "zh": ""
+    },
+    {
+      "start": 208.67,
+      "duration": 2.8,
+      "text": "and we were able to officially prove adults rule",
+      "en": "and we were able to officially prove adults rule",
+      "zh": ""
+    },
+    {
+      "start": 211.47,
+      "duration": 1.17,
+      "text": "and kids drool.",
+      "en": "and kids drool.",
+      "zh": ""
+    },
+    {
+      "start": 212.64,
+      "duration": 2.67,
+      "text": "So our app cracked the code after just three sequences",
+      "en": "So our app cracked the code after just three sequences",
+      "zh": ""
+    },
+    {
+      "start": 215.31,
+      "duration": 2.07,
+      "text": "and I'm gonna show you them to see if you can figure",
+      "en": "and I'm gonna show you them to see if you can figure",
+      "zh": ""
+    },
+    {
+      "start": 217.38,
+      "duration": 2.28,
+      "text": "out the steal sign using just your brain.",
+      "en": "out the steal sign using just your brain.",
+      "zh": ""
+    },
+    {
+      "start": 219.66,
+      "duration": 3.55,
+      "text": "Here's the first one, and this was a steal.",
+      "en": "Here's the first one, and this was a steal.",
+      "zh": ""
+    },
+    {
+      "start": 223.21,
+      "duration": 1.5,
+      "text": "Here's the second",
+      "en": "Here's the second",
+      "zh": ""
+    },
+    {
+      "start": 226.17,
+      "duration": 3.64,
+      "text": "and this was no steal and this is the third",
+      "en": "and this was no steal and this is the third",
+      "zh": ""
+    },
+    {
+      "start": 231.36,
+      "duration": 3.33,
+      "text": "and it was a steal pause and go back if you want to try",
+      "en": "and it was a steal pause and go back if you want to try",
+      "zh": ""
+    },
+    {
+      "start": 234.69,
+      "duration": 2.37,
+      "text": "and figure it out because I'm about to tell you the answer.",
+      "en": "and figure it out because I'm about to tell you the answer.",
+      "zh": ""
+    },
+    {
+      "start": 237.06,
+      "duration": 0.99,
+      "text": "According to the app",
+      "en": "According to the app",
+      "zh": ""
+    },
+    {
+      "start": 238.05,
+      "duration": 2.76,
+      "text": "which Sarah later confirmed their steal sign was only",
+      "en": "which Sarah later confirmed their steal sign was only",
+      "zh": ""
+    },
+    {
+      "start": 240.81,
+      "duration": 2.97,
+      "text": "if she touched her hat and then left ear back to back.",
+      "en": "if she touched her hat and then left ear back to back.",
+      "zh": ""
+    },
+    {
+      "start": 243.78,
+      "duration": 2.13,
+      "text": "Everything else was just a decoy.",
+      "en": "Everything else was just a decoy.",
+      "zh": ""
+    },
+    {
+      "start": 245.91,
+      "duration": 2.22,
+      "text": "Now, before we tell you exactly how the app can figure this",
+      "en": "Now, before we tell you exactly how the app can figure this",
+      "zh": ""
+    },
+    {
+      "start": 248.13,
+      "duration": 2.97,
+      "text": "out so quickly, we need a little background information.",
+      "en": "out so quickly, we need a little background information.",
+      "zh": ""
+    },
+    {
+      "start": 251.1,
+      "duration": 1.95,
+      "text": "So I've cornered my buddy Jabril here",
+      "en": "So I've cornered my buddy Jabril here",
+      "zh": ""
+    },
+    {
+      "start": 253.05,
+      "duration": 3.0,
+      "text": "and I'm gonna make him give us a super simple explanation",
+      "en": "and I'm gonna make him give us a super simple explanation",
+      "zh": ""
+    },
+    {
+      "start": 256.05,
+      "duration": 0.83,
+      "text": "of machine learning.",
+      "en": "of machine learning.",
+      "zh": ""
+    },
+    {
+      "start": 256.88,
+      "duration": 1.63,
+      "text": "Now here's what you should know about Jabril.",
+      "en": "Now here's what you should know about Jabril.",
+      "zh": ""
+    },
+    {
+      "start": 258.51,
+      "duration": 1.92,
+      "text": "He's basically a genius who taught himself how",
+      "en": "He's basically a genius who taught himself how",
+      "zh": ""
+    },
+    {
+      "start": 260.43,
+      "duration": 1.44,
+      "text": "to code when he was 14.",
+      "en": "to code when he was 14.",
+      "zh": ""
+    },
+    {
+      "start": 261.87,
+      "duration": 0.87,
+      "text": "He has an amazing YouTube channel",
+      "en": "He has an amazing YouTube channel",
+      "zh": ""
+    },
+    {
+      "start": 262.74,
+      "duration": 1.86,
+      "text": "you should check out with videos",
+      "en": "you should check out with videos",
+      "zh": ""
+    },
+    {
+      "start": 264.6,
+      "duration": 1.95,
+      "text": "like this one where he made a video game where",
+      "en": "like this one where he made a video game where",
+      "zh": ""
+    },
+    {
+      "start": 266.55,
+      "duration": 1.68,
+      "text": "the character teaches himself how to navigate",
+      "en": "the character teaches himself how to navigate",
+      "zh": ""
+    },
+    {
+      "start": 268.23,
+      "duration": 2.58,
+      "text": "any maze using machine learning and neural networks.",
+      "en": "any maze using machine learning and neural networks.",
+      "zh": ""
+    },
+    {
+      "start": 270.81,
+      "duration": 0.83,
+      "text": "- All right.",
+      "en": "- All right.",
+      "zh": ""
+    },
+    {
+      "start": 271.64,
+      "duration": 0.91,
+      "text": "Let's say we have Timmy here",
+      "en": "Let's say we have Timmy here",
+      "zh": ""
+    },
+    {
+      "start": 272.55,
+      "duration": 3.27,
+      "text": "and Timmy likes certain type of toys but not others.",
+      "en": "and Timmy likes certain type of toys but not others.",
+      "zh": ""
+    },
+    {
+      "start": 275.82,
+      "duration": 2.34,
+      "text": "So in our fake example here, he decides this based",
+      "en": "So in our fake example here, he decides this based",
+      "zh": ""
+    },
+    {
+      "start": 278.16,
+      "duration": 3.21,
+      "text": "on how big the toy is and how complicated it is.",
+      "en": "on how big the toy is and how complicated it is.",
+      "zh": ""
+    },
+    {
+      "start": 281.37,
+      "duration": 1.92,
+      "text": "So from small to big",
+      "en": "So from small to big",
+      "zh": ""
+    },
+    {
+      "start": 283.29,
+      "duration": 2.04,
+      "text": "and then over here how many parts it has",
+      "en": "and then over here how many parts it has",
+      "zh": ""
+    },
+    {
+      "start": 285.33,
+      "duration": 2.64,
+      "text": "from just one piece to a really complex toy",
+      "en": "from just one piece to a really complex toy",
+      "zh": ""
+    },
+    {
+      "start": 287.97,
+      "duration": 2.37,
+      "text": "with gears and moving parts and things like that.",
+      "en": "with gears and moving parts and things like that.",
+      "zh": ""
+    },
+    {
+      "start": 290.34,
+      "duration": 3.03,
+      "text": "And so if we asked Timmy about 20 different toys",
+      "en": "And so if we asked Timmy about 20 different toys",
+      "zh": ""
+    },
+    {
+      "start": 293.37,
+      "duration": 1.68,
+      "text": "and start to plot those on the graph",
+      "en": "and start to plot those on the graph",
+      "zh": ""
+    },
+    {
+      "start": 295.05,
+      "duration": 1.59,
+      "text": "we'll start to see a pattern.",
+      "en": "we'll start to see a pattern.",
+      "zh": ""
+    },
+    {
+      "start": 296.64,
+      "duration": 3.84,
+      "text": "So generally he likes toys that are big and complicated",
+      "en": "So generally he likes toys that are big and complicated",
+      "zh": ""
+    },
+    {
+      "start": 300.48,
+      "duration": 3.9,
+      "text": "but does not like toys that are small and simple.",
+      "en": "but does not like toys that are small and simple.",
+      "zh": ""
+    },
+    {
+      "start": 304.38,
+      "duration": 2.78,
+      "text": "And so by looking at his past preferences",
+      "en": "And so by looking at his past preferences",
+      "zh": ""
+    },
+    {
+      "start": 307.16,
+      "duration": 2.95,
+      "text": "we can make really good predictions for the future.",
+      "en": "we can make really good predictions for the future.",
+      "zh": ""
+    },
+    {
+      "start": 310.11,
+      "duration": 3.54,
+      "text": "If you show little Timmy here a toy that is this complicated",
+      "en": "If you show little Timmy here a toy that is this complicated",
+      "zh": ""
+    },
+    {
+      "start": 313.65,
+      "duration": 2.28,
+      "text": "and this big, we are confident that he'll",
+      "en": "and this big, we are confident that he'll",
+      "zh": ""
+    },
+    {
+      "start": 315.93,
+      "duration": 1.14,
+      "text": "like it before we even show it",
+      "en": "like it before we even show it",
+      "zh": ""
+    },
+    {
+      "start": 317.07,
+      "duration": 3.45,
+      "text": "to him because it is inside the like boundary.",
+      "en": "to him because it is inside the like boundary.",
+      "zh": ""
+    },
+    {
+      "start": 320.52,
+      "duration": 2.28,
+      "text": "That's the big deal with machine learning.",
+      "en": "That's the big deal with machine learning.",
+      "zh": ""
+    },
+    {
+      "start": 322.8,
+      "duration": 1.2,
+      "text": "We don't have to take the time",
+      "en": "We don't have to take the time",
+      "zh": ""
+    },
+    {
+      "start": 324.0,
+      "duration": 1.74,
+      "text": "and show little Timmy here every toy that's ever",
+      "en": "and show little Timmy here every toy that's ever",
+      "zh": ""
+    },
+    {
+      "start": 325.74,
+      "duration": 2.07,
+      "text": "been created and record his answers.",
+      "en": "been created and record his answers.",
+      "zh": ""
+    },
+    {
+      "start": 327.81,
+      "duration": 2.58,
+      "text": "After we record some likes and dislikes",
+      "en": "After we record some likes and dislikes",
+      "zh": ""
+    },
+    {
+      "start": 330.39,
+      "duration": 2.52,
+      "text": "we're able to draw some boundaries.",
+      "en": "we're able to draw some boundaries.",
+      "zh": ""
+    },
+    {
+      "start": 332.91,
+      "duration": 2.88,
+      "text": "And precisely where we draw these boundaries",
+      "en": "And precisely where we draw these boundaries",
+      "zh": ""
+    },
+    {
+      "start": 335.79,
+      "duration": 1.5,
+      "text": "is the secret sauce.",
+      "en": "is the secret sauce.",
+      "zh": ""
+    },
+    {
+      "start": 337.29,
+      "duration": 1.98,
+      "text": "In this case with just two inputs",
+      "en": "In this case with just two inputs",
+      "zh": ""
+    },
+    {
+      "start": 339.27,
+      "duration": 2.79,
+      "text": "you can just eyeball it and see where to put the boundaries.",
+      "en": "you can just eyeball it and see where to put the boundaries.",
+      "zh": ""
+    },
+    {
+      "start": 342.06,
+      "duration": 2.61,
+      "text": "But when you have thousands of inputs that interact",
+      "en": "But when you have thousands of inputs that interact",
+      "zh": ""
+    },
+    {
+      "start": 344.67,
+      "duration": 2.82,
+      "text": "with each other, it's impossible for our brains to",
+      "en": "with each other, it's impossible for our brains to",
+      "zh": ""
+    },
+    {
+      "start": 347.49,
+      "duration": 2.2,
+      "text": "comprehend where those boundaries should go.",
+      "en": "comprehend where those boundaries should go.",
+      "zh": ""
+    },
+    {
+      "start": 350.7,
+      "duration": 0.83,
+      "text": "However, it's pretty trivial",
+      "en": "However, it's pretty trivial",
+      "zh": ""
+    },
+    {
+      "start": 351.53,
+      "duration": 2.44,
+      "text": "for a computer using machine learning.",
+      "en": "for a computer using machine learning.",
+      "zh": ""
+    },
+    {
+      "start": 353.97,
+      "duration": 1.95,
+      "text": "- In doing research for this video, I talked to probably",
+      "en": "- In doing research for this video, I talked to probably",
+      "zh": ""
+    },
+    {
+      "start": 355.92,
+      "duration": 2.46,
+      "text": "over 50 baseball players and coaches, and when we asked",
+      "en": "over 50 baseball players and coaches, and when we asked",
+      "zh": ""
+    },
+    {
+      "start": 358.38,
+      "duration": 3.06,
+      "text": "about signs, it was surprising to me how they all basically",
+      "en": "about signs, it was surprising to me how they all basically",
+      "zh": ""
+    },
+    {
+      "start": 361.44,
+      "duration": 1.35,
+      "text": "use the same strategy.",
+      "en": "use the same strategy.",
+      "zh": ""
+    },
+    {
+      "start": 362.79,
+      "duration": 1.2,
+      "text": "See if you could pick up on it.",
+      "en": "See if you could pick up on it.",
+      "zh": ""
+    },
+    {
+      "start": 363.99,
+      "duration": 1.65,
+      "text": "- Every coach has an indicator.",
+      "en": "- Every coach has an indicator.",
+      "zh": ""
+    },
+    {
+      "start": 365.64,
+      "duration": 1.77,
+      "text": "- I have an indicator so I could do all this,",
+      "en": "- I have an indicator so I could do all this,",
+      "zh": ""
+    },
+    {
+      "start": 367.41,
+      "duration": 1.65,
+      "text": "you know, random stuff like this,",
+      "en": "you know, random stuff like this,",
+      "zh": ""
+    },
+    {
+      "start": 369.06,
+      "duration": 1.71,
+      "text": "touch anywhere until I touch this.",
+      "en": "touch anywhere until I touch this.",
+      "zh": ""
+    },
+    {
+      "start": 370.77,
+      "duration": 0.83,
+      "text": "None of that matters.",
+      "en": "None of that matters.",
+      "zh": ""
+    },
+    {
+      "start": 371.6,
+      "duration": 2.8,
+      "text": "- So it'd be indicator and the next sign, that's a hot sign.",
+      "en": "- So it'd be indicator and the next sign, that's a hot sign.",
+      "zh": ""
+    },
+    {
+      "start": 374.4,
+      "duration": 2.25,
+      "text": "So it's indicator arm steal.",
+      "en": "So it's indicator arm steal.",
+      "zh": ""
+    },
+    {
+      "start": 376.65,
+      "duration": 1.97,
+      "text": "If I just do the arm, that's nothing.",
+      "en": "If I just do the arm, that's nothing.",
+      "zh": ""
+    },
+    {
+      "start": 378.62,
+      "duration": 2.27,
+      "text": "- Oftentimes I'll give this,",
+      "en": "- Oftentimes I'll give this,",
+      "zh": ""
+    },
+    {
+      "start": 380.89,
+      "duration": 1.98,
+      "text": "Simon didn't say.",
+      "en": "Simon didn't say.",
+      "zh": ""
+    },
+    {
+      "start": 382.87,
+      "duration": 2.09,
+      "text": "If I go indicator,",
+      "en": "If I go indicator,",
+      "zh": ""
+    },
+    {
+      "start": 384.96,
+      "duration": 3.24,
+      "text": "and then immediately to anywhere on my arm, steal.",
+      "en": "and then immediately to anywhere on my arm, steal.",
+      "zh": ""
+    },
+    {
+      "start": 388.2,
+      "duration": 2.01,
+      "text": "Bunt is to the belly indicator of the belly.",
+      "en": "Bunt is to the belly indicator of the belly.",
+      "zh": ""
+    },
+    {
+      "start": 390.21,
+      "duration": 1.47,
+      "text": "- So basically nothing matters",
+      "en": "- So basically nothing matters",
+      "zh": ""
+    },
+    {
+      "start": 391.68,
+      "duration": 2.55,
+      "text": "and it's all a decoy until they touch the indicator.",
+      "en": "and it's all a decoy until they touch the indicator.",
+      "zh": ""
+    },
+    {
+      "start": 394.23,
+      "duration": 2.22,
+      "text": "And then the very next sign is the instruction.",
+      "en": "And then the very next sign is the instruction.",
+      "zh": ""
+    },
+    {
+      "start": 396.45,
+      "duration": 1.86,
+      "text": "So after the indicator, you might be told to bunt",
+      "en": "So after the indicator, you might be told to bunt",
+      "zh": ""
+    },
+    {
+      "start": 398.31,
+      "duration": 3.15,
+      "text": "or to take a pitch or to steal.",
+      "en": "or to take a pitch or to steal.",
+      "zh": ""
+    },
+    {
+      "start": 401.46,
+      "duration": 1.83,
+      "text": "And so since the steal sign comes immediately",
+      "en": "And so since the steal sign comes immediately",
+      "zh": ""
+    },
+    {
+      "start": 403.29,
+      "duration": 1.59,
+      "text": "after the indicator, we just look",
+      "en": "after the indicator, we just look",
+      "zh": ""
+    },
+    {
+      "start": 404.88,
+      "duration": 2.25,
+      "text": "at a sequence where steal was recorded here",
+      "en": "at a sequence where steal was recorded here",
+      "zh": ""
+    },
+    {
+      "start": 407.13,
+      "duration": 1.02,
+      "text": "that's showing as one.",
+      "en": "that's showing as one.",
+      "zh": ""
+    },
+    {
+      "start": 408.15,
+      "duration": 1.74,
+      "text": "Then we look through that sequence two letters",
+      "en": "Then we look through that sequence two letters",
+      "zh": ""
+    },
+    {
+      "start": 409.89,
+      "duration": 1.86,
+      "text": "at a time and store those combos.",
+      "en": "at a time and store those combos.",
+      "zh": ""
+    },
+    {
+      "start": 411.75,
+      "duration": 0.99,
+      "text": "And we do the same thing",
+      "en": "And we do the same thing",
+      "zh": ""
+    },
+    {
+      "start": 412.74,
+      "duration": 2.55,
+      "text": "for all the sequences where steal was recorded",
+      "en": "for all the sequences where steal was recorded",
+      "zh": ""
+    },
+    {
+      "start": 415.29,
+      "duration": 1.86,
+      "text": "and whatever two letter combo shows up",
+      "en": "and whatever two letter combo shows up",
+      "zh": ""
+    },
+    {
+      "start": 417.15,
+      "duration": 3.09,
+      "text": "in all of them is their indicator and steal sign.",
+      "en": "in all of them is their indicator and steal sign.",
+      "zh": ""
+    },
+    {
+      "start": 420.24,
+      "duration": 1.62,
+      "text": "In this case it's AD.",
+      "en": "In this case it's AD.",
+      "zh": ""
+    },
+    {
+      "start": 421.86,
+      "duration": 2.82,
+      "text": "So if we decode that, that means nose is their indicator",
+      "en": "So if we decode that, that means nose is their indicator",
+      "zh": ""
+    },
+    {
+      "start": 424.68,
+      "duration": 1.74,
+      "text": "and chin is their steal sign.",
+      "en": "and chin is their steal sign.",
+      "zh": ""
+    },
+    {
+      "start": 426.42,
+      "duration": 1.26,
+      "text": "Now I have a confession.",
+      "en": "Now I have a confession.",
+      "zh": ""
+    },
+    {
+      "start": 427.68,
+      "duration": 2.85,
+      "text": "What I just showed you doesn't use machine learning at all.",
+      "en": "What I just showed you doesn't use machine learning at all.",
+      "zh": ""
+    },
+    {
+      "start": 430.53,
+      "duration": 2.19,
+      "text": "It's just a simple algorithm we realize would work",
+      "en": "It's just a simple algorithm we realize would work",
+      "zh": ""
+    },
+    {
+      "start": 432.72,
+      "duration": 2.16,
+      "text": "once we discover that pretty much all teams",
+      "en": "once we discover that pretty much all teams",
+      "zh": ""
+    },
+    {
+      "start": 434.88,
+      "duration": 3.66,
+      "text": "will use an indicator directly before giving the real sign.",
+      "en": "will use an indicator directly before giving the real sign.",
+      "zh": ""
+    },
+    {
+      "start": 438.54,
+      "duration": 1.62,
+      "text": "But based off all the people we talk to",
+      "en": "But based off all the people we talk to",
+      "zh": ""
+    },
+    {
+      "start": 440.16,
+      "duration": 1.74,
+      "text": "if you're trying to decode signs",
+      "en": "if you're trying to decode signs",
+      "zh": ""
+    },
+    {
+      "start": 441.9,
+      "duration": 3.24,
+      "text": "this simple version should work like 90% of the time.",
+      "en": "this simple version should work like 90% of the time.",
+      "zh": ""
+    },
+    {
+      "start": 445.14,
+      "duration": 2.79,
+      "text": "But what about the other 10% where they do anything other",
+      "en": "But what about the other 10% where they do anything other",
+      "zh": ""
+    },
+    {
+      "start": 447.93,
+      "duration": 1.92,
+      "text": "than indicator followed by sign?",
+      "en": "than indicator followed by sign?",
+      "zh": ""
+    },
+    {
+      "start": 449.85,
+      "duration": 1.44,
+      "text": "That's where you need machine learning",
+      "en": "That's where you need machine learning",
+      "zh": ""
+    },
+    {
+      "start": 451.29,
+      "duration": 1.26,
+      "text": "because if done properly",
+      "en": "because if done properly",
+      "zh": ""
+    },
+    {
+      "start": 452.55,
+      "duration": 2.28,
+      "text": "machine learning can crack any code as long",
+      "en": "machine learning can crack any code as long",
+      "zh": ""
+    },
+    {
+      "start": 454.83,
+      "duration": 1.41,
+      "text": "as you give it enough training data.",
+      "en": "as you give it enough training data.",
+      "zh": ""
+    },
+    {
+      "start": 456.24,
+      "duration": 2.01,
+      "text": "So to really see how good Jabril's machine",
+      "en": "So to really see how good Jabril's machine",
+      "zh": ""
+    },
+    {
+      "start": 458.25,
+      "duration": 2.52,
+      "text": "learning app was, I generated some training data based",
+      "en": "learning app was, I generated some training data based",
+      "zh": ""
+    },
+    {
+      "start": 460.77,
+      "duration": 3.0,
+      "text": "off an insanely complicated steal sign I came",
+      "en": "off an insanely complicated steal sign I came",
+      "zh": ""
+    },
+    {
+      "start": 463.77,
+      "duration": 1.77,
+      "text": "up with to see if he could figure it out.",
+      "en": "up with to see if he could figure it out.",
+      "zh": ""
+    },
+    {
+      "start": 465.54,
+      "duration": 2.31,
+      "text": "So my secret sign was a mustache rub",
+      "en": "So my secret sign was a mustache rub",
+      "zh": ""
+    },
+    {
+      "start": 467.85,
+      "duration": 2.73,
+      "text": "as the indicator followed by any random sign",
+      "en": "as the indicator followed by any random sign",
+      "zh": ""
+    },
+    {
+      "start": 470.58,
+      "duration": 2.46,
+      "text": "and then a tooth tap as the steal sign",
+      "en": "and then a tooth tap as the steal sign",
+      "zh": ""
+    },
+    {
+      "start": 473.04,
+      "duration": 1.83,
+      "text": "then I can have up to 50 different signals",
+      "en": "then I can have up to 50 different signals",
+      "zh": ""
+    },
+    {
+      "start": 474.87,
+      "duration": 2.4,
+      "text": "in each sequence and then to throw 'em off even more",
+      "en": "in each sequence and then to throw 'em off even more",
+      "zh": ""
+    },
+    {
+      "start": 477.27,
+      "duration": 2.64,
+      "text": "if I ever touch my right eyebrow, it's not a steal.",
+      "en": "if I ever touch my right eyebrow, it's not a steal.",
+      "zh": ""
+    },
+    {
+      "start": 479.91,
+      "duration": 1.95,
+      "text": "So you ignore everything in the sequence",
+      "en": "So you ignore everything in the sequence",
+      "zh": ""
+    },
+    {
+      "start": 481.86,
+      "duration": 1.74,
+      "text": "even if I've already given the steal sign.",
+      "en": "even if I've already given the steal sign.",
+      "zh": ""
+    },
+    {
+      "start": 483.6,
+      "duration": 1.11,
+      "text": "Now, just to set the stage",
+      "en": "Now, just to set the stage",
+      "zh": ""
+    },
+    {
+      "start": 484.71,
+      "duration": 1.5,
+      "text": "if we weren't going to use machine learning",
+      "en": "if we weren't going to use machine learning",
+      "zh": ""
+    },
+    {
+      "start": 486.21,
+      "duration": 1.83,
+      "text": "this would take a normal computer thousands",
+      "en": "this would take a normal computer thousands",
+      "zh": ""
+    },
+    {
+      "start": 488.04,
+      "duration": 1.68,
+      "text": "of years to solve because it's the same",
+      "en": "of years to solve because it's the same",
+      "zh": ""
+    },
+    {
+      "start": 489.72,
+      "duration": 2.64,
+      "text": "as if you're asking Timmy about every toy ever made,",
+      "en": "as if you're asking Timmy about every toy ever made,",
+      "zh": ""
+    },
+    {
+      "start": 492.36,
+      "duration": 1.68,
+      "text": "instead of just drawing the boundaries.",
+      "en": "instead of just drawing the boundaries.",
+      "zh": ""
+    },
+    {
+      "start": 494.04,
+      "duration": 3.09,
+      "text": "Before we see if Jabril can successfully crack my code",
+      "en": "Before we see if Jabril can successfully crack my code",
+      "zh": ""
+    },
+    {
+      "start": 497.13,
+      "duration": 1.5,
+      "text": "and how long it will take him",
+      "en": "and how long it will take him",
+      "zh": ""
+    },
+    {
+      "start": 498.63,
+      "duration": 2.97,
+      "text": "let's just go one layer deeper than the Timmy toy example",
+      "en": "let's just go one layer deeper than the Timmy toy example",
+      "zh": ""
+    },
+    {
+      "start": 501.6,
+      "duration": 2.91,
+      "text": "and see how machine learning mimics the human brain",
+      "en": "and see how machine learning mimics the human brain",
+      "zh": ""
+    },
+    {
+      "start": 504.51,
+      "duration": 3.15,
+      "text": "in creating neural networks that can draw those boundaries,",
+      "en": "in creating neural networks that can draw those boundaries,",
+      "zh": ""
+    },
+    {
+      "start": 507.66,
+      "duration": 3.54,
+      "text": "in the more complicated case of more than two inputs.",
+      "en": "in the more complicated case of more than two inputs.",
+      "zh": ""
+    },
+    {
+      "start": 511.2,
+      "duration": 1.98,
+      "text": "There are three main parts to a neural network.",
+      "en": "There are three main parts to a neural network.",
+      "zh": ""
+    },
+    {
+      "start": 513.18,
+      "duration": 2.79,
+      "text": "And hang with me here because I'm going to keep this simple.",
+      "en": "And hang with me here because I'm going to keep this simple.",
+      "zh": ""
+    },
+    {
+      "start": 515.97,
+      "duration": 1.32,
+      "text": "You have the input layer, which",
+      "en": "You have the input layer, which",
+      "zh": ""
+    },
+    {
+      "start": 517.29,
+      "duration": 2.19,
+      "text": "in our case are the signs being given.",
+      "en": "in our case are the signs being given.",
+      "zh": ""
+    },
+    {
+      "start": 519.48,
+      "duration": 2.4,
+      "text": "And then way over here you have the output layer",
+      "en": "And then way over here you have the output layer",
+      "zh": ""
+    },
+    {
+      "start": 521.88,
+      "duration": 2.52,
+      "text": "in our case, steal or no steal.",
+      "en": "in our case, steal or no steal.",
+      "zh": ""
+    },
+    {
+      "start": 524.4,
+      "duration": 1.8,
+      "text": "And then in the middle we have the hidden layers.",
+      "en": "And then in the middle we have the hidden layers.",
+      "zh": ""
+    },
+    {
+      "start": 526.2,
+      "duration": 1.86,
+      "text": "And right now that's just a black box.",
+      "en": "And right now that's just a black box.",
+      "zh": ""
+    },
+    {
+      "start": 528.06,
+      "duration": 2.97,
+      "text": "So if a sign was hat, hat, nose, hand",
+      "en": "So if a sign was hat, hat, nose, hand",
+      "zh": ""
+    },
+    {
+      "start": 531.03,
+      "duration": 2.28,
+      "text": "we would tweak these input knobs like this.",
+      "en": "we would tweak these input knobs like this.",
+      "zh": ""
+    },
+    {
+      "start": 533.31,
+      "duration": 2.49,
+      "text": "Depending on how each of these knobs is turned",
+      "en": "Depending on how each of these knobs is turned",
+      "zh": ""
+    },
+    {
+      "start": 535.8,
+      "duration": 2.85,
+      "text": "each one is interconnected with the knobs to its left.",
+      "en": "each one is interconnected with the knobs to its left.",
+      "zh": ""
+    },
+    {
+      "start": 538.65,
+      "duration": 3.03,
+      "text": "So it causes some simple math to occur at each node.",
+      "en": "So it causes some simple math to occur at each node.",
+      "zh": ""
+    },
+    {
+      "start": 541.68,
+      "duration": 2.19,
+      "text": "And when you sum up all of those numbers",
+      "en": "And when you sum up all of those numbers",
+      "zh": ""
+    },
+    {
+      "start": 543.87,
+      "duration": 2.28,
+      "text": "you're left with a number between zero and one.",
+      "en": "you're left with a number between zero and one.",
+      "zh": ""
+    },
+    {
+      "start": 546.15,
+      "duration": 2.43,
+      "text": "And if that number is really close to zero, that's no steal.",
+      "en": "And if that number is really close to zero, that's no steal.",
+      "zh": ""
+    },
+    {
+      "start": 548.58,
+      "duration": 2.52,
+      "text": "And if the number is really close to one, that's a steal.",
+      "en": "And if the number is really close to one, that's a steal.",
+      "zh": ""
+    },
+    {
+      "start": 551.1,
+      "duration": 0.83,
+      "text": "So you give it a bunch",
+      "en": "So you give it a bunch",
+      "zh": ""
+    },
+    {
+      "start": 551.93,
+      "duration": 1.93,
+      "text": "of training data where given an input",
+      "en": "of training data where given an input",
+      "zh": ""
+    },
+    {
+      "start": 553.86,
+      "duration": 1.89,
+      "text": "you know what the output should be",
+      "en": "you know what the output should be",
+      "zh": ""
+    },
+    {
+      "start": 555.75,
+      "duration": 1.95,
+      "text": "and you start with these hidden layer knobs turned",
+      "en": "and you start with these hidden layer knobs turned",
+      "zh": ""
+    },
+    {
+      "start": 557.7,
+      "duration": 1.56,
+      "text": "in totally random directions",
+      "en": "in totally random directions",
+      "zh": ""
+    },
+    {
+      "start": 559.26,
+      "duration": 3.15,
+      "text": "and when you add them all up, you get something like 0.55.",
+      "en": "and when you add them all up, you get something like 0.55.",
+      "zh": ""
+    },
+    {
+      "start": 562.41,
+      "duration": 1.05,
+      "text": "Well that doesn't make sense.",
+      "en": "Well that doesn't make sense.",
+      "zh": ""
+    },
+    {
+      "start": 563.46,
+      "duration": 1.29,
+      "text": "You can't have half a steal.",
+      "en": "You can't have half a steal.",
+      "zh": ""
+    },
+    {
+      "start": 564.75,
+      "duration": 1.92,
+      "text": "And more importantly with the training data",
+      "en": "And more importantly with the training data",
+      "zh": ""
+    },
+    {
+      "start": 566.67,
+      "duration": 1.8,
+      "text": "you know the answers and you know",
+      "en": "you know the answers and you know",
+      "zh": ""
+    },
+    {
+      "start": 568.47,
+      "duration": 2.28,
+      "text": "that this combination should have been a steal.",
+      "en": "that this combination should have been a steal.",
+      "zh": ""
+    },
+    {
+      "start": 570.75,
+      "duration": 2.32,
+      "text": "So you just start tweaking these hidden layer knobs",
+      "en": "So you just start tweaking these hidden layer knobs",
+      "zh": ""
+    },
+    {
+      "start": 573.07,
+      "duration": 2.57,
+      "text": "until you start to get outputs that are more",
+      "en": "until you start to get outputs that are more",
+      "zh": ""
+    },
+    {
+      "start": 575.64,
+      "duration": 1.05,
+      "text": "correct over time.",
+      "en": "correct over time.",
+      "zh": ""
+    },
+    {
+      "start": 576.69,
+      "duration": 0.87,
+      "text": "And after going through a bunch",
+      "en": "And after going through a bunch",
+      "zh": ""
+    },
+    {
+      "start": 577.56,
+      "duration": 2.25,
+      "text": "of examples where you know what the answer should be",
+      "en": "of examples where you know what the answer should be",
+      "zh": ""
+    },
+    {
+      "start": 579.81,
+      "duration": 2.52,
+      "text": "eventually you get to a point where any more tweaking",
+      "en": "eventually you get to a point where any more tweaking",
+      "zh": ""
+    },
+    {
+      "start": 582.33,
+      "duration": 2.28,
+      "text": "of the knobs just makes it less accurate.",
+      "en": "of the knobs just makes it less accurate.",
+      "zh": ""
+    },
+    {
+      "start": 584.61,
+      "duration": 0.83,
+      "text": "So you stop.",
+      "en": "So you stop.",
+      "zh": ""
+    },
+    {
+      "start": 585.44,
+      "duration": 2.77,
+      "text": "So now you super glue these three hidden layer knobs",
+      "en": "So now you super glue these three hidden layer knobs",
+      "zh": ""
+    },
+    {
+      "start": 588.21,
+      "duration": 2.13,
+      "text": "into place because you've trained your model.",
+      "en": "into place because you've trained your model.",
+      "zh": ""
+    },
+    {
+      "start": 590.34,
+      "duration": 1.86,
+      "text": "And so now with the brand new input",
+      "en": "And so now with the brand new input",
+      "zh": ""
+    },
+    {
+      "start": 592.2,
+      "duration": 1.5,
+      "text": "where you don't know the answer",
+      "en": "where you don't know the answer",
+      "zh": ""
+    },
+    {
+      "start": 593.7,
+      "duration": 1.38,
+      "text": "it gives you the correct output.",
+      "en": "it gives you the correct output.",
+      "zh": ""
+    },
+    {
+      "start": 595.08,
+      "duration": 1.32,
+      "text": "In this case, a steal.",
+      "en": "In this case, a steal.",
+      "zh": ""
+    },
+    {
+      "start": 596.4,
+      "duration": 1.5,
+      "text": "Of course, this is a simple model",
+      "en": "Of course, this is a simple model",
+      "zh": ""
+    },
+    {
+      "start": 597.9,
+      "duration": 2.19,
+      "text": "but this scales up so you could have thousands",
+      "en": "but this scales up so you could have thousands",
+      "zh": ""
+    },
+    {
+      "start": 600.09,
+      "duration": 2.79,
+      "text": "of inputs and thousands of outputs, and you're",
+      "en": "of inputs and thousands of outputs, and you're",
+      "zh": ""
+    },
+    {
+      "start": 602.88,
+      "duration": 2.69,
+      "text": "able to discover really complicated relationships.",
+      "en": "able to discover really complicated relationships.",
+      "zh": ""
+    },
+    {
+      "start": 605.57,
+      "duration": 2.65,
+      "text": "What's so cool about this is this is basically",
+      "en": "What's so cool about this is this is basically",
+      "zh": ""
+    },
+    {
+      "start": 608.22,
+      "duration": 3.09,
+      "text": "how neural networks in our own brains are set up to learn.",
+      "en": "how neural networks in our own brains are set up to learn.",
+      "zh": ""
+    },
+    {
+      "start": 611.31,
+      "duration": 1.71,
+      "text": "Once I've been given enough training data to",
+      "en": "Once I've been given enough training data to",
+      "zh": ""
+    },
+    {
+      "start": 613.02,
+      "duration": 1.92,
+      "text": "understand the interaction between my hand",
+      "en": "understand the interaction between my hand",
+      "zh": ""
+    },
+    {
+      "start": 614.94,
+      "duration": 2.28,
+      "text": "and arm and keeping something balanced like this",
+      "en": "and arm and keeping something balanced like this",
+      "zh": ""
+    },
+    {
+      "start": 617.22,
+      "duration": 1.5,
+      "text": "then my model is trained",
+      "en": "then my model is trained",
+      "zh": ""
+    },
+    {
+      "start": 618.72,
+      "duration": 2.46,
+      "text": "and I super glue those middle knobs in my brain",
+      "en": "and I super glue those middle knobs in my brain",
+      "zh": ""
+    },
+    {
+      "start": 621.18,
+      "duration": 2.73,
+      "text": "then I can introduce a totally new input I've never",
+      "en": "then I can introduce a totally new input I've never",
+      "zh": ""
+    },
+    {
+      "start": 623.91,
+      "duration": 2.4,
+      "text": "tried before and I still know what to do.",
+      "en": "tried before and I still know what to do.",
+      "zh": ""
+    },
+    {
+      "start": 626.31,
+      "duration": 2.82,
+      "text": "I don't need to be trained on every possible different type",
+      "en": "I don't need to be trained on every possible different type",
+      "zh": ""
+    },
+    {
+      "start": 629.13,
+      "duration": 2.94,
+      "text": "of object because my brain has drawn the boundaries.",
+      "en": "of object because my brain has drawn the boundaries.",
+      "zh": ""
+    },
+    {
+      "start": 632.07,
+      "duration": 0.99,
+      "text": "Think about that.",
+      "en": "Think about that.",
+      "zh": ""
+    },
+    {
+      "start": 633.06,
+      "duration": 2.4,
+      "text": "For a long time before machine learning and neural networks",
+      "en": "For a long time before machine learning and neural networks",
+      "zh": ""
+    },
+    {
+      "start": 635.46,
+      "duration": 2.73,
+      "text": "computers were just following hard-coded instructions given",
+      "en": "computers were just following hard-coded instructions given",
+      "zh": ""
+    },
+    {
+      "start": 638.19,
+      "duration": 0.83,
+      "text": "by humans.",
+      "en": "by humans.",
+      "zh": ""
+    },
+    {
+      "start": 639.02,
+      "duration": 2.35,
+      "text": "Now they can learn like humans",
+      "en": "Now they can learn like humans",
+      "zh": ""
+    },
+    {
+      "start": 641.37,
+      "duration": 1.92,
+      "text": "only they can do it much faster",
+      "en": "only they can do it much faster",
+      "zh": ""
+    },
+    {
+      "start": 643.29,
+      "duration": 2.25,
+      "text": "and more comprehensively than we can.",
+      "en": "and more comprehensively than we can.",
+      "zh": ""
+    },
+    {
+      "start": 645.54,
+      "duration": 0.83,
+      "text": "Obligatory.",
+      "en": "Obligatory.",
+      "zh": ""
+    },
+    {
+      "start": 647.4,
+      "duration": 1.5,
+      "text": "And that's why when I gave Jabril the challenge",
+      "en": "And that's why when I gave Jabril the challenge",
+      "zh": ""
+    },
+    {
+      "start": 648.9,
+      "duration": 1.8,
+      "text": "that would take a normal computer using brute force",
+      "en": "that would take a normal computer using brute force",
+      "zh": ""
+    },
+    {
+      "start": 650.7,
+      "duration": 2.2,
+      "text": "methods thousands of years to solve",
+      "en": "methods thousands of years to solve",
+      "zh": ""
+    },
+    {
+      "start": 655.83,
+      "duration": 3.18,
+      "text": "- Yo man, that's fast, please tell me",
+      "en": "- Yo man, that's fast, please tell me",
+      "zh": ""
+    },
+    {
+      "start": 659.01,
+      "duration": 3.78,
+      "text": "that your indicator is a mustache rub.",
+      "en": "that your indicator is a mustache rub.",
+      "zh": ""
+    },
+    {
+      "start": 662.79,
+      "duration": 2.46,
+      "text": "And then you have whatever.",
+      "en": "And then you have whatever.",
+      "zh": ""
+    },
+    {
+      "start": 665.25,
+      "duration": 1.65,
+      "text": "And then a tooth tap.",
+      "en": "And then a tooth tap.",
+      "zh": ""
+    },
+    {
+      "start": 668.55,
+      "duration": 0.83,
+      "text": "Is that it?",
+      "en": "Is that it?",
+      "zh": ""
+    },
+    {
+      "start": 670.41,
+      "duration": 0.96,
+      "text": "- That's it.",
+      "en": "- That's it.",
+      "zh": ""
+    },
+    {
+      "start": 671.37,
+      "duration": 1.65,
+      "text": "Jabril's machine learning algorithm just",
+      "en": "Jabril's machine learning algorithm just",
+      "zh": ""
+    },
+    {
+      "start": 673.02,
+      "duration": 1.44,
+      "text": "created the right boundaries",
+      "en": "created the right boundaries",
+      "zh": ""
+    },
+    {
+      "start": 674.46,
+      "duration": 2.13,
+      "text": "and solved it in less than three minutes.",
+      "en": "and solved it in less than three minutes.",
+      "zh": ""
+    },
+    {
+      "start": 676.59,
+      "duration": 2.01,
+      "text": "The machine learning model requires more data",
+      "en": "The machine learning model requires more data",
+      "zh": ""
+    },
+    {
+      "start": 678.6,
+      "duration": 1.11,
+      "text": "than our simple version",
+      "en": "than our simple version",
+      "zh": ""
+    },
+    {
+      "start": 679.71,
+      "duration": 2.13,
+      "text": "which can solve it after like three sequences.",
+      "en": "which can solve it after like three sequences.",
+      "zh": ""
+    },
+    {
+      "start": 681.84,
+      "duration": 3.75,
+      "text": "But the upside is that it will eventually decode any set",
+      "en": "But the upside is that it will eventually decode any set",
+      "zh": ""
+    },
+    {
+      "start": 685.59,
+      "duration": 2.46,
+      "text": "of signs as long as you're capturing the inputs right.",
+      "en": "of signs as long as you're capturing the inputs right.",
+      "zh": ""
+    },
+    {
+      "start": 688.05,
+      "duration": 2.85,
+      "text": "And so now it was time for a real life test.",
+      "en": "And so now it was time for a real life test.",
+      "zh": ""
+    },
+    {
+      "start": 690.9,
+      "duration": 3.27,
+      "text": "So I asked my buddy Destin to do some secretive recon work.",
+      "en": "So I asked my buddy Destin to do some secretive recon work.",
+      "zh": ""
+    },
+    {
+      "start": 694.17,
+      "duration": 1.71,
+      "text": "- Okay, dude, this is the field I used to play at",
+      "en": "- Okay, dude, this is the field I used to play at",
+      "zh": ""
+    },
+    {
+      "start": 695.88,
+      "duration": 0.83,
+      "text": "growing up.",
+      "en": "growing up.",
+      "zh": ""
+    },
+    {
+      "start": 696.71,
+      "duration": 2.08,
+      "text": "Today, my son is playing on the rascals.",
+      "en": "Today, my son is playing on the rascals.",
+      "zh": ""
+    },
+    {
+      "start": 698.79,
+      "duration": 2.91,
+      "text": "I'm gonna go film third base coaches doing their thing",
+      "en": "I'm gonna go film third base coaches doing their thing",
+      "zh": ""
+    },
+    {
+      "start": 701.7,
+      "duration": 0.96,
+      "text": "and we'll plug all that data",
+      "en": "and we'll plug all that data",
+      "zh": ""
+    },
+    {
+      "start": 702.66,
+      "duration": 1.38,
+      "text": "into the machine learning algorithm.",
+      "en": "into the machine learning algorithm.",
+      "zh": ""
+    },
+    {
+      "start": 704.04,
+      "duration": 1.16,
+      "text": "These kids are yelling at me",
+      "en": "These kids are yelling at me",
+      "zh": ""
+    },
+    {
+      "start": 705.2,
+      "duration": 1.66,
+      "text": "wanting me to know what my channel is.",
+      "en": "wanting me to know what my channel is.",
+      "zh": ""
+    },
+    {
+      "start": 706.86,
+      "duration": 2.1,
+      "text": "- And the fact they didn't recognize him just proved to me",
+      "en": "- And the fact they didn't recognize him just proved to me",
+      "zh": ""
+    },
+    {
+      "start": 708.96,
+      "duration": 1.89,
+      "text": "that whatever was happening in this region was a totally",
+      "en": "that whatever was happening in this region was a totally",
+      "zh": ""
+    },
+    {
+      "start": 710.85,
+      "duration": 1.59,
+      "text": "effective disguise.",
+      "en": "effective disguise.",
+      "zh": ""
+    },
+    {
+      "start": 712.44,
+      "duration": 2.28,
+      "text": "And thanks to Dustin's great interviews and raw footage",
+      "en": "And thanks to Dustin's great interviews and raw footage",
+      "zh": ""
+    },
+    {
+      "start": 714.72,
+      "duration": 1.65,
+      "text": "we were able to get even more data to show",
+      "en": "we were able to get even more data to show",
+      "zh": ""
+    },
+    {
+      "start": 716.37,
+      "duration": 1.5,
+      "text": "that our methods totally worked.",
+      "en": "that our methods totally worked.",
+      "zh": ""
+    },
+    {
+      "start": 717.87,
+      "duration": 2.61,
+      "text": "And while Destin just brazenly set up a tripod",
+      "en": "And while Destin just brazenly set up a tripod",
+      "zh": ""
+    },
+    {
+      "start": 720.48,
+      "duration": 2.18,
+      "text": "and filmed all these third base coaches.",
+      "en": "and filmed all these third base coaches.",
+      "zh": ""
+    },
+    {
+      "start": 722.66,
+      "duration": 1.45,
+      "text": "- Before you do that, you need to talk to 'em.",
+      "en": "- Before you do that, you need to talk to 'em.",
+      "zh": ""
+    },
+    {
+      "start": 724.11,
+      "duration": 0.84,
+      "text": "Say, hey, this what I'm doing.",
+      "en": "Say, hey, this what I'm doing.",
+      "zh": ""
+    },
+    {
+      "start": 724.95,
+      "duration": 1.65,
+      "text": "- Yeah, 'cause signs are pretty secret, right?",
+      "en": "- Yeah, 'cause signs are pretty secret, right?",
+      "zh": ""
+    },
+    {
+      "start": 726.6,
+      "duration": 1.26,
+      "text": "- Yeah. - Oh yes.",
+      "en": "- Yeah. - Oh yes.",
+      "zh": ""
+    },
+    {
+      "start": 727.86,
+      "duration": 1.11,
+      "text": "- Yes, sir. Got it.",
+      "en": "- Yes, sir. Got it.",
+      "zh": ""
+    },
+    {
+      "start": 730.75,
+      "duration": 2.21,
+      "text": "I got in trouble for stealing signs.",
+      "en": "I got in trouble for stealing signs.",
+      "zh": ""
+    },
+    {
+      "start": 732.96,
+      "duration": 2.43,
+      "text": "- I was a little more nervous and discreet.",
+      "en": "- I was a little more nervous and discreet.",
+      "zh": ""
+    },
+    {
+      "start": 735.39,
+      "duration": 1.55,
+      "text": "If you put a GoPro in a cup, you can actually",
+      "en": "If you put a GoPro in a cup, you can actually",
+      "zh": ""
+    },
+    {
+      "start": 736.94,
+      "duration": 3.46,
+      "text": "just watch the footage and frame the shot real time",
+      "en": "just watch the footage and frame the shot real time",
+      "zh": ""
+    },
+    {
+      "start": 740.4,
+      "duration": 1.68,
+      "text": "and it just looks like your checking dank memes",
+      "en": "and it just looks like your checking dank memes",
+      "zh": ""
+    },
+    {
+      "start": 742.08,
+      "duration": 0.96,
+      "text": "with a drink in your hand.",
+      "en": "with a drink in your hand.",
+      "zh": ""
+    },
+    {
+      "start": 743.04,
+      "duration": 1.77,
+      "text": "I've actually used this trick a few times",
+      "en": "I've actually used this trick a few times",
+      "zh": ""
+    },
+    {
+      "start": 744.81,
+      "duration": 2.52,
+      "text": "especially on my carnival scam science video.",
+      "en": "especially on my carnival scam science video.",
+      "zh": ""
+    },
+    {
+      "start": 747.33,
+      "duration": 2.61,
+      "text": "So just like with Dustin's footage, it worked perfectly",
+      "en": "So just like with Dustin's footage, it worked perfectly",
+      "zh": ""
+    },
+    {
+      "start": 749.94,
+      "duration": 2.88,
+      "text": "at the games I went to, and it was just a cool feeling",
+      "en": "at the games I went to, and it was just a cool feeling",
+      "zh": ""
+    },
+    {
+      "start": 752.82,
+      "duration": 1.62,
+      "text": "once you'd cracked their code.",
+      "en": "once you'd cracked their code.",
+      "zh": ""
+    },
+    {
+      "start": 754.44,
+      "duration": 2.25,
+      "text": "- Okay, steal, they're about to steal.",
+      "en": "- Okay, steal, they're about to steal.",
+      "zh": ""
+    },
+    {
+      "start": 756.69,
+      "duration": 2.97,
+      "text": "To be able to predict exactly what was coming next.",
+      "en": "To be able to predict exactly what was coming next.",
+      "zh": ""
+    },
+    {
+      "start": 759.66,
+      "duration": 1.57,
+      "text": "There he goes, there he goes.",
+      "en": "There he goes, there he goes.",
+      "zh": ""
+    },
+    {
+      "start": 763.41,
+      "duration": 1.14,
+      "text": "Knew he was gonna steal.",
+      "en": "Knew he was gonna steal.",
+      "zh": ""
+    },
+    {
+      "start": 764.55,
+      "duration": 1.44,
+      "text": "I knew it.",
+      "en": "I knew it.",
+      "zh": ""
+    },
+    {
+      "start": 765.99,
+      "duration": 1.95,
+      "text": "I hope you enjoy this excuse to learn more",
+      "en": "I hope you enjoy this excuse to learn more",
+      "zh": ""
+    },
+    {
+      "start": 767.94,
+      "duration": 1.83,
+      "text": "about machine learning as much as I did.",
+      "en": "about machine learning as much as I did.",
+      "zh": ""
+    },
+    {
+      "start": 769.77,
+      "duration": 2.04,
+      "text": "I'll put links to both versions of the app",
+      "en": "I'll put links to both versions of the app",
+      "zh": ""
+    },
+    {
+      "start": 771.81,
+      "duration": 2.19,
+      "text": "in the video description for you to check out.",
+      "en": "in the video description for you to check out.",
+      "zh": ""
+    },
+    {
+      "start": 774.0,
+      "duration": 1.8,
+      "text": "And of course, if there are specific rules",
+      "en": "And of course, if there are specific rules",
+      "zh": ""
+    },
+    {
+      "start": 775.8,
+      "duration": 2.61,
+      "text": "against using technology to seal signs in your league",
+      "en": "against using technology to seal signs in your league",
+      "zh": ""
+    },
+    {
+      "start": 778.41,
+      "duration": 2.1,
+      "text": "I am not telling you to break them.",
+      "en": "I am not telling you to break them.",
+      "zh": ""
+    },
+    {
+      "start": 780.51,
+      "duration": 1.67,
+      "text": "Otherwise, from personal experience, you might",
+      "en": "Otherwise, from personal experience, you might",
+      "zh": ""
+    },
+    {
+      "start": 782.18,
+      "duration": 2.92,
+      "text": "risk getting some very important people mad at you.",
+      "en": "risk getting some very important people mad at you.",
+      "zh": ""
+    },
+    {
+      "start": 785.1,
+      "duration": 1.25,
+      "text": "- You cheated, Mark Rova!",
+      "en": "- You cheated, Mark Rova!",
+      "zh": ""
+    }
+  ],
+  "words": []
+}

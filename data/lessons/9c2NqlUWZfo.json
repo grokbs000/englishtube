@@ -1,0 +1,6207 @@
+{
+  "cues": [
+    {
+      "start": 0.01,
+      "duration": 2.08,
+      "text": "This is the world's largest Nerf gun.",
+      "en": "This is the world's largest Nerf gun.",
+      "zh": ""
+    },
+    {
+      "start": 3.26,
+      "duration": 1.75,
+      "text": "This is a normal Nerf gun.",
+      "en": "This is a normal Nerf gun.",
+      "zh": ""
+    },
+    {
+      "start": 5.76,
+      "duration": 0.96,
+      "text": "And for the past year,",
+      "en": "And for the past year,",
+      "zh": ""
+    },
+    {
+      "start": 6.72,
+      "duration": 1.91,
+      "text": "I've been making good use of my time",
+      "en": "I've been making good use of my time",
+      "zh": ""
+    },
+    {
+      "start": 8.63,
+      "duration": 1.38,
+      "text": "by working on this",
+      "en": "by working on this",
+      "zh": ""
+    },
+    {
+      "start": 10.01,
+      "duration": 2.04,
+      "text": "the world's smallest Nerf gun",
+      "en": "the world's smallest Nerf gun",
+      "zh": ""
+    },
+    {
+      "start": 12.05,
+      "duration": 1.46,
+      "text": "where you can actually cock",
+      "en": "where you can actually cock",
+      "zh": ""
+    },
+    {
+      "start": 13.51,
+      "duration": 1.96,
+      "text": "it back and fire a dart.",
+      "en": "it back and fire a dart.",
+      "zh": ""
+    },
+    {
+      "start": 15.47,
+      "duration": 1.12,
+      "text": "And while this is now",
+      "en": "And while this is now",
+      "zh": ""
+    },
+    {
+      "start": 16.59,
+      "duration": 1.83,
+      "text": "the current world's smallest Nerf gun,",
+      "en": "the current world's smallest Nerf gun,",
+      "zh": ""
+    },
+    {
+      "start": 18.42,
+      "duration": 1.09,
+      "text": "our goal for today",
+      "en": "our goal for today",
+      "zh": ""
+    },
+    {
+      "start": 19.51,
+      "duration": 1.21,
+      "text": "is to break that record",
+      "en": "is to break that record",
+      "zh": ""
+    },
+    {
+      "start": 20.72,
+      "duration": 3.58,
+      "text": "not once, not twice, but three times,",
+      "en": "not once, not twice, but three times,",
+      "zh": ""
+    },
+    {
+      "start": 24.3,
+      "duration": 1.87,
+      "text": "shrinking it by a factor of ten",
+      "en": "shrinking it by a factor of ten",
+      "zh": ""
+    },
+    {
+      "start": 26.17,
+      "duration": 1.5,
+      "text": "each time we move down.",
+      "en": "each time we move down.",
+      "zh": ""
+    },
+    {
+      "start": 27.67,
+      "duration": 1.25,
+      "text": "And if I'm math’s correct,",
+      "en": "And if I'm math’s correct,",
+      "zh": ""
+    },
+    {
+      "start": 28.92,
+      "duration": 1.88,
+      "text": "that means by the time we get here,",
+      "en": "that means by the time we get here,",
+      "zh": ""
+    },
+    {
+      "start": 30.8,
+      "duration": 0.79,
+      "text": "you'll be able to fit",
+      "en": "you'll be able to fit",
+      "zh": ""
+    },
+    {
+      "start": 31.59,
+      "duration": 1.13,
+      "text": "five of them",
+      "en": "five of them",
+      "zh": ""
+    },
+    {
+      "start": 32.72,
+      "duration": 2.66,
+      "text": "across the width of a single human hair.",
+      "en": "across the width of a single human hair.",
+      "zh": ""
+    },
+    {
+      "start": 35.38,
+      "duration": 1.34,
+      "text": "But before we can start breaking",
+      "en": "But before we can start breaking",
+      "zh": ""
+    },
+    {
+      "start": 36.72,
+      "duration": 1.0,
+      "text": "all these records,",
+      "en": "all these records,",
+      "zh": ""
+    },
+    {
+      "start": 37.72,
+      "duration": 0.7,
+      "text": "we need to talk about",
+      "en": "we need to talk about",
+      "zh": ""
+    },
+    {
+      "start": 38.42,
+      "duration": 2.0,
+      "text": "the first major problem we encountered",
+      "en": "the first major problem we encountered",
+      "zh": ""
+    },
+    {
+      "start": 40.42,
+      "duration": 1.38,
+      "text": "just to get here.",
+      "en": "just to get here.",
+      "zh": ""
+    },
+    {
+      "start": 41.8,
+      "duration": 1.54,
+      "text": "And it relates to the fundamental",
+      "en": "And it relates to the fundamental",
+      "zh": ""
+    },
+    {
+      "start": 43.34,
+      "duration": 1.42,
+      "text": "way a Nerf gun works.",
+      "en": "way a Nerf gun works.",
+      "zh": ""
+    },
+    {
+      "start": 44.76,
+      "duration": 1.16,
+      "text": "Because when you pull the gray",
+      "en": "Because when you pull the gray",
+      "zh": ""
+    },
+    {
+      "start": 45.92,
+      "duration": 1.88,
+      "text": "cocking mechanism back, it brings",
+      "en": "cocking mechanism back, it brings",
+      "zh": ""
+    },
+    {
+      "start": 47.8,
+      "duration": 1.87,
+      "text": "this spring loaded piston with it",
+      "en": "this spring loaded piston with it",
+      "zh": ""
+    },
+    {
+      "start": 49.67,
+      "duration": 2.0,
+      "text": "all the way back until it hooks in",
+      "en": "all the way back until it hooks in",
+      "zh": ""
+    },
+    {
+      "start": 51.67,
+      "duration": 1.55,
+      "text": "with this catch mechanism.",
+      "en": "with this catch mechanism.",
+      "zh": ""
+    },
+    {
+      "start": 53.22,
+      "duration": 2.29,
+      "text": "Now we're loaded and ready to fire.",
+      "en": "Now we're loaded and ready to fire.",
+      "zh": ""
+    },
+    {
+      "start": 55.51,
+      "duration": 1.62,
+      "text": "So now when you pull the spring loaded",
+      "en": "So now when you pull the spring loaded",
+      "zh": ""
+    },
+    {
+      "start": 57.13,
+      "duration": 1.0,
+      "text": "trigger back, it",
+      "en": "trigger back, it",
+      "zh": ""
+    },
+    {
+      "start": 58.13,
+      "duration": 1.04,
+      "text": "forces the catch",
+      "en": "forces the catch",
+      "zh": ""
+    },
+    {
+      "start": 59.17,
+      "duration": 1.46,
+      "text": "mechanism back down,",
+      "en": "mechanism back down,",
+      "zh": ""
+    },
+    {
+      "start": 60.63,
+      "duration": 1.67,
+      "text": "releasing the piston plunger,",
+      "en": "releasing the piston plunger,",
+      "zh": ""
+    },
+    {
+      "start": 62.3,
+      "duration": 1.96,
+      "text": "which quickly springs forward,",
+      "en": "which quickly springs forward,",
+      "zh": ""
+    },
+    {
+      "start": 64.26,
+      "duration": 2.46,
+      "text": "forcing all the air in the chamber out.",
+      "en": "forcing all the air in the chamber out.",
+      "zh": ""
+    },
+    {
+      "start": 66.72,
+      "duration": 1.25,
+      "text": "And since the lightweight foam",
+      "en": "And since the lightweight foam",
+      "zh": ""
+    },
+    {
+      "start": 67.97,
+      "duration": 1.7,
+      "text": "dart just happens to be in the way,",
+      "en": "dart just happens to be in the way,",
+      "zh": ""
+    },
+    {
+      "start": 69.67,
+      "duration": 1.55,
+      "text": "it goes along for the ride,",
+      "en": "it goes along for the ride,",
+      "zh": ""
+    },
+    {
+      "start": 71.22,
+      "duration": 1.41,
+      "text": "and if you actually take one apart,",
+      "en": "and if you actually take one apart,",
+      "zh": ""
+    },
+    {
+      "start": 72.63,
+      "duration": 0.42,
+      "text": "you'll find",
+      "en": "you'll find",
+      "zh": ""
+    },
+    {
+      "start": 73.05,
+      "duration": 1.71,
+      "text": "it's made from 87 parts,",
+      "en": "it's made from 87 parts,",
+      "zh": ""
+    },
+    {
+      "start": 74.76,
+      "duration": 2.71,
+      "text": "13 springs and six hinges.",
+      "en": "13 springs and six hinges.",
+      "zh": ""
+    },
+    {
+      "start": 77.47,
+      "duration": 1.37,
+      "text": "And so the first problem you face,",
+      "en": "And so the first problem you face,",
+      "zh": ""
+    },
+    {
+      "start": 78.84,
+      "duration": 0.92,
+      "text": "if you're trying to shrink",
+      "en": "if you're trying to shrink",
+      "zh": ""
+    },
+    {
+      "start": 79.76,
+      "duration": 2.0,
+      "text": "that down to human hair scale, is",
+      "en": "that down to human hair scale, is",
+      "zh": ""
+    },
+    {
+      "start": 81.76,
+      "duration": 1.12,
+      "text": "it would be impossible",
+      "en": "it would be impossible",
+      "zh": ""
+    },
+    {
+      "start": 82.88,
+      "duration": 0.75,
+      "text": "to assemble",
+      "en": "to assemble",
+      "zh": ""
+    },
+    {
+      "start": 83.63,
+      "duration": 2.5,
+      "text": "those tiny mechanical springs and hinges,",
+      "en": "those tiny mechanical springs and hinges,",
+      "zh": ""
+    },
+    {
+      "start": 86.13,
+      "duration": 0.79,
+      "text": "which left us with",
+      "en": "which left us with",
+      "zh": ""
+    },
+    {
+      "start": 86.92,
+      "duration": 1.09,
+      "text": "the incredible challenge",
+      "en": "the incredible challenge",
+      "zh": ""
+    },
+    {
+      "start": 88.01,
+      "duration": 2.08,
+      "text": "of trying to make our entire tiny,",
+      "en": "of trying to make our entire tiny,",
+      "zh": ""
+    },
+    {
+      "start": 90.09,
+      "duration": 0.71,
+      "text": "functional Nerf",
+      "en": "functional Nerf",
+      "zh": ""
+    },
+    {
+      "start": 90.8,
+      "duration": 1.04,
+      "text": "gun out of only one",
+      "en": "gun out of only one",
+      "zh": ""
+    },
+    {
+      "start": 91.84,
+      "duration": 2.33,
+      "text": "single part with no springs.",
+      "en": "single part with no springs.",
+      "zh": ""
+    },
+    {
+      "start": 94.17,
+      "duration": 0.8,
+      "text": "And as it turns out,",
+      "en": "And as it turns out,",
+      "zh": ""
+    },
+    {
+      "start": 94.97,
+      "duration": 1.37,
+      "text": "there's only one place in the world",
+      "en": "there's only one place in the world",
+      "zh": ""
+    },
+    {
+      "start": 96.34,
+      "duration": 1.0,
+      "text": "that leads the research",
+      "en": "that leads the research",
+      "zh": ""
+    },
+    {
+      "start": 97.34,
+      "duration": 1.25,
+      "text": "in creating really tiny,",
+      "en": "in creating really tiny,",
+      "zh": ""
+    },
+    {
+      "start": 98.59,
+      "duration": 1.92,
+      "text": "bendable machines from a single part.",
+      "en": "bendable machines from a single part.",
+      "zh": ""
+    },
+    {
+      "start": 100.51,
+      "duration": 1.54,
+      "text": "And it also just happens to be",
+      "en": "And it also just happens to be",
+      "zh": ""
+    },
+    {
+      "start": 102.05,
+      "duration": 1.46,
+      "text": "where I got my undergrad degree",
+      "en": "where I got my undergrad degree",
+      "zh": ""
+    },
+    {
+      "start": 103.51,
+      "duration": 1.21,
+      "text": "in mechanical engineering.",
+      "en": "in mechanical engineering.",
+      "zh": ""
+    },
+    {
+      "start": 104.72,
+      "duration": 0.95,
+      "text": "Which meant it was time for me",
+      "en": "Which meant it was time for me",
+      "zh": ""
+    },
+    {
+      "start": 105.67,
+      "duration": 2.17,
+      "text": "to head back to my alma mater, BYU,",
+      "en": "to head back to my alma mater, BYU,",
+      "zh": ""
+    },
+    {
+      "start": 107.84,
+      "duration": 1.58,
+      "text": "to visit some old friends,",
+      "en": "to visit some old friends,",
+      "zh": ""
+    },
+    {
+      "start": 109.42,
+      "duration": 0.38,
+      "text": "starting",
+      "en": "starting",
+      "zh": ""
+    },
+    {
+      "start": 109.8,
+      "duration": 2.0,
+      "text": "with one of my favorite professors...",
+      "en": "with one of my favorite professors...",
+      "zh": ""
+    },
+    {
+      "start": 111.8,
+      "duration": 1.0,
+      "text": "Dr. Howell",
+      "en": "Dr. Howell",
+      "zh": ""
+    },
+    {
+      "start": 114.13,
+      "duration": 2.21,
+      "text": "Good to see you, Dr. Howell",
+      "en": "Good to see you, Dr. Howell",
+      "zh": ""
+    },
+    {
+      "start": 116.34,
+      "duration": 0.79,
+      "text": "I'm trying to remember",
+      "en": "I'm trying to remember",
+      "zh": ""
+    },
+    {
+      "start": 117.13,
+      "duration": 1.25,
+      "text": "what grade I got in your class.",
+      "en": "what grade I got in your class.",
+      "zh": ""
+    },
+    {
+      "start": 118.38,
+      "duration": 1.17,
+      "text": "I looked it up this morning.",
+      "en": "I looked it up this morning.",
+      "zh": ""
+    },
+    {
+      "start": 119.55,
+      "duration": 2.46,
+      "text": "I'm guessing an A-",
+      "en": "I'm guessing an A-",
+      "zh": ""
+    },
+    {
+      "start": 122.01,
+      "duration": 0.96,
+      "text": "man, that's ri-",
+      "en": "man, that's ri-",
+      "zh": ""
+    },
+    {
+      "start": 122.97,
+      "duration": 3.08,
+      "text": "Well, if I disclose that, that's a uh",
+      "en": "Well, if I disclose that, that's a uh",
+      "zh": ""
+    },
+    {
+      "start": 126.05,
+      "duration": 2.12,
+      "text": "a violation of federal privacy",
+      "en": "a violation of federal privacy",
+      "zh": ""
+    },
+    {
+      "start": 128.17,
+      "duration": 0.71,
+      "text": "For what it's worth,",
+      "en": "For what it's worth,",
+      "zh": ""
+    },
+    {
+      "start": 128.88,
+      "duration": 1.38,
+      "text": "he teaches much better than he",
+      "en": "he teaches much better than he",
+      "zh": ""
+    },
+    {
+      "start": 130.26,
+      "duration": 1.0,
+      "text": "poker faces.",
+      "en": "poker faces.",
+      "zh": ""
+    },
+    {
+      "start": 131.26,
+      "duration": 1.12,
+      "text": "And who would have known that",
+      "en": "And who would have known that",
+      "zh": ""
+    },
+    {
+      "start": 132.38,
+      "duration": 1.5,
+      "text": "this bright, energetic student",
+      "en": "this bright, energetic student",
+      "zh": ""
+    },
+    {
+      "start": 133.88,
+      "duration": 1.5,
+      "text": "sitting in the class",
+      "en": "sitting in the class",
+      "zh": ""
+    },
+    {
+      "start": 135.38,
+      "duration": 0.71,
+      "text": "was going to become",
+      "en": "was going to become",
+      "zh": ""
+    },
+    {
+      "start": 136.09,
+      "duration": 0.88,
+      "text": "one of the most famous",
+      "en": "one of the most famous",
+      "zh": ""
+    },
+    {
+      "start": 136.97,
+      "duration": 1.12,
+      "text": "engineers in the world?",
+      "en": "engineers in the world?",
+      "zh": ""
+    },
+    {
+      "start": 138.09,
+      "duration": 0.71,
+      "text": "Not me.",
+      "en": "Not me.",
+      "zh": ""
+    },
+    {
+      "start": 138.8,
+      "duration": 1.5,
+      "text": "I'll tell you that much",
+      "en": "I'll tell you that much",
+      "zh": ""
+    },
+    {
+      "start": 140.3,
+      "duration": 0.79,
+      "text": "not me",
+      "en": "not me",
+      "zh": ""
+    },
+    {
+      "start": 141.09,
+      "duration": 1.54,
+      "text": "And I say that with confidence",
+      "en": "And I say that with confidence",
+      "zh": ""
+    },
+    {
+      "start": 142.63,
+      "duration": 0.92,
+      "text": "because he was also able",
+      "en": "because he was also able",
+      "zh": ""
+    },
+    {
+      "start": 143.55,
+      "duration": 1.37,
+      "text": "to locate my student ID",
+      "en": "to locate my student ID",
+      "zh": ""
+    },
+    {
+      "start": 144.92,
+      "duration": 0.67,
+      "text": "and the only thing",
+      "en": "and the only thing",
+      "zh": ""
+    },
+    {
+      "start": 145.59,
+      "duration": 1.63,
+      "text": "more aggressive than those eyebrows",
+      "en": "more aggressive than those eyebrows",
+      "zh": ""
+    },
+    {
+      "start": 147.22,
+      "duration": 1.45,
+      "text": "was the decision to rock the double",
+      "en": "was the decision to rock the double",
+      "zh": ""
+    },
+    {
+      "start": 148.67,
+      "duration": 1.8,
+      "text": "puka shell necklace for picture day.",
+      "en": "puka shell necklace for picture day.",
+      "zh": ""
+    },
+    {
+      "start": 150.47,
+      "duration": 0.66,
+      "text": "Our first stop",
+      "en": "Our first stop",
+      "zh": ""
+    },
+    {
+      "start": 151.13,
+      "duration": 1.21,
+      "text": "was to finally meet in person",
+      "en": "was to finally meet in person",
+      "zh": ""
+    },
+    {
+      "start": 152.34,
+      "duration": 1.38,
+      "text": "with the group of BYU students,",
+      "en": "with the group of BYU students,",
+      "zh": ""
+    },
+    {
+      "start": 153.72,
+      "duration": 1.33,
+      "text": "I'd been working pretty closely",
+      "en": "I'd been working pretty closely",
+      "zh": ""
+    },
+    {
+      "start": 155.05,
+      "duration": 1.62,
+      "text": "with on this project for about a year.",
+      "en": "with on this project for about a year.",
+      "zh": ""
+    },
+    {
+      "start": 156.67,
+      "duration": 1.8,
+      "text": "So today was all about a final",
+      "en": "So today was all about a final",
+      "zh": ""
+    },
+    {
+      "start": 158.47,
+      "duration": 1.95,
+      "text": "meet up to see if this was a mission",
+      "en": "meet up to see if this was a mission",
+      "zh": ""
+    },
+    {
+      "start": 160.42,
+      "duration": 1.8,
+      "text": "accomplished situation for us",
+      "en": "accomplished situation for us",
+      "zh": ""
+    },
+    {
+      "start": 162.22,
+      "duration": 1.66,
+      "text": "and Jacob, who led the student team,",
+      "en": "and Jacob, who led the student team,",
+      "zh": ""
+    },
+    {
+      "start": 163.88,
+      "duration": 1.92,
+      "text": "summarized the second major issue",
+      "en": "summarized the second major issue",
+      "zh": ""
+    },
+    {
+      "start": 165.8,
+      "duration": 0.83,
+      "text": "we faced here.",
+      "en": "we faced here.",
+      "zh": ""
+    },
+    {
+      "start": 166.63,
+      "duration": 1.79,
+      "text": "The physics of scaling down is huge here",
+      "en": "The physics of scaling down is huge here",
+      "zh": ""
+    },
+    {
+      "start": 168.42,
+      "duration": 1.75,
+      "text": "friction and surface forces",
+      "en": "friction and surface forces",
+      "zh": ""
+    },
+    {
+      "start": 170.17,
+      "duration": 1.84,
+      "text": "are multiplied exponentially.",
+      "en": "are multiplied exponentially.",
+      "zh": ""
+    },
+    {
+      "start": 172.01,
+      "duration": 1.62,
+      "text": "Besides the difficulty of assembly",
+      "en": "Besides the difficulty of assembly",
+      "zh": ""
+    },
+    {
+      "start": 173.63,
+      "duration": 0.88,
+      "text": "I mentioned before,",
+      "en": "I mentioned before,",
+      "zh": ""
+    },
+    {
+      "start": 174.51,
+      "duration": 1.25,
+      "text": "this was the second reason",
+      "en": "this was the second reason",
+      "zh": ""
+    },
+    {
+      "start": 175.76,
+      "duration": 1.71,
+      "text": "we needed it to be made out of one part",
+      "en": "we needed it to be made out of one part",
+      "zh": ""
+    },
+    {
+      "start": 177.47,
+      "duration": 1.7,
+      "text": "to eliminate the exponential friction",
+      "en": "to eliminate the exponential friction",
+      "zh": ""
+    },
+    {
+      "start": 179.17,
+      "duration": 1.3,
+      "text": "forces between moving",
+      "en": "forces between moving",
+      "zh": ""
+    },
+    {
+      "start": 180.47,
+      "duration": 1.79,
+      "text": "parts at tiny scales.",
+      "en": "parts at tiny scales.",
+      "zh": ""
+    },
+    {
+      "start": 182.26,
+      "duration": 1.04,
+      "text": "Our plan was to come up",
+      "en": "Our plan was to come up",
+      "zh": ""
+    },
+    {
+      "start": 183.3,
+      "duration": 1.17,
+      "text": "with a template design",
+      "en": "with a template design",
+      "zh": ""
+    },
+    {
+      "start": 184.47,
+      "duration": 1.12,
+      "text": "that was full size,",
+      "en": "that was full size,",
+      "zh": ""
+    },
+    {
+      "start": 185.59,
+      "duration": 1.0,
+      "text": "and if that worked,",
+      "en": "and if that worked,",
+      "zh": ""
+    },
+    {
+      "start": 186.59,
+      "duration": 1.46,
+      "text": "we would just keep scaling",
+      "en": "we would just keep scaling",
+      "zh": ""
+    },
+    {
+      "start": 188.05,
+      "duration": 1.37,
+      "text": "that exact shape down.",
+      "en": "that exact shape down.",
+      "zh": ""
+    },
+    {
+      "start": 189.42,
+      "duration": 1.25,
+      "text": "But what should that look like?",
+      "en": "But what should that look like?",
+      "zh": ""
+    },
+    {
+      "start": 190.67,
+      "duration": 0.71,
+      "text": "For example,",
+      "en": "For example,",
+      "zh": ""
+    },
+    {
+      "start": 191.38,
+      "duration": 2.29,
+      "text": "how do you even store energy to fire",
+      "en": "how do you even store energy to fire",
+      "zh": ""
+    },
+    {
+      "start": 193.67,
+      "duration": 2.09,
+      "text": "a dart with no mechanical springs?",
+      "en": "a dart with no mechanical springs?",
+      "zh": ""
+    },
+    {
+      "start": 195.76,
+      "duration": 1.91,
+      "text": "Well, here was the first prototype,",
+      "en": "Well, here was the first prototype,",
+      "zh": ""
+    },
+    {
+      "start": 197.67,
+      "duration": 2.05,
+      "text": "and while it's still more than one part,",
+      "en": "and while it's still more than one part,",
+      "zh": ""
+    },
+    {
+      "start": 199.72,
+      "duration": 1.2,
+      "text": "you can see the clever way",
+      "en": "you can see the clever way",
+      "zh": ""
+    },
+    {
+      "start": 200.92,
+      "duration": 1.3,
+      "text": "the springs were replaced",
+      "en": "the springs were replaced",
+      "zh": ""
+    },
+    {
+      "start": 202.22,
+      "duration": 1.16,
+      "text": "with the few new parts",
+      "en": "with the few new parts",
+      "zh": ""
+    },
+    {
+      "start": 203.38,
+      "duration": 1.13,
+      "text": "and stored energy",
+      "en": "and stored energy",
+      "zh": ""
+    },
+    {
+      "start": 204.51,
+      "duration": 2.12,
+      "text": "by being flexible in engineering,",
+      "en": "by being flexible in engineering,",
+      "zh": ""
+    },
+    {
+      "start": 206.63,
+      "duration": 1.92,
+      "text": "we call that a compliant mechanism,",
+      "en": "we call that a compliant mechanism,",
+      "zh": ""
+    },
+    {
+      "start": 208.55,
+      "duration": 1.25,
+      "text": "and I happen to know",
+      "en": "and I happen to know",
+      "zh": ""
+    },
+    {
+      "start": 209.8,
+      "duration": 0.42,
+      "text": "the world's",
+      "en": "the world's",
+      "zh": ""
+    },
+    {
+      "start": 210.22,
+      "duration": 2.33,
+      "text": "foremost expert in that field.",
+      "en": "foremost expert in that field.",
+      "zh": ""
+    },
+    {
+      "start": 212.55,
+      "duration": 1.29,
+      "text": "This is the book",
+      "en": "This is the book",
+      "zh": ""
+    },
+    {
+      "start": 213.84,
+      "duration": 1.13,
+      "text": "on compliant mechanisms.",
+      "en": "on compliant mechanisms.",
+      "zh": ""
+    },
+    {
+      "start": 214.97,
+      "duration": 0.7,
+      "text": "well I think so,",
+      "en": "well I think so,",
+      "zh": ""
+    },
+    {
+      "start": 215.67,
+      "duration": 1.75,
+      "text": "but I may be biased,",
+      "en": "but I may be biased,",
+      "zh": ""
+    },
+    {
+      "start": 217.42,
+      "duration": 2.42,
+      "text": "and he's as humble as he is biased",
+      "en": "and he's as humble as he is biased",
+      "zh": ""
+    },
+    {
+      "start": 219.84,
+      "duration": 1.21,
+      "text": "because this is hands down",
+      "en": "because this is hands down",
+      "zh": ""
+    },
+    {
+      "start": 221.05,
+      "duration": 2.12,
+      "text": "the number one cited book in this field.",
+      "en": "the number one cited book in this field.",
+      "zh": ""
+    },
+    {
+      "start": 223.17,
+      "duration": 0.8,
+      "text": "A regular method",
+      "en": "A regular method",
+      "zh": ""
+    },
+    {
+      "start": 223.97,
+      "duration": 2.0,
+      "text": "is going to have rigid links",
+      "en": "is going to have rigid links",
+      "zh": ""
+    },
+    {
+      "start": 225.97,
+      "duration": 1.41,
+      "text": "and then something like hinges",
+      "en": "and then something like hinges",
+      "zh": ""
+    },
+    {
+      "start": 227.38,
+      "duration": 1.13,
+      "text": "are going to make it move",
+      "en": "are going to make it move",
+      "zh": ""
+    },
+    {
+      "start": 228.51,
+      "duration": 1.0,
+      "text": "something like this.",
+      "en": "something like this.",
+      "zh": ""
+    },
+    {
+      "start": 229.51,
+      "duration": 1.0,
+      "text": "And this is a very common",
+      "en": "And this is a very common",
+      "zh": ""
+    },
+    {
+      "start": 230.51,
+      "duration": 0.71,
+      "text": "type of mechanism",
+      "en": "type of mechanism",
+      "zh": ""
+    },
+    {
+      "start": 231.22,
+      "duration": 1.04,
+      "text": "called a 4-Bar linkage.",
+      "en": "called a 4-Bar linkage.",
+      "zh": ""
+    },
+    {
+      "start": 232.26,
+      "duration": 0.41,
+      "text": "And Dr.",
+      "en": "And Dr.",
+      "zh": ""
+    },
+    {
+      "start": 232.67,
+      "duration": 1.63,
+      "text": "Howell explain how you can make that",
+      "en": "Howell explain how you can make that",
+      "zh": ""
+    },
+    {
+      "start": 234.3,
+      "duration": 1.17,
+      "text": "out of only one part.",
+      "en": "out of only one part.",
+      "zh": ""
+    },
+    {
+      "start": 235.47,
+      "duration": 1.66,
+      "text": "We get our motion",
+      "en": "We get our motion",
+      "zh": ""
+    },
+    {
+      "start": 237.13,
+      "duration": 2.46,
+      "text": "from something that bends and flexes",
+      "en": "from something that bends and flexes",
+      "zh": ""
+    },
+    {
+      "start": 239.59,
+      "duration": 1.17,
+      "text": "And this is a great demo",
+      "en": "And this is a great demo",
+      "zh": ""
+    },
+    {
+      "start": 240.76,
+      "duration": 1.16,
+      "text": "because if you overlay them",
+      "en": "because if you overlay them",
+      "zh": ""
+    },
+    {
+      "start": 241.92,
+      "duration": 0.88,
+      "text": "on top of each other,",
+      "en": "on top of each other,",
+      "zh": ""
+    },
+    {
+      "start": 242.8,
+      "duration": 0.5,
+      "text": "you can see",
+      "en": "you can see",
+      "zh": ""
+    },
+    {
+      "start": 243.3,
+      "duration": 2.87,
+      "text": "the resulting motion is totally identical",
+      "en": "the resulting motion is totally identical",
+      "zh": ""
+    },
+    {
+      "start": 246.17,
+      "duration": 2.3,
+      "text": "and that is compliant, cause it’s flexible",
+      "en": "and that is compliant, cause it’s flexible",
+      "zh": ""
+    },
+    {
+      "start": 248.47,
+      "duration": 1.79,
+      "text": "and that is a compliant mechanism.",
+      "en": "and that is a compliant mechanism.",
+      "zh": ""
+    },
+    {
+      "start": 250.26,
+      "duration": 0.71,
+      "text": "And as Dr. Howell",
+      "en": "And as Dr. Howell",
+      "zh": ""
+    },
+    {
+      "start": 250.97,
+      "duration": 1.2,
+      "text": "went on to explain, the compliant",
+      "en": "went on to explain, the compliant",
+      "zh": ""
+    },
+    {
+      "start": 252.17,
+      "duration": 2.5,
+      "text": "mechanism version offers six advantages.",
+      "en": "mechanism version offers six advantages.",
+      "zh": ""
+    },
+    {
+      "start": 254.67,
+      "duration": 0.63,
+      "text": "Number one,",
+      "en": "Number one,",
+      "zh": ""
+    },
+    {
+      "start": 255.3,
+      "duration": 1.54,
+      "text": "it's fewer parts, in this case",
+      "en": "it's fewer parts, in this case",
+      "zh": ""
+    },
+    {
+      "start": 256.84,
+      "duration": 1.29,
+      "text": "eight versus one.",
+      "en": "eight versus one.",
+      "zh": ""
+    },
+    {
+      "start": 258.13,
+      "duration": 1.29,
+      "text": "Number two, lower cost.",
+      "en": "Number two, lower cost.",
+      "zh": ""
+    },
+    {
+      "start": 259.42,
+      "duration": 1.42,
+      "text": "There's no labor for assembly",
+      "en": "There's no labor for assembly",
+      "zh": ""
+    },
+    {
+      "start": 260.84,
+      "duration": 1.17,
+      "text": "and the whole thing can be made",
+      "en": "and the whole thing can be made",
+      "zh": ""
+    },
+    {
+      "start": 262.01,
+      "duration": 1.87,
+      "text": "in one process like 3D printing",
+      "en": "in one process like 3D printing",
+      "zh": ""
+    },
+    {
+      "start": 263.88,
+      "duration": 0.79,
+      "text": "in this case.",
+      "en": "in this case.",
+      "zh": ""
+    },
+    {
+      "start": 264.67,
+      "duration": 1.38,
+      "text": "Three: it's more precise.",
+      "en": "Three: it's more precise.",
+      "zh": ""
+    },
+    {
+      "start": 266.05,
+      "duration": 0.79,
+      "text": "It always returns",
+      "en": "It always returns",
+      "zh": ""
+    },
+    {
+      "start": 266.84,
+      "duration": 1.54,
+      "text": "back to the exact same spot.",
+      "en": "back to the exact same spot.",
+      "zh": ""
+    },
+    {
+      "start": 268.38,
+      "duration": 1.0,
+      "text": "And there's no slot",
+      "en": "And there's no slot",
+      "zh": ""
+    },
+    {
+      "start": 269.38,
+      "duration": 1.25,
+      "text": "between different parts,",
+      "en": "between different parts,",
+      "zh": ""
+    },
+    {
+      "start": 270.63,
+      "duration": 1.34,
+      "text": "like the hole in the hinge",
+      "en": "like the hole in the hinge",
+      "zh": ""
+    },
+    {
+      "start": 271.97,
+      "duration": 1.04,
+      "text": "Four: lower weight.",
+      "en": "Four: lower weight.",
+      "zh": ""
+    },
+    {
+      "start": 273.01,
+      "duration": 2.12,
+      "text": "This is crucial for space applications.",
+      "en": "This is crucial for space applications.",
+      "zh": ""
+    },
+    {
+      "start": 275.13,
+      "duration": 2.5,
+      "text": "Five: No friction between parts.",
+      "en": "Five: No friction between parts.",
+      "zh": ""
+    },
+    {
+      "start": 277.63,
+      "duration": 2.17,
+      "text": "That means no wear, between moving parts",
+      "en": "That means no wear, between moving parts",
+      "zh": ""
+    },
+    {
+      "start": 279.8,
+      "duration": 1.46,
+      "text": "and no need for lubrication.",
+      "en": "and no need for lubrication.",
+      "zh": ""
+    },
+    {
+      "start": 281.26,
+      "duration": 1.21,
+      "text": "And finally, number six,",
+      "en": "And finally, number six,",
+      "zh": ""
+    },
+    {
+      "start": 282.47,
+      "duration": 1.41,
+      "text": "you got built in springs.",
+      "en": "you got built in springs.",
+      "zh": ""
+    },
+    {
+      "start": 283.88,
+      "duration": 1.67,
+      "text": "Every material has a built in",
+      "en": "Every material has a built in",
+      "zh": ""
+    },
+    {
+      "start": 285.55,
+      "duration": 0.75,
+      "text": "springiness",
+      "en": "springiness",
+      "zh": ""
+    },
+    {
+      "start": 286.3,
+      "duration": 1.25,
+      "text": "so the shape we choose",
+      "en": "so the shape we choose",
+      "zh": ""
+    },
+    {
+      "start": 287.55,
+      "duration": 1.87,
+      "text": "can cleverly take advantage of that.",
+      "en": "can cleverly take advantage of that.",
+      "zh": ""
+    },
+    {
+      "start": 289.42,
+      "duration": 0.71,
+      "text": "He then proceeded to",
+      "en": "He then proceeded to",
+      "zh": ""
+    },
+    {
+      "start": 290.13,
+      "duration": 1.0,
+      "text": "show me some other mind",
+      "en": "show me some other mind",
+      "zh": ""
+    },
+    {
+      "start": 291.13,
+      "duration": 0.84,
+      "text": "bending examples",
+      "en": "bending examples",
+      "zh": ""
+    },
+    {
+      "start": 291.97,
+      "duration": 1.66,
+      "text": "of compliant mechanisms, like this",
+      "en": "of compliant mechanisms, like this",
+      "zh": ""
+    },
+    {
+      "start": 293.63,
+      "duration": 1.59,
+      "text": "single part light switch,",
+      "en": "single part light switch,",
+      "zh": ""
+    },
+    {
+      "start": 295.22,
+      "duration": 1.5,
+      "text": "or this single piece of metal",
+      "en": "or this single piece of metal",
+      "zh": ""
+    },
+    {
+      "start": 296.72,
+      "duration": 1.0,
+      "text": "bending in ways",
+      "en": "bending in ways",
+      "zh": ""
+    },
+    {
+      "start": 297.72,
+      "duration": 0.83,
+      "text": "it feels metal",
+      "en": "it feels metal",
+      "zh": ""
+    },
+    {
+      "start": 298.55,
+      "duration": 1.62,
+      "text": "shouldn't be allowed to bend,",
+      "en": "shouldn't be allowed to bend,",
+      "zh": ""
+    },
+    {
+      "start": 300.17,
+      "duration": 0.71,
+      "text": "or this single",
+      "en": "or this single",
+      "zh": ""
+    },
+    {
+      "start": 300.88,
+      "duration": 1.0,
+      "text": "sheet of plastic cut",
+      "en": "sheet of plastic cut",
+      "zh": ""
+    },
+    {
+      "start": 301.88,
+      "duration": 2.13,
+      "text": "in such a way where it's really flexible",
+      "en": "in such a way where it's really flexible",
+      "zh": ""
+    },
+    {
+      "start": 304.01,
+      "duration": 0.96,
+      "text": "in one direction,",
+      "en": "in one direction,",
+      "zh": ""
+    },
+    {
+      "start": 304.97,
+      "duration": 2.45,
+      "text": "but really stiff and unbendable",
+      "en": "but really stiff and unbendable",
+      "zh": ""
+    },
+    {
+      "start": 307.42,
+      "duration": 0.71,
+      "text": "in the other.",
+      "en": "in the other.",
+      "zh": ""
+    },
+    {
+      "start": 308.13,
+      "duration": 0.88,
+      "text": "They've commercialized",
+      "en": "They've commercialized",
+      "zh": ""
+    },
+    {
+      "start": 309.01,
+      "duration": 1.75,
+      "text": "some compliant mechanisms like this one",
+      "en": "some compliant mechanisms like this one",
+      "zh": ""
+    },
+    {
+      "start": 310.76,
+      "duration": 1.12,
+      "text": "piece windshield wiper",
+      "en": "piece windshield wiper",
+      "zh": ""
+    },
+    {
+      "start": 311.88,
+      "duration": 1.21,
+      "text": "for surgical cameras",
+      "en": "for surgical cameras",
+      "zh": ""
+    },
+    {
+      "start": 313.09,
+      "duration": 1.79,
+      "text": "so doctors can use one hand and clean",
+      "en": "so doctors can use one hand and clean",
+      "zh": ""
+    },
+    {
+      "start": 314.88,
+      "duration": 2.09,
+      "text": "the lens like this instead of constantly",
+      "en": "the lens like this instead of constantly",
+      "zh": ""
+    },
+    {
+      "start": 316.97,
+      "duration": 1.62,
+      "text": "pulling it out and doing this.",
+      "en": "pulling it out and doing this.",
+      "zh": ""
+    },
+    {
+      "start": 318.59,
+      "duration": 0.33,
+      "text": "And they’ve",
+      "en": "And they’ve",
+      "zh": ""
+    },
+    {
+      "start": 318.92,
+      "duration": 1.25,
+      "text": "even done some work for NASA",
+      "en": "even done some work for NASA",
+      "zh": ""
+    },
+    {
+      "start": 320.17,
+      "duration": 1.0,
+      "text": "where you can get a thruster",
+      "en": "where you can get a thruster",
+      "zh": ""
+    },
+    {
+      "start": 321.17,
+      "duration": 1.71,
+      "text": "to point in any direction",
+      "en": "to point in any direction",
+      "zh": ""
+    },
+    {
+      "start": 322.88,
+      "duration": 2.38,
+      "text": "using a single titanium structure",
+      "en": "using a single titanium structure",
+      "zh": ""
+    },
+    {
+      "start": 325.26,
+      "duration": 2.66,
+      "text": "that bends and just two motor inputs.",
+      "en": "that bends and just two motor inputs.",
+      "zh": ""
+    },
+    {
+      "start": 327.92,
+      "duration": 1.21,
+      "text": "And so back to our Nerf gun.",
+      "en": "And so back to our Nerf gun.",
+      "zh": ""
+    },
+    {
+      "start": 329.13,
+      "duration": 0.92,
+      "text": "After many,",
+      "en": "After many,",
+      "zh": ""
+    },
+    {
+      "start": 330.05,
+      "duration": 1.46,
+      "text": "many more prototypes",
+      "en": "many more prototypes",
+      "zh": ""
+    },
+    {
+      "start": 331.51,
+      "duration": 1.21,
+      "text": "investigating countless",
+      "en": "investigating countless",
+      "zh": ""
+    },
+    {
+      "start": 332.72,
+      "duration": 1.62,
+      "text": "different ways to store the energy,",
+      "en": "different ways to store the energy,",
+      "zh": ""
+    },
+    {
+      "start": 334.34,
+      "duration": 0.63,
+      "text": "we landed at",
+      "en": "we landed at",
+      "zh": ""
+    },
+    {
+      "start": 334.97,
+      "duration": 1.87,
+      "text": "three final candidate designs,",
+      "en": "three final candidate designs,",
+      "zh": ""
+    },
+    {
+      "start": 336.84,
+      "duration": 0.71,
+      "text": "all of which",
+      "en": "all of which",
+      "zh": ""
+    },
+    {
+      "start": 337.55,
+      "duration": 2.12,
+      "text": "achieved our primary design objective",
+      "en": "achieved our primary design objective",
+      "zh": ""
+    },
+    {
+      "start": 339.67,
+      "duration": 0.92,
+      "text": "There’s no assembly.",
+      "en": "There’s no assembly.",
+      "zh": ""
+    },
+    {
+      "start": 340.59,
+      "duration": 1.79,
+      "text": "It's all printed as one part.",
+      "en": "It's all printed as one part.",
+      "zh": ""
+    },
+    {
+      "start": 342.38,
+      "duration": 2.0,
+      "text": "The first design was a zigzag",
+      "en": "The first design was a zigzag",
+      "zh": ""
+    },
+    {
+      "start": 344.38,
+      "duration": 1.04,
+      "text": "and looked really cool,",
+      "en": "and looked really cool,",
+      "zh": ""
+    },
+    {
+      "start": 345.42,
+      "duration": 1.21,
+      "text": "but the flexures didn't store",
+      "en": "but the flexures didn't store",
+      "zh": ""
+    },
+    {
+      "start": 346.63,
+      "duration": 1.46,
+      "text": "that much energy per deflection",
+      "en": "that much energy per deflection",
+      "zh": ""
+    },
+    {
+      "start": 348.09,
+      "duration": 1.54,
+      "text": "because they're just in bending.",
+      "en": "because they're just in bending.",
+      "zh": ""
+    },
+    {
+      "start": 349.63,
+      "duration": 1.5,
+      "text": "The second design was a fishbone",
+      "en": "The second design was a fishbone",
+      "zh": ""
+    },
+    {
+      "start": 351.13,
+      "duration": 1.59,
+      "text": "and it was better at storing energy",
+      "en": "and it was better at storing energy",
+      "zh": ""
+    },
+    {
+      "start": 352.72,
+      "duration": 1.0,
+      "text": "using a combination",
+      "en": "using a combination",
+      "zh": ""
+    },
+    {
+      "start": 353.72,
+      "duration": 1.2,
+      "text": "of compression and bending.",
+      "en": "of compression and bending.",
+      "zh": ""
+    },
+    {
+      "start": 354.92,
+      "duration": 0.88,
+      "text": "But the bending ribs",
+      "en": "But the bending ribs",
+      "zh": ""
+    },
+    {
+      "start": 355.8,
+      "duration": 1.92,
+      "text": "weren't very long and longer ribs",
+      "en": "weren't very long and longer ribs",
+      "zh": ""
+    },
+    {
+      "start": 357.72,
+      "duration": 1.29,
+      "text": "will lead to more power.",
+      "en": "will lead to more power.",
+      "zh": ""
+    },
+    {
+      "start": 359.01,
+      "duration": 1.66,
+      "text": "And so for the third and final design,",
+      "en": "And so for the third and final design,",
+      "zh": ""
+    },
+    {
+      "start": 360.67,
+      "duration": 1.75,
+      "text": "Jacob accommodated longer ribs",
+      "en": "Jacob accommodated longer ribs",
+      "zh": ""
+    },
+    {
+      "start": 362.42,
+      "duration": 2.46,
+      "text": "by offsetting the backbones, so to speak,",
+      "en": "by offsetting the backbones, so to speak,",
+      "zh": ""
+    },
+    {
+      "start": 364.88,
+      "duration": 0.84,
+      "text": "and this ended up",
+      "en": "and this ended up",
+      "zh": ""
+    },
+    {
+      "start": 365.72,
+      "duration": 1.7,
+      "text": "being the most optimal design.",
+      "en": "being the most optimal design.",
+      "zh": ""
+    },
+    {
+      "start": 367.42,
+      "duration": 1.25,
+      "text": "And if we swap out the plastic",
+      "en": "And if we swap out the plastic",
+      "zh": ""
+    },
+    {
+      "start": 368.67,
+      "duration": 1.21,
+      "text": "with a metallic alloy,",
+      "en": "with a metallic alloy,",
+      "zh": ""
+    },
+    {
+      "start": 369.88,
+      "duration": 1.59,
+      "text": "it can store more energy",
+      "en": "it can store more energy",
+      "zh": ""
+    },
+    {
+      "start": 371.47,
+      "duration": 1.29,
+      "text": "per the same deflection,",
+      "en": "per the same deflection,",
+      "zh": ""
+    },
+    {
+      "start": 372.76,
+      "duration": 1.33,
+      "text": "which means it can fire a dart",
+      "en": "which means it can fire a dart",
+      "zh": ""
+    },
+    {
+      "start": 374.09,
+      "duration": 1.25,
+      "text": "even more powerful",
+      "en": "even more powerful",
+      "zh": ""
+    },
+    {
+      "start": 375.34,
+      "duration": 1.75,
+      "text": "than an ordinary pneumatic nerf gun.",
+      "en": "than an ordinary pneumatic nerf gun.",
+      "zh": ""
+    },
+    {
+      "start": 377.09,
+      "duration": 4.13,
+      "text": "Plus, it sounds really cool.",
+      "en": "Plus, it sounds really cool.",
+      "zh": ""
+    },
+    {
+      "start": 381.3,
+      "duration": 0.5,
+      "text": "And now that we",
+      "en": "And now that we",
+      "zh": ""
+    },
+    {
+      "start": 381.8,
+      "duration": 1.5,
+      "text": "settled on our template design",
+      "en": "settled on our template design",
+      "zh": ""
+    },
+    {
+      "start": 383.3,
+      "duration": 1.71,
+      "text": "darn it that was almost cool.",
+      "en": "darn it that was almost cool.",
+      "zh": ""
+    },
+    {
+      "start": 385.01,
+      "duration": 1.79,
+      "text": "It was time to set our first world record",
+      "en": "It was time to set our first world record",
+      "zh": ""
+    },
+    {
+      "start": 386.8,
+      "duration": 1.71,
+      "text": "by shrinking this template down",
+      "en": "by shrinking this template down",
+      "zh": ""
+    },
+    {
+      "start": 388.51,
+      "duration": 1.41,
+      "text": "ten times smaller.",
+      "en": "ten times smaller.",
+      "zh": ""
+    },
+    {
+      "start": 389.92,
+      "duration": 1.58,
+      "text": "So this is 3D printed",
+      "en": "So this is 3D printed",
+      "zh": ""
+    },
+    {
+      "start": 391.5,
+      "duration": 1.42,
+      "text": "using an SLA printer.",
+      "en": "using an SLA printer.",
+      "zh": ""
+    },
+    {
+      "start": 392.92,
+      "duration": 0.91,
+      "text": "And what's cool about this",
+      "en": "And what's cool about this",
+      "zh": ""
+    },
+    {
+      "start": 393.83,
+      "duration": 1.84,
+      "text": "relatively new process of 3D",
+      "en": "relatively new process of 3D",
+      "zh": ""
+    },
+    {
+      "start": 395.67,
+      "duration": 0.66,
+      "text": "micro printing",
+      "en": "micro printing",
+      "zh": ""
+    },
+    {
+      "start": 396.33,
+      "duration": 0.96,
+      "text": "is that you could achieve",
+      "en": "is that you could achieve",
+      "zh": ""
+    },
+    {
+      "start": 397.29,
+      "duration": 2.38,
+      "text": "orders of magnitude finer resolution",
+      "en": "orders of magnitude finer resolution",
+      "zh": ""
+    },
+    {
+      "start": 399.67,
+      "duration": 1.21,
+      "text": "than your typical PLA",
+      "en": "than your typical PLA",
+      "zh": ""
+    },
+    {
+      "start": 400.88,
+      "duration": 0.74,
+      "text": "printer at home,",
+      "en": "printer at home,",
+      "zh": ""
+    },
+    {
+      "start": 401.62,
+      "duration": 1.59,
+      "text": "which is why I was so stoked",
+      "en": "which is why I was so stoked",
+      "zh": ""
+    },
+    {
+      "start": 403.21,
+      "duration": 1.46,
+      "text": "to finally try and fire it",
+      "en": "to finally try and fire it",
+      "zh": ""
+    },
+    {
+      "start": 404.67,
+      "duration": 1.04,
+      "text": "for the first time.",
+      "en": "for the first time.",
+      "zh": ""
+    },
+    {
+      "start": 405.71,
+      "duration": 2.17,
+      "text": "So this is actually a little 3D bullet.",
+      "en": "So this is actually a little 3D bullet.",
+      "zh": ""
+    },
+    {
+      "start": 407.88,
+      "duration": 0.95,
+      "text": "my gosh. Yeah.",
+      "en": "my gosh. Yeah.",
+      "zh": ""
+    },
+    {
+      "start": 408.83,
+      "duration": 0.5,
+      "text": "You can like",
+      "en": "You can like",
+      "zh": ""
+    },
+    {
+      "start": 409.33,
+      "duration": 1.46,
+      "text": "put it right there in the chamber.",
+      "en": "put it right there in the chamber.",
+      "zh": ""
+    },
+    {
+      "start": 410.79,
+      "duration": 1.88,
+      "text": "No way. Okay, Ready?",
+      "en": "No way. Okay, Ready?",
+      "zh": ""
+    },
+    {
+      "start": 412.67,
+      "duration": 1.0,
+      "text": "When you cock it back,",
+      "en": "When you cock it back,",
+      "zh": ""
+    },
+    {
+      "start": 413.67,
+      "duration": 1.71,
+      "text": "you see, the flexures are, in fact,",
+      "en": "you see, the flexures are, in fact,",
+      "zh": ""
+    },
+    {
+      "start": 415.38,
+      "duration": 1.66,
+      "text": "bending, storing the energy,",
+      "en": "bending, storing the energy,",
+      "zh": ""
+    },
+    {
+      "start": 417.04,
+      "duration": 2.25,
+      "text": "just like at the full scale template.",
+      "en": "just like at the full scale template.",
+      "zh": ""
+    },
+    {
+      "start": 419.29,
+      "duration": 1.5,
+      "text": "Ahhhh, that’s so satisfying.",
+      "en": "Ahhhh, that’s so satisfying.",
+      "zh": ""
+    },
+    {
+      "start": 420.79,
+      "duration": 2.29,
+      "text": "OK loading. Yesss",
+      "en": "OK loading. Yesss",
+      "zh": ""
+    },
+    {
+      "start": 423.08,
+      "duration": 2.09,
+      "text": "okay here we go.",
+      "en": "okay here we go.",
+      "zh": ""
+    },
+    {
+      "start": 425.17,
+      "duration": 2.79,
+      "text": "Pchewww",
+      "en": "Pchewww",
+      "zh": ""
+    },
+    {
+      "start": 427.96,
+      "duration": 1.29,
+      "text": "That was amazing.",
+      "en": "That was amazing.",
+      "zh": ""
+    },
+    {
+      "start": 429.25,
+      "duration": 1.54,
+      "text": "It fires the dart around three feet,",
+      "en": "It fires the dart around three feet,",
+      "zh": ""
+    },
+    {
+      "start": 430.79,
+      "duration": 1.21,
+      "text": "which is really interesting",
+      "en": "which is really interesting",
+      "zh": ""
+    },
+    {
+      "start": 432.0,
+      "duration": 1.08,
+      "text": "because that's also",
+      "en": "because that's also",
+      "zh": ""
+    },
+    {
+      "start": 433.08,
+      "duration": 1.54,
+      "text": "a factor of ten scaled down",
+      "en": "a factor of ten scaled down",
+      "zh": ""
+    },
+    {
+      "start": 434.62,
+      "duration": 2.26,
+      "text": "from how far a normal Nerf dart fires.",
+      "en": "from how far a normal Nerf dart fires.",
+      "zh": ""
+    },
+    {
+      "start": 436.88,
+      "duration": 1.7,
+      "text": "Alright Bethany, it's only appropriate",
+      "en": "Alright Bethany, it's only appropriate",
+      "zh": ""
+    },
+    {
+      "start": 438.58,
+      "duration": 2.59,
+      "text": "we have a Nerf blaster accuracy contest.",
+      "en": "we have a Nerf blaster accuracy contest.",
+      "zh": ""
+    },
+    {
+      "start": 441.17,
+      "duration": 1.33,
+      "text": "There's a penny out here",
+      "en": "There's a penny out here",
+      "zh": ""
+    },
+    {
+      "start": 442.5,
+      "duration": 1.25,
+      "text": "closest to the penny wins.",
+      "en": "closest to the penny wins.",
+      "zh": ""
+    },
+    {
+      "start": 443.75,
+      "duration": 2.25,
+      "text": "Are you ready?",
+      "en": "Are you ready?",
+      "zh": ""
+    },
+    {
+      "start": 446.0,
+      "duration": 1.0,
+      "text": "Pchewww",
+      "en": "Pchewww",
+      "zh": ""
+    },
+    {
+      "start": 448.29,
+      "duration": 1.46,
+      "text": "like six inches.",
+      "en": "like six inches.",
+      "zh": ""
+    },
+    {
+      "start": 449.75,
+      "duration": 0.96,
+      "text": "Three",
+      "en": "Three",
+      "zh": ""
+    },
+    {
+      "start": 450.71,
+      "duration": 1.46,
+      "text": "Two",
+      "en": "Two",
+      "zh": ""
+    },
+    {
+      "start": 452.17,
+      "duration": 2.12,
+      "text": "One",
+      "en": "One",
+      "zh": ""
+    },
+    {
+      "start": 454.29,
+      "duration": 1.0,
+      "text": "Pcheeeeeewwwwwwww",
+      "en": "Pcheeeeeewwwwwwww",
+      "zh": ""
+    },
+    {
+      "start": 455.38,
+      "duration": 2.54,
+      "text": "Aww man mine went so far.",
+      "en": "Aww man mine went so far.",
+      "zh": ""
+    },
+    {
+      "start": 457.92,
+      "duration": 1.5,
+      "text": "And while my did shoot further,",
+      "en": "And while my did shoot further,",
+      "zh": ""
+    },
+    {
+      "start": 459.42,
+      "duration": 1.75,
+      "text": "Bethany was closer to the penny.",
+      "en": "Bethany was closer to the penny.",
+      "zh": ""
+    },
+    {
+      "start": 461.17,
+      "duration": 0.58,
+      "text": "So she earned",
+      "en": "So she earned",
+      "zh": ""
+    },
+    {
+      "start": 461.75,
+      "duration": 0.96,
+      "text": "the W.",
+      "en": "the W.",
+      "zh": ""
+    },
+    {
+      "start": 462.71,
+      "duration": 2.91,
+      "text": "New world record, world's smallest Nerf fight",
+      "en": "New world record, world's smallest Nerf fight",
+      "zh": ""
+    },
+    {
+      "start": 465.62,
+      "duration": 0.63,
+      "text": "And by the way,",
+      "en": "And by the way,",
+      "zh": ""
+    },
+    {
+      "start": 466.25,
+      "duration": 1.5,
+      "text": "we're making all the CAD files",
+      "en": "we're making all the CAD files",
+      "zh": ""
+    },
+    {
+      "start": 467.75,
+      "duration": 2.71,
+      "text": "we used available on Thingiverse for free.",
+      "en": "we used available on Thingiverse for free.",
+      "zh": ""
+    },
+    {
+      "start": 470.46,
+      "duration": 1.33,
+      "text": "so you can have your own 3D",
+      "en": "so you can have your own 3D",
+      "zh": ""
+    },
+    {
+      "start": 471.79,
+      "duration": 1.25,
+      "text": "printed nerf battle at home",
+      "en": "printed nerf battle at home",
+      "zh": ""
+    },
+    {
+      "start": 473.04,
+      "duration": 0.38,
+      "text": "and I'll leave",
+      "en": "and I'll leave",
+      "zh": ""
+    },
+    {
+      "start": 473.42,
+      "duration": 1.25,
+      "text": "a link in the video description.",
+      "en": "a link in the video description.",
+      "zh": ""
+    },
+    {
+      "start": 474.67,
+      "duration": 1.16,
+      "text": "There's even some designs there",
+      "en": "There's even some designs there",
+      "zh": ""
+    },
+    {
+      "start": 475.83,
+      "duration": 1.42,
+      "text": "that are Lego compatible",
+      "en": "that are Lego compatible",
+      "zh": ""
+    },
+    {
+      "start": 477.25,
+      "duration": 1.29,
+      "text": "so you can get real clever",
+      "en": "so you can get real clever",
+      "zh": ""
+    },
+    {
+      "start": 478.54,
+      "duration": 1.08,
+      "text": "and design your very own",
+      "en": "and design your very own",
+      "zh": ""
+    },
+    {
+      "start": 479.62,
+      "duration": 0.92,
+      "text": "compliant mechanism.",
+      "en": "compliant mechanism.",
+      "zh": ""
+    },
+    {
+      "start": 480.54,
+      "duration": 1.17,
+      "text": "Now it's time to shrink down",
+      "en": "Now it's time to shrink down",
+      "zh": ""
+    },
+    {
+      "start": 481.71,
+      "duration": 1.17,
+      "text": "to a hundred times",
+      "en": "to a hundred times",
+      "zh": ""
+    },
+    {
+      "start": 482.88,
+      "duration": 1.62,
+      "text": "smaller than a normal Nerf gun over",
+      "en": "smaller than a normal Nerf gun over",
+      "zh": ""
+    },
+    {
+      "start": 484.5,
+      "duration": 1.33,
+      "text": "in the Micro Mechanisms lab.",
+      "en": "in the Micro Mechanisms lab.",
+      "zh": ""
+    },
+    {
+      "start": 485.83,
+      "duration": 1.09,
+      "text": "But before we do that,",
+      "en": "But before we do that,",
+      "zh": ""
+    },
+    {
+      "start": 486.92,
+      "duration": 1.83,
+      "text": "I asked to make a quick detour",
+      "en": "I asked to make a quick detour",
+      "zh": ""
+    },
+    {
+      "start": 488.75,
+      "duration": 2.25,
+      "text": "for a very specific reason.",
+      "en": "for a very specific reason.",
+      "zh": ""
+    },
+    {
+      "start": 491.0,
+      "duration": 2.08,
+      "text": "This is where I lived freshman year,",
+      "en": "This is where I lived freshman year,",
+      "zh": ""
+    },
+    {
+      "start": 493.08,
+      "duration": 1.0,
+      "text": "I’ve got something to show you",
+      "en": "I’ve got something to show you",
+      "zh": ""
+    },
+    {
+      "start": 494.08,
+      "duration": 1.09,
+      "text": "it was the smell",
+      "en": "it was the smell",
+      "zh": ""
+    },
+    {
+      "start": 495.17,
+      "duration": 0.83,
+      "text": "more than anything",
+      "en": "more than anything",
+      "zh": ""
+    },
+    {
+      "start": 496.0,
+      "duration": 2.29,
+      "text": "that really brought back the nostalgia.",
+      "en": "that really brought back the nostalgia.",
+      "zh": ""
+    },
+    {
+      "start": 498.29,
+      "duration": 2.04,
+      "text": "It smells like a bunch of 19 year olds",
+      "en": "It smells like a bunch of 19 year olds",
+      "zh": ""
+    },
+    {
+      "start": 500.33,
+      "duration": 1.25,
+      "text": "with questionable hygiene.",
+      "en": "with questionable hygiene.",
+      "zh": ""
+    },
+    {
+      "start": 501.58,
+      "duration": 0.88,
+      "text": "This is my room.",
+      "en": "This is my room.",
+      "zh": ""
+    },
+    {
+      "start": 502.46,
+      "duration": 1.37,
+      "text": "3204 Lucky for me,",
+      "en": "3204 Lucky for me,",
+      "zh": ""
+    },
+    {
+      "start": 503.83,
+      "duration": 1.17,
+      "text": "they're between semesters,",
+      "en": "they're between semesters,",
+      "zh": ""
+    },
+    {
+      "start": 505.0,
+      "duration": 1.88,
+      "text": "so I could have full access to the room",
+      "en": "so I could have full access to the room",
+      "zh": ""
+    },
+    {
+      "start": 506.88,
+      "duration": 1.58,
+      "text": "to get right down to business.",
+      "en": "to get right down to business.",
+      "zh": ""
+    },
+    {
+      "start": 508.46,
+      "duration": 2.29,
+      "text": "I invented a way to break into other dorm",
+      "en": "I invented a way to break into other dorm",
+      "zh": ""
+    },
+    {
+      "start": 510.75,
+      "duration": 1.96,
+      "text": "rooms in, like 1.4 seconds",
+      "en": "rooms in, like 1.4 seconds",
+      "zh": ""
+    },
+    {
+      "start": 512.71,
+      "duration": 0.75,
+      "text": "when we were here.",
+      "en": "when we were here.",
+      "zh": ""
+    },
+    {
+      "start": 513.46,
+      "duration": 0.92,
+      "text": "And when I left,",
+      "en": "And when I left,",
+      "zh": ""
+    },
+    {
+      "start": 514.38,
+      "duration": 1.5,
+      "text": "I hid it in this air vent.",
+      "en": "I hid it in this air vent.",
+      "zh": ""
+    },
+    {
+      "start": 515.88,
+      "duration": 0.58,
+      "text": "So we're going to see",
+      "en": "So we're going to see",
+      "zh": ""
+    },
+    {
+      "start": 516.46,
+      "duration": 1.46,
+      "text": "if it's still there.",
+      "en": "if it's still there.",
+      "zh": ""
+    },
+    {
+      "start": 519.5,
+      "duration": 0.96,
+      "text": "well, it's not there, which",
+      "en": "well, it's not there, which",
+      "zh": ""
+    },
+    {
+      "start": 520.46,
+      "duration": 1.46,
+      "text": "which means there's only one option.",
+      "en": "which means there's only one option.",
+      "zh": ""
+    },
+    {
+      "start": 521.92,
+      "duration": 0.96,
+      "text": "We gotta make a new one.",
+      "en": "We gotta make a new one.",
+      "zh": ""
+    },
+    {
+      "start": 522.88,
+      "duration": 0.74,
+      "text": "So to make one,",
+      "en": "So to make one,",
+      "zh": ""
+    },
+    {
+      "start": 523.62,
+      "duration": 1.26,
+      "text": "you just start with a role of duct-",
+      "en": "you just start with a role of duct-",
+      "zh": ""
+    },
+    {
+      "start": 524.88,
+      "duration": 1.08,
+      "text": "*CENSORED BEEP*",
+      "en": "*CENSORED BEEP*",
+      "zh": ""
+    },
+    {
+      "start": 525.96,
+      "duration": 1.16,
+      "text": "...wax dental floss...",
+      "en": "...wax dental floss...",
+      "zh": ""
+    },
+    {
+      "start": 527.12,
+      "duration": 1.09,
+      "text": "*CENSORED BEEP*",
+      "en": "*CENSORED BEEP*",
+      "zh": ""
+    },
+    {
+      "start": 528.21,
+      "duration": 1.41,
+      "text": "...brush off the unused Uraniu-...",
+      "en": "...brush off the unused Uraniu-...",
+      "zh": ""
+    },
+    {
+      "start": 529.62,
+      "duration": 0.88,
+      "text": "*CENSORED BEEP*",
+      "en": "*CENSORED BEEP*",
+      "zh": ""
+    },
+    {
+      "start": 530.5,
+      "duration": 0.5,
+      "text": "....you should be good.",
+      "en": "....you should be good.",
+      "zh": ""
+    },
+    {
+      "start": 531.0,
+      "duration": 0.71,
+      "text": "Still remember",
+      "en": "Still remember",
+      "zh": ""
+    },
+    {
+      "start": 531.71,
+      "duration": 1.37,
+      "text": "after all these years",
+      "en": "after all these years",
+      "zh": ""
+    },
+    {
+      "start": 533.08,
+      "duration": 0.71,
+      "text": "Locked",
+      "en": "Locked",
+      "zh": ""
+    },
+    {
+      "start": 533.79,
+      "duration": 0.96,
+      "text": "Now I want to stress",
+      "en": "Now I want to stress",
+      "zh": ""
+    },
+    {
+      "start": 534.75,
+      "duration": 1.54,
+      "text": "this is for emergency use only.",
+      "en": "this is for emergency use only.",
+      "zh": ""
+    },
+    {
+      "start": 536.29,
+      "duration": 1.09,
+      "text": "Like if you want to play",
+      "en": "Like if you want to play",
+      "zh": ""
+    },
+    {
+      "start": 537.38,
+      "duration": 1.58,
+      "text": "Mario Kart in Scott Glaysher’s",
+      "en": "Mario Kart in Scott Glaysher’s",
+      "zh": ""
+    },
+    {
+      "start": 538.96,
+      "duration": 1.37,
+      "text": "dorm and he's not home.",
+      "en": "dorm and he's not home.",
+      "zh": ""
+    },
+    {
+      "start": 541.46,
+      "duration": 0.96,
+      "text": "I still got it.",
+      "en": "I still got it.",
+      "zh": ""
+    },
+    {
+      "start": 542.42,
+      "duration": 1.62,
+      "text": "And so with mischief managed,",
+      "en": "And so with mischief managed,",
+      "zh": ""
+    },
+    {
+      "start": 544.04,
+      "duration": 1.38,
+      "text": "it was back to work.",
+      "en": "it was back to work.",
+      "zh": ""
+    },
+    {
+      "start": 545.42,
+      "duration": 3.41,
+      "text": "Wow, that is minuscule.",
+      "en": "Wow, that is minuscule.",
+      "zh": ""
+    },
+    {
+      "start": 548.83,
+      "duration": 1.84,
+      "text": "And at this size we had to use a microscope",
+      "en": "And at this size we had to use a microscope",
+      "zh": ""
+    },
+    {
+      "start": 550.67,
+      "duration": 1.29,
+      "text": "to see what was going on.",
+      "en": "to see what was going on.",
+      "zh": ""
+    },
+    {
+      "start": 551.96,
+      "duration": 1.16,
+      "text": "Can we fire this thing?",
+      "en": "Can we fire this thing?",
+      "zh": ""
+    },
+    {
+      "start": 553.12,
+      "duration": 0.88,
+      "text": "Absolutely.",
+      "en": "Absolutely.",
+      "zh": ""
+    },
+    {
+      "start": 554.0,
+      "duration": 0.71,
+      "text": "And on top of that,",
+      "en": "And on top of that,",
+      "zh": ""
+    },
+    {
+      "start": 554.71,
+      "duration": 1.21,
+      "text": "there's no possible way",
+      "en": "there's no possible way",
+      "zh": ""
+    },
+    {
+      "start": 555.92,
+      "duration": 1.41,
+      "text": "I would have the dexterity",
+      "en": "I would have the dexterity",
+      "zh": ""
+    },
+    {
+      "start": 557.33,
+      "duration": 1.5,
+      "text": "to load it up with tweezers.",
+      "en": "to load it up with tweezers.",
+      "zh": ""
+    },
+    {
+      "start": 558.83,
+      "duration": 1.46,
+      "text": "So we used a micro manipulator",
+      "en": "So we used a micro manipulator",
+      "zh": ""
+    },
+    {
+      "start": 560.29,
+      "duration": 1.83,
+      "text": "instead where each turn of these knobs",
+      "en": "instead where each turn of these knobs",
+      "zh": ""
+    },
+    {
+      "start": 562.12,
+      "duration": 0.46,
+      "text": "will move",
+      "en": "will move",
+      "zh": ""
+    },
+    {
+      "start": 562.58,
+      "duration": 0.8,
+      "text": "the needle probe",
+      "en": "the needle probe",
+      "zh": ""
+    },
+    {
+      "start": 563.38,
+      "duration": 1.54,
+      "text": "fractions of a millimeter",
+      "en": "fractions of a millimeter",
+      "zh": ""
+    },
+    {
+      "start": 564.92,
+      "duration": 1.66,
+      "text": "in any one of three directions.",
+      "en": "in any one of three directions.",
+      "zh": ""
+    },
+    {
+      "start": 566.58,
+      "duration": 1.54,
+      "text": "All right, now continue going down.",
+      "en": "All right, now continue going down.",
+      "zh": ""
+    },
+    {
+      "start": 568.12,
+      "duration": 1.17,
+      "text": "oh my gosh.",
+      "en": "oh my gosh.",
+      "zh": ""
+    },
+    {
+      "start": 569.29,
+      "duration": 0.92,
+      "text": "And it feels a little bit",
+      "en": "And it feels a little bit",
+      "zh": ""
+    },
+    {
+      "start": 570.21,
+      "duration": 1.17,
+      "text": "like defusing a bomb,",
+      "en": "like defusing a bomb,",
+      "zh": ""
+    },
+    {
+      "start": 571.38,
+      "duration": 0.74,
+      "text": "because you have to be",
+      "en": "because you have to be",
+      "zh": ""
+    },
+    {
+      "start": 572.12,
+      "duration": 1.55,
+      "text": "so incredibly careful",
+      "en": "so incredibly careful",
+      "zh": ""
+    },
+    {
+      "start": 573.67,
+      "duration": 0.83,
+      "text": "since the slightest",
+      "en": "since the slightest",
+      "zh": ""
+    },
+    {
+      "start": 574.5,
+      "duration": 1.54,
+      "text": "turn of a knob in the wrong direction--",
+      "en": "turn of a knob in the wrong direction--",
+      "zh": ""
+    },
+    {
+      "start": 576.04,
+      "duration": 0.79,
+      "text": "no.",
+      "en": "no.",
+      "zh": ""
+    },
+    {
+      "start": 577.04,
+      "duration": 1.04,
+      "text": "oh no.",
+      "en": "oh no.",
+      "zh": ""
+    },
+    {
+      "start": 578.25,
+      "duration": 1.46,
+      "text": "Can immediately destroy",
+      "en": "Can immediately destroy",
+      "zh": ""
+    },
+    {
+      "start": 579.71,
+      "duration": 2.0,
+      "text": "the delicate carbon nanotubes.",
+      "en": "the delicate carbon nanotubes.",
+      "zh": ""
+    },
+    {
+      "start": 581.71,
+      "duration": 1.0,
+      "text": "Which reminds me,",
+      "en": "Which reminds me,",
+      "zh": ""
+    },
+    {
+      "start": 582.71,
+      "duration": 1.0,
+      "text": "I forgot to mention",
+      "en": "I forgot to mention",
+      "zh": ""
+    },
+    {
+      "start": 583.71,
+      "duration": 1.12,
+      "text": "this version of the Nerf gun",
+      "en": "this version of the Nerf gun",
+      "zh": ""
+    },
+    {
+      "start": 584.83,
+      "duration": 1.92,
+      "text": "is actually grown from carbon nanotubes",
+      "en": "is actually grown from carbon nanotubes",
+      "zh": ""
+    },
+    {
+      "start": 586.75,
+      "duration": 1.54,
+      "text": "because there just aren't many other ways",
+      "en": "because there just aren't many other ways",
+      "zh": ""
+    },
+    {
+      "start": 588.29,
+      "duration": 2.25,
+      "text": "to make something this small and precise.",
+      "en": "to make something this small and precise.",
+      "zh": ""
+    },
+    {
+      "start": 590.54,
+      "duration": 1.21,
+      "text": "It's a two step process.",
+      "en": "It's a two step process.",
+      "zh": ""
+    },
+    {
+      "start": 591.75,
+      "duration": 0.92,
+      "text": "Bridgette walked me through",
+      "en": "Bridgette walked me through",
+      "zh": ""
+    },
+    {
+      "start": 592.67,
+      "duration": 1.12,
+      "text": "where you start in a clean room",
+      "en": "where you start in a clean room",
+      "zh": ""
+    },
+    {
+      "start": 593.79,
+      "duration": 1.29,
+      "text": "and use Photolithography",
+      "en": "and use Photolithography",
+      "zh": ""
+    },
+    {
+      "start": 595.08,
+      "duration": 2.21,
+      "text": "to create a pattern on a silicon wafer",
+      "en": "to create a pattern on a silicon wafer",
+      "zh": ""
+    },
+    {
+      "start": 597.29,
+      "duration": 1.46,
+      "text": "very similar to the process",
+      "en": "very similar to the process",
+      "zh": ""
+    },
+    {
+      "start": 598.75,
+      "duration": 1.17,
+      "text": "of making microchips.",
+      "en": "of making microchips.",
+      "zh": ""
+    },
+    {
+      "start": 599.92,
+      "duration": 1.25,
+      "text": "Then for step two using",
+      "en": "Then for step two using",
+      "zh": ""
+    },
+    {
+      "start": 601.17,
+      "duration": 1.12,
+      "text": "the wafer is a mask.",
+      "en": "the wafer is a mask.",
+      "zh": ""
+    },
+    {
+      "start": 602.29,
+      "duration": 2.33,
+      "text": "You get a thin layer of iron in the spots",
+      "en": "You get a thin layer of iron in the spots",
+      "zh": ""
+    },
+    {
+      "start": 604.62,
+      "duration": 1.67,
+      "text": "where you want the tubes to grow.",
+      "en": "where you want the tubes to grow.",
+      "zh": ""
+    },
+    {
+      "start": 606.29,
+      "duration": 1.0,
+      "text": "Then you put it in a furnace",
+      "en": "Then you put it in a furnace",
+      "zh": ""
+    },
+    {
+      "start": 607.29,
+      "duration": 1.88,
+      "text": "and then blow very specific gases",
+      "en": "and then blow very specific gases",
+      "zh": ""
+    },
+    {
+      "start": 609.17,
+      "duration": 2.16,
+      "text": "over it at very hot temperatures.",
+      "en": "over it at very hot temperatures.",
+      "zh": ""
+    },
+    {
+      "start": 611.33,
+      "duration": 0.67,
+      "text": "The whole process",
+      "en": "The whole process",
+      "zh": ""
+    },
+    {
+      "start": 612.0,
+      "duration": 1.33,
+      "text": "only takes about 8 hours,",
+      "en": "only takes about 8 hours,",
+      "zh": ""
+    },
+    {
+      "start": 613.33,
+      "duration": 0.88,
+      "text": "but when you're done,",
+      "en": "but when you're done,",
+      "zh": ""
+    },
+    {
+      "start": 614.21,
+      "duration": 2.08,
+      "text": "you're left with incredibly precise,",
+      "en": "you're left with incredibly precise,",
+      "zh": ""
+    },
+    {
+      "start": 616.29,
+      "duration": 1.75,
+      "text": "tiny little structures,",
+      "en": "tiny little structures,",
+      "zh": ""
+    },
+    {
+      "start": 619.0,
+      "duration": 2.38,
+      "text": "Don’t screw this up Mark",
+      "en": "Don’t screw this up Mark",
+      "zh": ""
+    },
+    {
+      "start": 621.38,
+      "duration": 2.62,
+      "text": "the smallest firing of a Nerf gun ever",
+      "en": "the smallest firing of a Nerf gun ever",
+      "zh": ""
+    },
+    {
+      "start": 624.0,
+      "duration": 3.58,
+      "text": "in 3 2 1",
+      "en": "in 3 2 1",
+      "zh": ""
+    },
+    {
+      "start": 627.58,
+      "duration": 1.34,
+      "text": "Pewww",
+      "en": "Pewww",
+      "zh": ""
+    },
+    {
+      "start": 628.92,
+      "duration": 1.37,
+      "text": "It’s gonnnne",
+      "en": "It’s gonnnne",
+      "zh": ""
+    },
+    {
+      "start": 630.29,
+      "duration": 2.0,
+      "text": "Well done team",
+      "en": "Well done team",
+      "zh": ""
+    },
+    {
+      "start": 632.5,
+      "duration": 1.71,
+      "text": "it's kind of like it's there",
+      "en": "it's kind of like it's there",
+      "zh": ""
+    },
+    {
+      "start": 634.21,
+      "duration": 1.41,
+      "text": "and then it's not there.",
+      "en": "and then it's not there.",
+      "zh": ""
+    },
+    {
+      "start": 635.62,
+      "duration": 1.84,
+      "text": "There's just something so satisfying",
+      "en": "There's just something so satisfying",
+      "zh": ""
+    },
+    {
+      "start": 637.46,
+      "duration": 1.71,
+      "text": "about seeing a complaint mechanism.",
+      "en": "about seeing a complaint mechanism.",
+      "zh": ""
+    },
+    {
+      "start": 639.17,
+      "duration": 1.33,
+      "text": "Design still function",
+      "en": "Design still function",
+      "zh": ""
+    },
+    {
+      "start": 640.5,
+      "duration": 1.0,
+      "text": "just as well,",
+      "en": "just as well,",
+      "zh": ""
+    },
+    {
+      "start": 641.5,
+      "duration": 1.29,
+      "text": "even when it's 100 times",
+      "en": "even when it's 100 times",
+      "zh": ""
+    },
+    {
+      "start": 642.79,
+      "duration": 1.63,
+      "text": "smaller than the original.",
+      "en": "smaller than the original.",
+      "zh": ""
+    },
+    {
+      "start": 644.42,
+      "duration": 1.0,
+      "text": "And with that out of the way,",
+      "en": "And with that out of the way,",
+      "zh": ""
+    },
+    {
+      "start": 645.42,
+      "duration": 1.91,
+      "text": "all that was left was to challenge",
+      "en": "all that was left was to challenge",
+      "zh": ""
+    },
+    {
+      "start": 647.33,
+      "duration": 2.09,
+      "text": "an ant to a Nerf battle.",
+      "en": "an ant to a Nerf battle.",
+      "zh": ""
+    },
+    {
+      "start": 649.42,
+      "duration": 2.12,
+      "text": "This is actually like a perfect scale",
+      "en": "This is actually like a perfect scale",
+      "zh": ""
+    },
+    {
+      "start": 651.54,
+      "duration": 0.58,
+      "text": "for an ant.",
+      "en": "for an ant.",
+      "zh": ""
+    },
+    {
+      "start": 652.12,
+      "duration": 1.76,
+      "text": "I actually tried to start some beef here",
+      "en": "I actually tried to start some beef here",
+      "zh": ""
+    },
+    {
+      "start": 653.88,
+      "duration": 2.08,
+      "text": "by firing a dart his way,",
+      "en": "by firing a dart his way,",
+      "zh": ""
+    },
+    {
+      "start": 655.96,
+      "duration": 2.04,
+      "text": "but he was seemingly unintimidated.",
+      "en": "but he was seemingly unintimidated.",
+      "zh": ""
+    },
+    {
+      "start": 658.0,
+      "duration": 1.58,
+      "text": "Hey, get back here.",
+      "en": "Hey, get back here.",
+      "zh": ""
+    },
+    {
+      "start": 659.58,
+      "duration": 2.0,
+      "text": "Wow- oh he stole it!",
+      "en": "Wow- oh he stole it!",
+      "zh": ""
+    },
+    {
+      "start": 661.58,
+      "duration": 2.3,
+      "text": "Okay he was definitely unintimidated.",
+      "en": "Okay he was definitely unintimidated.",
+      "zh": ""
+    },
+    {
+      "start": 663.88,
+      "duration": 1.95,
+      "text": "He took my gun!",
+      "en": "He took my gun!",
+      "zh": ""
+    },
+    {
+      "start": 665.83,
+      "duration": 0.88,
+      "text": "Now, you guys made one",
+      "en": "Now, you guys made one",
+      "zh": ""
+    },
+    {
+      "start": 666.71,
+      "duration": 1.46,
+      "text": "an order of magnitude smaller",
+      "en": "an order of magnitude smaller",
+      "zh": ""
+    },
+    {
+      "start": 668.17,
+      "duration": 0.37,
+      "text": "than this, right?",
+      "en": "than this, right?",
+      "zh": ""
+    },
+    {
+      "start": 668.54,
+      "duration": 1.67,
+      "text": "Yeah. Yeah. 1/10 that size",
+      "en": "Yeah. Yeah. 1/10 that size",
+      "zh": ""
+    },
+    {
+      "start": 670.21,
+      "duration": 0.96,
+      "text": "Wooowww",
+      "en": "Wooowww",
+      "zh": ""
+    },
+    {
+      "start": 671.17,
+      "duration": 1.25,
+      "text": "But before we get to that,",
+      "en": "But before we get to that,",
+      "zh": ""
+    },
+    {
+      "start": 672.42,
+      "duration": 1.33,
+      "text": "you should know that the water fight",
+      "en": "you should know that the water fight",
+      "zh": ""
+    },
+    {
+      "start": 673.75,
+      "duration": 1.0,
+      "text": "equivalent to the world's",
+      "en": "equivalent to the world's",
+      "zh": ""
+    },
+    {
+      "start": 674.75,
+      "duration": 1.13,
+      "text": "largest Nerf gun",
+      "en": "largest Nerf gun",
+      "zh": ""
+    },
+    {
+      "start": 675.88,
+      "duration": 1.79,
+      "text": "is the world’s largest super soaker.",
+      "en": "is the world’s largest super soaker.",
+      "zh": ""
+    },
+    {
+      "start": 677.67,
+      "duration": 0.75,
+      "text": "And sadly,",
+      "en": "And sadly,",
+      "zh": ""
+    },
+    {
+      "start": 678.42,
+      "duration": 0.91,
+      "text": "you can no longer buy",
+      "en": "you can no longer buy",
+      "zh": ""
+    },
+    {
+      "start": 679.33,
+      "duration": 1.17,
+      "text": "normal super soakers.",
+      "en": "normal super soakers.",
+      "zh": ""
+    },
+    {
+      "start": 680.5,
+      "duration": 1.0,
+      "text": "But we've designed something",
+      "en": "But we've designed something",
+      "zh": ""
+    },
+    {
+      "start": 681.5,
+      "duration": 1.71,
+      "text": "that's better for two reasons.",
+      "en": "that's better for two reasons.",
+      "zh": ""
+    },
+    {
+      "start": 683.21,
+      "duration": 0.58,
+      "text": "Number one,",
+      "en": "Number one,",
+      "zh": ""
+    },
+    {
+      "start": 683.79,
+      "duration": 1.25,
+      "text": "you get to put it together yourself",
+      "en": "you get to put it together yourself",
+      "zh": ""
+    },
+    {
+      "start": 685.04,
+      "duration": 1.5,
+      "text": "so you actually understand",
+      "en": "so you actually understand",
+      "zh": ""
+    },
+    {
+      "start": 686.54,
+      "duration": 1.21,
+      "text": "and see how it works.",
+      "en": "and see how it works.",
+      "zh": ""
+    },
+    {
+      "start": 687.75,
+      "duration": 0.83,
+      "text": "And number two,",
+      "en": "And number two,",
+      "zh": ""
+    },
+    {
+      "start": 688.58,
+      "duration": 1.63,
+      "text": "there's a secret prank built in",
+      "en": "there's a secret prank built in",
+      "zh": ""
+    },
+    {
+      "start": 690.21,
+      "duration": 1.5,
+      "text": "because after you spray your brother,",
+      "en": "because after you spray your brother,",
+      "zh": ""
+    },
+    {
+      "start": 691.71,
+      "duration": 1.0,
+      "text": "you do the right thing",
+      "en": "you do the right thing",
+      "zh": ""
+    },
+    {
+      "start": 692.71,
+      "duration": 1.5,
+      "text": "and give him a free shot in return.",
+      "en": "and give him a free shot in return.",
+      "zh": ""
+    },
+    {
+      "start": 694.21,
+      "duration": 1.41,
+      "text": "But before you pass it over,",
+      "en": "But before you pass it over,",
+      "zh": ""
+    },
+    {
+      "start": 695.62,
+      "duration": 1.84,
+      "text": "you discreetly turn this valve.",
+      "en": "you discreetly turn this valve.",
+      "zh": ""
+    },
+    {
+      "start": 697.46,
+      "duration": 2.83,
+      "text": "Then you watch him self-own",
+      "en": "Then you watch him self-own",
+      "zh": ""
+    },
+    {
+      "start": 700.29,
+      "duration": 1.0,
+      "text": "and then you run.",
+      "en": "and then you run.",
+      "zh": ""
+    },
+    {
+      "start": 701.29,
+      "duration": 0.33,
+      "text": "And if you",
+      "en": "And if you",
+      "zh": ""
+    },
+    {
+      "start": 701.62,
+      "duration": 0.59,
+      "text": "want to experience",
+      "en": "want to experience",
+      "zh": ""
+    },
+    {
+      "start": 702.21,
+      "duration": 0.91,
+      "text": "this toy for yourself,",
+      "en": "this toy for yourself,",
+      "zh": ""
+    },
+    {
+      "start": 703.12,
+      "duration": 1.0,
+      "text": "then you're going to have to get",
+      "en": "then you're going to have to get",
+      "zh": ""
+    },
+    {
+      "start": 704.12,
+      "duration": 0.84,
+      "text": "a CrunchLab build box",
+      "en": "a CrunchLab build box",
+      "zh": ""
+    },
+    {
+      "start": 704.96,
+      "duration": 0.87,
+      "text": "subscription",
+      "en": "subscription",
+      "zh": ""
+    },
+    {
+      "start": 705.83,
+      "duration": 1.34,
+      "text": "where you get a super fun toy",
+      "en": "where you get a super fun toy",
+      "zh": ""
+    },
+    {
+      "start": 707.17,
+      "duration": 0.71,
+      "text": "every month,",
+      "en": "every month,",
+      "zh": ""
+    },
+    {
+      "start": 707.88,
+      "duration": 1.12,
+      "text": "which comes with a video",
+      "en": "which comes with a video",
+      "zh": ""
+    },
+    {
+      "start": 709.0,
+      "duration": 1.83,
+      "text": "where I teach you all the juicy physics",
+      "en": "where I teach you all the juicy physics",
+      "zh": ""
+    },
+    {
+      "start": 710.83,
+      "duration": 1.13,
+      "text": "that make the toy work.",
+      "en": "that make the toy work.",
+      "zh": ""
+    },
+    {
+      "start": 711.96,
+      "duration": 1.33,
+      "text": "So if you want to have a ton of fun",
+      "en": "So if you want to have a ton of fun",
+      "zh": ""
+    },
+    {
+      "start": 713.29,
+      "duration": 1.04,
+      "text": "while learning to think",
+      "en": "while learning to think",
+      "zh": ""
+    },
+    {
+      "start": 714.33,
+      "duration": 3.0,
+      "text": "and to prank like an engineer",
+      "en": "and to prank like an engineer",
+      "zh": ""
+    },
+    {
+      "start": 717.38,
+      "duration": 1.5,
+      "text": "visit crunchlabs dot com.",
+      "en": "visit crunchlabs dot com.",
+      "zh": ""
+    },
+    {
+      "start": 718.88,
+      "duration": 1.12,
+      "text": "To learn more",
+      "en": "To learn more",
+      "zh": ""
+    },
+    {
+      "start": 720.0,
+      "duration": 1.08,
+      "text": "back to breaking world records,",
+      "en": "back to breaking world records,",
+      "zh": ""
+    },
+    {
+      "start": 721.08,
+      "duration": 0.67,
+      "text": "it was once again",
+      "en": "it was once again",
+      "zh": ""
+    },
+    {
+      "start": 721.75,
+      "duration": 2.17,
+      "text": "time to shrink down by a factor of ten,",
+      "en": "time to shrink down by a factor of ten,",
+      "zh": ""
+    },
+    {
+      "start": 723.92,
+      "duration": 1.83,
+      "text": "which makes this spec right here",
+      "en": "which makes this spec right here",
+      "zh": ""
+    },
+    {
+      "start": 725.75,
+      "duration": 1.08,
+      "text": "1000 times",
+      "en": "1000 times",
+      "zh": ""
+    },
+    {
+      "start": 726.83,
+      "duration": 1.79,
+      "text": "smaller than a normal Nerf gun.",
+      "en": "smaller than a normal Nerf gun.",
+      "zh": ""
+    },
+    {
+      "start": 728.62,
+      "duration": 1.34,
+      "text": "Whoaaa",
+      "en": "Whoaaa",
+      "zh": ""
+    },
+    {
+      "start": 729.96,
+      "duration": 1.75,
+      "text": "And so in order to truly appreciate",
+      "en": "And so in order to truly appreciate",
+      "zh": ""
+    },
+    {
+      "start": 731.71,
+      "duration": 1.25,
+      "text": "the proper scale here",
+      "en": "the proper scale here",
+      "zh": ""
+    },
+    {
+      "start": 732.96,
+      "duration": 1.29,
+      "text": "I had to make a sacrifice",
+      "en": "I had to make a sacrifice",
+      "zh": ""
+    },
+    {
+      "start": 734.96,
+      "duration": 1.0,
+      "text": "got one",
+      "en": "got one",
+      "zh": ""
+    },
+    {
+      "start": 738.29,
+      "duration": 3.0,
+      "text": "wow, look at that.",
+      "en": "wow, look at that.",
+      "zh": ""
+    },
+    {
+      "start": 741.33,
+      "duration": 0.59,
+      "text": "Now, admittedly,",
+      "en": "Now, admittedly,",
+      "zh": ""
+    },
+    {
+      "start": 741.92,
+      "duration": 1.08,
+      "text": "these are just the outline",
+      "en": "these are just the outline",
+      "zh": ""
+    },
+    {
+      "start": 743.0,
+      "duration": 1.46,
+      "text": "without the internal compliant",
+      "en": "without the internal compliant",
+      "zh": ""
+    },
+    {
+      "start": 744.46,
+      "duration": 1.04,
+      "text": "mechanism, in part",
+      "en": "mechanism, in part",
+      "zh": ""
+    },
+    {
+      "start": 745.5,
+      "duration": 1.46,
+      "text": "because even if it were there, it's",
+      "en": "because even if it were there, it's",
+      "zh": ""
+    },
+    {
+      "start": 746.96,
+      "duration": 1.12,
+      "text": "just too small,",
+      "en": "just too small,",
+      "zh": ""
+    },
+    {
+      "start": 748.08,
+      "duration": 1.46,
+      "text": "so we'd have no way to actually",
+      "en": "so we'd have no way to actually",
+      "zh": ""
+    },
+    {
+      "start": 749.54,
+      "duration": 1.67,
+      "text": "cock it back and pull the trigger.",
+      "en": "cock it back and pull the trigger.",
+      "zh": ""
+    },
+    {
+      "start": 751.21,
+      "duration": 0.83,
+      "text": "And so for the fourth",
+      "en": "And so for the fourth",
+      "zh": ""
+    },
+    {
+      "start": 752.04,
+      "duration": 1.17,
+      "text": "and final world record,",
+      "en": "and final world record,",
+      "zh": ""
+    },
+    {
+      "start": 753.21,
+      "duration": 2.08,
+      "text": "it was time to shrink down one last time",
+      "en": "it was time to shrink down one last time",
+      "zh": ""
+    },
+    {
+      "start": 755.29,
+      "duration": 1.79,
+      "text": "by a factor of ten to land this",
+      "en": "by a factor of ten to land this",
+      "zh": ""
+    },
+    {
+      "start": 757.08,
+      "duration": 1.5,
+      "text": "at 10,000 times",
+      "en": "at 10,000 times",
+      "zh": ""
+    },
+    {
+      "start": 758.58,
+      "duration": 2.04,
+      "text": "smaller than a normal Nerf gun.",
+      "en": "smaller than a normal Nerf gun.",
+      "zh": ""
+    },
+    {
+      "start": 760.62,
+      "duration": 1.26,
+      "text": "Now I just had to find it.",
+      "en": "Now I just had to find it.",
+      "zh": ""
+    },
+    {
+      "start": 761.88,
+      "duration": 1.87,
+      "text": "And is that on here as well? Yep.",
+      "en": "And is that on here as well? Yep.",
+      "zh": ""
+    },
+    {
+      "start": 763.75,
+      "duration": 2.54,
+      "text": "Scroll up now.",
+      "en": "Scroll up now.",
+      "zh": ""
+    },
+    {
+      "start": 766.29,
+      "duration": 1.96,
+      "text": "Five of those would fit across",
+      "en": "Five of those would fit across",
+      "zh": ""
+    },
+    {
+      "start": 768.25,
+      "duration": 1.25,
+      "text": "one of my incredibly",
+      "en": "one of my incredibly",
+      "zh": ""
+    },
+    {
+      "start": 769.5,
+      "duration": 1.67,
+      "text": "unhealthy looking hairs",
+      "en": "unhealthy looking hairs",
+      "zh": ""
+    },
+    {
+      "start": 771.17,
+      "duration": 1.16,
+      "text": "And this point we had to upgrade",
+      "en": "And this point we had to upgrade",
+      "zh": ""
+    },
+    {
+      "start": 772.33,
+      "duration": 1.25,
+      "text": "to their electron microscope",
+      "en": "to their electron microscope",
+      "zh": ""
+    },
+    {
+      "start": 773.58,
+      "duration": 0.75,
+      "text": "to properly",
+      "en": "to properly",
+      "zh": ""
+    },
+    {
+      "start": 774.33,
+      "duration": 1.13,
+      "text": "appreciate the scale",
+      "en": "appreciate the scale",
+      "zh": ""
+    },
+    {
+      "start": 775.46,
+      "duration": 1.54,
+      "text": "here as Ivy walked me",
+      "en": "here as Ivy walked me",
+      "zh": ""
+    },
+    {
+      "start": 777.0,
+      "duration": 1.62,
+      "text": "through the resulting images.",
+      "en": "through the resulting images.",
+      "zh": ""
+    },
+    {
+      "start": 778.62,
+      "duration": 2.09,
+      "text": "Wow, that's a cool shot",
+      "en": "Wow, that's a cool shot",
+      "zh": ""
+    },
+    {
+      "start": 780.71,
+      "duration": 1.17,
+      "text": "and that's a human hair there.",
+      "en": "and that's a human hair there.",
+      "zh": ""
+    },
+    {
+      "start": 781.88,
+      "duration": 1.0,
+      "text": "But to even appreciate",
+      "en": "But to even appreciate",
+      "zh": ""
+    },
+    {
+      "start": 782.88,
+      "duration": 1.66,
+      "text": "how small human hair is,",
+      "en": "how small human hair is,",
+      "zh": ""
+    },
+    {
+      "start": 784.54,
+      "duration": 1.71,
+      "text": "we found a dead ant outside",
+      "en": "we found a dead ant outside",
+      "zh": ""
+    },
+    {
+      "start": 786.25,
+      "duration": 1.54,
+      "text": "and you could see at this scale",
+      "en": "and you could see at this scale",
+      "zh": ""
+    },
+    {
+      "start": 787.79,
+      "duration": 2.46,
+      "text": "it looks like a giant alien monster",
+      "en": "it looks like a giant alien monster",
+      "zh": ""
+    },
+    {
+      "start": 790.25,
+      "duration": 1.0,
+      "text": "by comparison.",
+      "en": "by comparison.",
+      "zh": ""
+    },
+    {
+      "start": 791.25,
+      "duration": 1.33,
+      "text": "I also found it fascinating",
+      "en": "I also found it fascinating",
+      "zh": ""
+    },
+    {
+      "start": 792.58,
+      "duration": 1.67,
+      "text": "to see what the carbon nanotubes",
+      "en": "to see what the carbon nanotubes",
+      "zh": ""
+    },
+    {
+      "start": 794.25,
+      "duration": 1.0,
+      "text": "actually look like",
+      "en": "actually look like",
+      "zh": ""
+    },
+    {
+      "start": 795.25,
+      "duration": 1.29,
+      "text": "when you zoom in this much.",
+      "en": "when you zoom in this much.",
+      "zh": ""
+    },
+    {
+      "start": 796.54,
+      "duration": 1.0,
+      "text": "And so without the aid",
+      "en": "And so without the aid",
+      "zh": ""
+    },
+    {
+      "start": 797.54,
+      "duration": 1.17,
+      "text": "of an electron microscope,",
+      "en": "of an electron microscope,",
+      "zh": ""
+    },
+    {
+      "start": 798.71,
+      "duration": 1.21,
+      "text": "that final world record",
+      "en": "that final world record",
+      "zh": ""
+    },
+    {
+      "start": 799.92,
+      "duration": 2.08,
+      "text": "Nerf gun is an imperceptible speck",
+      "en": "Nerf gun is an imperceptible speck",
+      "zh": ""
+    },
+    {
+      "start": 802.0,
+      "duration": 2.58,
+      "text": "A fifth the width of my hair right here.",
+      "en": "A fifth the width of my hair right here.",
+      "zh": ""
+    },
+    {
+      "start": 804.58,
+      "duration": 1.88,
+      "text": "And that's insanely tiny.",
+      "en": "And that's insanely tiny.",
+      "zh": ""
+    },
+    {
+      "start": 806.46,
+      "duration": 1.62,
+      "text": "But in an effort to do a better job",
+      "en": "But in an effort to do a better job",
+      "zh": ""
+    },
+    {
+      "start": 808.08,
+      "duration": 1.59,
+      "text": "at protecting this record",
+      "en": "at protecting this record",
+      "zh": ""
+    },
+    {
+      "start": 809.67,
+      "duration": 1.21,
+      "text": "from my buddy, Mr. Beast,",
+      "en": "from my buddy, Mr. Beast,",
+      "zh": ""
+    },
+    {
+      "start": 813.58,
+      "duration": 2.5,
+      "text": "I knew I had to go even smaller.",
+      "en": "I knew I had to go even smaller.",
+      "zh": ""
+    },
+    {
+      "start": 816.08,
+      "duration": 1.8,
+      "text": "and not just an additional ten",
+      "en": "and not just an additional ten",
+      "zh": ""
+    },
+    {
+      "start": 817.88,
+      "duration": 2.41,
+      "text": "or 20 times smaller, we're talking",
+      "en": "or 20 times smaller, we're talking",
+      "zh": ""
+    },
+    {
+      "start": 820.29,
+      "duration": 2.13,
+      "text": "300 times smaller.",
+      "en": "300 times smaller.",
+      "zh": ""
+    },
+    {
+      "start": 822.42,
+      "duration": 1.96,
+      "text": "That makes it 3 million times smaller",
+      "en": "That makes it 3 million times smaller",
+      "zh": ""
+    },
+    {
+      "start": 824.38,
+      "duration": 1.37,
+      "text": "than a normal Nerf gun",
+      "en": "than a normal Nerf gun",
+      "zh": ""
+    },
+    {
+      "start": 825.75,
+      "duration": 1.29,
+      "text": "It’s so small, in fact,",
+      "en": "It’s so small, in fact,",
+      "zh": ""
+    },
+    {
+      "start": 827.04,
+      "duration": 1.75,
+      "text": "that a single drop of liquid",
+      "en": "that a single drop of liquid",
+      "zh": ""
+    },
+    {
+      "start": 828.79,
+      "duration": 0.71,
+      "text": "like this",
+      "en": "like this",
+      "zh": ""
+    },
+    {
+      "start": 829.5,
+      "duration": 2.54,
+      "text": "could contain trillions of them.",
+      "en": "could contain trillions of them.",
+      "zh": ""
+    },
+    {
+      "start": 832.04,
+      "duration": 2.0,
+      "text": "And I know what you're thinking, Mark.",
+      "en": "And I know what you're thinking, Mark.",
+      "zh": ""
+    },
+    {
+      "start": 834.04,
+      "duration": 0.96,
+      "text": "That's crazy.",
+      "en": "That's crazy.",
+      "zh": ""
+    },
+    {
+      "start": 835.0,
+      "duration": 1.08,
+      "text": "I mean, at that scale,",
+      "en": "I mean, at that scale,",
+      "zh": ""
+    },
+    {
+      "start": 836.08,
+      "duration": 2.46,
+      "text": "you basically need to fold a DNA helix",
+      "en": "you basically need to fold a DNA helix",
+      "zh": ""
+    },
+    {
+      "start": 838.54,
+      "duration": 1.38,
+      "text": "into the shape of a Nerf gun,",
+      "en": "into the shape of a Nerf gun,",
+      "zh": ""
+    },
+    {
+      "start": 839.92,
+      "duration": 2.5,
+      "text": "which was precisely our plan.",
+      "en": "which was precisely our plan.",
+      "zh": ""
+    },
+    {
+      "start": 842.42,
+      "duration": 1.0,
+      "text": "And to pull it off,",
+      "en": "And to pull it off,",
+      "zh": ""
+    },
+    {
+      "start": 843.42,
+      "duration": 2.41,
+      "text": "I need to head down to the Salk Institute",
+      "en": "I need to head down to the Salk Institute",
+      "zh": ""
+    },
+    {
+      "start": 845.83,
+      "duration": 1.71,
+      "text": "in San Diego, California.",
+      "en": "in San Diego, California.",
+      "zh": ""
+    },
+    {
+      "start": 847.54,
+      "duration": 1.38,
+      "text": "Now, Salk is a nonprofit",
+      "en": "Now, Salk is a nonprofit",
+      "zh": ""
+    },
+    {
+      "start": 848.92,
+      "duration": 2.41,
+      "text": "biological research institute founded by",
+      "en": "biological research institute founded by",
+      "zh": ""
+    },
+    {
+      "start": 851.33,
+      "duration": 0.79,
+      "text": "Jonas Salk.",
+      "en": "Jonas Salk.",
+      "zh": ""
+    },
+    {
+      "start": 852.12,
+      "duration": 1.05,
+      "text": "My favorite thing about him",
+      "en": "My favorite thing about him",
+      "zh": ""
+    },
+    {
+      "start": 853.17,
+      "duration": 1.29,
+      "text": "is not necessarily",
+      "en": "is not necessarily",
+      "zh": ""
+    },
+    {
+      "start": 854.46,
+      "duration": 1.83,
+      "text": "that he discovered the cure for polio,",
+      "en": "that he discovered the cure for polio,",
+      "zh": ""
+    },
+    {
+      "start": 856.29,
+      "duration": 1.25,
+      "text": "but that after doing so,",
+      "en": "but that after doing so,",
+      "zh": ""
+    },
+    {
+      "start": 857.54,
+      "duration": 2.46,
+      "text": "he decided to forego the $3 billion",
+      "en": "he decided to forego the $3 billion",
+      "zh": ""
+    },
+    {
+      "start": 860.0,
+      "duration": 0.79,
+      "text": "he would have made by",
+      "en": "he would have made by",
+      "zh": ""
+    },
+    {
+      "start": 860.79,
+      "duration": 1.13,
+      "text": "patenting the vaccine",
+      "en": "patenting the vaccine",
+      "zh": ""
+    },
+    {
+      "start": 861.92,
+      "duration": 0.75,
+      "text": "and instead",
+      "en": "and instead",
+      "zh": ""
+    },
+    {
+      "start": 862.67,
+      "duration": 1.12,
+      "text": "made the cure available",
+      "en": "made the cure available",
+      "zh": ""
+    },
+    {
+      "start": 863.79,
+      "duration": 1.92,
+      "text": "for free to everyone.",
+      "en": "for free to everyone.",
+      "zh": ""
+    },
+    {
+      "start": 865.71,
+      "duration": 0.83,
+      "text": "And that attitude",
+      "en": "And that attitude",
+      "zh": ""
+    },
+    {
+      "start": 866.54,
+      "duration": 1.92,
+      "text": "of altruistic scientific",
+      "en": "of altruistic scientific",
+      "zh": ""
+    },
+    {
+      "start": 868.46,
+      "duration": 1.37,
+      "text": "curiosity permeates",
+      "en": "curiosity permeates",
+      "zh": ""
+    },
+    {
+      "start": 869.83,
+      "duration": 0.79,
+      "text": "the institute",
+      "en": "the institute",
+      "zh": ""
+    },
+    {
+      "start": 870.62,
+      "duration": 0.84,
+      "text": "still today,",
+      "en": "still today,",
+      "zh": ""
+    },
+    {
+      "start": 871.46,
+      "duration": 1.96,
+      "text": "creating an environment for discoveries",
+      "en": "creating an environment for discoveries",
+      "zh": ""
+    },
+    {
+      "start": 873.42,
+      "duration": 1.29,
+      "text": "like the helical structure",
+      "en": "like the helical structure",
+      "zh": ""
+    },
+    {
+      "start": 874.71,
+      "duration": 1.21,
+      "text": "of the DNA molecule,",
+      "en": "of the DNA molecule,",
+      "zh": ""
+    },
+    {
+      "start": 875.92,
+      "duration": 0.91,
+      "text": "which just so happens",
+      "en": "which just so happens",
+      "zh": ""
+    },
+    {
+      "start": 876.83,
+      "duration": 2.25,
+      "text": "to be the exact reason we were here.",
+      "en": "to be the exact reason we were here.",
+      "zh": ""
+    },
+    {
+      "start": 879.08,
+      "duration": 1.09,
+      "text": "The technology we work with",
+      "en": "The technology we work with",
+      "zh": ""
+    },
+    {
+      "start": 880.17,
+      "duration": 1.12,
+      "text": "is DNA origami,",
+      "en": "is DNA origami,",
+      "zh": ""
+    },
+    {
+      "start": 881.29,
+      "duration": 1.46,
+      "text": "which uses DNA slightly differently",
+      "en": "which uses DNA slightly differently",
+      "zh": ""
+    },
+    {
+      "start": 882.75,
+      "duration": 1.25,
+      "text": "from how it's used in biology.",
+      "en": "from how it's used in biology.",
+      "zh": ""
+    },
+    {
+      "start": 884.0,
+      "duration": 0.46,
+      "text": "This, by",
+      "en": "This, by",
+      "zh": ""
+    },
+    {
+      "start": 884.46,
+      "duration": 0.58,
+      "text": "the way,",
+      "en": "the way,",
+      "zh": ""
+    },
+    {
+      "start": 885.04,
+      "duration": 0.75,
+      "text": "is Pallav",
+      "en": "is Pallav",
+      "zh": ""
+    },
+    {
+      "start": 885.79,
+      "duration": 2.71,
+      "text": "He’s a genius who runs his own lab here",
+      "en": "He’s a genius who runs his own lab here",
+      "zh": ""
+    },
+    {
+      "start": 888.5,
+      "duration": 0.79,
+      "text": "and his passion",
+      "en": "and his passion",
+      "zh": ""
+    },
+    {
+      "start": 889.29,
+      "duration": 1.04,
+      "text": "about everything",
+      "en": "about everything",
+      "zh": ""
+    },
+    {
+      "start": 890.33,
+      "duration": 2.96,
+      "text": "and anything biological is contagious.",
+      "en": "and anything biological is contagious.",
+      "zh": ""
+    },
+    {
+      "start": 893.29,
+      "duration": 1.13,
+      "text": "I mean,",
+      "en": "I mean,",
+      "zh": ""
+    },
+    {
+      "start": 894.42,
+      "duration": 1.54,
+      "text": "don't get me started on bacteriophages.",
+      "en": "don't get me started on bacteriophages.",
+      "zh": ""
+    },
+    {
+      "start": 896.67,
+      "duration": 1.04,
+      "text": "Pallev explained",
+      "en": "Pallev explained",
+      "zh": ""
+    },
+    {
+      "start": 897.71,
+      "duration": 1.17,
+      "text": "that if you want to build a house,",
+      "en": "that if you want to build a house,",
+      "zh": ""
+    },
+    {
+      "start": 898.88,
+      "duration": 1.5,
+      "text": "you first need a blueprint",
+      "en": "you first need a blueprint",
+      "zh": ""
+    },
+    {
+      "start": 900.38,
+      "duration": 1.95,
+      "text": "that has all the specific instructions",
+      "en": "that has all the specific instructions",
+      "zh": ""
+    },
+    {
+      "start": 902.33,
+      "duration": 1.46,
+      "text": "for how to build the house.",
+      "en": "for how to build the house.",
+      "zh": ""
+    },
+    {
+      "start": 903.79,
+      "duration": 1.29,
+      "text": "And the equivalent of a house",
+      "en": "And the equivalent of a house",
+      "zh": ""
+    },
+    {
+      "start": 905.08,
+      "duration": 2.42,
+      "text": "blueprint in nature is called DNA.",
+      "en": "blueprint in nature is called DNA.",
+      "zh": ""
+    },
+    {
+      "start": 907.5,
+      "duration": 2.29,
+      "text": "Every single cell in your body has DNA",
+      "en": "Every single cell in your body has DNA",
+      "zh": ""
+    },
+    {
+      "start": 909.79,
+      "duration": 0.96,
+      "text": "that looks like this",
+      "en": "that looks like this",
+      "zh": ""
+    },
+    {
+      "start": 910.75,
+      "duration": 1.83,
+      "text": "with a complete set of instructions",
+      "en": "with a complete set of instructions",
+      "zh": ""
+    },
+    {
+      "start": 912.58,
+      "duration": 1.67,
+      "text": "on how to build you.",
+      "en": "on how to build you.",
+      "zh": ""
+    },
+    {
+      "start": 914.25,
+      "duration": 2.33,
+      "text": "And that's DNA's only job in nature.",
+      "en": "And that's DNA's only job in nature.",
+      "zh": ""
+    },
+    {
+      "start": 916.58,
+      "duration": 1.71,
+      "text": "But some of Pallev’s predecessors.",
+      "en": "But some of Pallev’s predecessors.",
+      "zh": ""
+    },
+    {
+      "start": 918.29,
+      "duration": 1.83,
+      "text": "Asked an interesting question.",
+      "en": "Asked an interesting question.",
+      "zh": ""
+    },
+    {
+      "start": 920.12,
+      "duration": 1.88,
+      "text": "What if you use the DNA itself",
+      "en": "What if you use the DNA itself",
+      "zh": ""
+    },
+    {
+      "start": 922.0,
+      "duration": 1.38,
+      "text": "as a building material?",
+      "en": "as a building material?",
+      "zh": ""
+    },
+    {
+      "start": 923.38,
+      "duration": 1.12,
+      "text": "So instead of using DNA,",
+      "en": "So instead of using DNA,",
+      "zh": ""
+    },
+    {
+      "start": 924.5,
+      "duration": 1.17,
+      "text": "just as the blueprints",
+      "en": "just as the blueprints",
+      "zh": ""
+    },
+    {
+      "start": 925.67,
+      "duration": 0.79,
+      "text": "to give information",
+      "en": "to give information",
+      "zh": ""
+    },
+    {
+      "start": 926.46,
+      "duration": 0.87,
+      "text": "to build something else,",
+      "en": "to build something else,",
+      "zh": ""
+    },
+    {
+      "start": 927.33,
+      "duration": 1.34,
+      "text": "what if you effectively use",
+      "en": "what if you effectively use",
+      "zh": ""
+    },
+    {
+      "start": 928.67,
+      "duration": 2.21,
+      "text": "that blueprint as a sheet of origami",
+      "en": "that blueprint as a sheet of origami",
+      "zh": ""
+    },
+    {
+      "start": 930.88,
+      "duration": 1.95,
+      "text": "telling you where to cut and fold?",
+      "en": "telling you where to cut and fold?",
+      "zh": ""
+    },
+    {
+      "start": 932.83,
+      "duration": 1.67,
+      "text": "So the blueprint itself",
+      "en": "So the blueprint itself",
+      "zh": ""
+    },
+    {
+      "start": 934.5,
+      "duration": 1.79,
+      "text": "becomes a tiny little structure,",
+      "en": "becomes a tiny little structure,",
+      "zh": ""
+    },
+    {
+      "start": 936.29,
+      "duration": 1.83,
+      "text": "and here's how they actually do that.",
+      "en": "and here's how they actually do that.",
+      "zh": ""
+    },
+    {
+      "start": 938.12,
+      "duration": 0.96,
+      "text": "So if you think of DNA,",
+      "en": "So if you think of DNA,",
+      "zh": ""
+    },
+    {
+      "start": 939.08,
+      "duration": 1.84,
+      "text": "right, it's two strands",
+      "en": "right, it's two strands",
+      "zh": ""
+    },
+    {
+      "start": 940.92,
+      "duration": 1.12,
+      "text": "and they're usually complementary.",
+      "en": "and they're usually complementary.",
+      "zh": ""
+    },
+    {
+      "start": 942.04,
+      "duration": 1.08,
+      "text": "So if you have an A here,",
+      "en": "So if you have an A here,",
+      "zh": ""
+    },
+    {
+      "start": 943.12,
+      "duration": 1.13,
+      "text": "you have a T here,",
+      "en": "you have a T here,",
+      "zh": ""
+    },
+    {
+      "start": 944.25,
+      "duration": 1.79,
+      "text": "if you have a C here, you have a G here.",
+      "en": "if you have a C here, you have a G here.",
+      "zh": ""
+    },
+    {
+      "start": 946.04,
+      "duration": 0.3,
+      "text": "Right",
+      "en": "Right",
+      "zh": ""
+    },
+    {
+      "start": 946.29,
+      "duration": 1.29,
+      "text": "And then when they come together,",
+      "en": "And then when they come together,",
+      "zh": ""
+    },
+    {
+      "start": 947.58,
+      "duration": 1.38,
+      "text": "they kind of zip up a binds",
+      "en": "they kind of zip up a binds",
+      "zh": ""
+    },
+    {
+      "start": 948.96,
+      "duration": 2.29,
+      "text": "with T and C binds with G and so forth.",
+      "en": "with T and C binds with G and so forth.",
+      "zh": ""
+    },
+    {
+      "start": 951.25,
+      "duration": 0.42,
+      "text": "Right?",
+      "en": "Right?",
+      "zh": ""
+    },
+    {
+      "start": 951.67,
+      "duration": 1.66,
+      "text": "So if you have two complementary strands,",
+      "en": "So if you have two complementary strands,",
+      "zh": ""
+    },
+    {
+      "start": 953.33,
+      "duration": 1.21,
+      "text": "they will zip up and form",
+      "en": "they will zip up and form",
+      "zh": ""
+    },
+    {
+      "start": 954.54,
+      "duration": 2.08,
+      "text": "this familiar double helix structure.",
+      "en": "this familiar double helix structure.",
+      "zh": ""
+    },
+    {
+      "start": 956.62,
+      "duration": 1.34,
+      "text": "But what if they weren't",
+      "en": "But what if they weren't",
+      "zh": ""
+    },
+    {
+      "start": 957.96,
+      "duration": 1.5,
+      "text": "completely complementary?",
+      "en": "completely complementary?",
+      "zh": ""
+    },
+    {
+      "start": 959.46,
+      "duration": 1.87,
+      "text": "What if it's like this part here",
+      "en": "What if it's like this part here",
+      "zh": ""
+    },
+    {
+      "start": 961.33,
+      "duration": 1.71,
+      "text": "was complementary to this part here,",
+      "en": "was complementary to this part here,",
+      "zh": ""
+    },
+    {
+      "start": 963.04,
+      "duration": 0.88,
+      "text": "but then this part here",
+      "en": "but then this part here",
+      "zh": ""
+    },
+    {
+      "start": 963.92,
+      "duration": 1.16,
+      "text": "was not complementary to this.",
+      "en": "was not complementary to this.",
+      "zh": ""
+    },
+    {
+      "start": 965.08,
+      "duration": 1.46,
+      "text": "So then you have these two flimsy parts",
+      "en": "So then you have these two flimsy parts",
+      "zh": ""
+    },
+    {
+      "start": 966.54,
+      "duration": 1.79,
+      "text": "that haven't paired up yet, right?",
+      "en": "that haven't paired up yet, right?",
+      "zh": ""
+    },
+    {
+      "start": 968.33,
+      "duration": 1.92,
+      "text": "So now if you introduce a third part,",
+      "en": "So now if you introduce a third part,",
+      "zh": ""
+    },
+    {
+      "start": 970.25,
+      "duration": 0.96,
+      "text": "for instance, that binds",
+      "en": "for instance, that binds",
+      "zh": ""
+    },
+    {
+      "start": 971.21,
+      "duration": 1.83,
+      "text": "to these unbound parts,",
+      "en": "to these unbound parts,",
+      "zh": ""
+    },
+    {
+      "start": 973.04,
+      "duration": 1.92,
+      "text": "you can create junctions, right?",
+      "en": "you can create junctions, right?",
+      "zh": ""
+    },
+    {
+      "start": 974.96,
+      "duration": 1.25,
+      "text": "And those junctions, you can",
+      "en": "And those junctions, you can",
+      "zh": ""
+    },
+    {
+      "start": 976.21,
+      "duration": 1.21,
+      "text": "then branch them out",
+      "en": "then branch them out",
+      "zh": ""
+    },
+    {
+      "start": 977.42,
+      "duration": 0.91,
+      "text": "and build them further",
+      "en": "and build them further",
+      "zh": ""
+    },
+    {
+      "start": 978.33,
+      "duration": 1.25,
+      "text": "into larger structures.",
+      "en": "into larger structures.",
+      "zh": ""
+    },
+    {
+      "start": 979.58,
+      "duration": 1.0,
+      "text": "So using that principle,",
+      "en": "So using that principle,",
+      "zh": ""
+    },
+    {
+      "start": 980.58,
+      "duration": 1.54,
+      "text": "they start with a naturally occurring",
+      "en": "they start with a naturally occurring",
+      "zh": ""
+    },
+    {
+      "start": 982.12,
+      "duration": 1.26,
+      "text": "single strand of DNA",
+      "en": "single strand of DNA",
+      "zh": ""
+    },
+    {
+      "start": 983.38,
+      "duration": 1.29,
+      "text": "They called a scaffold strand",
+      "en": "They called a scaffold strand",
+      "zh": ""
+    },
+    {
+      "start": 984.67,
+      "duration": 1.08,
+      "text": "and on a computer",
+      "en": "and on a computer",
+      "zh": ""
+    },
+    {
+      "start": 985.75,
+      "duration": 1.63,
+      "text": "they design out the shape they want.",
+      "en": "they design out the shape they want.",
+      "zh": ""
+    },
+    {
+      "start": 987.38,
+      "duration": 1.08,
+      "text": "Now, as it stands here,",
+      "en": "Now, as it stands here,",
+      "zh": ""
+    },
+    {
+      "start": 988.46,
+      "duration": 0.54,
+      "text": "there's nothing",
+      "en": "there's nothing",
+      "zh": ""
+    },
+    {
+      "start": 989.0,
+      "duration": 1.42,
+      "text": "attached to the other side,",
+      "en": "attached to the other side,",
+      "zh": ""
+    },
+    {
+      "start": 990.42,
+      "duration": 2.16,
+      "text": "so it would just lose its shape.",
+      "en": "so it would just lose its shape.",
+      "zh": ""
+    },
+    {
+      "start": 992.58,
+      "duration": 1.0,
+      "text": "But if you add in a bunch",
+      "en": "But if you add in a bunch",
+      "zh": ""
+    },
+    {
+      "start": 993.58,
+      "duration": 1.13,
+      "text": "of what they call staple",
+      "en": "of what they call staple",
+      "zh": ""
+    },
+    {
+      "start": 994.71,
+      "duration": 1.04,
+      "text": "strands of DNA",
+      "en": "strands of DNA",
+      "zh": ""
+    },
+    {
+      "start": 995.75,
+      "duration": 1.75,
+      "text": "that are specifically designed to match",
+      "en": "that are specifically designed to match",
+      "zh": ""
+    },
+    {
+      "start": 997.5,
+      "duration": 1.21,
+      "text": "the corresponding sections",
+      "en": "the corresponding sections",
+      "zh": ""
+    },
+    {
+      "start": 998.71,
+      "duration": 1.12,
+      "text": "on the scaffold strand,",
+      "en": "on the scaffold strand,",
+      "zh": ""
+    },
+    {
+      "start": 999.83,
+      "duration": 0.84,
+      "text": "they effectively",
+      "en": "they effectively",
+      "zh": ""
+    },
+    {
+      "start": 1000.67,
+      "duration": 2.21,
+      "text": "lock it into the desired shape.",
+      "en": "lock it into the desired shape.",
+      "zh": ""
+    },
+    {
+      "start": 1002.88,
+      "duration": 0.66,
+      "text": "So in theory,",
+      "en": "So in theory,",
+      "zh": ""
+    },
+    {
+      "start": 1003.54,
+      "duration": 2.04,
+      "text": "if you just put a random scaffold strand",
+      "en": "if you just put a random scaffold strand",
+      "zh": ""
+    },
+    {
+      "start": 1005.58,
+      "duration": 1.71,
+      "text": "and then all the corresponding",
+      "en": "and then all the corresponding",
+      "zh": ""
+    },
+    {
+      "start": 1007.29,
+      "duration": 1.75,
+      "text": "custom made staple strands",
+      "en": "custom made staple strands",
+      "zh": ""
+    },
+    {
+      "start": 1009.04,
+      "duration": 1.17,
+      "text": "in a solution together",
+      "en": "in a solution together",
+      "zh": ""
+    },
+    {
+      "start": 1010.21,
+      "duration": 1.0,
+      "text": "at the right temperature",
+      "en": "at the right temperature",
+      "zh": ""
+    },
+    {
+      "start": 1011.21,
+      "duration": 1.5,
+      "text": "and then let it sit for a while,",
+      "en": "and then let it sit for a while,",
+      "zh": ""
+    },
+    {
+      "start": 1012.71,
+      "duration": 2.17,
+      "text": "it would automatically self-assemble",
+      "en": "it would automatically self-assemble",
+      "zh": ""
+    },
+    {
+      "start": 1014.88,
+      "duration": 1.62,
+      "text": "into an infinitessimally",
+      "en": "into an infinitessimally",
+      "zh": ""
+    },
+    {
+      "start": 1016.5,
+      "duration": 4.04,
+      "text": "Small nerf gun made strictly from DNA.",
+      "en": "Small nerf gun made strictly from DNA.",
+      "zh": ""
+    },
+    {
+      "start": 1020.62,
+      "duration": 2.26,
+      "text": "No way.",
+      "en": "No way.",
+      "zh": ""
+    },
+    {
+      "start": 1022.88,
+      "duration": 1.2,
+      "text": "But since you can't set a world",
+      "en": "But since you can't set a world",
+      "zh": ""
+    },
+    {
+      "start": 1024.08,
+      "duration": 1.34,
+      "text": "record with just a theory,",
+      "en": "record with just a theory,",
+      "zh": ""
+    },
+    {
+      "start": 1025.42,
+      "duration": 1.7,
+      "text": "it was time to make some nerf guns.",
+      "en": "it was time to make some nerf guns.",
+      "zh": ""
+    },
+    {
+      "start": 1027.12,
+      "duration": 0.84,
+      "text": "So with a little help",
+      "en": "So with a little help",
+      "zh": ""
+    },
+    {
+      "start": 1027.96,
+      "duration": 2.92,
+      "text": "from Lauren and Amanda on Pallev’s team,",
+      "en": "from Lauren and Amanda on Pallev’s team,",
+      "zh": ""
+    },
+    {
+      "start": 1030.88,
+      "duration": 1.41,
+      "text": "we got right to work.",
+      "en": "we got right to work.",
+      "zh": ""
+    },
+    {
+      "start": 1032.29,
+      "duration": 1.29,
+      "text": "Step one was to take a solution",
+      "en": "Step one was to take a solution",
+      "zh": ""
+    },
+    {
+      "start": 1033.58,
+      "duration": 1.0,
+      "text": "containing trillions",
+      "en": "containing trillions",
+      "zh": ""
+    },
+    {
+      "start": 1034.58,
+      "duration": 1.54,
+      "text": "of scaffolding strands of DNA",
+      "en": "of scaffolding strands of DNA",
+      "zh": ""
+    },
+    {
+      "start": 1036.12,
+      "duration": 1.42,
+      "text": "and then mix in another solution",
+      "en": "and then mix in another solution",
+      "zh": ""
+    },
+    {
+      "start": 1037.54,
+      "duration": 1.34,
+      "text": "containing quadrillions",
+      "en": "containing quadrillions",
+      "zh": ""
+    },
+    {
+      "start": 1038.88,
+      "duration": 1.66,
+      "text": "of the staple strands of DNA.",
+      "en": "of the staple strands of DNA.",
+      "zh": ""
+    },
+    {
+      "start": 1040.54,
+      "duration": 1.67,
+      "text": "Then we placed that magical mix",
+      "en": "Then we placed that magical mix",
+      "zh": ""
+    },
+    {
+      "start": 1042.21,
+      "duration": 1.58,
+      "text": "into eight individual tubes",
+      "en": "into eight individual tubes",
+      "zh": ""
+    },
+    {
+      "start": 1043.79,
+      "duration": 1.96,
+      "text": "and then placed them in a special oven",
+      "en": "and then placed them in a special oven",
+      "zh": ""
+    },
+    {
+      "start": 1045.75,
+      "duration": 1.83,
+      "text": "that would maintain the ideal temperature",
+      "en": "that would maintain the ideal temperature",
+      "zh": ""
+    },
+    {
+      "start": 1047.58,
+      "duration": 2.3,
+      "text": "for the self-assembly process to occur.",
+      "en": "for the self-assembly process to occur.",
+      "zh": ""
+    },
+    {
+      "start": 1049.88,
+      "duration": 1.33,
+      "text": "And we set a timer.",
+      "en": "And we set a timer.",
+      "zh": ""
+    },
+    {
+      "start": 1051.21,
+      "duration": 1.21,
+      "text": "Okay. So just come back in an hour",
+      "en": "Okay. So just come back in an hour",
+      "zh": ""
+    },
+    {
+      "start": 1052.42,
+      "duration": 0.7,
+      "text": "and 20 minutes?",
+      "en": "and 20 minutes?",
+      "zh": ""
+    },
+    {
+      "start": 1053.12,
+      "duration": 0.42,
+      "text": "Yeah",
+      "en": "Yeah",
+      "zh": ""
+    },
+    {
+      "start": 1054.08,
+      "duration": 0.71,
+      "text": "So easy.",
+      "en": "So easy.",
+      "zh": ""
+    },
+    {
+      "start": 1054.79,
+      "duration": 0.42,
+      "text": "And I feel like",
+      "en": "And I feel like",
+      "zh": ""
+    },
+    {
+      "start": 1055.21,
+      "duration": 1.5,
+      "text": "I should pretend the whole process",
+      "en": "I should pretend the whole process",
+      "zh": ""
+    },
+    {
+      "start": 1056.71,
+      "duration": 2.0,
+      "text": "was harder than that.",
+      "en": "was harder than that.",
+      "zh": ""
+    },
+    {
+      "start": 1058.71,
+      "duration": 1.54,
+      "text": "Ready to...",
+      "en": "Ready to...",
+      "zh": ""
+    },
+    {
+      "start": 1060.25,
+      "duration": 1.75,
+      "text": "eat?",
+      "en": "eat?",
+      "zh": ""
+    },
+    {
+      "start": 1062.08,
+      "duration": 1.13,
+      "text": "ready to eat, yeah?",
+      "en": "ready to eat, yeah?",
+      "zh": ""
+    },
+    {
+      "start": 1063.21,
+      "duration": 1.54,
+      "text": "But when the timer was up,",
+      "en": "But when the timer was up,",
+      "zh": ""
+    },
+    {
+      "start": 1064.75,
+      "duration": 1.42,
+      "text": "that was basically it.",
+      "en": "that was basically it.",
+      "zh": ""
+    },
+    {
+      "start": 1066.17,
+      "duration": 1.62,
+      "text": "So after a quick final process",
+      "en": "So after a quick final process",
+      "zh": ""
+    },
+    {
+      "start": 1067.79,
+      "duration": 1.09,
+      "text": "of using an electric field",
+      "en": "of using an electric field",
+      "zh": ""
+    },
+    {
+      "start": 1068.88,
+      "duration": 0.5,
+      "text": "to separate",
+      "en": "to separate",
+      "zh": ""
+    },
+    {
+      "start": 1069.38,
+      "duration": 1.58,
+      "text": "the successfully merged guns",
+      "en": "the successfully merged guns",
+      "zh": ""
+    },
+    {
+      "start": 1070.96,
+      "duration": 0.83,
+      "text": "from all the strands",
+      "en": "from all the strands",
+      "zh": ""
+    },
+    {
+      "start": 1071.79,
+      "duration": 1.92,
+      "text": "that didn't successfully merge,",
+      "en": "that didn't successfully merge,",
+      "zh": ""
+    },
+    {
+      "start": 1073.71,
+      "duration": 2.0,
+      "text": "you're left with a few drops of water",
+      "en": "you're left with a few drops of water",
+      "zh": ""
+    },
+    {
+      "start": 1075.71,
+      "duration": 2.54,
+      "text": "containing 1.2 Trillion",
+      "en": "containing 1.2 Trillion",
+      "zh": ""
+    },
+    {
+      "start": 1078.25,
+      "duration": 1.63,
+      "text": "of the world’s smallest nerf guns.",
+      "en": "of the world’s smallest nerf guns.",
+      "zh": ""
+    },
+    {
+      "start": 1079.88,
+      "duration": 0.87,
+      "text": "For the final step,",
+      "en": "For the final step,",
+      "zh": ""
+    },
+    {
+      "start": 1080.75,
+      "duration": 1.5,
+      "text": "we just needed to prove to ourselves",
+      "en": "we just needed to prove to ourselves",
+      "zh": ""
+    },
+    {
+      "start": 1082.25,
+      "duration": 1.5,
+      "text": "that they were actually in there.",
+      "en": "that they were actually in there.",
+      "zh": ""
+    },
+    {
+      "start": 1083.75,
+      "duration": 1.5,
+      "text": "And that's where Jocelyn comes in.",
+      "en": "And that's where Jocelyn comes in.",
+      "zh": ""
+    },
+    {
+      "start": 1085.25,
+      "duration": 1.33,
+      "text": "We need help Jocelyn",
+      "en": "We need help Jocelyn",
+      "zh": ""
+    },
+    {
+      "start": 1086.58,
+      "duration": 1.54,
+      "text": "I'm told you are the person",
+      "en": "I'm told you are the person",
+      "zh": ""
+    },
+    {
+      "start": 1088.12,
+      "duration": 1.09,
+      "text": "to make these seeable",
+      "en": "to make these seeable",
+      "zh": ""
+    },
+    {
+      "start": 1089.21,
+      "duration": 1.04,
+      "text": "I can help with that.",
+      "en": "I can help with that.",
+      "zh": ""
+    },
+    {
+      "start": 1090.25,
+      "duration": 1.83,
+      "text": "Although there's no label on it.",
+      "en": "Although there's no label on it.",
+      "zh": ""
+    },
+    {
+      "start": 1093.46,
+      "duration": 2.29,
+      "text": "and what's wild here is it’s beyond",
+      "en": "and what's wild here is it’s beyond",
+      "zh": ""
+    },
+    {
+      "start": 1095.75,
+      "duration": 1.04,
+      "text": "the realm of physics,",
+      "en": "the realm of physics,",
+      "zh": ""
+    },
+    {
+      "start": 1096.79,
+      "duration": 1.46,
+      "text": "to build a typical microscope",
+      "en": "to build a typical microscope",
+      "zh": ""
+    },
+    {
+      "start": 1098.25,
+      "duration": 1.58,
+      "text": "powerful enough to see these",
+      "en": "powerful enough to see these",
+      "zh": ""
+    },
+    {
+      "start": 1099.83,
+      "duration": 1.84,
+      "text": "because our Nerf guns are 100",
+      "en": "because our Nerf guns are 100",
+      "zh": ""
+    },
+    {
+      "start": 1101.67,
+      "duration": 1.0,
+      "text": "nanometers in length,",
+      "en": "nanometers in length,",
+      "zh": ""
+    },
+    {
+      "start": 1102.67,
+      "duration": 1.5,
+      "text": "which is five times smaller",
+      "en": "which is five times smaller",
+      "zh": ""
+    },
+    {
+      "start": 1104.17,
+      "duration": 1.37,
+      "text": "than the actual wavelength",
+      "en": "than the actual wavelength",
+      "zh": ""
+    },
+    {
+      "start": 1105.54,
+      "duration": 0.84,
+      "text": "of visible light.",
+      "en": "of visible light.",
+      "zh": ""
+    },
+    {
+      "start": 1106.38,
+      "duration": 1.87,
+      "text": "So Jocelyn is using an atomic force",
+      "en": "So Jocelyn is using an atomic force",
+      "zh": ""
+    },
+    {
+      "start": 1108.25,
+      "duration": 1.13,
+      "text": "microscope instead,",
+      "en": "microscope instead,",
+      "zh": ""
+    },
+    {
+      "start": 1109.38,
+      "duration": 1.7,
+      "text": "where there’s a super tiny probe",
+      "en": "where there’s a super tiny probe",
+      "zh": ""
+    },
+    {
+      "start": 1111.08,
+      "duration": 1.17,
+      "text": "that just drags back",
+      "en": "that just drags back",
+      "zh": ""
+    },
+    {
+      "start": 1112.25,
+      "duration": 1.42,
+      "text": "and forth on a surface.",
+      "en": "and forth on a surface.",
+      "zh": ""
+    },
+    {
+      "start": 1113.67,
+      "duration": 0.91,
+      "text": "And when it encounters",
+      "en": "And when it encounters",
+      "zh": ""
+    },
+    {
+      "start": 1114.58,
+      "duration": 3.04,
+      "text": "anything as small as a single atom,",
+      "en": "anything as small as a single atom,",
+      "zh": ""
+    },
+    {
+      "start": 1117.62,
+      "duration": 1.13,
+      "text": "it raises the probe up.",
+      "en": "it raises the probe up.",
+      "zh": ""
+    },
+    {
+      "start": 1118.75,
+      "duration": 0.87,
+      "text": "And that deflection",
+      "en": "And that deflection",
+      "zh": ""
+    },
+    {
+      "start": 1119.62,
+      "duration": 1.59,
+      "text": "is measured using a laser.",
+      "en": "is measured using a laser.",
+      "zh": ""
+    },
+    {
+      "start": 1121.21,
+      "duration": 1.79,
+      "text": "So if you drag that tiny probe back",
+      "en": "So if you drag that tiny probe back",
+      "zh": ""
+    },
+    {
+      "start": 1123.0,
+      "duration": 0.42,
+      "text": "and forth",
+      "en": "and forth",
+      "zh": ""
+    },
+    {
+      "start": 1123.42,
+      "duration": 0.91,
+      "text": "enough, you sort of",
+      "en": "enough, you sort of",
+      "zh": ""
+    },
+    {
+      "start": 1124.33,
+      "duration": 1.88,
+      "text": "feel your way too revealing",
+      "en": "feel your way too revealing",
+      "zh": ""
+    },
+    {
+      "start": 1126.21,
+      "duration": 1.25,
+      "text": "what can't be seen.",
+      "en": "what can't be seen.",
+      "zh": ""
+    },
+    {
+      "start": 1127.46,
+      "duration": 1.04,
+      "text": "So after a little while,",
+      "en": "So after a little while,",
+      "zh": ""
+    },
+    {
+      "start": 1128.5,
+      "duration": 1.12,
+      "text": "Jocelyn returned,",
+      "en": "Jocelyn returned,",
+      "zh": ""
+    },
+    {
+      "start": 1129.62,
+      "duration": 2.34,
+      "text": "allowing me to now present to you",
+      "en": "allowing me to now present to you",
+      "zh": ""
+    },
+    {
+      "start": 1131.96,
+      "duration": 1.87,
+      "text": "a small sampling of the world's",
+      "en": "a small sampling of the world's",
+      "zh": ""
+    },
+    {
+      "start": 1133.83,
+      "duration": 1.13,
+      "text": "officially smallest",
+      "en": "officially smallest",
+      "zh": ""
+    },
+    {
+      "start": 1134.96,
+      "duration": 3.58,
+      "text": "Nerf guns made entirely just of DNA.",
+      "en": "Nerf guns made entirely just of DNA.",
+      "zh": ""
+    },
+    {
+      "start": 1138.71,
+      "duration": 2.0,
+      "text": "Are you kidding me?",
+      "en": "Are you kidding me?",
+      "zh": ""
+    },
+    {
+      "start": 1140.71,
+      "duration": 2.21,
+      "text": "Pretty frickin good.",
+      "en": "Pretty frickin good.",
+      "zh": ""
+    },
+    {
+      "start": 1142.92,
+      "duration": 1.79,
+      "text": "And what blows my mind is that each of",
+      "en": "And what blows my mind is that each of",
+      "zh": ""
+    },
+    {
+      "start": 1144.71,
+      "duration": 0.58,
+      "text": "these is",
+      "en": "these is",
+      "zh": ""
+    },
+    {
+      "start": 1145.29,
+      "duration": 2.96,
+      "text": "made from just a few thousand atoms",
+      "en": "made from just a few thousand atoms",
+      "zh": ""
+    },
+    {
+      "start": 1148.46,
+      "duration": 2.21,
+      "text": "to comprehend just how small that is.",
+      "en": "to comprehend just how small that is.",
+      "zh": ""
+    },
+    {
+      "start": 1150.67,
+      "duration": 1.87,
+      "text": "If you laid them end to end,",
+      "en": "If you laid them end to end,",
+      "zh": ""
+    },
+    {
+      "start": 1152.54,
+      "duration": 3.17,
+      "text": "it would take 2000 to fit across",
+      "en": "it would take 2000 to fit across",
+      "zh": ""
+    },
+    {
+      "start": 1155.71,
+      "duration": 1.62,
+      "text": "a single human hair.",
+      "en": "a single human hair.",
+      "zh": ""
+    },
+    {
+      "start": 1157.33,
+      "duration": 2.88,
+      "text": "Your move, Mr. Beast.",
+      "en": "Your move, Mr. Beast.",
+      "zh": ""
+    },
+    {
+      "start": 1160.29,
+      "duration": 0.71,
+      "text": "So as I closed out",
+      "en": "So as I closed out",
+      "zh": ""
+    },
+    {
+      "start": 1161.0,
+      "duration": 0.96,
+      "text": "my visit, Pallev",
+      "en": "my visit, Pallev",
+      "zh": ""
+    },
+    {
+      "start": 1161.96,
+      "duration": 1.79,
+      "text": "let me know about how this project",
+      "en": "let me know about how this project",
+      "zh": ""
+    },
+    {
+      "start": 1163.75,
+      "duration": 2.0,
+      "text": "had sparked some ideas for his team.",
+      "en": "had sparked some ideas for his team.",
+      "zh": ""
+    },
+    {
+      "start": 1165.75,
+      "duration": 2.29,
+      "text": "If we can make specific Nerf Blasters",
+      "en": "If we can make specific Nerf Blasters",
+      "zh": ""
+    },
+    {
+      "start": 1168.04,
+      "duration": 0.46,
+      "text": "or whatever",
+      "en": "or whatever",
+      "zh": ""
+    },
+    {
+      "start": 1168.5,
+      "duration": 0.79,
+      "text": "you want to call them",
+      "en": "you want to call them",
+      "zh": ""
+    },
+    {
+      "start": 1169.29,
+      "duration": 1.54,
+      "text": "DNA-injection devices,",
+      "en": "DNA-injection devices,",
+      "zh": ""
+    },
+    {
+      "start": 1170.83,
+      "duration": 0.88,
+      "text": "then we can target",
+      "en": "then we can target",
+      "zh": ""
+    },
+    {
+      "start": 1171.71,
+      "duration": 1.0,
+      "text": "particular kinds of cells",
+      "en": "particular kinds of cells",
+      "zh": ""
+    },
+    {
+      "start": 1172.71,
+      "duration": 1.33,
+      "text": "so we can make much more targeted",
+      "en": "so we can make much more targeted",
+      "zh": ""
+    },
+    {
+      "start": 1174.04,
+      "duration": 1.46,
+      "text": "treatments for a range of diseases.",
+      "en": "treatments for a range of diseases.",
+      "zh": ""
+    },
+    {
+      "start": 1175.5,
+      "duration": 1.12,
+      "text": "But in all of these therapies,",
+      "en": "But in all of these therapies,",
+      "zh": ""
+    },
+    {
+      "start": 1176.62,
+      "duration": 1.8,
+      "text": "you need to deliver the correct DNA.",
+      "en": "you need to deliver the correct DNA.",
+      "zh": ""
+    },
+    {
+      "start": 1178.42,
+      "duration": 1.83,
+      "text": "So how do you get those into the cells?",
+      "en": "So how do you get those into the cells?",
+      "zh": ""
+    },
+    {
+      "start": 1180.25,
+      "duration": 1.17,
+      "text": "Nerf Blaster",
+      "en": "Nerf Blaster",
+      "zh": ""
+    },
+    {
+      "start": 1181.62,
+      "duration": 1.34,
+      "text": "Nerf Blaster.",
+      "en": "Nerf Blaster.",
+      "zh": ""
+    },
+    {
+      "start": 1182.96,
+      "duration": 0.46,
+      "text": "Okay.",
+      "en": "Okay.",
+      "zh": ""
+    },
+    {
+      "start": 1183.42,
+      "duration": 1.7,
+      "text": "So this is really just the beginning.",
+      "en": "So this is really just the beginning.",
+      "zh": ""
+    },
+    {
+      "start": 1185.12,
+      "duration": 0.8,
+      "text": "In a couple of years,",
+      "en": "In a couple of years,",
+      "zh": ""
+    },
+    {
+      "start": 1185.92,
+      "duration": 0.58,
+      "text": "we're going to come back",
+      "en": "we're going to come back",
+      "zh": ""
+    },
+    {
+      "start": 1186.5,
+      "duration": 1.29,
+      "text": "to the sequel to this video.",
+      "en": "to the sequel to this video.",
+      "zh": ""
+    },
+    {
+      "start": 1187.79,
+      "duration": 0.63,
+      "text": "Does that make me",
+      "en": "Does that make me",
+      "zh": ""
+    },
+    {
+      "start": 1188.42,
+      "duration": 1.46,
+      "text": "a coauthor on this paper?",
+      "en": "a coauthor on this paper?",
+      "zh": ""
+    },
+    {
+      "start": 1189.88,
+      "duration": 1.74,
+      "text": "well you’re definitely a coauthor on the paper,",
+      "en": "well you’re definitely a coauthor on the paper,",
+      "zh": ""
+    },
+    {
+      "start": 1191.62,
+      "duration": 0.59,
+      "text": "uh...",
+      "en": "uh...",
+      "zh": ""
+    },
+    {
+      "start": 1192.29,
+      "duration": 1.83,
+      "text": "I don't know, on the Nobel Prize though",
+      "en": "I don't know, on the Nobel Prize though",
+      "zh": ""
+    },
+    {
+      "start": 1195.29,
+      "duration": 1.33,
+      "text": "And as I closed out the trip,",
+      "en": "And as I closed out the trip,",
+      "zh": ""
+    },
+    {
+      "start": 1196.62,
+      "duration": 0.84,
+      "text": "I couldn't help",
+      "en": "I couldn't help",
+      "zh": ""
+    },
+    {
+      "start": 1197.46,
+      "duration": 2.25,
+      "text": "but feel a little extra glimmer of hope",
+      "en": "but feel a little extra glimmer of hope",
+      "zh": ""
+    },
+    {
+      "start": 1199.71,
+      "duration": 0.96,
+      "text": "for us humans",
+      "en": "for us humans",
+      "zh": ""
+    },
+    {
+      "start": 1200.67,
+      "duration": 0.91,
+      "text": "because by giving them",
+      "en": "because by giving them",
+      "zh": ""
+    },
+    {
+      "start": 1201.58,
+      "duration": 1.92,
+      "text": "an admittedly ridiculous challenge,",
+      "en": "an admittedly ridiculous challenge,",
+      "zh": ""
+    },
+    {
+      "start": 1203.5,
+      "duration": 1.79,
+      "text": "I got a tiny glimpse of the cutting edge",
+      "en": "I got a tiny glimpse of the cutting edge",
+      "zh": ""
+    },
+    {
+      "start": 1205.29,
+      "duration": 2.0,
+      "text": "research happening at both BYU",
+      "en": "research happening at both BYU",
+      "zh": ""
+    },
+    {
+      "start": 1207.29,
+      "duration": 1.29,
+      "text": "and the Salk Institute.",
+      "en": "and the Salk Institute.",
+      "zh": ""
+    },
+    {
+      "start": 1208.58,
+      "duration": 1.5,
+      "text": "And while a Nerf gun by itself",
+      "en": "And while a Nerf gun by itself",
+      "zh": ""
+    },
+    {
+      "start": 1210.08,
+      "duration": 1.42,
+      "text": "won't do much to help humanity",
+      "en": "won't do much to help humanity",
+      "zh": ""
+    },
+    {
+      "start": 1211.5,
+      "duration": 2.12,
+      "text": "it was a small reminder that millions",
+      "en": "it was a small reminder that millions",
+      "zh": ""
+    },
+    {
+      "start": 1213.62,
+      "duration": 1.96,
+      "text": "upon millions of engineers",
+      "en": "upon millions of engineers",
+      "zh": ""
+    },
+    {
+      "start": 1215.58,
+      "duration": 0.96,
+      "text": "and scientists",
+      "en": "and scientists",
+      "zh": ""
+    },
+    {
+      "start": 1216.54,
+      "duration": 1.71,
+      "text": "in labs all around the world",
+      "en": "in labs all around the world",
+      "zh": ""
+    },
+    {
+      "start": 1218.25,
+      "duration": 0.67,
+      "text": "are dreaming up",
+      "en": "are dreaming up",
+      "zh": ""
+    },
+    {
+      "start": 1218.92,
+      "duration": 1.2,
+      "text": "the big ideas,",
+      "en": "the big ideas,",
+      "zh": ""
+    },
+    {
+      "start": 1220.12,
+      "duration": 1.5,
+      "text": "working hard right now",
+      "en": "working hard right now",
+      "zh": ""
+    },
+    {
+      "start": 1221.62,
+      "duration": 1.0,
+      "text": "to improve the lives",
+      "en": "to improve the lives",
+      "zh": ""
+    },
+    {
+      "start": 1222.62,
+      "duration": 1.21,
+      "text": "of future generations",
+      "en": "of future generations",
+      "zh": ""
+    },
+    {
+      "start": 1223.83,
+      "duration": 2.42,
+      "text": "by solving some of the toughest problems",
+      "en": "by solving some of the toughest problems",
+      "zh": ""
+    },
+    {
+      "start": 1226.25,
+      "duration": 0.71,
+      "text": "of our time.",
+      "en": "of our time.",
+      "zh": ""
+    },
+    {
+      "start": 1226.96,
+      "duration": 0.79,
+      "text": "It's a sentiment",
+      "en": "It's a sentiment",
+      "zh": ""
+    },
+    {
+      "start": 1227.75,
+      "duration": 1.17,
+      "text": "possibly summed up",
+      "en": "possibly summed up",
+      "zh": ""
+    },
+    {
+      "start": 1228.92,
+      "duration": 2.16,
+      "text": "best by Jonas Salk himself,",
+      "en": "best by Jonas Salk himself,",
+      "zh": ""
+    },
+    {
+      "start": 1231.08,
+      "duration": 2.54,
+      "text": "Hope lies in dreams, in imagination,",
+      "en": "Hope lies in dreams, in imagination,",
+      "zh": ""
+    },
+    {
+      "start": 1233.62,
+      "duration": 1.38,
+      "text": "and the courage of those",
+      "en": "and the courage of those",
+      "zh": ""
+    },
+    {
+      "start": 1235.0,
+      "duration": 2.79,
+      "text": "who dare to make dreams into reality.",
+      "en": "who dare to make dreams into reality.",
+      "zh": ""
+    },
+    {
+      "start": 1237.88,
+      "duration": 1.08,
+      "text": "What I love most about",
+      "en": "What I love most about",
+      "zh": ""
+    },
+    {
+      "start": 1238.96,
+      "duration": 1.96,
+      "text": "people like Jonas Salk and Pallev",
+      "en": "people like Jonas Salk and Pallev",
+      "zh": ""
+    },
+    {
+      "start": 1240.92,
+      "duration": 1.46,
+      "text": "is the creative confidence",
+      "en": "is the creative confidence",
+      "zh": ""
+    },
+    {
+      "start": 1242.38,
+      "duration": 1.45,
+      "text": "they exude as they approach",
+      "en": "they exude as they approach",
+      "zh": ""
+    },
+    {
+      "start": 1243.83,
+      "duration": 1.25,
+      "text": "the tough problems.",
+      "en": "the tough problems.",
+      "zh": ""
+    },
+    {
+      "start": 1245.08,
+      "duration": 1.46,
+      "text": "It's an attitude that can be learned",
+      "en": "It's an attitude that can be learned",
+      "zh": ""
+    },
+    {
+      "start": 1246.54,
+      "duration": 0.38,
+      "text": "and it's why",
+      "en": "and it's why",
+      "zh": ""
+    },
+    {
+      "start": 1246.92,
+      "duration": 1.46,
+      "text": "the goal of every CrunchLabs",
+      "en": "the goal of every CrunchLabs",
+      "zh": ""
+    },
+    {
+      "start": 1248.38,
+      "duration": 0.95,
+      "text": "build box is to help",
+      "en": "build box is to help",
+      "zh": ""
+    },
+    {
+      "start": 1249.33,
+      "duration": 1.84,
+      "text": "you think like an engineer.",
+      "en": "you think like an engineer.",
+      "zh": ""
+    },
+    {
+      "start": 1251.17,
+      "duration": 0.79,
+      "text": "But the learning doesn't",
+      "en": "But the learning doesn't",
+      "zh": ""
+    },
+    {
+      "start": 1251.96,
+      "duration": 0.96,
+      "text": "feel like learning",
+      "en": "feel like learning",
+      "zh": ""
+    },
+    {
+      "start": 1252.92,
+      "duration": 0.79,
+      "text": "because every month",
+      "en": "because every month",
+      "zh": ""
+    },
+    {
+      "start": 1253.71,
+      "duration": 1.0,
+      "text": "you're having tons of fun",
+      "en": "you're having tons of fun",
+      "zh": ""
+    },
+    {
+      "start": 1254.71,
+      "duration": 1.41,
+      "text": "with a really cool toy",
+      "en": "with a really cool toy",
+      "zh": ""
+    },
+    {
+      "start": 1256.12,
+      "duration": 1.71,
+      "text": "that you put together yourself.",
+      "en": "that you put together yourself.",
+      "zh": ""
+    },
+    {
+      "start": 1257.83,
+      "duration": 1.55,
+      "text": "Where you learn all the physics behind",
+      "en": "Where you learn all the physics behind",
+      "zh": ""
+    },
+    {
+      "start": 1259.38,
+      "duration": 1.29,
+      "text": "what's going on",
+      "en": "what's going on",
+      "zh": ""
+    },
+    {
+      "start": 1260.67,
+      "duration": 0.62,
+      "text": "while building",
+      "en": "while building",
+      "zh": ""
+    },
+    {
+      "start": 1261.29,
+      "duration": 2.09,
+      "text": "your creative confidence along the way.",
+      "en": "your creative confidence along the way.",
+      "zh": ""
+    },
+    {
+      "start": 1263.38,
+      "duration": 0.58,
+      "text": "It works!",
+      "en": "It works!",
+      "zh": ""
+    },
+    {
+      "start": 1263.96,
+      "duration": 1.46,
+      "text": "And since the holidays are coming up",
+      "en": "And since the holidays are coming up",
+      "zh": ""
+    },
+    {
+      "start": 1265.42,
+      "duration": 1.08,
+      "text": "there's nothing more fun",
+      "en": "there's nothing more fun",
+      "zh": ""
+    },
+    {
+      "start": 1266.5,
+      "duration": 0.92,
+      "text": "to put on your list",
+      "en": "to put on your list",
+      "zh": ""
+    },
+    {
+      "start": 1267.42,
+      "duration": 1.2,
+      "text": "Nor is there a better gift",
+      "en": "Nor is there a better gift",
+      "zh": ""
+    },
+    {
+      "start": 1268.62,
+      "duration": 1.13,
+      "text": "to give than an investment",
+      "en": "to give than an investment",
+      "zh": ""
+    },
+    {
+      "start": 1269.75,
+      "duration": 1.33,
+      "text": "in the future of the favorite",
+      "en": "in the future of the favorite",
+      "zh": ""
+    },
+    {
+      "start": 1271.08,
+      "duration": 1.3,
+      "text": "young person in your life.",
+      "en": "young person in your life.",
+      "zh": ""
+    },
+    {
+      "start": 1272.38,
+      "duration": 1.41,
+      "text": "As you watch their confidence",
+      "en": "As you watch their confidence",
+      "zh": ""
+    },
+    {
+      "start": 1273.79,
+      "duration": 1.46,
+      "text": "and resilience grow",
+      "en": "and resilience grow",
+      "zh": ""
+    },
+    {
+      "start": 1275.83,
+      "duration": 0.59,
+      "text": "And possibly",
+      "en": "And possibly",
+      "zh": ""
+    },
+    {
+      "start": 1276.42,
+      "duration": 1.62,
+      "text": "the coolest part of all is each month",
+      "en": "the coolest part of all is each month",
+      "zh": ""
+    },
+    {
+      "start": 1278.04,
+      "duration": 1.71,
+      "text": "we randomly select one box",
+      "en": "we randomly select one box",
+      "zh": ""
+    },
+    {
+      "start": 1279.75,
+      "duration": 1.29,
+      "text": "to slip in a platinum ticket.",
+      "en": "to slip in a platinum ticket.",
+      "zh": ""
+    },
+    {
+      "start": 1281.04,
+      "duration": 1.34,
+      "text": "And if it happens to be yours-",
+      "en": "And if it happens to be yours-",
+      "zh": ""
+    },
+    {
+      "start": 1285.12,
+      "duration": 0.76,
+      "text": "then you're coming out",
+      "en": "then you're coming out",
+      "zh": ""
+    },
+    {
+      "start": 1285.88,
+      "duration": 1.29,
+      "text": "right here to CrunchLabs",
+      "en": "right here to CrunchLabs",
+      "zh": ""
+    },
+    {
+      "start": 1287.17,
+      "duration": 1.95,
+      "text": "to design with me and my team for a day.",
+      "en": "to design with me and my team for a day.",
+      "zh": ""
+    },
+    {
+      "start": 1289.12,
+      "duration": 1.71,
+      "text": "So if you want to unlock the superpower",
+      "en": "So if you want to unlock the superpower",
+      "zh": ""
+    },
+    {
+      "start": 1290.83,
+      "duration": 0.42,
+      "text": "of learning",
+      "en": "of learning",
+      "zh": ""
+    },
+    {
+      "start": 1291.25,
+      "duration": 1.13,
+      "text": "how to create and build",
+      "en": "how to create and build",
+      "zh": ""
+    },
+    {
+      "start": 1292.38,
+      "duration": 1.2,
+      "text": "whatever you can dream up,",
+      "en": "whatever you can dream up,",
+      "zh": ""
+    },
+    {
+      "start": 1293.58,
+      "duration": 2.38,
+      "text": "even if it's really, really small",
+      "en": "even if it's really, really small",
+      "zh": ""
+    },
+    {
+      "start": 1295.96,
+      "duration": 1.66,
+      "text": "just head to CrunchLabs.com",
+      "en": "just head to CrunchLabs.com",
+      "zh": ""
+    },
+    {
+      "start": 1297.62,
+      "duration": 1.67,
+      "text": "or use the the link in the video description",
+      "en": "or use the the link in the video description",
+      "zh": ""
+    },
+    {
+      "start": 1299.29,
+      "duration": 1.25,
+      "text": "to learn more",
+      "en": "to learn more",
+      "zh": ""
+    },
+    {
+      "start": 1300.54,
+      "duration": 0.84,
+      "text": "Thanks for watching.",
+      "en": "Thanks for watching.",
+      "zh": ""
+    }
+  ],
+  "words": []
+}

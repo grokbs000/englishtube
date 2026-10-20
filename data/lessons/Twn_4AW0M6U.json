@@ -1,0 +1,3365 @@
+{
+  "cues": [
+    {
+      "start": 0.0,
+      "duration": 2.42,
+      "text": "This is a friendly robot that's impossible to beat",
+      "en": "This is a friendly robot that's impossible to beat",
+      "zh": ""
+    },
+    {
+      "start": 2.42,
+      "duration": 1.0,
+      "text": "at rock, paper, scissors.",
+      "en": "at rock, paper, scissors.",
+      "zh": ""
+    },
+    {
+      "start": 3.42,
+      "duration": 3.37,
+      "text": "This is an infinite slinky staircase that can run for days.",
+      "en": "This is an infinite slinky staircase that can run for days.",
+      "zh": ""
+    },
+    {
+      "start": 6.79,
+      "duration": 2.75,
+      "text": "And this is basically a room temperature ice rink.",
+      "en": "And this is basically a room temperature ice rink.",
+      "zh": ""
+    },
+    {
+      "start": 9.54,
+      "duration": 2.63,
+      "text": "Today we're not only going to countdown ten of the coolest things",
+      "en": "Today we're not only going to countdown ten of the coolest things",
+      "zh": ""
+    },
+    {
+      "start": 12.17,
+      "duration": 1.71,
+      "text": "we've built at CrunchLabs over the past year.",
+      "en": "we've built at CrunchLabs over the past year.",
+      "zh": ""
+    },
+    {
+      "start": 13.88,
+      "duration": 2.16,
+      "text": "But we’re going to also break down the science of how they work,",
+      "en": "But we’re going to also break down the science of how they work,",
+      "zh": ""
+    },
+    {
+      "start": 16.04,
+      "duration": 2.79,
+      "text": "and even show how you can easily recreate a few of them yourself.",
+      "en": "and even show how you can easily recreate a few of them yourself.",
+      "zh": ""
+    },
+    {
+      "start": 18.83,
+      "duration": 1.25,
+      "text": "Starting off at number ten,",
+      "en": "Starting off at number ten,",
+      "zh": ""
+    },
+    {
+      "start": 20.08,
+      "duration": 2.09,
+      "text": "when you need to let everyone know it's lunchtime,",
+      "en": "when you need to let everyone know it's lunchtime,",
+      "zh": ""
+    },
+    {
+      "start": 22.17,
+      "duration": 1.71,
+      "text": "Typically, you'll have something like this",
+      "en": "Typically, you'll have something like this",
+      "zh": ""
+    },
+    {
+      "start": 25.21,
+      "duration": 0.75,
+      "text": "but that's boring",
+      "en": "but that's boring",
+      "zh": ""
+    },
+    {
+      "start": 25.96,
+      "duration": 1.83,
+      "text": "So we replaced it with this",
+      "en": "So we replaced it with this",
+      "zh": ""
+    },
+    {
+      "start": 27.79,
+      "duration": 2.59,
+      "text": "a choir of 22 screaming chicken heads.",
+      "en": "a choir of 22 screaming chicken heads.",
+      "zh": ""
+    },
+    {
+      "start": 30.38,
+      "duration": 0.95,
+      "text": "It's long been established",
+      "en": "It's long been established",
+      "zh": ""
+    },
+    {
+      "start": 31.33,
+      "duration": 1.88,
+      "text": "that if you ever see these in a bin at a store,",
+      "en": "that if you ever see these in a bin at a store,",
+      "zh": ""
+    },
+    {
+      "start": 33.21,
+      "duration": 1.71,
+      "text": "after you apply a little pressure",
+      "en": "after you apply a little pressure",
+      "zh": ""
+    },
+    {
+      "start": 37.33,
+      "duration": 2.05,
+      "text": "it will yield amazing results.",
+      "en": "it will yield amazing results.",
+      "zh": ""
+    },
+    {
+      "start": 44.33,
+      "duration": 0.88,
+      "text": "beautiful",
+      "en": "beautiful",
+      "zh": ""
+    },
+    {
+      "start": 45.21,
+      "duration": 1.21,
+      "text": "Now to find out why...",
+      "en": "Now to find out why...",
+      "zh": ""
+    },
+    {
+      "start": 46.42,
+      "duration": 1.46,
+      "text": "We just need to take a look inside.",
+      "en": "We just need to take a look inside.",
+      "zh": ""
+    },
+    {
+      "start": 48.21,
+      "duration": 1.75,
+      "text": "And when you do, you'll find this.",
+      "en": "And when you do, you'll find this.",
+      "zh": ""
+    },
+    {
+      "start": 49.96,
+      "duration": 3.0,
+      "text": "It's basically just a kazoo or one of those party blowers.",
+      "en": "It's basically just a kazoo or one of those party blowers.",
+      "zh": ""
+    },
+    {
+      "start": 52.96,
+      "duration": 1.37,
+      "text": "So after squeezing the chicken,",
+      "en": "So after squeezing the chicken,",
+      "zh": ""
+    },
+    {
+      "start": 54.83,
+      "duration": 2.25,
+      "text": "it expands back to its original shape,",
+      "en": "it expands back to its original shape,",
+      "zh": ""
+    },
+    {
+      "start": 57.08,
+      "duration": 3.25,
+      "text": "which pulls air over this diaphragm, causing it to vibrate",
+      "en": "which pulls air over this diaphragm, causing it to vibrate",
+      "zh": ""
+    },
+    {
+      "start": 60.33,
+      "duration": 2.25,
+      "text": "and make that terrible, terrible noise.",
+      "en": "and make that terrible, terrible noise.",
+      "zh": ""
+    },
+    {
+      "start": 63.38,
+      "duration": 2.58,
+      "text": "So then if you just hook up all 22 to an airline",
+      "en": "So then if you just hook up all 22 to an airline",
+      "zh": ""
+    },
+    {
+      "start": 65.96,
+      "duration": 2.75,
+      "text": "pressurized at 100 p.s.i, then you turn this valve...",
+      "en": "pressurized at 100 p.s.i, then you turn this valve...",
+      "zh": ""
+    },
+    {
+      "start": 71.5,
+      "duration": 1.04,
+      "text": "Everyone knows",
+      "en": "Everyone knows",
+      "zh": ""
+    },
+    {
+      "start": 74.96,
+      "duration": 1.5,
+      "text": "It’s lunchtime!",
+      "en": "It’s lunchtime!",
+      "zh": ""
+    },
+    {
+      "start": 79.38,
+      "duration": 0.83,
+      "text": "Coming in at number nine.",
+      "en": "Coming in at number nine.",
+      "zh": ""
+    },
+    {
+      "start": 80.21,
+      "duration": 1.71,
+      "text": "If you happen to discover a platinum ticket",
+      "en": "If you happen to discover a platinum ticket",
+      "zh": ""
+    },
+    {
+      "start": 81.92,
+      "duration": 1.0,
+      "text": "in your CrunchLabs box,",
+      "en": "in your CrunchLabs box,",
+      "zh": ""
+    },
+    {
+      "start": 82.92,
+      "duration": 1.91,
+      "text": "securing you a trip out to CrunchLabs",
+      "en": "securing you a trip out to CrunchLabs",
+      "zh": ""
+    },
+    {
+      "start": 86.21,
+      "duration": 2.33,
+      "text": "Well, then it's very likely our own Science Bob",
+      "en": "Well, then it's very likely our own Science Bob",
+      "zh": ""
+    },
+    {
+      "start": 88.54,
+      "duration": 2.38,
+      "text": "will show off his fancy deflagration tube.",
+      "en": "will show off his fancy deflagration tube.",
+      "zh": ""
+    },
+    {
+      "start": 90.92,
+      "duration": 2.5,
+      "text": "Basically, you load in some gas and then ignite it, and it",
+      "en": "Basically, you load in some gas and then ignite it, and it",
+      "zh": ""
+    },
+    {
+      "start": 93.42,
+      "duration": 3.79,
+      "text": "creates a slow moving wave of fire that spreads because of heat.",
+      "en": "creates a slow moving wave of fire that spreads because of heat.",
+      "zh": ""
+    },
+    {
+      "start": 97.21,
+      "duration": 2.12,
+      "text": "And we call that a deflagration wave.",
+      "en": "And we call that a deflagration wave.",
+      "zh": ""
+    },
+    {
+      "start": 100.12,
+      "duration": 2.63,
+      "text": "And once it's almost done tracing all through the tubes,",
+      "en": "And once it's almost done tracing all through the tubes,",
+      "zh": ""
+    },
+    {
+      "start": 102.75,
+      "duration": 2.67,
+      "text": "it approaches the end here, where the gas and flame mix",
+      "en": "it approaches the end here, where the gas and flame mix",
+      "zh": ""
+    },
+    {
+      "start": 105.42,
+      "duration": 2.16,
+      "text": "with the oxygen, making a small explosion.",
+      "en": "with the oxygen, making a small explosion.",
+      "zh": ""
+    },
+    {
+      "start": 107.58,
+      "duration": 3.17,
+      "text": "And since the bottle is in the way of the quickly expanding gas,",
+      "en": "And since the bottle is in the way of the quickly expanding gas,",
+      "zh": ""
+    },
+    {
+      "start": 111.25,
+      "duration": 1.42,
+      "text": "it goes along for the ride.",
+      "en": "it goes along for the ride.",
+      "zh": ""
+    },
+    {
+      "start": 112.67,
+      "duration": 0.91,
+      "text": "Bullseye!",
+      "en": "Bullseye!",
+      "zh": ""
+    },
+    {
+      "start": 113.58,
+      "duration": 1.54,
+      "text": "Now that’s only the first two",
+      "en": "Now that’s only the first two",
+      "zh": ""
+    },
+    {
+      "start": 115.12,
+      "duration": 1.34,
+      "text": "of our countdown to number one",
+      "en": "of our countdown to number one",
+      "zh": ""
+    },
+    {
+      "start": 116.46,
+      "duration": 2.66,
+      "text": "But number eight is where things really start to get interesting.",
+      "en": "But number eight is where things really start to get interesting.",
+      "zh": ""
+    },
+    {
+      "start": 119.12,
+      "duration": 2.71,
+      "text": "Because if you take 3.5 million airsoft BBs",
+      "en": "Because if you take 3.5 million airsoft BBs",
+      "zh": ""
+    },
+    {
+      "start": 121.83,
+      "duration": 1.46,
+      "text": "it swallows you",
+      "en": "it swallows you",
+      "zh": ""
+    },
+    {
+      "start": 123.29,
+      "duration": 1.42,
+      "text": "and then knock them over",
+      "en": "and then knock them over",
+      "zh": ""
+    },
+    {
+      "start": 127.92,
+      "duration": 2.46,
+      "text": "You basically make a room temperature ice rink",
+      "en": "You basically make a room temperature ice rink",
+      "zh": ""
+    },
+    {
+      "start": 131.21,
+      "duration": 3.41,
+      "text": "This was honestly the most slippery surface I've ever stood on.",
+      "en": "This was honestly the most slippery surface I've ever stood on.",
+      "zh": ""
+    },
+    {
+      "start": 134.62,
+      "duration": 1.0,
+      "text": "Isn’t it trippy??",
+      "en": "Isn’t it trippy??",
+      "zh": ""
+    },
+    {
+      "start": 135.62,
+      "duration": 1.0,
+      "text": "This is crazy.",
+      "en": "This is crazy.",
+      "zh": ""
+    },
+    {
+      "start": 136.62,
+      "duration": 2.67,
+      "text": "as you can see here, it’s almost completely frictionless",
+      "en": "as you can see here, it’s almost completely frictionless",
+      "zh": ""
+    },
+    {
+      "start": 139.29,
+      "duration": 2.5,
+      "text": "Even more slippery than ice",
+      "en": "Even more slippery than ice",
+      "zh": ""
+    },
+    {
+      "start": 142.38,
+      "duration": 2.33,
+      "text": "Which means it should be perfect for skating",
+      "en": "Which means it should be perfect for skating",
+      "zh": ""
+    },
+    {
+      "start": 154.25,
+      "duration": 2.87,
+      "text": "And while surfing, skating, and bowling",
+      "en": "And while surfing, skating, and bowling",
+      "zh": ""
+    },
+    {
+      "start": 158.96,
+      "duration": 2.83,
+      "text": "it was ultimately so hard for us to keep our footing",
+      "en": "it was ultimately so hard for us to keep our footing",
+      "zh": ""
+    },
+    {
+      "start": 165.46,
+      "duration": 1.29,
+      "text": "There’s like no way to stop",
+      "en": "There’s like no way to stop",
+      "zh": ""
+    },
+    {
+      "start": 166.75,
+      "duration": 2.0,
+      "text": "We decided to call in a Pro",
+      "en": "We decided to call in a Pro",
+      "zh": ""
+    },
+    {
+      "start": 170.25,
+      "duration": 0.79,
+      "text": "This is Anna",
+      "en": "This is Anna",
+      "zh": ""
+    },
+    {
+      "start": 172.62,
+      "duration": 3.5,
+      "text": "And she’s a ten-year-old skateboard competition winning legend",
+      "en": "And she’s a ten-year-old skateboard competition winning legend",
+      "zh": ""
+    },
+    {
+      "start": 177.96,
+      "duration": 1.0,
+      "text": "Are you doing a shove?",
+      "en": "Are you doing a shove?",
+      "zh": ""
+    },
+    {
+      "start": 178.96,
+      "duration": 1.58,
+      "text": "I was doing a kickflip, obviously.",
+      "en": "I was doing a kickflip, obviously.",
+      "zh": ""
+    },
+    {
+      "start": 180.54,
+      "duration": 0.34,
+      "text": "Oh.",
+      "en": "Oh.",
+      "zh": ""
+    },
+    {
+      "start": 180.88,
+      "duration": 0.54,
+      "text": "*snort giggle*",
+      "en": "*snort giggle*",
+      "zh": ""
+    },
+    {
+      "start": 182.21,
+      "duration": 2.67,
+      "text": "And she absolutely dominated the BB Floor",
+      "en": "And she absolutely dominated the BB Floor",
+      "zh": ""
+    },
+    {
+      "start": 184.88,
+      "duration": 0.7,
+      "text": "Hey!",
+      "en": "Hey!",
+      "zh": ""
+    },
+    {
+      "start": 185.58,
+      "duration": 2.0,
+      "text": "But, could she pull off the impossible jump?",
+      "en": "But, could she pull off the impossible jump?",
+      "zh": ""
+    },
+    {
+      "start": 195.0,
+      "duration": 2.62,
+      "text": "Ow... I think I broke all my bones",
+      "en": "Ow... I think I broke all my bones",
+      "zh": ""
+    },
+    {
+      "start": 197.79,
+      "duration": 1.54,
+      "text": "Now, what makes Anna so great",
+      "en": "Now, what makes Anna so great",
+      "zh": ""
+    },
+    {
+      "start": 203.67,
+      "duration": 0.66,
+      "text": "Oopsie",
+      "en": "Oopsie",
+      "zh": ""
+    },
+    {
+      "start": 204.33,
+      "duration": 1.75,
+      "text": "is that she’s incredibly tenacious",
+      "en": "is that she’s incredibly tenacious",
+      "zh": ""
+    },
+    {
+      "start": 206.08,
+      "duration": 1.54,
+      "text": "Can I still land it or no?",
+      "en": "Can I still land it or no?",
+      "zh": ""
+    },
+    {
+      "start": 207.62,
+      "duration": 1.3,
+      "text": "And she never gives up",
+      "en": "And she never gives up",
+      "zh": ""
+    },
+    {
+      "start": 208.92,
+      "duration": 3.0,
+      "text": "so before she take her final shot at nailing this trick",
+      "en": "so before she take her final shot at nailing this trick",
+      "zh": ""
+    },
+    {
+      "start": 212.12,
+      "duration": 3.84,
+      "text": "We need to discuss the science behind this room-temperature ice rink",
+      "en": "We need to discuss the science behind this room-temperature ice rink",
+      "zh": ""
+    },
+    {
+      "start": 215.96,
+      "duration": 0.71,
+      "text": "Because intuitively,",
+      "en": "Because intuitively,",
+      "zh": ""
+    },
+    {
+      "start": 216.67,
+      "duration": 3.0,
+      "text": "it should make sense why this blue ocean is so frictionless.",
+      "en": "it should make sense why this blue ocean is so frictionless.",
+      "zh": ""
+    },
+    {
+      "start": 219.67,
+      "duration": 2.62,
+      "text": "Because any given BB rolls smoothly on the ground",
+      "en": "Because any given BB rolls smoothly on the ground",
+      "zh": ""
+    },
+    {
+      "start": 222.29,
+      "duration": 2.67,
+      "text": "and your foot rolls smoothly on top of the BB,",
+      "en": "and your foot rolls smoothly on top of the BB,",
+      "zh": ""
+    },
+    {
+      "start": 224.96,
+      "duration": 2.37,
+      "text": "so when you have hundreds of these underneath you",
+      "en": "so when you have hundreds of these underneath you",
+      "zh": ""
+    },
+    {
+      "start": 227.33,
+      "duration": 1.25,
+      "text": "it's like you have hundreds",
+      "en": "it's like you have hundreds",
+      "zh": ""
+    },
+    {
+      "start": 228.58,
+      "duration": 3.09,
+      "text": "of perfect wheels to slide you in any direction.",
+      "en": "of perfect wheels to slide you in any direction.",
+      "zh": ""
+    },
+    {
+      "start": 231.67,
+      "duration": 1.95,
+      "text": "And what's really cool is if you take the floor",
+      "en": "And what's really cool is if you take the floor",
+      "zh": ""
+    },
+    {
+      "start": 233.62,
+      "duration": 1.26,
+      "text": "and replace it with metal,",
+      "en": "and replace it with metal,",
+      "zh": ""
+    },
+    {
+      "start": 234.88,
+      "duration": 2.7,
+      "text": "and then take your foot and also replace it with metal,",
+      "en": "and then take your foot and also replace it with metal,",
+      "zh": ""
+    },
+    {
+      "start": 237.58,
+      "duration": 1.3,
+      "text": "then you just connect the top",
+      "en": "then you just connect the top",
+      "zh": ""
+    },
+    {
+      "start": 238.88,
+      "duration": 2.87,
+      "text": "surface to itself like this, and the bottom surface to itself",
+      "en": "surface to itself like this, and the bottom surface to itself",
+      "zh": ""
+    },
+    {
+      "start": 241.75,
+      "duration": 0.83,
+      "text": "like this.",
+      "en": "like this.",
+      "zh": ""
+    },
+    {
+      "start": 242.58,
+      "duration": 2.59,
+      "text": "Well, now they'll still slide relative to each other.",
+      "en": "Well, now they'll still slide relative to each other.",
+      "zh": ""
+    },
+    {
+      "start": 245.17,
+      "duration": 2.45,
+      "text": "Just as good as my foot does with the floor.",
+      "en": "Just as good as my foot does with the floor.",
+      "zh": ""
+    },
+    {
+      "start": 247.62,
+      "duration": 2.5,
+      "text": "And this is exactly how ball bearings work.",
+      "en": "And this is exactly how ball bearings work.",
+      "zh": ""
+    },
+    {
+      "start": 250.12,
+      "duration": 1.8,
+      "text": "And besides being just in your fidget spinner,",
+      "en": "And besides being just in your fidget spinner,",
+      "zh": ""
+    },
+    {
+      "start": 251.92,
+      "duration": 1.83,
+      "text": "ball bearings are everywhere.",
+      "en": "ball bearings are everywhere.",
+      "zh": ""
+    },
+    {
+      "start": 253.75,
+      "duration": 0.67,
+      "text": "They're in your bike,",
+      "en": "They're in your bike,",
+      "zh": ""
+    },
+    {
+      "start": 254.42,
+      "duration": 2.16,
+      "text": "skateboard and roller blade wheels",
+      "en": "skateboard and roller blade wheels",
+      "zh": ""
+    },
+    {
+      "start": 256.58,
+      "duration": 1.96,
+      "text": "where the wheels connect with the axles.",
+      "en": "where the wheels connect with the axles.",
+      "zh": ""
+    },
+    {
+      "start": 258.54,
+      "duration": 1.88,
+      "text": "You’ll also find them in aircraft engines",
+      "en": "You’ll also find them in aircraft engines",
+      "zh": ""
+    },
+    {
+      "start": 260.42,
+      "duration": 0.75,
+      "text": "washing machines",
+      "en": "washing machines",
+      "zh": ""
+    },
+    {
+      "start": 261.17,
+      "duration": 1.21,
+      "text": "and a bunch of other tools",
+      "en": "and a bunch of other tools",
+      "zh": ""
+    },
+    {
+      "start": 262.38,
+      "duration": 2.08,
+      "text": "pretty much anything you see that rotates",
+      "en": "pretty much anything you see that rotates",
+      "zh": ""
+    },
+    {
+      "start": 264.46,
+      "duration": 2.25,
+      "text": "where smooth low-friction is required",
+      "en": "where smooth low-friction is required",
+      "zh": ""
+    },
+    {
+      "start": 266.71,
+      "duration": 2.83,
+      "text": "will have ball bearings that work just like this floor.",
+      "en": "will have ball bearings that work just like this floor.",
+      "zh": ""
+    },
+    {
+      "start": 269.54,
+      "duration": 1.88,
+      "text": "Another really cool thing we discovered",
+      "en": "Another really cool thing we discovered",
+      "zh": ""
+    },
+    {
+      "start": 271.42,
+      "duration": 1.83,
+      "text": "is that when you interact with all the BBs,",
+      "en": "is that when you interact with all the BBs,",
+      "zh": ""
+    },
+    {
+      "start": 273.25,
+      "duration": 3.37,
+      "text": "they almost behave like water would, even though they're totally dry.",
+      "en": "they almost behave like water would, even though they're totally dry.",
+      "zh": ""
+    },
+    {
+      "start": 276.62,
+      "duration": 1.17,
+      "text": "And this actually makes sense.",
+      "en": "And this actually makes sense.",
+      "zh": ""
+    },
+    {
+      "start": 277.79,
+      "duration": 1.42,
+      "text": "And it's sort of what you would expect,",
+      "en": "And it's sort of what you would expect,",
+      "zh": ""
+    },
+    {
+      "start": 279.21,
+      "duration": 2.08,
+      "text": "because when computers have to simulate water",
+      "en": "because when computers have to simulate water",
+      "zh": ""
+    },
+    {
+      "start": 281.29,
+      "duration": 2.0,
+      "text": "in order to predict how the water would interact,",
+      "en": "in order to predict how the water would interact,",
+      "zh": ""
+    },
+    {
+      "start": 283.29,
+      "duration": 2.29,
+      "text": "they break it down into particles like this.",
+      "en": "they break it down into particles like this.",
+      "zh": ""
+    },
+    {
+      "start": 285.58,
+      "duration": 1.13,
+      "text": "And although it's not a perfect",
+      "en": "And although it's not a perfect",
+      "zh": ""
+    },
+    {
+      "start": 286.71,
+      "duration": 3.91,
+      "text": "1 to 1 match for a bunch of actual physical BBs, they are governed",
+      "en": "1 to 1 match for a bunch of actual physical BBs, they are governed",
+      "zh": ""
+    },
+    {
+      "start": 290.62,
+      "duration": 3.13,
+      "text": "by many of the same forces, so they end up looking very similar.",
+      "en": "by many of the same forces, so they end up looking very similar.",
+      "zh": ""
+    },
+    {
+      "start": 293.75,
+      "duration": 2.71,
+      "text": "Now back to Anna, who didn’t dissapoint",
+      "en": "Now back to Anna, who didn’t dissapoint",
+      "zh": ""
+    },
+    {
+      "start": 309.79,
+      "duration": 2.54,
+      "text": "WheeeEEEeeeeEEEeeee",
+      "en": "WheeeEEEeeeeEEEeeee",
+      "zh": ""
+    },
+    {
+      "start": 312.33,
+      "duration": 1.59,
+      "text": "Now that we’d all survived number 8",
+      "en": "Now that we’d all survived number 8",
+      "zh": ""
+    },
+    {
+      "start": 314.88,
+      "duration": 0.66,
+      "text": "I’m dead",
+      "en": "I’m dead",
+      "zh": ""
+    },
+    {
+      "start": 315.54,
+      "duration": 2.08,
+      "text": "Coming in at number seven are these chairs.",
+      "en": "Coming in at number seven are these chairs.",
+      "zh": ""
+    },
+    {
+      "start": 317.62,
+      "duration": 3.0,
+      "text": "But what makes them really cool is they're made from one single sheet",
+      "en": "But what makes them really cool is they're made from one single sheet",
+      "zh": ""
+    },
+    {
+      "start": 320.62,
+      "duration": 1.34,
+      "text": "of continuous plywood.",
+      "en": "of continuous plywood.",
+      "zh": ""
+    },
+    {
+      "start": 321.96,
+      "duration": 1.96,
+      "text": "So you start with the sheet of plywood like this.",
+      "en": "So you start with the sheet of plywood like this.",
+      "zh": ""
+    },
+    {
+      "start": 323.92,
+      "duration": 1.16,
+      "text": "then you give it a paint job.",
+      "en": "then you give it a paint job.",
+      "zh": ""
+    },
+    {
+      "start": 325.08,
+      "duration": 0.8,
+      "text": "Then you place it on a",
+      "en": "Then you place it on a",
+      "zh": ""
+    },
+    {
+      "start": 325.88,
+      "duration": 2.54,
+      "text": "CNC router machine, and you have it cut into this",
+      "en": "CNC router machine, and you have it cut into this",
+      "zh": ""
+    },
+    {
+      "start": 328.42,
+      "duration": 1.33,
+      "text": "very specific pattern.",
+      "en": "very specific pattern.",
+      "zh": ""
+    },
+    {
+      "start": 329.75,
+      "duration": 2.04,
+      "text": "And after that, you just take out the middle part",
+      "en": "And after that, you just take out the middle part",
+      "zh": ""
+    },
+    {
+      "start": 331.79,
+      "duration": 3.5,
+      "text": "and then fold it into an actual functional chair.",
+      "en": "and then fold it into an actual functional chair.",
+      "zh": ""
+    },
+    {
+      "start": 335.29,
+      "duration": 1.0,
+      "text": "Now, it's weird to think of",
+      "en": "Now, it's weird to think of",
+      "zh": ""
+    },
+    {
+      "start": 336.29,
+      "duration": 2.92,
+      "text": "wood as foldable and bendy, but this is another example",
+      "en": "wood as foldable and bendy, but this is another example",
+      "zh": ""
+    },
+    {
+      "start": 339.21,
+      "duration": 1.17,
+      "text": "of a compliant mechanism,",
+      "en": "of a compliant mechanism,",
+      "zh": ""
+    },
+    {
+      "start": 340.38,
+      "duration": 1.79,
+      "text": "which as you recall from my world's smallest",
+      "en": "which as you recall from my world's smallest",
+      "zh": ""
+    },
+    {
+      "start": 342.17,
+      "duration": 0.71,
+      "text": "Nerf gun video, is",
+      "en": "Nerf gun video, is",
+      "zh": ""
+    },
+    {
+      "start": 342.88,
+      "duration": 2.54,
+      "text": "when you could take advantage of the fact that even solid",
+      "en": "when you could take advantage of the fact that even solid",
+      "zh": ""
+    },
+    {
+      "start": 345.42,
+      "duration": 3.12,
+      "text": "materials can flex and bend if you give them the right shape.",
+      "en": "materials can flex and bend if you give them the right shape.",
+      "zh": ""
+    },
+    {
+      "start": 348.54,
+      "duration": 1.92,
+      "text": "And just like with the world's smallest Nerf gun,",
+      "en": "And just like with the world's smallest Nerf gun,",
+      "zh": ""
+    },
+    {
+      "start": 350.46,
+      "duration": 3.16,
+      "text": "this chair was designed in the BYU Compliant Mechanisms Lab.",
+      "en": "this chair was designed in the BYU Compliant Mechanisms Lab.",
+      "zh": ""
+    },
+    {
+      "start": 353.62,
+      "duration": 2.21,
+      "text": "and there's a 3D printable file in the video description",
+      "en": "and there's a 3D printable file in the video description",
+      "zh": ""
+    },
+    {
+      "start": 355.83,
+      "duration": 3.34,
+      "text": "if you want to assemble your own mini single part foldable chair.",
+      "en": "if you want to assemble your own mini single part foldable chair.",
+      "zh": ""
+    },
+    {
+      "start": 359.17,
+      "duration": 1.08,
+      "text": "Now, number six is",
+      "en": "Now, number six is",
+      "zh": ""
+    },
+    {
+      "start": 360.25,
+      "duration": 1.63,
+      "text": "your key to being the coolest person",
+      "en": "your key to being the coolest person",
+      "zh": ""
+    },
+    {
+      "start": 361.88,
+      "duration": 1.54,
+      "text": "at your end of summer block party.",
+      "en": "at your end of summer block party.",
+      "zh": ""
+    },
+    {
+      "start": 363.42,
+      "duration": 0.66,
+      "text": "Because right here,",
+      "en": "Because right here,",
+      "zh": ""
+    },
+    {
+      "start": 364.08,
+      "duration": 2.25,
+      "text": "you've got a vinyl tube that's ready to spit out water",
+      "en": "you've got a vinyl tube that's ready to spit out water",
+      "zh": ""
+    },
+    {
+      "start": 366.33,
+      "duration": 2.0,
+      "text": "and it's connected to a subwoofer speaker.",
+      "en": "and it's connected to a subwoofer speaker.",
+      "zh": ""
+    },
+    {
+      "start": 368.33,
+      "duration": 2.09,
+      "text": "So now if you turn on the subwoofer at 30Hz,",
+      "en": "So now if you turn on the subwoofer at 30Hz,",
+      "zh": ""
+    },
+    {
+      "start": 370.42,
+      "duration": 1.2,
+      "text": "which means it's vibrating",
+      "en": "which means it's vibrating",
+      "zh": ""
+    },
+    {
+      "start": 371.62,
+      "duration": 2.17,
+      "text": "up and down 30 times per second,",
+      "en": "up and down 30 times per second,",
+      "zh": ""
+    },
+    {
+      "start": 373.79,
+      "duration": 3.17,
+      "text": "it wiggles the tube up and down at 30 times per second.",
+      "en": "it wiggles the tube up and down at 30 times per second.",
+      "zh": ""
+    },
+    {
+      "start": 376.96,
+      "duration": 1.33,
+      "text": "But then if you set your phone camera",
+      "en": "But then if you set your phone camera",
+      "zh": ""
+    },
+    {
+      "start": 378.29,
+      "duration": 2.04,
+      "text": "to record at 30 frames per second,",
+      "en": "to record at 30 frames per second,",
+      "zh": ""
+    },
+    {
+      "start": 380.33,
+      "duration": 2.5,
+      "text": "it makes the motion virtually undetectable",
+      "en": "it makes the motion virtually undetectable",
+      "zh": ""
+    },
+    {
+      "start": 382.83,
+      "duration": 2.67,
+      "text": "So when you squirt some water through the tube and start the speaker",
+      "en": "So when you squirt some water through the tube and start the speaker",
+      "zh": ""
+    },
+    {
+      "start": 385.5,
+      "duration": 3.04,
+      "text": "your camera is only taking pictures when the wave is at",
+      "en": "your camera is only taking pictures when the wave is at",
+      "zh": ""
+    },
+    {
+      "start": 388.54,
+      "duration": 2.79,
+      "text": "this exact position every 1/30 of a second.",
+      "en": "this exact position every 1/30 of a second.",
+      "zh": ""
+    },
+    {
+      "start": 391.33,
+      "duration": 3.55,
+      "text": "So when you play it back, it looks like it's a frozen wave of water.",
+      "en": "So when you play it back, it looks like it's a frozen wave of water.",
+      "zh": ""
+    },
+    {
+      "start": 394.88,
+      "duration": 2.16,
+      "text": "Now what's cool is if you change the subwoofer",
+      "en": "Now what's cool is if you change the subwoofer",
+      "zh": ""
+    },
+    {
+      "start": 397.04,
+      "duration": 3.71,
+      "text": "frequency to say, 31Hz or 31 times per second,",
+      "en": "frequency to say, 31Hz or 31 times per second,",
+      "zh": ""
+    },
+    {
+      "start": 400.75,
+      "duration": 2.54,
+      "text": "now every 1/30 of a second, the picture of the water wave",
+      "en": "now every 1/30 of a second, the picture of the water wave",
+      "zh": ""
+    },
+    {
+      "start": 403.29,
+      "duration": 1.88,
+      "text": "is just a little further forward,",
+      "en": "is just a little further forward,",
+      "zh": ""
+    },
+    {
+      "start": 405.17,
+      "duration": 1.66,
+      "text": "so it makes it look like the wave of water",
+      "en": "so it makes it look like the wave of water",
+      "zh": ""
+    },
+    {
+      "start": 406.83,
+      "duration": 1.59,
+      "text": "is slowly traveling forward.",
+      "en": "is slowly traveling forward.",
+      "zh": ""
+    },
+    {
+      "start": 408.42,
+      "duration": 1.75,
+      "text": "and of course reducing the frequency",
+      "en": "and of course reducing the frequency",
+      "zh": ""
+    },
+    {
+      "start": 410.17,
+      "duration": 1.29,
+      "text": "and of course reducing the frequency has the opposite effect.",
+      "en": "and of course reducing the frequency has the opposite effect.",
+      "zh": ""
+    },
+    {
+      "start": 411.46,
+      "duration": 0.83,
+      "text": "And if you're smart about it,",
+      "en": "And if you're smart about it,",
+      "zh": ""
+    },
+    {
+      "start": 412.29,
+      "duration": 1.17,
+      "text": "this can make you look like an absolute wizard.",
+      "en": "this can make you look like an absolute wizard.",
+      "zh": ""
+    },
+    {
+      "start": 415.46,
+      "duration": 2.46,
+      "text": "But if you can use one speaker to make the wave go up and down.",
+      "en": "But if you can use one speaker to make the wave go up and down.",
+      "zh": ""
+    },
+    {
+      "start": 417.92,
+      "duration": 2.33,
+      "text": "Theoretically, if you had a second speaker",
+      "en": "Theoretically, if you had a second speaker",
+      "zh": ""
+    },
+    {
+      "start": 420.25,
+      "duration": 0.3,
+      "text": "and you made the wave go side to side,",
+      "en": "and you made the wave go side to side,",
+      "zh": ""
+    },
+    {
+      "start": 422.08,
+      "duration": 2.63,
+      "text": "the combination should give you a spiral.",
+      "en": "the combination should give you a spiral.",
+      "zh": ""
+    },
+    {
+      "start": 424.71,
+      "duration": 2.21,
+      "text": "And sure enough, it actually does.",
+      "en": "And sure enough, it actually does.",
+      "zh": ""
+    },
+    {
+      "start": 426.92,
+      "duration": 3.66,
+      "text": "Now all that's left is to just play a sick beat to celebrate the W.",
+      "en": "Now all that's left is to just play a sick beat to celebrate the W.",
+      "zh": ""
+    },
+    {
+      "start": 453.29,
+      "duration": 0.96,
+      "text": "Now, this is sort of an",
+      "en": "Now, this is sort of an",
+      "zh": ""
+    },
+    {
+      "start": 454.25,
+      "duration": 1.87,
+      "text": "extensive setup, but what's really cool",
+      "en": "extensive setup, but what's really cool",
+      "zh": ""
+    },
+    {
+      "start": 456.12,
+      "duration": 2.59,
+      "text": "is you can make a very simple version of this yourself.",
+      "en": "is you can make a very simple version of this yourself.",
+      "zh": ""
+    },
+    {
+      "start": 458.71,
+      "duration": 2.96,
+      "text": "And all you'll need is a hose, some tape and a cordless drill.",
+      "en": "And all you'll need is a hose, some tape and a cordless drill.",
+      "zh": ""
+    },
+    {
+      "start": 461.67,
+      "duration": 0.71,
+      "text": "and a bit",
+      "en": "and a bit",
+      "zh": ""
+    },
+    {
+      "start": 462.38,
+      "duration": 1.83,
+      "text": "Start by folding the tape into a flag",
+      "en": "Start by folding the tape into a flag",
+      "zh": ""
+    },
+    {
+      "start": 464.21,
+      "duration": 1.41,
+      "text": "to provide an offset weight",
+      "en": "to provide an offset weight",
+      "zh": ""
+    },
+    {
+      "start": 465.62,
+      "duration": 0.88,
+      "text": "then secure the hose",
+      "en": "then secure the hose",
+      "zh": ""
+    },
+    {
+      "start": 466.5,
+      "duration": 1.17,
+      "text": "to the bottom of the cordless drill",
+      "en": "to the bottom of the cordless drill",
+      "zh": ""
+    },
+    {
+      "start": 467.67,
+      "duration": 1.37,
+      "text": "and then turn them both on",
+      "en": "and then turn them both on",
+      "zh": ""
+    },
+    {
+      "start": 469.04,
+      "duration": 2.71,
+      "text": "you’ll find the natural vibrations of the spinning drill",
+      "en": "you’ll find the natural vibrations of the spinning drill",
+      "zh": ""
+    },
+    {
+      "start": 471.75,
+      "duration": 2.58,
+      "text": "cause the hose tip to rotate in a circle",
+      "en": "cause the hose tip to rotate in a circle",
+      "zh": ""
+    },
+    {
+      "start": 474.33,
+      "duration": 2.59,
+      "text": "near the magical 30 times per second rate,",
+      "en": "near the magical 30 times per second rate,",
+      "zh": ""
+    },
+    {
+      "start": 476.92,
+      "duration": 1.87,
+      "text": "and then changing the speed of the drill slightly",
+      "en": "and then changing the speed of the drill slightly",
+      "zh": ""
+    },
+    {
+      "start": 478.79,
+      "duration": 1.67,
+      "text": "with the trigger will cause the wave",
+      "en": "with the trigger will cause the wave",
+      "zh": ""
+    },
+    {
+      "start": 480.46,
+      "duration": 1.25,
+      "text": "to change directions.",
+      "en": "to change directions.",
+      "zh": ""
+    },
+    {
+      "start": 481.71,
+      "duration": 1.87,
+      "text": "Honestly, how cool is this?",
+      "en": "Honestly, how cool is this?",
+      "zh": ""
+    },
+    {
+      "start": 483.58,
+      "duration": 1.8,
+      "text": "Now, a lot of people confuse what you're seeing here",
+      "en": "Now, a lot of people confuse what you're seeing here",
+      "zh": ""
+    },
+    {
+      "start": 485.38,
+      "duration": 1.2,
+      "text": "with a really cool phenomenon",
+      "en": "with a really cool phenomenon",
+      "zh": ""
+    },
+    {
+      "start": 486.58,
+      "duration": 2.34,
+      "text": "called laminar flow, but they're different.",
+      "en": "called laminar flow, but they're different.",
+      "zh": ""
+    },
+    {
+      "start": 488.92,
+      "duration": 1.79,
+      "text": "Because this is laminar flow.",
+      "en": "Because this is laminar flow.",
+      "zh": ""
+    },
+    {
+      "start": 490.71,
+      "duration": 3.17,
+      "text": "it’s when the layers of a fluid interact by sliding over one another",
+      "en": "it’s when the layers of a fluid interact by sliding over one another",
+      "zh": ""
+    },
+    {
+      "start": 493.88,
+      "duration": 1.29,
+      "text": "in a predictable pattern",
+      "en": "in a predictable pattern",
+      "zh": ""
+    },
+    {
+      "start": 495.17,
+      "duration": 2.21,
+      "text": "instead of going turbulent and unpredictable.",
+      "en": "instead of going turbulent and unpredictable.",
+      "zh": ""
+    },
+    {
+      "start": 497.38,
+      "duration": 2.29,
+      "text": "The big difference is what you see, what the speaker is",
+      "en": "The big difference is what you see, what the speaker is",
+      "zh": ""
+    },
+    {
+      "start": 499.67,
+      "duration": 1.79,
+      "text": "only impressive through the camera feed,",
+      "en": "only impressive through the camera feed,",
+      "zh": ""
+    },
+    {
+      "start": 501.46,
+      "duration": 2.04,
+      "text": "because the frame rate matches with the wiggle rate,",
+      "en": "because the frame rate matches with the wiggle rate,",
+      "zh": ""
+    },
+    {
+      "start": 503.5,
+      "duration": 4.25,
+      "text": "but with laminar flow it looks cool even real-time with your own eyes.",
+      "en": "but with laminar flow it looks cool even real-time with your own eyes.",
+      "zh": ""
+    },
+    {
+      "start": 507.75,
+      "duration": 1.29,
+      "text": "And once again, the good news is",
+      "en": "And once again, the good news is",
+      "zh": ""
+    },
+    {
+      "start": 509.04,
+      "duration": 2.21,
+      "text": "you can make a simple version of this yourself too.",
+      "en": "you can make a simple version of this yourself too.",
+      "zh": ""
+    },
+    {
+      "start": 511.25,
+      "duration": 1.54,
+      "text": "If you just get a balloon like this, fill it with water,",
+      "en": "If you just get a balloon like this, fill it with water,",
+      "zh": ""
+    },
+    {
+      "start": 513.71,
+      "duration": 2.17,
+      "text": "tape a tic-tac-toe square like this",
+      "en": "tape a tic-tac-toe square like this",
+      "zh": ""
+    },
+    {
+      "start": 515.88,
+      "duration": 1.74,
+      "text": "and then give it a good cut right in the middle",
+      "en": "and then give it a good cut right in the middle",
+      "zh": ""
+    },
+    {
+      "start": 517.62,
+      "duration": 0.96,
+      "text": "and as you can see here",
+      "en": "and as you can see here",
+      "zh": ""
+    },
+    {
+      "start": 518.58,
+      "duration": 2.09,
+      "text": "even with these really simple materials",
+      "en": "even with these really simple materials",
+      "zh": ""
+    },
+    {
+      "start": 520.67,
+      "duration": 1.75,
+      "text": "it looks like total magic",
+      "en": "it looks like total magic",
+      "zh": ""
+    },
+    {
+      "start": 522.42,
+      "duration": 1.79,
+      "text": "The next two inventions are pretty quick and simple.",
+      "en": "The next two inventions are pretty quick and simple.",
+      "zh": ""
+    },
+    {
+      "start": 524.21,
+      "duration": 1.83,
+      "text": "Before we make it to our final three",
+      "en": "Before we make it to our final three",
+      "zh": ""
+    },
+    {
+      "start": 526.04,
+      "duration": 1.46,
+      "text": "absolute bangers",
+      "en": "absolute bangers",
+      "zh": ""
+    },
+    {
+      "start": 527.5,
+      "duration": 1.12,
+      "text": "starting first at number five",
+      "en": "starting first at number five",
+      "zh": ""
+    },
+    {
+      "start": 528.62,
+      "duration": 1.88,
+      "text": "with this heavily modified Roomba.",
+      "en": "with this heavily modified Roomba.",
+      "zh": ""
+    },
+    {
+      "start": 530.5,
+      "duration": 0.79,
+      "text": "Because every single month",
+      "en": "Because every single month",
+      "zh": ""
+    },
+    {
+      "start": 531.29,
+      "duration": 3.21,
+      "text": "we place a platinum ticket inside one CrunchLabs Build Box.",
+      "en": "we place a platinum ticket inside one CrunchLabs Build Box.",
+      "zh": ""
+    },
+    {
+      "start": 534.5,
+      "duration": 1.42,
+      "text": "And if yours has it. I got it!",
+      "en": "And if yours has it. I got it!",
+      "zh": ""
+    },
+    {
+      "start": 535.92,
+      "duration": 2.2,
+      "text": "You're coming out here to CrunchLabs in person.",
+      "en": "You're coming out here to CrunchLabs in person.",
+      "zh": ""
+    },
+    {
+      "start": 538.12,
+      "duration": 1.67,
+      "text": "And while you're here, it's very likely",
+      "en": "And while you're here, it's very likely",
+      "zh": ""
+    },
+    {
+      "start": 539.79,
+      "duration": 2.83,
+      "text": "we'll have a very fun, epic Nerf gun battle.",
+      "en": "we'll have a very fun, epic Nerf gun battle.",
+      "zh": ""
+    },
+    {
+      "start": 548.42,
+      "duration": 4.12,
+      "text": "What's not so fun, however, is the epic cleanup required afterwards.",
+      "en": "What's not so fun, however, is the epic cleanup required afterwards.",
+      "zh": ""
+    },
+    {
+      "start": 552.54,
+      "duration": 1.54,
+      "text": "But why clean up a mess",
+      "en": "But why clean up a mess",
+      "zh": ""
+    },
+    {
+      "start": 554.83,
+      "duration": 2.63,
+      "text": "when you could just invent a robot to do it for you?",
+      "en": "when you could just invent a robot to do it for you?",
+      "zh": ""
+    },
+    {
+      "start": 557.46,
+      "duration": 1.0,
+      "text": "So by taking the front",
+      "en": "So by taking the front",
+      "zh": ""
+    },
+    {
+      "start": 558.46,
+      "duration": 3.12,
+      "text": "of one of these acorn picker uppers and 3D printing an attachment",
+      "en": "of one of these acorn picker uppers and 3D printing an attachment",
+      "zh": ""
+    },
+    {
+      "start": 561.58,
+      "duration": 3.17,
+      "text": "to secure it to a Roomba, things get much, much easier.",
+      "en": "to secure it to a Roomba, things get much, much easier.",
+      "zh": ""
+    },
+    {
+      "start": 564.75,
+      "duration": 1.5,
+      "text": "So with only the occasional empty",
+      "en": "So with only the occasional empty",
+      "zh": ""
+    },
+    {
+      "start": 566.25,
+      "duration": 1.87,
+      "text": "of the chamber, I could spend my time",
+      "en": "of the chamber, I could spend my time",
+      "zh": ""
+    },
+    {
+      "start": 568.12,
+      "duration": 2.21,
+      "text": "working on coming up with other ideas",
+      "en": "working on coming up with other ideas",
+      "zh": ""
+    },
+    {
+      "start": 570.33,
+      "duration": 2.84,
+      "text": "Ideas like number 4, because over the years",
+      "en": "Ideas like number 4, because over the years",
+      "zh": ""
+    },
+    {
+      "start": 573.17,
+      "duration": 1.66,
+      "text": "myself and CrunchLabs have received",
+      "en": "myself and CrunchLabs have received",
+      "zh": ""
+    },
+    {
+      "start": 574.83,
+      "duration": 2.0,
+      "text": "a few awards, and it feels too weird",
+      "en": "a few awards, and it feels too weird",
+      "zh": ""
+    },
+    {
+      "start": 576.83,
+      "duration": 2.5,
+      "text": "to put them on display in the front lobby in a trophy case.",
+      "en": "to put them on display in the front lobby in a trophy case.",
+      "zh": ""
+    },
+    {
+      "start": 579.33,
+      "duration": 3.46,
+      "text": "But it also seems disrespectful just to leave them in a dusty bin.",
+      "en": "But it also seems disrespectful just to leave them in a dusty bin.",
+      "zh": ""
+    },
+    {
+      "start": 582.79,
+      "duration": 2.04,
+      "text": "So the middle ground is if you stand right here",
+      "en": "So the middle ground is if you stand right here",
+      "zh": ""
+    },
+    {
+      "start": 584.83,
+      "duration": 1.5,
+      "text": "and pull this unmarked handle",
+      "en": "and pull this unmarked handle",
+      "zh": ""
+    },
+    {
+      "start": 586.33,
+      "duration": 2.38,
+      "text": "it uses a 6 to 1 mechanical advantage pully system",
+      "en": "it uses a 6 to 1 mechanical advantage pully system",
+      "zh": ""
+    },
+    {
+      "start": 588.71,
+      "duration": 2.58,
+      "text": "to rotate this mirror 45 degrees into place.",
+      "en": "to rotate this mirror 45 degrees into place.",
+      "zh": ""
+    },
+    {
+      "start": 591.29,
+      "duration": 1.92,
+      "text": "And now, if you just so happen to look up",
+      "en": "And now, if you just so happen to look up",
+      "zh": ""
+    },
+    {
+      "start": 593.21,
+      "duration": 3.58,
+      "text": "standing only in this exact spot, you can admire the hardware.",
+      "en": "standing only in this exact spot, you can admire the hardware.",
+      "zh": ""
+    },
+    {
+      "start": 596.79,
+      "duration": 1.75,
+      "text": "And that brings us to the final three,",
+      "en": "And that brings us to the final three,",
+      "zh": ""
+    },
+    {
+      "start": 598.54,
+      "duration": 3.96,
+      "text": "starting with Simon, one of the most beloved games of my childhood.",
+      "en": "starting with Simon, one of the most beloved games of my childhood.",
+      "zh": ""
+    },
+    {
+      "start": 602.5,
+      "duration": 1.67,
+      "text": "Basically, it lights up one of these pads",
+      "en": "Basically, it lights up one of these pads",
+      "zh": ""
+    },
+    {
+      "start": 604.17,
+      "duration": 3.12,
+      "text": "and then you just have to repeat it back by pressing the same pad.",
+      "en": "and then you just have to repeat it back by pressing the same pad.",
+      "zh": ""
+    },
+    {
+      "start": 607.96,
+      "duration": 2.29,
+      "text": "And that's easy enough, but each time it adds",
+      "en": "And that's easy enough, but each time it adds",
+      "zh": ""
+    },
+    {
+      "start": 610.25,
+      "duration": 3.04,
+      "text": "another pad to the pattern, which just not so bad at first,",
+      "en": "another pad to the pattern, which just not so bad at first,",
+      "zh": ""
+    },
+    {
+      "start": 613.29,
+      "duration": 3.04,
+      "text": "but then it starts to add more and more and get faster and faster.",
+      "en": "but then it starts to add more and more and get faster and faster.",
+      "zh": ""
+    },
+    {
+      "start": 619.33,
+      "duration": 0.84,
+      "text": "DANG IT!",
+      "en": "DANG IT!",
+      "zh": ""
+    },
+    {
+      "start": 620.17,
+      "duration": 1.79,
+      "text": "just as frustrating as I remember.",
+      "en": "just as frustrating as I remember.",
+      "zh": ""
+    },
+    {
+      "start": 621.96,
+      "duration": 3.54,
+      "text": "I think the furthest I ever me as a kid was like level 13.",
+      "en": "I think the furthest I ever me as a kid was like level 13.",
+      "zh": ""
+    },
+    {
+      "start": 625.5,
+      "duration": 2.33,
+      "text": "But lucky for me, I'm now an engineer,",
+      "en": "But lucky for me, I'm now an engineer,",
+      "zh": ""
+    },
+    {
+      "start": 627.83,
+      "duration": 2.88,
+      "text": "which means I have a very particular set of skills.",
+      "en": "which means I have a very particular set of skills.",
+      "zh": ""
+    },
+    {
+      "start": 630.71,
+      "duration": 3.21,
+      "text": "Skills I have acquired over a very long career,",
+      "en": "Skills I have acquired over a very long career,",
+      "zh": ""
+    },
+    {
+      "start": 633.92,
+      "duration": 3.58,
+      "text": "skills that make me a nightmare for games like these.",
+      "en": "skills that make me a nightmare for games like these.",
+      "zh": ""
+    },
+    {
+      "start": 637.5,
+      "duration": 3.25,
+      "text": "So if we place Simon right here and then take some inspiration",
+      "en": "So if we place Simon right here and then take some inspiration",
+      "zh": ""
+    },
+    {
+      "start": 640.75,
+      "duration": 1.79,
+      "text": "from this incredible cockroach trap,",
+      "en": "from this incredible cockroach trap,",
+      "zh": ""
+    },
+    {
+      "start": 644.46,
+      "duration": 2.37,
+      "text": "we can add four posts around the perimeter,",
+      "en": "we can add four posts around the perimeter,",
+      "zh": ""
+    },
+    {
+      "start": 646.83,
+      "duration": 1.46,
+      "text": "each with their own drumstick,",
+      "en": "each with their own drumstick,",
+      "zh": ""
+    },
+    {
+      "start": 648.29,
+      "duration": 2.17,
+      "text": "rubber hand and high-torque servo motor.",
+      "en": "rubber hand and high-torque servo motor.",
+      "zh": ""
+    },
+    {
+      "start": 650.46,
+      "duration": 3.08,
+      "text": "So these can be our pad smashers, but now they need to know",
+      "en": "So these can be our pad smashers, but now they need to know",
+      "zh": ""
+    },
+    {
+      "start": 653.54,
+      "duration": 1.71,
+      "text": "which pads to smash.",
+      "en": "which pads to smash.",
+      "zh": ""
+    },
+    {
+      "start": 655.25,
+      "duration": 1.87,
+      "text": "For that, we've just got a simple webcam here",
+      "en": "For that, we've just got a simple webcam here",
+      "zh": ""
+    },
+    {
+      "start": 657.12,
+      "duration": 2.71,
+      "text": "that runs a Python script from a Raspberry Pi,",
+      "en": "that runs a Python script from a Raspberry Pi,",
+      "zh": ""
+    },
+    {
+      "start": 659.83,
+      "duration": 1.84,
+      "text": "and it ignores everything in the camera",
+      "en": "and it ignores everything in the camera",
+      "zh": ""
+    },
+    {
+      "start": 661.67,
+      "duration": 2.21,
+      "text": "field of view except for these four small",
+      "en": "field of view except for these four small",
+      "zh": ""
+    },
+    {
+      "start": 663.88,
+      "duration": 2.12,
+      "text": "rectangular portions where the bulbs are.",
+      "en": "rectangular portions where the bulbs are.",
+      "zh": ""
+    },
+    {
+      "start": 666.0,
+      "duration": 2.12,
+      "text": "And so when the color suddenly intensifies",
+      "en": "And so when the color suddenly intensifies",
+      "zh": ""
+    },
+    {
+      "start": 668.12,
+      "duration": 1.96,
+      "text": "in any one of those rectangles, you know,",
+      "en": "in any one of those rectangles, you know,",
+      "zh": ""
+    },
+    {
+      "start": 670.08,
+      "duration": 2.04,
+      "text": "that's the pad that needs to be hit.",
+      "en": "that's the pad that needs to be hit.",
+      "zh": ""
+    },
+    {
+      "start": 672.12,
+      "duration": 2.92,
+      "text": "So once you store those pad hits in memory to be played back",
+      "en": "So once you store those pad hits in memory to be played back",
+      "zh": ""
+    },
+    {
+      "start": 675.04,
+      "duration": 1.92,
+      "text": "the game becomes really easy",
+      "en": "the game becomes really easy",
+      "zh": ""
+    },
+    {
+      "start": 678.08,
+      "duration": 2.21,
+      "text": "Like, violently easy",
+      "en": "Like, violently easy",
+      "zh": ""
+    },
+    {
+      "start": 680.29,
+      "duration": 0.5,
+      "text": "Here we go.",
+      "en": "Here we go.",
+      "zh": ""
+    },
+    {
+      "start": 680.79,
+      "duration": 1.75,
+      "text": "So now, all we had to do",
+      "en": "So now, all we had to do",
+      "zh": ""
+    },
+    {
+      "start": 682.96,
+      "duration": 0.46,
+      "text": "Good",
+      "en": "Good",
+      "zh": ""
+    },
+    {
+      "start": 683.42,
+      "duration": 2.37,
+      "text": "is get through all 32 levels of Simon",
+      "en": "is get through all 32 levels of Simon",
+      "zh": ""
+    },
+    {
+      "start": 685.79,
+      "duration": 0.88,
+      "text": "level three",
+      "en": "level three",
+      "zh": ""
+    },
+    {
+      "start": 686.67,
+      "duration": 0.91,
+      "text": "bring your A-Game",
+      "en": "bring your A-Game",
+      "zh": ""
+    },
+    {
+      "start": 687.58,
+      "duration": 4.17,
+      "text": "and while 32 seems like a random number of levels, there’s actually a reason for it",
+      "en": "and while 32 seems like a random number of levels, there’s actually a reason for it",
+      "zh": ""
+    },
+    {
+      "start": 691.75,
+      "duration": 2.29,
+      "text": "It turns out, in 1978 when this game was made,",
+      "en": "It turns out, in 1978 when this game was made,",
+      "zh": ""
+    },
+    {
+      "start": 694.04,
+      "duration": 1.25,
+      "text": "bits were expensive.",
+      "en": "bits were expensive.",
+      "zh": ""
+    },
+    {
+      "start": 695.29,
+      "duration": 3.79,
+      "text": "and the number 32 is the exact highest number you can count to in Binary",
+      "en": "and the number 32 is the exact highest number you can count to in Binary",
+      "zh": ""
+    },
+    {
+      "start": 699.08,
+      "duration": 2.17,
+      "text": "if you only have 5 bits to spare",
+      "en": "if you only have 5 bits to spare",
+      "zh": ""
+    },
+    {
+      "start": 701.25,
+      "duration": 1.21,
+      "text": "after 5 minutes",
+      "en": "after 5 minutes",
+      "zh": ""
+    },
+    {
+      "start": 702.46,
+      "duration": 2.83,
+      "text": "we’re half way there, so while my pad smashing robot",
+      "en": "we’re half way there, so while my pad smashing robot",
+      "zh": ""
+    },
+    {
+      "start": 705.29,
+      "duration": 2.25,
+      "text": "avenges all my childhood losses",
+      "en": "avenges all my childhood losses",
+      "zh": ""
+    },
+    {
+      "start": 707.54,
+      "duration": 1.38,
+      "text": "I just want to point out,",
+      "en": "I just want to point out,",
+      "zh": ""
+    },
+    {
+      "start": 708.92,
+      "duration": 2.7,
+      "text": "just like all the things you've seen in this video so far,",
+      "en": "just like all the things you've seen in this video so far,",
+      "zh": ""
+    },
+    {
+      "start": 711.62,
+      "duration": 3.0,
+      "text": "my favorite thing about thinking like an engineer is",
+      "en": "my favorite thing about thinking like an engineer is",
+      "zh": ""
+    },
+    {
+      "start": 714.62,
+      "duration": 2.42,
+      "text": "you can basically make whatever you can dream up.",
+      "en": "you can basically make whatever you can dream up.",
+      "zh": ""
+    },
+    {
+      "start": 722.0,
+      "duration": 2.04,
+      "text": "And if you want to start developing this skill yourself,",
+      "en": "And if you want to start developing this skill yourself,",
+      "zh": ""
+    },
+    {
+      "start": 724.04,
+      "duration": 1.38,
+      "text": "CrunchLabs has you covered",
+      "en": "CrunchLabs has you covered",
+      "zh": ""
+    },
+    {
+      "start": 725.42,
+      "duration": 2.16,
+      "text": "because for kids we've got Build Box",
+      "en": "because for kids we've got Build Box",
+      "zh": ""
+    },
+    {
+      "start": 727.58,
+      "duration": 2.34,
+      "text": "and then for teens and adults, we've got Hack Pack.",
+      "en": "and then for teens and adults, we've got Hack Pack.",
+      "zh": ""
+    },
+    {
+      "start": 729.92,
+      "duration": 0.7,
+      "text": "In both cases,",
+      "en": "In both cases,",
+      "zh": ""
+    },
+    {
+      "start": 730.62,
+      "duration": 1.59,
+      "text": "they get delivered right to your door where",
+      "en": "they get delivered right to your door where",
+      "zh": ""
+    },
+    {
+      "start": 732.21,
+      "duration": 1.21,
+      "text": "we build them together and learn",
+      "en": "we build them together and learn",
+      "zh": ""
+    },
+    {
+      "start": 733.42,
+      "duration": 2.04,
+      "text": "all the really cool physics that make them work.",
+      "en": "all the really cool physics that make them work.",
+      "zh": ""
+    },
+    {
+      "start": 735.46,
+      "duration": 2.62,
+      "text": "Plus all the fundamental tools you need in your toolkit",
+      "en": "Plus all the fundamental tools you need in your toolkit",
+      "zh": ""
+    },
+    {
+      "start": 738.08,
+      "duration": 2.63,
+      "text": "to start creating your own projects and inventions.",
+      "en": "to start creating your own projects and inventions.",
+      "zh": ""
+    },
+    {
+      "start": 742.38,
+      "duration": 3.45,
+      "text": "Oh baby! That’s level 27 - five more to go.",
+      "en": "Oh baby! That’s level 27 - five more to go.",
+      "zh": ""
+    },
+    {
+      "start": 745.83,
+      "duration": 2.55,
+      "text": "So this holiday season if you or someone you love",
+      "en": "So this holiday season if you or someone you love",
+      "zh": ""
+    },
+    {
+      "start": 748.38,
+      "duration": 1.83,
+      "text": "wants to take the first step of unlocking",
+      "en": "wants to take the first step of unlocking",
+      "zh": ""
+    },
+    {
+      "start": 750.21,
+      "duration": 2.25,
+      "text": "the really fun and rewarding hobby of making stuff",
+      "en": "the really fun and rewarding hobby of making stuff",
+      "zh": ""
+    },
+    {
+      "start": 752.46,
+      "duration": 2.75,
+      "text": "CrunchLabs! YEAH!",
+      "en": "CrunchLabs! YEAH!",
+      "zh": ""
+    },
+    {
+      "start": 755.21,
+      "duration": 3.08,
+      "text": "Just scan this QR code or head to Crunchlabs.com",
+      "en": "Just scan this QR code or head to Crunchlabs.com",
+      "zh": ""
+    },
+    {
+      "start": 758.29,
+      "duration": 2.42,
+      "text": "FINAL LEVEL LET’S GO!",
+      "en": "FINAL LEVEL LET’S GO!",
+      "zh": ""
+    },
+    {
+      "start": 760.71,
+      "duration": 0.75,
+      "text": "feels like a moment...",
+      "en": "feels like a moment...",
+      "zh": ""
+    },
+    {
+      "start": 767.67,
+      "duration": 2.75,
+      "text": "And so after 10 minutes, with a bit of a robotic assist",
+      "en": "And so after 10 minutes, with a bit of a robotic assist",
+      "zh": ""
+    },
+    {
+      "start": 770.42,
+      "duration": 1.04,
+      "text": "I’m happy to say",
+      "en": "I’m happy to say",
+      "zh": ""
+    },
+    {
+      "start": 771.46,
+      "duration": 1.04,
+      "text": "YEAHH!",
+      "en": "YEAHH!",
+      "zh": ""
+    },
+    {
+      "start": 772.5,
+      "duration": 2.0,
+      "text": "I finally beat this dumb game",
+      "en": "I finally beat this dumb game",
+      "zh": ""
+    },
+    {
+      "start": 776.0,
+      "duration": 1.54,
+      "text": "We did it!!",
+      "en": "We did it!!",
+      "zh": ""
+    },
+    {
+      "start": 777.54,
+      "duration": 0.54,
+      "text": "Gimme some",
+      "en": "Gimme some",
+      "zh": ""
+    },
+    {
+      "start": 778.08,
+      "duration": 0.59,
+      "text": "blue",
+      "en": "blue",
+      "zh": ""
+    },
+    {
+      "start": 778.67,
+      "duration": 0.5,
+      "text": "red",
+      "en": "red",
+      "zh": ""
+    },
+    {
+      "start": 779.17,
+      "duration": 0.62,
+      "text": "green",
+      "en": "green",
+      "zh": ""
+    },
+    {
+      "start": 779.79,
+      "duration": 0.83,
+      "text": "yellow",
+      "en": "yellow",
+      "zh": ""
+    },
+    {
+      "start": 780.62,
+      "duration": 1.05,
+      "text": "On to number 2!",
+      "en": "On to number 2!",
+      "zh": ""
+    },
+    {
+      "start": 781.67,
+      "duration": 1.33,
+      "text": "And that's this little guy.",
+      "en": "And that's this little guy.",
+      "zh": ""
+    },
+    {
+      "start": 783.0,
+      "duration": 3.25,
+      "text": "His name is Rocky, and he's a robot who's really, really good",
+      "en": "His name is Rocky, and he's a robot who's really, really good",
+      "zh": ""
+    },
+    {
+      "start": 786.25,
+      "duration": 1.42,
+      "text": "at only one thing.",
+      "en": "at only one thing.",
+      "zh": ""
+    },
+    {
+      "start": 789.21,
+      "duration": 0.41,
+      "text": "Dang it.",
+      "en": "Dang it.",
+      "zh": ""
+    },
+    {
+      "start": 789.62,
+      "duration": 2.67,
+      "text": "But before I show you just how good if you don't happen",
+      "en": "But before I show you just how good if you don't happen",
+      "zh": ""
+    },
+    {
+      "start": 792.29,
+      "duration": 1.79,
+      "text": "to have a rock paper scissors robot yourself,",
+      "en": "to have a rock paper scissors robot yourself,",
+      "zh": ""
+    },
+    {
+      "start": 794.08,
+      "duration": 1.63,
+      "text": "you should know there's a trick you can use",
+      "en": "you should know there's a trick you can use",
+      "zh": ""
+    },
+    {
+      "start": 795.71,
+      "duration": 3.29,
+      "text": "playing against other humans to win 75% of the time,",
+      "en": "playing against other humans to win 75% of the time,",
+      "zh": ""
+    },
+    {
+      "start": 799.0,
+      "duration": 3.29,
+      "text": "because a few years back, researchers studied 54,000",
+      "en": "because a few years back, researchers studied 54,000",
+      "zh": ""
+    },
+    {
+      "start": 802.29,
+      "duration": 2.33,
+      "text": "games of rock, paper, scissors and discovered a pattern.",
+      "en": "games of rock, paper, scissors and discovered a pattern.",
+      "zh": ""
+    },
+    {
+      "start": 804.62,
+      "duration": 1.05,
+      "text": "If your opponent wins,",
+      "en": "If your opponent wins,",
+      "zh": ""
+    },
+    {
+      "start": 805.67,
+      "duration": 3.16,
+      "text": "they're slightly more likely to stay with their previous choice,",
+      "en": "they're slightly more likely to stay with their previous choice,",
+      "zh": ""
+    },
+    {
+      "start": 808.83,
+      "duration": 2.79,
+      "text": "and if they lose, they’re slightly more likely to shift their choice",
+      "en": "and if they lose, they’re slightly more likely to shift their choice",
+      "zh": ""
+    },
+    {
+      "start": 811.62,
+      "duration": 2.84,
+      "text": "to the next in line of rock, paper, scissors.",
+      "en": "to the next in line of rock, paper, scissors.",
+      "zh": ""
+    },
+    {
+      "start": 814.46,
+      "duration": 1.16,
+      "text": "So here's all you need to remember.",
+      "en": "So here's all you need to remember.",
+      "zh": ""
+    },
+    {
+      "start": 815.62,
+      "duration": 3.46,
+      "text": "If you win, go to the next one in the line in the order of Rock, Paper, scissors..",
+      "en": "If you win, go to the next one in the line in the order of Rock, Paper, scissors..",
+      "zh": ""
+    },
+    {
+      "start": 819.08,
+      "duration": 1.09,
+      "text": "So if you beat them with rock",
+      "en": "So if you beat them with rock",
+      "zh": ""
+    },
+    {
+      "start": 820.17,
+      "duration": 0.95,
+      "text": "play paper next.",
+      "en": "play paper next.",
+      "zh": ""
+    },
+    {
+      "start": 821.12,
+      "duration": 2.0,
+      "text": "And if you beat them with paper, play scissors next",
+      "en": "And if you beat them with paper, play scissors next",
+      "zh": ""
+    },
+    {
+      "start": 823.12,
+      "duration": 3.34,
+      "text": "And then if you lose, go backwards on the line of Rock, Paper, Scissors.",
+      "en": "And then if you lose, go backwards on the line of Rock, Paper, Scissors.",
+      "zh": ""
+    },
+    {
+      "start": 826.46,
+      "duration": 4.54,
+      "text": "So if lose with scissors, play paper, if you lose with paper, play Rock",
+      "en": "So if lose with scissors, play paper, if you lose with paper, play Rock",
+      "zh": ""
+    },
+    {
+      "start": 831.0,
+      "duration": 3.0,
+      "text": "Move forward if you win, move backward if you lose",
+      "en": "Move forward if you win, move backward if you lose",
+      "zh": ""
+    },
+    {
+      "start": 834.0,
+      "duration": 1.75,
+      "text": "Now of course, that doesn't mean you'll win every game,",
+      "en": "Now of course, that doesn't mean you'll win every game,",
+      "zh": ""
+    },
+    {
+      "start": 835.75,
+      "duration": 3.04,
+      "text": "but it does increase your odds by 10% for any given game.",
+      "en": "but it does increase your odds by 10% for any given game.",
+      "zh": ""
+    },
+    {
+      "start": 838.79,
+      "duration": 1.29,
+      "text": "So if you just play best of 20,",
+      "en": "So if you just play best of 20,",
+      "zh": ""
+    },
+    {
+      "start": 840.08,
+      "duration": 3.84,
+      "text": "those odds add up and you'll win the series 75% of the time.",
+      "en": "those odds add up and you'll win the series 75% of the time.",
+      "zh": ""
+    },
+    {
+      "start": 843.92,
+      "duration": 0.91,
+      "text": "And as a man of science,",
+      "en": "And as a man of science,",
+      "zh": ""
+    },
+    {
+      "start": 844.83,
+      "duration": 2.63,
+      "text": "I actually tested this myself and it totally worked.",
+      "en": "I actually tested this myself and it totally worked.",
+      "zh": ""
+    },
+    {
+      "start": 847.46,
+      "duration": 1.46,
+      "text": "Again, I didn't win every game,",
+      "en": "Again, I didn't win every game,",
+      "zh": ""
+    },
+    {
+      "start": 848.92,
+      "duration": 3.0,
+      "text": "but it just gave me a slight edge, which is all it took.",
+      "en": "but it just gave me a slight edge, which is all it took.",
+      "zh": ""
+    },
+    {
+      "start": 851.92,
+      "duration": 1.16,
+      "text": "Now, as for beating Rocky.",
+      "en": "Now, as for beating Rocky.",
+      "zh": ""
+    },
+    {
+      "start": 853.08,
+      "duration": 3.88,
+      "text": "Sadly, regardless of your strategy, your chances are much,",
+      "en": "Sadly, regardless of your strategy, your chances are much,",
+      "zh": ""
+    },
+    {
+      "start": 856.96,
+      "duration": 0.96,
+      "text": "much lower.",
+      "en": "much lower.",
+      "zh": ""
+    },
+    {
+      "start": 857.92,
+      "duration": 0.83,
+      "text": "ROCKY!",
+      "en": "ROCKY!",
+      "zh": ""
+    },
+    {
+      "start": 858.75,
+      "duration": 1.67,
+      "text": "as in 0%.",
+      "en": "as in 0%.",
+      "zh": ""
+    },
+    {
+      "start": 860.42,
+      "duration": 1.0,
+      "text": "And that's because Rocky",
+      "en": "And that's because Rocky",
+      "zh": ""
+    },
+    {
+      "start": 861.42,
+      "duration": 1.87,
+      "text": "not only tracks the position of my hands,",
+      "en": "not only tracks the position of my hands,",
+      "zh": ""
+    },
+    {
+      "start": 863.29,
+      "duration": 1.75,
+      "text": "so he matches my movements up and down,",
+      "en": "so he matches my movements up and down,",
+      "zh": ""
+    },
+    {
+      "start": 865.04,
+      "duration": 1.96,
+      "text": "but he checks the position of my fingers",
+      "en": "but he checks the position of my fingers",
+      "zh": ""
+    },
+    {
+      "start": 867.0,
+      "duration": 1.75,
+      "text": "100 times per second",
+      "en": "100 times per second",
+      "zh": ""
+    },
+    {
+      "start": 868.75,
+      "duration": 1.87,
+      "text": "using an IR hand motion detector",
+      "en": "using an IR hand motion detector",
+      "zh": ""
+    },
+    {
+      "start": 870.62,
+      "duration": 2.38,
+      "text": "and a mini computer to determine what I'm throwing.",
+      "en": "and a mini computer to determine what I'm throwing.",
+      "zh": ""
+    },
+    {
+      "start": 873.21,
+      "duration": 1.91,
+      "text": "And then once the computer knows it, tells the correct",
+      "en": "And then once the computer knows it, tells the correct",
+      "zh": ""
+    },
+    {
+      "start": 875.12,
+      "duration": 2.67,
+      "text": "servo motors in Rocky's 3D printed hand to actuate",
+      "en": "servo motors in Rocky's 3D printed hand to actuate",
+      "zh": ""
+    },
+    {
+      "start": 877.79,
+      "duration": 1.33,
+      "text": "to throw the winning shape.",
+      "en": "to throw the winning shape.",
+      "zh": ""
+    },
+    {
+      "start": 879.62,
+      "duration": 2.76,
+      "text": "Now, as you can see, whether I go slow",
+      "en": "Now, as you can see, whether I go slow",
+      "zh": ""
+    },
+    {
+      "start": 882.38,
+      "duration": 0.87,
+      "text": "Or I go fast.",
+      "en": "Or I go fast.",
+      "zh": ""
+    },
+    {
+      "start": 885.0,
+      "duration": 1.42,
+      "text": "He somehow always wins.",
+      "en": "He somehow always wins.",
+      "zh": ""
+    },
+    {
+      "start": 886.42,
+      "duration": 1.75,
+      "text": "The first person to beat him fair and square",
+      "en": "The first person to beat him fair and square",
+      "zh": ""
+    },
+    {
+      "start": 888.17,
+      "duration": 2.29,
+      "text": "gets the $10,000 cash briefcase.",
+      "en": "gets the $10,000 cash briefcase.",
+      "zh": ""
+    },
+    {
+      "start": 890.46,
+      "duration": 3.0,
+      "text": "But honestly, I think your chances are still better at just hitting",
+      "en": "But honestly, I think your chances are still better at just hitting",
+      "zh": ""
+    },
+    {
+      "start": 893.46,
+      "duration": 0.58,
+      "text": "the bullseye with the American Gladiators tennis ball cannon",
+      "en": "the bullseye with the American Gladiators tennis ball cannon",
+      "zh": ""
+    },
+    {
+      "start": 899.62,
+      "duration": 2.59,
+      "text": "And finally, we made it to the number one coolest thing",
+      "en": "And finally, we made it to the number one coolest thing",
+      "zh": ""
+    },
+    {
+      "start": 902.21,
+      "duration": 1.91,
+      "text": "we built the CrunchLabs over the past year.",
+      "en": "we built the CrunchLabs over the past year.",
+      "zh": ""
+    },
+    {
+      "start": 904.12,
+      "duration": 1.71,
+      "text": "The infinite slinky staircase.",
+      "en": "The infinite slinky staircase.",
+      "zh": ""
+    },
+    {
+      "start": 905.83,
+      "duration": 2.42,
+      "text": "Like most good inventions, the slinky was invented by accident",
+      "en": "Like most good inventions, the slinky was invented by accident",
+      "zh": ""
+    },
+    {
+      "start": 908.25,
+      "duration": 3.42,
+      "text": "in 1943 by a naval engineer who inadvertently knocked",
+      "en": "in 1943 by a naval engineer who inadvertently knocked",
+      "zh": ""
+    },
+    {
+      "start": 911.67,
+      "duration": 1.95,
+      "text": "a stabilizing spring off the shelf and noticed",
+      "en": "a stabilizing spring off the shelf and noticed",
+      "zh": ""
+    },
+    {
+      "start": 913.62,
+      "duration": 2.38,
+      "text": "how it walked down instead of falling straight off.",
+      "en": "how it walked down instead of falling straight off.",
+      "zh": ""
+    },
+    {
+      "start": 916.0,
+      "duration": 2.71,
+      "text": "So he and his wife decided to make a toy out of it, call it a slinky.",
+      "en": "So he and his wife decided to make a toy out of it, call it a slinky.",
+      "zh": ""
+    },
+    {
+      "start": 918.71,
+      "duration": 3.41,
+      "text": "And now, 80 years later, over 300 million have been sold.",
+      "en": "And now, 80 years later, over 300 million have been sold.",
+      "zh": ""
+    },
+    {
+      "start": 922.12,
+      "duration": 2.26,
+      "text": "And as a kid, I loved Slinkys, especially trying",
+      "en": "And as a kid, I loved Slinkys, especially trying",
+      "zh": ""
+    },
+    {
+      "start": 924.38,
+      "duration": 2.7,
+      "text": "to see how many stairs in a row I could get it to climb down",
+      "en": "to see how many stairs in a row I could get it to climb down",
+      "zh": ""
+    },
+    {
+      "start": 927.08,
+      "duration": 2.75,
+      "text": "with my record sadly being only 7 or 8.",
+      "en": "with my record sadly being only 7 or 8.",
+      "zh": ""
+    },
+    {
+      "start": 929.83,
+      "duration": 0.84,
+      "text": "So naturally,",
+      "en": "So naturally,",
+      "zh": ""
+    },
+    {
+      "start": 930.67,
+      "duration": 2.21,
+      "text": "now that I'm an engineer, it was time to avenge",
+      "en": "now that I'm an engineer, it was time to avenge",
+      "zh": ""
+    },
+    {
+      "start": 932.88,
+      "duration": 1.29,
+      "text": "this childhood frustration.",
+      "en": "this childhood frustration.",
+      "zh": ""
+    },
+    {
+      "start": 934.17,
+      "duration": 0.83,
+      "text": "The first thought I had was",
+      "en": "The first thought I had was",
+      "zh": ""
+    },
+    {
+      "start": 935.0,
+      "duration": 2.83,
+      "text": "using a treadmill tilted at just the right angle.",
+      "en": "using a treadmill tilted at just the right angle.",
+      "zh": ""
+    },
+    {
+      "start": 937.83,
+      "duration": 0.79,
+      "text": "The problem with that was",
+      "en": "The problem with that was",
+      "zh": ""
+    },
+    {
+      "start": 938.62,
+      "duration": 1.71,
+      "text": "there was very little repeatability,",
+      "en": "there was very little repeatability,",
+      "zh": ""
+    },
+    {
+      "start": 940.33,
+      "duration": 2.84,
+      "text": "because the landing surface was inclined like a ramp",
+      "en": "because the landing surface was inclined like a ramp",
+      "zh": ""
+    },
+    {
+      "start": 943.17,
+      "duration": 1.54,
+      "text": "unlike actual stairs",
+      "en": "unlike actual stairs",
+      "zh": ""
+    },
+    {
+      "start": 944.71,
+      "duration": 2.75,
+      "text": "So to solve that issue, we tried an actual escalator",
+      "en": "So to solve that issue, we tried an actual escalator",
+      "zh": ""
+    },
+    {
+      "start": 947.46,
+      "duration": 1.21,
+      "text": "and that worked a little better.",
+      "en": "and that worked a little better.",
+      "zh": ""
+    },
+    {
+      "start": 948.67,
+      "duration": 1.83,
+      "text": "But the distance between the steps wasn't ideal",
+      "en": "But the distance between the steps wasn't ideal",
+      "zh": ""
+    },
+    {
+      "start": 950.5,
+      "duration": 1.75,
+      "text": "and the speed was a little too slow.",
+      "en": "and the speed was a little too slow.",
+      "zh": ""
+    },
+    {
+      "start": 952.25,
+      "duration": 1.13,
+      "text": "And that's when we just decided",
+      "en": "And that's when we just decided",
+      "zh": ""
+    },
+    {
+      "start": 953.38,
+      "duration": 1.87,
+      "text": "to make our own prototype of an escalator.",
+      "en": "to make our own prototype of an escalator.",
+      "zh": ""
+    },
+    {
+      "start": 955.25,
+      "duration": 1.58,
+      "text": "I could turn with a hand-crank.",
+      "en": "I could turn with a hand-crank.",
+      "zh": ""
+    },
+    {
+      "start": 956.83,
+      "duration": 2.92,
+      "text": "Fun fact this is how escalators actually work.",
+      "en": "Fun fact this is how escalators actually work.",
+      "zh": ""
+    },
+    {
+      "start": 959.75,
+      "duration": 1.29,
+      "text": "You don't normally think about it,",
+      "en": "You don't normally think about it,",
+      "zh": ""
+    },
+    {
+      "start": 961.04,
+      "duration": 1.88,
+      "text": "but these stairs are making a round trip,",
+      "en": "but these stairs are making a round trip,",
+      "zh": ""
+    },
+    {
+      "start": 962.92,
+      "duration": 2.79,
+      "text": "so they're coming up below you like this upside down.",
+      "en": "so they're coming up below you like this upside down.",
+      "zh": ""
+    },
+    {
+      "start": 965.71,
+      "duration": 1.62,
+      "text": "As you make your way down.",
+      "en": "As you make your way down.",
+      "zh": ""
+    },
+    {
+      "start": 967.33,
+      "duration": 3.25,
+      "text": "And that prototype worked well because we got the stair space dialed in",
+      "en": "And that prototype worked well because we got the stair space dialed in",
+      "zh": ""
+    },
+    {
+      "start": 970.58,
+      "duration": 2.38,
+      "text": "but we were having trouble keeping the slinky aligned",
+      "en": "but we were having trouble keeping the slinky aligned",
+      "zh": ""
+    },
+    {
+      "start": 972.96,
+      "duration": 3.87,
+      "text": "which is where these 3D printed self-centering cones came in handy",
+      "en": "which is where these 3D printed self-centering cones came in handy",
+      "zh": ""
+    },
+    {
+      "start": 976.83,
+      "duration": 2.34,
+      "text": "because if we put one on each stair step,",
+      "en": "because if we put one on each stair step,",
+      "zh": ""
+    },
+    {
+      "start": 979.17,
+      "duration": 1.71,
+      "text": "the slinky would self-align",
+      "en": "the slinky would self-align",
+      "zh": ""
+    },
+    {
+      "start": 980.88,
+      "duration": 2.74,
+      "text": "and then be in the perfect position to fall to the next step.",
+      "en": "and then be in the perfect position to fall to the next step.",
+      "zh": ""
+    },
+    {
+      "start": 983.67,
+      "duration": 1.95,
+      "text": "Finally we got rid of the hand crank by adding a motor",
+      "en": "Finally we got rid of the hand crank by adding a motor",
+      "zh": ""
+    },
+    {
+      "start": 985.62,
+      "duration": 2.09,
+      "text": "with a speed controller that varies the voltage,",
+      "en": "with a speed controller that varies the voltage,",
+      "zh": ""
+    },
+    {
+      "start": 987.71,
+      "duration": 2.21,
+      "text": "so we could get the timing dialed in just right,",
+      "en": "so we could get the timing dialed in just right,",
+      "zh": ""
+    },
+    {
+      "start": 989.92,
+      "duration": 1.41,
+      "text": "and that was almost perfect.",
+      "en": "and that was almost perfect.",
+      "zh": ""
+    },
+    {
+      "start": 991.33,
+      "duration": 0.88,
+      "text": "But it turns out the speed",
+      "en": "But it turns out the speed",
+      "zh": ""
+    },
+    {
+      "start": 992.21,
+      "duration": 2.75,
+      "text": "of the slinky sort of varies slightly over time.",
+      "en": "of the slinky sort of varies slightly over time.",
+      "zh": ""
+    },
+    {
+      "start": 994.96,
+      "duration": 2.5,
+      "text": "So now that the dutiful prototype had served its purpose,",
+      "en": "So now that the dutiful prototype had served its purpose,",
+      "zh": ""
+    },
+    {
+      "start": 997.46,
+      "duration": 2.21,
+      "text": "we made a final version that looked beautiful",
+      "en": "we made a final version that looked beautiful",
+      "zh": ""
+    },
+    {
+      "start": 999.71,
+      "duration": 2.41,
+      "text": "and had a time of flight proximity sensor on the front,",
+      "en": "and had a time of flight proximity sensor on the front,",
+      "zh": ""
+    },
+    {
+      "start": 1002.12,
+      "duration": 2.05,
+      "text": "so it would run a closed feedback loop",
+      "en": "so it would run a closed feedback loop",
+      "zh": ""
+    },
+    {
+      "start": 1004.17,
+      "duration": 1.33,
+      "text": "to change the speed of the motor",
+      "en": "to change the speed of the motor",
+      "zh": ""
+    },
+    {
+      "start": 1005.5,
+      "duration": 3.33,
+      "text": "to ensure the slinky was always right in the middle of the staircase.",
+      "en": "to ensure the slinky was always right in the middle of the staircase.",
+      "zh": ""
+    },
+    {
+      "start": 1008.83,
+      "duration": 2.13,
+      "text": "And when you do all that, you get this.",
+      "en": "And when you do all that, you get this.",
+      "zh": ""
+    },
+    {
+      "start": 1010.96,
+      "duration": 1.75,
+      "text": "But before the official demonstration,",
+      "en": "But before the official demonstration,",
+      "zh": ""
+    },
+    {
+      "start": 1012.71,
+      "duration": 2.62,
+      "text": "you should know what I think is the coolest thing about a slinky.",
+      "en": "you should know what I think is the coolest thing about a slinky.",
+      "zh": ""
+    },
+    {
+      "start": 1015.33,
+      "duration": 2.79,
+      "text": "Because if you let one hang down like this and then let it go,",
+      "en": "Because if you let one hang down like this and then let it go,",
+      "zh": ""
+    },
+    {
+      "start": 1018.12,
+      "duration": 2.38,
+      "text": "the bottom stays perfectly still in one spot",
+      "en": "the bottom stays perfectly still in one spot",
+      "zh": ""
+    },
+    {
+      "start": 1020.5,
+      "duration": 1.96,
+      "text": "because it's balanced between gravity",
+      "en": "because it's balanced between gravity",
+      "zh": ""
+    },
+    {
+      "start": 1022.46,
+      "duration": 1.83,
+      "text": "and the tension force pulling it up.",
+      "en": "and the tension force pulling it up.",
+      "zh": ""
+    },
+    {
+      "start": 1024.29,
+      "duration": 1.33,
+      "text": "And that tension force pulling up",
+      "en": "And that tension force pulling up",
+      "zh": ""
+    },
+    {
+      "start": 1025.62,
+      "duration": 3.46,
+      "text": "stays unchanged until the wave finally propagates down",
+      "en": "stays unchanged until the wave finally propagates down",
+      "zh": ""
+    },
+    {
+      "start": 1029.08,
+      "duration": 2.46,
+      "text": "at which point it's like, oh, I guess I'm supposed to fall now.",
+      "en": "at which point it's like, oh, I guess I'm supposed to fall now.",
+      "zh": ""
+    },
+    {
+      "start": 1031.58,
+      "duration": 1.75,
+      "text": "And so without further ado, here it is.",
+      "en": "And so without further ado, here it is.",
+      "zh": ""
+    },
+    {
+      "start": 1037.25,
+      "duration": 2.37,
+      "text": "What's really cool is once it's running, you can push either of",
+      "en": "What's really cool is once it's running, you can push either of",
+      "zh": ""
+    },
+    {
+      "start": 1039.62,
+      "duration": 4.26,
+      "text": "these two buttons to temporarily slow down, or speed up the staircase.",
+      "en": "these two buttons to temporarily slow down, or speed up the staircase.",
+      "zh": ""
+    },
+    {
+      "start": 1043.88,
+      "duration": 3.54,
+      "text": "After which the sensor takes back over, to adjust itself back to the middle",
+      "en": "After which the sensor takes back over, to adjust itself back to the middle",
+      "zh": ""
+    },
+    {
+      "start": 1047.42,
+      "duration": 2.33,
+      "text": "Now, given that my childhood record was eight steps",
+      "en": "Now, given that my childhood record was eight steps",
+      "zh": ""
+    },
+    {
+      "start": 1049.75,
+      "duration": 1.33,
+      "text": "I'm just going to leave this running",
+      "en": "I'm just going to leave this running",
+      "zh": ""
+    },
+    {
+      "start": 1051.08,
+      "duration": 2.13,
+      "text": "to see how much I can beat that by.",
+      "en": "to see how much I can beat that by.",
+      "zh": ""
+    },
+    {
+      "start": 1061.12,
+      "duration": 0.71,
+      "text": "All right.",
+      "en": "All right.",
+      "zh": ""
+    },
+    {
+      "start": 1061.83,
+      "duration": 3.25,
+      "text": "This is now been running just over 48 hours,",
+      "en": "This is now been running just over 48 hours,",
+      "zh": ""
+    },
+    {
+      "start": 1065.08,
+      "duration": 2.09,
+      "text": "which means that slinky has traveled",
+      "en": "which means that slinky has traveled",
+      "zh": ""
+    },
+    {
+      "start": 1067.17,
+      "duration": 4.62,
+      "text": "just over 208,000 stairs, which is just over",
+      "en": "just over 208,000 stairs, which is just over",
+      "zh": ""
+    },
+    {
+      "start": 1071.79,
+      "duration": 4.0,
+      "text": "29,000 times more stairs than I ever got as a kid.",
+      "en": "29,000 times more stairs than I ever got as a kid.",
+      "zh": ""
+    },
+    {
+      "start": 1075.79,
+      "duration": 1.13,
+      "text": "So I'm calling that a W",
+      "en": "So I'm calling that a W",
+      "zh": ""
+    },
+    {
+      "start": 1080.71,
+      "duration": 2.12,
+      "text": "in my ongoing quest to be the favorite uncle",
+      "en": "in my ongoing quest to be the favorite uncle",
+      "zh": ""
+    },
+    {
+      "start": 1084.33,
+      "duration": 2.21,
+      "text": "I’ve tried quite a few things over the years",
+      "en": "I’ve tried quite a few things over the years",
+      "zh": ""
+    },
+    {
+      "start": 1089.08,
+      "duration": 1.71,
+      "text": "Who’s your favorite uncle?",
+      "en": "Who’s your favorite uncle?",
+      "zh": ""
+    },
+    {
+      "start": 1090.79,
+      "duration": 1.13,
+      "text": "SAY MY NAME",
+      "en": "SAY MY NAME",
+      "zh": ""
+    },
+    {
+      "start": 1091.92,
+      "duration": 2.46,
+      "text": "But now I finally discovered a much easier way",
+      "en": "But now I finally discovered a much easier way",
+      "zh": ""
+    },
+    {
+      "start": 1094.38,
+      "duration": 1.79,
+      "text": "So you too can be the favorite uncle",
+      "en": "So you too can be the favorite uncle",
+      "zh": ""
+    },
+    {
+      "start": 1096.33,
+      "duration": 1.05,
+      "text": "Or Aunt",
+      "en": "Or Aunt",
+      "zh": ""
+    },
+    {
+      "start": 1097.38,
+      "duration": 1.2,
+      "text": "Or even parent",
+      "en": "Or even parent",
+      "zh": ""
+    },
+    {
+      "start": 1098.58,
+      "duration": 2.38,
+      "text": "By simply gifting a young person in your life",
+      "en": "By simply gifting a young person in your life",
+      "zh": ""
+    },
+    {
+      "start": 1100.96,
+      "duration": 2.37,
+      "text": "a CrunchLabs Build Box subscription for the holidays",
+      "en": "a CrunchLabs Build Box subscription for the holidays",
+      "zh": ""
+    },
+    {
+      "start": 1105.38,
+      "duration": 2.04,
+      "text": "So it gets delivered right to their doorstep",
+      "en": "So it gets delivered right to their doorstep",
+      "zh": ""
+    },
+    {
+      "start": 1107.42,
+      "duration": 1.66,
+      "text": "And then we build a really fun toy together",
+      "en": "And then we build a really fun toy together",
+      "zh": ""
+    },
+    {
+      "start": 1109.08,
+      "duration": 3.67,
+      "text": "It’s basically like unlocking your own personal Mark Rober video every month",
+      "en": "It’s basically like unlocking your own personal Mark Rober video every month",
+      "zh": ""
+    },
+    {
+      "start": 1112.75,
+      "duration": 1.67,
+      "text": "Where you learn a new engineering principal",
+      "en": "Where you learn a new engineering principal",
+      "zh": ""
+    },
+    {
+      "start": 1114.42,
+      "duration": 2.25,
+      "text": "That will have you not just building like an engineer",
+      "en": "That will have you not just building like an engineer",
+      "zh": ""
+    },
+    {
+      "start": 1116.67,
+      "duration": 1.12,
+      "text": "But more importantly",
+      "en": "But more importantly",
+      "zh": ""
+    },
+    {
+      "start": 1117.79,
+      "duration": 1.17,
+      "text": "Thinking like an engineer",
+      "en": "Thinking like an engineer",
+      "zh": ""
+    },
+    {
+      "start": 1118.96,
+      "duration": 1.37,
+      "text": "So you’re developing resilience",
+      "en": "So you’re developing resilience",
+      "zh": ""
+    },
+    {
+      "start": 1120.33,
+      "duration": 1.59,
+      "text": "and problem solving skills",
+      "en": "and problem solving skills",
+      "zh": ""
+    },
+    {
+      "start": 1121.92,
+      "duration": 2.5,
+      "text": "Which means some day you too could be building robots",
+      "en": "Which means some day you too could be building robots",
+      "zh": ""
+    },
+    {
+      "start": 1124.42,
+      "duration": 1.83,
+      "text": "To avenge your childhood frustrations",
+      "en": "To avenge your childhood frustrations",
+      "zh": ""
+    },
+    {
+      "start": 1126.25,
+      "duration": 1.29,
+      "text": "Not only that, but each month",
+      "en": "Not only that, but each month",
+      "zh": ""
+    },
+    {
+      "start": 1127.54,
+      "duration": 2.29,
+      "text": "your box has the chance to contain the platinum ticket",
+      "en": "your box has the chance to contain the platinum ticket",
+      "zh": ""
+    },
+    {
+      "start": 1129.83,
+      "duration": 0.79,
+      "text": "And if you get it?",
+      "en": "And if you get it?",
+      "zh": ""
+    },
+    {
+      "start": 1132.58,
+      "duration": 1.42,
+      "text": "Well then you’re coming out to CrunchLabs",
+      "en": "Well then you’re coming out to CrunchLabs",
+      "zh": ""
+    },
+    {
+      "start": 1134.0,
+      "duration": 1.88,
+      "text": "to build with me and my team for a day",
+      "en": "to build with me and my team for a day",
+      "zh": ""
+    },
+    {
+      "start": 1135.88,
+      "duration": 1.62,
+      "text": "so if you wanna grow your brain",
+      "en": "so if you wanna grow your brain",
+      "zh": ""
+    },
+    {
+      "start": 1137.5,
+      "duration": 2.12,
+      "text": "in really fun ways with me",
+      "en": "in really fun ways with me",
+      "zh": ""
+    },
+    {
+      "start": 1139.62,
+      "duration": 3.42,
+      "text": "just head to CrunchLabs.com or use the link in the description",
+      "en": "just head to CrunchLabs.com or use the link in the description",
+      "zh": ""
+    },
+    {
+      "start": 1143.04,
+      "duration": 1.88,
+      "text": "Where we’re giving away 2 months free",
+      "en": "Where we’re giving away 2 months free",
+      "zh": ""
+    },
+    {
+      "start": 1144.92,
+      "duration": 1.87,
+      "text": "As a holiday special",
+      "en": "As a holiday special",
+      "zh": ""
+    },
+    {
+      "start": 1146.79,
+      "duration": 1.17,
+      "text": "Thanks for watching",
+      "en": "Thanks for watching",
+      "zh": ""
+    }
+  ],
+  "words": []
+}

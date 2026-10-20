@@ -1,0 +1,4121 @@
+{
+  "cues": [
+    {
+      "start": 0.08,
+      "duration": 3.46,
+      "text": "As a 42 year old who's spent most of my life studying physics,",
+      "en": "As a 42 year old who's spent most of my life studying physics,",
+      "zh": ""
+    },
+    {
+      "start": 3.54,
+      "duration": 3.22,
+      "text": "I must admit that I had a big misconception.",
+      "en": "I must admit that I had a big misconception.",
+      "zh": ""
+    },
+    {
+      "start": 6.76,
+      "duration": 3.71,
+      "text": "I believed that every object has one single trajectory",
+      "en": "I believed that every object has one single trajectory",
+      "zh": ""
+    },
+    {
+      "start": 10.47,
+      "duration": 2.5,
+      "text": "through space, one single path.",
+      "en": "through space, one single path.",
+      "zh": ""
+    },
+    {
+      "start": 12.97,
+      "duration": 4.42,
+      "text": "But in this video, I will prove to you that this is not the case.",
+      "en": "But in this video, I will prove to you that this is not the case.",
+      "zh": ""
+    },
+    {
+      "start": 17.39,
+      "duration": 5.17,
+      "text": "Everything is actually exploring all possible paths all at once.",
+      "en": "Everything is actually exploring all possible paths all at once.",
+      "zh": ""
+    },
+    {
+      "start": 22.56,
+      "duration": 3.01,
+      "text": "So let's start with a simple thought experiment.",
+      "en": "So let's start with a simple thought experiment.",
+      "zh": ""
+    },
+    {
+      "start": 25.57,
+      "duration": 2.37,
+      "text": "Say you're at a beach when all of a sudden",
+      "en": "Say you're at a beach when all of a sudden",
+      "zh": ""
+    },
+    {
+      "start": 27.94,
+      "duration": 3.47,
+      "text": "you see your friend struggling out in the water.",
+      "en": "you see your friend struggling out in the water.",
+      "zh": ""
+    },
+    {
+      "start": 31.41,
+      "duration": 2.67,
+      "text": "You want to go help them as quickly as possible.",
+      "en": "You want to go help them as quickly as possible.",
+      "zh": ""
+    },
+    {
+      "start": 34.08,
+      "duration": 4.12,
+      "text": "So which path should you take to get there?",
+      "en": "So which path should you take to get there?",
+      "zh": ""
+    },
+    {
+      "start": 38.2,
+      "duration": 5.01,
+      "text": "The shortest path is a straight line, so you could head directly towards him.",
+      "en": "The shortest path is a straight line, so you could head directly towards him.",
+      "zh": ""
+    },
+    {
+      "start": 43.21,
+      "duration": 5.42,
+      "text": "But you can run faster than you can swim, and this path requires more swimming.",
+      "en": "But you can run faster than you can swim, and this path requires more swimming.",
+      "zh": ""
+    },
+    {
+      "start": 48.63,
+      "duration": 2.88,
+      "text": "So alternatively, you could run down the beach",
+      "en": "So alternatively, you could run down the beach",
+      "zh": ""
+    },
+    {
+      "start": 51.51,
+      "duration": 3.21,
+      "text": "to minimize the distance through the water.",
+      "en": "to minimize the distance through the water.",
+      "zh": ""
+    },
+    {
+      "start": 54.72,
+      "duration": 0.83,
+      "text": "But now",
+      "en": "But now",
+      "zh": ""
+    },
+    {
+      "start": 55.55,
+      "duration": 3.13,
+      "text": "the total distance is longer than it needs to be.",
+      "en": "the total distance is longer than it needs to be.",
+      "zh": ""
+    },
+    {
+      "start": 58.68,
+      "duration": 4.67,
+      "text": "So the optimal path, it turns out, is somewhere in between.",
+      "en": "So the optimal path, it turns out, is somewhere in between.",
+      "zh": ""
+    },
+    {
+      "start": 63.35,
+      "duration": 5.18,
+      "text": "To be precise, it depends on the speeds at which you can run and swim.",
+      "en": "To be precise, it depends on the speeds at which you can run and swim.",
+      "zh": ""
+    },
+    {
+      "start": 68.53,
+      "duration": 3.5,
+      "text": "Now, you might recognize this mathematical relationship because it is",
+      "en": "Now, you might recognize this mathematical relationship because it is",
+      "zh": ""
+    },
+    {
+      "start": 72.03,
+      "duration": 4.96,
+      "text": "the exact same law that governs light passing from one medium into another.",
+      "en": "the exact same law that governs light passing from one medium into another.",
+      "zh": ""
+    },
+    {
+      "start": 76.99,
+      "duration": 4.88,
+      "text": "So light also takes the fastest path from point A to point B.",
+      "en": "So light also takes the fastest path from point A to point B.",
+      "zh": ""
+    },
+    {
+      "start": 81.87,
+      "duration": 2.34,
+      "text": "What's weird about this is that as humans,",
+      "en": "What's weird about this is that as humans,",
+      "zh": ""
+    },
+    {
+      "start": 84.21,
+      "duration": 4.25,
+      "text": "we can see where we want to go and then figure out the fastest route.",
+      "en": "we can see where we want to go and then figure out the fastest route.",
+      "zh": ""
+    },
+    {
+      "start": 88.46,
+      "duration": 2.8,
+      "text": "But light, I mean, how does light know",
+      "en": "But light, I mean, how does light know",
+      "zh": ""
+    },
+    {
+      "start": 91.26,
+      "duration": 3.42,
+      "text": "how to travel to minimize its journey time?",
+      "en": "how to travel to minimize its journey time?",
+      "zh": ""
+    },
+    {
+      "start": 94.68,
+      "duration": 2.46,
+      "text": "Now here is where my misconception comes in.",
+      "en": "Now here is where my misconception comes in.",
+      "zh": ""
+    },
+    {
+      "start": 97.14,
+      "duration": 1.21,
+      "text": "I shine a laser beam.",
+      "en": "I shine a laser beam.",
+      "zh": ""
+    },
+    {
+      "start": 98.35,
+      "duration": 2.0,
+      "text": "The light just goes in one direction. I throw a ball.",
+      "en": "The light just goes in one direction. I throw a ball.",
+      "zh": ""
+    },
+    {
+      "start": 100.35,
+      "duration": 1.67,
+      "text": "The ball just goes in one direction, you know?",
+      "en": "The ball just goes in one direction, you know?",
+      "zh": ""
+    },
+    {
+      "start": 102.02,
+      "duration": 3.5,
+      "text": "I would have answered, there is nothing strange about this.",
+      "en": "I would have answered, there is nothing strange about this.",
+      "zh": ""
+    },
+    {
+      "start": 105.52,
+      "duration": 3.34,
+      "text": "Light sets off from point A in some direction.",
+      "en": "Light sets off from point A in some direction.",
+      "zh": ""
+    },
+    {
+      "start": 108.86,
+      "duration": 3.21,
+      "text": "And then a little while later it encounters a new medium.",
+      "en": "And then a little while later it encounters a new medium.",
+      "zh": ""
+    },
+    {
+      "start": 112.07,
+      "duration": 3.05,
+      "text": "And due to local interactions with that medium,",
+      "en": "And due to local interactions with that medium,",
+      "zh": ""
+    },
+    {
+      "start": 115.12,
+      "duration": 3.29,
+      "text": "it changes direction, ending up at point B.",
+      "en": "it changes direction, ending up at point B.",
+      "zh": ""
+    },
+    {
+      "start": 118.41,
+      "duration": 4.42,
+      "text": "If you later find that of all the possible paths, light took the shortest time",
+      "en": "If you later find that of all the possible paths, light took the shortest time",
+      "zh": ""
+    },
+    {
+      "start": 122.83,
+      "duration": 4.3,
+      "text": "to get from A to B, I wouldn't think it was optimizing for anything.",
+      "en": "to get from A to B, I wouldn't think it was optimizing for anything.",
+      "zh": ""
+    },
+    {
+      "start": 127.13,
+      "duration": 4.04,
+      "text": "I would just think that's what happens when light obeys local rules.",
+      "en": "I would just think that's what happens when light obeys local rules.",
+      "zh": ""
+    },
+    {
+      "start": 131.17,
+      "duration": 5.3,
+      "text": "But now I will prove to you that light doesn't set out in only one direction.",
+      "en": "But now I will prove to you that light doesn't set out in only one direction.",
+      "zh": ""
+    },
+    {
+      "start": 136.47,
+      "duration": 3.75,
+      "text": "Instead, it really does explore all possible paths.",
+      "en": "Instead, it really does explore all possible paths.",
+      "zh": ""
+    },
+    {
+      "start": 140.22,
+      "duration": 3.01,
+      "text": "And the same is true for electrons and protons.",
+      "en": "And the same is true for electrons and protons.",
+      "zh": ""
+    },
+    {
+      "start": 143.23,
+      "duration": 1.92,
+      "text": "All quantum particles.",
+      "en": "All quantum particles.",
+      "zh": ""
+    },
+    {
+      "start": 145.15,
+      "duration": 3.96,
+      "text": "So the fact that we see things on single, well-defined trajectories",
+      "en": "So the fact that we see things on single, well-defined trajectories",
+      "zh": ""
+    },
+    {
+      "start": 149.11,
+      "duration": 4.92,
+      "text": "is, in a way, the most convincing illusion nature has ever devised.",
+      "en": "is, in a way, the most convincing illusion nature has ever devised.",
+      "zh": ""
+    },
+    {
+      "start": 154.03,
+      "duration": 6.46,
+      "text": "And the way it works all comes down to a quantity known as the action.",
+      "en": "And the way it works all comes down to a quantity known as the action.",
+      "zh": ""
+    },
+    {
+      "start": 160.49,
+      "duration": 4.17,
+      "text": "In a previous video, we showed how an obscure scientist, Maupertuis,",
+      "en": "In a previous video, we showed how an obscure scientist, Maupertuis,",
+      "zh": ""
+    },
+    {
+      "start": 164.66,
+      "duration": 2.92,
+      "text": "made an ad hoc proposal that there should be a quantity",
+      "en": "made an ad hoc proposal that there should be a quantity",
+      "zh": ""
+    },
+    {
+      "start": 167.58,
+      "duration": 5.76,
+      "text": "called action, which he defined as mass times velocity times distance.",
+      "en": "called action, which he defined as mass times velocity times distance.",
+      "zh": ""
+    },
+    {
+      "start": 173.34,
+      "duration": 4.38,
+      "text": "And he claimed that everything always follows the path that minimizes",
+      "en": "And he claimed that everything always follows the path that minimizes",
+      "zh": ""
+    },
+    {
+      "start": 177.72,
+      "duration": 1.88,
+      "text": "the action.",
+      "en": "the action.",
+      "zh": ""
+    },
+    {
+      "start": 179.6,
+      "duration": 3.58,
+      "text": "Hamilton later showed that this action is equivalent to the integral",
+      "en": "Hamilton later showed that this action is equivalent to the integral",
+      "zh": ""
+    },
+    {
+      "start": 183.18,
+      "duration": 4.63,
+      "text": "over time of kinetic energy minus potential energy.",
+      "en": "over time of kinetic energy minus potential energy.",
+      "zh": ""
+    },
+    {
+      "start": 187.81,
+      "duration": 4.3,
+      "text": "Action was useful and an alternative way of solving physics problems,",
+      "en": "Action was useful and an alternative way of solving physics problems,",
+      "zh": ""
+    },
+    {
+      "start": 192.11,
+      "duration": 2.96,
+      "text": "especially when Newton's laws get too cumbersome.",
+      "en": "especially when Newton's laws get too cumbersome.",
+      "zh": ""
+    },
+    {
+      "start": 195.07,
+      "duration": 4.8,
+      "text": "But then, around the turn of the 20th century, action showed up at the heart",
+      "en": "But then, around the turn of the 20th century, action showed up at the heart",
+      "zh": ""
+    },
+    {
+      "start": 199.87,
+      "duration": 3.67,
+      "text": "of a scientific revolution: the birth of quantum mechanics.",
+      "en": "of a scientific revolution: the birth of quantum mechanics.",
+      "zh": ""
+    },
+    {
+      "start": 205.54,
+      "duration": 3.04,
+      "text": "It all started with electric lighting in Germany.",
+      "en": "It all started with electric lighting in Germany.",
+      "zh": ""
+    },
+    {
+      "start": 208.58,
+      "duration": 2.3,
+      "text": "Think about what it's like in the 1890s, right?",
+      "en": "Think about what it's like in the 1890s, right?",
+      "zh": ""
+    },
+    {
+      "start": 210.88,
+      "duration": 3.71,
+      "text": "Electricity being more widely available, at least in urban sectors.",
+      "en": "Electricity being more widely available, at least in urban sectors.",
+      "zh": ""
+    },
+    {
+      "start": 214.59,
+      "duration": 2.13,
+      "text": "And things like, you know, light bulbs.",
+      "en": "And things like, you know, light bulbs.",
+      "zh": ""
+    },
+    {
+      "start": 216.72,
+      "duration": 0.87,
+      "text": "They were new.",
+      "en": "They were new.",
+      "zh": ""
+    },
+    {
+      "start": 217.59,
+      "duration": 2.13,
+      "text": "They were literally the hot new thing.",
+      "en": "They were literally the hot new thing.",
+      "zh": ""
+    },
+    {
+      "start": 219.72,
+      "duration": 4.63,
+      "text": "Germany wanted to replace all their gas street lights with electric light bulbs.",
+      "en": "Germany wanted to replace all their gas street lights with electric light bulbs.",
+      "zh": ""
+    },
+    {
+      "start": 224.35,
+      "duration": 2.96,
+      "text": "So an important question was how do you maximize",
+      "en": "So an important question was how do you maximize",
+      "zh": ""
+    },
+    {
+      "start": 227.31,
+      "duration": 3.21,
+      "text": "the visible light given off by a hot filament?",
+      "en": "the visible light given off by a hot filament?",
+      "zh": ""
+    },
+    {
+      "start": 230.52,
+      "duration": 3.84,
+      "text": "Scientists at a German research institute, the PTR, studied",
+      "en": "Scientists at a German research institute, the PTR, studied",
+      "zh": ""
+    },
+    {
+      "start": 234.36,
+      "duration": 4.84,
+      "text": "how much light different materials emitted as a function of temperature.",
+      "en": "how much light different materials emitted as a function of temperature.",
+      "zh": ""
+    },
+    {
+      "start": 239.2,
+      "duration": 4.17,
+      "text": "At low temperatures, each material gave off its own characteristic spectrum,",
+      "en": "At low temperatures, each material gave off its own characteristic spectrum,",
+      "zh": ""
+    },
+    {
+      "start": 243.37,
+      "duration": 5.21,
+      "text": "mostly in the infrared, but above about 500°C",
+      "en": "mostly in the infrared, but above about 500°C",
+      "zh": ""
+    },
+    {
+      "start": 248.58,
+      "duration": 3.71,
+      "text": "all materials started to glow in the same way,",
+      "en": "all materials started to glow in the same way,",
+      "zh": ""
+    },
+    {
+      "start": 252.29,
+      "duration": 3.67,
+      "text": "with an almost identical distribution of light.",
+      "en": "with an almost identical distribution of light.",
+      "zh": ""
+    },
+    {
+      "start": 255.96,
+      "duration": 2.88,
+      "text": "The hotter the object, the more energy was emitted",
+      "en": "The hotter the object, the more energy was emitted",
+      "zh": ""
+    },
+    {
+      "start": 258.84,
+      "duration": 6.42,
+      "text": "at every wavelength, and the peak of the distribution shifted to the left.",
+      "en": "at every wavelength, and the peak of the distribution shifted to the left.",
+      "zh": ""
+    },
+    {
+      "start": 265.26,
+      "duration": 2.97,
+      "text": "But they still didn't understand how it worked theoretically.",
+      "en": "But they still didn't understand how it worked theoretically.",
+      "zh": ""
+    },
+    {
+      "start": 268.23,
+      "duration": 2.33,
+      "text": "So that was sort of the next step, right?",
+      "en": "So that was sort of the next step, right?",
+      "zh": ""
+    },
+    {
+      "start": 270.56,
+      "duration": 2.8,
+      "text": "If you can understand how it works theoretically,",
+      "en": "If you can understand how it works theoretically,",
+      "zh": ""
+    },
+    {
+      "start": 273.36,
+      "duration": 3.37,
+      "text": "then you can use that theory to potentially design your products.",
+      "en": "then you can use that theory to potentially design your products.",
+      "zh": ""
+    },
+    {
+      "start": 276.73,
+      "duration": 3.34,
+      "text": "They started by imagining the simplest object possible,",
+      "en": "They started by imagining the simplest object possible,",
+      "zh": ""
+    },
+    {
+      "start": 280.07,
+      "duration": 3.38,
+      "text": "one that would absorb all light that falls onto it",
+      "en": "one that would absorb all light that falls onto it",
+      "zh": ""
+    },
+    {
+      "start": 283.45,
+      "duration": 4.3,
+      "text": "and perfectly emit radiation based on its temperature.",
+      "en": "and perfectly emit radiation based on its temperature.",
+      "zh": ""
+    },
+    {
+      "start": 287.75,
+      "duration": 4.25,
+      "text": "They came up with a hole in a metal cube.",
+      "en": "They came up with a hole in a metal cube.",
+      "zh": ""
+    },
+    {
+      "start": 292.0,
+      "duration": 4.25,
+      "text": "This hole is a perfect blackbody because any light that shines onto",
+      "en": "This hole is a perfect blackbody because any light that shines onto",
+      "zh": ""
+    },
+    {
+      "start": 296.25,
+      "duration": 4.05,
+      "text": "it will go straight in, bounce around inside, and eventually be absorbed.",
+      "en": "it will go straight in, bounce around inside, and eventually be absorbed.",
+      "zh": ""
+    },
+    {
+      "start": 300.3,
+      "duration": 2.46,
+      "text": "But this also makes it a perfect emitter.",
+      "en": "But this also makes it a perfect emitter.",
+      "zh": ""
+    },
+    {
+      "start": 302.76,
+      "duration": 5.76,
+      "text": "Any radiation inside the cube can escape through the hole unimpeded.",
+      "en": "Any radiation inside the cube can escape through the hole unimpeded.",
+      "zh": ""
+    },
+    {
+      "start": 308.52,
+      "duration": 3.08,
+      "text": "Theorists reasoned that electrons in the walls of the cube",
+      "en": "Theorists reasoned that electrons in the walls of the cube",
+      "zh": ""
+    },
+    {
+      "start": 311.6,
+      "duration": 3.55,
+      "text": "would wiggle around, emitting electromagnetic waves.",
+      "en": "would wiggle around, emitting electromagnetic waves.",
+      "zh": ""
+    },
+    {
+      "start": 315.15,
+      "duration": 4.17,
+      "text": "These waves would then bounce off the other walls.",
+      "en": "These waves would then bounce off the other walls.",
+      "zh": ""
+    },
+    {
+      "start": 319.32,
+      "duration": 2.46,
+      "text": "When you have two waves of the same frequency,",
+      "en": "When you have two waves of the same frequency,",
+      "zh": ""
+    },
+    {
+      "start": 321.78,
+      "duration": 3.13,
+      "text": "where one travels to the right and the other to the left,",
+      "en": "where one travels to the right and the other to the left,",
+      "zh": ""
+    },
+    {
+      "start": 324.91,
+      "duration": 2.0,
+      "text": "they can interfere in such a way",
+      "en": "they can interfere in such a way",
+      "zh": ""
+    },
+    {
+      "start": 326.91,
+      "duration": 3.09,
+      "text": "that they create places where there's no wave amplitude",
+      "en": "that they create places where there's no wave amplitude",
+      "zh": ""
+    },
+    {
+      "start": 330.0,
+      "duration": 4.33,
+      "text": "those are nodes, and places where there is maximum wave amplitude,",
+      "en": "those are nodes, and places where there is maximum wave amplitude,",
+      "zh": ""
+    },
+    {
+      "start": 334.33,
+      "duration": 3.88,
+      "text": "the anti nodes. Waves like this are called standing waves",
+      "en": "the anti nodes. Waves like this are called standing waves",
+      "zh": ""
+    },
+    {
+      "start": 338.21,
+      "duration": 3.55,
+      "text": "because they don't really move left or right",
+      "en": "because they don't really move left or right",
+      "zh": ""
+    },
+    {
+      "start": 341.76,
+      "duration": 3.54,
+      "text": "and inside a cavity, given enough time and reflections.",
+      "en": "and inside a cavity, given enough time and reflections.",
+      "zh": ""
+    },
+    {
+      "start": 345.3,
+      "duration": 2.76,
+      "text": "It is only these standing waves that survive.",
+      "en": "It is only these standing waves that survive.",
+      "zh": ""
+    },
+    {
+      "start": 348.06,
+      "duration": 3.12,
+      "text": "All the other ones just cancel out.",
+      "en": "All the other ones just cancel out.",
+      "zh": ""
+    },
+    {
+      "start": 351.18,
+      "duration": 6.09,
+      "text": "So a sort of order emerges from the chaos.",
+      "en": "So a sort of order emerges from the chaos.",
+      "zh": ""
+    },
+    {
+      "start": 357.27,
+      "duration": 3.55,
+      "text": "In two dimensions, standing waves look something like this.",
+      "en": "In two dimensions, standing waves look something like this.",
+      "zh": ""
+    },
+    {
+      "start": 360.82,
+      "duration": 3.5,
+      "text": "For shorter wavelengths or higher frequencies, you can fit more",
+      "en": "For shorter wavelengths or higher frequencies, you can fit more",
+      "zh": ""
+    },
+    {
+      "start": 364.32,
+      "duration": 2.0,
+      "text": "and more different vibrational modes.",
+      "en": "and more different vibrational modes.",
+      "zh": ""
+    },
+    {
+      "start": 366.32,
+      "duration": 2.63,
+      "text": "Inside this cube,",
+      "en": "Inside this cube,",
+      "zh": ""
+    },
+    {
+      "start": 368.95,
+      "duration": 2.84,
+      "text": "so that in three dimensions, the total number of modes",
+      "en": "so that in three dimensions, the total number of modes",
+      "zh": ""
+    },
+    {
+      "start": 371.79,
+      "duration": 4.46,
+      "text": "is proportional to frequency cubed, or one over lambda cubed.",
+      "en": "is proportional to frequency cubed, or one over lambda cubed.",
+      "zh": ""
+    },
+    {
+      "start": 376.25,
+      "duration": 3.13,
+      "text": "The expectation was there would be more and more waves",
+      "en": "The expectation was there would be more and more waves",
+      "zh": ""
+    },
+    {
+      "start": 379.38,
+      "duration": 3.08,
+      "text": "inside the cube, the shorter the wavelength.",
+      "en": "inside the cube, the shorter the wavelength.",
+      "zh": ""
+    },
+    {
+      "start": 382.46,
+      "duration": 5.3,
+      "text": "This led directly to the Rayleigh-Jeans law. At longer wavelengths.",
+      "en": "This led directly to the Rayleigh-Jeans law. At longer wavelengths.",
+      "zh": ""
+    },
+    {
+      "start": 387.76,
+      "duration": 3.17,
+      "text": "It matched the experimental data pretty well,",
+      "en": "It matched the experimental data pretty well,",
+      "zh": ""
+    },
+    {
+      "start": 390.93,
+      "duration": 4.59,
+      "text": "but at shorter wavelengths the theory diverged from experiment.",
+      "en": "but at shorter wavelengths the theory diverged from experiment.",
+      "zh": ""
+    },
+    {
+      "start": 395.52,
+      "duration": 3.09,
+      "text": "In fact, it predicted that at the shortest wavelengths,",
+      "en": "In fact, it predicted that at the shortest wavelengths,",
+      "zh": ""
+    },
+    {
+      "start": 398.61,
+      "duration": 3.92,
+      "text": "an infinite amount of energy would be emitted.",
+      "en": "an infinite amount of energy would be emitted.",
+      "zh": ""
+    },
+    {
+      "start": 402.53,
+      "duration": 2.42,
+      "text": "This, for obvious reasons, became known",
+      "en": "This, for obvious reasons, became known",
+      "zh": ""
+    },
+    {
+      "start": 404.95,
+      "duration": 4.96,
+      "text": "as the ultraviolet catastrophe.",
+      "en": "as the ultraviolet catastrophe.",
+      "zh": ""
+    },
+    {
+      "start": 409.91,
+      "duration": 3.29,
+      "text": "The person to solve this problem was Max Planck,",
+      "en": "The person to solve this problem was Max Planck,",
+      "zh": ""
+    },
+    {
+      "start": 413.2,
+      "duration": 3.59,
+      "text": "but Planck almost didn't make it into studying physics,",
+      "en": "but Planck almost didn't make it into studying physics,",
+      "zh": ""
+    },
+    {
+      "start": 416.79,
+      "duration": 4.63,
+      "text": "because when he was 16 years old, he went up to his professor and asked him,",
+      "en": "because when he was 16 years old, he went up to his professor and asked him,",
+      "zh": ""
+    },
+    {
+      "start": 421.42,
+      "duration": 2.71,
+      "text": "well, maybe I could do a career in physics.",
+      "en": "well, maybe I could do a career in physics.",
+      "zh": ""
+    },
+    {
+      "start": 424.13,
+      "duration": 3.21,
+      "text": "To which his professor responded that he'd better find another field",
+      "en": "To which his professor responded that he'd better find another field",
+      "zh": ""
+    },
+    {
+      "start": 427.34,
+      "duration": 4.01,
+      "text": "to do research in, because physics was essentially a complete science.",
+      "en": "to do research in, because physics was essentially a complete science.",
+      "zh": ""
+    },
+    {
+      "start": 431.35,
+      "duration": 4.46,
+      "text": "You know, there was just a few tiny little problems that they had to clean up.",
+      "en": "You know, there was just a few tiny little problems that they had to clean up.",
+      "zh": ""
+    },
+    {
+      "start": 435.81,
+      "duration": 3.3,
+      "text": "But besides that, it was over.",
+      "en": "But besides that, it was over.",
+      "zh": ""
+    },
+    {
+      "start": 439.11,
+      "duration": 2.16,
+      "text": "But Planck didn't listen.",
+      "en": "But Planck didn't listen.",
+      "zh": ""
+    },
+    {
+      "start": 441.27,
+      "duration": 5.18,
+      "text": "By 1897, he was a professor himself, and for the next three years he struggled",
+      "en": "By 1897, he was a professor himself, and for the next three years he struggled",
+      "zh": ""
+    },
+    {
+      "start": 446.45,
+      "duration": 3.67,
+      "text": "to find a theoretical explanation for blackbody radiation.",
+      "en": "to find a theoretical explanation for blackbody radiation.",
+      "zh": ""
+    },
+    {
+      "start": 450.12,
+      "duration": 4.17,
+      "text": "He tried approach after approach, but no matter what, he tried.",
+      "en": "He tried approach after approach, but no matter what, he tried.",
+      "zh": ""
+    },
+    {
+      "start": 454.29,
+      "duration": 1.71,
+      "text": "Nothing worked.",
+      "en": "Nothing worked.",
+      "zh": ""
+    },
+    {
+      "start": 456.0,
+      "duration": 4.17,
+      "text": "He said I was ready to sacrifice every one of my previous convictions",
+      "en": "He said I was ready to sacrifice every one of my previous convictions",
+      "zh": ""
+    },
+    {
+      "start": 460.17,
+      "duration": 4.38,
+      "text": "about physical laws.",
+      "en": "about physical laws.",
+      "zh": ""
+    },
+    {
+      "start": 464.55,
+      "duration": 2.58,
+      "text": "Then, in a quote ‘act of desperation’,",
+      "en": "Then, in a quote ‘act of desperation’,",
+      "zh": ""
+    },
+    {
+      "start": 467.13,
+      "duration": 3.3,
+      "text": "he did something no one had thought to try.",
+      "en": "he did something no one had thought to try.",
+      "zh": ""
+    },
+    {
+      "start": 470.43,
+      "duration": 3.17,
+      "text": "According to classical physics, the energy of an electromagnetic wave",
+      "en": "According to classical physics, the energy of an electromagnetic wave",
+      "zh": ""
+    },
+    {
+      "start": 473.6,
+      "duration": 4.75,
+      "text": "depends only on its amplitude, not its wavelength or frequency.",
+      "en": "depends only on its amplitude, not its wavelength or frequency.",
+      "zh": ""
+    },
+    {
+      "start": 478.35,
+      "duration": 3.21,
+      "text": "And it could take any arbitrary value.",
+      "en": "And it could take any arbitrary value.",
+      "zh": ""
+    },
+    {
+      "start": 481.56,
+      "duration": 2.67,
+      "text": "So any atom could emit any wavelength of light",
+      "en": "So any atom could emit any wavelength of light",
+      "zh": ""
+    },
+    {
+      "start": 484.23,
+      "duration": 3.71,
+      "text": "with an arbitrarily small amount of energy.",
+      "en": "with an arbitrarily small amount of energy.",
+      "zh": ""
+    },
+    {
+      "start": 487.94,
+      "duration": 2.17,
+      "text": "But Planck tried restricting the energy",
+      "en": "But Planck tried restricting the energy",
+      "zh": ""
+    },
+    {
+      "start": 490.11,
+      "duration": 4.09,
+      "text": "so that it could only come in multiples of a smallest amount.",
+      "en": "so that it could only come in multiples of a smallest amount.",
+      "zh": ""
+    },
+    {
+      "start": 494.2,
+      "duration": 1.75,
+      "text": "A quantum.",
+      "en": "A quantum.",
+      "zh": ""
+    },
+    {
+      "start": 495.95,
+      "duration": 1.34,
+      "text": "And he made the energy of",
+      "en": "And he made the energy of",
+      "zh": ""
+    },
+    {
+      "start": 497.29,
+      "duration": 3.79,
+      "text": "one quantum directly proportional to its frequency.",
+      "en": "one quantum directly proportional to its frequency.",
+      "zh": ""
+    },
+    {
+      "start": 501.08,
+      "duration": 6.18,
+      "text": "E equals hf, where h is just a constant.",
+      "en": "E equals hf, where h is just a constant.",
+      "zh": ""
+    },
+    {
+      "start": 507.26,
+      "duration": 1.08,
+      "text": "Think about what this does",
+      "en": "Think about what this does",
+      "zh": ""
+    },
+    {
+      "start": 508.34,
+      "duration": 3.55,
+      "text": "to the radiation coming from the blackbody at a given temperature.",
+      "en": "to the radiation coming from the blackbody at a given temperature.",
+      "zh": ""
+    },
+    {
+      "start": 511.89,
+      "duration": 3.08,
+      "text": "The atoms in the cavity have a range of energies.",
+      "en": "The atoms in the cavity have a range of energies.",
+      "zh": ""
+    },
+    {
+      "start": 514.97,
+      "duration": 1.25,
+      "text": "Some have a little bit.",
+      "en": "Some have a little bit.",
+      "zh": ""
+    },
+    {
+      "start": 516.22,
+      "duration": 4.59,
+      "text": "A few have a lot, and most of their energy somewhere in between.",
+      "en": "A few have a lot, and most of their energy somewhere in between.",
+      "zh": ""
+    },
+    {
+      "start": 520.81,
+      "duration": 3.88,
+      "text": "For long wavelength low frequency radiation, the energy",
+      "en": "For long wavelength low frequency radiation, the energy",
+      "zh": ""
+    },
+    {
+      "start": 524.69,
+      "duration": 4.88,
+      "text": "HF of one quantum is small, so all of the atoms have enough energy",
+      "en": "HF of one quantum is small, so all of the atoms have enough energy",
+      "zh": ""
+    },
+    {
+      "start": 529.57,
+      "duration": 1.46,
+      "text": "to emit this wavelength,",
+      "en": "to emit this wavelength,",
+      "zh": ""
+    },
+    {
+      "start": 531.03,
+      "duration": 4.8,
+      "text": "and the spectrum matches the really gene's prediction very well.",
+      "en": "and the spectrum matches the really gene's prediction very well.",
+      "zh": ""
+    },
+    {
+      "start": 535.83,
+      "duration": 2.79,
+      "text": "But at shorter wavelengths, higher frequencies,",
+      "en": "But at shorter wavelengths, higher frequencies,",
+      "zh": ""
+    },
+    {
+      "start": 538.62,
+      "duration": 2.71,
+      "text": "the energy of a quantum increases.",
+      "en": "the energy of a quantum increases.",
+      "zh": ""
+    },
+    {
+      "start": 541.33,
+      "duration": 5.17,
+      "text": "And now not all of the atoms have enough energy to emit that wavelength.",
+      "en": "And now not all of the atoms have enough energy to emit that wavelength.",
+      "zh": ""
+    },
+    {
+      "start": 546.5,
+      "duration": 3.8,
+      "text": "This is why experiment diverges from the classical prediction.",
+      "en": "This is why experiment diverges from the classical prediction.",
+      "zh": ""
+    },
+    {
+      "start": 550.3,
+      "duration": 4.13,
+      "text": "The spectrum peaks and then starts to fall because fewer",
+      "en": "The spectrum peaks and then starts to fall because fewer",
+      "zh": ""
+    },
+    {
+      "start": 554.43,
+      "duration": 4.92,
+      "text": "and fewer atoms have enough energy to emit one quantum of that radiation.",
+      "en": "and fewer atoms have enough energy to emit one quantum of that radiation.",
+      "zh": ""
+    },
+    {
+      "start": 559.35,
+      "duration": 1.17,
+      "text": "And there comes a point",
+      "en": "And there comes a point",
+      "zh": ""
+    },
+    {
+      "start": 560.52,
+      "duration": 3.96,
+      "text": "when none of the atoms have enough energy to emit one quantum.",
+      "en": "when none of the atoms have enough energy to emit one quantum.",
+      "zh": ""
+    },
+    {
+      "start": 564.48,
+      "duration": 4.51,
+      "text": "So here the spectrum must drop to zero.",
+      "en": "So here the spectrum must drop to zero.",
+      "zh": ""
+    },
+    {
+      "start": 568.99,
+      "duration": 4.25,
+      "text": "With this approach, Planck got a new formula for the radiation spectrum.",
+      "en": "With this approach, Planck got a new formula for the radiation spectrum.",
+      "zh": ""
+    },
+    {
+      "start": 573.24,
+      "duration": 3.25,
+      "text": "Now all that was left for him to do was to tune the parameter h.",
+      "en": "Now all that was left for him to do was to tune the parameter h.",
+      "zh": ""
+    },
+    {
+      "start": 576.49,
+      "duration": 3.01,
+      "text": "And when he did this just right, he got his formula to match up",
+      "en": "And when he did this just right, he got his formula to match up",
+      "zh": ""
+    },
+    {
+      "start": 579.5,
+      "duration": 5.33,
+      "text": "perfectly with experiment.",
+      "en": "perfectly with experiment.",
+      "zh": ""
+    },
+    {
+      "start": 584.83,
+      "duration": 2.17,
+      "text": "But he was sort of troubled",
+      "en": "But he was sort of troubled",
+      "zh": ""
+    },
+    {
+      "start": 587.0,
+      "duration": 3.76,
+      "text": "by his own formula because to him it was just a mathematical trick.",
+      "en": "by his own formula because to him it was just a mathematical trick.",
+      "zh": ""
+    },
+    {
+      "start": 590.76,
+      "duration": 1.58,
+      "text": "He had no clue why it worked.",
+      "en": "He had no clue why it worked.",
+      "zh": ""
+    },
+    {
+      "start": 592.34,
+      "duration": 2.0,
+      "text": "It was purely formal.",
+      "en": "It was purely formal.",
+      "zh": ""
+    },
+    {
+      "start": 594.34,
+      "duration": 4.3,
+      "text": "And most importantly, he had no clue what this H represented.",
+      "en": "And most importantly, he had no clue what this H represented.",
+      "zh": ""
+    },
+    {
+      "start": 598.64,
+      "duration": 5.34,
+      "text": "I mean, he had introduced a new physical constant without any reason.",
+      "en": "I mean, he had introduced a new physical constant without any reason.",
+      "zh": ""
+    },
+    {
+      "start": 603.98,
+      "duration": 2.04,
+      "text": "He wrote a theoretical interpretation",
+      "en": "He wrote a theoretical interpretation",
+      "zh": ""
+    },
+    {
+      "start": 606.02,
+      "duration": 3.63,
+      "text": "had to be found at any cost, no matter how high.",
+      "en": "had to be found at any cost, no matter how high.",
+      "zh": ""
+    },
+    {
+      "start": 609.65,
+      "duration": 4.46,
+      "text": "So from that moment on, he dedicated himself to finding one.",
+      "en": "So from that moment on, he dedicated himself to finding one.",
+      "zh": ""
+    },
+    {
+      "start": 614.11,
+      "duration": 4.55,
+      "text": "He later reflected that after some weeks of the most strenuous work of my life,",
+      "en": "He later reflected that after some weeks of the most strenuous work of my life,",
+      "zh": ""
+    },
+    {
+      "start": 618.66,
+      "duration": 4.42,
+      "text": "light came into the darkness and a new undreamed of perspective",
+      "en": "light came into the darkness and a new undreamed of perspective",
+      "zh": ""
+    },
+    {
+      "start": 623.08,
+      "duration": 4.8,
+      "text": "opened up before me.",
+      "en": "opened up before me.",
+      "zh": ""
+    },
+    {
+      "start": 627.88,
+      "duration": 3.71,
+      "text": "He introduces what we now call Planck's constant,",
+      "en": "He introduces what we now call Planck's constant,",
+      "zh": ""
+    },
+    {
+      "start": 631.59,
+      "duration": 4.04,
+      "text": "and it has the units of action. Planck's constant, h",
+      "en": "and it has the units of action. Planck's constant, h",
+      "zh": ""
+    },
+    {
+      "start": 635.63,
+      "duration": 3.01,
+      "text": "is a quantum of action.",
+      "en": "is a quantum of action.",
+      "zh": ""
+    },
+    {
+      "start": 638.64,
+      "duration": 3.84,
+      "text": "Planck later proposed that any time any change happened in nature,",
+      "en": "Planck later proposed that any time any change happened in nature,",
+      "zh": ""
+    },
+    {
+      "start": 642.48,
+      "duration": 4.25,
+      "text": "it would be some whole multiple of this quantum of action.",
+      "en": "it would be some whole multiple of this quantum of action.",
+      "zh": ""
+    },
+    {
+      "start": 646.73,
+      "duration": 4.46,
+      "text": "So it's kind of spooky, this breakthrough that starts the ball rolling toward",
+      "en": "So it's kind of spooky, this breakthrough that starts the ball rolling toward",
+      "zh": ""
+    },
+    {
+      "start": 651.19,
+      "duration": 4.92,
+      "text": "quantum theory brings action in not energy",
+      "en": "quantum theory brings action in not energy",
+      "zh": ""
+    },
+    {
+      "start": 656.11,
+      "duration": 5.34,
+      "text": "and not force. Action. Gives you a hint.",
+      "en": "and not force. Action. Gives you a hint.",
+      "zh": ""
+    },
+    {
+      "start": 661.45,
+      "duration": 3.67,
+      "text": "At first, the quantum of action got little attention.",
+      "en": "At first, the quantum of action got little attention.",
+      "zh": ""
+    },
+    {
+      "start": 665.12,
+      "duration": 2.8,
+      "text": "That is, until a 26 year old patent clerk",
+      "en": "That is, until a 26 year old patent clerk",
+      "zh": ""
+    },
+    {
+      "start": 667.92,
+      "duration": 3.29,
+      "text": "came on the scene.",
+      "en": "came on the scene.",
+      "zh": ""
+    },
+    {
+      "start": 671.21,
+      "duration": 1.54,
+      "text": "In 1905, Albert",
+      "en": "In 1905, Albert",
+      "zh": ""
+    },
+    {
+      "start": 672.75,
+      "duration": 4.43,
+      "text": "Einstein claimed that Planck's theory wasn't just a mathematical trick.",
+      "en": "Einstein claimed that Planck's theory wasn't just a mathematical trick.",
+      "zh": ""
+    },
+    {
+      "start": 677.18,
+      "duration": 3.37,
+      "text": "It was telling us that light actually comes in discrete",
+      "en": "It was telling us that light actually comes in discrete",
+      "zh": ""
+    },
+    {
+      "start": 680.55,
+      "duration": 4.13,
+      "text": "packets, or photons, each with an energy HF.",
+      "en": "packets, or photons, each with an energy HF.",
+      "zh": ""
+    },
+    {
+      "start": 684.68,
+      "duration": 3.21,
+      "text": "Einstein used this insight to explain the photoelectric effect",
+      "en": "Einstein used this insight to explain the photoelectric effect",
+      "zh": ""
+    },
+    {
+      "start": 687.89,
+      "duration": 3.68,
+      "text": "how light can eject electrons from metal, but only when",
+      "en": "how light can eject electrons from metal, but only when",
+      "zh": ""
+    },
+    {
+      "start": 691.57,
+      "duration": 1.62,
+      "text": "the frequency is high enough.",
+      "en": "the frequency is high enough.",
+      "zh": ""
+    },
+    {
+      "start": 693.19,
+      "duration": 1.59,
+      "text": "If the frequency is too low,",
+      "en": "If the frequency is too low,",
+      "zh": ""
+    },
+    {
+      "start": 694.78,
+      "duration": 5.5,
+      "text": "no electrons will be emitted regardless of the intensity.",
+      "en": "no electrons will be emitted regardless of the intensity.",
+      "zh": ""
+    },
+    {
+      "start": 700.28,
+      "duration": 3.97,
+      "text": "The idea of quantization spread.",
+      "en": "The idea of quantization spread.",
+      "zh": ""
+    },
+    {
+      "start": 704.25,
+      "duration": 2.58,
+      "text": "Eight years later, Niels Bohr was trying to understand",
+      "en": "Eight years later, Niels Bohr was trying to understand",
+      "zh": ""
+    },
+    {
+      "start": 706.83,
+      "duration": 3.84,
+      "text": "how an atom is stable if it has a positive charge in the center",
+      "en": "how an atom is stable if it has a positive charge in the center",
+      "zh": ""
+    },
+    {
+      "start": 710.67,
+      "duration": 2.54,
+      "text": "and negative electrons whizzing around it.",
+      "en": "and negative electrons whizzing around it.",
+      "zh": ""
+    },
+    {
+      "start": 713.21,
+      "duration": 3.55,
+      "text": "Why don't they just spiral into the nucleus, radiating their energy",
+      "en": "Why don't they just spiral into the nucleus, radiating their energy",
+      "zh": ""
+    },
+    {
+      "start": 716.76,
+      "duration": 1.29,
+      "text": "as they go?",
+      "en": "as they go?",
+      "zh": ""
+    },
+    {
+      "start": 718.05,
+      "duration": 2.84,
+      "text": "And what he wants to do is, he says there's something fishy",
+      "en": "And what he wants to do is, he says there's something fishy",
+      "zh": ""
+    },
+    {
+      "start": 720.89,
+      "duration": 4.58,
+      "text": "about something being discrete that seems to be the new ambiguous weirdo",
+      "en": "about something being discrete that seems to be the new ambiguous weirdo",
+      "zh": ""
+    },
+    {
+      "start": 725.47,
+      "duration": 4.63,
+      "text": "lesson of the new quantum of action. Bohr realizes that as the electron",
+      "en": "lesson of the new quantum of action. Bohr realizes that as the electron",
+      "zh": ""
+    },
+    {
+      "start": 730.1,
+      "duration": 3.63,
+      "text": "goes around the nucleus, it has an angular momentum.",
+      "en": "goes around the nucleus, it has an angular momentum.",
+      "zh": ""
+    },
+    {
+      "start": 733.73,
+      "duration": 3.55,
+      "text": "Mass times velocity times radius.",
+      "en": "Mass times velocity times radius.",
+      "zh": ""
+    },
+    {
+      "start": 737.28,
+      "duration": 4.63,
+      "text": "So angular momentum has the same units as action.",
+      "en": "So angular momentum has the same units as action.",
+      "zh": ""
+    },
+    {
+      "start": 741.91,
+      "duration": 3.96,
+      "text": "And so what he decides to do is discretize the orbital angular momentum.",
+      "en": "And so what he decides to do is discretize the orbital angular momentum.",
+      "zh": ""
+    },
+    {
+      "start": 745.87,
+      "duration": 1.46,
+      "text": "For no good reason",
+      "en": "For no good reason",
+      "zh": ""
+    },
+    {
+      "start": 747.33,
+      "duration": 3.29,
+      "text": "he says, let me slap that on and say, and imagine the electron can only be in",
+      "en": "he says, let me slap that on and say, and imagine the electron can only be in",
+      "zh": ""
+    },
+    {
+      "start": 750.62,
+      "duration": 4.09,
+      "text": "one unit, two units, three units of the same quantity H.",
+      "en": "one unit, two units, three units of the same quantity H.",
+      "zh": ""
+    },
+    {
+      "start": 754.71,
+      "duration": 3.38,
+      "text": "And because it's talking about motion in a circle, the factors two pi come in.",
+      "en": "And because it's talking about motion in a circle, the factors two pi come in.",
+      "zh": ""
+    },
+    {
+      "start": 758.09,
+      "duration": 4.67,
+      "text": "So is really nh over two pi, what we now call an h bar.",
+      "en": "So is really nh over two pi, what we now call an h bar.",
+      "zh": ""
+    },
+    {
+      "start": 762.76,
+      "duration": 1.54,
+      "text": "This comes out of nowhere.",
+      "en": "This comes out of nowhere.",
+      "zh": ""
+    },
+    {
+      "start": 764.3,
+      "duration": 2.92,
+      "text": "There seems like absolutely no good reason why",
+      "en": "There seems like absolutely no good reason why",
+      "zh": ""
+    },
+    {
+      "start": 767.22,
+      "duration": 2.97,
+      "text": "angular momentum should be quantized.",
+      "en": "angular momentum should be quantized.",
+      "zh": ""
+    },
+    {
+      "start": 770.19,
+      "duration": 4.38,
+      "text": "But by doing it, Bohr finds the correct energy levels of the hydrogen atom.",
+      "en": "But by doing it, Bohr finds the correct energy levels of the hydrogen atom.",
+      "zh": ""
+    },
+    {
+      "start": 774.57,
+      "duration": 4.63,
+      "text": "When an electron jumps from a higher orbit to a lower one, the energy difference",
+      "en": "When an electron jumps from a higher orbit to a lower one, the energy difference",
+      "zh": ""
+    },
+    {
+      "start": 779.2,
+      "duration": 3.92,
+      "text": "is given off as a photon of a particular color of light.",
+      "en": "is given off as a photon of a particular color of light.",
+      "zh": ""
+    },
+    {
+      "start": 783.12,
+      "duration": 3.21,
+      "text": "Exactly reproducing the hydrogen spectrum.",
+      "en": "Exactly reproducing the hydrogen spectrum.",
+      "zh": ""
+    },
+    {
+      "start": 786.33,
+      "duration": 3.25,
+      "text": "And that was a pretty startling thing to have fall out.",
+      "en": "And that was a pretty startling thing to have fall out.",
+      "zh": ""
+    },
+    {
+      "start": 789.58,
+      "duration": 2.21,
+      "text": "I think that really was compelling.",
+      "en": "I think that really was compelling.",
+      "zh": ""
+    },
+    {
+      "start": 791.79,
+      "duration": 5.92,
+      "text": "Take some quantity with the unit of action and apply some, again, kind of ad hoc,",
+      "en": "Take some quantity with the unit of action and apply some, again, kind of ad hoc,",
+      "zh": ""
+    },
+    {
+      "start": 797.71,
+      "duration": 3.05,
+      "text": "discretization or quantization to it.",
+      "en": "discretization or quantization to it.",
+      "zh": ""
+    },
+    {
+      "start": 800.76,
+      "duration": 2.33,
+      "text": "Now, although it worked spectacularly well,",
+      "en": "Now, although it worked spectacularly well,",
+      "zh": ""
+    },
+    {
+      "start": 803.09,
+      "duration": 3.01,
+      "text": "no one can make sense of it.",
+      "en": "no one can make sense of it.",
+      "zh": ""
+    },
+    {
+      "start": 806.14,
+      "duration": 3.54,
+      "text": "That is until 11 years later.",
+      "en": "That is until 11 years later.",
+      "zh": ""
+    },
+    {
+      "start": 809.68,
+      "duration": 1.55,
+      "text": "For his PhD,",
+      "en": "For his PhD,",
+      "zh": ""
+    },
+    {
+      "start": 811.23,
+      "duration": 4.0,
+      "text": "Louis de Broglie was contemplating the recent discoveries in physics.",
+      "en": "Louis de Broglie was contemplating the recent discoveries in physics.",
+      "zh": ""
+    },
+    {
+      "start": 815.23,
+      "duration": 4.63,
+      "text": "And his big insight was that if light could be both a wave and a particle,",
+      "en": "And his big insight was that if light could be both a wave and a particle,",
+      "zh": ""
+    },
+    {
+      "start": 819.86,
+      "duration": 1.09,
+      "text": "then maybe matter",
+      "en": "then maybe matter",
+      "zh": ""
+    },
+    {
+      "start": 820.95,
+      "duration": 3.5,
+      "text": "particles could also be waves.",
+      "en": "particles could also be waves.",
+      "zh": ""
+    },
+    {
+      "start": 824.45,
+      "duration": 1.79,
+      "text": "He proposed that everything.",
+      "en": "He proposed that everything.",
+      "zh": ""
+    },
+    {
+      "start": 826.24,
+      "duration": 5.92,
+      "text": "Electrons, basketballs, people, absolutely everything has a wavelength.",
+      "en": "Electrons, basketballs, people, absolutely everything has a wavelength.",
+      "zh": ""
+    },
+    {
+      "start": 832.16,
+      "duration": 3.97,
+      "text": "And he defined this wavelength analogously to light as Planck's",
+      "en": "And he defined this wavelength analogously to light as Planck's",
+      "zh": ""
+    },
+    {
+      "start": 836.13,
+      "duration": 3.0,
+      "text": "constant, divided by the particles momentum or",
+      "en": "constant, divided by the particles momentum or",
+      "zh": ""
+    },
+    {
+      "start": 839.13,
+      "duration": 4.5,
+      "text": "mass times velocity.",
+      "en": "mass times velocity.",
+      "zh": ""
+    },
+    {
+      "start": 843.63,
+      "duration": 4.34,
+      "text": "Now, if an electron is a wave, the only way it could stay bound",
+      "en": "Now, if an electron is a wave, the only way it could stay bound",
+      "zh": ""
+    },
+    {
+      "start": 847.97,
+      "duration": 4.71,
+      "text": "to a nucleus in an atom is if it exists as a standing wave.",
+      "en": "to a nucleus in an atom is if it exists as a standing wave.",
+      "zh": ""
+    },
+    {
+      "start": 852.68,
+      "duration": 2.76,
+      "text": "That requires that a whole number of wavelengths",
+      "en": "That requires that a whole number of wavelengths",
+      "zh": ""
+    },
+    {
+      "start": 855.44,
+      "duration": 3.42,
+      "text": "fit around the circumference of the orbit.",
+      "en": "fit around the circumference of the orbit.",
+      "zh": ""
+    },
+    {
+      "start": 858.86,
+      "duration": 4.5,
+      "text": "You could have one wavelength or two wavelengths or three, and so on.",
+      "en": "You could have one wavelength or two wavelengths or three, and so on.",
+      "zh": ""
+    },
+    {
+      "start": 863.36,
+      "duration": 2.8,
+      "text": "So the circumference two pi r must be equal",
+      "en": "So the circumference two pi r must be equal",
+      "zh": ""
+    },
+    {
+      "start": 866.16,
+      "duration": 3.67,
+      "text": "to some multiple n times the wavelength.",
+      "en": "to some multiple n times the wavelength.",
+      "zh": ""
+    },
+    {
+      "start": 869.83,
+      "duration": 3.38,
+      "text": "We can sub in de Broglies expression for the wavelength to get the two pi",
+      "en": "We can sub in de Broglies expression for the wavelength to get the two pi",
+      "zh": ""
+    },
+    {
+      "start": 873.21,
+      "duration": 3.08,
+      "text": "r equals NH over mv,",
+      "en": "r equals NH over mv,",
+      "zh": ""
+    },
+    {
+      "start": 876.29,
+      "duration": 3.67,
+      "text": "but we can rearrange this to get the mvr.",
+      "en": "but we can rearrange this to get the mvr.",
+      "zh": ""
+    },
+    {
+      "start": 879.96,
+      "duration": 5.88,
+      "text": "The angular momentum is equal to NH over two pi.",
+      "en": "The angular momentum is equal to NH over two pi.",
+      "zh": ""
+    },
+    {
+      "start": 885.84,
+      "duration": 1.05,
+      "text": "That is",
+      "en": "That is",
+      "zh": ""
+    },
+    {
+      "start": 886.89,
+      "duration": 4.37,
+      "text": "precisely Bohr's quantized angular momentum condition.",
+      "en": "precisely Bohr's quantized angular momentum condition.",
+      "zh": ""
+    },
+    {
+      "start": 891.26,
+      "duration": 3.8,
+      "text": "But now we have a good physical reason why it's quantized.",
+      "en": "But now we have a good physical reason why it's quantized.",
+      "zh": ""
+    },
+    {
+      "start": 895.06,
+      "duration": 1.67,
+      "text": "Because electrons are waves",
+      "en": "Because electrons are waves",
+      "zh": ""
+    },
+    {
+      "start": 896.73,
+      "duration": 3.96,
+      "text": "and they must exist as standing waves to be bound in atoms",
+      "en": "and they must exist as standing waves to be bound in atoms",
+      "zh": ""
+    },
+    {
+      "start": 900.69,
+      "duration": 4.17,
+      "text": "because they want to have constructive interference, have a stable orbit back.",
+      "en": "because they want to have constructive interference, have a stable orbit back.",
+      "zh": ""
+    },
+    {
+      "start": 904.86,
+      "duration": 0.59,
+      "text": "That's pretty good.",
+      "en": "That's pretty good.",
+      "zh": ""
+    },
+    {
+      "start": 905.45,
+      "duration": 2.33,
+      "text": "You get a dissertation out of that. That's pretty good.",
+      "en": "You get a dissertation out of that. That's pretty good.",
+      "zh": ""
+    },
+    {
+      "start": 907.78,
+      "duration": 2.46,
+      "text": "It is this wave nature of quantum objects.",
+      "en": "It is this wave nature of quantum objects.",
+      "zh": ""
+    },
+    {
+      "start": 910.24,
+      "duration": 3.42,
+      "text": "That means they no longer have a single path through space.",
+      "en": "That means they no longer have a single path through space.",
+      "zh": ""
+    },
+    {
+      "start": 913.66,
+      "duration": 5.51,
+      "text": "Instead, they must explore all possible paths.",
+      "en": "Instead, they must explore all possible paths.",
+      "zh": ""
+    },
+    {
+      "start": 919.17,
+      "duration": 3.08,
+      "text": "Now, I have thought about and taught the double slit experiment",
+      "en": "Now, I have thought about and taught the double slit experiment",
+      "zh": ""
+    },
+    {
+      "start": 922.25,
+      "duration": 4.17,
+      "text": "hundreds of times without fully realizing this implication.",
+      "en": "hundreds of times without fully realizing this implication.",
+      "zh": ""
+    },
+    {
+      "start": 926.42,
+      "duration": 1.17,
+      "text": "In the double slit experiment.",
+      "en": "In the double slit experiment.",
+      "zh": ""
+    },
+    {
+      "start": 927.59,
+      "duration": 3.01,
+      "text": "I feel like the mental thing that I'm doing in my head is like, okay,",
+      "en": "I feel like the mental thing that I'm doing in my head is like, okay,",
+      "zh": ""
+    },
+    {
+      "start": 930.6,
+      "duration": 3.75,
+      "text": "well, the beam is not perfectly straight, and of course it's going to intersect",
+      "en": "well, the beam is not perfectly straight, and of course it's going to intersect",
+      "zh": ""
+    },
+    {
+      "start": 934.35,
+      "duration": 4.04,
+      "text": "both of those slits because they're really close together. You know?",
+      "en": "both of those slits because they're really close together. You know?",
+      "zh": ""
+    },
+    {
+      "start": 938.39,
+      "duration": 2.47,
+      "text": "But then I heard this story about a professor",
+      "en": "But then I heard this story about a professor",
+      "zh": ""
+    },
+    {
+      "start": 940.86,
+      "duration": 5.04,
+      "text": "teaching the double slit experiment, and it makes everything so clear.",
+      "en": "teaching the double slit experiment, and it makes everything so clear.",
+      "zh": ""
+    },
+    {
+      "start": 945.9,
+      "duration": 3.59,
+      "text": "So the professor starts by explaining the setup.",
+      "en": "So the professor starts by explaining the setup.",
+      "zh": ""
+    },
+    {
+      "start": 949.49,
+      "duration": 2.38,
+      "text": "Electrons are fired one at a time",
+      "en": "Electrons are fired one at a time",
+      "zh": ""
+    },
+    {
+      "start": 951.87,
+      "duration": 3.25,
+      "text": "through two slits to be detected at a screen.",
+      "en": "through two slits to be detected at a screen.",
+      "zh": ""
+    },
+    {
+      "start": 955.12,
+      "duration": 3.21,
+      "text": "Now, because you can't say for certain which slit the particle went through,",
+      "en": "Now, because you can't say for certain which slit the particle went through,",
+      "zh": ""
+    },
+    {
+      "start": 958.33,
+      "duration": 3.8,
+      "text": "quantum mechanics tells us it must go through both at the same time.",
+      "en": "quantum mechanics tells us it must go through both at the same time.",
+      "zh": ""
+    },
+    {
+      "start": 962.13,
+      "duration": 3.46,
+      "text": "So to get the probability of finding a particle somewhere on the screen,",
+      "en": "So to get the probability of finding a particle somewhere on the screen,",
+      "zh": ""
+    },
+    {
+      "start": 965.59,
+      "duration": 1.13,
+      "text": "you simply add up",
+      "en": "you simply add up",
+      "zh": ""
+    },
+    {
+      "start": 966.72,
+      "duration": 3.21,
+      "text": "the amplitude of the wave going through one slit, with the amplitude",
+      "en": "the amplitude of the wave going through one slit, with the amplitude",
+      "zh": ""
+    },
+    {
+      "start": 969.93,
+      "duration": 5.08,
+      "text": "of the wave going through the other slit and square it.",
+      "en": "of the wave going through the other slit and square it.",
+      "zh": ""
+    },
+    {
+      "start": 975.01,
+      "duration": 3.26,
+      "text": "But that's when a student raised his hand.",
+      "en": "But that's when a student raised his hand.",
+      "zh": ""
+    },
+    {
+      "start": 978.27,
+      "duration": 3.17,
+      "text": "What if you add a third slit?",
+      "en": "What if you add a third slit?",
+      "zh": ""
+    },
+    {
+      "start": 981.44,
+      "duration": 1.88,
+      "text": "Well, you just add up the amplitudes of the waves",
+      "en": "Well, you just add up the amplitudes of the waves",
+      "zh": ""
+    },
+    {
+      "start": 983.32,
+      "duration": 5.13,
+      "text": "going through each of the three slits, and you can work out the probability.",
+      "en": "going through each of the three slits, and you can work out the probability.",
+      "zh": ""
+    },
+    {
+      "start": 988.45,
+      "duration": 1.08,
+      "text": "The professor wanted to",
+      "en": "The professor wanted to",
+      "zh": ""
+    },
+    {
+      "start": 989.53,
+      "duration": 4.05,
+      "text": "continue, but then the student interjected again.",
+      "en": "continue, but then the student interjected again.",
+      "zh": ""
+    },
+    {
+      "start": 993.58,
+      "duration": 3.62,
+      "text": "What if you add a fourth slit and a fifth?",
+      "en": "What if you add a fourth slit and a fifth?",
+      "zh": ""
+    },
+    {
+      "start": 997.2,
+      "duration": 4.63,
+      "text": "The professor, who is now clearly losing his patience, replies, I think it's clear",
+      "en": "The professor, who is now clearly losing his patience, replies, I think it's clear",
+      "zh": ""
+    },
+    {
+      "start": 1001.83,
+      "duration": 3.97,
+      "text": "to the whole class that you just add up the amplitudes from all the slits.",
+      "en": "to the whole class that you just add up the amplitudes from all the slits.",
+      "zh": ""
+    },
+    {
+      "start": 1005.8,
+      "duration": 4.75,
+      "text": "It's the same for six, seven, etc.",
+      "en": "It's the same for six, seven, etc.",
+      "zh": ""
+    },
+    {
+      "start": 1010.55,
+      "duration": 4.17,
+      "text": "but now the bold student pressed his advantage.",
+      "en": "but now the bold student pressed his advantage.",
+      "zh": ""
+    },
+    {
+      "start": 1014.72,
+      "duration": 3.96,
+      "text": "What if I make it infinite slits",
+      "en": "What if I make it infinite slits",
+      "zh": ""
+    },
+    {
+      "start": 1018.68,
+      "duration": 3.17,
+      "text": "so that the screen disappears?",
+      "en": "so that the screen disappears?",
+      "zh": ""
+    },
+    {
+      "start": 1021.85,
+      "duration": 2.84,
+      "text": "And then I add a second screen with infinite slits",
+      "en": "And then I add a second screen with infinite slits",
+      "zh": ""
+    },
+    {
+      "start": 1024.69,
+      "duration": 4.0,
+      "text": "and a third and a fourth.",
+      "en": "and a third and a fourth.",
+      "zh": ""
+    },
+    {
+      "start": 1028.69,
+      "duration": 3.97,
+      "text": "The student's point was clear.",
+      "en": "The student's point was clear.",
+      "zh": ""
+    },
+    {
+      "start": 1032.66,
+      "duration": 2.33,
+      "text": "Even when we're not doing a double slit experiment,",
+      "en": "Even when we're not doing a double slit experiment,",
+      "zh": ""
+    },
+    {
+      "start": 1034.99,
+      "duration": 3.92,
+      "text": "when it's just light or particles traveling through empty space,",
+      "en": "when it's just light or particles traveling through empty space,",
+      "zh": ""
+    },
+    {
+      "start": 1038.91,
+      "duration": 3.38,
+      "text": "they must be exploring all possible paths.",
+      "en": "they must be exploring all possible paths.",
+      "zh": ""
+    },
+    {
+      "start": 1042.29,
+      "duration": 1.75,
+      "text": "Because this is exactly how the math",
+      "en": "Because this is exactly how the math",
+      "zh": ""
+    },
+    {
+      "start": 1044.04,
+      "duration": 4.13,
+      "text": "would work if you had infinite screens, each with infinite slits.",
+      "en": "would work if you had infinite screens, each with infinite slits.",
+      "zh": ""
+    },
+    {
+      "start": 1048.17,
+      "duration": 3.17,
+      "text": "You have to add up the amplitude from each slit.",
+      "en": "You have to add up the amplitude from each slit.",
+      "zh": ""
+    },
+    {
+      "start": 1051.34,
+      "duration": 2.92,
+      "text": "That's just the way it works.",
+      "en": "That's just the way it works.",
+      "zh": ""
+    },
+    {
+      "start": 1054.26,
+      "duration": 1.17,
+      "text": "According to the story,",
+      "en": "According to the story,",
+      "zh": ""
+    },
+    {
+      "start": 1055.43,
+      "duration": 3.54,
+      "text": "the student was Richard Feynman, and while the story is made",
+      "en": "the student was Richard Feynman, and while the story is made",
+      "zh": ""
+    },
+    {
+      "start": 1058.97,
+      "duration": 3.01,
+      "text": "up, the logic is flawless.",
+      "en": "up, the logic is flawless.",
+      "zh": ""
+    },
+    {
+      "start": 1061.98,
+      "duration": 2.21,
+      "text": "Because if you believe in the double slit experiment",
+      "en": "Because if you believe in the double slit experiment",
+      "zh": ""
+    },
+    {
+      "start": 1064.19,
+      "duration": 3.63,
+      "text": "that you can't tell which of the two slits the particle went through,",
+      "en": "that you can't tell which of the two slits the particle went through,",
+      "zh": ""
+    },
+    {
+      "start": 1067.82,
+      "duration": 4.46,
+      "text": "then you have to consider the possibility that it goes through both.",
+      "en": "then you have to consider the possibility that it goes through both.",
+      "zh": ""
+    },
+    {
+      "start": 1072.28,
+      "duration": 2.29,
+      "text": "By that same logic, any time",
+      "en": "By that same logic, any time",
+      "zh": ""
+    },
+    {
+      "start": 1074.57,
+      "duration": 3.09,
+      "text": "any particle goes from place one to place two.",
+      "en": "any particle goes from place one to place two.",
+      "zh": ""
+    },
+    {
+      "start": 1077.66,
+      "duration": 2.42,
+      "text": "You have to consider all the possible paths",
+      "en": "You have to consider all the possible paths",
+      "zh": ""
+    },
+    {
+      "start": 1080.08,
+      "duration": 3.79,
+      "text": "it could take to get there, including ones that go faster than the speed of light,",
+      "en": "it could take to get there, including ones that go faster than the speed of light,",
+      "zh": ""
+    },
+    {
+      "start": 1083.87,
+      "duration": 1.84,
+      "text": "including ones that go back in time,",
+      "en": "including ones that go back in time,",
+      "zh": ""
+    },
+    {
+      "start": 1085.71,
+      "duration": 3.8,
+      "text": "and including ones that go to the other side of the moon and back.",
+      "en": "and including ones that go to the other side of the moon and back.",
+      "zh": ""
+    },
+    {
+      "start": 1089.51,
+      "duration": 1.33,
+      "text": "I feel like I can't go to the sun and back.",
+      "en": "I feel like I can't go to the sun and back.",
+      "zh": ""
+    },
+    {
+      "start": 1090.84,
+      "duration": 2.13,
+      "text": "You have to restrict it to be local, right?",
+      "en": "You have to restrict it to be local, right?",
+      "zh": ""
+    },
+    {
+      "start": 1092.97,
+      "duration": 1.91,
+      "text": "So the math doesn't do that.",
+      "en": "So the math doesn't do that.",
+      "zh": ""
+    },
+    {
+      "start": 1094.88,
+      "duration": 3.43,
+      "text": "I mean, you could see that just in the double slit experiment, right?",
+      "en": "I mean, you could see that just in the double slit experiment, right?",
+      "zh": ""
+    },
+    {
+      "start": 1098.31,
+      "duration": 3.21,
+      "text": "And we'll do light because then there's no funky business with the speed.",
+      "en": "And we'll do light because then there's no funky business with the speed.",
+      "zh": ""
+    },
+    {
+      "start": 1101.52,
+      "duration": 2.58,
+      "text": "If you're going to say like, this path interferes with this",
+      "en": "If you're going to say like, this path interferes with this",
+      "zh": ""
+    },
+    {
+      "start": 1104.1,
+      "duration": 3.17,
+      "text": "path and these distances are different, right.",
+      "en": "path and these distances are different, right.",
+      "zh": ""
+    },
+    {
+      "start": 1107.27,
+      "duration": 3.09,
+      "text": "And so clearly they can’t have the same speed.",
+      "en": "And so clearly they can’t have the same speed.",
+      "zh": ""
+    },
+    {
+      "start": 1110.36,
+      "duration": 4.54,
+      "text": "So you need to consider paths that have different speeds.",
+      "en": "So you need to consider paths that have different speeds.",
+      "zh": ""
+    },
+    {
+      "start": 1114.9,
+      "duration": 1.55,
+      "text": "Feynman's way of doing quantum mechanics",
+      "en": "Feynman's way of doing quantum mechanics",
+      "zh": ""
+    },
+    {
+      "start": 1116.45,
+      "duration": 2.12,
+      "text": "suggests that anything going from",
+      "en": "suggests that anything going from",
+      "zh": ""
+    },
+    {
+      "start": 1118.57,
+      "duration": 3.92,
+      "text": "one place to another is connected in every possible way.",
+      "en": "one place to another is connected in every possible way.",
+      "zh": ""
+    },
+    {
+      "start": 1122.49,
+      "duration": 1.51,
+      "text": "And the internet is kind of like that too",
+      "en": "And the internet is kind of like that too",
+      "zh": ""
+    },
+    {
+      "start": 1124.0,
+      "duration": 3.92,
+      "text": "connecting us to anything, anywhere, at any time.",
+      "en": "connecting us to anything, anywhere, at any time.",
+      "zh": ""
+    },
+    {
+      "start": 1127.92,
+      "duration": 3.25,
+      "text": "At least in theory, there are still artificial barriers",
+      "en": "At least in theory, there are still artificial barriers",
+      "zh": ""
+    },
+    {
+      "start": 1131.17,
+      "duration": 4.38,
+      "text": "like geo blocks and country restrictions that block off parts of the internet.",
+      "en": "like geo blocks and country restrictions that block off parts of the internet.",
+      "zh": ""
+    },
+    {
+      "start": 1135.55,
+      "duration": 4.67,
+      "text": "But fortunately, there's today's sponsor, NordVPN, which can help knock down",
+      "en": "But fortunately, there's today's sponsor, NordVPN, which can help knock down",
+      "zh": ""
+    },
+    {
+      "start": 1140.22,
+      "duration": 1.0,
+      "text": "those barriers.",
+      "en": "those barriers.",
+      "zh": ""
+    },
+    {
+      "start": 1141.22,
+      "duration": 4.05,
+      "text": "Just connect to one of their thousands of servers, for example, this one in the US.",
+      "en": "Just connect to one of their thousands of servers, for example, this one in the US.",
+      "zh": ""
+    },
+    {
+      "start": 1145.27,
+      "duration": 3.3,
+      "text": "And it looks as if you're accessing the internet from there.",
+      "en": "And it looks as if you're accessing the internet from there.",
+      "zh": ""
+    },
+    {
+      "start": 1148.57,
+      "duration": 0.41,
+      "text": "The team and I",
+      "en": "The team and I",
+      "zh": ""
+    },
+    {
+      "start": 1148.98,
+      "duration": 4.63,
+      "text": "travel a lot to make these videos, and using a VPN is a game changer.",
+      "en": "travel a lot to make these videos, and using a VPN is a game changer.",
+      "zh": ""
+    },
+    {
+      "start": 1153.61,
+      "duration": 1.79,
+      "text": "It allows us to access the news sites",
+      "en": "It allows us to access the news sites",
+      "zh": ""
+    },
+    {
+      "start": 1155.4,
+      "duration": 3.84,
+      "text": "and articles we need, no matter where in the world we are.",
+      "en": "and articles we need, no matter where in the world we are.",
+      "zh": ""
+    },
+    {
+      "start": 1159.24,
+      "duration": 2.71,
+      "text": "And personally, I also love that NordVPN allows me to stay up",
+      "en": "And personally, I also love that NordVPN allows me to stay up",
+      "zh": ""
+    },
+    {
+      "start": 1161.95,
+      "duration": 3.13,
+      "text": "to date with how the Canucks are doing back in Canada.",
+      "en": "to date with how the Canucks are doing back in Canada.",
+      "zh": ""
+    },
+    {
+      "start": 1165.08,
+      "duration": 3.21,
+      "text": "Not very well at the moment.",
+      "en": "Not very well at the moment.",
+      "zh": ""
+    },
+    {
+      "start": 1168.29,
+      "duration": 1.21,
+      "text": "Canucks have a real shot",
+      "en": "Canucks have a real shot",
+      "zh": ""
+    },
+    {
+      "start": 1169.5,
+      "duration": 2.38,
+      "text": "at the Cup this year.",
+      "en": "at the Cup this year.",
+      "zh": ""
+    },
+    {
+      "start": 1174.09,
+      "duration": 1.5,
+      "text": "But to try NordVPN for yourself,",
+      "en": "But to try NordVPN for yourself,",
+      "zh": ""
+    },
+    {
+      "start": 1175.59,
+      "duration": 3.55,
+      "text": "sign up at nordvpn.com/veritasium.",
+      "en": "sign up at nordvpn.com/veritasium.",
+      "zh": ""
+    },
+    {
+      "start": 1179.14,
+      "duration": 3.25,
+      "text": "Click that link in the description or scan this QR code.",
+      "en": "Click that link in the description or scan this QR code.",
+      "zh": ""
+    },
+    {
+      "start": 1182.39,
+      "duration": 3.04,
+      "text": "And when you do, you get a huge discount on a two year plan",
+      "en": "And when you do, you get a huge discount on a two year plan",
+      "zh": ""
+    },
+    {
+      "start": 1185.43,
+      "duration": 3.22,
+      "text": "and an additional four bonus months for free.",
+      "en": "and an additional four bonus months for free.",
+      "zh": ""
+    },
+    {
+      "start": 1188.65,
+      "duration": 4.46,
+      "text": "It's the best deal and it also comes with a 30 day money back guarantee.",
+      "en": "It's the best deal and it also comes with a 30 day money back guarantee.",
+      "zh": ""
+    },
+    {
+      "start": 1193.11,
+      "duration": 4.21,
+      "text": "So head to nordvpn.com/veritasium to try it out risk free.",
+      "en": "So head to nordvpn.com/veritasium to try it out risk free.",
+      "zh": ""
+    },
+    {
+      "start": 1197.32,
+      "duration": 2.46,
+      "text": "I want to thank NordVPN for sponsoring this part of the video.",
+      "en": "I want to thank NordVPN for sponsoring this part of the video.",
+      "zh": ""
+    },
+    {
+      "start": 1199.78,
+      "duration": 5.47,
+      "text": "And now let's get back to Feynman's crazy way of doing quantum mechanics.",
+      "en": "And now let's get back to Feynman's crazy way of doing quantum mechanics.",
+      "zh": ""
+    },
+    {
+      "start": 1205.25,
+      "duration": 4.04,
+      "text": "So according to Feynman, any time a particle, a photon, or even a",
+      "en": "So according to Feynman, any time a particle, a photon, or even a",
+      "zh": ""
+    },
+    {
+      "start": 1209.29,
+      "duration": 3.05,
+      "text": "macroscopic object moves from point 1 to point 2,",
+      "en": "macroscopic object moves from point 1 to point 2,",
+      "zh": ""
+    },
+    {
+      "start": 1212.34,
+      "duration": 2.96,
+      "text": "it has some chance to take any path.",
+      "en": "it has some chance to take any path.",
+      "zh": ""
+    },
+    {
+      "start": 1215.3,
+      "duration": 2.21,
+      "text": "And as preposterous as it might sound.",
+      "en": "And as preposterous as it might sound.",
+      "zh": ""
+    },
+    {
+      "start": 1217.51,
+      "duration": 4.0,
+      "text": "He found that we need to include all these paths in our calculation,",
+      "en": "He found that we need to include all these paths in our calculation,",
+      "zh": ""
+    },
+    {
+      "start": 1221.51,
+      "duration": 3.88,
+      "text": "where each path is weighted the same.",
+      "en": "where each path is weighted the same.",
+      "zh": ""
+    },
+    {
+      "start": 1225.39,
+      "duration": 0.79,
+      "text": "So why",
+      "en": "So why",
+      "zh": ""
+    },
+    {
+      "start": 1226.18,
+      "duration": 3.17,
+      "text": "then, do we not see all those crazy paths?",
+      "en": "then, do we not see all those crazy paths?",
+      "zh": ""
+    },
+    {
+      "start": 1229.35,
+      "duration": 4.17,
+      "text": "Well, that's because we still need to add up their amplitudes.",
+      "en": "Well, that's because we still need to add up their amplitudes.",
+      "zh": ""
+    },
+    {
+      "start": 1233.52,
+      "duration": 3.76,
+      "text": "For simplicity, imagine we only have three paths.",
+      "en": "For simplicity, imagine we only have three paths.",
+      "zh": ""
+    },
+    {
+      "start": 1237.28,
+      "duration": 1.79,
+      "text": "Then here's what we're going to do.",
+      "en": "Then here's what we're going to do.",
+      "zh": ""
+    },
+    {
+      "start": 1239.07,
+      "duration": 1.8,
+      "text": "First, let's take this one.",
+      "en": "First, let's take this one.",
+      "zh": ""
+    },
+    {
+      "start": 1240.87,
+      "duration": 3.67,
+      "text": "When the particle wave starts following it, we start a stopwatch.",
+      "en": "When the particle wave starts following it, we start a stopwatch.",
+      "zh": ""
+    },
+    {
+      "start": 1244.54,
+      "duration": 3.96,
+      "text": "It goes around and around very fast, and when it gets to the end point,",
+      "en": "It goes around and around very fast, and when it gets to the end point,",
+      "zh": ""
+    },
+    {
+      "start": 1248.5,
+      "duration": 1.75,
+      "text": "we hit stop.",
+      "en": "we hit stop.",
+      "zh": ""
+    },
+    {
+      "start": 1250.25,
+      "duration": 6.95,
+      "text": "We'll do the same for the other two paths. And then we add up",
+      "en": "We'll do the same for the other two paths. And then we add up",
+      "zh": ""
+    },
+    {
+      "start": 1257.2,
+      "duration": 3.09,
+      "text": "the arrows, square the result.",
+      "en": "the arrows, square the result.",
+      "zh": ""
+    },
+    {
+      "start": 1260.29,
+      "duration": 2.54,
+      "text": "And that is then proportional to the probability",
+      "en": "And that is then proportional to the probability",
+      "zh": ""
+    },
+    {
+      "start": 1262.83,
+      "duration": 2.59,
+      "text": "the particle took those paths to get there.",
+      "en": "the particle took those paths to get there.",
+      "zh": ""
+    },
+    {
+      "start": 1265.42,
+      "duration": 2.96,
+      "text": "In this case the arrow and square are pretty small, so",
+      "en": "In this case the arrow and square are pretty small, so",
+      "zh": ""
+    },
+    {
+      "start": 1268.38,
+      "duration": 7.46,
+      "text": "the probability of the particle going from 1 to 2 using these paths is small.",
+      "en": "the probability of the particle going from 1 to 2 using these paths is small.",
+      "zh": ""
+    },
+    {
+      "start": 1275.84,
+      "duration": 2.01,
+      "text": "Compare that with these three paths.",
+      "en": "Compare that with these three paths.",
+      "zh": ""
+    },
+    {
+      "start": 1277.85,
+      "duration": 2.91,
+      "text": "For example.",
+      "en": "For example.",
+      "zh": ""
+    },
+    {
+      "start": 1280.76,
+      "duration": 3.17,
+      "text": "Well now the arrow is much larger.",
+      "en": "Well now the arrow is much larger.",
+      "zh": ""
+    },
+    {
+      "start": 1283.93,
+      "duration": 1.21,
+      "text": "And this is important.",
+      "en": "And this is important.",
+      "zh": ""
+    },
+    {
+      "start": 1285.14,
+      "duration": 5.47,
+      "text": "The larger the resulting arrow, the higher the probability of that event happening.",
+      "en": "The larger the resulting arrow, the higher the probability of that event happening.",
+      "zh": ""
+    },
+    {
+      "start": 1290.61,
+      "duration": 4.0,
+      "text": "Now in these examples the stopwatch is not actually measuring time.",
+      "en": "Now in these examples the stopwatch is not actually measuring time.",
+      "zh": ""
+    },
+    {
+      "start": 1294.61,
+      "duration": 3.51,
+      "text": "Instead it measures something called the phase.",
+      "en": "Instead it measures something called the phase.",
+      "zh": ""
+    },
+    {
+      "start": 1298.12,
+      "duration": 3.42,
+      "text": "Just as in the double slit experiment, when a wave takes a different path",
+      "en": "Just as in the double slit experiment, when a wave takes a different path",
+      "zh": ""
+    },
+    {
+      "start": 1301.54,
+      "duration": 5.17,
+      "text": "from point 1 to 2, it will end up there with a different phase.",
+      "en": "from point 1 to 2, it will end up there with a different phase.",
+      "zh": ""
+    },
+    {
+      "start": 1306.71,
+      "duration": 2.12,
+      "text": "And this phase is what determines",
+      "en": "And this phase is what determines",
+      "zh": ""
+    },
+    {
+      "start": 1308.83,
+      "duration": 3.76,
+      "text": "the amplitude of the wave at that point.",
+      "en": "the amplitude of the wave at that point.",
+      "zh": ""
+    },
+    {
+      "start": 1312.59,
+      "duration": 5.09,
+      "text": "Mathematically, we can write the amplitude our stopwatch as e to the I phi,",
+      "en": "Mathematically, we can write the amplitude our stopwatch as e to the I phi,",
+      "zh": ""
+    },
+    {
+      "start": 1317.68,
+      "duration": 4.0,
+      "text": "where phi is the phase.",
+      "en": "where phi is the phase.",
+      "zh": ""
+    },
+    {
+      "start": 1321.68,
+      "duration": 3.75,
+      "text": "As the particle wave follows a path, its phase increases.",
+      "en": "As the particle wave follows a path, its phase increases.",
+      "zh": ""
+    },
+    {
+      "start": 1325.43,
+      "duration": 2.8,
+      "text": "Winding the vector around.",
+      "en": "Winding the vector around.",
+      "zh": ""
+    },
+    {
+      "start": 1328.23,
+      "duration": 2.29,
+      "text": "So now the big question is how much",
+      "en": "So now the big question is how much",
+      "zh": ""
+    },
+    {
+      "start": 1330.52,
+      "duration": 3.01,
+      "text": "does the phase change for each path?",
+      "en": "does the phase change for each path?",
+      "zh": ""
+    },
+    {
+      "start": 1333.53,
+      "duration": 3.33,
+      "text": "Well, to answer that, imagine we split up the path into many tiny",
+      "en": "Well, to answer that, imagine we split up the path into many tiny",
+      "zh": ""
+    },
+    {
+      "start": 1336.86,
+      "duration": 4.67,
+      "text": "sections, each one so small that it's effectively straight.",
+      "en": "sections, each one so small that it's effectively straight.",
+      "zh": ""
+    },
+    {
+      "start": 1341.53,
+      "duration": 1.0,
+      "text": "Then in each",
+      "en": "Then in each",
+      "zh": ""
+    },
+    {
+      "start": 1342.53,
+      "duration": 4.93,
+      "text": "section, the particle wave goes a distance delta x and a time delta t,",
+      "en": "section, the particle wave goes a distance delta x and a time delta t,",
+      "zh": ""
+    },
+    {
+      "start": 1347.46,
+      "duration": 2.87,
+      "text": "and the increase in phase is easy to compute.",
+      "en": "and the increase in phase is easy to compute.",
+      "zh": ""
+    },
+    {
+      "start": 1350.33,
+      "duration": 4.13,
+      "text": "It just depends on the wavelength and frequency of the wave.",
+      "en": "It just depends on the wavelength and frequency of the wave.",
+      "zh": ""
+    },
+    {
+      "start": 1354.46,
+      "duration": 2.8,
+      "text": "To find the total increase in phase for the whole path,",
+      "en": "To find the total increase in phase for the whole path,",
+      "zh": ""
+    },
+    {
+      "start": 1357.26,
+      "duration": 5.13,
+      "text": "we just add up all the little phase increases of all the individual sections.",
+      "en": "we just add up all the little phase increases of all the individual sections.",
+      "zh": ""
+    },
+    {
+      "start": 1362.39,
+      "duration": 4.5,
+      "text": "But we can sub in lambda equals h over mv from de Broglie,",
+      "en": "But we can sub in lambda equals h over mv from de Broglie,",
+      "zh": ""
+    },
+    {
+      "start": 1366.89,
+      "duration": 3.8,
+      "text": "and using e we can sub in for frequency.",
+      "en": "and using e we can sub in for frequency.",
+      "zh": ""
+    },
+    {
+      "start": 1370.69,
+      "duration": 4.13,
+      "text": "We can also simplify by writing h over two pi as h bar.",
+      "en": "We can also simplify by writing h over two pi as h bar.",
+      "zh": ""
+    },
+    {
+      "start": 1374.82,
+      "duration": 2.62,
+      "text": "To get this expression.",
+      "en": "To get this expression.",
+      "zh": ""
+    },
+    {
+      "start": 1377.44,
+      "duration": 2.55,
+      "text": "Then we can take delta t to the right.",
+      "en": "Then we can take delta t to the right.",
+      "zh": ""
+    },
+    {
+      "start": 1379.99,
+      "duration": 3.13,
+      "text": "And if we make delta t infinitesimally small,",
+      "en": "And if we make delta t infinitesimally small,",
+      "zh": ""
+    },
+    {
+      "start": 1383.12,
+      "duration": 3.5,
+      "text": "then we can replace this sum with an integral.",
+      "en": "then we can replace this sum with an integral.",
+      "zh": ""
+    },
+    {
+      "start": 1386.62,
+      "duration": 3.34,
+      "text": "But now Dx by Dt is just velocity.",
+      "en": "But now Dx by Dt is just velocity.",
+      "zh": ""
+    },
+    {
+      "start": 1389.96,
+      "duration": 3.08,
+      "text": "So we can write this as m b squared.",
+      "en": "So we can write this as m b squared.",
+      "zh": ""
+    },
+    {
+      "start": 1393.04,
+      "duration": 2.92,
+      "text": "Now we know that in the simplest case the total energy",
+      "en": "Now we know that in the simplest case the total energy",
+      "zh": ""
+    },
+    {
+      "start": 1395.96,
+      "duration": 3.46,
+      "text": "e is just kinetic plus potential energy.",
+      "en": "e is just kinetic plus potential energy.",
+      "zh": ""
+    },
+    {
+      "start": 1399.42,
+      "duration": 2.42,
+      "text": "And subbing that in we're left with the integral",
+      "en": "And subbing that in we're left with the integral",
+      "zh": ""
+    },
+    {
+      "start": 1401.84,
+      "duration": 4.8,
+      "text": "over time of kinetic energy minus potential energy.",
+      "en": "over time of kinetic energy minus potential energy.",
+      "zh": ""
+    },
+    {
+      "start": 1406.64,
+      "duration": 1.33,
+      "text": "But wait a second.",
+      "en": "But wait a second.",
+      "zh": ""
+    },
+    {
+      "start": 1407.97,
+      "duration": 3.17,
+      "text": "That is just the classical action.",
+      "en": "That is just the classical action.",
+      "zh": ""
+    },
+    {
+      "start": 1411.14,
+      "duration": 2.34,
+      "text": "So it's action that determines",
+      "en": "So it's action that determines",
+      "zh": ""
+    },
+    {
+      "start": 1413.48,
+      "duration": 3.09,
+      "text": "how fast the stopwatch turns.",
+      "en": "how fast the stopwatch turns.",
+      "zh": ""
+    },
+    {
+      "start": 1416.57,
+      "duration": 2.37,
+      "text": "As the particle moves along a trajectory,",
+      "en": "As the particle moves along a trajectory,",
+      "zh": ""
+    },
+    {
+      "start": 1418.94,
+      "duration": 4.8,
+      "text": "its action increases, and that is what increases the phase.",
+      "en": "its action increases, and that is what increases the phase.",
+      "zh": ""
+    },
+    {
+      "start": 1423.74,
+      "duration": 3.13,
+      "text": "And what's important to note is that h bar is tiny.",
+      "en": "And what's important to note is that h bar is tiny.",
+      "zh": ""
+    },
+    {
+      "start": 1426.87,
+      "duration": 3.79,
+      "text": "It's about ten to the -34 joule seconds, which is way",
+      "en": "It's about ten to the -34 joule seconds, which is way",
+      "zh": ""
+    },
+    {
+      "start": 1430.66,
+      "duration": 3.97,
+      "text": "smaller than the action of any everyday object.",
+      "en": "smaller than the action of any everyday object.",
+      "zh": ""
+    },
+    {
+      "start": 1434.63,
+      "duration": 3.83,
+      "text": "That means the phase of ordinary objects on ordinary paths",
+      "en": "That means the phase of ordinary objects on ordinary paths",
+      "zh": ""
+    },
+    {
+      "start": 1438.46,
+      "duration": 3.34,
+      "text": "spins around zillions of times, eventually pointing",
+      "en": "spins around zillions of times, eventually pointing",
+      "zh": ""
+    },
+    {
+      "start": 1441.8,
+      "duration": 3.3,
+      "text": "in some random direction.",
+      "en": "in some random direction.",
+      "zh": ""
+    },
+    {
+      "start": 1445.1,
+      "duration": 2.58,
+      "text": "If you consider a slightly different path,",
+      "en": "If you consider a slightly different path,",
+      "zh": ""
+    },
+    {
+      "start": 1447.68,
+      "duration": 6.22,
+      "text": "the action may be slightly different say 0.01 joule seconds different.",
+      "en": "the action may be slightly different say 0.01 joule seconds different.",
+      "zh": ""
+    },
+    {
+      "start": 1453.9,
+      "duration": 3.25,
+      "text": "That doesn't seem like much, but divide it by h bar",
+      "en": "That doesn't seem like much, but divide it by h bar",
+      "zh": ""
+    },
+    {
+      "start": 1457.15,
+      "duration": 3.71,
+      "text": "and the arrow will spin around ten to the 32 more times.",
+      "en": "and the arrow will spin around ten to the 32 more times.",
+      "zh": ""
+    },
+    {
+      "start": 1460.86,
+      "duration": 4.46,
+      "text": "So again, it will just point in some random direction.",
+      "en": "So again, it will just point in some random direction.",
+      "zh": ""
+    },
+    {
+      "start": 1465.32,
+      "duration": 0.71,
+      "text": "This is what",
+      "en": "This is what",
+      "zh": ""
+    },
+    {
+      "start": 1466.03,
+      "duration": 3.21,
+      "text": "happens to almost all of the possible paths.",
+      "en": "happens to almost all of the possible paths.",
+      "zh": ""
+    },
+    {
+      "start": 1469.24,
+      "duration": 2.97,
+      "text": "So when you add up the phases, they just cancel out.",
+      "en": "So when you add up the phases, they just cancel out.",
+      "zh": ""
+    },
+    {
+      "start": 1472.21,
+      "duration": 2.79,
+      "text": "They destructively interfere.",
+      "en": "They destructively interfere.",
+      "zh": ""
+    },
+    {
+      "start": 1475.0,
+      "duration": 3.0,
+      "text": "The only exception is for the paths closest",
+      "en": "The only exception is for the paths closest",
+      "zh": ""
+    },
+    {
+      "start": 1478.0,
+      "duration": 4.72,
+      "text": "to the path of least action, because these paths are at a minimum.",
+      "en": "to the path of least action, because these paths are at a minimum.",
+      "zh": ""
+    },
+    {
+      "start": 1482.72,
+      "duration": 3.92,
+      "text": "So if you make tiny changes to the path to first order,",
+      "en": "So if you make tiny changes to the path to first order,",
+      "zh": ""
+    },
+    {
+      "start": 1486.64,
+      "duration": 3.46,
+      "text": "the action doesn't change.",
+      "en": "the action doesn't change.",
+      "zh": ""
+    },
+    {
+      "start": 1490.1,
+      "duration": 3.84,
+      "text": "And so for other paths that are very close to the path of least action,",
+      "en": "And so for other paths that are very close to the path of least action,",
+      "zh": ""
+    },
+    {
+      "start": 1493.94,
+      "duration": 3.46,
+      "text": "their arrows point in basically the same direction.",
+      "en": "their arrows point in basically the same direction.",
+      "zh": ""
+    },
+    {
+      "start": 1497.4,
+      "duration": 2.17,
+      "text": "They constructively interfere.",
+      "en": "They constructively interfere.",
+      "zh": ""
+    },
+    {
+      "start": 1499.57,
+      "duration": 4.42,
+      "text": "And that is why those are the paths we see.",
+      "en": "And that is why those are the paths we see.",
+      "zh": ""
+    },
+    {
+      "start": 1503.99,
+      "duration": 3.08,
+      "text": "This explains how light knows where to go.",
+      "en": "This explains how light knows where to go.",
+      "zh": ""
+    },
+    {
+      "start": 1507.07,
+      "duration": 1.42,
+      "text": "I mean, it doesn't.",
+      "en": "I mean, it doesn't.",
+      "zh": ""
+    },
+    {
+      "start": 1508.49,
+      "duration": 2.88,
+      "text": "It just explores all possible paths,",
+      "en": "It just explores all possible paths,",
+      "zh": ""
+    },
+    {
+      "start": 1511.37,
+      "duration": 4.84,
+      "text": "but the past we end up seeing are the ones that interfere constructively.",
+      "en": "but the past we end up seeing are the ones that interfere constructively.",
+      "zh": ""
+    },
+    {
+      "start": 1516.21,
+      "duration": 7.05,
+      "text": "And those are the paths of least action.",
+      "en": "And those are the paths of least action.",
+      "zh": ""
+    },
+    {
+      "start": 1523.26,
+      "duration": 1.0,
+      "text": "So really,",
+      "en": "So really,",
+      "zh": ""
+    },
+    {
+      "start": 1524.26,
+      "duration": 4.0,
+      "text": "this is how classical mechanics emerges from quantum mechanics.",
+      "en": "this is how classical mechanics emerges from quantum mechanics.",
+      "zh": ""
+    },
+    {
+      "start": 1528.26,
+      "duration": 5.09,
+      "text": "It's why a ball follows the trajectory it does, and how planets orbit the sun.",
+      "en": "It's why a ball follows the trajectory it does, and how planets orbit the sun.",
+      "zh": ""
+    },
+    {
+      "start": 1533.35,
+      "duration": 2.92,
+      "text": "They don't really have a precise trajectory.",
+      "en": "They don't really have a precise trajectory.",
+      "zh": ""
+    },
+    {
+      "start": 1536.27,
+      "duration": 3.84,
+      "text": "Instead, everything explores all possible paths.",
+      "en": "Instead, everything explores all possible paths.",
+      "zh": ""
+    },
+    {
+      "start": 1540.11,
+      "duration": 4.0,
+      "text": "It's just that massive particles have large actions compared to hbar,",
+      "en": "It's just that massive particles have large actions compared to hbar,",
+      "zh": ""
+    },
+    {
+      "start": 1544.11,
+      "duration": 5.21,
+      "text": "so that only paths extremely close to the true path of least action survive.",
+      "en": "so that only paths extremely close to the true path of least action survive.",
+      "zh": ""
+    },
+    {
+      "start": 1549.32,
+      "duration": 2.63,
+      "text": "Which is why they're much more particle like.",
+      "en": "Which is why they're much more particle like.",
+      "zh": ""
+    },
+    {
+      "start": 1551.95,
+      "duration": 3.34,
+      "text": "If you go to much smaller particles like electrons or photons,",
+      "en": "If you go to much smaller particles like electrons or photons,",
+      "zh": ""
+    },
+    {
+      "start": 1555.29,
+      "duration": 3.54,
+      "text": "the actions are much smaller, and so there's more of a spread",
+      "en": "the actions are much smaller, and so there's more of a spread",
+      "zh": ""
+    },
+    {
+      "start": 1558.83,
+      "duration": 3.88,
+      "text": "in which trajectories they actually end up taking.",
+      "en": "in which trajectories they actually end up taking.",
+      "zh": ""
+    },
+    {
+      "start": 1562.71,
+      "duration": 2.71,
+      "text": "Now, you might say, I still don't believe you,",
+      "en": "Now, you might say, I still don't believe you,",
+      "zh": ""
+    },
+    {
+      "start": 1565.42,
+      "duration": 2.88,
+      "text": "but Casper has this incredible demo",
+      "en": "but Casper has this incredible demo",
+      "zh": ""
+    },
+    {
+      "start": 1568.3,
+      "duration": 5.09,
+      "text": "that should convince you 100% that this is really how the world works.",
+      "en": "that should convince you 100% that this is really how the world works.",
+      "zh": ""
+    },
+    {
+      "start": 1575.39,
+      "duration": 3.8,
+      "text": "To do it, I've taken a light, a mirror and a camera.",
+      "en": "To do it, I've taken a light, a mirror and a camera.",
+      "zh": ""
+    },
+    {
+      "start": 1579.19,
+      "duration": 3.17,
+      "text": "Now there are infinitely many paths that the light could take.",
+      "en": "Now there are infinitely many paths that the light could take.",
+      "zh": ""
+    },
+    {
+      "start": 1582.36,
+      "duration": 3.17,
+      "text": "And according to Feynman, we have to add the contributions of each them.",
+      "en": "And according to Feynman, we have to add the contributions of each them.",
+      "zh": ""
+    },
+    {
+      "start": 1585.6,
+      "duration": 3.42,
+      "text": "Including paths that go like this.",
+      "en": "Including paths that go like this.",
+      "zh": ""
+    },
+    {
+      "start": 1589.02,
+      "duration": 2.46,
+      "text": "Now, you might say he's crazy.",
+      "en": "Now, you might say he's crazy.",
+      "zh": ""
+    },
+    {
+      "start": 1591.48,
+      "duration": 2.19,
+      "text": "I'm not crazy. That's what happens.",
+      "en": "I'm not crazy. That's what happens.",
+      "zh": ""
+    },
+    {
+      "start": 1593.67,
+      "duration": 3.0,
+      "text": "Another possibility is I could come here",
+      "en": "Another possibility is I could come here",
+      "zh": ""
+    },
+    {
+      "start": 1596.67,
+      "duration": 0.88,
+      "text": "and go.",
+      "en": "and go.",
+      "zh": ""
+    },
+    {
+      "start": 1597.55,
+      "duration": 1.66,
+      "text": "Or it could come here and go.",
+      "en": "Or it could come here and go.",
+      "zh": ""
+    },
+    {
+      "start": 1599.21,
+      "duration": 3.76,
+      "text": "Or it could come where you'd like it to come and go.",
+      "en": "Or it could come where you'd like it to come and go.",
+      "zh": ""
+    },
+    {
+      "start": 1602.97,
+      "duration": 2.46,
+      "text": "And it can go over here",
+      "en": "And it can go over here",
+      "zh": ""
+    },
+    {
+      "start": 1605.43,
+      "duration": 1.83,
+      "text": "and go and so on and so on.",
+      "en": "and go and so on and so on.",
+      "zh": ""
+    },
+    {
+      "start": 1607.26,
+      "duration": 1.47,
+      "text": "And these are all possibilities.",
+      "en": "And these are all possibilities.",
+      "zh": ""
+    },
+    {
+      "start": 1608.73,
+      "duration": 3.08,
+      "text": "And every single one of these paths has their own little arrow.",
+      "en": "And every single one of these paths has their own little arrow.",
+      "zh": ""
+    },
+    {
+      "start": 1611.81,
+      "duration": 4.05,
+      "text": "So what we can do is we can look at all those arrows and see where they line up.",
+      "en": "So what we can do is we can look at all those arrows and see where they line up.",
+      "zh": ""
+    },
+    {
+      "start": 1615.86,
+      "duration": 4.14,
+      "text": "And so if I turn on this light, that's exactly where you see it reflects",
+      "en": "And so if I turn on this light, that's exactly where you see it reflects",
+      "zh": ""
+    },
+    {
+      "start": 1620.0,
+      "duration": 4.13,
+      "text": "that at the angle of incidence is equal to the angle of reflection.",
+      "en": "that at the angle of incidence is equal to the angle of reflection.",
+      "zh": ""
+    },
+    {
+      "start": 1624.13,
+      "duration": 2.88,
+      "text": "But now what I'm going to do is I'm going to cover up that spot",
+      "en": "But now what I'm going to do is I'm going to cover up that spot",
+      "zh": ""
+    },
+    {
+      "start": 1627.01,
+      "duration": 2.83,
+      "text": "so that we no longer see the light reflect.",
+      "en": "so that we no longer see the light reflect.",
+      "zh": ""
+    },
+    {
+      "start": 1629.84,
+      "duration": 2.55,
+      "text": "And then I'm going to prove that really Feynman is right.",
+      "en": "And then I'm going to prove that really Feynman is right.",
+      "zh": ""
+    },
+    {
+      "start": 1632.39,
+      "duration": 2.83,
+      "text": "That really light also goes like this.",
+      "en": "That really light also goes like this.",
+      "zh": ""
+    },
+    {
+      "start": 1635.22,
+      "duration": 3.34,
+      "text": "It's just that most of the time, those effects are cancelled out.",
+      "en": "It's just that most of the time, those effects are cancelled out.",
+      "zh": ""
+    },
+    {
+      "start": 1638.56,
+      "duration": 2.8,
+      "text": "Now that sounds impossible, right?",
+      "en": "Now that sounds impossible, right?",
+      "zh": ""
+    },
+    {
+      "start": 1641.36,
+      "duration": 3.37,
+      "text": "But let's zoom in to this tiny piece right here.",
+      "en": "But let's zoom in to this tiny piece right here.",
+      "zh": ""
+    },
+    {
+      "start": 1644.73,
+      "duration": 3.42,
+      "text": "Then we see all these different paths and all the arrows just go around",
+      "en": "Then we see all these different paths and all the arrows just go around",
+      "zh": ""
+    },
+    {
+      "start": 1648.15,
+      "duration": 1.21,
+      "text": "and around in circles.",
+      "en": "and around in circles.",
+      "zh": ""
+    },
+    {
+      "start": 1649.36,
+      "duration": 3.72,
+      "text": "So when you add them up, they all just cancel out.",
+      "en": "So when you add them up, they all just cancel out.",
+      "zh": ""
+    },
+    {
+      "start": 1653.08,
+      "duration": 4.17,
+      "text": "But what if I cover up about half of them like so.",
+      "en": "But what if I cover up about half of them like so.",
+      "zh": ""
+    },
+    {
+      "start": 1657.68,
+      "duration": 4.38,
+      "text": "Well, now when I add up those arrows you suddenly do see a large resulting arrow.",
+      "en": "Well, now when I add up those arrows you suddenly do see a large resulting arrow.",
+      "zh": ""
+    },
+    {
+      "start": 1662.06,
+      "duration": 4.88,
+      "text": "And so if I can somehow cover up this mirror in many, many tiny strips,",
+      "en": "And so if I can somehow cover up this mirror in many, many tiny strips,",
+      "zh": ""
+    },
+    {
+      "start": 1666.94,
+      "duration": 3.63,
+      "text": "then I should be able to get the light to reflect like this.",
+      "en": "then I should be able to get the light to reflect like this.",
+      "zh": ""
+    },
+    {
+      "start": 1670.57,
+      "duration": 4.84,
+      "text": "And I can do that with this piece of foil right here on this piece of foil.",
+      "en": "And I can do that with this piece of foil right here on this piece of foil.",
+      "zh": ""
+    },
+    {
+      "start": 1675.41,
+      "duration": 3.71,
+      "text": "There are about a thousand lines per millimeter, and that should be enough",
+      "en": "There are about a thousand lines per millimeter, and that should be enough",
+      "zh": ""
+    },
+    {
+      "start": 1679.12,
+      "duration": 1.46,
+      "text": "to get this effect.",
+      "en": "to get this effect.",
+      "zh": ""
+    },
+    {
+      "start": 1680.58,
+      "duration": 3.21,
+      "text": "So let me turn off the lights.",
+      "en": "So let me turn off the lights.",
+      "zh": ""
+    },
+    {
+      "start": 1683.79,
+      "duration": 3.24,
+      "text": "So let's see I'm going to turn it on in 321.",
+      "en": "So let's see I'm going to turn it on in 321.",
+      "zh": ""
+    },
+    {
+      "start": 1688.93,
+      "duration": 3.88,
+      "text": "We see it.",
+      "en": "We see it.",
+      "zh": ""
+    },
+    {
+      "start": 1693.41,
+      "duration": 1.08,
+      "text": "That is so cool.",
+      "en": "That is so cool.",
+      "zh": ""
+    },
+    {
+      "start": 1694.49,
+      "duration": 2.88,
+      "text": "It actually looks a lot weirder than I was expecting it to.",
+      "en": "It actually looks a lot weirder than I was expecting it to.",
+      "zh": ""
+    },
+    {
+      "start": 1697.37,
+      "duration": 1.67,
+      "text": "I was expecting more like, one spot,",
+      "en": "I was expecting more like, one spot,",
+      "zh": ""
+    },
+    {
+      "start": 1699.04,
+      "duration": 3.08,
+      "text": "but there's many, many spots where it's reflecting.",
+      "en": "but there's many, many spots where it's reflecting.",
+      "zh": ""
+    },
+    {
+      "start": 1702.12,
+      "duration": 1.55,
+      "text": "Oh, okay. Okay.",
+      "en": "Oh, okay. Okay.",
+      "zh": ""
+    },
+    {
+      "start": 1703.67,
+      "duration": 3.17,
+      "text": "And just to show, I haven't been cheating you, right",
+      "en": "And just to show, I haven't been cheating you, right",
+      "zh": ""
+    },
+    {
+      "start": 1706.84,
+      "duration": 3.04,
+      "text": "underneath is my finger.",
+      "en": "underneath is my finger.",
+      "zh": ""
+    },
+    {
+      "start": 1709.88,
+      "duration": 4.26,
+      "text": "And even with the light on, you know, we see the light reflect.",
+      "en": "And even with the light on, you know, we see the light reflect.",
+      "zh": ""
+    },
+    {
+      "start": 1714.14,
+      "duration": 3.54,
+      "text": "And if we remove the cover,",
+      "en": "And if we remove the cover,",
+      "zh": ""
+    },
+    {
+      "start": 1717.68,
+      "duration": 3.01,
+      "text": "then what do we see?",
+      "en": "then what do we see?",
+      "zh": ""
+    },
+    {
+      "start": 1720.69,
+      "duration": 3.5,
+      "text": "Yeah, we see exactly the normal reflection",
+      "en": "Yeah, we see exactly the normal reflection",
+      "zh": ""
+    },
+    {
+      "start": 1724.19,
+      "duration": 3.09,
+      "text": "where it's always supposed to go, which is right there.",
+      "en": "where it's always supposed to go, which is right there.",
+      "zh": ""
+    },
+    {
+      "start": 1727.28,
+      "duration": 3.12,
+      "text": "And then we've got now all these extra reflections,",
+      "en": "And then we've got now all these extra reflections,",
+      "zh": ""
+    },
+    {
+      "start": 1730.4,
+      "duration": 4.3,
+      "text": "all these extra bits where the pattern just lines up.",
+      "en": "all these extra bits where the pattern just lines up.",
+      "zh": ""
+    },
+    {
+      "start": 1734.7,
+      "duration": 2.43,
+      "text": "So very, very cool.",
+      "en": "So very, very cool.",
+      "zh": ""
+    },
+    {
+      "start": 1737.13,
+      "duration": 2.38,
+      "text": "When I was talking about this with a friend, actually,",
+      "en": "When I was talking about this with a friend, actually,",
+      "zh": ""
+    },
+    {
+      "start": 1739.51,
+      "duration": 2.21,
+      "text": "he said, yeah, but you're using a diffraction grating.",
+      "en": "he said, yeah, but you're using a diffraction grating.",
+      "zh": ""
+    },
+    {
+      "start": 1741.72,
+      "duration": 1.16,
+      "text": "That's kind of like cheating.",
+      "en": "That's kind of like cheating.",
+      "zh": ""
+    },
+    {
+      "start": 1742.88,
+      "duration": 2.51,
+      "text": "You get all these other reflections right now",
+      "en": "You get all these other reflections right now",
+      "zh": ""
+    },
+    {
+      "start": 1745.39,
+      "duration": 2.96,
+      "text": "and this light is just going in all directions.",
+      "en": "and this light is just going in all directions.",
+      "zh": ""
+    },
+    {
+      "start": 1748.35,
+      "duration": 1.83,
+      "text": "And so there's one other thing.",
+      "en": "And so there's one other thing.",
+      "zh": ""
+    },
+    {
+      "start": 1750.18,
+      "duration": 3.13,
+      "text": "I've been super, super curious to try.",
+      "en": "I've been super, super curious to try.",
+      "zh": ""
+    },
+    {
+      "start": 1753.31,
+      "duration": 5.63,
+      "text": "I also want to do this with a laser where I shine the laser right next to it.",
+      "en": "I also want to do this with a laser where I shine the laser right next to it.",
+      "zh": ""
+    },
+    {
+      "start": 1758.94,
+      "duration": 3.79,
+      "text": "And then if light does take every possible path, we should also see it",
+      "en": "And then if light does take every possible path, we should also see it",
+      "zh": ""
+    },
+    {
+      "start": 1762.73,
+      "duration": 1.13,
+      "text": "come off here.",
+      "en": "come off here.",
+      "zh": ""
+    },
+    {
+      "start": 1763.86,
+      "duration": 1.71,
+      "text": "It probably shouldn't work.",
+      "en": "It probably shouldn't work.",
+      "zh": ""
+    },
+    {
+      "start": 1765.57,
+      "duration": 3.21,
+      "text": "I actually have a laser right over here",
+      "en": "I actually have a laser right over here",
+      "zh": ""
+    },
+    {
+      "start": 1768.78,
+      "duration": 3.8,
+      "text": "and we can see when I shine it.",
+      "en": "and we can see when I shine it.",
+      "zh": ""
+    },
+    {
+      "start": 1772.58,
+      "duration": 1.12,
+      "text": "It really does.",
+      "en": "It really does.",
+      "zh": ""
+    },
+    {
+      "start": 1773.7,
+      "duration": 2.59,
+      "text": "Just go to one spot and you can see where that spot is.",
+      "en": "Just go to one spot and you can see where that spot is.",
+      "zh": ""
+    },
+    {
+      "start": 1776.29,
+      "duration": 4.63,
+      "text": "It's right over there, which is about the same place where we had our reflection.",
+      "en": "It's right over there, which is about the same place where we had our reflection.",
+      "zh": ""
+    },
+    {
+      "start": 1780.92,
+      "duration": 3.25,
+      "text": "And you can also see right now if",
+      "en": "And you can also see right now if",
+      "zh": ""
+    },
+    {
+      "start": 1784.17,
+      "duration": 3.8,
+      "text": "we look at this view that you cannot see the laser light at all.",
+      "en": "we look at this view that you cannot see the laser light at all.",
+      "zh": ""
+    },
+    {
+      "start": 1787.97,
+      "duration": 0.63,
+      "text": "Right.",
+      "en": "Right.",
+      "zh": ""
+    },
+    {
+      "start": 1788.6,
+      "duration": 3.71,
+      "text": "Like I could see the laser, but I have to bring it out all the way over here.",
+      "en": "Like I could see the laser, but I have to bring it out all the way over here.",
+      "zh": ""
+    },
+    {
+      "start": 1792.31,
+      "duration": 2.71,
+      "text": "And then I'm able to sort of see the light.",
+      "en": "And then I'm able to sort of see the light.",
+      "zh": ""
+    },
+    {
+      "start": 1795.02,
+      "duration": 5.09,
+      "text": "But if I just put it up here, you can see the reflection.",
+      "en": "But if I just put it up here, you can see the reflection.",
+      "zh": ""
+    },
+    {
+      "start": 1800.11,
+      "duration": 2.58,
+      "text": "Now, what I'm going to do next is I'm going to put",
+      "en": "Now, what I'm going to do next is I'm going to put",
+      "zh": ""
+    },
+    {
+      "start": 1802.69,
+      "duration": 3.67,
+      "text": "this foil, this magic foil,",
+      "en": "this foil, this magic foil,",
+      "zh": ""
+    },
+    {
+      "start": 1806.36,
+      "duration": 3.71,
+      "text": "and I'm going to put it over here and we can turn off this.",
+      "en": "and I'm going to put it over here and we can turn off this.",
+      "zh": ""
+    },
+    {
+      "start": 1810.07,
+      "duration": 3.3,
+      "text": "And now let's see what happens when I turn on the laser.",
+      "en": "And now let's see what happens when I turn on the laser.",
+      "zh": ""
+    },
+    {
+      "start": 1817.73,
+      "duration": 1.4,
+      "text": "Wait wait wait wait.",
+      "en": "Wait wait wait wait.",
+      "zh": ""
+    },
+    {
+      "start": 1819.13,
+      "duration": 2.61,
+      "text": "No way,",
+      "en": "No way,",
+      "zh": ""
+    },
+    {
+      "start": 1822.54,
+      "duration": 1.05,
+      "text": "no way.",
+      "en": "no way.",
+      "zh": ""
+    },
+    {
+      "start": 1823.59,
+      "duration": 1.46,
+      "text": "It works.",
+      "en": "It works.",
+      "zh": ""
+    },
+    {
+      "start": 1825.05,
+      "duration": 2.72,
+      "text": "It works. Wait. What?",
+      "en": "It works. Wait. What?",
+      "zh": ""
+    },
+    {
+      "start": 1827.77,
+      "duration": 2.46,
+      "text": "Look where the laser is going.",
+      "en": "Look where the laser is going.",
+      "zh": ""
+    },
+    {
+      "start": 1830.23,
+      "duration": 4.42,
+      "text": "Oh, my God, it actually works.",
+      "en": "Oh, my God, it actually works.",
+      "zh": ""
+    },
+    {
+      "start": 1834.65,
+      "duration": 2.63,
+      "text": "What? What?",
+      "en": "What? What?",
+      "zh": ""
+    },
+    {
+      "start": 1837.28,
+      "duration": 2.96,
+      "text": "This is definitely the coolest demo I've ever done.",
+      "en": "This is definitely the coolest demo I've ever done.",
+      "zh": ""
+    },
+    {
+      "start": 1840.24,
+      "duration": 4.05,
+      "text": "So what I was doing is I was holding the laser, and I can show you right now.",
+      "en": "So what I was doing is I was holding the laser, and I can show you right now.",
+      "zh": ""
+    },
+    {
+      "start": 1844.29,
+      "duration": 3.42,
+      "text": "I was shining it down, like, this way off.",
+      "en": "I was shining it down, like, this way off.",
+      "zh": ""
+    },
+    {
+      "start": 1847.71,
+      "duration": 2.38,
+      "text": "And you could still see it reflect.",
+      "en": "And you could still see it reflect.",
+      "zh": ""
+    },
+    {
+      "start": 1850.09,
+      "duration": 3.29,
+      "text": "But if I take this away, it disappears.",
+      "en": "But if I take this away, it disappears.",
+      "zh": ""
+    },
+    {
+      "start": 1853.38,
+      "duration": 4.34,
+      "text": "And if I put this back, it appears",
+      "en": "And if I put this back, it appears",
+      "zh": ""
+    },
+    {
+      "start": 1857.72,
+      "duration": 2.67,
+      "text": "so that it shows really that we cannot",
+      "en": "so that it shows really that we cannot",
+      "zh": ""
+    },
+    {
+      "start": 1860.39,
+      "duration": 4.75,
+      "text": "get rid of the area which gives zero that it really is canceling out.",
+      "en": "get rid of the area which gives zero that it really is canceling out.",
+      "zh": ""
+    },
+    {
+      "start": 1865.14,
+      "duration": 2.34,
+      "text": "And if we do clever things to it,",
+      "en": "And if we do clever things to it,",
+      "zh": ""
+    },
+    {
+      "start": 1867.48,
+      "duration": 7.76,
+      "text": "we can demonstrate the reality of the reflections from this part of the mirror.",
+      "en": "we can demonstrate the reality of the reflections from this part of the mirror.",
+      "zh": ""
+    },
+    {
+      "start": 1875.24,
+      "duration": 1.71,
+      "text": "So light and by extension,",
+      "en": "So light and by extension,",
+      "zh": ""
+    },
+    {
+      "start": 1876.95,
+      "duration": 3.96,
+      "text": "everything really does explore all possible paths.",
+      "en": "everything really does explore all possible paths.",
+      "zh": ""
+    },
+    {
+      "start": 1880.91,
+      "duration": 4.34,
+      "text": "It's just that most of the time the crazy paths destructively interfere.",
+      "en": "It's just that most of the time the crazy paths destructively interfere.",
+      "zh": ""
+    },
+    {
+      "start": 1885.25,
+      "duration": 3.75,
+      "text": "That's because the actions of nearby paths change rapidly.",
+      "en": "That's because the actions of nearby paths change rapidly.",
+      "zh": ""
+    },
+    {
+      "start": 1889.0,
+      "duration": 1.17,
+      "text": "Now, I've studied physics",
+      "en": "Now, I've studied physics",
+      "zh": ""
+    },
+    {
+      "start": 1890.17,
+      "duration": 3.08,
+      "text": "for most of my life, and I feel like I never really appreciated",
+      "en": "for most of my life, and I feel like I never really appreciated",
+      "zh": ""
+    },
+    {
+      "start": 1893.25,
+      "duration": 3.63,
+      "text": "how important action and the principle of least action are.",
+      "en": "how important action and the principle of least action are.",
+      "zh": ""
+    },
+    {
+      "start": 1896.88,
+      "duration": 2.5,
+      "text": "But now I think I finally get it.",
+      "en": "But now I think I finally get it.",
+      "zh": ""
+    },
+    {
+      "start": 1899.38,
+      "duration": 1.05,
+      "text": "And I finally get why.",
+      "en": "And I finally get why.",
+      "zh": ""
+    },
+    {
+      "start": 1900.43,
+      "duration": 2.13,
+      "text": "If you ask theoretical physicists what they're working",
+      "en": "If you ask theoretical physicists what they're working",
+      "zh": ""
+    },
+    {
+      "start": 1902.56,
+      "duration": 3.25,
+      "text": "on, they'll rarely talk about energy or forces.",
+      "en": "on, they'll rarely talk about energy or forces.",
+      "zh": ""
+    },
+    {
+      "start": 1905.81,
+      "duration": 2.66,
+      "text": "Most of the time, they'll talk about action.",
+      "en": "Most of the time, they'll talk about action.",
+      "zh": ""
+    },
+    {
+      "start": 1908.47,
+      "duration": 3.71,
+      "text": "Nobody in particle physics approaches particle physics",
+      "en": "Nobody in particle physics approaches particle physics",
+      "zh": ""
+    },
+    {
+      "start": 1912.18,
+      "duration": 2.97,
+      "text": "from a viewpoint other than least action.",
+      "en": "from a viewpoint other than least action.",
+      "zh": ""
+    },
+    {
+      "start": 1915.15,
+      "duration": 4.58,
+      "text": "But we teach physics historically, and no least action",
+      "en": "But we teach physics historically, and no least action",
+      "zh": ""
+    },
+    {
+      "start": 1919.73,
+      "duration": 3.26,
+      "text": "is almost like the new kid on the block for understanding physics.",
+      "en": "is almost like the new kid on the block for understanding physics.",
+      "zh": ""
+    },
+    {
+      "start": 1922.99,
+      "duration": 1.25,
+      "text": "And so, yeah, we build up to it.",
+      "en": "And so, yeah, we build up to it.",
+      "zh": ""
+    },
+    {
+      "start": 1924.24,
+      "duration": 1.08,
+      "text": "But in reality,",
+      "en": "But in reality,",
+      "zh": ""
+    },
+    {
+      "start": 1925.32,
+      "duration": 4.24,
+      "text": "I think life's a lot easier once you realize this underlying principle,",
+      "en": "I think life's a lot easier once you realize this underlying principle,",
+      "zh": ""
+    },
+    {
+      "start": 1929.56,
+      "duration": 3.04,
+      "text": "because when you do, then all you have to do is write down",
+      "en": "because when you do, then all you have to do is write down",
+      "zh": ""
+    },
+    {
+      "start": 1932.6,
+      "duration": 3.76,
+      "text": "the correct Lagrangian so you get the right action and out come",
+      "en": "the correct Lagrangian so you get the right action and out come",
+      "zh": ""
+    },
+    {
+      "start": 1936.36,
+      "duration": 1.58,
+      "text": "the laws of physics.",
+      "en": "the laws of physics.",
+      "zh": ""
+    },
+    {
+      "start": 1937.94,
+      "duration": 3.13,
+      "text": "So you've got a separate Lagrangian for classical mechanics,",
+      "en": "So you've got a separate Lagrangian for classical mechanics,",
+      "zh": ""
+    },
+    {
+      "start": 1941.07,
+      "duration": 4.17,
+      "text": "for special relativity, for electrodynamics, and so on.",
+      "en": "for special relativity, for electrodynamics, and so on.",
+      "zh": ""
+    },
+    {
+      "start": 1945.24,
+      "duration": 3.96,
+      "text": "It's a single mathematical framework that, once you've learned it,",
+      "en": "It's a single mathematical framework that, once you've learned it,",
+      "zh": ""
+    },
+    {
+      "start": 1949.2,
+      "duration": 4.84,
+      "text": "then you can apply it in different places in exactly the same way.",
+      "en": "then you can apply it in different places in exactly the same way.",
+      "zh": ""
+    },
+    {
+      "start": 1954.04,
+      "duration": 2.25,
+      "text": "The hunt for the theory of everything, right.",
+      "en": "The hunt for the theory of everything, right.",
+      "zh": ""
+    },
+    {
+      "start": 1956.29,
+      "duration": 2.13,
+      "text": "The thing that will encompass all of physics",
+      "en": "The thing that will encompass all of physics",
+      "zh": ""
+    },
+    {
+      "start": 1958.42,
+      "duration": 3.42,
+      "text": "in reality, what people are asking is what is this Lagrangian",
+      "en": "in reality, what people are asking is what is this Lagrangian",
+      "zh": ""
+    },
+    {
+      "start": 1961.84,
+      "duration": 3.42,
+      "text": "that can spit out all of the laws of physics in this universe?",
+      "en": "that can spit out all of the laws of physics in this universe?",
+      "zh": ""
+    },
+    {
+      "start": 1965.26,
+      "duration": 1.75,
+      "text": "That's really what they're asking.",
+      "en": "That's really what they're asking.",
+      "zh": ""
+    },
+    {
+      "start": 1967.01,
+      "duration": 1.84,
+      "text": "The moment we haven't really found that right.",
+      "en": "The moment we haven't really found that right.",
+      "zh": ""
+    },
+    {
+      "start": 1968.85,
+      "duration": 3.46,
+      "text": "Because we can we can sticky tape things together,",
+      "en": "Because we can we can sticky tape things together,",
+      "zh": ""
+    },
+    {
+      "start": 1972.31,
+      "duration": 2.75,
+      "text": "but we don't know if that's the proper mathematical structure.",
+      "en": "but we don't know if that's the proper mathematical structure.",
+      "zh": ""
+    },
+    {
+      "start": 1975.06,
+      "duration": 1.8,
+      "text": "So that's what people are hunting for.",
+      "en": "So that's what people are hunting for.",
+      "zh": ""
+    }
+  ],
+  "words": []
+}

@@ -1,0 +1,6039 @@
+{
+  "cues": [
+    {
+      "start": 0.12,
+      "duration": 1.5,
+      "text": "- This is what the inside",
+      "en": "- This is what the inside",
+      "zh": "- This is what the inside"
+    },
+    {
+      "start": 1.62,
+      "duration": 2.19,
+      "text": "of a lithium-ion battery looks like.",
+      "en": "of a lithium-ion battery looks like.",
+      "zh": "of a lithium-ion battery looks like."
+    },
+    {
+      "start": 3.81,
+      "duration": 3.75,
+      "text": "It's not exactly high tech, just two meters of foil",
+      "en": "It's not exactly high tech, just two meters of foil",
+      "zh": "It's not exactly high tech, just two meters of foil"
+    },
+    {
+      "start": 7.56,
+      "duration": 1.26,
+      "text": "coated in black paste,",
+      "en": "coated in black paste,",
+      "zh": "coated in black paste,"
+    },
+    {
+      "start": 8.82,
+      "duration": 3.33,
+      "text": "all packed into this tiny 45 gram cylinder.",
+      "en": "all packed into this tiny 45 gram cylinder.",
+      "zh": "all packed into this tiny 45 gram cylinder."
+    },
+    {
+      "start": 12.15,
+      "duration": 3.0,
+      "text": "But these are some of the best batteries we have.",
+      "en": "But these are some of the best batteries we have.",
+      "zh": "But these are some of the best batteries we have."
+    },
+    {
+      "start": 15.15,
+      "duration": 1.77,
+      "text": "They power everything from laptops",
+      "en": "They power everything from laptops",
+      "zh": "They power everything from laptops"
+    },
+    {
+      "start": 16.92,
+      "duration": 3.69,
+      "text": "and electric vehicles to orbiting satellites.",
+      "en": "and electric vehicles to orbiting satellites.",
+      "zh": "and electric vehicles to orbiting satellites."
+    },
+    {
+      "start": 20.61,
+      "duration": 1.26,
+      "text": "Yet when a battery fails,",
+      "en": "Yet when a battery fails,",
+      "zh": "Yet when a battery fails,"
+    },
+    {
+      "start": 21.87,
+      "duration": 2.79,
+      "text": "all that energy can get released in the wrong way.",
+      "en": "all that energy can get released in the wrong way.",
+      "zh": "all that energy can get released in the wrong way."
+    },
+    {
+      "start": 26.22,
+      "duration": 0.83,
+      "text": "- Oh my God.",
+      "en": "- Oh my God.",
+      "zh": "- Oh my God."
+    },
+    {
+      "start": 27.05,
+      "duration": 1.06,
+      "text": "- [Reporter] The latest incident",
+      "en": "- [Reporter] The latest incident",
+      "zh": "- [Reporter] The latest incident"
+    },
+    {
+      "start": 28.11,
+      "duration": 2.34,
+      "text": "involving a lithium-ion battery.",
+      "en": "involving a lithium-ion battery.",
+      "zh": "involving a lithium-ion battery."
+    },
+    {
+      "start": 30.45,
+      "duration": 2.64,
+      "text": "- So how did something so rudimentary looking",
+      "en": "- So how did something so rudimentary looking",
+      "zh": "- So how did something so rudimentary looking"
+    },
+    {
+      "start": 33.09,
+      "duration": 3.96,
+      "text": "end up in almost every electronic device on the planet?",
+      "en": "end up in almost every electronic device on the planet?",
+      "zh": "end up in almost every electronic device on the planet?"
+    },
+    {
+      "start": 37.05,
+      "duration": 2.94,
+      "text": "And why don't we have anything better?",
+      "en": "And why don't we have anything better?",
+      "zh": "And why don't we have anything better?"
+    },
+    {
+      "start": 39.99,
+      "duration": 2.64,
+      "text": "In the early 1980s, most rechargeable batteries",
+      "en": "In the early 1980s, most rechargeable batteries",
+      "zh": "In the early 1980s, most rechargeable batteries"
+    },
+    {
+      "start": 42.63,
+      "duration": 3.48,
+      "text": "were stuck at just 40 to 60 watt hours per kilogram,",
+      "en": "were stuck at just 40 to 60 watt hours per kilogram,",
+      "zh": "were stuck at just 40 to 60 watt hours per kilogram,"
+    },
+    {
+      "start": 46.11,
+      "duration": 2.49,
+      "text": "meaning you would need a kilogram of battery",
+      "en": "meaning you would need a kilogram of battery",
+      "zh": "meaning you would need a kilogram of battery"
+    },
+    {
+      "start": 48.6,
+      "duration": 3.48,
+      "text": "to power a 40 watt light bulb for just an hour.",
+      "en": "to power a 40 watt light bulb for just an hour.",
+      "zh": "to power a 40 watt light bulb for just an hour."
+    },
+    {
+      "start": 52.08,
+      "duration": 1.74,
+      "text": "As a result, when the first commercial",
+      "en": "As a result, when the first commercial",
+      "zh": "As a result, when the first commercial"
+    },
+    {
+      "start": 53.82,
+      "duration": 4.2,
+      "text": "mobile phone launched in 1983, it was pretty unimpressive.",
+      "en": "mobile phone launched in 1983, it was pretty unimpressive.",
+      "zh": "mobile phone launched in 1983, it was pretty unimpressive."
+    },
+    {
+      "start": 58.02,
+      "duration": 1.71,
+      "text": "It took 10 hours to charge",
+      "en": "It took 10 hours to charge",
+      "zh": "It took 10 hours to charge"
+    },
+    {
+      "start": 59.73,
+      "duration": 2.46,
+      "text": "for just 30 minutes of talk time.",
+      "en": "for just 30 minutes of talk time.",
+      "zh": "for just 30 minutes of talk time."
+    },
+    {
+      "start": 62.19,
+      "duration": 2.4,
+      "text": "Laptops, cameras, even medical devices",
+      "en": "Laptops, cameras, even medical devices",
+      "zh": "Laptops, cameras, even medical devices"
+    },
+    {
+      "start": 64.59,
+      "duration": 2.79,
+      "text": "all suffered from the same bulky batteries.",
+      "en": "all suffered from the same bulky batteries.",
+      "zh": "all suffered from the same bulky batteries."
+    },
+    {
+      "start": 67.38,
+      "duration": 1.71,
+      "text": "Everyone from electronics giants",
+      "en": "Everyone from electronics giants",
+      "zh": "Everyone from electronics giants"
+    },
+    {
+      "start": 69.09,
+      "duration": 2.73,
+      "text": "to oil companies were trying to make a better battery,",
+      "en": "to oil companies were trying to make a better battery,",
+      "zh": "to oil companies were trying to make a better battery,"
+    },
+    {
+      "start": 71.82,
+      "duration": 2.07,
+      "text": "because they knew that even just doubling",
+      "en": "because they knew that even just doubling",
+      "zh": "because they knew that even just doubling"
+    },
+    {
+      "start": 73.89,
+      "duration": 1.65,
+      "text": "the energy density could unlock",
+      "en": "the energy density could unlock",
+      "zh": "the energy density could unlock"
+    },
+    {
+      "start": 75.54,
+      "duration": 1.86,
+      "text": "a new era of portable electronics",
+      "en": "a new era of portable electronics",
+      "zh": "a new era of portable electronics"
+    },
+    {
+      "start": 77.4,
+      "duration": 1.68,
+      "text": "and power the digital revolution.",
+      "en": "and power the digital revolution.",
+      "zh": "and power the digital revolution."
+    },
+    {
+      "start": 79.95,
+      "duration": 1.44,
+      "text": "But what no one realized",
+      "en": "But what no one realized",
+      "zh": "But what no one realized"
+    },
+    {
+      "start": 81.39,
+      "duration": 3.3,
+      "text": "is that someone had already found the solution.",
+      "en": "is that someone had already found the solution.",
+      "zh": "is that someone had already found the solution."
+    },
+    {
+      "start": 85.98,
+      "duration": 2.55,
+      "text": "In 1972, a 32-year-old British chemist",
+      "en": "In 1972, a 32-year-old British chemist",
+      "zh": "In 1972, a 32-year-old British chemist"
+    },
+    {
+      "start": 88.53,
+      "duration": 1.41,
+      "text": "named Stanley Whittingham",
+      "en": "named Stanley Whittingham",
+      "zh": "named Stanley Whittingham"
+    },
+    {
+      "start": 89.94,
+      "duration": 2.67,
+      "text": "was studying how different materials store energy",
+      "en": "was studying how different materials store energy",
+      "zh": "was studying how different materials store energy"
+    },
+    {
+      "start": 92.61,
+      "duration": 2.67,
+      "text": "at Exxon's research lab in New Jersey.",
+      "en": "at Exxon's research lab in New Jersey.",
+      "zh": "at Exxon's research lab in New Jersey."
+    },
+    {
+      "start": 95.28,
+      "duration": 3.57,
+      "text": "Yes, that Exxon, the multinational oil giant,",
+      "en": "Yes, that Exxon, the multinational oil giant,",
+      "zh": "Yes, that Exxon, the multinational oil giant,"
+    },
+    {
+      "start": 98.85,
+      "duration": 2.73,
+      "text": "then the largest oil company in the world.",
+      "en": "then the largest oil company in the world.",
+      "zh": "then the largest oil company in the world."
+    },
+    {
+      "start": 101.58,
+      "duration": 2.19,
+      "text": "They were researching batteries.",
+      "en": "They were researching batteries.",
+      "zh": "They were researching batteries."
+    },
+    {
+      "start": 105.27,
+      "duration": 1.62,
+      "text": "The next year, war broke out",
+      "en": "The next year, war broke out",
+      "zh": "The next year, war broke out"
+    },
+    {
+      "start": 106.89,
+      "duration": 2.28,
+      "text": "between Egypt, Syria, and Israel.",
+      "en": "between Egypt, Syria, and Israel.",
+      "zh": "between Egypt, Syria, and Israel."
+    },
+    {
+      "start": 109.17,
+      "duration": 1.68,
+      "text": "When the US backed Israel,",
+      "en": "When the US backed Israel,",
+      "zh": "When the US backed Israel,"
+    },
+    {
+      "start": 110.85,
+      "duration": 3.75,
+      "text": "Arab oil producers cut off oil exports in retaliation.",
+      "en": "Arab oil producers cut off oil exports in retaliation.",
+      "zh": "Arab oil producers cut off oil exports in retaliation."
+    },
+    {
+      "start": 114.6,
+      "duration": 2.64,
+      "text": "And on December 22nd, the price of crude oil",
+      "en": "And on December 22nd, the price of crude oil",
+      "zh": "And on December 22nd, the price of crude oil"
+    },
+    {
+      "start": 117.24,
+      "duration": 4.8,
+      "text": "more than doubled from $5.12 a barrel to 11.65.",
+      "en": "more than doubled from $5.12 a barrel to 11.65.",
+      "zh": "more than doubled from $5.12 a barrel to 11.65."
+    },
+    {
+      "start": 122.04,
+      "duration": 2.49,
+      "text": "In response, President Nixon created policies",
+      "en": "In response, President Nixon created policies",
+      "zh": "In response, President Nixon created policies"
+    },
+    {
+      "start": 124.53,
+      "duration": 3.6,
+      "text": "to try to keep oil prices down, but they backfired",
+      "en": "to try to keep oil prices down, but they backfired",
+      "zh": "to try to keep oil prices down, but they backfired"
+    },
+    {
+      "start": 128.13,
+      "duration": 2.22,
+      "text": "and the shortage only got worse.",
+      "en": "and the shortage only got worse.",
+      "zh": "and the shortage only got worse."
+    },
+    {
+      "start": 130.35,
+      "duration": 3.09,
+      "text": "Americans were left queuing for hours at gas stations",
+      "en": "Americans were left queuing for hours at gas stations",
+      "zh": "Americans were left queuing for hours at gas stations"
+    },
+    {
+      "start": 133.44,
+      "duration": 2.61,
+      "text": "as the government introduced a rationing program.",
+      "en": "as the government introduced a rationing program.",
+      "zh": "as the government introduced a rationing program."
+    },
+    {
+      "start": 136.05,
+      "duration": 1.92,
+      "text": "It got so bad that they even dropped",
+      "en": "It got so bad that they even dropped",
+      "zh": "It got so bad that they even dropped"
+    },
+    {
+      "start": 137.97,
+      "duration": 2.64,
+      "text": "the national speed limit to 55 miles per hour",
+      "en": "the national speed limit to 55 miles per hour",
+      "zh": "the national speed limit to 55 miles per hour"
+    },
+    {
+      "start": 140.61,
+      "duration": 1.44,
+      "text": "just to cut consumption.",
+      "en": "just to cut consumption.",
+      "zh": "just to cut consumption."
+    },
+    {
+      "start": 144.0,
+      "duration": 1.98,
+      "text": "At Exxon, executives were worried",
+      "en": "At Exxon, executives were worried",
+      "zh": "At Exxon, executives were worried"
+    },
+    {
+      "start": 145.98,
+      "duration": 2.19,
+      "text": "that supplies would run out entirely,",
+      "en": "that supplies would run out entirely,",
+      "zh": "that supplies would run out entirely,"
+    },
+    {
+      "start": 148.17,
+      "duration": 2.79,
+      "text": "so they started looking seriously at alternatives,",
+      "en": "so they started looking seriously at alternatives,",
+      "zh": "so they started looking seriously at alternatives,"
+    },
+    {
+      "start": 150.96,
+      "duration": 1.17,
+      "text": "like electricity.",
+      "en": "like electricity.",
+      "zh": "like electricity."
+    },
+    {
+      "start": 153.06,
+      "duration": 1.62,
+      "text": "This wasn't a new idea.",
+      "en": "This wasn't a new idea.",
+      "zh": "This wasn't a new idea."
+    },
+    {
+      "start": 154.68,
+      "duration": 2.88,
+      "text": "In fact, in 1900 when cars were first taking off,",
+      "en": "In fact, in 1900 when cars were first taking off,",
+      "zh": "In fact, in 1900 when cars were first taking off,"
+    },
+    {
+      "start": 157.56,
+      "duration": 2.37,
+      "text": "the top selling car was electric,",
+      "en": "the top selling car was electric,",
+      "zh": "the top selling car was electric,"
+    },
+    {
+      "start": 159.93,
+      "duration": 2.91,
+      "text": "ahead of steam and gas powered cars.",
+      "en": "ahead of steam and gas powered cars.",
+      "zh": "ahead of steam and gas powered cars."
+    },
+    {
+      "start": 162.84,
+      "duration": 1.5,
+      "text": "But the problem with these electric cars",
+      "en": "But the problem with these electric cars",
+      "zh": "But the problem with these electric cars"
+    },
+    {
+      "start": 164.34,
+      "duration": 1.11,
+      "text": "was their batteries.",
+      "en": "was their batteries.",
+      "zh": "was their batteries."
+    },
+    {
+      "start": 165.45,
+      "duration": 2.13,
+      "text": "They weighed 360 kilograms,",
+      "en": "They weighed 360 kilograms,",
+      "zh": "They weighed 360 kilograms,"
+    },
+    {
+      "start": 167.58,
+      "duration": 2.52,
+      "text": "around 40% of the car's weight,",
+      "en": "around 40% of the car's weight,",
+      "zh": "around 40% of the car's weight,"
+    },
+    {
+      "start": 170.1,
+      "duration": 3.03,
+      "text": "but they could only take you around 60 kilometers.",
+      "en": "but they could only take you around 60 kilometers.",
+      "zh": "but they could only take you around 60 kilometers."
+    },
+    {
+      "start": 173.13,
+      "duration": 1.89,
+      "text": "And the energy density wasn't just low,",
+      "en": "And the energy density wasn't just low,",
+      "zh": "And the energy density wasn't just low,"
+    },
+    {
+      "start": 175.02,
+      "duration": 2.07,
+      "text": "it also degraded over time.",
+      "en": "it also degraded over time.",
+      "zh": "it also degraded over time."
+    },
+    {
+      "start": 177.09,
+      "duration": 2.49,
+      "text": "Every time you recharged, it got worse.",
+      "en": "Every time you recharged, it got worse.",
+      "zh": "Every time you recharged, it got worse."
+    },
+    {
+      "start": 179.58,
+      "duration": 2.1,
+      "text": "After fewer than 500 charges,",
+      "en": "After fewer than 500 charges,",
+      "zh": "After fewer than 500 charges,"
+    },
+    {
+      "start": 181.68,
+      "duration": 3.36,
+      "text": "your range would've dropped to about 40 kilometers.",
+      "en": "your range would've dropped to about 40 kilometers.",
+      "zh": "your range would've dropped to about 40 kilometers."
+    },
+    {
+      "start": 185.04,
+      "duration": 2.52,
+      "text": "So by 1924, gas powered cars",
+      "en": "So by 1924, gas powered cars",
+      "zh": "So by 1924, gas powered cars"
+    },
+    {
+      "start": 187.56,
+      "duration": 3.48,
+      "text": "outnumbered electric 10,000 to one.",
+      "en": "outnumbered electric 10,000 to one.",
+      "zh": "outnumbered electric 10,000 to one."
+    },
+    {
+      "start": 191.04,
+      "duration": 2.01,
+      "text": "But now that the oil supplies were running out,",
+      "en": "But now that the oil supplies were running out,",
+      "zh": "But now that the oil supplies were running out,"
+    },
+    {
+      "start": 193.05,
+      "duration": 2.61,
+      "text": "it seemed to Exxon that there was no other solution",
+      "en": "it seemed to Exxon that there was no other solution",
+      "zh": "it seemed to Exxon that there was no other solution"
+    },
+    {
+      "start": 195.66,
+      "duration": 2.25,
+      "text": "than to bring back the electric car,",
+      "en": "than to bring back the electric car,",
+      "zh": "than to bring back the electric car,"
+    },
+    {
+      "start": 197.91,
+      "duration": 1.71,
+      "text": "and to do that, they needed a battery",
+      "en": "and to do that, they needed a battery",
+      "zh": "and to do that, they needed a battery"
+    },
+    {
+      "start": 199.62,
+      "duration": 2.13,
+      "text": "with a much higher energy density.",
+      "en": "with a much higher energy density.",
+      "zh": "with a much higher energy density."
+    },
+    {
+      "start": 201.75,
+      "duration": 2.19,
+      "text": "So suddenly, Whittingham's side project",
+      "en": "So suddenly, Whittingham's side project",
+      "zh": "So suddenly, Whittingham's side project"
+    },
+    {
+      "start": 203.94,
+      "duration": 1.95,
+      "text": "became a top priority.",
+      "en": "became a top priority.",
+      "zh": "became a top priority."
+    },
+    {
+      "start": 205.89,
+      "duration": 3.03,
+      "text": "Exxon poured in resources, giving him free rein to,",
+      "en": "Exxon poured in resources, giving him free rein to,",
+      "zh": "Exxon poured in resources, giving him free rein to,"
+    },
+    {
+      "start": 208.92,
+      "duration": 2.43,
+      "text": "in his words, \"Do pretty much what I wanted,",
+      "en": "in his words, \"Do pretty much what I wanted,",
+      "zh": "in his words, \"Do pretty much what I wanted,"
+    },
+    {
+      "start": 211.35,
+      "duration": 2.43,
+      "text": "as long as it did not involve petroleum.\"",
+      "en": "as long as it did not involve petroleum.\"",
+      "zh": "as long as it did not involve petroleum.\""
+    },
+    {
+      "start": 215.07,
+      "duration": 1.41,
+      "text": "The very first battery dates back",
+      "en": "The very first battery dates back",
+      "zh": "The very first battery dates back"
+    },
+    {
+      "start": 216.48,
+      "duration": 2.91,
+      "text": "to a curious incident in the 1780s",
+      "en": "to a curious incident in the 1780s",
+      "zh": "to a curious incident in the 1780s"
+    },
+    {
+      "start": 219.39,
+      "duration": 2.28,
+      "text": "when Italian scientist Luigi Galvani",
+      "en": "when Italian scientist Luigi Galvani",
+      "zh": "when Italian scientist Luigi Galvani"
+    },
+    {
+      "start": 221.67,
+      "duration": 3.39,
+      "text": "was dissecting a frog to study its anatomy.",
+      "en": "was dissecting a frog to study its anatomy.",
+      "zh": "was dissecting a frog to study its anatomy."
+    },
+    {
+      "start": 225.06,
+      "duration": 2.58,
+      "text": "He anchored one side of the frog on a brass hook",
+      "en": "He anchored one side of the frog on a brass hook",
+      "zh": "He anchored one side of the frog on a brass hook"
+    },
+    {
+      "start": 227.64,
+      "duration": 3.06,
+      "text": "and went to cut it open with a steel scalpel.",
+      "en": "and went to cut it open with a steel scalpel.",
+      "zh": "and went to cut it open with a steel scalpel."
+    },
+    {
+      "start": 230.7,
+      "duration": 2.13,
+      "text": "But when he touched the scalpel to the frog's leg,",
+      "en": "But when he touched the scalpel to the frog's leg,",
+      "zh": "But when he touched the scalpel to the frog's leg,"
+    },
+    {
+      "start": 232.83,
+      "duration": 2.07,
+      "text": "he noticed it suddenly twitched,",
+      "en": "he noticed it suddenly twitched,",
+      "zh": "he noticed it suddenly twitched,"
+    },
+    {
+      "start": 234.9,
+      "duration": 2.16,
+      "text": "as if it had come back to life.",
+      "en": "as if it had come back to life.",
+      "zh": "as if it had come back to life."
+    },
+    {
+      "start": 237.06,
+      "duration": 1.56,
+      "text": "Galvani believed he'd discovered",
+      "en": "Galvani believed he'd discovered",
+      "zh": "Galvani believed he'd discovered"
+    },
+    {
+      "start": 238.62,
+      "duration": 2.04,
+      "text": "a sort of animal electricity,",
+      "en": "a sort of animal electricity,",
+      "zh": "a sort of animal electricity,"
+    },
+    {
+      "start": 240.66,
+      "duration": 3.0,
+      "text": "a living force produced by the tissue itself.",
+      "en": "a living force produced by the tissue itself.",
+      "zh": "a living force produced by the tissue itself."
+    },
+    {
+      "start": 243.66,
+      "duration": 3.51,
+      "text": "But Galvani's rival Alessandro Volta disagreed.",
+      "en": "But Galvani's rival Alessandro Volta disagreed.",
+      "zh": "But Galvani's rival Alessandro Volta disagreed."
+    },
+    {
+      "start": 247.17,
+      "duration": 3.06,
+      "text": "He thought it came from the metals themselves.",
+      "en": "He thought it came from the metals themselves.",
+      "zh": "He thought it came from the metals themselves."
+    },
+    {
+      "start": 250.23,
+      "duration": 2.85,
+      "text": "And you can see this with lots of different materials.",
+      "en": "And you can see this with lots of different materials.",
+      "zh": "And you can see this with lots of different materials."
+    },
+    {
+      "start": 253.08,
+      "duration": 2.37,
+      "text": "Veritasium producer Gregor set up a version",
+      "en": "Veritasium producer Gregor set up a version",
+      "zh": "Veritasium producer Gregor set up a version"
+    },
+    {
+      "start": 255.45,
+      "duration": 3.48,
+      "text": "of this experiment, minus the frog, to test it out.",
+      "en": "of this experiment, minus the frog, to test it out.",
+      "zh": "of this experiment, minus the frog, to test it out."
+    },
+    {
+      "start": 258.93,
+      "duration": 3.06,
+      "text": "- [Gregor] I have zinc, magnesium, and iron here.",
+      "en": "- [Gregor] I have zinc, magnesium, and iron here.",
+      "zh": "- [Gregor] I have zinc, magnesium, and iron here."
+    },
+    {
+      "start": 261.99,
+      "duration": 1.62,
+      "text": "I can take any of these metals,",
+      "en": "I can take any of these metals,",
+      "zh": "I can take any of these metals,"
+    },
+    {
+      "start": 263.61,
+      "duration": 3.39,
+      "text": "stick them into one side of a lemon",
+      "en": "stick them into one side of a lemon",
+      "zh": "stick them into one side of a lemon"
+    },
+    {
+      "start": 267.0,
+      "duration": 2.19,
+      "text": "and stick some copper on the other side.",
+      "en": "and stick some copper on the other side.",
+      "zh": "and stick some copper on the other side."
+    },
+    {
+      "start": 269.19,
+      "duration": 1.77,
+      "text": "If I hook these up to a volt meter,",
+      "en": "If I hook these up to a volt meter,",
+      "zh": "If I hook these up to a volt meter,"
+    },
+    {
+      "start": 270.96,
+      "duration": 2.34,
+      "text": "I should be getting a voltage.",
+      "en": "I should be getting a voltage.",
+      "zh": "I should be getting a voltage."
+    },
+    {
+      "start": 273.3,
+      "duration": 2.58,
+      "text": "And we got around 0.8 volts.",
+      "en": "And we got around 0.8 volts.",
+      "zh": "And we got around 0.8 volts."
+    },
+    {
+      "start": 275.88,
+      "duration": 1.14,
+      "text": "Now, the reason this happens",
+      "en": "Now, the reason this happens",
+      "zh": "Now, the reason this happens"
+    },
+    {
+      "start": 277.02,
+      "duration": 1.74,
+      "text": "is because some elements want to get rid",
+      "en": "is because some elements want to get rid",
+      "zh": "is because some elements want to get rid"
+    },
+    {
+      "start": 278.76,
+      "duration": 2.04,
+      "text": "of their electrons more than others.",
+      "en": "of their electrons more than others.",
+      "zh": "of their electrons more than others."
+    },
+    {
+      "start": 280.8,
+      "duration": 3.45,
+      "text": "So if you pair one that really doesn't want its electrons",
+      "en": "So if you pair one that really doesn't want its electrons",
+      "zh": "So if you pair one that really doesn't want its electrons"
+    },
+    {
+      "start": 284.25,
+      "duration": 1.8,
+      "text": "with one that really wants some,",
+      "en": "with one that really wants some,",
+      "zh": "with one that really wants some,"
+    },
+    {
+      "start": 286.05,
+      "duration": 3.54,
+      "text": "well, then the electrons are gonna be traveling across.",
+      "en": "well, then the electrons are gonna be traveling across.",
+      "zh": "well, then the electrons are gonna be traveling across."
+    },
+    {
+      "start": 289.59,
+      "duration": 1.38,
+      "text": "- [Narrator] Let's look at the zinc.",
+      "en": "- [Narrator] Let's look at the zinc.",
+      "zh": "- [Narrator] Let's look at the zinc."
+    },
+    {
+      "start": 290.97,
+      "duration": 3.3,
+      "text": "What's happening here is that zinc is losing its electrons.",
+      "en": "What's happening here is that zinc is losing its electrons.",
+      "zh": "What's happening here is that zinc is losing its electrons."
+    },
+    {
+      "start": 294.27,
+      "duration": 1.83,
+      "text": "The zinc ions enter the juice,",
+      "en": "The zinc ions enter the juice,",
+      "zh": "The zinc ions enter the juice,"
+    },
+    {
+      "start": 296.1,
+      "duration": 2.19,
+      "text": "and the electrons are forced to go through the circuit",
+      "en": "and the electrons are forced to go through the circuit",
+      "zh": "and the electrons are forced to go through the circuit"
+    },
+    {
+      "start": 298.29,
+      "duration": 2.01,
+      "text": "to get to the other side.",
+      "en": "to get to the other side.",
+      "zh": "to get to the other side."
+    },
+    {
+      "start": 300.3,
+      "duration": 2.1,
+      "text": "There, hydrogen ions in the lemon juice",
+      "en": "There, hydrogen ions in the lemon juice",
+      "zh": "There, hydrogen ions in the lemon juice"
+    },
+    {
+      "start": 302.4,
+      "duration": 1.08,
+      "text": "want those electrons,",
+      "en": "want those electrons,",
+      "zh": "want those electrons,"
+    },
+    {
+      "start": 303.48,
+      "duration": 2.88,
+      "text": "so they receive them and turn into hydrogen gas.",
+      "en": "so they receive them and turn into hydrogen gas.",
+      "zh": "so they receive them and turn into hydrogen gas."
+    },
+    {
+      "start": 307.32,
+      "duration": 2.04,
+      "text": "You've got one side that gives up electrons,",
+      "en": "You've got one side that gives up electrons,",
+      "zh": "You've got one side that gives up electrons,"
+    },
+    {
+      "start": 309.36,
+      "duration": 1.68,
+      "text": "that's the anode, and you've got one",
+      "en": "that's the anode, and you've got one",
+      "zh": "that's the anode, and you've got one"
+    },
+    {
+      "start": 311.04,
+      "duration": 2.61,
+      "text": "that receives them, that's the cathode.",
+      "en": "that receives them, that's the cathode.",
+      "zh": "that receives them, that's the cathode."
+    },
+    {
+      "start": 313.65,
+      "duration": 2.22,
+      "text": "- But why do you need the lemon at all?",
+      "en": "- But why do you need the lemon at all?",
+      "zh": "- But why do you need the lemon at all?"
+    },
+    {
+      "start": 315.87,
+      "duration": 1.59,
+      "text": "If there's no flow of the positive ions",
+      "en": "If there's no flow of the positive ions",
+      "zh": "If there's no flow of the positive ions"
+    },
+    {
+      "start": 317.46,
+      "duration": 1.62,
+      "text": "through to the other side,",
+      "en": "through to the other side,",
+      "zh": "through to the other side,"
+    },
+    {
+      "start": 319.08,
+      "duration": 3.6,
+      "text": "the electrons stop moving almost immediately.",
+      "en": "the electrons stop moving almost immediately.",
+      "zh": "the electrons stop moving almost immediately."
+    },
+    {
+      "start": 322.68,
+      "duration": 2.13,
+      "text": "This happens because all of the electrons",
+      "en": "This happens because all of the electrons",
+      "zh": "This happens because all of the electrons"
+    },
+    {
+      "start": 324.81,
+      "duration": 1.44,
+      "text": "now get bunched up in the copper,",
+      "en": "now get bunched up in the copper,",
+      "zh": "now get bunched up in the copper,"
+    },
+    {
+      "start": 326.25,
+      "duration": 2.25,
+      "text": "making it extremely negatively charged,",
+      "en": "making it extremely negatively charged,",
+      "zh": "making it extremely negatively charged,"
+    },
+    {
+      "start": 328.5,
+      "duration": 2.64,
+      "text": "and that is just gonna push away any more electrons",
+      "en": "and that is just gonna push away any more electrons",
+      "zh": "and that is just gonna push away any more electrons"
+    },
+    {
+      "start": 331.14,
+      "duration": 1.98,
+      "text": "from coming over to the other side.",
+      "en": "from coming over to the other side.",
+      "zh": "from coming over to the other side."
+    },
+    {
+      "start": 333.12,
+      "duration": 0.96,
+      "text": "- [Derek] That's because electrons",
+      "en": "- [Derek] That's because electrons",
+      "zh": "- [Derek] That's because electrons"
+    },
+    {
+      "start": 334.08,
+      "duration": 1.74,
+      "text": "can't travel through lemon juice.",
+      "en": "can't travel through lemon juice.",
+      "zh": "can't travel through lemon juice."
+    },
+    {
+      "start": 335.82,
+      "duration": 1.35,
+      "text": "Liquids like this don't have",
+      "en": "Liquids like this don't have",
+      "zh": "Liquids like this don't have"
+    },
+    {
+      "start": 337.17,
+      "duration": 1.53,
+      "text": "free electrons the way metals do,",
+      "en": "free electrons the way metals do,",
+      "zh": "free electrons the way metals do,"
+    },
+    {
+      "start": 338.7,
+      "duration": 2.55,
+      "text": "so electrons stay in the wire.",
+      "en": "so electrons stay in the wire.",
+      "zh": "so electrons stay in the wire."
+    },
+    {
+      "start": 341.25,
+      "duration": 2.25,
+      "text": "They'll only leave the circuit at the copper side",
+      "en": "They'll only leave the circuit at the copper side",
+      "zh": "They'll only leave the circuit at the copper side"
+    },
+    {
+      "start": 343.5,
+      "duration": 1.17,
+      "text": "if there's something in the juice,",
+      "en": "if there's something in the juice,",
+      "zh": "if there's something in the juice,"
+    },
+    {
+      "start": 344.67,
+      "duration": 2.4,
+      "text": "like hydrogen ions ready to take them,",
+      "en": "like hydrogen ions ready to take them,",
+      "zh": "like hydrogen ions ready to take them,"
+    },
+    {
+      "start": 347.07,
+      "duration": 1.92,
+      "text": "and if the reaction releases enough energy",
+      "en": "and if the reaction releases enough energy",
+      "zh": "and if the reaction releases enough energy"
+    },
+    {
+      "start": 348.99,
+      "duration": 2.04,
+      "text": "to make that transfer happen.",
+      "en": "to make that transfer happen.",
+      "zh": "to make that transfer happen."
+    },
+    {
+      "start": 351.03,
+      "duration": 2.49,
+      "text": "But positive ions in the juice can move.",
+      "en": "But positive ions in the juice can move.",
+      "zh": "But positive ions in the juice can move."
+    },
+    {
+      "start": 353.52,
+      "duration": 2.37,
+      "text": "They travel across to balance the charge,",
+      "en": "They travel across to balance the charge,",
+      "zh": "They travel across to balance the charge,"
+    },
+    {
+      "start": 355.89,
+      "duration": 1.98,
+      "text": "allowing the current to keep flowing.",
+      "en": "allowing the current to keep flowing.",
+      "zh": "allowing the current to keep flowing."
+    },
+    {
+      "start": 357.87,
+      "duration": 1.92,
+      "text": "A solution that carries charge this way",
+      "en": "A solution that carries charge this way",
+      "zh": "A solution that carries charge this way"
+    },
+    {
+      "start": 359.79,
+      "duration": 2.67,
+      "text": "by moving ions is called an electrolyte.",
+      "en": "by moving ions is called an electrolyte.",
+      "zh": "by moving ions is called an electrolyte."
+    },
+    {
+      "start": 363.69,
+      "duration": 2.28,
+      "text": "- But we could also do this with the other metals",
+      "en": "- But we could also do this with the other metals",
+      "zh": "- But we could also do this with the other metals"
+    },
+    {
+      "start": 365.97,
+      "duration": 1.77,
+      "text": "to get a similar reaction,",
+      "en": "to get a similar reaction,",
+      "zh": "to get a similar reaction,"
+    },
+    {
+      "start": 367.74,
+      "duration": 2.01,
+      "text": "and we can actually quantify how much",
+      "en": "and we can actually quantify how much",
+      "zh": "and we can actually quantify how much"
+    },
+    {
+      "start": 369.75,
+      "duration": 3.51,
+      "text": "each of these metals wants or doesn't want electrons.",
+      "en": "each of these metals wants or doesn't want electrons.",
+      "zh": "each of these metals wants or doesn't want electrons."
+    },
+    {
+      "start": 373.26,
+      "duration": 3.18,
+      "text": "With zinc, we already got around 0.9 volts,",
+      "en": "With zinc, we already got around 0.9 volts,",
+      "zh": "With zinc, we already got around 0.9 volts,"
+    },
+    {
+      "start": 376.44,
+      "duration": 2.07,
+      "text": "but if you try it with iron, for example,",
+      "en": "but if you try it with iron, for example,",
+      "zh": "but if you try it with iron, for example,"
+    },
+    {
+      "start": 378.51,
+      "duration": 3.66,
+      "text": "you get something lower, 0.5 or 0.6 volts.",
+      "en": "you get something lower, 0.5 or 0.6 volts.",
+      "zh": "you get something lower, 0.5 or 0.6 volts."
+    },
+    {
+      "start": 382.17,
+      "duration": 2.37,
+      "text": "Now, magnesium is tricky and it would be a bit higher,",
+      "en": "Now, magnesium is tricky and it would be a bit higher,",
+      "zh": "Now, magnesium is tricky and it would be a bit higher,"
+    },
+    {
+      "start": 384.54,
+      "duration": 2.67,
+      "text": "but it oxidizes so quickly that even if I scrape",
+      "en": "but it oxidizes so quickly that even if I scrape",
+      "zh": "but it oxidizes so quickly that even if I scrape"
+    },
+    {
+      "start": 387.21,
+      "duration": 1.83,
+      "text": "some of the oxide from the surface,",
+      "en": "some of the oxide from the surface,",
+      "zh": "some of the oxide from the surface,"
+    },
+    {
+      "start": 389.04,
+      "duration": 5.0,
+      "text": "I'm still getting only around 0.7 volts.",
+      "en": "I'm still getting only around 0.7 volts.",
+      "zh": "I'm still getting only around 0.7 volts."
+    },
+    {
+      "start": 394.29,
+      "duration": 3.15,
+      "text": "The idea is that the larger the voltage on the volt meter,",
+      "en": "The idea is that the larger the voltage on the volt meter,",
+      "zh": "The idea is that the larger the voltage on the volt meter,"
+    },
+    {
+      "start": 397.44,
+      "duration": 2.52,
+      "text": "the more energy each electron has to give",
+      "en": "the more energy each electron has to give",
+      "zh": "the more energy each electron has to give"
+    },
+    {
+      "start": 399.96,
+      "duration": 2.19,
+      "text": "as it passes through the circuit.",
+      "en": "as it passes through the circuit.",
+      "zh": "as it passes through the circuit."
+    },
+    {
+      "start": 402.15,
+      "duration": 2.37,
+      "text": "But there's also a limit to this.",
+      "en": "But there's also a limit to this.",
+      "zh": "But there's also a limit to this."
+    },
+    {
+      "start": 404.52,
+      "duration": 2.22,
+      "text": "See, this beaker is full of lemon juice",
+      "en": "See, this beaker is full of lemon juice",
+      "zh": "See, this beaker is full of lemon juice"
+    },
+    {
+      "start": 406.74,
+      "duration": 1.71,
+      "text": "from the lemons we used earlier,",
+      "en": "from the lemons we used earlier,",
+      "zh": "from the lemons we used earlier,"
+    },
+    {
+      "start": 408.45,
+      "duration": 1.44,
+      "text": "and they're hooked up using spoons",
+      "en": "and they're hooked up using spoons",
+      "zh": "and they're hooked up using spoons"
+    },
+    {
+      "start": 409.89,
+      "duration": 2.7,
+      "text": "and these wires to a variable power source.",
+      "en": "and these wires to a variable power source.",
+      "zh": "and these wires to a variable power source."
+    },
+    {
+      "start": 412.59,
+      "duration": 2.2,
+      "text": "Now look what happens when I up the voltage.",
+      "en": "Now look what happens when I up the voltage.",
+      "zh": "Now look what happens when I up the voltage."
+    },
+    {
+      "start": 416.64,
+      "duration": 3.81,
+      "text": "You'll actually start to see bubbles forming on both spoons,",
+      "en": "You'll actually start to see bubbles forming on both spoons,",
+      "zh": "You'll actually start to see bubbles forming on both spoons,"
+    },
+    {
+      "start": 420.45,
+      "duration": 1.92,
+      "text": "and that's water in the lemon juice",
+      "en": "and that's water in the lemon juice",
+      "zh": "and that's water in the lemon juice"
+    },
+    {
+      "start": 422.37,
+      "duration": 3.09,
+      "text": "actually being broken down into oxygen and hydrogen gas.",
+      "en": "actually being broken down into oxygen and hydrogen gas.",
+      "zh": "actually being broken down into oxygen and hydrogen gas."
+    },
+    {
+      "start": 426.9,
+      "duration": 3.03,
+      "text": "This already starts happening at 1.23 volts,",
+      "en": "This already starts happening at 1.23 volts,",
+      "zh": "This already starts happening at 1.23 volts,"
+    },
+    {
+      "start": 429.93,
+      "duration": 2.76,
+      "text": "and that sets a limit on how much voltage",
+      "en": "and that sets a limit on how much voltage",
+      "zh": "and that sets a limit on how much voltage"
+    },
+    {
+      "start": 432.69,
+      "duration": 2.16,
+      "text": "you can push through this electrolyte.",
+      "en": "you can push through this electrolyte.",
+      "zh": "you can push through this electrolyte."
+    },
+    {
+      "start": 435.93,
+      "duration": 1.68,
+      "text": "- Up until the early 1970s,",
+      "en": "- Up until the early 1970s,",
+      "zh": "- Up until the early 1970s,"
+    },
+    {
+      "start": 437.61,
+      "duration": 1.59,
+      "text": "just about every commercial battery",
+      "en": "just about every commercial battery",
+      "zh": "just about every commercial battery"
+    },
+    {
+      "start": 439.2,
+      "duration": 2.88,
+      "text": "used a water-based electrolyte, and as a result,",
+      "en": "used a water-based electrolyte, and as a result,",
+      "zh": "used a water-based electrolyte, and as a result,"
+    },
+    {
+      "start": 442.08,
+      "duration": 1.77,
+      "text": "none of these battery cells could push",
+      "en": "none of these battery cells could push",
+      "zh": "none of these battery cells could push"
+    },
+    {
+      "start": 443.85,
+      "duration": 3.36,
+      "text": "much beyond the 1.23 volt limit.",
+      "en": "much beyond the 1.23 volt limit.",
+      "zh": "much beyond the 1.23 volt limit."
+    },
+    {
+      "start": 447.21,
+      "duration": 2.31,
+      "text": "Now, the total energy a battery can store",
+      "en": "Now, the total energy a battery can store",
+      "zh": "Now, the total energy a battery can store"
+    },
+    {
+      "start": 449.52,
+      "duration": 3.3,
+      "text": "depends on how much energy each charge has to give",
+      "en": "depends on how much energy each charge has to give",
+      "zh": "depends on how much energy each charge has to give"
+    },
+    {
+      "start": 452.82,
+      "duration": 2.13,
+      "text": "times how much charge can move,",
+      "en": "times how much charge can move,",
+      "zh": "times how much charge can move,"
+    },
+    {
+      "start": 454.95,
+      "duration": 3.33,
+      "text": "that is the battery's voltage times its capacity.",
+      "en": "that is the battery's voltage times its capacity.",
+      "zh": "that is the battery's voltage times its capacity."
+    },
+    {
+      "start": 458.28,
+      "duration": 1.8,
+      "text": "So if you can't increase the voltage,",
+      "en": "So if you can't increase the voltage,",
+      "zh": "So if you can't increase the voltage,"
+    },
+    {
+      "start": 460.08,
+      "duration": 2.37,
+      "text": "your only option is to make more battery,",
+      "en": "your only option is to make more battery,",
+      "zh": "your only option is to make more battery,"
+    },
+    {
+      "start": 462.45,
+      "duration": 2.46,
+      "text": "more cells or bigger cells,",
+      "en": "more cells or bigger cells,",
+      "zh": "more cells or bigger cells,"
+    },
+    {
+      "start": 464.91,
+      "duration": 2.85,
+      "text": "but that won't increase the energy density.",
+      "en": "but that won't increase the energy density.",
+      "zh": "but that won't increase the energy density."
+    },
+    {
+      "start": 468.93,
+      "duration": 1.77,
+      "text": "And this is exactly the problem",
+      "en": "And this is exactly the problem",
+      "zh": "And this is exactly the problem"
+    },
+    {
+      "start": 470.7,
+      "duration": 1.62,
+      "text": "Whittingham was trying to solve.",
+      "en": "Whittingham was trying to solve.",
+      "zh": "Whittingham was trying to solve."
+    },
+    {
+      "start": 472.32,
+      "duration": 1.2,
+      "text": "He was searching for materials",
+      "en": "He was searching for materials",
+      "zh": "He was searching for materials"
+    },
+    {
+      "start": 473.52,
+      "duration": 1.98,
+      "text": "that could store large amounts of energy",
+      "en": "that could store large amounts of energy",
+      "zh": "that could store large amounts of energy"
+    },
+    {
+      "start": 475.5,
+      "duration": 2.85,
+      "text": "in a compact space with light weight.",
+      "en": "in a compact space with light weight.",
+      "zh": "in a compact space with light weight."
+    },
+    {
+      "start": 478.35,
+      "duration": 1.59,
+      "text": "That led him to a class of compounds",
+      "en": "That led him to a class of compounds",
+      "zh": "That led him to a class of compounds"
+    },
+    {
+      "start": 479.94,
+      "duration": 2.73,
+      "text": "called transition metal dichalcogenides.",
+      "en": "called transition metal dichalcogenides.",
+      "zh": "called transition metal dichalcogenides."
+    },
+    {
+      "start": 482.67,
+      "duration": 4.08,
+      "text": "He zeroed in on one in particular, titanium disulfide.",
+      "en": "He zeroed in on one in particular, titanium disulfide.",
+      "zh": "He zeroed in on one in particular, titanium disulfide."
+    },
+    {
+      "start": 486.75,
+      "duration": 1.38,
+      "text": "Titanium in this compound",
+      "en": "Titanium in this compound",
+      "zh": "Titanium in this compound"
+    },
+    {
+      "start": 488.13,
+      "duration": 2.25,
+      "text": "has effectively lost four electrons,",
+      "en": "has effectively lost four electrons,",
+      "zh": "has effectively lost four electrons,"
+    },
+    {
+      "start": 490.38,
+      "duration": 1.74,
+      "text": "two to each sulfur atom,",
+      "en": "two to each sulfur atom,",
+      "zh": "two to each sulfur atom,"
+    },
+    {
+      "start": 492.12,
+      "duration": 3.36,
+      "text": "meaning it sits at a plus four oxidation state.",
+      "en": "meaning it sits at a plus four oxidation state.",
+      "zh": "meaning it sits at a plus four oxidation state."
+    },
+    {
+      "start": 495.48,
+      "duration": 2.34,
+      "text": "That leaves it very electron hungry,",
+      "en": "That leaves it very electron hungry,",
+      "zh": "That leaves it very electron hungry,"
+    },
+    {
+      "start": 497.82,
+      "duration": 2.64,
+      "text": "exactly what you want in a battery cathode.",
+      "en": "exactly what you want in a battery cathode.",
+      "zh": "exactly what you want in a battery cathode."
+    },
+    {
+      "start": 500.46,
+      "duration": 3.54,
+      "text": "But titanium disulfide has a second key advantage,",
+      "en": "But titanium disulfide has a second key advantage,",
+      "zh": "But titanium disulfide has a second key advantage,"
+    },
+    {
+      "start": 504.0,
+      "duration": 1.95,
+      "text": "this material is made of stacked layers",
+      "en": "this material is made of stacked layers",
+      "zh": "this material is made of stacked layers"
+    },
+    {
+      "start": 505.95,
+      "duration": 2.67,
+      "text": "held together by weak Van der Waals forces.",
+      "en": "held together by weak Van der Waals forces.",
+      "zh": "held together by weak Van der Waals forces."
+    },
+    {
+      "start": 508.62,
+      "duration": 2.55,
+      "text": "This creates natural gaps between sheets of titanium",
+      "en": "This creates natural gaps between sheets of titanium",
+      "zh": "This creates natural gaps between sheets of titanium"
+    },
+    {
+      "start": 511.17,
+      "duration": 1.56,
+      "text": "and sulfur atoms just wide enough",
+      "en": "and sulfur atoms just wide enough",
+      "zh": "and sulfur atoms just wide enough"
+    },
+    {
+      "start": 512.73,
+      "duration": 3.0,
+      "text": "to let certain ions slip between the layers,",
+      "en": "to let certain ions slip between the layers,",
+      "zh": "to let certain ions slip between the layers,"
+    },
+    {
+      "start": 515.73,
+      "duration": 2.67,
+      "text": "a process known as intercalation.",
+      "en": "a process known as intercalation.",
+      "zh": "a process known as intercalation."
+    },
+    {
+      "start": 518.4,
+      "duration": 1.92,
+      "text": "Better still, the structure can expand",
+      "en": "Better still, the structure can expand",
+      "zh": "Better still, the structure can expand"
+    },
+    {
+      "start": 520.32,
+      "duration": 3.33,
+      "text": "and contract repeatedly without breaking down.",
+      "en": "and contract repeatedly without breaking down.",
+      "zh": "and contract repeatedly without breaking down."
+    },
+    {
+      "start": 523.65,
+      "duration": 3.39,
+      "text": "Now Whittingham just had to decide which ions to use.",
+      "en": "Now Whittingham just had to decide which ions to use.",
+      "zh": "Now Whittingham just had to decide which ions to use."
+    },
+    {
+      "start": 528.69,
+      "duration": 2.01,
+      "text": "He initially looked at potassium,",
+      "en": "He initially looked at potassium,",
+      "zh": "He initially looked at potassium,"
+    },
+    {
+      "start": 530.7,
+      "duration": 1.38,
+      "text": "but it was just too reactive",
+      "en": "but it was just too reactive",
+      "zh": "but it was just too reactive"
+    },
+    {
+      "start": 532.08,
+      "duration": 2.34,
+      "text": "and far too dangerous to work with.",
+      "en": "and far too dangerous to work with.",
+      "zh": "and far too dangerous to work with."
+    },
+    {
+      "start": 534.42,
+      "duration": 3.21,
+      "text": "Oh, yeah! (laughs)",
+      "en": "Oh, yeah! (laughs)",
+      "zh": "Oh, yeah! (laughs)"
+    },
+    {
+      "start": 537.63,
+      "duration": 1.11,
+      "text": "- He turned to this,",
+      "en": "- He turned to this,",
+      "zh": "- He turned to this,"
+    },
+    {
+      "start": 538.74,
+      "duration": 4.32,
+      "text": "a soft, silvery metal called lithium.",
+      "en": "a soft, silvery metal called lithium.",
+      "zh": "a soft, silvery metal called lithium."
+    },
+    {
+      "start": 543.06,
+      "duration": 2.61,
+      "text": "What makes lithium unique is not the fact",
+      "en": "What makes lithium unique is not the fact",
+      "zh": "What makes lithium unique is not the fact"
+    },
+    {
+      "start": 545.67,
+      "duration": 2.4,
+      "text": "that it has one electron in its outer shell",
+      "en": "that it has one electron in its outer shell",
+      "zh": "that it has one electron in its outer shell"
+    },
+    {
+      "start": 548.07,
+      "duration": 1.44,
+      "text": "that it wants to get rid of.",
+      "en": "that it wants to get rid of.",
+      "zh": "that it wants to get rid of."
+    },
+    {
+      "start": 549.51,
+      "duration": 3.06,
+      "text": "No, that it shares with the other elements in its group.",
+      "en": "No, that it shares with the other elements in its group.",
+      "zh": "No, that it shares with the other elements in its group."
+    },
+    {
+      "start": 552.57,
+      "duration": 2.4,
+      "text": "What sets it apart is how much energy",
+      "en": "What sets it apart is how much energy",
+      "zh": "What sets it apart is how much energy"
+    },
+    {
+      "start": 554.97,
+      "duration": 3.36,
+      "text": "you can get out of lithium when it reacts in a battery.",
+      "en": "you can get out of lithium when it reacts in a battery.",
+      "zh": "you can get out of lithium when it reacts in a battery."
+    },
+    {
+      "start": 558.33,
+      "duration": 2.52,
+      "text": "See, when it loses that outer electron,",
+      "en": "See, when it loses that outer electron,",
+      "zh": "See, when it loses that outer electron,"
+    },
+    {
+      "start": 560.85,
+      "duration": 3.45,
+      "text": "it forms a tiny, incredibly stable positive ion,",
+      "en": "it forms a tiny, incredibly stable positive ion,",
+      "zh": "it forms a tiny, incredibly stable positive ion,"
+    },
+    {
+      "start": 564.3,
+      "duration": 3.51,
+      "text": "and so that reaction paired with the right cathode",
+      "en": "and so that reaction paired with the right cathode",
+      "zh": "and so that reaction paired with the right cathode"
+    },
+    {
+      "start": 567.81,
+      "duration": 3.9,
+      "text": "releases more energy per electron than any other metal.",
+      "en": "releases more energy per electron than any other metal.",
+      "zh": "releases more energy per electron than any other metal."
+    },
+    {
+      "start": 571.71,
+      "duration": 2.07,
+      "text": "That's why it produces the highest voltage",
+      "en": "That's why it produces the highest voltage",
+      "zh": "That's why it produces the highest voltage"
+    },
+    {
+      "start": 573.78,
+      "duration": 2.58,
+      "text": "of any metal used in batteries.",
+      "en": "of any metal used in batteries.",
+      "zh": "of any metal used in batteries."
+    },
+    {
+      "start": 576.36,
+      "duration": 3.06,
+      "text": "And because it's so small with just three protons,",
+      "en": "And because it's so small with just three protons,",
+      "zh": "And because it's so small with just three protons,"
+    },
+    {
+      "start": 579.42,
+      "duration": 2.04,
+      "text": "lithium is also the least dense metal,",
+      "en": "lithium is also the least dense metal,",
+      "zh": "lithium is also the least dense metal,"
+    },
+    {
+      "start": 581.46,
+      "duration": 3.15,
+      "text": "at just 0.53 grams per cubic centimeter.",
+      "en": "at just 0.53 grams per cubic centimeter.",
+      "zh": "at just 0.53 grams per cubic centimeter."
+    },
+    {
+      "start": 584.61,
+      "duration": 2.76,
+      "text": "This combination of low density and the tendency",
+      "en": "This combination of low density and the tendency",
+      "zh": "This combination of low density and the tendency"
+    },
+    {
+      "start": 587.37,
+      "duration": 2.82,
+      "text": "to give away its electron made lithium perfect",
+      "en": "to give away its electron made lithium perfect",
+      "zh": "to give away its electron made lithium perfect"
+    },
+    {
+      "start": 590.19,
+      "duration": 1.11,
+      "text": "for Whittingham's vision",
+      "en": "for Whittingham's vision",
+      "zh": "for Whittingham's vision"
+    },
+    {
+      "start": 591.3,
+      "duration": 2.25,
+      "text": "of this high energy density battery.",
+      "en": "of this high energy density battery.",
+      "zh": "of this high energy density battery."
+    },
+    {
+      "start": 593.55,
+      "duration": 3.96,
+      "text": "But while lithium was easier to work with than potassium,",
+      "en": "But while lithium was easier to work with than potassium,",
+      "zh": "But while lithium was easier to work with than potassium,"
+    },
+    {
+      "start": 597.51,
+      "duration": 2.16,
+      "text": "easier still didn't mean easy.",
+      "en": "easier still didn't mean easy.",
+      "zh": "easier still didn't mean easy."
+    },
+    {
+      "start": 599.67,
+      "duration": 2.58,
+      "text": "I mean, they only let me hold it in this glove box,",
+      "en": "I mean, they only let me hold it in this glove box,",
+      "zh": "I mean, they only let me hold it in this glove box,"
+    },
+    {
+      "start": 602.25,
+      "duration": 1.92,
+      "text": "and matter of fact, here's what happens",
+      "en": "and matter of fact, here's what happens",
+      "zh": "and matter of fact, here's what happens"
+    },
+    {
+      "start": 604.17,
+      "duration": 2.31,
+      "text": "to lithium if you put it in a glass of water.",
+      "en": "to lithium if you put it in a glass of water.",
+      "zh": "to lithium if you put it in a glass of water."
+    },
+    {
+      "start": 608.01,
+      "duration": 3.3,
+      "text": "(water bubbles) (tense music)",
+      "en": "(water bubbles) (tense music)",
+      "zh": "(water bubbles) (tense music)"
+    },
+    {
+      "start": 611.31,
+      "duration": 0.9,
+      "text": "Safe to say, you don't want",
+      "en": "Safe to say, you don't want",
+      "zh": "Safe to say, you don't want"
+    },
+    {
+      "start": 612.21,
+      "duration": 1.75,
+      "text": "this happening inside your battery.",
+      "en": "this happening inside your battery.",
+      "zh": "this happening inside your battery."
+    },
+    {
+      "start": 614.94,
+      "duration": 1.77,
+      "text": "- So, Whittingham had to switch out",
+      "en": "- So, Whittingham had to switch out",
+      "zh": "- So, Whittingham had to switch out"
+    },
+    {
+      "start": 616.71,
+      "duration": 2.91,
+      "text": "the water-based electrolyte for something else,",
+      "en": "the water-based electrolyte for something else,",
+      "zh": "the water-based electrolyte for something else,"
+    },
+    {
+      "start": 619.62,
+      "duration": 4.38,
+      "text": "and that change unlocked the possibility of higher voltages.",
+      "en": "and that change unlocked the possibility of higher voltages.",
+      "zh": "and that change unlocked the possibility of higher voltages."
+    },
+    {
+      "start": 624.0,
+      "duration": 3.09,
+      "text": "He turned to a solution of lithium salt",
+      "en": "He turned to a solution of lithium salt",
+      "zh": "He turned to a solution of lithium salt"
+    },
+    {
+      "start": 627.09,
+      "duration": 2.97,
+      "text": "in an organic solvent, and it worked,",
+      "en": "in an organic solvent, and it worked,",
+      "zh": "in an organic solvent, and it worked,"
+    },
+    {
+      "start": 630.06,
+      "duration": 3.24,
+      "text": "but it came with serious risks.",
+      "en": "but it came with serious risks.",
+      "zh": "but it came with serious risks."
+    },
+    {
+      "start": 633.3,
+      "duration": 1.59,
+      "text": "The solvent was volatile,",
+      "en": "The solvent was volatile,",
+      "zh": "The solvent was volatile,"
+    },
+    {
+      "start": 634.89,
+      "duration": 2.55,
+      "text": "the lithium salt was chemically unstable.",
+      "en": "the lithium salt was chemically unstable.",
+      "zh": "the lithium salt was chemically unstable."
+    },
+    {
+      "start": 637.44,
+      "duration": 2.16,
+      "text": "Together, they formed a mixture that could explode",
+      "en": "Together, they formed a mixture that could explode",
+      "zh": "Together, they formed a mixture that could explode"
+    },
+    {
+      "start": 639.6,
+      "duration": 2.52,
+      "text": "or release toxic fumes if mishandled.",
+      "en": "or release toxic fumes if mishandled.",
+      "zh": "or release toxic fumes if mishandled."
+    },
+    {
+      "start": 642.12,
+      "duration": 2.28,
+      "text": "Everything had to be done with extreme caution.",
+      "en": "Everything had to be done with extreme caution.",
+      "zh": "Everything had to be done with extreme caution."
+    },
+    {
+      "start": 644.4,
+      "duration": 2.13,
+      "text": "A stray spark or a trace of moisture",
+      "en": "A stray spark or a trace of moisture",
+      "zh": "A stray spark or a trace of moisture"
+    },
+    {
+      "start": 646.53,
+      "duration": 3.36,
+      "text": "could destroy the experiment or start a fire.",
+      "en": "could destroy the experiment or start a fire.",
+      "zh": "could destroy the experiment or start a fire."
+    },
+    {
+      "start": 649.89,
+      "duration": 1.89,
+      "text": "But if you could get around the danger,",
+      "en": "But if you could get around the danger,",
+      "zh": "But if you could get around the danger,"
+    },
+    {
+      "start": 651.78,
+      "duration": 2.76,
+      "text": "this new electrolyte was a huge perk.",
+      "en": "this new electrolyte was a huge perk.",
+      "zh": "this new electrolyte was a huge perk."
+    },
+    {
+      "start": 654.54,
+      "duration": 1.83,
+      "text": "It let lithium-ions shuttle",
+      "en": "It let lithium-ions shuttle",
+      "zh": "It let lithium-ions shuttle"
+    },
+    {
+      "start": 656.37,
+      "duration": 2.67,
+      "text": "between electrodes without breaking down the solvent",
+      "en": "between electrodes without breaking down the solvent",
+      "zh": "between electrodes without breaking down the solvent"
+    },
+    {
+      "start": 659.04,
+      "duration": 3.48,
+      "text": "or the cell, at least not until much higher voltages.",
+      "en": "or the cell, at least not until much higher voltages.",
+      "zh": "or the cell, at least not until much higher voltages."
+    },
+    {
+      "start": 662.52,
+      "duration": 2.31,
+      "text": "Whittingham had unlocked lithium's potential,",
+      "en": "Whittingham had unlocked lithium's potential,",
+      "zh": "Whittingham had unlocked lithium's potential,"
+    },
+    {
+      "start": 664.83,
+      "duration": 2.19,
+      "text": "and in the process, he'd broken through",
+      "en": "and in the process, he'd broken through",
+      "zh": "and in the process, he'd broken through"
+    },
+    {
+      "start": 667.02,
+      "duration": 2.01,
+      "text": "the 1.23 volt ceiling.",
+      "en": "the 1.23 volt ceiling.",
+      "zh": "the 1.23 volt ceiling."
+    },
+    {
+      "start": 669.03,
+      "duration": 1.95,
+      "text": "His new chemistry delivered nearly double,",
+      "en": "His new chemistry delivered nearly double,",
+      "zh": "His new chemistry delivered nearly double,"
+    },
+    {
+      "start": 670.98,
+      "duration": 3.33,
+      "text": "a huge 2.4 volts per cell.",
+      "en": "a huge 2.4 volts per cell.",
+      "zh": "a huge 2.4 volts per cell."
+    },
+    {
+      "start": 674.31,
+      "duration": 1.74,
+      "text": "He now had a working prototype,",
+      "en": "He now had a working prototype,",
+      "zh": "He now had a working prototype,"
+    },
+    {
+      "start": 676.05,
+      "duration": 2.31,
+      "text": "a metallic lithium anode on one side,",
+      "en": "a metallic lithium anode on one side,",
+      "zh": "a metallic lithium anode on one side,"
+    },
+    {
+      "start": 678.36,
+      "duration": 2.79,
+      "text": "a titanium disulfide cathode on the other,",
+      "en": "a titanium disulfide cathode on the other,",
+      "zh": "a titanium disulfide cathode on the other,"
+    },
+    {
+      "start": 681.15,
+      "duration": 2.64,
+      "text": "his new liquid electrolyte in between.",
+      "en": "his new liquid electrolyte in between.",
+      "zh": "his new liquid electrolyte in between."
+    },
+    {
+      "start": 683.79,
+      "duration": 1.83,
+      "text": "There was also a thin porous separator",
+      "en": "There was also a thin porous separator",
+      "zh": "There was also a thin porous separator"
+    },
+    {
+      "start": 685.62,
+      "duration": 1.35,
+      "text": "that kept the electrodes apart,",
+      "en": "that kept the electrodes apart,",
+      "zh": "that kept the electrodes apart,"
+    },
+    {
+      "start": 686.97,
+      "duration": 2.25,
+      "text": "so they couldn't touch and short circuit.",
+      "en": "so they couldn't touch and short circuit.",
+      "zh": "so they couldn't touch and short circuit."
+    },
+    {
+      "start": 689.22,
+      "duration": 1.59,
+      "text": "Here's how it works.",
+      "en": "Here's how it works.",
+      "zh": "Here's how it works."
+    },
+    {
+      "start": 690.81,
+      "duration": 1.26,
+      "text": "When you close the circuit,",
+      "en": "When you close the circuit,",
+      "zh": "When you close the circuit,"
+    },
+    {
+      "start": 692.07,
+      "duration": 2.97,
+      "text": "lithium atoms at the anode give up their electrons.",
+      "en": "lithium atoms at the anode give up their electrons.",
+      "zh": "lithium atoms at the anode give up their electrons."
+    },
+    {
+      "start": 695.04,
+      "duration": 2.01,
+      "text": "Those electrons travel through the external circuit",
+      "en": "Those electrons travel through the external circuit",
+      "zh": "Those electrons travel through the external circuit"
+    },
+    {
+      "start": 697.05,
+      "duration": 2.04,
+      "text": "toward the cathode, generating a current",
+      "en": "toward the cathode, generating a current",
+      "zh": "toward the cathode, generating a current"
+    },
+    {
+      "start": 699.09,
+      "duration": 1.89,
+      "text": "that powers whatever's connected.",
+      "en": "that powers whatever's connected.",
+      "zh": "that powers whatever's connected."
+    },
+    {
+      "start": 700.98,
+      "duration": 2.19,
+      "text": "At the same time, the lithium-ions",
+      "en": "At the same time, the lithium-ions",
+      "zh": "At the same time, the lithium-ions"
+    },
+    {
+      "start": 703.17,
+      "duration": 1.95,
+      "text": "are released into the electrolyte,",
+      "en": "are released into the electrolyte,",
+      "zh": "are released into the electrolyte,"
+    },
+    {
+      "start": 705.12,
+      "duration": 2.13,
+      "text": "and then they pass through the porous separator",
+      "en": "and then they pass through the porous separator",
+      "zh": "and then they pass through the porous separator"
+    },
+    {
+      "start": 707.25,
+      "duration": 2.16,
+      "text": "and migrate toward the cathode.",
+      "en": "and migrate toward the cathode.",
+      "zh": "and migrate toward the cathode."
+    },
+    {
+      "start": 709.41,
+      "duration": 1.68,
+      "text": "The electrons arriving through the circuit",
+      "en": "The electrons arriving through the circuit",
+      "zh": "The electrons arriving through the circuit"
+    },
+    {
+      "start": 711.09,
+      "duration": 1.83,
+      "text": "are taken up by the titanium atoms",
+      "en": "are taken up by the titanium atoms",
+      "zh": "are taken up by the titanium atoms"
+    },
+    {
+      "start": 712.92,
+      "duration": 1.86,
+      "text": "and the titanium disulfide.",
+      "en": "and the titanium disulfide.",
+      "zh": "and the titanium disulfide."
+    },
+    {
+      "start": 714.78,
+      "duration": 3.15,
+      "text": "The positive lithium-ions slide between the layers",
+      "en": "The positive lithium-ions slide between the layers",
+      "zh": "The positive lithium-ions slide between the layers"
+    },
+    {
+      "start": 717.93,
+      "duration": 2.22,
+      "text": "to balance out the negative charge of the electrons,",
+      "en": "to balance out the negative charge of the electrons,",
+      "zh": "to balance out the negative charge of the electrons,"
+    },
+    {
+      "start": 720.15,
+      "duration": 2.34,
+      "text": "and they become locked in place.",
+      "en": "and they become locked in place.",
+      "zh": "and they become locked in place."
+    },
+    {
+      "start": 722.49,
+      "duration": 1.89,
+      "text": "And this process is reversible.",
+      "en": "And this process is reversible.",
+      "zh": "And this process is reversible."
+    },
+    {
+      "start": 724.38,
+      "duration": 2.1,
+      "text": "When you apply a voltage to recharge,",
+      "en": "When you apply a voltage to recharge,",
+      "zh": "When you apply a voltage to recharge,"
+    },
+    {
+      "start": 726.48,
+      "duration": 2.43,
+      "text": "the extra electrons are stripped from the titanium",
+      "en": "the extra electrons are stripped from the titanium",
+      "zh": "the extra electrons are stripped from the titanium"
+    },
+    {
+      "start": 728.91,
+      "duration": 1.89,
+      "text": "and pulled back to the anode.",
+      "en": "and pulled back to the anode.",
+      "zh": "and pulled back to the anode."
+    },
+    {
+      "start": 730.8,
+      "duration": 1.5,
+      "text": "The lithium-ions are forced out",
+      "en": "The lithium-ions are forced out",
+      "zh": "The lithium-ions are forced out"
+    },
+    {
+      "start": 732.3,
+      "duration": 2.76,
+      "text": "of the titanium disulfide layers into the electrolyte,",
+      "en": "of the titanium disulfide layers into the electrolyte,",
+      "zh": "of the titanium disulfide layers into the electrolyte,"
+    },
+    {
+      "start": 735.06,
+      "duration": 1.83,
+      "text": "and they too migrate to the anode",
+      "en": "and they too migrate to the anode",
+      "zh": "and they too migrate to the anode"
+    },
+    {
+      "start": 736.89,
+      "duration": 2.76,
+      "text": "where metallic lithium reforms.",
+      "en": "where metallic lithium reforms.",
+      "zh": "where metallic lithium reforms."
+    },
+    {
+      "start": 739.65,
+      "duration": 1.59,
+      "text": "What Whittingham had created here",
+      "en": "What Whittingham had created here",
+      "zh": "What Whittingham had created here"
+    },
+    {
+      "start": 741.24,
+      "duration": 3.33,
+      "text": "was a rechargeable battery, one that worked reliably",
+      "en": "was a rechargeable battery, one that worked reliably",
+      "zh": "was a rechargeable battery, one that worked reliably"
+    },
+    {
+      "start": 744.57,
+      "duration": 2.82,
+      "text": "cycle after cycle with incredible consistency.",
+      "en": "cycle after cycle with incredible consistency.",
+      "zh": "cycle after cycle with incredible consistency."
+    },
+    {
+      "start": 748.5,
+      "duration": 2.37,
+      "text": "I don't normally think about batteries this way,",
+      "en": "I don't normally think about batteries this way,",
+      "zh": "I don't normally think about batteries this way,"
+    },
+    {
+      "start": 750.87,
+      "duration": 3.45,
+      "text": "but what they really are is tiny little contained",
+      "en": "but what they really are is tiny little contained",
+      "zh": "but what they really are is tiny little contained"
+    },
+    {
+      "start": 754.32,
+      "duration": 1.44,
+      "text": "chemical reactions.",
+      "en": "chemical reactions.",
+      "zh": "chemical reactions."
+    },
+    {
+      "start": 755.76,
+      "duration": 1.29,
+      "text": "And in a chemical reaction,",
+      "en": "And in a chemical reaction,",
+      "zh": "And in a chemical reaction,"
+    },
+    {
+      "start": 757.05,
+      "duration": 2.34,
+      "text": "if you could get a 60% yield,",
+      "en": "if you could get a 60% yield,",
+      "zh": "if you could get a 60% yield,"
+    },
+    {
+      "start": 759.39,
+      "duration": 1.95,
+      "text": "that would be considered good.",
+      "en": "that would be considered good.",
+      "zh": "that would be considered good."
+    },
+    {
+      "start": 761.34,
+      "duration": 1.08,
+      "text": "But in a battery,",
+      "en": "But in a battery,",
+      "zh": "But in a battery,"
+    },
+    {
+      "start": 762.42,
+      "duration": 3.15,
+      "text": "especially one that you wanna recharge 1000 times,",
+      "en": "especially one that you wanna recharge 1000 times,",
+      "zh": "especially one that you wanna recharge 1000 times,"
+    },
+    {
+      "start": 765.57,
+      "duration": 4.38,
+      "text": "you need that reaction to be say 99.9% efficient,",
+      "en": "you need that reaction to be say 99.9% efficient,",
+      "zh": "you need that reaction to be say 99.9% efficient,"
+    },
+    {
+      "start": 769.95,
+      "duration": 2.94,
+      "text": "because if it's not, the capacity of that battery",
+      "en": "because if it's not, the capacity of that battery",
+      "zh": "because if it's not, the capacity of that battery"
+    },
+    {
+      "start": 772.89,
+      "duration": 1.77,
+      "text": "rapidly deteriorates.",
+      "en": "rapidly deteriorates.",
+      "zh": "rapidly deteriorates."
+    },
+    {
+      "start": 774.66,
+      "duration": 2.28,
+      "text": "If you have, say, a 95% yield,",
+      "en": "If you have, say, a 95% yield,",
+      "zh": "If you have, say, a 95% yield,"
+    },
+    {
+      "start": 776.94,
+      "duration": 1.71,
+      "text": "then you'd lose a significant fraction",
+      "en": "then you'd lose a significant fraction",
+      "zh": "then you'd lose a significant fraction"
+    },
+    {
+      "start": 778.65,
+      "duration": 1.56,
+      "text": "of lithium-ions every cycle.",
+      "en": "of lithium-ions every cycle.",
+      "zh": "of lithium-ions every cycle."
+    },
+    {
+      "start": 780.21,
+      "duration": 2.7,
+      "text": "After just 50 cycles, you'd only have 8%",
+      "en": "After just 50 cycles, you'd only have 8%",
+      "zh": "After just 50 cycles, you'd only have 8%"
+    },
+    {
+      "start": 782.91,
+      "duration": 2.31,
+      "text": "of your original capacity left.",
+      "en": "of your original capacity left.",
+      "zh": "of your original capacity left."
+    },
+    {
+      "start": 785.22,
+      "duration": 1.92,
+      "text": "So that's pretty incredible",
+      "en": "So that's pretty incredible",
+      "zh": "So that's pretty incredible"
+    },
+    {
+      "start": 787.14,
+      "duration": 1.65,
+      "text": "that every single lithium-ion",
+      "en": "that every single lithium-ion",
+      "zh": "that every single lithium-ion"
+    },
+    {
+      "start": 788.79,
+      "duration": 2.37,
+      "text": "has to leave one electrode, pass through the electrolyte,",
+      "en": "has to leave one electrode, pass through the electrolyte,",
+      "zh": "has to leave one electrode, pass through the electrolyte,"
+    },
+    {
+      "start": 791.16,
+      "duration": 2.34,
+      "text": "and slot neatly into the layered crystal structure",
+      "en": "and slot neatly into the layered crystal structure",
+      "zh": "and slot neatly into the layered crystal structure"
+    },
+    {
+      "start": 793.5,
+      "duration": 1.29,
+      "text": "of titanium disulfide.",
+      "en": "of titanium disulfide.",
+      "zh": "of titanium disulfide."
+    },
+    {
+      "start": 794.79,
+      "duration": 1.83,
+      "text": "And then when you recharge it,",
+      "en": "And then when you recharge it,",
+      "zh": "And then when you recharge it,"
+    },
+    {
+      "start": 796.62,
+      "duration": 2.76,
+      "text": "they have to leave again cleanly without incident,",
+      "en": "they have to leave again cleanly without incident,",
+      "zh": "they have to leave again cleanly without incident,"
+    },
+    {
+      "start": 799.38,
+      "duration": 1.59,
+      "text": "without getting stuck, make their way",
+      "en": "without getting stuck, make their way",
+      "zh": "without getting stuck, make their way"
+    },
+    {
+      "start": 800.97,
+      "duration": 1.8,
+      "text": "all the way back to the anode.",
+      "en": "all the way back to the anode.",
+      "zh": "all the way back to the anode."
+    },
+    {
+      "start": 802.77,
+      "duration": 2.79,
+      "text": "Amazingly, despite just being an early prototype,",
+      "en": "Amazingly, despite just being an early prototype,",
+      "zh": "Amazingly, despite just being an early prototype,"
+    },
+    {
+      "start": 805.56,
+      "duration": 3.95,
+      "text": "Whittingham's battery came close to that 99%.",
+      "en": "Whittingham's battery came close to that 99%.",
+      "zh": "Whittingham's battery came close to that 99%."
+    },
+    {
+      "start": 811.02,
+      "duration": 1.74,
+      "text": "In the winter of 1973,",
+      "en": "In the winter of 1973,",
+      "zh": "In the winter of 1973,"
+    },
+    {
+      "start": 812.76,
+      "duration": 1.92,
+      "text": "Exxon's managers summoned Whittingham",
+      "en": "Exxon's managers summoned Whittingham",
+      "zh": "Exxon's managers summoned Whittingham"
+    },
+    {
+      "start": 814.68,
+      "duration": 1.71,
+      "text": "to the company's New York office.",
+      "en": "to the company's New York office.",
+      "zh": "to the company's New York office."
+    },
+    {
+      "start": 817.8,
+      "duration": 2.46,
+      "text": "Whittingham later said, \"I went in there and explained it,",
+      "en": "Whittingham later said, \"I went in there and explained it,",
+      "zh": "Whittingham later said, \"I went in there and explained it,"
+    },
+    {
+      "start": 820.26,
+      "duration": 2.07,
+      "text": "five minutes, 10 minutes at the most,",
+      "en": "five minutes, 10 minutes at the most,",
+      "zh": "five minutes, 10 minutes at the most,"
+    },
+    {
+      "start": 822.33,
+      "duration": 1.68,
+      "text": "and within a week they said yes,",
+      "en": "and within a week they said yes,",
+      "zh": "and within a week they said yes,"
+    },
+    {
+      "start": 824.01,
+      "duration": 1.86,
+      "text": "they wanted to invest in this.\"",
+      "en": "they wanted to invest in this.\"",
+      "zh": "they wanted to invest in this.\""
+    },
+    {
+      "start": 827.49,
+      "duration": 1.98,
+      "text": "They got to work at the Exxon laboratory,",
+      "en": "They got to work at the Exxon laboratory,",
+      "zh": "They got to work at the Exxon laboratory,"
+    },
+    {
+      "start": 829.47,
+      "duration": 2.25,
+      "text": "but it wasn't all smooth sailing.",
+      "en": "but it wasn't all smooth sailing.",
+      "zh": "but it wasn't all smooth sailing."
+    },
+    {
+      "start": 831.72,
+      "duration": 2.55,
+      "text": "Firefighters had to be called out repeatedly.",
+      "en": "Firefighters had to be called out repeatedly.",
+      "zh": "Firefighters had to be called out repeatedly."
+    },
+    {
+      "start": 834.27,
+      "duration": 1.26,
+      "text": "They were called so often,",
+      "en": "They were called so often,",
+      "zh": "They were called so often,"
+    },
+    {
+      "start": 835.53,
+      "duration": 1.59,
+      "text": "they threatened to start charging the lab",
+      "en": "they threatened to start charging the lab",
+      "zh": "they threatened to start charging the lab"
+    },
+    {
+      "start": 837.12,
+      "duration": 1.29,
+      "text": "for the special chemicals needed",
+      "en": "for the special chemicals needed",
+      "zh": "for the special chemicals needed"
+    },
+    {
+      "start": 838.41,
+      "duration": 2.13,
+      "text": "to extinguish the burning lithium.",
+      "en": "to extinguish the burning lithium.",
+      "zh": "to extinguish the burning lithium."
+    },
+    {
+      "start": 840.54,
+      "duration": 1.74,
+      "text": "- The problem was the anode.",
+      "en": "- The problem was the anode.",
+      "zh": "- The problem was the anode."
+    },
+    {
+      "start": 842.28,
+      "duration": 2.25,
+      "text": "Whittingham's design used pure lithium,",
+      "en": "Whittingham's design used pure lithium,",
+      "zh": "Whittingham's design used pure lithium,"
+    },
+    {
+      "start": 844.53,
+      "duration": 2.34,
+      "text": "which worked brilliantly, until it didn't.",
+      "en": "which worked brilliantly, until it didn't.",
+      "zh": "which worked brilliantly, until it didn't."
+    },
+    {
+      "start": 847.98,
+      "duration": 1.62,
+      "text": "- [Billy] We've made a special cell.",
+      "en": "- [Billy] We've made a special cell.",
+      "zh": "- [Billy] We've made a special cell."
+    },
+    {
+      "start": 849.6,
+      "duration": 1.01,
+      "text": "We've made a transparent battery.",
+      "en": "We've made a transparent battery.",
+      "zh": "We've made a transparent battery."
+    },
+    {
+      "start": 850.61,
+      "duration": 1.54,
+      "text": "- [Gregor] That's so cool.",
+      "en": "- [Gregor] That's so cool.",
+      "zh": "- [Gregor] That's so cool."
+    },
+    {
+      "start": 852.15,
+      "duration": 1.14,
+      "text": "- But they're very, very small,",
+      "en": "- But they're very, very small,",
+      "zh": "- But they're very, very small,"
+    },
+    {
+      "start": 853.29,
+      "duration": 2.13,
+      "text": "so we have a microscope lens",
+      "en": "so we have a microscope lens",
+      "zh": "so we have a microscope lens"
+    },
+    {
+      "start": 855.42,
+      "duration": 1.5,
+      "text": "just to allow us to see it.",
+      "en": "just to allow us to see it.",
+      "zh": "just to allow us to see it."
+    },
+    {
+      "start": 857.97,
+      "duration": 2.91,
+      "text": "What you're seeing here is a piece of copper,",
+      "en": "What you're seeing here is a piece of copper,",
+      "zh": "What you're seeing here is a piece of copper,"
+    },
+    {
+      "start": 860.88,
+      "duration": 2.46,
+      "text": "which we're gradually plating with lithium.",
+      "en": "which we're gradually plating with lithium.",
+      "zh": "which we're gradually plating with lithium."
+    },
+    {
+      "start": 863.34,
+      "duration": 2.58,
+      "text": "So this is analogous to the first generation",
+      "en": "So this is analogous to the first generation",
+      "zh": "So this is analogous to the first generation"
+    },
+    {
+      "start": 865.92,
+      "duration": 1.92,
+      "text": "lithium metal batteries,",
+      "en": "lithium metal batteries,",
+      "zh": "lithium metal batteries,"
+    },
+    {
+      "start": 867.84,
+      "duration": 2.16,
+      "text": "which use lithium metal as the anode.",
+      "en": "which use lithium metal as the anode.",
+      "zh": "which use lithium metal as the anode."
+    },
+    {
+      "start": 870.0,
+      "duration": 2.97,
+      "text": "On this side, we have a piece of lithium.",
+      "en": "On this side, we have a piece of lithium.",
+      "zh": "On this side, we have a piece of lithium."
+    },
+    {
+      "start": 872.97,
+      "duration": 2.67,
+      "text": "As we charge the battery, we're stripping the lithium",
+      "en": "As we charge the battery, we're stripping the lithium",
+      "zh": "As we charge the battery, we're stripping the lithium"
+    },
+    {
+      "start": 875.64,
+      "duration": 2.04,
+      "text": "from that electrode and we're plating it.",
+      "en": "from that electrode and we're plating it.",
+      "zh": "from that electrode and we're plating it."
+    },
+    {
+      "start": 877.68,
+      "duration": 1.59,
+      "text": "And actually what's happening right now",
+      "en": "And actually what's happening right now",
+      "zh": "And actually what's happening right now"
+    },
+    {
+      "start": 879.27,
+      "duration": 3.39,
+      "text": "is the ideal reaction where it's very slow.",
+      "en": "is the ideal reaction where it's very slow.",
+      "zh": "is the ideal reaction where it's very slow."
+    },
+    {
+      "start": 882.66,
+      "duration": 2.04,
+      "text": "We're getting a dense plate.",
+      "en": "We're getting a dense plate.",
+      "zh": "We're getting a dense plate."
+    },
+    {
+      "start": 884.7,
+      "duration": 3.03,
+      "text": "The challenge then becomes if we go too fast.",
+      "en": "The challenge then becomes if we go too fast.",
+      "zh": "The challenge then becomes if we go too fast."
+    },
+    {
+      "start": 889.38,
+      "duration": 1.95,
+      "text": "- [Gregor] Oh, that is huge!",
+      "en": "- [Gregor] Oh, that is huge!",
+      "zh": "- [Gregor] Oh, that is huge!"
+    },
+    {
+      "start": 891.33,
+      "duration": 1.2,
+      "text": "- Everything's fine",
+      "en": "- Everything's fine",
+      "zh": "- Everything's fine"
+    },
+    {
+      "start": 892.53,
+      "duration": 2.28,
+      "text": "until all of a sudden it's not fine.",
+      "en": "until all of a sudden it's not fine.",
+      "zh": "until all of a sudden it's not fine."
+    },
+    {
+      "start": 895.8,
+      "duration": 2.82,
+      "text": "So we want the lithium to plate evenly across everywhere,",
+      "en": "So we want the lithium to plate evenly across everywhere,",
+      "zh": "So we want the lithium to plate evenly across everywhere,"
+    },
+    {
+      "start": 898.62,
+      "duration": 3.12,
+      "text": "but instead, it forms in that one location,",
+      "en": "but instead, it forms in that one location,",
+      "zh": "but instead, it forms in that one location,"
+    },
+    {
+      "start": 901.74,
+      "duration": 2.88,
+      "text": "and that is what is a lithium dendrite.",
+      "en": "and that is what is a lithium dendrite.",
+      "zh": "and that is what is a lithium dendrite."
+    },
+    {
+      "start": 904.62,
+      "duration": 2.22,
+      "text": "That lithium dendrite can grow.",
+      "en": "That lithium dendrite can grow.",
+      "zh": "That lithium dendrite can grow."
+    },
+    {
+      "start": 906.84,
+      "duration": 3.66,
+      "text": "The length scales of this is on the order of,",
+      "en": "The length scales of this is on the order of,",
+      "zh": "The length scales of this is on the order of,"
+    },
+    {
+      "start": 910.5,
+      "duration": 0.87,
+      "text": "you know, millimeters,",
+      "en": "you know, millimeters,",
+      "zh": "you know, millimeters,"
+    },
+    {
+      "start": 911.37,
+      "duration": 2.6,
+      "text": "so that would've easily short circuited the battery.",
+      "en": "so that would've easily short circuited the battery.",
+      "zh": "so that would've easily short circuited the battery."
+    },
+    {
+      "start": 915.0,
+      "duration": 2.13,
+      "text": "- [Gregor] And that dendrite can just keep growing,",
+      "en": "- [Gregor] And that dendrite can just keep growing,",
+      "zh": "- [Gregor] And that dendrite can just keep growing,"
+    },
+    {
+      "start": 917.13,
+      "duration": 2.43,
+      "text": "and eventually it's gonna poke through the separator",
+      "en": "and eventually it's gonna poke through the separator",
+      "zh": "and eventually it's gonna poke through the separator"
+    },
+    {
+      "start": 919.56,
+      "duration": 2.04,
+      "text": "and reach to the other side.",
+      "en": "and reach to the other side.",
+      "zh": "and reach to the other side."
+    },
+    {
+      "start": 921.6,
+      "duration": 1.98,
+      "text": "Now the electrons are gonna have a shortcut,",
+      "en": "Now the electrons are gonna have a shortcut,",
+      "zh": "Now the electrons are gonna have a shortcut,"
+    },
+    {
+      "start": 923.58,
+      "duration": 2.07,
+      "text": "so instead of going through the circuit,",
+      "en": "so instead of going through the circuit,",
+      "zh": "so instead of going through the circuit,"
+    },
+    {
+      "start": 925.65,
+      "duration": 1.68,
+      "text": "they race straight from the anode",
+      "en": "they race straight from the anode",
+      "zh": "they race straight from the anode"
+    },
+    {
+      "start": 927.33,
+      "duration": 2.07,
+      "text": "to the cathode using the dendrite,",
+      "en": "to the cathode using the dendrite,",
+      "zh": "to the cathode using the dendrite,"
+    },
+    {
+      "start": 929.4,
+      "duration": 3.48,
+      "text": "and that sudden surge of electrons cause intense heating,",
+      "en": "and that sudden surge of electrons cause intense heating,",
+      "zh": "and that sudden surge of electrons cause intense heating,"
+    },
+    {
+      "start": 932.88,
+      "duration": 3.48,
+      "text": "and that can trigger a chain reaction inside the battery,",
+      "en": "and that can trigger a chain reaction inside the battery,",
+      "zh": "and that can trigger a chain reaction inside the battery,"
+    },
+    {
+      "start": 936.36,
+      "duration": 2.94,
+      "text": "leading to a fire, or even an explosion.",
+      "en": "leading to a fire, or even an explosion.",
+      "zh": "leading to a fire, or even an explosion."
+    },
+    {
+      "start": 941.07,
+      "duration": 1.62,
+      "text": "- For all its promise,",
+      "en": "- For all its promise,",
+      "zh": "- For all its promise,"
+    },
+    {
+      "start": 942.69,
+      "duration": 2.1,
+      "text": "Whittingham's battery was just too dangerous,",
+      "en": "Whittingham's battery was just too dangerous,",
+      "zh": "Whittingham's battery was just too dangerous,"
+    },
+    {
+      "start": 944.79,
+      "duration": 2.28,
+      "text": "and then the oil crisis ended.",
+      "en": "and then the oil crisis ended.",
+      "zh": "and then the oil crisis ended."
+    },
+    {
+      "start": 947.07,
+      "duration": 3.24,
+      "text": "Prices dropped and Exxon's urgency evaporated.",
+      "en": "Prices dropped and Exxon's urgency evaporated.",
+      "zh": "Prices dropped and Exxon's urgency evaporated."
+    },
+    {
+      "start": 950.31,
+      "duration": 3.39,
+      "text": "The company shut down its lithium battery program.",
+      "en": "The company shut down its lithium battery program.",
+      "zh": "The company shut down its lithium battery program."
+    },
+    {
+      "start": 953.7,
+      "duration": 2.37,
+      "text": "Whittingham published his design in 1976,",
+      "en": "Whittingham published his design in 1976,",
+      "zh": "Whittingham published his design in 1976,"
+    },
+    {
+      "start": 956.07,
+      "duration": 3.36,
+      "text": "and Exxon licensed the patent to a few manufacturers,",
+      "en": "and Exxon licensed the patent to a few manufacturers,",
+      "zh": "and Exxon licensed the patent to a few manufacturers,"
+    },
+    {
+      "start": 959.43,
+      "duration": 1.89,
+      "text": "but with no funding and no momentum,",
+      "en": "but with no funding and no momentum,",
+      "zh": "but with no funding and no momentum,"
+    },
+    {
+      "start": 961.32,
+      "duration": 2.34,
+      "text": "the first lithium battery revolution died",
+      "en": "the first lithium battery revolution died",
+      "zh": "the first lithium battery revolution died"
+    },
+    {
+      "start": 963.66,
+      "duration": 2.43,
+      "text": "before it had a chance to take off.",
+      "en": "before it had a chance to take off.",
+      "zh": "before it had a chance to take off."
+    },
+    {
+      "start": 966.09,
+      "duration": 1.98,
+      "text": "Fortunately, a copy of Whittingham's paper",
+      "en": "Fortunately, a copy of Whittingham's paper",
+      "zh": "Fortunately, a copy of Whittingham's paper"
+    },
+    {
+      "start": 968.07,
+      "duration": 1.35,
+      "text": "made it across the Atlantic",
+      "en": "made it across the Atlantic",
+      "zh": "made it across the Atlantic"
+    },
+    {
+      "start": 969.42,
+      "duration": 2.07,
+      "text": "to Oxford University in England,",
+      "en": "to Oxford University in England,",
+      "zh": "to Oxford University in England,"
+    },
+    {
+      "start": 971.49,
+      "duration": 2.61,
+      "text": "where it caught the attention of John B. Goodenough,",
+      "en": "where it caught the attention of John B. Goodenough,",
+      "zh": "where it caught the attention of John B. Goodenough,"
+    },
+    {
+      "start": 974.1,
+      "duration": 3.06,
+      "text": "an American physicist leading a solid state chemistry group.",
+      "en": "an American physicist leading a solid state chemistry group.",
+      "zh": "an American physicist leading a solid state chemistry group."
+    },
+    {
+      "start": 978.57,
+      "duration": 2.46,
+      "text": "As he read the paper, one thing stood out,",
+      "en": "As he read the paper, one thing stood out,",
+      "zh": "As he read the paper, one thing stood out,"
+    },
+    {
+      "start": 981.03,
+      "duration": 2.82,
+      "text": "the cell voltage was being held back.",
+      "en": "the cell voltage was being held back.",
+      "zh": "the cell voltage was being held back."
+    },
+    {
+      "start": 983.85,
+      "duration": 2.22,
+      "text": "The material Whittingham chose for the cathode,",
+      "en": "The material Whittingham chose for the cathode,",
+      "zh": "The material Whittingham chose for the cathode,"
+    },
+    {
+      "start": 986.07,
+      "duration": 4.11,
+      "text": "titanium disulfide, capped the cell at just 2.4 volts,",
+      "en": "titanium disulfide, capped the cell at just 2.4 volts,",
+      "zh": "titanium disulfide, capped the cell at just 2.4 volts,"
+    },
+    {
+      "start": 990.18,
+      "duration": 1.26,
+      "text": "but Goodenough believed that",
+      "en": "but Goodenough believed that",
+      "zh": "but Goodenough believed that"
+    },
+    {
+      "start": 991.44,
+      "duration": 3.0,
+      "text": "with a better cathode material, he could do better.",
+      "en": "with a better cathode material, he could do better.",
+      "zh": "with a better cathode material, he could do better."
+    },
+    {
+      "start": 995.49,
+      "duration": 1.05,
+      "text": "He had previously worked",
+      "en": "He had previously worked",
+      "zh": "He had previously worked"
+    },
+    {
+      "start": 996.54,
+      "duration": 2.7,
+      "text": "with compounds called transition metal oxides.",
+      "en": "with compounds called transition metal oxides.",
+      "zh": "with compounds called transition metal oxides."
+    },
+    {
+      "start": 999.24,
+      "duration": 1.77,
+      "text": "They were more stable than sulfides,",
+      "en": "They were more stable than sulfides,",
+      "zh": "They were more stable than sulfides,"
+    },
+    {
+      "start": 1001.01,
+      "duration": 3.45,
+      "text": "and some he knew were extremely hungry for electrons,",
+      "en": "and some he knew were extremely hungry for electrons,",
+      "zh": "and some he knew were extremely hungry for electrons,"
+    },
+    {
+      "start": 1004.46,
+      "duration": 1.8,
+      "text": "perfect for a cathode.",
+      "en": "perfect for a cathode.",
+      "zh": "perfect for a cathode."
+    },
+    {
+      "start": 1006.26,
+      "duration": 2.19,
+      "text": "He tried one of these compounds in his battery,",
+      "en": "He tried one of these compounds in his battery,",
+      "zh": "He tried one of these compounds in his battery,"
+    },
+    {
+      "start": 1008.45,
+      "duration": 1.53,
+      "text": "and the voltage immediately spiked",
+      "en": "and the voltage immediately spiked",
+      "zh": "and the voltage immediately spiked"
+    },
+    {
+      "start": 1009.98,
+      "duration": 2.64,
+      "text": "from 2.4 volts to four volts.",
+      "en": "from 2.4 volts to four volts.",
+      "zh": "from 2.4 volts to four volts."
+    },
+    {
+      "start": 1012.62,
+      "duration": 2.07,
+      "text": "This jump was incredible.",
+      "en": "This jump was incredible.",
+      "zh": "This jump was incredible."
+    },
+    {
+      "start": 1014.69,
+      "duration": 2.28,
+      "text": "But what was even more surprising was the fact",
+      "en": "But what was even more surprising was the fact",
+      "zh": "But what was even more surprising was the fact"
+    },
+    {
+      "start": 1016.97,
+      "duration": 3.03,
+      "text": "that this compound already had lithium in it.",
+      "en": "that this compound already had lithium in it.",
+      "zh": "that this compound already had lithium in it."
+    },
+    {
+      "start": 1020.0,
+      "duration": 3.21,
+      "text": "The material was lithium cobalt oxide.",
+      "en": "The material was lithium cobalt oxide.",
+      "zh": "The material was lithium cobalt oxide."
+    },
+    {
+      "start": 1024.08,
+      "duration": 2.79,
+      "text": "Lithium cobalt oxide is arranged so that the cobalt",
+      "en": "Lithium cobalt oxide is arranged so that the cobalt",
+      "zh": "Lithium cobalt oxide is arranged so that the cobalt"
+    },
+    {
+      "start": 1026.87,
+      "duration": 2.76,
+      "text": "and oxygen atoms form tightly bonded layers,",
+      "en": "and oxygen atoms form tightly bonded layers,",
+      "zh": "and oxygen atoms form tightly bonded layers,"
+    },
+    {
+      "start": 1029.63,
+      "duration": 2.79,
+      "text": "with lithium-ions nestled in between.",
+      "en": "with lithium-ions nestled in between.",
+      "zh": "with lithium-ions nestled in between."
+    },
+    {
+      "start": 1032.42,
+      "duration": 2.34,
+      "text": "This means that your supply of lithium-ions",
+      "en": "This means that your supply of lithium-ions",
+      "zh": "This means that your supply of lithium-ions"
+    },
+    {
+      "start": 1034.76,
+      "duration": 0.9,
+      "text": "doesn't just have to come",
+      "en": "doesn't just have to come",
+      "zh": "doesn't just have to come"
+    },
+    {
+      "start": 1035.66,
+      "duration": 2.52,
+      "text": "from the dangerous lithium metal on the anode side,",
+      "en": "from the dangerous lithium metal on the anode side,",
+      "zh": "from the dangerous lithium metal on the anode side,"
+    },
+    {
+      "start": 1038.18,
+      "duration": 2.91,
+      "text": "it's already there prebuilt into the cathode.",
+      "en": "it's already there prebuilt into the cathode.",
+      "zh": "it's already there prebuilt into the cathode."
+    },
+    {
+      "start": 1041.09,
+      "duration": 3.96,
+      "text": "So theoretically, you don't even need lithium metal at all.",
+      "en": "So theoretically, you don't even need lithium metal at all.",
+      "zh": "So theoretically, you don't even need lithium metal at all."
+    },
+    {
+      "start": 1045.05,
+      "duration": 2.58,
+      "text": "You could assemble the cell in a discharged state",
+      "en": "You could assemble the cell in a discharged state",
+      "zh": "You could assemble the cell in a discharged state"
+    },
+    {
+      "start": 1047.63,
+      "duration": 2.31,
+      "text": "with all your lithium-ions in the cathode,",
+      "en": "with all your lithium-ions in the cathode,",
+      "zh": "with all your lithium-ions in the cathode,"
+    },
+    {
+      "start": 1049.94,
+      "duration": 1.38,
+      "text": "then when you connect it to a charger,",
+      "en": "then when you connect it to a charger,",
+      "zh": "then when you connect it to a charger,"
+    },
+    {
+      "start": 1051.32,
+      "duration": 1.44,
+      "text": "these ions will get expelled",
+      "en": "these ions will get expelled",
+      "zh": "these ions will get expelled"
+    },
+    {
+      "start": 1052.76,
+      "duration": 2.76,
+      "text": "from the cathode crystal lattice and into the electrolyte.",
+      "en": "from the cathode crystal lattice and into the electrolyte.",
+      "zh": "from the cathode crystal lattice and into the electrolyte."
+    },
+    {
+      "start": 1055.52,
+      "duration": 2.13,
+      "text": "At the same time, nearby cobalt atoms",
+      "en": "At the same time, nearby cobalt atoms",
+      "zh": "At the same time, nearby cobalt atoms"
+    },
+    {
+      "start": 1057.65,
+      "duration": 2.46,
+      "text": "will give up an electron to balance out the charge,",
+      "en": "will give up an electron to balance out the charge,",
+      "zh": "will give up an electron to balance out the charge,"
+    },
+    {
+      "start": 1060.11,
+      "duration": 2.25,
+      "text": "and those electrons then go through the wire",
+      "en": "and those electrons then go through the wire",
+      "zh": "and those electrons then go through the wire"
+    },
+    {
+      "start": 1062.36,
+      "duration": 2.49,
+      "text": "to the anode to meet with the ions.",
+      "en": "to the anode to meet with the ions.",
+      "zh": "to the anode to meet with the ions."
+    },
+    {
+      "start": 1064.85,
+      "duration": 1.74,
+      "text": "If Goodenough could find an anode",
+      "en": "If Goodenough could find an anode",
+      "zh": "If Goodenough could find an anode"
+    },
+    {
+      "start": 1066.59,
+      "duration": 1.77,
+      "text": "that would replace lithium metal,",
+      "en": "that would replace lithium metal,",
+      "zh": "that would replace lithium metal,"
+    },
+    {
+      "start": 1068.36,
+      "duration": 2.25,
+      "text": "the battery would become safe enough to leave the lab",
+      "en": "the battery would become safe enough to leave the lab",
+      "zh": "the battery would become safe enough to leave the lab"
+    },
+    {
+      "start": 1070.61,
+      "duration": 2.37,
+      "text": "and actually power real world devices.",
+      "en": "and actually power real world devices.",
+      "zh": "and actually power real world devices."
+    },
+    {
+      "start": 1073.91,
+      "duration": 3.0,
+      "text": "Goodenough was so excited about the potential of his design",
+      "en": "Goodenough was so excited about the potential of his design",
+      "zh": "Goodenough was so excited about the potential of his design"
+    },
+    {
+      "start": 1076.91,
+      "duration": 2.91,
+      "text": "that he reached out to battery companies across the US,",
+      "en": "that he reached out to battery companies across the US,",
+      "zh": "that he reached out to battery companies across the US,"
+    },
+    {
+      "start": 1079.82,
+      "duration": 5.0,
+      "text": "the UK and Europe, but incredibly, no one was interested.",
+      "en": "the UK and Europe, but incredibly, no one was interested.",
+      "zh": "the UK and Europe, but incredibly, no one was interested."
+    },
+    {
+      "start": 1084.86,
+      "duration": 4.56,
+      "text": "So he asked Oxford to file a patent, but they refused.",
+      "en": "So he asked Oxford to file a patent, but they refused.",
+      "zh": "So he asked Oxford to file a patent, but they refused."
+    },
+    {
+      "start": 1089.42,
+      "duration": 2.88,
+      "text": "So he took it to a government lab near Oxford,",
+      "en": "So he took it to a government lab near Oxford,",
+      "zh": "So he took it to a government lab near Oxford,"
+    },
+    {
+      "start": 1092.3,
+      "duration": 2.28,
+      "text": "the Atomic Energy Research Establishment,",
+      "en": "the Atomic Energy Research Establishment,",
+      "zh": "the Atomic Energy Research Establishment,"
+    },
+    {
+      "start": 1094.58,
+      "duration": 3.09,
+      "text": "and finally, they agreed to fund the patent,",
+      "en": "and finally, they agreed to fund the patent,",
+      "zh": "and finally, they agreed to fund the patent,"
+    },
+    {
+      "start": 1097.67,
+      "duration": 4.32,
+      "text": "but only if Goodenough signed away his financial rights.",
+      "en": "but only if Goodenough signed away his financial rights.",
+      "zh": "but only if Goodenough signed away his financial rights."
+    },
+    {
+      "start": 1101.99,
+      "duration": 2.25,
+      "text": "Seeing no other option, he agreed,",
+      "en": "Seeing no other option, he agreed,",
+      "zh": "Seeing no other option, he agreed,"
+    },
+    {
+      "start": 1104.24,
+      "duration": 3.42,
+      "text": "and the lab patented the invention in 1981.",
+      "en": "and the lab patented the invention in 1981.",
+      "zh": "and the lab patented the invention in 1981."
+    },
+    {
+      "start": 1107.66,
+      "duration": 2.58,
+      "text": "Now, this should have been a gold mine,",
+      "en": "Now, this should have been a gold mine,",
+      "zh": "Now, this should have been a gold mine,"
+    },
+    {
+      "start": 1110.24,
+      "duration": 2.7,
+      "text": "but the lab didn't realize what they had.",
+      "en": "but the lab didn't realize what they had.",
+      "zh": "but the lab didn't realize what they had."
+    },
+    {
+      "start": 1112.94,
+      "duration": 1.35,
+      "text": "And so for the second time,",
+      "en": "And so for the second time,",
+      "zh": "And so for the second time,"
+    },
+    {
+      "start": 1114.29,
+      "duration": 3.9,
+      "text": "the lithium battery revolution was boxed up and shelved.",
+      "en": "the lithium battery revolution was boxed up and shelved.",
+      "zh": "the lithium battery revolution was boxed up and shelved."
+    },
+    {
+      "start": 1118.19,
+      "duration": 2.64,
+      "text": "This should have been a turning point for battery science,",
+      "en": "This should have been a turning point for battery science,",
+      "zh": "This should have been a turning point for battery science,"
+    },
+    {
+      "start": 1120.83,
+      "duration": 3.27,
+      "text": "but bureaucracy and inertia stalled progress.",
+      "en": "but bureaucracy and inertia stalled progress.",
+      "zh": "but bureaucracy and inertia stalled progress."
+    },
+    {
+      "start": 1124.1,
+      "duration": 2.13,
+      "text": "Every field has its bottlenecks.",
+      "en": "Every field has its bottlenecks.",
+      "zh": "Every field has its bottlenecks."
+    },
+    {
+      "start": 1126.23,
+      "duration": 3.27,
+      "text": "For batteries, it was slow moving institutions.",
+      "en": "For batteries, it was slow moving institutions.",
+      "zh": "For batteries, it was slow moving institutions."
+    },
+    {
+      "start": 1129.5,
+      "duration": 3.45,
+      "text": "For developers today, it's slow moving code reviews.",
+      "en": "For developers today, it's slow moving code reviews.",
+      "zh": "For developers today, it's slow moving code reviews."
+    },
+    {
+      "start": 1132.95,
+      "duration": 1.32,
+      "text": "And I can relate.",
+      "en": "And I can relate.",
+      "zh": "And I can relate."
+    },
+    {
+      "start": 1134.27,
+      "duration": 1.17,
+      "text": "When we make these videos,",
+      "en": "When we make these videos,",
+      "zh": "When we make these videos,"
+    },
+    {
+      "start": 1135.44,
+      "duration": 1.62,
+      "text": "especially the ones with simulations",
+      "en": "especially the ones with simulations",
+      "zh": "especially the ones with simulations"
+    },
+    {
+      "start": 1137.06,
+      "duration": 2.22,
+      "text": "or complex animations, it's rarely the ideas",
+      "en": "or complex animations, it's rarely the ideas",
+      "zh": "or complex animations, it's rarely the ideas"
+    },
+    {
+      "start": 1139.28,
+      "duration": 2.79,
+      "text": "that slow us down, it is the reviews.",
+      "en": "that slow us down, it is the reviews.",
+      "zh": "that slow us down, it is the reviews."
+    },
+    {
+      "start": 1142.07,
+      "duration": 1.77,
+      "text": "Developers face the same thing.",
+      "en": "Developers face the same thing.",
+      "zh": "Developers face the same thing."
+    },
+    {
+      "start": 1143.84,
+      "duration": 2.04,
+      "text": "They're writing code faster than ever,",
+      "en": "They're writing code faster than ever,",
+      "zh": "They're writing code faster than ever,"
+    },
+    {
+      "start": 1145.88,
+      "duration": 2.46,
+      "text": "thanks to tools like Copilot and Cursor.",
+      "en": "thanks to tools like Copilot and Cursor.",
+      "zh": "thanks to tools like Copilot and Cursor."
+    },
+    {
+      "start": 1148.34,
+      "duration": 4.32,
+      "text": "But code reviews, well, they're still manual and still slow.",
+      "en": "But code reviews, well, they're still manual and still slow.",
+      "zh": "But code reviews, well, they're still manual and still slow."
+    },
+    {
+      "start": 1152.66,
+      "duration": 2.76,
+      "text": "That's where this video's sponsor CodeRabbit comes in.",
+      "en": "That's where this video's sponsor CodeRabbit comes in.",
+      "zh": "That's where this video's sponsor CodeRabbit comes in."
+    },
+    {
+      "start": 1155.42,
+      "duration": 3.33,
+      "text": "CodeRabbit automates code reviews with generative AI.",
+      "en": "CodeRabbit automates code reviews with generative AI.",
+      "zh": "CodeRabbit automates code reviews with generative AI."
+    },
+    {
+      "start": 1158.75,
+      "duration": 2.4,
+      "text": "Unlike basic tools, it understands your code base,",
+      "en": "Unlike basic tools, it understands your code base,",
+      "zh": "Unlike basic tools, it understands your code base,"
+    },
+    {
+      "start": 1161.15,
+      "duration": 3.27,
+      "text": "your architecture, standards, even naming conventions.",
+      "en": "your architecture, standards, even naming conventions.",
+      "zh": "your architecture, standards, even naming conventions."
+    },
+    {
+      "start": 1164.42,
+      "duration": 2.1,
+      "text": "It pulls context from over 40 sources",
+      "en": "It pulls context from over 40 sources",
+      "zh": "It pulls context from over 40 sources"
+    },
+    {
+      "start": 1166.52,
+      "duration": 2.4,
+      "text": "to give feedback that feels precise and human",
+      "en": "to give feedback that feels precise and human",
+      "zh": "to give feedback that feels precise and human"
+    },
+    {
+      "start": 1168.92,
+      "duration": 2.7,
+      "text": "and tailored to your team, right in the Git workflow.",
+      "en": "and tailored to your team, right in the Git workflow.",
+      "zh": "and tailored to your team, right in the Git workflow."
+    },
+    {
+      "start": 1171.62,
+      "duration": 2.25,
+      "text": "That's why it catches what other tools miss,",
+      "en": "That's why it catches what other tools miss,",
+      "zh": "That's why it catches what other tools miss,"
+    },
+    {
+      "start": 1173.87,
+      "duration": 2.52,
+      "text": "logic errors, bad conditions, math mistakes,",
+      "en": "logic errors, bad conditions, math mistakes,",
+      "zh": "logic errors, bad conditions, math mistakes,"
+    },
+    {
+      "start": 1176.39,
+      "duration": 2.94,
+      "text": "even security vulnerabilities, like SQL injections.",
+      "en": "even security vulnerabilities, like SQL injections.",
+      "zh": "even security vulnerabilities, like SQL injections."
+    },
+    {
+      "start": 1179.33,
+      "duration": 0.84,
+      "text": "The result?",
+      "en": "The result?",
+      "zh": "The result?"
+    },
+    {
+      "start": 1180.17,
+      "duration": 1.35,
+      "text": "Well, your senior engineers",
+      "en": "Well, your senior engineers",
+      "zh": "Well, your senior engineers"
+    },
+    {
+      "start": 1181.52,
+      "duration": 1.89,
+      "text": "spend less time buried in reviews",
+      "en": "spend less time buried in reviews",
+      "zh": "spend less time buried in reviews"
+    },
+    {
+      "start": 1183.41,
+      "duration": 1.8,
+      "text": "and more time solving the problems",
+      "en": "and more time solving the problems",
+      "zh": "and more time solving the problems"
+    },
+    {
+      "start": 1185.21,
+      "duration": 1.47,
+      "text": "that only humans can solve.",
+      "en": "that only humans can solve.",
+      "zh": "that only humans can solve."
+    },
+    {
+      "start": 1187.52,
+      "duration": 2.73,
+      "text": "Try it out at CodeRabbit.link/veritasium",
+      "en": "Try it out at CodeRabbit.link/veritasium",
+      "zh": "Try it out at CodeRabbit.link/veritasium"
+    },
+    {
+      "start": 1190.25,
+      "duration": 2.52,
+      "text": "to cut code review time and bugs in half.",
+      "en": "to cut code review time and bugs in half.",
+      "zh": "to cut code review time and bugs in half."
+    },
+    {
+      "start": 1192.77,
+      "duration": 1.95,
+      "text": "And if you're working on open source projects,",
+      "en": "And if you're working on open source projects,",
+      "zh": "And if you're working on open source projects,"
+    },
+    {
+      "start": 1194.72,
+      "duration": 1.5,
+      "text": "it's completely free.",
+      "en": "it's completely free.",
+      "zh": "it's completely free."
+    },
+    {
+      "start": 1196.22,
+      "duration": 2.4,
+      "text": "That's CodeRabbit.link/veritasium.",
+      "en": "That's CodeRabbit.link/veritasium.",
+      "zh": "That's CodeRabbit.link/veritasium."
+    },
+    {
+      "start": 1198.62,
+      "duration": 1.08,
+      "text": "I would like to thank CodeRabbit",
+      "en": "I would like to thank CodeRabbit",
+      "zh": "I would like to thank CodeRabbit"
+    },
+    {
+      "start": 1199.7,
+      "duration": 2.04,
+      "text": "for sponsoring this part of the video.",
+      "en": "for sponsoring this part of the video.",
+      "zh": "for sponsoring this part of the video."
+    },
+    {
+      "start": 1201.74,
+      "duration": 2.01,
+      "text": "And now back to Goodenough's design,",
+      "en": "And now back to Goodenough's design,",
+      "zh": "And now back to Goodenough's design,"
+    },
+    {
+      "start": 1203.75,
+      "duration": 3.78,
+      "text": "a breakthrough with nowhere to go, yet.",
+      "en": "a breakthrough with nowhere to go, yet.",
+      "zh": "a breakthrough with nowhere to go, yet."
+    },
+    {
+      "start": 1207.53,
+      "duration": 2.3,
+      "text": "While Goodenough's battery design was gathering dust,",
+      "en": "While Goodenough's battery design was gathering dust,",
+      "zh": "While Goodenough's battery design was gathering dust,"
+    },
+    {
+      "start": 1209.83,
+      "duration": 2.41,
+      "text": "10,000 kilometers away in Japan,",
+      "en": "10,000 kilometers away in Japan,",
+      "zh": "10,000 kilometers away in Japan,"
+    },
+    {
+      "start": 1212.24,
+      "duration": 2.7,
+      "text": "a 34-year-old chemist named Akira Yoshino",
+      "en": "a 34-year-old chemist named Akira Yoshino",
+      "zh": "a 34-year-old chemist named Akira Yoshino"
+    },
+    {
+      "start": 1214.94,
+      "duration": 2.52,
+      "text": "was trying to find a safer battery anode,",
+      "en": "was trying to find a safer battery anode,",
+      "zh": "was trying to find a safer battery anode,"
+    },
+    {
+      "start": 1217.46,
+      "duration": 2.49,
+      "text": "one that didn't require lithium metal.",
+      "en": "one that didn't require lithium metal.",
+      "zh": "one that didn't require lithium metal."
+    },
+    {
+      "start": 1219.95,
+      "duration": 2.61,
+      "text": "Yoshino was actually looking at plastic.",
+      "en": "Yoshino was actually looking at plastic.",
+      "zh": "Yoshino was actually looking at plastic."
+    },
+    {
+      "start": 1222.56,
+      "duration": 2.4,
+      "text": "Now, normally plastic is an insulator,",
+      "en": "Now, normally plastic is an insulator,",
+      "zh": "Now, normally plastic is an insulator,"
+    },
+    {
+      "start": 1224.96,
+      "duration": 3.03,
+      "text": "but the kind Yoshino was looking at is different.",
+      "en": "but the kind Yoshino was looking at is different.",
+      "zh": "but the kind Yoshino was looking at is different."
+    },
+    {
+      "start": 1227.99,
+      "duration": 1.89,
+      "text": "It's called polyacetylene,",
+      "en": "It's called polyacetylene,",
+      "zh": "It's called polyacetylene,"
+    },
+    {
+      "start": 1229.88,
+      "duration": 3.03,
+      "text": "and its carbon atoms are arranged in a repeating chain",
+      "en": "and its carbon atoms are arranged in a repeating chain",
+      "zh": "and its carbon atoms are arranged in a repeating chain"
+    },
+    {
+      "start": 1232.91,
+      "duration": 1.8,
+      "text": "of single and double bonds,",
+      "en": "of single and double bonds,",
+      "zh": "of single and double bonds,"
+    },
+    {
+      "start": 1234.71,
+      "duration": 3.51,
+      "text": "a structure that gives it unusual electronic properties.",
+      "en": "a structure that gives it unusual electronic properties.",
+      "zh": "a structure that gives it unusual electronic properties."
+    },
+    {
+      "start": 1238.22,
+      "duration": 3.72,
+      "text": "If you tweak polyacetylene by adding or removing electrons,",
+      "en": "If you tweak polyacetylene by adding or removing electrons,",
+      "zh": "If you tweak polyacetylene by adding or removing electrons,"
+    },
+    {
+      "start": 1241.94,
+      "duration": 3.06,
+      "text": "electrons can actually move along this carbon chain.",
+      "en": "electrons can actually move along this carbon chain.",
+      "zh": "electrons can actually move along this carbon chain."
+    },
+    {
+      "start": 1245.0,
+      "duration": 3.84,
+      "text": "So the plastic conducts electricity like a metal.",
+      "en": "So the plastic conducts electricity like a metal.",
+      "zh": "So the plastic conducts electricity like a metal."
+    },
+    {
+      "start": 1248.84,
+      "duration": 1.92,
+      "text": "And that got Yoshino thinking,",
+      "en": "And that got Yoshino thinking,",
+      "zh": "And that got Yoshino thinking,"
+    },
+    {
+      "start": 1250.76,
+      "duration": 3.09,
+      "text": "what if polyacetylene could work as a battery anode?",
+      "en": "what if polyacetylene could work as a battery anode?",
+      "zh": "what if polyacetylene could work as a battery anode?"
+    },
+    {
+      "start": 1253.85,
+      "duration": 3.36,
+      "text": "During charging, it could absorb lithium-ions and electrons,",
+      "en": "During charging, it could absorb lithium-ions and electrons,",
+      "zh": "During charging, it could absorb lithium-ions and electrons,"
+    },
+    {
+      "start": 1257.21,
+      "duration": 3.03,
+      "text": "and then during discharge, it would give up those electrons",
+      "en": "and then during discharge, it would give up those electrons",
+      "zh": "and then during discharge, it would give up those electrons"
+    },
+    {
+      "start": 1260.24,
+      "duration": 2.46,
+      "text": "to the circuit, just like lithium metal does.",
+      "en": "to the circuit, just like lithium metal does.",
+      "zh": "to the circuit, just like lithium metal does."
+    },
+    {
+      "start": 1262.7,
+      "duration": 2.76,
+      "text": "If it worked, it could eliminate the most dangerous part",
+      "en": "If it worked, it could eliminate the most dangerous part",
+      "zh": "If it worked, it could eliminate the most dangerous part"
+    },
+    {
+      "start": 1265.46,
+      "duration": 2.73,
+      "text": "of the battery, the metallic lithium.",
+      "en": "of the battery, the metallic lithium.",
+      "zh": "of the battery, the metallic lithium."
+    },
+    {
+      "start": 1268.19,
+      "duration": 1.95,
+      "text": "But for months, Yoshino struggled.",
+      "en": "But for months, Yoshino struggled.",
+      "zh": "But for months, Yoshino struggled."
+    },
+    {
+      "start": 1270.14,
+      "duration": 2.76,
+      "text": "Obviously, since he removed lithium metal from the anode,",
+      "en": "Obviously, since he removed lithium metal from the anode,",
+      "zh": "Obviously, since he removed lithium metal from the anode,"
+    },
+    {
+      "start": 1272.9,
+      "duration": 2.79,
+      "text": "he had to get lithium-ions from somewhere else",
+      "en": "he had to get lithium-ions from somewhere else",
+      "zh": "he had to get lithium-ions from somewhere else"
+    },
+    {
+      "start": 1275.69,
+      "duration": 2.16,
+      "text": "and he couldn't figure it out.",
+      "en": "and he couldn't figure it out.",
+      "zh": "and he couldn't figure it out."
+    },
+    {
+      "start": 1277.85,
+      "duration": 1.83,
+      "text": "And then just as he was losing hope,",
+      "en": "And then just as he was losing hope,",
+      "zh": "And then just as he was losing hope,"
+    },
+    {
+      "start": 1279.68,
+      "duration": 3.24,
+      "text": "on the last workday of 1982 while cleaning out his office,",
+      "en": "on the last workday of 1982 while cleaning out his office,",
+      "zh": "on the last workday of 1982 while cleaning out his office,"
+    },
+    {
+      "start": 1282.92,
+      "duration": 3.93,
+      "text": "he stumbled upon a 1980 paper by John B. Goodenough.",
+      "en": "he stumbled upon a 1980 paper by John B. Goodenough.",
+      "zh": "he stumbled upon a 1980 paper by John B. Goodenough."
+    },
+    {
+      "start": 1286.85,
+      "duration": 3.0,
+      "text": "It described a cathode made of lithium cobalt oxide,",
+      "en": "It described a cathode made of lithium cobalt oxide,",
+      "zh": "It described a cathode made of lithium cobalt oxide,"
+    },
+    {
+      "start": 1289.85,
+      "duration": 3.18,
+      "text": "a cathode that already contained lithium.",
+      "en": "a cathode that already contained lithium.",
+      "zh": "a cathode that already contained lithium."
+    },
+    {
+      "start": 1293.03,
+      "duration": 1.62,
+      "text": "This was the missing piece.",
+      "en": "This was the missing piece.",
+      "zh": "This was the missing piece."
+    },
+    {
+      "start": 1295.97,
+      "duration": 2.91,
+      "text": "He sketched out the reaction between lithium cobalt oxide",
+      "en": "He sketched out the reaction between lithium cobalt oxide",
+      "zh": "He sketched out the reaction between lithium cobalt oxide"
+    },
+    {
+      "start": 1298.88,
+      "duration": 1.71,
+      "text": "and his lithium free anode,",
+      "en": "and his lithium free anode,",
+      "zh": "and his lithium free anode,"
+    },
+    {
+      "start": 1300.59,
+      "duration": 2.97,
+      "text": "and then built a test cell using the two materials.",
+      "en": "and then built a test cell using the two materials.",
+      "zh": "and then built a test cell using the two materials."
+    },
+    {
+      "start": 1303.56,
+      "duration": 2.91,
+      "text": "It worked safely and reliably,",
+      "en": "It worked safely and reliably,",
+      "zh": "It worked safely and reliably,"
+    },
+    {
+      "start": 1306.47,
+      "duration": 2.22,
+      "text": "but Yoshino wasn't satisfied.",
+      "en": "but Yoshino wasn't satisfied.",
+      "zh": "but Yoshino wasn't satisfied."
+    },
+    {
+      "start": 1308.69,
+      "duration": 1.68,
+      "text": "The material he used for the anode,",
+      "en": "The material he used for the anode,",
+      "zh": "The material he used for the anode,"
+    },
+    {
+      "start": 1310.37,
+      "duration": 3.12,
+      "text": "the polyacetylene had an extremely low density.",
+      "en": "the polyacetylene had an extremely low density.",
+      "zh": "the polyacetylene had an extremely low density."
+    },
+    {
+      "start": 1313.49,
+      "duration": 2.73,
+      "text": "I mean, it couldn't pack in enough lithium,",
+      "en": "I mean, it couldn't pack in enough lithium,",
+      "zh": "I mean, it couldn't pack in enough lithium,"
+    },
+    {
+      "start": 1316.22,
+      "duration": 3.03,
+      "text": "so the energy density of the battery was terrible.",
+      "en": "so the energy density of the battery was terrible.",
+      "zh": "so the energy density of the battery was terrible."
+    },
+    {
+      "start": 1319.25,
+      "duration": 2.91,
+      "text": "Yoshino needed something more lightweight, compact,",
+      "en": "Yoshino needed something more lightweight, compact,",
+      "zh": "Yoshino needed something more lightweight, compact,"
+    },
+    {
+      "start": 1322.16,
+      "duration": 1.83,
+      "text": "conductive, and crucially,",
+      "en": "conductive, and crucially,",
+      "zh": "conductive, and crucially,"
+    },
+    {
+      "start": 1323.99,
+      "duration": 1.86,
+      "text": "something that could reversibly accept",
+      "en": "something that could reversibly accept",
+      "zh": "something that could reversibly accept"
+    },
+    {
+      "start": 1325.85,
+      "duration": 2.1,
+      "text": "and release lithium-ions within its structure",
+      "en": "and release lithium-ions within its structure",
+      "zh": "and release lithium-ions within its structure"
+    },
+    {
+      "start": 1327.95,
+      "duration": 1.59,
+      "text": "without breaking down.",
+      "en": "without breaking down.",
+      "zh": "without breaking down."
+    },
+    {
+      "start": 1329.54,
+      "duration": 2.04,
+      "text": "He tested material after material,",
+      "en": "He tested material after material,",
+      "zh": "He tested material after material,"
+    },
+    {
+      "start": 1331.58,
+      "duration": 1.92,
+      "text": "and every single one failed,",
+      "en": "and every single one failed,",
+      "zh": "and every single one failed,"
+    },
+    {
+      "start": 1333.5,
+      "duration": 3.39,
+      "text": "until a breakthrough came from within his own company.",
+      "en": "until a breakthrough came from within his own company.",
+      "zh": "until a breakthrough came from within his own company."
+    },
+    {
+      "start": 1336.89,
+      "duration": 2.4,
+      "text": "Another team had developed a new form of carbon",
+      "en": "Another team had developed a new form of carbon",
+      "zh": "Another team had developed a new form of carbon"
+    },
+    {
+      "start": 1339.29,
+      "duration": 2.22,
+      "text": "with a unique crystalline structure.",
+      "en": "with a unique crystalline structure.",
+      "zh": "with a unique crystalline structure."
+    },
+    {
+      "start": 1341.51,
+      "duration": 2.52,
+      "text": "They called it vapor grown carbon fiber.",
+      "en": "They called it vapor grown carbon fiber.",
+      "zh": "They called it vapor grown carbon fiber."
+    },
+    {
+      "start": 1344.03,
+      "duration": 1.62,
+      "text": "He got his hands on a sample,",
+      "en": "He got his hands on a sample,",
+      "zh": "He got his hands on a sample,"
+    },
+    {
+      "start": 1345.65,
+      "duration": 2.58,
+      "text": "tried it in the lab, and it worked.",
+      "en": "tried it in the lab, and it worked.",
+      "zh": "tried it in the lab, and it worked."
+    },
+    {
+      "start": 1349.76,
+      "duration": 1.92,
+      "text": "To prove it, he placed a test cell",
+      "en": "To prove it, he placed a test cell",
+      "zh": "To prove it, he placed a test cell"
+    },
+    {
+      "start": 1351.68,
+      "duration": 2.97,
+      "text": "containing metallic lithium into a safety rig,",
+      "en": "containing metallic lithium into a safety rig,",
+      "zh": "containing metallic lithium into a safety rig,"
+    },
+    {
+      "start": 1354.65,
+      "duration": 2.28,
+      "text": "one that's designed to test explosives.",
+      "en": "one that's designed to test explosives.",
+      "zh": "one that's designed to test explosives."
+    },
+    {
+      "start": 1356.93,
+      "duration": 3.45,
+      "text": "Then he dropped a heavy iron rod onto it.",
+      "en": "Then he dropped a heavy iron rod onto it.",
+      "zh": "Then he dropped a heavy iron rod onto it."
+    },
+    {
+      "start": 1360.38,
+      "duration": 2.07,
+      "text": "It exploded violently.",
+      "en": "It exploded violently.",
+      "zh": "It exploded violently."
+    },
+    {
+      "start": 1362.45,
+      "duration": 1.68,
+      "text": "Then he ran the same test again,",
+      "en": "Then he ran the same test again,",
+      "zh": "Then he ran the same test again,"
+    },
+    {
+      "start": 1364.13,
+      "duration": 1.68,
+      "text": "but this time with his new design,",
+      "en": "but this time with his new design,",
+      "zh": "but this time with his new design,"
+    },
+    {
+      "start": 1365.81,
+      "duration": 1.95,
+      "text": "using carbon as the anode.",
+      "en": "using carbon as the anode.",
+      "zh": "using carbon as the anode."
+    },
+    {
+      "start": 1367.76,
+      "duration": 2.16,
+      "text": "He charged the cell, placed it in the rig,",
+      "en": "He charged the cell, placed it in the rig,",
+      "zh": "He charged the cell, placed it in the rig,"
+    },
+    {
+      "start": 1369.92,
+      "duration": 3.75,
+      "text": "and dropped the rod but nothing happened.",
+      "en": "and dropped the rod but nothing happened.",
+      "zh": "and dropped the rod but nothing happened."
+    },
+    {
+      "start": 1373.67,
+      "duration": 2.19,
+      "text": "The contrast was undeniable.",
+      "en": "The contrast was undeniable.",
+      "zh": "The contrast was undeniable."
+    },
+    {
+      "start": 1377.6,
+      "duration": 1.63,
+      "text": "Later, Yoshino would say,",
+      "en": "Later, Yoshino would say,",
+      "zh": "Later, Yoshino would say,"
+    },
+    {
+      "start": 1379.23,
+      "duration": 4.07,
+      "text": "\"That was the moment when the lithium-ion battery was born.\"",
+      "en": "\"That was the moment when the lithium-ion battery was born.\"",
+      "zh": "\"That was the moment when the lithium-ion battery was born.\""
+    },
+    {
+      "start": 1383.3,
+      "duration": 2.31,
+      "text": "But his employer, Asahi Chemical,",
+      "en": "But his employer, Asahi Chemical,",
+      "zh": "But his employer, Asahi Chemical,"
+    },
+    {
+      "start": 1385.61,
+      "duration": 2.46,
+      "text": "well, they weren't a battery company,",
+      "en": "well, they weren't a battery company,",
+      "zh": "well, they weren't a battery company,"
+    },
+    {
+      "start": 1388.07,
+      "duration": 2.82,
+      "text": "and they didn't know how to make batteries.",
+      "en": "and they didn't know how to make batteries.",
+      "zh": "and they didn't know how to make batteries."
+    },
+    {
+      "start": 1390.89,
+      "duration": 4.02,
+      "text": "So in 1986, Asahi executive Isao Kuribayashi",
+      "en": "So in 1986, Asahi executive Isao Kuribayashi",
+      "zh": "So in 1986, Asahi executive Isao Kuribayashi"
+    },
+    {
+      "start": 1394.91,
+      "duration": 2.52,
+      "text": "flew to Boston on a top secret mission,",
+      "en": "flew to Boston on a top secret mission,",
+      "zh": "flew to Boston on a top secret mission,"
+    },
+    {
+      "start": 1397.43,
+      "duration": 2.34,
+      "text": "carrying three jars containing cathode,",
+      "en": "carrying three jars containing cathode,",
+      "zh": "carrying three jars containing cathode,"
+    },
+    {
+      "start": 1399.77,
+      "duration": 2.52,
+      "text": "anode and electrolyte materials.",
+      "en": "anode and electrolyte materials.",
+      "zh": "anode and electrolyte materials."
+    },
+    {
+      "start": 1402.29,
+      "duration": 3.3,
+      "text": "He handed them to a tiny firm called Battery Engineering,",
+      "en": "He handed them to a tiny firm called Battery Engineering,",
+      "zh": "He handed them to a tiny firm called Battery Engineering,"
+    },
+    {
+      "start": 1405.59,
+      "duration": 2.43,
+      "text": "working out of a converted truck garage,",
+      "en": "working out of a converted truck garage,",
+      "zh": "working out of a converted truck garage,"
+    },
+    {
+      "start": 1408.02,
+      "duration": 1.74,
+      "text": "and he asked them to turn the materials",
+      "en": "and he asked them to turn the materials",
+      "zh": "and he asked them to turn the materials"
+    },
+    {
+      "start": 1409.76,
+      "duration": 1.41,
+      "text": "into cylindrical cells,",
+      "en": "into cylindrical cells,",
+      "zh": "into cylindrical cells,"
+    },
+    {
+      "start": 1411.17,
+      "duration": 2.82,
+      "text": "like the kind you might buy for a flashlight.",
+      "en": "like the kind you might buy for a flashlight.",
+      "zh": "like the kind you might buy for a flashlight."
+    },
+    {
+      "start": 1413.99,
+      "duration": 1.53,
+      "text": "The team did just that,",
+      "en": "The team did just that,",
+      "zh": "The team did just that,"
+    },
+    {
+      "start": 1415.52,
+      "duration": 2.76,
+      "text": "completely unaware of what they were handling.",
+      "en": "completely unaware of what they were handling.",
+      "zh": "completely unaware of what they were handling."
+    },
+    {
+      "start": 1418.28,
+      "duration": 3.27,
+      "text": "It wasn't until 2020 that employees learned the truth",
+      "en": "It wasn't until 2020 that employees learned the truth",
+      "zh": "It wasn't until 2020 that employees learned the truth"
+    },
+    {
+      "start": 1421.55,
+      "duration": 2.31,
+      "text": "that they had helped assemble the world's first",
+      "en": "that they had helped assemble the world's first",
+      "zh": "that they had helped assemble the world's first"
+    },
+    {
+      "start": 1423.86,
+      "duration": 2.07,
+      "text": "pre-production lithium-ion batteries.",
+      "en": "pre-production lithium-ion batteries.",
+      "zh": "pre-production lithium-ion batteries."
+    },
+    {
+      "start": 1427.07,
+      "duration": 2.67,
+      "text": "Two weeks later, Kuribayashi returned to Japan",
+      "en": "Two weeks later, Kuribayashi returned to Japan",
+      "zh": "Two weeks later, Kuribayashi returned to Japan"
+    },
+    {
+      "start": 1429.74,
+      "duration": 3.39,
+      "text": "with 200 finished perfectly functioning cells.",
+      "en": "with 200 finished perfectly functioning cells.",
+      "zh": "with 200 finished perfectly functioning cells."
+    },
+    {
+      "start": 1433.13,
+      "duration": 3.63,
+      "text": "Even then, Asahi's leadership hesitated.",
+      "en": "Even then, Asahi's leadership hesitated.",
+      "zh": "Even then, Asahi's leadership hesitated."
+    },
+    {
+      "start": 1436.76,
+      "duration": 1.71,
+      "text": "Kuribayashi refused to give up.",
+      "en": "Kuribayashi refused to give up.",
+      "zh": "Kuribayashi refused to give up."
+    },
+    {
+      "start": 1438.47,
+      "duration": 1.98,
+      "text": "On the 21st of January, 1987,",
+      "en": "On the 21st of January, 1987,",
+      "zh": "On the 21st of January, 1987,"
+    },
+    {
+      "start": 1440.45,
+      "duration": 2.91,
+      "text": "he visited Sony and he took one of the prototype cells",
+      "en": "he visited Sony and he took one of the prototype cells",
+      "zh": "he visited Sony and he took one of the prototype cells"
+    },
+    {
+      "start": 1443.36,
+      "duration": 3.18,
+      "text": "and rolled it across the conference table to the Sony execs,",
+      "en": "and rolled it across the conference table to the Sony execs,",
+      "zh": "and rolled it across the conference table to the Sony execs,"
+    },
+    {
+      "start": 1446.54,
+      "duration": 3.9,
+      "text": "and at last, they saw its potential.",
+      "en": "and at last, they saw its potential.",
+      "zh": "and at last, they saw its potential."
+    },
+    {
+      "start": 1450.44,
+      "duration": 1.41,
+      "text": "They reworked the design,",
+      "en": "They reworked the design,",
+      "zh": "They reworked the design,"
+    },
+    {
+      "start": 1451.85,
+      "duration": 1.8,
+      "text": "swapping out Yoshino's carbon material",
+      "en": "swapping out Yoshino's carbon material",
+      "zh": "swapping out Yoshino's carbon material"
+    },
+    {
+      "start": 1453.65,
+      "duration": 3.0,
+      "text": "for graphite that could better intercalate lithium-ions",
+      "en": "for graphite that could better intercalate lithium-ions",
+      "zh": "for graphite that could better intercalate lithium-ions"
+    },
+    {
+      "start": 1456.65,
+      "duration": 1.44,
+      "text": "between its layers.",
+      "en": "between its layers.",
+      "zh": "between its layers."
+    },
+    {
+      "start": 1458.09,
+      "duration": 2.19,
+      "text": "And in 1991, Sony launched",
+      "en": "And in 1991, Sony launched",
+      "zh": "And in 1991, Sony launched"
+    },
+    {
+      "start": 1460.28,
+      "duration": 2.28,
+      "text": "the first commercial lithium-ion battery",
+      "en": "the first commercial lithium-ion battery",
+      "zh": "the first commercial lithium-ion battery"
+    },
+    {
+      "start": 1462.56,
+      "duration": 2.94,
+      "text": "inside this, the Sony Handycam.",
+      "en": "inside this, the Sony Handycam.",
+      "zh": "inside this, the Sony Handycam."
+    },
+    {
+      "start": 1465.5,
+      "duration": 2.82,
+      "text": "Their battery was compact, rechargeable, powerful,",
+      "en": "Their battery was compact, rechargeable, powerful,",
+      "zh": "Their battery was compact, rechargeable, powerful,"
+    },
+    {
+      "start": 1468.32,
+      "duration": 3.96,
+      "text": "and crucially, free of unstable lithium metal.",
+      "en": "and crucially, free of unstable lithium metal.",
+      "zh": "and crucially, free of unstable lithium metal."
+    },
+    {
+      "start": 1472.28,
+      "duration": 2.19,
+      "text": "It was Sony who first coined the name",
+      "en": "It was Sony who first coined the name",
+      "zh": "It was Sony who first coined the name"
+    },
+    {
+      "start": 1474.47,
+      "duration": 2.31,
+      "text": "lithium-ion and it stuck.",
+      "en": "lithium-ion and it stuck.",
+      "zh": "lithium-ion and it stuck."
+    },
+    {
+      "start": 1478.79,
+      "duration": 2.49,
+      "text": "But this wasn't just about one camcorder.",
+      "en": "But this wasn't just about one camcorder.",
+      "zh": "But this wasn't just about one camcorder."
+    },
+    {
+      "start": 1481.28,
+      "duration": 1.71,
+      "text": "Competing companies like Panasonic",
+      "en": "Competing companies like Panasonic",
+      "zh": "Competing companies like Panasonic"
+    },
+    {
+      "start": 1482.99,
+      "duration": 2.22,
+      "text": "and Sanyo raced to catch up.",
+      "en": "and Sanyo raced to catch up.",
+      "zh": "and Sanyo raced to catch up."
+    },
+    {
+      "start": 1485.21,
+      "duration": 1.8,
+      "text": "Lithium-ion batteries started appearing",
+      "en": "Lithium-ion batteries started appearing",
+      "zh": "Lithium-ion batteries started appearing"
+    },
+    {
+      "start": 1487.01,
+      "duration": 2.64,
+      "text": "in phones, CD players, laptops.",
+      "en": "in phones, CD players, laptops.",
+      "zh": "in phones, CD players, laptops."
+    },
+    {
+      "start": 1489.65,
+      "duration": 2.16,
+      "text": "Manufacturers actually began to advertise",
+      "en": "Manufacturers actually began to advertise",
+      "zh": "Manufacturers actually began to advertise"
+    },
+    {
+      "start": 1491.81,
+      "duration": 1.56,
+      "text": "the use of lithium-ion batteries",
+      "en": "the use of lithium-ion batteries",
+      "zh": "the use of lithium-ion batteries"
+    },
+    {
+      "start": 1493.37,
+      "duration": 2.13,
+      "text": "as a key selling point of their products.",
+      "en": "as a key selling point of their products.",
+      "zh": "as a key selling point of their products."
+    },
+    {
+      "start": 1495.5,
+      "duration": 1.14,
+      "text": "- I'm showing my age here.",
+      "en": "- I'm showing my age here.",
+      "zh": "- I'm showing my age here."
+    },
+    {
+      "start": 1496.64,
+      "duration": 2.28,
+      "text": "I joined the industry when lithium-ion cells",
+      "en": "I joined the industry when lithium-ion cells",
+      "zh": "I joined the industry when lithium-ion cells"
+    },
+    {
+      "start": 1498.92,
+      "duration": 1.29,
+      "text": "were first introduced,",
+      "en": "were first introduced,",
+      "zh": "were first introduced,"
+    },
+    {
+      "start": 1500.21,
+      "duration": 3.27,
+      "text": "and there was a Sony camcorder that was introduced,",
+      "en": "and there was a Sony camcorder that was introduced,",
+      "zh": "and there was a Sony camcorder that was introduced,"
+    },
+    {
+      "start": 1503.48,
+      "duration": 1.26,
+      "text": "and then there was Dell computer.",
+      "en": "and then there was Dell computer.",
+      "zh": "and then there was Dell computer."
+    },
+    {
+      "start": 1504.74,
+      "duration": 1.89,
+      "text": "And I still remember the ads when Dell computer",
+      "en": "And I still remember the ads when Dell computer",
+      "zh": "And I still remember the ads when Dell computer"
+    },
+    {
+      "start": 1506.63,
+      "duration": 1.47,
+      "text": "introduced their lithium-ion battery,",
+      "en": "introduced their lithium-ion battery,",
+      "zh": "introduced their lithium-ion battery,"
+    },
+    {
+      "start": 1508.1,
+      "duration": 2.4,
+      "text": "and they had eight hours of runtime,",
+      "en": "and they had eight hours of runtime,",
+      "zh": "and they had eight hours of runtime,"
+    },
+    {
+      "start": 1510.5,
+      "duration": 2.07,
+      "text": "so they had an advertisement in a magazine",
+      "en": "so they had an advertisement in a magazine",
+      "zh": "so they had an advertisement in a magazine"
+    },
+    {
+      "start": 1512.57,
+      "duration": 1.5,
+      "text": "and it was eight pages long.",
+      "en": "and it was eight pages long.",
+      "zh": "and it was eight pages long."
+    },
+    {
+      "start": 1514.07,
+      "duration": 3.18,
+      "text": "Each one was an hour longer, so it was a big deal.",
+      "en": "Each one was an hour longer, so it was a big deal.",
+      "zh": "Each one was an hour longer, so it was a big deal."
+    },
+    {
+      "start": 1517.25,
+      "duration": 2.37,
+      "text": "- But what's crazy is that even after all this,",
+      "en": "- But what's crazy is that even after all this,",
+      "zh": "- But what's crazy is that even after all this,"
+    },
+    {
+      "start": 1519.62,
+      "duration": 2.25,
+      "text": "these batteries should never have worked.",
+      "en": "these batteries should never have worked.",
+      "zh": "these batteries should never have worked."
+    },
+    {
+      "start": 1521.87,
+      "duration": 2.28,
+      "text": "See, when you charge the battery for the first time,",
+      "en": "See, when you charge the battery for the first time,",
+      "zh": "See, when you charge the battery for the first time,"
+    },
+    {
+      "start": 1524.15,
+      "duration": 3.42,
+      "text": "lithium-ions move from the cathode to the graphite anode.",
+      "en": "lithium-ions move from the cathode to the graphite anode.",
+      "zh": "lithium-ions move from the cathode to the graphite anode."
+    },
+    {
+      "start": 1527.57,
+      "duration": 2.04,
+      "text": "And here, they react with the electrolyte",
+      "en": "And here, they react with the electrolyte",
+      "zh": "And here, they react with the electrolyte"
+    },
+    {
+      "start": 1529.61,
+      "duration": 4.08,
+      "text": "to form this weird complex patchwork of compounds",
+      "en": "to form this weird complex patchwork of compounds",
+      "zh": "to form this weird complex patchwork of compounds"
+    },
+    {
+      "start": 1533.69,
+      "duration": 2.28,
+      "text": "that build up on the anode's surface.",
+      "en": "that build up on the anode's surface.",
+      "zh": "that build up on the anode's surface."
+    },
+    {
+      "start": 1535.97,
+      "duration": 2.04,
+      "text": "These parasitic side reactions",
+      "en": "These parasitic side reactions",
+      "zh": "These parasitic side reactions"
+    },
+    {
+      "start": 1538.01,
+      "duration": 1.62,
+      "text": "should keep going on indefinitely,",
+      "en": "should keep going on indefinitely,",
+      "zh": "should keep going on indefinitely,"
+    },
+    {
+      "start": 1539.63,
+      "duration": 1.32,
+      "text": "using up all the lithium",
+      "en": "using up all the lithium",
+      "zh": "using up all the lithium"
+    },
+    {
+      "start": 1540.95,
+      "duration": 3.54,
+      "text": "and destroying the cell but they don't.",
+      "en": "and destroying the cell but they don't.",
+      "zh": "and destroying the cell but they don't."
+    },
+    {
+      "start": 1544.49,
+      "duration": 2.37,
+      "text": "Instead they form a thin protective layer",
+      "en": "Instead they form a thin protective layer",
+      "zh": "Instead they form a thin protective layer"
+    },
+    {
+      "start": 1546.86,
+      "duration": 3.66,
+      "text": "known as the solid electrolyte interface, or SEI.",
+      "en": "known as the solid electrolyte interface, or SEI.",
+      "zh": "known as the solid electrolyte interface, or SEI."
+    },
+    {
+      "start": 1550.52,
+      "duration": 1.68,
+      "text": "It's a kind of chemical shield",
+      "en": "It's a kind of chemical shield",
+      "zh": "It's a kind of chemical shield"
+    },
+    {
+      "start": 1552.2,
+      "duration": 1.71,
+      "text": "protecting both the graphite anode",
+      "en": "protecting both the graphite anode",
+      "zh": "protecting both the graphite anode"
+    },
+    {
+      "start": 1553.91,
+      "duration": 2.52,
+      "text": "and the electrolyte from further reactions.",
+      "en": "and the electrolyte from further reactions.",
+      "zh": "and the electrolyte from further reactions."
+    },
+    {
+      "start": 1556.43,
+      "duration": 4.17,
+      "text": "But crucially, lithium-ions can still slip through it.",
+      "en": "But crucially, lithium-ions can still slip through it.",
+      "zh": "But crucially, lithium-ions can still slip through it."
+    },
+    {
+      "start": 1560.6,
+      "duration": 2.07,
+      "text": "When the SEI originally forms",
+      "en": "When the SEI originally forms",
+      "zh": "When the SEI originally forms"
+    },
+    {
+      "start": 1562.67,
+      "duration": 1.59,
+      "text": "during the first charging cycle,",
+      "en": "during the first charging cycle,",
+      "zh": "during the first charging cycle,"
+    },
+    {
+      "start": 1564.26,
+      "duration": 2.22,
+      "text": "around 5% of the lithium in the cell",
+      "en": "around 5% of the lithium in the cell",
+      "zh": "around 5% of the lithium in the cell"
+    },
+    {
+      "start": 1566.48,
+      "duration": 2.01,
+      "text": "actually gets stuck in this layer,",
+      "en": "actually gets stuck in this layer,",
+      "zh": "actually gets stuck in this layer,"
+    },
+    {
+      "start": 1568.49,
+      "duration": 2.1,
+      "text": "decreasing the battery's capacity.",
+      "en": "decreasing the battery's capacity.",
+      "zh": "decreasing the battery's capacity."
+    },
+    {
+      "start": 1570.59,
+      "duration": 1.38,
+      "text": "But this little trade off",
+      "en": "But this little trade off",
+      "zh": "But this little trade off"
+    },
+    {
+      "start": 1571.97,
+      "duration": 1.62,
+      "text": "is what makes the battery stable enough",
+      "en": "is what makes the battery stable enough",
+      "zh": "is what makes the battery stable enough"
+    },
+    {
+      "start": 1573.59,
+      "duration": 2.4,
+      "text": "to be used for years or even decades,",
+      "en": "to be used for years or even decades,",
+      "zh": "to be used for years or even decades,"
+    },
+    {
+      "start": 1575.99,
+      "duration": 2.28,
+      "text": "which is why today lithium-ion batteries",
+      "en": "which is why today lithium-ion batteries",
+      "zh": "which is why today lithium-ion batteries"
+    },
+    {
+      "start": 1578.27,
+      "duration": 1.53,
+      "text": "are virtually everywhere.",
+      "en": "are virtually everywhere.",
+      "zh": "are virtually everywhere."
+    },
+    {
+      "start": 1580.79,
+      "duration": 3.66,
+      "text": "From 1991 to 2023, the price per kilowatt hour",
+      "en": "From 1991 to 2023, the price per kilowatt hour",
+      "zh": "From 1991 to 2023, the price per kilowatt hour"
+    },
+    {
+      "start": 1584.45,
+      "duration": 4.38,
+      "text": "dropped by 99% from nearly $9,000 to just $100.",
+      "en": "dropped by 99% from nearly $9,000 to just $100.",
+      "zh": "dropped by 99% from nearly $9,000 to just $100."
+    },
+    {
+      "start": 1589.82,
+      "duration": 2.79,
+      "text": "At the same time, energy density and cycle life,",
+      "en": "At the same time, energy density and cycle life,",
+      "zh": "At the same time, energy density and cycle life,"
+    },
+    {
+      "start": 1592.61,
+      "duration": 1.65,
+      "text": "how many times a battery can be charged",
+      "en": "how many times a battery can be charged",
+      "zh": "how many times a battery can be charged"
+    },
+    {
+      "start": 1594.26,
+      "duration": 3.27,
+      "text": "and discharged before it wears out, improved dramatically,",
+      "en": "and discharged before it wears out, improved dramatically,",
+      "zh": "and discharged before it wears out, improved dramatically,"
+    },
+    {
+      "start": 1597.53,
+      "duration": 1.8,
+      "text": "crossing a critical threshold.",
+      "en": "crossing a critical threshold.",
+      "zh": "crossing a critical threshold."
+    },
+    {
+      "start": 1599.33,
+      "duration": 2.34,
+      "text": "Lithium-ion batteries had become powerful enough",
+      "en": "Lithium-ion batteries had become powerful enough",
+      "zh": "Lithium-ion batteries had become powerful enough"
+    },
+    {
+      "start": 1601.67,
+      "duration": 2.7,
+      "text": "and finally cheap enough for something bigger,",
+      "en": "and finally cheap enough for something bigger,",
+      "zh": "and finally cheap enough for something bigger,"
+    },
+    {
+      "start": 1604.37,
+      "duration": 1.95,
+      "text": "the return of the electric car.",
+      "en": "the return of the electric car.",
+      "zh": "the return of the electric car."
+    },
+    {
+      "start": 1608.93,
+      "duration": 4.05,
+      "text": "Today, lithium-ion powers a $100 billion industry.",
+      "en": "Today, lithium-ion powers a $100 billion industry.",
+      "zh": "Today, lithium-ion powers a $100 billion industry."
+    },
+    {
+      "start": 1612.98,
+      "duration": 1.98,
+      "text": "In 2019, Whittingham, Goodenough",
+      "en": "In 2019, Whittingham, Goodenough",
+      "zh": "In 2019, Whittingham, Goodenough"
+    },
+    {
+      "start": 1614.96,
+      "duration": 1.5,
+      "text": "and Yoshino finally received",
+      "en": "and Yoshino finally received",
+      "zh": "and Yoshino finally received"
+    },
+    {
+      "start": 1616.46,
+      "duration": 2.31,
+      "text": "the Nobel Prize in chemistry for an invention",
+      "en": "the Nobel Prize in chemistry for an invention",
+      "zh": "the Nobel Prize in chemistry for an invention"
+    },
+    {
+      "start": 1618.77,
+      "duration": 1.54,
+      "text": "that in the committee's words",
+      "en": "that in the committee's words",
+      "zh": "that in the committee's words"
+    },
+    {
+      "start": 1620.31,
+      "duration": 2.69,
+      "text": "\"Revolutionized our way of life.\"",
+      "en": "\"Revolutionized our way of life.\"",
+      "zh": "\"Revolutionized our way of life.\""
+    },
+    {
+      "start": 1623.0,
+      "duration": 3.12,
+      "text": "This made Goodenough the oldest Nobel laureate in history,",
+      "en": "This made Goodenough the oldest Nobel laureate in history,",
+      "zh": "This made Goodenough the oldest Nobel laureate in history,"
+    },
+    {
+      "start": 1626.12,
+      "duration": 2.46,
+      "text": "receiving the award at the age of 97.",
+      "en": "receiving the award at the age of 97.",
+      "zh": "receiving the award at the age of 97."
+    },
+    {
+      "start": 1630.38,
+      "duration": 2.43,
+      "text": "But lithium-ion isn't perfect.",
+      "en": "But lithium-ion isn't perfect.",
+      "zh": "But lithium-ion isn't perfect."
+    },
+    {
+      "start": 1632.81,
+      "duration": 2.31,
+      "text": "- Scary moments aboard a JetBlue plane,",
+      "en": "- Scary moments aboard a JetBlue plane,",
+      "zh": "- Scary moments aboard a JetBlue plane,"
+    },
+    {
+      "start": 1635.12,
+      "duration": 3.15,
+      "text": "a fire erupting after a passenger's backpack",
+      "en": "a fire erupting after a passenger's backpack",
+      "zh": "a fire erupting after a passenger's backpack"
+    },
+    {
+      "start": 1638.27,
+      "duration": 1.08,
+      "text": "suddenly exploded.",
+      "en": "suddenly exploded.",
+      "zh": "suddenly exploded."
+    },
+    {
+      "start": 1639.35,
+      "duration": 1.5,
+      "text": "- Every week, inside an airplane,",
+      "en": "- Every week, inside an airplane,",
+      "zh": "- Every week, inside an airplane,"
+    },
+    {
+      "start": 1640.85,
+      "duration": 3.23,
+      "text": "there is at least one event of a battery,",
+      "en": "there is at least one event of a battery,",
+      "zh": "there is at least one event of a battery,"
+    },
+    {
+      "start": 1644.08,
+      "duration": 3.34,
+      "text": "of a phone, of an iPad or a toy or something",
+      "en": "of a phone, of an iPad or a toy or something",
+      "zh": "of a phone, of an iPad or a toy or something"
+    },
+    {
+      "start": 1647.42,
+      "duration": 1.05,
+      "text": "that catches fire.",
+      "en": "that catches fire.",
+      "zh": "that catches fire."
+    },
+    {
+      "start": 1648.47,
+      "duration": 1.41,
+      "text": "- What, every week?",
+      "en": "- What, every week?",
+      "zh": "- What, every week?"
+    },
+    {
+      "start": 1649.88,
+      "duration": 1.05,
+      "text": "- Yeah, every week.",
+      "en": "- Yeah, every week.",
+      "zh": "- Yeah, every week."
+    },
+    {
+      "start": 1650.93,
+      "duration": 2.28,
+      "text": "- It's just the latest incident aboard a plane",
+      "en": "- It's just the latest incident aboard a plane",
+      "zh": "- It's just the latest incident aboard a plane"
+    },
+    {
+      "start": 1653.21,
+      "duration": 2.1,
+      "text": "involving lithium-ion batteries.",
+      "en": "involving lithium-ion batteries.",
+      "zh": "involving lithium-ion batteries."
+    },
+    {
+      "start": 1655.31,
+      "duration": 1.14,
+      "text": "- [Reporter] So far this year,",
+      "en": "- [Reporter] So far this year,",
+      "zh": "- [Reporter] So far this year,"
+    },
+    {
+      "start": 1656.45,
+      "duration": 3.63,
+      "text": "60 onboard battery incidents through early October.",
+      "en": "60 onboard battery incidents through early October.",
+      "zh": "60 onboard battery incidents through early October."
+    },
+    {
+      "start": 1660.08,
+      "duration": 3.96,
+      "text": "- Every flight in the US has a bag, a specialized bag",
+      "en": "- Every flight in the US has a bag, a specialized bag",
+      "zh": "- Every flight in the US has a bag, a specialized bag"
+    },
+    {
+      "start": 1664.04,
+      "duration": 3.45,
+      "text": "with very thick non-flammable materials",
+      "en": "with very thick non-flammable materials",
+      "zh": "with very thick non-flammable materials"
+    },
+    {
+      "start": 1667.49,
+      "duration": 2.22,
+      "text": "where you put the phone inside,",
+      "en": "where you put the phone inside,",
+      "zh": "where you put the phone inside,"
+    },
+    {
+      "start": 1669.71,
+      "duration": 2.4,
+      "text": "and you close it, and you still have a hazard",
+      "en": "and you close it, and you still have a hazard",
+      "zh": "and you close it, and you still have a hazard"
+    },
+    {
+      "start": 1672.11,
+      "duration": 1.59,
+      "text": "and you have to deal with these gases,",
+      "en": "and you have to deal with these gases,",
+      "zh": "and you have to deal with these gases,"
+    },
+    {
+      "start": 1673.7,
+      "duration": 3.06,
+      "text": "but now you have put the fire ignition away",
+      "en": "but now you have put the fire ignition away",
+      "zh": "but now you have put the fire ignition away"
+    },
+    {
+      "start": 1676.76,
+      "duration": 1.47,
+      "text": "from anything else.",
+      "en": "from anything else.",
+      "zh": "from anything else."
+    },
+    {
+      "start": 1678.23,
+      "duration": 2.34,
+      "text": "And if it burst into fireworks,",
+      "en": "And if it burst into fireworks,",
+      "zh": "And if it burst into fireworks,"
+    },
+    {
+      "start": 1680.57,
+      "duration": 1.62,
+      "text": "then at least it's in a container.",
+      "en": "then at least it's in a container.",
+      "zh": "then at least it's in a container."
+    },
+    {
+      "start": 1682.19,
+      "duration": 1.63,
+      "text": "And then you tell the captain,",
+      "en": "And then you tell the captain,",
+      "zh": "And then you tell the captain,"
+    },
+    {
+      "start": 1683.82,
+      "duration": 2.15,
+      "text": "\"We need to land immediately.\"",
+      "en": "\"We need to land immediately.\"",
+      "zh": "\"We need to land immediately.\""
+    },
+    {
+      "start": 1685.97,
+      "duration": 1.38,
+      "text": "- [Derek] So what is actually happening",
+      "en": "- [Derek] So what is actually happening",
+      "zh": "- [Derek] So what is actually happening"
+    },
+    {
+      "start": 1687.35,
+      "duration": 1.95,
+      "text": "when a battery fails like that?",
+      "en": "when a battery fails like that?",
+      "zh": "when a battery fails like that?"
+    },
+    {
+      "start": 1689.3,
+      "duration": 2.61,
+      "text": "- This is a classic lithium-ion battery,",
+      "en": "- This is a classic lithium-ion battery,",
+      "zh": "- This is a classic lithium-ion battery,"
+    },
+    {
+      "start": 1691.91,
+      "duration": 2.76,
+      "text": "and today we're gonna do something I always wanted to do.",
+      "en": "and today we're gonna do something I always wanted to do.",
+      "zh": "and today we're gonna do something I always wanted to do."
+    },
+    {
+      "start": 1694.67,
+      "duration": 1.3,
+      "text": "We're gonna tear one down.",
+      "en": "We're gonna tear one down.",
+      "zh": "We're gonna tear one down."
+    },
+    {
+      "start": 1696.83,
+      "duration": 2.52,
+      "text": "I guess safe to say don't do this at home.",
+      "en": "I guess safe to say don't do this at home.",
+      "zh": "I guess safe to say don't do this at home."
+    },
+    {
+      "start": 1699.35,
+      "duration": 1.8,
+      "text": "But what would happen if you were to do this",
+      "en": "But what would happen if you were to do this",
+      "zh": "But what would happen if you were to do this"
+    },
+    {
+      "start": 1701.15,
+      "duration": 1.62,
+      "text": "outside of the gloved box?",
+      "en": "outside of the gloved box?",
+      "zh": "outside of the gloved box?"
+    },
+    {
+      "start": 1702.77,
+      "duration": 2.01,
+      "text": "- If you charged up the cell",
+      "en": "- If you charged up the cell",
+      "zh": "- If you charged up the cell"
+    },
+    {
+      "start": 1704.78,
+      "duration": 1.17,
+      "text": "and then you tried to tear it up,",
+      "en": "and then you tried to tear it up,",
+      "zh": "and then you tried to tear it up,"
+    },
+    {
+      "start": 1705.95,
+      "duration": 2.34,
+      "text": "then you could accidentally short it,",
+      "en": "then you could accidentally short it,",
+      "zh": "then you could accidentally short it,"
+    },
+    {
+      "start": 1708.29,
+      "duration": 1.83,
+      "text": "and then it could burn",
+      "en": "and then it could burn",
+      "zh": "and then it could burn"
+    },
+    {
+      "start": 1710.12,
+      "duration": 2.79,
+      "text": "and it could even explode or fire.",
+      "en": "and it could even explode or fire.",
+      "zh": "and it could even explode or fire."
+    },
+    {
+      "start": 1712.91,
+      "duration": 1.98,
+      "text": "If you discharged it and you opened it up,",
+      "en": "If you discharged it and you opened it up,",
+      "zh": "If you discharged it and you opened it up,"
+    },
+    {
+      "start": 1714.89,
+      "duration": 2.25,
+      "text": "you'd release all the different gases",
+      "en": "you'd release all the different gases",
+      "zh": "you'd release all the different gases"
+    },
+    {
+      "start": 1717.14,
+      "duration": 3.15,
+      "text": "and really toxic chemicals, and if you inhale those,",
+      "en": "and really toxic chemicals, and if you inhale those,",
+      "zh": "and really toxic chemicals, and if you inhale those,"
+    },
+    {
+      "start": 1720.29,
+      "duration": 4.29,
+      "text": "then you'd probably end up in hospitals.",
+      "en": "then you'd probably end up in hospitals.",
+      "zh": "then you'd probably end up in hospitals."
+    },
+    {
+      "start": 1724.58,
+      "duration": 2.52,
+      "text": "So at this point, we have what we call the jelly roll.",
+      "en": "So at this point, we have what we call the jelly roll.",
+      "zh": "So at this point, we have what we call the jelly roll."
+    },
+    {
+      "start": 1727.1,
+      "duration": 1.8,
+      "text": "So that's a roll off the cathode,",
+      "en": "So that's a roll off the cathode,",
+      "zh": "So that's a roll off the cathode,"
+    },
+    {
+      "start": 1728.9,
+      "duration": 1.35,
+      "text": "separates that anode.",
+      "en": "separates that anode.",
+      "zh": "separates that anode."
+    },
+    {
+      "start": 1730.25,
+      "duration": 0.83,
+      "text": "- [Gregor] Yeah.",
+      "en": "- [Gregor] Yeah.",
+      "zh": "- [Gregor] Yeah."
+    },
+    {
+      "start": 1731.08,
+      "duration": 0.97,
+      "text": "- Stuck together with bit of tape.",
+      "en": "- Stuck together with bit of tape.",
+      "zh": "- Stuck together with bit of tape."
+    },
+    {
+      "start": 1732.05,
+      "duration": 2.37,
+      "text": "So Li Ren's just gonna scalpel off the tape,",
+      "en": "So Li Ren's just gonna scalpel off the tape,",
+      "zh": "So Li Ren's just gonna scalpel off the tape,"
+    },
+    {
+      "start": 1734.42,
+      "duration": 3.54,
+      "text": "and then we should be able to unroll it into a nice sheet.",
+      "en": "and then we should be able to unroll it into a nice sheet.",
+      "zh": "and then we should be able to unroll it into a nice sheet."
+    },
+    {
+      "start": 1737.96,
+      "duration": 2.13,
+      "text": "- [Gregor] So these little patches are the electrolyte or?",
+      "en": "- [Gregor] So these little patches are the electrolyte or?",
+      "zh": "- [Gregor] So these little patches are the electrolyte or?"
+    },
+    {
+      "start": 1740.09,
+      "duration": 0.83,
+      "text": "- Yeah. - Okay.",
+      "en": "- Yeah. - Okay.",
+      "zh": "- Yeah. - Okay."
+    },
+    {
+      "start": 1740.92,
+      "duration": 2.41,
+      "text": "- [Derek S.] So as time goes by, it'll start evaporating out.",
+      "en": "- [Derek S.] So as time goes by, it'll start evaporating out.",
+      "zh": "- [Derek S.] So as time goes by, it'll start evaporating out."
+    },
+    {
+      "start": 1743.33,
+      "duration": 2.34,
+      "text": "- That is so cool.",
+      "en": "- That is so cool.",
+      "zh": "- That is so cool."
+    },
+    {
+      "start": 1745.67,
+      "duration": 1.32,
+      "text": "It's so obvious when you see it,",
+      "en": "It's so obvious when you see it,",
+      "zh": "It's so obvious when you see it,"
+    },
+    {
+      "start": 1746.99,
+      "duration": 2.73,
+      "text": "but I don't think anyone intuitively thinks",
+      "en": "but I don't think anyone intuitively thinks",
+      "zh": "but I don't think anyone intuitively thinks"
+    },
+    {
+      "start": 1749.72,
+      "duration": 1.74,
+      "text": "that it's a rolled up like sheet",
+      "en": "that it's a rolled up like sheet",
+      "zh": "that it's a rolled up like sheet"
+    },
+    {
+      "start": 1751.46,
+      "duration": 1.95,
+      "text": "of anode and cathode inside.",
+      "en": "of anode and cathode inside.",
+      "zh": "of anode and cathode inside."
+    },
+    {
+      "start": 1753.41,
+      "duration": 1.56,
+      "text": "But these layers inside the battery,",
+      "en": "But these layers inside the battery,",
+      "zh": "But these layers inside the battery,"
+    },
+    {
+      "start": 1754.97,
+      "duration": 2.16,
+      "text": "they're not gonna stay perfect forever.",
+      "en": "they're not gonna stay perfect forever.",
+      "zh": "they're not gonna stay perfect forever."
+    },
+    {
+      "start": 1757.13,
+      "duration": 2.13,
+      "text": "Here's an electrode from a new cell",
+      "en": "Here's an electrode from a new cell",
+      "zh": "Here's an electrode from a new cell"
+    },
+    {
+      "start": 1759.26,
+      "duration": 2.01,
+      "text": "compared to one from an old one.",
+      "en": "compared to one from an old one.",
+      "zh": "compared to one from an old one."
+    },
+    {
+      "start": 1761.27,
+      "duration": 2.06,
+      "text": "You can see that the lithium is building up",
+      "en": "You can see that the lithium is building up",
+      "zh": "You can see that the lithium is building up"
+    },
+    {
+      "start": 1763.33,
+      "duration": 1.63,
+      "text": "in all of the wrong places,",
+      "en": "in all of the wrong places,",
+      "zh": "in all of the wrong places,"
+    },
+    {
+      "start": 1764.96,
+      "duration": 2.88,
+      "text": "and if this sort of degradation gets out of hand,",
+      "en": "and if this sort of degradation gets out of hand,",
+      "zh": "and if this sort of degradation gets out of hand,"
+    },
+    {
+      "start": 1767.84,
+      "duration": 2.16,
+      "text": "well, we're about to push the cell",
+      "en": "well, we're about to push the cell",
+      "zh": "well, we're about to push the cell"
+    },
+    {
+      "start": 1770.0,
+      "duration": 1.29,
+      "text": "past its breaking point.",
+      "en": "past its breaking point.",
+      "zh": "past its breaking point."
+    },
+    {
+      "start": 1772.34,
+      "duration": 1.29,
+      "text": "How do we blow up a battery?",
+      "en": "How do we blow up a battery?",
+      "zh": "How do we blow up a battery?"
+    },
+    {
+      "start": 1773.63,
+      "duration": 2.85,
+      "text": "- So today we've got a prismatic battery.",
+      "en": "- So today we've got a prismatic battery.",
+      "zh": "- So today we've got a prismatic battery."
+    },
+    {
+      "start": 1776.48,
+      "duration": 3.3,
+      "text": "It's a small battery from sort of a power tool",
+      "en": "It's a small battery from sort of a power tool",
+      "zh": "It's a small battery from sort of a power tool"
+    },
+    {
+      "start": 1779.78,
+      "duration": 1.23,
+      "text": "or a phone or something similar.",
+      "en": "or a phone or something similar.",
+      "zh": "or a phone or something similar."
+    },
+    {
+      "start": 1781.01,
+      "duration": 2.46,
+      "text": "We're gonna wrap it in some nichrome wire,",
+      "en": "We're gonna wrap it in some nichrome wire,",
+      "zh": "We're gonna wrap it in some nichrome wire,"
+    },
+    {
+      "start": 1783.47,
+      "duration": 2.4,
+      "text": "so we pass current through this wire.",
+      "en": "so we pass current through this wire.",
+      "zh": "so we pass current through this wire."
+    },
+    {
+      "start": 1785.87,
+      "duration": 2.37,
+      "text": "Something like 200 watts we pass through-",
+      "en": "Something like 200 watts we pass through-",
+      "zh": "Something like 200 watts we pass through-"
+    },
+    {
+      "start": 1788.24,
+      "duration": 1.02,
+      "text": "- That's a lot. - This wire.",
+      "en": "- That's a lot. - This wire.",
+      "zh": "- That's a lot. - This wire."
+    },
+    {
+      "start": 1789.26,
+      "duration": 1.68,
+      "text": "Yeah, and it's a significant battery.",
+      "en": "Yeah, and it's a significant battery.",
+      "zh": "Yeah, and it's a significant battery."
+    },
+    {
+      "start": 1790.94,
+      "duration": 1.32,
+      "text": "We want it to go and we want it",
+      "en": "We want it to go and we want it",
+      "zh": "We want it to go and we want it"
+    },
+    {
+      "start": 1792.26,
+      "duration": 2.45,
+      "text": "to go pretty spectacularly.",
+      "en": "to go pretty spectacularly.",
+      "zh": "to go pretty spectacularly."
+    },
+    {
+      "start": 1794.71,
+      "duration": 2.77,
+      "text": "(tense music)",
+      "en": "(tense music)",
+      "zh": "(tense music)"
+    },
+    {
+      "start": 1797.48,
+      "duration": 1.02,
+      "text": "(scientists laughing)",
+      "en": "(scientists laughing)",
+      "zh": "(scientists laughing)"
+    },
+    {
+      "start": 1798.5,
+      "duration": 1.14,
+      "text": "- [Gregor] Good luck, Harry.",
+      "en": "- [Gregor] Good luck, Harry.",
+      "zh": "- [Gregor] Good luck, Harry."
+    },
+    {
+      "start": 1799.64,
+      "duration": 1.05,
+      "text": "What we're simulating here",
+      "en": "What we're simulating here",
+      "zh": "What we're simulating here"
+    },
+    {
+      "start": 1800.69,
+      "duration": 2.28,
+      "text": "is a catastrophic battery failure,",
+      "en": "is a catastrophic battery failure,",
+      "zh": "is a catastrophic battery failure,"
+    },
+    {
+      "start": 1802.97,
+      "duration": 1.38,
+      "text": "the kind that could happen",
+      "en": "the kind that could happen",
+      "zh": "the kind that could happen"
+    },
+    {
+      "start": 1804.35,
+      "duration": 2.28,
+      "text": "if a cell is damaged or overheated,",
+      "en": "if a cell is damaged or overheated,",
+      "zh": "if a cell is damaged or overheated,"
+    },
+    {
+      "start": 1806.63,
+      "duration": 1.95,
+      "text": "or even just badly manufactured.",
+      "en": "or even just badly manufactured.",
+      "zh": "or even just badly manufactured."
+    },
+    {
+      "start": 1808.58,
+      "duration": 2.1,
+      "text": "It starts around 80 degrees Celsius",
+      "en": "It starts around 80 degrees Celsius",
+      "zh": "It starts around 80 degrees Celsius"
+    },
+    {
+      "start": 1810.68,
+      "duration": 1.83,
+      "text": "when the protective SEI layer",
+      "en": "when the protective SEI layer",
+      "zh": "when the protective SEI layer"
+    },
+    {
+      "start": 1812.51,
+      "duration": 2.37,
+      "text": "on the anode starts to break down.",
+      "en": "on the anode starts to break down.",
+      "zh": "on the anode starts to break down."
+    },
+    {
+      "start": 1814.88,
+      "duration": 1.62,
+      "text": "It's gonna try to reform,",
+      "en": "It's gonna try to reform,",
+      "zh": "It's gonna try to reform,"
+    },
+    {
+      "start": 1816.5,
+      "duration": 2.79,
+      "text": "but these reactions are gonna release more heat,",
+      "en": "but these reactions are gonna release more heat,",
+      "zh": "but these reactions are gonna release more heat,"
+    },
+    {
+      "start": 1819.29,
+      "duration": 1.77,
+      "text": "and if that heat can escape,",
+      "en": "and if that heat can escape,",
+      "zh": "and if that heat can escape,"
+    },
+    {
+      "start": 1821.06,
+      "duration": 1.85,
+      "text": "the temperature is gonna keep rising.",
+      "en": "the temperature is gonna keep rising.",
+      "zh": "the temperature is gonna keep rising."
+    },
+    {
+      "start": 1824.78,
+      "duration": 1.44,
+      "text": "How close is it to exploding now?",
+      "en": "How close is it to exploding now?",
+      "zh": "How close is it to exploding now?"
+    },
+    {
+      "start": 1826.22,
+      "duration": 1.22,
+      "text": "What do you think?",
+      "en": "What do you think?",
+      "zh": "What do you think?"
+    },
+    {
+      "start": 1827.44,
+      "duration": 1.6,
+      "text": "- It should burst very soon. - Seconds.",
+      "en": "- It should burst very soon. - Seconds.",
+      "zh": "- It should burst very soon. - Seconds."
+    },
+    {
+      "start": 1829.04,
+      "duration": 2.34,
+      "text": "- [Gregor] At roughly 130 degrees Celsius,",
+      "en": "- [Gregor] At roughly 130 degrees Celsius,",
+      "zh": "- [Gregor] At roughly 130 degrees Celsius,"
+    },
+    {
+      "start": 1831.38,
+      "duration": 2.46,
+      "text": "the polymer separator is gonna melt,",
+      "en": "the polymer separator is gonna melt,",
+      "zh": "the polymer separator is gonna melt,"
+    },
+    {
+      "start": 1833.84,
+      "duration": 3.57,
+      "text": "and now the anode and cathode can come into direct contact,",
+      "en": "and now the anode and cathode can come into direct contact,",
+      "zh": "and now the anode and cathode can come into direct contact,"
+    },
+    {
+      "start": 1837.41,
+      "duration": 2.7,
+      "text": "and a massive internal short follows.",
+      "en": "and a massive internal short follows.",
+      "zh": "and a massive internal short follows."
+    },
+    {
+      "start": 1840.11,
+      "duration": 2.82,
+      "text": "The cathode itself starts to decompose.",
+      "en": "The cathode itself starts to decompose.",
+      "zh": "The cathode itself starts to decompose."
+    },
+    {
+      "start": 1842.93,
+      "duration": 1.71,
+      "text": "And because transition metal oxides",
+      "en": "And because transition metal oxides",
+      "zh": "And because transition metal oxides"
+    },
+    {
+      "start": 1844.64,
+      "duration": 2.73,
+      "text": "release oxygen from their crystal structure,",
+      "en": "release oxygen from their crystal structure,",
+      "zh": "release oxygen from their crystal structure,"
+    },
+    {
+      "start": 1847.37,
+      "duration": 1.71,
+      "text": "they're gonna fuel the combustion,",
+      "en": "they're gonna fuel the combustion,",
+      "zh": "they're gonna fuel the combustion,"
+    },
+    {
+      "start": 1849.08,
+      "duration": 3.51,
+      "text": "and now the fire is just feeding itself.",
+      "en": "and now the fire is just feeding itself.",
+      "zh": "and now the fire is just feeding itself."
+    },
+    {
+      "start": 1852.59,
+      "duration": 1.53,
+      "text": "Oh. - Yes!",
+      "en": "Oh. - Yes!",
+      "zh": "Oh. - Yes!"
+    },
+    {
+      "start": 1854.12,
+      "duration": 1.37,
+      "text": "- Oh, oh my God.",
+      "en": "- Oh, oh my God.",
+      "zh": "- Oh, oh my God."
+    },
+    {
+      "start": 1855.49,
+      "duration": 1.96,
+      "text": "(dramatic music)",
+      "en": "(dramatic music)",
+      "zh": "(dramatic music)"
+    },
+    {
+      "start": 1857.45,
+      "duration": 1.1,
+      "text": "That's really violent.",
+      "en": "That's really violent.",
+      "zh": "That's really violent."
+    },
+    {
+      "start": 1859.7,
+      "duration": 2.61,
+      "text": "This is insane, from one small battery like that.",
+      "en": "This is insane, from one small battery like that.",
+      "zh": "This is insane, from one small battery like that."
+    },
+    {
+      "start": 1862.31,
+      "duration": 3.42,
+      "text": "- And it's only 50% state of charge.",
+      "en": "- And it's only 50% state of charge.",
+      "zh": "- And it's only 50% state of charge."
+    },
+    {
+      "start": 1865.73,
+      "duration": 1.53,
+      "text": "- What we call ignition happens",
+      "en": "- What we call ignition happens",
+      "zh": "- What we call ignition happens"
+    },
+    {
+      "start": 1867.26,
+      "duration": 1.65,
+      "text": "inside the battery, not outside the battery,",
+      "en": "inside the battery, not outside the battery,",
+      "zh": "inside the battery, not outside the battery,"
+    },
+    {
+      "start": 1868.91,
+      "duration": 3.06,
+      "text": "and it requires a fuel",
+      "en": "and it requires a fuel",
+      "zh": "and it requires a fuel"
+    },
+    {
+      "start": 1871.97,
+      "duration": 2.88,
+      "text": "or a substance that will undergo a reaction,",
+      "en": "or a substance that will undergo a reaction,",
+      "zh": "or a substance that will undergo a reaction,"
+    },
+    {
+      "start": 1874.85,
+      "duration": 1.47,
+      "text": "it requires an oxidizer",
+      "en": "it requires an oxidizer",
+      "zh": "it requires an oxidizer"
+    },
+    {
+      "start": 1876.32,
+      "duration": 2.76,
+      "text": "or the equivalent oxidizer and it requires heat.",
+      "en": "or the equivalent oxidizer and it requires heat.",
+      "zh": "or the equivalent oxidizer and it requires heat."
+    },
+    {
+      "start": 1879.08,
+      "duration": 2.43,
+      "text": "The battery contains these three inside,",
+      "en": "The battery contains these three inside,",
+      "zh": "The battery contains these three inside,"
+    },
+    {
+      "start": 1881.51,
+      "duration": 2.49,
+      "text": "so it has its own equivalent to an oxidizer,",
+      "en": "so it has its own equivalent to an oxidizer,",
+      "zh": "so it has its own equivalent to an oxidizer,"
+    },
+    {
+      "start": 1884.0,
+      "duration": 1.32,
+      "text": "its own equivalent to a fuel",
+      "en": "its own equivalent to a fuel",
+      "zh": "its own equivalent to a fuel"
+    },
+    {
+      "start": 1885.32,
+      "duration": 2.07,
+      "text": "and its own source of heat.",
+      "en": "and its own source of heat.",
+      "zh": "and its own source of heat."
+    },
+    {
+      "start": 1887.39,
+      "duration": 2.16,
+      "text": "- Yeah. - All of it in one device.",
+      "en": "- Yeah. - All of it in one device.",
+      "zh": "- Yeah. - All of it in one device."
+    },
+    {
+      "start": 1890.48,
+      "duration": 2.46,
+      "text": "- So it's not actually lithium that burns.",
+      "en": "- So it's not actually lithium that burns.",
+      "zh": "- So it's not actually lithium that burns."
+    },
+    {
+      "start": 1892.94,
+      "duration": 2.1,
+      "text": "A modern lithium-ion battery",
+      "en": "A modern lithium-ion battery",
+      "zh": "A modern lithium-ion battery"
+    },
+    {
+      "start": 1895.04,
+      "duration": 1.77,
+      "text": "like this one here contains",
+      "en": "like this one here contains",
+      "zh": "like this one here contains"
+    },
+    {
+      "start": 1896.81,
+      "duration": 1.65,
+      "text": "very little lithium, ironically.",
+      "en": "very little lithium, ironically.",
+      "zh": "very little lithium, ironically."
+    },
+    {
+      "start": 1898.46,
+      "duration": 3.39,
+      "text": "It's actually everything else inside here that's dangerous.",
+      "en": "It's actually everything else inside here that's dangerous.",
+      "zh": "It's actually everything else inside here that's dangerous."
+    },
+    {
+      "start": 1902.75,
+      "duration": 2.73,
+      "text": "It must be really hard putting out a battery fire",
+      "en": "It must be really hard putting out a battery fire",
+      "zh": "It must be really hard putting out a battery fire"
+    },
+    {
+      "start": 1905.48,
+      "duration": 1.89,
+      "text": "if it really has everything that it needs.",
+      "en": "if it really has everything that it needs.",
+      "zh": "if it really has everything that it needs."
+    },
+    {
+      "start": 1907.37,
+      "duration": 0.87,
+      "text": "- Yeah, exactly.",
+      "en": "- Yeah, exactly.",
+      "zh": "- Yeah, exactly."
+    },
+    {
+      "start": 1908.24,
+      "duration": 2.34,
+      "text": "So you can still put the blanket",
+      "en": "So you can still put the blanket",
+      "zh": "So you can still put the blanket"
+    },
+    {
+      "start": 1910.58,
+      "duration": 1.74,
+      "text": "and stop the oxygen from arriving,",
+      "en": "and stop the oxygen from arriving,",
+      "zh": "and stop the oxygen from arriving,"
+    },
+    {
+      "start": 1912.32,
+      "duration": 2.25,
+      "text": "but you will not, the fire will not go to zero.",
+      "en": "but you will not, the fire will not go to zero.",
+      "zh": "but you will not, the fire will not go to zero."
+    },
+    {
+      "start": 1914.57,
+      "duration": 1.59,
+      "text": "It will still, it will be smaller,",
+      "en": "It will still, it will be smaller,",
+      "zh": "It will still, it will be smaller,"
+    },
+    {
+      "start": 1916.16,
+      "duration": 1.14,
+      "text": "but it will still be there.",
+      "en": "but it will still be there.",
+      "zh": "but it will still be there."
+    },
+    {
+      "start": 1917.3,
+      "duration": 1.11,
+      "text": "And then with water,",
+      "en": "And then with water,",
+      "zh": "And then with water,"
+    },
+    {
+      "start": 1918.41,
+      "duration": 2.16,
+      "text": "yeah, water has the ability to take heat away,",
+      "en": "yeah, water has the ability to take heat away,",
+      "zh": "yeah, water has the ability to take heat away,"
+    },
+    {
+      "start": 1920.57,
+      "duration": 1.98,
+      "text": "so it is possible to take the heat away",
+      "en": "so it is possible to take the heat away",
+      "zh": "so it is possible to take the heat away"
+    },
+    {
+      "start": 1922.55,
+      "duration": 1.26,
+      "text": "from the battery with water.",
+      "en": "from the battery with water.",
+      "zh": "from the battery with water."
+    },
+    {
+      "start": 1923.81,
+      "duration": 2.01,
+      "text": "The best thing is to put and immerse the battery",
+      "en": "The best thing is to put and immerse the battery",
+      "zh": "The best thing is to put and immerse the battery"
+    },
+    {
+      "start": 1925.82,
+      "duration": 2.16,
+      "text": "into a bath of water.",
+      "en": "into a bath of water.",
+      "zh": "into a bath of water."
+    },
+    {
+      "start": 1927.98,
+      "duration": 0.83,
+      "text": "- Yeah.",
+      "en": "- Yeah.",
+      "zh": "- Yeah."
+    },
+    {
+      "start": 1928.81,
+      "duration": 1.24,
+      "text": "- It's brutal.",
+      "en": "- It's brutal.",
+      "zh": "- It's brutal."
+    },
+    {
+      "start": 1930.05,
+      "duration": 2.27,
+      "text": "You can do it with one battery, with 10 batteries,",
+      "en": "You can do it with one battery, with 10 batteries,",
+      "zh": "You can do it with one battery, with 10 batteries,"
+    },
+    {
+      "start": 1932.32,
+      "duration": 1.36,
+      "text": "with 15 batteries,",
+      "en": "with 15 batteries,",
+      "zh": "with 15 batteries,"
+    },
+    {
+      "start": 1933.68,
+      "duration": 2.82,
+      "text": "but when you have very large packs of batteries",
+      "en": "but when you have very large packs of batteries",
+      "zh": "but when you have very large packs of batteries"
+    },
+    {
+      "start": 1936.5,
+      "duration": 1.14,
+      "text": "with thousands of batteries,",
+      "en": "with thousands of batteries,",
+      "zh": "with thousands of batteries,"
+    },
+    {
+      "start": 1937.64,
+      "duration": 2.91,
+      "text": "you cannot physically put that under water.",
+      "en": "you cannot physically put that under water.",
+      "zh": "you cannot physically put that under water."
+    },
+    {
+      "start": 1940.55,
+      "duration": 2.55,
+      "text": "- Yeah, one thing that is popping up recently as a threat",
+      "en": "- Yeah, one thing that is popping up recently as a threat",
+      "zh": "- Yeah, one thing that is popping up recently as a threat"
+    },
+    {
+      "start": 1943.1,
+      "duration": 3.18,
+      "text": "to cities is electric car fires.",
+      "en": "to cities is electric car fires.",
+      "zh": "to cities is electric car fires."
+    },
+    {
+      "start": 1946.28,
+      "duration": 1.77,
+      "text": "- [Guillermo] Well, we know a lot of water works.",
+      "en": "- [Guillermo] Well, we know a lot of water works.",
+      "zh": "- [Guillermo] Well, we know a lot of water works."
+    },
+    {
+      "start": 1948.05,
+      "duration": 1.86,
+      "text": "- Yeah, well, if there's a water source",
+      "en": "- Yeah, well, if there's a water source",
+      "zh": "- Yeah, well, if there's a water source"
+    },
+    {
+      "start": 1949.91,
+      "duration": 1.35,
+      "text": "nearby, I guess, yeah.",
+      "en": "nearby, I guess, yeah.",
+      "zh": "nearby, I guess, yeah."
+    },
+    {
+      "start": 1951.26,
+      "duration": 1.29,
+      "text": "- Yeah, I mean, this is what they do",
+      "en": "- Yeah, I mean, this is what they do",
+      "zh": "- Yeah, I mean, this is what they do"
+    },
+    {
+      "start": 1952.55,
+      "duration": 1.53,
+      "text": "in some countries around the world.",
+      "en": "in some countries around the world.",
+      "zh": "in some countries around the world."
+    },
+    {
+      "start": 1954.08,
+      "duration": 2.4,
+      "text": "They have a truck, a specialist truck",
+      "en": "They have a truck, a specialist truck",
+      "zh": "They have a truck, a specialist truck"
+    },
+    {
+      "start": 1956.48,
+      "duration": 2.1,
+      "text": "full of water, and you just take the car",
+      "en": "full of water, and you just take the car",
+      "zh": "full of water, and you just take the car"
+    },
+    {
+      "start": 1958.58,
+      "duration": 1.53,
+      "text": "that has been involved in electric fire",
+      "en": "that has been involved in electric fire",
+      "zh": "that has been involved in electric fire"
+    },
+    {
+      "start": 1960.11,
+      "duration": 1.35,
+      "text": "and they dump it into it.",
+      "en": "and they dump it into it.",
+      "zh": "and they dump it into it."
+    },
+    {
+      "start": 1961.46,
+      "duration": 1.44,
+      "text": "- No way. - Yeah, they do.",
+      "en": "- No way. - Yeah, they do.",
+      "zh": "- No way. - Yeah, they do."
+    },
+    {
+      "start": 1962.9,
+      "duration": 2.04,
+      "text": "But, and actually it works.",
+      "en": "But, and actually it works.",
+      "zh": "But, and actually it works."
+    },
+    {
+      "start": 1964.94,
+      "duration": 2.19,
+      "text": "- [Derek] So, how dangerous is it really?",
+      "en": "- [Derek] So, how dangerous is it really?",
+      "zh": "- [Derek] So, how dangerous is it really?"
+    },
+    {
+      "start": 1967.97,
+      "duration": 1.23,
+      "text": "- It's very rare.",
+      "en": "- It's very rare.",
+      "zh": "- It's very rare."
+    },
+    {
+      "start": 1969.2,
+      "duration": 1.8,
+      "text": "Every million batteries, there is a fire.",
+      "en": "Every million batteries, there is a fire.",
+      "zh": "Every million batteries, there is a fire."
+    },
+    {
+      "start": 1971.0,
+      "duration": 0.83,
+      "text": "- Okay. - Right.",
+      "en": "- Okay. - Right.",
+      "zh": "- Okay. - Right."
+    },
+    {
+      "start": 1971.83,
+      "duration": 1.78,
+      "text": "So that's very safe, that in the standards",
+      "en": "So that's very safe, that in the standards",
+      "zh": "So that's very safe, that in the standards"
+    },
+    {
+      "start": 1973.61,
+      "duration": 1.83,
+      "text": "of engineering, that's like, oh, you have a good system.",
+      "en": "of engineering, that's like, oh, you have a good system.",
+      "zh": "of engineering, that's like, oh, you have a good system."
+    },
+    {
+      "start": 1975.44,
+      "duration": 1.89,
+      "text": "One out of a million, that's fine.",
+      "en": "One out of a million, that's fine.",
+      "zh": "One out of a million, that's fine."
+    },
+    {
+      "start": 1977.33,
+      "duration": 1.86,
+      "text": "But batteries are everywhere.",
+      "en": "But batteries are everywhere.",
+      "zh": "But batteries are everywhere."
+    },
+    {
+      "start": 1979.19,
+      "duration": 2.52,
+      "text": "We don't even think about it.",
+      "en": "We don't even think about it.",
+      "zh": "We don't even think about it."
+    },
+    {
+      "start": 1981.71,
+      "duration": 3.18,
+      "text": "So within our lifetimes, we are going to reach a point",
+      "en": "So within our lifetimes, we are going to reach a point",
+      "zh": "So within our lifetimes, we are going to reach a point"
+    },
+    {
+      "start": 1984.89,
+      "duration": 1.65,
+      "text": "where we would have been exposed",
+      "en": "where we would have been exposed",
+      "zh": "where we would have been exposed"
+    },
+    {
+      "start": 1986.54,
+      "duration": 1.41,
+      "text": "to more than a million batteries,",
+      "en": "to more than a million batteries,",
+      "zh": "to more than a million batteries,"
+    },
+    {
+      "start": 1987.95,
+      "duration": 2.07,
+      "text": "so we would be all of us experiencing",
+      "en": "so we would be all of us experiencing",
+      "zh": "so we would be all of us experiencing"
+    },
+    {
+      "start": 1990.02,
+      "duration": 1.5,
+      "text": "a fire of a battery.",
+      "en": "a fire of a battery.",
+      "zh": "a fire of a battery."
+    },
+    {
+      "start": 1991.52,
+      "duration": 2.25,
+      "text": "- With billions of batteries in circulation,",
+      "en": "- With billions of batteries in circulation,",
+      "zh": "- With billions of batteries in circulation,"
+    },
+    {
+      "start": 1993.77,
+      "duration": 3.03,
+      "text": "even rare failures become inevitable.",
+      "en": "even rare failures become inevitable.",
+      "zh": "even rare failures become inevitable."
+    },
+    {
+      "start": 1997.82,
+      "duration": 2.46,
+      "text": "Meanwhile, demand is skyrocketing.",
+      "en": "Meanwhile, demand is skyrocketing.",
+      "zh": "Meanwhile, demand is skyrocketing."
+    },
+    {
+      "start": 2000.28,
+      "duration": 1.8,
+      "text": "By 2030, we're projected to need",
+      "en": "By 2030, we're projected to need",
+      "zh": "By 2030, we're projected to need"
+    },
+    {
+      "start": 2002.08,
+      "duration": 3.78,
+      "text": "over 17 million tons of battery grade materials,",
+      "en": "over 17 million tons of battery grade materials,",
+      "zh": "over 17 million tons of battery grade materials,"
+    },
+    {
+      "start": 2005.86,
+      "duration": 2.94,
+      "text": "and making lithium-ion batteries comes at a cost.",
+      "en": "and making lithium-ion batteries comes at a cost.",
+      "zh": "and making lithium-ion batteries comes at a cost."
+    },
+    {
+      "start": 2008.8,
+      "duration": 1.05,
+      "text": "Lithium only makes up",
+      "en": "Lithium only makes up",
+      "zh": "Lithium only makes up"
+    },
+    {
+      "start": 2009.85,
+      "duration": 2.55,
+      "text": "around 20 parts per million of Earth's crust.",
+      "en": "around 20 parts per million of Earth's crust.",
+      "zh": "around 20 parts per million of Earth's crust."
+    },
+    {
+      "start": 2012.4,
+      "duration": 3.03,
+      "text": "It's expensive and water intensive to extract,",
+      "en": "It's expensive and water intensive to extract,",
+      "zh": "It's expensive and water intensive to extract,"
+    },
+    {
+      "start": 2015.43,
+      "duration": 2.73,
+      "text": "and 70% of cobalt, another key ingredient",
+      "en": "and 70% of cobalt, another key ingredient",
+      "zh": "and 70% of cobalt, another key ingredient"
+    },
+    {
+      "start": 2018.16,
+      "duration": 1.74,
+      "text": "in many lithium-ion designs",
+      "en": "in many lithium-ion designs",
+      "zh": "in many lithium-ion designs"
+    },
+    {
+      "start": 2019.9,
+      "duration": 2.34,
+      "text": "comes from the Democratic Republic of Congo,",
+      "en": "comes from the Democratic Republic of Congo,",
+      "zh": "comes from the Democratic Republic of Congo,"
+    },
+    {
+      "start": 2022.24,
+      "duration": 1.56,
+      "text": "much of it mined under hazardous,",
+      "en": "much of it mined under hazardous,",
+      "zh": "much of it mined under hazardous,"
+    },
+    {
+      "start": 2023.8,
+      "duration": 2.16,
+      "text": "often exploitative conditions.",
+      "en": "often exploitative conditions.",
+      "zh": "often exploitative conditions."
+    },
+    {
+      "start": 2025.96,
+      "duration": 2.52,
+      "text": "We need more batteries and we need them fast.",
+      "en": "We need more batteries and we need them fast.",
+      "zh": "We need more batteries and we need them fast."
+    },
+    {
+      "start": 2028.48,
+      "duration": 2.67,
+      "text": "We can't just rely on lithium alone.",
+      "en": "We can't just rely on lithium alone.",
+      "zh": "We can't just rely on lithium alone."
+    },
+    {
+      "start": 2031.15,
+      "duration": 2.22,
+      "text": "- So it's not like lithium's as good as we're gonna get.",
+      "en": "- So it's not like lithium's as good as we're gonna get.",
+      "zh": "- So it's not like lithium's as good as we're gonna get."
+    },
+    {
+      "start": 2033.37,
+      "duration": 1.71,
+      "text": "Like that we're gonna get much better",
+      "en": "Like that we're gonna get much better",
+      "zh": "Like that we're gonna get much better"
+    },
+    {
+      "start": 2035.08,
+      "duration": 1.29,
+      "text": "batteries in the future.",
+      "en": "batteries in the future.",
+      "zh": "batteries in the future."
+    },
+    {
+      "start": 2036.37,
+      "duration": 2.16,
+      "text": "If our priorities are about",
+      "en": "If our priorities are about",
+      "zh": "If our priorities are about"
+    },
+    {
+      "start": 2038.53,
+      "duration": 2.82,
+      "text": "saving the planet from runaway climate change,",
+      "en": "saving the planet from runaway climate change,",
+      "zh": "saving the planet from runaway climate change,"
+    },
+    {
+      "start": 2041.35,
+      "duration": 2.67,
+      "text": "we need to have massive scale energy storage system",
+      "en": "we need to have massive scale energy storage system",
+      "zh": "we need to have massive scale energy storage system"
+    },
+    {
+      "start": 2044.02,
+      "duration": 3.6,
+      "text": "and electrify almost everything else that we do.",
+      "en": "and electrify almost everything else that we do.",
+      "zh": "and electrify almost everything else that we do."
+    },
+    {
+      "start": 2047.62,
+      "duration": 3.03,
+      "text": "- The hunt is still on for safer batteries,",
+      "en": "- The hunt is still on for safer batteries,",
+      "zh": "- The hunt is still on for safer batteries,"
+    },
+    {
+      "start": 2050.65,
+      "duration": 2.31,
+      "text": "for cheaper ones, ones that last longer,",
+      "en": "for cheaper ones, ones that last longer,",
+      "zh": "for cheaper ones, ones that last longer,"
+    },
+    {
+      "start": 2052.96,
+      "duration": 3.18,
+      "text": "charge faster, and ones that store far more energy.",
+      "en": "charge faster, and ones that store far more energy.",
+      "zh": "charge faster, and ones that store far more energy."
+    },
+    {
+      "start": 2056.14,
+      "duration": 2.7,
+      "text": "The lithium-ion battery changed the world,",
+      "en": "The lithium-ion battery changed the world,",
+      "zh": "The lithium-ion battery changed the world,"
+    },
+    {
+      "start": 2058.84,
+      "duration": 1.62,
+      "text": "but the future of energy storage",
+      "en": "but the future of energy storage",
+      "zh": "but the future of energy storage"
+    },
+    {
+      "start": 2060.46,
+      "duration": 2.82,
+      "text": "won't be about just conquering one element,",
+      "en": "won't be about just conquering one element,",
+      "zh": "won't be about just conquering one element,"
+    },
+    {
+      "start": 2063.28,
+      "duration": 1.83,
+      "text": "it'll be about mastering many.",
+      "en": "it'll be about mastering many.",
+      "zh": "it'll be about mastering many."
+    },
+    {
+      "start": 2067.6,
+      "duration": 2.33,
+      "text": "(whooshing)",
+      "en": "(whooshing)",
+      "zh": "(whooshing)"
+    }
+  ],
+  "words": []
+}

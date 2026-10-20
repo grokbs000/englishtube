@@ -1,0 +1,4898 @@
+{
+  "cues": [
+    {
+      "start": 0.0,
+      "duration": 4.53,
+      "text": "- We are going to make our country great again.",
+      "en": "- We are going to make our country great again.",
+      "zh": ""
+    },
+    {
+      "start": 4.53,
+      "duration": 0.83,
+      "text": "(crowd cheering)",
+      "en": "(crowd cheering)",
+      "zh": ""
+    },
+    {
+      "start": 5.36,
+      "duration": 2.71,
+      "text": "- It's January 15th, 2017.",
+      "en": "- It's January 15th, 2017.",
+      "zh": ""
+    },
+    {
+      "start": 8.07,
+      "duration": 2.91,
+      "text": "In five days, Donald Trump will be sworn in",
+      "en": "In five days, Donald Trump will be sworn in",
+      "zh": ""
+    },
+    {
+      "start": 10.98,
+      "duration": 2.13,
+      "text": "as president of the United States.",
+      "en": "as president of the United States.",
+      "zh": ""
+    },
+    {
+      "start": 15.61,
+      "duration": 2.99,
+      "text": "Thousands of miles away in Cairo, Egypt,",
+      "en": "Thousands of miles away in Cairo, Egypt,",
+      "zh": ""
+    },
+    {
+      "start": 18.6,
+      "duration": 3.12,
+      "text": "at this bank 11 kilometers from the international airport,",
+      "en": "at this bank 11 kilometers from the international airport,",
+      "zh": ""
+    },
+    {
+      "start": 21.72,
+      "duration": 2.94,
+      "text": "a bank manager receives a handwritten note",
+      "en": "a bank manager receives a handwritten note",
+      "zh": ""
+    },
+    {
+      "start": 24.66,
+      "duration": 2.4,
+      "text": "from someone who holds an account at the bank.",
+      "en": "from someone who holds an account at the bank.",
+      "zh": ""
+    },
+    {
+      "start": 27.06,
+      "duration": 1.96,
+      "text": "The note asks him to, quote,",
+      "en": "The note asks him to, quote,",
+      "zh": ""
+    },
+    {
+      "start": 29.02,
+      "duration": 4.63,
+      "text": "\"Kindly withdraw a sum of 9,998,000 US dollars.\"",
+      "en": "\"Kindly withdraw a sum of 9,998,000 US dollars.\"",
+      "zh": ""
+    },
+    {
+      "start": 35.64,
+      "duration": 2.61,
+      "text": "This was unusual.",
+      "en": "This was unusual.",
+      "zh": ""
+    },
+    {
+      "start": 38.25,
+      "duration": 2.19,
+      "text": "But according to bank records,",
+      "en": "But according to bank records,",
+      "zh": ""
+    },
+    {
+      "start": 40.44,
+      "duration": 1.95,
+      "text": "bank employees did what they were told,",
+      "en": "bank employees did what they were told,",
+      "zh": ""
+    },
+    {
+      "start": 42.39,
+      "duration": 2.88,
+      "text": "heading to a vault full of US dollars",
+      "en": "heading to a vault full of US dollars",
+      "zh": ""
+    },
+    {
+      "start": 45.27,
+      "duration": 3.94,
+      "text": "and assembling stacks of $100 bills into two large bags.",
+      "en": "and assembling stacks of $100 bills into two large bags.",
+      "zh": ""
+    },
+    {
+      "start": 49.21,
+      "duration": 2.15,
+      "text": "It all weighed about 200 pounds",
+      "en": "It all weighed about 200 pounds",
+      "zh": ""
+    },
+    {
+      "start": 51.36,
+      "duration": 4.32,
+      "text": "and comprised a large part of all of the US dollars",
+      "en": "and comprised a large part of all of the US dollars",
+      "zh": ""
+    },
+    {
+      "start": 55.68,
+      "duration": 1.56,
+      "text": "that were in Egypt at the time",
+      "en": "that were in Egypt at the time",
+      "zh": ""
+    },
+    {
+      "start": 57.24,
+      "duration": 3.63,
+      "text": "now sitting in bags in the manager's office.",
+      "en": "now sitting in bags in the manager's office.",
+      "zh": ""
+    },
+    {
+      "start": 60.87,
+      "duration": 3.21,
+      "text": "Until later that day when four men showed up.",
+      "en": "Until later that day when four men showed up.",
+      "zh": ""
+    },
+    {
+      "start": 64.08,
+      "duration": 2.4,
+      "text": "They verified that they were associated with the account",
+      "en": "They verified that they were associated with the account",
+      "zh": ""
+    },
+    {
+      "start": 66.48,
+      "duration": 1.86,
+      "text": "and they took the money,",
+      "en": "and they took the money,",
+      "zh": ""
+    },
+    {
+      "start": 68.34,
+      "duration": 2.1,
+      "text": "put it into a truck, and left.",
+      "en": "put it into a truck, and left.",
+      "zh": ""
+    },
+    {
+      "start": 72.29,
+      "duration": 4.0,
+      "text": "The bank account where that $10 million was taken out of",
+      "en": "The bank account where that $10 million was taken out of",
+      "zh": ""
+    },
+    {
+      "start": 76.29,
+      "duration": 3.39,
+      "text": "belonged to a shadowy organization called",
+      "en": "belonged to a shadowy organization called",
+      "zh": ""
+    },
+    {
+      "start": 79.68,
+      "duration": 2.46,
+      "text": "The Research and Studies Center.",
+      "en": "The Research and Studies Center.",
+      "zh": ""
+    },
+    {
+      "start": 82.14,
+      "duration": 1.59,
+      "text": "It was an Egyptian entity,",
+      "en": "It was an Egyptian entity,",
+      "zh": ""
+    },
+    {
+      "start": 83.73,
+      "duration": 4.86,
+      "text": "but it's an entity that US Intelligence believes is a front",
+      "en": "but it's an entity that US Intelligence believes is a front",
+      "zh": ""
+    },
+    {
+      "start": 88.59,
+      "duration": 3.21,
+      "text": "for the general intelligence services of Egypt.",
+      "en": "for the general intelligence services of Egypt.",
+      "zh": ""
+    },
+    {
+      "start": 91.8,
+      "duration": 2.28,
+      "text": "Basically Egypt's international spy agency,",
+      "en": "Basically Egypt's international spy agency,",
+      "zh": ""
+    },
+    {
+      "start": 94.08,
+      "duration": 1.86,
+      "text": "the Egyptian CIA, let's say.",
+      "en": "the Egyptian CIA, let's say.",
+      "zh": ""
+    },
+    {
+      "start": 97.17,
+      "duration": 2.4,
+      "text": "So the Egyptian CIA takes out $10 million.",
+      "en": "So the Egyptian CIA takes out $10 million.",
+      "zh": ""
+    },
+    {
+      "start": 99.57,
+      "duration": 2.91,
+      "text": "And from here, the trail goes cold.",
+      "en": "And from here, the trail goes cold.",
+      "zh": ""
+    },
+    {
+      "start": 102.48,
+      "duration": 2.85,
+      "text": "Because shortly after this transfer of $10 million,",
+      "en": "Because shortly after this transfer of $10 million,",
+      "zh": ""
+    },
+    {
+      "start": 106.2,
+      "duration": 1.39,
+      "text": "the account is closed.",
+      "en": "the account is closed.",
+      "zh": ""
+    },
+    {
+      "start": 107.59,
+      "duration": 2.75,
+      "text": "And that entity, The Research and Studies Center",
+      "en": "And that entity, The Research and Studies Center",
+      "zh": ""
+    },
+    {
+      "start": 110.34,
+      "duration": 3.06,
+      "text": "who owned the account, apparently doesn't exist anymore.",
+      "en": "who owned the account, apparently doesn't exist anymore.",
+      "zh": ""
+    },
+    {
+      "start": 115.8,
+      "duration": 4.41,
+      "text": "Why did the Egyptian CIA need $10 million in cash?",
+      "en": "Why did the Egyptian CIA need $10 million in cash?",
+      "zh": ""
+    },
+    {
+      "start": 120.21,
+      "duration": 2.22,
+      "text": "Who were these men who collected it?",
+      "en": "Who were these men who collected it?",
+      "zh": ""
+    },
+    {
+      "start": 122.43,
+      "duration": 2.67,
+      "text": "What were they doing, and what, if anything,",
+      "en": "What were they doing, and what, if anything,",
+      "zh": ""
+    },
+    {
+      "start": 125.1,
+      "duration": 1.86,
+      "text": "does this $10 million have to do",
+      "en": "does this $10 million have to do",
+      "zh": ""
+    },
+    {
+      "start": 126.96,
+      "duration": 2.13,
+      "text": "with former President Donald Trump?",
+      "en": "with former President Donald Trump?",
+      "zh": ""
+    },
+    {
+      "start": 129.09,
+      "duration": 2.61,
+      "text": "This is a really important set of questions,",
+      "en": "This is a really important set of questions,",
+      "zh": ""
+    },
+    {
+      "start": 131.7,
+      "duration": 2.28,
+      "text": "one that the FBI and federal lawyers",
+      "en": "one that the FBI and federal lawyers",
+      "zh": ""
+    },
+    {
+      "start": 133.98,
+      "duration": 4.41,
+      "text": "have been secretly investigating to try to answer for years",
+      "en": "have been secretly investigating to try to answer for years",
+      "zh": ""
+    },
+    {
+      "start": 138.39,
+      "duration": 2.8,
+      "text": "because they strongly suspected that this $10 million",
+      "en": "because they strongly suspected that this $10 million",
+      "zh": ""
+    },
+    {
+      "start": 142.08,
+      "duration": 3.81,
+      "text": "made its way into the hands of the Trump campaign,",
+      "en": "made its way into the hands of the Trump campaign,",
+      "zh": ""
+    },
+    {
+      "start": 145.89,
+      "duration": 3.3,
+      "text": "a foreign country trying to buy the election.",
+      "en": "a foreign country trying to buy the election.",
+      "zh": ""
+    },
+    {
+      "start": 149.19,
+      "duration": 3.93,
+      "text": "And in exchange, buying loyalty from the new president.",
+      "en": "And in exchange, buying loyalty from the new president.",
+      "zh": ""
+    },
+    {
+      "start": 155.37,
+      "duration": 3.18,
+      "text": "And they suspected that Trump may have known about this",
+      "en": "And they suspected that Trump may have known about this",
+      "zh": ""
+    },
+    {
+      "start": 158.55,
+      "duration": 1.38,
+      "text": "and accepted this bribe.",
+      "en": "and accepted this bribe.",
+      "zh": ""
+    },
+    {
+      "start": 159.93,
+      "duration": 4.32,
+      "text": "And if he did, that would be a violation of federal law.",
+      "en": "And if he did, that would be a violation of federal law.",
+      "zh": ""
+    },
+    {
+      "start": 164.25,
+      "duration": 2.52,
+      "text": "I wanna tell you this story of this investigation",
+      "en": "I wanna tell you this story of this investigation",
+      "zh": ""
+    },
+    {
+      "start": 166.77,
+      "duration": 2.19,
+      "text": "and how it was suddenly shut down",
+      "en": "and how it was suddenly shut down",
+      "zh": ""
+    },
+    {
+      "start": 168.96,
+      "duration": 1.77,
+      "text": "by Department of Justice officials",
+      "en": "by Department of Justice officials",
+      "zh": ""
+    },
+    {
+      "start": 170.73,
+      "duration": 2.28,
+      "text": "who were appointed by Donald Trump.",
+      "en": "who were appointed by Donald Trump.",
+      "zh": ""
+    },
+    {
+      "start": 173.01,
+      "duration": 2.82,
+      "text": "This recently released Washington Post investigation",
+      "en": "This recently released Washington Post investigation",
+      "zh": ""
+    },
+    {
+      "start": 175.83,
+      "duration": 3.33,
+      "text": "reveals that there was much, much more going on",
+      "en": "reveals that there was much, much more going on",
+      "zh": ""
+    },
+    {
+      "start": 179.16,
+      "duration": 2.7,
+      "text": "that we didn't know about until just now.",
+      "en": "that we didn't know about until just now.",
+      "zh": ""
+    },
+    {
+      "start": 181.86,
+      "duration": 1.8,
+      "text": "So I'm gonna try to visualize this story,",
+      "en": "So I'm gonna try to visualize this story,",
+      "zh": ""
+    },
+    {
+      "start": 183.66,
+      "duration": 2.67,
+      "text": "show it to you in the clearest way possible.",
+      "en": "show it to you in the clearest way possible.",
+      "zh": ""
+    },
+    {
+      "start": 186.33,
+      "duration": 2.4,
+      "text": "Now listen, I know that this is a very",
+      "en": "Now listen, I know that this is a very",
+      "zh": ""
+    },
+    {
+      "start": 188.73,
+      "duration": 1.65,
+      "text": "politically sensitive topic.",
+      "en": "politically sensitive topic.",
+      "zh": ""
+    },
+    {
+      "start": 190.38,
+      "duration": 1.29,
+      "text": "There's an election coming up.",
+      "en": "There's an election coming up.",
+      "zh": ""
+    },
+    {
+      "start": 191.67,
+      "duration": 1.8,
+      "text": "We all are taking our sides.",
+      "en": "We all are taking our sides.",
+      "zh": ""
+    },
+    {
+      "start": 193.47,
+      "duration": 1.8,
+      "text": "I commit to you that I'm going to stick",
+      "en": "I commit to you that I'm going to stick",
+      "zh": ""
+    },
+    {
+      "start": 195.27,
+      "duration": 1.59,
+      "text": "to rock solid facts here.",
+      "en": "to rock solid facts here.",
+      "zh": ""
+    },
+    {
+      "start": 196.86,
+      "duration": 1.98,
+      "text": "I'm gonna lay them out the best I can",
+      "en": "I'm gonna lay them out the best I can",
+      "zh": ""
+    },
+    {
+      "start": 198.84,
+      "duration": 1.35,
+      "text": "and show you the evidence",
+      "en": "and show you the evidence",
+      "zh": ""
+    },
+    {
+      "start": 200.19,
+      "duration": 3.06,
+      "text": "that clearly demonstrates how we know these facts.",
+      "en": "that clearly demonstrates how we know these facts.",
+      "zh": ""
+    },
+    {
+      "start": 203.25,
+      "duration": 2.22,
+      "text": "Whenever I'm making circumstantial connections",
+      "en": "Whenever I'm making circumstantial connections",
+      "zh": ""
+    },
+    {
+      "start": 205.47,
+      "duration": 4.11,
+      "text": "or my own analysis, I will try to make that very clear.",
+      "en": "or my own analysis, I will try to make that very clear.",
+      "zh": ""
+    },
+    {
+      "start": 209.58,
+      "duration": 2.43,
+      "text": "Ultimately, I wanna lay this all out",
+      "en": "Ultimately, I wanna lay this all out",
+      "zh": ""
+    },
+    {
+      "start": 212.01,
+      "duration": 1.8,
+      "text": "and let you make a decision",
+      "en": "and let you make a decision",
+      "zh": ""
+    },
+    {
+      "start": 213.81,
+      "duration": 2.73,
+      "text": "as to whether you think there was wrongdoing here,",
+      "en": "as to whether you think there was wrongdoing here,",
+      "zh": ""
+    },
+    {
+      "start": 216.54,
+      "duration": 2.25,
+      "text": "whether you think something needs to be changed",
+      "en": "whether you think something needs to be changed",
+      "zh": ""
+    },
+    {
+      "start": 218.79,
+      "duration": 2.52,
+      "text": "or someone needs to be held accountable.",
+      "en": "or someone needs to be held accountable.",
+      "zh": ""
+    },
+    {
+      "start": 221.31,
+      "duration": 3.48,
+      "text": "As always, every assertion in this video is fact checked",
+      "en": "As always, every assertion in this video is fact checked",
+      "zh": ""
+    },
+    {
+      "start": 224.79,
+      "duration": 2.28,
+      "text": "and linked in my sources by time code.",
+      "en": "and linked in my sources by time code.",
+      "zh": ""
+    },
+    {
+      "start": 227.07,
+      "duration": 2.16,
+      "text": "You can always check that out, scrutinize it,",
+      "en": "You can always check that out, scrutinize it,",
+      "zh": ""
+    },
+    {
+      "start": 229.23,
+      "duration": 2.01,
+      "text": "leave comments if you have issues with it.",
+      "en": "leave comments if you have issues with it.",
+      "zh": ""
+    },
+    {
+      "start": 231.24,
+      "duration": 1.86,
+      "text": "And with that, let's dive in.",
+      "en": "And with that, let's dive in.",
+      "zh": ""
+    },
+    {
+      "start": 233.1,
+      "duration": 2.91,
+      "text": "- Today I wrote another check for $10 million.",
+      "en": "- Today I wrote another check for $10 million.",
+      "zh": ""
+    },
+    {
+      "start": 236.01,
+      "duration": 3.34,
+      "text": "I'm spending money like crazy.",
+      "en": "I'm spending money like crazy.",
+      "zh": ""
+    },
+    {
+      "start": 239.35,
+      "duration": 2.87,
+      "text": "President El-Sisi has been somebody",
+      "en": "President El-Sisi has been somebody",
+      "zh": ""
+    },
+    {
+      "start": 242.22,
+      "duration": 2.85,
+      "text": "that's been very close to me from the first time I met him.",
+      "en": "that's been very close to me from the first time I met him.",
+      "zh": ""
+    },
+    {
+      "start": 245.07,
+      "duration": 1.8,
+      "text": "I met during the campaign.",
+      "en": "I met during the campaign.",
+      "zh": ""
+    },
+    {
+      "start": 246.87,
+      "duration": 1.86,
+      "text": "Where I could stand in the middle of 5th Avenue",
+      "en": "Where I could stand in the middle of 5th Avenue",
+      "zh": ""
+    },
+    {
+      "start": 248.73,
+      "duration": 2.49,
+      "text": "and shoot somebody, and I wouldn't lose any voters, okay?",
+      "en": "and shoot somebody, and I wouldn't lose any voters, okay?",
+      "zh": ""
+    },
+    {
+      "start": 251.22,
+      "duration": 1.35,
+      "text": "- Hey, before we go on,",
+      "en": "- Hey, before we go on,",
+      "zh": ""
+    },
+    {
+      "start": 252.57,
+      "duration": 2.37,
+      "text": "I wanna explain something about our methodology",
+      "en": "I wanna explain something about our methodology",
+      "zh": ""
+    },
+    {
+      "start": 254.94,
+      "duration": 2.16,
+      "text": "of reporting on stories like this.",
+      "en": "of reporting on stories like this.",
+      "zh": ""
+    },
+    {
+      "start": 257.1,
+      "duration": 2.79,
+      "text": "Going deep on stories takes weeks,",
+      "en": "Going deep on stories takes weeks,",
+      "zh": ""
+    },
+    {
+      "start": 259.89,
+      "duration": 3.03,
+      "text": "like, sometimes six or eight or 10 weeks",
+      "en": "like, sometimes six or eight or 10 weeks",
+      "zh": ""
+    },
+    {
+      "start": 262.92,
+      "duration": 2.28,
+      "text": "to like really understand these stories.",
+      "en": "to like really understand these stories.",
+      "zh": ""
+    },
+    {
+      "start": 265.2,
+      "duration": 3.86,
+      "text": "And a tool we've been using more and more is Ground News,",
+      "en": "And a tool we've been using more and more is Ground News,",
+      "zh": ""
+    },
+    {
+      "start": 269.06,
+      "duration": 1.75,
+      "text": "who is the sponsor of today's video.",
+      "en": "who is the sponsor of today's video.",
+      "zh": ""
+    },
+    {
+      "start": 270.81,
+      "duration": 1.11,
+      "text": "Ground News is a website and an app",
+      "en": "Ground News is a website and an app",
+      "zh": ""
+    },
+    {
+      "start": 271.92,
+      "duration": 1.98,
+      "text": "that gathers news from around the world",
+      "en": "that gathers news from around the world",
+      "zh": ""
+    },
+    {
+      "start": 273.9,
+      "duration": 3.12,
+      "text": "and condenses it into one single article.",
+      "en": "and condenses it into one single article.",
+      "zh": ""
+    },
+    {
+      "start": 277.02,
+      "duration": 1.05,
+      "text": "They'll show you this story",
+      "en": "They'll show you this story",
+      "zh": ""
+    },
+    {
+      "start": 278.07,
+      "duration": 1.53,
+      "text": "and then they'll show you who's covering it,",
+      "en": "and then they'll show you who's covering it,",
+      "zh": ""
+    },
+    {
+      "start": 279.6,
+      "duration": 2.37,
+      "text": "how factual the different sources are,",
+      "en": "how factual the different sources are,",
+      "zh": ""
+    },
+    {
+      "start": 281.97,
+      "duration": 1.8,
+      "text": "who those sources are owned by,",
+      "en": "who those sources are owned by,",
+      "zh": ""
+    },
+    {
+      "start": 283.77,
+      "duration": 1.86,
+      "text": "and what political leaning or bent",
+      "en": "and what political leaning or bent",
+      "zh": ""
+    },
+    {
+      "start": 285.63,
+      "duration": 1.59,
+      "text": "is present in the coverage.",
+      "en": "is present in the coverage.",
+      "zh": ""
+    },
+    {
+      "start": 287.22,
+      "duration": 2.91,
+      "text": "All of this happening in one seamless experience",
+      "en": "All of this happening in one seamless experience",
+      "zh": ""
+    },
+    {
+      "start": 290.13,
+      "duration": 1.47,
+      "text": "both on mobile and desktop.",
+      "en": "both on mobile and desktop.",
+      "zh": ""
+    },
+    {
+      "start": 291.6,
+      "duration": 1.98,
+      "text": "Let me give you an example from this very story.",
+      "en": "Let me give you an example from this very story.",
+      "zh": ""
+    },
+    {
+      "start": 293.58,
+      "duration": 3.06,
+      "text": "If you type in the Trump Egypt story into Ground News,",
+      "en": "If you type in the Trump Egypt story into Ground News,",
+      "zh": ""
+    },
+    {
+      "start": 296.64,
+      "duration": 2.22,
+      "text": "you can see that more than a dozen news outlets",
+      "en": "you can see that more than a dozen news outlets",
+      "zh": ""
+    },
+    {
+      "start": 298.86,
+      "duration": 1.05,
+      "text": "have picked up the story",
+      "en": "have picked up the story",
+      "zh": ""
+    },
+    {
+      "start": 299.91,
+      "duration": 2.16,
+      "text": "and almost all of the coverage is from the left.",
+      "en": "and almost all of the coverage is from the left.",
+      "zh": ""
+    },
+    {
+      "start": 302.07,
+      "duration": 1.47,
+      "text": "Only 13% of the coverage",
+      "en": "Only 13% of the coverage",
+      "zh": ""
+    },
+    {
+      "start": 303.54,
+      "duration": 2.64,
+      "text": "comes from right-leaning publications.",
+      "en": "comes from right-leaning publications.",
+      "zh": ""
+    },
+    {
+      "start": 306.18,
+      "duration": 2.34,
+      "text": "And you can see that one left-leaning source claims",
+      "en": "And you can see that one left-leaning source claims",
+      "zh": ""
+    },
+    {
+      "start": 308.52,
+      "duration": 1.74,
+      "text": "that democracy will die",
+      "en": "that democracy will die",
+      "zh": ""
+    },
+    {
+      "start": 310.26,
+      "duration": 2.52,
+      "text": "if the case against Trump is dropped.",
+      "en": "if the case against Trump is dropped.",
+      "zh": ""
+    },
+    {
+      "start": 312.78,
+      "duration": 2.61,
+      "text": "While a right-leaning source downplays the event",
+      "en": "While a right-leaning source downplays the event",
+      "zh": ""
+    },
+    {
+      "start": 315.39,
+      "duration": 1.8,
+      "text": "as a, quote, \"brief probe.\"",
+      "en": "as a, quote, \"brief probe.\"",
+      "zh": ""
+    },
+    {
+      "start": 317.19,
+      "duration": 1.92,
+      "text": "I mean, there's a ton of bias present",
+      "en": "I mean, there's a ton of bias present",
+      "zh": ""
+    },
+    {
+      "start": 319.11,
+      "duration": 1.56,
+      "text": "in both of these headlines,",
+      "en": "in both of these headlines,",
+      "zh": ""
+    },
+    {
+      "start": 320.67,
+      "duration": 2.16,
+      "text": "and Ground News lets you easily see that.",
+      "en": "and Ground News lets you easily see that.",
+      "zh": ""
+    },
+    {
+      "start": 322.83,
+      "duration": 3.03,
+      "text": "There's also this feature called My News Bias,",
+      "en": "There's also this feature called My News Bias,",
+      "zh": ""
+    },
+    {
+      "start": 325.86,
+      "duration": 2.25,
+      "text": "where you can look at your reading habits,",
+      "en": "where you can look at your reading habits,",
+      "zh": ""
+    },
+    {
+      "start": 328.11,
+      "duration": 1.86,
+      "text": "the top sources that you're drawn to,",
+      "en": "the top sources that you're drawn to,",
+      "zh": ""
+    },
+    {
+      "start": 329.97,
+      "duration": 1.95,
+      "text": "how reliable the articles are that you read,",
+      "en": "how reliable the articles are that you read,",
+      "zh": ""
+    },
+    {
+      "start": 331.92,
+      "duration": 2.61,
+      "text": "and it will help flag blind spots in your information,",
+      "en": "and it will help flag blind spots in your information,",
+      "zh": ""
+    },
+    {
+      "start": 334.53,
+      "duration": 1.86,
+      "text": "the stuff that you're either avoiding",
+      "en": "the stuff that you're either avoiding",
+      "zh": ""
+    },
+    {
+      "start": 336.39,
+      "duration": 2.16,
+      "text": "consciously or unconsciously.",
+      "en": "consciously or unconsciously.",
+      "zh": ""
+    },
+    {
+      "start": 338.55,
+      "duration": 3.13,
+      "text": "In other words, it helps get you out of your echo chamber,",
+      "en": "In other words, it helps get you out of your echo chamber,",
+      "zh": ""
+    },
+    {
+      "start": 341.68,
+      "duration": 1.49,
+      "text": "which, in this day and age,",
+      "en": "which, in this day and age,",
+      "zh": ""
+    },
+    {
+      "start": 343.17,
+      "duration": 0.83,
+      "text": "is becoming more and more important.",
+      "en": "is becoming more and more important.",
+      "zh": ""
+    },
+    {
+      "start": 344.0,
+      "duration": 3.19,
+      "text": "So if you value critical thinking and unbiased news,",
+      "en": "So if you value critical thinking and unbiased news,",
+      "zh": ""
+    },
+    {
+      "start": 347.19,
+      "duration": 1.68,
+      "text": "this is probably a good tool for you.",
+      "en": "this is probably a good tool for you.",
+      "zh": ""
+    },
+    {
+      "start": 348.87,
+      "duration": 2.7,
+      "text": "And Ground News is offering a 40% discount",
+      "en": "And Ground News is offering a 40% discount",
+      "zh": ""
+    },
+    {
+      "start": 351.57,
+      "duration": 2.16,
+      "text": "to people who use my link.",
+      "en": "to people who use my link.",
+      "zh": ""
+    },
+    {
+      "start": 353.73,
+      "duration": 2.07,
+      "text": "It is GroundNews.com/JohnnyHarris.",
+      "en": "It is GroundNews.com/JohnnyHarris.",
+      "zh": ""
+    },
+    {
+      "start": 355.8,
+      "duration": 3.12,
+      "text": "You can also use this lovely QR code that's on screen.",
+      "en": "You can also use this lovely QR code that's on screen.",
+      "zh": ""
+    },
+    {
+      "start": 358.92,
+      "duration": 1.86,
+      "text": "You'll get 40% off the Vantage plan,",
+      "en": "You'll get 40% off the Vantage plan,",
+      "zh": ""
+    },
+    {
+      "start": 360.78,
+      "duration": 1.95,
+      "text": "which has all these features that I talked about.",
+      "en": "which has all these features that I talked about.",
+      "zh": ""
+    },
+    {
+      "start": 362.73,
+      "duration": 1.56,
+      "text": "Make sure to scan the QR code",
+      "en": "Make sure to scan the QR code",
+      "zh": ""
+    },
+    {
+      "start": 364.29,
+      "duration": 1.71,
+      "text": "or use the link if you do sign up",
+      "en": "or use the link if you do sign up",
+      "zh": ""
+    },
+    {
+      "start": 366.0,
+      "duration": 1.08,
+      "text": "'cause that helps out the channel.",
+      "en": "'cause that helps out the channel.",
+      "zh": ""
+    },
+    {
+      "start": 367.08,
+      "duration": 2.25,
+      "text": "So, thank you Ground News for sponsoring today's video,",
+      "en": "So, thank you Ground News for sponsoring today's video,",
+      "zh": ""
+    },
+    {
+      "start": 369.33,
+      "duration": 1.56,
+      "text": "supporting our journalism.",
+      "en": "supporting our journalism.",
+      "zh": ""
+    },
+    {
+      "start": 370.89,
+      "duration": 2.22,
+      "text": "And with that, let's dive back into this story",
+      "en": "And with that, let's dive back into this story",
+      "zh": ""
+    },
+    {
+      "start": 373.11,
+      "duration": 2.54,
+      "text": "about Donald Trump and Egypt.",
+      "en": "about Donald Trump and Egypt.",
+      "zh": ""
+    },
+    {
+      "start": 375.65,
+      "duration": 3.19,
+      "text": "(pensive music)",
+      "en": "(pensive music)",
+      "zh": ""
+    },
+    {
+      "start": 378.84,
+      "duration": 1.29,
+      "text": "All right, hold on a sec.",
+      "en": "All right, hold on a sec.",
+      "zh": ""
+    },
+    {
+      "start": 383.67,
+      "duration": 0.84,
+      "text": "I have been using",
+      "en": "I have been using",
+      "zh": ""
+    },
+    {
+      "start": 384.51,
+      "duration": 3.72,
+      "text": "this elementary school penmanship practice paper",
+      "en": "this elementary school penmanship practice paper",
+      "zh": ""
+    },
+    {
+      "start": 388.23,
+      "duration": 3.54,
+      "text": "for about 10 years as my note taking platform.",
+      "en": "for about 10 years as my note taking platform.",
+      "zh": ""
+    },
+    {
+      "start": 391.77,
+      "duration": 1.57,
+      "text": "And I don't know why, but I love it.",
+      "en": "And I don't know why, but I love it.",
+      "zh": ""
+    },
+    {
+      "start": 393.34,
+      "duration": 1.13,
+      "text": "Okay.",
+      "en": "Okay.",
+      "zh": ""
+    },
+    {
+      "start": 394.47,
+      "duration": 3.93,
+      "text": "To keep things totally rock solid, crystal clear,",
+      "en": "To keep things totally rock solid, crystal clear,",
+      "zh": ""
+    },
+    {
+      "start": 398.4,
+      "duration": 1.1,
+      "text": "I'm gonna make a list.",
+      "en": "I'm gonna make a list.",
+      "zh": ""
+    },
+    {
+      "start": 401.78,
+      "duration": 5.0,
+      "text": "I'm gonna call this list, What We Know.",
+      "en": "I'm gonna call this list, What We Know.",
+      "zh": ""
+    },
+    {
+      "start": 409.41,
+      "duration": 1.92,
+      "text": "And in this box, on this list,",
+      "en": "And in this box, on this list,",
+      "zh": ""
+    },
+    {
+      "start": 411.33,
+      "duration": 2.61,
+      "text": "I am going to put the things that we truly know",
+      "en": "I am going to put the things that we truly know",
+      "zh": ""
+    },
+    {
+      "start": 413.94,
+      "duration": 2.82,
+      "text": "that are rock solid facts to keep us crystal clear.",
+      "en": "that are rock solid facts to keep us crystal clear.",
+      "zh": ""
+    },
+    {
+      "start": 418.73,
+      "duration": 5.0,
+      "text": "Number one, we know that Egypt wanted to give money",
+      "en": "Number one, we know that Egypt wanted to give money",
+      "zh": ""
+    },
+    {
+      "start": 424.82,
+      "duration": 2.41,
+      "text": "to Donald Trump's campaign.",
+      "en": "to Donald Trump's campaign.",
+      "zh": ""
+    },
+    {
+      "start": 427.23,
+      "duration": 1.95,
+      "text": "They planned on it, they approved it.",
+      "en": "They planned on it, they approved it.",
+      "zh": ""
+    },
+    {
+      "start": 429.18,
+      "duration": 1.65,
+      "text": "How do we know that?",
+      "en": "How do we know that?",
+      "zh": ""
+    },
+    {
+      "start": 430.83,
+      "duration": 1.66,
+      "text": "The CIA.",
+      "en": "The CIA.",
+      "zh": ""
+    },
+    {
+      "start": 432.49,
+      "duration": 2.06,
+      "text": "\"Ah, Johnny Harris talking about the CIA again.",
+      "en": "\"Ah, Johnny Harris talking about the CIA again.",
+      "zh": ""
+    },
+    {
+      "start": 434.55,
+      "duration": 0.96,
+      "text": "Here we go.\"",
+      "en": "Here we go.\"",
+      "zh": ""
+    },
+    {
+      "start": 435.51,
+      "duration": 1.95,
+      "text": "The CIA spies on everyone.",
+      "en": "The CIA spies on everyone.",
+      "zh": ""
+    },
+    {
+      "start": 437.46,
+      "duration": 0.83,
+      "text": "We know that.",
+      "en": "We know that.",
+      "zh": ""
+    },
+    {
+      "start": 438.29,
+      "duration": 2.41,
+      "text": "We know they spy on foreign countries and foreign leaders.",
+      "en": "We know they spy on foreign countries and foreign leaders.",
+      "zh": ""
+    },
+    {
+      "start": 440.7,
+      "duration": 2.67,
+      "text": "And during the 2016 presidential campaign,",
+      "en": "And during the 2016 presidential campaign,",
+      "zh": ""
+    },
+    {
+      "start": 443.37,
+      "duration": 2.7,
+      "text": "we know that they had a confidential informant",
+      "en": "we know that they had a confidential informant",
+      "zh": ""
+    },
+    {
+      "start": 446.07,
+      "duration": 2.01,
+      "text": "within the Egyptian government.",
+      "en": "within the Egyptian government.",
+      "zh": ""
+    },
+    {
+      "start": 448.08,
+      "duration": 1.56,
+      "text": "This was a reliable informant",
+      "en": "This was a reliable informant",
+      "zh": ""
+    },
+    {
+      "start": 449.64,
+      "duration": 3.27,
+      "text": "who had given the CIA reliable information in the past.",
+      "en": "who had given the CIA reliable information in the past.",
+      "zh": ""
+    },
+    {
+      "start": 452.91,
+      "duration": 1.56,
+      "text": "They trusted this person.",
+      "en": "They trusted this person.",
+      "zh": ""
+    },
+    {
+      "start": 454.47,
+      "duration": 5.0,
+      "text": "Between this informant and, quote, \"other operations,\"",
+      "en": "Between this informant and, quote, \"other operations,\"",
+      "zh": ""
+    },
+    {
+      "start": 459.48,
+      "duration": 3.57,
+      "text": "the CIA learned that, quote, \"Egyptian leaders,",
+      "en": "the CIA learned that, quote, \"Egyptian leaders,",
+      "zh": ""
+    },
+    {
+      "start": 463.05,
+      "duration": 3.54,
+      "text": "including Abdel Fattah El-Sisi,",
+      "en": "including Abdel Fattah El-Sisi,",
+      "zh": ""
+    },
+    {
+      "start": 466.59,
+      "duration": 3.34,
+      "text": "had signed off on sending $10 million",
+      "en": "had signed off on sending $10 million",
+      "zh": ""
+    },
+    {
+      "start": 470.88,
+      "duration": 2.73,
+      "text": "to Mr. Trump's cash-trapped campaign.\"",
+      "en": "to Mr. Trump's cash-trapped campaign.\"",
+      "zh": ""
+    },
+    {
+      "start": 473.61,
+      "duration": 3.51,
+      "text": "They say this happened just before the 2016 election.",
+      "en": "They say this happened just before the 2016 election.",
+      "zh": ""
+    },
+    {
+      "start": 477.12,
+      "duration": 1.98,
+      "text": "Okay, let's go back to our list here",
+      "en": "Okay, let's go back to our list here",
+      "zh": ""
+    },
+    {
+      "start": 479.1,
+      "duration": 1.32,
+      "text": "and make this more specific.",
+      "en": "and make this more specific.",
+      "zh": ""
+    },
+    {
+      "start": 480.42,
+      "duration": 2.4,
+      "text": "The CIA is actually saying",
+      "en": "The CIA is actually saying",
+      "zh": ""
+    },
+    {
+      "start": 482.82,
+      "duration": 4.53,
+      "text": "that they know that the president of Egypt, El-Sisi,",
+      "en": "that they know that the president of Egypt, El-Sisi,",
+      "zh": ""
+    },
+    {
+      "start": 487.35,
+      "duration": 4.71,
+      "text": "actually signed off on giving Donald Trump $10 million,",
+      "en": "actually signed off on giving Donald Trump $10 million,",
+      "zh": ""
+    },
+    {
+      "start": 492.06,
+      "duration": 2.01,
+      "text": "specifically $10 million.",
+      "en": "specifically $10 million.",
+      "zh": ""
+    },
+    {
+      "start": 494.07,
+      "duration": 1.26,
+      "text": "We were never supposed to learn",
+      "en": "We were never supposed to learn",
+      "zh": ""
+    },
+    {
+      "start": 495.33,
+      "duration": 1.14,
+      "text": "about this intel, by the way.",
+      "en": "about this intel, by the way.",
+      "zh": ""
+    },
+    {
+      "start": 496.47,
+      "duration": 2.97,
+      "text": "This was totally classified, part of a secret investigation.",
+      "en": "This was totally classified, part of a secret investigation.",
+      "zh": ""
+    },
+    {
+      "start": 499.44,
+      "duration": 3.21,
+      "text": "And in my mind this intel is quite reliable.",
+      "en": "And in my mind this intel is quite reliable.",
+      "zh": ""
+    },
+    {
+      "start": 502.65,
+      "duration": 1.53,
+      "text": "It comes from multiple sources,",
+      "en": "It comes from multiple sources,",
+      "zh": ""
+    },
+    {
+      "start": 504.18,
+      "duration": 2.1,
+      "text": "it comes from a reliable informant.",
+      "en": "it comes from a reliable informant.",
+      "zh": ""
+    },
+    {
+      "start": 506.28,
+      "duration": 2.28,
+      "text": "And the CIA used it as a way",
+      "en": "And the CIA used it as a way",
+      "zh": ""
+    },
+    {
+      "start": 508.56,
+      "duration": 3.33,
+      "text": "to pass along to the Department of Justice their concern",
+      "en": "to pass along to the Department of Justice their concern",
+      "zh": ""
+    },
+    {
+      "start": 511.89,
+      "duration": 0.83,
+      "text": "that there may have been",
+      "en": "that there may have been",
+      "zh": ""
+    },
+    {
+      "start": 512.72,
+      "duration": 2.02,
+      "text": "some foreign interference from Egypt.",
+      "en": "some foreign interference from Egypt.",
+      "zh": ""
+    },
+    {
+      "start": 514.74,
+      "duration": 3.0,
+      "text": "And with that, let's get back to this guy,",
+      "en": "And with that, let's get back to this guy,",
+      "zh": ""
+    },
+    {
+      "start": 517.74,
+      "duration": 3.0,
+      "text": "Abdel Fattah El-Sisi, the president of Egypt.",
+      "en": "Abdel Fattah El-Sisi, the president of Egypt.",
+      "zh": ""
+    },
+    {
+      "start": 520.74,
+      "duration": 3.12,
+      "text": "He's a military man who rose to power in 2014",
+      "en": "He's a military man who rose to power in 2014",
+      "zh": ""
+    },
+    {
+      "start": 523.86,
+      "duration": 0.83,
+      "text": "after kicking out",
+      "en": "after kicking out",
+      "zh": ""
+    },
+    {
+      "start": 524.69,
+      "duration": 2.41,
+      "text": "Egypt's first democratically-elected president,",
+      "en": "Egypt's first democratically-elected president,",
+      "zh": ""
+    },
+    {
+      "start": 527.1,
+      "duration": 1.98,
+      "text": "who by the way was horribly unpopular",
+      "en": "who by the way was horribly unpopular",
+      "zh": ""
+    },
+    {
+      "start": 529.08,
+      "duration": 2.34,
+      "text": "and the people also kind of wanted to kick him out.",
+      "en": "and the people also kind of wanted to kick him out.",
+      "zh": ""
+    },
+    {
+      "start": 531.42,
+      "duration": 1.62,
+      "text": "But, yeah, he rose the power in a coup",
+      "en": "But, yeah, he rose the power in a coup",
+      "zh": ""
+    },
+    {
+      "start": 533.04,
+      "duration": 2.19,
+      "text": "and then just held on to power.",
+      "en": "and then just held on to power.",
+      "zh": ""
+    },
+    {
+      "start": 535.23,
+      "duration": 3.03,
+      "text": "And predictably, once he consolidated power,",
+      "en": "And predictably, once he consolidated power,",
+      "zh": ""
+    },
+    {
+      "start": 538.26,
+      "duration": 2.04,
+      "text": "he started silencing the press,",
+      "en": "he started silencing the press,",
+      "zh": ""
+    },
+    {
+      "start": 540.3,
+      "duration": 1.89,
+      "text": "squashing political dissent",
+      "en": "squashing political dissent",
+      "zh": ""
+    },
+    {
+      "start": 542.19,
+      "duration": 2.16,
+      "text": "or political opponents, locking people up,",
+      "en": "or political opponents, locking people up,",
+      "zh": ""
+    },
+    {
+      "start": 544.35,
+      "duration": 2.61,
+      "text": "arresting journalists and activists, et cetera, et cetera.",
+      "en": "arresting journalists and activists, et cetera, et cetera.",
+      "zh": ""
+    },
+    {
+      "start": 546.96,
+      "duration": 0.99,
+      "text": "Same old story.",
+      "en": "Same old story.",
+      "zh": ""
+    },
+    {
+      "start": 549.99,
+      "duration": 1.47,
+      "text": "But his record was so bad",
+      "en": "But his record was so bad",
+      "zh": ""
+    },
+    {
+      "start": 551.46,
+      "duration": 1.65,
+      "text": "that during the Obama administration,",
+      "en": "that during the Obama administration,",
+      "zh": ""
+    },
+    {
+      "start": 553.11,
+      "duration": 4.29,
+      "text": "the US cut Egypt off of billions of dollars of military aid",
+      "en": "the US cut Egypt off of billions of dollars of military aid",
+      "zh": ""
+    },
+    {
+      "start": 557.4,
+      "duration": 1.32,
+      "text": "that we usually send them.",
+      "en": "that we usually send them.",
+      "zh": ""
+    },
+    {
+      "start": 558.72,
+      "duration": 2.31,
+      "text": "We cut it off to basically punish El-Sisi",
+      "en": "We cut it off to basically punish El-Sisi",
+      "zh": ""
+    },
+    {
+      "start": 561.03,
+      "duration": 2.4,
+      "text": "for all of these horrible human rights abuses.",
+      "en": "for all of these horrible human rights abuses.",
+      "zh": ""
+    },
+    {
+      "start": 563.43,
+      "duration": 3.42,
+      "text": "So Egypt gets cut off from all this vital military aid.",
+      "en": "So Egypt gets cut off from all this vital military aid.",
+      "zh": ""
+    },
+    {
+      "start": 566.85,
+      "duration": 2.38,
+      "text": "But not for long.",
+      "en": "But not for long.",
+      "zh": ""
+    },
+    {
+      "start": 569.23,
+      "duration": 2.75,
+      "text": "(pensive music)",
+      "en": "(pensive music)",
+      "zh": ""
+    },
+    {
+      "start": 573.84,
+      "duration": 1.83,
+      "text": "Okay, here's the second thing we know.",
+      "en": "Okay, here's the second thing we know.",
+      "zh": ""
+    },
+    {
+      "start": 575.67,
+      "duration": 4.86,
+      "text": "Trump and El-Sisi met up in New York during the campaign,",
+      "en": "Trump and El-Sisi met up in New York during the campaign,",
+      "zh": ""
+    },
+    {
+      "start": 580.53,
+      "duration": 1.74,
+      "text": "like when he was still a candidate.",
+      "en": "like when he was still a candidate.",
+      "zh": ""
+    },
+    {
+      "start": 582.27,
+      "duration": 3.12,
+      "text": "It was September, 2016, a few weeks before the election.",
+      "en": "It was September, 2016, a few weeks before the election.",
+      "zh": ""
+    },
+    {
+      "start": 585.39,
+      "duration": 2.3,
+      "text": "They're at the UN headquarters.",
+      "en": "They're at the UN headquarters.",
+      "zh": ""
+    },
+    {
+      "start": 587.69,
+      "duration": 1.3,
+      "text": "(crowd cheering)",
+      "en": "(crowd cheering)",
+      "zh": ""
+    },
+    {
+      "start": 588.99,
+      "duration": 2.07,
+      "text": "And they have this closed door meeting.",
+      "en": "And they have this closed door meeting.",
+      "zh": ""
+    },
+    {
+      "start": 591.06,
+      "duration": 1.68,
+      "text": "And according to the Trump campaign,",
+      "en": "And according to the Trump campaign,",
+      "zh": ""
+    },
+    {
+      "start": 592.74,
+      "duration": 2.73,
+      "text": "Trump was very warm to El-Sisi.",
+      "en": "Trump was very warm to El-Sisi.",
+      "zh": ""
+    },
+    {
+      "start": 595.47,
+      "duration": 3.06,
+      "text": "Now remember, the US was keeping Egypt at arms length",
+      "en": "Now remember, the US was keeping Egypt at arms length",
+      "zh": ""
+    },
+    {
+      "start": 598.53,
+      "duration": 1.47,
+      "text": "because of all these human rights abuses.",
+      "en": "because of all these human rights abuses.",
+      "zh": ""
+    },
+    {
+      "start": 600.0,
+      "duration": 3.09,
+      "text": "So, like, that was the MO for diplomats.",
+      "en": "So, like, that was the MO for diplomats.",
+      "zh": ""
+    },
+    {
+      "start": 603.09,
+      "duration": 1.86,
+      "text": "Trump totally breaks from all of that",
+      "en": "Trump totally breaks from all of that",
+      "zh": ""
+    },
+    {
+      "start": 604.95,
+      "duration": 1.5,
+      "text": "in true Trump fashion.",
+      "en": "in true Trump fashion.",
+      "zh": ""
+    },
+    {
+      "start": 606.45,
+      "duration": 1.62,
+      "text": "Says that he loves El-Sisi,",
+      "en": "Says that he loves El-Sisi,",
+      "zh": ""
+    },
+    {
+      "start": 608.07,
+      "duration": 2.52,
+      "text": "he's gonna invite him to the White House.",
+      "en": "he's gonna invite him to the White House.",
+      "zh": ""
+    },
+    {
+      "start": 610.59,
+      "duration": 1.62,
+      "text": "The campaign says that the US",
+      "en": "The campaign says that the US",
+      "zh": ""
+    },
+    {
+      "start": 612.21,
+      "duration": 2.34,
+      "text": "will be, quote, \"a loyal friend to Egypt.\"",
+      "en": "will be, quote, \"a loyal friend to Egypt.\"",
+      "zh": ""
+    },
+    {
+      "start": 614.55,
+      "duration": 2.22,
+      "text": "Here he is on Fox News right after the meeting.",
+      "en": "Here he is on Fox News right after the meeting.",
+      "zh": ""
+    },
+    {
+      "start": 616.77,
+      "duration": 2.0,
+      "text": "- [Donald] He's a fantastic guy.",
+      "en": "- [Donald] He's a fantastic guy.",
+      "zh": ""
+    },
+    {
+      "start": 618.77,
+      "duration": 1.57,
+      "text": "He took control of Egypt",
+      "en": "He took control of Egypt",
+      "zh": ""
+    },
+    {
+      "start": 620.34,
+      "duration": 1.77,
+      "text": "and I thought it was a great meeting.",
+      "en": "and I thought it was a great meeting.",
+      "zh": ""
+    },
+    {
+      "start": 622.11,
+      "duration": 2.07,
+      "text": "We met for a long time, actually.",
+      "en": "We met for a long time, actually.",
+      "zh": ""
+    },
+    {
+      "start": 624.18,
+      "duration": 1.08,
+      "text": "We had a long meeting.",
+      "en": "We had a long meeting.",
+      "zh": ""
+    },
+    {
+      "start": 625.26,
+      "duration": 1.59,
+      "text": "- So that's the other thing we know.",
+      "en": "- So that's the other thing we know.",
+      "zh": ""
+    },
+    {
+      "start": 626.85,
+      "duration": 1.26,
+      "text": "That's why it's on this list.",
+      "en": "That's why it's on this list.",
+      "zh": ""
+    },
+    {
+      "start": 628.11,
+      "duration": 1.71,
+      "text": "Trump loves El-Sisi,",
+      "en": "Trump loves El-Sisi,",
+      "zh": ""
+    },
+    {
+      "start": 629.82,
+      "duration": 1.74,
+      "text": "they have a good chemistry.",
+      "en": "they have a good chemistry.",
+      "zh": ""
+    },
+    {
+      "start": 631.56,
+      "duration": 2.04,
+      "text": "Trump wants to help Egypt.",
+      "en": "Trump wants to help Egypt.",
+      "zh": ""
+    },
+    {
+      "start": 633.6,
+      "duration": 1.5,
+      "text": "So it's actually not surprising",
+      "en": "So it's actually not surprising",
+      "zh": ""
+    },
+    {
+      "start": 635.1,
+      "duration": 2.43,
+      "text": "that Egypt wants to help Trump win.",
+      "en": "that Egypt wants to help Trump win.",
+      "zh": ""
+    },
+    {
+      "start": 637.53,
+      "duration": 2.34,
+      "text": "Like, this would be very good for El-Sisi,",
+      "en": "Like, this would be very good for El-Sisi,",
+      "zh": ""
+    },
+    {
+      "start": 639.87,
+      "duration": 1.95,
+      "text": "which explains point number one here.",
+      "en": "which explains point number one here.",
+      "zh": ""
+    },
+    {
+      "start": 641.82,
+      "duration": 3.96,
+      "text": "El-Sisi signed off on this plan to give $10 million to Trump",
+      "en": "El-Sisi signed off on this plan to give $10 million to Trump",
+      "zh": ""
+    },
+    {
+      "start": 645.78,
+      "duration": 2.43,
+      "text": "according to good CIA intelligence",
+      "en": "according to good CIA intelligence",
+      "zh": ""
+    },
+    {
+      "start": 648.21,
+      "duration": 1.77,
+      "text": "because he wanted him to win.",
+      "en": "because he wanted him to win.",
+      "zh": ""
+    },
+    {
+      "start": 649.98,
+      "duration": 3.17,
+      "text": "It would benefit him and his regime if Trump won.",
+      "en": "It would benefit him and his regime if Trump won.",
+      "zh": ""
+    },
+    {
+      "start": 653.15,
+      "duration": 2.75,
+      "text": "(pensive music)",
+      "en": "(pensive music)",
+      "zh": ""
+    },
+    {
+      "start": 657.6,
+      "duration": 1.86,
+      "text": "Now, a little context here,",
+      "en": "Now, a little context here,",
+      "zh": ""
+    },
+    {
+      "start": 659.46,
+      "duration": 2.52,
+      "text": "presidential campaigns are really messy",
+      "en": "presidential campaigns are really messy",
+      "zh": ""
+    },
+    {
+      "start": 661.98,
+      "duration": 2.85,
+      "text": "and hard in the last few weeks.",
+      "en": "and hard in the last few weeks.",
+      "zh": ""
+    },
+    {
+      "start": 664.83,
+      "duration": 2.43,
+      "text": "Campaigns kind of have to spend",
+      "en": "Campaigns kind of have to spend",
+      "zh": ""
+    },
+    {
+      "start": 667.26,
+      "duration": 4.32,
+      "text": "millions and millions of dollars in like the last two weeks",
+      "en": "millions and millions of dollars in like the last two weeks",
+      "zh": ""
+    },
+    {
+      "start": 671.58,
+      "duration": 1.44,
+      "text": "leading up to the election",
+      "en": "leading up to the election",
+      "zh": ""
+    },
+    {
+      "start": 673.02,
+      "duration": 3.36,
+      "text": "to blitz on advertising, on travel,",
+      "en": "to blitz on advertising, on travel,",
+      "zh": ""
+    },
+    {
+      "start": 676.38,
+      "duration": 2.07,
+      "text": "on like get out the vote campaigns.",
+      "en": "on like get out the vote campaigns.",
+      "zh": ""
+    },
+    {
+      "start": 678.45,
+      "duration": 2.49,
+      "text": "But the Trump campaign found itself in a tricky situation",
+      "en": "But the Trump campaign found itself in a tricky situation",
+      "zh": ""
+    },
+    {
+      "start": 680.94,
+      "duration": 2.34,
+      "text": "in the weeks leading up to the 2016 election.",
+      "en": "in the weeks leading up to the 2016 election.",
+      "zh": ""
+    },
+    {
+      "start": 683.28,
+      "duration": 1.8,
+      "text": "They didn't have the money to do this.",
+      "en": "They didn't have the money to do this.",
+      "zh": ""
+    },
+    {
+      "start": 685.08,
+      "duration": 1.38,
+      "text": "They were running out.",
+      "en": "They were running out.",
+      "zh": ""
+    },
+    {
+      "start": 686.46,
+      "duration": 1.5,
+      "text": "So what did the campaign do?",
+      "en": "So what did the campaign do?",
+      "zh": ""
+    },
+    {
+      "start": 687.96,
+      "duration": 2.25,
+      "text": "They asked Trump himself for money.",
+      "en": "They asked Trump himself for money.",
+      "zh": ""
+    },
+    {
+      "start": 693.78,
+      "duration": 4.08,
+      "text": "This post investigation reveals that they pleaded with Trump",
+      "en": "This post investigation reveals that they pleaded with Trump",
+      "zh": ""
+    },
+    {
+      "start": 697.86,
+      "duration": 2.52,
+      "text": "to write a check to his campaign",
+      "en": "to write a check to his campaign",
+      "zh": ""
+    },
+    {
+      "start": 700.38,
+      "duration": 2.64,
+      "text": "for a final blitz of television ads.",
+      "en": "for a final blitz of television ads.",
+      "zh": ""
+    },
+    {
+      "start": 703.02,
+      "duration": 2.17,
+      "text": "And the response was, no.",
+      "en": "And the response was, no.",
+      "zh": ""
+    },
+    {
+      "start": 705.19,
+      "duration": 2.03,
+      "text": "\"Trump repeatedly declined.\"",
+      "en": "\"Trump repeatedly declined.\"",
+      "zh": ""
+    },
+    {
+      "start": 707.22,
+      "duration": 1.41,
+      "text": "He didn't wanna give any more of his own money",
+      "en": "He didn't wanna give any more of his own money",
+      "zh": ""
+    },
+    {
+      "start": 708.63,
+      "duration": 0.9,
+      "text": "to this campaign.",
+      "en": "to this campaign.",
+      "zh": ""
+    },
+    {
+      "start": 709.53,
+      "duration": 4.76,
+      "text": "That is until October 28th, 2016.",
+      "en": "That is until October 28th, 2016.",
+      "zh": ""
+    },
+    {
+      "start": 715.35,
+      "duration": 2.7,
+      "text": "It's five weeks after Trump and El-Sisi met in New York,",
+      "en": "It's five weeks after Trump and El-Sisi met in New York,",
+      "zh": ""
+    },
+    {
+      "start": 718.05,
+      "duration": 2.64,
+      "text": "and Trump suddenly changes his mind",
+      "en": "and Trump suddenly changes his mind",
+      "zh": ""
+    },
+    {
+      "start": 720.69,
+      "duration": 2.04,
+      "text": "and announces that he's going to write a check",
+      "en": "and announces that he's going to write a check",
+      "zh": ""
+    },
+    {
+      "start": 722.73,
+      "duration": 2.04,
+      "text": "to his campaign for this final blitz.",
+      "en": "to his campaign for this final blitz.",
+      "zh": ""
+    },
+    {
+      "start": 724.77,
+      "duration": 1.89,
+      "text": "And how much is he going to give?",
+      "en": "And how much is he going to give?",
+      "zh": ""
+    },
+    {
+      "start": 726.66,
+      "duration": 1.98,
+      "text": "$10 million.",
+      "en": "$10 million.",
+      "zh": ""
+    },
+    {
+      "start": 728.64,
+      "duration": 2.61,
+      "text": "- [Donald] Today I wrote another check for $10 million.",
+      "en": "- [Donald] Today I wrote another check for $10 million.",
+      "zh": ""
+    },
+    {
+      "start": 731.25,
+      "duration": 2.22,
+      "text": "I'm spending money like crazy. (crowd cheering)",
+      "en": "I'm spending money like crazy. (crowd cheering)",
+      "zh": ""
+    },
+    {
+      "start": 733.47,
+      "duration": 3.27,
+      "text": "- Now, one small thing here, Trump advisors told the FBI",
+      "en": "- Now, one small thing here, Trump advisors told the FBI",
+      "zh": ""
+    },
+    {
+      "start": 736.74,
+      "duration": 3.54,
+      "text": "that while this $10 million looked like a contribution,",
+      "en": "that while this $10 million looked like a contribution,",
+      "zh": ""
+    },
+    {
+      "start": 740.28,
+      "duration": 2.43,
+      "text": "like a donation from Trump to his campaign,",
+      "en": "like a donation from Trump to his campaign,",
+      "zh": ""
+    },
+    {
+      "start": 742.71,
+      "duration": 2.2,
+      "text": "they actually structured it as a loan.",
+      "en": "they actually structured it as a loan.",
+      "zh": ""
+    },
+    {
+      "start": 744.91,
+      "duration": 2.54,
+      "text": "$10 million that could be paid back to Trump.",
+      "en": "$10 million that could be paid back to Trump.",
+      "zh": ""
+    },
+    {
+      "start": 749.73,
+      "duration": 3.81,
+      "text": "Okay, so we know that President El-Sisi signed off",
+      "en": "Okay, so we know that President El-Sisi signed off",
+      "zh": ""
+    },
+    {
+      "start": 753.54,
+      "duration": 2.82,
+      "text": "on giving Trump's campaign $10 million.",
+      "en": "on giving Trump's campaign $10 million.",
+      "zh": ""
+    },
+    {
+      "start": 756.36,
+      "duration": 0.83,
+      "text": "Why?",
+      "en": "Why?",
+      "zh": ""
+    },
+    {
+      "start": 757.19,
+      "duration": 2.62,
+      "text": "Because Trump and El-Sisi are friends",
+      "en": "Because Trump and El-Sisi are friends",
+      "zh": ""
+    },
+    {
+      "start": 759.81,
+      "duration": 2.04,
+      "text": "and a Trump presidency would benefit",
+      "en": "and a Trump presidency would benefit",
+      "zh": ""
+    },
+    {
+      "start": 761.85,
+      "duration": 1.62,
+      "text": "El-Sisi and his regime greatly.",
+      "en": "El-Sisi and his regime greatly.",
+      "zh": ""
+    },
+    {
+      "start": 763.47,
+      "duration": 1.26,
+      "text": "We also know that Trump",
+      "en": "We also know that Trump",
+      "zh": ""
+    },
+    {
+      "start": 764.73,
+      "duration": 3.09,
+      "text": "who refused to give money to his campaign",
+      "en": "who refused to give money to his campaign",
+      "zh": ""
+    },
+    {
+      "start": 767.82,
+      "duration": 1.83,
+      "text": "in the final weeks leading up to the election",
+      "en": "in the final weeks leading up to the election",
+      "zh": ""
+    },
+    {
+      "start": 769.65,
+      "duration": 1.2,
+      "text": "suddenly changed his mind",
+      "en": "suddenly changed his mind",
+      "zh": ""
+    },
+    {
+      "start": 770.85,
+      "duration": 3.87,
+      "text": "and wrote a check for $10 million to his campaign,",
+      "en": "and wrote a check for $10 million to his campaign,",
+      "zh": ""
+    },
+    {
+      "start": 774.72,
+      "duration": 2.55,
+      "text": "which was a loan to be paid back.",
+      "en": "which was a loan to be paid back.",
+      "zh": ""
+    },
+    {
+      "start": 777.27,
+      "duration": 2.82,
+      "text": "Okay, I'm gonna add that to the list.",
+      "en": "Okay, I'm gonna add that to the list.",
+      "zh": ""
+    },
+    {
+      "start": 780.09,
+      "duration": 1.68,
+      "text": "Does this all feel solid to everyone?",
+      "en": "Does this all feel solid to everyone?",
+      "zh": ""
+    },
+    {
+      "start": 781.77,
+      "duration": 1.08,
+      "text": "Like, we're...",
+      "en": "Like, we're...",
+      "zh": ""
+    },
+    {
+      "start": 782.85,
+      "duration": 2.22,
+      "text": "Like, these are rock solid facts in my mind.",
+      "en": "Like, these are rock solid facts in my mind.",
+      "zh": ""
+    },
+    {
+      "start": 785.07,
+      "duration": 2.1,
+      "text": "And now let's just add the point",
+      "en": "And now let's just add the point",
+      "zh": ""
+    },
+    {
+      "start": 787.17,
+      "duration": 2.55,
+      "text": "that we talked about at the very beginning,",
+      "en": "that we talked about at the very beginning,",
+      "zh": ""
+    },
+    {
+      "start": 789.72,
+      "duration": 1.9,
+      "text": "that five days before Trump was inaugurated,",
+      "en": "that five days before Trump was inaugurated,",
+      "zh": ""
+    },
+    {
+      "start": 791.62,
+      "duration": 1.79,
+      "text": "$10 million of cash...",
+      "en": "$10 million of cash...",
+      "zh": ""
+    },
+    {
+      "start": 793.41,
+      "duration": 2.48,
+      "text": "Or sorry, $9,998,000,",
+      "en": "Or sorry, $9,998,000,",
+      "zh": ""
+    },
+    {
+      "start": 795.89,
+      "duration": 2.77,
+      "text": "two grand away from $10 million,",
+      "en": "two grand away from $10 million,",
+      "zh": ""
+    },
+    {
+      "start": 798.66,
+      "duration": 3.57,
+      "text": "was loaded up in two bags in cash and carted away,",
+      "en": "was loaded up in two bags in cash and carted away,",
+      "zh": ""
+    },
+    {
+      "start": 802.23,
+      "duration": 1.57,
+      "text": "taken out of a bank account",
+      "en": "taken out of a bank account",
+      "zh": ""
+    },
+    {
+      "start": 803.8,
+      "duration": 4.64,
+      "text": "that is associated with El-Sisi's intelligence agency.",
+      "en": "that is associated with El-Sisi's intelligence agency.",
+      "zh": ""
+    },
+    {
+      "start": 808.44,
+      "duration": 1.65,
+      "text": "I'm gonna add this to the list.",
+      "en": "I'm gonna add this to the list.",
+      "zh": ""
+    },
+    {
+      "start": 810.09,
+      "duration": 2.4,
+      "text": "So looking at these four items,",
+      "en": "So looking at these four items,",
+      "zh": ""
+    },
+    {
+      "start": 812.49,
+      "duration": 1.68,
+      "text": "doesn't it kind of feel obvious?",
+      "en": "doesn't it kind of feel obvious?",
+      "zh": ""
+    },
+    {
+      "start": 814.17,
+      "duration": 2.1,
+      "text": "Doesn't your brain want to connect the dots",
+      "en": "Doesn't your brain want to connect the dots",
+      "zh": ""
+    },
+    {
+      "start": 816.27,
+      "duration": 3.57,
+      "text": "and paint a picture that it feels very clear in my brain?",
+      "en": "and paint a picture that it feels very clear in my brain?",
+      "zh": ""
+    },
+    {
+      "start": 819.84,
+      "duration": 3.03,
+      "text": "President, El-Sisi, who we know wants to give $10 million",
+      "en": "President, El-Sisi, who we know wants to give $10 million",
+      "zh": ""
+    },
+    {
+      "start": 822.87,
+      "duration": 2.01,
+      "text": "to his new friend Donald Trump",
+      "en": "to his new friend Donald Trump",
+      "zh": ""
+    },
+    {
+      "start": 824.88,
+      "duration": 3.09,
+      "text": "orders $10 million to be taken out of a bank",
+      "en": "orders $10 million to be taken out of a bank",
+      "zh": ""
+    },
+    {
+      "start": 827.97,
+      "duration": 2.4,
+      "text": "and secretly transferred to Trump's campaign.",
+      "en": "and secretly transferred to Trump's campaign.",
+      "zh": ""
+    },
+    {
+      "start": 830.37,
+      "duration": 3.03,
+      "text": "And Trump knowing this suddenly feels comfortable",
+      "en": "And Trump knowing this suddenly feels comfortable",
+      "zh": ""
+    },
+    {
+      "start": 833.4,
+      "duration": 2.29,
+      "text": "loaning his campaign exactly $10 million,",
+      "en": "loaning his campaign exactly $10 million,",
+      "zh": ""
+    },
+    {
+      "start": 835.69,
+      "duration": 2.95,
+      "text": "knowing that he'd be repaid from this money from Egypt.",
+      "en": "knowing that he'd be repaid from this money from Egypt.",
+      "zh": ""
+    },
+    {
+      "start": 838.64,
+      "duration": 2.08,
+      "text": "Doesn't it all lined up?",
+      "en": "Doesn't it all lined up?",
+      "zh": ""
+    },
+    {
+      "start": 840.72,
+      "duration": 1.53,
+      "text": "Like, case closed.",
+      "en": "Like, case closed.",
+      "zh": ""
+    },
+    {
+      "start": 842.25,
+      "duration": 1.61,
+      "text": "We can just like convict somebody.",
+      "en": "We can just like convict somebody.",
+      "zh": ""
+    },
+    {
+      "start": 843.86,
+      "duration": 2.8,
+      "text": "No, that's not how it works.",
+      "en": "No, that's not how it works.",
+      "zh": ""
+    },
+    {
+      "start": 846.66,
+      "duration": 2.52,
+      "text": "That's not how the burden of proof works.",
+      "en": "That's not how the burden of proof works.",
+      "zh": ""
+    },
+    {
+      "start": 849.18,
+      "duration": 2.19,
+      "text": "It's not how our justice system works.",
+      "en": "It's not how our justice system works.",
+      "zh": ""
+    },
+    {
+      "start": 851.37,
+      "duration": 4.05,
+      "text": "This list, while full of robust facts,",
+      "en": "This list, while full of robust facts,",
+      "zh": ""
+    },
+    {
+      "start": 855.42,
+      "duration": 4.35,
+      "text": "still doesn't paint a picture of any wrongdoing.",
+      "en": "still doesn't paint a picture of any wrongdoing.",
+      "zh": ""
+    },
+    {
+      "start": 859.77,
+      "duration": 2.86,
+      "text": "It is in the realm of circumstantial evidence.",
+      "en": "It is in the realm of circumstantial evidence.",
+      "zh": ""
+    },
+    {
+      "start": 862.63,
+      "duration": 2.27,
+      "text": "$10 million over here,",
+      "en": "$10 million over here,",
+      "zh": ""
+    },
+    {
+      "start": 864.9,
+      "duration": 0.99,
+      "text": "they must connect.",
+      "en": "they must connect.",
+      "zh": ""
+    },
+    {
+      "start": 865.89,
+      "duration": 2.28,
+      "text": "But investigators never found the connection.",
+      "en": "But investigators never found the connection.",
+      "zh": ""
+    },
+    {
+      "start": 868.17,
+      "duration": 2.28,
+      "text": "They never found the $10 million",
+      "en": "They never found the $10 million",
+      "zh": ""
+    },
+    {
+      "start": 870.45,
+      "duration": 2.25,
+      "text": "flowing in to Trump's bank account.",
+      "en": "flowing in to Trump's bank account.",
+      "zh": ""
+    },
+    {
+      "start": 872.7,
+      "duration": 2.85,
+      "text": "And therefore, this is circumstantial evidence",
+      "en": "And therefore, this is circumstantial evidence",
+      "zh": ""
+    },
+    {
+      "start": 875.55,
+      "duration": 3.6,
+      "text": "and not rock solid provable anything.",
+      "en": "and not rock solid provable anything.",
+      "zh": ""
+    },
+    {
+      "start": 879.15,
+      "duration": 2.7,
+      "text": "But luckily, when we have this,",
+      "en": "But luckily, when we have this,",
+      "zh": ""
+    },
+    {
+      "start": 881.85,
+      "duration": 2.58,
+      "text": "that's what investigations are for.",
+      "en": "that's what investigations are for.",
+      "zh": ""
+    },
+    {
+      "start": 884.43,
+      "duration": 3.58,
+      "text": "(gentle percussive music)",
+      "en": "(gentle percussive music)",
+      "zh": ""
+    },
+    {
+      "start": 889.56,
+      "duration": 1.71,
+      "text": "Soon after Trump takes office,",
+      "en": "Soon after Trump takes office,",
+      "zh": ""
+    },
+    {
+      "start": 891.27,
+      "duration": 2.94,
+      "text": "the Department of Justice launches an investigation.",
+      "en": "the Department of Justice launches an investigation.",
+      "zh": ""
+    },
+    {
+      "start": 894.21,
+      "duration": 3.13,
+      "text": "Because remember, this is when the CIA told them that quote,",
+      "en": "Because remember, this is when the CIA told them that quote,",
+      "zh": ""
+    },
+    {
+      "start": 897.34,
+      "duration": 3.62,
+      "text": "\"El-Sisi signed off on giving Trump $10 million.\"",
+      "en": "\"El-Sisi signed off on giving Trump $10 million.\"",
+      "zh": ""
+    },
+    {
+      "start": 900.96,
+      "duration": 2.97,
+      "text": "This was concerning intel and it was happening at a time,",
+      "en": "This was concerning intel and it was happening at a time,",
+      "zh": ""
+    },
+    {
+      "start": 903.93,
+      "duration": 2.61,
+      "text": "if you remember, that there was a lot of concern",
+      "en": "if you remember, that there was a lot of concern",
+      "zh": ""
+    },
+    {
+      "start": 906.54,
+      "duration": 2.55,
+      "text": "about foreign interference in American democracy.",
+      "en": "about foreign interference in American democracy.",
+      "zh": ""
+    },
+    {
+      "start": 909.09,
+      "duration": 2.13,
+      "text": "A lot of that focused on Russia.",
+      "en": "A lot of that focused on Russia.",
+      "zh": ""
+    },
+    {
+      "start": 911.22,
+      "duration": 1.68,
+      "text": "That was public, that was a big thing.",
+      "en": "That was public, that was a big thing.",
+      "zh": ""
+    },
+    {
+      "start": 912.9,
+      "duration": 2.7,
+      "text": "We all talked about Russia foreign interference.",
+      "en": "We all talked about Russia foreign interference.",
+      "zh": ""
+    },
+    {
+      "start": 915.6,
+      "duration": 1.53,
+      "text": "But at the same time,",
+      "en": "But at the same time,",
+      "zh": ""
+    },
+    {
+      "start": 917.13,
+      "duration": 1.65,
+      "text": "there was this investigation happening",
+      "en": "there was this investigation happening",
+      "zh": ""
+    },
+    {
+      "start": 918.78,
+      "duration": 3.42,
+      "text": "into whether Egypt helped buy the 2016 election.",
+      "en": "into whether Egypt helped buy the 2016 election.",
+      "zh": ""
+    },
+    {
+      "start": 922.2,
+      "duration": 2.34,
+      "text": "It was all happening quietly in the background",
+      "en": "It was all happening quietly in the background",
+      "zh": ""
+    },
+    {
+      "start": 924.54,
+      "duration": 1.5,
+      "text": "because it was pretty sensitive.",
+      "en": "because it was pretty sensitive.",
+      "zh": ""
+    },
+    {
+      "start": 926.04,
+      "duration": 2.1,
+      "text": "We're talking about potential bribery",
+      "en": "We're talking about potential bribery",
+      "zh": ""
+    },
+    {
+      "start": 928.14,
+      "duration": 1.62,
+      "text": "of a sitting president.",
+      "en": "of a sitting president.",
+      "zh": ""
+    },
+    {
+      "start": 929.76,
+      "duration": 2.46,
+      "text": "So the FBI and investigators are looking into this,",
+      "en": "So the FBI and investigators are looking into this,",
+      "zh": ""
+    },
+    {
+      "start": 932.22,
+      "duration": 2.14,
+      "text": "trying to find evidence of potential wrongdoing.",
+      "en": "trying to find evidence of potential wrongdoing.",
+      "zh": ""
+    },
+    {
+      "start": 934.36,
+      "duration": 3.86,
+      "text": "Meanwhile, president Trump takes office and starts to do",
+      "en": "Meanwhile, president Trump takes office and starts to do",
+      "zh": ""
+    },
+    {
+      "start": 938.22,
+      "duration": 2.64,
+      "text": "exactly what he kind of promised he would do",
+      "en": "exactly what he kind of promised he would do",
+      "zh": ""
+    },
+    {
+      "start": 940.86,
+      "duration": 1.32,
+      "text": "when it came to Egypt.",
+      "en": "when it came to Egypt.",
+      "zh": ""
+    },
+    {
+      "start": 942.18,
+      "duration": 2.25,
+      "text": "He invites El-Sisi as one of the first guests",
+      "en": "He invites El-Sisi as one of the first guests",
+      "zh": ""
+    },
+    {
+      "start": 944.43,
+      "duration": 1.23,
+      "text": "to the White House.",
+      "en": "to the White House.",
+      "zh": ""
+    },
+    {
+      "start": 945.66,
+      "duration": 2.28,
+      "text": "He calls him, and this is a direct quote",
+      "en": "He calls him, and this is a direct quote",
+      "zh": ""
+    },
+    {
+      "start": 947.94,
+      "duration": 3.12,
+      "text": "from someone who was in the room at the G7 Summit in France.",
+      "en": "from someone who was in the room at the G7 Summit in France.",
+      "zh": ""
+    },
+    {
+      "start": 951.06,
+      "duration": 3.09,
+      "text": "Quote, \"My favorite dictator.\"",
+      "en": "Quote, \"My favorite dictator.\"",
+      "zh": ""
+    },
+    {
+      "start": 954.15,
+      "duration": 0.93,
+      "text": "God, Trump.",
+      "en": "God, Trump.",
+      "zh": ""
+    },
+    {
+      "start": 956.04,
+      "duration": 1.15,
+      "text": "Boy.",
+      "en": "Boy.",
+      "zh": ""
+    },
+    {
+      "start": 957.19,
+      "duration": 1.73,
+      "text": "\"My favorite dictator.\"",
+      "en": "\"My favorite dictator.\"",
+      "zh": ""
+    },
+    {
+      "start": 958.92,
+      "duration": 2.52,
+      "text": "And then remember how Egypt had been cut off",
+      "en": "And then remember how Egypt had been cut off",
+      "zh": ""
+    },
+    {
+      "start": 961.44,
+      "duration": 1.47,
+      "text": "by the Obama administration",
+      "en": "by the Obama administration",
+      "zh": ""
+    },
+    {
+      "start": 962.91,
+      "duration": 3.81,
+      "text": "of like $1.4 billion of military aid?",
+      "en": "of like $1.4 billion of military aid?",
+      "zh": ""
+    },
+    {
+      "start": 966.72,
+      "duration": 2.4,
+      "text": "Trump unfreezes that money",
+      "en": "Trump unfreezes that money",
+      "zh": ""
+    },
+    {
+      "start": 969.12,
+      "duration": 1.68,
+      "text": "and it starts to flow to El-Sisi,",
+      "en": "and it starts to flow to El-Sisi,",
+      "zh": ""
+    },
+    {
+      "start": 970.8,
+      "duration": 1.32,
+      "text": "not for anything in return,",
+      "en": "not for anything in return,",
+      "zh": ""
+    },
+    {
+      "start": 972.12,
+      "duration": 2.31,
+      "text": "just give El-Sisi the money.",
+      "en": "just give El-Sisi the money.",
+      "zh": ""
+    },
+    {
+      "start": 974.43,
+      "duration": 1.8,
+      "text": "And this was against the advice",
+      "en": "And this was against the advice",
+      "zh": ""
+    },
+    {
+      "start": 976.23,
+      "duration": 1.59,
+      "text": "of his first secretary of state.",
+      "en": "of his first secretary of state.",
+      "zh": ""
+    },
+    {
+      "start": 977.82,
+      "duration": 1.62,
+      "text": "He said like, \"This is not a good idea.\"",
+      "en": "He said like, \"This is not a good idea.\"",
+      "zh": ""
+    },
+    {
+      "start": 979.44,
+      "duration": 1.18,
+      "text": "And Trump's like, \"Yes, it is.\"",
+      "en": "And Trump's like, \"Yes, it is.\"",
+      "zh": ""
+    },
+    {
+      "start": 980.62,
+      "duration": 1.94,
+      "text": "$1.4 billion to Egypt.",
+      "en": "$1.4 billion to Egypt.",
+      "zh": ""
+    },
+    {
+      "start": 982.56,
+      "duration": 2.7,
+      "text": "Now listen, if, big word, \"if.\"",
+      "en": "Now listen, if, big word, \"if.\"",
+      "zh": ""
+    },
+    {
+      "start": 985.26,
+      "duration": 1.41,
+      "text": "Put if on the screen.",
+      "en": "Put if on the screen.",
+      "zh": ""
+    },
+    {
+      "start": 986.67,
+      "duration": 3.51,
+      "text": "If El-Sisi had bribed Trump with $10 million",
+      "en": "If El-Sisi had bribed Trump with $10 million",
+      "zh": ""
+    },
+    {
+      "start": 990.18,
+      "duration": 3.57,
+      "text": "to help get him elected, then his investment is paying off.",
+      "en": "to help get him elected, then his investment is paying off.",
+      "zh": ""
+    },
+    {
+      "start": 993.75,
+      "duration": 3.27,
+      "text": "He is benefiting a ton from a Trump presidency.",
+      "en": "He is benefiting a ton from a Trump presidency.",
+      "zh": ""
+    },
+    {
+      "start": 997.02,
+      "duration": 1.11,
+      "text": "Now, we don't know if he did.",
+      "en": "Now, we don't know if he did.",
+      "zh": ""
+    },
+    {
+      "start": 998.13,
+      "duration": 1.95,
+      "text": "We don't have any direct evidence that he did.",
+      "en": "We don't have any direct evidence that he did.",
+      "zh": ""
+    },
+    {
+      "start": 1000.08,
+      "duration": 2.16,
+      "text": "But if he did, pretty good investment.",
+      "en": "But if he did, pretty good investment.",
+      "zh": ""
+    },
+    {
+      "start": 1002.24,
+      "duration": 1.5,
+      "text": "So while this is all happening,",
+      "en": "So while this is all happening,",
+      "zh": ""
+    },
+    {
+      "start": 1003.74,
+      "duration": 1.92,
+      "text": "the FBI and federal investigators",
+      "en": "the FBI and federal investigators",
+      "zh": ""
+    },
+    {
+      "start": 1005.66,
+      "duration": 2.02,
+      "text": "continue to try to find a link.",
+      "en": "continue to try to find a link.",
+      "zh": ""
+    },
+    {
+      "start": 1007.68,
+      "duration": 2.03,
+      "text": "$10 million leaving Egypt.",
+      "en": "$10 million leaving Egypt.",
+      "zh": ""
+    },
+    {
+      "start": 1009.71,
+      "duration": 3.3,
+      "text": "Did it ever enter Donald Trump's bank account somehow?",
+      "en": "Did it ever enter Donald Trump's bank account somehow?",
+      "zh": ""
+    },
+    {
+      "start": 1013.01,
+      "duration": 2.92,
+      "text": "To find this out, they took the investigatory step",
+      "en": "To find this out, they took the investigatory step",
+      "zh": ""
+    },
+    {
+      "start": 1015.93,
+      "duration": 4.64,
+      "text": "of requesting Donald Trump's personal bank records.",
+      "en": "of requesting Donald Trump's personal bank records.",
+      "zh": ""
+    },
+    {
+      "start": 1020.57,
+      "duration": 2.73,
+      "text": "They were gonna look at them to find large transactions",
+      "en": "They were gonna look at them to find large transactions",
+      "zh": ""
+    },
+    {
+      "start": 1023.3,
+      "duration": 2.67,
+      "text": "to see if $10 million showed up",
+      "en": "to see if $10 million showed up",
+      "zh": ""
+    },
+    {
+      "start": 1025.97,
+      "duration": 2.19,
+      "text": "sometime before the election.",
+      "en": "sometime before the election.",
+      "zh": ""
+    },
+    {
+      "start": 1028.16,
+      "duration": 1.41,
+      "text": "So let's get a calendar out here.",
+      "en": "So let's get a calendar out here.",
+      "zh": ""
+    },
+    {
+      "start": 1029.57,
+      "duration": 5.0,
+      "text": "The FBI requested records spanning May to November, 2016,",
+      "en": "The FBI requested records spanning May to November, 2016,",
+      "zh": ""
+    },
+    {
+      "start": 1034.79,
+      "duration": 2.49,
+      "text": "the months leading up to the election.",
+      "en": "the months leading up to the election.",
+      "zh": ""
+    },
+    {
+      "start": 1037.28,
+      "duration": 0.83,
+      "text": "But guess what?",
+      "en": "But guess what?",
+      "zh": ""
+    },
+    {
+      "start": 1038.11,
+      "duration": 0.85,
+      "text": "They didn't find anything.",
+      "en": "They didn't find anything.",
+      "zh": ""
+    },
+    {
+      "start": 1038.96,
+      "duration": 2.64,
+      "text": "They found no suspicious deposits",
+      "en": "They found no suspicious deposits",
+      "zh": ""
+    },
+    {
+      "start": 1041.6,
+      "duration": 3.18,
+      "text": "from foreign entities of $10 million.",
+      "en": "from foreign entities of $10 million.",
+      "zh": ""
+    },
+    {
+      "start": 1044.78,
+      "duration": 2.91,
+      "text": "So then they decided to go look at the Egyptian bank",
+      "en": "So then they decided to go look at the Egyptian bank",
+      "zh": ""
+    },
+    {
+      "start": 1047.69,
+      "duration": 1.11,
+      "text": "and get their records",
+      "en": "and get their records",
+      "zh": ""
+    },
+    {
+      "start": 1048.8,
+      "duration": 3.81,
+      "text": "and they fought in this massive battle that is wild,",
+      "en": "and they fought in this massive battle that is wild,",
+      "zh": ""
+    },
+    {
+      "start": 1052.61,
+      "duration": 2.19,
+      "text": "and it's detailed in The Post investigation",
+      "en": "and it's detailed in The Post investigation",
+      "zh": ""
+    },
+    {
+      "start": 1054.8,
+      "duration": 0.99,
+      "text": "because the Egyptian bank",
+      "en": "because the Egyptian bank",
+      "zh": ""
+    },
+    {
+      "start": 1055.79,
+      "duration": 1.77,
+      "text": "didn't want to give over their records.",
+      "en": "didn't want to give over their records.",
+      "zh": ""
+    },
+    {
+      "start": 1057.56,
+      "duration": 1.14,
+      "text": "They're like, \"No, no, no, no, no.",
+      "en": "They're like, \"No, no, no, no, no.",
+      "zh": ""
+    },
+    {
+      "start": 1058.7,
+      "duration": 1.5,
+      "text": "We're not gonna give over our records",
+      "en": "We're not gonna give over our records",
+      "zh": ""
+    },
+    {
+      "start": 1060.2,
+      "duration": 2.14,
+      "text": "because that would,\" quote,",
+      "en": "because that would,\" quote,",
+      "zh": ""
+    },
+    {
+      "start": 1062.34,
+      "duration": 2.51,
+      "text": "\"wreak havoc on American foreign policy,",
+      "en": "\"wreak havoc on American foreign policy,",
+      "zh": ""
+    },
+    {
+      "start": 1064.85,
+      "duration": 2.85,
+      "text": "possibly alienating US allies,",
+      "en": "possibly alienating US allies,",
+      "zh": ""
+    },
+    {
+      "start": 1067.7,
+      "duration": 1.89,
+      "text": "undermining diplomatic efforts,",
+      "en": "undermining diplomatic efforts,",
+      "zh": ""
+    },
+    {
+      "start": 1069.59,
+      "duration": 3.36,
+      "text": "and inviting reciprocal treatment.\"",
+      "en": "and inviting reciprocal treatment.\"",
+      "zh": ""
+    },
+    {
+      "start": 1072.95,
+      "duration": 3.63,
+      "text": "Geez, what's in these records, Egyptian bank?",
+      "en": "Geez, what's in these records, Egyptian bank?",
+      "zh": ""
+    },
+    {
+      "start": 1076.58,
+      "duration": 2.05,
+      "text": "Like, what is in these records",
+      "en": "Like, what is in these records",
+      "zh": ""
+    },
+    {
+      "start": 1078.63,
+      "duration": 3.02,
+      "text": "that's gonna topple American foreign policy?",
+      "en": "that's gonna topple American foreign policy?",
+      "zh": ""
+    },
+    {
+      "start": 1081.65,
+      "duration": 1.83,
+      "text": "So this epic court battle goes down,",
+      "en": "So this epic court battle goes down,",
+      "zh": ""
+    },
+    {
+      "start": 1083.48,
+      "duration": 1.93,
+      "text": "there's like a secret investigation",
+      "en": "there's like a secret investigation",
+      "zh": ""
+    },
+    {
+      "start": 1086.32,
+      "duration": 1.09,
+      "text": "and court thing happening in DC.",
+      "en": "and court thing happening in DC.",
+      "zh": ""
+    },
+    {
+      "start": 1087.41,
+      "duration": 1.95,
+      "text": "It goes all the way to the Supreme Court.",
+      "en": "It goes all the way to the Supreme Court.",
+      "zh": ""
+    },
+    {
+      "start": 1089.36,
+      "duration": 1.89,
+      "text": "And finally, the Egyptian bank",
+      "en": "And finally, the Egyptian bank",
+      "zh": ""
+    },
+    {
+      "start": 1091.25,
+      "duration": 2.19,
+      "text": "has to surrender the records.",
+      "en": "has to surrender the records.",
+      "zh": ""
+    },
+    {
+      "start": 1093.44,
+      "duration": 1.8,
+      "text": "And this is how we learn",
+      "en": "And this is how we learn",
+      "zh": ""
+    },
+    {
+      "start": 1095.24,
+      "duration": 2.72,
+      "text": "about the big transfer in US dollars",
+      "en": "about the big transfer in US dollars",
+      "zh": ""
+    },
+    {
+      "start": 1097.96,
+      "duration": 3.34,
+      "text": "that happened from the Egyptian bank in cash.",
+      "en": "that happened from the Egyptian bank in cash.",
+      "zh": ""
+    },
+    {
+      "start": 1101.3,
+      "duration": 1.32,
+      "text": "They didn't know about this before.",
+      "en": "They didn't know about this before.",
+      "zh": ""
+    },
+    {
+      "start": 1102.62,
+      "duration": 2.01,
+      "text": "But the investigators notice something weird",
+      "en": "But the investigators notice something weird",
+      "zh": ""
+    },
+    {
+      "start": 1104.63,
+      "duration": 1.89,
+      "text": "about all of these records",
+      "en": "about all of these records",
+      "zh": ""
+    },
+    {
+      "start": 1106.52,
+      "duration": 1.29,
+      "text": "that they got from the Egyptian bank,",
+      "en": "that they got from the Egyptian bank,",
+      "zh": ""
+    },
+    {
+      "start": 1107.81,
+      "duration": 3.25,
+      "text": "which is that other than that tiny handwritten note",
+      "en": "which is that other than that tiny handwritten note",
+      "zh": ""
+    },
+    {
+      "start": 1111.06,
+      "duration": 1.31,
+      "text": "that said, \"Put $10 million in two bags",
+      "en": "that said, \"Put $10 million in two bags",
+      "zh": ""
+    },
+    {
+      "start": 1112.37,
+      "duration": 1.41,
+      "text": "and four guys are gonna come pick it up,\"",
+      "en": "and four guys are gonna come pick it up,\"",
+      "zh": ""
+    },
+    {
+      "start": 1113.78,
+      "duration": 1.71,
+      "text": "they felt like something was missing.",
+      "en": "they felt like something was missing.",
+      "zh": ""
+    },
+    {
+      "start": 1115.49,
+      "duration": 1.98,
+      "text": "And I'm gonna quote directly from The Post here,",
+      "en": "And I'm gonna quote directly from The Post here,",
+      "zh": ""
+    },
+    {
+      "start": 1117.47,
+      "duration": 0.83,
+      "text": "just so clear.",
+      "en": "just so clear.",
+      "zh": ""
+    },
+    {
+      "start": 1120.32,
+      "duration": 1.51,
+      "text": "They found that the bank, quote,",
+      "en": "They found that the bank, quote,",
+      "zh": ""
+    },
+    {
+      "start": 1121.83,
+      "duration": 3.47,
+      "text": "\"had not turned over a single email",
+      "en": "\"had not turned over a single email",
+      "zh": ""
+    },
+    {
+      "start": 1125.3,
+      "duration": 2.52,
+      "text": "of that enormous same day transaction,\"",
+      "en": "of that enormous same day transaction,\"",
+      "zh": ""
+    },
+    {
+      "start": 1127.82,
+      "duration": 1.86,
+      "text": "the $10 million of cash,",
+      "en": "the $10 million of cash,",
+      "zh": ""
+    },
+    {
+      "start": 1129.68,
+      "duration": 2.37,
+      "text": "and \"that the lack of any internal communication",
+      "en": "and \"that the lack of any internal communication",
+      "zh": ""
+    },
+    {
+      "start": 1132.05,
+      "duration": 1.83,
+      "text": "on such a huge sum of money,",
+      "en": "on such a huge sum of money,",
+      "zh": ""
+    },
+    {
+      "start": 1133.88,
+      "duration": 2.55,
+      "text": "same day transaction, was unthinkable.\"",
+      "en": "same day transaction, was unthinkable.\"",
+      "zh": ""
+    },
+    {
+      "start": 1136.43,
+      "duration": 2.97,
+      "text": "The US prosecutor who was heading this case",
+      "en": "The US prosecutor who was heading this case",
+      "zh": ""
+    },
+    {
+      "start": 1139.4,
+      "duration": 2.91,
+      "text": "continues with, \"Its strains credulity",
+      "en": "continues with, \"Its strains credulity",
+      "zh": ""
+    },
+    {
+      "start": 1142.31,
+      "duration": 4.26,
+      "text": "that the bank kept such a stockpile of US dollars on hand,",
+      "en": "that the bank kept such a stockpile of US dollars on hand,",
+      "zh": ""
+    },
+    {
+      "start": 1146.57,
+      "duration": 2.28,
+      "text": "let alone that it was able to be gathered up",
+      "en": "let alone that it was able to be gathered up",
+      "zh": ""
+    },
+    {
+      "start": 1148.85,
+      "duration": 2.04,
+      "text": "in less than 24 hours.\"",
+      "en": "in less than 24 hours.\"",
+      "zh": ""
+    },
+    {
+      "start": 1150.89,
+      "duration": 3.24,
+      "text": "Translation, the bank probably didn't give over",
+      "en": "Translation, the bank probably didn't give over",
+      "zh": ""
+    },
+    {
+      "start": 1154.13,
+      "duration": 1.17,
+      "text": "all their records.",
+      "en": "all their records.",
+      "zh": ""
+    },
+    {
+      "start": 1155.3,
+      "duration": 2.29,
+      "text": "Like, really, there was no other like emails being like,",
+      "en": "Like, really, there was no other like emails being like,",
+      "zh": ""
+    },
+    {
+      "start": 1157.59,
+      "duration": 2.13,
+      "text": "\"Hey, there's gonna be a $10 million transaction",
+      "en": "\"Hey, there's gonna be a $10 million transaction",
+      "zh": ""
+    },
+    {
+      "start": 1159.72,
+      "duration": 2.72,
+      "text": "from this bank branch near the airport.\"",
+      "en": "from this bank branch near the airport.\"",
+      "zh": ""
+    },
+    {
+      "start": 1162.44,
+      "duration": 1.2,
+      "text": "So they're probably missing some records,",
+      "en": "So they're probably missing some records,",
+      "zh": ""
+    },
+    {
+      "start": 1163.64,
+      "duration": 1.65,
+      "text": "but they did get that handwritten note",
+      "en": "but they did get that handwritten note",
+      "zh": ""
+    },
+    {
+      "start": 1165.29,
+      "duration": 3.33,
+      "text": "that talked about the $10 million transfer in cash",
+      "en": "that talked about the $10 million transfer in cash",
+      "zh": ""
+    },
+    {
+      "start": 1168.62,
+      "duration": 1.92,
+      "text": "five days before the inauguration.",
+      "en": "five days before the inauguration.",
+      "zh": ""
+    },
+    {
+      "start": 1170.54,
+      "duration": 2.91,
+      "text": "January 15th, let's get back to the calendar.",
+      "en": "January 15th, let's get back to the calendar.",
+      "zh": ""
+    },
+    {
+      "start": 1173.45,
+      "duration": 3.33,
+      "text": "Now, remember, the FBI had access to Trump's bank records",
+      "en": "Now, remember, the FBI had access to Trump's bank records",
+      "zh": ""
+    },
+    {
+      "start": 1176.78,
+      "duration": 2.79,
+      "text": "from May to November, 2016.",
+      "en": "from May to November, 2016.",
+      "zh": ""
+    },
+    {
+      "start": 1179.57,
+      "duration": 3.3,
+      "text": "So if the $10 million was going to the Trump campaign,",
+      "en": "So if the $10 million was going to the Trump campaign,",
+      "zh": ""
+    },
+    {
+      "start": 1182.87,
+      "duration": 2.46,
+      "text": "the FBI wouldn't see it",
+      "en": "the FBI wouldn't see it",
+      "zh": ""
+    },
+    {
+      "start": 1185.33,
+      "duration": 3.19,
+      "text": "because they only had Trump's records up to November, 2016.",
+      "en": "because they only had Trump's records up to November, 2016.",
+      "zh": ""
+    },
+    {
+      "start": 1188.52,
+      "duration": 3.15,
+      "text": "\"Okay, well, that's easy,\" says the FBI.",
+      "en": "\"Okay, well, that's easy,\" says the FBI.",
+      "zh": ""
+    },
+    {
+      "start": 1191.67,
+      "duration": 1.34,
+      "text": "\"Now that we have new information",
+      "en": "\"Now that we have new information",
+      "zh": ""
+    },
+    {
+      "start": 1193.01,
+      "duration": 2.22,
+      "text": "about this $10 million transfer from Egypt,",
+      "en": "about this $10 million transfer from Egypt,",
+      "zh": ""
+    },
+    {
+      "start": 1195.23,
+      "duration": 3.0,
+      "text": "let's just get a wider set of records",
+      "en": "let's just get a wider set of records",
+      "zh": ""
+    },
+    {
+      "start": 1198.23,
+      "duration": 2.37,
+      "text": "from Trump's bank,",
+      "en": "from Trump's bank,",
+      "zh": ""
+    },
+    {
+      "start": 1200.6,
+      "duration": 1.92,
+      "text": "something after January 15th",
+      "en": "something after January 15th",
+      "zh": ""
+    },
+    {
+      "start": 1202.52,
+      "duration": 3.04,
+      "text": "so that we can see if some $10 million deposit",
+      "en": "so that we can see if some $10 million deposit",
+      "zh": ""
+    },
+    {
+      "start": 1205.56,
+      "duration": 1.79,
+      "text": "shows up there.\"",
+      "en": "shows up there.\"",
+      "zh": ""
+    },
+    {
+      "start": 1207.35,
+      "duration": 2.91,
+      "text": "This is like standard investigatory procedure.",
+      "en": "This is like standard investigatory procedure.",
+      "zh": ""
+    },
+    {
+      "start": 1210.26,
+      "duration": 1.65,
+      "text": "One FBI agent told The Post",
+      "en": "One FBI agent told The Post",
+      "zh": ""
+    },
+    {
+      "start": 1211.91,
+      "duration": 2.04,
+      "text": "that if this were any other investigation,",
+      "en": "that if this were any other investigation,",
+      "zh": ""
+    },
+    {
+      "start": 1213.95,
+      "duration": 1.08,
+      "text": "they would have a justification",
+      "en": "they would have a justification",
+      "zh": ""
+    },
+    {
+      "start": 1215.03,
+      "duration": 2.13,
+      "text": "to get these records, quote, \"in a heartbeat.\"",
+      "en": "to get these records, quote, \"in a heartbeat.\"",
+      "zh": ""
+    },
+    {
+      "start": 1217.16,
+      "duration": 2.76,
+      "text": "But because this wasn't any other investigation,",
+      "en": "But because this wasn't any other investigation,",
+      "zh": ""
+    },
+    {
+      "start": 1219.92,
+      "duration": 3.39,
+      "text": "this was investigating the finances of a sitting president,",
+      "en": "this was investigating the finances of a sitting president,",
+      "zh": ""
+    },
+    {
+      "start": 1223.31,
+      "duration": 3.09,
+      "text": "they would have to ask their boss for permission.",
+      "en": "they would have to ask their boss for permission.",
+      "zh": ""
+    },
+    {
+      "start": 1226.4,
+      "duration": 2.01,
+      "text": "And who is their boss?",
+      "en": "And who is their boss?",
+      "zh": ""
+    },
+    {
+      "start": 1228.41,
+      "duration": 2.04,
+      "text": "This guy, Bill Barr.",
+      "en": "This guy, Bill Barr.",
+      "zh": ""
+    },
+    {
+      "start": 1230.45,
+      "duration": 1.26,
+      "text": "And here's where the investigation",
+      "en": "And here's where the investigation",
+      "zh": ""
+    },
+    {
+      "start": 1231.71,
+      "duration": 2.46,
+      "text": "starts to deteriorate, unfortunately.",
+      "en": "starts to deteriorate, unfortunately.",
+      "zh": ""
+    },
+    {
+      "start": 1234.17,
+      "duration": 2.75,
+      "text": "(pensive music)",
+      "en": "(pensive music)",
+      "zh": ""
+    },
+    {
+      "start": 1239.15,
+      "duration": 2.94,
+      "text": "Bill Barr was appointed by Donald Trump",
+      "en": "Bill Barr was appointed by Donald Trump",
+      "zh": ""
+    },
+    {
+      "start": 1242.09,
+      "duration": 1.56,
+      "text": "to be the Attorney General.",
+      "en": "to be the Attorney General.",
+      "zh": ""
+    },
+    {
+      "start": 1243.65,
+      "duration": 2.7,
+      "text": "That's the head of the Department of Justice,",
+      "en": "That's the head of the Department of Justice,",
+      "zh": ""
+    },
+    {
+      "start": 1246.35,
+      "duration": 2.25,
+      "text": "the top law enforcer of America.",
+      "en": "the top law enforcer of America.",
+      "zh": ""
+    },
+    {
+      "start": 1248.6,
+      "duration": 3.25,
+      "text": "Bill Barr can reasonably be considered a Trump ally.",
+      "en": "Bill Barr can reasonably be considered a Trump ally.",
+      "zh": ""
+    },
+    {
+      "start": 1251.85,
+      "duration": 1.64,
+      "text": "You may disagree with me on this.",
+      "en": "You may disagree with me on this.",
+      "zh": ""
+    },
+    {
+      "start": 1253.49,
+      "duration": 1.71,
+      "text": "And if you do, please say so in the comments.",
+      "en": "And if you do, please say so in the comments.",
+      "zh": ""
+    },
+    {
+      "start": 1255.2,
+      "duration": 2.44,
+      "text": "I'd love to hear your rebuttal to what I'm about to say.",
+      "en": "I'd love to hear your rebuttal to what I'm about to say.",
+      "zh": ""
+    },
+    {
+      "start": 1257.64,
+      "duration": 3.62,
+      "text": "His job is to keep the president legal and honest.",
+      "en": "His job is to keep the president legal and honest.",
+      "zh": ""
+    },
+    {
+      "start": 1261.26,
+      "duration": 2.7,
+      "text": "And yet, what he showed during his tenure",
+      "en": "And yet, what he showed during his tenure",
+      "zh": ""
+    },
+    {
+      "start": 1263.96,
+      "duration": 2.4,
+      "text": "is that he would often side with Trump.",
+      "en": "is that he would often side with Trump.",
+      "zh": ""
+    },
+    {
+      "start": 1266.36,
+      "duration": 2.58,
+      "text": "He would undermine investigations against him",
+      "en": "He would undermine investigations against him",
+      "zh": ""
+    },
+    {
+      "start": 1268.94,
+      "duration": 2.96,
+      "text": "and he even stoked fears of voter fraud in 2020",
+      "en": "and he even stoked fears of voter fraud in 2020",
+      "zh": ""
+    },
+    {
+      "start": 1271.9,
+      "duration": 1.99,
+      "text": "without real evidence.",
+      "en": "without real evidence.",
+      "zh": ""
+    },
+    {
+      "start": 1273.89,
+      "duration": 1.23,
+      "text": "Though he did eventually come out",
+      "en": "Though he did eventually come out",
+      "zh": ""
+    },
+    {
+      "start": 1275.12,
+      "duration": 3.69,
+      "text": "and affirm that the 2020 election was not stolen",
+      "en": "and affirm that the 2020 election was not stolen",
+      "zh": ""
+    },
+    {
+      "start": 1278.81,
+      "duration": 1.89,
+      "text": "because there's no evidence that it was.",
+      "en": "because there's no evidence that it was.",
+      "zh": ""
+    },
+    {
+      "start": 1280.7,
+      "duration": 1.38,
+      "text": "But, yeah, the guy is a Trump ally.",
+      "en": "But, yeah, the guy is a Trump ally.",
+      "zh": ""
+    },
+    {
+      "start": 1282.08,
+      "duration": 1.2,
+      "text": "And the big question is,",
+      "en": "And the big question is,",
+      "zh": ""
+    },
+    {
+      "start": 1283.28,
+      "duration": 2.84,
+      "text": "why does the president get to appoint the person",
+      "en": "why does the president get to appoint the person",
+      "zh": ""
+    },
+    {
+      "start": 1286.12,
+      "duration": 3.23,
+      "text": "who is supposed to keep him legal and honest?",
+      "en": "who is supposed to keep him legal and honest?",
+      "zh": ""
+    },
+    {
+      "start": 1289.35,
+      "duration": 2.48,
+      "text": "The American system is not perfect",
+      "en": "The American system is not perfect",
+      "zh": ""
+    },
+    {
+      "start": 1291.83,
+      "duration": 3.39,
+      "text": "and there's also other special sort of controls",
+      "en": "and there's also other special sort of controls",
+      "zh": ""
+    },
+    {
+      "start": 1295.22,
+      "duration": 1.41,
+      "text": "on how we keep the president honest,",
+      "en": "on how we keep the president honest,",
+      "zh": ""
+    },
+    {
+      "start": 1296.63,
+      "duration": 2.37,
+      "text": "even if this guy's biased and politically motivated.",
+      "en": "even if this guy's biased and politically motivated.",
+      "zh": ""
+    },
+    {
+      "start": 1299.0,
+      "duration": 1.54,
+      "text": "Anyway, I'm not gonna go into that.",
+      "en": "Anyway, I'm not gonna go into that.",
+      "zh": ""
+    },
+    {
+      "start": 1300.54,
+      "duration": 0.83,
+      "text": "That's a story for another day.",
+      "en": "That's a story for another day.",
+      "zh": ""
+    },
+    {
+      "start": 1301.37,
+      "duration": 3.06,
+      "text": "The point is, Bill Barr, we can say is a Trump ally",
+      "en": "The point is, Bill Barr, we can say is a Trump ally",
+      "zh": ""
+    },
+    {
+      "start": 1304.43,
+      "duration": 1.83,
+      "text": "and he is the boss of all these people",
+      "en": "and he is the boss of all these people",
+      "zh": ""
+    },
+    {
+      "start": 1306.26,
+      "duration": 3.36,
+      "text": "who are investigating the Trump-Egypt connection.",
+      "en": "who are investigating the Trump-Egypt connection.",
+      "zh": ""
+    },
+    {
+      "start": 1309.62,
+      "duration": 2.1,
+      "text": "So he hears about this investigation,",
+      "en": "So he hears about this investigation,",
+      "zh": ""
+    },
+    {
+      "start": 1311.72,
+      "duration": 2.82,
+      "text": "he hears that the agents want to expand",
+      "en": "he hears that the agents want to expand",
+      "zh": ""
+    },
+    {
+      "start": 1314.54,
+      "duration": 3.12,
+      "text": "the amount of bank records that they can get on Trump",
+      "en": "the amount of bank records that they can get on Trump",
+      "zh": ""
+    },
+    {
+      "start": 1317.66,
+      "duration": 2.94,
+      "text": "so that they can see if there was a $10 million deposit",
+      "en": "so that they can see if there was a $10 million deposit",
+      "zh": ""
+    },
+    {
+      "start": 1320.6,
+      "duration": 1.98,
+      "text": "after the cash left Egypt.",
+      "en": "after the cash left Egypt.",
+      "zh": ""
+    },
+    {
+      "start": 1322.58,
+      "duration": 1.02,
+      "text": "And he doesn't like it.",
+      "en": "And he doesn't like it.",
+      "zh": ""
+    },
+    {
+      "start": 1323.6,
+      "duration": 1.47,
+      "text": "He doesn't like it one bit.",
+      "en": "He doesn't like it one bit.",
+      "zh": ""
+    },
+    {
+      "start": 1325.07,
+      "duration": 2.41,
+      "text": "He goes to the FBI director and he says,",
+      "en": "He goes to the FBI director and he says,",
+      "zh": ""
+    },
+    {
+      "start": 1327.48,
+      "duration": 1.2,
+      "text": "\"Hey, you need to,\" quote,",
+      "en": "\"Hey, you need to,\" quote,",
+      "zh": ""
+    },
+    {
+      "start": 1328.68,
+      "duration": 4.65,
+      "text": "\"impose adult supervision on these agents who are,\" quote,",
+      "en": "\"impose adult supervision on these agents who are,\" quote,",
+      "zh": ""
+    },
+    {
+      "start": 1333.33,
+      "duration": 2.33,
+      "text": "\"hell bent on getting a wider range",
+      "en": "\"hell bent on getting a wider range",
+      "zh": ""
+    },
+    {
+      "start": 1335.66,
+      "duration": 1.98,
+      "text": "of Trump's records.\"",
+      "en": "of Trump's records.\"",
+      "zh": ""
+    },
+    {
+      "start": 1337.64,
+      "duration": 1.59,
+      "text": "Adult supervision.",
+      "en": "Adult supervision.",
+      "zh": ""
+    },
+    {
+      "start": 1339.23,
+      "duration": 0.84,
+      "text": "Yikes.",
+      "en": "Yikes.",
+      "zh": ""
+    },
+    {
+      "start": 1340.07,
+      "duration": 1.2,
+      "text": "That doesn't sound good.",
+      "en": "That doesn't sound good.",
+      "zh": ""
+    },
+    {
+      "start": 1344.31,
+      "duration": 3.4,
+      "text": "Barr starts voicing doubt about the actual agents",
+      "en": "Barr starts voicing doubt about the actual agents",
+      "zh": ""
+    },
+    {
+      "start": 1347.71,
+      "duration": 2.23,
+      "text": "who are working on this investigation",
+      "en": "who are working on this investigation",
+      "zh": ""
+    },
+    {
+      "start": 1349.94,
+      "duration": 1.17,
+      "text": "and starts to question",
+      "en": "and starts to question",
+      "zh": ""
+    },
+    {
+      "start": 1351.11,
+      "duration": 1.83,
+      "text": "whether or not there's even enough evidence",
+      "en": "whether or not there's even enough evidence",
+      "zh": ""
+    },
+    {
+      "start": 1352.94,
+      "duration": 1.71,
+      "text": "to continue the investigation.",
+      "en": "to continue the investigation.",
+      "zh": ""
+    },
+    {
+      "start": 1354.65,
+      "duration": 1.47,
+      "text": "Now, a note about the agents.",
+      "en": "Now, a note about the agents.",
+      "zh": ""
+    },
+    {
+      "start": 1356.12,
+      "duration": 1.83,
+      "text": "If Bill Barr is politically appointed",
+      "en": "If Bill Barr is politically appointed",
+      "zh": ""
+    },
+    {
+      "start": 1357.95,
+      "duration": 2.82,
+      "text": "and potentially marred by political bias,",
+      "en": "and potentially marred by political bias,",
+      "zh": ""
+    },
+    {
+      "start": 1360.77,
+      "duration": 2.75,
+      "text": "the investigators in this case often are not.",
+      "en": "the investigators in this case often are not.",
+      "zh": ""
+    },
+    {
+      "start": 1363.52,
+      "duration": 2.65,
+      "text": "They're career employees of the department.",
+      "en": "They're career employees of the department.",
+      "zh": ""
+    },
+    {
+      "start": 1366.17,
+      "duration": 2.37,
+      "text": "They are there because they are good at their job.",
+      "en": "They are there because they are good at their job.",
+      "zh": ""
+    },
+    {
+      "start": 1368.54,
+      "duration": 1.41,
+      "text": "They have shown that they're committed",
+      "en": "They have shown that they're committed",
+      "zh": ""
+    },
+    {
+      "start": 1369.95,
+      "duration": 2.55,
+      "text": "to the values of justice in America.",
+      "en": "to the values of justice in America.",
+      "zh": ""
+    },
+    {
+      "start": 1372.5,
+      "duration": 3.24,
+      "text": "They've not risen because they have garnered favor",
+      "en": "They've not risen because they have garnered favor",
+      "zh": ""
+    },
+    {
+      "start": 1375.74,
+      "duration": 1.89,
+      "text": "with some political person,",
+      "en": "with some political person,",
+      "zh": ""
+    },
+    {
+      "start": 1377.63,
+      "duration": 1.98,
+      "text": "at least not as much as political appointees.",
+      "en": "at least not as much as political appointees.",
+      "zh": ""
+    },
+    {
+      "start": 1379.61,
+      "duration": 1.26,
+      "text": "Politics is in everything.",
+      "en": "Politics is in everything.",
+      "zh": ""
+    },
+    {
+      "start": 1380.87,
+      "duration": 1.08,
+      "text": "It's impossible to escape it.",
+      "en": "It's impossible to escape it.",
+      "zh": ""
+    },
+    {
+      "start": 1381.95,
+      "duration": 2.64,
+      "text": "But these career investigators have different incentives.",
+      "en": "But these career investigators have different incentives.",
+      "zh": ""
+    },
+    {
+      "start": 1384.59,
+      "duration": 1.92,
+      "text": "And these career investigators felt strongly",
+      "en": "And these career investigators felt strongly",
+      "zh": ""
+    },
+    {
+      "start": 1386.51,
+      "duration": 2.57,
+      "text": "that this investigation needed to continue.",
+      "en": "that this investigation needed to continue.",
+      "zh": ""
+    },
+    {
+      "start": 1389.08,
+      "duration": 2.86,
+      "text": "That they had evidence that the next logical step",
+      "en": "That they had evidence that the next logical step",
+      "zh": ""
+    },
+    {
+      "start": 1391.94,
+      "duration": 2.16,
+      "text": "was to get a wider range of Trump's records",
+      "en": "was to get a wider range of Trump's records",
+      "zh": ""
+    },
+    {
+      "start": 1394.1,
+      "duration": 1.89,
+      "text": "so they could see if this $10 million shows up",
+      "en": "so they could see if this $10 million shows up",
+      "zh": ""
+    },
+    {
+      "start": 1395.99,
+      "duration": 3.03,
+      "text": "and they are met with more and more resistance",
+      "en": "and they are met with more and more resistance",
+      "zh": ""
+    },
+    {
+      "start": 1399.02,
+      "duration": 3.08,
+      "text": "by Barr and other Trump appointed leaders",
+      "en": "by Barr and other Trump appointed leaders",
+      "zh": ""
+    },
+    {
+      "start": 1402.1,
+      "duration": 1.84,
+      "text": "within the Department of Justice.",
+      "en": "within the Department of Justice.",
+      "zh": ""
+    },
+    {
+      "start": 1403.94,
+      "duration": 2.73,
+      "text": "This drama, this tension, which was all happening in secret,",
+      "en": "This drama, this tension, which was all happening in secret,",
+      "zh": ""
+    },
+    {
+      "start": 1406.67,
+      "duration": 1.65,
+      "text": "is now thoroughly documented",
+      "en": "is now thoroughly documented",
+      "zh": ""
+    },
+    {
+      "start": 1408.32,
+      "duration": 1.89,
+      "text": "in this Washington Post investigation.",
+      "en": "in this Washington Post investigation.",
+      "zh": ""
+    },
+    {
+      "start": 1410.21,
+      "duration": 1.23,
+      "text": "I recommend that you read it",
+      "en": "I recommend that you read it",
+      "zh": ""
+    },
+    {
+      "start": 1411.44,
+      "duration": 1.83,
+      "text": "because the The Post interviewed",
+      "en": "because the The Post interviewed",
+      "zh": ""
+    },
+    {
+      "start": 1413.27,
+      "duration": 2.85,
+      "text": "like dozens of these people who were in the room,",
+      "en": "like dozens of these people who were in the room,",
+      "zh": ""
+    },
+    {
+      "start": 1416.12,
+      "duration": 2.43,
+      "text": "and it paints a picture that is very clear.",
+      "en": "and it paints a picture that is very clear.",
+      "zh": ""
+    },
+    {
+      "start": 1418.55,
+      "duration": 2.31,
+      "text": "The political appointees didn't want this to happen.",
+      "en": "The political appointees didn't want this to happen.",
+      "zh": ""
+    },
+    {
+      "start": 1420.86,
+      "duration": 1.35,
+      "text": "It all comes to an end",
+      "en": "It all comes to an end",
+      "zh": ""
+    },
+    {
+      "start": 1422.21,
+      "duration": 3.34,
+      "text": "when Barr kind of suddenly replaces the prosecutor",
+      "en": "when Barr kind of suddenly replaces the prosecutor",
+      "zh": ""
+    },
+    {
+      "start": 1425.55,
+      "duration": 1.91,
+      "text": "who was working on this case",
+      "en": "who was working on this case",
+      "zh": ""
+    },
+    {
+      "start": 1427.46,
+      "duration": 3.03,
+      "text": "with someone who was more aligned with him.",
+      "en": "with someone who was more aligned with him.",
+      "zh": ""
+    },
+    {
+      "start": 1430.49,
+      "duration": 2.49,
+      "text": "And he almost immediately pumps the brakes",
+      "en": "And he almost immediately pumps the brakes",
+      "zh": ""
+    },
+    {
+      "start": 1432.98,
+      "duration": 0.93,
+      "text": "on this investigation.",
+      "en": "on this investigation.",
+      "zh": ""
+    },
+    {
+      "start": 1433.91,
+      "duration": 0.9,
+      "text": "He halts it.",
+      "en": "He halts it.",
+      "zh": ""
+    },
+    {
+      "start": 1434.81,
+      "duration": 2.61,
+      "text": "A few months later, BARR replaces that person",
+      "en": "A few months later, BARR replaces that person",
+      "zh": ""
+    },
+    {
+      "start": 1437.42,
+      "duration": 2.58,
+      "text": "with a new prosecutor who then sends out an email",
+      "en": "with a new prosecutor who then sends out an email",
+      "zh": ""
+    },
+    {
+      "start": 1440.0,
+      "duration": 2.82,
+      "text": "with the subject line \"Egypt Investigation.\"",
+      "en": "with the subject line \"Egypt Investigation.\"",
+      "zh": ""
+    },
+    {
+      "start": 1442.82,
+      "duration": 2.07,
+      "text": "The Post looked at this email, verified it,",
+      "en": "The Post looked at this email, verified it,",
+      "zh": ""
+    },
+    {
+      "start": 1444.89,
+      "duration": 1.36,
+      "text": "and it states that, quote,",
+      "en": "and it states that, quote,",
+      "zh": ""
+    },
+    {
+      "start": 1446.25,
+      "duration": 3.39,
+      "text": "\"Based on review of this investigation, we would be,\" quote,",
+      "en": "\"Based on review of this investigation, we would be,\" quote,",
+      "zh": ""
+    },
+    {
+      "start": 1449.64,
+      "duration": 3.47,
+      "text": "\"closing the above matter with no conviction or indictment.\"",
+      "en": "\"closing the above matter with no conviction or indictment.\"",
+      "zh": ""
+    },
+    {
+      "start": 1453.11,
+      "duration": 0.96,
+      "text": "So it was over.",
+      "en": "So it was over.",
+      "zh": ""
+    },
+    {
+      "start": 1454.07,
+      "duration": 0.83,
+      "text": "That was it.",
+      "en": "That was it.",
+      "zh": ""
+    },
+    {
+      "start": 1454.9,
+      "duration": 2.59,
+      "text": "Whether or not that $10 million from Cairo",
+      "en": "Whether or not that $10 million from Cairo",
+      "zh": ""
+    },
+    {
+      "start": 1457.49,
+      "duration": 1.8,
+      "text": "ended up in Trump's world",
+      "en": "ended up in Trump's world",
+      "zh": ""
+    },
+    {
+      "start": 1459.29,
+      "duration": 1.44,
+      "text": "and whether or not Trump knew",
+      "en": "and whether or not Trump knew",
+      "zh": ""
+    },
+    {
+      "start": 1460.73,
+      "duration": 2.04,
+      "text": "that that $10 million was coming,",
+      "en": "that that $10 million was coming,",
+      "zh": ""
+    },
+    {
+      "start": 1462.77,
+      "duration": 2.31,
+      "text": "and therefore he gave $10 million",
+      "en": "and therefore he gave $10 million",
+      "zh": ""
+    },
+    {
+      "start": 1465.08,
+      "duration": 2.88,
+      "text": "to his campaign knowing he would get paid back,",
+      "en": "to his campaign knowing he would get paid back,",
+      "zh": ""
+    },
+    {
+      "start": 1467.96,
+      "duration": 2.31,
+      "text": "whether Trump's actions as president,",
+      "en": "whether Trump's actions as president,",
+      "zh": ""
+    },
+    {
+      "start": 1470.27,
+      "duration": 2.49,
+      "text": "actions that greatly benefited Egypt",
+      "en": "actions that greatly benefited Egypt",
+      "zh": ""
+    },
+    {
+      "start": 1472.76,
+      "duration": 4.65,
+      "text": "were the result of this money influencing his decisions,",
+      "en": "were the result of this money influencing his decisions,",
+      "zh": ""
+    },
+    {
+      "start": 1477.41,
+      "duration": 3.18,
+      "text": "we will probably never know any of this.",
+      "en": "we will probably never know any of this.",
+      "zh": ""
+    },
+    {
+      "start": 1480.59,
+      "duration": 2.52,
+      "text": "And in the eyes of the career prosecutors working on this,",
+      "en": "And in the eyes of the career prosecutors working on this,",
+      "zh": ""
+    },
+    {
+      "start": 1483.11,
+      "duration": 2.61,
+      "text": "because the mechanism through which we know things,",
+      "en": "because the mechanism through which we know things,",
+      "zh": ""
+    },
+    {
+      "start": 1485.72,
+      "duration": 3.3,
+      "text": "investigation was shut down too early",
+      "en": "investigation was shut down too early",
+      "zh": ""
+    },
+    {
+      "start": 1489.02,
+      "duration": 3.06,
+      "text": "and through politically motivated bias.",
+      "en": "and through politically motivated bias.",
+      "zh": ""
+    },
+    {
+      "start": 1492.08,
+      "duration": 1.11,
+      "text": "Now, that's my read.",
+      "en": "Now, that's my read.",
+      "zh": ""
+    },
+    {
+      "start": 1493.19,
+      "duration": 0.84,
+      "text": "I'm gonna make it very clear.",
+      "en": "I'm gonna make it very clear.",
+      "zh": ""
+    },
+    {
+      "start": 1494.03,
+      "duration": 1.44,
+      "text": "That's my read on this.",
+      "en": "That's my read on this.",
+      "zh": ""
+    },
+    {
+      "start": 1495.47,
+      "duration": 2.1,
+      "text": "You should read the accounts of these prosecutors",
+      "en": "You should read the accounts of these prosecutors",
+      "zh": ""
+    },
+    {
+      "start": 1497.57,
+      "duration": 2.07,
+      "text": "who felt like it was shut down too early.",
+      "en": "who felt like it was shut down too early.",
+      "zh": ""
+    },
+    {
+      "start": 1499.64,
+      "duration": 3.87,
+      "text": "My read, my connection is that it was done by a Trump ally",
+      "en": "My read, my connection is that it was done by a Trump ally",
+      "zh": ""
+    },
+    {
+      "start": 1503.51,
+      "duration": 2.58,
+      "text": "for politically motivated reasons.",
+      "en": "for politically motivated reasons.",
+      "zh": ""
+    },
+    {
+      "start": 1506.09,
+      "duration": 2.7,
+      "text": "And so all we're left with is this,",
+      "en": "And so all we're left with is this,",
+      "zh": ""
+    },
+    {
+      "start": 1508.79,
+      "duration": 3.69,
+      "text": "a list of some rock solid facts that look pretty fishy,",
+      "en": "a list of some rock solid facts that look pretty fishy,",
+      "zh": ""
+    },
+    {
+      "start": 1512.48,
+      "duration": 4.26,
+      "text": "but nonetheless are not rock solid evidence of wrongdoing.",
+      "en": "but nonetheless are not rock solid evidence of wrongdoing.",
+      "zh": ""
+    },
+    {
+      "start": 1516.74,
+      "duration": 3.96,
+      "text": "In 2021, a new administration came into the White House.",
+      "en": "In 2021, a new administration came into the White House.",
+      "zh": ""
+    },
+    {
+      "start": 1520.7,
+      "duration": 2.35,
+      "text": "They could have reopened this investigation",
+      "en": "They could have reopened this investigation",
+      "zh": ""
+    },
+    {
+      "start": 1523.05,
+      "duration": 1.94,
+      "text": "and seen it through properly.",
+      "en": "and seen it through properly.",
+      "zh": ""
+    },
+    {
+      "start": 1524.99,
+      "duration": 2.6,
+      "text": "And yet, the new Attorney General wasn't briefed on this",
+      "en": "And yet, the new Attorney General wasn't briefed on this",
+      "zh": ""
+    },
+    {
+      "start": 1527.59,
+      "duration": 2.14,
+      "text": "until a year later.",
+      "en": "until a year later.",
+      "zh": ""
+    },
+    {
+      "start": 1529.73,
+      "duration": 2.46,
+      "text": "But by then, it had been more than five years",
+      "en": "But by then, it had been more than five years",
+      "zh": ""
+    },
+    {
+      "start": 1532.19,
+      "duration": 1.46,
+      "text": "since those two bags of cash",
+      "en": "since those two bags of cash",
+      "zh": ""
+    },
+    {
+      "start": 1533.65,
+      "duration": 2.62,
+      "text": "were filled with $10 million in Cairo,",
+      "en": "were filled with $10 million in Cairo,",
+      "zh": ""
+    },
+    {
+      "start": 1536.27,
+      "duration": 2.31,
+      "text": "meaning, this thing called the statute of limitations",
+      "en": "meaning, this thing called the statute of limitations",
+      "zh": ""
+    },
+    {
+      "start": 1538.58,
+      "duration": 1.38,
+      "text": "had expired.",
+      "en": "had expired.",
+      "zh": ""
+    },
+    {
+      "start": 1539.96,
+      "duration": 0.93,
+      "text": "It was too late.",
+      "en": "It was too late.",
+      "zh": ""
+    },
+    {
+      "start": 1540.89,
+      "duration": 1.95,
+      "text": "They couldn't actually prosecute this.",
+      "en": "They couldn't actually prosecute this.",
+      "zh": ""
+    },
+    {
+      "start": 1542.84,
+      "duration": 2.19,
+      "text": "The Post reached out to the Trump campaign.",
+      "en": "The Post reached out to the Trump campaign.",
+      "zh": ""
+    },
+    {
+      "start": 1545.03,
+      "duration": 3.13,
+      "text": "And in reply, they said, quote,",
+      "en": "And in reply, they said, quote,",
+      "zh": ""
+    },
+    {
+      "start": 1548.16,
+      "duration": 2.93,
+      "text": "\"The Washington Post is consistently played for suckers",
+      "en": "\"The Washington Post is consistently played for suckers",
+      "zh": ""
+    },
+    {
+      "start": 1551.09,
+      "duration": 2.85,
+      "text": "by deep state Trump-haters and bad faith actors",
+      "en": "by deep state Trump-haters and bad faith actors",
+      "zh": ""
+    },
+    {
+      "start": 1553.94,
+      "duration": 2.37,
+      "text": "peddling hoaxes and shams.\"",
+      "en": "peddling hoaxes and shams.\"",
+      "zh": ""
+    },
+    {
+      "start": 1558.92,
+      "duration": 0.93,
+      "text": "Okay.",
+      "en": "Okay.",
+      "zh": ""
+    },
+    {
+      "start": 1559.85,
+      "duration": 4.11,
+      "text": "And then just recently, in September, 2023,",
+      "en": "And then just recently, in September, 2023,",
+      "zh": ""
+    },
+    {
+      "start": 1563.96,
+      "duration": 2.49,
+      "text": "New Jersey Democratic Senator, Bob Menendez,",
+      "en": "New Jersey Democratic Senator, Bob Menendez,",
+      "zh": ""
+    },
+    {
+      "start": 1566.45,
+      "duration": 1.5,
+      "text": "was charged in a case",
+      "en": "was charged in a case",
+      "zh": ""
+    },
+    {
+      "start": 1567.95,
+      "duration": 3.18,
+      "text": "that alleges that he used his political influence",
+      "en": "that alleges that he used his political influence",
+      "zh": ""
+    },
+    {
+      "start": 1571.13,
+      "duration": 3.42,
+      "text": "to benefit Egypt in exchange for cash,",
+      "en": "to benefit Egypt in exchange for cash,",
+      "zh": ""
+    },
+    {
+      "start": 1574.55,
+      "duration": 2.82,
+      "text": "gold bars, and other luxury items.",
+      "en": "gold bars, and other luxury items.",
+      "zh": ""
+    },
+    {
+      "start": 1577.37,
+      "duration": 2.19,
+      "text": "- [Reporter] He accepted these gifts from businessmen",
+      "en": "- [Reporter] He accepted these gifts from businessmen",
+      "zh": ""
+    },
+    {
+      "start": 1579.56,
+      "duration": 2.64,
+      "text": "acting on behalf of the Egyptian government.",
+      "en": "acting on behalf of the Egyptian government.",
+      "zh": ""
+    },
+    {
+      "start": 1582.2,
+      "duration": 1.5,
+      "text": "- He was bribed by Egypt.",
+      "en": "- He was bribed by Egypt.",
+      "zh": ""
+    },
+    {
+      "start": 1583.7,
+      "duration": 1.95,
+      "text": "Like, we know Egypt does this.",
+      "en": "Like, we know Egypt does this.",
+      "zh": ""
+    },
+    {
+      "start": 1585.65,
+      "duration": 2.61,
+      "text": "I mean, we could add this to the circumstantial list.",
+      "en": "I mean, we could add this to the circumstantial list.",
+      "zh": ""
+    },
+    {
+      "start": 1588.26,
+      "duration": 2.01,
+      "text": "Egypt likes to bribe people.",
+      "en": "Egypt likes to bribe people.",
+      "zh": ""
+    },
+    {
+      "start": 1590.27,
+      "duration": 2.94,
+      "text": "Okay, to end this, I just wanna make it crystal clear,",
+      "en": "Okay, to end this, I just wanna make it crystal clear,",
+      "zh": ""
+    },
+    {
+      "start": 1593.21,
+      "duration": 2.85,
+      "text": "like, crystal, crystal clear that I am not saying",
+      "en": "like, crystal, crystal clear that I am not saying",
+      "zh": ""
+    },
+    {
+      "start": 1596.06,
+      "duration": 2.75,
+      "text": "that Donald Trump or anyone in his campaign",
+      "en": "that Donald Trump or anyone in his campaign",
+      "zh": ""
+    },
+    {
+      "start": 1598.81,
+      "duration": 1.86,
+      "text": "should be convicted or found guilty",
+      "en": "should be convicted or found guilty",
+      "zh": ""
+    },
+    {
+      "start": 1600.67,
+      "duration": 2.71,
+      "text": "for a crime in this case.",
+      "en": "for a crime in this case.",
+      "zh": ""
+    },
+    {
+      "start": 1603.38,
+      "duration": 2.31,
+      "text": "It is so tempting to connect all the dots here",
+      "en": "It is so tempting to connect all the dots here",
+      "zh": ""
+    },
+    {
+      "start": 1605.69,
+      "duration": 0.83,
+      "text": "and just say like,",
+      "en": "and just say like,",
+      "zh": ""
+    },
+    {
+      "start": 1606.52,
+      "duration": 1.66,
+      "text": "\"Well, yeah, clearly, he did something wrong.",
+      "en": "\"Well, yeah, clearly, he did something wrong.",
+      "zh": ""
+    },
+    {
+      "start": 1608.18,
+      "duration": 1.23,
+      "text": "It all adds up.\"",
+      "en": "It all adds up.\"",
+      "zh": ""
+    },
+    {
+      "start": 1609.41,
+      "duration": 1.53,
+      "text": "But we just can't.",
+      "en": "But we just can't.",
+      "zh": ""
+    },
+    {
+      "start": 1610.94,
+      "duration": 1.95,
+      "text": "That is not how justice works.",
+      "en": "That is not how justice works.",
+      "zh": ""
+    },
+    {
+      "start": 1612.89,
+      "duration": 2.67,
+      "text": "Trump must be presumed innocent",
+      "en": "Trump must be presumed innocent",
+      "zh": ""
+    },
+    {
+      "start": 1615.56,
+      "duration": 3.09,
+      "text": "until there's sufficient evidence to prove otherwise.",
+      "en": "until there's sufficient evidence to prove otherwise.",
+      "zh": ""
+    },
+    {
+      "start": 1618.65,
+      "duration": 3.06,
+      "text": "But to me, there's still something condemnable here,",
+      "en": "But to me, there's still something condemnable here,",
+      "zh": ""
+    },
+    {
+      "start": 1621.71,
+      "duration": 2.31,
+      "text": "which is that a group of political appointees",
+      "en": "which is that a group of political appointees",
+      "zh": ""
+    },
+    {
+      "start": 1624.02,
+      "duration": 2.53,
+      "text": "were able to shut down an investigation",
+      "en": "were able to shut down an investigation",
+      "zh": ""
+    },
+    {
+      "start": 1626.55,
+      "duration": 4.04,
+      "text": "that career prosecutors said should not be shut down",
+      "en": "that career prosecutors said should not be shut down",
+      "zh": ""
+    },
+    {
+      "start": 1630.59,
+      "duration": 2.85,
+      "text": "because there were further investigatory steps to take,",
+      "en": "because there were further investigatory steps to take,",
+      "zh": ""
+    },
+    {
+      "start": 1633.44,
+      "duration": 2.04,
+      "text": "rational reasonable steps",
+      "en": "rational reasonable steps",
+      "zh": ""
+    },
+    {
+      "start": 1635.48,
+      "duration": 1.89,
+      "text": "that they would've taken on any other case.",
+      "en": "that they would've taken on any other case.",
+      "zh": ""
+    },
+    {
+      "start": 1637.37,
+      "duration": 2.04,
+      "text": "But in this case, they couldn't.",
+      "en": "But in this case, they couldn't.",
+      "zh": ""
+    },
+    {
+      "start": 1639.41,
+      "duration": 1.53,
+      "text": "That's the travesty here.",
+      "en": "That's the travesty here.",
+      "zh": ""
+    },
+    {
+      "start": 1640.94,
+      "duration": 3.06,
+      "text": "To me, that's not justice, that's politics.",
+      "en": "To me, that's not justice, that's politics.",
+      "zh": ""
+    },
+    {
+      "start": 1644.0,
+      "duration": 2.91,
+      "text": "So with that, I wanna leave you with a strong recommendation",
+      "en": "So with that, I wanna leave you with a strong recommendation",
+      "zh": ""
+    },
+    {
+      "start": 1646.91,
+      "duration": 3.42,
+      "text": "to read the full investigation from the Washington Post.",
+      "en": "to read the full investigation from the Washington Post.",
+      "zh": ""
+    },
+    {
+      "start": 1650.33,
+      "duration": 1.62,
+      "text": "There's more detail in there",
+      "en": "There's more detail in there",
+      "zh": ""
+    },
+    {
+      "start": 1651.95,
+      "duration": 3.51,
+      "text": "that sheds light on how this went down.",
+      "en": "that sheds light on how this went down.",
+      "zh": ""
+    },
+    {
+      "start": 1655.46,
+      "duration": 2.58,
+      "text": "And I'm grateful for the reporters",
+      "en": "And I'm grateful for the reporters",
+      "zh": ""
+    },
+    {
+      "start": 1658.04,
+      "duration": 3.21,
+      "text": "who spent the months and months uncovering this",
+      "en": "who spent the months and months uncovering this",
+      "zh": ""
+    },
+    {
+      "start": 1661.25,
+      "duration": 1.86,
+      "text": "because it brings it to light.",
+      "en": "because it brings it to light.",
+      "zh": ""
+    },
+    {
+      "start": 1663.11,
+      "duration": 3.93,
+      "text": "Maybe if we see this and understand it and talk about it,",
+      "en": "Maybe if we see this and understand it and talk about it,",
+      "zh": ""
+    },
+    {
+      "start": 1667.88,
+      "duration": 1.85,
+      "text": "it'll be less likely to happen again.",
+      "en": "it'll be less likely to happen again.",
+      "zh": ""
+    },
+    {
+      "start": 1670.97,
+      "duration": 1.56,
+      "text": "Thanks for watching, folks.",
+      "en": "Thanks for watching, folks.",
+      "zh": ""
+    },
+    {
+      "start": 1672.53,
+      "duration": 1.05,
+      "text": "See you the next one.",
+      "en": "See you the next one.",
+      "zh": ""
+    },
+    {
+      "start": 1674.96,
+      "duration": 2.25,
+      "text": "- [Donald] He's a fantastic guy.",
+      "en": "- [Donald] He's a fantastic guy.",
+      "zh": ""
+    },
+    {
+      "start": 1677.21,
+      "duration": 2.55,
+      "text": "Took control of Egypt and got along.",
+      "en": "Took control of Egypt and got along.",
+      "zh": ""
+    },
+    {
+      "start": 1679.76,
+      "duration": 1.14,
+      "text": "There was a good chemistry there.",
+      "en": "There was a good chemistry there.",
+      "zh": ""
+    },
+    {
+      "start": 1680.9,
+      "duration": 2.01,
+      "text": "You know when you have good chemistry with people.",
+      "en": "You know when you have good chemistry with people.",
+      "zh": ""
+    },
+    {
+      "start": 1682.91,
+      "duration": 0.99,
+      "text": "You're (indistinct) of that.",
+      "en": "You're (indistinct) of that.",
+      "zh": ""
+    },
+    {
+      "start": 1683.9,
+      "duration": 1.77,
+      "text": "And there was a very good chemistry,",
+      "en": "And there was a very good chemistry,",
+      "zh": ""
+    },
+    {
+      "start": 1685.67,
+      "duration": 1.35,
+      "text": "good feeling between us.",
+      "en": "good feeling between us.",
+      "zh": ""
+    },
+    {
+      "start": 1687.02,
+      "duration": 2.31,
+      "text": "And I really enjoyed that meeting.",
+      "en": "And I really enjoyed that meeting.",
+      "zh": ""
+    },
+    {
+      "start": 1689.33,
+      "duration": 0.83,
+      "text": "It was the other day.",
+      "en": "It was the other day.",
+      "zh": ""
+    },
+    {
+      "start": 1690.16,
+      "duration": 1.72,
+      "text": "And he's done a very good job",
+      "en": "And he's done a very good job",
+      "zh": ""
+    },
+    {
+      "start": 1691.88,
+      "duration": 2.92,
+      "text": "and we had a very respectful meeting.",
+      "en": "and we had a very respectful meeting.",
+      "zh": ""
+    },
+    {
+      "start": 1694.8,
+      "duration": 2.75,
+      "text": "(pensive music)",
+      "en": "(pensive music)",
+      "zh": ""
+    }
+  ],
+  "words": []
+}

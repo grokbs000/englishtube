@@ -1,0 +1,3141 @@
+{
+  "cues": [
+    {
+      "start": 0.0,
+      "duration": 3.17,
+      "text": "Hiding inside this box is an absolute marvel of engineering.",
+      "en": "Hiding inside this box is an absolute marvel of engineering.",
+      "zh": ""
+    },
+    {
+      "start": 3.17,
+      "duration": 3.38,
+      "text": "You might just find protecting you the next time you're at a public event.",
+      "en": "You might just find protecting you the next time you're at a public event.",
+      "zh": ""
+    },
+    {
+      "start": 6.71,
+      "duration": 1.51,
+      "text": "That's got a lot of people.",
+      "en": "That's got a lot of people.",
+      "zh": ""
+    },
+    {
+      "start": 12.1,
+      "duration": 0.7,
+      "text": "And while this just",
+      "en": "And while this just",
+      "zh": ""
+    },
+    {
+      "start": 12.8,
+      "duration": 4.01,
+      "text": "might look like a boring old drone, it's actually one of the fastest in the world.",
+      "en": "might look like a boring old drone, it's actually one of the fastest in the world.",
+      "zh": ""
+    },
+    {
+      "start": 16.85,
+      "duration": 3.75,
+      "text": "It's autonomous, and it weighs five times more than is typical",
+      "en": "It's autonomous, and it weighs five times more than is typical",
+      "zh": ""
+    },
+    {
+      "start": 20.6,
+      "duration": 3.92,
+      "text": "because the purpose of this drone is to lock onto a bad guy drone",
+      "en": "because the purpose of this drone is to lock onto a bad guy drone",
+      "zh": ""
+    },
+    {
+      "start": 24.52,
+      "duration": 4.22,
+      "text": "trying to do bad guy things and then smash it into a thousand pieces.",
+      "en": "trying to do bad guy things and then smash it into a thousand pieces.",
+      "zh": ""
+    },
+    {
+      "start": 29.07,
+      "duration": 3.46,
+      "text": "Now the drones have become so incredibly cheap, fast, and maneuverable.",
+      "en": "Now the drones have become so incredibly cheap, fast, and maneuverable.",
+      "zh": ""
+    },
+    {
+      "start": 32.53,
+      "duration": 3.34,
+      "text": "It's only a matter of time before they're used to carry explosives,",
+      "en": "It's only a matter of time before they're used to carry explosives,",
+      "zh": ""
+    },
+    {
+      "start": 35.87,
+      "duration": 3.25,
+      "text": "to attack key infrastructure, or even worse.",
+      "en": "to attack key infrastructure, or even worse.",
+      "zh": ""
+    },
+    {
+      "start": 39.16,
+      "duration": 2.51,
+      "text": "But before we get too worried, there's some good news here.",
+      "en": "But before we get too worried, there's some good news here.",
+      "zh": ""
+    },
+    {
+      "start": 41.67,
+      "duration": 3.17,
+      "text": "And so today we're going to take a look at all the latest technologies being",
+      "en": "And so today we're going to take a look at all the latest technologies being",
+      "zh": ""
+    },
+    {
+      "start": 44.84,
+      "duration": 3.12,
+      "text": "developed to combat this very possible scenario.",
+      "en": "developed to combat this very possible scenario.",
+      "zh": ""
+    },
+    {
+      "start": 47.96,
+      "duration": 1.8,
+      "text": "And then after we see how the pros are doing it",
+      "en": "And then after we see how the pros are doing it",
+      "zh": ""
+    },
+    {
+      "start": 51.09,
+      "duration": 4.51,
+      "text": "we’ll investigate how a few backyard YouTube engineers would handle the same problem.",
+      "en": "we’ll investigate how a few backyard YouTube engineers would handle the same problem.",
+      "zh": ""
+    },
+    {
+      "start": 55.6,
+      "duration": 2.96,
+      "text": "And I don't want to give too much away, but it might involve giant dart",
+      "en": "And I don't want to give too much away, but it might involve giant dart",
+      "zh": ""
+    },
+    {
+      "start": 58.56,
+      "duration": 4.09,
+      "text": "turrets, Tesla coil water guns, and the world's largest vortex cannon.",
+      "en": "turrets, Tesla coil water guns, and the world's largest vortex cannon.",
+      "zh": ""
+    },
+    {
+      "start": 62.81,
+      "duration": 1.71,
+      "text": "Now to kick things off with the pros.",
+      "en": "Now to kick things off with the pros.",
+      "zh": ""
+    },
+    {
+      "start": 64.52,
+      "duration": 3.42,
+      "text": "I headed down to a company called Anduril, who were one of the leaders",
+      "en": "I headed down to a company called Anduril, who were one of the leaders",
+      "zh": ""
+    },
+    {
+      "start": 67.94,
+      "duration": 2.75,
+      "text": "when it comes to drone defense, where I met up with their founder,",
+      "en": "when it comes to drone defense, where I met up with their founder,",
+      "zh": ""
+    },
+    {
+      "start": 70.69,
+      "duration": 0.84,
+      "text": "Palmer Luckey,",
+      "en": "Palmer Luckey,",
+      "zh": ""
+    },
+    {
+      "start": 71.53,
+      "duration": 0.67,
+      "text": "who, by the way,",
+      "en": "who, by the way,",
+      "zh": ""
+    },
+    {
+      "start": 72.2,
+      "duration": 2.25,
+      "text": "you might recognize is the dude who dropped out of school",
+      "en": "you might recognize is the dude who dropped out of school",
+      "zh": ""
+    },
+    {
+      "start": 74.45,
+      "duration": 2.79,
+      "text": "at 19 years old to invent the Oculus VR headset.",
+      "en": "at 19 years old to invent the Oculus VR headset.",
+      "zh": ""
+    },
+    {
+      "start": 77.24,
+      "duration": 2.13,
+      "text": "And right out of the gate, he set the stage.",
+      "en": "And right out of the gate, he set the stage.",
+      "zh": ""
+    },
+    {
+      "start": 79.37,
+      "duration": 1.92,
+      "text": "The United States has the ability to defend against,",
+      "en": "The United States has the ability to defend against,",
+      "zh": ""
+    },
+    {
+      "start": 81.29,
+      "duration": 3.21,
+      "text": "fighter jet attacks or bomber invasions and zero ability to control",
+      "en": "fighter jet attacks or bomber invasions and zero ability to control",
+      "zh": ""
+    },
+    {
+      "start": 84.5,
+      "duration": 2.04,
+      "text": "what happens in the first few hundred feet of our airspace.",
+      "en": "what happens in the first few hundred feet of our airspace.",
+      "zh": ""
+    },
+    {
+      "start": 86.54,
+      "duration": 2.42,
+      "text": "That's the thing we have to solve. We have to tame the Wild West.",
+      "en": "That's the thing we have to solve. We have to tame the Wild West.",
+      "zh": ""
+    },
+    {
+      "start": 88.96,
+      "duration": 4.09,
+      "text": "Palmer explained to me there are six primary ways to take out a drone with bad intentions,",
+      "en": "Palmer explained to me there are six primary ways to take out a drone with bad intentions,",
+      "zh": ""
+    },
+    {
+      "start": 93.05,
+      "duration": 3.76,
+      "text": "and every method has a major flaw except for number six.",
+      "en": "and every method has a major flaw except for number six.",
+      "zh": ""
+    },
+    {
+      "start": 96.81,
+      "duration": 1.58,
+      "text": "The first is jamming, where you",
+      "en": "The first is jamming, where you",
+      "zh": ""
+    },
+    {
+      "start": 98.39,
+      "duration": 2.58,
+      "text": "just overwhelm the drone with fake radio signals",
+      "en": "just overwhelm the drone with fake radio signals",
+      "zh": ""
+    },
+    {
+      "start": 100.97,
+      "duration": 1.84,
+      "text": "so it can no longer hear the instructions",
+      "en": "so it can no longer hear the instructions",
+      "zh": ""
+    },
+    {
+      "start": 102.81,
+      "duration": 2.21,
+      "text": "from the human operator, and they lose control.",
+      "en": "from the human operator, and they lose control.",
+      "zh": ""
+    },
+    {
+      "start": 105.02,
+      "duration": 4.92,
+      "text": "70% of all consumer drones are from DJI, and they actually provide the equipment",
+      "en": "70% of all consumer drones are from DJI, and they actually provide the equipment",
+      "zh": ""
+    },
+    {
+      "start": 109.94,
+      "duration": 2.96,
+      "text": "to law enforcement that will jam the communications like this.",
+      "en": "to law enforcement that will jam the communications like this.",
+      "zh": ""
+    },
+    {
+      "start": 112.9,
+      "duration": 3.09,
+      "text": "The second method to take out a drone with bad intentions is hack it,",
+      "en": "The second method to take out a drone with bad intentions is hack it,",
+      "zh": ""
+    },
+    {
+      "start": 116.03,
+      "duration": 2.88,
+      "text": "where you remotely hack into the drone using the radio signal,",
+      "en": "where you remotely hack into the drone using the radio signal,",
+      "zh": ""
+    },
+    {
+      "start": 118.91,
+      "duration": 3.79,
+      "text": "and then by exploiting known problems in the software, you could take control",
+      "en": "and then by exploiting known problems in the software, you could take control",
+      "zh": ""
+    },
+    {
+      "start": 122.7,
+      "duration": 1.59,
+      "text": "and force it to land or crash.",
+      "en": "and force it to land or crash.",
+      "zh": ""
+    },
+    {
+      "start": 124.29,
+      "duration": 1.0,
+      "text": "But Palmer pointed out",
+      "en": "But Palmer pointed out",
+      "zh": ""
+    },
+    {
+      "start": 125.29,
+      "duration": 3.5,
+      "text": "the potential Achilles heel for both of these first two methods.",
+      "en": "the potential Achilles heel for both of these first two methods.",
+      "zh": ""
+    },
+    {
+      "start": 128.84,
+      "duration": 2.58,
+      "text": "All they have to do to bypass that is use a different brand of drone,",
+      "en": "All they have to do to bypass that is use a different brand of drone,",
+      "zh": ""
+    },
+    {
+      "start": 131.42,
+      "duration": 2.26,
+      "text": "use different brand of radio, use a different frequency,",
+      "en": "use different brand of radio, use a different frequency,",
+      "zh": ""
+    },
+    {
+      "start": 133.68,
+      "duration": 3.33,
+      "text": "or build a drone that doesn't even need those frequencies in the first place.",
+      "en": "or build a drone that doesn't even need those frequencies in the first place.",
+      "zh": ""
+    },
+    {
+      "start": 137.01,
+      "duration": 2.59,
+      "text": "Basically, by using something besides the most popular",
+      "en": "Basically, by using something besides the most popular",
+      "zh": ""
+    },
+    {
+      "start": 139.6,
+      "duration": 3.17,
+      "text": "consumer, drones and frequencies means this would have no effect.",
+      "en": "consumer, drones and frequencies means this would have no effect.",
+      "zh": ""
+    },
+    {
+      "start": 142.77,
+      "duration": 0.96,
+      "text": "Method number three",
+      "en": "Method number three",
+      "zh": ""
+    },
+    {
+      "start": 143.73,
+      "duration": 2.79,
+      "text": "is high powered lasers, where you basically just heat up",
+      "en": "is high powered lasers, where you basically just heat up",
+      "zh": ""
+    },
+    {
+      "start": 146.52,
+      "duration": 3.71,
+      "text": "the outside surface of the drone so high that it catches fire.",
+      "en": "the outside surface of the drone so high that it catches fire.",
+      "zh": ""
+    },
+    {
+      "start": 150.23,
+      "duration": 3.09,
+      "text": "And this works pretty well against plastic drone casings.",
+      "en": "And this works pretty well against plastic drone casings.",
+      "zh": ""
+    },
+    {
+      "start": 153.32,
+      "duration": 1.84,
+      "text": "But once again, there's a weakness.",
+      "en": "But once again, there's a weakness.",
+      "zh": ""
+    },
+    {
+      "start": 155.16,
+      "duration": 2.08,
+      "text": "what if I just hang a five cent pie tin?",
+      "en": "what if I just hang a five cent pie tin?",
+      "zh": ""
+    },
+    {
+      "start": 157.24,
+      "duration": 0.42,
+      "text": "Yeah",
+      "en": "Yeah",
+      "zh": ""
+    },
+    {
+      "start": 157.66,
+      "duration": 3.37,
+      "text": "It takes orders of magnitude more energy to burn through a",
+      "en": "It takes orders of magnitude more energy to burn through a",
+      "zh": ""
+    },
+    {
+      "start": 161.03,
+      "duration": 1.67,
+      "text": "metal reflective pie tin,",
+      "en": "metal reflective pie tin,",
+      "zh": ""
+    },
+    {
+      "start": 162.7,
+      "duration": 0.88,
+      "text": "it just doesnt work.",
+      "en": "it just doesnt work.",
+      "zh": ""
+    },
+    {
+      "start": 163.58,
+      "duration": 3.84,
+      "text": "The next method is a focused beam of microwave energy, like an EMP.",
+      "en": "The next method is a focused beam of microwave energy, like an EMP.",
+      "zh": ""
+    },
+    {
+      "start": 167.42,
+      "duration": 3.46,
+      "text": "The goal here is to induce a current in the drone electronics so high",
+      "en": "The goal here is to induce a current in the drone electronics so high",
+      "zh": ""
+    },
+    {
+      "start": 170.88,
+      "duration": 3.04,
+      "text": "that it fries the brain of the drone, but as Palmer explained,",
+      "en": "that it fries the brain of the drone, but as Palmer explained,",
+      "zh": ""
+    },
+    {
+      "start": 173.92,
+      "duration": 4.01,
+      "text": "all a bad guy has to do to mitigate this is to buy some cheap copper tape",
+      "en": "all a bad guy has to do to mitigate this is to buy some cheap copper tape",
+      "zh": ""
+    },
+    {
+      "start": 177.93,
+      "duration": 3.21,
+      "text": "from Home Depot, and once you cover the body of the drone,",
+      "en": "from Home Depot, and once you cover the body of the drone,",
+      "zh": ""
+    },
+    {
+      "start": 181.14,
+      "duration": 2.63,
+      "text": "it becomes practically invisible to this attack.",
+      "en": "it becomes practically invisible to this attack.",
+      "zh": ""
+    },
+    {
+      "start": 183.77,
+      "duration": 3.38,
+      "text": "You can reduce the amount of power that gets to the internal electronics",
+      "en": "You can reduce the amount of power that gets to the internal electronics",
+      "zh": ""
+    },
+    {
+      "start": 187.15,
+      "duration": 4.08,
+      "text": "from an EMP by orders of magnitude, and that means a microwave beam gun",
+      "en": "from an EMP by orders of magnitude, and that means a microwave beam gun",
+      "zh": ""
+    },
+    {
+      "start": 191.23,
+      "duration": 3.96,
+      "text": "that was previously able to fry a drone at 2000m away now",
+      "en": "that was previously able to fry a drone at 2000m away now",
+      "zh": ""
+    },
+    {
+      "start": 195.19,
+      "duration": 3.93,
+      "text": "only works if that copper taped drone is two meters away.",
+      "en": "only works if that copper taped drone is two meters away.",
+      "zh": ""
+    },
+    {
+      "start": 199.12,
+      "duration": 2.66,
+      "text": "So now the beam gun is basically useless.",
+      "en": "So now the beam gun is basically useless.",
+      "zh": ""
+    },
+    {
+      "start": 201.78,
+      "duration": 3.51,
+      "text": "Coming in at number five are nets fired in the air from other drones.",
+      "en": "Coming in at number five are nets fired in the air from other drones.",
+      "zh": ""
+    },
+    {
+      "start": 205.29,
+      "duration": 0.75,
+      "text": "And this makes sense",
+      "en": "And this makes sense",
+      "zh": ""
+    },
+    {
+      "start": 206.04,
+      "duration": 3.5,
+      "text": "if you're trying to capture the bad drone for forensic investigation.",
+      "en": "if you're trying to capture the bad drone for forensic investigation.",
+      "zh": ""
+    },
+    {
+      "start": 209.54,
+      "duration": 4.71,
+      "text": "But net carrying drones by default are going to be slower and less maneuverable.",
+      "en": "But net carrying drones by default are going to be slower and less maneuverable.",
+      "zh": ""
+    },
+    {
+      "start": 214.25,
+      "duration": 1.84,
+      "text": "So they're beatable with speed and agility.",
+      "en": "So they're beatable with speed and agility.",
+      "zh": ""
+    },
+    {
+      "start": 216.09,
+      "duration": 2.21,
+      "text": "Now, all of this would be real bad news were it",
+      "en": "Now, all of this would be real bad news were it",
+      "zh": ""
+    },
+    {
+      "start": 218.3,
+      "duration": 1.96,
+      "text": "not for the sixth method that even works.",
+      "en": "not for the sixth method that even works.",
+      "zh": ""
+    },
+    {
+      "start": 220.26,
+      "duration": 1.84,
+      "text": "If you designed a super drone",
+      "en": "If you designed a super drone",
+      "zh": ""
+    },
+    {
+      "start": 222.1,
+      "duration": 3.46,
+      "text": "that combined all the tricks to defeat methods one through five,",
+      "en": "that combined all the tricks to defeat methods one through five,",
+      "zh": ""
+    },
+    {
+      "start": 225.56,
+      "duration": 3.5,
+      "text": "and it's possibly the oldest method of destruction known to man.",
+      "en": "and it's possibly the oldest method of destruction known to man.",
+      "zh": ""
+    },
+    {
+      "start": 231.19,
+      "duration": 1.67,
+      "text": "Smashing stuff.",
+      "en": "Smashing stuff.",
+      "zh": ""
+    },
+    {
+      "start": 235.19,
+      "duration": 4.63,
+      "text": "And because this method is so foolproof, Anduril makes a blazing fast drone",
+      "en": "And because this method is so foolproof, Anduril makes a blazing fast drone",
+      "zh": ""
+    },
+    {
+      "start": 239.82,
+      "duration": 4.55,
+      "text": "appropriately called Anvil, whose only job is to use kinetic energy",
+      "en": "appropriately called Anvil, whose only job is to use kinetic energy",
+      "zh": ""
+    },
+    {
+      "start": 244.37,
+      "duration": 3.67,
+      "text": "to bust up a dangerous drone into thousands of pieces.",
+      "en": "to bust up a dangerous drone into thousands of pieces.",
+      "zh": ""
+    },
+    {
+      "start": 248.04,
+      "duration": 3.08,
+      "text": "Imagine a children's bowling ball thrown twice",
+      "en": "Imagine a children's bowling ball thrown twice",
+      "zh": ""
+    },
+    {
+      "start": 251.12,
+      "duration": 2.84,
+      "text": "as fast as a major league Baseball fastball.",
+      "en": "as fast as a major league Baseball fastball.",
+      "zh": ""
+    },
+    {
+      "start": 255.09,
+      "duration": 2.04,
+      "text": "That's what it's like getting hit by Anvil.",
+      "en": "That's what it's like getting hit by Anvil.",
+      "zh": ""
+    },
+    {
+      "start": 257.13,
+      "duration": 3.34,
+      "text": "And so naturally, after hearing all of this, I wanted to see it in action.",
+      "en": "And so naturally, after hearing all of this, I wanted to see it in action.",
+      "zh": ""
+    },
+    {
+      "start": 260.47,
+      "duration": 3.34,
+      "text": "So they took me out to their test grounds, where they set up a scenario",
+      "en": "So they took me out to their test grounds, where they set up a scenario",
+      "zh": ""
+    },
+    {
+      "start": 263.81,
+      "duration": 3.08,
+      "text": "where a bad guy drone was zooming towards our position.",
+      "en": "where a bad guy drone was zooming towards our position.",
+      "zh": ""
+    },
+    {
+      "start": 266.89,
+      "duration": 1.29,
+      "text": "Thank goodness we’ve got Anvil",
+      "en": "Thank goodness we’ve got Anvil",
+      "zh": ""
+    },
+    {
+      "start": 268.18,
+      "duration": 3.47,
+      "text": "Now, they immediately identified the drone even before it had taken off.",
+      "en": "Now, they immediately identified the drone even before it had taken off.",
+      "zh": ""
+    },
+    {
+      "start": 271.65,
+      "duration": 2.21,
+      "text": "And that's due to the towers you see here.",
+      "en": "And that's due to the towers you see here.",
+      "zh": ""
+    },
+    {
+      "start": 273.86,
+      "duration": 4.79,
+      "text": "Each tower has sensors on it, such as radar, optical cameras or IR detectors.",
+      "en": "Each tower has sensors on it, such as radar, optical cameras or IR detectors.",
+      "zh": ""
+    },
+    {
+      "start": 278.65,
+      "duration": 3.42,
+      "text": "And then they use computer vision, machine learning and AI to detect,",
+      "en": "And then they use computer vision, machine learning and AI to detect,",
+      "zh": ""
+    },
+    {
+      "start": 282.07,
+      "duration": 3.8,
+      "text": "classify and track everything of interest in a designated area.",
+      "en": "classify and track everything of interest in a designated area.",
+      "zh": ""
+    },
+    {
+      "start": 285.87,
+      "duration": 1.21,
+      "text": "It's so precise",
+      "en": "It's so precise",
+      "zh": ""
+    },
+    {
+      "start": 287.08,
+      "duration": 5.09,
+      "text": "in fact, it will actually identify and track every single bird on the test range.",
+      "en": "in fact, it will actually identify and track every single bird on the test range.",
+      "zh": ""
+    },
+    {
+      "start": 292.21,
+      "duration": 4.09,
+      "text": "They call this software system lattice, and it's the real secret sauce",
+      "en": "They call this software system lattice, and it's the real secret sauce",
+      "zh": ""
+    },
+    {
+      "start": 296.3,
+      "duration": 1.45,
+      "text": "at the core of their company.",
+      "en": "at the core of their company.",
+      "zh": ""
+    },
+    {
+      "start": 297.75,
+      "duration": 2.8,
+      "text": "So what we do is we detect a drone, classify what it is,",
+      "en": "So what we do is we detect a drone, classify what it is,",
+      "zh": ""
+    },
+    {
+      "start": 300.55,
+      "duration": 1.63,
+      "text": "and if it's something that Anvil needs to go after,",
+      "en": "and if it's something that Anvil needs to go after,",
+      "zh": ""
+    },
+    {
+      "start": 302.18,
+      "duration": 1.67,
+      "text": "let's say you try to jam it, you try to hack it.",
+      "en": "let's say you try to jam it, you try to hack it.",
+      "zh": ""
+    },
+    {
+      "start": 303.85,
+      "duration": 2.04,
+      "text": "It doesn't work. You now launch Anvil.",
+      "en": "It doesn't work. You now launch Anvil.",
+      "zh": ""
+    },
+    {
+      "start": 307.14,
+      "duration": 0.96,
+      "text": "Oh, here it goes.",
+      "en": "Oh, here it goes.",
+      "zh": ""
+    },
+    {
+      "start": 308.1,
+      "duration": 1.13,
+      "text": "Anvil immediately",
+      "en": "Anvil immediately",
+      "zh": ""
+    },
+    {
+      "start": 309.23,
+      "duration": 4.04,
+      "text": "zoomed out to the bad guy drone, but importantly, it didn't engage.",
+      "en": "zoomed out to the bad guy drone, but importantly, it didn't engage.",
+      "zh": ""
+    },
+    {
+      "start": 313.27,
+      "duration": 1.79,
+      "text": "Instead, it just locked into position",
+      "en": "Instead, it just locked into position",
+      "zh": ""
+    },
+    {
+      "start": 315.06,
+      "duration": 4.05,
+      "text": "about 30m underneath it, perfectly nearing the other drones movements.",
+      "en": "about 30m underneath it, perfectly nearing the other drones movements.",
+      "zh": ""
+    },
+    {
+      "start": 319.11,
+      "duration": 3.79,
+      "text": "Turn for a turn, just waiting for a human operator to give the go ahead",
+      "en": "Turn for a turn, just waiting for a human operator to give the go ahead",
+      "zh": ""
+    },
+    {
+      "start": 322.9,
+      "duration": 4.14,
+      "text": "to use it’s terminal guidance sensors to close the gap and attack from below,",
+      "en": "to use it’s terminal guidance sensors to close the gap and attack from below,",
+      "zh": ""
+    },
+    {
+      "start": 327.04,
+      "duration": 3.79,
+      "text": "smashing into the drone at speeds approaching 200 miles an hour.",
+      "en": "smashing into the drone at speeds approaching 200 miles an hour.",
+      "zh": ""
+    },
+    {
+      "start": 332.0,
+      "duration": 2.38,
+      "text": "And, besides just Anvil, they have other systems too,",
+      "en": "And, besides just Anvil, they have other systems too,",
+      "zh": ""
+    },
+    {
+      "start": 334.38,
+      "duration": 3.12,
+      "text": "such as Roadrunner here, which is designed to take out faster",
+      "en": "such as Roadrunner here, which is designed to take out faster",
+      "zh": ""
+    },
+    {
+      "start": 337.5,
+      "duration": 3.76,
+      "text": "and larger drones where you would typically have to fire a Patriot missile.",
+      "en": "and larger drones where you would typically have to fire a Patriot missile.",
+      "zh": ""
+    },
+    {
+      "start": 341.26,
+      "duration": 4.21,
+      "text": "But unlike a Patriot missile, Roadrunner costs an order of magnitude less,",
+      "en": "But unlike a Patriot missile, Roadrunner costs an order of magnitude less,",
+      "zh": ""
+    },
+    {
+      "start": 345.47,
+      "duration": 3.21,
+      "text": "and if you just scare off the threat without needing to engage,",
+      "en": "and if you just scare off the threat without needing to engage,",
+      "zh": ""
+    },
+    {
+      "start": 348.68,
+      "duration": 2.8,
+      "text": "then it can come back to be reused for another time.",
+      "en": "then it can come back to be reused for another time.",
+      "zh": ""
+    },
+    {
+      "start": 351.48,
+      "duration": 3.79,
+      "text": "Ultimately, Anduril is taking the SpaceX approach to using cutting edge",
+      "en": "Ultimately, Anduril is taking the SpaceX approach to using cutting edge",
+      "zh": ""
+    },
+    {
+      "start": 355.27,
+      "duration": 3.8,
+      "text": "engineering to make things way more capable for way less money.",
+      "en": "engineering to make things way more capable for way less money.",
+      "zh": ""
+    },
+    {
+      "start": 359.07,
+      "duration": 1.29,
+      "text": "And you know they're doing something right",
+      "en": "And you know they're doing something right",
+      "zh": ""
+    },
+    {
+      "start": 360.36,
+      "duration": 3.04,
+      "text": "because they have some portion of their solutions currently implemented",
+      "en": "because they have some portion of their solutions currently implemented",
+      "zh": ""
+    },
+    {
+      "start": 363.4,
+      "duration": 3.3,
+      "text": "in a lot of different places. Southern border, northern border,",
+      "en": "in a lot of different places. Southern border, northern border,",
+      "zh": ""
+    },
+    {
+      "start": 366.74,
+      "duration": 3.25,
+      "text": "national parks, military bases around critical infrastructure,",
+      "en": "national parks, military bases around critical infrastructure,",
+      "zh": ""
+    },
+    {
+      "start": 369.99,
+      "duration": 1.46,
+      "text": "around nuclear energy sites.",
+      "en": "around nuclear energy sites.",
+      "zh": ""
+    },
+    {
+      "start": 371.45,
+      "duration": 4.55,
+      "text": "There's a lot of sensitive places where you don't want to have no idea",
+      "en": "There's a lot of sensitive places where you don't want to have no idea",
+      "zh": ""
+    },
+    {
+      "start": 376.0,
+      "duration": 1.58,
+      "text": "who's there and what they might be doing.",
+      "en": "who's there and what they might be doing.",
+      "zh": ""
+    },
+    {
+      "start": 377.58,
+      "duration": 3.01,
+      "text": "And so now that we’ve got a handle on how the pros do drone defense",
+      "en": "And so now that we’ve got a handle on how the pros do drone defense",
+      "zh": ""
+    },
+    {
+      "start": 380.59,
+      "duration": 3.67,
+      "text": "the question you’re probably wondering is how would Mark Rober do drone defense.",
+      "en": "the question you’re probably wondering is how would Mark Rober do drone defense.",
+      "zh": ""
+    },
+    {
+      "start": 384.26,
+      "duration": 3.42,
+      "text": "I think the answer is, it will probably look something like this",
+      "en": "I think the answer is, it will probably look something like this",
+      "zh": ""
+    },
+    {
+      "start": 387.68,
+      "duration": 3.29,
+      "text": "a 7 foot tall fully articulated mega turret",
+      "en": "a 7 foot tall fully articulated mega turret",
+      "zh": ""
+    },
+    {
+      "start": 390.97,
+      "duration": 3.8,
+      "text": "that fires a 6 shooter barrel worth of preloaded mega darts",
+      "en": "that fires a 6 shooter barrel worth of preloaded mega darts",
+      "zh": ""
+    },
+    {
+      "start": 394.77,
+      "duration": 2.25,
+      "text": "and so to properly test out how effective this was",
+      "en": "and so to properly test out how effective this was",
+      "zh": ""
+    },
+    {
+      "start": 397.02,
+      "duration": 3.55,
+      "text": "I called 3 of my engineering buddies who also came up with their own  ideas on how they",
+      "en": "I called 3 of my engineering buddies who also came up with their own  ideas on how they",
+      "zh": ""
+    },
+    {
+      "start": 400.57,
+      "duration": 5.0,
+      "text": "would tackle the problem, and it sort of turned into a 4 person backyard engineering competition.",
+      "en": "would tackle the problem, and it sort of turned into a 4 person backyard engineering competition.",
+      "zh": ""
+    },
+    {
+      "start": 405.57,
+      "duration": 5.01,
+      "text": "So in addition to my mega turret, their designs might include a fully electrified drone squirt gun",
+      "en": "So in addition to my mega turret, their designs might include a fully electrified drone squirt gun",
+      "zh": ""
+    },
+    {
+      "start": 410.58,
+      "duration": 4.54,
+      "text": "a vortex cannon that can do some real damage and even a very scrappy system",
+      "en": "a vortex cannon that can do some real damage and even a very scrappy system",
+      "zh": ""
+    },
+    {
+      "start": 415.12,
+      "duration": 2.76,
+      "text": "that does a little of it’s own autonomous drone tracking",
+      "en": "that does a little of it’s own autonomous drone tracking",
+      "zh": ""
+    },
+    {
+      "start": 417.88,
+      "duration": 2.67,
+      "text": "but for context on our bootstrap engineering showdown",
+      "en": "but for context on our bootstrap engineering showdown",
+      "zh": ""
+    },
+    {
+      "start": 420.55,
+      "duration": 3.91,
+      "text": "It’s important that I first let you know about a super secret project i’ve been working on",
+      "en": "It’s important that I first let you know about a super secret project i’ve been working on",
+      "zh": ""
+    },
+    {
+      "start": 424.46,
+      "duration": 3.34,
+      "text": "for over two years because ever since I launched CrunchLabs",
+      "en": "for over two years because ever since I launched CrunchLabs",
+      "zh": ""
+    },
+    {
+      "start": 427.8,
+      "duration": 4.55,
+      "text": "the biggest piece of feedback was that this was great for kids to have a bunch of fun learning how to create and build",
+      "en": "the biggest piece of feedback was that this was great for kids to have a bunch of fun learning how to create and build",
+      "zh": ""
+    },
+    {
+      "start": 432.35,
+      "duration": 1.83,
+      "text": "but what about something for teenagers",
+      "en": "but what about something for teenagers",
+      "zh": ""
+    },
+    {
+      "start": 434.18,
+      "duration": 0.75,
+      "text": "and adults?",
+      "en": "and adults?",
+      "zh": ""
+    },
+    {
+      "start": 434.93,
+      "duration": 4.68,
+      "text": "Well, I'm happy to say that starting today, that exists now, and this is it.",
+      "en": "Well, I'm happy to say that starting today, that exists now, and this is it.",
+      "zh": ""
+    },
+    {
+      "start": 439.61,
+      "duration": 2.79,
+      "text": "It's called Hack Pack, and it's basically a series",
+      "en": "It's called Hack Pack, and it's basically a series",
+      "zh": ""
+    },
+    {
+      "start": 442.4,
+      "duration": 3.38,
+      "text": "of really fun, programable robots that get delivered right to your door,",
+      "en": "of really fun, programable robots that get delivered right to your door,",
+      "zh": ""
+    },
+    {
+      "start": 445.82,
+      "duration": 2.42,
+      "text": "where we build it together and learn step by step,",
+      "en": "where we build it together and learn step by step,",
+      "zh": ""
+    },
+    {
+      "start": 448.24,
+      "duration": 3.88,
+      "text": "the kinds of engineering skills that go into making the builds on my channel.",
+      "en": "the kinds of engineering skills that go into making the builds on my channel.",
+      "zh": ""
+    },
+    {
+      "start": 452.12,
+      "duration": 2.25,
+      "text": "And don't be intimidated because all these use",
+      "en": "And don't be intimidated because all these use",
+      "zh": ""
+    },
+    {
+      "start": 454.37,
+      "duration": 2.59,
+      "text": "a programmable microcontroller as the brain.",
+      "en": "a programmable microcontroller as the brain.",
+      "zh": ""
+    },
+    {
+      "start": 456.96,
+      "duration": 0.91,
+      "text": "Because if you can put together",
+      "en": "Because if you can put together",
+      "zh": ""
+    },
+    {
+      "start": 457.87,
+      "duration": 4.17,
+      "text": "a Lego set, you can put together this and it will work right out of the box.",
+      "en": "a Lego set, you can put together this and it will work right out of the box.",
+      "zh": ""
+    },
+    {
+      "start": 462.04,
+      "duration": 3.51,
+      "text": "No programing required and it will still be really fun.",
+      "en": "No programing required and it will still be really fun.",
+      "zh": ""
+    },
+    {
+      "start": 466.67,
+      "duration": 0.92,
+      "text": "Heck yeah.",
+      "en": "Heck yeah.",
+      "zh": ""
+    },
+    {
+      "start": 467.59,
+      "duration": 2.0,
+      "text": "Meaning for the first desktop turret robot.",
+      "en": "Meaning for the first desktop turret robot.",
+      "zh": ""
+    },
+    {
+      "start": 469.59,
+      "duration": 4.84,
+      "text": "It works just like my mega turret, where the IR remote can spin it 360",
+      "en": "It works just like my mega turret, where the IR remote can spin it 360",
+      "zh": ""
+    },
+    {
+      "start": 474.43,
+      "duration": 2.13,
+      "text": "degrees and you can fire the six shooter barrel",
+      "en": "degrees and you can fire the six shooter barrel",
+      "zh": ""
+    },
+    {
+      "start": 476.56,
+      "duration": 3.21,
+      "text": "worth of pre-loaded darts, either one at a time or rapid fire,",
+      "en": "worth of pre-loaded darts, either one at a time or rapid fire,",
+      "zh": ""
+    },
+    {
+      "start": 479.77,
+      "duration": 3.17,
+      "text": "after which you just refill the magnetic snap on barrel cartridge.",
+      "en": "after which you just refill the magnetic snap on barrel cartridge.",
+      "zh": ""
+    },
+    {
+      "start": 482.94,
+      "duration": 2.5,
+      "text": "And then for the next box, you'll be building this awesome",
+      "en": "And then for the next box, you'll be building this awesome",
+      "zh": ""
+    },
+    {
+      "start": 485.44,
+      "duration": 3.21,
+      "text": "domino robot that will follow any line you put on the ground",
+      "en": "domino robot that will follow any line you put on the ground",
+      "zh": ""
+    },
+    {
+      "start": 488.65,
+      "duration": 2.76,
+      "text": "and lay down a path of dominoes right on that path,",
+      "en": "and lay down a path of dominoes right on that path,",
+      "zh": ""
+    },
+    {
+      "start": 491.41,
+      "duration": 3.46,
+      "text": "but then it knows to stop for a refill when it runs out.",
+      "en": "but then it knows to stop for a refill when it runs out.",
+      "zh": ""
+    },
+    {
+      "start": 496.16,
+      "duration": 3.76,
+      "text": "After that, you've got this oversize custom label maker that works using",
+      "en": "After that, you've got this oversize custom label maker that works using",
+      "zh": ""
+    },
+    {
+      "start": 499.92,
+      "duration": 4.08,
+      "text": "just a Sharpie and a roll of masking tape, or this beautiful sand garden",
+      "en": "just a Sharpie and a roll of masking tape, or this beautiful sand garden",
+      "zh": ""
+    },
+    {
+      "start": 504.0,
+      "duration": 1.71,
+      "text": "controlled with a polar gantry.",
+      "en": "controlled with a polar gantry.",
+      "zh": ""
+    },
+    {
+      "start": 505.71,
+      "duration": 2.38,
+      "text": "But here's the thing that makes these totally different.",
+      "en": "But here's the thing that makes these totally different.",
+      "zh": ""
+    },
+    {
+      "start": 508.09,
+      "duration": 2.79,
+      "text": "And this is the real magic of Hack Pack.",
+      "en": "And this is the real magic of Hack Pack.",
+      "zh": ""
+    },
+    {
+      "start": 510.88,
+      "duration": 4.05,
+      "text": "You can easily hack the brains of any of these robots in a bunch of ways",
+      "en": "You can easily hack the brains of any of these robots in a bunch of ways",
+      "zh": ""
+    },
+    {
+      "start": 514.93,
+      "duration": 2.3,
+      "text": "to completely level up the functionality.",
+      "en": "to completely level up the functionality.",
+      "zh": ""
+    },
+    {
+      "start": 517.23,
+      "duration": 3.12,
+      "text": "So for example, for the desktop turret, you can make it password protected",
+      "en": "So for example, for the desktop turret, you can make it password protected",
+      "zh": ""
+    },
+    {
+      "start": 520.35,
+      "duration": 2.42,
+      "text": "so only you can control it. And if your friend tries",
+      "en": "so only you can control it. And if your friend tries",
+      "zh": ""
+    },
+    {
+      "start": 522.77,
+      "duration": 2.63,
+      "text": "and gets it wrong, the robot's going to let him know that.",
+      "en": "and gets it wrong, the robot's going to let him know that.",
+      "zh": ""
+    },
+    {
+      "start": 525.4,
+      "duration": 1.04,
+      "text": "Or there's a party mode.",
+      "en": "Or there's a party mode.",
+      "zh": ""
+    },
+    {
+      "start": 526.44,
+      "duration": 2.88,
+      "text": "Sort of like Pie Face, where everyone sits around the table",
+      "en": "Sort of like Pie Face, where everyone sits around the table",
+      "zh": ""
+    },
+    {
+      "start": 529.32,
+      "duration": 4.38,
+      "text": "and it will spin around as it terrifyingly plays with your emotions.",
+      "en": "and it will spin around as it terrifyingly plays with your emotions.",
+      "zh": ""
+    },
+    {
+      "start": 533.74,
+      "duration": 0.75,
+      "text": "Or you can hack it.",
+      "en": "Or you can hack it.",
+      "zh": ""
+    },
+    {
+      "start": 534.49,
+      "duration": 3.42,
+      "text": "So when your dad turns on the TV, the receiver picks up on that signal",
+      "en": "So when your dad turns on the TV, the receiver picks up on that signal",
+      "zh": ""
+    },
+    {
+      "start": 537.91,
+      "duration": 4.17,
+      "text": "and autonomously turns to his chair to unload the full barrel of darts.",
+      "en": "and autonomously turns to his chair to unload the full barrel of darts.",
+      "zh": ""
+    },
+    {
+      "start": 542.08,
+      "duration": 3.88,
+      "text": "But there's even hardware hacks, too, so it can continuously scan your office.",
+      "en": "But there's even hardware hacks, too, so it can continuously scan your office.",
+      "zh": ""
+    },
+    {
+      "start": 545.96,
+      "duration": 3.46,
+      "text": "And if you add a proximity sensor to detect an intruder, it will give them",
+      "en": "And if you add a proximity sensor to detect an intruder, it will give them",
+      "zh": ""
+    },
+    {
+      "start": 549.42,
+      "duration": 3.26,
+      "text": "six convincing rapid fire reasons to get the heck out.",
+      "en": "six convincing rapid fire reasons to get the heck out.",
+      "zh": ""
+    },
+    {
+      "start": 552.68,
+      "duration": 4.08,
+      "text": "So all these cool ideas act as a motivator for you to check out the web-based",
+      "en": "So all these cool ideas act as a motivator for you to check out the web-based",
+      "zh": ""
+    },
+    {
+      "start": 556.76,
+      "duration": 0.8,
+      "text": "coding module,",
+      "en": "coding module,",
+      "zh": ""
+    },
+    {
+      "start": 557.56,
+      "duration": 3.67,
+      "text": "where you can plug in your robot brain and make any of these updates.",
+      "en": "where you can plug in your robot brain and make any of these updates.",
+      "zh": ""
+    },
+    {
+      "start": 561.23,
+      "duration": 1.87,
+      "text": "And when you're there, you'll see there's three levels.",
+      "en": "And when you're there, you'll see there's three levels.",
+      "zh": ""
+    },
+    {
+      "start": 563.1,
+      "duration": 2.05,
+      "text": "At level one, the code is fully locked down,",
+      "en": "At level one, the code is fully locked down,",
+      "zh": ""
+    },
+    {
+      "start": 565.15,
+      "duration": 3.0,
+      "text": "and you can only swap out the full code for verified new",
+      "en": "and you can only swap out the full code for verified new",
+      "zh": ""
+    },
+    {
+      "start": 568.15,
+      "duration": 1.46,
+      "text": "hacks like the passcode hack.",
+      "en": "hacks like the passcode hack.",
+      "zh": ""
+    },
+    {
+      "start": 569.61,
+      "duration": 3.5,
+      "text": "At level two, you can now change some key variables, like how quickly",
+      "en": "At level two, you can now change some key variables, like how quickly",
+      "zh": ""
+    },
+    {
+      "start": 573.11,
+      "duration": 3.13,
+      "text": "the barrel turns or how many numbers to put in your passcode lock.",
+      "en": "the barrel turns or how many numbers to put in your passcode lock.",
+      "zh": ""
+    },
+    {
+      "start": 576.24,
+      "duration": 2.96,
+      "text": "And then at level three, you have full access to change everything.",
+      "en": "And then at level three, you have full access to change everything.",
+      "zh": ""
+    },
+    {
+      "start": 579.2,
+      "duration": 1.55,
+      "text": "And since my goal is to take you",
+      "en": "And since my goal is to take you",
+      "zh": ""
+    },
+    {
+      "start": 580.75,
+      "duration": 3.25,
+      "text": "from wherever you're currently at and then level you up, there's a community",
+      "en": "from wherever you're currently at and then level you up, there's a community",
+      "zh": ""
+    },
+    {
+      "start": 584.0,
+      "duration": 3.54,
+      "text": "where you can post questions, as well as an AI chat bot named Mark Robot",
+      "en": "where you can post questions, as well as an AI chat bot named Mark Robot",
+      "zh": ""
+    },
+    {
+      "start": 587.54,
+      "duration": 4.09,
+      "text": "that will check your code for you and help you implement your most creative ideas.",
+      "en": "that will check your code for you and help you implement your most creative ideas.",
+      "zh": ""
+    },
+    {
+      "start": 591.63,
+      "duration": 3.42,
+      "text": "And each really slick looking hack pack box that gets delivered to your door",
+      "en": "And each really slick looking hack pack box that gets delivered to your door",
+      "zh": ""
+    },
+    {
+      "start": 595.05,
+      "duration": 1.46,
+      "text": "not only includes a video from me",
+      "en": "not only includes a video from me",
+      "zh": ""
+    },
+    {
+      "start": 596.51,
+      "duration": 3.88,
+      "text": "that shows you how to put it together, but each video also gives you a new juicy",
+      "en": "that shows you how to put it together, but each video also gives you a new juicy",
+      "zh": ""
+    },
+    {
+      "start": 600.39,
+      "duration": 3.38,
+      "text": "nugget about the tools I use to build and code stuff so you can grow",
+      "en": "nugget about the tools I use to build and code stuff so you can grow",
+      "zh": ""
+    },
+    {
+      "start": 603.77,
+      "duration": 3.29,
+      "text": "your creative engineering brain muscles one step at a time.",
+      "en": "your creative engineering brain muscles one step at a time.",
+      "zh": ""
+    },
+    {
+      "start": 607.06,
+      "duration": 3.97,
+      "text": "We put up the lid sticker instruction video for this first box, plus a 20 minute",
+      "en": "We put up the lid sticker instruction video for this first box, plus a 20 minute",
+      "zh": ""
+    },
+    {
+      "start": 611.03,
+      "duration": 3.04,
+      "text": "Arduino crash course on the CrunchLabs YouTube channel,",
+      "en": "Arduino crash course on the CrunchLabs YouTube channel,",
+      "zh": ""
+    },
+    {
+      "start": 614.07,
+      "duration": 2.8,
+      "text": "so you can see for yourself that we're not cutting any corners.",
+      "en": "so you can see for yourself that we're not cutting any corners.",
+      "zh": ""
+    },
+    {
+      "start": 616.87,
+      "duration": 3.46,
+      "text": "Just like with my YouTube videos, I love taking complicated things",
+      "en": "Just like with my YouTube videos, I love taking complicated things",
+      "zh": ""
+    },
+    {
+      "start": 620.33,
+      "duration": 2.46,
+      "text": "and making them simple. And that's what we've done here.",
+      "en": "and making them simple. And that's what we've done here.",
+      "zh": ""
+    },
+    {
+      "start": 622.79,
+      "duration": 2.92,
+      "text": "So if you've always wanted to learn to code, this is for you.",
+      "en": "So if you've always wanted to learn to code, this is for you.",
+      "zh": ""
+    },
+    {
+      "start": 625.71,
+      "duration": 3.29,
+      "text": "But if you're a master coder and builder, this is also for you",
+      "en": "But if you're a master coder and builder, this is also for you",
+      "zh": ""
+    },
+    {
+      "start": 629.0,
+      "duration": 1.34,
+      "text": "because this is a community.",
+      "en": "because this is a community.",
+      "zh": ""
+    },
+    {
+      "start": 630.34,
+      "duration": 2.96,
+      "text": "So I'll absolutely be looking for the most impressively",
+      "en": "So I'll absolutely be looking for the most impressively",
+      "zh": ""
+    },
+    {
+      "start": 633.3,
+      "duration": 1.83,
+      "text": "ridiculous hacks and modifications.",
+      "en": "ridiculous hacks and modifications.",
+      "zh": ""
+    },
+    {
+      "start": 635.13,
+      "duration": 2.13,
+      "text": "And then we'll be sure all the other subscribers",
+      "en": "And then we'll be sure all the other subscribers",
+      "zh": ""
+    },
+    {
+      "start": 637.26,
+      "duration": 3.0,
+      "text": "see them so they can be inspired to make their own hacks.",
+      "en": "see them so they can be inspired to make their own hacks.",
+      "zh": ""
+    },
+    {
+      "start": 640.31,
+      "duration": 3.46,
+      "text": "And Hack Pack is a great activity to do with friends and family,",
+      "en": "And Hack Pack is a great activity to do with friends and family,",
+      "zh": ""
+    },
+    {
+      "start": 643.77,
+      "duration": 1.29,
+      "text": "or even just by yourself.",
+      "en": "or even just by yourself.",
+      "zh": ""
+    },
+    {
+      "start": 645.06,
+      "duration": 2.38,
+      "text": "If you've always wanted to make and build cool stuff,",
+      "en": "If you've always wanted to make and build cool stuff,",
+      "zh": ""
+    },
+    {
+      "start": 647.44,
+      "duration": 2.25,
+      "text": "but just haven't figured out that first step.",
+      "en": "but just haven't figured out that first step.",
+      "zh": ""
+    },
+    {
+      "start": 649.69,
+      "duration": 4.38,
+      "text": "On top of all that, a couple times a year I'll be randomly selecting one box in",
+      "en": "On top of all that, a couple times a year I'll be randomly selecting one box in",
+      "zh": ""
+    },
+    {
+      "start": 654.07,
+      "duration": 4.46,
+      "text": "which I'll place the Platinum Scholarship, and if your box has it, congratulations!",
+      "en": "which I'll place the Platinum Scholarship, and if your box has it, congratulations!",
+      "zh": ""
+    },
+    {
+      "start": 658.53,
+      "duration": 4.59,
+      "text": "Because college is now free for you or a loved one you want to transfer it to.",
+      "en": "Because college is now free for you or a loved one you want to transfer it to.",
+      "zh": ""
+    },
+    {
+      "start": 663.12,
+      "duration": 3.92,
+      "text": "Plus you get to come out the CrunchLabs and brainstorm some of your own ideas",
+      "en": "Plus you get to come out the CrunchLabs and brainstorm some of your own ideas",
+      "zh": ""
+    },
+    {
+      "start": 667.04,
+      "duration": 1.46,
+      "text": "with me and my team for a day.",
+      "en": "with me and my team for a day.",
+      "zh": ""
+    },
+    {
+      "start": 668.5,
+      "duration": 1.04,
+      "text": "So if you want to embark",
+      "en": "So if you want to embark",
+      "zh": ""
+    },
+    {
+      "start": 669.54,
+      "duration": 3.13,
+      "text": "on this journey of discovery with me, just go to CrunchLabs.com",
+      "en": "on this journey of discovery with me, just go to CrunchLabs.com",
+      "zh": ""
+    },
+    {
+      "start": 672.67,
+      "duration": 2.59,
+      "text": "or use the link in the video description. Where to say thank you.",
+      "en": "or use the link in the video description. Where to say thank you.",
+      "zh": ""
+    },
+    {
+      "start": 675.26,
+      "duration": 3.71,
+      "text": "We're giving away one free box as an early subscriber special.",
+      "en": "We're giving away one free box as an early subscriber special.",
+      "zh": ""
+    },
+    {
+      "start": 678.97,
+      "duration": 3.17,
+      "text": "We poured our hearts into these for over two years, and",
+      "en": "We poured our hearts into these for over two years, and",
+      "zh": ""
+    },
+    {
+      "start": 682.14,
+      "duration": 3.13,
+      "text": "I am so confident your brain is going to love them.",
+      "en": "I am so confident your brain is going to love them.",
+      "zh": ""
+    },
+    {
+      "start": 685.27,
+      "duration": 1.71,
+      "text": "But supplies are definitely limited",
+      "en": "But supplies are definitely limited",
+      "zh": ""
+    },
+    {
+      "start": 686.98,
+      "duration": 2.04,
+      "text": "on this first run, so if you don't want to miss out,",
+      "en": "on this first run, so if you don't want to miss out,",
+      "zh": ""
+    },
+    {
+      "start": 689.02,
+      "duration": 2.42,
+      "text": "be sure to go check out that link in the video description.",
+      "en": "be sure to go check out that link in the video description.",
+      "zh": ""
+    },
+    {
+      "start": 691.44,
+      "duration": 2.38,
+      "text": "And with that, let's get to the competition. Gentlemen.",
+      "en": "And with that, let's get to the competition. Gentlemen.",
+      "zh": ""
+    },
+    {
+      "start": 693.82,
+      "duration": 2.58,
+      "text": "What's the confidence level at? Here? Maybe like here?",
+      "en": "What's the confidence level at? Here? Maybe like here?",
+      "zh": ""
+    },
+    {
+      "start": 696.4,
+      "duration": 0.8,
+      "text": "Can I have a shovel?",
+      "en": "Can I have a shovel?",
+      "zh": ""
+    },
+    {
+      "start": 697.2,
+      "duration": 3.0,
+      "text": "That's the sound of an engineer who's not got a lot of sleep this week",
+      "en": "That's the sound of an engineer who's not got a lot of sleep this week",
+      "zh": ""
+    },
+    {
+      "start": 700.2,
+      "duration": 2.79,
+      "text": "I'm excited to face off my turret versus your turret.",
+      "en": "I'm excited to face off my turret versus your turret.",
+      "zh": ""
+    },
+    {
+      "start": 702.99,
+      "duration": 1.63,
+      "text": "Your turret actually shoots things.",
+      "en": "Your turret actually shoots things.",
+      "zh": ""
+    },
+    {
+      "start": 704.62,
+      "duration": 1.29,
+      "text": "How do you know what mine is?",
+      "en": "How do you know what mine is?",
+      "zh": ""
+    },
+    {
+      "start": 705.91,
+      "duration": 2.34,
+      "text": "It's right there. oh. That thing.",
+      "en": "It's right there. oh. That thing.",
+      "zh": ""
+    },
+    {
+      "start": 710.21,
+      "duration": 2.42,
+      "text": "It's controllable with the Hack Pack turret remote.",
+      "en": "It's controllable with the Hack Pack turret remote.",
+      "zh": ""
+    },
+    {
+      "start": 713.5,
+      "duration": 0.75,
+      "text": "No.",
+      "en": "No.",
+      "zh": ""
+    },
+    {
+      "start": 714.25,
+      "duration": 0.8,
+      "text": "I’m sorry.",
+      "en": "I’m sorry.",
+      "zh": ""
+    },
+    {
+      "start": 715.05,
+      "duration": 0.83,
+      "text": "Move it that way.",
+      "en": "Move it that way.",
+      "zh": ""
+    },
+    {
+      "start": 716.22,
+      "duration": 0.91,
+      "text": "Lucky for the boys.",
+      "en": "Lucky for the boys.",
+      "zh": ""
+    },
+    {
+      "start": 717.13,
+      "duration": 3.55,
+      "text": "The turret got distracted as the first drone took to the sky,",
+      "en": "The turret got distracted as the first drone took to the sky,",
+      "zh": ""
+    },
+    {
+      "start": 720.68,
+      "duration": 4.0,
+      "text": "pausing at a height where only a mega turret could possibly bring it down.",
+      "en": "pausing at a height where only a mega turret could possibly bring it down.",
+      "zh": ""
+    },
+    {
+      "start": 724.68,
+      "duration": 2.05,
+      "text": "I could absolutely hit that with a rock.",
+      "en": "I could absolutely hit that with a rock.",
+      "zh": ""
+    },
+    {
+      "start": 726.73,
+      "duration": 2.0,
+      "text": "And maybe that's true for the average person,",
+      "en": "And maybe that's true for the average person,",
+      "zh": ""
+    },
+    {
+      "start": 729.94,
+      "duration": 0.75,
+      "text": "but let's face it",
+      "en": "but let's face it",
+      "zh": ""
+    },
+    {
+      "start": 730.94,
+      "duration": 1.29,
+      "text": "none of us are exactly",
+      "en": "none of us are exactly",
+      "zh": ""
+    },
+    {
+      "start": 732.23,
+      "duration": 2.54,
+      "text": "first to be picked in gym class type material.",
+      "en": "first to be picked in gym class type material.",
+      "zh": ""
+    },
+    {
+      "start": 735.19,
+      "duration": 3.21,
+      "text": "At any rate, it was time to see what this bad boy could do.",
+      "en": "At any rate, it was time to see what this bad boy could do.",
+      "zh": ""
+    },
+    {
+      "start": 738.4,
+      "duration": 1.96,
+      "text": "Let me line it up. Hold on.",
+      "en": "Let me line it up. Hold on.",
+      "zh": ""
+    },
+    {
+      "start": 740.36,
+      "duration": 2.22,
+      "text": "Oh, yeah, that's looking good.",
+      "en": "Oh, yeah, that's looking good.",
+      "zh": ""
+    },
+    {
+      "start": 742.58,
+      "duration": 2.08,
+      "text": "Three two. One.",
+      "en": "Three two. One.",
+      "zh": ""
+    },
+    {
+      "start": 747.41,
+      "duration": 1.63,
+      "text": "Ohhhh",
+      "en": "Ohhhh",
+      "zh": ""
+    },
+    {
+      "start": 749.04,
+      "duration": 1.04,
+      "text": "that was pretty cool.",
+      "en": "that was pretty cool.",
+      "zh": ""
+    },
+    {
+      "start": 750.08,
+      "duration": 0.8,
+      "text": "Yeah.",
+      "en": "Yeah.",
+      "zh": ""
+    },
+    {
+      "start": 750.88,
+      "duration": 1.5,
+      "text": "But you missed. Dang it.",
+      "en": "But you missed. Dang it.",
+      "zh": ""
+    },
+    {
+      "start": 753.5,
+      "duration": 1.17,
+      "text": "Oh",
+      "en": "Oh",
+      "zh": ""
+    },
+    {
+      "start": 754.67,
+      "duration": 1.33,
+      "text": "A little to the right.",
+      "en": "A little to the right.",
+      "zh": ""
+    },
+    {
+      "start": 756.0,
+      "duration": 0.46,
+      "text": "Fire!",
+      "en": "Fire!",
+      "zh": ""
+    },
+    {
+      "start": 756.46,
+      "duration": 1.38,
+      "text": "Oh! Wow!",
+      "en": "Oh! Wow!",
+      "zh": ""
+    },
+    {
+      "start": 758.47,
+      "duration": 1.91,
+      "text": "Oh, this is the one.",
+      "en": "Oh, this is the one.",
+      "zh": ""
+    },
+    {
+      "start": 760.38,
+      "duration": 3.01,
+      "text": "I can feel it. Three, two. One.",
+      "en": "I can feel it. Three, two. One.",
+      "zh": ""
+    },
+    {
+      "start": 765.93,
+      "duration": 1.46,
+      "text": "Oh, yeah.",
+      "en": "Oh, yeah.",
+      "zh": ""
+    },
+    {
+      "start": 771.14,
+      "duration": 1.26,
+      "text": "Wait.",
+      "en": "Wait.",
+      "zh": ""
+    },
+    {
+      "start": 772.4,
+      "duration": 1.29,
+      "text": "Hey!",
+      "en": "Hey!",
+      "zh": ""
+    },
+    {
+      "start": 773.69,
+      "duration": 0.88,
+      "text": "What?",
+      "en": "What?",
+      "zh": ""
+    },
+    {
+      "start": 774.94,
+      "duration": 2.92,
+      "text": "The drone recovered from that. That was So cool.",
+      "en": "The drone recovered from that. That was So cool.",
+      "zh": ""
+    },
+    {
+      "start": 777.86,
+      "duration": 2.92,
+      "text": "That drone is so much more impressive than the turret",
+      "en": "That drone is so much more impressive than the turret",
+      "zh": ""
+    },
+    {
+      "start": 780.78,
+      "duration": 3.29,
+      "text": "Lucky for me, the definitely not made up on the spot rules state that",
+      "en": "Lucky for me, the definitely not made up on the spot rules state that",
+      "zh": ""
+    },
+    {
+      "start": 784.07,
+      "duration": 4.38,
+      "text": "if a dart makes contact with the drone, you get one final bonus shot.",
+      "en": "if a dart makes contact with the drone, you get one final bonus shot.",
+      "zh": ""
+    },
+    {
+      "start": 790.16,
+      "duration": 2.13,
+      "text": "Yes! Oh,",
+      "en": "Yes! Oh,",
+      "zh": ""
+    },
+    {
+      "start": 794.54,
+      "duration": 2.38,
+      "text": "the mega turret had secured",
+      "en": "the mega turret had secured",
+      "zh": ""
+    },
+    {
+      "start": 796.92,
+      "duration": 1.0,
+      "text": "It's dead.",
+      "en": "It's dead.",
+      "zh": ""
+    },
+    {
+      "start": 797.92,
+      "duration": 2.55,
+      "text": "A mega hit check it out. You actually did",
+      "en": "A mega hit check it out. You actually did",
+      "zh": ""
+    },
+    {
+      "start": 800.47,
+      "duration": 1.62,
+      "text": "Yeah. bust that off soo",
+      "en": "Yeah. bust that off soo",
+      "zh": ""
+    },
+    {
+      "start": 802.09,
+      "duration": 1.09,
+      "text": "Whats up now?",
+      "en": "Whats up now?",
+      "zh": ""
+    },
+    {
+      "start": 803.18,
+      "duration": 2.08,
+      "text": "Lets see you guys beat this.",
+      "en": "Lets see you guys beat this.",
+      "zh": ""
+    },
+    {
+      "start": 805.26,
+      "duration": 0.88,
+      "text": "Huh!",
+      "en": "Huh!",
+      "zh": ""
+    },
+    {
+      "start": 806.43,
+      "duration": 4.42,
+      "text": "Question is, which one of you guys wants to try and top that? Me. Me",
+      "en": "Question is, which one of you guys wants to try and top that? Me. Me",
+      "zh": ""
+    },
+    {
+      "start": 811.27,
+      "duration": 2.67,
+      "text": "First up, we've got Kevin.",
+      "en": "First up, we've got Kevin.",
+      "zh": ""
+    },
+    {
+      "start": 814.27,
+      "duration": 0.67,
+      "text": "Where is Kevin?",
+      "en": "Where is Kevin?",
+      "zh": ""
+    },
+    {
+      "start": 814.94,
+      "duration": 1.04,
+      "text": "He's uhhh...",
+      "en": "He's uhhh...",
+      "zh": ""
+    },
+    {
+      "start": 815.98,
+      "duration": 0.59,
+      "text": "oh!",
+      "en": "oh!",
+      "zh": ""
+    },
+    {
+      "start": 816.57,
+      "duration": 0.91,
+      "text": "Yee haw!",
+      "en": "Yee haw!",
+      "zh": ""
+    },
+    {
+      "start": 817.48,
+      "duration": 1.42,
+      "text": "Woo hoo!",
+      "en": "Woo hoo!",
+      "zh": ""
+    },
+    {
+      "start": 818.9,
+      "duration": 1.0,
+      "text": "Yee haw!",
+      "en": "Yee haw!",
+      "zh": ""
+    },
+    {
+      "start": 819.9,
+      "duration": 2.21,
+      "text": "Kevin! Yeah, yeah.",
+      "en": "Kevin! Yeah, yeah.",
+      "zh": ""
+    },
+    {
+      "start": 822.11,
+      "duration": 1.5,
+      "text": "Coming for your drones.",
+      "en": "Coming for your drones.",
+      "zh": ""
+    },
+    {
+      "start": 823.61,
+      "duration": 3.38,
+      "text": "This feels like it's bigger than. Whoa.",
+      "en": "This feels like it's bigger than. Whoa.",
+      "zh": ""
+    },
+    {
+      "start": 826.99,
+      "duration": 0.84,
+      "text": "Necessary.",
+      "en": "Necessary.",
+      "zh": ""
+    },
+    {
+      "start": 827.83,
+      "duration": 4.21,
+      "text": "This is the V rad cannon avian defense turret.",
+      "en": "This is the V rad cannon avian defense turret.",
+      "zh": ""
+    },
+    {
+      "start": 834.54,
+      "duration": 1.13,
+      "text": "Avian defense.",
+      "en": "Avian defense.",
+      "zh": ""
+    },
+    {
+      "start": 835.67,
+      "duration": 1.71,
+      "text": "So what, you scare birds with that?",
+      "en": "So what, you scare birds with that?",
+      "zh": ""
+    },
+    {
+      "start": 837.38,
+      "duration": 1.67,
+      "text": "Yeah, and shoot down drones.",
+      "en": "Yeah, and shoot down drones.",
+      "zh": ""
+    },
+    {
+      "start": 839.05,
+      "duration": 3.21,
+      "text": "This concept was actually invented 200 years ago by farmers",
+      "en": "This concept was actually invented 200 years ago by farmers",
+      "zh": ""
+    },
+    {
+      "start": 842.26,
+      "duration": 3.96,
+      "text": "shooting it at hail clouds in the sky to try and save their crops.",
+      "en": "shooting it at hail clouds in the sky to try and save their crops.",
+      "zh": ""
+    },
+    {
+      "start": 846.22,
+      "duration": 3.92,
+      "text": "But then they found a far less speculative application that was just to shoot it",
+      "en": "But then they found a far less speculative application that was just to shoot it",
+      "zh": ""
+    },
+    {
+      "start": 850.14,
+      "duration": 3.42,
+      "text": "towards birds, to scare them away from eating all the seeds in the field.",
+      "en": "towards birds, to scare them away from eating all the seeds in the field.",
+      "zh": ""
+    },
+    {
+      "start": 853.56,
+      "duration": 2.46,
+      "text": "You're going to look so silly if the drone doesn't get shot",
+      "en": "You're going to look so silly if the drone doesn't get shot",
+      "zh": ""
+    },
+    {
+      "start": 856.02,
+      "duration": 1.96,
+      "text": "down with this thing Kevin, giddy up!",
+      "en": "down with this thing Kevin, giddy up!",
+      "zh": ""
+    },
+    {
+      "start": 857.98,
+      "duration": 2.59,
+      "text": "And when you mix just the right amount of oxygen and propane",
+      "en": "And when you mix just the right amount of oxygen and propane",
+      "zh": ""
+    },
+    {
+      "start": 860.57,
+      "duration": 2.13,
+      "text": "in the combustion chamber and then give it a spark",
+      "en": "in the combustion chamber and then give it a spark",
+      "zh": ""
+    },
+    {
+      "start": 862.7,
+      "duration": 3.04,
+      "text": "You basically get a single shot rocket engine",
+      "en": "You basically get a single shot rocket engine",
+      "zh": ""
+    },
+    {
+      "start": 865.74,
+      "duration": 1.84,
+      "text": "Three. Two.",
+      "en": "Three. Two.",
+      "zh": ""
+    },
+    {
+      "start": 867.58,
+      "duration": 2.16,
+      "text": "One fire!",
+      "en": "One fire!",
+      "zh": ""
+    },
+    {
+      "start": 872.33,
+      "duration": 1.79,
+      "text": "Fire! Wow.",
+      "en": "Fire! Wow.",
+      "zh": ""
+    },
+    {
+      "start": 874.12,
+      "duration": 0.67,
+      "text": "Kevin.",
+      "en": "Kevin.",
+      "zh": ""
+    },
+    {
+      "start": 874.79,
+      "duration": 1.38,
+      "text": "Real impressive.",
+      "en": "Real impressive.",
+      "zh": ""
+    },
+    {
+      "start": 876.17,
+      "duration": 1.21,
+      "text": "ohhh!",
+      "en": "ohhh!",
+      "zh": ""
+    },
+    {
+      "start": 877.38,
+      "duration": 0.66,
+      "text": "God!",
+      "en": "God!",
+      "zh": ""
+    },
+    {
+      "start": 882.26,
+      "duration": 2.62,
+      "text": "And it absolutely destroyed the drone.",
+      "en": "And it absolutely destroyed the drone.",
+      "zh": ""
+    },
+    {
+      "start": 884.88,
+      "duration": 4.42,
+      "text": "Oh, my God, it, like, actually totally died. Wow.",
+      "en": "Oh, my God, it, like, actually totally died. Wow.",
+      "zh": ""
+    },
+    {
+      "start": 889.35,
+      "duration": 2.21,
+      "text": "That looked like a really good way to kill a drone.",
+      "en": "That looked like a really good way to kill a drone.",
+      "zh": ""
+    },
+    {
+      "start": 891.56,
+      "duration": 1.33,
+      "text": "Actually, that was just really good.",
+      "en": "Actually, that was just really good.",
+      "zh": ""
+    },
+    {
+      "start": 892.89,
+      "duration": 3.42,
+      "text": "And that's when we realized it was also a great way to play a certain game",
+      "en": "And that's when we realized it was also a great way to play a certain game",
+      "zh": ""
+    },
+    {
+      "start": 897.56,
+      "duration": 1.0,
+      "text": "called chicken.",
+      "en": "called chicken.",
+      "zh": ""
+    },
+    {
+      "start": 898.56,
+      "duration": 0.96,
+      "text": "Bring it on.",
+      "en": "Bring it on.",
+      "zh": ""
+    },
+    {
+      "start": 899.52,
+      "duration": 1.63,
+      "text": "And if you think for a second",
+      "en": "And if you think for a second",
+      "zh": ""
+    },
+    {
+      "start": 901.15,
+      "duration": 3.71,
+      "text": "we were scared to stand before this gigantic cannon, why are we doing this?",
+      "en": "we were scared to stand before this gigantic cannon, why are we doing this?",
+      "zh": ""
+    },
+    {
+      "start": 905.15,
+      "duration": 3.01,
+      "text": "You're right. But what's even more scary?",
+      "en": "You're right. But what's even more scary?",
+      "zh": ""
+    },
+    {
+      "start": 908.16,
+      "duration": 1.04,
+      "text": "Oh Oh Oh",
+      "en": "Oh Oh Oh",
+      "zh": ""
+    },
+    {
+      "start": 909.2,
+      "duration": 4.8,
+      "text": "Oh my god! wait. thats like a jet flying overhead. Did it hit any of us?",
+      "en": "Oh my god! wait. thats like a jet flying overhead. Did it hit any of us?",
+      "zh": ""
+    },
+    {
+      "start": 914.0,
+      "duration": 3.67,
+      "text": "Was doing it over and over again until it found its aim.",
+      "en": "Was doing it over and over again until it found its aim.",
+      "zh": ""
+    },
+    {
+      "start": 917.83,
+      "duration": 0.75,
+      "text": "Oh, my.",
+      "en": "Oh, my.",
+      "zh": ""
+    },
+    {
+      "start": 918.58,
+      "duration": 1.01,
+      "text": "I wasn’t ready",
+      "en": "I wasn’t ready",
+      "zh": ""
+    },
+    {
+      "start": 919.59,
+      "duration": 1.66,
+      "text": "It's coming up towards us.",
+      "en": "It's coming up towards us.",
+      "zh": ""
+    },
+    {
+      "start": 921.92,
+      "duration": 1.38,
+      "text": "Oh my gosh.",
+      "en": "Oh my gosh.",
+      "zh": ""
+    },
+    {
+      "start": 923.3,
+      "duration": 2.71,
+      "text": "I hope it blows your hat off and we can see what you're hiding under there.",
+      "en": "I hope it blows your hat off and we can see what you're hiding under there.",
+      "zh": ""
+    },
+    {
+      "start": 926.42,
+      "duration": 3.01,
+      "text": "Oh, no. Oh,",
+      "en": "Oh, no. Oh,",
+      "zh": ""
+    },
+    {
+      "start": 930.18,
+      "duration": 4.38,
+      "text": "Earggghhh.",
+      "en": "Earggghhh.",
+      "zh": ""
+    },
+    {
+      "start": 934.68,
+      "duration": 3.01,
+      "text": "It got my head.",
+      "en": "It got my head.",
+      "zh": ""
+    },
+    {
+      "start": 937.73,
+      "duration": 3.0,
+      "text": "Oh oh.",
+      "en": "Oh oh.",
+      "zh": ""
+    },
+    {
+      "start": 943.82,
+      "duration": 1.58,
+      "text": "Oh",
+      "en": "Oh",
+      "zh": ""
+    },
+    {
+      "start": 945.4,
+      "duration": 0.59,
+      "text": "Oh. It's still going.",
+      "en": "Oh. It's still going.",
+      "zh": ""
+    },
+    {
+      "start": 950.37,
+      "duration": 2.75,
+      "text": "Oh my god",
+      "en": "Oh my god",
+      "zh": ""
+    },
+    {
+      "start": 953.41,
+      "duration": 2.34,
+      "text": "And in our game of chicken, we were definitely prepared",
+      "en": "And in our game of chicken, we were definitely prepared",
+      "zh": ""
+    },
+    {
+      "start": 955.75,
+      "duration": 2.21,
+      "text": "to get much closer to the cannon like these guys.",
+      "en": "to get much closer to the cannon like these guys.",
+      "zh": ""
+    },
+    {
+      "start": 957.96,
+      "duration": 3.21,
+      "text": "But sadly, we ran out of jet fuel and had to move on.",
+      "en": "But sadly, we ran out of jet fuel and had to move on.",
+      "zh": ""
+    },
+    {
+      "start": 961.17,
+      "duration": 2.46,
+      "text": "This is my invention.",
+      "en": "This is my invention.",
+      "zh": ""
+    },
+    {
+      "start": 963.63,
+      "duration": 1.21,
+      "text": "This is a Tesla coil. You know",
+      "en": "This is a Tesla coil. You know",
+      "zh": ""
+    },
+    {
+      "start": 964.84,
+      "duration": 2.42,
+      "text": "When you rub your feet on a carpet and you get a spark.",
+      "en": "When you rub your feet on a carpet and you get a spark.",
+      "zh": ""
+    },
+    {
+      "start": 967.26,
+      "duration": 3.0,
+      "text": "Yeah, I know it.  This is like a billion times more powerful than that,",
+      "en": "Yeah, I know it.  This is like a billion times more powerful than that,",
+      "zh": ""
+    },
+    {
+      "start": 970.3,
+      "duration": 3.0,
+      "text": "three, two, one Tesla coil?",
+      "en": "three, two, one Tesla coil?",
+      "zh": ""
+    },
+    {
+      "start": 977.39,
+      "duration": 3.05,
+      "text": "And if it was a contest for coolest visuals",
+      "en": "And if it was a contest for coolest visuals",
+      "zh": ""
+    },
+    {
+      "start": 980.44,
+      "duration": 1.71,
+      "text": "Wow! See that's pretty cool, right?",
+      "en": "Wow! See that's pretty cool, right?",
+      "zh": ""
+    },
+    {
+      "start": 982.15,
+      "duration": 1.71,
+      "text": "Alan definitely would have won",
+      "en": "Alan definitely would have won",
+      "zh": ""
+    },
+    {
+      "start": 983.86,
+      "duration": 4.17,
+      "text": "right on the spot, but it wasn't. I feel like that's not gonna get a drone",
+      "en": "right on the spot, but it wasn't. I feel like that's not gonna get a drone",
+      "zh": ""
+    },
+    {
+      "start": 988.03,
+      "duration": 2.08,
+      "text": "All right, here's my real plan.",
+      "en": "All right, here's my real plan.",
+      "zh": ""
+    },
+    {
+      "start": 990.11,
+      "duration": 3.01,
+      "text": "Salty electrically conductive goo.",
+      "en": "Salty electrically conductive goo.",
+      "zh": ""
+    },
+    {
+      "start": 993.41,
+      "duration": 0.67,
+      "text": "Is that legal?",
+      "en": "Is that legal?",
+      "zh": ""
+    },
+    {
+      "start": 994.08,
+      "duration": 2.62,
+      "text": "What in the world is this?",
+      "en": "What in the world is this?",
+      "zh": ""
+    },
+    {
+      "start": 996.7,
+      "duration": 1.92,
+      "text": "So this is Xanthan gum and salt.",
+      "en": "So this is Xanthan gum and salt.",
+      "zh": ""
+    },
+    {
+      "start": 998.62,
+      "duration": 1.92,
+      "text": "It should conduct electricity.",
+      "en": "It should conduct electricity.",
+      "zh": ""
+    },
+    {
+      "start": 1000.54,
+      "duration": 2.5,
+      "text": "That nozzle is going to shoot a stream of goo",
+      "en": "That nozzle is going to shoot a stream of goo",
+      "zh": ""
+    },
+    {
+      "start": 1003.04,
+      "duration": 2.09,
+      "text": "So when it touches the drone, it's going to fry it.",
+      "en": "So when it touches the drone, it's going to fry it.",
+      "zh": ""
+    },
+    {
+      "start": 1005.13,
+      "duration": 1.96,
+      "text": "Well, it's just salty protein. Yeah.",
+      "en": "Well, it's just salty protein. Yeah.",
+      "zh": ""
+    },
+    {
+      "start": 1007.09,
+      "duration": 1.88,
+      "text": "Yeah! It's thick.",
+      "en": "Yeah! It's thick.",
+      "zh": ""
+    },
+    {
+      "start": 1008.97,
+      "duration": 4.96,
+      "text": "It's safe to say I had reservations about pretty much all of this. Tesla coil on.",
+      "en": "It's safe to say I had reservations about pretty much all of this. Tesla coil on.",
+      "zh": ""
+    },
+    {
+      "start": 1014.05,
+      "duration": 2.88,
+      "text": "As predicted, the coil on its own had nowhere near the range",
+      "en": "As predicted, the coil on its own had nowhere near the range",
+      "zh": ""
+    },
+    {
+      "start": 1016.93,
+      "duration": 3.51,
+      "text": "to hit the drone. Goo stream on. Oh!",
+      "en": "to hit the drone. Goo stream on. Oh!",
+      "zh": ""
+    },
+    {
+      "start": 1020.73,
+      "duration": 1.42,
+      "text": "Oh, wow.",
+      "en": "Oh, wow.",
+      "zh": ""
+    },
+    {
+      "start": 1022.15,
+      "duration": 3.08,
+      "text": "Why is so low? That's no good.",
+      "en": "Why is so low? That's no good.",
+      "zh": ""
+    },
+    {
+      "start": 1026.19,
+      "duration": 2.09,
+      "text": "And it seemed like the goo wouldn't either.",
+      "en": "And it seemed like the goo wouldn't either.",
+      "zh": ""
+    },
+    {
+      "start": 1028.28,
+      "duration": 3.29,
+      "text": "But after a little pressure adjustment, we got",
+      "en": "But after a little pressure adjustment, we got",
+      "zh": ""
+    },
+    {
+      "start": 1031.57,
+      "duration": 3.01,
+      "text": "the electric goo gun made contact.",
+      "en": "the electric goo gun made contact.",
+      "zh": ""
+    },
+    {
+      "start": 1034.66,
+      "duration": 1.42,
+      "text": "Oh, now come on.",
+      "en": "Oh, now come on.",
+      "zh": ""
+    },
+    {
+      "start": 1036.08,
+      "duration": 3.0,
+      "text": "Oh yes. Yes.",
+      "en": "Oh yes. Yes.",
+      "zh": ""
+    },
+    {
+      "start": 1039.16,
+      "duration": 2.75,
+      "text": "And it seemed like Alan had taken it out for good.",
+      "en": "And it seemed like Alan had taken it out for good.",
+      "zh": ""
+    },
+    {
+      "start": 1041.91,
+      "duration": 4.3,
+      "text": "Whoa oh, It’s still like trying to be alive.",
+      "en": "Whoa oh, It’s still like trying to be alive.",
+      "zh": ""
+    },
+    {
+      "start": 1046.21,
+      "duration": 2.09,
+      "text": "There was no way to salvage things here.",
+      "en": "There was no way to salvage things here.",
+      "zh": ""
+    },
+    {
+      "start": 1048.3,
+      "duration": 3.04,
+      "text": "So sadly... Use your heel mark in one solid hit.",
+      "en": "So sadly... Use your heel mark in one solid hit.",
+      "zh": ""
+    },
+    {
+      "start": 1051.34,
+      "duration": 1.46,
+      "text": "This feels wrong.",
+      "en": "This feels wrong.",
+      "zh": ""
+    },
+    {
+      "start": 1052.8,
+      "duration": 2.5,
+      "text": "We had to put the little guy out of his misery.",
+      "en": "We had to put the little guy out of his misery.",
+      "zh": ""
+    },
+    {
+      "start": 1055.3,
+      "duration": 1.46,
+      "text": "No, Mark!",
+      "en": "No, Mark!",
+      "zh": ""
+    },
+    {
+      "start": 1056.76,
+      "duration": 2.51,
+      "text": "Mark, it’s still twitching",
+      "en": "Mark, it’s still twitching",
+      "zh": ""
+    },
+    {
+      "start": 1059.27,
+      "duration": 1.54,
+      "text": "I'm so sorry.",
+      "en": "I'm so sorry.",
+      "zh": ""
+    },
+    {
+      "start": 1060.81,
+      "duration": 2.46,
+      "text": "Goodbye, little fella.",
+      "en": "Goodbye, little fella.",
+      "zh": ""
+    },
+    {
+      "start": 1063.27,
+      "duration": 3.13,
+      "text": "Oh. Oh, no",
+      "en": "Oh. Oh, no",
+      "zh": ""
+    },
+    {
+      "start": 1066.4,
+      "duration": 2.17,
+      "text": "I said good bye.",
+      "en": "I said good bye.",
+      "zh": ""
+    },
+    {
+      "start": 1068.86,
+      "duration": 3.17,
+      "text": "May your microchips forever rest in the watery depths below.",
+      "en": "May your microchips forever rest in the watery depths below.",
+      "zh": ""
+    },
+    {
+      "start": 1072.03,
+      "duration": 1.46,
+      "text": "And that's how you kill a drone.",
+      "en": "And that's how you kill a drone.",
+      "zh": ""
+    },
+    {
+      "start": 1073.49,
+      "duration": 3.04,
+      "text": "The light's still on. Oh.",
+      "en": "The light's still on. Oh.",
+      "zh": ""
+    },
+    {
+      "start": 1077.53,
+      "duration": 2.13,
+      "text": "All right, Will, I think it's your turn.",
+      "en": "All right, Will, I think it's your turn.",
+      "zh": ""
+    },
+    {
+      "start": 1079.66,
+      "duration": 0.92,
+      "text": "It's this.",
+      "en": "It's this.",
+      "zh": ""
+    },
+    {
+      "start": 1080.58,
+      "duration": 2.38,
+      "text": "Wait! Throwing in a fog machine.",
+      "en": "Wait! Throwing in a fog machine.",
+      "zh": ""
+    },
+    {
+      "start": 1083.58,
+      "duration": 1.8,
+      "text": "And special effects?",
+      "en": "And special effects?",
+      "zh": ""
+    },
+    {
+      "start": 1085.38,
+      "duration": 3.33,
+      "text": "I didn't know we could order a fog. But out of the fog.",
+      "en": "I didn't know we could order a fog. But out of the fog.",
+      "zh": ""
+    },
+    {
+      "start": 1088.71,
+      "duration": 3.0,
+      "text": "Williams creation gloriously emerged.",
+      "en": "Williams creation gloriously emerged.",
+      "zh": ""
+    },
+    {
+      "start": 1092.01,
+      "duration": 0.71,
+      "text": "Sort of.",
+      "en": "Sort of.",
+      "zh": ""
+    },
+    {
+      "start": 1092.72,
+      "duration": 1.91,
+      "text": "I want you to hold on to that. Wait.",
+      "en": "I want you to hold on to that. Wait.",
+      "zh": ""
+    },
+    {
+      "start": 1094.63,
+      "duration": 1.3,
+      "text": "This is the point, I realized.",
+      "en": "This is the point, I realized.",
+      "zh": ""
+    },
+    {
+      "start": 1095.93,
+      "duration": 0.75,
+      "text": "Will's drone.",
+      "en": "Will's drone.",
+      "zh": ""
+    },
+    {
+      "start": 1096.68,
+      "duration": 2.75,
+      "text": "had taken a sudden interest in what I was holding.",
+      "en": "had taken a sudden interest in what I was holding.",
+      "zh": ""
+    },
+    {
+      "start": 1099.43,
+      "duration": 2.96,
+      "text": "It’s looking at you Mark. It’s looking at you I suddenly feel unsafe",
+      "en": "It’s looking at you Mark. It’s looking at you I suddenly feel unsafe",
+      "zh": ""
+    },
+    {
+      "start": 1102.73,
+      "duration": 1.33,
+      "text": "Run away, Mark.",
+      "en": "Run away, Mark.",
+      "zh": ""
+    },
+    {
+      "start": 1104.06,
+      "duration": 3.05,
+      "text": "And it was totally tracking me until it wasn’t.",
+      "en": "And it was totally tracking me until it wasn’t.",
+      "zh": ""
+    },
+    {
+      "start": 1107.19,
+      "duration": 2.25,
+      "text": "I did finish it just 30 minutes ago.",
+      "en": "I did finish it just 30 minutes ago.",
+      "zh": ""
+    },
+    {
+      "start": 1109.44,
+      "duration": 1.96,
+      "text": "Will had very ambitiously",
+      "en": "Will had very ambitiously",
+      "zh": ""
+    },
+    {
+      "start": 1111.4,
+      "duration": 4.05,
+      "text": "taken the Anduril approach of attempting to actively track the target drone.",
+      "en": "taken the Anduril approach of attempting to actively track the target drone.",
+      "zh": ""
+    },
+    {
+      "start": 1115.49,
+      "duration": 3.79,
+      "text": "Ultimately, his hunting drone was using eight overlapping photodetectors",
+      "en": "Ultimately, his hunting drone was using eight overlapping photodetectors",
+      "zh": ""
+    },
+    {
+      "start": 1119.28,
+      "duration": 3.76,
+      "text": "to look for a specific IR source on the target drone I was holding,",
+      "en": "to look for a specific IR source on the target drone I was holding,",
+      "zh": ""
+    },
+    {
+      "start": 1123.04,
+      "duration": 1.08,
+      "text": "and then it would keep itself",
+      "en": "and then it would keep itself",
+      "zh": ""
+    },
+    {
+      "start": 1124.12,
+      "duration": 3.51,
+      "text": "oriented in the direction where that signal was the strongest.",
+      "en": "oriented in the direction where that signal was the strongest.",
+      "zh": ""
+    },
+    {
+      "start": 1127.63,
+      "duration": 3.75,
+      "text": "You have to attach this thing to the target drone for your drone",
+      "en": "You have to attach this thing to the target drone for your drone",
+      "zh": ""
+    },
+    {
+      "start": 1131.38,
+      "duration": 1.54,
+      "text": "to know where it is. uhh yeah.",
+      "en": "to know where it is. uhh yeah.",
+      "zh": ""
+    },
+    {
+      "start": 1133.67,
+      "duration": 2.71,
+      "text": "I mean, how's it going to take it down? by smashing into it.",
+      "en": "I mean, how's it going to take it down? by smashing into it.",
+      "zh": ""
+    },
+    {
+      "start": 1137.72,
+      "duration": 0.83,
+      "text": "Let's do it.",
+      "en": "Let's do it.",
+      "zh": ""
+    },
+    {
+      "start": 1138.55,
+      "duration": 3.55,
+      "text": "And this is where Will brought in his secret weapon, Peter Sripol",
+      "en": "And this is where Will brought in his secret weapon, Peter Sripol",
+      "zh": ""
+    },
+    {
+      "start": 1142.14,
+      "duration": 2.09,
+      "text": "But to be fair, all Peter was actually doing",
+      "en": "But to be fair, all Peter was actually doing",
+      "zh": ""
+    },
+    {
+      "start": 1144.23,
+      "duration": 3.0,
+      "text": "was hitting the gas pedal on the drone at the right time.",
+      "en": "was hitting the gas pedal on the drone at the right time.",
+      "zh": ""
+    },
+    {
+      "start": 1147.23,
+      "duration": 3.42,
+      "text": "All the other choices were being made autonomously by the drone itself.",
+      "en": "All the other choices were being made autonomously by the drone itself.",
+      "zh": ""
+    },
+    {
+      "start": 1150.69,
+      "duration": 2.96,
+      "text": "Okay, I'm taking off, and then we're going autonomous.",
+      "en": "Okay, I'm taking off, and then we're going autonomous.",
+      "zh": ""
+    },
+    {
+      "start": 1153.65,
+      "duration": 0.63,
+      "text": "All right.",
+      "en": "All right.",
+      "zh": ""
+    },
+    {
+      "start": 1154.28,
+      "duration": 1.62,
+      "text": "So it's it's hunting.",
+      "en": "So it's it's hunting.",
+      "zh": ""
+    },
+    {
+      "start": 1155.9,
+      "duration": 2.34,
+      "text": "Oh, it's going towards the drone. Run!",
+      "en": "Oh, it's going towards the drone. Run!",
+      "zh": ""
+    },
+    {
+      "start": 1158.24,
+      "duration": 2.17,
+      "text": "Ohh. Oh it missed!",
+      "en": "Ohh. Oh it missed!",
+      "zh": ""
+    },
+    {
+      "start": 1160.41,
+      "duration": 1.54,
+      "text": "Oh boy! it’s coming back",
+      "en": "Oh boy! it’s coming back",
+      "zh": ""
+    },
+    {
+      "start": 1162.2,
+      "duration": 0.96,
+      "text": "Okay.",
+      "en": "Okay.",
+      "zh": ""
+    },
+    {
+      "start": 1163.2,
+      "duration": 1.17,
+      "text": "Go!",
+      "en": "Go!",
+      "zh": ""
+    },
+    {
+      "start": 1164.62,
+      "duration": 1.71,
+      "text": "it reminds me of like Toro.",
+      "en": "it reminds me of like Toro.",
+      "zh": ""
+    },
+    {
+      "start": 1166.33,
+      "duration": 1.21,
+      "text": "Toro.",
+      "en": "Toro.",
+      "zh": ""
+    },
+    {
+      "start": 1169.54,
+      "duration": 2.55,
+      "text": "Ohhh",
+      "en": "Ohhh",
+      "zh": ""
+    },
+    {
+      "start": 1172.09,
+      "duration": 1.08,
+      "text": "that looked pretty good.",
+      "en": "that looked pretty good.",
+      "zh": ""
+    },
+    {
+      "start": 1173.3,
+      "duration": 2.87,
+      "text": "But after a series of near misses.",
+      "en": "But after a series of near misses.",
+      "zh": ""
+    },
+    {
+      "start": 1176.17,
+      "duration": 2.05,
+      "text": "yes, the hunter got serious.",
+      "en": "yes, the hunter got serious.",
+      "zh": ""
+    },
+    {
+      "start": 1178.93,
+      "duration": 2.38,
+      "text": "Oh. Whoa.",
+      "en": "Oh. Whoa.",
+      "zh": ""
+    },
+    {
+      "start": 1181.31,
+      "duration": 1.04,
+      "text": "Nice.",
+      "en": "Nice.",
+      "zh": ""
+    },
+    {
+      "start": 1182.35,
+      "duration": 1.79,
+      "text": "Smashing into the drone",
+      "en": "Smashing into the drone",
+      "zh": ""
+    },
+    {
+      "start": 1184.14,
+      "duration": 3.75,
+      "text": "for the final kill of the night and taking a much deserved victory lap.",
+      "en": "for the final kill of the night and taking a much deserved victory lap.",
+      "zh": ""
+    },
+    {
+      "start": 1189.52,
+      "duration": 2.3,
+      "text": "round of applause.",
+      "en": "round of applause.",
+      "zh": ""
+    },
+    {
+      "start": 1193.11,
+      "duration": 0.75,
+      "text": "That was cool.",
+      "en": "That was cool.",
+      "zh": ""
+    },
+    {
+      "start": 1193.86,
+      "duration": 2.5,
+      "text": "Time to announce the winner of the drone defense derby",
+      "en": "Time to announce the winner of the drone defense derby",
+      "zh": ""
+    },
+    {
+      "start": 1196.36,
+      "duration": 2.42,
+      "text": "I get to decide since this is my channel.",
+      "en": "I get to decide since this is my channel.",
+      "zh": ""
+    },
+    {
+      "start": 1198.78,
+      "duration": 2.71,
+      "text": "And honestly, I gotta give this one to William. Yeah.",
+      "en": "And honestly, I gotta give this one to William. Yeah.",
+      "zh": ""
+    },
+    {
+      "start": 1201.49,
+      "duration": 4.8,
+      "text": "As much as I hate to say it. Oh, I didn’t sleep at all. I deserve it.",
+      "en": "As much as I hate to say it. Oh, I didn’t sleep at all. I deserve it.",
+      "zh": ""
+    },
+    {
+      "start": 1206.29,
+      "duration": 3.42,
+      "text": "From an engineering standpoint, it's very, very impressive.",
+      "en": "From an engineering standpoint, it's very, very impressive.",
+      "zh": ""
+    },
+    {
+      "start": 1209.71,
+      "duration": 3.59,
+      "text": "And your prize, you get three Hack Packs.",
+      "en": "And your prize, you get three Hack Packs.",
+      "zh": ""
+    },
+    {
+      "start": 1213.42,
+      "duration": 2.04,
+      "text": "Whoa oh oh.",
+      "en": "Whoa oh oh.",
+      "zh": ""
+    },
+    {
+      "start": 1215.46,
+      "duration": 3.21,
+      "text": "Now you guys can, you know, hone those engineering skills in.",
+      "en": "Now you guys can, you know, hone those engineering skills in.",
+      "zh": ""
+    },
+    {
+      "start": 1219.22,
+      "duration": 3.13,
+      "text": "And so if you too want to hone your own engineering skills or heck,",
+      "en": "And so if you too want to hone your own engineering skills or heck,",
+      "zh": ""
+    },
+    {
+      "start": 1222.35,
+      "duration": 3.58,
+      "text": "even just begin to learn some basic building skills in the easiest way",
+      "en": "even just begin to learn some basic building skills in the easiest way",
+      "zh": ""
+    },
+    {
+      "start": 1225.93,
+      "duration": 2.75,
+      "text": "possible while having a ton of fun at the same time.",
+      "en": "possible while having a ton of fun at the same time.",
+      "zh": ""
+    },
+    {
+      "start": 1228.68,
+      "duration": 3.51,
+      "text": "Be sure to check out that link in the video description to CrunchLabs.com",
+      "en": "Be sure to check out that link in the video description to CrunchLabs.com",
+      "zh": ""
+    },
+    {
+      "start": 1232.19,
+      "duration": 3.38,
+      "text": "to get your free Hack Pack box as the Early Adopter special.",
+      "en": "to get your free Hack Pack box as the Early Adopter special.",
+      "zh": ""
+    }
+  ],
+  "words": []
+}

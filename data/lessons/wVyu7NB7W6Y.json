@@ -1,0 +1,5003 @@
+{
+  "cues": [
+    {
+      "start": 0.36,
+      "duration": 2.31,
+      "text": "- This is Linus from Linus Tech Tips",
+      "en": "- This is Linus from Linus Tech Tips",
+      "zh": ""
+    },
+    {
+      "start": 2.67,
+      "duration": 3.06,
+      "text": "and we hacked the phone network in order to spy on him.",
+      "en": "and we hacked the phone network in order to spy on him.",
+      "zh": ""
+    },
+    {
+      "start": 5.73,
+      "duration": 1.95,
+      "text": "- That's pretty messed up Derek.",
+      "en": "- That's pretty messed up Derek.",
+      "zh": ""
+    },
+    {
+      "start": 7.68,
+      "duration": 2.04,
+      "text": "I slept easier not knowing that.",
+      "en": "I slept easier not knowing that.",
+      "zh": ""
+    },
+    {
+      "start": 9.72,
+      "duration": 2.13,
+      "text": "- We intercepted his phone calls",
+      "en": "- We intercepted his phone calls",
+      "zh": ""
+    },
+    {
+      "start": 11.85,
+      "duration": 2.58,
+      "text": "and stole his two-factor passcodes.",
+      "en": "and stole his two-factor passcodes.",
+      "zh": ""
+    },
+    {
+      "start": 14.43,
+      "duration": 1.41,
+      "text": "Is that your number Linus?",
+      "en": "Is that your number Linus?",
+      "zh": ""
+    },
+    {
+      "start": 15.84,
+      "duration": 3.96,
+      "text": "- Yeah, but I didn't get, mine didn't even ring.",
+      "en": "- Yeah, but I didn't get, mine didn't even ring.",
+      "zh": ""
+    },
+    {
+      "start": 19.8,
+      "duration": 1.44,
+      "text": "- We didn't touch his phone.",
+      "en": "- We didn't touch his phone.",
+      "zh": ""
+    },
+    {
+      "start": 21.24,
+      "duration": 3.12,
+      "text": "We didn't send him an email or a text, nothing.",
+      "en": "We didn't send him an email or a text, nothing.",
+      "zh": ""
+    },
+    {
+      "start": 24.36,
+      "duration": 3.14,
+      "text": "We did it all remotely and the worst part is",
+      "en": "We did it all remotely and the worst part is",
+      "zh": ""
+    },
+    {
+      "start": 27.5,
+      "duration": 1.48,
+      "text": "it could happen to you.",
+      "en": "it could happen to you.",
+      "zh": ""
+    },
+    {
+      "start": 28.98,
+      "duration": 3.12,
+      "text": "- I think I'm really surprised that, no offense,",
+      "en": "- I think I'm really surprised that, no offense,",
+      "zh": ""
+    },
+    {
+      "start": 32.1,
+      "duration": 1.6,
+      "text": "but like you guys did it.",
+      "en": "but like you guys did it.",
+      "zh": ""
+    },
+    {
+      "start": 33.7,
+      "duration": 1.31,
+      "text": "(Derek Laughing)",
+      "en": "(Derek Laughing)",
+      "zh": ""
+    },
+    {
+      "start": 35.01,
+      "duration": 3.36,
+      "text": "Well, you're not a career criminal hacker mastermind,",
+      "en": "Well, you're not a career criminal hacker mastermind,",
+      "zh": ""
+    },
+    {
+      "start": 38.37,
+      "duration": 1.65,
+      "text": "necessarily. - No, indeed.",
+      "en": "necessarily. - No, indeed.",
+      "zh": ""
+    },
+    {
+      "start": 40.02,
+      "duration": 2.07,
+      "text": "- But here it is, a normal looking",
+      "en": "- But here it is, a normal looking",
+      "zh": ""
+    },
+    {
+      "start": 42.09,
+      "duration": 4.17,
+      "text": "and feeling device with no, you know, obvious problem",
+      "en": "and feeling device with no, you know, obvious problem",
+      "zh": ""
+    },
+    {
+      "start": 46.26,
+      "duration": 4.11,
+      "text": "with it and you just receive my call",
+      "en": "with it and you just receive my call",
+      "zh": ""
+    },
+    {
+      "start": 50.37,
+      "duration": 1.65,
+      "text": "instead of me receiving it.",
+      "en": "instead of me receiving it.",
+      "zh": ""
+    },
+    {
+      "start": 52.02,
+      "duration": 1.29,
+      "text": "Just what, like on command?",
+      "en": "Just what, like on command?",
+      "zh": ""
+    },
+    {
+      "start": 53.31,
+      "duration": 2.07,
+      "text": "You just, it's an app on your computer or what?",
+      "en": "You just, it's an app on your computer or what?",
+      "zh": ""
+    },
+    {
+      "start": 55.38,
+      "duration": 1.02,
+      "text": "I don't even know.",
+      "en": "I don't even know.",
+      "zh": ""
+    },
+    {
+      "start": 56.4,
+      "duration": 2.65,
+      "text": "- But before we explain how we did all that,",
+      "en": "- But before we explain how we did all that,",
+      "zh": ""
+    },
+    {
+      "start": 59.05,
+      "duration": 4.55,
+      "text": "(upbeat music) (crowd clapping)",
+      "en": "(upbeat music) (crowd clapping)",
+      "zh": ""
+    },
+    {
+      "start": 63.6,
+      "duration": 1.65,
+      "text": "the first startup that Steve Jobs",
+      "en": "the first startup that Steve Jobs",
+      "zh": ""
+    },
+    {
+      "start": 65.25,
+      "duration": 2.4,
+      "text": "and Steve Wozniak made wasn't Apple?",
+      "en": "and Steve Wozniak made wasn't Apple?",
+      "zh": ""
+    },
+    {
+      "start": 67.65,
+      "duration": 2.73,
+      "text": "No, they were tackling a different problem.",
+      "en": "No, they were tackling a different problem.",
+      "zh": ""
+    },
+    {
+      "start": 70.38,
+      "duration": 2.79,
+      "text": "One where their product was actually illegal.",
+      "en": "One where their product was actually illegal.",
+      "zh": ""
+    },
+    {
+      "start": 73.17,
+      "duration": 1.83,
+      "text": "So back in the 1970s,",
+      "en": "So back in the 1970s,",
+      "zh": ""
+    },
+    {
+      "start": 75.0,
+      "duration": 2.97,
+      "text": "long distance phone calls were really expensive.",
+      "en": "long distance phone calls were really expensive.",
+      "zh": ""
+    },
+    {
+      "start": 77.97,
+      "duration": 1.2,
+      "text": "Adjusted for inflation,",
+      "en": "Adjusted for inflation,",
+      "zh": ""
+    },
+    {
+      "start": 79.17,
+      "duration": 4.23,
+      "text": "a call from New York to London could run you $25 a minute.",
+      "en": "a call from New York to London could run you $25 a minute.",
+      "zh": ""
+    },
+    {
+      "start": 83.4,
+      "duration": 3.33,
+      "text": "So these two entrepreneurs created a little blue box",
+      "en": "So these two entrepreneurs created a little blue box",
+      "zh": ""
+    },
+    {
+      "start": 86.73,
+      "duration": 3.6,
+      "text": "and what it did was it hacked the telephone network.",
+      "en": "and what it did was it hacked the telephone network.",
+      "zh": ""
+    },
+    {
+      "start": 90.33,
+      "duration": 2.13,
+      "text": "They could trick the telephone company into connecting",
+      "en": "They could trick the telephone company into connecting",
+      "zh": ""
+    },
+    {
+      "start": 92.46,
+      "duration": 2.85,
+      "text": "the calls for free among other things.",
+      "en": "the calls for free among other things.",
+      "zh": ""
+    },
+    {
+      "start": 95.31,
+      "duration": 3.36,
+      "text": "- We were young and what we learned",
+      "en": "- We were young and what we learned",
+      "zh": ""
+    },
+    {
+      "start": 98.67,
+      "duration": 3.78,
+      "text": "was that we could build something ourselves",
+      "en": "was that we could build something ourselves",
+      "zh": ""
+    },
+    {
+      "start": 104.67,
+      "duration": 4.77,
+      "text": "that could control billions of dollars worth",
+      "en": "that could control billions of dollars worth",
+      "zh": ""
+    },
+    {
+      "start": 109.44,
+      "duration": 2.37,
+      "text": "of infrastructure in the world.",
+      "en": "of infrastructure in the world.",
+      "zh": ""
+    },
+    {
+      "start": 111.81,
+      "duration": 2.52,
+      "text": "I don't think there would've ever been an Apple computer",
+      "en": "I don't think there would've ever been an Apple computer",
+      "zh": ""
+    },
+    {
+      "start": 114.33,
+      "duration": 1.95,
+      "text": "had there not been Blue Box.",
+      "en": "had there not been Blue Box.",
+      "zh": ""
+    },
+    {
+      "start": 116.28,
+      "duration": 1.44,
+      "text": "- [Interviewer] Woz said you called the Pope.",
+      "en": "- [Interviewer] Woz said you called the Pope.",
+      "zh": ""
+    },
+    {
+      "start": 117.72,
+      "duration": 1.05,
+      "text": "- Yeah, we did call the pope.",
+      "en": "- Yeah, we did call the pope.",
+      "zh": ""
+    },
+    {
+      "start": 118.77,
+      "duration": 2.52,
+      "text": "Woz pretended to be Henry Kissinger",
+      "en": "Woz pretended to be Henry Kissinger",
+      "zh": ""
+    },
+    {
+      "start": 121.29,
+      "duration": 1.14,
+      "text": "and we got the number of the Vatican",
+      "en": "and we got the number of the Vatican",
+      "zh": ""
+    },
+    {
+      "start": 122.43,
+      "duration": 2.13,
+      "text": "and we called the Pope and they started waking people up",
+      "en": "and we called the Pope and they started waking people up",
+      "zh": ""
+    },
+    {
+      "start": 124.56,
+      "duration": 2.88,
+      "text": "in the hierarchy, you know, I don't know, cardinals",
+      "en": "in the hierarchy, you know, I don't know, cardinals",
+      "zh": ""
+    },
+    {
+      "start": 127.44,
+      "duration": 1.95,
+      "text": "and they actually sent someone",
+      "en": "and they actually sent someone",
+      "zh": ""
+    },
+    {
+      "start": 129.39,
+      "duration": 3.87,
+      "text": "to wake up the Pope when finally we just burst out laughing",
+      "en": "to wake up the Pope when finally we just burst out laughing",
+      "zh": ""
+    },
+    {
+      "start": 133.26,
+      "duration": 3.21,
+      "text": "and they realized that we weren't Henry Kissinger.",
+      "en": "and they realized that we weren't Henry Kissinger.",
+      "zh": ""
+    },
+    {
+      "start": 136.47,
+      "duration": 2.31,
+      "text": "- But how were they able to do all of this",
+      "en": "- But how were they able to do all of this",
+      "zh": ""
+    },
+    {
+      "start": 138.78,
+      "duration": 4.29,
+      "text": "with one electronic box made from Radio Shack parts?",
+      "en": "with one electronic box made from Radio Shack parts?",
+      "zh": ""
+    },
+    {
+      "start": 143.07,
+      "duration": 1.41,
+      "text": "(telephone ringing)",
+      "en": "(telephone ringing)",
+      "zh": ""
+    },
+    {
+      "start": 144.48,
+      "duration": 4.53,
+      "text": "Until the mid-1920s, most phones had no way of dialing.",
+      "en": "Until the mid-1920s, most phones had no way of dialing.",
+      "zh": ""
+    },
+    {
+      "start": 149.01,
+      "duration": 1.44,
+      "text": "When your phone was on the hook,",
+      "en": "When your phone was on the hook,",
+      "zh": ""
+    },
+    {
+      "start": 150.45,
+      "duration": 1.86,
+      "text": "about 48 volts was connected",
+      "en": "about 48 volts was connected",
+      "zh": ""
+    },
+    {
+      "start": 152.31,
+      "duration": 2.28,
+      "text": "from the exchange to your phone.",
+      "en": "from the exchange to your phone.",
+      "zh": ""
+    },
+    {
+      "start": 154.59,
+      "duration": 1.44,
+      "text": "Then when you lifted the receiver,",
+      "en": "Then when you lifted the receiver,",
+      "zh": ""
+    },
+    {
+      "start": 156.03,
+      "duration": 2.07,
+      "text": "an internal circuit connected the speaker",
+      "en": "an internal circuit connected the speaker",
+      "zh": ""
+    },
+    {
+      "start": 158.1,
+      "duration": 2.13,
+      "text": "and microphone drawing power",
+      "en": "and microphone drawing power",
+      "zh": ""
+    },
+    {
+      "start": 160.23,
+      "duration": 3.03,
+      "text": "and that caused the voltage to drop to around 10 volts.",
+      "en": "and that caused the voltage to drop to around 10 volts.",
+      "zh": ""
+    },
+    {
+      "start": 163.26,
+      "duration": 2.88,
+      "text": "And at the telephone exchange this drop turned on",
+      "en": "And at the telephone exchange this drop turned on",
+      "zh": ""
+    },
+    {
+      "start": 166.14,
+      "duration": 3.12,
+      "text": "a light bulb alerting the operator who would then pick up",
+      "en": "a light bulb alerting the operator who would then pick up",
+      "zh": ""
+    },
+    {
+      "start": 169.26,
+      "duration": 1.8,
+      "text": "and ask who you're calling.",
+      "en": "and ask who you're calling.",
+      "zh": ""
+    },
+    {
+      "start": 171.06,
+      "duration": 1.17,
+      "text": "- [Sarah] Boston.",
+      "en": "- [Sarah] Boston.",
+      "zh": ""
+    },
+    {
+      "start": 172.23,
+      "duration": 2.64,
+      "text": "- Sarah, get me the Bluebird Diner.",
+      "en": "- Sarah, get me the Bluebird Diner.",
+      "zh": ""
+    },
+    {
+      "start": 174.87,
+      "duration": 1.44,
+      "text": "- And after consulting a directory,",
+      "en": "- And after consulting a directory,",
+      "zh": ""
+    },
+    {
+      "start": 176.31,
+      "duration": 2.28,
+      "text": "they would connect a wire between your line",
+      "en": "they would connect a wire between your line",
+      "zh": ""
+    },
+    {
+      "start": 178.59,
+      "duration": 1.26,
+      "text": "and your friends.",
+      "en": "and your friends.",
+      "zh": ""
+    },
+    {
+      "start": 179.85,
+      "duration": 3.27,
+      "text": "Manually connecting calls was labor intensive.",
+      "en": "Manually connecting calls was labor intensive.",
+      "zh": ""
+    },
+    {
+      "start": 183.12,
+      "duration": 3.48,
+      "text": "Operators had to handle hundreds of connections per hour.",
+      "en": "Operators had to handle hundreds of connections per hour.",
+      "zh": ""
+    },
+    {
+      "start": 186.6,
+      "duration": 1.66,
+      "text": "In 1910, one pundit said,",
+      "en": "In 1910, one pundit said,",
+      "zh": ""
+    },
+    {
+      "start": 188.26,
+      "duration": 1.4,
+      "text": "\"Soon the telephone system will need",
+      "en": "\"Soon the telephone system will need",
+      "zh": ""
+    },
+    {
+      "start": 189.66,
+      "duration": 1.98,
+      "text": "to employ every working age woman",
+      "en": "to employ every working age woman",
+      "zh": ""
+    },
+    {
+      "start": 191.64,
+      "duration": 2.58,
+      "text": "in the country as an operator.\"",
+      "en": "in the country as an operator.\"",
+      "zh": ""
+    },
+    {
+      "start": 194.22,
+      "duration": 2.4,
+      "text": "By 1950, there were more than a million",
+      "en": "By 1950, there were more than a million",
+      "zh": ""
+    },
+    {
+      "start": 196.62,
+      "duration": 1.65,
+      "text": "of them in the US alone.",
+      "en": "of them in the US alone.",
+      "zh": ""
+    },
+    {
+      "start": 199.26,
+      "duration": 1.83,
+      "text": "To reduce costs, companies sought",
+      "en": "To reduce costs, companies sought",
+      "zh": ""
+    },
+    {
+      "start": 201.09,
+      "duration": 2.22,
+      "text": "to automate the call connection process",
+      "en": "to automate the call connection process",
+      "zh": ""
+    },
+    {
+      "start": 203.31,
+      "duration": 3.39,
+      "text": "and one solution was the rotary dial telephone.",
+      "en": "and one solution was the rotary dial telephone.",
+      "zh": ""
+    },
+    {
+      "start": 206.7,
+      "duration": 2.4,
+      "text": "To use it, you place your finger in a number hole,",
+      "en": "To use it, you place your finger in a number hole,",
+      "zh": ""
+    },
+    {
+      "start": 209.1,
+      "duration": 4.11,
+      "text": "rotate it to the end and the dial rotates back",
+      "en": "rotate it to the end and the dial rotates back",
+      "zh": ""
+    },
+    {
+      "start": 213.21,
+      "duration": 3.99,
+      "text": "and on the inside a metal disc with ridge's turns,",
+      "en": "and on the inside a metal disc with ridge's turns,",
+      "zh": ""
+    },
+    {
+      "start": 217.2,
+      "duration": 2.91,
+      "text": "each ridge pushes two metal plates into contact",
+      "en": "each ridge pushes two metal plates into contact",
+      "zh": ""
+    },
+    {
+      "start": 220.11,
+      "duration": 2.61,
+      "text": "completing the circuit to the exchange.",
+      "en": "completing the circuit to the exchange.",
+      "zh": ""
+    },
+    {
+      "start": 223.59,
+      "duration": 3.12,
+      "text": "The dial sends pulses to match each number.",
+      "en": "The dial sends pulses to match each number.",
+      "zh": ""
+    },
+    {
+      "start": 226.71,
+      "duration": 2.52,
+      "text": "For the number two, it sends two pulses.",
+      "en": "For the number two, it sends two pulses.",
+      "zh": ""
+    },
+    {
+      "start": 229.23,
+      "duration": 2.67,
+      "text": "For the number three it sends three pulses.",
+      "en": "For the number three it sends three pulses.",
+      "zh": ""
+    },
+    {
+      "start": 233.34,
+      "duration": 3.33,
+      "text": "This goes on up to 10 pulses for the number zero,",
+      "en": "This goes on up to 10 pulses for the number zero,",
+      "zh": ""
+    },
+    {
+      "start": 236.67,
+      "duration": 2.28,
+      "text": "which is why zero is at the far end of the dial",
+      "en": "which is why zero is at the far end of the dial",
+      "zh": ""
+    },
+    {
+      "start": 238.95,
+      "duration": 2.28,
+      "text": "instead of beside the one.",
+      "en": "instead of beside the one.",
+      "zh": ""
+    },
+    {
+      "start": 241.23,
+      "duration": 3.03,
+      "text": "Those pulses that travel down the phone line, they determine",
+      "en": "Those pulses that travel down the phone line, they determine",
+      "zh": ""
+    },
+    {
+      "start": 244.26,
+      "duration": 1.98,
+      "text": "how your line is connected.",
+      "en": "how your line is connected.",
+      "zh": ""
+    },
+    {
+      "start": 246.24,
+      "duration": 2.52,
+      "text": "So they're known as control signals,",
+      "en": "So they're known as control signals,",
+      "zh": ""
+    },
+    {
+      "start": 248.76,
+      "duration": 2.64,
+      "text": "but as the length of the transmission line was increased,",
+      "en": "but as the length of the transmission line was increased,",
+      "zh": ""
+    },
+    {
+      "start": 251.4,
+      "duration": 2.31,
+      "text": "so did its capacitance and resistance",
+      "en": "so did its capacitance and resistance",
+      "zh": ""
+    },
+    {
+      "start": 253.71,
+      "duration": 3.15,
+      "text": "and this caused the clear input signals to become distorted,",
+      "en": "and this caused the clear input signals to become distorted,",
+      "zh": ""
+    },
+    {
+      "start": 256.86,
+      "duration": 2.13,
+      "text": "smoothing out voltage changes.",
+      "en": "smoothing out voltage changes.",
+      "zh": ""
+    },
+    {
+      "start": 258.99,
+      "duration": 2.01,
+      "text": "So now the pulses couldn't trigger",
+      "en": "So now the pulses couldn't trigger",
+      "zh": ""
+    },
+    {
+      "start": 261.0,
+      "duration": 1.83,
+      "text": "the switching at the exchange.",
+      "en": "the switching at the exchange.",
+      "zh": ""
+    },
+    {
+      "start": 262.83,
+      "duration": 1.92,
+      "text": "While this wasn't a problem for local calls,",
+      "en": "While this wasn't a problem for local calls,",
+      "zh": ""
+    },
+    {
+      "start": 264.75,
+      "duration": 3.3,
+      "text": "it made automating long distance almost impossible.",
+      "en": "it made automating long distance almost impossible.",
+      "zh": ""
+    },
+    {
+      "start": 268.05,
+      "duration": 2.97,
+      "text": "Now all phone lines including long distance ones were built",
+      "en": "Now all phone lines including long distance ones were built",
+      "zh": ""
+    },
+    {
+      "start": 271.02,
+      "duration": 1.98,
+      "text": "to carry sounds in the human voice",
+      "en": "to carry sounds in the human voice",
+      "zh": ""
+    },
+    {
+      "start": 273.0,
+      "duration": 5.0,
+      "text": "and hearing range, mainly from 300 to 3,400 Hertz.",
+      "en": "and hearing range, mainly from 300 to 3,400 Hertz.",
+      "zh": ""
+    },
+    {
+      "start": 278.13,
+      "duration": 2.46,
+      "text": "So why not use this built-in capability",
+      "en": "So why not use this built-in capability",
+      "zh": ""
+    },
+    {
+      "start": 280.59,
+      "duration": 1.89,
+      "text": "to carry control signals.",
+      "en": "to carry control signals.",
+      "zh": ""
+    },
+    {
+      "start": 282.48,
+      "duration": 3.54,
+      "text": "To do this, phone companies introduced the touch tone",
+      "en": "To do this, phone companies introduced the touch tone",
+      "zh": ""
+    },
+    {
+      "start": 286.02,
+      "duration": 2.31,
+      "text": "or push button telephone.",
+      "en": "or push button telephone.",
+      "zh": ""
+    },
+    {
+      "start": 288.33,
+      "duration": 1.11,
+      "text": "On a keypad,",
+      "en": "On a keypad,",
+      "zh": ""
+    },
+    {
+      "start": 289.44,
+      "duration": 3.72,
+      "text": "specific frequencies were assigned to the horizontal axis",
+      "en": "specific frequencies were assigned to the horizontal axis",
+      "zh": ""
+    },
+    {
+      "start": 293.16,
+      "duration": 1.89,
+      "text": "and the vertical axis",
+      "en": "and the vertical axis",
+      "zh": ""
+    },
+    {
+      "start": 295.05,
+      "duration": 3.12,
+      "text": "so that each button was uniquely identifiable",
+      "en": "so that each button was uniquely identifiable",
+      "zh": ""
+    },
+    {
+      "start": 298.17,
+      "duration": 2.23,
+      "text": "by the combination of two tones.",
+      "en": "by the combination of two tones.",
+      "zh": ""
+    },
+    {
+      "start": 300.4,
+      "duration": 2.83,
+      "text": "(buttons beeping)",
+      "en": "(buttons beeping)",
+      "zh": ""
+    },
+    {
+      "start": 306.99,
+      "duration": 2.67,
+      "text": "By sending control signals within the voice band,",
+      "en": "By sending control signals within the voice band,",
+      "zh": ""
+    },
+    {
+      "start": 309.66,
+      "duration": 1.92,
+      "text": "all telephone networks could receive it",
+      "en": "all telephone networks could receive it",
+      "zh": ""
+    },
+    {
+      "start": 311.58,
+      "duration": 3.75,
+      "text": "using their existing systems independent of distance.",
+      "en": "using their existing systems independent of distance.",
+      "zh": ""
+    },
+    {
+      "start": 315.33,
+      "duration": 3.39,
+      "text": "But with this innovation came an opportunity for jobs",
+      "en": "But with this innovation came an opportunity for jobs",
+      "zh": ""
+    },
+    {
+      "start": 318.72,
+      "duration": 2.28,
+      "text": "and Wozniak to exploit.",
+      "en": "and Wozniak to exploit.",
+      "zh": ""
+    },
+    {
+      "start": 321.0,
+      "duration": 3.09,
+      "text": "When you made a long distance call, it was first routed",
+      "en": "When you made a long distance call, it was first routed",
+      "zh": ""
+    },
+    {
+      "start": 324.09,
+      "duration": 1.89,
+      "text": "to a central node.",
+      "en": "to a central node.",
+      "zh": ""
+    },
+    {
+      "start": 325.98,
+      "duration": 2.67,
+      "text": "This node communicated with a remote node",
+      "en": "This node communicated with a remote node",
+      "zh": ""
+    },
+    {
+      "start": 328.65,
+      "duration": 1.77,
+      "text": "and they determined if a line was free,",
+      "en": "and they determined if a line was free,",
+      "zh": ""
+    },
+    {
+      "start": 330.42,
+      "duration": 1.77,
+      "text": "by checking whether both sides",
+      "en": "by checking whether both sides",
+      "zh": ""
+    },
+    {
+      "start": 332.19,
+      "duration": 3.0,
+      "text": "were sending a 2600 Hertz tone.",
+      "en": "were sending a 2600 Hertz tone.",
+      "zh": ""
+    },
+    {
+      "start": 336.21,
+      "duration": 2.79,
+      "text": "So Jobs and Woz exploited this.",
+      "en": "So Jobs and Woz exploited this.",
+      "zh": ""
+    },
+    {
+      "start": 339.0,
+      "duration": 3.12,
+      "text": "First, they would dial a toll free 1-800 number",
+      "en": "First, they would dial a toll free 1-800 number",
+      "zh": ""
+    },
+    {
+      "start": 342.12,
+      "duration": 2.52,
+      "text": "which would get them into a local node",
+      "en": "which would get them into a local node",
+      "zh": ""
+    },
+    {
+      "start": 344.64,
+      "duration": 5.0,
+      "text": "and then they would send a 2600 hertz tone into the phone.",
+      "en": "and then they would send a 2600 hertz tone into the phone.",
+      "zh": ""
+    },
+    {
+      "start": 349.83,
+      "duration": 2.04,
+      "text": "This would trick the remote node",
+      "en": "This would trick the remote node",
+      "zh": ""
+    },
+    {
+      "start": 351.87,
+      "duration": 2.58,
+      "text": "into thinking the call had been disconnected.",
+      "en": "into thinking the call had been disconnected.",
+      "zh": ""
+    },
+    {
+      "start": 354.45,
+      "duration": 3.15,
+      "text": "So the remote node would start playing the 2600 hertz tone",
+      "en": "So the remote node would start playing the 2600 hertz tone",
+      "zh": ""
+    },
+    {
+      "start": 357.6,
+      "duration": 3.72,
+      "text": "again, but Jobs and Woz were still on the line.",
+      "en": "again, but Jobs and Woz were still on the line.",
+      "zh": ""
+    },
+    {
+      "start": 361.32,
+      "duration": 2.52,
+      "text": "And when they stopped playing the tone on their side,",
+      "en": "And when they stopped playing the tone on their side,",
+      "zh": ""
+    },
+    {
+      "start": 363.84,
+      "duration": 3.06,
+      "text": "the remote node assumed a new call was being placed.",
+      "en": "the remote node assumed a new call was being placed.",
+      "zh": ""
+    },
+    {
+      "start": 366.9,
+      "duration": 2.16,
+      "text": "By sending a key pulse tone",
+      "en": "By sending a key pulse tone",
+      "zh": ""
+    },
+    {
+      "start": 369.06,
+      "duration": 1.8,
+      "text": "followed by the desired phone number",
+      "en": "followed by the desired phone number",
+      "zh": ""
+    },
+    {
+      "start": 370.86,
+      "duration": 3.42,
+      "text": "and ending with a start tone, they could connect",
+      "en": "and ending with a start tone, they could connect",
+      "zh": ""
+    },
+    {
+      "start": 374.28,
+      "duration": 3.03,
+      "text": "to any long distance number for free",
+      "en": "to any long distance number for free",
+      "zh": ""
+    },
+    {
+      "start": 377.31,
+      "duration": 2.46,
+      "text": "as the home node still believed it was connected",
+      "en": "as the home node still believed it was connected",
+      "zh": ""
+    },
+    {
+      "start": 379.77,
+      "duration": 1.8,
+      "text": "to a toll-free number.",
+      "en": "to a toll-free number.",
+      "zh": ""
+    },
+    {
+      "start": 383.04,
+      "duration": 3.21,
+      "text": "The vulnerabilities in the signaling system were obvious",
+      "en": "The vulnerabilities in the signaling system were obvious",
+      "zh": ""
+    },
+    {
+      "start": 386.25,
+      "duration": 2.64,
+      "text": "to mimic the 2600 hertz tone.",
+      "en": "to mimic the 2600 hertz tone.",
+      "zh": ""
+    },
+    {
+      "start": 388.89,
+      "duration": 2.4,
+      "text": "Some people would even use a toy whistle",
+      "en": "Some people would even use a toy whistle",
+      "zh": ""
+    },
+    {
+      "start": 391.29,
+      "duration": 2.55,
+      "text": "from a Cap'n Crunch cereal box.",
+      "en": "from a Cap'n Crunch cereal box.",
+      "zh": ""
+    },
+    {
+      "start": 393.84,
+      "duration": 2.66,
+      "text": "It just happened to make that frequency.",
+      "en": "It just happened to make that frequency.",
+      "zh": ""
+    },
+    {
+      "start": 396.5,
+      "duration": 2.23,
+      "text": "(whistle blowing)",
+      "en": "(whistle blowing)",
+      "zh": ""
+    },
+    {
+      "start": 398.73,
+      "duration": 2.01,
+      "text": "The telephone companies clearly needed",
+      "en": "The telephone companies clearly needed",
+      "zh": ""
+    },
+    {
+      "start": 400.74,
+      "duration": 2.31,
+      "text": "to develop a new signaling protocol",
+      "en": "to develop a new signaling protocol",
+      "zh": ""
+    },
+    {
+      "start": 403.05,
+      "duration": 3.24,
+      "text": "and their solution was to use a separate digital line",
+      "en": "and their solution was to use a separate digital line",
+      "zh": ""
+    },
+    {
+      "start": 406.29,
+      "duration": 2.07,
+      "text": "for carrying control signals.",
+      "en": "for carrying control signals.",
+      "zh": ""
+    },
+    {
+      "start": 408.36,
+      "duration": 2.22,
+      "text": "That way no one could control the network",
+      "en": "That way no one could control the network",
+      "zh": ""
+    },
+    {
+      "start": 410.58,
+      "duration": 2.61,
+      "text": "by sending tones down the voice line",
+      "en": "by sending tones down the voice line",
+      "zh": ""
+    },
+    {
+      "start": 413.19,
+      "duration": 4.11,
+      "text": "because it no longer controlled how the call was connected.",
+      "en": "because it no longer controlled how the call was connected.",
+      "zh": ""
+    },
+    {
+      "start": 417.3,
+      "duration": 3.66,
+      "text": "This new protocol was called Signaling System no. 7",
+      "en": "This new protocol was called Signaling System no. 7",
+      "zh": ""
+    },
+    {
+      "start": 420.96,
+      "duration": 1.74,
+      "text": "or SS7 for short.",
+      "en": "or SS7 for short.",
+      "zh": ""
+    },
+    {
+      "start": 422.7,
+      "duration": 3.09,
+      "text": "And it's still broadly in use today,",
+      "en": "And it's still broadly in use today,",
+      "zh": ""
+    },
+    {
+      "start": 425.79,
+      "duration": 3.06,
+      "text": "but it may not be as secure as people thought.",
+      "en": "but it may not be as secure as people thought.",
+      "zh": ""
+    },
+    {
+      "start": 430.08,
+      "duration": 2.52,
+      "text": "- Hello, my name is Latifa Al Maktoum.",
+      "en": "- Hello, my name is Latifa Al Maktoum.",
+      "zh": ""
+    },
+    {
+      "start": 432.6,
+      "duration": 1.14,
+      "text": "I was born- - Princess Latifa",
+      "en": "I was born- - Princess Latifa",
+      "zh": ""
+    },
+    {
+      "start": 433.74,
+      "duration": 2.7,
+      "text": "of Dubai claimed that her father Sheikh Mohammed,",
+      "en": "of Dubai claimed that her father Sheikh Mohammed,",
+      "zh": ""
+    },
+    {
+      "start": 436.44,
+      "duration": 2.49,
+      "text": "the ruling emir had held her in solitary confinement",
+      "en": "the ruling emir had held her in solitary confinement",
+      "zh": ""
+    },
+    {
+      "start": 438.93,
+      "duration": 3.54,
+      "text": "in the dark, beaten and sedated for several years.",
+      "en": "in the dark, beaten and sedated for several years.",
+      "zh": ""
+    },
+    {
+      "start": 442.47,
+      "duration": 1.95,
+      "text": "In late February, 2018,",
+      "en": "In late February, 2018,",
+      "zh": ""
+    },
+    {
+      "start": 444.42,
+      "duration": 3.66,
+      "text": "her Finnish martial arts instructor Tiina helped her escape.",
+      "en": "her Finnish martial arts instructor Tiina helped her escape.",
+      "zh": ""
+    },
+    {
+      "start": 449.07,
+      "duration": 1.59,
+      "text": "They fled to a yacht captain",
+      "en": "They fled to a yacht captain",
+      "zh": ""
+    },
+    {
+      "start": 450.66,
+      "duration": 3.42,
+      "text": "by former French intelligence officer, Hervé Jaubert.",
+      "en": "by former French intelligence officer, Hervé Jaubert.",
+      "zh": ""
+    },
+    {
+      "start": 454.08,
+      "duration": 3.69,
+      "text": "And for eight days they sailed toward India.",
+      "en": "And for eight days they sailed toward India.",
+      "zh": ""
+    },
+    {
+      "start": 457.77,
+      "duration": 3.72,
+      "text": "Latifa was hopeful but it wasn't to last.",
+      "en": "Latifa was hopeful but it wasn't to last.",
+      "zh": ""
+    },
+    {
+      "start": 461.49,
+      "duration": 2.79,
+      "text": "Late on the night of March 4th a dark boat pulled up",
+      "en": "Late on the night of March 4th a dark boat pulled up",
+      "zh": ""
+    },
+    {
+      "start": 464.28,
+      "duration": 2.82,
+      "text": "alongside it was sent by her father.",
+      "en": "alongside it was sent by her father.",
+      "zh": ""
+    },
+    {
+      "start": 468.42,
+      "duration": 3.42,
+      "text": "Laser cites pierced the smoke as agents boarded the yacht,",
+      "en": "Laser cites pierced the smoke as agents boarded the yacht,",
+      "zh": ""
+    },
+    {
+      "start": 471.84,
+      "duration": 2.76,
+      "text": "abducting Latifa and taking her back to Dubai.",
+      "en": "abducting Latifa and taking her back to Dubai.",
+      "zh": ""
+    },
+    {
+      "start": 478.05,
+      "duration": 2.49,
+      "text": "But how did they find her?",
+      "en": "But how did they find her?",
+      "zh": ""
+    },
+    {
+      "start": 480.54,
+      "duration": 2.37,
+      "text": "Well the captain had been the victim",
+      "en": "Well the captain had been the victim",
+      "zh": ""
+    },
+    {
+      "start": 482.91,
+      "duration": 2.43,
+      "text": "of a coordinated SS7 attack,",
+      "en": "of a coordinated SS7 attack,",
+      "zh": ""
+    },
+    {
+      "start": 485.34,
+      "duration": 2.25,
+      "text": "one aiming to pinpoint his location",
+      "en": "one aiming to pinpoint his location",
+      "zh": ""
+    },
+    {
+      "start": 487.59,
+      "duration": 3.42,
+      "text": "and by extension the whereabouts of the princess.",
+      "en": "and by extension the whereabouts of the princess.",
+      "zh": ""
+    },
+    {
+      "start": 491.01,
+      "duration": 4.29,
+      "text": "And I'm going to show you how using the exact same steps",
+      "en": "And I'm going to show you how using the exact same steps",
+      "zh": ""
+    },
+    {
+      "start": 495.3,
+      "duration": 4.53,
+      "text": "to spy on my friends with their permission of course.",
+      "en": "to spy on my friends with their permission of course.",
+      "zh": ""
+    },
+    {
+      "start": 499.83,
+      "duration": 3.9,
+      "text": "This is Karsten Nohl and Alexandre De Oliveira.",
+      "en": "This is Karsten Nohl and Alexandre De Oliveira.",
+      "zh": ""
+    },
+    {
+      "start": 503.73,
+      "duration": 1.74,
+      "text": "They are cybersecurity specialists",
+      "en": "They are cybersecurity specialists",
+      "zh": ""
+    },
+    {
+      "start": 505.47,
+      "duration": 2.22,
+      "text": "who are helping me spy on Linus.",
+      "en": "who are helping me spy on Linus.",
+      "zh": ""
+    },
+    {
+      "start": 507.69,
+      "duration": 2.7,
+      "text": "We took three steps to spy on him.",
+      "en": "We took three steps to spy on him.",
+      "zh": ""
+    },
+    {
+      "start": 510.39,
+      "duration": 2.49,
+      "text": "First you have to infiltrate SS7,",
+      "en": "First you have to infiltrate SS7,",
+      "zh": ""
+    },
+    {
+      "start": 512.88,
+      "duration": 4.26,
+      "text": "second gain trust and third attack.",
+      "en": "second gain trust and third attack.",
+      "zh": ""
+    },
+    {
+      "start": 517.14,
+      "duration": 2.04,
+      "text": "Of course, the main reason any of this is possible",
+      "en": "Of course, the main reason any of this is possible",
+      "zh": ""
+    },
+    {
+      "start": 519.18,
+      "duration": 1.08,
+      "text": "is step one.",
+      "en": "is step one.",
+      "zh": ""
+    },
+    {
+      "start": 522.27,
+      "duration": 2.49,
+      "text": "When SS7 was introduced in 1980,",
+      "en": "When SS7 was introduced in 1980,",
+      "zh": ""
+    },
+    {
+      "start": 524.76,
+      "duration": 2.13,
+      "text": "mobile phones barely existed.",
+      "en": "mobile phones barely existed.",
+      "zh": ""
+    },
+    {
+      "start": 526.89,
+      "duration": 2.43,
+      "text": "They were so big that they were mainly just used",
+      "en": "They were so big that they were mainly just used",
+      "zh": ""
+    },
+    {
+      "start": 529.32,
+      "duration": 3.48,
+      "text": "as car phones but things changed quickly",
+      "en": "as car phones but things changed quickly",
+      "zh": ""
+    },
+    {
+      "start": 532.8,
+      "duration": 2.7,
+      "text": "and the number of mobile phones in the world exploded.",
+      "en": "and the number of mobile phones in the world exploded.",
+      "zh": ""
+    },
+    {
+      "start": 539.85,
+      "duration": 3.09,
+      "text": "- Roaming is one of the main use cases of SS7.",
+      "en": "- Roaming is one of the main use cases of SS7.",
+      "zh": ""
+    },
+    {
+      "start": 542.94,
+      "duration": 2.46,
+      "text": "Say Derek, you visit me over here.",
+      "en": "Say Derek, you visit me over here.",
+      "zh": ""
+    },
+    {
+      "start": 545.4,
+      "duration": 4.26,
+      "text": "Your phone would try to connect to a network that's foreign",
+      "en": "Your phone would try to connect to a network that's foreign",
+      "zh": ""
+    },
+    {
+      "start": 549.66,
+      "duration": 2.73,
+      "text": "and that network would then have to reach out",
+      "en": "and that network would then have to reach out",
+      "zh": ""
+    },
+    {
+      "start": 552.39,
+      "duration": 3.21,
+      "text": "to your home network in Australia asking,",
+      "en": "to your home network in Australia asking,",
+      "zh": ""
+    },
+    {
+      "start": 555.6,
+      "duration": 1.83,
+      "text": "is this a valid customer?",
+      "en": "is this a valid customer?",
+      "zh": ""
+    },
+    {
+      "start": 557.43,
+      "duration": 1.83,
+      "text": "Are you willing to pay for the charges",
+      "en": "Are you willing to pay for the charges",
+      "zh": ""
+    },
+    {
+      "start": 559.26,
+      "duration": 1.92,
+      "text": "that they'll incur on my network?",
+      "en": "that they'll incur on my network?",
+      "zh": ""
+    },
+    {
+      "start": 561.18,
+      "duration": 2.79,
+      "text": "And all of that information is exchanged over SS7.",
+      "en": "And all of that information is exchanged over SS7.",
+      "zh": ""
+    },
+    {
+      "start": 566.1,
+      "duration": 1.2,
+      "text": "- For this to work,",
+      "en": "- For this to work,",
+      "zh": ""
+    },
+    {
+      "start": 567.3,
+      "duration": 2.73,
+      "text": "telcos need to communicate with each other.",
+      "en": "telcos need to communicate with each other.",
+      "zh": ""
+    },
+    {
+      "start": 570.03,
+      "duration": 2.88,
+      "text": "So the way they do that is by making sure they're part",
+      "en": "So the way they do that is by making sure they're part",
+      "zh": ""
+    },
+    {
+      "start": 572.91,
+      "duration": 1.86,
+      "text": "of the same club.",
+      "en": "of the same club.",
+      "zh": ""
+    },
+    {
+      "start": 574.77,
+      "duration": 1.86,
+      "text": "The way they share membership to this club",
+      "en": "The way they share membership to this club",
+      "zh": ""
+    },
+    {
+      "start": 576.63,
+      "duration": 2.58,
+      "text": "is by using unique addresses to identify",
+      "en": "is by using unique addresses to identify",
+      "zh": ""
+    },
+    {
+      "start": 579.21,
+      "duration": 2.16,
+      "text": "where requests are coming from.",
+      "en": "where requests are coming from.",
+      "zh": ""
+    },
+    {
+      "start": 581.37,
+      "duration": 2.73,
+      "text": "- SS7 is a global network, just like the internet",
+      "en": "- SS7 is a global network, just like the internet",
+      "zh": ""
+    },
+    {
+      "start": 584.1,
+      "duration": 3.12,
+      "text": "and like on the internet you need some addressing scheme.",
+      "en": "and like on the internet you need some addressing scheme.",
+      "zh": ""
+    },
+    {
+      "start": 587.22,
+      "duration": 3.21,
+      "text": "So you need some way of saying this is me and this is you.",
+      "en": "So you need some way of saying this is me and this is you.",
+      "zh": ""
+    },
+    {
+      "start": 590.43,
+      "duration": 2.61,
+      "text": "And on the internet we use IP addresses.",
+      "en": "And on the internet we use IP addresses.",
+      "zh": ""
+    },
+    {
+      "start": 593.04,
+      "duration": 4.44,
+      "text": "On SS7 we use what's called Global Titles, GTs.",
+      "en": "On SS7 we use what's called Global Titles, GTs.",
+      "zh": ""
+    },
+    {
+      "start": 597.48,
+      "duration": 2.16,
+      "text": "- [Derek] So to provide global roaming coverage,",
+      "en": "- [Derek] So to provide global roaming coverage,",
+      "zh": ""
+    },
+    {
+      "start": 599.64,
+      "duration": 1.86,
+      "text": "telcos typically establish agreements",
+      "en": "telcos typically establish agreements",
+      "zh": ""
+    },
+    {
+      "start": 601.5,
+      "duration": 2.52,
+      "text": "with two providers in each country they serve.",
+      "en": "with two providers in each country they serve.",
+      "zh": ""
+    },
+    {
+      "start": 604.02,
+      "duration": 2.28,
+      "text": "One primary and one backup.",
+      "en": "One primary and one backup.",
+      "zh": ""
+    },
+    {
+      "start": 606.3,
+      "duration": 2.85,
+      "text": "Telcos generally accept messages only from Global Titles",
+      "en": "Telcos generally accept messages only from Global Titles",
+      "zh": ""
+    },
+    {
+      "start": 609.15,
+      "duration": 1.71,
+      "text": "with which they have agreements.",
+      "en": "with which they have agreements.",
+      "zh": ""
+    },
+    {
+      "start": 611.91,
+      "duration": 2.91,
+      "text": "And the whole system is designed to be a closed network",
+      "en": "And the whole system is designed to be a closed network",
+      "zh": ""
+    },
+    {
+      "start": 614.82,
+      "duration": 2.37,
+      "text": "with few barriers once inside,",
+      "en": "with few barriers once inside,",
+      "zh": ""
+    },
+    {
+      "start": 617.19,
+      "duration": 3.57,
+      "text": "this is known as the walled garden approach.",
+      "en": "this is known as the walled garden approach.",
+      "zh": ""
+    },
+    {
+      "start": 620.76,
+      "duration": 3.39,
+      "text": "So this system seems pretty secure and it was.",
+      "en": "So this system seems pretty secure and it was.",
+      "zh": ""
+    },
+    {
+      "start": 626.55,
+      "duration": 2.1,
+      "text": "When SS7 was developed in the '80s,",
+      "en": "When SS7 was developed in the '80s,",
+      "zh": ""
+    },
+    {
+      "start": 628.65,
+      "duration": 2.19,
+      "text": "the telecommunications landscape was dominated",
+      "en": "the telecommunications landscape was dominated",
+      "zh": ""
+    },
+    {
+      "start": 630.84,
+      "duration": 2.61,
+      "text": "by a few large reputable operators.",
+      "en": "by a few large reputable operators.",
+      "zh": ""
+    },
+    {
+      "start": 633.45,
+      "duration": 2.25,
+      "text": "These operators had established relationships",
+      "en": "These operators had established relationships",
+      "zh": ""
+    },
+    {
+      "start": 635.7,
+      "duration": 1.8,
+      "text": "and mutual interest in maintaining",
+      "en": "and mutual interest in maintaining",
+      "zh": ""
+    },
+    {
+      "start": 637.5,
+      "duration": 2.37,
+      "text": "the integrity of the network.",
+      "en": "the integrity of the network.",
+      "zh": ""
+    },
+    {
+      "start": 639.87,
+      "duration": 3.9,
+      "text": "But 45 years on the landscape has shifted dramatically.",
+      "en": "But 45 years on the landscape has shifted dramatically.",
+      "zh": ""
+    },
+    {
+      "start": 643.77,
+      "duration": 2.61,
+      "text": "Now there are over 1200 operators",
+      "en": "Now there are over 1200 operators",
+      "zh": ""
+    },
+    {
+      "start": 646.38,
+      "duration": 2.43,
+      "text": "and 4,500 networks,",
+      "en": "and 4,500 networks,",
+      "zh": ""
+    },
+    {
+      "start": 648.81,
+      "duration": 4.35,
+      "text": "many of which need SS7 access from virtual network operators",
+      "en": "many of which need SS7 access from virtual network operators",
+      "zh": ""
+    },
+    {
+      "start": 653.16,
+      "duration": 4.02,
+      "text": "to mass-text services sending Uber Eats notifications.",
+      "en": "to mass-text services sending Uber Eats notifications.",
+      "zh": ""
+    },
+    {
+      "start": 657.18,
+      "duration": 3.36,
+      "text": "There are so many more players in the garden that not all",
+      "en": "There are so many more players in the garden that not all",
+      "zh": ""
+    },
+    {
+      "start": 660.54,
+      "duration": 1.74,
+      "text": "of them are trustworthy.",
+      "en": "of them are trustworthy.",
+      "zh": ""
+    },
+    {
+      "start": 664.38,
+      "duration": 1.63,
+      "text": "- Those companies, some of them",
+      "en": "- Those companies, some of them",
+      "zh": ""
+    },
+    {
+      "start": 667.41,
+      "duration": 2.76,
+      "text": "sell services onto third parties,",
+      "en": "sell services onto third parties,",
+      "zh": ""
+    },
+    {
+      "start": 670.17,
+      "duration": 2.67,
+      "text": "some of them can be bribed, some of them can be hacked.",
+      "en": "some of them can be bribed, some of them can be hacked.",
+      "zh": ""
+    },
+    {
+      "start": 672.84,
+      "duration": 1.74,
+      "text": "So there's probably thousands",
+      "en": "So there's probably thousands",
+      "zh": ""
+    },
+    {
+      "start": 674.58,
+      "duration": 4.32,
+      "text": "of ways into SS7 at reasonable effort or cost.",
+      "en": "of ways into SS7 at reasonable effort or cost.",
+      "zh": ""
+    },
+    {
+      "start": 678.9,
+      "duration": 3.03,
+      "text": "- How much are we talking like how much would it cost",
+      "en": "- How much are we talking like how much would it cost",
+      "zh": ""
+    },
+    {
+      "start": 681.93,
+      "duration": 2.31,
+      "text": "to buy access to SS7?",
+      "en": "to buy access to SS7?",
+      "zh": ""
+    },
+    {
+      "start": 684.24,
+      "duration": 3.18,
+      "text": "- Buying a single SS7 connection isn't that expensive?",
+      "en": "- Buying a single SS7 connection isn't that expensive?",
+      "zh": ""
+    },
+    {
+      "start": 687.42,
+      "duration": 3.33,
+      "text": "We're talking a few thousand dollars per month.",
+      "en": "We're talking a few thousand dollars per month.",
+      "zh": ""
+    },
+    {
+      "start": 690.75,
+      "duration": 1.8,
+      "text": "- The people who do sell access,",
+      "en": "- The people who do sell access,",
+      "zh": ""
+    },
+    {
+      "start": 692.55,
+      "duration": 1.92,
+      "text": "I mean, why would they do it?",
+      "en": "I mean, why would they do it?",
+      "zh": ""
+    },
+    {
+      "start": 694.47,
+      "duration": 3.48,
+      "text": "- People sell SS7 for one reason money.",
+      "en": "- People sell SS7 for one reason money.",
+      "zh": ""
+    },
+    {
+      "start": 697.95,
+      "duration": 1.38,
+      "text": "- And thanks to global agreements",
+      "en": "- And thanks to global agreements",
+      "zh": ""
+    },
+    {
+      "start": 699.33,
+      "duration": 2.67,
+      "text": "between providers accessing a trusted GT",
+      "en": "between providers accessing a trusted GT",
+      "zh": ""
+    },
+    {
+      "start": 702.0,
+      "duration": 2.76,
+      "text": "is like gaining access to all the GTs",
+      "en": "is like gaining access to all the GTs",
+      "zh": ""
+    },
+    {
+      "start": 704.76,
+      "duration": 1.59,
+      "text": "they have partnerships with.",
+      "en": "they have partnerships with.",
+      "zh": ""
+    },
+    {
+      "start": 706.35,
+      "duration": 1.47,
+      "text": "We even saw the invoice",
+      "en": "We even saw the invoice",
+      "zh": ""
+    },
+    {
+      "start": 707.82,
+      "duration": 3.63,
+      "text": "of a valuable US-based GT being leased illegally",
+      "en": "of a valuable US-based GT being leased illegally",
+      "zh": ""
+    },
+    {
+      "start": 711.45,
+      "duration": 2.7,
+      "text": "for $13,000 a month.",
+      "en": "for $13,000 a month.",
+      "zh": ""
+    },
+    {
+      "start": 714.15,
+      "duration": 1.86,
+      "text": "Are you buying access to SS7?",
+      "en": "Are you buying access to SS7?",
+      "zh": ""
+    },
+    {
+      "start": 716.01,
+      "duration": 1.89,
+      "text": "- I'm paying for access to SS7. Yes.",
+      "en": "- I'm paying for access to SS7. Yes.",
+      "zh": ""
+    },
+    {
+      "start": 717.9,
+      "duration": 4.53,
+      "text": "And we do that because we do SS7 security tests.",
+      "en": "And we do that because we do SS7 security tests.",
+      "zh": ""
+    },
+    {
+      "start": 722.43,
+      "duration": 4.02,
+      "text": "So we need to be in a similar position as real hackers",
+      "en": "So we need to be in a similar position as real hackers",
+      "zh": ""
+    },
+    {
+      "start": 726.45,
+      "duration": 3.24,
+      "text": "to get near real results.",
+      "en": "to get near real results.",
+      "zh": ""
+    },
+    {
+      "start": 729.69,
+      "duration": 3.6,
+      "text": "- So step one, infiltrate SS7 is complete.",
+      "en": "- So step one, infiltrate SS7 is complete.",
+      "zh": ""
+    },
+    {
+      "start": 733.29,
+      "duration": 2.55,
+      "text": "Onto step two, gain trust.",
+      "en": "Onto step two, gain trust.",
+      "zh": ""
+    },
+    {
+      "start": 735.84,
+      "duration": 2.13,
+      "text": "Hackers today can try many different things",
+      "en": "Hackers today can try many different things",
+      "zh": ""
+    },
+    {
+      "start": 737.97,
+      "duration": 2.52,
+      "text": "once they've scaled the wall into the garden.",
+      "en": "once they've scaled the wall into the garden.",
+      "zh": ""
+    },
+    {
+      "start": 740.49,
+      "duration": 2.67,
+      "text": "But you need more than just SS7 access",
+      "en": "But you need more than just SS7 access",
+      "zh": ""
+    },
+    {
+      "start": 743.16,
+      "duration": 1.65,
+      "text": "and a phone number to attack.",
+      "en": "and a phone number to attack.",
+      "zh": ""
+    },
+    {
+      "start": 745.65,
+      "duration": 2.76,
+      "text": "Even a trusted GT and the phone number of the target",
+      "en": "Even a trusted GT and the phone number of the target",
+      "zh": ""
+    },
+    {
+      "start": 748.41,
+      "duration": 2.52,
+      "text": "isn't enough to uniquely identify them.",
+      "en": "isn't enough to uniquely identify them.",
+      "zh": ""
+    },
+    {
+      "start": 751.86,
+      "duration": 2.34,
+      "text": "Now you need something from the SIM card.",
+      "en": "Now you need something from the SIM card.",
+      "zh": ""
+    },
+    {
+      "start": 754.2,
+      "duration": 1.86,
+      "text": "The real key in a mobile network",
+      "en": "The real key in a mobile network",
+      "zh": ""
+    },
+    {
+      "start": 756.06,
+      "duration": 4.14,
+      "text": "is a unique 15 digit identifier which belongs exclusively",
+      "en": "is a unique 15 digit identifier which belongs exclusively",
+      "zh": ""
+    },
+    {
+      "start": 760.2,
+      "duration": 1.95,
+      "text": "to the SIM card on the phone.",
+      "en": "to the SIM card on the phone.",
+      "zh": ""
+    },
+    {
+      "start": 762.15,
+      "duration": 3.33,
+      "text": "It's called an international mobile subscriber identity",
+      "en": "It's called an international mobile subscriber identity",
+      "zh": ""
+    },
+    {
+      "start": 765.48,
+      "duration": 1.83,
+      "text": "or IMSI for short.",
+      "en": "or IMSI for short.",
+      "zh": ""
+    },
+    {
+      "start": 767.31,
+      "duration": 3.09,
+      "text": "And it is very important.",
+      "en": "And it is very important.",
+      "zh": ""
+    },
+    {
+      "start": 770.4,
+      "duration": 2.58,
+      "text": "- Basically to be able to collect the IMSI",
+      "en": "- Basically to be able to collect the IMSI",
+      "zh": ""
+    },
+    {
+      "start": 772.98,
+      "duration": 2.13,
+      "text": "from a subscriber,",
+      "en": "from a subscriber,",
+      "zh": ""
+    },
+    {
+      "start": 775.11,
+      "duration": 2.49,
+      "text": "we would launch some of the messages",
+      "en": "we would launch some of the messages",
+      "zh": ""
+    },
+    {
+      "start": 777.6,
+      "duration": 1.8,
+      "text": "such as send routing info",
+      "en": "such as send routing info",
+      "zh": ""
+    },
+    {
+      "start": 779.4,
+      "duration": 0.95,
+      "text": "or send routing info for SM.",
+      "en": "or send routing info for SM.",
+      "zh": ""
+    },
+    {
+      "start": 781.89,
+      "duration": 4.2,
+      "text": "These messages are normally used to collect the IMSI.",
+      "en": "These messages are normally used to collect the IMSI.",
+      "zh": ""
+    },
+    {
+      "start": 787.23,
+      "duration": 1.68,
+      "text": "- Networks have firewalls in place",
+      "en": "- Networks have firewalls in place",
+      "zh": ""
+    },
+    {
+      "start": 788.91,
+      "duration": 2.88,
+      "text": "that will deny some requests if they look suspicious.",
+      "en": "that will deny some requests if they look suspicious.",
+      "zh": ""
+    },
+    {
+      "start": 791.79,
+      "duration": 3.21,
+      "text": "Getting an IMSI is crucial to appear trusted.",
+      "en": "Getting an IMSI is crucial to appear trusted.",
+      "zh": ""
+    },
+    {
+      "start": 795.0,
+      "duration": 2.91,
+      "text": "So let's move on to the critical step three, attack.",
+      "en": "So let's move on to the critical step three, attack.",
+      "zh": ""
+    },
+    {
+      "start": 799.53,
+      "duration": 1.44,
+      "text": "Do you wanna just like try the phone?",
+      "en": "Do you wanna just like try the phone?",
+      "zh": ""
+    },
+    {
+      "start": 800.97,
+      "duration": 1.62,
+      "text": "Is there anything you can try to see if it works?",
+      "en": "Is there anything you can try to see if it works?",
+      "zh": ""
+    },
+    {
+      "start": 802.59,
+      "duration": 0.99,
+      "text": "Like call someone. - Sure.",
+      "en": "Like call someone. - Sure.",
+      "zh": ""
+    },
+    {
+      "start": 803.58,
+      "duration": 2.69,
+      "text": "- [Derek] Or text someone? - Sure. I'll call my wife.",
+      "en": "- [Derek] Or text someone? - Sure. I'll call my wife.",
+      "zh": ""
+    },
+    {
+      "start": 807.3,
+      "duration": 1.38,
+      "text": "- She normally pick up.",
+      "en": "- She normally pick up.",
+      "zh": ""
+    },
+    {
+      "start": 808.68,
+      "duration": 2.45,
+      "text": "- Yeah, she'll probably pick up.",
+      "en": "- Yeah, she'll probably pick up.",
+      "zh": ""
+    },
+    {
+      "start": 811.13,
+      "duration": 0.94,
+      "text": "- [Yvonne] Hello?",
+      "en": "- [Yvonne] Hello?",
+      "zh": ""
+    },
+    {
+      "start": 812.07,
+      "duration": 3.57,
+      "text": "- Hello Yvonne, this is the voice of your husband.",
+      "en": "- Hello Yvonne, this is the voice of your husband.",
+      "zh": ""
+    },
+    {
+      "start": 817.08,
+      "duration": 2.3,
+      "text": "I would like to talk to you about the payment.",
+      "en": "I would like to talk to you about the payment.",
+      "zh": ""
+    },
+    {
+      "start": 822.72,
+      "duration": 0.84,
+      "text": "- Okay, thanks.",
+      "en": "- Okay, thanks.",
+      "zh": ""
+    },
+    {
+      "start": 824.4,
+      "duration": 2.82,
+      "text": "- No, no, it's me. It's me.(laughs)",
+      "en": "- No, no, it's me. It's me.(laughs)",
+      "zh": ""
+    },
+    {
+      "start": 827.22,
+      "duration": 2.43,
+      "text": "- Did she hang up on you? - Yeah, yeah, she did.",
+      "en": "- Did she hang up on you? - Yeah, yeah, she did.",
+      "zh": ""
+    },
+    {
+      "start": 829.65,
+      "duration": 1.41,
+      "text": "So we've established the phone works",
+      "en": "So we've established the phone works",
+      "zh": ""
+    },
+    {
+      "start": 831.06,
+      "duration": 1.56,
+      "text": "as a completely normal phone.",
+      "en": "as a completely normal phone.",
+      "zh": ""
+    },
+    {
+      "start": 832.62,
+      "duration": 2.19,
+      "text": "- Do you have any important calls coming up?",
+      "en": "- Do you have any important calls coming up?",
+      "zh": ""
+    },
+    {
+      "start": 834.81,
+      "duration": 1.32,
+      "text": "- I don't know if I'd say it's important,",
+      "en": "- I don't know if I'd say it's important,",
+      "zh": ""
+    },
+    {
+      "start": 836.13,
+      "duration": 2.04,
+      "text": "but I'm on my way to Creator Summit tonight",
+      "en": "but I'm on my way to Creator Summit tonight",
+      "zh": ""
+    },
+    {
+      "start": 838.17,
+      "duration": 2.31,
+      "text": "and James from Hacksmith was gonna call me",
+      "en": "and James from Hacksmith was gonna call me",
+      "zh": ""
+    },
+    {
+      "start": 840.48,
+      "duration": 1.77,
+      "text": "when we're gonna kind of make some plans.",
+      "en": "when we're gonna kind of make some plans.",
+      "zh": ""
+    },
+    {
+      "start": 842.25,
+      "duration": 1.38,
+      "text": "(phone rings)",
+      "en": "(phone rings)",
+      "zh": ""
+    },
+    {
+      "start": 843.63,
+      "duration": 3.03,
+      "text": "- I'm getting a call right now. Are you getting a call?",
+      "en": "- I'm getting a call right now. Are you getting a call?",
+      "zh": ""
+    },
+    {
+      "start": 846.66,
+      "duration": 0.83,
+      "text": "- No.",
+      "en": "- No.",
+      "zh": ""
+    },
+    {
+      "start": 848.91,
+      "duration": 2.08,
+      "text": "- Hello, this is Linus.",
+      "en": "- Hello, this is Linus.",
+      "zh": ""
+    },
+    {
+      "start": 850.99,
+      "duration": 2.36,
+      "text": "- [James] Hey Linas, it's James. How's it going?",
+      "en": "- [James] Hey Linas, it's James. How's it going?",
+      "zh": ""
+    },
+    {
+      "start": 853.35,
+      "duration": 2.37,
+      "text": "- It's going really well. How are you?",
+      "en": "- It's going really well. How are you?",
+      "zh": ""
+    },
+    {
+      "start": 855.72,
+      "duration": 3.33,
+      "text": "- [James] Pretty good. Am I gonna see the YouTube summit?",
+      "en": "- [James] Pretty good. Am I gonna see the YouTube summit?",
+      "zh": ""
+    },
+    {
+      "start": 859.05,
+      "duration": 2.13,
+      "text": "- Yes, I'm really looking forward to that.",
+      "en": "- Yes, I'm really looking forward to that.",
+      "zh": ""
+    },
+    {
+      "start": 861.18,
+      "duration": 1.5,
+      "text": "And man, do I hate Macs?",
+      "en": "And man, do I hate Macs?",
+      "zh": ""
+    },
+    {
+      "start": 864.33,
+      "duration": 2.37,
+      "text": "So I feel like that's your persona man.",
+      "en": "So I feel like that's your persona man.",
+      "zh": ""
+    },
+    {
+      "start": 866.7,
+      "duration": 3.33,
+      "text": "You can't game on a Mac. Linus, you wanna talk?",
+      "en": "You can't game on a Mac. Linus, you wanna talk?",
+      "zh": ""
+    },
+    {
+      "start": 870.9,
+      "duration": 5.0,
+      "text": "- I would like to talk but I never got the call, so...",
+      "en": "- I would like to talk but I never got the call, so...",
+      "zh": ""
+    },
+    {
+      "start": 876.39,
+      "duration": 1.44,
+      "text": "- What number did you dial?",
+      "en": "- What number did you dial?",
+      "zh": ""
+    },
+    {
+      "start": 879.08,
+      "duration": 4.54,
+      "text": "- [James] 4473.(beep) - Is that your number, Linus?",
+      "en": "- [James] 4473.(beep) - Is that your number, Linus?",
+      "zh": ""
+    },
+    {
+      "start": 883.62,
+      "duration": 3.87,
+      "text": "- Yeah, but I didn't get, mine didn't even ring.",
+      "en": "- Yeah, but I didn't get, mine didn't even ring.",
+      "zh": ""
+    },
+    {
+      "start": 887.49,
+      "duration": 1.95,
+      "text": "I heard it ring but I heard it",
+      "en": "I heard it ring but I heard it",
+      "zh": ""
+    },
+    {
+      "start": 889.44,
+      "duration": 1.53,
+      "text": "through my speakers on my computer.",
+      "en": "through my speakers on my computer.",
+      "zh": ""
+    },
+    {
+      "start": 890.97,
+      "duration": 2.34,
+      "text": "'Cause I assume it went to your phone then.",
+      "en": "'Cause I assume it went to your phone then.",
+      "zh": ""
+    },
+    {
+      "start": 893.31,
+      "duration": 0.83,
+      "text": "- That's right. - [Linas] Or did it go",
+      "en": "- That's right. - [Linas] Or did it go",
+      "zh": ""
+    },
+    {
+      "start": 894.14,
+      "duration": 1.03,
+      "text": "to your computer?",
+      "en": "to your computer?",
+      "zh": ""
+    },
+    {
+      "start": 895.17,
+      "duration": 2.43,
+      "text": "- No. Yeah, it went to everything of mine.",
+      "en": "- No. Yeah, it went to everything of mine.",
+      "zh": ""
+    },
+    {
+      "start": 897.6,
+      "duration": 2.88,
+      "text": "So yeah, James, I don't know.",
+      "en": "So yeah, James, I don't know.",
+      "zh": ""
+    },
+    {
+      "start": 900.48,
+      "duration": 2.04,
+      "text": "You called Linus and it went to me.",
+      "en": "You called Linus and it went to me.",
+      "zh": ""
+    },
+    {
+      "start": 902.52,
+      "duration": 4.08,
+      "text": "Thank you for taking part in this weird demonstration.",
+      "en": "Thank you for taking part in this weird demonstration.",
+      "zh": ""
+    },
+    {
+      "start": 906.6,
+      "duration": 3.87,
+      "text": "- There is absolutely nothing here to indicate",
+      "en": "- There is absolutely nothing here to indicate",
+      "zh": ""
+    },
+    {
+      "start": 910.47,
+      "duration": 2.49,
+      "text": "that I was supposed to receive a call.",
+      "en": "that I was supposed to receive a call.",
+      "zh": ""
+    },
+    {
+      "start": 912.96,
+      "duration": 1.74,
+      "text": "- Yeah, and I mean the crazy thing",
+      "en": "- Yeah, and I mean the crazy thing",
+      "zh": ""
+    },
+    {
+      "start": 914.7,
+      "duration": 2.79,
+      "text": "is that's like a regular Canadian SIM card in there.",
+      "en": "is that's like a regular Canadian SIM card in there.",
+      "zh": ""
+    },
+    {
+      "start": 917.49,
+      "duration": 4.05,
+      "text": "So any Canadian SIM card in theory could be vulnerable",
+      "en": "So any Canadian SIM card in theory could be vulnerable",
+      "zh": ""
+    },
+    {
+      "start": 921.54,
+      "duration": 3.39,
+      "text": "to such an attack where you know, someone dials your number",
+      "en": "to such an attack where you know, someone dials your number",
+      "zh": ""
+    },
+    {
+      "start": 924.93,
+      "duration": 1.56,
+      "text": "and it just doesn't go to you.",
+      "en": "and it just doesn't go to you.",
+      "zh": ""
+    },
+    {
+      "start": 926.49,
+      "duration": 4.47,
+      "text": "- This is like phreaking but on a completely different level.",
+      "en": "- This is like phreaking but on a completely different level.",
+      "zh": ""
+    },
+    {
+      "start": 930.96,
+      "duration": 1.5,
+      "text": "- That's exactly it.",
+      "en": "- That's exactly it.",
+      "zh": ""
+    },
+    {
+      "start": 932.46,
+      "duration": 3.69,
+      "text": "- Now I'm familiar already with the concept of SIM swapping",
+      "en": "- Now I'm familiar already with the concept of SIM swapping",
+      "zh": ""
+    },
+    {
+      "start": 936.15,
+      "duration": 4.41,
+      "text": "where you social engineer a way to get a SIM",
+      "en": "where you social engineer a way to get a SIM",
+      "zh": ""
+    },
+    {
+      "start": 940.56,
+      "duration": 1.62,
+      "text": "that is registered to someone else's account.",
+      "en": "that is registered to someone else's account.",
+      "zh": ""
+    },
+    {
+      "start": 942.18,
+      "duration": 2.76,
+      "text": "We've actually had accounts stolen that way in the past,",
+      "en": "We've actually had accounts stolen that way in the past,",
+      "zh": ""
+    },
+    {
+      "start": 944.94,
+      "duration": 4.11,
+      "text": "but in this case my phone still works.",
+      "en": "but in this case my phone still works.",
+      "zh": ""
+    },
+    {
+      "start": 949.05,
+      "duration": 0.83,
+      "text": "- [Yvonne] Hello?",
+      "en": "- [Yvonne] Hello?",
+      "zh": ""
+    },
+    {
+      "start": 949.88,
+      "duration": 3.37,
+      "text": "- Hey, so the demo we're doing is pretty trippy hun.",
+      "en": "- Hey, so the demo we're doing is pretty trippy hun.",
+      "zh": ""
+    },
+    {
+      "start": 954.27,
+      "duration": 3.03,
+      "text": "Basically they had Hacksmith call me,",
+      "en": "Basically they had Hacksmith call me,",
+      "zh": ""
+    },
+    {
+      "start": 957.3,
+      "duration": 1.62,
+      "text": "my phone didn't ring at all",
+      "en": "my phone didn't ring at all",
+      "zh": ""
+    },
+    {
+      "start": 958.92,
+      "duration": 4.02,
+      "text": "and instead Derek from Veritasium picked up the phone call",
+      "en": "and instead Derek from Veritasium picked up the phone call",
+      "zh": ""
+    },
+    {
+      "start": 962.94,
+      "duration": 4.08,
+      "text": "and was able to talk to him and Hacksmith had no idea",
+      "en": "and was able to talk to him and Hacksmith had no idea",
+      "zh": ""
+    },
+    {
+      "start": 967.02,
+      "duration": 1.86,
+      "text": "that he called me and then- - [Yvonne] Sorry,",
+      "en": "that he called me and then- - [Yvonne] Sorry,",
+      "zh": ""
+    },
+    {
+      "start": 968.88,
+      "duration": 1.11,
+      "text": "I'm with Cindy.",
+      "en": "I'm with Cindy.",
+      "zh": ""
+    },
+    {
+      "start": 969.99,
+      "duration": 1.59,
+      "text": "- Oh. Oh, hi Cindy.",
+      "en": "- Oh. Oh, hi Cindy.",
+      "zh": ""
+    },
+    {
+      "start": 972.66,
+      "duration": 1.29,
+      "text": "- [Yvonne] Oh, you're not on speaker.",
+      "en": "- [Yvonne] Oh, you're not on speaker.",
+      "zh": ""
+    },
+    {
+      "start": 973.95,
+      "duration": 2.05,
+      "text": "- Okay, that's fine. Just tell Cindy hi for me.",
+      "en": "- Okay, that's fine. Just tell Cindy hi for me.",
+      "zh": ""
+    },
+    {
+      "start": 976.0,
+      "duration": 0.86,
+      "text": "- [Yvonne] Okay.",
+      "en": "- [Yvonne] Okay.",
+      "zh": ""
+    },
+    {
+      "start": 976.86,
+      "duration": 0.83,
+      "text": "Okay, goodbye.",
+      "en": "Okay, goodbye.",
+      "zh": ""
+    },
+    {
+      "start": 978.66,
+      "duration": 2.13,
+      "text": "- [Derek] So how are we able to seize control",
+      "en": "- [Derek] So how are we able to seize control",
+      "zh": ""
+    },
+    {
+      "start": 980.79,
+      "duration": 1.86,
+      "text": "of Linus number like that?",
+      "en": "of Linus number like that?",
+      "zh": ""
+    },
+    {
+      "start": 982.65,
+      "duration": 2.49,
+      "text": "- When you put a phone number in your address book,",
+      "en": "- When you put a phone number in your address book,",
+      "zh": ""
+    },
+    {
+      "start": 985.14,
+      "duration": 2.4,
+      "text": "you often don't put the country code,",
+      "en": "you often don't put the country code,",
+      "zh": ""
+    },
+    {
+      "start": 987.54,
+      "duration": 2.28,
+      "text": "but then if you're in a roaming scenario,",
+      "en": "but then if you're in a roaming scenario,",
+      "zh": ""
+    },
+    {
+      "start": 989.82,
+      "duration": 1.08,
+      "text": "that phone number would connect",
+      "en": "that phone number would connect",
+      "zh": ""
+    },
+    {
+      "start": 990.9,
+      "duration": 1.35,
+      "text": "to a completely different person",
+      "en": "to a completely different person",
+      "zh": ""
+    },
+    {
+      "start": 992.25,
+      "duration": 1.71,
+      "text": "in the country you're currently in.",
+      "en": "in the country you're currently in.",
+      "zh": ""
+    },
+    {
+      "start": 993.96,
+      "duration": 4.38,
+      "text": "So it does make sense to basically overrule people's choices",
+      "en": "So it does make sense to basically overrule people's choices",
+      "zh": ""
+    },
+    {
+      "start": 998.34,
+      "duration": 1.92,
+      "text": "as to whom they're trying to dial",
+      "en": "as to whom they're trying to dial",
+      "zh": ""
+    },
+    {
+      "start": 1000.26,
+      "duration": 2.55,
+      "text": "because they're not gonna triple check each time",
+      "en": "because they're not gonna triple check each time",
+      "zh": ""
+    },
+    {
+      "start": 1002.81,
+      "duration": 1.32,
+      "text": "whether the address book entries",
+      "en": "whether the address book entries",
+      "zh": ""
+    },
+    {
+      "start": 1004.13,
+      "duration": 1.47,
+      "text": "have country codes in them.",
+      "en": "have country codes in them.",
+      "zh": ""
+    },
+    {
+      "start": 1006.74,
+      "duration": 2.31,
+      "text": "- This is a powerful function",
+      "en": "- This is a powerful function",
+      "zh": ""
+    },
+    {
+      "start": 1009.05,
+      "duration": 3.33,
+      "text": "by tricking the network into thinking his phone is roaming,",
+      "en": "by tricking the network into thinking his phone is roaming,",
+      "zh": ""
+    },
+    {
+      "start": 1012.38,
+      "duration": 2.82,
+      "text": "we can rewrite the number he is calling to a number",
+      "en": "we can rewrite the number he is calling to a number",
+      "zh": ""
+    },
+    {
+      "start": 1015.2,
+      "duration": 2.19,
+      "text": "that we control.",
+      "en": "that we control.",
+      "zh": ""
+    },
+    {
+      "start": 1017.39,
+      "duration": 2.43,
+      "text": "- And so what I did at the end was when I received",
+      "en": "- And so what I did at the end was when I received",
+      "zh": ""
+    },
+    {
+      "start": 1019.82,
+      "duration": 5.0,
+      "text": "this message, I sent back your number that you can see here",
+      "en": "this message, I sent back your number that you can see here",
+      "zh": ""
+    },
+    {
+      "start": 1025.91,
+      "duration": 3.57,
+      "text": "was your US based number.",
+      "en": "was your US based number.",
+      "zh": ""
+    },
+    {
+      "start": 1029.48,
+      "duration": 2.64,
+      "text": "So even if you were located in Australia,",
+      "en": "So even if you were located in Australia,",
+      "zh": ""
+    },
+    {
+      "start": 1032.12,
+      "duration": 4.32,
+      "text": "I was still able to forward the call to you",
+      "en": "I was still able to forward the call to you",
+      "zh": ""
+    },
+    {
+      "start": 1036.44,
+      "duration": 2.85,
+      "text": "on your US number in Australia.",
+      "en": "on your US number in Australia.",
+      "zh": ""
+    },
+    {
+      "start": 1039.29,
+      "duration": 0.83,
+      "text": "- That's amazing.",
+      "en": "- That's amazing.",
+      "zh": ""
+    },
+    {
+      "start": 1040.12,
+      "duration": 2.74,
+      "text": "You just try a few times and then it works, right?",
+      "en": "You just try a few times and then it works, right?",
+      "zh": ""
+    },
+    {
+      "start": 1042.86,
+      "duration": 4.23,
+      "text": "- Yes, it's not always that simple,(laughs)",
+      "en": "- Yes, it's not always that simple,(laughs)",
+      "zh": ""
+    },
+    {
+      "start": 1047.09,
+      "duration": 3.54,
+      "text": "but this time it was quite difficult.",
+      "en": "but this time it was quite difficult.",
+      "zh": ""
+    },
+    {
+      "start": 1050.63,
+      "duration": 3.39,
+      "text": "- So the most important question I have now then is",
+      "en": "- So the most important question I have now then is",
+      "zh": ""
+    },
+    {
+      "start": 1054.02,
+      "duration": 2.85,
+      "text": "what did you need to steal from me",
+      "en": "what did you need to steal from me",
+      "zh": ""
+    },
+    {
+      "start": 1056.87,
+      "duration": 2.61,
+      "text": "in order to become me?",
+      "en": "in order to become me?",
+      "zh": ""
+    },
+    {
+      "start": 1059.48,
+      "duration": 1.92,
+      "text": "Like is this something you can social engineer",
+      "en": "Like is this something you can social engineer",
+      "zh": ""
+    },
+    {
+      "start": 1061.4,
+      "duration": 1.29,
+      "text": "out of my carrier?",
+      "en": "out of my carrier?",
+      "zh": ""
+    },
+    {
+      "start": 1062.69,
+      "duration": 1.98,
+      "text": "Is this something that I would need",
+      "en": "Is this something that I would need",
+      "zh": ""
+    },
+    {
+      "start": 1064.67,
+      "duration": 2.4,
+      "text": "to accidentally leak a screenshot of my IMEI.",
+      "en": "to accidentally leak a screenshot of my IMEI.",
+      "zh": ""
+    },
+    {
+      "start": 1068.0,
+      "duration": 2.46,
+      "text": "- At the very simplest, all we would need",
+      "en": "- At the very simplest, all we would need",
+      "zh": ""
+    },
+    {
+      "start": 1070.46,
+      "duration": 1.17,
+      "text": "is your phone number.",
+      "en": "is your phone number.",
+      "zh": ""
+    },
+    {
+      "start": 1071.63,
+      "duration": 0.83,
+      "text": "That's it.",
+      "en": "That's it.",
+      "zh": ""
+    },
+    {
+      "start": 1072.46,
+      "duration": 2.62,
+      "text": "You could even do something where I could act",
+      "en": "You could even do something where I could act",
+      "zh": ""
+    },
+    {
+      "start": 1075.08,
+      "duration": 4.38,
+      "text": "as a middleman where I would reroute the call to me,",
+      "en": "as a middleman where I would reroute the call to me,",
+      "zh": ""
+    },
+    {
+      "start": 1079.46,
+      "duration": 3.57,
+      "text": "but also simultaneously I would dial for you the real number",
+      "en": "but also simultaneously I would dial for you the real number",
+      "zh": ""
+    },
+    {
+      "start": 1083.03,
+      "duration": 1.8,
+      "text": "and I would send you through to them",
+      "en": "and I would send you through to them",
+      "zh": ""
+    },
+    {
+      "start": 1084.83,
+      "duration": 4.35,
+      "text": "and then I can sit on the line and just record that call.",
+      "en": "and then I can sit on the line and just record that call.",
+      "zh": ""
+    },
+    {
+      "start": 1089.18,
+      "duration": 1.14,
+      "text": "- Yikes.",
+      "en": "- Yikes.",
+      "zh": ""
+    },
+    {
+      "start": 1090.32,
+      "duration": 2.28,
+      "text": "- But this isn't the only attack.",
+      "en": "- But this isn't the only attack.",
+      "zh": ""
+    },
+    {
+      "start": 1092.6,
+      "duration": 2.52,
+      "text": "We can do a lot more with SS7.",
+      "en": "We can do a lot more with SS7.",
+      "zh": ""
+    },
+    {
+      "start": 1095.12,
+      "duration": 3.18,
+      "text": "We can also intercept text messages as part of our suite",
+      "en": "We can also intercept text messages as part of our suite",
+      "zh": ""
+    },
+    {
+      "start": 1098.3,
+      "duration": 0.84,
+      "text": "of attacks.",
+      "en": "of attacks.",
+      "zh": ""
+    },
+    {
+      "start": 1099.14,
+      "duration": 1.17,
+      "text": "Similar to phone calls,",
+      "en": "Similar to phone calls,",
+      "zh": ""
+    },
+    {
+      "start": 1100.31,
+      "duration": 2.22,
+      "text": "we can trick the network into thinking the target",
+      "en": "we can trick the network into thinking the target",
+      "zh": ""
+    },
+    {
+      "start": 1102.53,
+      "duration": 4.2,
+      "text": "is roaming, which reroutes their messages to our GT.",
+      "en": "is roaming, which reroutes their messages to our GT.",
+      "zh": ""
+    },
+    {
+      "start": 1106.73,
+      "duration": 2.19,
+      "text": "We can then steal one time passwords",
+      "en": "We can then steal one time passwords",
+      "zh": ""
+    },
+    {
+      "start": 1108.92,
+      "duration": 2.4,
+      "text": "used in two factor authentication.",
+      "en": "used in two factor authentication.",
+      "zh": ""
+    },
+    {
+      "start": 1111.32,
+      "duration": 2.79,
+      "text": "This type of attack works until the subscriber interacts",
+      "en": "This type of attack works until the subscriber interacts",
+      "zh": ""
+    },
+    {
+      "start": 1114.11,
+      "duration": 1.2,
+      "text": "with their phone network,",
+      "en": "with their phone network,",
+      "zh": ""
+    },
+    {
+      "start": 1115.31,
+      "duration": 3.87,
+      "text": "at which point the phone reconnects to the correct GT.",
+      "en": "at which point the phone reconnects to the correct GT.",
+      "zh": ""
+    },
+    {
+      "start": 1119.18,
+      "duration": 1.29,
+      "text": "- But you need a few seconds",
+      "en": "- But you need a few seconds",
+      "zh": ""
+    },
+    {
+      "start": 1120.47,
+      "duration": 1.65,
+      "text": "only to hack into somebody's account.",
+      "en": "only to hack into somebody's account.",
+      "zh": ""
+    },
+    {
+      "start": 1122.12,
+      "duration": 2.1,
+      "text": "Of course you need that few second window",
+      "en": "Of course you need that few second window",
+      "zh": ""
+    },
+    {
+      "start": 1124.22,
+      "duration": 2.49,
+      "text": "to receive the one time password.",
+      "en": "to receive the one time password.",
+      "zh": ""
+    },
+    {
+      "start": 1126.71,
+      "duration": 3.54,
+      "text": "- So we actually set up a new Linus YouTube channel.",
+      "en": "- So we actually set up a new Linus YouTube channel.",
+      "zh": ""
+    },
+    {
+      "start": 1130.25,
+      "duration": 3.06,
+      "text": "- Okay, so theoretically he could get this username",
+      "en": "- Okay, so theoretically he could get this username",
+      "zh": ""
+    },
+    {
+      "start": 1133.31,
+      "duration": 4.98,
+      "text": "and password via a dump because I'm a butthead",
+      "en": "and password via a dump because I'm a butthead",
+      "zh": ""
+    },
+    {
+      "start": 1138.29,
+      "duration": 1.11,
+      "text": "and I use the same username",
+      "en": "and I use the same username",
+      "zh": ""
+    },
+    {
+      "start": 1139.4,
+      "duration": 2.46,
+      "text": "and password across different accounts",
+      "en": "and password across different accounts",
+      "zh": ""
+    },
+    {
+      "start": 1141.86,
+      "duration": 2.82,
+      "text": "or he could install a key logger on my system.",
+      "en": "or he could install a key logger on my system.",
+      "zh": ""
+    },
+    {
+      "start": 1144.68,
+      "duration": 2.22,
+      "text": "He could get it that way when I'm typing it in.",
+      "en": "He could get it that way when I'm typing it in.",
+      "zh": ""
+    },
+    {
+      "start": 1146.9,
+      "duration": 2.13,
+      "text": "So then I verify my number.",
+      "en": "So then I verify my number.",
+      "zh": ""
+    },
+    {
+      "start": 1149.03,
+      "duration": 1.86,
+      "text": "But of course he has my number",
+      "en": "But of course he has my number",
+      "zh": ""
+    },
+    {
+      "start": 1150.89,
+      "duration": 3.06,
+      "text": "because that's realistically not that hard to find.",
+      "en": "because that's realistically not that hard to find.",
+      "zh": ""
+    },
+    {
+      "start": 1153.95,
+      "duration": 1.29,
+      "text": "And theoretically I'm supposed",
+      "en": "And theoretically I'm supposed",
+      "zh": ""
+    },
+    {
+      "start": 1155.24,
+      "duration": 2.63,
+      "text": "to get a two factor code right now except...",
+      "en": "to get a two factor code right now except...",
+      "zh": ""
+    },
+    {
+      "start": 1158.96,
+      "duration": 5.0,
+      "text": "- I got it, 820299, I'm in.",
+      "en": "- I got it, 820299, I'm in.",
+      "zh": ""
+    },
+    {
+      "start": 1165.05,
+      "duration": 3.42,
+      "text": "- [Linas] He's in. He hacked the mainframe. Wild hey.",
+      "en": "- [Linas] He's in. He hacked the mainframe. Wild hey.",
+      "zh": ""
+    },
+    {
+      "start": 1168.47,
+      "duration": 2.7,
+      "text": "- Yep, we could hack your YouTube account.",
+      "en": "- Yep, we could hack your YouTube account.",
+      "zh": ""
+    },
+    {
+      "start": 1171.17,
+      "duration": 2.28,
+      "text": "I'm gonna put, I'm gonna start posting science videos",
+      "en": "I'm gonna put, I'm gonna start posting science videos",
+      "zh": ""
+    },
+    {
+      "start": 1173.45,
+      "duration": 1.77,
+      "text": "on Linus Tech Tips.",
+      "en": "on Linus Tech Tips.",
+      "zh": ""
+    },
+    {
+      "start": 1175.22,
+      "duration": 0.83,
+      "text": "- Oh, that's okay.",
+      "en": "- Oh, that's okay.",
+      "zh": ""
+    },
+    {
+      "start": 1176.05,
+      "duration": 2.05,
+      "text": "I'm sure they'll get like 30 million views or whatever.",
+      "en": "I'm sure they'll get like 30 million views or whatever.",
+      "zh": ""
+    },
+    {
+      "start": 1178.1,
+      "duration": 2.3,
+      "text": "So I'll be fine with it. Thanks for the AdSense",
+      "en": "So I'll be fine with it. Thanks for the AdSense",
+      "zh": ""
+    },
+    {
+      "start": 1180.4,
+      "duration": 1.24,
+      "text": "(Derek laughing)",
+      "en": "(Derek laughing)",
+      "zh": ""
+    },
+    {
+      "start": 1181.64,
+      "duration": 0.83,
+      "text": "- [Derek] Deal.",
+      "en": "- [Derek] Deal.",
+      "zh": ""
+    },
+    {
+      "start": 1183.53,
+      "duration": 1.95,
+      "text": "And you could see the code right there.",
+      "en": "And you could see the code right there.",
+      "zh": ""
+    },
+    {
+      "start": 1185.48,
+      "duration": 0.83,
+      "text": "- [Alexandre] Exactly.",
+      "en": "- [Alexandre] Exactly.",
+      "zh": ""
+    },
+    {
+      "start": 1186.31,
+      "duration": 2.78,
+      "text": "So you could see that at the at the bottom. 820299.",
+      "en": "So you could see that at the at the bottom. 820299.",
+      "zh": ""
+    },
+    {
+      "start": 1191.18,
+      "duration": 3.54,
+      "text": "So basically once the interception is running,",
+      "en": "So basically once the interception is running,",
+      "zh": ""
+    },
+    {
+      "start": 1194.72,
+      "duration": 2.73,
+      "text": "then I would receive any SMS sent.",
+      "en": "then I would receive any SMS sent.",
+      "zh": ""
+    },
+    {
+      "start": 1198.35,
+      "duration": 2.73,
+      "text": "- He would never have known that he missed those messages",
+      "en": "- He would never have known that he missed those messages",
+      "zh": ""
+    },
+    {
+      "start": 1201.08,
+      "duration": 3.45,
+      "text": "or that they were intercepts. - Exact, exact.",
+      "en": "or that they were intercepts. - Exact, exact.",
+      "zh": ""
+    },
+    {
+      "start": 1204.53,
+      "duration": 3.93,
+      "text": "- Wow. Yeah, this seems pretty serious.",
+      "en": "- Wow. Yeah, this seems pretty serious.",
+      "zh": ""
+    },
+    {
+      "start": 1208.46,
+      "duration": 1.71,
+      "text": "I mean, SMS two-factor authentication",
+      "en": "I mean, SMS two-factor authentication",
+      "zh": ""
+    },
+    {
+      "start": 1210.17,
+      "duration": 1.65,
+      "text": "is almost the default, right?",
+      "en": "is almost the default, right?",
+      "zh": ""
+    },
+    {
+      "start": 1211.82,
+      "duration": 3.57,
+      "text": "- Unfortunately, yes, it's not only the default",
+      "en": "- Unfortunately, yes, it's not only the default",
+      "zh": ""
+    },
+    {
+      "start": 1215.39,
+      "duration": 3.15,
+      "text": "but in some cases it is the only available option",
+      "en": "but in some cases it is the only available option",
+      "zh": ""
+    },
+    {
+      "start": 1218.54,
+      "duration": 2.34,
+      "text": "and sometimes that can even be for accounts",
+      "en": "and sometimes that can even be for accounts",
+      "zh": ""
+    },
+    {
+      "start": 1220.88,
+      "duration": 2.85,
+      "text": "that should be treated with the utmost",
+      "en": "that should be treated with the utmost",
+      "zh": ""
+    },
+    {
+      "start": 1223.73,
+      "duration": 2.16,
+      "text": "of care like a bank account.",
+      "en": "of care like a bank account.",
+      "zh": ""
+    },
+    {
+      "start": 1225.89,
+      "duration": 1.41,
+      "text": "- [Derek] There's a third method of attack",
+      "en": "- [Derek] There's a third method of attack",
+      "zh": ""
+    },
+    {
+      "start": 1227.3,
+      "duration": 1.74,
+      "text": "that we weren't able to show Linus.",
+      "en": "that we weren't able to show Linus.",
+      "zh": ""
+    },
+    {
+      "start": 1229.04,
+      "duration": 0.83,
+      "text": "Lucky for him,",
+      "en": "Lucky for him,",
+      "zh": ""
+    },
+    {
+      "start": 1229.87,
+      "duration": 2.26,
+      "text": "his network blocked the requests.",
+      "en": "his network blocked the requests.",
+      "zh": ""
+    },
+    {
+      "start": 1232.13,
+      "duration": 0.87,
+      "text": "On many networks,",
+      "en": "On many networks,",
+      "zh": ""
+    },
+    {
+      "start": 1233.0,
+      "duration": 2.64,
+      "text": "you can use the IMSI number in the switching center info",
+      "en": "you can use the IMSI number in the switching center info",
+      "zh": ""
+    },
+    {
+      "start": 1235.64,
+      "duration": 1.56,
+      "text": "we harvested in step two",
+      "en": "we harvested in step two",
+      "zh": ""
+    },
+    {
+      "start": 1237.2,
+      "duration": 2.73,
+      "text": "to send a command deeper into the network.",
+      "en": "to send a command deeper into the network.",
+      "zh": ""
+    },
+    {
+      "start": 1239.93,
+      "duration": 1.8,
+      "text": "By targeting the switching center where the device",
+      "en": "By targeting the switching center where the device",
+      "zh": ""
+    },
+    {
+      "start": 1241.73,
+      "duration": 1.17,
+      "text": "with the IMSI is connected,",
+      "en": "with the IMSI is connected,",
+      "zh": ""
+    },
+    {
+      "start": 1242.9,
+      "duration": 2.1,
+      "text": "we can issue a command routinely used",
+      "en": "we can issue a command routinely used",
+      "zh": ""
+    },
+    {
+      "start": 1245.0,
+      "duration": 3.39,
+      "text": "for legitimate purposes such as routing and forwarding calls",
+      "en": "for legitimate purposes such as routing and forwarding calls",
+      "zh": ""
+    },
+    {
+      "start": 1248.39,
+      "duration": 1.98,
+      "text": "or providing emergency services based",
+      "en": "or providing emergency services based",
+      "zh": ""
+    },
+    {
+      "start": 1250.37,
+      "duration": 1.8,
+      "text": "on the device's location.",
+      "en": "on the device's location.",
+      "zh": ""
+    },
+    {
+      "start": 1252.17,
+      "duration": 3.36,
+      "text": "Using this request we can track a target's location.",
+      "en": "Using this request we can track a target's location.",
+      "zh": ""
+    },
+    {
+      "start": 1255.53,
+      "duration": 2.22,
+      "text": "It's not as hard as you'd think.",
+      "en": "It's not as hard as you'd think.",
+      "zh": ""
+    },
+    {
+      "start": 1257.75,
+      "duration": 3.12,
+      "text": "SS7 doesn't even rely on GPS to locate someone.",
+      "en": "SS7 doesn't even rely on GPS to locate someone.",
+      "zh": ""
+    },
+    {
+      "start": 1260.87,
+      "duration": 4.11,
+      "text": "In fact, it was invented before GPS was even in public use.",
+      "en": "In fact, it was invented before GPS was even in public use.",
+      "zh": ""
+    },
+    {
+      "start": 1266.48,
+      "duration": 2.64,
+      "text": "One way to do this is if a target is in range",
+      "en": "One way to do this is if a target is in range",
+      "zh": ""
+    },
+    {
+      "start": 1269.12,
+      "duration": 2.94,
+      "text": "of multiple cell towers, their location can be narrowed down",
+      "en": "of multiple cell towers, their location can be narrowed down",
+      "zh": ""
+    },
+    {
+      "start": 1272.06,
+      "duration": 1.8,
+      "text": "to where the signals overlap.",
+      "en": "to where the signals overlap.",
+      "zh": ""
+    },
+    {
+      "start": 1273.86,
+      "duration": 3.63,
+      "text": "The more towers in range, the more precise the location.",
+      "en": "The more towers in range, the more precise the location.",
+      "zh": ""
+    },
+    {
+      "start": 1277.49,
+      "duration": 2.61,
+      "text": "A more accurate method measures the time it takes",
+      "en": "A more accurate method measures the time it takes",
+      "zh": ""
+    },
+    {
+      "start": 1280.1,
+      "duration": 2.4,
+      "text": "for signals to reach a phone from three towers.",
+      "en": "for signals to reach a phone from three towers.",
+      "zh": ""
+    },
+    {
+      "start": 1283.46,
+      "duration": 3.0,
+      "text": "By calculating the distance based on transmission speed,",
+      "en": "By calculating the distance based on transmission speed,",
+      "zh": ""
+    },
+    {
+      "start": 1286.46,
+      "duration": 3.48,
+      "text": "we can pinpoint an exact location on a 2D plane,",
+      "en": "we can pinpoint an exact location on a 2D plane,",
+      "zh": ""
+    },
+    {
+      "start": 1289.94,
+      "duration": 3.15,
+      "text": "but SS7 attacks don't use either of these methods.",
+      "en": "but SS7 attacks don't use either of these methods.",
+      "zh": ""
+    },
+    {
+      "start": 1293.09,
+      "duration": 1.71,
+      "text": "They try to be subtle.",
+      "en": "They try to be subtle.",
+      "zh": ""
+    },
+    {
+      "start": 1294.8,
+      "duration": 3.3,
+      "text": "An SS7 location request simply identifies the cell tower",
+      "en": "An SS7 location request simply identifies the cell tower",
+      "zh": ""
+    },
+    {
+      "start": 1298.1,
+      "duration": 1.53,
+      "text": "the target is connected to.",
+      "en": "the target is connected to.",
+      "zh": ""
+    },
+    {
+      "start": 1300.56,
+      "duration": 1.92,
+      "text": "In an urban area with many towers,",
+      "en": "In an urban area with many towers,",
+      "zh": ""
+    },
+    {
+      "start": 1302.48,
+      "duration": 3.21,
+      "text": "this can place them to within a hundred meters.",
+      "en": "this can place them to within a hundred meters.",
+      "zh": ""
+    },
+    {
+      "start": 1305.69,
+      "duration": 2.28,
+      "text": "- You'll definitely know which city block somebody is in",
+      "en": "- You'll definitely know which city block somebody is in",
+      "zh": ""
+    },
+    {
+      "start": 1307.97,
+      "duration": 3.45,
+      "text": "and if you wanted to, for instance find out was it at home",
+      "en": "and if you wanted to, for instance find out was it at home",
+      "zh": ""
+    },
+    {
+      "start": 1311.42,
+      "duration": 2.97,
+      "text": "and or at work, this is a great way to do it.",
+      "en": "and or at work, this is a great way to do it.",
+      "zh": ""
+    },
+    {
+      "start": 1314.39,
+      "duration": 3.81,
+      "text": "- Yeah, it's a little bit scary.",
+      "en": "- Yeah, it's a little bit scary.",
+      "zh": ""
+    },
+    {
+      "start": 1318.2,
+      "duration": 2.82,
+      "text": "In 2016, Karsten and his team used this method",
+      "en": "In 2016, Karsten and his team used this method",
+      "zh": ""
+    },
+    {
+      "start": 1321.02,
+      "duration": 2.49,
+      "text": "to track US Congressman Ted Lieu.",
+      "en": "to track US Congressman Ted Lieu.",
+      "zh": ""
+    },
+    {
+      "start": 1323.51,
+      "duration": 3.96,
+      "text": "- The congressman has been in California,",
+      "en": "- The congressman has been in California,",
+      "zh": ""
+    },
+    {
+      "start": 1327.47,
+      "duration": 2.07,
+      "text": "more specifically the LA area.",
+      "en": "more specifically the LA area.",
+      "zh": ""
+    },
+    {
+      "start": 1329.54,
+      "duration": 1.62,
+      "text": "Let's zoom in here a little bit.",
+      "en": "Let's zoom in here a little bit.",
+      "zh": ""
+    },
+    {
+      "start": 1331.16,
+      "duration": 3.96,
+      "text": "- So that is how we did it. We executed three steps.",
+      "en": "- So that is how we did it. We executed three steps.",
+      "zh": ""
+    },
+    {
+      "start": 1335.12,
+      "duration": 4.05,
+      "text": "We infiltrated SS7, gained trust and attacked.",
+      "en": "We infiltrated SS7, gained trust and attacked.",
+      "zh": ""
+    },
+    {
+      "start": 1339.17,
+      "duration": 3.54,
+      "text": "We intercepted Linus phone calls and text messages.",
+      "en": "We intercepted Linus phone calls and text messages.",
+      "zh": ""
+    },
+    {
+      "start": 1342.71,
+      "duration": 3.12,
+      "text": "I'm not sure he was as excited about it as I was.",
+      "en": "I'm not sure he was as excited about it as I was.",
+      "zh": ""
+    },
+    {
+      "start": 1345.83,
+      "duration": 2.67,
+      "text": "- This is why we can't have nice things.",
+      "en": "- This is why we can't have nice things.",
+      "zh": ""
+    },
+    {
+      "start": 1348.5,
+      "duration": 2.34,
+      "text": "- Up until now, this has just been a bit of fun.",
+      "en": "- Up until now, this has just been a bit of fun.",
+      "zh": ""
+    },
+    {
+      "start": 1350.84,
+      "duration": 2.55,
+      "text": "I've demonstrated these attacks on a friend of mine,",
+      "en": "I've demonstrated these attacks on a friend of mine,",
+      "zh": ""
+    },
+    {
+      "start": 1353.39,
+      "duration": 1.92,
+      "text": "but the threats are real",
+      "en": "but the threats are real",
+      "zh": ""
+    },
+    {
+      "start": 1355.31,
+      "duration": 3.19,
+      "text": "and they can have devastating consequences.",
+      "en": "and they can have devastating consequences.",
+      "zh": ""
+    },
+    {
+      "start": 1358.5,
+      "duration": 1.07,
+      "text": "\"They will kill her.\"",
+      "en": "\"They will kill her.\"",
+      "zh": ""
+    },
+    {
+      "start": 1359.57,
+      "duration": 3.33,
+      "text": "The captain texted shortly before Latifa was abducted.",
+      "en": "The captain texted shortly before Latifa was abducted.",
+      "zh": ""
+    },
+    {
+      "start": 1362.9,
+      "duration": 2.28,
+      "text": "His phone was the target of an SS7 attack",
+      "en": "His phone was the target of an SS7 attack",
+      "zh": ""
+    },
+    {
+      "start": 1365.18,
+      "duration": 3.0,
+      "text": "that involved all three of the steps we explored.",
+      "en": "that involved all three of the steps we explored.",
+      "zh": ""
+    },
+    {
+      "start": 1368.18,
+      "duration": 2.73,
+      "text": "To start, the attackers had leased multiple GTs",
+      "en": "To start, the attackers had leased multiple GTs",
+      "zh": ""
+    },
+    {
+      "start": 1370.91,
+      "duration": 1.29,
+      "text": "in different countries",
+      "en": "in different countries",
+      "zh": ""
+    },
+    {
+      "start": 1372.2,
+      "duration": 3.33,
+      "text": "then the following all happened in a five minute window.",
+      "en": "then the following all happened in a five minute window.",
+      "zh": ""
+    },
+    {
+      "start": 1375.53,
+      "duration": 3.15,
+      "text": "First they sent at least seven separate requests aiming",
+      "en": "First they sent at least seven separate requests aiming",
+      "zh": ""
+    },
+    {
+      "start": 1378.68,
+      "duration": 3.63,
+      "text": "to get the captain's IMSI from his US based operator.",
+      "en": "to get the captain's IMSI from his US based operator.",
+      "zh": ""
+    },
+    {
+      "start": 1382.31,
+      "duration": 2.22,
+      "text": "When that didn't seem to work, they followed up",
+      "en": "When that didn't seem to work, they followed up",
+      "zh": ""
+    },
+    {
+      "start": 1384.53,
+      "duration": 2.76,
+      "text": "with at least four location requests.",
+      "en": "with at least four location requests.",
+      "zh": ""
+    },
+    {
+      "start": 1387.29,
+      "duration": 1.53,
+      "text": "So did it work?",
+      "en": "So did it work?",
+      "zh": ""
+    },
+    {
+      "start": 1390.05,
+      "duration": 2.85,
+      "text": "Well, all of these requests were blocked by firewalls.",
+      "en": "Well, all of these requests were blocked by firewalls.",
+      "zh": ""
+    },
+    {
+      "start": 1392.9,
+      "duration": 2.13,
+      "text": "That's why we have all the details.",
+      "en": "That's why we have all the details.",
+      "zh": ""
+    },
+    {
+      "start": 1395.03,
+      "duration": 3.15,
+      "text": "But there was a sixth GT we haven't shown.",
+      "en": "But there was a sixth GT we haven't shown.",
+      "zh": ""
+    },
+    {
+      "start": 1398.18,
+      "duration": 2.4,
+      "text": "This one nearby in the US,",
+      "en": "This one nearby in the US,",
+      "zh": ""
+    },
+    {
+      "start": 1400.58,
+      "duration": 2.94,
+      "text": "we have no information about the requests on this GT",
+      "en": "we have no information about the requests on this GT",
+      "zh": ""
+    },
+    {
+      "start": 1403.52,
+      "duration": 2.52,
+      "text": "because they likely weren't stopped.",
+      "en": "because they likely weren't stopped.",
+      "zh": ""
+    },
+    {
+      "start": 1407.6,
+      "duration": 2.76,
+      "text": "We spoke with Crofton Black, the investigative journalist",
+      "en": "We spoke with Crofton Black, the investigative journalist",
+      "zh": ""
+    },
+    {
+      "start": 1410.36,
+      "duration": 3.0,
+      "text": "who revealed the SS7 exploits in this story",
+      "en": "who revealed the SS7 exploits in this story",
+      "zh": ""
+    },
+    {
+      "start": 1413.36,
+      "duration": 2.08,
+      "text": "and this is what he told us.",
+      "en": "and this is what he told us.",
+      "zh": ""
+    },
+    {
+      "start": 1415.44,
+      "duration": 2.96,
+      "text": "\"It's a brilliant example of SS7 involvement",
+      "en": "\"It's a brilliant example of SS7 involvement",
+      "zh": ""
+    },
+    {
+      "start": 1418.4,
+      "duration": 3.18,
+      "text": "because it illustrates a classic sophisticated pattern",
+      "en": "because it illustrates a classic sophisticated pattern",
+      "zh": ""
+    },
+    {
+      "start": 1421.58,
+      "duration": 3.21,
+      "text": "of attack, multiple GTs and multiple countries.",
+      "en": "of attack, multiple GTs and multiple countries.",
+      "zh": ""
+    },
+    {
+      "start": 1424.79,
+      "duration": 3.66,
+      "text": "It's a textbook example of telco penetration risks.\"",
+      "en": "It's a textbook example of telco penetration risks.\"",
+      "zh": ""
+    },
+    {
+      "start": 1428.45,
+      "duration": 3.3,
+      "text": "Though, because the Emiratis were also using other software",
+      "en": "Though, because the Emiratis were also using other software",
+      "zh": ""
+    },
+    {
+      "start": 1431.75,
+      "duration": 3.15,
+      "text": "like Pegasus and other hardware like spotter planes.",
+      "en": "like Pegasus and other hardware like spotter planes.",
+      "zh": ""
+    },
+    {
+      "start": 1434.9,
+      "duration": 3.99,
+      "text": "We can't say that any single one of these was the thing",
+      "en": "We can't say that any single one of these was the thing",
+      "zh": ""
+    },
+    {
+      "start": 1438.89,
+      "duration": 2.04,
+      "text": "that led to her being found.",
+      "en": "that led to her being found.",
+      "zh": ""
+    },
+    {
+      "start": 1440.93,
+      "duration": 2.1,
+      "text": "But the evidence is damning",
+      "en": "But the evidence is damning",
+      "zh": ""
+    },
+    {
+      "start": 1443.03,
+      "duration": 3.12,
+      "text": "and SS7 is used pretty widely.",
+      "en": "and SS7 is used pretty widely.",
+      "zh": ""
+    },
+    {
+      "start": 1446.15,
+      "duration": 1.41,
+      "text": "Criminals have used SS7",
+      "en": "Criminals have used SS7",
+      "zh": ""
+    },
+    {
+      "start": 1447.56,
+      "duration": 2.85,
+      "text": "to intercept SMS two-factor authentication codes",
+      "en": "to intercept SMS two-factor authentication codes",
+      "zh": ""
+    },
+    {
+      "start": 1450.41,
+      "duration": 3.0,
+      "text": "and empty millions of dollars from bank accounts.",
+      "en": "and empty millions of dollars from bank accounts.",
+      "zh": ""
+    },
+    {
+      "start": 1453.41,
+      "duration": 3.03,
+      "text": "For some SS7 is just the first step.",
+      "en": "For some SS7 is just the first step.",
+      "zh": ""
+    },
+    {
+      "start": 1456.44,
+      "duration": 1.17,
+      "text": "The NSO Group,",
+      "en": "The NSO Group,",
+      "zh": ""
+    },
+    {
+      "start": 1457.61,
+      "duration": 3.09,
+      "text": "a notorious Israeli cyber surveillance firm acquired",
+      "en": "a notorious Israeli cyber surveillance firm acquired",
+      "zh": ""
+    },
+    {
+      "start": 1460.7,
+      "duration": 2.25,
+      "text": "an SS7 tracking company in 2014.",
+      "en": "an SS7 tracking company in 2014.",
+      "zh": ""
+    },
+    {
+      "start": 1464.15,
+      "duration": 2.94,
+      "text": "NSO is the company behind Pegasus, a spyware tool",
+      "en": "NSO is the company behind Pegasus, a spyware tool",
+      "zh": ""
+    },
+    {
+      "start": 1467.09,
+      "duration": 1.29,
+      "text": "that gains complete access",
+      "en": "that gains complete access",
+      "zh": ""
+    },
+    {
+      "start": 1468.38,
+      "duration": 3.18,
+      "text": "to targeted phones without a user clicking anything",
+      "en": "to targeted phones without a user clicking anything",
+      "zh": ""
+    },
+    {
+      "start": 1471.56,
+      "duration": 3.06,
+      "text": "embedding itself and erasing traces of entry.",
+      "en": "embedding itself and erasing traces of entry.",
+      "zh": ""
+    },
+    {
+      "start": 1474.62,
+      "duration": 3.0,
+      "text": "Such zero click hacks are costly.",
+      "en": "Such zero click hacks are costly.",
+      "zh": ""
+    },
+    {
+      "start": 1477.62,
+      "duration": 2.88,
+      "text": "They can cost more than $4 million per exploit.",
+      "en": "They can cost more than $4 million per exploit.",
+      "zh": ""
+    },
+    {
+      "start": 1480.5,
+      "duration": 3.27,
+      "text": "Before NSO commits resources targeting specific software",
+      "en": "Before NSO commits resources targeting specific software",
+      "zh": ""
+    },
+    {
+      "start": 1483.77,
+      "duration": 1.68,
+      "text": "or vulnerabilities on a phone,",
+      "en": "or vulnerabilities on a phone,",
+      "zh": ""
+    },
+    {
+      "start": 1485.45,
+      "duration": 2.76,
+      "text": "first they gather basic data like device type",
+      "en": "first they gather basic data like device type",
+      "zh": ""
+    },
+    {
+      "start": 1488.21,
+      "duration": 3.27,
+      "text": "and software version to make their lives easier.",
+      "en": "and software version to make their lives easier.",
+      "zh": ""
+    },
+    {
+      "start": 1491.48,
+      "duration": 3.9,
+      "text": "And as you've seen with SS7, this isn't hard.",
+      "en": "And as you've seen with SS7, this isn't hard.",
+      "zh": ""
+    },
+    {
+      "start": 1495.38,
+      "duration": 2.58,
+      "text": "One expert we spoke to tested a foreign network",
+      "en": "One expert we spoke to tested a foreign network",
+      "zh": ""
+    },
+    {
+      "start": 1497.96,
+      "duration": 0.98,
+      "text": "and found 20",
+      "en": "and found 20",
+      "zh": ""
+    },
+    {
+      "start": 1498.94,
+      "duration": 4.0,
+      "text": "to 30 VIPs were constantly under surveillance there,",
+      "en": "to 30 VIPs were constantly under surveillance there,",
+      "zh": ""
+    },
+    {
+      "start": 1502.94,
+      "duration": 3.3,
+      "text": "including the country's chief of cybersecurity.",
+      "en": "including the country's chief of cybersecurity.",
+      "zh": ""
+    },
+    {
+      "start": 1506.24,
+      "duration": 2.7,
+      "text": "Accurate data on tracking is difficult to come by,",
+      "en": "Accurate data on tracking is difficult to come by,",
+      "zh": ""
+    },
+    {
+      "start": 1508.94,
+      "duration": 2.79,
+      "text": "but another expert provided evidence of more than two",
+      "en": "but another expert provided evidence of more than two",
+      "zh": ""
+    },
+    {
+      "start": 1511.73,
+      "duration": 3.36,
+      "text": "and a half million tracking attempts per year.",
+      "en": "and a half million tracking attempts per year.",
+      "zh": ""
+    },
+    {
+      "start": 1515.09,
+      "duration": 2.1,
+      "text": "Though they reminded us that the people being targeted",
+      "en": "Though they reminded us that the people being targeted",
+      "zh": ""
+    },
+    {
+      "start": 1517.19,
+      "duration": 3.87,
+      "text": "are generally those of interest to state agencies.",
+      "en": "are generally those of interest to state agencies.",
+      "zh": ""
+    },
+    {
+      "start": 1521.06,
+      "duration": 2.82,
+      "text": "Now we couldn't find data on interception attempts,",
+      "en": "Now we couldn't find data on interception attempts,",
+      "zh": ""
+    },
+    {
+      "start": 1523.88,
+      "duration": 4.23,
+      "text": "but luckily experts told us this is far less common.",
+      "en": "but luckily experts told us this is far less common.",
+      "zh": ""
+    },
+    {
+      "start": 1528.11,
+      "duration": 4.32,
+      "text": "So millions of malicious SS7 requests are sent each year,",
+      "en": "So millions of malicious SS7 requests are sent each year,",
+      "zh": ""
+    },
+    {
+      "start": 1532.43,
+      "duration": 2.61,
+      "text": "but it used to be even worse.",
+      "en": "but it used to be even worse.",
+      "zh": ""
+    },
+    {
+      "start": 1535.04,
+      "duration": 2.37,
+      "text": "To request location over SS7,",
+      "en": "To request location over SS7,",
+      "zh": ""
+    },
+    {
+      "start": 1537.41,
+      "duration": 2.67,
+      "text": "you used to be able to send a command without even knowing",
+      "en": "you used to be able to send a command without even knowing",
+      "zh": ""
+    },
+    {
+      "start": 1540.08,
+      "duration": 3.06,
+      "text": "the IMSI and the network would just provide it to you.",
+      "en": "the IMSI and the network would just provide it to you.",
+      "zh": ""
+    },
+    {
+      "start": 1543.14,
+      "duration": 1.44,
+      "text": "No questions asked.",
+      "en": "No questions asked.",
+      "zh": ""
+    },
+    {
+      "start": 1544.58,
+      "duration": 3.03,
+      "text": "- The classical example is the anytime interrogation",
+      "en": "- The classical example is the anytime interrogation",
+      "zh": ""
+    },
+    {
+      "start": 1547.61,
+      "duration": 2.85,
+      "text": "request, which as the name already suggest",
+      "en": "request, which as the name already suggest",
+      "zh": ""
+    },
+    {
+      "start": 1550.46,
+      "duration": 3.09,
+      "text": "is have a creepy command.",
+      "en": "is have a creepy command.",
+      "zh": ""
+    },
+    {
+      "start": 1553.55,
+      "duration": 2.19,
+      "text": "I don't believe there's ever legitimate purpose",
+      "en": "I don't believe there's ever legitimate purpose",
+      "zh": ""
+    },
+    {
+      "start": 1555.74,
+      "duration": 2.56,
+      "text": "for one network to send this command",
+      "en": "for one network to send this command",
+      "zh": ""
+    },
+    {
+      "start": 1558.3,
+      "duration": 4.55,
+      "text": "to another network interrogating about their customers.",
+      "en": "to another network interrogating about their customers.",
+      "zh": ""
+    },
+    {
+      "start": 1562.85,
+      "duration": 0.83,
+      "text": "- [Derek] Karsten Nohl",
+      "en": "- [Derek] Karsten Nohl",
+      "zh": ""
+    },
+    {
+      "start": 1563.68,
+      "duration": 2.14,
+      "text": "and fellow security researcher Tobias Engel",
+      "en": "and fellow security researcher Tobias Engel",
+      "zh": ""
+    },
+    {
+      "start": 1565.82,
+      "duration": 3.42,
+      "text": "exposed these vulnerabilities publicly in 2014.",
+      "en": "exposed these vulnerabilities publicly in 2014.",
+      "zh": ""
+    },
+    {
+      "start": 1569.24,
+      "duration": 3.87,
+      "text": "- The SS7 research that was disclosed in 2014",
+      "en": "- The SS7 research that was disclosed in 2014",
+      "zh": ""
+    },
+    {
+      "start": 1573.11,
+      "duration": 2.31,
+      "text": "was a wake up call to the industry.",
+      "en": "was a wake up call to the industry.",
+      "zh": ""
+    },
+    {
+      "start": 1575.42,
+      "duration": 3.09,
+      "text": "Most people had heard rumors that SS7 tracking",
+      "en": "Most people had heard rumors that SS7 tracking",
+      "zh": ""
+    },
+    {
+      "start": 1578.51,
+      "duration": 1.53,
+      "text": "and spying was possible,",
+      "en": "and spying was possible,",
+      "zh": ""
+    },
+    {
+      "start": 1580.04,
+      "duration": 2.67,
+      "text": "but they hadn't really seen hard evidence of it",
+      "en": "but they hadn't really seen hard evidence of it",
+      "zh": ""
+    },
+    {
+      "start": 1582.71,
+      "duration": 3.33,
+      "text": "and especially how easy it is that ragtag gang",
+      "en": "and especially how easy it is that ragtag gang",
+      "zh": ""
+    },
+    {
+      "start": 1586.04,
+      "duration": 1.68,
+      "text": "of hackers from Berlin",
+      "en": "of hackers from Berlin",
+      "zh": ""
+    },
+    {
+      "start": 1587.72,
+      "duration": 3.54,
+      "text": "with very amateur means can do any type",
+      "en": "with very amateur means can do any type",
+      "zh": ""
+    },
+    {
+      "start": 1591.26,
+      "duration": 2.49,
+      "text": "of SS7 hacking that they want.",
+      "en": "of SS7 hacking that they want.",
+      "zh": ""
+    },
+    {
+      "start": 1593.75,
+      "duration": 1.05,
+      "text": "- [Derek] After their conference,",
+      "en": "- [Derek] After their conference,",
+      "zh": ""
+    },
+    {
+      "start": 1594.8,
+      "duration": 2.25,
+      "text": "all of the German telcos immediately started",
+      "en": "all of the German telcos immediately started",
+      "zh": ""
+    },
+    {
+      "start": 1597.05,
+      "duration": 1.92,
+      "text": "refusing these requests.",
+      "en": "refusing these requests.",
+      "zh": ""
+    },
+    {
+      "start": 1598.97,
+      "duration": 2.52,
+      "text": "- Anytime integration is the first SS7 command,",
+      "en": "- Anytime integration is the first SS7 command,",
+      "zh": ""
+    },
+    {
+      "start": 1601.49,
+      "duration": 4.29,
+      "text": "everyone stopped because it was abused a lot",
+      "en": "everyone stopped because it was abused a lot",
+      "zh": ""
+    },
+    {
+      "start": 1605.78,
+      "duration": 1.95,
+      "text": "and never used constructively.",
+      "en": "and never used constructively.",
+      "zh": ""
+    },
+    {
+      "start": 1607.73,
+      "duration": 4.77,
+      "text": "But there is over 150 other messages that need to be stopped",
+      "en": "But there is over 150 other messages that need to be stopped",
+      "zh": ""
+    },
+    {
+      "start": 1612.5,
+      "duration": 3.72,
+      "text": "as well to make SS7 be completely secure.",
+      "en": "as well to make SS7 be completely secure.",
+      "zh": ""
+    },
+    {
+      "start": 1616.22,
+      "duration": 3.21,
+      "text": "- So if there are so many ways to abuse SS7,",
+      "en": "- So if there are so many ways to abuse SS7,",
+      "zh": ""
+    },
+    {
+      "start": 1619.43,
+      "duration": 1.92,
+      "text": "why haven't we gotten rid of it?",
+      "en": "why haven't we gotten rid of it?",
+      "zh": ""
+    },
+    {
+      "start": 1621.35,
+      "duration": 2.03,
+      "text": "Well, because it's the backbone of 2G",
+      "en": "Well, because it's the backbone of 2G",
+      "zh": ""
+    },
+    {
+      "start": 1623.38,
+      "duration": 2.08,
+      "text": "and 3G communications.",
+      "en": "and 3G communications.",
+      "zh": ""
+    },
+    {
+      "start": 1625.46,
+      "duration": 2.85,
+      "text": "So what if we phase out 2G and 3G?",
+      "en": "So what if we phase out 2G and 3G?",
+      "zh": ""
+    },
+    {
+      "start": 1628.31,
+      "duration": 2.67,
+      "text": "Well, that has caused problems.",
+      "en": "Well, that has caused problems.",
+      "zh": ""
+    },
+    {
+      "start": 1630.98,
+      "duration": 2.73,
+      "text": "Since 2018 cars in the EU are equipped",
+      "en": "Since 2018 cars in the EU are equipped",
+      "zh": ""
+    },
+    {
+      "start": 1633.71,
+      "duration": 1.98,
+      "text": "with mandatory emergency call buttons",
+      "en": "with mandatory emergency call buttons",
+      "zh": ""
+    },
+    {
+      "start": 1635.69,
+      "duration": 1.89,
+      "text": "that trigger in an accident.",
+      "en": "that trigger in an accident.",
+      "zh": ""
+    },
+    {
+      "start": 1637.58,
+      "duration": 2.55,
+      "text": "They need a SIM card to work and to cut costs,",
+      "en": "They need a SIM card to work and to cut costs,",
+      "zh": ""
+    },
+    {
+      "start": 1640.13,
+      "duration": 2.82,
+      "text": "guess what auto manufacturers are using.",
+      "en": "guess what auto manufacturers are using.",
+      "zh": ""
+    },
+    {
+      "start": 1642.95,
+      "duration": 0.99,
+      "text": "That's right.",
+      "en": "That's right.",
+      "zh": ""
+    },
+    {
+      "start": 1643.94,
+      "duration": 2.88,
+      "text": "2G and 3G SIM cards using SS7.",
+      "en": "2G and 3G SIM cards using SS7.",
+      "zh": ""
+    },
+    {
+      "start": 1647.8,
+      "duration": 2.05,
+      "text": "- You have to have that legacy support",
+      "en": "- You have to have that legacy support",
+      "zh": ""
+    },
+    {
+      "start": 1649.85,
+      "duration": 2.58,
+      "text": "or when 4G connectivity drops,",
+      "en": "or when 4G connectivity drops,",
+      "zh": ""
+    },
+    {
+      "start": 1652.43,
+      "duration": 1.44,
+      "text": "you have absolutely nothing left.",
+      "en": "you have absolutely nothing left.",
+      "zh": ""
+    },
+    {
+      "start": 1653.87,
+      "duration": 4.98,
+      "text": "Dude, the number of times that I'm on 3G, not insignificant.",
+      "en": "Dude, the number of times that I'm on 3G, not insignificant.",
+      "zh": ""
+    },
+    {
+      "start": 1658.85,
+      "duration": 2.16,
+      "text": "And I'm in a metropolitan area.",
+      "en": "And I'm in a metropolitan area.",
+      "zh": ""
+    },
+    {
+      "start": 1661.01,
+      "duration": 1.26,
+      "text": "- What's surprising, of course,",
+      "en": "- What's surprising, of course,",
+      "zh": ""
+    },
+    {
+      "start": 1662.27,
+      "duration": 3.78,
+      "text": "is that there hasn't been a global push yet to replace SS7",
+      "en": "is that there hasn't been a global push yet to replace SS7",
+      "zh": ""
+    },
+    {
+      "start": 1666.05,
+      "duration": 4.68,
+      "text": "with one of the two newer versions of the technology.",
+      "en": "with one of the two newer versions of the technology.",
+      "zh": ""
+    },
+    {
+      "start": 1670.73,
+      "duration": 1.65,
+      "text": "The latest of which that was introduced",
+      "en": "The latest of which that was introduced",
+      "zh": ""
+    },
+    {
+      "start": 1672.38,
+      "duration": 2.61,
+      "text": "with 5G seems pretty secure,",
+      "en": "with 5G seems pretty secure,",
+      "zh": ""
+    },
+    {
+      "start": 1674.99,
+      "duration": 4.02,
+      "text": "but that's now a problem of first mover disadvantage.",
+      "en": "but that's now a problem of first mover disadvantage.",
+      "zh": ""
+    },
+    {
+      "start": 1679.01,
+      "duration": 2.94,
+      "text": "So because of the network effects you get nothing",
+      "en": "So because of the network effects you get nothing",
+      "zh": ""
+    },
+    {
+      "start": 1681.95,
+      "duration": 3.15,
+      "text": "out of adopting a technology as the first guy.",
+      "en": "out of adopting a technology as the first guy.",
+      "zh": ""
+    },
+    {
+      "start": 1685.1,
+      "duration": 2.43,
+      "text": "You wanna be the last one when everyone else",
+      "en": "You wanna be the last one when everyone else",
+      "zh": ""
+    },
+    {
+      "start": 1687.53,
+      "duration": 2.76,
+      "text": "is already connected and you get the full benefit",
+      "en": "is already connected and you get the full benefit",
+      "zh": ""
+    },
+    {
+      "start": 1690.29,
+      "duration": 2.04,
+      "text": "from also joining the club.",
+      "en": "from also joining the club.",
+      "zh": ""
+    },
+    {
+      "start": 1692.33,
+      "duration": 2.28,
+      "text": "- [Derek] So even though the 5G signaling protocol",
+      "en": "- [Derek] So even though the 5G signaling protocol",
+      "zh": ""
+    },
+    {
+      "start": 1694.61,
+      "duration": 2.52,
+      "text": "can stop the attacks completely and many networks",
+      "en": "can stop the attacks completely and many networks",
+      "zh": ""
+    },
+    {
+      "start": 1697.13,
+      "duration": 2.64,
+      "text": "are using 5G technology on their networks,",
+      "en": "are using 5G technology on their networks,",
+      "zh": ""
+    },
+    {
+      "start": 1699.77,
+      "duration": 2.34,
+      "text": "when routing calls between networks,",
+      "en": "when routing calls between networks,",
+      "zh": ""
+    },
+    {
+      "start": 1702.11,
+      "duration": 3.57,
+      "text": "SS7 is still the de facto standard.",
+      "en": "SS7 is still the de facto standard.",
+      "zh": ""
+    },
+    {
+      "start": 1705.68,
+      "duration": 3.75,
+      "text": "- You create a tremendous amount of inertia to use a term",
+      "en": "- You create a tremendous amount of inertia to use a term",
+      "zh": ""
+    },
+    {
+      "start": 1709.43,
+      "duration": 2.43,
+      "text": "that's probably more your channel than my channel.",
+      "en": "that's probably more your channel than my channel.",
+      "zh": ""
+    },
+    {
+      "start": 1711.86,
+      "duration": 3.75,
+      "text": "That makes moving on extremely difficult.",
+      "en": "That makes moving on extremely difficult.",
+      "zh": ""
+    },
+    {
+      "start": 1715.61,
+      "duration": 3.3,
+      "text": "- So unless there are some new major events",
+      "en": "- So unless there are some new major events",
+      "zh": ""
+    },
+    {
+      "start": 1718.91,
+      "duration": 2.91,
+      "text": "that put this back on the public radar,",
+      "en": "that put this back on the public radar,",
+      "zh": ""
+    },
+    {
+      "start": 1721.82,
+      "duration": 2.73,
+      "text": "it could be another 10, 15, maybe even 20 years",
+      "en": "it could be another 10, 15, maybe even 20 years",
+      "zh": ""
+    },
+    {
+      "start": 1724.55,
+      "duration": 3.63,
+      "text": "until SS7 networks are finally switched off.",
+      "en": "until SS7 networks are finally switched off.",
+      "zh": ""
+    },
+    {
+      "start": 1728.18,
+      "duration": 3.3,
+      "text": "- What's crazy is that we exploited these vulnerabilities",
+      "en": "- What's crazy is that we exploited these vulnerabilities",
+      "zh": ""
+    },
+    {
+      "start": 1731.48,
+      "duration": 1.41,
+      "text": "and I'm just a YouTuber.",
+      "en": "and I'm just a YouTuber.",
+      "zh": ""
+    },
+    {
+      "start": 1732.89,
+      "duration": 3.12,
+      "text": "I did have the help of some excellent security researchers,",
+      "en": "I did have the help of some excellent security researchers,",
+      "zh": ""
+    },
+    {
+      "start": 1736.01,
+      "duration": 2.88,
+      "text": "but I'm surprised at how easy it all is.",
+      "en": "but I'm surprised at how easy it all is.",
+      "zh": ""
+    },
+    {
+      "start": 1738.89,
+      "duration": 2.79,
+      "text": "Now imagine if I had the backing of a government.",
+      "en": "Now imagine if I had the backing of a government.",
+      "zh": ""
+    },
+    {
+      "start": 1741.68,
+      "duration": 1.86,
+      "text": "This is a real problem.",
+      "en": "This is a real problem.",
+      "zh": ""
+    },
+    {
+      "start": 1743.54,
+      "duration": 3.36,
+      "text": "So what can you do to protect yourself on the personal side",
+      "en": "So what can you do to protect yourself on the personal side",
+      "zh": ""
+    },
+    {
+      "start": 1746.9,
+      "duration": 1.53,
+      "text": "as long as you have a SIM card?",
+      "en": "as long as you have a SIM card?",
+      "zh": ""
+    },
+    {
+      "start": 1748.43,
+      "duration": 1.92,
+      "text": "Unfortunately there's not much you can do",
+      "en": "Unfortunately there's not much you can do",
+      "zh": ""
+    },
+    {
+      "start": 1750.35,
+      "duration": 1.53,
+      "text": "about location tracking.",
+      "en": "about location tracking.",
+      "zh": ""
+    },
+    {
+      "start": 1751.88,
+      "duration": 1.74,
+      "text": "If possible, choose alternatives",
+      "en": "If possible, choose alternatives",
+      "zh": ""
+    },
+    {
+      "start": 1753.62,
+      "duration": 2.22,
+      "text": "to SMS based two-factor authentication.",
+      "en": "to SMS based two-factor authentication.",
+      "zh": ""
+    },
+    {
+      "start": 1755.84,
+      "duration": 2.28,
+      "text": "So messages can't be intercepted.",
+      "en": "So messages can't be intercepted.",
+      "zh": ""
+    },
+    {
+      "start": 1758.12,
+      "duration": 3.0,
+      "text": "Use an Authenticator app or hardware tokens.",
+      "en": "Use an Authenticator app or hardware tokens.",
+      "zh": ""
+    },
+    {
+      "start": 1761.12,
+      "duration": 1.8,
+      "text": "And if you're worried about phone tapping,",
+      "en": "And if you're worried about phone tapping,",
+      "zh": ""
+    },
+    {
+      "start": 1762.92,
+      "duration": 2.52,
+      "text": "use encrypted internet based calling services",
+      "en": "use encrypted internet based calling services",
+      "zh": ""
+    },
+    {
+      "start": 1765.44,
+      "duration": 1.92,
+      "text": "like Signal or WhatsApp.",
+      "en": "like Signal or WhatsApp.",
+      "zh": ""
+    },
+    {
+      "start": 1767.36,
+      "duration": 3.0,
+      "text": "We've been told this is mainly used on people of interest.",
+      "en": "We've been told this is mainly used on people of interest.",
+      "zh": ""
+    },
+    {
+      "start": 1770.36,
+      "duration": 1.95,
+      "text": "So should it really matter to you?",
+      "en": "So should it really matter to you?",
+      "zh": ""
+    },
+    {
+      "start": 1772.31,
+      "duration": 2.58,
+      "text": "- SS7 is a huge privacy intrusion",
+      "en": "- SS7 is a huge privacy intrusion",
+      "zh": ""
+    },
+    {
+      "start": 1774.89,
+      "duration": 3.51,
+      "text": "and there's this millions of abuse cases every single month.",
+      "en": "and there's this millions of abuse cases every single month.",
+      "zh": ""
+    },
+    {
+      "start": 1778.4,
+      "duration": 3.42,
+      "text": "Whether privacy intrusion is a problem for individually,",
+      "en": "Whether privacy intrusion is a problem for individually,",
+      "zh": ""
+    },
+    {
+      "start": 1781.82,
+      "duration": 3.15,
+      "text": "of course as almost a philosophical question, right?",
+      "en": "of course as almost a philosophical question, right?",
+      "zh": ""
+    },
+    {
+      "start": 1784.97,
+      "duration": 2.64,
+      "text": "Somebody who grew up more in the Berlin tradition",
+      "en": "Somebody who grew up more in the Berlin tradition",
+      "zh": ""
+    },
+    {
+      "start": 1787.61,
+      "duration": 2.82,
+      "text": "of the Chaos Computer Club like myself,",
+      "en": "of the Chaos Computer Club like myself,",
+      "zh": ""
+    },
+    {
+      "start": 1790.43,
+      "duration": 2.43,
+      "text": "strongly beliefs that privacy",
+      "en": "strongly beliefs that privacy",
+      "zh": ""
+    },
+    {
+      "start": 1792.86,
+      "duration": 4.23,
+      "text": "and the ability to kind of form your own thoughts",
+      "en": "and the ability to kind of form your own thoughts",
+      "zh": ""
+    },
+    {
+      "start": 1797.09,
+      "duration": 3.84,
+      "text": "without being observed is a prerequisite for democracy.",
+      "en": "without being observed is a prerequisite for democracy.",
+      "zh": ""
+    },
+    {
+      "start": 1800.93,
+      "duration": 3.75,
+      "text": "But many other people would argue nothing",
+      "en": "But many other people would argue nothing",
+      "zh": ""
+    },
+    {
+      "start": 1804.68,
+      "duration": 2.43,
+      "text": "to hide, nothing to fear.",
+      "en": "to hide, nothing to fear.",
+      "zh": ""
+    },
+    {
+      "start": 1807.11,
+      "duration": 2.67,
+      "text": "(scrappy music)",
+      "en": "(scrappy music)",
+      "zh": ""
+    },
+    {
+      "start": 1811.31,
+      "duration": 3.0,
+      "text": "- Our technological world will never be perfect.",
+      "en": "- Our technological world will never be perfect.",
+      "zh": ""
+    },
+    {
+      "start": 1814.31,
+      "duration": 2.67,
+      "text": "By the time we secure or replace SS7,",
+      "en": "By the time we secure or replace SS7,",
+      "zh": ""
+    },
+    {
+      "start": 1816.98,
+      "duration": 2.31,
+      "text": "vulnerabilities will already have been found",
+      "en": "vulnerabilities will already have been found",
+      "zh": ""
+    },
+    {
+      "start": 1819.29,
+      "duration": 1.41,
+      "text": "in the new system,",
+      "en": "in the new system,",
+      "zh": ""
+    },
+    {
+      "start": 1820.7,
+      "duration": 2.19,
+      "text": "but luckily there's an easy way to be ready",
+      "en": "but luckily there's an easy way to be ready",
+      "zh": ""
+    },
+    {
+      "start": 1822.89,
+      "duration": 2.79,
+      "text": "for whatever the future holds, build your knowledge",
+      "en": "for whatever the future holds, build your knowledge",
+      "zh": ""
+    },
+    {
+      "start": 1825.68,
+      "duration": 2.94,
+      "text": "and problem solving skills a little bit every day.",
+      "en": "and problem solving skills a little bit every day.",
+      "zh": ""
+    },
+    {
+      "start": 1828.62,
+      "duration": 2.61,
+      "text": "And you can start doing that right now for free",
+      "en": "And you can start doing that right now for free",
+      "zh": ""
+    },
+    {
+      "start": 1831.23,
+      "duration": 2.25,
+      "text": "with this video sponsor, Brilliant.",
+      "en": "with this video sponsor, Brilliant.",
+      "zh": ""
+    },
+    {
+      "start": 1833.48,
+      "duration": 2.49,
+      "text": "Brilliant has thousands of interactive lessons",
+      "en": "Brilliant has thousands of interactive lessons",
+      "zh": ""
+    },
+    {
+      "start": 1835.97,
+      "duration": 3.39,
+      "text": "where you can learn by doing, making you a better thinker",
+      "en": "where you can learn by doing, making you a better thinker",
+      "zh": ""
+    },
+    {
+      "start": 1839.36,
+      "duration": 1.41,
+      "text": "and problem solver.",
+      "en": "and problem solver.",
+      "zh": ""
+    },
+    {
+      "start": 1840.77,
+      "duration": 2.28,
+      "text": "You build real skills in everything from math",
+      "en": "You build real skills in everything from math",
+      "zh": ""
+    },
+    {
+      "start": 1843.05,
+      "duration": 3.06,
+      "text": "and data analysis to technology and programming.",
+      "en": "and data analysis to technology and programming.",
+      "zh": ""
+    },
+    {
+      "start": 1846.11,
+      "duration": 1.02,
+      "text": "You name it.",
+      "en": "You name it.",
+      "zh": ""
+    },
+    {
+      "start": 1847.13,
+      "duration": 3.18,
+      "text": "Brilliant, is designed to be uniquely effective.",
+      "en": "Brilliant, is designed to be uniquely effective.",
+      "zh": ""
+    },
+    {
+      "start": 1850.31,
+      "duration": 1.89,
+      "text": "Their first principles approach helps you build",
+      "en": "Their first principles approach helps you build",
+      "zh": ""
+    },
+    {
+      "start": 1852.2,
+      "duration": 1.68,
+      "text": "understanding from the ground up.",
+      "en": "understanding from the ground up.",
+      "zh": ""
+    },
+    {
+      "start": 1853.88,
+      "duration": 2.31,
+      "text": "So you'll not only gain knowledge of key concepts,",
+      "en": "So you'll not only gain knowledge of key concepts,",
+      "zh": ""
+    },
+    {
+      "start": 1856.19,
+      "duration": 1.05,
+      "text": "you'll learn to apply them",
+      "en": "you'll learn to apply them",
+      "zh": ""
+    },
+    {
+      "start": 1857.24,
+      "duration": 3.51,
+      "text": "to real world situations all while building your intuition,",
+      "en": "to real world situations all while building your intuition,",
+      "zh": ""
+    },
+    {
+      "start": 1860.75,
+      "duration": 2.1,
+      "text": "giving you the tools to solve whatever problems",
+      "en": "giving you the tools to solve whatever problems",
+      "zh": ""
+    },
+    {
+      "start": 1862.85,
+      "duration": 1.26,
+      "text": "come your way.",
+      "en": "come your way.",
+      "zh": ""
+    },
+    {
+      "start": 1864.11,
+      "duration": 2.52,
+      "text": "Brilliant's new course on data clustering, for example,",
+      "en": "Brilliant's new course on data clustering, for example,",
+      "zh": ""
+    },
+    {
+      "start": 1866.63,
+      "duration": 1.59,
+      "text": "equips you with the same tools,",
+      "en": "equips you with the same tools,",
+      "zh": ""
+    },
+    {
+      "start": 1868.22,
+      "duration": 2.94,
+      "text": "security researchers like Karsten used to spot trends",
+      "en": "security researchers like Karsten used to spot trends",
+      "zh": ""
+    },
+    {
+      "start": 1871.16,
+      "duration": 2.31,
+      "text": "among the billions of SS7 messages.",
+      "en": "among the billions of SS7 messages.",
+      "zh": ""
+    },
+    {
+      "start": 1873.47,
+      "duration": 2.13,
+      "text": "This is really helpful when hunting hackers,",
+      "en": "This is really helpful when hunting hackers,",
+      "zh": ""
+    },
+    {
+      "start": 1875.6,
+      "duration": 2.67,
+      "text": "but the concepts you'll learn also help navigating a world",
+      "en": "but the concepts you'll learn also help navigating a world",
+      "zh": ""
+    },
+    {
+      "start": 1878.27,
+      "duration": 2.22,
+      "text": "where data influences everything,",
+      "en": "where data influences everything,",
+      "zh": ""
+    },
+    {
+      "start": 1880.49,
+      "duration": 3.48,
+      "text": "from what movies are being recommended to national politics.",
+      "en": "from what movies are being recommended to national politics.",
+      "zh": ""
+    },
+    {
+      "start": 1883.97,
+      "duration": 2.25,
+      "text": "And one of the best things about Brilliant is",
+      "en": "And one of the best things about Brilliant is",
+      "zh": ""
+    },
+    {
+      "start": 1886.22,
+      "duration": 2.49,
+      "text": "since every lesson is bite sized, you can build your skills",
+      "en": "since every lesson is bite sized, you can build your skills",
+      "zh": ""
+    },
+    {
+      "start": 1888.71,
+      "duration": 1.62,
+      "text": "and sharpen your mind whenever",
+      "en": "and sharpen your mind whenever",
+      "zh": ""
+    },
+    {
+      "start": 1890.33,
+      "duration": 2.67,
+      "text": "and wherever you have a few minutes helping you build",
+      "en": "and wherever you have a few minutes helping you build",
+      "zh": ""
+    },
+    {
+      "start": 1893.0,
+      "duration": 2.49,
+      "text": "a daily learning habit that sticks the opposite",
+      "en": "a daily learning habit that sticks the opposite",
+      "zh": ""
+    },
+    {
+      "start": 1895.49,
+      "duration": 1.35,
+      "text": "of mindless scrolling.",
+      "en": "of mindless scrolling.",
+      "zh": ""
+    },
+    {
+      "start": 1896.84,
+      "duration": 2.28,
+      "text": "To try everything Brilliant has to offer for free",
+      "en": "To try everything Brilliant has to offer for free",
+      "zh": ""
+    },
+    {
+      "start": 1899.12,
+      "duration": 3.21,
+      "text": "for 30 days, visit brilliant.org/veritasium",
+      "en": "for 30 days, visit brilliant.org/veritasium",
+      "zh": ""
+    },
+    {
+      "start": 1902.33,
+      "duration": 1.44,
+      "text": "or you can scan the QR code",
+      "en": "or you can scan the QR code",
+      "zh": ""
+    },
+    {
+      "start": 1903.77,
+      "duration": 1.98,
+      "text": "or click that link in the description.",
+      "en": "or click that link in the description.",
+      "zh": ""
+    },
+    {
+      "start": 1905.75,
+      "duration": 3.72,
+      "text": "You'll also get 20% off an annual premium subscription.",
+      "en": "You'll also get 20% off an annual premium subscription.",
+      "zh": ""
+    },
+    {
+      "start": 1909.47,
+      "duration": 2.49,
+      "text": "So I wanna thank Brilliant for sponsoring this video",
+      "en": "So I wanna thank Brilliant for sponsoring this video",
+      "zh": ""
+    },
+    {
+      "start": 1911.96,
+      "duration": 1.89,
+      "text": "and I wanna thank you for watching.",
+      "en": "and I wanna thank you for watching.",
+      "zh": ""
+    }
+  ],
+  "words": []
+}

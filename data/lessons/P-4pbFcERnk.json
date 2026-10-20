@@ -1,0 +1,3435 @@
+{
+  "cues": [
+    {
+      "start": 0.16,
+      "duration": 5.84,
+      "text": "This is a video of light traveling through a bottle at 250 billion frames per second.",
+      "en": "This is a video of light traveling through a bottle at 250 billion frames per second.",
+      "zh": ""
+    },
+    {
+      "start": 6.0,
+      "duration": 1.84,
+      "text": "And here's that same video.",
+      "en": "And here's that same video.",
+      "zh": ""
+    },
+    {
+      "start": 7.84,
+      "duration": 5.36,
+      "text": "But now with the camera moving.",
+      "en": "But now with the camera moving.",
+      "zh": ""
+    },
+    {
+      "start": 13.2,
+      "duration": 4.32,
+      "text": "You can see it sweeps across the scene faster than the laser pulse itself,",
+      "en": "You can see it sweeps across the scene faster than the laser pulse itself,",
+      "zh": ""
+    },
+    {
+      "start": 17.52,
+      "duration": 3.92,
+      "text": "which means this camera must be traveling faster than light.",
+      "en": "which means this camera must be traveling faster than light.",
+      "zh": ""
+    },
+    {
+      "start": 21.44,
+      "duration": 2.24,
+      "text": "So how is this possible?",
+      "en": "So how is this possible?",
+      "zh": ""
+    },
+    {
+      "start": 24.4,
+      "duration": 4.56,
+      "text": "Well, in this video, I wanna show you three unusual ways of stopping time",
+      "en": "Well, in this video, I wanna show you three unusual ways of stopping time",
+      "zh": ""
+    },
+    {
+      "start": 28.96,
+      "duration": 3.28,
+      "text": "and what you can see if you just keep slowing down.",
+      "en": "and what you can see if you just keep slowing down.",
+      "zh": ""
+    },
+    {
+      "start": 32.24,
+      "duration": 3.24,
+      "text": "From a century old technique that still beats modern slow-mo cameras,",
+      "en": "From a century old technique that still beats modern slow-mo cameras,",
+      "zh": ""
+    },
+    {
+      "start": 35.48,
+      "duration": 3.72,
+      "text": "as all the way to a massive quadrillion frames per second camera",
+      "en": "as all the way to a massive quadrillion frames per second camera",
+      "zh": ""
+    },
+    {
+      "start": 39.2,
+      "duration": 3.32,
+      "text": "that captures electrons whizzing around molecules.",
+      "en": "that captures electrons whizzing around molecules.",
+      "zh": ""
+    },
+    {
+      "start": 48.16,
+      "duration": 6.16,
+      "text": "By the 1920s, electric motors were the new standard for powering factories and mills,",
+      "en": "By the 1920s, electric motors were the new standard for powering factories and mills,",
+      "zh": ""
+    },
+    {
+      "start": 54.32,
+      "duration": 3.28,
+      "text": "but many of these motors also came with a flaw.",
+      "en": "but many of these motors also came with a flaw.",
+      "zh": ""
+    },
+    {
+      "start": 57.6,
+      "duration": 3.52,
+      "text": "They were sensitive to fluctuations in the electrical grid.",
+      "en": "They were sensitive to fluctuations in the electrical grid.",
+      "zh": ""
+    },
+    {
+      "start": 61.12,
+      "duration": 4.8,
+      "text": "A power surge, like from a lightning strike made them behave unpredictably.",
+      "en": "A power surge, like from a lightning strike made them behave unpredictably.",
+      "zh": ""
+    },
+    {
+      "start": 65.92,
+      "duration": 6.56,
+      "text": "So one MIT engineer named Harold \"Doc' Edgerton, set out to find a solution.",
+      "en": "So one MIT engineer named Harold \"Doc' Edgerton, set out to find a solution.",
+      "zh": ""
+    },
+    {
+      "start": 73.76,
+      "duration": 5.2,
+      "text": "He had a setup that could induce these power surges in a lab, but no matter what he tried,",
+      "en": "He had a setup that could induce these power surges in a lab, but no matter what he tried,",
+      "zh": ""
+    },
+    {
+      "start": 78.96,
+      "duration": 3.84,
+      "text": "Edgerton just couldn't see what was going on with the motors because the",
+      "en": "Edgerton just couldn't see what was going on with the motors because the",
+      "zh": ""
+    },
+    {
+      "start": 82.8,
+      "duration": 3.6,
+      "text": "machines would spin too fast for the human eye to see.",
+      "en": "machines would spin too fast for the human eye to see.",
+      "zh": ""
+    },
+    {
+      "start": 86.4,
+      "duration": 2.96,
+      "text": "And cameras at the time offered no help.",
+      "en": "And cameras at the time offered no help.",
+      "zh": ""
+    },
+    {
+      "start": 89.36,
+      "duration": 2.32,
+      "text": "Their exposure times were too slow,",
+      "en": "Their exposure times were too slow,",
+      "zh": ""
+    },
+    {
+      "start": 91.68,
+      "duration": 5.12,
+      "text": "so any photograph of a running motor would come out blurry.",
+      "en": "so any photograph of a running motor would come out blurry.",
+      "zh": ""
+    },
+    {
+      "start": 96.8,
+      "duration": 4.32,
+      "text": "But one day, Edgerton noticed that every time he triggered a power surge,",
+      "en": "But one day, Edgerton noticed that every time he triggered a power surge,",
+      "zh": ""
+    },
+    {
+      "start": 101.12,
+      "duration": 2.8,
+      "text": "his equipment gave off a bright flash of light.",
+      "en": "his equipment gave off a bright flash of light.",
+      "zh": ""
+    },
+    {
+      "start": 103.92,
+      "duration": 1.68,
+      "text": "And when that flash hit the motor,",
+      "en": "And when that flash hit the motor,",
+      "zh": ""
+    },
+    {
+      "start": 105.6,
+      "duration": 5.92,
+      "text": "the moving parts appeared to stand perfectly still as if frozen in time,",
+      "en": "the moving parts appeared to stand perfectly still as if frozen in time,",
+      "zh": ""
+    },
+    {
+      "start": 111.52,
+      "duration": 2.0,
+      "text": "which gave him an idea.",
+      "en": "which gave him an idea.",
+      "zh": ""
+    },
+    {
+      "start": 113.52,
+      "duration": 4.96,
+      "text": "He could turn off all the lights in the room, set up a camera, and leave the shutter open.",
+      "en": "He could turn off all the lights in the room, set up a camera, and leave the shutter open.",
+      "zh": ""
+    },
+    {
+      "start": 118.48,
+      "duration": 4.48,
+      "text": "And since there was no light, no image would form on the film.",
+      "en": "And since there was no light, no image would form on the film.",
+      "zh": ""
+    },
+    {
+      "start": 122.96,
+      "duration": 4.96,
+      "text": "But then if he could illuminate the motor with a very brief and very bright flash,",
+      "en": "But then if he could illuminate the motor with a very brief and very bright flash,",
+      "zh": ""
+    },
+    {
+      "start": 127.92,
+      "duration": 1.92,
+      "text": "like the ones his equipment gave off,",
+      "en": "like the ones his equipment gave off,",
+      "zh": ""
+    },
+    {
+      "start": 129.84,
+      "duration": 3.52,
+      "text": "well then he would get a sharp photograph.",
+      "en": "well then he would get a sharp photograph.",
+      "zh": ""
+    },
+    {
+      "start": 133.36,
+      "duration": 4.96,
+      "text": "All Edgerton needed was a way to reliably create these flashes.",
+      "en": "All Edgerton needed was a way to reliably create these flashes.",
+      "zh": ""
+    },
+    {
+      "start": 138.32,
+      "duration": 4.16,
+      "text": "So he started by using a high voltage power source to load electrons onto a",
+      "en": "So he started by using a high voltage power source to load electrons onto a",
+      "zh": ""
+    },
+    {
+      "start": 142.48,
+      "duration": 2.88,
+      "text": "capacitor where they piled up onto one of the plates.",
+      "en": "capacitor where they piled up onto one of the plates.",
+      "zh": ""
+    },
+    {
+      "start": 145.36,
+      "duration": 2.88,
+      "text": "But because there was an insulator slotted between the two sides,",
+      "en": "But because there was an insulator slotted between the two sides,",
+      "zh": ""
+    },
+    {
+      "start": 148.24,
+      "duration": 3.76,
+      "text": "the electrons couldn't just jump to the positive side to balance out the charges.",
+      "en": "the electrons couldn't just jump to the positive side to balance out the charges.",
+      "zh": ""
+    },
+    {
+      "start": 152.56,
+      "duration": 4.08,
+      "text": "The only way for them to get there would be to travel through the rest of the circuit.",
+      "en": "The only way for them to get there would be to travel through the rest of the circuit.",
+      "zh": ""
+    },
+    {
+      "start": 156.64,
+      "duration": 5.04,
+      "text": "And the circuit was intentionally designed so that electrons would have to cross a glass tube",
+      "en": "And the circuit was intentionally designed so that electrons would have to cross a glass tube",
+      "zh": ""
+    },
+    {
+      "start": 161.68,
+      "duration": 4.08,
+      "text": "filled with a non conducting gas like argon or xenon.",
+      "en": "filled with a non conducting gas like argon or xenon.",
+      "zh": ""
+    },
+    {
+      "start": 165.76,
+      "duration": 3.76,
+      "text": "On their own they would not have the energy to get through that gas.",
+      "en": "On their own they would not have the energy to get through that gas.",
+      "zh": ""
+    },
+    {
+      "start": 169.52,
+      "duration": 2.48,
+      "text": "So Edgerton added a trigger that sent a",
+      "en": "So Edgerton added a trigger that sent a",
+      "zh": ""
+    },
+    {
+      "start": 172.0,
+      "duration": 4.08,
+      "text": "high voltage pulse through a wire wrapped around the tube",
+      "en": "high voltage pulse through a wire wrapped around the tube",
+      "zh": ""
+    },
+    {
+      "start": 176.08,
+      "duration": 4.96,
+      "text": "and the electric field from that pulse would rip electrons off the gas atoms inside the chamber,",
+      "en": "and the electric field from that pulse would rip electrons off the gas atoms inside the chamber,",
+      "zh": ""
+    },
+    {
+      "start": 181.04,
+      "duration": 2.96,
+      "text": "ionizing the gas and turning it into a conductor.",
+      "en": "ionizing the gas and turning it into a conductor.",
+      "zh": ""
+    },
+    {
+      "start": 184.0,
+      "duration": 4.08,
+      "text": "In that instant, the charge stored in the capacitor would surge through heating",
+      "en": "In that instant, the charge stored in the capacitor would surge through heating",
+      "zh": ""
+    },
+    {
+      "start": 188.08,
+      "duration": 5.28,
+      "text": "the gas to around 10,000 Kelvin, nearly twice as hot as the surface of the Sun.",
+      "en": "the gas to around 10,000 Kelvin, nearly twice as hot as the surface of the Sun.",
+      "zh": ""
+    },
+    {
+      "start": 193.36,
+      "duration": 6.16,
+      "text": "This would produce a very bright, very brief flash of light lasting just 10 microseconds.",
+      "en": "This would produce a very bright, very brief flash of light lasting just 10 microseconds.",
+      "zh": ""
+    },
+    {
+      "start": 199.52,
+      "duration": 1.92,
+      "text": "Then the electrons would recombine with the",
+      "en": "Then the electrons would recombine with the",
+      "zh": ""
+    },
+    {
+      "start": 201.44,
+      "duration": 3.92,
+      "text": "gas atoms stopping the current and the circuit would go dark again.",
+      "en": "gas atoms stopping the current and the circuit would go dark again.",
+      "zh": ""
+    },
+    {
+      "start": 205.36,
+      "duration": 3.84,
+      "text": "This was Edgerton's strobe.",
+      "en": "This was Edgerton's strobe.",
+      "zh": ""
+    },
+    {
+      "start": 209.2,
+      "duration": 3.92,
+      "text": "By the early 1930s, he was eager to test it outside the lab,",
+      "en": "By the early 1930s, he was eager to test it outside the lab,",
+      "zh": ""
+    },
+    {
+      "start": 213.12,
+      "duration": 4.0,
+      "text": "so he packed up a strobe and hit the road with his wife.",
+      "en": "so he packed up a strobe and hit the road with his wife.",
+      "zh": ""
+    },
+    {
+      "start": 217.12,
+      "duration": 4.24,
+      "text": "When he saw a random factory, he pulled over, got inside the nearest",
+      "en": "When he saw a random factory, he pulled over, got inside the nearest",
+      "zh": ""
+    },
+    {
+      "start": 221.36,
+      "duration": 3.76,
+      "text": "phone booth and called up the factory's president and asked him something like:",
+      "en": "phone booth and called up the factory's president and asked him something like:",
+      "zh": ""
+    },
+    {
+      "start": 225.12,
+      "duration": 2.72,
+      "text": "\"Do you happen to have any motors in there that don't",
+      "en": "\"Do you happen to have any motors in there that don't",
+      "zh": ""
+    },
+    {
+      "start": 227.84,
+      "duration": 2.8,
+      "text": "work right? I'd like to show you something.\"",
+      "en": "work right? I'd like to show you something.\"",
+      "zh": ""
+    },
+    {
+      "start": 230.64,
+      "duration": 4.72,
+      "text": "More often than not, he ended up inside setting up the strobe next to one of the motors.",
+      "en": "More often than not, he ended up inside setting up the strobe next to one of the motors.",
+      "zh": ""
+    },
+    {
+      "start": 235.36,
+      "duration": 3.52,
+      "text": "The workers would watch as Edgerton froze the motor in time,",
+      "en": "The workers would watch as Edgerton froze the motor in time,",
+      "zh": ""
+    },
+    {
+      "start": 238.88,
+      "duration": 3.84,
+      "text": "allowing them to take sharp pictures of the gears in motion.",
+      "en": "allowing them to take sharp pictures of the gears in motion.",
+      "zh": ""
+    },
+    {
+      "start": 242.72,
+      "duration": 3.84,
+      "text": "Edgerton isn't the first to make a strobe. Rather he took new bits of",
+      "en": "Edgerton isn't the first to make a strobe. Rather he took new bits of",
+      "zh": ""
+    },
+    {
+      "start": 246.56,
+      "duration": 2.8,
+      "text": "technology that existed so he could make a better strobe.",
+      "en": "technology that existed so he could make a better strobe.",
+      "zh": ""
+    },
+    {
+      "start": 249.36,
+      "duration": 4.0,
+      "text": "A strobe that was brighter, shorter flash duration. But he was not unique in that.",
+      "en": "A strobe that was brighter, shorter flash duration. But he was not unique in that.",
+      "zh": ""
+    },
+    {
+      "start": 253.36,
+      "duration": 4.56,
+      "text": "There were lots of electrical engineers in the world at that time who could have done that.",
+      "en": "There were lots of electrical engineers in the world at that time who could have done that.",
+      "zh": ""
+    },
+    {
+      "start": 257.92,
+      "duration": 4.48,
+      "text": "No, what Edgerton uniquely brought to the table was his eye for photography.",
+      "en": "No, what Edgerton uniquely brought to the table was his eye for photography.",
+      "zh": ""
+    },
+    {
+      "start": 262.4,
+      "duration": 1.76,
+      "text": "He took photos of synchronous motors,",
+      "en": "He took photos of synchronous motors,",
+      "zh": ""
+    },
+    {
+      "start": 264.16,
+      "duration": 3.6,
+      "text": "and I think in part because he just thought synchronous motors were cool.",
+      "en": "and I think in part because he just thought synchronous motors were cool.",
+      "zh": ""
+    },
+    {
+      "start": 267.76,
+      "duration": 5.52,
+      "text": "One day he showed his wife the 300th photo of a synchronous motor. And she said,",
+      "en": "One day he showed his wife the 300th photo of a synchronous motor. And she said,",
+      "zh": ""
+    },
+    {
+      "start": 273.28,
+      "duration": 4.4,
+      "text": "\"Harold, can't you take a picture of something a little more interesting?\"",
+      "en": "\"Harold, can't you take a picture of something a little more interesting?\"",
+      "zh": ""
+    },
+    {
+      "start": 277.68,
+      "duration": 4.16,
+      "text": "And so he did.",
+      "en": "And so he did.",
+      "zh": ""
+    },
+    {
+      "start": 281.84,
+      "duration": 4.48,
+      "text": "Tennis balls, pancaked against the racket, hummingbirds frozen in time.",
+      "en": "Tennis balls, pancaked against the racket, hummingbirds frozen in time.",
+      "zh": ""
+    },
+    {
+      "start": 286.88,
+      "duration": 4.4,
+      "text": "He was one of the first to really start using strobes to communicate",
+      "en": "He was one of the first to really start using strobes to communicate",
+      "zh": ""
+    },
+    {
+      "start": 291.28,
+      "duration": 3.12,
+      "text": "what's happening at these timescales we can't see.",
+      "en": "what's happening at these timescales we can't see.",
+      "zh": ""
+    },
+    {
+      "start": 294.4,
+      "duration": 3.84,
+      "text": "He would do this through like \"Life Magazine,\" \"National Geographic, magazines.",
+      "en": "He would do this through like \"Life Magazine,\" \"National Geographic, magazines.",
+      "zh": ""
+    },
+    {
+      "start": 298.24,
+      "duration": 2.24,
+      "text": "These magazines in the '30's, '40's,",
+      "en": "These magazines in the '30's, '40's,",
+      "zh": ""
+    },
+    {
+      "start": 300.48,
+      "duration": 3.12,
+      "text": "were essentially the social media influencers of the day.",
+      "en": "were essentially the social media influencers of the day.",
+      "zh": ""
+    },
+    {
+      "start": 303.6,
+      "duration": 3.28,
+      "text": "He just had this eye for composition.",
+      "en": "He just had this eye for composition.",
+      "zh": ""
+    },
+    {
+      "start": 306.88,
+      "duration": 3.28,
+      "text": "Most of these pictures were taken in the 1930s and yeah,",
+      "en": "Most of these pictures were taken in the 1930s and yeah,",
+      "zh": ""
+    },
+    {
+      "start": 310.16,
+      "duration": 4.88,
+      "text": "it seems easy enough to swing a racket and it's easy enough to press a button on the strobe,",
+      "en": "it seems easy enough to swing a racket and it's easy enough to press a button on the strobe,",
+      "zh": ""
+    },
+    {
+      "start": 315.04,
+      "duration": 5.36,
+      "text": "but how do you time the strobe to go off exactly as the racket hits the tennis ball?",
+      "en": "but how do you time the strobe to go off exactly as the racket hits the tennis ball?",
+      "zh": ""
+    },
+    {
+      "start": 320.4,
+      "duration": 1.76,
+      "text": "That is the million dollar question, right?",
+      "en": "That is the million dollar question, right?",
+      "zh": ""
+    },
+    {
+      "start": 322.16,
+      "duration": 3.52,
+      "text": "You have a strobe that turns on and off and half a millionth of the second, that's nice.",
+      "en": "You have a strobe that turns on and off and half a millionth of the second, that's nice.",
+      "zh": ""
+    },
+    {
+      "start": 325.68,
+      "duration": 2.0,
+      "text": "How do you get it to go off to the right half",
+      "en": "How do you get it to go off to the right half",
+      "zh": ""
+    },
+    {
+      "start": 327.68,
+      "duration": 3.52,
+      "text": "millionth of the second? 'Cause there are a lot of them right?",
+      "en": "millionth of the second? 'Cause there are a lot of them right?",
+      "zh": ""
+    },
+    {
+      "start": 331.2,
+      "duration": 2.48,
+      "text": "And the answer is we use sound.",
+      "en": "And the answer is we use sound.",
+      "zh": ""
+    },
+    {
+      "start": 333.68,
+      "duration": 3.2,
+      "text": "So we're gonna try and recreate one of Edgerton's photos,",
+      "en": "So we're gonna try and recreate one of Edgerton's photos,",
+      "zh": ""
+    },
+    {
+      "start": 336.88,
+      "duration": 2.56,
+      "text": "popping a balloon and freezing it in time.",
+      "en": "popping a balloon and freezing it in time.",
+      "zh": ""
+    },
+    {
+      "start": 339.44,
+      "duration": 1.52,
+      "text": "Is it okay if we walk through the setup?",
+      "en": "Is it okay if we walk through the setup?",
+      "zh": ""
+    },
+    {
+      "start": 341.52,
+      "duration": 3.04,
+      "text": "I think that would make perfect sense. Why don't you blow up a balloon.",
+      "en": "I think that would make perfect sense. Why don't you blow up a balloon.",
+      "zh": ""
+    },
+    {
+      "start": 344.56,
+      "duration": 4.08,
+      "text": "Step one is you set up the experiment, or in this case, the performer.",
+      "en": "Step one is you set up the experiment, or in this case, the performer.",
+      "zh": ""
+    },
+    {
+      "start": 348.64,
+      "duration": 2.08,
+      "text": "And the next thing you wanna do is frame the image.",
+      "en": "And the next thing you wanna do is frame the image.",
+      "zh": ""
+    },
+    {
+      "start": 350.72,
+      "duration": 3.68,
+      "text": "- So you're framing now before the balloon pops to get focus and things?",
+      "en": "- So you're framing now before the balloon pops to get focus and things?",
+      "zh": ""
+    },
+    {
+      "start": 354.4,
+      "duration": 4.0,
+      "text": "Exactly, if you can't get a good photo with nothing happening,",
+      "en": "Exactly, if you can't get a good photo with nothing happening,",
+      "zh": ""
+    },
+    {
+      "start": 358.4,
+      "duration": 1.6,
+      "text": "adding the motion will not help.",
+      "en": "adding the motion will not help.",
+      "zh": ""
+    },
+    {
+      "start": 360.0,
+      "duration": 4.24,
+      "text": "And so the next step will be to get the strobe in the right spot.",
+      "en": "And so the next step will be to get the strobe in the right spot.",
+      "zh": ""
+    },
+    {
+      "start": 364.24,
+      "duration": 4.4,
+      "text": "Now the strobe is set up with a trigger unit with a microphone.",
+      "en": "Now the strobe is set up with a trigger unit with a microphone.",
+      "zh": ""
+    },
+    {
+      "start": 368.64,
+      "duration": 2.72,
+      "text": "And when a sharp sound hits the microphone,",
+      "en": "And when a sharp sound hits the microphone,",
+      "zh": ""
+    },
+    {
+      "start": 371.36,
+      "duration": 3.6,
+      "text": "the trigger unit sends a signal to set off the strobe.",
+      "en": "the trigger unit sends a signal to set off the strobe.",
+      "zh": ""
+    },
+    {
+      "start": 374.96,
+      "duration": 4.4,
+      "text": "We're gonna turn the lights out and then we're gonna open the shutter of the camera,",
+      "en": "We're gonna turn the lights out and then we're gonna open the shutter of the camera,",
+      "zh": ""
+    },
+    {
+      "start": 379.36,
+      "duration": 3.04,
+      "text": "but there won't be an image because the room will be dark.",
+      "en": "but there won't be an image because the room will be dark.",
+      "zh": ""
+    },
+    {
+      "start": 382.4,
+      "duration": 4.8,
+      "text": "And I'll say three, two, one, pop. And when I say pop, pop the balloon with an upward motion.",
+      "en": "And I'll say three, two, one, pop. And when I say pop, pop the balloon with an upward motion.",
+      "zh": ""
+    },
+    {
+      "start": 387.2,
+      "duration": 4.88,
+      "text": "And when the sound from the pop hits the mic, after a minor delay, the strobe will fire.",
+      "en": "And when the sound from the pop hits the mic, after a minor delay, the strobe will fire.",
+      "zh": ""
+    },
+    {
+      "start": 392.08,
+      "duration": 5.52,
+      "text": "The camera will capture that image for the one 100,000th of a second it's lit.",
+      "en": "The camera will capture that image for the one 100,000th of a second it's lit.",
+      "zh": ""
+    },
+    {
+      "start": 397.6,
+      "duration": 1.68,
+      "text": "Alright, we ready?",
+      "en": "Alright, we ready?",
+      "zh": ""
+    },
+    {
+      "start": 399.28,
+      "duration": 4.96,
+      "text": "Lights out please. And three, two, one, pop.",
+      "en": "Lights out please. And three, two, one, pop.",
+      "zh": ""
+    },
+    {
+      "start": 404.24,
+      "duration": 1.12,
+      "text": "Lights.",
+      "en": "Lights.",
+      "zh": ""
+    },
+    {
+      "start": 405.36,
+      "duration": 4.24,
+      "text": "Oh, there you go. Oh, you look hmmmm. Do not mess with this man. Nope.",
+      "en": "Oh, there you go. Oh, you look hmmmm. Do not mess with this man. Nope.",
+      "zh": ""
+    },
+    {
+      "start": 409.6,
+      "duration": 2.4,
+      "text": "- Oh, it's awesome. You can see inside the balloon.",
+      "en": "- Oh, it's awesome. You can see inside the balloon.",
+      "zh": ""
+    },
+    {
+      "start": 412.0,
+      "duration": 2.16,
+      "text": "That's really cool.",
+      "en": "That's really cool.",
+      "zh": ""
+    },
+    {
+      "start": 414.16,
+      "duration": 5.2,
+      "text": "This is another image we took. Can you guess what this is? This hovering white orb.",
+      "en": "This is another image we took. Can you guess what this is? This hovering white orb.",
+      "zh": ""
+    },
+    {
+      "start": 419.36,
+      "duration": 2.4,
+      "text": "Here's another photo just a moment later.",
+      "en": "Here's another photo just a moment later.",
+      "zh": ""
+    },
+    {
+      "start": 421.76,
+      "duration": 1.68,
+      "text": "It's like a little sombrero!",
+      "en": "It's like a little sombrero!",
+      "zh": ""
+    },
+    {
+      "start": 423.44,
+      "duration": 1.52,
+      "text": "It is, yes.",
+      "en": "It is, yes.",
+      "zh": ""
+    },
+    {
+      "start": 424.96,
+      "duration": 3.36,
+      "text": "That orb is a drop of milk falling onto a plate.",
+      "en": "That orb is a drop of milk falling onto a plate.",
+      "zh": ""
+    },
+    {
+      "start": 428.32,
+      "duration": 3.92,
+      "text": "That's a pancake. But you'll notice the little drops are all spreading out.",
+      "en": "That's a pancake. But you'll notice the little drops are all spreading out.",
+      "zh": ""
+    },
+    {
+      "start": 432.24,
+      "duration": 1.92,
+      "text": "Yeah, it's so, so crisp.",
+      "en": "Yeah, it's so, so crisp.",
+      "zh": ""
+    },
+    {
+      "start": 434.16,
+      "duration": 4.16,
+      "text": "Come around and have a look here. Right, it's translucent here. You're seeing through it.",
+      "en": "Come around and have a look here. Right, it's translucent here. You're seeing through it.",
+      "zh": ""
+    },
+    {
+      "start": 438.32,
+      "duration": 1.68,
+      "text": "Oh, wow.",
+      "en": "Oh, wow.",
+      "zh": ""
+    },
+    {
+      "start": 440.0,
+      "duration": 4.16,
+      "text": "Now, once Edgerton showed the world how powerful strobe photography was,",
+      "en": "Now, once Edgerton showed the world how powerful strobe photography was,",
+      "zh": ""
+    },
+    {
+      "start": 444.16,
+      "duration": 2.64,
+      "text": "he attracted some unexpected attention.",
+      "en": "he attracted some unexpected attention.",
+      "zh": ""
+    },
+    {
+      "start": 446.8,
+      "duration": 6.24,
+      "text": "In 1939, a US major named George Goddard walked into Edgerton's lab unannounced.",
+      "en": "In 1939, a US major named George Goddard walked into Edgerton's lab unannounced.",
+      "zh": ""
+    },
+    {
+      "start": 453.04,
+      "duration": 2.48,
+      "text": "He was working in the Army's photographic lab,",
+      "en": "He was working in the Army's photographic lab,",
+      "zh": ""
+    },
+    {
+      "start": 455.52,
+      "duration": 4.64,
+      "text": "developing ways to photograph enemy movements from a plane during the nighttime.",
+      "en": "developing ways to photograph enemy movements from a plane during the nighttime.",
+      "zh": ""
+    },
+    {
+      "start": 460.16,
+      "duration": 4.24,
+      "text": "The old way of doing a night reconnaissance photograph was to",
+      "en": "The old way of doing a night reconnaissance photograph was to",
+      "zh": ""
+    },
+    {
+      "start": 464.4,
+      "duration": 5.52,
+      "text": "fly over the site at high altitude and drop a flare on a parachute.",
+      "en": "fly over the site at high altitude and drop a flare on a parachute.",
+      "zh": ""
+    },
+    {
+      "start": 469.92,
+      "duration": 4.56,
+      "text": "And then the reconnaissance plane had to fly in under the flare",
+      "en": "And then the reconnaissance plane had to fly in under the flare",
+      "zh": ""
+    },
+    {
+      "start": 474.48,
+      "duration": 2.64,
+      "text": "where it would be silhouetted, where you could shoot at it.",
+      "en": "where it would be silhouetted, where you could shoot at it.",
+      "zh": ""
+    },
+    {
+      "start": 477.12,
+      "duration": 0.96,
+      "text": "Big problem...",
+      "en": "Big problem...",
+      "zh": ""
+    },
+    {
+      "start": 478.08,
+      "duration": 3.04,
+      "text": "Right? So totally exposed.",
+      "en": "Right? So totally exposed.",
+      "zh": ""
+    },
+    {
+      "start": 481.12,
+      "duration": 3.2,
+      "text": "Goddard wanted a safer way. So he asked Edgerton whether he",
+      "en": "Goddard wanted a safer way. So he asked Edgerton whether he",
+      "zh": ""
+    },
+    {
+      "start": 484.32,
+      "duration": 2.88,
+      "text": "could develop a strobe powerful enough to illuminate the ground",
+      "en": "could develop a strobe powerful enough to illuminate the ground",
+      "zh": ""
+    },
+    {
+      "start": 487.2,
+      "duration": 4.08,
+      "text": "from a plane that was a mile or so up in the sky. A strobe that would",
+      "en": "from a plane that was a mile or so up in the sky. A strobe that would",
+      "zh": ""
+    },
+    {
+      "start": 491.28,
+      "duration": 2.48,
+      "text": "be bright enough to take a reconnaissance photo.",
+      "en": "be bright enough to take a reconnaissance photo.",
+      "zh": ""
+    },
+    {
+      "start": 493.76,
+      "duration": 3.52,
+      "text": "Edgerton pulled out some paper, did a few calculations and said:",
+      "en": "Edgerton pulled out some paper, did a few calculations and said:",
+      "zh": ""
+    },
+    {
+      "start": 497.28,
+      "duration": 1.68,
+      "text": "\"We can do that.\"",
+      "en": "\"We can do that.\"",
+      "zh": ""
+    },
+    {
+      "start": 498.96,
+      "duration": 4.32,
+      "text": "The flash released about 60,000 joules in a single millisecond.",
+      "en": "The flash released about 60,000 joules in a single millisecond.",
+      "zh": ""
+    },
+    {
+      "start": 503.28,
+      "duration": 5.52,
+      "text": "A peak power of roughly 60 megawatts, which is comparable to the output of a large solar farm.",
+      "en": "A peak power of roughly 60 megawatts, which is comparable to the output of a large solar farm.",
+      "zh": ""
+    },
+    {
+      "start": 508.8,
+      "duration": 3.52,
+      "text": "One, two, three, push.",
+      "en": "One, two, three, push.",
+      "zh": ""
+    },
+    {
+      "start": 512.32,
+      "duration": 3.12,
+      "text": "The flash lamp was quickly utilized in World War II and",
+      "en": "The flash lamp was quickly utilized in World War II and",
+      "zh": ""
+    },
+    {
+      "start": 515.44,
+      "duration": 4.16,
+      "text": "it allowed the allies to take pictures of Normandy the night before D-Day.",
+      "en": "it allowed the allies to take pictures of Normandy the night before D-Day.",
+      "zh": ""
+    },
+    {
+      "start": 519.6,
+      "duration": 4.8,
+      "text": "This way they could confirm that German troops were unprepared for the attack.",
+      "en": "This way they could confirm that German troops were unprepared for the attack.",
+      "zh": ""
+    },
+    {
+      "start": 524.4,
+      "duration": 3.28,
+      "text": "It's hard to ignore just how sharp these strobe photos are,",
+      "en": "It's hard to ignore just how sharp these strobe photos are,",
+      "zh": ""
+    },
+    {
+      "start": 527.68,
+      "duration": 3.04,
+      "text": "especially the ones Edgerton took in the 1930s.",
+      "en": "especially the ones Edgerton took in the 1930s.",
+      "zh": ""
+    },
+    {
+      "start": 530.72,
+      "duration": 6.72,
+      "text": "So we got a research grade slow-mo camera from 2020 that shoots at 20,000 FPS, and we're gonna",
+      "en": "So we got a research grade slow-mo camera from 2020 that shoots at 20,000 FPS, and we're gonna",
+      "zh": ""
+    },
+    {
+      "start": 537.44,
+      "duration": 5.28,
+      "text": "compare its quality to Edgerton's technique by shooting a bullet through a playing card.",
+      "en": "compare its quality to Edgerton's technique by shooting a bullet through a playing card.",
+      "zh": ""
+    },
+    {
+      "start": 542.72,
+      "duration": 2.0,
+      "text": "So let's do the slow-mo camera first.",
+      "en": "So let's do the slow-mo camera first.",
+      "zh": ""
+    },
+    {
+      "start": 544.72,
+      "duration": 2.72,
+      "text": "Three, two, one.",
+      "en": "Three, two, one.",
+      "zh": ""
+    },
+    {
+      "start": 547.44,
+      "duration": 2.72,
+      "text": "Let's see the video.",
+      "en": "Let's see the video.",
+      "zh": ""
+    },
+    {
+      "start": 550.16,
+      "duration": 5.52,
+      "text": "Oh, it's great to see how long the top part, which is now levitating, it stays up.",
+      "en": "Oh, it's great to see how long the top part, which is now levitating, it stays up.",
+      "zh": ""
+    },
+    {
+      "start": 555.68,
+      "duration": 2.56,
+      "text": "Is now, yeah.",
+      "en": "Is now, yeah.",
+      "zh": ""
+    },
+    {
+      "start": 561.36,
+      "duration": 2.8,
+      "text": "Okay, and now let's do the same with Edgerton's method.",
+      "en": "Okay, and now let's do the same with Edgerton's method.",
+      "zh": ""
+    },
+    {
+      "start": 564.16,
+      "duration": 4.08,
+      "text": "Light's going out. Shutter.",
+      "en": "Light's going out. Shutter.",
+      "zh": ""
+    },
+    {
+      "start": 568.24,
+      "duration": 0.96,
+      "text": "Shutter open.",
+      "en": "Shutter open.",
+      "zh": ""
+    },
+    {
+      "start": 569.2,
+      "duration": 2.96,
+      "text": "Three, two, one.",
+      "en": "Three, two, one.",
+      "zh": ""
+    },
+    {
+      "start": 572.16,
+      "duration": 7.2,
+      "text": "Okay, I think I saw it! That's cool.",
+      "en": "Okay, I think I saw it! That's cool.",
+      "zh": ""
+    },
+    {
+      "start": 579.36,
+      "duration": 4.8,
+      "text": "The focus is amazing. The edge of the card is beautiful.",
+      "en": "The focus is amazing. The edge of the card is beautiful.",
+      "zh": ""
+    },
+    {
+      "start": 584.16,
+      "duration": 3.12,
+      "text": "You see this ghost effect? There's like card.",
+      "en": "You see this ghost effect? There's like card.",
+      "zh": ""
+    },
+    {
+      "start": 587.28,
+      "duration": 3.76,
+      "text": "Ah, you do see the ghost effect and that's because you open the",
+      "en": "Ah, you do see the ghost effect and that's because you open the",
+      "zh": ""
+    },
+    {
+      "start": 591.04,
+      "duration": 2.96,
+      "text": "shutter and it was a second or two before I actually fired the gun.",
+      "en": "shutter and it was a second or two before I actually fired the gun.",
+      "zh": ""
+    },
+    {
+      "start": 594.0,
+      "duration": 3.92,
+      "text": "There's enough stray light in the room to give you a faint exposure there.",
+      "en": "There's enough stray light in the room to give you a faint exposure there.",
+      "zh": ""
+    },
+    {
+      "start": 597.92,
+      "duration": 5.04,
+      "text": "Also, we still used a microphone to time the bullet, even though it's faster than sound.",
+      "en": "Also, we still used a microphone to time the bullet, even though it's faster than sound.",
+      "zh": ""
+    },
+    {
+      "start": 602.96,
+      "duration": 4.08,
+      "text": "So here's the gun, it fires, the sound of the gun comes out,",
+      "en": "So here's the gun, it fires, the sound of the gun comes out,",
+      "zh": ""
+    },
+    {
+      "start": 607.04,
+      "duration": 2.96,
+      "text": "but the bullet is coming out ahead of the sound,",
+      "en": "but the bullet is coming out ahead of the sound,",
+      "zh": ""
+    },
+    {
+      "start": 610.0,
+      "duration": 3.92,
+      "text": "but the bullet is supersonic and a supersonic",
+      "en": "but the bullet is supersonic and a supersonic",
+      "zh": ""
+    },
+    {
+      "start": 613.92,
+      "duration": 4.16,
+      "text": "object moving through the air creates a sound, a sonic boom.",
+      "en": "object moving through the air creates a sound, a sonic boom.",
+      "zh": ""
+    },
+    {
+      "start": 618.08,
+      "duration": 2.96,
+      "text": "Now you can pick up that sonic boom with a microphone,",
+      "en": "Now you can pick up that sonic boom with a microphone,",
+      "zh": ""
+    },
+    {
+      "start": 621.04,
+      "duration": 3.76,
+      "text": "and by moving the microphone physically along the trajectory,",
+      "en": "and by moving the microphone physically along the trajectory,",
+      "zh": ""
+    },
+    {
+      "start": 624.8,
+      "duration": 3.52,
+      "text": "you get the time where the bullet is gonna be when the strobe goes off.",
+      "en": "you get the time where the bullet is gonna be when the strobe goes off.",
+      "zh": ""
+    },
+    {
+      "start": 628.32,
+      "duration": 6.0,
+      "text": "I think it's a brilliant way to solve the problem and I get to say that because I did not invent it.",
+      "en": "I think it's a brilliant way to solve the problem and I get to say that because I did not invent it.",
+      "zh": ""
+    },
+    {
+      "start": 634.32,
+      "duration": 3.44,
+      "text": "Edgerton was very inventive and had projects all over the place.",
+      "en": "Edgerton was very inventive and had projects all over the place.",
+      "zh": ""
+    },
+    {
+      "start": 637.76,
+      "duration": 3.84,
+      "text": "He was teaching at MIT, but then he had companies for things like",
+      "en": "He was teaching at MIT, but then he had companies for things like",
+      "zh": ""
+    },
+    {
+      "start": 641.6,
+      "duration": 2.0,
+      "text": "underwater cameras and he was making movies,",
+      "en": "underwater cameras and he was making movies,",
+      "zh": ""
+    },
+    {
+      "start": 643.6,
+      "duration": 2.24,
+      "text": "and oh, he even won an Oscar.",
+      "en": "and oh, he even won an Oscar.",
+      "zh": ""
+    },
+    {
+      "start": 645.84,
+      "duration": 3.44,
+      "text": "So if there's anything he wanted to do, he sort of just did it.",
+      "en": "So if there's anything he wanted to do, he sort of just did it.",
+      "zh": ""
+    },
+    {
+      "start": 649.28,
+      "duration": 2.32,
+      "text": "And I feel like I'm quite the opposite.",
+      "en": "And I feel like I'm quite the opposite.",
+      "zh": ""
+    },
+    {
+      "start": 651.6,
+      "duration": 3.76,
+      "text": "You know, when I joined Veritasium back in 2023, I started off as a researcher.",
+      "en": "You know, when I joined Veritasium back in 2023, I started off as a researcher.",
+      "zh": ""
+    },
+    {
+      "start": 655.36,
+      "duration": 2.48,
+      "text": "I was fact checking videos and setting up shoots,",
+      "en": "I was fact checking videos and setting up shoots,",
+      "zh": ""
+    },
+    {
+      "start": 657.84,
+      "duration": 3.76,
+      "text": "but then Derek and the other writers suggested I should make a video of my own.",
+      "en": "but then Derek and the other writers suggested I should make a video of my own.",
+      "zh": ""
+    },
+    {
+      "start": 661.6,
+      "duration": 3.6,
+      "text": "And I remember thinking, yeah, I don't know, maybe one day.",
+      "en": "And I remember thinking, yeah, I don't know, maybe one day.",
+      "zh": ""
+    },
+    {
+      "start": 665.2,
+      "duration": 1.6,
+      "text": "But they kept pushing for me to do it.",
+      "en": "But they kept pushing for me to do it.",
+      "zh": ""
+    },
+    {
+      "start": 666.8,
+      "duration": 3.92,
+      "text": "And I'm so glad that they did because when Derek and I made my first video,",
+      "en": "And I'm so glad that they did because when Derek and I made my first video,",
+      "zh": ""
+    },
+    {
+      "start": 670.72,
+      "duration": 1.28,
+      "text": "I fell in love with it.",
+      "en": "I fell in love with it.",
+      "zh": ""
+    },
+    {
+      "start": 672.0,
+      "duration": 3.28,
+      "text": "So if there's anything you're putting off, you should just go do it.",
+      "en": "So if there's anything you're putting off, you should just go do it.",
+      "zh": ""
+    },
+    {
+      "start": 675.28,
+      "duration": 4.64,
+      "text": "And if that something is a project you want to set up as an entrepreneur or a creator,",
+      "en": "And if that something is a project you want to set up as an entrepreneur or a creator,",
+      "zh": ""
+    },
+    {
+      "start": 679.92,
+      "duration": 3.28,
+      "text": "well, today's sponsor Hostinger, makes that first step really simple.",
+      "en": "well, today's sponsor Hostinger, makes that first step really simple.",
+      "zh": ""
+    },
+    {
+      "start": 683.2,
+      "duration": 3.76,
+      "text": "Say you need a website or a store or any kind of online presence, H",
+      "en": "Say you need a website or a store or any kind of online presence, H",
+      "zh": ""
+    },
+    {
+      "start": 686.96,
+      "duration": 4.88,
+      "text": "ostinger is an all-in-one AI-powered ecosystem that will get you up and running within minutes.",
+      "en": "ostinger is an all-in-one AI-powered ecosystem that will get you up and running within minutes.",
+      "zh": ""
+    },
+    {
+      "start": 691.84,
+      "duration": 1.92,
+      "text": "With Hostinger you don't need any kind of",
+      "en": "With Hostinger you don't need any kind of",
+      "zh": ""
+    },
+    {
+      "start": 693.76,
+      "duration": 2.48,
+      "text": "crazy tech skills. It's all frictionless and affordable.",
+      "en": "crazy tech skills. It's all frictionless and affordable.",
+      "zh": ""
+    },
+    {
+      "start": 696.24,
+      "duration": 4.72,
+      "text": "So you can go from an idea to execution without needing 10 apps on your computer.",
+      "en": "So you can go from an idea to execution without needing 10 apps on your computer.",
+      "zh": ""
+    },
+    {
+      "start": 700.96,
+      "duration": 2.8,
+      "text": "If there's a project you've been putting off for that 'one day',",
+      "en": "If there's a project you've been putting off for that 'one day',",
+      "zh": ""
+    },
+    {
+      "start": 703.76,
+      "duration": 2.56,
+      "text": "turn that into your 'day one' with Hostinger.",
+      "en": "turn that into your 'day one' with Hostinger.",
+      "zh": ""
+    },
+    {
+      "start": 706.32,
+      "duration": 4.16,
+      "text": "Head to hostinger.com/Veritasium10 and use our code Veritasium to get",
+      "en": "Head to hostinger.com/Veritasium10 and use our code Veritasium to get",
+      "zh": ""
+    },
+    {
+      "start": 710.48,
+      "duration": 3.84,
+      "text": "10% off your subscription. You can also scan QR code here.",
+      "en": "10% off your subscription. You can also scan QR code here.",
+      "zh": ""
+    },
+    {
+      "start": 714.32,
+      "duration": 2.4,
+      "text": "So I want to thank Hostinger for sponsoring this part of",
+      "en": "So I want to thank Hostinger for sponsoring this part of",
+      "zh": ""
+    },
+    {
+      "start": 716.72,
+      "duration": 3.84,
+      "text": "the video. And now let's go look at pictures of that card we shot.",
+      "en": "the video. And now let's go look at pictures of that card we shot.",
+      "zh": ""
+    },
+    {
+      "start": 720.56,
+      "duration": 2.16,
+      "text": "So here are the two techniques side-by-side,",
+      "en": "So here are the two techniques side-by-side,",
+      "zh": ""
+    },
+    {
+      "start": 722.72,
+      "duration": 3.52,
+      "text": "and here's Edgerton's original as well.",
+      "en": "and here's Edgerton's original as well.",
+      "zh": ""
+    },
+    {
+      "start": 726.24,
+      "duration": 2.72,
+      "text": "So why does a research grade camera from 2020 struggle to",
+      "en": "So why does a research grade camera from 2020 struggle to",
+      "zh": ""
+    },
+    {
+      "start": 728.96,
+      "duration": 3.44,
+      "text": "get the same resolution as a camera from decades ago?",
+      "en": "get the same resolution as a camera from decades ago?",
+      "zh": ""
+    },
+    {
+      "start": 732.4,
+      "duration": 2.72,
+      "text": "That's because we are really working with two resolutions here.",
+      "en": "That's because we are really working with two resolutions here.",
+      "zh": ""
+    },
+    {
+      "start": 735.12,
+      "duration": 3.36,
+      "text": "A spatial resolution or how many pixels your image has,",
+      "en": "A spatial resolution or how many pixels your image has,",
+      "zh": ""
+    },
+    {
+      "start": 738.48,
+      "duration": 5.12,
+      "text": "and a temporal resolution which dictates whether you only capture one frame, like a strobe photo",
+      "en": "and a temporal resolution which dictates whether you only capture one frame, like a strobe photo",
+      "zh": ""
+    },
+    {
+      "start": 743.6,
+      "duration": 3.44,
+      "text": "or a progression of frames like our high speed video.",
+      "en": "or a progression of frames like our high speed video.",
+      "zh": ""
+    },
+    {
+      "start": 747.04,
+      "duration": 2.16,
+      "text": "The problem is that more often than not,",
+      "en": "The problem is that more often than not,",
+      "zh": ""
+    },
+    {
+      "start": 749.2,
+      "duration": 4.24,
+      "text": "the hardware is limited so that you really have to trade one resolution for the other.",
+      "en": "the hardware is limited so that you really have to trade one resolution for the other.",
+      "zh": ""
+    },
+    {
+      "start": 753.44,
+      "duration": 2.88,
+      "text": "High pixel count or high frame rate.",
+      "en": "High pixel count or high frame rate.",
+      "zh": ""
+    },
+    {
+      "start": 756.32,
+      "duration": 3.36,
+      "text": "The fundamental limit you hit is how fast you can get pixels off the sensor.",
+      "en": "The fundamental limit you hit is how fast you can get pixels off the sensor.",
+      "zh": ""
+    },
+    {
+      "start": 759.68,
+      "duration": 5.36,
+      "text": "And that's why there's a maximum speed to read every pixel and then to go any faster,",
+      "en": "And that's why there's a maximum speed to read every pixel and then to go any faster,",
+      "zh": ""
+    },
+    {
+      "start": 765.04,
+      "duration": 2.24,
+      "text": "you have to not read out all the pixels.",
+      "en": "you have to not read out all the pixels.",
+      "zh": ""
+    },
+    {
+      "start": 767.28,
+      "duration": 2.32,
+      "text": "So this camera will give you a million frames a second,",
+      "en": "So this camera will give you a million frames a second,",
+      "zh": ""
+    },
+    {
+      "start": 769.6,
+      "duration": 5.44,
+      "text": "but you're like 16 by 128 pixels. And that's not much of a image.",
+      "en": "but you're like 16 by 128 pixels. And that's not much of a image.",
+      "zh": ""
+    },
+    {
+      "start": 775.04,
+      "duration": 2.24,
+      "text": "Okay, so there's always this trade off. Either you",
+      "en": "Okay, so there's always this trade off. Either you",
+      "zh": ""
+    },
+    {
+      "start": 777.28,
+      "duration": 3.12,
+      "text": "go for very high pixel counts and bring the frame rate down.",
+      "en": "go for very high pixel counts and bring the frame rate down.",
+      "zh": ""
+    },
+    {
+      "start": 780.4,
+      "duration": 4.24,
+      "text": "At the Edgerton Center we pushed this as far as it goes with one frame and that's it.",
+      "en": "At the Edgerton Center we pushed this as far as it goes with one frame and that's it.",
+      "zh": ""
+    },
+    {
+      "start": 784.64,
+      "duration": 7.6,
+      "text": "But you can also push it the other way, one pixel and very high FPS. 1 trillion FPS in fact.",
+      "en": "But you can also push it the other way, one pixel and very high FPS. 1 trillion FPS in fact.",
+      "zh": ""
+    },
+    {
+      "start": 792.24,
+      "duration": 2.0,
+      "text": "But wait, it's just one pixel.",
+      "en": "But wait, it's just one pixel.",
+      "zh": ""
+    },
+    {
+      "start": 794.24,
+      "duration": 2.4,
+      "text": "What can you do with one pixel?",
+      "en": "What can you do with one pixel?",
+      "zh": ""
+    },
+    {
+      "start": 796.64,
+      "duration": 4.08,
+      "text": "Great question. In the cameras that I can show you today are cameras that you're right,",
+      "en": "Great question. In the cameras that I can show you today are cameras that you're right,",
+      "zh": ""
+    },
+    {
+      "start": 800.72,
+      "duration": 2.08,
+      "text": "they can really only see one pixel at a time,",
+      "en": "they can really only see one pixel at a time,",
+      "zh": ""
+    },
+    {
+      "start": 802.8,
+      "duration": 4.88,
+      "text": "but they can see close to a trillion frames per second. And what that lets",
+      "en": "but they can see close to a trillion frames per second. And what that lets",
+      "zh": ""
+    },
+    {
+      "start": 807.68,
+      "duration": 3.68,
+      "text": "you do is ultra slow motion videos showing light actually traveling.",
+      "en": "you do is ultra slow motion videos showing light actually traveling.",
+      "zh": ""
+    },
+    {
+      "start": 811.36,
+      "duration": 4.56,
+      "text": "Here's that video of light traveling through a bottle. You can see the",
+      "en": "Here's that video of light traveling through a bottle. You can see the",
+      "zh": ""
+    },
+    {
+      "start": 815.92,
+      "duration": 5.84,
+      "text": "wavefronts that form below the bottle and even how the light bounces off the cap.",
+      "en": "wavefronts that form below the bottle and even how the light bounces off the cap.",
+      "zh": ""
+    },
+    {
+      "start": 821.76,
+      "duration": 2.08,
+      "text": "And even though this looks like a normal video,",
+      "en": "And even though this looks like a normal video,",
+      "zh": ""
+    },
+    {
+      "start": 823.84,
+      "duration": 3.44,
+      "text": "you can take it with a camera that only sees one pixel.",
+      "en": "you can take it with a camera that only sees one pixel.",
+      "zh": ""
+    },
+    {
+      "start": 827.28,
+      "duration": 1.04,
+      "text": "Here's how you do it.",
+      "en": "Here's how you do it.",
+      "zh": ""
+    },
+    {
+      "start": 828.32,
+      "duration": 5.84,
+      "text": "A single pixel camera is one that captures just one thing, how many photons land on the sensor.",
+      "en": "A single pixel camera is one that captures just one thing, how many photons land on the sensor.",
+      "zh": ""
+    },
+    {
+      "start": 834.16,
+      "duration": 5.2,
+      "text": "And the sensor here is typically sensitive enough to register whether even a single photon hits it.",
+      "en": "And the sensor here is typically sensitive enough to register whether even a single photon hits it.",
+      "zh": ""
+    },
+    {
+      "start": 839.36,
+      "duration": 5.68,
+      "text": "And it can count those incoming photons around a trillion times a second. So each bin,",
+      "en": "And it can count those incoming photons around a trillion times a second. So each bin,",
+      "zh": ""
+    },
+    {
+      "start": 845.04,
+      "duration": 4.0,
+      "text": "and technically each frame is roughly one picosecond long.",
+      "en": "and technically each frame is roughly one picosecond long.",
+      "zh": ""
+    },
+    {
+      "start": 849.04,
+      "duration": 5.68,
+      "text": "In that time, even light itself travels only 0.3 millimeters.",
+      "en": "In that time, even light itself travels only 0.3 millimeters.",
+      "zh": ""
+    },
+    {
+      "start": 854.72,
+      "duration": 1.68,
+      "text": "Sounds impressive, but we've actually had",
+      "en": "Sounds impressive, but we've actually had",
+      "zh": ""
+    },
+    {
+      "start": 856.4,
+      "duration": 3.12,
+      "text": "this tech in many phones for years now. It's just LIDAR.",
+      "en": "this tech in many phones for years now. It's just LIDAR.",
+      "zh": ""
+    },
+    {
+      "start": 859.52,
+      "duration": 1.68,
+      "text": "You shoot out a pulse of light,",
+      "en": "You shoot out a pulse of light,",
+      "zh": ""
+    },
+    {
+      "start": 861.2,
+      "duration": 3.6,
+      "text": "it bounces off and you time how long it takes for that pulse to come back.",
+      "en": "it bounces off and you time how long it takes for that pulse to come back.",
+      "zh": ""
+    },
+    {
+      "start": 864.8,
+      "duration": 3.6,
+      "text": "And from that you get the distance to the object that it bounced off of.",
+      "en": "And from that you get the distance to the object that it bounced off of.",
+      "zh": ""
+    },
+    {
+      "start": 868.4,
+      "duration": 2.88,
+      "text": "But this is all you need to take a speed of light video.",
+      "en": "But this is all you need to take a speed of light video.",
+      "zh": ""
+    },
+    {
+      "start": 871.28,
+      "duration": 2.16,
+      "text": "We have a setup here that is basically a scaled",
+      "en": "We have a setup here that is basically a scaled",
+      "zh": ""
+    },
+    {
+      "start": 873.44,
+      "duration": 2.8,
+      "text": "down room. And we just have some different shapes in it.",
+      "en": "down room. And we just have some different shapes in it.",
+      "zh": ""
+    },
+    {
+      "start": 876.24,
+      "duration": 4.64,
+      "text": "We have a cone of sphere, we have a mirror in the back. And finally",
+      "en": "We have a cone of sphere, we have a mirror in the back. And finally",
+      "zh": ""
+    },
+    {
+      "start": 880.88,
+      "duration": 3.92,
+      "text": "we have the Veritasium and the Camera Culture logos.",
+      "en": "we have the Veritasium and the Camera Culture logos.",
+      "zh": ""
+    },
+    {
+      "start": 884.8,
+      "duration": 3.12,
+      "text": "We wanna see light propagating through a scene.",
+      "en": "We wanna see light propagating through a scene.",
+      "zh": ""
+    },
+    {
+      "start": 887.92,
+      "duration": 4.08,
+      "text": "So the way we do that is we shoot out a really short laser pulse that hits just",
+      "en": "So the way we do that is we shoot out a really short laser pulse that hits just",
+      "zh": ""
+    },
+    {
+      "start": 892.0,
+      "duration": 3.6,
+      "text": "one point in the scene and that laser pulse has a ton of photons in it.",
+      "en": "one point in the scene and that laser pulse has a ton of photons in it.",
+      "zh": ""
+    },
+    {
+      "start": 895.6,
+      "duration": 2.72,
+      "text": "Those photons will hit an object scatter everywhere,",
+      "en": "Those photons will hit an object scatter everywhere,",
+      "zh": ""
+    },
+    {
+      "start": 898.32,
+      "duration": 4.48,
+      "text": "and we want to see what that scattering looks like at all these portions of the scene.",
+      "en": "and we want to see what that scattering looks like at all these portions of the scene.",
+      "zh": ""
+    },
+    {
+      "start": 902.8,
+      "duration": 3.76,
+      "text": "To start, our single pixel camera will point at the top left corner.",
+      "en": "To start, our single pixel camera will point at the top left corner.",
+      "zh": ""
+    },
+    {
+      "start": 906.56,
+      "duration": 4.32,
+      "text": "So when a pack of photons from the laser pulse hit this random spot on the wall,",
+      "en": "So when a pack of photons from the laser pulse hit this random spot on the wall,",
+      "zh": ""
+    },
+    {
+      "start": 910.88,
+      "duration": 3.52,
+      "text": "reflect to the corner and finally bounce into the camera,",
+      "en": "reflect to the corner and finally bounce into the camera,",
+      "zh": ""
+    },
+    {
+      "start": 914.4,
+      "duration": 4.16,
+      "text": "the sensor is gonna pick up their signal at a trillion frames per second,",
+      "en": "the sensor is gonna pick up their signal at a trillion frames per second,",
+      "zh": ""
+    },
+    {
+      "start": 918.56,
+      "duration": 3.76,
+      "text": "but that signal will be pretty faint.",
+      "en": "but that signal will be pretty faint.",
+      "zh": ""
+    },
+    {
+      "start": 922.32,
+      "duration": 3.2,
+      "text": "So the problem here is that we're exposing for such a short time that",
+      "en": "So the problem here is that we're exposing for such a short time that",
+      "zh": ""
+    },
+    {
+      "start": 925.52,
+      "duration": 2.16,
+      "text": "you actually just don't get that much photon return.",
+      "en": "you actually just don't get that much photon return.",
+      "zh": ""
+    },
+    {
+      "start": 927.68,
+      "duration": 3.2,
+      "text": "What we do is we actually take a bunch of measurements and then group them all together and",
+      "en": "What we do is we actually take a bunch of measurements and then group them all together and",
+      "zh": ""
+    },
+    {
+      "start": 930.88,
+      "duration": 5.36,
+      "text": "that gives us actual usable information about, you know, how far away the light traveled in a scene.",
+      "en": "that gives us actual usable information about, you know, how far away the light traveled in a scene.",
+      "zh": ""
+    },
+    {
+      "start": 936.24,
+      "duration": 3.36,
+      "text": "Then you move the camera slightly and repeat the experiment.",
+      "en": "Then you move the camera slightly and repeat the experiment.",
+      "zh": ""
+    },
+    {
+      "start": 939.6,
+      "duration": 2.32,
+      "text": "So you shoot out a laser pulse, you let it scatter",
+      "en": "So you shoot out a laser pulse, you let it scatter",
+      "zh": ""
+    },
+    {
+      "start": 941.92,
+      "duration": 3.6,
+      "text": "off the same spot and record the signal from this new position.",
+      "en": "off the same spot and record the signal from this new position.",
+      "zh": ""
+    },
+    {
+      "start": 945.52,
+      "duration": 2.56,
+      "text": "You can do that a couple hundred times and move",
+      "en": "You can do that a couple hundred times and move",
+      "zh": ""
+    },
+    {
+      "start": 948.08,
+      "duration": 4.56,
+      "text": "the camera again until you get a grid of points across the whole scene.",
+      "en": "the camera again until you get a grid of points across the whole scene.",
+      "zh": ""
+    },
+    {
+      "start": 952.64,
+      "duration": 2.32,
+      "text": "You're literally going just one pixel at a time.",
+      "en": "You're literally going just one pixel at a time.",
+      "zh": ""
+    },
+    {
+      "start": 954.96,
+      "duration": 2.32,
+      "text": "One pixel at a time. That's the caveat. Yeah, exactly.",
+      "en": "One pixel at a time. That's the caveat. Yeah, exactly.",
+      "zh": ""
+    },
+    {
+      "start": 957.28,
+      "duration": 3.84,
+      "text": "We actually have two mirrors here that let us steer the beam,",
+      "en": "We actually have two mirrors here that let us steer the beam,",
+      "zh": ""
+    },
+    {
+      "start": 961.12,
+      "duration": 2.08,
+      "text": "you know, left and right and up and down.",
+      "en": "you know, left and right and up and down.",
+      "zh": ""
+    },
+    {
+      "start": 963.2,
+      "duration": 3.6,
+      "text": "So by turning where the mirror is, we can turn where the sensor looks.",
+      "en": "So by turning where the mirror is, we can turn where the sensor looks.",
+      "zh": ""
+    },
+    {
+      "start": 966.8,
+      "duration": 2.88,
+      "text": "The most important thing for this technique to work is that the scene",
+      "en": "The most important thing for this technique to work is that the scene",
+      "zh": ""
+    },
+    {
+      "start": 969.68,
+      "duration": 3.84,
+      "text": "has to play out pretty much exactly the same every time you move the sensor,",
+      "en": "has to play out pretty much exactly the same every time you move the sensor,",
+      "zh": ""
+    },
+    {
+      "start": 973.52,
+      "duration": 3.6,
+      "text": "because if it didn't, then every pixel will tell a different story.",
+      "en": "because if it didn't, then every pixel will tell a different story.",
+      "zh": ""
+    },
+    {
+      "start": 977.12,
+      "duration": 3.2,
+      "text": "It's like if I try to record this section four separate times and use",
+      "en": "It's like if I try to record this section four separate times and use",
+      "zh": ""
+    },
+    {
+      "start": 980.32,
+      "duration": 4.48,
+      "text": "a quarter of each to fill in the screen screen, I would get a garbled mess.",
+      "en": "a quarter of each to fill in the screen screen, I would get a garbled mess.",
+      "zh": ""
+    },
+    {
+      "start": 984.8,
+      "duration": 4.16,
+      "text": "Thankfully the laser pulse in our scene scatters pretty predictably.",
+      "en": "Thankfully the laser pulse in our scene scatters pretty predictably.",
+      "zh": ""
+    },
+    {
+      "start": 988.96,
+      "duration": 3.44,
+      "text": "That's what lets us get unlimited resolution. So we can basically say,",
+      "en": "That's what lets us get unlimited resolution. So we can basically say,",
+      "zh": ""
+    },
+    {
+      "start": 992.4,
+      "duration": 4.8,
+      "text": "let's scan as many points in the scene as we need. That gives us good spatial resolution.",
+      "en": "let's scan as many points in the scene as we need. That gives us good spatial resolution.",
+      "zh": ""
+    },
+    {
+      "start": 997.2,
+      "duration": 4.8,
+      "text": "The more points you scan along this grid, the higher your final resolution. If you want 4K,",
+      "en": "The more points you scan along this grid, the higher your final resolution. If you want 4K,",
+      "zh": ""
+    },
+    {
+      "start": 1002.0,
+      "duration": 3.84,
+      "text": "you simply scan a 4K grid of pixels. It's just gonna take more time.",
+      "en": "you simply scan a 4K grid of pixels. It's just gonna take more time.",
+      "zh": ""
+    },
+    {
+      "start": 1005.84,
+      "duration": 4.72,
+      "text": "The nice thing is light is fast, so we can do this as fast as the mirrors can move.",
+      "en": "The nice thing is light is fast, so we can do this as fast as the mirrors can move.",
+      "zh": ""
+    },
+    {
+      "start": 1010.56,
+      "duration": 3.12,
+      "text": "Within just a couple of minutes. The sensor captures millions of",
+      "en": "Within just a couple of minutes. The sensor captures millions of",
+      "zh": ""
+    },
+    {
+      "start": 1013.68,
+      "duration": 3.04,
+      "text": "laser pulses across the whole grid.",
+      "en": "laser pulses across the whole grid.",
+      "zh": ""
+    },
+    {
+      "start": 1016.72,
+      "duration": 3.04,
+      "text": "So this is now everything compiled together for a time of flight?",
+      "en": "So this is now everything compiled together for a time of flight?",
+      "zh": ""
+    },
+    {
+      "start": 1019.76,
+      "duration": 2.0,
+      "text": "Exactly, this is everything put together. So what",
+      "en": "Exactly, this is everything put together. So what",
+      "zh": ""
+    },
+    {
+      "start": 1021.76,
+      "duration": 4.08,
+      "text": "we're looking at now is going to be again for a fixed laser spot.",
+      "en": "we're looking at now is going to be again for a fixed laser spot.",
+      "zh": ""
+    },
+    {
+      "start": 1025.84,
+      "duration": 5.92,
+      "text": "So I'm gonna click play.",
+      "en": "So I'm gonna click play.",
+      "zh": ""
+    },
+    {
+      "start": 1031.76,
+      "duration": 1.76,
+      "text": "Oh, Camera Culture logo!",
+      "en": "Oh, Camera Culture logo!",
+      "zh": ""
+    },
+    {
+      "start": 1033.52,
+      "duration": 0.8,
+      "text": "Yeah",
+      "en": "Yeah",
+      "zh": ""
+    },
+    {
+      "start": 1034.32,
+      "duration": 3.12,
+      "text": "All of this was less than eight nanoseconds of time.",
+      "en": "All of this was less than eight nanoseconds of time.",
+      "zh": ""
+    },
+    {
+      "start": 1037.44,
+      "duration": 8.48,
+      "text": "And here's another scene under the same setup.",
+      "en": "And here's another scene under the same setup.",
+      "zh": ""
+    },
+    {
+      "start": 1045.92,
+      "duration": 2.88,
+      "text": "Now you can also take this a step further by rotating",
+      "en": "Now you can also take this a step further by rotating",
+      "zh": ""
+    },
+    {
+      "start": 1048.8,
+      "duration": 3.04,
+      "text": "the scene and recording multiple points of view.",
+      "en": "the scene and recording multiple points of view.",
+      "zh": ""
+    },
+    {
+      "start": 1051.84,
+      "duration": 4.16,
+      "text": "We have this algorithm that kind of takes this Coke bottle video",
+      "en": "We have this algorithm that kind of takes this Coke bottle video",
+      "zh": ""
+    },
+    {
+      "start": 1056.0,
+      "duration": 4.72,
+      "text": "capture from different views and is able to create these fly-throughs,",
+      "en": "capture from different views and is able to create these fly-throughs,",
+      "zh": ""
+    },
+    {
+      "start": 1060.72,
+      "duration": 1.44,
+      "text": "being able to see the light propagate",
+      "en": "being able to see the light propagate",
+      "zh": ""
+    },
+    {
+      "start": 1062.16,
+      "duration": 3.04,
+      "text": "from any direction and like flying through the scene as it's happening.",
+      "en": "from any direction and like flying through the scene as it's happening.",
+      "zh": ""
+    },
+    {
+      "start": 1065.2,
+      "duration": 1.36,
+      "text": "Oh, that's so cool.",
+      "en": "Oh, that's so cool.",
+      "zh": ""
+    },
+    {
+      "start": 1067.12,
+      "duration": 2.08,
+      "text": "So some things that are interesting to note is –",
+      "en": "So some things that are interesting to note is –",
+      "zh": ""
+    },
+    {
+      "start": 1069.2,
+      "duration": 3.28,
+      "text": "because we're moving towards the right and the light is propagating towards the right,",
+      "en": "because we're moving towards the right and the light is propagating towards the right,",
+      "zh": ""
+    },
+    {
+      "start": 1072.48,
+      "duration": 2.64,
+      "text": "but we're moving kind of faster in this visualization –",
+      "en": "but we're moving kind of faster in this visualization –",
+      "zh": ""
+    },
+    {
+      "start": 1075.12,
+      "duration": 3.52,
+      "text": "this wavefront appears stationary, as you can see.",
+      "en": "this wavefront appears stationary, as you can see.",
+      "zh": ""
+    },
+    {
+      "start": 1078.64,
+      "duration": 4.88,
+      "text": "Oh yeah. That is kind of breaking physics. I mean, you are moving the camera faster than light.",
+      "en": "Oh yeah. That is kind of breaking physics. I mean, you are moving the camera faster than light.",
+      "zh": ""
+    },
+    {
+      "start": 1083.52,
+      "duration": 4.96,
+      "text": "Yeah, exactly, yeah it's kind of mind boggling almost.",
+      "en": "Yeah, exactly, yeah it's kind of mind boggling almost.",
+      "zh": ""
+    },
+    {
+      "start": 1091.28,
+      "duration": 5.28,
+      "text": "So this is a fish tank that we put a mirror into and this diffuse reflector.",
+      "en": "So this is a fish tank that we put a mirror into and this diffuse reflector.",
+      "zh": ""
+    },
+    {
+      "start": 1096.56,
+      "duration": 2.8,
+      "text": "So you'll see a pulse of light will enter the fish tank,",
+      "en": "So you'll see a pulse of light will enter the fish tank,",
+      "zh": ""
+    },
+    {
+      "start": 1099.36,
+      "duration": 4.4,
+      "text": "it will reflect off the mirror and hit the diffuse reflector.",
+      "en": "it will reflect off the mirror and hit the diffuse reflector.",
+      "zh": ""
+    },
+    {
+      "start": 1103.76,
+      "duration": 1.28,
+      "text": "That's crazy.",
+      "en": "That's crazy.",
+      "zh": ""
+    },
+    {
+      "start": 1105.04,
+      "duration": 4.66,
+      "text": "This is a diffraction grating. So it's kind of defracts the light into different modes. So again,",
+      "en": "This is a diffraction grating. So it's kind of defracts the light into different modes. So again,",
+      "zh": ""
+    },
+    {
+      "start": 1109.7,
+      "duration": 1.5,
+      "text": "you see the light enter the tank and it separates into these different modes.",
+      "en": "you see the light enter the tank and it separates into these different modes.",
+      "zh": ""
+    },
+    {
+      "start": 1111.2,
+      "duration": 3.04,
+      "text": "Those are the different modes? That's insane.",
+      "en": "Those are the different modes? That's insane.",
+      "zh": ""
+    },
+    {
+      "start": 1114.24,
+      "duration": 3.52,
+      "text": "My first impression was, oh, these are just simulations from I don't know,",
+      "en": "My first impression was, oh, these are just simulations from I don't know,",
+      "zh": ""
+    },
+    {
+      "start": 1117.76,
+      "duration": 3.04,
+      "text": "Unreal Engine 5. But this is, like, real data.",
+      "en": "Unreal Engine 5. But this is, like, real data.",
+      "zh": ""
+    },
+    {
+      "start": 1120.8,
+      "duration": 2.88,
+      "text": "It's like the bullet time video in \"Matrix.\" You've probably seen that.",
+      "en": "It's like the bullet time video in \"Matrix.\" You've probably seen that.",
+      "zh": ""
+    },
+    {
+      "start": 1123.68,
+      "duration": 2.8,
+      "text": "No way! Is your motivation \"The Matrix?\"",
+      "en": "No way! Is your motivation \"The Matrix?\"",
+      "zh": ""
+    },
+    {
+      "start": 1126.48,
+      "duration": 5.28,
+      "text": "By the way, these videos were created at the University of Toronto and MIT,",
+      "en": "By the way, these videos were created at the University of Toronto and MIT,",
+      "zh": ""
+    },
+    {
+      "start": 1131.76,
+      "duration": 3.12,
+      "text": "but Brian from AlphaPhoenix actually built one of",
+      "en": "but Brian from AlphaPhoenix actually built one of",
+      "zh": ""
+    },
+    {
+      "start": 1134.88,
+      "duration": 3.52,
+      "text": "these speed of light cameras in his garage, which is mad.",
+      "en": "these speed of light cameras in his garage, which is mad.",
+      "zh": ""
+    },
+    {
+      "start": 1138.4,
+      "duration": 1.44,
+      "text": "You should go check that out.",
+      "en": "You should go check that out.",
+      "zh": ""
+    },
+    {
+      "start": 1139.84,
+      "duration": 1.68,
+      "text": "So those are the two extremes.",
+      "en": "So those are the two extremes.",
+      "zh": ""
+    },
+    {
+      "start": 1141.52,
+      "duration": 4.32,
+      "text": "Strobe photography on one side and a trillion FPS on the other.",
+      "en": "Strobe photography on one side and a trillion FPS on the other.",
+      "zh": ""
+    },
+    {
+      "start": 1145.84,
+      "duration": 6.72,
+      "text": "But if you combine both, you actually get to see what electrons are doing.",
+      "en": "But if you combine both, you actually get to see what electrons are doing.",
+      "zh": ""
+    },
+    {
+      "start": 1152.56,
+      "duration": 3.6,
+      "text": "Even though what that means exactly is debated.",
+      "en": "Even though what that means exactly is debated.",
+      "zh": ""
+    },
+    {
+      "start": 1156.16,
+      "duration": 3.36,
+      "text": "You say electrons act like waves? No, they don't exactly.",
+      "en": "You say electrons act like waves? No, they don't exactly.",
+      "zh": ""
+    },
+    {
+      "start": 1159.52,
+      "duration": 2.64,
+      "text": "They act like particles. No, they don't exactly.",
+      "en": "They act like particles. No, they don't exactly.",
+      "zh": ""
+    },
+    {
+      "start": 1162.16,
+      "duration": 5.68,
+      "text": "We can write mathematical expressions and calculate what the thing is going to do.",
+      "en": "We can write mathematical expressions and calculate what the thing is going to do.",
+      "zh": ""
+    },
+    {
+      "start": 1167.84,
+      "duration": 2.16,
+      "text": "Without actually being able to picture it.",
+      "en": "Without actually being able to picture it.",
+      "zh": ""
+    },
+    {
+      "start": 1170.0,
+      "duration": 2.48,
+      "text": "Do electrons exist?",
+      "en": "Do electrons exist?",
+      "zh": ""
+    },
+    {
+      "start": 1172.48,
+      "duration": 2.56,
+      "text": "How truthful do you want me to be?",
+      "en": "How truthful do you want me to be?",
+      "zh": ""
+    },
+    {
+      "start": 1175.04,
+      "duration": 5.6,
+      "text": "Now we still don't have a video or photo of electrons, but this might be the next best thing.",
+      "en": "Now we still don't have a video or photo of electrons, but this might be the next best thing.",
+      "zh": ""
+    },
+    {
+      "start": 1180.64,
+      "duration": 3.76,
+      "text": "And to pull it off, we had to build big,",
+      "en": "And to pull it off, we had to build big,",
+      "zh": ""
+    },
+    {
+      "start": 1184.4,
+      "duration": 2.72,
+      "text": "really big.",
+      "en": "really big.",
+      "zh": ""
+    },
+    {
+      "start": 1187.12,
+      "duration": 5.68,
+      "text": "Okay, we're driving down what up until 2017 was the world's straightest object.",
+      "en": "Okay, we're driving down what up until 2017 was the world's straightest object.",
+      "zh": ""
+    },
+    {
+      "start": 1192.8,
+      "duration": 2.72,
+      "text": "So we've been driving for like what, five, five-ish minutes?",
+      "en": "So we've been driving for like what, five, five-ish minutes?",
+      "zh": ""
+    },
+    {
+      "start": 1195.52,
+      "duration": 4.0,
+      "text": "Yeah, and we are wanna say about halfway there.",
+      "en": "Yeah, and we are wanna say about halfway there.",
+      "zh": ""
+    },
+    {
+      "start": 1199.52,
+      "duration": 4.8,
+      "text": "Oh, I thought we were… Oh no, there's a lot more there.",
+      "en": "Oh, I thought we were… Oh no, there's a lot more there.",
+      "zh": ""
+    },
+    {
+      "start": 1204.32,
+      "duration": 1.68,
+      "text": "Let's do it.",
+      "en": "Let's do it.",
+      "zh": ""
+    },
+    {
+      "start": 1206.0,
+      "duration": 1.76,
+      "text": "Let's go see it.",
+      "en": "Let's go see it.",
+      "zh": ""
+    },
+    {
+      "start": 1207.76,
+      "duration": 4.48,
+      "text": "This is SLAC, a US national lab that houses a 3.2-kilometer-long,",
+      "en": "This is SLAC, a US national lab that houses a 3.2-kilometer-long,",
+      "zh": ""
+    },
+    {
+      "start": 1212.24,
+      "duration": 2.64,
+      "text": "perfectly straight electron accelerator.",
+      "en": "perfectly straight electron accelerator.",
+      "zh": ""
+    },
+    {
+      "start": 1214.88,
+      "duration": 3.04,
+      "text": "Whoa. That is so long down there!",
+      "en": "Whoa. That is so long down there!",
+      "zh": ""
+    },
+    {
+      "start": 1217.92,
+      "duration": 3.68,
+      "text": "And that it just continues like this all the way down it.",
+      "en": "And that it just continues like this all the way down it.",
+      "zh": ""
+    },
+    {
+      "start": 1221.6,
+      "duration": 3.2,
+      "text": "The noise you hear is exactly 120 hertz.",
+      "en": "The noise you hear is exactly 120 hertz.",
+      "zh": ""
+    },
+    {
+      "start": 1224.8,
+      "duration": 2.8,
+      "text": "That's the frequency at which electron pulses are generated",
+      "en": "That's the frequency at which electron pulses are generated",
+      "zh": ""
+    },
+    {
+      "start": 1227.6,
+      "duration": 3.04,
+      "text": "underneath this building, 120 pulses a second.",
+      "en": "underneath this building, 120 pulses a second.",
+      "zh": ""
+    },
+    {
+      "start": 1230.64,
+      "duration": 2.56,
+      "text": "And this is the sound of the equipment that accelerates",
+      "en": "And this is the sound of the equipment that accelerates",
+      "zh": ""
+    },
+    {
+      "start": 1233.2,
+      "duration": 5.92,
+      "text": "them to over 99.9999992% the speed of light.",
+      "en": "them to over 99.9999992% the speed of light.",
+      "zh": ""
+    },
+    {
+      "start": 1239.12,
+      "duration": 5.12,
+      "text": "And this lets you see electron clouds move around molecules, essentially?",
+      "en": "And this lets you see electron clouds move around molecules, essentially?",
+      "zh": ""
+    },
+    {
+      "start": 1244.24,
+      "duration": 2.08,
+      "text": "Right? So why would you care?",
+      "en": "Right? So why would you care?",
+      "zh": ""
+    },
+    {
+      "start": 1246.32,
+      "duration": 5.68,
+      "text": "Because essentially electrons create the fields in which everything else happens.",
+      "en": "Because essentially electrons create the fields in which everything else happens.",
+      "zh": ""
+    },
+    {
+      "start": 1252.0,
+      "duration": 6.8,
+      "text": "Molecular bonds break and form because the electrons essentially give them a push to do so.",
+      "en": "Molecular bonds break and form because the electrons essentially give them a push to do so.",
+      "zh": ""
+    },
+    {
+      "start": 1258.8,
+      "duration": 3.92,
+      "text": "Right, so the electrons are responsible for everything that you see in nature",
+      "en": "Right, so the electrons are responsible for everything that you see in nature",
+      "zh": ""
+    },
+    {
+      "start": 1262.72,
+      "duration": 2.48,
+      "text": "and being able to look into their motion",
+      "en": "and being able to look into their motion",
+      "zh": ""
+    },
+    {
+      "start": 1265.2,
+      "duration": 3.84,
+      "text": "is the most fundamental way of studying materials and matter.",
+      "en": "is the most fundamental way of studying materials and matter.",
+      "zh": ""
+    },
+    {
+      "start": 1269.04,
+      "duration": 4.56,
+      "text": "Now, to achieve this, you need a nanoscopic equivalent of a strobe.",
+      "en": "Now, to achieve this, you need a nanoscopic equivalent of a strobe.",
+      "zh": ""
+    },
+    {
+      "start": 1273.6,
+      "duration": 2.32,
+      "text": "So you first feed these relativistic",
+      "en": "So you first feed these relativistic",
+      "zh": ""
+    },
+    {
+      "start": 1275.92,
+      "duration": 4.0,
+      "text": "electron pulses through a set of devices called undulators.",
+      "en": "electron pulses through a set of devices called undulators.",
+      "zh": ""
+    },
+    {
+      "start": 1279.92,
+      "duration": 5.52,
+      "text": "They're stacks of magnets spaced only a few millimeters apart, with alternating poles.",
+      "en": "They're stacks of magnets spaced only a few millimeters apart, with alternating poles.",
+      "zh": ""
+    },
+    {
+      "start": 1285.44,
+      "duration": 2.32,
+      "text": "So the first pair has the north pole facing the",
+      "en": "So the first pair has the north pole facing the",
+      "zh": ""
+    },
+    {
+      "start": 1287.76,
+      "duration": 3.68,
+      "text": "electron pulse from above and the south from below.",
+      "en": "electron pulse from above and the south from below.",
+      "zh": ""
+    },
+    {
+      "start": 1291.44,
+      "duration": 2.56,
+      "text": "Then the second pair flips and so on.",
+      "en": "Then the second pair flips and so on.",
+      "zh": ""
+    },
+    {
+      "start": 1294.0,
+      "duration": 5.04,
+      "text": "Now because the electrons are traveling through a magnetic field, a force called the Lorentz force",
+      "en": "Now because the electrons are traveling through a magnetic field, a force called the Lorentz force",
+      "zh": ""
+    },
+    {
+      "start": 1299.04,
+      "duration": 4.96,
+      "text": "will push them in a direction perpendicular to both their velocity and the magnetic field lines,",
+      "en": "will push them in a direction perpendicular to both their velocity and the magnetic field lines,",
+      "zh": ""
+    },
+    {
+      "start": 1304.0,
+      "duration": 2.16,
+      "text": "in accordance with the left hand rule.",
+      "en": "in accordance with the left hand rule.",
+      "zh": ""
+    },
+    {
+      "start": 1306.16,
+      "duration": 3.28,
+      "text": "So at one magnet pair, the electrons will curve clockwise,",
+      "en": "So at one magnet pair, the electrons will curve clockwise,",
+      "zh": ""
+    },
+    {
+      "start": 1309.44,
+      "duration": 3.36,
+      "text": "and at the next pair counterclockwise and so on.",
+      "en": "and at the next pair counterclockwise and so on.",
+      "zh": ""
+    },
+    {
+      "start": 1312.8,
+      "duration": 2.48,
+      "text": "This causes the electrons to wiggle.",
+      "en": "This causes the electrons to wiggle.",
+      "zh": ""
+    },
+    {
+      "start": 1315.28,
+      "duration": 2.32,
+      "text": "Now since the electrons carry a charge,",
+      "en": "Now since the electrons carry a charge,",
+      "zh": ""
+    },
+    {
+      "start": 1317.6,
+      "duration": 4.24,
+      "text": "this wiggling motion causes them to emit electromagnetic radiation.",
+      "en": "this wiggling motion causes them to emit electromagnetic radiation.",
+      "zh": ""
+    },
+    {
+      "start": 1321.84,
+      "duration": 4.64,
+      "text": "And even though they oscillate at these millimeter wavelengths because of the magnet spacing,",
+      "en": "And even though they oscillate at these millimeter wavelengths because of the magnet spacing,",
+      "zh": ""
+    },
+    {
+      "start": 1326.48,
+      "duration": 4.16,
+      "text": "the wavelength of the resulting EM radiation is much smaller.",
+      "en": "the wavelength of the resulting EM radiation is much smaller.",
+      "zh": ""
+    },
+    {
+      "start": 1330.64,
+      "duration": 2.48,
+      "text": "This is the fun thing about the theory of relativity.",
+      "en": "This is the fun thing about the theory of relativity.",
+      "zh": ""
+    },
+    {
+      "start": 1333.12,
+      "duration": 4.8,
+      "text": "If you would travel at near the speed of light, the length scales contract.",
+      "en": "If you would travel at near the speed of light, the length scales contract.",
+      "zh": ""
+    },
+    {
+      "start": 1337.92,
+      "duration": 2.96,
+      "text": "While that periodic structure is macroscopic for us,",
+      "en": "While that periodic structure is macroscopic for us,",
+      "zh": ""
+    },
+    {
+      "start": 1340.88,
+      "duration": 4.96,
+      "text": "right? We see each magnet, these are centimeter scales.",
+      "en": "right? We see each magnet, these are centimeter scales.",
+      "zh": ""
+    },
+    {
+      "start": 1345.84,
+      "duration": 4.8,
+      "text": "For the electron because it's traveling so fast, all of that space contracts.",
+      "en": "For the electron because it's traveling so fast, all of that space contracts.",
+      "zh": ""
+    },
+    {
+      "start": 1350.64,
+      "duration": 4.08,
+      "text": "And so it's actually oscillating really, really fast.",
+      "en": "And so it's actually oscillating really, really fast.",
+      "zh": ""
+    },
+    {
+      "start": 1354.72,
+      "duration": 3.28,
+      "text": "And these oscillation periods are compressed.",
+      "en": "And these oscillation periods are compressed.",
+      "zh": ""
+    },
+    {
+      "start": 1358.0,
+      "duration": 4.8,
+      "text": "And it means that if you compare that to wavelengths, that is in the x-ray domain.",
+      "en": "And it means that if you compare that to wavelengths, that is in the x-ray domain.",
+      "zh": ""
+    },
+    {
+      "start": 1362.8,
+      "duration": 4.8,
+      "text": "Now that actually only gets your wavelength part of the way to the true x-ray regime.",
+      "en": "Now that actually only gets your wavelength part of the way to the true x-ray regime.",
+      "zh": ""
+    },
+    {
+      "start": 1367.6,
+      "duration": 4.48,
+      "text": "But if as an observer you stand at the far end of the accelerator,",
+      "en": "But if as an observer you stand at the far end of the accelerator,",
+      "zh": ""
+    },
+    {
+      "start": 1372.08,
+      "duration": 4.56,
+      "text": "all those electrons will be coming at you at more than 99% the speed of light.",
+      "en": "all those electrons will be coming at you at more than 99% the speed of light.",
+      "zh": ""
+    },
+    {
+      "start": 1376.64,
+      "duration": 5.12,
+      "text": "So in your reference frame, any light those electrons emit will additionally be blueshifted,",
+      "en": "So in your reference frame, any light those electrons emit will additionally be blueshifted,",
+      "zh": ""
+    },
+    {
+      "start": 1381.76,
+      "duration": 4.4,
+      "text": "producing x-rays as small as 50 picometers in wavelengths.",
+      "en": "producing x-rays as small as 50 picometers in wavelengths.",
+      "zh": ""
+    },
+    {
+      "start": 1386.16,
+      "duration": 3.76,
+      "text": "Initially, these x-rays are created randomly along the undulator,",
+      "en": "Initially, these x-rays are created randomly along the undulator,",
+      "zh": ""
+    },
+    {
+      "start": 1389.92,
+      "duration": 2.4,
+      "text": "producing an incoherent light pattern.",
+      "en": "producing an incoherent light pattern.",
+      "zh": ""
+    },
+    {
+      "start": 1392.32,
+      "duration": 5.84,
+      "text": "But soon after, the electric fields from the x-rays start to interact with the electrons,",
+      "en": "But soon after, the electric fields from the x-rays start to interact with the electrons,",
+      "zh": ""
+    },
+    {
+      "start": 1398.16,
+      "duration": 3.36,
+      "text": "speeding some of them up and slowing others down.",
+      "en": "speeding some of them up and slowing others down.",
+      "zh": ""
+    },
+    {
+      "start": 1401.52,
+      "duration": 3.36,
+      "text": "This causes faster electrons to catch up with slower ones.",
+      "en": "This causes faster electrons to catch up with slower ones.",
+      "zh": ""
+    },
+    {
+      "start": 1404.88,
+      "duration": 3.36,
+      "text": "So they get bunched up into periodic structures,",
+      "en": "So they get bunched up into periodic structures,",
+      "zh": ""
+    },
+    {
+      "start": 1408.24,
+      "duration": 5.44,
+      "text": "parallel sheets that are spaced at distances exactly equal to the wavelength of the X-rays.",
+      "en": "parallel sheets that are spaced at distances exactly equal to the wavelength of the X-rays.",
+      "zh": ""
+    },
+    {
+      "start": 1413.68,
+      "duration": 1.68,
+      "text": "This is called microbunching.",
+      "en": "This is called microbunching.",
+      "zh": ""
+    },
+    {
+      "start": 1415.36,
+      "duration": 3.68,
+      "text": "Now these sheets of electrons emit light as unified fronts.",
+      "en": "Now these sheets of electrons emit light as unified fronts.",
+      "zh": ""
+    },
+    {
+      "start": 1419.04,
+      "duration": 3.28,
+      "text": "So the resulting X-rays come out coherently as a laser",
+      "en": "So the resulting X-rays come out coherently as a laser",
+      "zh": ""
+    },
+    {
+      "start": 1422.32,
+      "duration": 4.0,
+      "text": "pulse. This dramatically increases their intensity",
+      "en": "pulse. This dramatically increases their intensity",
+      "zh": ""
+    },
+    {
+      "start": 1426.32,
+      "duration": 5.68,
+      "text": "And the pulses come out incredibly tightly packed, being only a few femtoseconds long,",
+      "en": "And the pulses come out incredibly tightly packed, being only a few femtoseconds long,",
+      "zh": ""
+    },
+    {
+      "start": 1432.0,
+      "duration": 3.28,
+      "text": "and they can get as short as a couple hundred attoseconds.",
+      "en": "and they can get as short as a couple hundred attoseconds.",
+      "zh": ""
+    },
+    {
+      "start": 1435.28,
+      "duration": 4.56,
+      "text": "That's 10 to the power of negative 18. An absurdly quick pulse.",
+      "en": "That's 10 to the power of negative 18. An absurdly quick pulse.",
+      "zh": ""
+    },
+    {
+      "start": 1439.84,
+      "duration": 2.88,
+      "text": "To put it another way, the attosecond is to the",
+      "en": "To put it another way, the attosecond is to the",
+      "zh": ""
+    },
+    {
+      "start": 1442.72,
+      "duration": 3.92,
+      "text": "second what the second is to the age of the universe.",
+      "en": "second what the second is to the age of the universe.",
+      "zh": ""
+    },
+    {
+      "start": 1446.64,
+      "duration": 5.36,
+      "text": "On an attosecond scale, you can see electrons zip around essentially atoms and molecules.",
+      "en": "On an attosecond scale, you can see electrons zip around essentially atoms and molecules.",
+      "zh": ""
+    },
+    {
+      "start": 1452.0,
+      "duration": 1.6,
+      "text": "That's insane. Yeah.",
+      "en": "That's insane. Yeah.",
+      "zh": ""
+    },
+    {
+      "start": 1453.6,
+      "duration": 5.28,
+      "text": "After the undulators the x-ray pulses are sent to experimental stations at the end of the tunnel.",
+      "en": "After the undulators the x-ray pulses are sent to experimental stations at the end of the tunnel.",
+      "zh": ""
+    },
+    {
+      "start": 1458.88,
+      "duration": 2.08,
+      "text": "So where's the main x-ray beam?",
+      "en": "So where's the main x-ray beam?",
+      "zh": ""
+    },
+    {
+      "start": 1460.96,
+      "duration": 2.72,
+      "text": "The main x-ray beam is coming through this tube over here.",
+      "en": "The main x-ray beam is coming through this tube over here.",
+      "zh": ""
+    },
+    {
+      "start": 1463.68,
+      "duration": 0.32,
+      "text": "Okay.",
+      "en": "Okay.",
+      "zh": ""
+    },
+    {
+      "start": 1464.0,
+      "duration": 4.08,
+      "text": "If you wanted to... It's a little harder to see, but coming in through this tube over here.",
+      "en": "If you wanted to... It's a little harder to see, but coming in through this tube over here.",
+      "zh": ""
+    },
+    {
+      "start": 1468.08,
+      "duration": 2.72,
+      "text": "So this is the main place where the x-rays come into the hutch.",
+      "en": "So this is the main place where the x-rays come into the hutch.",
+      "zh": ""
+    },
+    {
+      "start": 1470.8,
+      "duration": 4.32,
+      "text": "And so the x-rays focus into what we call an interaction point.",
+      "en": "And so the x-rays focus into what we call an interaction point.",
+      "zh": ""
+    },
+    {
+      "start": 1475.12,
+      "duration": 3.84,
+      "text": "Now you fill this interaction point with the molecules whose electrons you want to study.",
+      "en": "Now you fill this interaction point with the molecules whose electrons you want to study.",
+      "zh": ""
+    },
+    {
+      "start": 1478.96,
+      "duration": 2.64,
+      "text": "Now we shine that x-ray pulse on a molecule,",
+      "en": "Now we shine that x-ray pulse on a molecule,",
+      "zh": ""
+    },
+    {
+      "start": 1481.6,
+      "duration": 3.76,
+      "text": "and when it hits the molecule, it will ionize the molecule",
+      "en": "and when it hits the molecule, it will ionize the molecule",
+      "zh": ""
+    },
+    {
+      "start": 1485.36,
+      "duration": 6.16,
+      "text": "and it ionizes predominantly from these inner shells from the very core parts.",
+      "en": "and it ionizes predominantly from these inner shells from the very core parts.",
+      "zh": ""
+    },
+    {
+      "start": 1491.52,
+      "duration": 4.88,
+      "text": "The thing is, core level electrons from different elements have different ionization energies.",
+      "en": "The thing is, core level electrons from different elements have different ionization energies.",
+      "zh": ""
+    },
+    {
+      "start": 1496.4,
+      "duration": 4.24,
+      "text": "So if you want an x-ray to eject a core level electron from a nitrogen,",
+      "en": "So if you want an x-ray to eject a core level electron from a nitrogen,",
+      "zh": ""
+    },
+    {
+      "start": 1500.64,
+      "duration": 2.4,
+      "text": "it needs around 400 electron volts.",
+      "en": "it needs around 400 electron volts.",
+      "zh": ""
+    },
+    {
+      "start": 1503.04,
+      "duration": 3.6,
+      "text": "Whereas for an oxygen, it needs around 550.",
+      "en": "Whereas for an oxygen, it needs around 550.",
+      "zh": ""
+    },
+    {
+      "start": 1506.64,
+      "duration": 4.16,
+      "text": "So by tuning the x-ray energy to match these ionization energies,",
+      "en": "So by tuning the x-ray energy to match these ionization energies,",
+      "zh": ""
+    },
+    {
+      "start": 1510.8,
+      "duration": 5.12,
+      "text": "you get to choose which of these atoms within the molecule the x-ray is going to ionize.",
+      "en": "you get to choose which of these atoms within the molecule the x-ray is going to ionize.",
+      "zh": ""
+    },
+    {
+      "start": 1515.92,
+      "duration": 4.16,
+      "text": "And any excess energy left after an x-ray has ejected an electron",
+      "en": "And any excess energy left after an x-ray has ejected an electron",
+      "zh": ""
+    },
+    {
+      "start": 1520.08,
+      "duration": 3.12,
+      "text": "will be taken by that electron as kinetic energy.",
+      "en": "will be taken by that electron as kinetic energy.",
+      "zh": ""
+    },
+    {
+      "start": 1523.2,
+      "duration": 3.52,
+      "text": "Now, once you ionize this molecule,",
+      "en": "Now, once you ionize this molecule,",
+      "zh": ""
+    },
+    {
+      "start": 1526.72,
+      "duration": 4.96,
+      "text": "the kinetic energy will tell you something about what's going on around that electron.",
+      "en": "the kinetic energy will tell you something about what's going on around that electron.",
+      "zh": ""
+    },
+    {
+      "start": 1531.68,
+      "duration": 3.6,
+      "text": "Well, electrons are not independent particles, they talk to each other, right?",
+      "en": "Well, electrons are not independent particles, they talk to each other, right?",
+      "zh": ""
+    },
+    {
+      "start": 1535.28,
+      "duration": 1.76,
+      "text": "They have a negative charge.",
+      "en": "They have a negative charge.",
+      "zh": ""
+    },
+    {
+      "start": 1537.04,
+      "duration": 3.28,
+      "text": "So if you have a high electron density around a particular atom,",
+      "en": "So if you have a high electron density around a particular atom,",
+      "zh": ""
+    },
+    {
+      "start": 1540.32,
+      "duration": 3.6,
+      "text": "the core level electrons will be bound less tightly to the nucleus",
+      "en": "the core level electrons will be bound less tightly to the nucleus",
+      "zh": ""
+    },
+    {
+      "start": 1543.92,
+      "duration": 3.36,
+      "text": "because of the presence of all these other electrons around the atom.",
+      "en": "because of the presence of all these other electrons around the atom.",
+      "zh": ""
+    },
+    {
+      "start": 1547.28,
+      "duration": 3.12,
+      "text": "So its ionization energy will actually be slightly lower.",
+      "en": "So its ionization energy will actually be slightly lower.",
+      "zh": ""
+    },
+    {
+      "start": 1550.4,
+      "duration": 4.24,
+      "text": "Whereas if you have a lower electron density than average around an atom,",
+      "en": "Whereas if you have a lower electron density than average around an atom,",
+      "zh": ""
+    },
+    {
+      "start": 1554.64,
+      "duration": 4.4,
+      "text": "those core level electrons will be bound more tightly with a higher ionization energy.",
+      "en": "those core level electrons will be bound more tightly with a higher ionization energy.",
+      "zh": ""
+    },
+    {
+      "start": 1559.04,
+      "duration": 4.0,
+      "text": "Therefore, when you measure the kinetic energy of the electrons you eject,",
+      "en": "Therefore, when you measure the kinetic energy of the electrons you eject,",
+      "zh": ""
+    },
+    {
+      "start": 1563.04,
+      "duration": 2.64,
+      "text": "you can use the difference between the input x-ray",
+      "en": "you can use the difference between the input x-ray",
+      "zh": ""
+    },
+    {
+      "start": 1565.68,
+      "duration": 5.44,
+      "text": "energy and the output kinetic energy to infer what that electron density was.",
+      "en": "energy and the output kinetic energy to infer what that electron density was.",
+      "zh": ""
+    },
+    {
+      "start": 1571.12,
+      "duration": 2.56,
+      "text": "Now, once we can take a picture of an electron density,",
+      "en": "Now, once we can take a picture of an electron density,",
+      "zh": ""
+    },
+    {
+      "start": 1573.68,
+      "duration": 1.84,
+      "text": "we can change what the molecule is doing,",
+      "en": "we can change what the molecule is doing,",
+      "zh": ""
+    },
+    {
+      "start": 1575.52,
+      "duration": 4.8,
+      "text": "make it do some process in time, and then we can look at how electron densities change.",
+      "en": "make it do some process in time, and then we can look at how electron densities change.",
+      "zh": ""
+    },
+    {
+      "start": 1580.32,
+      "duration": 2.56,
+      "text": "We have above us. We actually have an entire laser hall.",
+      "en": "We have above us. We actually have an entire laser hall.",
+      "zh": ""
+    },
+    {
+      "start": 1582.88,
+      "duration": 1.44,
+      "text": "So we generate laser light,",
+      "en": "So we generate laser light,",
+      "zh": ""
+    },
+    {
+      "start": 1584.32,
+      "duration": 4.16,
+      "text": "we bring it down through tubes like here behind you or over here on the ceiling.",
+      "en": "we bring it down through tubes like here behind you or over here on the ceiling.",
+      "zh": ""
+    },
+    {
+      "start": 1588.48,
+      "duration": 2.32,
+      "text": "Traditional laser light. These are infrared lasers.",
+      "en": "Traditional laser light. These are infrared lasers.",
+      "zh": ""
+    },
+    {
+      "start": 1590.8,
+      "duration": 3.44,
+      "text": "We bring them onto this table. And you see all these boxes on this table?",
+      "en": "We bring them onto this table. And you see all these boxes on this table?",
+      "zh": ""
+    },
+    {
+      "start": 1594.24,
+      "duration": 3.84,
+      "text": "These boxes are to condition laser to give it the properties that we want.",
+      "en": "These boxes are to condition laser to give it the properties that we want.",
+      "zh": ""
+    },
+    {
+      "start": 1598.08,
+      "duration": 3.92,
+      "text": "We can change the color of the laser, we can change the polarization state,",
+      "en": "We can change the color of the laser, we can change the polarization state,",
+      "zh": ""
+    },
+    {
+      "start": 1602.0,
+      "duration": 2.08,
+      "text": "we can change the duration of the pulse.",
+      "en": "we can change the duration of the pulse.",
+      "zh": ""
+    },
+    {
+      "start": 1604.08,
+      "duration": 6.24,
+      "text": "So we sculpt these pulses, then we have them go co-propagating with the x-rays into our target.",
+      "en": "So we sculpt these pulses, then we have them go co-propagating with the x-rays into our target.",
+      "zh": ""
+    },
+    {
+      "start": 1610.32,
+      "duration": 5.88,
+      "text": "And so, now our first laser pulse will create some non-equilibrium state in the molecule,",
+      "en": "And so, now our first laser pulse will create some non-equilibrium state in the molecule,",
+      "zh": ""
+    },
+    {
+      "start": 1616.2,
+      "duration": 3.64,
+      "text": "will drive some dynamics and then our x-ray pulse will probe it.",
+      "en": "will drive some dynamics and then our x-ray pulse will probe it.",
+      "zh": ""
+    },
+    {
+      "start": 1619.84,
+      "duration": 5.44,
+      "text": "This attosecond x-ray pulse ejects an electron from the molecule after a time delay t.",
+      "en": "This attosecond x-ray pulse ejects an electron from the molecule after a time delay t.",
+      "zh": ""
+    },
+    {
+      "start": 1625.28,
+      "duration": 3.04,
+      "text": "And by measuring the kinetic energy of the electron,",
+      "en": "And by measuring the kinetic energy of the electron,",
+      "zh": ""
+    },
+    {
+      "start": 1628.32,
+      "duration": 4.96,
+      "text": "you can study how the electron density of the molecule reacted to the trigger laser.",
+      "en": "you can study how the electron density of the molecule reacted to the trigger laser.",
+      "zh": ""
+    },
+    {
+      "start": 1633.28,
+      "duration": 5.04,
+      "text": "So you get an attosecond snapshot, like a strobe, of how the molecule changed.",
+      "en": "So you get an attosecond snapshot, like a strobe, of how the molecule changed.",
+      "zh": ""
+    },
+    {
+      "start": 1638.32,
+      "duration": 4.32,
+      "text": "Then you can get another sample of the same molecule, shoot it with a laser again,",
+      "en": "Then you can get another sample of the same molecule, shoot it with a laser again,",
+      "zh": ""
+    },
+    {
+      "start": 1642.64,
+      "duration": 4.72,
+      "text": "but this time increase the probe delay slightly to t plus delta t.",
+      "en": "but this time increase the probe delay slightly to t plus delta t.",
+      "zh": ""
+    },
+    {
+      "start": 1647.36,
+      "duration": 4.0,
+      "text": "This will tell you how the electron density changes a little later.",
+      "en": "This will tell you how the electron density changes a little later.",
+      "zh": ""
+    },
+    {
+      "start": 1651.36,
+      "duration": 2.72,
+      "text": "And you can keep increasing this delay each time to get",
+      "en": "And you can keep increasing this delay each time to get",
+      "zh": ""
+    },
+    {
+      "start": 1654.08,
+      "duration": 5.52,
+      "text": "a sequence of snapshots of how that electron density evolves over time.",
+      "en": "a sequence of snapshots of how that electron density evolves over time.",
+      "zh": ""
+    },
+    {
+      "start": 1659.6,
+      "duration": 2.72,
+      "text": "Isn't there a big assumption here that every time you do it,",
+      "en": "Isn't there a big assumption here that every time you do it,",
+      "zh": ""
+    },
+    {
+      "start": 1662.32,
+      "duration": 2.76,
+      "text": "you're expecting a repeatable result from the molecules?",
+      "en": "you're expecting a repeatable result from the molecules?",
+      "zh": ""
+    },
+    {
+      "start": 1665.08,
+      "duration": 7.08,
+      "text": "Yes, absolutely, so you need for your initiator to drive the same dynamics over and over again.",
+      "en": "Yes, absolutely, so you need for your initiator to drive the same dynamics over and over again.",
+      "zh": ""
+    },
+    {
+      "start": 1672.16,
+      "duration": 4.4,
+      "text": "If you have a new process happening every time, this technique will fail.",
+      "en": "If you have a new process happening every time, this technique will fail.",
+      "zh": ""
+    },
+    {
+      "start": 1676.56,
+      "duration": 3.68,
+      "text": "But if the scene is repeatable, then like the trillion FPS camera,",
+      "en": "But if the scene is repeatable, then like the trillion FPS camera,",
+      "zh": ""
+    },
+    {
+      "start": 1680.24,
+      "duration": 3.04,
+      "text": "you can use this technique to create a molecular movie.",
+      "en": "you can use this technique to create a molecular movie.",
+      "zh": ""
+    },
+    {
+      "start": 1683.28,
+      "duration": 3.44,
+      "text": "And here, the smallest amount by which you can tweak the time delay",
+      "en": "And here, the smallest amount by which you can tweak the time delay",
+      "zh": ""
+    },
+    {
+      "start": 1686.72,
+      "duration": 3.44,
+      "text": "for this x-ray strobe is around 300 attoseconds.",
+      "en": "for this x-ray strobe is around 300 attoseconds.",
+      "zh": ""
+    },
+    {
+      "start": 1690.16,
+      "duration": 4.0,
+      "text": "So you can get frames that are only a few hundred attoseconds seconds apart.",
+      "en": "So you can get frames that are only a few hundred attoseconds seconds apart.",
+      "zh": ""
+    },
+    {
+      "start": 1694.16,
+      "duration": 1.44,
+      "text": "And if you stitch those together,",
+      "en": "And if you stitch those together,",
+      "zh": ""
+    },
+    {
+      "start": 1695.6,
+      "duration": 7.04,
+      "text": "you get a movie that technically runs at over a quadrillion frames per second.",
+      "en": "you get a movie that technically runs at over a quadrillion frames per second.",
+      "zh": ""
+    },
+    {
+      "start": 1702.64,
+      "duration": 5.76,
+      "text": "So this is a movie of the dynamics that we might like to image.",
+      "en": "So this is a movie of the dynamics that we might like to image.",
+      "zh": ""
+    },
+    {
+      "start": 1708.4,
+      "duration": 4.48,
+      "text": "So this is a small molecular system. This is called para-aminophenol.",
+      "en": "So this is a small molecular system. This is called para-aminophenol.",
+      "zh": ""
+    },
+    {
+      "start": 1712.88,
+      "duration": 4.08,
+      "text": "This calculation was done by some of our collaborators in Madrid.",
+      "en": "This calculation was done by some of our collaborators in Madrid.",
+      "zh": ""
+    },
+    {
+      "start": 1717.6,
+      "duration": 7.6,
+      "text": "They had calculated what is the response of this molecule to the removal of an electron.",
+      "en": "They had calculated what is the response of this molecule to the removal of an electron.",
+      "zh": ""
+    },
+    {
+      "start": 1725.2,
+      "duration": 4.88,
+      "text": "So they simulate an x-ray pulse coming in and removing an electron.",
+      "en": "So they simulate an x-ray pulse coming in and removing an electron.",
+      "zh": ""
+    },
+    {
+      "start": 1730.08,
+      "duration": 4.0,
+      "text": "So the red color here represents an increase in the density of the electron,",
+      "en": "So the red color here represents an increase in the density of the electron,",
+      "zh": ""
+    },
+    {
+      "start": 1734.08,
+      "duration": 2.08,
+      "text": "and the blue represents a decrease.",
+      "en": "and the blue represents a decrease.",
+      "zh": ""
+    },
+    {
+      "start": 1736.16,
+      "duration": 2.8,
+      "text": "And so we see that when we've shined this x-ray",
+      "en": "And so we see that when we've shined this x-ray",
+      "zh": ""
+    },
+    {
+      "start": 1738.96,
+      "duration": 3.28,
+      "text": "pulse onto this molecule and we've removed an electron,",
+      "en": "pulse onto this molecule and we've removed an electron,",
+      "zh": ""
+    },
+    {
+      "start": 1742.24,
+      "duration": 4.24,
+      "text": "we initiate some charge distribution that starts to move across the molecule.",
+      "en": "we initiate some charge distribution that starts to move across the molecule.",
+      "zh": ""
+    },
+    {
+      "start": 1746.48,
+      "duration": 2.48,
+      "text": "And so we wanna image this charge motion.",
+      "en": "And so we wanna image this charge motion.",
+      "zh": ""
+    },
+    {
+      "start": 1748.96,
+      "duration": 4.8,
+      "text": "The video is a simulation, but it's been validated by the experiments done at SLAC.",
+      "en": "The video is a simulation, but it's been validated by the experiments done at SLAC.",
+      "zh": ""
+    },
+    {
+      "start": 1753.76,
+      "duration": 2.0,
+      "text": "Our method for probing these seems to work.",
+      "en": "Our method for probing these seems to work.",
+      "zh": ""
+    },
+    {
+      "start": 1755.76,
+      "duration": 4.08,
+      "text": "We can compare to a handful of points and say, oh, these look broadly similar.",
+      "en": "We can compare to a handful of points and say, oh, these look broadly similar.",
+      "zh": ""
+    },
+    {
+      "start": 1759.84,
+      "duration": 6.62,
+      "text": "Much after this few femtosecond, as we approach five to 10 femtoseconds, we start to diverge.",
+      "en": "Much after this few femtosecond, as we approach five to 10 femtoseconds, we start to diverge.",
+      "zh": ""
+    },
+    {
+      "start": 1766.46,
+      "duration": 2.74,
+      "text": "Our prediction starts to diverge from our measurement.",
+      "en": "Our prediction starts to diverge from our measurement.",
+      "zh": ""
+    },
+    {
+      "start": 1769.2,
+      "duration": 2.32,
+      "text": "And actually this is the most exciting time in science, right?",
+      "en": "And actually this is the most exciting time in science, right?",
+      "zh": ""
+    },
+    {
+      "start": 1771.52,
+      "duration": 2.32,
+      "text": "When you have a prediction, and then you have a measurement,",
+      "en": "When you have a prediction, and then you have a measurement,",
+      "zh": ""
+    },
+    {
+      "start": 1773.84,
+      "duration": 2.48,
+      "text": "and they don't agree, that's when you get really excited,",
+      "en": "and they don't agree, that's when you get really excited,",
+      "zh": ""
+    },
+    {
+      "start": 1776.32,
+      "duration": 2.72,
+      "text": "because you just found something you didn't know ahead of time.",
+      "en": "because you just found something you didn't know ahead of time.",
+      "zh": ""
+    },
+    {
+      "start": 1779.04,
+      "duration": 1.44,
+      "text": "You couldn't have predicted that.",
+      "en": "You couldn't have predicted that.",
+      "zh": ""
+    },
+    {
+      "start": 1780.48,
+      "duration": 3.92,
+      "text": "I think the most powerful thing for me here is we animate a lot of electrons, right?",
+      "en": "I think the most powerful thing for me here is we animate a lot of electrons, right?",
+      "zh": ""
+    },
+    {
+      "start": 1784.4,
+      "duration": 3.92,
+      "text": "And pretty much every Veritasium video has electrons moving in some way.",
+      "en": "And pretty much every Veritasium video has electrons moving in some way.",
+      "zh": ""
+    },
+    {
+      "start": 1788.32,
+      "duration": 5.12,
+      "text": "So the fact that we're actually seeing these electron densities move around…",
+      "en": "So the fact that we're actually seeing these electron densities move around…",
+      "zh": ""
+    },
+    {
+      "start": 1793.44,
+      "duration": 2.24,
+      "text": "I don't know, I think it's spectacular.",
+      "en": "I don't know, I think it's spectacular.",
+      "zh": ""
+    },
+    {
+      "start": 1795.68,
+      "duration": 2.96,
+      "text": "Absolutely.",
+      "en": "Absolutely.",
+      "zh": ""
+    }
+  ],
+  "words": []
+}

@@ -1,0 +1,1314 @@
+{
+  "cues": [
+    {
+      "start": 0.0,
+      "duration": 2.04,
+      "text": "- I designed this machine to win the jackpot",
+      "en": "- I designed this machine to win the jackpot",
+      "zh": ""
+    },
+    {
+      "start": 2.04,
+      "duration": 1.44,
+      "text": "every time on arcade games",
+      "en": "every time on arcade games",
+      "zh": ""
+    },
+    {
+      "start": 3.48,
+      "duration": 1.77,
+      "text": "like these where you have to hit the button",
+      "en": "like these where you have to hit the button",
+      "zh": ""
+    },
+    {
+      "start": 5.25,
+      "duration": 2.07,
+      "text": "at the exact moment the light comes by.",
+      "en": "at the exact moment the light comes by.",
+      "zh": ""
+    },
+    {
+      "start": 7.32,
+      "duration": 1.62,
+      "text": "So the plan was for me to be a hero",
+      "en": "So the plan was for me to be a hero",
+      "zh": ""
+    },
+    {
+      "start": 8.94,
+      "duration": 1.86,
+      "text": "amongst my buddies and a veritable",
+      "en": "amongst my buddies and a veritable",
+      "zh": ""
+    },
+    {
+      "start": 10.8,
+      "duration": 1.26,
+      "text": "Chuck E. Cheese Robin Hood,",
+      "en": "Chuck E. Cheese Robin Hood,",
+      "zh": ""
+    },
+    {
+      "start": 12.06,
+      "duration": 1.17,
+      "text": "giving out free tickets",
+      "en": "giving out free tickets",
+      "zh": ""
+    },
+    {
+      "start": 13.23,
+      "duration": 1.32,
+      "text": "to all the little kids.",
+      "en": "to all the little kids.",
+      "zh": ""
+    },
+    {
+      "start": 14.55,
+      "duration": 3.0,
+      "text": "But that's not what actually happened.",
+      "en": "But that's not what actually happened.",
+      "zh": ""
+    },
+    {
+      "start": 17.55,
+      "duration": 1.65,
+      "text": "It actually turned out way more interesting.",
+      "en": "It actually turned out way more interesting.",
+      "zh": ""
+    },
+    {
+      "start": 19.2,
+      "duration": 1.86,
+      "text": "And the more I tested, the more I realized.",
+      "en": "And the more I tested, the more I realized.",
+      "zh": ""
+    },
+    {
+      "start": 21.06,
+      "duration": 1.47,
+      "text": "This was turning into a repeat",
+      "en": "This was turning into a repeat",
+      "zh": ""
+    },
+    {
+      "start": 22.53,
+      "duration": 2.52,
+      "text": "of when I used physics to expose the rigged Carnival games.",
+      "en": "of when I used physics to expose the rigged Carnival games.",
+      "zh": ""
+    },
+    {
+      "start": 25.05,
+      "duration": 2.19,
+      "text": "Because by building a super-precise little robot",
+      "en": "Because by building a super-precise little robot",
+      "zh": ""
+    },
+    {
+      "start": 27.24,
+      "duration": 1.35,
+      "text": "I discovered arcade games",
+      "en": "I discovered arcade games",
+      "zh": ""
+    },
+    {
+      "start": 28.59,
+      "duration": 1.8,
+      "text": "like this are pretending to be one thing",
+      "en": "like this are pretending to be one thing",
+      "zh": ""
+    },
+    {
+      "start": 30.39,
+      "duration": 1.98,
+      "text": "when in fact they're total scams.",
+      "en": "when in fact they're total scams.",
+      "zh": ""
+    },
+    {
+      "start": 32.37,
+      "duration": 2.46,
+      "text": "Now, in order to explain just how bad they're scamming you",
+      "en": "Now, in order to explain just how bad they're scamming you",
+      "zh": ""
+    },
+    {
+      "start": 34.83,
+      "duration": 2.64,
+      "text": "let me first explain how my machine works and then walk",
+      "en": "let me first explain how my machine works and then walk",
+      "zh": ""
+    },
+    {
+      "start": 37.47,
+      "duration": 3.42,
+      "text": "through the results of our testing for the past two months.",
+      "en": "through the results of our testing for the past two months.",
+      "zh": ""
+    },
+    {
+      "start": 40.89,
+      "duration": 1.59,
+      "text": "Fundamentally, the way this works is you have",
+      "en": "Fundamentally, the way this works is you have",
+      "zh": ""
+    },
+    {
+      "start": 42.48,
+      "duration": 1.41,
+      "text": "a photo resistor right here",
+      "en": "a photo resistor right here",
+      "zh": ""
+    },
+    {
+      "start": 43.89,
+      "duration": 3.03,
+      "text": "and it senses the light five or six lights upstream",
+      "en": "and it senses the light five or six lights upstream",
+      "zh": ""
+    },
+    {
+      "start": 46.92,
+      "duration": 2.64,
+      "text": "of where you need to hit the button to get a jackpot.",
+      "en": "of where you need to hit the button to get a jackpot.",
+      "zh": ""
+    },
+    {
+      "start": 49.56,
+      "duration": 1.83,
+      "text": "And then after a pre-programmed delay",
+      "en": "And then after a pre-programmed delay",
+      "zh": ""
+    },
+    {
+      "start": 51.39,
+      "duration": 2.19,
+      "text": "the plunger comes down and hits the button.",
+      "en": "the plunger comes down and hits the button.",
+      "zh": ""
+    },
+    {
+      "start": 53.58,
+      "duration": 1.44,
+      "text": "To build this, my buddy John and I started",
+      "en": "To build this, my buddy John and I started",
+      "zh": ""
+    },
+    {
+      "start": 55.02,
+      "duration": 1.68,
+      "text": "by designing the main base in CAD",
+      "en": "by designing the main base in CAD",
+      "zh": ""
+    },
+    {
+      "start": 56.7,
+      "duration": 1.56,
+      "text": "and then we 3D printed it overnight",
+      "en": "and then we 3D printed it overnight",
+      "zh": ""
+    },
+    {
+      "start": 58.26,
+      "duration": 1.5,
+      "text": "then we attached the photo resistor at the end",
+      "en": "then we attached the photo resistor at the end",
+      "zh": ""
+    },
+    {
+      "start": 59.76,
+      "duration": 2.4,
+      "text": "of the articulating arm, and then we took a solenoid",
+      "en": "of the articulating arm, and then we took a solenoid",
+      "zh": ""
+    },
+    {
+      "start": 62.16,
+      "duration": 2.34,
+      "text": "with a plunger and attached it to the base.",
+      "en": "with a plunger and attached it to the base.",
+      "zh": ""
+    },
+    {
+      "start": 64.5,
+      "duration": 2.28,
+      "text": "It's powered by 20 volts worth of AA batteries.",
+      "en": "It's powered by 20 volts worth of AA batteries.",
+      "zh": ""
+    },
+    {
+      "start": 66.78,
+      "duration": 1.8,
+      "text": "And this is the same power pack I used",
+      "en": "And this is the same power pack I used",
+      "zh": ""
+    },
+    {
+      "start": 68.58,
+      "duration": 1.2,
+      "text": "to trigger the Super Soaker.",
+      "en": "to trigger the Super Soaker.",
+      "zh": ""
+    },
+    {
+      "start": 69.78,
+      "duration": 0.83,
+      "text": "And the brains",
+      "en": "And the brains",
+      "zh": ""
+    },
+    {
+      "start": 71.5,
+      "duration": 1.85,
+      "text": "of the operation is this wireless Arduino board",
+      "en": "of the operation is this wireless Arduino board",
+      "zh": ""
+    },
+    {
+      "start": 73.35,
+      "duration": 2.61,
+      "text": "and it connects via wifi to a super-ghetto app that we made.",
+      "en": "and it connects via wifi to a super-ghetto app that we made.",
+      "zh": ""
+    },
+    {
+      "start": 75.96,
+      "duration": 2.25,
+      "text": "And the app is critical because it lets you adjust the delay",
+      "en": "And the app is critical because it lets you adjust the delay",
+      "zh": ""
+    },
+    {
+      "start": 78.21,
+      "duration": 2.43,
+      "text": "between sensing the light and pushing the plunger.",
+      "en": "between sensing the light and pushing the plunger.",
+      "zh": ""
+    },
+    {
+      "start": 80.64,
+      "duration": 1.06,
+      "text": "So if you miss short",
+      "en": "So if you miss short",
+      "zh": ""
+    },
+    {
+      "start": 82.65,
+      "duration": 2.22,
+      "text": "you just add a few milliseconds to the delay and try again.",
+      "en": "you just add a few milliseconds to the delay and try again.",
+      "zh": ""
+    },
+    {
+      "start": 84.87,
+      "duration": 1.26,
+      "text": "And then to disguise the whole thing,",
+      "en": "And then to disguise the whole thing,",
+      "zh": ""
+    },
+    {
+      "start": 86.13,
+      "duration": 2.31,
+      "text": "we put it in a backpack and cut a hole in the bottom",
+      "en": "we put it in a backpack and cut a hole in the bottom",
+      "zh": ""
+    },
+    {
+      "start": 88.44,
+      "duration": 2.82,
+      "text": "so the plunger could access the big button on the machine.",
+      "en": "so the plunger could access the big button on the machine.",
+      "zh": ""
+    },
+    {
+      "start": 91.26,
+      "duration": 3.39,
+      "text": "So to set it up, you simply walk in, set the backpack down",
+      "en": "So to set it up, you simply walk in, set the backpack down",
+      "zh": ""
+    },
+    {
+      "start": 94.65,
+      "duration": 1.11,
+      "text": "and then pull out your phone",
+      "en": "and then pull out your phone",
+      "zh": ""
+    },
+    {
+      "start": 95.76,
+      "duration": 2.13,
+      "text": "like you're checking dank memes.",
+      "en": "like you're checking dank memes.",
+      "zh": ""
+    },
+    {
+      "start": 97.89,
+      "duration": 3.12,
+      "text": "As you can see, the disguise worked really well",
+      "en": "As you can see, the disguise worked really well",
+      "zh": ""
+    },
+    {
+      "start": 101.01,
+      "duration": 1.71,
+      "text": "and no one ever suspected anything.",
+      "en": "and no one ever suspected anything.",
+      "zh": ""
+    },
+    {
+      "start": 102.72,
+      "duration": 1.6,
+      "text": "So at this point",
+      "en": "So at this point",
+      "zh": ""
+    },
+    {
+      "start": 104.32,
+      "duration": 1.19,
+      "text": "we were ready for our first real world test",
+      "en": "we were ready for our first real world test",
+      "zh": ""
+    },
+    {
+      "start": 105.51,
+      "duration": 2.4,
+      "text": "and the results were disappointing.",
+      "en": "and the results were disappointing.",
+      "zh": ""
+    },
+    {
+      "start": 107.91,
+      "duration": 2.88,
+      "text": "We were getting jackpots, but only about every 30 tries.",
+      "en": "We were getting jackpots, but only about every 30 tries.",
+      "zh": ""
+    },
+    {
+      "start": 110.79,
+      "duration": 2.28,
+      "text": "And what was so frustrating is we got the timing dialed",
+      "en": "And what was so frustrating is we got the timing dialed",
+      "zh": ""
+    },
+    {
+      "start": 113.07,
+      "duration": 2.04,
+      "text": "in so well, we would miss short",
+      "en": "in so well, we would miss short",
+      "zh": ""
+    },
+    {
+      "start": 115.11,
+      "duration": 2.91,
+      "text": "by one light and then not adjust the timing at all.",
+      "en": "by one light and then not adjust the timing at all.",
+      "zh": ""
+    },
+    {
+      "start": 118.02,
+      "duration": 1.41,
+      "text": "And then on the very next run",
+      "en": "And then on the very next run",
+      "zh": ""
+    },
+    {
+      "start": 119.43,
+      "duration": 1.83,
+      "text": "we would miss long by one light.",
+      "en": "we would miss long by one light.",
+      "zh": ""
+    },
+    {
+      "start": 121.26,
+      "duration": 2.76,
+      "text": "So for 30 attempts without changing anything about half",
+      "en": "So for 30 attempts without changing anything about half",
+      "zh": ""
+    },
+    {
+      "start": 124.02,
+      "duration": 2.31,
+      "text": "were missing one light short, and the other half",
+      "en": "were missing one light short, and the other half",
+      "zh": ""
+    },
+    {
+      "start": 126.33,
+      "duration": 1.47,
+      "text": "were missing one light long.",
+      "en": "were missing one light long.",
+      "zh": ""
+    },
+    {
+      "start": 127.8,
+      "duration": 1.95,
+      "text": "So this could mean only one of two things.",
+      "en": "So this could mean only one of two things.",
+      "zh": ""
+    },
+    {
+      "start": 129.75,
+      "duration": 2.34,
+      "text": "Either we had some errors in our machine that was",
+      "en": "Either we had some errors in our machine that was",
+      "zh": ""
+    },
+    {
+      "start": 132.09,
+      "duration": 2.97,
+      "text": "introducing some variability or there was something",
+      "en": "introducing some variability or there was something",
+      "zh": ""
+    },
+    {
+      "start": 135.06,
+      "duration": 2.67,
+      "text": "shady going on with the game itself.",
+      "en": "shady going on with the game itself.",
+      "zh": ""
+    },
+    {
+      "start": 137.73,
+      "duration": 2.01,
+      "text": "And troubleshooting because things don't go as planned",
+      "en": "And troubleshooting because things don't go as planned",
+      "zh": ""
+    },
+    {
+      "start": 139.74,
+      "duration": 2.82,
+      "text": "is incredibly common when doing any engineering task.",
+      "en": "is incredibly common when doing any engineering task.",
+      "zh": ""
+    },
+    {
+      "start": 142.56,
+      "duration": 1.89,
+      "text": "So to fix it, you have to systematically",
+      "en": "So to fix it, you have to systematically",
+      "zh": ""
+    },
+    {
+      "start": 144.45,
+      "duration": 2.19,
+      "text": "do some detective work to figure out where",
+      "en": "do some detective work to figure out where",
+      "zh": ""
+    },
+    {
+      "start": 146.64,
+      "duration": 0.87,
+      "text": "the error is coming from.",
+      "en": "the error is coming from.",
+      "zh": ""
+    },
+    {
+      "start": 147.51,
+      "duration": 3.03,
+      "text": "In the last interview Carl Sagan ever gave, he said--",
+      "en": "In the last interview Carl Sagan ever gave, he said--",
+      "zh": ""
+    },
+    {
+      "start": 150.54,
+      "duration": 2.94,
+      "text": "- Science is more than a body of knowledge.",
+      "en": "- Science is more than a body of knowledge.",
+      "zh": ""
+    },
+    {
+      "start": 153.48,
+      "duration": 1.62,
+      "text": "It's a way of thinking.",
+      "en": "It's a way of thinking.",
+      "zh": ""
+    },
+    {
+      "start": 155.1,
+      "duration": 1.71,
+      "text": "- So here was our thought process.",
+      "en": "- So here was our thought process.",
+      "zh": ""
+    },
+    {
+      "start": 156.81,
+      "duration": 3.27,
+      "text": "I knew if I could prove that my machine was super precise",
+      "en": "I knew if I could prove that my machine was super precise",
+      "zh": ""
+    },
+    {
+      "start": 160.08,
+      "duration": 2.46,
+      "text": "then the only reason we weren't getting a jackpot would be",
+      "en": "then the only reason we weren't getting a jackpot would be",
+      "zh": ""
+    },
+    {
+      "start": 162.54,
+      "duration": 1.08,
+      "text": "because the game was rigged.",
+      "en": "because the game was rigged.",
+      "zh": ""
+    },
+    {
+      "start": 163.62,
+      "duration": 1.2,
+      "text": "So I need to start by looking",
+      "en": "So I need to start by looking",
+      "zh": ""
+    },
+    {
+      "start": 164.82,
+      "duration": 3.12,
+      "text": "at any potential sources of variability error in my machine.",
+      "en": "at any potential sources of variability error in my machine.",
+      "zh": ""
+    },
+    {
+      "start": 167.94,
+      "duration": 2.67,
+      "text": "There were only three, so it could be the photo resistor",
+      "en": "There were only three, so it could be the photo resistor",
+      "zh": ""
+    },
+    {
+      "start": 170.61,
+      "duration": 1.89,
+      "text": "the solenoid, or the Arduino.",
+      "en": "the solenoid, or the Arduino.",
+      "zh": ""
+    },
+    {
+      "start": 172.5,
+      "duration": 2.07,
+      "text": "There was one external source we considered",
+      "en": "There was one external source we considered",
+      "zh": ""
+    },
+    {
+      "start": 174.57,
+      "duration": 2.25,
+      "text": "and that was light pollution from all the flashing lights",
+      "en": "and that was light pollution from all the flashing lights",
+      "zh": ""
+    },
+    {
+      "start": 176.82,
+      "duration": 1.62,
+      "text": "in the arcade could mean the input",
+      "en": "in the arcade could mean the input",
+      "zh": ""
+    },
+    {
+      "start": 178.44,
+      "duration": 1.95,
+      "text": "to the light sensor was too noisy",
+      "en": "to the light sensor was too noisy",
+      "zh": ""
+    },
+    {
+      "start": 180.39,
+      "duration": 1.65,
+      "text": "and therefore not repeatable.",
+      "en": "and therefore not repeatable.",
+      "zh": ""
+    },
+    {
+      "start": 182.04,
+      "duration": 0.9,
+      "text": "Now, there's a trick when it comes",
+      "en": "Now, there's a trick when it comes",
+      "zh": ""
+    },
+    {
+      "start": 182.94,
+      "duration": 2.19,
+      "text": "to troubleshooting where you test several potential",
+      "en": "to troubleshooting where you test several potential",
+      "zh": ""
+    },
+    {
+      "start": 185.13,
+      "duration": 1.62,
+      "text": "error sources at the same time.",
+      "en": "error sources at the same time.",
+      "zh": ""
+    },
+    {
+      "start": 186.75,
+      "duration": 3.03,
+      "text": "And if I can get really precise results within this loop",
+      "en": "And if I can get really precise results within this loop",
+      "zh": ""
+    },
+    {
+      "start": 189.78,
+      "duration": 0.9,
+      "text": "then I know that none",
+      "en": "then I know that none",
+      "zh": ""
+    },
+    {
+      "start": 190.68,
+      "duration": 2.04,
+      "text": "of those components are the source of the error",
+      "en": "of those components are the source of the error",
+      "zh": ""
+    },
+    {
+      "start": 192.72,
+      "duration": 2.31,
+      "text": "without having to take time to test each individually.",
+      "en": "without having to take time to test each individually.",
+      "zh": ""
+    },
+    {
+      "start": 195.03,
+      "duration": 1.32,
+      "text": "So to test all three of these at once",
+      "en": "So to test all three of these at once",
+      "zh": ""
+    },
+    {
+      "start": 196.35,
+      "duration": 2.25,
+      "text": "we made a simple app that flashed a white screen",
+      "en": "we made a simple app that flashed a white screen",
+      "zh": ""
+    },
+    {
+      "start": 198.6,
+      "duration": 2.64,
+      "text": "and started a stopwatch at the exact same time.",
+      "en": "and started a stopwatch at the exact same time.",
+      "zh": ""
+    },
+    {
+      "start": 201.24,
+      "duration": 2.76,
+      "text": "And then we set the trigger for exactly one second later.",
+      "en": "And then we set the trigger for exactly one second later.",
+      "zh": ""
+    },
+    {
+      "start": 204.0,
+      "duration": 0.93,
+      "text": "And sure enough",
+      "en": "And sure enough",
+      "zh": ""
+    },
+    {
+      "start": 204.93,
+      "duration": 3.06,
+      "text": "we were getting results with one millisecond precision.",
+      "en": "we were getting results with one millisecond precision.",
+      "zh": ""
+    },
+    {
+      "start": 207.99,
+      "duration": 2.19,
+      "text": "We also repeated the test with an incandescent bulb just",
+      "en": "We also repeated the test with an incandescent bulb just",
+      "zh": ""
+    },
+    {
+      "start": 210.18,
+      "duration": 3.51,
+      "text": "like the game, and got the same super accurate results.",
+      "en": "like the game, and got the same super accurate results.",
+      "zh": ""
+    },
+    {
+      "start": 213.69,
+      "duration": 3.66,
+      "text": "Now to appreciate that one millisecond of precision",
+      "en": "Now to appreciate that one millisecond of precision",
+      "zh": ""
+    },
+    {
+      "start": 217.35,
+      "duration": 3.09,
+      "text": "one flap of a hummingbird wing takes 12 milliseconds.",
+      "en": "one flap of a hummingbird wing takes 12 milliseconds.",
+      "zh": ""
+    },
+    {
+      "start": 220.44,
+      "duration": 3.12,
+      "text": "So one millisecond is literally this long.",
+      "en": "So one millisecond is literally this long.",
+      "zh": ""
+    },
+    {
+      "start": 223.56,
+      "duration": 0.87,
+      "text": "If you pull out your phone",
+      "en": "If you pull out your phone",
+      "zh": ""
+    },
+    {
+      "start": 224.43,
+      "duration": 1.47,
+      "text": "and try and get the stopwatch to land",
+      "en": "and try and get the stopwatch to land",
+      "zh": ""
+    },
+    {
+      "start": 225.9,
+      "duration": 3.69,
+      "text": "on 4.00 seconds, that's really hard.",
+      "en": "on 4.00 seconds, that's really hard.",
+      "zh": ""
+    },
+    {
+      "start": 229.59,
+      "duration": 1.89,
+      "text": "And this is just to two decimal places.",
+      "en": "And this is just to two decimal places.",
+      "zh": ""
+    },
+    {
+      "start": 231.48,
+      "duration": 2.13,
+      "text": "I had some friends of mine use a timer app that went",
+      "en": "I had some friends of mine use a timer app that went",
+      "zh": ""
+    },
+    {
+      "start": 233.61,
+      "duration": 2.46,
+      "text": "out to three decimal places, which is milliseconds.",
+      "en": "out to three decimal places, which is milliseconds.",
+      "zh": ""
+    },
+    {
+      "start": 236.07,
+      "duration": 2.22,
+      "text": "And then I challenged them to land exactly",
+      "en": "And then I challenged them to land exactly",
+      "zh": ""
+    },
+    {
+      "start": 238.29,
+      "duration": 1.17,
+      "text": "on four seconds.",
+      "en": "on four seconds.",
+      "zh": ""
+    },
+    {
+      "start": 239.46,
+      "duration": 1.32,
+      "text": "And in 100 tries,",
+      "en": "And in 100 tries,",
+      "zh": ""
+    },
+    {
+      "start": 240.78,
+      "duration": 2.82,
+      "text": "these mere humans with their pitiful non-machine",
+      "en": "these mere humans with their pitiful non-machine",
+      "zh": ""
+    },
+    {
+      "start": 243.6,
+      "duration": 3.0,
+      "text": "reaction times were only able to do it once",
+      "en": "reaction times were only able to do it once",
+      "zh": ""
+    },
+    {
+      "start": 246.6,
+      "duration": 2.88,
+      "text": "whereas my robot can do it pretty much every time.",
+      "en": "whereas my robot can do it pretty much every time.",
+      "zh": ""
+    },
+    {
+      "start": 249.48,
+      "duration": 1.35,
+      "text": "So there's definitely no error coming",
+      "en": "So there's definitely no error coming",
+      "zh": ""
+    },
+    {
+      "start": 250.83,
+      "duration": 2.14,
+      "text": "from the hardware components",
+      "en": "from the hardware components",
+      "zh": ""
+    },
+    {
+      "start": 252.97,
+      "duration": 1.16,
+      "text": "but maybe the sensor is being told to trip",
+      "en": "but maybe the sensor is being told to trip",
+      "zh": ""
+    },
+    {
+      "start": 254.13,
+      "duration": 0.99,
+      "text": "at different times",
+      "en": "at different times",
+      "zh": ""
+    },
+    {
+      "start": 255.12,
+      "duration": 2.04,
+      "text": "because there's so many additional flashing lights",
+      "en": "because there's so many additional flashing lights",
+      "zh": ""
+    },
+    {
+      "start": 257.16,
+      "duration": 0.87,
+      "text": "in an arcade.",
+      "en": "in an arcade.",
+      "zh": ""
+    },
+    {
+      "start": 258.03,
+      "duration": 2.13,
+      "text": "And to investigate that, we looked at the signal data",
+      "en": "And to investigate that, we looked at the signal data",
+      "zh": ""
+    },
+    {
+      "start": 260.16,
+      "duration": 2.01,
+      "text": "from the sensor, which looked really noisy",
+      "en": "from the sensor, which looked really noisy",
+      "zh": ""
+    },
+    {
+      "start": 262.17,
+      "duration": 2.34,
+      "text": "and low like this until you see a spike",
+      "en": "and low like this until you see a spike",
+      "zh": ""
+    },
+    {
+      "start": 264.51,
+      "duration": 2.31,
+      "text": "in intensity every time the light would come around",
+      "en": "in intensity every time the light would come around",
+      "zh": ""
+    },
+    {
+      "start": 266.82,
+      "duration": 1.95,
+      "text": "which is when the delay countdown would start.",
+      "en": "which is when the delay countdown would start.",
+      "zh": ""
+    },
+    {
+      "start": 268.77,
+      "duration": 1.41,
+      "text": "Because we had such a narrow field of view",
+      "en": "Because we had such a narrow field of view",
+      "zh": ""
+    },
+    {
+      "start": 270.18,
+      "duration": 2.79,
+      "text": "on the sensor when we compared the time between each",
+      "en": "on the sensor when we compared the time between each",
+      "zh": ""
+    },
+    {
+      "start": 272.97,
+      "duration": 3.57,
+      "text": "of the peaks, it was also precise down to the millisecond.",
+      "en": "of the peaks, it was also precise down to the millisecond.",
+      "zh": ""
+    },
+    {
+      "start": 276.54,
+      "duration": 3.18,
+      "text": "So light pollution wasn't the issue either.",
+      "en": "So light pollution wasn't the issue either.",
+      "zh": ""
+    },
+    {
+      "start": 279.72,
+      "duration": 1.23,
+      "text": "With this in mind, I headed",
+      "en": "With this in mind, I headed",
+      "zh": ""
+    },
+    {
+      "start": 280.95,
+      "duration": 1.98,
+      "text": "to a different arcade with some family friends",
+      "en": "to a different arcade with some family friends",
+      "zh": ""
+    },
+    {
+      "start": 282.93,
+      "duration": 2.46,
+      "text": "and their kids to see if things would be any different.",
+      "en": "and their kids to see if things would be any different.",
+      "zh": ""
+    },
+    {
+      "start": 285.39,
+      "duration": 2.27,
+      "text": "And we did win a few jackpots.",
+      "en": "And we did win a few jackpots.",
+      "zh": ""
+    },
+    {
+      "start": 287.66,
+      "duration": 2.67,
+      "text": "(kids cheering)",
+      "en": "(kids cheering)",
+      "zh": ""
+    },
+    {
+      "start": 291.86,
+      "duration": 1.06,
+      "text": "- Yes!",
+      "en": "- Yes!",
+      "zh": ""
+    },
+    {
+      "start": 292.92,
+      "duration": 2.07,
+      "text": "- But for the most part, once again",
+      "en": "- But for the most part, once again",
+      "zh": ""
+    },
+    {
+      "start": 294.99,
+      "duration": 3.24,
+      "text": "we would alternate missing by one light on either side",
+      "en": "we would alternate missing by one light on either side",
+      "zh": ""
+    },
+    {
+      "start": 298.23,
+      "duration": 3.24,
+      "text": "of the jackpot without making any adjustments to my machine",
+      "en": "of the jackpot without making any adjustments to my machine",
+      "zh": ""
+    },
+    {
+      "start": 301.47,
+      "duration": 3.39,
+      "text": "which as a reminder can repeatedly hit the same mark",
+      "en": "which as a reminder can repeatedly hit the same mark",
+      "zh": ""
+    },
+    {
+      "start": 304.86,
+      "duration": 3.12,
+      "text": "within one 12th of a hummingbird wing flap.",
+      "en": "within one 12th of a hummingbird wing flap.",
+      "zh": ""
+    },
+    {
+      "start": 307.98,
+      "duration": 1.86,
+      "text": "And so at this point, it was pretty clear",
+      "en": "And so at this point, it was pretty clear",
+      "zh": ""
+    },
+    {
+      "start": 309.84,
+      "duration": 2.88,
+      "text": "that these games just randomly hand out rare jackpots.",
+      "en": "that these games just randomly hand out rare jackpots.",
+      "zh": ""
+    },
+    {
+      "start": 312.72,
+      "duration": 2.13,
+      "text": "But just to be sure, I did some digging",
+      "en": "But just to be sure, I did some digging",
+      "zh": ""
+    },
+    {
+      "start": 314.85,
+      "duration": 2.91,
+      "text": "and was able to locate a 25-year-old manual",
+      "en": "and was able to locate a 25-year-old manual",
+      "zh": ""
+    },
+    {
+      "start": 317.76,
+      "duration": 1.92,
+      "text": "for the cyclone arcade game.",
+      "en": "for the cyclone arcade game.",
+      "zh": ""
+    },
+    {
+      "start": 319.68,
+      "duration": 1.95,
+      "text": "And sure enough, if you flipped all the way",
+      "en": "And sure enough, if you flipped all the way",
+      "zh": ""
+    },
+    {
+      "start": 321.63,
+      "duration": 3.36,
+      "text": "to the back to page 31, it states, the machine",
+      "en": "to the back to page 31, it states, the machine",
+      "zh": ""
+    },
+    {
+      "start": 324.99,
+      "duration": 4.09,
+      "text": "owner can specify how often they want a jackpot to be won",
+      "en": "owner can specify how often they want a jackpot to be won",
+      "zh": ""
+    },
+    {
+      "start": 330.9,
+      "duration": 2.52,
+      "text": "which actually makes sense because in our testing, a lot",
+      "en": "which actually makes sense because in our testing, a lot",
+      "zh": ""
+    },
+    {
+      "start": 333.42,
+      "duration": 2.13,
+      "text": "of times we'd hit a jackpot right away and then",
+      "en": "of times we'd hit a jackpot right away and then",
+      "zh": ""
+    },
+    {
+      "start": 335.55,
+      "duration": 2.31,
+      "text": "go through a dry spell until we would finally",
+      "en": "go through a dry spell until we would finally",
+      "zh": ""
+    },
+    {
+      "start": 337.86,
+      "duration": 2.85,
+      "text": "hit a jackpot again, on average, maybe 30 games later.",
+      "en": "hit a jackpot again, on average, maybe 30 games later.",
+      "zh": ""
+    },
+    {
+      "start": 340.71,
+      "duration": 2.22,
+      "text": "And so in conclusion, my issue here isn't that",
+      "en": "And so in conclusion, my issue here isn't that",
+      "zh": ""
+    },
+    {
+      "start": 342.93,
+      "duration": 2.43,
+      "text": "this arcade game makes money for the arcade owner.",
+      "en": "this arcade game makes money for the arcade owner.",
+      "zh": ""
+    },
+    {
+      "start": 345.36,
+      "duration": 2.79,
+      "text": "My issue is this arcade game presents itself",
+      "en": "My issue is this arcade game presents itself",
+      "zh": ""
+    },
+    {
+      "start": 348.15,
+      "duration": 3.45,
+      "text": "as a winnable game of skill when in reality it's",
+      "en": "as a winnable game of skill when in reality it's",
+      "zh": ""
+    },
+    {
+      "start": 351.6,
+      "duration": 3.15,
+      "text": "a random dice roll that is heavily stacked against you.",
+      "en": "a random dice roll that is heavily stacked against you.",
+      "zh": ""
+    },
+    {
+      "start": 354.75,
+      "duration": 1.8,
+      "text": "And if you recall from the carnival scam video",
+      "en": "And if you recall from the carnival scam video",
+      "zh": ""
+    },
+    {
+      "start": 356.55,
+      "duration": 1.8,
+      "text": "the most lucrative games for the carnival owner",
+      "en": "the most lucrative games for the carnival owner",
+      "zh": ""
+    },
+    {
+      "start": 358.35,
+      "duration": 2.43,
+      "text": "are those where people overestimate their chances",
+      "en": "are those where people overestimate their chances",
+      "zh": ""
+    },
+    {
+      "start": 360.78,
+      "duration": 0.83,
+      "text": "of winning.",
+      "en": "of winning.",
+      "zh": ""
+    },
+    {
+      "start": 361.61,
+      "duration": 2.35,
+      "text": "That is exactly what happens in this game, especially when",
+      "en": "That is exactly what happens in this game, especially when",
+      "zh": ""
+    },
+    {
+      "start": 363.96,
+      "duration": 2.43,
+      "text": "you might play a few games and get it to stop one light",
+      "en": "you might play a few games and get it to stop one light",
+      "zh": ""
+    },
+    {
+      "start": 366.39,
+      "duration": 2.67,
+      "text": "short or one light long thinking you are so close",
+      "en": "short or one light long thinking you are so close",
+      "zh": ""
+    },
+    {
+      "start": 369.06,
+      "duration": 2.52,
+      "text": "to getting a jackpot when in reality you weren't close",
+      "en": "to getting a jackpot when in reality you weren't close",
+      "zh": ""
+    },
+    {
+      "start": 371.58,
+      "duration": 0.83,
+      "text": "at all.",
+      "en": "at all.",
+      "zh": ""
+    },
+    {
+      "start": 372.41,
+      "duration": 1.06,
+      "text": "In gambling psychology, this is known",
+      "en": "In gambling psychology, this is known",
+      "zh": ""
+    },
+    {
+      "start": 373.47,
+      "duration": 2.25,
+      "text": "as the near miss effect, and people will spend much",
+      "en": "as the near miss effect, and people will spend much",
+      "zh": ""
+    },
+    {
+      "start": 375.72,
+      "duration": 2.58,
+      "text": "more money to try and win because they think they can just",
+      "en": "more money to try and win because they think they can just",
+      "zh": ""
+    },
+    {
+      "start": 378.3,
+      "duration": 1.14,
+      "text": "do it on the next one.",
+      "en": "do it on the next one.",
+      "zh": ""
+    },
+    {
+      "start": 379.44,
+      "duration": 2.52,
+      "text": "And for that reason, it should come as no surprise",
+      "en": "And for that reason, it should come as no surprise",
+      "zh": ""
+    },
+    {
+      "start": 381.96,
+      "duration": 3.09,
+      "text": "that this scam machine is considered the highest earning",
+      "en": "that this scam machine is considered the highest earning",
+      "zh": ""
+    },
+    {
+      "start": 385.05,
+      "duration": 2.22,
+      "text": "redemption arcade game ever made.",
+      "en": "redemption arcade game ever made.",
+      "zh": ""
+    },
+    {
+      "start": 387.27,
+      "duration": 3.63,
+      "text": "So if I were you, I'd save your tokens for skee ball.",
+      "en": "So if I were you, I'd save your tokens for skee ball.",
+      "zh": ""
+    },
+    {
+      "start": 392.07,
+      "duration": 1.92,
+      "text": "There's a plunger in the backpack",
+      "en": "There's a plunger in the backpack",
+      "zh": ""
+    },
+    {
+      "start": 393.99,
+      "duration": 1.47,
+      "text": "and then it pushes down on the thing.",
+      "en": "and then it pushes down on the thing.",
+      "zh": ""
+    },
+    {
+      "start": 395.46,
+      "duration": 1.48,
+      "text": "Is that cool?",
+      "en": "Is that cool?",
+      "zh": ""
+    },
+    {
+      "start": 396.94,
+      "duration": 1.04,
+      "text": "- So you're basically cheating on--",
+      "en": "- So you're basically cheating on--",
+      "zh": ""
+    },
+    {
+      "start": 397.98,
+      "duration": 2.7,
+      "text": "- Well, I mean cheating's a strong word.",
+      "en": "- Well, I mean cheating's a strong word.",
+      "zh": ""
+    },
+    {
+      "start": 400.68,
+      "duration": 0.83,
+      "text": "- You're cheating!",
+      "en": "- You're cheating!",
+      "zh": ""
+    },
+    {
+      "start": 401.51,
+      "duration": 3.46,
+      "text": "- I'm using an advantage I might have created myself.",
+      "en": "- I'm using an advantage I might have created myself.",
+      "zh": ""
+    },
+    {
+      "start": 405.99,
+      "duration": 1.0,
+      "text": "Thanks for watching.",
+      "en": "Thanks for watching.",
+      "zh": ""
+    },
+    {
+      "start": 408.65,
+      "duration": 3.5,
+      "text": "(bright electronic music)",
+      "en": "(bright electronic music)",
+      "zh": ""
+    }
+  ],
+  "words": []
+}

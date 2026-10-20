@@ -1,0 +1,4345 @@
+{
+  "cues": [
+    {
+      "start": 0.15,
+      "duration": 2.4,
+      "text": "- I cut my finger making lunch, so I placed an order",
+      "en": "- I cut my finger making lunch, so I placed an order",
+      "zh": ""
+    },
+    {
+      "start": 2.55,
+      "duration": 1.53,
+      "text": "for some band-aids a couple minutes ago,",
+      "en": "for some band-aids a couple minutes ago,",
+      "zh": ""
+    },
+    {
+      "start": 4.08,
+      "duration": 2.54,
+      "text": "and now they're four seconds away.",
+      "en": "and now they're four seconds away.",
+      "zh": ""
+    },
+    {
+      "start": 6.62,
+      "duration": 0.96,
+      "text": "(drone whirs)",
+      "en": "(drone whirs)",
+      "zh": ""
+    },
+    {
+      "start": 7.58,
+      "duration": 1.21,
+      "text": "(bag plops on deck)",
+      "en": "(bag plops on deck)",
+      "zh": ""
+    },
+    {
+      "start": 8.79,
+      "duration": 2.3,
+      "text": "That is a nearly silent drone system that can",
+      "en": "That is a nearly silent drone system that can",
+      "zh": ""
+    },
+    {
+      "start": 11.09,
+      "duration": 3.46,
+      "text": "deliver a package from the sky right to my backyard",
+      "en": "deliver a package from the sky right to my backyard",
+      "zh": ""
+    },
+    {
+      "start": 14.55,
+      "duration": 3.63,
+      "text": "in as little as two minutes with dinner plate accuracy.",
+      "en": "in as little as two minutes with dinner plate accuracy.",
+      "zh": ""
+    },
+    {
+      "start": 18.18,
+      "duration": 1.95,
+      "text": "And as far as I am concerned,",
+      "en": "And as far as I am concerned,",
+      "zh": ""
+    },
+    {
+      "start": 20.13,
+      "duration": 2.43,
+      "text": "that's basically teleportation.",
+      "en": "that's basically teleportation.",
+      "zh": ""
+    },
+    {
+      "start": 22.56,
+      "duration": 1.68,
+      "text": "This is the very near future",
+      "en": "This is the very near future",
+      "zh": ""
+    },
+    {
+      "start": 24.24,
+      "duration": 2.82,
+      "text": "of package delivery from a company called Zipline.",
+      "en": "of package delivery from a company called Zipline.",
+      "zh": ""
+    },
+    {
+      "start": 27.06,
+      "duration": 2.1,
+      "text": "It's been over a decade since we were first",
+      "en": "It's been over a decade since we were first",
+      "zh": ""
+    },
+    {
+      "start": 29.16,
+      "duration": 2.01,
+      "text": "promised drone delivery that looked like this.",
+      "en": "promised drone delivery that looked like this.",
+      "zh": ""
+    },
+    {
+      "start": 31.17,
+      "duration": 2.13,
+      "text": "And to be honest, I was never that stoked about it,",
+      "en": "And to be honest, I was never that stoked about it,",
+      "zh": ""
+    },
+    {
+      "start": 33.3,
+      "duration": 1.65,
+      "text": "because I couldn't imagine that anyone",
+      "en": "because I couldn't imagine that anyone",
+      "zh": ""
+    },
+    {
+      "start": 34.95,
+      "duration": 2.43,
+      "text": "would actually want something that big and loud",
+      "en": "would actually want something that big and loud",
+      "zh": ""
+    },
+    {
+      "start": 37.38,
+      "duration": 2.34,
+      "text": "with dangerously fast spinning propellers",
+      "en": "with dangerously fast spinning propellers",
+      "zh": ""
+    },
+    {
+      "start": 39.72,
+      "duration": 1.62,
+      "text": "landing anywhere near their house.",
+      "en": "landing anywhere near their house.",
+      "zh": ""
+    },
+    {
+      "start": 41.34,
+      "duration": 1.74,
+      "text": "And that was a bummer, 'cause with the explosion",
+      "en": "And that was a bummer, 'cause with the explosion",
+      "zh": ""
+    },
+    {
+      "start": 43.08,
+      "duration": 2.25,
+      "text": "of people using Amazon or food delivery apps",
+      "en": "of people using Amazon or food delivery apps",
+      "zh": ""
+    },
+    {
+      "start": 45.33,
+      "duration": 3.3,
+      "text": "like DoorDash or Instacart, billions of doorstep deliveries",
+      "en": "like DoorDash or Instacart, billions of doorstep deliveries",
+      "zh": ""
+    },
+    {
+      "start": 48.63,
+      "duration": 1.59,
+      "text": "are now happening every year.",
+      "en": "are now happening every year.",
+      "zh": ""
+    },
+    {
+      "start": 50.22,
+      "duration": 1.65,
+      "text": "But when your lunch only weighs a few ounces",
+      "en": "But when your lunch only weighs a few ounces",
+      "zh": ""
+    },
+    {
+      "start": 51.87,
+      "duration": 2.01,
+      "text": "driving it to everyone with these two-ton,",
+      "en": "driving it to everyone with these two-ton,",
+      "zh": ""
+    },
+    {
+      "start": 53.88,
+      "duration": 2.49,
+      "text": "gas-powered vehicles is wildly inefficient,",
+      "en": "gas-powered vehicles is wildly inefficient,",
+      "zh": ""
+    },
+    {
+      "start": 56.37,
+      "duration": 2.13,
+      "text": "bad for the whole planet, and not to mention",
+      "en": "bad for the whole planet, and not to mention",
+      "zh": ""
+    },
+    {
+      "start": 58.5,
+      "duration": 1.14,
+      "text": "just really slow.",
+      "en": "just really slow.",
+      "zh": ""
+    },
+    {
+      "start": 59.64,
+      "duration": 1.35,
+      "text": "Drone delivery would not only",
+      "en": "Drone delivery would not only",
+      "zh": ""
+    },
+    {
+      "start": 60.99,
+      "duration": 1.5,
+      "text": "take a lot of cars off the road,",
+      "en": "take a lot of cars off the road,",
+      "zh": ""
+    },
+    {
+      "start": 62.49,
+      "duration": 1.86,
+      "text": "but it would be a lot faster than a car,",
+      "en": "but it would be a lot faster than a car,",
+      "zh": ""
+    },
+    {
+      "start": 64.35,
+      "duration": 2.34,
+      "text": "it would be fully electric, fully autonomous,",
+      "en": "it would be fully electric, fully autonomous,",
+      "zh": ""
+    },
+    {
+      "start": 66.69,
+      "duration": 3.12,
+      "text": "and it would cost pennies worth of energy per delivery.",
+      "en": "and it would cost pennies worth of energy per delivery.",
+      "zh": ""
+    },
+    {
+      "start": 69.81,
+      "duration": 2.73,
+      "text": "And with Zipline, because the droid that lowers the package",
+      "en": "And with Zipline, because the droid that lowers the package",
+      "zh": ""
+    },
+    {
+      "start": 72.54,
+      "duration": 2.37,
+      "text": "can move laterally in any direction, it could make",
+      "en": "can move laterally in any direction, it could make",
+      "zh": ""
+    },
+    {
+      "start": 74.91,
+      "duration": 2.7,
+      "text": "a dartboard-sized precision landing even in high winds,",
+      "en": "a dartboard-sized precision landing even in high winds,",
+      "zh": ""
+    },
+    {
+      "start": 77.61,
+      "duration": 3.42,
+      "text": "while the main drone can stay 400 feet up in the sky,",
+      "en": "while the main drone can stay 400 feet up in the sky,",
+      "zh": ""
+    },
+    {
+      "start": 81.03,
+      "duration": 1.73,
+      "text": "making the whole thing whisper quiet.",
+      "en": "making the whole thing whisper quiet.",
+      "zh": ""
+    },
+    {
+      "start": 82.76,
+      "duration": 1.27,
+      "text": "(drone makes high pitched whistle)",
+      "en": "(drone makes high pitched whistle)",
+      "zh": ""
+    },
+    {
+      "start": 84.03,
+      "duration": 1.98,
+      "text": "That is very quiet.",
+      "en": "That is very quiet.",
+      "zh": ""
+    },
+    {
+      "start": 86.01,
+      "duration": 2.22,
+      "text": "Also due in part to the clever design",
+      "en": "Also due in part to the clever design",
+      "zh": ""
+    },
+    {
+      "start": 88.23,
+      "duration": 1.68,
+      "text": "of these really funky propellers.",
+      "en": "of these really funky propellers.",
+      "zh": ""
+    },
+    {
+      "start": 89.91,
+      "duration": 2.91,
+      "text": "As you all know, I only make about 10 videos a year.",
+      "en": "As you all know, I only make about 10 videos a year.",
+      "zh": ""
+    },
+    {
+      "start": 92.82,
+      "duration": 2.06,
+      "text": "And while most are just sort of ridiculous-",
+      "en": "And while most are just sort of ridiculous-",
+      "zh": ""
+    },
+    {
+      "start": 94.88,
+      "duration": 0.83,
+      "text": "(cannon explodes)",
+      "en": "(cannon explodes)",
+      "zh": ""
+    },
+    {
+      "start": 95.71,
+      "duration": 1.05,
+      "text": "- [Offscreen Speaker] What?!",
+      "en": "- [Offscreen Speaker] What?!",
+      "zh": ""
+    },
+    {
+      "start": 96.76,
+      "duration": 1.0,
+      "text": "(devices explode)",
+      "en": "(devices explode)",
+      "zh": ""
+    },
+    {
+      "start": 97.76,
+      "duration": 0.83,
+      "text": "(horn beeps) (person screams)",
+      "en": "(horn beeps) (person screams)",
+      "zh": ""
+    },
+    {
+      "start": 98.59,
+      "duration": 0.83,
+      "text": "(foam bullet whizzes)",
+      "en": "(foam bullet whizzes)",
+      "zh": ""
+    },
+    {
+      "start": 99.42,
+      "duration": 0.84,
+      "text": "(bell dings)",
+      "en": "(bell dings)",
+      "zh": ""
+    },
+    {
+      "start": 100.26,
+      "duration": 1.38,
+      "text": "I like to dedicate one video to showcase",
+      "en": "I like to dedicate one video to showcase",
+      "zh": ""
+    },
+    {
+      "start": 101.64,
+      "duration": 1.92,
+      "text": "how clever people are using engineering",
+      "en": "how clever people are using engineering",
+      "zh": ""
+    },
+    {
+      "start": 103.56,
+      "duration": 1.53,
+      "text": "to change the world for the better.",
+      "en": "to change the world for the better.",
+      "zh": ""
+    },
+    {
+      "start": 105.09,
+      "duration": 2.37,
+      "text": "And to be clear, the company I'm talking about today",
+      "en": "And to be clear, the company I'm talking about today",
+      "zh": ""
+    },
+    {
+      "start": 107.46,
+      "duration": 2.76,
+      "text": "is not sponsoring this or paying me in any way.",
+      "en": "is not sponsoring this or paying me in any way.",
+      "zh": ""
+    },
+    {
+      "start": 110.22,
+      "duration": 2.18,
+      "text": "I'm just really impressed by the work that they're doing",
+      "en": "I'm just really impressed by the work that they're doing",
+      "zh": ""
+    },
+    {
+      "start": 112.4,
+      "duration": 1.39,
+      "text": "and how they're doing it.",
+      "en": "and how they're doing it.",
+      "zh": ""
+    },
+    {
+      "start": 113.79,
+      "duration": 1.23,
+      "text": "So we'll circle back in a minute",
+      "en": "So we'll circle back in a minute",
+      "zh": ""
+    },
+    {
+      "start": 115.02,
+      "duration": 2.22,
+      "text": "to exactly how they're gonna pull off deliveries",
+      "en": "to exactly how they're gonna pull off deliveries",
+      "zh": ""
+    },
+    {
+      "start": 117.24,
+      "duration": 1.89,
+      "text": "using these short-range drones in a city.",
+      "en": "using these short-range drones in a city.",
+      "zh": ""
+    },
+    {
+      "start": 119.13,
+      "duration": 2.58,
+      "text": "But it begs the question, if they can make it work there,",
+      "en": "But it begs the question, if they can make it work there,",
+      "zh": ""
+    },
+    {
+      "start": 121.71,
+      "duration": 2.41,
+      "text": "why not use gliding drones to cover longer distances",
+      "en": "why not use gliding drones to cover longer distances",
+      "zh": ""
+    },
+    {
+      "start": 124.12,
+      "duration": 2.6,
+      "text": "to deliver critical medical supplies",
+      "en": "to deliver critical medical supplies",
+      "zh": ""
+    },
+    {
+      "start": 126.72,
+      "duration": 2.22,
+      "text": "for countries with lots of remote villages?",
+      "en": "for countries with lots of remote villages?",
+      "zh": ""
+    },
+    {
+      "start": 128.94,
+      "duration": 2.44,
+      "text": "Well, as it turns out, catapulting life-saving blood",
+      "en": "Well, as it turns out, catapulting life-saving blood",
+      "zh": ""
+    },
+    {
+      "start": 131.38,
+      "duration": 2.93,
+      "text": "through the skies is what they've already been doing",
+      "en": "through the skies is what they've already been doing",
+      "zh": ""
+    },
+    {
+      "start": 134.31,
+      "duration": 2.07,
+      "text": "for over six years, which is why we need",
+      "en": "for over six years, which is why we need",
+      "zh": ""
+    },
+    {
+      "start": 136.38,
+      "duration": 3.21,
+      "text": "to head out to Rwanda to understand where this all started.",
+      "en": "to head out to Rwanda to understand where this all started.",
+      "zh": ""
+    },
+    {
+      "start": 139.59,
+      "duration": 1.83,
+      "text": "And immediately after showing up,",
+      "en": "And immediately after showing up,",
+      "zh": ""
+    },
+    {
+      "start": 141.42,
+      "duration": 2.51,
+      "text": "we were right in the thick of it as drones were taking off-",
+      "en": "we were right in the thick of it as drones were taking off-",
+      "zh": ""
+    },
+    {
+      "start": 143.93,
+      "duration": 2.83,
+      "text": "Wow! (laughing)",
+      "en": "Wow! (laughing)",
+      "zh": ""
+    },
+    {
+      "start": 146.76,
+      "duration": 1.05,
+      "text": "And landing-",
+      "en": "And landing-",
+      "zh": ""
+    },
+    {
+      "start": 147.81,
+      "duration": 1.89,
+      "text": "That was another one land!",
+      "en": "That was another one land!",
+      "zh": ""
+    },
+    {
+      "start": 149.7,
+      "duration": 1.27,
+      "text": "Every 90 seconds.",
+      "en": "Every 90 seconds.",
+      "zh": ""
+    },
+    {
+      "start": 150.97,
+      "duration": 1.8,
+      "text": "They're coming from everywhere.",
+      "en": "They're coming from everywhere.",
+      "zh": ""
+    },
+    {
+      "start": 152.77,
+      "duration": 2.99,
+      "text": "And as a newcomer, it felt a bit chaotic.",
+      "en": "And as a newcomer, it felt a bit chaotic.",
+      "zh": ""
+    },
+    {
+      "start": 155.76,
+      "duration": 2.37,
+      "text": "But if you're gonna rack up 40 million miles worth",
+      "en": "But if you're gonna rack up 40 million miles worth",
+      "zh": ""
+    },
+    {
+      "start": 158.13,
+      "duration": 0.85,
+      "text": "of drone flights,",
+      "en": "of drone flights,",
+      "zh": ""
+    },
+    {
+      "start": 158.98,
+      "duration": 1.09,
+      "text": "(launcher zings)",
+      "en": "(launcher zings)",
+      "zh": ""
+    },
+    {
+      "start": 160.07,
+      "duration": 1.59,
+      "text": "your team needs to be operating",
+      "en": "your team needs to be operating",
+      "zh": ""
+    },
+    {
+      "start": 161.66,
+      "duration": 2.5,
+      "text": "with the efficiency of an F1 pit crew.",
+      "en": "with the efficiency of an F1 pit crew.",
+      "zh": ""
+    },
+    {
+      "start": 164.16,
+      "duration": 2.21,
+      "text": "So here's a crash course on how it all works.",
+      "en": "So here's a crash course on how it all works.",
+      "zh": ""
+    },
+    {
+      "start": 166.37,
+      "duration": 1.96,
+      "text": "It all starts with an order coming in",
+      "en": "It all starts with an order coming in",
+      "zh": ""
+    },
+    {
+      "start": 168.33,
+      "duration": 2.31,
+      "text": "from a doctor at a hospital, say for example,",
+      "en": "from a doctor at a hospital, say for example,",
+      "zh": ""
+    },
+    {
+      "start": 170.64,
+      "duration": 1.29,
+      "text": "for an emergency supply of blood.",
+      "en": "for an emergency supply of blood.",
+      "zh": ""
+    },
+    {
+      "start": 171.93,
+      "duration": 2.4,
+      "text": "Then once it's all packed up, it gets passed out",
+      "en": "Then once it's all packed up, it gets passed out",
+      "zh": ""
+    },
+    {
+      "start": 174.33,
+      "duration": 1.77,
+      "text": "to be placed in the belly of the drone,",
+      "en": "to be placed in the belly of the drone,",
+      "zh": ""
+    },
+    {
+      "start": 176.1,
+      "duration": 2.16,
+      "text": "and then the whole thing is placed on the launcher.",
+      "en": "and then the whole thing is placed on the launcher.",
+      "zh": ""
+    },
+    {
+      "start": 178.26,
+      "duration": 1.33,
+      "text": "At that point, they attach the wings",
+      "en": "At that point, they attach the wings",
+      "zh": ""
+    },
+    {
+      "start": 179.59,
+      "duration": 3.26,
+      "text": "and secure the battery, followed by the nose cone.",
+      "en": "and secure the battery, followed by the nose cone.",
+      "zh": ""
+    },
+    {
+      "start": 182.85,
+      "duration": 1.68,
+      "text": "Then after some pre-flight safety checks,",
+      "en": "Then after some pre-flight safety checks,",
+      "zh": ""
+    },
+    {
+      "start": 184.53,
+      "duration": 1.06,
+      "text": "they launch the drone (launcher zings),",
+      "en": "they launch the drone (launcher zings),",
+      "zh": ""
+    },
+    {
+      "start": 185.59,
+      "duration": 4.52,
+      "text": "all within 90 seconds of the order coming in.",
+      "en": "all within 90 seconds of the order coming in.",
+      "zh": ""
+    },
+    {
+      "start": 190.11,
+      "duration": 2.25,
+      "text": "The catapult launcher takes the drone from zero",
+      "en": "The catapult launcher takes the drone from zero",
+      "zh": ""
+    },
+    {
+      "start": 192.36,
+      "duration": 3.66,
+      "text": "to 65 miles an hour in a third of a second",
+      "en": "to 65 miles an hour in a third of a second",
+      "zh": ""
+    },
+    {
+      "start": 196.02,
+      "duration": 3.84,
+      "text": "which is literally less time than it takes you to blink.",
+      "en": "which is literally less time than it takes you to blink.",
+      "zh": ""
+    },
+    {
+      "start": 199.86,
+      "duration": 2.04,
+      "text": "And it's a pretty clever design, too, because it means",
+      "en": "And it's a pretty clever design, too, because it means",
+      "zh": ""
+    },
+    {
+      "start": 201.9,
+      "duration": 2.67,
+      "text": "the drone immediately starts at its cruising speed,",
+      "en": "the drone immediately starts at its cruising speed,",
+      "zh": ""
+    },
+    {
+      "start": 204.57,
+      "duration": 3.0,
+      "text": "where it takes much less energy to stay airborne.",
+      "en": "where it takes much less energy to stay airborne.",
+      "zh": ""
+    },
+    {
+      "start": 207.57,
+      "duration": 2.85,
+      "text": "Then once it's in the air cruising at 70 miles per hour,",
+      "en": "Then once it's in the air cruising at 70 miles per hour,",
+      "zh": ""
+    },
+    {
+      "start": 210.42,
+      "duration": 1.37,
+      "text": "it navigates its way to the hospital,",
+      "en": "it navigates its way to the hospital,",
+      "zh": ""
+    },
+    {
+      "start": 211.79,
+      "duration": 4.03,
+      "text": "and upon arriving, opens the trap door to drop the package,",
+      "en": "and upon arriving, opens the trap door to drop the package,",
+      "zh": ""
+    },
+    {
+      "start": 215.82,
+      "duration": 2.25,
+      "text": "which lands safely using a parachute.",
+      "en": "which lands safely using a parachute.",
+      "zh": ""
+    },
+    {
+      "start": 218.07,
+      "duration": 1.32,
+      "text": "Having now completed the mission",
+      "en": "Having now completed the mission",
+      "zh": ""
+    },
+    {
+      "start": 219.39,
+      "duration": 1.66,
+      "text": "it continues making all its own decisions to",
+      "en": "it continues making all its own decisions to",
+      "zh": ""
+    },
+    {
+      "start": 221.05,
+      "duration": 2.0,
+      "text": "autonomously navigate back home",
+      "en": "autonomously navigate back home",
+      "zh": ""
+    },
+    {
+      "start": 223.05,
+      "duration": 3.12,
+      "text": "from as far away as 150 miles round trip.",
+      "en": "from as far away as 150 miles round trip.",
+      "zh": ""
+    },
+    {
+      "start": 226.17,
+      "duration": 2.07,
+      "text": "Then taking inspiration from an aircraft carrier,",
+      "en": "Then taking inspiration from an aircraft carrier,",
+      "zh": ""
+    },
+    {
+      "start": 228.24,
+      "duration": 2.24,
+      "text": "as the drone approaches, the military-grade GPS",
+      "en": "as the drone approaches, the military-grade GPS",
+      "zh": ""
+    },
+    {
+      "start": 230.48,
+      "duration": 2.95,
+      "text": "broadcasts its position within one centimeter.",
+      "en": "broadcasts its position within one centimeter.",
+      "zh": ""
+    },
+    {
+      "start": 233.43,
+      "duration": 2.61,
+      "text": "So these two poles know exactly when to swing up",
+      "en": "So these two poles know exactly when to swing up",
+      "zh": ""
+    },
+    {
+      "start": 236.04,
+      "duration": 2.67,
+      "text": "at the last possible moment, snagging a hook",
+      "en": "at the last possible moment, snagging a hook",
+      "zh": ""
+    },
+    {
+      "start": 238.71,
+      "duration": 3.53,
+      "text": "on the tail with the cable, which safely slows it down.",
+      "en": "on the tail with the cable, which safely slows it down.",
+      "zh": ""
+    },
+    {
+      "start": 242.24,
+      "duration": 2.2,
+      "text": "Then once it's settled to a stop,",
+      "en": "Then once it's settled to a stop,",
+      "zh": ""
+    },
+    {
+      "start": 244.44,
+      "duration": 2.67,
+      "text": "the crew comes in to remove the battery and wings,",
+      "en": "the crew comes in to remove the battery and wings,",
+      "zh": ""
+    },
+    {
+      "start": 247.11,
+      "duration": 1.71,
+      "text": "and it all goes back into rotation.",
+      "en": "and it all goes back into rotation.",
+      "zh": ""
+    },
+    {
+      "start": 248.82,
+      "duration": 3.51,
+      "text": "The whole thing is really impressive and incredibly robust,",
+      "en": "The whole thing is really impressive and incredibly robust,",
+      "zh": ""
+    },
+    {
+      "start": 252.33,
+      "duration": 2.37,
+      "text": "which means it works in pretty much any weather.",
+      "en": "which means it works in pretty much any weather.",
+      "zh": ""
+    },
+    {
+      "start": 254.7,
+      "duration": 1.41,
+      "text": "And because there's no human steering it,",
+      "en": "And because there's no human steering it,",
+      "zh": ""
+    },
+    {
+      "start": 256.11,
+      "duration": 1.74,
+      "text": "it has no issues flying at night.",
+      "en": "it has no issues flying at night.",
+      "zh": ""
+    },
+    {
+      "start": 257.85,
+      "duration": 2.37,
+      "text": "So they run the operation 24 hours a day,",
+      "en": "So they run the operation 24 hours a day,",
+      "zh": ""
+    },
+    {
+      "start": 260.22,
+      "duration": 1.82,
+      "text": "which is how in six years, they've managed to make",
+      "en": "which is how in six years, they've managed to make",
+      "zh": ""
+    },
+    {
+      "start": 262.04,
+      "duration": 4.18,
+      "text": "those half a million, often lifesaving deliveries.",
+      "en": "those half a million, often lifesaving deliveries.",
+      "zh": ""
+    },
+    {
+      "start": 266.22,
+      "duration": 2.91,
+      "text": "That is the uppermost top of the iceberg tip",
+      "en": "That is the uppermost top of the iceberg tip",
+      "zh": ""
+    },
+    {
+      "start": 269.13,
+      "duration": 1.95,
+      "text": "of how they're doing what they're doing.",
+      "en": "of how they're doing what they're doing.",
+      "zh": ""
+    },
+    {
+      "start": 271.08,
+      "duration": 1.89,
+      "text": "But what you should know is six years ago",
+      "en": "But what you should know is six years ago",
+      "zh": ""
+    },
+    {
+      "start": 272.97,
+      "duration": 2.4,
+      "text": "all the experts told them this was a hopeless cause",
+      "en": "all the experts told them this was a hopeless cause",
+      "zh": ""
+    },
+    {
+      "start": 275.37,
+      "duration": 1.65,
+      "text": "and failure was a near certainty,",
+      "en": "and failure was a near certainty,",
+      "zh": ""
+    },
+    {
+      "start": 277.02,
+      "duration": 1.83,
+      "text": "and they kind of weren't wrong.",
+      "en": "and they kind of weren't wrong.",
+      "zh": ""
+    },
+    {
+      "start": 278.85,
+      "duration": 1.44,
+      "text": "- Building an engineering product take time.",
+      "en": "- Building an engineering product take time.",
+      "zh": ""
+    },
+    {
+      "start": 280.29,
+      "duration": 2.55,
+      "text": "So you prototype, you know, you build it,",
+      "en": "So you prototype, you know, you build it,",
+      "zh": ""
+    },
+    {
+      "start": 282.84,
+      "duration": 1.56,
+      "text": "and then you fail, and then you try it again,",
+      "en": "and then you fail, and then you try it again,",
+      "zh": ""
+    },
+    {
+      "start": 284.4,
+      "duration": 0.83,
+      "text": "and you fail, and you try it again,",
+      "en": "and you fail, and you try it again,",
+      "zh": ""
+    },
+    {
+      "start": 285.23,
+      "duration": 2.26,
+      "text": "until you have this shiny product that you want.",
+      "en": "until you have this shiny product that you want.",
+      "zh": ""
+    },
+    {
+      "start": 287.49,
+      "duration": 2.43,
+      "text": "This is a different type of aircraft.",
+      "en": "This is a different type of aircraft.",
+      "zh": ""
+    },
+    {
+      "start": 289.92,
+      "duration": 1.02,
+      "text": "This is not what we had.",
+      "en": "This is not what we had.",
+      "zh": ""
+    },
+    {
+      "start": 290.94,
+      "duration": 3.33,
+      "text": "The first one used to land on these inflated mattresses.",
+      "en": "The first one used to land on these inflated mattresses.",
+      "zh": ""
+    },
+    {
+      "start": 294.27,
+      "duration": 1.18,
+      "text": "The vehicle had a hook on the back.",
+      "en": "The vehicle had a hook on the back.",
+      "zh": ""
+    },
+    {
+      "start": 295.45,
+      "duration": 0.84,
+      "text": "- [Mark] Yeah.",
+      "en": "- [Mark] Yeah.",
+      "zh": ""
+    },
+    {
+      "start": 296.29,
+      "duration": 0.83,
+      "text": "- By the tail. - Yeah.",
+      "en": "- By the tail. - Yeah.",
+      "zh": ""
+    },
+    {
+      "start": 297.12,
+      "duration": 1.59,
+      "text": "- [Engineer] The tail would deploy like an aircraft carrier.",
+      "en": "- [Engineer] The tail would deploy like an aircraft carrier.",
+      "zh": ""
+    },
+    {
+      "start": 298.71,
+      "duration": 0.92,
+      "text": "- [Mark] Yeah.",
+      "en": "- [Mark] Yeah.",
+      "zh": ""
+    },
+    {
+      "start": 299.63,
+      "duration": 0.84,
+      "text": "- [Engineer] And then the fishing pole would pull it,",
+      "en": "- [Engineer] And then the fishing pole would pull it,",
+      "zh": ""
+    },
+    {
+      "start": 300.47,
+      "duration": 1.51,
+      "text": "and it would land on the mattress.",
+      "en": "and it would land on the mattress.",
+      "zh": ""
+    },
+    {
+      "start": 301.98,
+      "duration": 2.01,
+      "text": "- [Mark] First of all, he's not saying that figuratively.",
+      "en": "- [Mark] First of all, he's not saying that figuratively.",
+      "zh": ""
+    },
+    {
+      "start": 303.99,
+      "duration": 1.92,
+      "text": "They were scrappy in the early days,",
+      "en": "They were scrappy in the early days,",
+      "zh": ""
+    },
+    {
+      "start": 305.91,
+      "duration": 2.79,
+      "text": "using actual fishing poles, as you could see here.",
+      "en": "using actual fishing poles, as you could see here.",
+      "zh": ""
+    },
+    {
+      "start": 308.7,
+      "duration": 1.56,
+      "text": "And secondly, this is Abdul.",
+      "en": "And secondly, this is Abdul.",
+      "zh": ""
+    },
+    {
+      "start": 310.26,
+      "duration": 1.98,
+      "text": "And what you should know about Abdul is he grew up",
+      "en": "And what you should know about Abdul is he grew up",
+      "zh": ""
+    },
+    {
+      "start": 312.24,
+      "duration": 2.97,
+      "text": "in Rwanda, not far from where these drones are launching.",
+      "en": "in Rwanda, not far from where these drones are launching.",
+      "zh": ""
+    },
+    {
+      "start": 315.21,
+      "duration": 1.98,
+      "text": "And while he would eventually go on to do graduate work",
+      "en": "And while he would eventually go on to do graduate work",
+      "zh": ""
+    },
+    {
+      "start": 317.19,
+      "duration": 2.37,
+      "text": "in robotics, attending both Stanford and Harvard,",
+      "en": "in robotics, attending both Stanford and Harvard,",
+      "zh": ""
+    },
+    {
+      "start": 319.56,
+      "duration": 2.51,
+      "text": "he got his start in engineering from much more simple means.",
+      "en": "he got his start in engineering from much more simple means.",
+      "zh": ""
+    },
+    {
+      "start": 322.07,
+      "duration": 4.18,
+      "text": "- I remember that I would make cars from milk boxes",
+      "en": "- I remember that I would make cars from milk boxes",
+      "zh": ""
+    },
+    {
+      "start": 326.25,
+      "duration": 1.2,
+      "text": "that, you know, was leftover.",
+      "en": "that, you know, was leftover.",
+      "zh": ""
+    },
+    {
+      "start": 327.45,
+      "duration": 2.4,
+      "text": "You know, we would add tires then and use it as a car.",
+      "en": "You know, we would add tires then and use it as a car.",
+      "zh": ""
+    },
+    {
+      "start": 329.85,
+      "duration": 2.39,
+      "text": "- Abdul was orphaned as a child when he lost both",
+      "en": "- Abdul was orphaned as a child when he lost both",
+      "zh": ""
+    },
+    {
+      "start": 332.24,
+      "duration": 2.43,
+      "text": "of his parents and all three of his siblings",
+      "en": "of his parents and all three of his siblings",
+      "zh": ""
+    },
+    {
+      "start": 334.67,
+      "duration": 3.58,
+      "text": "in the Rwandan genocide, narrowly escaping himself.",
+      "en": "in the Rwandan genocide, narrowly escaping himself.",
+      "zh": ""
+    },
+    {
+      "start": 338.25,
+      "duration": 2.37,
+      "text": "But he didn't give up on his passion for engineering.",
+      "en": "But he didn't give up on his passion for engineering.",
+      "zh": ""
+    },
+    {
+      "start": 340.62,
+      "duration": 1.65,
+      "text": "And so as he got older, he would go around",
+      "en": "And so as he got older, he would go around",
+      "zh": ""
+    },
+    {
+      "start": 342.27,
+      "duration": 2.79,
+      "text": "to all the local hospitals, fixing their MRI machines",
+      "en": "to all the local hospitals, fixing their MRI machines",
+      "zh": ""
+    },
+    {
+      "start": 345.06,
+      "duration": 1.71,
+      "text": "for free, using knowledge he gained",
+      "en": "for free, using knowledge he gained",
+      "zh": ""
+    },
+    {
+      "start": 346.77,
+      "duration": 1.59,
+      "text": "from watching YouTube videos.",
+      "en": "from watching YouTube videos.",
+      "zh": ""
+    },
+    {
+      "start": 348.36,
+      "duration": 2.58,
+      "text": "Abdul's the very first Zipline employee in Rwanda,",
+      "en": "Abdul's the very first Zipline employee in Rwanda,",
+      "zh": ""
+    },
+    {
+      "start": 350.94,
+      "duration": 1.89,
+      "text": "and he really helped to pioneer so many",
+      "en": "and he really helped to pioneer so many",
+      "zh": ""
+    },
+    {
+      "start": 352.83,
+      "duration": 1.86,
+      "text": "of the systems they have in place today",
+      "en": "of the systems they have in place today",
+      "zh": ""
+    },
+    {
+      "start": 354.69,
+      "duration": 1.65,
+      "text": "that are now used all over the world.",
+      "en": "that are now used all over the world.",
+      "zh": ""
+    },
+    {
+      "start": 356.34,
+      "duration": 2.39,
+      "text": "And so in an effort to test those very systems,",
+      "en": "And so in an effort to test those very systems,",
+      "zh": ""
+    },
+    {
+      "start": 358.73,
+      "duration": 2.17,
+      "text": "I wanted to see if it was robust enough",
+      "en": "I wanted to see if it was robust enough",
+      "zh": ""
+    },
+    {
+      "start": 360.9,
+      "duration": 2.71,
+      "text": "that even a total newb like me could send out an order.",
+      "en": "that even a total newb like me could send out an order.",
+      "zh": ""
+    },
+    {
+      "start": 363.61,
+      "duration": 2.21,
+      "text": "Oh, we got one.",
+      "en": "Oh, we got one.",
+      "zh": ""
+    },
+    {
+      "start": 365.82,
+      "duration": 1.08,
+      "text": "Panic!",
+      "en": "Panic!",
+      "zh": ""
+    },
+    {
+      "start": 366.9,
+      "duration": 0.99,
+      "text": "- (laughs) Don't worry.",
+      "en": "- (laughs) Don't worry.",
+      "zh": ""
+    },
+    {
+      "start": 367.89,
+      "duration": 0.83,
+      "text": "- Don't worry?",
+      "en": "- Don't worry?",
+      "zh": ""
+    },
+    {
+      "start": 368.72,
+      "duration": 0.84,
+      "text": "Okay.",
+      "en": "Okay.",
+      "zh": ""
+    },
+    {
+      "start": 369.56,
+      "duration": 0.83,
+      "text": "Gloves, okay? (blows air into glove)",
+      "en": "Gloves, okay? (blows air into glove)",
+      "zh": ""
+    },
+    {
+      "start": 370.39,
+      "duration": 1.01,
+      "text": "Good enough. (snaps glove)",
+      "en": "Good enough. (snaps glove)",
+      "zh": ""
+    },
+    {
+      "start": 371.4,
+      "duration": 0.83,
+      "text": "This is where the blood is, right?",
+      "en": "This is where the blood is, right?",
+      "zh": ""
+    },
+    {
+      "start": 372.23,
+      "duration": 1.06,
+      "text": "- O positive.",
+      "en": "- O positive.",
+      "zh": ""
+    },
+    {
+      "start": 373.29,
+      "duration": 0.83,
+      "text": "- It's O positive.",
+      "en": "- It's O positive.",
+      "zh": ""
+    },
+    {
+      "start": 374.12,
+      "duration": 0.84,
+      "text": "- [Worker] Yeah.",
+      "en": "- [Worker] Yeah.",
+      "zh": ""
+    },
+    {
+      "start": 374.96,
+      "duration": 1.96,
+      "text": "- I feel like I shouldn't be touching this.",
+      "en": "- I feel like I shouldn't be touching this.",
+      "zh": ""
+    },
+    {
+      "start": 376.92,
+      "duration": 0.83,
+      "text": "Stay calm.",
+      "en": "Stay calm.",
+      "zh": ""
+    },
+    {
+      "start": 377.75,
+      "duration": 1.12,
+      "text": "That's the number one rule.",
+      "en": "That's the number one rule.",
+      "zh": ""
+    },
+    {
+      "start": 378.87,
+      "duration": 0.83,
+      "text": "- Now you scan it.",
+      "en": "- Now you scan it.",
+      "zh": ""
+    },
+    {
+      "start": 379.7,
+      "duration": 0.84,
+      "text": "- Scan it?",
+      "en": "- Scan it?",
+      "zh": ""
+    },
+    {
+      "start": 380.54,
+      "duration": 0.83,
+      "text": "(scanner beeps)",
+      "en": "(scanner beeps)",
+      "zh": ""
+    },
+    {
+      "start": 381.37,
+      "duration": 0.83,
+      "text": "- Do six wraps.",
+      "en": "- Do six wraps.",
+      "zh": ""
+    },
+    {
+      "start": 382.2,
+      "duration": 0.84,
+      "text": "- Like this?",
+      "en": "- Like this?",
+      "zh": ""
+    },
+    {
+      "start": 383.04,
+      "duration": 1.34,
+      "text": "- Two, three, four-",
+      "en": "- Two, three, four-",
+      "zh": ""
+    },
+    {
+      "start": 384.38,
+      "duration": 1.08,
+      "text": "- Five, okay.",
+      "en": "- Five, okay.",
+      "zh": ""
+    },
+    {
+      "start": 386.38,
+      "duration": 3.15,
+      "text": "(rips paper and grunts)",
+      "en": "(rips paper and grunts)",
+      "zh": ""
+    },
+    {
+      "start": 389.53,
+      "duration": 1.86,
+      "text": "(label snaps in the air)",
+      "en": "(label snaps in the air)",
+      "zh": ""
+    },
+    {
+      "start": 391.39,
+      "duration": 0.83,
+      "text": "(Worker chuckles)",
+      "en": "(Worker chuckles)",
+      "zh": ""
+    },
+    {
+      "start": 392.22,
+      "duration": 0.84,
+      "text": "Just out here saving lives.",
+      "en": "Just out here saving lives.",
+      "zh": ""
+    },
+    {
+      "start": 393.06,
+      "duration": 2.34,
+      "text": "And once I ring the bell, (bell dings)",
+      "en": "And once I ring the bell, (bell dings)",
+      "zh": ""
+    },
+    {
+      "start": 395.4,
+      "duration": 2.07,
+      "text": "it's the drone team's problem.",
+      "en": "it's the drone team's problem.",
+      "zh": ""
+    },
+    {
+      "start": 397.47,
+      "duration": 1.95,
+      "text": "Okay, what do I do?",
+      "en": "Okay, what do I do?",
+      "zh": ""
+    },
+    {
+      "start": 399.42,
+      "duration": 1.44,
+      "text": "- Check if there's no tangles.",
+      "en": "- Check if there's no tangles.",
+      "zh": ""
+    },
+    {
+      "start": 400.86,
+      "duration": 0.87,
+      "text": "- [Mark] And push it here?",
+      "en": "- [Mark] And push it here?",
+      "zh": ""
+    },
+    {
+      "start": 401.73,
+      "duration": 0.83,
+      "text": "Out of my way.",
+      "en": "Out of my way.",
+      "zh": ""
+    },
+    {
+      "start": 402.56,
+      "duration": 0.91,
+      "text": "I'm comin' through!",
+      "en": "I'm comin' through!",
+      "zh": ""
+    },
+    {
+      "start": 403.47,
+      "duration": 0.83,
+      "text": "The wings.",
+      "en": "The wings.",
+      "zh": ""
+    },
+    {
+      "start": 404.3,
+      "duration": 0.84,
+      "text": "How's that?",
+      "en": "How's that?",
+      "zh": ""
+    },
+    {
+      "start": 405.14,
+      "duration": 0.83,
+      "text": "Battery?",
+      "en": "Battery?",
+      "zh": ""
+    },
+    {
+      "start": 405.97,
+      "duration": 0.83,
+      "text": "Which one do we pick?",
+      "en": "Which one do we pick?",
+      "zh": ""
+    },
+    {
+      "start": 406.8,
+      "duration": 0.9,
+      "text": "There's so many!",
+      "en": "There's so many!",
+      "zh": ""
+    },
+    {
+      "start": 409.62,
+      "duration": 2.04,
+      "text": "So after a final check of the drone's condition",
+      "en": "So after a final check of the drone's condition",
+      "zh": ""
+    },
+    {
+      "start": 411.66,
+      "duration": 3.29,
+      "text": "little bit of look to the right and cough.",
+      "en": "little bit of look to the right and cough.",
+      "zh": ""
+    },
+    {
+      "start": 414.95,
+      "duration": 1.13,
+      "text": "(instruments beep)",
+      "en": "(instruments beep)",
+      "zh": ""
+    },
+    {
+      "start": 416.08,
+      "duration": 2.67,
+      "text": "(propellers whir)",
+      "en": "(propellers whir)",
+      "zh": ""
+    },
+    {
+      "start": 418.75,
+      "duration": 0.83,
+      "text": "(launcher zings)",
+      "en": "(launcher zings)",
+      "zh": ""
+    },
+    {
+      "start": 419.58,
+      "duration": 0.97,
+      "text": "We had lift off.",
+      "en": "We had lift off.",
+      "zh": ""
+    },
+    {
+      "start": 420.55,
+      "duration": 1.12,
+      "text": "Yeehah!",
+      "en": "Yeehah!",
+      "zh": ""
+    },
+    {
+      "start": 421.67,
+      "duration": 1.46,
+      "text": "I'm a hero.",
+      "en": "I'm a hero.",
+      "zh": ""
+    },
+    {
+      "start": 423.13,
+      "duration": 1.24,
+      "text": "We did it.",
+      "en": "We did it.",
+      "zh": ""
+    },
+    {
+      "start": 424.37,
+      "duration": 3.12,
+      "text": "I just like saved life basically.",
+      "en": "I just like saved life basically.",
+      "zh": ""
+    },
+    {
+      "start": 427.49,
+      "duration": 0.94,
+      "text": "Wow!",
+      "en": "Wow!",
+      "zh": ""
+    },
+    {
+      "start": 429.33,
+      "duration": 2.13,
+      "text": "How do you guys do this all day long?",
+      "en": "How do you guys do this all day long?",
+      "zh": ""
+    },
+    {
+      "start": 431.46,
+      "duration": 2.4,
+      "text": "So now that I had a pretty good feel for the launch site,",
+      "en": "So now that I had a pretty good feel for the launch site,",
+      "zh": ""
+    },
+    {
+      "start": 433.86,
+      "duration": 2.1,
+      "text": "we headed out to see where some of these drones",
+      "en": "we headed out to see where some of these drones",
+      "zh": ""
+    },
+    {
+      "start": 435.96,
+      "duration": 1.47,
+      "text": "were actually flying to.",
+      "en": "were actually flying to.",
+      "zh": ""
+    },
+    {
+      "start": 437.43,
+      "duration": 2.31,
+      "text": "So we left the launch site like three and a half hours ago.",
+      "en": "So we left the launch site like three and a half hours ago.",
+      "zh": ""
+    },
+    {
+      "start": 439.74,
+      "duration": 1.32,
+      "text": "We're driving to this remote hospital",
+      "en": "We're driving to this remote hospital",
+      "zh": ""
+    },
+    {
+      "start": 441.06,
+      "duration": 2.01,
+      "text": "on these really windy roads.",
+      "en": "on these really windy roads.",
+      "zh": ""
+    },
+    {
+      "start": 443.07,
+      "duration": 1.74,
+      "text": "And as we've been driving, we've been tracking",
+      "en": "And as we've been driving, we've been tracking",
+      "zh": ""
+    },
+    {
+      "start": 444.81,
+      "duration": 1.54,
+      "text": "and seeing some of these Zipline drones",
+      "en": "and seeing some of these Zipline drones",
+      "zh": ""
+    },
+    {
+      "start": 446.35,
+      "duration": 3.14,
+      "text": "delivering blood and medical supplies to this hospital.",
+      "en": "delivering blood and medical supplies to this hospital.",
+      "zh": ""
+    },
+    {
+      "start": 449.49,
+      "duration": 1.26,
+      "text": "So since we're about a half hour out",
+      "en": "So since we're about a half hour out",
+      "zh": ""
+    },
+    {
+      "start": 450.75,
+      "duration": 2.55,
+      "text": "I thought it would be fun to place my own emergency order.",
+      "en": "I thought it would be fun to place my own emergency order.",
+      "zh": ""
+    },
+    {
+      "start": 453.3,
+      "duration": 1.56,
+      "text": "Then it could meet us when we get there.",
+      "en": "Then it could meet us when we get there.",
+      "zh": ""
+    },
+    {
+      "start": 454.86,
+      "duration": 3.03,
+      "text": "'Cause when you need extra ointment,",
+      "en": "'Cause when you need extra ointment,",
+      "zh": ""
+    },
+    {
+      "start": 457.89,
+      "duration": 1.38,
+      "text": "you just need extra ointment.",
+      "en": "you just need extra ointment.",
+      "zh": ""
+    },
+    {
+      "start": 459.27,
+      "duration": 2.37,
+      "text": "And sure enough, a few minutes after arriving",
+      "en": "And sure enough, a few minutes after arriving",
+      "zh": ""
+    },
+    {
+      "start": 461.64,
+      "duration": 2.91,
+      "text": "I got a notification for an incoming package.",
+      "en": "I got a notification for an incoming package.",
+      "zh": ""
+    },
+    {
+      "start": 464.55,
+      "duration": 2.67,
+      "text": "This is wild, because we're like four hours away",
+      "en": "This is wild, because we're like four hours away",
+      "zh": ""
+    },
+    {
+      "start": 467.22,
+      "duration": 1.83,
+      "text": "on some really windy roads.",
+      "en": "on some really windy roads.",
+      "zh": ""
+    },
+    {
+      "start": 470.85,
+      "duration": 0.83,
+      "text": "I got it!",
+      "en": "I got it!",
+      "zh": ""
+    },
+    {
+      "start": 474.49,
+      "duration": 2.19,
+      "text": "(laughs) Close.",
+      "en": "(laughs) Close.",
+      "zh": ""
+    },
+    {
+      "start": 476.68,
+      "duration": 1.04,
+      "text": "So close.",
+      "en": "So close.",
+      "zh": ""
+    },
+    {
+      "start": 477.72,
+      "duration": 1.41,
+      "text": "- And so after opening the package",
+      "en": "- And so after opening the package",
+      "zh": ""
+    },
+    {
+      "start": 479.13,
+      "duration": 1.62,
+      "text": "and checking their handiwork,",
+      "en": "and checking their handiwork,",
+      "zh": ""
+    },
+    {
+      "start": 480.75,
+      "duration": 2.91,
+      "text": "I asked if I could speak to a few of the doctors.",
+      "en": "I asked if I could speak to a few of the doctors.",
+      "zh": ""
+    },
+    {
+      "start": 483.66,
+      "duration": 1.8,
+      "text": "When's the last time you delivered a baby",
+      "en": "When's the last time you delivered a baby",
+      "zh": ""
+    },
+    {
+      "start": 485.46,
+      "duration": 2.07,
+      "text": "- In few minutes ago.",
+      "en": "- In few minutes ago.",
+      "zh": ""
+    },
+    {
+      "start": 487.53,
+      "duration": 1.95,
+      "text": "- A few minutes ago? (laughing)",
+      "en": "- A few minutes ago? (laughing)",
+      "zh": ""
+    },
+    {
+      "start": 489.48,
+      "duration": 1.65,
+      "text": "That's pretty fresh.",
+      "en": "That's pretty fresh.",
+      "zh": ""
+    },
+    {
+      "start": 491.13,
+      "duration": 3.33,
+      "text": "- For the doctors, it was like a miracle.",
+      "en": "- For the doctors, it was like a miracle.",
+      "zh": ""
+    },
+    {
+      "start": 494.46,
+      "duration": 3.48,
+      "text": "- With Zipline, we are sure that in 15 to 20 minutes,",
+      "en": "- With Zipline, we are sure that in 15 to 20 minutes,",
+      "zh": ""
+    },
+    {
+      "start": 497.94,
+      "duration": 1.44,
+      "text": "we're going to get what we need.",
+      "en": "we're going to get what we need.",
+      "zh": ""
+    },
+    {
+      "start": 499.38,
+      "duration": 2.46,
+      "text": "And you are sure that patient will be saved.",
+      "en": "And you are sure that patient will be saved.",
+      "zh": ""
+    },
+    {
+      "start": 501.84,
+      "duration": 2.64,
+      "text": "- But it wasn't just the doctors who were big on Zipline.",
+      "en": "- But it wasn't just the doctors who were big on Zipline.",
+      "zh": ""
+    },
+    {
+      "start": 504.48,
+      "duration": 1.38,
+      "text": "I also spoke with a handful",
+      "en": "I also spoke with a handful",
+      "zh": ""
+    },
+    {
+      "start": 505.86,
+      "duration": 1.64,
+      "text": "of patients who for various different reasons",
+      "en": "of patients who for various different reasons",
+      "zh": ""
+    },
+    {
+      "start": 507.5,
+      "duration": 3.55,
+      "text": "are all alive today because of a Zipline delivery.",
+      "en": "are all alive today because of a Zipline delivery.",
+      "zh": ""
+    },
+    {
+      "start": 511.05,
+      "duration": 0.83,
+      "text": "(speaking foreign language)",
+      "en": "(speaking foreign language)",
+      "zh": ""
+    },
+    {
+      "start": 511.88,
+      "duration": 1.81,
+      "text": "- [Translator] Every time when I see the drones around",
+      "en": "- [Translator] Every time when I see the drones around",
+      "zh": ""
+    },
+    {
+      "start": 513.69,
+      "duration": 3.21,
+      "text": "I just think that someone's life is going to be saved.",
+      "en": "I just think that someone's life is going to be saved.",
+      "zh": ""
+    },
+    {
+      "start": 516.9,
+      "duration": 2.49,
+      "text": "- And that's kind of true, 'cause their drones have reduced",
+      "en": "- And that's kind of true, 'cause their drones have reduced",
+      "zh": ""
+    },
+    {
+      "start": 519.39,
+      "duration": 3.54,
+      "text": "in-hospital maternal mortality by 88%.",
+      "en": "in-hospital maternal mortality by 88%.",
+      "zh": ""
+    },
+    {
+      "start": 522.93,
+      "duration": 2.28,
+      "text": "Zipline has two launch sites that give them coverage",
+      "en": "Zipline has two launch sites that give them coverage",
+      "zh": ""
+    },
+    {
+      "start": 525.21,
+      "duration": 2.31,
+      "text": "for pretty much anywhere in Rwanda, but they also",
+      "en": "for pretty much anywhere in Rwanda, but they also",
+      "zh": ""
+    },
+    {
+      "start": 527.52,
+      "duration": 2.13,
+      "text": "have operations running in all of these countries.",
+      "en": "have operations running in all of these countries.",
+      "zh": ""
+    },
+    {
+      "start": 529.65,
+      "duration": 3.18,
+      "text": "And while they serve 3000 hospitals globally today,",
+      "en": "And while they serve 3000 hospitals globally today,",
+      "zh": ""
+    },
+    {
+      "start": 532.83,
+      "duration": 2.67,
+      "text": "that number will be 10,000 by the end of the the year.",
+      "en": "that number will be 10,000 by the end of the the year.",
+      "zh": ""
+    },
+    {
+      "start": 535.5,
+      "duration": 2.28,
+      "text": "All right, so we've covered their long range country",
+      "en": "All right, so we've covered their long range country",
+      "zh": ""
+    },
+    {
+      "start": 537.78,
+      "duration": 1.96,
+      "text": "delivery drones, which means we've now got the context",
+      "en": "delivery drones, which means we've now got the context",
+      "zh": ""
+    },
+    {
+      "start": 539.74,
+      "duration": 3.17,
+      "text": "to talk about their short range city delivery drones.",
+      "en": "to talk about their short range city delivery drones.",
+      "zh": ""
+    },
+    {
+      "start": 542.91,
+      "duration": 2.64,
+      "text": "But first I just have to interject here and say",
+      "en": "But first I just have to interject here and say",
+      "zh": ""
+    },
+    {
+      "start": 545.55,
+      "duration": 3.09,
+      "text": "I was blown away by Rwanda as a country.",
+      "en": "I was blown away by Rwanda as a country.",
+      "zh": ""
+    },
+    {
+      "start": 548.64,
+      "duration": 1.89,
+      "text": "I mean right outta the gate, their stoplights",
+      "en": "I mean right outta the gate, their stoplights",
+      "zh": ""
+    },
+    {
+      "start": 550.53,
+      "duration": 1.76,
+      "text": "are really cool because they're just countdowns",
+      "en": "are really cool because they're just countdowns",
+      "zh": ""
+    },
+    {
+      "start": 552.29,
+      "duration": 1.75,
+      "text": "till the light turns green.",
+      "en": "till the light turns green.",
+      "zh": ""
+    },
+    {
+      "start": 554.04,
+      "duration": 2.79,
+      "text": "They can balance and carry pretty much anything",
+      "en": "They can balance and carry pretty much anything",
+      "zh": ""
+    },
+    {
+      "start": 556.83,
+      "duration": 3.09,
+      "text": "on their heads, and there's motorcycle taxis everywhere.",
+      "en": "on their heads, and there's motorcycle taxis everywhere.",
+      "zh": ""
+    },
+    {
+      "start": 559.92,
+      "duration": 2.88,
+      "text": "And given that when in Rwanda, you do as the Rwandans do",
+      "en": "And given that when in Rwanda, you do as the Rwandans do",
+      "zh": ""
+    },
+    {
+      "start": 562.8,
+      "duration": 2.67,
+      "text": "whenever possible, that's how we got around ourselves.",
+      "en": "whenever possible, that's how we got around ourselves.",
+      "zh": ""
+    },
+    {
+      "start": 565.47,
+      "duration": 1.44,
+      "text": "What a freakin' boost!",
+      "en": "What a freakin' boost!",
+      "zh": ""
+    },
+    {
+      "start": 567.78,
+      "duration": 3.12,
+      "text": "Everyone was also super friendly everywhere we went.",
+      "en": "Everyone was also super friendly everywhere we went.",
+      "zh": ""
+    },
+    {
+      "start": 570.9,
+      "duration": 2.33,
+      "text": "Well, not everyone, because if you stop to play soccer",
+      "en": "Well, not everyone, because if you stop to play soccer",
+      "zh": ""
+    },
+    {
+      "start": 573.23,
+      "duration": 1.66,
+      "text": "with some random kids-",
+      "en": "with some random kids-",
+      "zh": ""
+    },
+    {
+      "start": 574.89,
+      "duration": 1.28,
+      "text": "Am I good, am I good?",
+      "en": "Am I good, am I good?",
+      "zh": ""
+    },
+    {
+      "start": 577.38,
+      "duration": 3.21,
+      "text": "Just know they're not gonna take it easy on you.",
+      "en": "Just know they're not gonna take it easy on you.",
+      "zh": ""
+    },
+    {
+      "start": 580.59,
+      "duration": 0.83,
+      "text": "(kids laugh)",
+      "en": "(kids laugh)",
+      "zh": ""
+    },
+    {
+      "start": 581.42,
+      "duration": 1.81,
+      "text": "Besides the fact that Messi seems to like it,",
+      "en": "Besides the fact that Messi seems to like it,",
+      "zh": ""
+    },
+    {
+      "start": 583.23,
+      "duration": 1.98,
+      "text": "before traveling there, the only real thing",
+      "en": "before traveling there, the only real thing",
+      "zh": ""
+    },
+    {
+      "start": 585.21,
+      "duration": 2.16,
+      "text": "I knew about Rwanda was the Rwandan genocide",
+      "en": "I knew about Rwanda was the Rwandan genocide",
+      "zh": ""
+    },
+    {
+      "start": 587.37,
+      "duration": 2.28,
+      "text": "that took place about 30 years ago.",
+      "en": "that took place about 30 years ago.",
+      "zh": ""
+    },
+    {
+      "start": 589.65,
+      "duration": 2.64,
+      "text": "And while there are still plenty of battle scars,",
+      "en": "And while there are still plenty of battle scars,",
+      "zh": ""
+    },
+    {
+      "start": 592.29,
+      "duration": 3.33,
+      "text": "as horrific as that was, it sort of galvanized the country",
+      "en": "as horrific as that was, it sort of galvanized the country",
+      "zh": ""
+    },
+    {
+      "start": 595.62,
+      "duration": 2.19,
+      "text": "into a period of healing and solidarity",
+      "en": "into a period of healing and solidarity",
+      "zh": ""
+    },
+    {
+      "start": 597.81,
+      "duration": 2.07,
+      "text": "as a single Rwandan people, instead",
+      "en": "as a single Rwandan people, instead",
+      "zh": ""
+    },
+    {
+      "start": 599.88,
+      "duration": 1.5,
+      "text": "of divisive ethnic groups.",
+      "en": "of divisive ethnic groups.",
+      "zh": ""
+    },
+    {
+      "start": 601.38,
+      "duration": 1.74,
+      "text": "For example, on the last Saturday of the month,",
+      "en": "For example, on the last Saturday of the month,",
+      "zh": ""
+    },
+    {
+      "start": 603.12,
+      "duration": 2.39,
+      "text": "literally everyone spends the day picking up trash",
+      "en": "literally everyone spends the day picking up trash",
+      "zh": ""
+    },
+    {
+      "start": 605.51,
+      "duration": 2.32,
+      "text": "and volunteering in their local communities.",
+      "en": "and volunteering in their local communities.",
+      "zh": ""
+    },
+    {
+      "start": 607.83,
+      "duration": 1.02,
+      "text": "And that's one of the reasons",
+      "en": "And that's one of the reasons",
+      "zh": ""
+    },
+    {
+      "start": 608.85,
+      "duration": 1.56,
+      "text": "you hardly see litter anywhere.",
+      "en": "you hardly see litter anywhere.",
+      "zh": ""
+    },
+    {
+      "start": 610.41,
+      "duration": 1.88,
+      "text": "The other one being 15 years ago, they were one",
+      "en": "The other one being 15 years ago, they were one",
+      "zh": ""
+    },
+    {
+      "start": 612.29,
+      "duration": 3.37,
+      "text": "of the first countries to ban all single-use plastics.",
+      "en": "of the first countries to ban all single-use plastics.",
+      "zh": ""
+    },
+    {
+      "start": 615.66,
+      "duration": 2.61,
+      "text": "There was just a pervasive optimism in the air.",
+      "en": "There was just a pervasive optimism in the air.",
+      "zh": ""
+    },
+    {
+      "start": 618.27,
+      "duration": 3.06,
+      "text": "Everyone was moving with the purpose everywhere we went,",
+      "en": "Everyone was moving with the purpose everywhere we went,",
+      "zh": ""
+    },
+    {
+      "start": 621.33,
+      "duration": 2.01,
+      "text": "not just working hard but working smart",
+      "en": "not just working hard but working smart",
+      "zh": ""
+    },
+    {
+      "start": 623.34,
+      "duration": 1.83,
+      "text": "with their resources on hand.",
+      "en": "with their resources on hand.",
+      "zh": ""
+    },
+    {
+      "start": 625.17,
+      "duration": 0.9,
+      "text": "Yeah, buddy!",
+      "en": "Yeah, buddy!",
+      "zh": ""
+    },
+    {
+      "start": 626.07,
+      "duration": 3.0,
+      "text": "Including their improvised soccer balls.",
+      "en": "Including their improvised soccer balls.",
+      "zh": ""
+    },
+    {
+      "start": 629.07,
+      "duration": 2.09,
+      "text": "For over a decade attending school up to age 16",
+      "en": "For over a decade attending school up to age 16",
+      "zh": ""
+    },
+    {
+      "start": 631.16,
+      "duration": 2.83,
+      "text": "has been both mandatory and free.",
+      "en": "has been both mandatory and free.",
+      "zh": ""
+    },
+    {
+      "start": 633.99,
+      "duration": 1.89,
+      "text": "And when you combine that with leapfrogging",
+      "en": "And when you combine that with leapfrogging",
+      "zh": ""
+    },
+    {
+      "start": 635.88,
+      "duration": 2.07,
+      "text": "to new technologies like drone delivery,",
+      "en": "to new technologies like drone delivery,",
+      "zh": ""
+    },
+    {
+      "start": 637.95,
+      "duration": 2.31,
+      "text": "for the last decade their economy has been growing",
+      "en": "for the last decade their economy has been growing",
+      "zh": ""
+    },
+    {
+      "start": 640.26,
+      "duration": 2.55,
+      "text": "at four times the rate of the US economy,",
+      "en": "at four times the rate of the US economy,",
+      "zh": ""
+    },
+    {
+      "start": 642.81,
+      "duration": 1.11,
+      "text": "while their violent crime rate",
+      "en": "while their violent crime rate",
+      "zh": ""
+    },
+    {
+      "start": 643.92,
+      "duration": 2.22,
+      "text": "has been 15 times less than the US.",
+      "en": "has been 15 times less than the US.",
+      "zh": ""
+    },
+    {
+      "start": 646.14,
+      "duration": 2.82,
+      "text": "And finally the most awe-inducing part of the whole trip",
+      "en": "And finally the most awe-inducing part of the whole trip",
+      "zh": ""
+    },
+    {
+      "start": 648.96,
+      "duration": 1.68,
+      "text": "was when I hiked to see an entire family",
+      "en": "was when I hiked to see an entire family",
+      "zh": ""
+    },
+    {
+      "start": 650.64,
+      "duration": 3.12,
+      "text": "of mountain gorillas up close in the wild,",
+      "en": "of mountain gorillas up close in the wild,",
+      "zh": ""
+    },
+    {
+      "start": 653.76,
+      "duration": 2.7,
+      "text": "which was equal parts adorable and terrifying.",
+      "en": "which was equal parts adorable and terrifying.",
+      "zh": ""
+    },
+    {
+      "start": 656.46,
+      "duration": 1.65,
+      "text": "I think he's looking at me.",
+      "en": "I think he's looking at me.",
+      "zh": ""
+    },
+    {
+      "start": 658.11,
+      "duration": 2.84,
+      "text": "Mountain gorillas only exist in these two tiny red regions,",
+      "en": "Mountain gorillas only exist in these two tiny red regions,",
+      "zh": ""
+    },
+    {
+      "start": 660.95,
+      "duration": 2.42,
+      "text": "and while there's only a thousand left in the world",
+      "en": "and while there's only a thousand left in the world",
+      "zh": ""
+    },
+    {
+      "start": 663.37,
+      "duration": 2.3,
+      "text": "I got to just chill with 20 of 'em.",
+      "en": "I got to just chill with 20 of 'em.",
+      "zh": ""
+    },
+    {
+      "start": 665.67,
+      "duration": 1.2,
+      "text": "They're critically endangered.",
+      "en": "They're critically endangered.",
+      "zh": ""
+    },
+    {
+      "start": 666.87,
+      "duration": 2.22,
+      "text": "But thanks to Rwandan conservation efforts,",
+      "en": "But thanks to Rwandan conservation efforts,",
+      "zh": ""
+    },
+    {
+      "start": 669.09,
+      "duration": 2.25,
+      "text": "funded by people paying for brief visits like this,",
+      "en": "funded by people paying for brief visits like this,",
+      "zh": ""
+    },
+    {
+      "start": 671.34,
+      "duration": 3.36,
+      "text": "their numbers have climbed by 200 over the past decade.",
+      "en": "their numbers have climbed by 200 over the past decade.",
+      "zh": ""
+    },
+    {
+      "start": 674.7,
+      "duration": 2.58,
+      "text": "All that's to say that besides of course, my own country,",
+      "en": "All that's to say that besides of course, my own country,",
+      "zh": ""
+    },
+    {
+      "start": 677.28,
+      "duration": 2.31,
+      "text": "Rwanda is my new second-favorite country.",
+      "en": "Rwanda is my new second-favorite country.",
+      "zh": ""
+    },
+    {
+      "start": 679.59,
+      "duration": 0.83,
+      "text": "We got this.",
+      "en": "We got this.",
+      "zh": ""
+    },
+    {
+      "start": 680.42,
+      "duration": 1.75,
+      "text": "And next time I go back, I'm bringing a bunch",
+      "en": "And next time I go back, I'm bringing a bunch",
+      "zh": ""
+    },
+    {
+      "start": 682.17,
+      "duration": 1.2,
+      "text": "of soccer balls-",
+      "en": "of soccer balls-",
+      "zh": ""
+    },
+    {
+      "start": 683.37,
+      "duration": 0.83,
+      "text": "Oh yeah!",
+      "en": "Oh yeah!",
+      "zh": ""
+    },
+    {
+      "start": 684.2,
+      "duration": 1.02,
+      "text": "Which I will give away to any kid",
+      "en": "Which I will give away to any kid",
+      "zh": ""
+    },
+    {
+      "start": 685.22,
+      "duration": 2.34,
+      "text": "who just promises not to embarrass me.",
+      "en": "who just promises not to embarrass me.",
+      "zh": ""
+    },
+    {
+      "start": 687.56,
+      "duration": 1.41,
+      "text": "(animated firebomb explodes)",
+      "en": "(animated firebomb explodes)",
+      "zh": ""
+    },
+    {
+      "start": 688.97,
+      "duration": 2.23,
+      "text": "Okay, so now let's talk a little bit more",
+      "en": "Okay, so now let's talk a little bit more",
+      "zh": ""
+    },
+    {
+      "start": 691.2,
+      "duration": 2.22,
+      "text": "about these new short-range city drones.",
+      "en": "about these new short-range city drones.",
+      "zh": ""
+    },
+    {
+      "start": 693.42,
+      "duration": 2.28,
+      "text": "Because for the 4 billion doorstep deliveries",
+      "en": "Because for the 4 billion doorstep deliveries",
+      "zh": ""
+    },
+    {
+      "start": 695.7,
+      "duration": 1.56,
+      "text": "that will happen this year in the US,",
+      "en": "that will happen this year in the US,",
+      "zh": ""
+    },
+    {
+      "start": 697.26,
+      "duration": 2.52,
+      "text": "and that number doesn't even include Amazon, by the way,",
+      "en": "and that number doesn't even include Amazon, by the way,",
+      "zh": ""
+    },
+    {
+      "start": 699.78,
+      "duration": 1.29,
+      "text": "Why not at least try and take some",
+      "en": "Why not at least try and take some",
+      "zh": ""
+    },
+    {
+      "start": 701.07,
+      "duration": 3.51,
+      "text": "of those slow-moving-traffic-causing, two-ton-gas-guzzling",
+      "en": "of those slow-moving-traffic-causing, two-ton-gas-guzzling",
+      "zh": ""
+    },
+    {
+      "start": 704.58,
+      "duration": 3.09,
+      "text": "cars off the road, in exchange for a much faster delivery",
+      "en": "cars off the road, in exchange for a much faster delivery",
+      "zh": ""
+    },
+    {
+      "start": 707.67,
+      "duration": 2.46,
+      "text": "that's also electric, autonomous, really quiet,",
+      "en": "that's also electric, autonomous, really quiet,",
+      "zh": ""
+    },
+    {
+      "start": 710.13,
+      "duration": 1.07,
+      "text": "and zero emissions.",
+      "en": "and zero emissions.",
+      "zh": ""
+    },
+    {
+      "start": 711.2,
+      "duration": 1.81,
+      "text": "And while the solution of dropping down a droid",
+      "en": "And while the solution of dropping down a droid",
+      "zh": ""
+    },
+    {
+      "start": 713.01,
+      "duration": 1.8,
+      "text": "that could perfectly control its landing",
+      "en": "that could perfectly control its landing",
+      "zh": ""
+    },
+    {
+      "start": 714.81,
+      "duration": 2.37,
+      "text": "from super high up seemed promising and way better",
+      "en": "from super high up seemed promising and way better",
+      "zh": ""
+    },
+    {
+      "start": 717.18,
+      "duration": 1.7,
+      "text": "than something like this that had been proposed before,",
+      "en": "than something like this that had been proposed before,",
+      "zh": ""
+    },
+    {
+      "start": 718.88,
+      "duration": 3.46,
+      "text": "when they first told me about it, I had two main questions.",
+      "en": "when they first told me about it, I had two main questions.",
+      "zh": ""
+    },
+    {
+      "start": 722.34,
+      "duration": 2.19,
+      "text": "One, how loud and disruptive are they?",
+      "en": "One, how loud and disruptive are they?",
+      "zh": ""
+    },
+    {
+      "start": 724.53,
+      "duration": 1.98,
+      "text": "Because the last thing we want are annoying drones",
+      "en": "Because the last thing we want are annoying drones",
+      "zh": ""
+    },
+    {
+      "start": 726.51,
+      "duration": 2.28,
+      "text": "buzzing by our rooftops all day.",
+      "en": "buzzing by our rooftops all day.",
+      "zh": ""
+    },
+    {
+      "start": 728.79,
+      "duration": 1.74,
+      "text": "And two, how safe are they?",
+      "en": "And two, how safe are they?",
+      "zh": ""
+    },
+    {
+      "start": 730.53,
+      "duration": 0.83,
+      "text": "Because the other last thing we want",
+      "en": "Because the other last thing we want",
+      "zh": ""
+    },
+    {
+      "start": 731.36,
+      "duration": 2.83,
+      "text": "is for those same annoying drones to start falling",
+      "en": "is for those same annoying drones to start falling",
+      "zh": ""
+    },
+    {
+      "start": 734.19,
+      "duration": 1.47,
+      "text": "down on us from the sky.",
+      "en": "down on us from the sky.",
+      "zh": ""
+    },
+    {
+      "start": 735.66,
+      "duration": 2.64,
+      "text": "I also had a bonus third question around how a business",
+      "en": "I also had a bonus third question around how a business",
+      "zh": ""
+    },
+    {
+      "start": 738.3,
+      "duration": 2.52,
+      "text": "is even supposed to load in their items for delivery.",
+      "en": "is even supposed to load in their items for delivery.",
+      "zh": ""
+    },
+    {
+      "start": 740.82,
+      "duration": 1.29,
+      "text": "And so in a search for answers,",
+      "en": "And so in a search for answers,",
+      "zh": ""
+    },
+    {
+      "start": 742.11,
+      "duration": 1.13,
+      "text": "I went right to their headquarters",
+      "en": "I went right to their headquarters",
+      "zh": ""
+    },
+    {
+      "start": 743.24,
+      "duration": 2.56,
+      "text": "not that far down the road from where I live.",
+      "en": "not that far down the road from where I live.",
+      "zh": ""
+    },
+    {
+      "start": 745.8,
+      "duration": 1.47,
+      "text": "And the first thing you notice in the lobby",
+      "en": "And the first thing you notice in the lobby",
+      "zh": ""
+    },
+    {
+      "start": 747.27,
+      "duration": 2.31,
+      "text": "is this really cool projection that not only shows",
+      "en": "is this really cool projection that not only shows",
+      "zh": ""
+    },
+    {
+      "start": 749.58,
+      "duration": 1.65,
+      "text": "the total number of flights they've flown,",
+      "en": "the total number of flights they've flown,",
+      "zh": ""
+    },
+    {
+      "start": 751.23,
+      "duration": 1.95,
+      "text": "now at over half million, but it also shows",
+      "en": "now at over half million, but it also shows",
+      "zh": ""
+    },
+    {
+      "start": 753.18,
+      "duration": 1.86,
+      "text": "all the long-range drones they have in the air",
+      "en": "all the long-range drones they have in the air",
+      "zh": ""
+    },
+    {
+      "start": 755.04,
+      "duration": 1.92,
+      "text": "at that exact moment, delivering",
+      "en": "at that exact moment, delivering",
+      "zh": ""
+    },
+    {
+      "start": 756.96,
+      "duration": 2.37,
+      "text": "those critical medical supplies all around the world.",
+      "en": "those critical medical supplies all around the world.",
+      "zh": ""
+    },
+    {
+      "start": 759.33,
+      "duration": 1.43,
+      "text": "And this isn't now just where they design",
+      "en": "And this isn't now just where they design",
+      "zh": ""
+    },
+    {
+      "start": 760.76,
+      "duration": 1.33,
+      "text": "and build all their drones.",
+      "en": "and build all their drones.",
+      "zh": ""
+    },
+    {
+      "start": 762.09,
+      "duration": 2.34,
+      "text": "It's also where they do a lot of their testing.",
+      "en": "It's also where they do a lot of their testing.",
+      "zh": ""
+    },
+    {
+      "start": 764.43,
+      "duration": 3.93,
+      "text": "And they test pretty much everything in every way possible",
+      "en": "And they test pretty much everything in every way possible",
+      "zh": ""
+    },
+    {
+      "start": 768.36,
+      "duration": 3.09,
+      "text": "before getting it out to the field as quickly as possible.",
+      "en": "before getting it out to the field as quickly as possible.",
+      "zh": ""
+    },
+    {
+      "start": 771.45,
+      "duration": 1.5,
+      "text": "And according to their CEO, Keller,",
+      "en": "And according to their CEO, Keller,",
+      "zh": ""
+    },
+    {
+      "start": 772.95,
+      "duration": 1.95,
+      "text": "this is something they discovered early on.",
+      "en": "this is something they discovered early on.",
+      "zh": ""
+    },
+    {
+      "start": 774.9,
+      "duration": 2.61,
+      "text": "- Our key insight was we were dumb,",
+      "en": "- Our key insight was we were dumb,",
+      "zh": ""
+    },
+    {
+      "start": 777.51,
+      "duration": 2.28,
+      "text": "and we basically always assumed we were dumb.",
+      "en": "and we basically always assumed we were dumb.",
+      "zh": ""
+    },
+    {
+      "start": 779.79,
+      "duration": 1.62,
+      "text": "And for that reason, when we designed things,",
+      "en": "And for that reason, when we designed things,",
+      "zh": ""
+    },
+    {
+      "start": 781.41,
+      "duration": 1.7,
+      "text": "we got them into the real world super fast.",
+      "en": "we got them into the real world super fast.",
+      "zh": ""
+    },
+    {
+      "start": 783.11,
+      "duration": 0.83,
+      "text": "- [Mark] Yeah.",
+      "en": "- [Mark] Yeah.",
+      "zh": ""
+    },
+    {
+      "start": 783.94,
+      "duration": 1.7,
+      "text": "- [Keller] And learned by serving real people.",
+      "en": "- [Keller] And learned by serving real people.",
+      "zh": ""
+    },
+    {
+      "start": 785.64,
+      "duration": 0.83,
+      "text": "- [Mark] Yeah.",
+      "en": "- [Mark] Yeah.",
+      "zh": ""
+    },
+    {
+      "start": 786.47,
+      "duration": 1.18,
+      "text": "- And you learn so much",
+      "en": "- And you learn so much",
+      "zh": ""
+    },
+    {
+      "start": 787.65,
+      "duration": 2.4,
+      "text": "that you can't learn in a lab or in an ivory tower.",
+      "en": "that you can't learn in a lab or in an ivory tower.",
+      "zh": ""
+    },
+    {
+      "start": 790.05,
+      "duration": 1.8,
+      "text": "- And so before we actually hear",
+      "en": "- And so before we actually hear",
+      "zh": ""
+    },
+    {
+      "start": 791.85,
+      "duration": 1.8,
+      "text": "just how quiet these things are,",
+      "en": "just how quiet these things are,",
+      "zh": ""
+    },
+    {
+      "start": 793.65,
+      "duration": 2.31,
+      "text": "I just wanna echo that all the best engineers",
+      "en": "I just wanna echo that all the best engineers",
+      "zh": ""
+    },
+    {
+      "start": 795.96,
+      "duration": 2.79,
+      "text": "I've ever known have had that same level of humility,",
+      "en": "I've ever known have had that same level of humility,",
+      "zh": ""
+    },
+    {
+      "start": 798.75,
+      "duration": 1.54,
+      "text": "knowing there's no better way to learn",
+      "en": "knowing there's no better way to learn",
+      "zh": ""
+    },
+    {
+      "start": 800.29,
+      "duration": 2.18,
+      "text": "than to test and to break stuff.",
+      "en": "than to test and to break stuff.",
+      "zh": ""
+    },
+    {
+      "start": 802.47,
+      "duration": 1.32,
+      "text": "That's why I named the toy company I started",
+      "en": "That's why I named the toy company I started",
+      "zh": ""
+    },
+    {
+      "start": 803.79,
+      "duration": 2.28,
+      "text": "that has the express goal of teaching kids",
+      "en": "that has the express goal of teaching kids",
+      "zh": ""
+    },
+    {
+      "start": 806.07,
+      "duration": 2.16,
+      "text": "to think like engineers, CrunchLabs.",
+      "en": "to think like engineers, CrunchLabs.",
+      "zh": ""
+    },
+    {
+      "start": 808.23,
+      "duration": 1.89,
+      "text": "It's because things are supposed to crunch",
+      "en": "It's because things are supposed to crunch",
+      "zh": ""
+    },
+    {
+      "start": 810.12,
+      "duration": 1.89,
+      "text": "and to break and to fail along the way.",
+      "en": "and to break and to fail along the way.",
+      "zh": ""
+    },
+    {
+      "start": 812.01,
+      "duration": 1.8,
+      "text": "And so if I could get them to do more than just",
+      "en": "And so if I could get them to do more than just",
+      "zh": ""
+    },
+    {
+      "start": 813.81,
+      "duration": 3.48,
+      "text": "passively watch a video by building something alongside me",
+      "en": "passively watch a video by building something alongside me",
+      "zh": ""
+    },
+    {
+      "start": 817.29,
+      "duration": 1.9,
+      "text": "while we talk about the physics of what's going on,",
+      "en": "while we talk about the physics of what's going on,",
+      "zh": ""
+    },
+    {
+      "start": 819.19,
+      "duration": 2.67,
+      "text": "then I know the principles will really sink in.",
+      "en": "then I know the principles will really sink in.",
+      "zh": ""
+    },
+    {
+      "start": 821.86,
+      "duration": 0.83,
+      "text": "- Yes.",
+      "en": "- Yes.",
+      "zh": ""
+    },
+    {
+      "start": 822.69,
+      "duration": 1.98,
+      "text": "- So if you wanna have a ton of fun while building up",
+      "en": "- So if you wanna have a ton of fun while building up",
+      "zh": ""
+    },
+    {
+      "start": 824.67,
+      "duration": 2.22,
+      "text": "that resiliency in your brain like a muscle-",
+      "en": "that resiliency in your brain like a muscle-",
+      "zh": ""
+    },
+    {
+      "start": 826.89,
+      "duration": 0.83,
+      "text": "- That works!",
+      "en": "- That works!",
+      "zh": ""
+    },
+    {
+      "start": 827.72,
+      "duration": 1.23,
+      "text": "- [Mark] Just head to CrunchLabs.com",
+      "en": "- [Mark] Just head to CrunchLabs.com",
+      "zh": ""
+    },
+    {
+      "start": 828.95,
+      "duration": 1.54,
+      "text": "or use the link in the video description.",
+      "en": "or use the link in the video description.",
+      "zh": ""
+    },
+    {
+      "start": 830.49,
+      "duration": 2.25,
+      "text": "All right, so to answer my first question",
+      "en": "All right, so to answer my first question",
+      "zh": ""
+    },
+    {
+      "start": 832.74,
+      "duration": 3.3,
+      "text": "on the noise level, I'll just show you my actual reaction",
+      "en": "on the noise level, I'll just show you my actual reaction",
+      "zh": ""
+    },
+    {
+      "start": 836.04,
+      "duration": 1.71,
+      "text": "to the first time I heard it.",
+      "en": "to the first time I heard it.",
+      "zh": ""
+    },
+    {
+      "start": 837.75,
+      "duration": 1.62,
+      "text": "I mean, I hear something.",
+      "en": "I mean, I hear something.",
+      "zh": ""
+    },
+    {
+      "start": 841.32,
+      "duration": 2.34,
+      "text": "But I cannot believe that's airborne!",
+      "en": "But I cannot believe that's airborne!",
+      "zh": ""
+    },
+    {
+      "start": 843.66,
+      "duration": 1.38,
+      "text": "Are you serious?",
+      "en": "Are you serious?",
+      "zh": ""
+    },
+    {
+      "start": 845.04,
+      "duration": 1.83,
+      "text": "And I just wish there was a better way to convey this",
+      "en": "And I just wish there was a better way to convey this",
+      "zh": ""
+    },
+    {
+      "start": 846.87,
+      "duration": 1.95,
+      "text": "on video, but here's my best attempt.",
+      "en": "on video, but here's my best attempt.",
+      "zh": ""
+    },
+    {
+      "start": 848.82,
+      "duration": 1.19,
+      "text": "You'll first hear a leaf blower,",
+      "en": "You'll first hear a leaf blower,",
+      "zh": ""
+    },
+    {
+      "start": 850.01,
+      "duration": 2.46,
+      "text": "then a typical hobby drone that weighs one pound,",
+      "en": "then a typical hobby drone that weighs one pound,",
+      "zh": ""
+    },
+    {
+      "start": 852.47,
+      "duration": 2.62,
+      "text": "then their drone that weighs 50 pounds.",
+      "en": "then their drone that weighs 50 pounds.",
+      "zh": ""
+    },
+    {
+      "start": 855.09,
+      "duration": 1.62,
+      "text": "And of course, I've kept the audio levels",
+      "en": "And of course, I've kept the audio levels",
+      "zh": ""
+    },
+    {
+      "start": 856.71,
+      "duration": 0.83,
+      "text": "completely untouched for all three.",
+      "en": "completely untouched for all three.",
+      "zh": ""
+    },
+    {
+      "start": 857.54,
+      "duration": 2.77,
+      "text": "(leaf blower hums)",
+      "en": "(leaf blower hums)",
+      "zh": ""
+    },
+    {
+      "start": 861.23,
+      "duration": 3.12,
+      "text": "(drone whirs)",
+      "en": "(drone whirs)",
+      "zh": ""
+    },
+    {
+      "start": 864.35,
+      "duration": 1.09,
+      "text": "(drone lightly whistles)",
+      "en": "(drone lightly whistles)",
+      "zh": ""
+    },
+    {
+      "start": 865.44,
+      "duration": 2.16,
+      "text": "That is whisper quiet.",
+      "en": "That is whisper quiet.",
+      "zh": ""
+    },
+    {
+      "start": 867.6,
+      "duration": 1.97,
+      "text": "That is very quiet.",
+      "en": "That is very quiet.",
+      "zh": ""
+    },
+    {
+      "start": 869.57,
+      "duration": 2.08,
+      "text": "(cow moos)",
+      "en": "(cow moos)",
+      "zh": ""
+    },
+    {
+      "start": 871.65,
+      "duration": 5.0,
+      "text": "That cow is way louder (laughing) than that drone.",
+      "en": "That cow is way louder (laughing) than that drone.",
+      "zh": ""
+    },
+    {
+      "start": 876.72,
+      "duration": 2.37,
+      "text": "I bet the mic picked up that cow.",
+      "en": "I bet the mic picked up that cow.",
+      "zh": ""
+    },
+    {
+      "start": 879.09,
+      "duration": 2.34,
+      "text": "And this test was incredibly surprising to me,",
+      "en": "And this test was incredibly surprising to me,",
+      "zh": ""
+    },
+    {
+      "start": 881.43,
+      "duration": 1.8,
+      "text": "because I sort of just assumed the weight",
+      "en": "because I sort of just assumed the weight",
+      "zh": ""
+    },
+    {
+      "start": 883.23,
+      "duration": 3.21,
+      "text": "of a thing would exactly determine how loud the propellers",
+      "en": "of a thing would exactly determine how loud the propellers",
+      "zh": ""
+    },
+    {
+      "start": 886.44,
+      "duration": 2.85,
+      "text": "will end up being to keep that thing in the air.",
+      "en": "will end up being to keep that thing in the air.",
+      "zh": ""
+    },
+    {
+      "start": 889.29,
+      "duration": 1.83,
+      "text": "But it turns out that's not actually true,",
+      "en": "But it turns out that's not actually true,",
+      "zh": ""
+    },
+    {
+      "start": 891.12,
+      "duration": 1.53,
+      "text": "even if you just look at nature.",
+      "en": "even if you just look at nature.",
+      "zh": ""
+    },
+    {
+      "start": 892.65,
+      "duration": 2.11,
+      "text": "Pigeons, for example, sound like this.",
+      "en": "Pigeons, for example, sound like this.",
+      "zh": ""
+    },
+    {
+      "start": 894.76,
+      "duration": 1.4,
+      "text": "(pigeon flaps)",
+      "en": "(pigeon flaps)",
+      "zh": ""
+    },
+    {
+      "start": 896.16,
+      "duration": 2.37,
+      "text": "But with owls, there's an evolutionary pressure",
+      "en": "But with owls, there's an evolutionary pressure",
+      "zh": ""
+    },
+    {
+      "start": 898.53,
+      "duration": 1.47,
+      "text": "to be as quiet as possible.",
+      "en": "to be as quiet as possible.",
+      "zh": ""
+    },
+    {
+      "start": 900.0,
+      "duration": 2.82,
+      "text": "And as a result, their flight sounds like this.",
+      "en": "And as a result, their flight sounds like this.",
+      "zh": ""
+    },
+    {
+      "start": 904.47,
+      "duration": 1.74,
+      "text": "For this reason, to crack the code,",
+      "en": "For this reason, to crack the code,",
+      "zh": ""
+    },
+    {
+      "start": 906.21,
+      "duration": 2.1,
+      "text": "Zipline actually did turn to nature.",
+      "en": "Zipline actually did turn to nature.",
+      "zh": ""
+    },
+    {
+      "start": 908.31,
+      "duration": 1.77,
+      "text": "- We studied the hummingbird a lot where you have-",
+      "en": "- We studied the hummingbird a lot where you have-",
+      "zh": ""
+    },
+    {
+      "start": 910.08,
+      "duration": 0.83,
+      "text": "- Oh sure.",
+      "en": "- Oh sure.",
+      "zh": ""
+    },
+    {
+      "start": 910.91,
+      "duration": 0.84,
+      "text": "- They have the worst case.",
+      "en": "- They have the worst case.",
+      "zh": ""
+    },
+    {
+      "start": 911.75,
+      "duration": 1.03,
+      "text": "They're tiny, and they're really quiet.",
+      "en": "They're tiny, and they're really quiet.",
+      "zh": ""
+    },
+    {
+      "start": 912.78,
+      "duration": 1.56,
+      "text": "They just like hover there.",
+      "en": "They just like hover there.",
+      "zh": ""
+    },
+    {
+      "start": 914.34,
+      "duration": 0.83,
+      "text": "You barely hear them.",
+      "en": "You barely hear them.",
+      "zh": ""
+    },
+    {
+      "start": 915.17,
+      "duration": 0.84,
+      "text": "- By the way, that's Keenan.",
+      "en": "- By the way, that's Keenan.",
+      "zh": ""
+    },
+    {
+      "start": 916.01,
+      "duration": 1.3,
+      "text": "He's another Zipline co-founder.",
+      "en": "He's another Zipline co-founder.",
+      "zh": ""
+    },
+    {
+      "start": 917.31,
+      "duration": 2.82,
+      "text": "And for your robotics nerds, he's the dude who invented ROS,",
+      "en": "And for your robotics nerds, he's the dude who invented ROS,",
+      "zh": ""
+    },
+    {
+      "start": 920.13,
+      "duration": 2.7,
+      "text": "which is the open source software used by basically anyone",
+      "en": "which is the open source software used by basically anyone",
+      "zh": ""
+    },
+    {
+      "start": 922.83,
+      "duration": 1.98,
+      "text": "who wants to build anything robotic.",
+      "en": "who wants to build anything robotic.",
+      "zh": ""
+    },
+    {
+      "start": 924.81,
+      "duration": 1.65,
+      "text": "So in effort to try and visualize the secret",
+      "en": "So in effort to try and visualize the secret",
+      "zh": ""
+    },
+    {
+      "start": 926.46,
+      "duration": 2.67,
+      "text": "of their quiet propellers, in this graph, the area",
+      "en": "of their quiet propellers, in this graph, the area",
+      "zh": ""
+    },
+    {
+      "start": 929.13,
+      "duration": 2.25,
+      "text": "under the curve could represent the energy from one",
+      "en": "under the curve could represent the energy from one",
+      "zh": ""
+    },
+    {
+      "start": 931.38,
+      "duration": 2.43,
+      "text": "of those annoying high-pitched hobby drones,",
+      "en": "of those annoying high-pitched hobby drones,",
+      "zh": ""
+    },
+    {
+      "start": 933.81,
+      "duration": 2.73,
+      "text": "where the closeness of these spikes is the high frequency",
+      "en": "where the closeness of these spikes is the high frequency",
+      "zh": ""
+    },
+    {
+      "start": 936.54,
+      "duration": 1.92,
+      "text": "that's just sort of grating on your ears.",
+      "en": "that's just sort of grating on your ears.",
+      "zh": ""
+    },
+    {
+      "start": 938.46,
+      "duration": 1.92,
+      "text": "So after studying the hummingbird and designing",
+      "en": "So after studying the hummingbird and designing",
+      "zh": ""
+    },
+    {
+      "start": 940.38,
+      "duration": 2.91,
+      "text": "really wild-looking rotors like this, Zipline figured out",
+      "en": "really wild-looking rotors like this, Zipline figured out",
+      "zh": ""
+    },
+    {
+      "start": 943.29,
+      "duration": 2.88,
+      "text": "how to take those spikes and flatten them all out.",
+      "en": "how to take those spikes and flatten them all out.",
+      "zh": ""
+    },
+    {
+      "start": 946.17,
+      "duration": 2.06,
+      "text": "So while the extra weight means there's still more energy,",
+      "en": "So while the extra weight means there's still more energy,",
+      "zh": ""
+    },
+    {
+      "start": 948.23,
+      "duration": 2.92,
+      "text": "or area under the curve, getting rid of all the spikes,",
+      "en": "or area under the curve, getting rid of all the spikes,",
+      "zh": ""
+    },
+    {
+      "start": 951.15,
+      "duration": 2.76,
+      "text": "means it's much more of a constant whooshing sound.",
+      "en": "means it's much more of a constant whooshing sound.",
+      "zh": ""
+    },
+    {
+      "start": 953.91,
+      "duration": 2.07,
+      "text": "More like white noise that your brain just sort",
+      "en": "More like white noise that your brain just sort",
+      "zh": ""
+    },
+    {
+      "start": 955.98,
+      "duration": 1.08,
+      "text": "of doesn't register.",
+      "en": "of doesn't register.",
+      "zh": ""
+    },
+    {
+      "start": 957.06,
+      "duration": 1.52,
+      "text": "They use the same quiet propeller approach",
+      "en": "They use the same quiet propeller approach",
+      "zh": ""
+    },
+    {
+      "start": 958.58,
+      "duration": 2.02,
+      "text": "for their long range drones, as you could tell",
+      "en": "for their long range drones, as you could tell",
+      "zh": ""
+    },
+    {
+      "start": 960.6,
+      "duration": 1.86,
+      "text": "from this doctor with an impeccable taste",
+      "en": "from this doctor with an impeccable taste",
+      "zh": ""
+    },
+    {
+      "start": 962.46,
+      "duration": 2.16,
+      "text": "in YouTube content who just wanted to say hi.",
+      "en": "in YouTube content who just wanted to say hi.",
+      "zh": ""
+    },
+    {
+      "start": 964.62,
+      "duration": 1.88,
+      "text": "You've seen my videos, now you get to be in one.",
+      "en": "You've seen my videos, now you get to be in one.",
+      "zh": ""
+    },
+    {
+      "start": 966.5,
+      "duration": 1.63,
+      "text": "(laughs)",
+      "en": "(laughs)",
+      "zh": ""
+    },
+    {
+      "start": 968.13,
+      "duration": 1.68,
+      "text": "Have you seen the planes fly over",
+      "en": "Have you seen the planes fly over",
+      "zh": ""
+    },
+    {
+      "start": 969.81,
+      "duration": 1.41,
+      "text": "and deliver the supplies here?",
+      "en": "and deliver the supplies here?",
+      "zh": ""
+    },
+    {
+      "start": 971.22,
+      "duration": 4.5,
+      "text": "- I have not yet seen one come and deposit something here.",
+      "en": "- I have not yet seen one come and deposit something here.",
+      "zh": ""
+    },
+    {
+      "start": 975.72,
+      "duration": 0.96,
+      "text": "- That's amazing.",
+      "en": "- That's amazing.",
+      "zh": ""
+    },
+    {
+      "start": 976.68,
+      "duration": 2.54,
+      "text": "There was just 15 deliveries in the last hour",
+      "en": "There was just 15 deliveries in the last hour",
+      "zh": ""
+    },
+    {
+      "start": 979.22,
+      "duration": 1.24,
+      "text": "- They're really quiet.",
+      "en": "- They're really quiet.",
+      "zh": ""
+    },
+    {
+      "start": 980.46,
+      "duration": 2.94,
+      "text": "If I would have heard it, I would have, you know,",
+      "en": "If I would have heard it, I would have, you know,",
+      "zh": ""
+    },
+    {
+      "start": 983.4,
+      "duration": 0.83,
+      "text": "gone to see it.",
+      "en": "gone to see it.",
+      "zh": ""
+    },
+    {
+      "start": 984.23,
+      "duration": 1.54,
+      "text": "- For my second question regarding safety.",
+      "en": "- For my second question regarding safety.",
+      "zh": ""
+    },
+    {
+      "start": 985.77,
+      "duration": 1.83,
+      "text": "Just like when sending something to Mars,",
+      "en": "Just like when sending something to Mars,",
+      "zh": ""
+    },
+    {
+      "start": 987.6,
+      "duration": 2.4,
+      "text": "all their critical systems have backups on board.",
+      "en": "all their critical systems have backups on board.",
+      "zh": ""
+    },
+    {
+      "start": 990.0,
+      "duration": 1.89,
+      "text": "In engineering, we call this redundancy.",
+      "en": "In engineering, we call this redundancy.",
+      "zh": ""
+    },
+    {
+      "start": 991.89,
+      "duration": 1.89,
+      "text": "And they even demonstrated for us how if one propeller",
+      "en": "And they even demonstrated for us how if one propeller",
+      "zh": ""
+    },
+    {
+      "start": 993.78,
+      "duration": 2.67,
+      "text": "stops working, it could still fly, due in part",
+      "en": "stops working, it could still fly, due in part",
+      "zh": ""
+    },
+    {
+      "start": 996.45,
+      "duration": 2.4,
+      "text": "to the large back propeller that picks up the slack.",
+      "en": "to the large back propeller that picks up the slack.",
+      "zh": ""
+    },
+    {
+      "start": 998.85,
+      "duration": 2.19,
+      "text": "And that back propeller is pretty clever, by the way,",
+      "en": "And that back propeller is pretty clever, by the way,",
+      "zh": ""
+    },
+    {
+      "start": 1001.04,
+      "duration": 2.22,
+      "text": "because it's what propels the drone forward as it moves",
+      "en": "because it's what propels the drone forward as it moves",
+      "zh": ""
+    },
+    {
+      "start": 1003.26,
+      "duration": 0.84,
+      "text": "across town.",
+      "en": "across town.",
+      "zh": ""
+    },
+    {
+      "start": 1004.1,
+      "duration": 2.52,
+      "text": "But then it turns down 90 degrees to help steer",
+      "en": "But then it turns down 90 degrees to help steer",
+      "zh": ""
+    },
+    {
+      "start": 1006.62,
+      "duration": 2.79,
+      "text": "and create extra lift while it's stationary and dropping",
+      "en": "and create extra lift while it's stationary and dropping",
+      "zh": ""
+    },
+    {
+      "start": 1009.41,
+      "duration": 0.83,
+      "text": "down the droid.",
+      "en": "down the droid.",
+      "zh": ""
+    },
+    {
+      "start": 1010.24,
+      "duration": 2.92,
+      "text": "In addition to the redundancy, a whole aircraft parachute",
+      "en": "In addition to the redundancy, a whole aircraft parachute",
+      "zh": ""
+    },
+    {
+      "start": 1013.16,
+      "duration": 2.46,
+      "text": "is automatically deployed if there's a problem",
+      "en": "is automatically deployed if there's a problem",
+      "zh": ""
+    },
+    {
+      "start": 1015.62,
+      "duration": 3.06,
+      "text": "that's sensed, or if the drone just loses power altogether.",
+      "en": "that's sensed, or if the drone just loses power altogether.",
+      "zh": ""
+    },
+    {
+      "start": 1018.68,
+      "duration": 1.95,
+      "text": "And because of their painstaking engineering efforts",
+      "en": "And because of their painstaking engineering efforts",
+      "zh": ""
+    },
+    {
+      "start": 1020.63,
+      "duration": 3.45,
+      "text": "it's worth noting, in the six years they've been operating",
+      "en": "it's worth noting, in the six years they've been operating",
+      "zh": ""
+    },
+    {
+      "start": 1024.08,
+      "duration": 2.52,
+      "text": "for those half a million flights, they've had exactly",
+      "en": "for those half a million flights, they've had exactly",
+      "zh": ""
+    },
+    {
+      "start": 1026.6,
+      "duration": 2.28,
+      "text": "zero incidents causing any injury.",
+      "en": "zero incidents causing any injury.",
+      "zh": ""
+    },
+    {
+      "start": 1028.88,
+      "duration": 1.19,
+      "text": "As for my third bonus question",
+      "en": "As for my third bonus question",
+      "zh": ""
+    },
+    {
+      "start": 1030.07,
+      "duration": 1.58,
+      "text": "around how the drones get loaded up,",
+      "en": "around how the drones get loaded up,",
+      "zh": ""
+    },
+    {
+      "start": 1031.65,
+      "duration": 2.13,
+      "text": "in the most simple case, something like a grocery store",
+      "en": "in the most simple case, something like a grocery store",
+      "zh": ""
+    },
+    {
+      "start": 1033.78,
+      "duration": 2.87,
+      "text": "could reserve some parking spots as a loading zone.",
+      "en": "could reserve some parking spots as a loading zone.",
+      "zh": ""
+    },
+    {
+      "start": 1036.65,
+      "duration": 1.67,
+      "text": "Or as one of the Zipline engineers told me-",
+      "en": "Or as one of the Zipline engineers told me-",
+      "zh": ""
+    },
+    {
+      "start": 1038.32,
+      "duration": 1.92,
+      "text": "- You can take a window from your local pharmacy",
+      "en": "- You can take a window from your local pharmacy",
+      "zh": ""
+    },
+    {
+      "start": 1040.24,
+      "duration": 2.14,
+      "text": "and turn it into this portal.",
+      "en": "and turn it into this portal.",
+      "zh": ""
+    },
+    {
+      "start": 1042.38,
+      "duration": 1.8,
+      "text": "- So the droid would come down the chute,",
+      "en": "- So the droid would come down the chute,",
+      "zh": ""
+    },
+    {
+      "start": 1044.18,
+      "duration": 2.9,
+      "text": "then some ASAP items like these would get loaded inside,",
+      "en": "then some ASAP items like these would get loaded inside,",
+      "zh": ""
+    },
+    {
+      "start": 1047.08,
+      "duration": 2.47,
+      "text": "then it goes back up the chute, into the drone,",
+      "en": "then it goes back up the chute, into the drone,",
+      "zh": ""
+    },
+    {
+      "start": 1049.55,
+      "duration": 1.47,
+      "text": "and off for delivery.",
+      "en": "and off for delivery.",
+      "zh": ""
+    },
+    {
+      "start": 1051.02,
+      "duration": 1.32,
+      "text": "For healthcare, if you were really sick,",
+      "en": "For healthcare, if you were really sick,",
+      "zh": ""
+    },
+    {
+      "start": 1052.34,
+      "duration": 2.67,
+      "text": "and say, on a 15-minute video call with your doctor,",
+      "en": "and say, on a 15-minute video call with your doctor,",
+      "zh": ""
+    },
+    {
+      "start": 1055.01,
+      "duration": 2.94,
+      "text": "by the time the call was ending, your medications could be",
+      "en": "by the time the call was ending, your medications could be",
+      "zh": ""
+    },
+    {
+      "start": 1057.95,
+      "duration": 2.55,
+      "text": "on your back porch, so you don't have to leave your house.",
+      "en": "on your back porch, so you don't have to leave your house.",
+      "zh": ""
+    },
+    {
+      "start": 1060.5,
+      "duration": 1.31,
+      "text": "You could also imagine how this could work",
+      "en": "You could also imagine how this could work",
+      "zh": ""
+    },
+    {
+      "start": 1061.81,
+      "duration": 2.95,
+      "text": "with a distribution center or a large retail store.",
+      "en": "with a distribution center or a large retail store.",
+      "zh": ""
+    },
+    {
+      "start": 1064.76,
+      "duration": 1.8,
+      "text": "More than 90% of people in the US",
+      "en": "More than 90% of people in the US",
+      "zh": ""
+    },
+    {
+      "start": 1066.56,
+      "duration": 2.33,
+      "text": "live within 10 miles of a large retail store,",
+      "en": "live within 10 miles of a large retail store,",
+      "zh": ""
+    },
+    {
+      "start": 1068.89,
+      "duration": 2.33,
+      "text": "and Zipline drones conveniently can make",
+      "en": "and Zipline drones conveniently can make",
+      "zh": ""
+    },
+    {
+      "start": 1071.22,
+      "duration": 2.81,
+      "text": "a 10-mile round trip while carrying up to eight pounds.",
+      "en": "a 10-mile round trip while carrying up to eight pounds.",
+      "zh": ""
+    },
+    {
+      "start": 1074.03,
+      "duration": 1.44,
+      "text": "An additional win for the planet here",
+      "en": "An additional win for the planet here",
+      "zh": ""
+    },
+    {
+      "start": 1075.47,
+      "duration": 2.55,
+      "text": "is you don't need to use all the cardboard to box it up,",
+      "en": "is you don't need to use all the cardboard to box it up,",
+      "zh": ""
+    },
+    {
+      "start": 1078.02,
+      "duration": 1.14,
+      "text": "because it doesn't have to survive",
+      "en": "because it doesn't have to survive",
+      "zh": ""
+    },
+    {
+      "start": 1079.16,
+      "duration": 2.19,
+      "text": "being shipped out on a big truck.",
+      "en": "being shipped out on a big truck.",
+      "zh": ""
+    },
+    {
+      "start": 1081.35,
+      "duration": 1.18,
+      "text": "But this isn't just for big stores.",
+      "en": "But this isn't just for big stores.",
+      "zh": ""
+    },
+    {
+      "start": 1082.53,
+      "duration": 2.84,
+      "text": "Your favorite local shop or restaurant can now",
+      "en": "Your favorite local shop or restaurant can now",
+      "zh": ""
+    },
+    {
+      "start": 1085.37,
+      "duration": 2.61,
+      "text": "more easily afford to send a thing to your door",
+      "en": "more easily afford to send a thing to your door",
+      "zh": ""
+    },
+    {
+      "start": 1087.98,
+      "duration": 1.68,
+      "text": "but at an ostensibly much lower cost",
+      "en": "but at an ostensibly much lower cost",
+      "zh": ""
+    },
+    {
+      "start": 1089.66,
+      "duration": 3.78,
+      "text": "than a person driving a 3000 pound car to drop it off.",
+      "en": "than a person driving a 3000 pound car to drop it off.",
+      "zh": ""
+    },
+    {
+      "start": 1093.44,
+      "duration": 1.5,
+      "text": "And as soon as by the end of this year,",
+      "en": "And as soon as by the end of this year,",
+      "zh": ""
+    },
+    {
+      "start": 1094.94,
+      "duration": 3.15,
+      "text": "customers such as Sweetgreen will start delivering salads",
+      "en": "customers such as Sweetgreen will start delivering salads",
+      "zh": ""
+    },
+    {
+      "start": 1098.09,
+      "duration": 1.09,
+      "text": "straight to your backyard.",
+      "en": "straight to your backyard.",
+      "zh": ""
+    },
+    {
+      "start": 1099.18,
+      "duration": 1.87,
+      "text": "And not having packages left on front porches",
+      "en": "And not having packages left on front porches",
+      "zh": ""
+    },
+    {
+      "start": 1101.05,
+      "duration": 2.25,
+      "text": "is the worst news to hit the porch pirate community",
+      "en": "is the worst news to hit the porch pirate community",
+      "zh": ""
+    },
+    {
+      "start": 1103.3,
+      "duration": 2.41,
+      "text": "since the invention of the glitter bomb.",
+      "en": "since the invention of the glitter bomb.",
+      "zh": ""
+    },
+    {
+      "start": 1105.71,
+      "duration": 1.39,
+      "text": "- Aww, you (bleep).",
+      "en": "- Aww, you (bleep).",
+      "zh": ""
+    },
+    {
+      "start": 1107.1,
+      "duration": 2.46,
+      "text": "(device sprays)",
+      "en": "(device sprays)",
+      "zh": ""
+    },
+    {
+      "start": 1109.56,
+      "duration": 1.37,
+      "text": "- Alright, all right, we (bleep) get it.",
+      "en": "- Alright, all right, we (bleep) get it.",
+      "zh": ""
+    },
+    {
+      "start": 1110.93,
+      "duration": 0.83,
+      "text": "Okay.",
+      "en": "Okay.",
+      "zh": ""
+    },
+    {
+      "start": 1111.76,
+      "duration": 0.84,
+      "text": "- All right.",
+      "en": "- All right.",
+      "zh": ""
+    },
+    {
+      "start": 1112.6,
+      "duration": 1.24,
+      "text": "So if your mind isn't already blown",
+      "en": "So if your mind isn't already blown",
+      "zh": ""
+    },
+    {
+      "start": 1113.84,
+      "duration": 2.64,
+      "text": "let me try one final time by planting a seed",
+      "en": "let me try one final time by planting a seed",
+      "zh": ""
+    },
+    {
+      "start": 1116.48,
+      "duration": 2.7,
+      "text": "for something we might see much further in the future.",
+      "en": "for something we might see much further in the future.",
+      "zh": ""
+    },
+    {
+      "start": 1119.18,
+      "duration": 2.52,
+      "text": "And to be clear, this is not at all from Zipline.",
+      "en": "And to be clear, this is not at all from Zipline.",
+      "zh": ""
+    },
+    {
+      "start": 1121.7,
+      "duration": 2.13,
+      "text": "It's just an idea that won't leave my head",
+      "en": "It's just an idea that won't leave my head",
+      "zh": ""
+    },
+    {
+      "start": 1123.83,
+      "duration": 1.32,
+      "text": "after seeing all this.",
+      "en": "after seeing all this.",
+      "zh": ""
+    },
+    {
+      "start": 1125.15,
+      "duration": 1.38,
+      "text": "Because it stands to reason,",
+      "en": "Because it stands to reason,",
+      "zh": ""
+    },
+    {
+      "start": 1126.53,
+      "duration": 2.31,
+      "text": "if the system can work for packages,",
+      "en": "if the system can work for packages,",
+      "zh": ""
+    },
+    {
+      "start": 1128.84,
+      "duration": 2.64,
+      "text": "it should be able to work for humans, right?",
+      "en": "it should be able to work for humans, right?",
+      "zh": ""
+    },
+    {
+      "start": 1131.48,
+      "duration": 2.04,
+      "text": "In other words, imagine a bigger drone.",
+      "en": "In other words, imagine a bigger drone.",
+      "zh": ""
+    },
+    {
+      "start": 1133.52,
+      "duration": 1.98,
+      "text": "Let's say it's an ambulance, with more powerful",
+      "en": "Let's say it's an ambulance, with more powerful",
+      "zh": ""
+    },
+    {
+      "start": 1135.5,
+      "duration": 3.57,
+      "text": "but equally quiet propellers, parked so high up in the sky,",
+      "en": "but equally quiet propellers, parked so high up in the sky,",
+      "zh": ""
+    },
+    {
+      "start": 1139.07,
+      "duration": 1.17,
+      "text": "you can hardly see it.",
+      "en": "you can hardly see it.",
+      "zh": ""
+    },
+    {
+      "start": 1140.24,
+      "duration": 2.76,
+      "text": "Then it lowers the entire cockpit like the droid,",
+      "en": "Then it lowers the entire cockpit like the droid,",
+      "zh": ""
+    },
+    {
+      "start": 1143.0,
+      "duration": 2.58,
+      "text": "which could quietly touch down in your driveway.",
+      "en": "which could quietly touch down in your driveway.",
+      "zh": ""
+    },
+    {
+      "start": 1145.58,
+      "duration": 2.67,
+      "text": "So you hop in, or they put you in on the ground,",
+      "en": "So you hop in, or they put you in on the ground,",
+      "zh": ""
+    },
+    {
+      "start": 1148.25,
+      "duration": 3.15,
+      "text": "then it reels you in, so you can glide above roads",
+      "en": "then it reels you in, so you can glide above roads",
+      "zh": ""
+    },
+    {
+      "start": 1151.4,
+      "duration": 2.37,
+      "text": "and traffic straight to your destination,",
+      "en": "and traffic straight to your destination,",
+      "zh": ""
+    },
+    {
+      "start": 1153.77,
+      "duration": 2.76,
+      "text": "only to be dropped off safely in the same manner.",
+      "en": "only to be dropped off safely in the same manner.",
+      "zh": ""
+    },
+    {
+      "start": 1156.53,
+      "duration": 1.83,
+      "text": "All right, so finally, I just wanna wrap up",
+      "en": "All right, so finally, I just wanna wrap up",
+      "zh": ""
+    },
+    {
+      "start": 1158.36,
+      "duration": 3.06,
+      "text": "with the coolest part of all of this by far.",
+      "en": "with the coolest part of all of this by far.",
+      "zh": ""
+    },
+    {
+      "start": 1161.42,
+      "duration": 2.19,
+      "text": "The whole time we were there, kids would be lined up",
+      "en": "The whole time we were there, kids would be lined up",
+      "zh": ""
+    },
+    {
+      "start": 1163.61,
+      "duration": 1.62,
+      "text": "at the fence to watch the drones",
+      "en": "at the fence to watch the drones",
+      "zh": ""
+    },
+    {
+      "start": 1165.23,
+      "duration": 2.58,
+      "text": "be launched and captured over and over.",
+      "en": "be launched and captured over and over.",
+      "zh": ""
+    },
+    {
+      "start": 1167.81,
+      "duration": 3.6,
+      "text": "In fact, one kid came up specifically wanting to show Abdul",
+      "en": "In fact, one kid came up specifically wanting to show Abdul",
+      "zh": ""
+    },
+    {
+      "start": 1171.41,
+      "duration": 2.04,
+      "text": "what he built completely on his own.",
+      "en": "what he built completely on his own.",
+      "zh": ""
+    },
+    {
+      "start": 1173.45,
+      "duration": 2.97,
+      "text": "And in that moment, it was impossible not to compare",
+      "en": "And in that moment, it was impossible not to compare",
+      "zh": ""
+    },
+    {
+      "start": 1176.42,
+      "duration": 1.74,
+      "text": "the complexity of this build",
+      "en": "the complexity of this build",
+      "zh": ""
+    },
+    {
+      "start": 1178.16,
+      "duration": 3.42,
+      "text": "to the simple milk carton version Abdul grew up making.",
+      "en": "to the simple milk carton version Abdul grew up making.",
+      "zh": ""
+    },
+    {
+      "start": 1181.58,
+      "duration": 3.6,
+      "text": "Because here you have Abdul who bears a scar on his head",
+      "en": "Because here you have Abdul who bears a scar on his head",
+      "zh": ""
+    },
+    {
+      "start": 1185.18,
+      "duration": 3.06,
+      "text": "from the same machete that killed his entire family",
+      "en": "from the same machete that killed his entire family",
+      "zh": ""
+    },
+    {
+      "start": 1188.24,
+      "duration": 3.09,
+      "text": "as a child, not only using his engineering knowledge",
+      "en": "as a child, not only using his engineering knowledge",
+      "zh": ""
+    },
+    {
+      "start": 1191.33,
+      "duration": 3.09,
+      "text": "to save the lives of his people, but more importantly,",
+      "en": "to save the lives of his people, but more importantly,",
+      "zh": ""
+    },
+    {
+      "start": 1194.42,
+      "duration": 2.65,
+      "text": "to inspire the next generation of problem solvers",
+      "en": "to inspire the next generation of problem solvers",
+      "zh": ""
+    },
+    {
+      "start": 1197.07,
+      "duration": 1.79,
+      "text": "to dream even bigger.",
+      "en": "to dream even bigger.",
+      "zh": ""
+    },
+    {
+      "start": 1198.86,
+      "duration": 1.79,
+      "text": "It's the type of thing that leaves you feeling",
+      "en": "It's the type of thing that leaves you feeling",
+      "zh": ""
+    },
+    {
+      "start": 1200.65,
+      "duration": 2.92,
+      "text": "a little bit of that contagious Rwandan optimism",
+      "en": "a little bit of that contagious Rwandan optimism",
+      "zh": ""
+    },
+    {
+      "start": 1203.57,
+      "duration": 2.51,
+      "text": "for the future and the incredible potential",
+      "en": "for the future and the incredible potential",
+      "zh": ""
+    },
+    {
+      "start": 1206.08,
+      "duration": 1.75,
+      "text": "of us mere humans.",
+      "en": "of us mere humans.",
+      "zh": ""
+    },
+    {
+      "start": 1211.46,
+      "duration": 2.21,
+      "text": "In the future, your CrunchLabs box",
+      "en": "In the future, your CrunchLabs box",
+      "zh": ""
+    },
+    {
+      "start": 1213.67,
+      "duration": 3.1,
+      "text": "just might come from the sky.",
+      "en": "just might come from the sky.",
+      "zh": ""
+    },
+    {
+      "start": 1216.77,
+      "duration": 1.35,
+      "text": "And the best part of Abdul's story",
+      "en": "And the best part of Abdul's story",
+      "zh": ""
+    },
+    {
+      "start": 1218.12,
+      "duration": 2.22,
+      "text": "is how using the superpower of engineering,",
+      "en": "is how using the superpower of engineering,",
+      "zh": ""
+    },
+    {
+      "start": 1220.34,
+      "duration": 2.37,
+      "text": "they literally willed something into existence",
+      "en": "they literally willed something into existence",
+      "zh": ""
+    },
+    {
+      "start": 1222.71,
+      "duration": 1.33,
+      "text": "that is now saving lives.",
+      "en": "that is now saving lives.",
+      "zh": ""
+    },
+    {
+      "start": 1224.04,
+      "duration": 1.54,
+      "text": "(cable zips)",
+      "en": "(cable zips)",
+      "zh": ""
+    },
+    {
+      "start": 1225.58,
+      "duration": 0.83,
+      "text": "(Mark hits the floor)",
+      "en": "(Mark hits the floor)",
+      "zh": ""
+    },
+    {
+      "start": 1226.41,
+      "duration": 2.78,
+      "text": "And as it says on the box, my goal with CrunchLabs",
+      "en": "And as it says on the box, my goal with CrunchLabs",
+      "zh": ""
+    },
+    {
+      "start": 1229.19,
+      "duration": 2.52,
+      "text": "is to help you think like an engineer.",
+      "en": "is to help you think like an engineer.",
+      "zh": ""
+    },
+    {
+      "start": 1231.71,
+      "duration": 1.89,
+      "text": "That means you know how to think critically",
+      "en": "That means you know how to think critically",
+      "zh": ""
+    },
+    {
+      "start": 1233.6,
+      "duration": 2.58,
+      "text": "and break a problem down into manageable steps.",
+      "en": "and break a problem down into manageable steps.",
+      "zh": ""
+    },
+    {
+      "start": 1236.18,
+      "duration": 2.76,
+      "text": "Thinking like an engineer makes you a better soccer player",
+      "en": "Thinking like an engineer makes you a better soccer player",
+      "zh": ""
+    },
+    {
+      "start": 1238.94,
+      "duration": 2.52,
+      "text": "or piano practicer or math studier,",
+      "en": "or piano practicer or math studier,",
+      "zh": ""
+    },
+    {
+      "start": 1241.46,
+      "duration": 1.11,
+      "text": "because you're resilient.",
+      "en": "because you're resilient.",
+      "zh": ""
+    },
+    {
+      "start": 1242.57,
+      "duration": 2.07,
+      "text": "And just like Abdul, you know the importance",
+      "en": "And just like Abdul, you know the importance",
+      "zh": ""
+    },
+    {
+      "start": 1244.64,
+      "duration": 2.1,
+      "text": "of failing a bunch before you finally hit that breakthrough.",
+      "en": "of failing a bunch before you finally hit that breakthrough.",
+      "zh": ""
+    },
+    {
+      "start": 1246.74,
+      "duration": 1.35,
+      "text": "(goo explodes)",
+      "en": "(goo explodes)",
+      "zh": ""
+    },
+    {
+      "start": 1248.09,
+      "duration": 0.93,
+      "text": "(kids yell)",
+      "en": "(kids yell)",
+      "zh": ""
+    },
+    {
+      "start": 1249.02,
+      "duration": 1.59,
+      "text": "So the way it works is every month,",
+      "en": "So the way it works is every month,",
+      "zh": ""
+    },
+    {
+      "start": 1250.61,
+      "duration": 2.58,
+      "text": "a really fun toy comes in a box like this.",
+      "en": "a really fun toy comes in a box like this.",
+      "zh": ""
+    },
+    {
+      "start": 1253.19,
+      "duration": 2.01,
+      "text": "And when you open it, there's a link to a video",
+      "en": "And when you open it, there's a link to a video",
+      "zh": ""
+    },
+    {
+      "start": 1255.2,
+      "duration": 2.52,
+      "text": "where you not only build it alongside me, but I teach you",
+      "en": "where you not only build it alongside me, but I teach you",
+      "zh": ""
+    },
+    {
+      "start": 1257.72,
+      "duration": 3.27,
+      "text": "all the juicy physics principles behind how the toy works.",
+      "en": "all the juicy physics principles behind how the toy works.",
+      "zh": ""
+    },
+    {
+      "start": 1260.99,
+      "duration": 1.56,
+      "text": "And the best part of all is each month,",
+      "en": "And the best part of all is each month,",
+      "zh": ""
+    },
+    {
+      "start": 1262.55,
+      "duration": 2.85,
+      "text": "we randomly select one box to slip in a platinum ticket.",
+      "en": "we randomly select one box to slip in a platinum ticket.",
+      "zh": ""
+    },
+    {
+      "start": 1265.4,
+      "duration": 1.38,
+      "text": "And if it happens to be your box-",
+      "en": "And if it happens to be your box-",
+      "zh": ""
+    },
+    {
+      "start": 1266.78,
+      "duration": 0.83,
+      "text": "- [Parent] Oh my gosh!",
+      "en": "- [Parent] Oh my gosh!",
+      "zh": ""
+    },
+    {
+      "start": 1267.61,
+      "duration": 2.34,
+      "text": "You won, buddy! - Oh my gosh!",
+      "en": "You won, buddy! - Oh my gosh!",
+      "zh": ""
+    },
+    {
+      "start": 1269.95,
+      "duration": 0.84,
+      "text": "(kid whoops)",
+      "en": "(kid whoops)",
+      "zh": ""
+    },
+    {
+      "start": 1270.79,
+      "duration": 1.45,
+      "text": "- Then you're coming out right here to CrunchLabs",
+      "en": "- Then you're coming out right here to CrunchLabs",
+      "zh": ""
+    },
+    {
+      "start": 1272.24,
+      "duration": 1.8,
+      "text": "to design with me and my team for a day.",
+      "en": "to design with me and my team for a day.",
+      "zh": ""
+    },
+    {
+      "start": 1274.04,
+      "duration": 2.04,
+      "text": "So if you wanna unlock the superpower of learning",
+      "en": "So if you wanna unlock the superpower of learning",
+      "zh": ""
+    },
+    {
+      "start": 1276.08,
+      "duration": 2.07,
+      "text": "to create and build whatever you could dream up,",
+      "en": "to create and build whatever you could dream up,",
+      "zh": ""
+    },
+    {
+      "start": 1278.15,
+      "duration": 1.41,
+      "text": "use the link in the video description,",
+      "en": "use the link in the video description,",
+      "zh": ""
+    },
+    {
+      "start": 1279.56,
+      "duration": 1.92,
+      "text": "or go to CrunchLabs.com and order",
+      "en": "or go to CrunchLabs.com and order",
+      "zh": ""
+    },
+    {
+      "start": 1281.48,
+      "duration": 2.13,
+      "text": "your Build Box subscription today.",
+      "en": "your Build Box subscription today.",
+      "zh": ""
+    },
+    {
+      "start": 1283.61,
+      "duration": 0.91,
+      "text": "Thanks for watching.",
+      "en": "Thanks for watching.",
+      "zh": ""
+    },
+    {
+      "start": 1284.52,
+      "duration": 0.84,
+      "text": "(bell dings)",
+      "en": "(bell dings)",
+      "zh": ""
+    },
+    {
+      "start": 1285.36,
+      "duration": 2.33,
+      "text": "(logo pops)",
+      "en": "(logo pops)",
+      "zh": ""
+    }
+  ],
+  "words": []
+}

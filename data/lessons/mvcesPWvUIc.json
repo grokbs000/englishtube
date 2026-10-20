@@ -1,0 +1,4184 @@
+{
+  "cues": [
+    {
+      "start": 2.23,
+      "duration": 1.0,
+      "text": "(dramatic music)",
+      "en": "(dramatic music)",
+      "zh": ""
+    },
+    {
+      "start": 3.23,
+      "duration": 1.97,
+      "text": "- A man has been found lying dead",
+      "en": "- A man has been found lying dead",
+      "zh": ""
+    },
+    {
+      "start": 5.2,
+      "duration": 2.16,
+      "text": "at the side of the road with oozing,",
+      "en": "at the side of the road with oozing,",
+      "zh": ""
+    },
+    {
+      "start": 7.36,
+      "duration": 2.08,
+      "text": "elongated wounds to his back.",
+      "en": "elongated wounds to his back.",
+      "zh": ""
+    },
+    {
+      "start": 9.44,
+      "duration": 1.04,
+      "text": "To solve the murder,",
+      "en": "To solve the murder,",
+      "zh": ""
+    },
+    {
+      "start": 10.48,
+      "duration": 2.64,
+      "text": "a local official calls all the farmers in the village",
+      "en": "a local official calls all the farmers in the village",
+      "zh": ""
+    },
+    {
+      "start": 13.12,
+      "duration": 3.44,
+      "text": "and demands they all bring their tools to the main square.",
+      "en": "and demands they all bring their tools to the main square.",
+      "zh": ""
+    },
+    {
+      "start": 16.56,
+      "duration": 3.28,
+      "text": "In the square, each man is set to lay down his sickle.",
+      "en": "In the square, each man is set to lay down his sickle.",
+      "zh": ""
+    },
+    {
+      "start": 19.84,
+      "duration": 3.2,
+      "text": "And then something curious starts to happen.",
+      "en": "And then something curious starts to happen.",
+      "zh": ""
+    },
+    {
+      "start": 23.04,
+      "duration": 3.76,
+      "text": "In the rising heat of the morning, flies begin to descend,",
+      "en": "In the rising heat of the morning, flies begin to descend,",
+      "zh": ""
+    },
+    {
+      "start": 26.8,
+      "duration": 2.4,
+      "text": "all landing on a single sickle.",
+      "en": "all landing on a single sickle.",
+      "zh": ""
+    },
+    {
+      "start": 29.2,
+      "duration": 1.6,
+      "text": "Its owner buckles,",
+      "en": "Its owner buckles,",
+      "zh": ""
+    },
+    {
+      "start": 30.8,
+      "duration": 5.52,
+      "text": "falling to his knees and admits to murder.",
+      "en": "falling to his knees and admits to murder.",
+      "zh": ""
+    },
+    {
+      "start": 36.32,
+      "duration": 2.08,
+      "text": "This is from a 1247 book,",
+      "en": "This is from a 1247 book,",
+      "zh": ""
+    },
+    {
+      "start": 38.4,
+      "duration": 2.48,
+      "text": "\"The Washing Away of Wrongs\" by Song Ci.",
+      "en": "\"The Washing Away of Wrongs\" by Song Ci.",
+      "zh": ""
+    },
+    {
+      "start": 40.88,
+      "duration": 1.6,
+      "text": "And it's the first writing we have",
+      "en": "And it's the first writing we have",
+      "zh": ""
+    },
+    {
+      "start": 42.48,
+      "duration": 2.48,
+      "text": "of an empirical approach to forensics.",
+      "en": "of an empirical approach to forensics.",
+      "zh": ""
+    },
+    {
+      "start": 44.96,
+      "duration": 1.2,
+      "text": "But okay, big deal.",
+      "en": "But okay, big deal.",
+      "zh": ""
+    },
+    {
+      "start": 46.16,
+      "duration": 1.68,
+      "text": "Anyone could have just swapped the sickles",
+      "en": "Anyone could have just swapped the sickles",
+      "zh": ""
+    },
+    {
+      "start": 47.84,
+      "duration": 2.24,
+      "text": "or used their neighbor's.",
+      "en": "or used their neighbor's.",
+      "zh": ""
+    },
+    {
+      "start": 50.08,
+      "duration": 4.24,
+      "text": "But forensics today are much more accurate, right?",
+      "en": "But forensics today are much more accurate, right?",
+      "zh": ""
+    },
+    {
+      "start": 54.32,
+      "duration": 3.68,
+      "text": "Fingerprints support investigations in over 70% of murders",
+      "en": "Fingerprints support investigations in over 70% of murders",
+      "zh": ""
+    },
+    {
+      "start": 58.0,
+      "duration": 2.8,
+      "text": "and DNA evidence in more than 90%.",
+      "en": "and DNA evidence in more than 90%.",
+      "zh": ""
+    },
+    {
+      "start": 60.8,
+      "duration": 1.84,
+      "text": "But then you also read an article like",
+      "en": "But then you also read an article like",
+      "zh": ""
+    },
+    {
+      "start": 62.64,
+      "duration": 3.76,
+      "text": "\"Hair sample that put men into prison for 28 years,",
+      "en": "\"Hair sample that put men into prison for 28 years,",
+      "zh": ""
+    },
+    {
+      "start": 66.4,
+      "duration": 1.2,
+      "text": "turned out to be dog hair.\"",
+      "en": "turned out to be dog hair.\"",
+      "zh": ""
+    },
+    {
+      "start": 67.6,
+      "duration": 1.68,
+      "text": "- That is not science.",
+      "en": "- That is not science.",
+      "zh": ""
+    },
+    {
+      "start": 69.28,
+      "duration": 1.2,
+      "text": "That is not justice.",
+      "en": "That is not justice.",
+      "zh": ""
+    },
+    {
+      "start": 70.48,
+      "duration": 3.2,
+      "text": "- See, in 2009, the National Academy of Sciences",
+      "en": "- See, in 2009, the National Academy of Sciences",
+      "zh": ""
+    },
+    {
+      "start": 73.68,
+      "duration": 3.6,
+      "text": "published this 350 page report stating that,",
+      "en": "published this 350 page report stating that,",
+      "zh": ""
+    },
+    {
+      "start": 77.28,
+      "duration": 2.64,
+      "text": "with the exception of nuclear DNA analysis,",
+      "en": "with the exception of nuclear DNA analysis,",
+      "zh": ""
+    },
+    {
+      "start": 79.92,
+      "duration": 2.48,
+      "text": "no forensic method has been rigorously shown",
+      "en": "no forensic method has been rigorously shown",
+      "zh": ""
+    },
+    {
+      "start": 82.4,
+      "duration": 1.84,
+      "text": "to consistently demonstrate a connection",
+      "en": "to consistently demonstrate a connection",
+      "zh": ""
+    },
+    {
+      "start": 84.24,
+      "duration": 2.64,
+      "text": "between evidence and a specific individual.",
+      "en": "between evidence and a specific individual.",
+      "zh": ""
+    },
+    {
+      "start": 86.88,
+      "duration": 1.6,
+      "text": "And they also said that some tests",
+      "en": "And they also said that some tests",
+      "zh": ""
+    },
+    {
+      "start": 88.48,
+      "duration": 2.8,
+      "text": "do not meet the fundamental requirements of science.",
+      "en": "do not meet the fundamental requirements of science.",
+      "zh": ""
+    },
+    {
+      "start": 91.28,
+      "duration": 3.76,
+      "text": "So we ask people to rank five famous forensic techniques,",
+      "en": "So we ask people to rank five famous forensic techniques,",
+      "zh": ""
+    },
+    {
+      "start": 95.04,
+      "duration": 3.04,
+      "text": "all of which are still being used in court.",
+      "en": "all of which are still being used in court.",
+      "zh": ""
+    },
+    {
+      "start": 98.08,
+      "duration": 1.68,
+      "text": "Okay, five forensic techniques here.",
+      "en": "Okay, five forensic techniques here.",
+      "zh": ""
+    },
+    {
+      "start": 99.76,
+      "duration": 1.68,
+      "text": "And I just need you to rank them in order",
+      "en": "And I just need you to rank them in order",
+      "zh": ""
+    },
+    {
+      "start": 101.44,
+      "duration": 2.16,
+      "text": "of accuracy from the least accurate down here",
+      "en": "of accuracy from the least accurate down here",
+      "zh": ""
+    },
+    {
+      "start": 103.6,
+      "duration": 0.96,
+      "text": "to the most accurate.",
+      "en": "to the most accurate.",
+      "zh": ""
+    },
+    {
+      "start": 104.56,
+      "duration": 0.92,
+      "text": "So what do you think?",
+      "en": "So what do you think?",
+      "zh": ""
+    },
+    {
+      "start": 105.48,
+      "duration": 1.96,
+      "text": "- I don't know if I'm gonna nail these.",
+      "en": "- I don't know if I'm gonna nail these.",
+      "zh": ""
+    },
+    {
+      "start": 107.44,
+      "duration": 1.1,
+      "text": "- Whoa. I dunno.",
+      "en": "- Whoa. I dunno.",
+      "zh": ""
+    },
+    {
+      "start": 108.54,
+      "duration": 2.34,
+      "text": "- I don't know what forensic to put first here.",
+      "en": "- I don't know what forensic to put first here.",
+      "zh": ""
+    },
+    {
+      "start": 110.88,
+      "duration": 1.52,
+      "text": "- Okay, hair. What are you thinking?",
+      "en": "- Okay, hair. What are you thinking?",
+      "zh": ""
+    },
+    {
+      "start": 112.4,
+      "duration": 1.76,
+      "text": "- I think hair is last, eh?",
+      "en": "- I think hair is last, eh?",
+      "zh": ""
+    },
+    {
+      "start": 114.16,
+      "duration": 3.36,
+      "text": "- I would probably put the hair on the top two.",
+      "en": "- I would probably put the hair on the top two.",
+      "zh": ""
+    },
+    {
+      "start": 117.52,
+      "duration": 2.44,
+      "text": "- I feel like hair would probably be the easiest to,",
+      "en": "- I feel like hair would probably be the easiest to,",
+      "zh": ""
+    },
+    {
+      "start": 119.96,
+      "duration": 1.92,
+      "text": "- To fake? - To fake, if you like.",
+      "en": "- To fake? - To fake, if you like.",
+      "zh": ""
+    },
+    {
+      "start": 121.88,
+      "duration": 2.12,
+      "text": "- I think hair at the bottom,",
+      "en": "- I think hair at the bottom,",
+      "zh": ""
+    },
+    {
+      "start": 124.0,
+      "duration": 1.92,
+      "text": "because if it's not got the follicle intact,",
+      "en": "because if it's not got the follicle intact,",
+      "zh": ""
+    },
+    {
+      "start": 125.92,
+      "duration": 1.0,
+      "text": "just hair in general.",
+      "en": "just hair in general.",
+      "zh": ""
+    },
+    {
+      "start": 126.92,
+      "duration": 1.52,
+      "text": "- Mm. - Do you think?",
+      "en": "- Mm. - Do you think?",
+      "zh": ""
+    },
+    {
+      "start": 128.44,
+      "duration": 3.22,
+      "text": "- Yeah.",
+      "en": "- Yeah.",
+      "zh": ""
+    },
+    {
+      "start": 131.66,
+      "duration": 0.3,
+      "text": "(dramatic music)",
+      "en": "(dramatic music)",
+      "zh": ""
+    },
+    {
+      "start": 131.68,
+      "duration": 2.08,
+      "text": "- Hair has always been an object of interest",
+      "en": "- Hair has always been an object of interest",
+      "zh": ""
+    },
+    {
+      "start": 133.76,
+      "duration": 1.68,
+      "text": "for crime scene investigators.",
+      "en": "for crime scene investigators.",
+      "zh": ""
+    },
+    {
+      "start": 135.44,
+      "duration": 1.84,
+      "text": "And before DNA, they would look",
+      "en": "And before DNA, they would look",
+      "zh": ""
+    },
+    {
+      "start": 137.28,
+      "duration": 2.56,
+      "text": "for the microscopic similarities in the surface",
+      "en": "for the microscopic similarities in the surface",
+      "zh": ""
+    },
+    {
+      "start": 139.84,
+      "duration": 2.96,
+      "text": "and the cross section of hairs to try and get a match.",
+      "en": "and the cross section of hairs to try and get a match.",
+      "zh": ""
+    },
+    {
+      "start": 142.8,
+      "duration": 2.87,
+      "text": "For example, analyzing how rough the fish scale",
+      "en": "For example, analyzing how rough the fish scale",
+      "zh": ""
+    },
+    {
+      "start": 145.67,
+      "duration": 2.01,
+      "text": "like structure of the surface of the hair is,",
+      "en": "like structure of the surface of the hair is,",
+      "zh": ""
+    },
+    {
+      "start": 147.68,
+      "duration": 2.95,
+      "text": "or how the pigment is distributed through the hair shaft.",
+      "en": "or how the pigment is distributed through the hair shaft.",
+      "zh": ""
+    },
+    {
+      "start": 150.63,
+      "duration": 1.37,
+      "text": "- [Announcer] The examiner's trained eye",
+      "en": "- [Announcer] The examiner's trained eye",
+      "zh": ""
+    },
+    {
+      "start": 152.0,
+      "duration": 1.84,
+      "text": "can learn many things.",
+      "en": "can learn many things.",
+      "zh": ""
+    },
+    {
+      "start": 153.84,
+      "duration": 2.16,
+      "text": "Is it human hair? Of what race?",
+      "en": "Is it human hair? Of what race?",
+      "zh": ""
+    },
+    {
+      "start": 156.0,
+      "duration": 1.68,
+      "text": "Animal hair? What family?",
+      "en": "Animal hair? What family?",
+      "zh": ""
+    },
+    {
+      "start": 157.68,
+      "duration": 1.68,
+      "text": "This vital information may help",
+      "en": "This vital information may help",
+      "zh": ""
+    },
+    {
+      "start": 159.36,
+      "duration": 2.04,
+      "text": "to establish guilt or innocence",
+      "en": "to establish guilt or innocence",
+      "zh": ""
+    },
+    {
+      "start": 161.4,
+      "duration": 3.0,
+      "text": "- Between the 1970s and 1999,",
+      "en": "- Between the 1970s and 1999,",
+      "zh": ""
+    },
+    {
+      "start": 164.4,
+      "duration": 4.96,
+      "text": "the FBI used this against defendants in 268 cases.",
+      "en": "the FBI used this against defendants in 268 cases.",
+      "zh": ""
+    },
+    {
+      "start": 169.36,
+      "duration": 3.36,
+      "text": "But when they later reexamined this using DNA as evidence,",
+      "en": "But when they later reexamined this using DNA as evidence,",
+      "zh": ""
+    },
+    {
+      "start": 172.72,
+      "duration": 2.4,
+      "text": "it completely flipped the field on its head,",
+      "en": "it completely flipped the field on its head,",
+      "zh": ""
+    },
+    {
+      "start": 175.12,
+      "duration": 3.12,
+      "text": "and it turned out that even the most experienced FBI",
+      "en": "and it turned out that even the most experienced FBI",
+      "zh": ""
+    },
+    {
+      "start": 178.24,
+      "duration": 2.32,
+      "text": "examiners would routinely claim they had a match",
+      "en": "examiners would routinely claim they had a match",
+      "zh": ""
+    },
+    {
+      "start": 180.56,
+      "duration": 2.16,
+      "text": "between hairs that were from two different people.",
+      "en": "between hairs that were from two different people.",
+      "zh": ""
+    },
+    {
+      "start": 182.72,
+      "duration": 1.76,
+      "text": "And they sometimes couldn't even tell the difference",
+      "en": "And they sometimes couldn't even tell the difference",
+      "zh": ""
+    },
+    {
+      "start": 184.48,
+      "duration": 3.83,
+      "text": "between a human hair and a dog hair.",
+      "en": "between a human hair and a dog hair.",
+      "zh": ""
+    },
+    {
+      "start": 188.31,
+      "duration": 0.3,
+      "text": "(dog barking)",
+      "en": "(dog barking)",
+      "zh": ""
+    },
+    {
+      "start": 188.32,
+      "duration": 4.08,
+      "text": "Out of those 268 cases that used microscopic hair analysis,",
+      "en": "Out of those 268 cases that used microscopic hair analysis,",
+      "zh": ""
+    },
+    {
+      "start": 192.4,
+      "duration": 2.8,
+      "text": "96% were declared false.",
+      "en": "96% were declared false.",
+      "zh": ""
+    },
+    {
+      "start": 195.2,
+      "duration": 2.32,
+      "text": "33 people were already sentenced to death,",
+      "en": "33 people were already sentenced to death,",
+      "zh": ""
+    },
+    {
+      "start": 197.52,
+      "duration": 2.08,
+      "text": "and nine were already executed",
+      "en": "and nine were already executed",
+      "zh": ""
+    },
+    {
+      "start": 199.6,
+      "duration": 2.08,
+      "text": "by the time the errors were found.",
+      "en": "by the time the errors were found.",
+      "zh": ""
+    },
+    {
+      "start": 201.68,
+      "duration": 2.48,
+      "text": "Today, the FBI only uses hair as evidence",
+      "en": "Today, the FBI only uses hair as evidence",
+      "zh": ""
+    },
+    {
+      "start": 204.16,
+      "duration": 2.32,
+      "text": "if it can be supported by DNA testing,",
+      "en": "if it can be supported by DNA testing,",
+      "zh": ""
+    },
+    {
+      "start": 206.48,
+      "duration": 1.76,
+      "text": "which is why microscopic hair analysis",
+      "en": "which is why microscopic hair analysis",
+      "zh": ""
+    },
+    {
+      "start": 208.24,
+      "duration": 1.92,
+      "text": "goes to the bottom of this list.",
+      "en": "goes to the bottom of this list.",
+      "zh": ""
+    },
+    {
+      "start": 210.16,
+      "duration": 0.96,
+      "text": "What do you think of bite marks?",
+      "en": "What do you think of bite marks?",
+      "zh": ""
+    },
+    {
+      "start": 211.12,
+      "duration": 1.5,
+      "text": "- On a crime scene?",
+      "en": "- On a crime scene?",
+      "zh": ""
+    },
+    {
+      "start": 212.62,
+      "duration": 0.5,
+      "text": "- Yeah, yeah. - It's been...",
+      "en": "- Yeah, yeah. - It's been...",
+      "zh": ""
+    },
+    {
+      "start": 213.12,
+      "duration": 1.32,
+      "text": "Dracula, is Dracula there?",
+      "en": "Dracula, is Dracula there?",
+      "zh": ""
+    },
+    {
+      "start": 214.44,
+      "duration": 1.96,
+      "text": "- Least accurate is gonna be",
+      "en": "- Least accurate is gonna be",
+      "zh": ""
+    },
+    {
+      "start": 216.4,
+      "duration": 2.12,
+      "text": "pretty close to bite marks, I think.",
+      "en": "pretty close to bite marks, I think.",
+      "zh": ""
+    },
+    {
+      "start": 218.52,
+      "duration": 0.72,
+      "text": "- Midway.",
+      "en": "- Midway.",
+      "zh": ""
+    },
+    {
+      "start": 219.24,
+      "duration": 1.0,
+      "text": "- Midway? - Last.",
+      "en": "- Midway? - Last.",
+      "zh": ""
+    },
+    {
+      "start": 220.24,
+      "duration": 4.55,
+      "text": "That's last.",
+      "en": "That's last.",
+      "zh": ""
+    },
+    {
+      "start": 224.79,
+      "duration": 0.3,
+      "text": "That's not realistic, innit? - Okay. Okay.",
+      "en": "That's not realistic, innit? - Okay. Okay.",
+      "zh": ""
+    },
+    {
+      "start": 224.86,
+      "duration": 0.3,
+      "text": "Mm.",
+      "en": "Mm.",
+      "zh": ""
+    },
+    {
+      "start": 224.87,
+      "duration": 0.65,
+      "text": "Bite marks at the top.",
+      "en": "Bite marks at the top.",
+      "zh": ""
+    },
+    {
+      "start": 225.52,
+      "duration": 2.08,
+      "text": "The idea behind bite marks is simple.",
+      "en": "The idea behind bite marks is simple.",
+      "zh": ""
+    },
+    {
+      "start": 227.6,
+      "duration": 3.12,
+      "text": "If you can use dental records to identify a deceased person,",
+      "en": "If you can use dental records to identify a deceased person,",
+      "zh": ""
+    },
+    {
+      "start": 230.72,
+      "duration": 1.76,
+      "text": "surely you can identify a perpetrator",
+      "en": "surely you can identify a perpetrator",
+      "zh": ""
+    },
+    {
+      "start": 232.48,
+      "duration": 2.24,
+      "text": "by the bite marks left on a victim.",
+      "en": "by the bite marks left on a victim.",
+      "zh": ""
+    },
+    {
+      "start": 234.72,
+      "duration": 1.12,
+      "text": "Since the 1950s,",
+      "en": "Since the 1950s,",
+      "zh": ""
+    },
+    {
+      "start": 235.84,
+      "duration": 3.68,
+      "text": "bite mark analysis has been used in thousands of cases.",
+      "en": "bite mark analysis has been used in thousands of cases.",
+      "zh": ""
+    },
+    {
+      "start": 239.52,
+      "duration": 3.6,
+      "text": "But then some experts, like forensic dentist Mary Bush,",
+      "en": "But then some experts, like forensic dentist Mary Bush,",
+      "zh": ""
+    },
+    {
+      "start": 243.12,
+      "duration": 2.12,
+      "text": "started looking into the method more deeply.",
+      "en": "started looking into the method more deeply.",
+      "zh": ""
+    },
+    {
+      "start": 245.24,
+      "duration": 3.08,
+      "text": "- There was no scientific exploration",
+      "en": "- There was no scientific exploration",
+      "zh": ""
+    },
+    {
+      "start": 248.32,
+      "duration": 2.96,
+      "text": "into bite marks before they were used in the court of law",
+      "en": "into bite marks before they were used in the court of law",
+      "zh": ""
+    },
+    {
+      "start": 251.28,
+      "duration": 2.0,
+      "text": "to say that this was even a feasible",
+      "en": "to say that this was even a feasible",
+      "zh": ""
+    },
+    {
+      "start": 253.28,
+      "duration": 1.52,
+      "text": "technique that you could do.",
+      "en": "technique that you could do.",
+      "zh": ""
+    },
+    {
+      "start": 254.8,
+      "duration": 2.24,
+      "text": "- One study from the university at Buffalo",
+      "en": "- One study from the university at Buffalo",
+      "zh": ""
+    },
+    {
+      "start": 257.04,
+      "duration": 2.32,
+      "text": "used a set of model teeth to create",
+      "en": "used a set of model teeth to create",
+      "zh": ""
+    },
+    {
+      "start": 259.36,
+      "duration": 2.08,
+      "text": "89 bite marks in cadavers,",
+      "en": "89 bite marks in cadavers,",
+      "zh": ""
+    },
+    {
+      "start": 261.44,
+      "duration": 2.8,
+      "text": "alongside controlled bite marks made in wax.",
+      "en": "alongside controlled bite marks made in wax.",
+      "zh": ""
+    },
+    {
+      "start": 264.24,
+      "duration": 2.8,
+      "text": "And out of those 89 bite marks made in skin,",
+      "en": "And out of those 89 bite marks made in skin,",
+      "zh": ""
+    },
+    {
+      "start": 267.04,
+      "duration": 1.36,
+      "text": "none of them matched the measurements",
+      "en": "none of them matched the measurements",
+      "zh": ""
+    },
+    {
+      "start": 268.4,
+      "duration": 3.44,
+      "text": "of the ones made in wax or the original model teeth.",
+      "en": "of the ones made in wax or the original model teeth.",
+      "zh": ""
+    },
+    {
+      "start": 271.84,
+      "duration": 2.56,
+      "text": "In fact, when they compared the bite marks in skin",
+      "en": "In fact, when they compared the bite marks in skin",
+      "zh": ""
+    },
+    {
+      "start": 274.4,
+      "duration": 3.28,
+      "text": "to a wider collection of 411 model teeth,",
+      "en": "to a wider collection of 411 model teeth,",
+      "zh": ""
+    },
+    {
+      "start": 277.68,
+      "duration": 2.88,
+      "text": "it wasn't even the original model that made the bite mark",
+      "en": "it wasn't even the original model that made the bite mark",
+      "zh": ""
+    },
+    {
+      "start": 280.56,
+      "duration": 1.6,
+      "text": "that was the closest match.",
+      "en": "that was the closest match.",
+      "zh": ""
+    },
+    {
+      "start": 282.16,
+      "duration": 2.96,
+      "text": "After 12 studies, their conclusion,",
+      "en": "After 12 studies, their conclusion,",
+      "zh": ""
+    },
+    {
+      "start": 285.12,
+      "duration": 3.28,
+      "text": "bite mark transfer to skin is not reliable.",
+      "en": "bite mark transfer to skin is not reliable.",
+      "zh": ""
+    },
+    {
+      "start": 288.4,
+      "duration": 1.28,
+      "text": "Skin isn't a good medium",
+      "en": "Skin isn't a good medium",
+      "zh": ""
+    },
+    {
+      "start": 289.68,
+      "duration": 2.16,
+      "text": "to leave an imprint of someone's bite mark.",
+      "en": "to leave an imprint of someone's bite mark.",
+      "zh": ""
+    },
+    {
+      "start": 291.84,
+      "duration": 3.04,
+      "text": "It's soft, it's squishy, and it distorts under pressure.",
+      "en": "It's soft, it's squishy, and it distorts under pressure.",
+      "zh": ""
+    },
+    {
+      "start": 294.88,
+      "duration": 2.8,
+      "text": "But despite all this, there's still been no ban",
+      "en": "But despite all this, there's still been no ban",
+      "zh": ""
+    },
+    {
+      "start": 297.68,
+      "duration": 3.36,
+      "text": "and bite mark evidence is still allowed in courts worldwide.",
+      "en": "and bite mark evidence is still allowed in courts worldwide.",
+      "zh": ""
+    },
+    {
+      "start": 301.04,
+      "duration": 1.56,
+      "text": "We asked Dr. Bush for a comment",
+      "en": "We asked Dr. Bush for a comment",
+      "zh": ""
+    },
+    {
+      "start": 302.6,
+      "duration": 2.2,
+      "text": "and she said that while the scientific method",
+      "en": "and she said that while the scientific method",
+      "zh": ""
+    },
+    {
+      "start": 304.8,
+      "duration": 3.2,
+      "text": "is happy to discard an old and disproven theory,",
+      "en": "is happy to discard an old and disproven theory,",
+      "zh": ""
+    },
+    {
+      "start": 308.0,
+      "duration": 2.24,
+      "text": "the justice system prefers consistency",
+      "en": "the justice system prefers consistency",
+      "zh": ""
+    },
+    {
+      "start": 310.24,
+      "duration": 1.44,
+      "text": "in a historical precedent.",
+      "en": "in a historical precedent.",
+      "zh": ""
+    },
+    {
+      "start": 311.68,
+      "duration": 2.0,
+      "text": "So even the new flurry of evidence wasn't enough",
+      "en": "So even the new flurry of evidence wasn't enough",
+      "zh": ""
+    },
+    {
+      "start": 313.68,
+      "duration": 1.92,
+      "text": "to get bite marks out of court.",
+      "en": "to get bite marks out of court.",
+      "zh": ""
+    },
+    {
+      "start": 315.6,
+      "duration": 2.24,
+      "text": "In fact, bite marks have been used as evidence",
+      "en": "In fact, bite marks have been used as evidence",
+      "zh": ""
+    },
+    {
+      "start": 317.84,
+      "duration": 1.84,
+      "text": "as recently as 2025,",
+      "en": "as recently as 2025,",
+      "zh": ""
+    },
+    {
+      "start": 319.68,
+      "duration": 3.52,
+      "text": "which is why it gets the second worst spot on our list.",
+      "en": "which is why it gets the second worst spot on our list.",
+      "zh": ""
+    },
+    {
+      "start": 323.2,
+      "duration": 1.44,
+      "text": "Blood, if you don't have DNA",
+      "en": "Blood, if you don't have DNA",
+      "zh": ""
+    },
+    {
+      "start": 324.64,
+      "duration": 1.52,
+      "text": "and you're just using like kind of the patterns",
+      "en": "and you're just using like kind of the patterns",
+      "zh": ""
+    },
+    {
+      "start": 326.16,
+      "duration": 1.28,
+      "text": "that it leaves along the ground.",
+      "en": "that it leaves along the ground.",
+      "zh": ""
+    },
+    {
+      "start": 327.44,
+      "duration": 1.27,
+      "text": "How they splat. - Right?",
+      "en": "How they splat. - Right?",
+      "zh": ""
+    },
+    {
+      "start": 328.71,
+      "duration": 0.81,
+      "text": "- [Gregor] Like the picture,",
+      "en": "- [Gregor] Like the picture,",
+      "zh": ""
+    },
+    {
+      "start": 329.52,
+      "duration": 1.88,
+      "text": "that blood on a crime scene could give you.",
+      "en": "that blood on a crime scene could give you.",
+      "zh": ""
+    },
+    {
+      "start": 331.4,
+      "duration": 1.0,
+      "text": "- Okay. - I'm looking,",
+      "en": "- Okay. - I'm looking,",
+      "zh": ""
+    },
+    {
+      "start": 332.4,
+      "duration": 0.96,
+      "text": "thinking of putting blood at the end,",
+      "en": "thinking of putting blood at the end,",
+      "zh": ""
+    },
+    {
+      "start": 333.36,
+      "duration": 0.8,
+      "text": "but like, I don't know. - Okay.",
+      "en": "but like, I don't know. - Okay.",
+      "zh": ""
+    },
+    {
+      "start": 334.16,
+      "duration": 0.74,
+      "text": "Put blood at the end. - Okay.",
+      "en": "Put blood at the end. - Okay.",
+      "zh": ""
+    },
+    {
+      "start": 334.9,
+      "duration": 1.18,
+      "text": "- I would go blood then",
+      "en": "- I would go blood then",
+      "zh": ""
+    },
+    {
+      "start": 336.08,
+      "duration": 2.53,
+      "text": "- Second. - Second place.",
+      "en": "- Second. - Second place.",
+      "zh": ""
+    },
+    {
+      "start": 338.61,
+      "duration": 0.3,
+      "text": "- Yeah, yeah, yeah, yeah.",
+      "en": "- Yeah, yeah, yeah, yeah.",
+      "zh": ""
+    },
+    {
+      "start": 338.64,
+      "duration": 1.92,
+      "text": "- So bloodstain pattern analysis.",
+      "en": "- So bloodstain pattern analysis.",
+      "zh": ""
+    },
+    {
+      "start": 340.56,
+      "duration": 2.56,
+      "text": "When someone is injured, the way their blood pools",
+      "en": "When someone is injured, the way their blood pools",
+      "zh": ""
+    },
+    {
+      "start": 343.12,
+      "duration": 2.96,
+      "text": "and drips into the environment is in a distinct pattern.",
+      "en": "and drips into the environment is in a distinct pattern.",
+      "zh": ""
+    },
+    {
+      "start": 346.08,
+      "duration": 2.24,
+      "text": "And in 2020, \"Wired\" actually did an episode",
+      "en": "And in 2020, \"Wired\" actually did an episode",
+      "zh": ""
+    },
+    {
+      "start": 348.32,
+      "duration": 1.6,
+      "text": "with a crime scene analyst",
+      "en": "with a crime scene analyst",
+      "zh": ""
+    },
+    {
+      "start": 349.92,
+      "duration": 2.64,
+      "text": "on how these different stains can be interpreted.",
+      "en": "on how these different stains can be interpreted.",
+      "zh": ""
+    },
+    {
+      "start": 352.56,
+      "duration": 2.8,
+      "text": "You can use physics and biology to rewind the clock",
+      "en": "You can use physics and biology to rewind the clock",
+      "zh": ""
+    },
+    {
+      "start": 355.36,
+      "duration": 1.68,
+      "text": "and extrapolate where in space",
+      "en": "and extrapolate where in space",
+      "zh": ""
+    },
+    {
+      "start": 357.04,
+      "duration": 2.24,
+      "text": "the blood must have come from.",
+      "en": "the blood must have come from.",
+      "zh": ""
+    },
+    {
+      "start": 359.28,
+      "duration": 2.4,
+      "text": "This all started in 1971 when chemist,",
+      "en": "This all started in 1971 when chemist,",
+      "zh": ""
+    },
+    {
+      "start": 361.68,
+      "duration": 2.16,
+      "text": "Herbert Leon MacDonell, published",
+      "en": "Herbert Leon MacDonell, published",
+      "zh": ""
+    },
+    {
+      "start": 363.84,
+      "duration": 3.12,
+      "text": "\"Flight Characteristics and Stain Patterns of Human Blood.\"",
+      "en": "\"Flight Characteristics and Stain Patterns of Human Blood.\"",
+      "zh": ""
+    },
+    {
+      "start": 366.96,
+      "duration": 2.08,
+      "text": "In this book, MacDonell described how you can use",
+      "en": "In this book, MacDonell described how you can use",
+      "zh": ""
+    },
+    {
+      "start": 369.04,
+      "duration": 1.68,
+      "text": "the width and length of a stain",
+      "en": "the width and length of a stain",
+      "zh": ""
+    },
+    {
+      "start": 370.72,
+      "duration": 1.92,
+      "text": "to calculate the angle of impact,",
+      "en": "to calculate the angle of impact,",
+      "zh": ""
+    },
+    {
+      "start": 372.64,
+      "duration": 1.84,
+      "text": "and then using trigonometry,",
+      "en": "and then using trigonometry,",
+      "zh": ""
+    },
+    {
+      "start": 374.48,
+      "duration": 3.68,
+      "text": "trace that back to the point of origin of the spatter.",
+      "en": "trace that back to the point of origin of the spatter.",
+      "zh": ""
+    },
+    {
+      "start": 378.16,
+      "duration": 1.84,
+      "text": "The book quickly became the foundation",
+      "en": "The book quickly became the foundation",
+      "zh": ""
+    },
+    {
+      "start": 380.0,
+      "duration": 1.68,
+      "text": "of bloodstain pattern analysis,",
+      "en": "of bloodstain pattern analysis,",
+      "zh": ""
+    },
+    {
+      "start": 381.68,
+      "duration": 1.76,
+      "text": "and everyone was using it.",
+      "en": "and everyone was using it.",
+      "zh": ""
+    },
+    {
+      "start": 383.44,
+      "duration": 3.6,
+      "text": "In fact, MacDonell even established a Bloodstain Institute",
+      "en": "In fact, MacDonell even established a Bloodstain Institute",
+      "zh": ""
+    },
+    {
+      "start": 387.04,
+      "duration": 2.72,
+      "text": "where thousands of US police officers would enroll.",
+      "en": "where thousands of US police officers would enroll.",
+      "zh": ""
+    },
+    {
+      "start": 389.76,
+      "duration": 2.64,
+      "text": "The Supreme Court of Iowa actually referred to the practice",
+      "en": "The Supreme Court of Iowa actually referred to the practice",
+      "zh": ""
+    },
+    {
+      "start": 392.4,
+      "duration": 2.24,
+      "text": "as relatively uncomplicated.",
+      "en": "as relatively uncomplicated.",
+      "zh": ""
+    },
+    {
+      "start": 394.64,
+      "duration": 2.64,
+      "text": "So they didn't require proof of its reliability.",
+      "en": "So they didn't require proof of its reliability.",
+      "zh": ""
+    },
+    {
+      "start": 397.28,
+      "duration": 2.4,
+      "text": "They were happy to go ahead with MacDonell's tests",
+      "en": "They were happy to go ahead with MacDonell's tests",
+      "zh": ""
+    },
+    {
+      "start": 399.68,
+      "duration": 3.04,
+      "text": "that he did alone in his basement.",
+      "en": "that he did alone in his basement.",
+      "zh": ""
+    },
+    {
+      "start": 402.72,
+      "duration": 2.24,
+      "text": "And soon enough, bloodstain pattern analysis",
+      "en": "And soon enough, bloodstain pattern analysis",
+      "zh": ""
+    },
+    {
+      "start": 404.96,
+      "duration": 3.6,
+      "text": "was used in courts all over the states.",
+      "en": "was used in courts all over the states.",
+      "zh": ""
+    },
+    {
+      "start": 408.56,
+      "duration": 1.04,
+      "text": "But here's the problem.",
+      "en": "But here's the problem.",
+      "zh": ""
+    },
+    {
+      "start": 409.6,
+      "duration": 2.0,
+      "text": "Plotting the flight path of each bloodstain",
+      "en": "Plotting the flight path of each bloodstain",
+      "zh": ""
+    },
+    {
+      "start": 411.6,
+      "duration": 2.4,
+      "text": "using trigonometry assumes the trajectories",
+      "en": "using trigonometry assumes the trajectories",
+      "zh": ""
+    },
+    {
+      "start": 414.0,
+      "duration": 3.04,
+      "text": "were straight lines and gives this common origin point,",
+      "en": "were straight lines and gives this common origin point,",
+      "zh": ""
+    },
+    {
+      "start": 417.04,
+      "duration": 3.28,
+      "text": "which suggests the victim was standing up.",
+      "en": "which suggests the victim was standing up.",
+      "zh": ""
+    },
+    {
+      "start": 420.32,
+      "duration": 0.88,
+      "text": "The issue is,",
+      "en": "The issue is,",
+      "zh": ""
+    },
+    {
+      "start": 421.2,
+      "duration": 2.8,
+      "text": "MacDonell and then many forensic investigators after him",
+      "en": "MacDonell and then many forensic investigators after him",
+      "zh": ""
+    },
+    {
+      "start": 424.0,
+      "duration": 1.84,
+      "text": "and even \"Wired,\" failed to account",
+      "en": "and even \"Wired,\" failed to account",
+      "zh": ""
+    },
+    {
+      "start": 425.84,
+      "duration": 2.16,
+      "text": "for the effects of gravity and drag",
+      "en": "for the effects of gravity and drag",
+      "zh": ""
+    },
+    {
+      "start": 428.0,
+      "duration": 1.52,
+      "text": "as obvious as this sounds.",
+      "en": "as obvious as this sounds.",
+      "zh": ""
+    },
+    {
+      "start": 429.52,
+      "duration": 1.92,
+      "text": "When you include these in your calculations,",
+      "en": "When you include these in your calculations,",
+      "zh": ""
+    },
+    {
+      "start": 431.44,
+      "duration": 1.76,
+      "text": "the common origin point lowers,",
+      "en": "the common origin point lowers,",
+      "zh": ""
+    },
+    {
+      "start": 433.2,
+      "duration": 1.68,
+      "text": "and you can see that in this example.",
+      "en": "and you can see that in this example.",
+      "zh": ""
+    },
+    {
+      "start": 434.88,
+      "duration": 4.24,
+      "text": "It's more likely that the victim was actually sitting down.",
+      "en": "It's more likely that the victim was actually sitting down.",
+      "zh": ""
+    },
+    {
+      "start": 439.12,
+      "duration": 2.64,
+      "text": "The first study to measure the baseline reliability",
+      "en": "The first study to measure the baseline reliability",
+      "zh": ""
+    },
+    {
+      "start": 441.76,
+      "duration": 4.0,
+      "text": "of bloodstain pattern analysis was only done in 2014.",
+      "en": "of bloodstain pattern analysis was only done in 2014.",
+      "zh": ""
+    },
+    {
+      "start": 445.76,
+      "duration": 1.28,
+      "text": "That's over 50 years",
+      "en": "That's over 50 years",
+      "zh": ""
+    },
+    {
+      "start": 447.04,
+      "duration": 2.32,
+      "text": "after it started being admitted in court.",
+      "en": "after it started being admitted in court.",
+      "zh": ""
+    },
+    {
+      "start": 449.36,
+      "duration": 3.04,
+      "text": "And a large scale study from 2021 found that analysts",
+      "en": "And a large scale study from 2021 found that analysts",
+      "zh": ""
+    },
+    {
+      "start": 452.4,
+      "duration": 2.88,
+      "text": "come to different conclusions about a way a stain was made,",
+      "en": "come to different conclusions about a way a stain was made,",
+      "zh": ""
+    },
+    {
+      "start": 455.28,
+      "duration": 1.44,
+      "text": "about 8% of the time.",
+      "en": "about 8% of the time.",
+      "zh": ""
+    },
+    {
+      "start": 456.72,
+      "duration": 1.28,
+      "text": "And that's because the same stain",
+      "en": "And that's because the same stain",
+      "zh": ""
+    },
+    {
+      "start": 458.0,
+      "duration": 1.76,
+      "text": "can come from many different mechanisms.",
+      "en": "can come from many different mechanisms.",
+      "zh": ""
+    },
+    {
+      "start": 459.76,
+      "duration": 2.56,
+      "text": "And the fact that blood differs from person to person,",
+      "en": "And the fact that blood differs from person to person,",
+      "zh": ""
+    },
+    {
+      "start": 462.32,
+      "duration": 1.92,
+      "text": "depending on how many red blood cells",
+      "en": "depending on how many red blood cells",
+      "zh": ""
+    },
+    {
+      "start": 464.24,
+      "duration": 1.68,
+      "text": "versus the plasma you have.",
+      "en": "versus the plasma you have.",
+      "zh": ""
+    },
+    {
+      "start": 465.92,
+      "duration": 3.36,
+      "text": "Men actually tend to have a 15% higher concentration",
+      "en": "Men actually tend to have a 15% higher concentration",
+      "zh": ""
+    },
+    {
+      "start": 469.28,
+      "duration": 1.28,
+      "text": "of blood cells than women,",
+      "en": "of blood cells than women,",
+      "zh": ""
+    },
+    {
+      "start": 470.56,
+      "duration": 2.08,
+      "text": "which makes their blood more viscous.",
+      "en": "which makes their blood more viscous.",
+      "zh": ""
+    },
+    {
+      "start": 472.64,
+      "duration": 2.0,
+      "text": "Nowadays, investigators have new software",
+      "en": "Nowadays, investigators have new software",
+      "zh": ""
+    },
+    {
+      "start": 474.64,
+      "duration": 1.36,
+      "text": "which uses fluid dynamics",
+      "en": "which uses fluid dynamics",
+      "zh": ""
+    },
+    {
+      "start": 476.0,
+      "duration": 2.72,
+      "text": "to help them map these complex 3D seams.",
+      "en": "to help them map these complex 3D seams.",
+      "zh": ""
+    },
+    {
+      "start": 478.72,
+      "duration": 3.36,
+      "text": "So bloodstain pattern analysis is improving in accuracy,",
+      "en": "So bloodstain pattern analysis is improving in accuracy,",
+      "zh": ""
+    },
+    {
+      "start": 482.08,
+      "duration": 2.8,
+      "text": "which is why it gets this middle spot in our list.",
+      "en": "which is why it gets this middle spot in our list.",
+      "zh": ""
+    },
+    {
+      "start": 484.88,
+      "duration": 0.72,
+      "text": "Okay.",
+      "en": "Okay.",
+      "zh": ""
+    },
+    {
+      "start": 485.6,
+      "duration": 1.84,
+      "text": "But surely fingerprints",
+      "en": "But surely fingerprints",
+      "zh": ""
+    },
+    {
+      "start": 487.44,
+      "duration": 2.08,
+      "text": "must have a lot of value in identification.",
+      "en": "must have a lot of value in identification.",
+      "zh": ""
+    },
+    {
+      "start": 489.52,
+      "duration": 1.64,
+      "text": "How unique do you think fingerprints are?",
+      "en": "How unique do you think fingerprints are?",
+      "zh": ""
+    },
+    {
+      "start": 491.16,
+      "duration": 1.84,
+      "text": "- I think they're pretty accurate.",
+      "en": "- I think they're pretty accurate.",
+      "zh": ""
+    },
+    {
+      "start": 493.0,
+      "duration": 1.4,
+      "text": "- They're fingerprints. - Fingerprints.",
+      "en": "- They're fingerprints. - Fingerprints.",
+      "zh": ""
+    },
+    {
+      "start": 494.4,
+      "duration": 1.6,
+      "text": "- That's probably one. - That's number one.",
+      "en": "- That's probably one. - That's number one.",
+      "zh": ""
+    },
+    {
+      "start": 496.0,
+      "duration": 0.88,
+      "text": "- Yeah. - Okay. Okay.",
+      "en": "- Yeah. - Okay. Okay.",
+      "zh": ""
+    },
+    {
+      "start": 496.88,
+      "duration": 1.6,
+      "text": "I mean, yeah, you use fingerprints on your phone,",
+      "en": "I mean, yeah, you use fingerprints on your phone,",
+      "zh": ""
+    },
+    {
+      "start": 498.48,
+      "duration": 1.36,
+      "text": "you unlock it, you pay stuff, right?",
+      "en": "you unlock it, you pay stuff, right?",
+      "zh": ""
+    },
+    {
+      "start": 499.84,
+      "duration": 1.36,
+      "text": "- 'Cause fingerprints are unique.",
+      "en": "- 'Cause fingerprints are unique.",
+      "zh": ""
+    },
+    {
+      "start": 501.2,
+      "duration": 1.28,
+      "text": "Even when you have a passport,",
+      "en": "Even when you have a passport,",
+      "zh": ""
+    },
+    {
+      "start": 502.48,
+      "duration": 2.12,
+      "text": "like they scan you when you enter a country.",
+      "en": "like they scan you when you enter a country.",
+      "zh": ""
+    },
+    {
+      "start": 504.6,
+      "duration": 2.68,
+      "text": "- On March 11th, 2004,",
+      "en": "- On March 11th, 2004,",
+      "zh": ""
+    },
+    {
+      "start": 507.28,
+      "duration": 2.48,
+      "text": "a terrorist organization operating in Madrid",
+      "en": "a terrorist organization operating in Madrid",
+      "zh": ""
+    },
+    {
+      "start": 509.76,
+      "duration": 2.56,
+      "text": "set off explosions on four commuter trains.",
+      "en": "set off explosions on four commuter trains.",
+      "zh": ""
+    },
+    {
+      "start": 512.32,
+      "duration": 4.72,
+      "text": "The attack killed 193 people and injured thousands more.",
+      "en": "The attack killed 193 people and injured thousands more.",
+      "zh": ""
+    },
+    {
+      "start": 517.04,
+      "duration": 2.32,
+      "text": "Quickly after, the police found a finger mark",
+      "en": "Quickly after, the police found a finger mark",
+      "zh": ""
+    },
+    {
+      "start": 519.36,
+      "duration": 1.92,
+      "text": "on a detonator bag left behind,",
+      "en": "on a detonator bag left behind,",
+      "zh": ""
+    },
+    {
+      "start": 521.28,
+      "duration": 2.16,
+      "text": "and they matched it to Brandon Mayfield,",
+      "en": "and they matched it to Brandon Mayfield,",
+      "zh": ""
+    },
+    {
+      "start": 523.44,
+      "duration": 1.2,
+      "text": "a lawyer in Oregon.",
+      "en": "a lawyer in Oregon.",
+      "zh": ""
+    },
+    {
+      "start": 525.6,
+      "duration": 1.84,
+      "text": "There's only one problem,",
+      "en": "There's only one problem,",
+      "zh": ""
+    },
+    {
+      "start": 527.44,
+      "duration": 3.36,
+      "text": "there are no records of Mayfield even leaving the US.",
+      "en": "there are no records of Mayfield even leaving the US.",
+      "zh": ""
+    },
+    {
+      "start": 530.8,
+      "duration": 1.84,
+      "text": "He doesn't even own a passport.",
+      "en": "He doesn't even own a passport.",
+      "zh": ""
+    },
+    {
+      "start": 532.64,
+      "duration": 1.88,
+      "text": "So how could he have pulled this off?",
+      "en": "So how could he have pulled this off?",
+      "zh": ""
+    },
+    {
+      "start": 534.52,
+      "duration": 2.76,
+      "text": "- I honestly felt like I was being framed",
+      "en": "- I honestly felt like I was being framed",
+      "zh": ""
+    },
+    {
+      "start": 537.28,
+      "duration": 2.8,
+      "text": "because I hadn't been outta the country for over 10 years,",
+      "en": "because I hadn't been outta the country for over 10 years,",
+      "zh": ""
+    },
+    {
+      "start": 540.08,
+      "duration": 2.72,
+      "text": "- But despite that, the fingerprint evidence against him",
+      "en": "- But despite that, the fingerprint evidence against him",
+      "zh": ""
+    },
+    {
+      "start": 542.8,
+      "duration": 3.92,
+      "text": "was considered so damning that Mayfield was incarcerated.",
+      "en": "was considered so damning that Mayfield was incarcerated.",
+      "zh": ""
+    },
+    {
+      "start": 546.72,
+      "duration": 1.28,
+      "text": "But this wasn't a glitch.",
+      "en": "But this wasn't a glitch.",
+      "zh": ""
+    },
+    {
+      "start": 548.0,
+      "duration": 3.92,
+      "text": "It was built into the method from the start.",
+      "en": "It was built into the method from the start.",
+      "zh": ""
+    },
+    {
+      "start": 551.92,
+      "duration": 0.3,
+      "text": "(groovy music)",
+      "en": "(groovy music)",
+      "zh": ""
+    },
+    {
+      "start": 552.08,
+      "duration": 1.52,
+      "text": "In 1890s Kolkata,",
+      "en": "In 1890s Kolkata,",
+      "zh": ""
+    },
+    {
+      "start": 553.6,
+      "duration": 2.32,
+      "text": "the city's rich career criminals were avoiding jail",
+      "en": "the city's rich career criminals were avoiding jail",
+      "zh": ""
+    },
+    {
+      "start": 555.92,
+      "duration": 2.64,
+      "text": "by paying people to serve sentences for them.",
+      "en": "by paying people to serve sentences for them.",
+      "zh": ""
+    },
+    {
+      "start": 558.56,
+      "duration": 2.08,
+      "text": "It was a good tactic since, at the time,",
+      "en": "It was a good tactic since, at the time,",
+      "zh": ""
+    },
+    {
+      "start": 560.64,
+      "duration": 2.48,
+      "text": "there was no practical way to identify a person.",
+      "en": "there was no practical way to identify a person.",
+      "zh": ""
+    },
+    {
+      "start": 563.12,
+      "duration": 2.08,
+      "text": "So the criminals were getting away with it.",
+      "en": "So the criminals were getting away with it.",
+      "zh": ""
+    },
+    {
+      "start": 565.2,
+      "duration": 2.72,
+      "text": "Three officers, Edward Henry, Azizul Haque",
+      "en": "Three officers, Edward Henry, Azizul Haque",
+      "zh": ""
+    },
+    {
+      "start": 567.92,
+      "duration": 1.2,
+      "text": "and Hem Chandra Bose",
+      "en": "and Hem Chandra Bose",
+      "zh": ""
+    },
+    {
+      "start": 569.12,
+      "duration": 0.96,
+      "text": "started taking the prints",
+      "en": "started taking the prints",
+      "zh": ""
+    },
+    {
+      "start": 570.08,
+      "duration": 2.24,
+      "text": "of everyone who came through the station,",
+      "en": "of everyone who came through the station,",
+      "zh": ""
+    },
+    {
+      "start": 572.32,
+      "duration": 2.56,
+      "text": "but they quickly ran into a problem.",
+      "en": "but they quickly ran into a problem.",
+      "zh": ""
+    },
+    {
+      "start": 574.88,
+      "duration": 2.24,
+      "text": "When they got a suspect in,",
+      "en": "When they got a suspect in,",
+      "zh": ""
+    },
+    {
+      "start": 577.12,
+      "duration": 2.0,
+      "text": "how could they crosscheck their prints",
+      "en": "how could they crosscheck their prints",
+      "zh": ""
+    },
+    {
+      "start": 579.12,
+      "duration": 1.36,
+      "text": "against their own database",
+      "en": "against their own database",
+      "zh": ""
+    },
+    {
+      "start": 580.48,
+      "duration": 1.84,
+      "text": "when there were 10 prints per person",
+      "en": "when there were 10 prints per person",
+      "zh": ""
+    },
+    {
+      "start": 582.32,
+      "duration": 2.64,
+      "text": "and thousands of people coming through?",
+      "en": "and thousands of people coming through?",
+      "zh": ""
+    },
+    {
+      "start": 584.96,
+      "duration": 2.8,
+      "text": "They needed a classification system.",
+      "en": "They needed a classification system.",
+      "zh": ""
+    },
+    {
+      "start": 587.76,
+      "duration": 1.6,
+      "text": "Haque proposed that they should look at",
+      "en": "Haque proposed that they should look at",
+      "zh": ""
+    },
+    {
+      "start": 589.36,
+      "duration": 2.4,
+      "text": "whether a fingerprint has a whorl.",
+      "en": "whether a fingerprint has a whorl.",
+      "zh": ""
+    },
+    {
+      "start": 591.76,
+      "duration": 1.2,
+      "text": "It's the spiral pattern",
+      "en": "It's the spiral pattern",
+      "zh": ""
+    },
+    {
+      "start": 592.96,
+      "duration": 2.08,
+      "text": "that a person might have on their fingers.",
+      "en": "that a person might have on their fingers.",
+      "zh": ""
+    },
+    {
+      "start": 595.04,
+      "duration": 1.92,
+      "text": "And because each of your 10 digits",
+      "en": "And because each of your 10 digits",
+      "zh": ""
+    },
+    {
+      "start": 596.96,
+      "duration": 2.24,
+      "text": "can either have a whorl or not,",
+      "en": "can either have a whorl or not,",
+      "zh": ""
+    },
+    {
+      "start": 599.2,
+      "duration": 2.32,
+      "text": "there are a total of two to the power of 10",
+      "en": "there are a total of two to the power of 10",
+      "zh": ""
+    },
+    {
+      "start": 601.52,
+      "duration": 3.6,
+      "text": "or 1024 ways your whorls can be arranged.",
+      "en": "or 1024 ways your whorls can be arranged.",
+      "zh": ""
+    },
+    {
+      "start": 605.12,
+      "duration": 4.32,
+      "text": "So the officers just built 1024 wooden pigeon holes",
+      "en": "So the officers just built 1024 wooden pigeon holes",
+      "zh": ""
+    },
+    {
+      "start": 609.44,
+      "duration": 3.84,
+      "text": "to organize these fingerprints.",
+      "en": "to organize these fingerprints.",
+      "zh": ""
+    },
+    {
+      "start": 613.28,
+      "duration": 0.4,
+      "text": "Okay.",
+      "en": "Okay.",
+      "zh": ""
+    },
+    {
+      "start": 613.68,
+      "duration": 2.08,
+      "text": "But what if like me, you don't have a whorl?",
+      "en": "But what if like me, you don't have a whorl?",
+      "zh": ""
+    },
+    {
+      "start": 615.76,
+      "duration": 2.88,
+      "text": "Well, two thirds of the population actually don't.",
+      "en": "Well, two thirds of the population actually don't.",
+      "zh": ""
+    },
+    {
+      "start": 618.64,
+      "duration": 1.84,
+      "text": "So the system had to go further.",
+      "en": "So the system had to go further.",
+      "zh": ""
+    },
+    {
+      "start": 620.48,
+      "duration": 1.44,
+      "text": "Once you have a pigeonhole number,",
+      "en": "Once you have a pigeonhole number,",
+      "zh": ""
+    },
+    {
+      "start": 621.92,
+      "duration": 2.4,
+      "text": "you go for additional layers of identification.",
+      "en": "you go for additional layers of identification.",
+      "zh": ""
+    },
+    {
+      "start": 624.32,
+      "duration": 1.28,
+      "text": "Some of the additional categories",
+      "en": "Some of the additional categories",
+      "zh": ""
+    },
+    {
+      "start": 625.6,
+      "duration": 3.04,
+      "text": "that you could assign included whether you had a plain arch,",
+      "en": "that you could assign included whether you had a plain arch,",
+      "zh": ""
+    },
+    {
+      "start": 628.64,
+      "duration": 2.08,
+      "text": "which was denoted with the letter A,",
+      "en": "which was denoted with the letter A,",
+      "zh": ""
+    },
+    {
+      "start": 630.72,
+      "duration": 1.92,
+      "text": "or whether you had a tented arch,",
+      "en": "or whether you had a tented arch,",
+      "zh": ""
+    },
+    {
+      "start": 632.64,
+      "duration": 2.0,
+      "text": "which was denoted with a T.",
+      "en": "which was denoted with a T.",
+      "zh": ""
+    },
+    {
+      "start": 634.64,
+      "duration": 1.92,
+      "text": "Similarly, you could look at which side",
+      "en": "Similarly, you could look at which side",
+      "zh": ""
+    },
+    {
+      "start": 636.56,
+      "duration": 2.4,
+      "text": "of the finger this loop structure is on.",
+      "en": "of the finger this loop structure is on.",
+      "zh": ""
+    },
+    {
+      "start": 638.96,
+      "duration": 2.32,
+      "text": "And with a few more identifiers like these,",
+      "en": "And with a few more identifiers like these,",
+      "zh": ""
+    },
+    {
+      "start": 641.28,
+      "duration": 3.36,
+      "text": "we get a much more in-depth classification,",
+      "en": "we get a much more in-depth classification,",
+      "zh": ""
+    },
+    {
+      "start": 644.64,
+      "duration": 4.08,
+      "text": "one that would go on to be used for the next 100 years.",
+      "en": "one that would go on to be used for the next 100 years.",
+      "zh": ""
+    },
+    {
+      "start": 648.72,
+      "duration": 2.48,
+      "text": "Famously, the world's first fingerprint bureau,",
+      "en": "Famously, the world's first fingerprint bureau,",
+      "zh": ""
+    },
+    {
+      "start": 651.2,
+      "duration": 3.12,
+      "text": "which was established in London in the New Scotland Yard,",
+      "en": "which was established in London in the New Scotland Yard,",
+      "zh": ""
+    },
+    {
+      "start": 654.32,
+      "duration": 1.6,
+      "text": "used this fingerprinting system.",
+      "en": "used this fingerprinting system.",
+      "zh": ""
+    },
+    {
+      "start": 655.92,
+      "duration": 4.4,
+      "text": "- I started in 1988 with Metropolitan Police",
+      "en": "- I started in 1988 with Metropolitan Police",
+      "zh": ""
+    },
+    {
+      "start": 660.32,
+      "duration": 1.08,
+      "text": "in forensic services.",
+      "en": "in forensic services.",
+      "zh": ""
+    },
+    {
+      "start": 661.4,
+      "duration": 2.76,
+      "text": "- Could you paint a picture of what the room",
+      "en": "- Could you paint a picture of what the room",
+      "zh": ""
+    },
+    {
+      "start": 664.16,
+      "duration": 2.16,
+      "text": "would've looked like with all these pigeonholes?",
+      "en": "would've looked like with all these pigeonholes?",
+      "zh": ""
+    },
+    {
+      "start": 666.32,
+      "duration": 1.08,
+      "text": "How big was this space?",
+      "en": "How big was this space?",
+      "zh": ""
+    },
+    {
+      "start": 667.4,
+      "duration": 2.84,
+      "text": "- So we're looking at a space of about",
+      "en": "- So we're looking at a space of about",
+      "zh": ""
+    },
+    {
+      "start": 670.24,
+      "duration": 2.32,
+      "text": "30 to 40 meters in length",
+      "en": "30 to 40 meters in length",
+      "zh": ""
+    },
+    {
+      "start": 672.56,
+      "duration": 3.36,
+      "text": "and about 10 to 20 meters in width.",
+      "en": "and about 10 to 20 meters in width.",
+      "zh": ""
+    },
+    {
+      "start": 675.92,
+      "duration": 2.24,
+      "text": "The collection at the time was about",
+      "en": "The collection at the time was about",
+      "zh": ""
+    },
+    {
+      "start": 678.16,
+      "duration": 1.4,
+      "text": "3 to 4 million I think.",
+      "en": "3 to 4 million I think.",
+      "zh": ""
+    },
+    {
+      "start": 679.56,
+      "duration": 0.92,
+      "text": "- That is intense.",
+      "en": "- That is intense.",
+      "zh": ""
+    },
+    {
+      "start": 680.48,
+      "duration": 1.44,
+      "text": "Yeah, that's wow.",
+      "en": "Yeah, that's wow.",
+      "zh": ""
+    },
+    {
+      "start": 681.92,
+      "duration": 1.84,
+      "text": "- It's a lot of fingerprints.",
+      "en": "- It's a lot of fingerprints.",
+      "zh": ""
+    },
+    {
+      "start": 683.76,
+      "duration": 3.52,
+      "text": "- Now, today's system takes into account",
+      "en": "- Now, today's system takes into account",
+      "zh": ""
+    },
+    {
+      "start": 687.28,
+      "duration": 2.24,
+      "text": "these little details along the ridges.",
+      "en": "these little details along the ridges.",
+      "zh": ""
+    },
+    {
+      "start": 689.52,
+      "duration": 2.08,
+      "text": "It's called friction ridge analysis.",
+      "en": "It's called friction ridge analysis.",
+      "zh": ""
+    },
+    {
+      "start": 691.6,
+      "duration": 1.2,
+      "text": "And well, it's no surprise that",
+      "en": "And well, it's no surprise that",
+      "zh": ""
+    },
+    {
+      "start": 692.8,
+      "duration": 2.72,
+      "text": "combing through pigeon holes for these would've taken weeks,",
+      "en": "combing through pigeon holes for these would've taken weeks,",
+      "zh": ""
+    },
+    {
+      "start": 695.52,
+      "duration": 5.83,
+      "text": "but online databases today can basically do it in minutes.",
+      "en": "but online databases today can basically do it in minutes.",
+      "zh": ""
+    },
+    {
+      "start": 701.35,
+      "duration": 0.3,
+      "text": "(phone ringing)",
+      "en": "(phone ringing)",
+      "zh": ""
+    },
+    {
+      "start": 701.36,
+      "duration": 2.24,
+      "text": "No way this phone works.",
+      "en": "No way this phone works.",
+      "zh": ""
+    },
+    {
+      "start": 704.8,
+      "duration": 1.76,
+      "text": "Hello? - Howdy, Gregor.",
+      "en": "Hello? - Howdy, Gregor.",
+      "zh": ""
+    },
+    {
+      "start": 706.56,
+      "duration": 1.48,
+      "text": "Just trying to get a hold of you.",
+      "en": "Just trying to get a hold of you.",
+      "zh": ""
+    },
+    {
+      "start": 708.04,
+      "duration": 2.58,
+      "text": "- Why are you calling me through this thing?",
+      "en": "- Why are you calling me through this thing?",
+      "zh": ""
+    },
+    {
+      "start": 710.62,
+      "duration": 0.3,
+      "text": "(caller speaks faintly)",
+      "en": "(caller speaks faintly)",
+      "zh": ""
+    },
+    {
+      "start": 710.64,
+      "duration": 1.36,
+      "text": "You have no data?",
+      "en": "You have no data?",
+      "zh": ""
+    },
+    {
+      "start": 712.0,
+      "duration": 0.88,
+      "text": "Just get Saily.",
+      "en": "Just get Saily.",
+      "zh": ""
+    },
+    {
+      "start": 712.88,
+      "duration": 1.84,
+      "text": "- You know, I travel a lot for filming.",
+      "en": "- You know, I travel a lot for filming.",
+      "zh": ""
+    },
+    {
+      "start": 714.72,
+      "duration": 3.68,
+      "text": "I actually just got to London.",
+      "en": "I actually just got to London.",
+      "zh": ""
+    },
+    {
+      "start": 718.4,
+      "duration": 1.92,
+      "text": "I always wanna be able to connect to the internet",
+      "en": "I always wanna be able to connect to the internet",
+      "zh": ""
+    },
+    {
+      "start": 720.32,
+      "duration": 1.68,
+      "text": "as soon as I land,",
+      "en": "as soon as I land,",
+      "zh": ""
+    },
+    {
+      "start": 722.0,
+      "duration": 2.96,
+      "text": "and with the help of today's sponsor, Saily,",
+      "en": "and with the help of today's sponsor, Saily,",
+      "zh": ""
+    },
+    {
+      "start": 724.96,
+      "duration": 1.36,
+      "text": "it couldn't be easier.",
+      "en": "it couldn't be easier.",
+      "zh": ""
+    },
+    {
+      "start": 726.32,
+      "duration": 3.04,
+      "text": "First, you just scan the QR code and download the Saily app,",
+      "en": "First, you just scan the QR code and download the Saily app,",
+      "zh": ""
+    },
+    {
+      "start": 729.36,
+      "duration": 3.04,
+      "text": "then you search your destination, the UK, for example.",
+      "en": "then you search your destination, the UK, for example.",
+      "zh": ""
+    },
+    {
+      "start": 732.4,
+      "duration": 1.92,
+      "text": "And next you just pick a data plan.",
+      "en": "And next you just pick a data plan.",
+      "zh": ""
+    },
+    {
+      "start": 734.32,
+      "duration": 1.28,
+      "text": "And finally, during checkout,",
+      "en": "And finally, during checkout,",
+      "zh": ""
+    },
+    {
+      "start": 735.6,
+      "duration": 1.76,
+      "text": "apply the coupon code Veritasium",
+      "en": "apply the coupon code Veritasium",
+      "zh": ""
+    },
+    {
+      "start": 737.36,
+      "duration": 2.64,
+      "text": "to get your exclusive 15% discount.",
+      "en": "to get your exclusive 15% discount.",
+      "zh": ""
+    },
+    {
+      "start": 740.0,
+      "duration": 4.0,
+      "text": "No more dodgy cafe wifi or unexpected roaming charges.",
+      "en": "No more dodgy cafe wifi or unexpected roaming charges.",
+      "zh": ""
+    },
+    {
+      "start": 744.0,
+      "duration": 1.12,
+      "text": "All you need to do is just",
+      "en": "All you need to do is just",
+      "zh": ""
+    },
+    {
+      "start": 745.12,
+      "duration": 2.08,
+      "text": "switch on your mobile data when you land,",
+      "en": "switch on your mobile data when you land,",
+      "zh": ""
+    },
+    {
+      "start": 747.2,
+      "duration": 1.12,
+      "text": "and that's it.",
+      "en": "and that's it.",
+      "zh": ""
+    },
+    {
+      "start": 748.32,
+      "duration": 2.88,
+      "text": "Saily works with all iPhone and Android devices.",
+      "en": "Saily works with all iPhone and Android devices.",
+      "zh": ""
+    },
+    {
+      "start": 751.2,
+      "duration": 1.92,
+      "text": "And once an eSIM is installed,",
+      "en": "And once an eSIM is installed,",
+      "zh": ""
+    },
+    {
+      "start": 753.12,
+      "duration": 3.28,
+      "text": "you can keep adding plans in the app for each new trip.",
+      "en": "you can keep adding plans in the app for each new trip.",
+      "zh": ""
+    },
+    {
+      "start": 756.4,
+      "duration": 1.44,
+      "text": "And in the rare case that your phone",
+      "en": "And in the rare case that your phone",
+      "zh": ""
+    },
+    {
+      "start": 757.84,
+      "duration": 1.44,
+      "text": "isn't compatible with Saily,",
+      "en": "isn't compatible with Saily,",
+      "zh": ""
+    },
+    {
+      "start": 759.28,
+      "duration": 2.8,
+      "text": "you can get a full refund at no questions asked.",
+      "en": "you can get a full refund at no questions asked.",
+      "zh": ""
+    },
+    {
+      "start": 762.08,
+      "duration": 1.76,
+      "text": "I've gone with the Saily Ultra Plan,",
+      "en": "I've gone with the Saily Ultra Plan,",
+      "zh": ""
+    },
+    {
+      "start": 763.84,
+      "duration": 1.84,
+      "text": "which gets you unlimited data globally",
+      "en": "which gets you unlimited data globally",
+      "zh": ""
+    },
+    {
+      "start": 765.68,
+      "duration": 2.64,
+      "text": "with access to airport lounges, fast track services,",
+      "en": "with access to airport lounges, fast track services,",
+      "zh": ""
+    },
+    {
+      "start": 768.32,
+      "duration": 3.76,
+      "text": "and NordVPN, NordPass, NordLocker and Incogni on top.",
+      "en": "and NordVPN, NordPass, NordLocker and Incogni on top.",
+      "zh": ""
+    },
+    {
+      "start": 772.08,
+      "duration": 2.88,
+      "text": "So to stay connected on the go for an affordable price,",
+      "en": "So to stay connected on the go for an affordable price,",
+      "zh": ""
+    },
+    {
+      "start": 774.96,
+      "duration": 2.24,
+      "text": "you can scan this QR code, download Saily,",
+      "en": "you can scan this QR code, download Saily,",
+      "zh": ""
+    },
+    {
+      "start": 777.2,
+      "duration": 3.76,
+      "text": "and get 15% off your plan with the coupon code Veritasium.",
+      "en": "and get 15% off your plan with the coupon code Veritasium.",
+      "zh": ""
+    },
+    {
+      "start": 780.96,
+      "duration": 1.76,
+      "text": "So I wanna thank Saily for sponsoring",
+      "en": "So I wanna thank Saily for sponsoring",
+      "zh": ""
+    },
+    {
+      "start": 782.72,
+      "duration": 0.96,
+      "text": "this part of the video,",
+      "en": "this part of the video,",
+      "zh": ""
+    },
+    {
+      "start": 783.68,
+      "duration": 1.76,
+      "text": "and now back to our case.",
+      "en": "and now back to our case.",
+      "zh": ""
+    },
+    {
+      "start": 786.0,
+      "duration": 3.2,
+      "text": "So if all the details are painstakingly placed",
+      "en": "So if all the details are painstakingly placed",
+      "zh": ""
+    },
+    {
+      "start": 789.2,
+      "duration": 3.2,
+      "text": "into these databases, then where's the problem?",
+      "en": "into these databases, then where's the problem?",
+      "zh": ""
+    },
+    {
+      "start": 792.4,
+      "duration": 3.2,
+      "text": "How is Brandon Mayfield falsely accused?",
+      "en": "How is Brandon Mayfield falsely accused?",
+      "zh": ""
+    },
+    {
+      "start": 795.6,
+      "duration": 1.84,
+      "text": "Well, say you have a mark from a scene",
+      "en": "Well, say you have a mark from a scene",
+      "zh": ""
+    },
+    {
+      "start": 797.44,
+      "duration": 3.2,
+      "text": "and you wanna run it through the US fingerprint database,",
+      "en": "and you wanna run it through the US fingerprint database,",
+      "zh": ""
+    },
+    {
+      "start": 800.64,
+      "duration": 3.52,
+      "text": "you can't actually search the database using the whole mark",
+      "en": "you can't actually search the database using the whole mark",
+      "zh": ""
+    },
+    {
+      "start": 804.16,
+      "duration": 1.84,
+      "text": "because you first need to identify",
+      "en": "because you first need to identify",
+      "zh": ""
+    },
+    {
+      "start": 806.0,
+      "duration": 2.64,
+      "text": "a number of features on the print.",
+      "en": "a number of features on the print.",
+      "zh": ""
+    },
+    {
+      "start": 808.64,
+      "duration": 1.68,
+      "text": "These are called minutiae.",
+      "en": "These are called minutiae.",
+      "zh": ""
+    },
+    {
+      "start": 810.32,
+      "duration": 3.12,
+      "text": "It's where the ridge line split or end.",
+      "en": "It's where the ridge line split or end.",
+      "zh": ""
+    },
+    {
+      "start": 813.44,
+      "duration": 3.2,
+      "text": "- To even search the database,",
+      "en": "- To even search the database,",
+      "zh": ""
+    },
+    {
+      "start": 816.64,
+      "duration": 3.52,
+      "text": "you need a minimum number of minutiae points.",
+      "en": "you need a minimum number of minutiae points.",
+      "zh": ""
+    },
+    {
+      "start": 820.16,
+      "duration": 2.08,
+      "text": "It's very efficiently sorted,",
+      "en": "It's very efficiently sorted,",
+      "zh": ""
+    },
+    {
+      "start": 822.24,
+      "duration": 1.68,
+      "text": "hundreds of million prints,",
+      "en": "hundreds of million prints,",
+      "zh": ""
+    },
+    {
+      "start": 823.92,
+      "duration": 1.84,
+      "text": "but it cannot make an ID.",
+      "en": "but it cannot make an ID.",
+      "zh": ""
+    },
+    {
+      "start": 825.76,
+      "duration": 4.0,
+      "text": "So what it does, it pulls out the most similar ones,",
+      "en": "So what it does, it pulls out the most similar ones,",
+      "zh": ""
+    },
+    {
+      "start": 829.76,
+      "duration": 5.04,
+      "text": "at least 10, 20 up to 40 in some jurisdiction.",
+      "en": "at least 10, 20 up to 40 in some jurisdiction.",
+      "zh": ""
+    },
+    {
+      "start": 834.8,
+      "duration": 3.52,
+      "text": "And then the human examiner has to compare.",
+      "en": "And then the human examiner has to compare.",
+      "zh": ""
+    },
+    {
+      "start": 838.32,
+      "duration": 2.72,
+      "text": "- [Gregor] This works in theory, but the problem is",
+      "en": "- [Gregor] This works in theory, but the problem is",
+      "zh": ""
+    },
+    {
+      "start": 841.04,
+      "duration": 2.96,
+      "text": "how these minutiae are identified in the first place.",
+      "en": "how these minutiae are identified in the first place.",
+      "zh": ""
+    },
+    {
+      "start": 844.0,
+      "duration": 2.72,
+      "text": "- What is interesting in my research",
+      "en": "- What is interesting in my research",
+      "zh": ""
+    },
+    {
+      "start": 846.72,
+      "duration": 2.88,
+      "text": "published scientific reviewed research,",
+      "en": "published scientific reviewed research,",
+      "zh": ""
+    },
+    {
+      "start": 849.6,
+      "duration": 5.12,
+      "text": "the same thing one examiner see only three minutiae",
+      "en": "the same thing one examiner see only three minutiae",
+      "zh": ""
+    },
+    {
+      "start": 854.72,
+      "duration": 2.08,
+      "text": "and one sees 10 minutiae.",
+      "en": "and one sees 10 minutiae.",
+      "zh": ""
+    },
+    {
+      "start": 856.8,
+      "duration": 3.04,
+      "text": "So 10 minutiae is enough to run the database.",
+      "en": "So 10 minutiae is enough to run the database.",
+      "zh": ""
+    },
+    {
+      "start": 859.84,
+      "duration": 3.36,
+      "text": "However, if the other are only the three minutiae,",
+      "en": "However, if the other are only the three minutiae,",
+      "zh": ""
+    },
+    {
+      "start": 863.2,
+      "duration": 1.2,
+      "text": "they couldn't run it.",
+      "en": "they couldn't run it.",
+      "zh": ""
+    },
+    {
+      "start": 864.4,
+      "duration": 3.12,
+      "text": "So whether you find a criminal or not",
+      "en": "So whether you find a criminal or not",
+      "zh": ""
+    },
+    {
+      "start": 867.52,
+      "duration": 1.76,
+      "text": "depends on the luck of the draw.",
+      "en": "depends on the luck of the draw.",
+      "zh": ""
+    },
+    {
+      "start": 869.28,
+      "duration": 2.4,
+      "text": "Even if you give the same pair of prints",
+      "en": "Even if you give the same pair of prints",
+      "zh": ""
+    },
+    {
+      "start": 871.68,
+      "duration": 4.24,
+      "text": "to the same examiner twice, 10% of the time,",
+      "en": "to the same examiner twice, 10% of the time,",
+      "zh": ""
+    },
+    {
+      "start": 875.92,
+      "duration": 2.2,
+      "text": "they will reach a different decision.",
+      "en": "they will reach a different decision.",
+      "zh": ""
+    },
+    {
+      "start": 878.12,
+      "duration": 3.32,
+      "text": "- And these disagreements are from controlled studies",
+      "en": "- And these disagreements are from controlled studies",
+      "zh": ""
+    },
+    {
+      "start": 881.44,
+      "duration": 2.96,
+      "text": "where the examiners had no context about the crime,",
+      "en": "where the examiners had no context about the crime,",
+      "zh": ""
+    },
+    {
+      "start": 884.4,
+      "duration": 2.08,
+      "text": "but in reality, they often do.",
+      "en": "but in reality, they often do.",
+      "zh": ""
+    },
+    {
+      "start": 886.48,
+      "duration": 2.16,
+      "text": "As many as 42% of the requests",
+      "en": "As many as 42% of the requests",
+      "zh": ""
+    },
+    {
+      "start": 888.64,
+      "duration": 1.84,
+      "text": "that fingerprint experts process",
+      "en": "that fingerprint experts process",
+      "zh": ""
+    },
+    {
+      "start": 890.48,
+      "duration": 3.2,
+      "text": "state whether a suspect has a criminal record.",
+      "en": "state whether a suspect has a criminal record.",
+      "zh": ""
+    },
+    {
+      "start": 893.68,
+      "duration": 4.16,
+      "text": "- In a recent case that I was involved",
+      "en": "- In a recent case that I was involved",
+      "zh": ""
+    },
+    {
+      "start": 897.84,
+      "duration": 1.92,
+      "text": "where a firearm was involved",
+      "en": "where a firearm was involved",
+      "zh": ""
+    },
+    {
+      "start": 899.76,
+      "duration": 2.64,
+      "text": "and a forensic firearm expert",
+      "en": "and a forensic firearm expert",
+      "zh": ""
+    },
+    {
+      "start": 902.4,
+      "duration": 4.24,
+      "text": "had to decide whether a bullet was actually fired",
+      "en": "had to decide whether a bullet was actually fired",
+      "zh": ""
+    },
+    {
+      "start": 906.64,
+      "duration": 2.32,
+      "text": "on the firearm, on the suspect.",
+      "en": "on the firearm, on the suspect.",
+      "zh": ""
+    },
+    {
+      "start": 908.96,
+      "duration": 2.4,
+      "text": "On the former submission form",
+      "en": "On the former submission form",
+      "zh": ""
+    },
+    {
+      "start": 911.36,
+      "duration": 2.88,
+      "text": "that was given to the forensic scientist,",
+      "en": "that was given to the forensic scientist,",
+      "zh": ""
+    },
+    {
+      "start": 914.24,
+      "duration": 2.88,
+      "text": "it said that it's homicide,",
+      "en": "it said that it's homicide,",
+      "zh": ""
+    },
+    {
+      "start": 917.12,
+      "duration": 3.68,
+      "text": "it said the age of the suspect and the victim,",
+      "en": "it said the age of the suspect and the victim,",
+      "zh": ""
+    },
+    {
+      "start": 920.8,
+      "duration": 1.52,
+      "text": "and it even said the race.",
+      "en": "and it even said the race.",
+      "zh": ""
+    },
+    {
+      "start": 922.32,
+      "duration": 2.16,
+      "text": "It said the suspect is black,",
+      "en": "It said the suspect is black,",
+      "zh": ""
+    },
+    {
+      "start": 924.48,
+      "duration": 3.28,
+      "text": "and the person who died the victim was white.",
+      "en": "and the person who died the victim was white.",
+      "zh": ""
+    },
+    {
+      "start": 927.76,
+      "duration": 1.92,
+      "text": "- For over a century,",
+      "en": "- For over a century,",
+      "zh": ""
+    },
+    {
+      "start": 929.68,
+      "duration": 2.8,
+      "text": "experts have held so much trust in fingerprints",
+      "en": "experts have held so much trust in fingerprints",
+      "zh": ""
+    },
+    {
+      "start": 932.48,
+      "duration": 2.08,
+      "text": "that in the FBI case for Mayfield,",
+      "en": "that in the FBI case for Mayfield,",
+      "zh": ""
+    },
+    {
+      "start": 934.56,
+      "duration": 2.72,
+      "text": "the examiners claimed with 100% certainty",
+      "en": "the examiners claimed with 100% certainty",
+      "zh": ""
+    },
+    {
+      "start": 937.28,
+      "duration": 1.84,
+      "text": "that that was his mark.",
+      "en": "that that was his mark.",
+      "zh": ""
+    },
+    {
+      "start": 939.12,
+      "duration": 2.8,
+      "text": "This likely happened because when another fingerprint expert",
+      "en": "This likely happened because when another fingerprint expert",
+      "zh": ""
+    },
+    {
+      "start": 941.92,
+      "duration": 1.92,
+      "text": "was brought in to verify the match,",
+      "en": "was brought in to verify the match,",
+      "zh": ""
+    },
+    {
+      "start": 943.84,
+      "duration": 1.92,
+      "text": "they probably already knew the verdict",
+      "en": "they probably already knew the verdict",
+      "zh": ""
+    },
+    {
+      "start": 945.76,
+      "duration": 1.92,
+      "text": "of the original analyst,",
+      "en": "of the original analyst,",
+      "zh": ""
+    },
+    {
+      "start": 947.68,
+      "duration": 2.4,
+      "text": "and they probably also knew the stakes",
+      "en": "and they probably also knew the stakes",
+      "zh": ""
+    },
+    {
+      "start": 950.08,
+      "duration": 2.16,
+      "text": "of what a match could mean for the case,",
+      "en": "of what a match could mean for the case,",
+      "zh": ""
+    },
+    {
+      "start": 952.24,
+      "duration": 2.0,
+      "text": "which made it all the easier to agree",
+      "en": "which made it all the easier to agree",
+      "zh": ""
+    },
+    {
+      "start": 954.24,
+      "duration": 1.44,
+      "text": "with the initial verdict.",
+      "en": "with the initial verdict.",
+      "zh": ""
+    },
+    {
+      "start": 955.68,
+      "duration": 2.72,
+      "text": "Even the fingerprint expert working for the defense",
+      "en": "Even the fingerprint expert working for the defense",
+      "zh": ""
+    },
+    {
+      "start": 958.4,
+      "duration": 2.96,
+      "text": "agreed that the mark matched Mayfield's fingerprint",
+      "en": "agreed that the mark matched Mayfield's fingerprint",
+      "zh": ""
+    },
+    {
+      "start": 961.36,
+      "duration": 2.08,
+      "text": "when in reality, it belonged to a man",
+      "en": "when in reality, it belonged to a man",
+      "zh": ""
+    },
+    {
+      "start": 963.44,
+      "duration": 3.68,
+      "text": "who had links to terrorist organizations in Spain.",
+      "en": "who had links to terrorist organizations in Spain.",
+      "zh": ""
+    },
+    {
+      "start": 967.12,
+      "duration": 2.04,
+      "text": "This is the impact of conformity bias.",
+      "en": "This is the impact of conformity bias.",
+      "zh": ""
+    },
+    {
+      "start": 969.16,
+      "duration": 1.72,
+      "text": "- So all of this pressure,",
+      "en": "- So all of this pressure,",
+      "zh": ""
+    },
+    {
+      "start": 970.88,
+      "duration": 2.56,
+      "text": "all of this context and intervention",
+      "en": "all of this context and intervention",
+      "zh": ""
+    },
+    {
+      "start": 973.44,
+      "duration": 1.84,
+      "text": "in the forensic science,",
+      "en": "in the forensic science,",
+      "zh": ""
+    },
+    {
+      "start": 975.28,
+      "duration": 2.8,
+      "text": "I say to the police and the prosecutor,",
+      "en": "I say to the police and the prosecutor,",
+      "zh": ""
+    },
+    {
+      "start": 978.08,
+      "duration": 3.2,
+      "text": "leave the forensic examiners alone.",
+      "en": "leave the forensic examiners alone.",
+      "zh": ""
+    },
+    {
+      "start": 981.28,
+      "duration": 2.08,
+      "text": "Give them independence of mind",
+      "en": "Give them independence of mind",
+      "zh": ""
+    },
+    {
+      "start": 983.36,
+      "duration": 4.64,
+      "text": "to make decision based on the relevant scientific evidence",
+      "en": "to make decision based on the relevant scientific evidence",
+      "zh": ""
+    },
+    {
+      "start": 988.0,
+      "duration": 4.44,
+      "text": "and do the work rather than telling them about the case.",
+      "en": "and do the work rather than telling them about the case.",
+      "zh": ""
+    },
+    {
+      "start": 992.44,
+      "duration": 2.92,
+      "text": "- Well, if there were issues",
+      "en": "- Well, if there were issues",
+      "zh": ""
+    },
+    {
+      "start": 995.36,
+      "duration": 2.16,
+      "text": "with all these other techniques,",
+      "en": "with all these other techniques,",
+      "zh": ""
+    },
+    {
+      "start": 997.52,
+      "duration": 1.52,
+      "text": "why don't we just use,",
+      "en": "why don't we just use,",
+      "zh": ""
+    },
+    {
+      "start": 999.04,
+      "duration": 1.32,
+      "text": "- DNA? - DNA first?",
+      "en": "- DNA? - DNA first?",
+      "zh": ""
+    },
+    {
+      "start": 1000.36,
+      "duration": 0.52,
+      "text": "- Yeah.",
+      "en": "- Yeah.",
+      "zh": ""
+    },
+    {
+      "start": 1000.88,
+      "duration": 3.32,
+      "text": "- DNA has got to be surely, - DNA should be top.",
+      "en": "- DNA has got to be surely, - DNA should be top.",
+      "zh": ""
+    },
+    {
+      "start": 1004.2,
+      "duration": 2.04,
+      "text": "- It has to be DNA because, - Okay, okay.",
+      "en": "- It has to be DNA because, - Okay, okay.",
+      "zh": ""
+    },
+    {
+      "start": 1006.24,
+      "duration": 2.16,
+      "text": "- You already know everyone have their own DNA.",
+      "en": "- You already know everyone have their own DNA.",
+      "zh": ""
+    },
+    {
+      "start": 1008.4,
+      "duration": 4.16,
+      "text": "- But even DNA analysis can fall prey to the same problems.",
+      "en": "- But even DNA analysis can fall prey to the same problems.",
+      "zh": ""
+    },
+    {
+      "start": 1012.56,
+      "duration": 1.2,
+      "text": "Back in the 80s,",
+      "en": "Back in the 80s,",
+      "zh": ""
+    },
+    {
+      "start": 1013.76,
+      "duration": 2.24,
+      "text": "you had to do this with a sample the size",
+      "en": "you had to do this with a sample the size",
+      "zh": ""
+    },
+    {
+      "start": 1016.0,
+      "duration": 2.16,
+      "text": "of a dime of blood or saliva.",
+      "en": "of a dime of blood or saliva.",
+      "zh": ""
+    },
+    {
+      "start": 1018.16,
+      "duration": 2.8,
+      "text": "But today you can do it with less than a pin hair's worth.",
+      "en": "But today you can do it with less than a pin hair's worth.",
+      "zh": ""
+    },
+    {
+      "start": 1020.96,
+      "duration": 2.96,
+      "text": "In fact, just this year a 61-year-old cold case",
+      "en": "In fact, just this year a 61-year-old cold case",
+      "zh": ""
+    },
+    {
+      "start": 1023.92,
+      "duration": 4.4,
+      "text": "was solved with just 0.4 nanograms of DNA.",
+      "en": "was solved with just 0.4 nanograms of DNA.",
+      "zh": ""
+    },
+    {
+      "start": 1028.32,
+      "duration": 3.36,
+      "text": "But the paradox is, the increasing sensitivity",
+      "en": "But the paradox is, the increasing sensitivity",
+      "zh": ""
+    },
+    {
+      "start": 1031.68,
+      "duration": 3.52,
+      "text": "of DNA analysis could also be its downfall.",
+      "en": "of DNA analysis could also be its downfall.",
+      "zh": ""
+    },
+    {
+      "start": 1035.76,
+      "duration": 3.36,
+      "text": "In 2012, paramedics in California responded to a call",
+      "en": "In 2012, paramedics in California responded to a call",
+      "zh": ""
+    },
+    {
+      "start": 1039.12,
+      "duration": 2.64,
+      "text": "about a severely intoxicated homeless man.",
+      "en": "about a severely intoxicated homeless man.",
+      "zh": ""
+    },
+    {
+      "start": 1041.76,
+      "duration": 2.4,
+      "text": "They treated him and took him to the hospital,",
+      "en": "They treated him and took him to the hospital,",
+      "zh": ""
+    },
+    {
+      "start": 1044.16,
+      "duration": 2.16,
+      "text": "but along the way, they also picked up traces",
+      "en": "but along the way, they also picked up traces",
+      "zh": ""
+    },
+    {
+      "start": 1046.32,
+      "duration": 2.96,
+      "text": "of his DNA on their equipment and gloves.",
+      "en": "of his DNA on their equipment and gloves.",
+      "zh": ""
+    },
+    {
+      "start": 1049.28,
+      "duration": 2.56,
+      "text": "Then later that night, they responded to a murder",
+      "en": "Then later that night, they responded to a murder",
+      "zh": ""
+    },
+    {
+      "start": 1051.84,
+      "duration": 2.64,
+      "text": "of a businessman and they accidentally transferred",
+      "en": "of a businessman and they accidentally transferred",
+      "zh": ""
+    },
+    {
+      "start": 1054.48,
+      "duration": 3.6,
+      "text": "the homeless man's DNA to the victim's fingernails.",
+      "en": "the homeless man's DNA to the victim's fingernails.",
+      "zh": ""
+    },
+    {
+      "start": 1058.08,
+      "duration": 2.4,
+      "text": "Because of that, the homeless man, Lucas Anderson,",
+      "en": "Because of that, the homeless man, Lucas Anderson,",
+      "zh": ""
+    },
+    {
+      "start": 1060.48,
+      "duration": 3.04,
+      "text": "was charged with murder and he faced the death penalty",
+      "en": "was charged with murder and he faced the death penalty",
+      "zh": ""
+    },
+    {
+      "start": 1063.52,
+      "duration": 3.52,
+      "text": "despite being hospitalized at the time the crime occurred.",
+      "en": "despite being hospitalized at the time the crime occurred.",
+      "zh": ""
+    },
+    {
+      "start": 1067.04,
+      "duration": 1.68,
+      "text": "He spent five months in jail",
+      "en": "He spent five months in jail",
+      "zh": ""
+    },
+    {
+      "start": 1068.72,
+      "duration": 2.12,
+      "text": "before charges were finally dropped.",
+      "en": "before charges were finally dropped.",
+      "zh": ""
+    },
+    {
+      "start": 1070.84,
+      "duration": 3.32,
+      "text": "- So this is trace DNA and touch DNA,",
+      "en": "- So this is trace DNA and touch DNA,",
+      "zh": ""
+    },
+    {
+      "start": 1074.16,
+      "duration": 3.08,
+      "text": "where you can get this kind of DNA transfer that happens.",
+      "en": "where you can get this kind of DNA transfer that happens.",
+      "zh": ""
+    },
+    {
+      "start": 1077.24,
+      "duration": 1.88,
+      "text": "- I see how that could be abused easily.",
+      "en": "- I see how that could be abused easily.",
+      "zh": ""
+    },
+    {
+      "start": 1079.12,
+      "duration": 2.56,
+      "text": "So my DNA could be in a place I've never been before.",
+      "en": "So my DNA could be in a place I've never been before.",
+      "zh": ""
+    },
+    {
+      "start": 1081.68,
+      "duration": 0.88,
+      "text": "- Yeah.",
+      "en": "- Yeah.",
+      "zh": ""
+    },
+    {
+      "start": 1082.56,
+      "duration": 3.2,
+      "text": "- And if DNA is deposited under the right conditions,",
+      "en": "- And if DNA is deposited under the right conditions,",
+      "zh": ""
+    },
+    {
+      "start": 1085.76,
+      "duration": 4.2,
+      "text": "say a dark dry place, it can persist for hundreds of years.",
+      "en": "say a dark dry place, it can persist for hundreds of years.",
+      "zh": ""
+    },
+    {
+      "start": 1089.96,
+      "duration": 4.2,
+      "text": "- And if, for example, somebody touches a door handle,",
+      "en": "- And if, for example, somebody touches a door handle,",
+      "zh": ""
+    },
+    {
+      "start": 1094.16,
+      "duration": 2.88,
+      "text": "well, loads of people are gonna be touching a door handle,",
+      "en": "well, loads of people are gonna be touching a door handle,",
+      "zh": ""
+    },
+    {
+      "start": 1097.04,
+      "duration": 1.36,
+      "text": "so you're definitely going to get",
+      "en": "so you're definitely going to get",
+      "zh": ""
+    },
+    {
+      "start": 1098.4,
+      "duration": 2.63,
+      "text": "more than one profile off of there.",
+      "en": "more than one profile off of there.",
+      "zh": ""
+    },
+    {
+      "start": 1101.03,
+      "duration": 2.25,
+      "text": "- [Gregor] These samples with multiple DNA profiles",
+      "en": "- [Gregor] These samples with multiple DNA profiles",
+      "zh": ""
+    },
+    {
+      "start": 1103.28,
+      "duration": 1.84,
+      "text": "are called DNA mixtures,",
+      "en": "are called DNA mixtures,",
+      "zh": ""
+    },
+    {
+      "start": 1105.12,
+      "duration": 1.2,
+      "text": "and they have been found to be",
+      "en": "and they have been found to be",
+      "zh": ""
+    },
+    {
+      "start": 1106.32,
+      "duration": 3.04,
+      "text": "the most common source of error in DNA interpretation.",
+      "en": "the most common source of error in DNA interpretation.",
+      "zh": ""
+    },
+    {
+      "start": 1109.36,
+      "duration": 3.84,
+      "text": "- Some people shed more cells than others,",
+      "en": "- Some people shed more cells than others,",
+      "zh": ""
+    },
+    {
+      "start": 1113.2,
+      "duration": 2.16,
+      "text": "so the majority of the DNA that you're getting",
+      "en": "so the majority of the DNA that you're getting",
+      "zh": ""
+    },
+    {
+      "start": 1115.36,
+      "duration": 1.52,
+      "text": "off of that door handle may not be",
+      "en": "off of that door handle may not be",
+      "zh": ""
+    },
+    {
+      "start": 1116.88,
+      "duration": 1.64,
+      "text": "from the last person who touched it.",
+      "en": "from the last person who touched it.",
+      "zh": ""
+    },
+    {
+      "start": 1118.52,
+      "duration": 2.04,
+      "text": "- The problem in interpreting a mixture",
+      "en": "- The problem in interpreting a mixture",
+      "zh": ""
+    },
+    {
+      "start": 1120.56,
+      "duration": 2.8,
+      "text": "comes down to how a sample gets analyzed.",
+      "en": "comes down to how a sample gets analyzed.",
+      "zh": ""
+    },
+    {
+      "start": 1123.36,
+      "duration": 1.36,
+      "text": "The most common way to do it",
+      "en": "The most common way to do it",
+      "zh": ""
+    },
+    {
+      "start": 1124.72,
+      "duration": 3.44,
+      "text": "uses short tandem repeats or STRs.",
+      "en": "uses short tandem repeats or STRs.",
+      "zh": ""
+    },
+    {
+      "start": 1128.16,
+      "duration": 2.56,
+      "text": "DNA is made up of four nucleotides,",
+      "en": "DNA is made up of four nucleotides,",
+      "zh": ""
+    },
+    {
+      "start": 1130.72,
+      "duration": 1.84,
+      "text": "G, A, T and C.",
+      "en": "G, A, T and C.",
+      "zh": ""
+    },
+    {
+      "start": 1132.56,
+      "duration": 2.8,
+      "text": "And the SDR method looks at how chunks of DNA,",
+      "en": "And the SDR method looks at how chunks of DNA,",
+      "zh": ""
+    },
+    {
+      "start": 1135.36,
+      "duration": 2.4,
+      "text": "usually three to five nucleotides long",
+      "en": "usually three to five nucleotides long",
+      "zh": ""
+    },
+    {
+      "start": 1137.76,
+      "duration": 1.44,
+      "text": "repeat in your genome.",
+      "en": "repeat in your genome.",
+      "zh": ""
+    },
+    {
+      "start": 1139.2,
+      "duration": 3.36,
+      "text": "For example, G-A-T-A, G-A-T-A and so on.",
+      "en": "For example, G-A-T-A, G-A-T-A and so on.",
+      "zh": ""
+    },
+    {
+      "start": 1142.56,
+      "duration": 3.76,
+      "text": "For one person, they might have G-A-T-A repeat six times,",
+      "en": "For one person, they might have G-A-T-A repeat six times,",
+      "zh": ""
+    },
+    {
+      "start": 1146.32,
+      "duration": 4.32,
+      "text": "whereas another individual might have nine repetitions.",
+      "en": "whereas another individual might have nine repetitions.",
+      "zh": ""
+    },
+    {
+      "start": 1150.64,
+      "duration": 2.72,
+      "text": "A standard SDR test will look at around",
+      "en": "A standard SDR test will look at around",
+      "zh": ""
+    },
+    {
+      "start": 1153.36,
+      "duration": 1.6,
+      "text": "20 locations on your genome",
+      "en": "20 locations on your genome",
+      "zh": ""
+    },
+    {
+      "start": 1154.96,
+      "duration": 1.92,
+      "text": "for where these repeats can occur,",
+      "en": "for where these repeats can occur,",
+      "zh": ""
+    },
+    {
+      "start": 1156.88,
+      "duration": 2.0,
+      "text": "and it will count how many repeats",
+      "en": "and it will count how many repeats",
+      "zh": ""
+    },
+    {
+      "start": 1158.88,
+      "duration": 1.44,
+      "text": "you have in each location.",
+      "en": "you have in each location.",
+      "zh": ""
+    },
+    {
+      "start": 1160.32,
+      "duration": 2.96,
+      "text": "- So if you are looking at 20 of these markers",
+      "en": "- So if you are looking at 20 of these markers",
+      "zh": ""
+    },
+    {
+      "start": 1163.28,
+      "duration": 1.84,
+      "text": "and you've got one from mom and one from dad,",
+      "en": "and you've got one from mom and one from dad,",
+      "zh": ""
+    },
+    {
+      "start": 1165.12,
+      "duration": 2.4,
+      "text": "you're actually getting 40 different",
+      "en": "you're actually getting 40 different",
+      "zh": ""
+    },
+    {
+      "start": 1167.52,
+      "duration": 2.16,
+      "text": "genetic markers coming back.",
+      "en": "genetic markers coming back.",
+      "zh": ""
+    },
+    {
+      "start": 1169.68,
+      "duration": 4.48,
+      "text": "So the chances of somebody having the same combination",
+      "en": "So the chances of somebody having the same combination",
+      "zh": ""
+    },
+    {
+      "start": 1174.16,
+      "duration": 3.44,
+      "text": "of genetic markers as you is around one in a billion.",
+      "en": "of genetic markers as you is around one in a billion.",
+      "zh": ""
+    },
+    {
+      "start": 1177.6,
+      "duration": 2.32,
+      "text": "- Here's what a crime scene sample containing",
+      "en": "- Here's what a crime scene sample containing",
+      "zh": ""
+    },
+    {
+      "start": 1179.92,
+      "duration": 3.12,
+      "text": "just one contributor looks like on an STR test.",
+      "en": "just one contributor looks like on an STR test.",
+      "zh": ""
+    },
+    {
+      "start": 1183.04,
+      "duration": 1.84,
+      "text": "You can see how it's easy to compare this",
+      "en": "You can see how it's easy to compare this",
+      "zh": ""
+    },
+    {
+      "start": 1184.88,
+      "duration": 2.24,
+      "text": "to a sample from a suspect.",
+      "en": "to a sample from a suspect.",
+      "zh": ""
+    },
+    {
+      "start": 1187.12,
+      "duration": 2.56,
+      "text": "But if the crime scene sample contains DNA",
+      "en": "But if the crime scene sample contains DNA",
+      "zh": ""
+    },
+    {
+      "start": 1189.68,
+      "duration": 1.68,
+      "text": "from multiple individuals,",
+      "en": "from multiple individuals,",
+      "zh": ""
+    },
+    {
+      "start": 1191.36,
+      "duration": 2.48,
+      "text": "then their profiles will begin to overlap,",
+      "en": "then their profiles will begin to overlap,",
+      "zh": ""
+    },
+    {
+      "start": 1193.84,
+      "duration": 2.16,
+      "text": "all with varying signal strengths.",
+      "en": "all with varying signal strengths.",
+      "zh": ""
+    },
+    {
+      "start": 1196.0,
+      "duration": 2.0,
+      "text": "And the more individuals in the mixture,",
+      "en": "And the more individuals in the mixture,",
+      "zh": ""
+    },
+    {
+      "start": 1198.0,
+      "duration": 2.32,
+      "text": "the more difficult these results are to interpret.",
+      "en": "the more difficult these results are to interpret.",
+      "zh": ""
+    },
+    {
+      "start": 1200.32,
+      "duration": 1.68,
+      "text": "With four or more individuals,",
+      "en": "With four or more individuals,",
+      "zh": ""
+    },
+    {
+      "start": 1202.0,
+      "duration": 1.92,
+      "text": "it becomes increasingly hard to compare",
+      "en": "it becomes increasingly hard to compare",
+      "zh": ""
+    },
+    {
+      "start": 1203.92,
+      "duration": 3.68,
+      "text": "a clean DNA profile from a suspect to the mixture.",
+      "en": "a clean DNA profile from a suspect to the mixture.",
+      "zh": ""
+    },
+    {
+      "start": 1207.6,
+      "duration": 2.0,
+      "text": "And now it's hard to say whether the suspect",
+      "en": "And now it's hard to say whether the suspect",
+      "zh": ""
+    },
+    {
+      "start": 1209.6,
+      "duration": 1.44,
+      "text": "was actually in the sample.",
+      "en": "was actually in the sample.",
+      "zh": ""
+    },
+    {
+      "start": 1211.04,
+      "duration": 2.64,
+      "text": "You just can't tell which peak belongs to who.",
+      "en": "You just can't tell which peak belongs to who.",
+      "zh": ""
+    },
+    {
+      "start": 1213.68,
+      "duration": 2.48,
+      "text": "It's kind of like having five people talk to you",
+      "en": "It's kind of like having five people talk to you",
+      "zh": ""
+    },
+    {
+      "start": 1216.16,
+      "duration": 1.52,
+      "text": "at the same time.",
+      "en": "at the same time.",
+      "zh": ""
+    },
+    {
+      "start": 1217.68,
+      "duration": 1.2,
+      "text": "You can hear all the noise,",
+      "en": "You can hear all the noise,",
+      "zh": ""
+    },
+    {
+      "start": 1218.88,
+      "duration": 2.16,
+      "text": "but it's really hard to single one out.",
+      "en": "but it's really hard to single one out.",
+      "zh": ""
+    },
+    {
+      "start": 1221.04,
+      "duration": 3.36,
+      "text": "Now, some labs claim they can reliably separate samples",
+      "en": "Now, some labs claim they can reliably separate samples",
+      "zh": ""
+    },
+    {
+      "start": 1224.4,
+      "duration": 2.24,
+      "text": "of up to five individuals.",
+      "en": "of up to five individuals.",
+      "zh": ""
+    },
+    {
+      "start": 1226.64,
+      "duration": 1.04,
+      "text": "And to test this,",
+      "en": "And to test this,",
+      "zh": ""
+    },
+    {
+      "start": 1227.68,
+      "duration": 2.8,
+      "text": "the National Institute of Standards and Technology",
+      "en": "the National Institute of Standards and Technology",
+      "zh": ""
+    },
+    {
+      "start": 1230.48,
+      "duration": 2.64,
+      "text": "ran a controlled study in 2013.",
+      "en": "ran a controlled study in 2013.",
+      "zh": ""
+    },
+    {
+      "start": 1233.12,
+      "duration": 2.96,
+      "text": "They've sent out a DNA mixture from a fictional crime scene",
+      "en": "They've sent out a DNA mixture from a fictional crime scene",
+      "zh": ""
+    },
+    {
+      "start": 1236.08,
+      "duration": 2.0,
+      "text": "to labs all across the US.",
+      "en": "to labs all across the US.",
+      "zh": ""
+    },
+    {
+      "start": 1238.08,
+      "duration": 2.32,
+      "text": "Their aim to see how different facilities",
+      "en": "Their aim to see how different facilities",
+      "zh": ""
+    },
+    {
+      "start": 1240.4,
+      "duration": 4.08,
+      "text": "interpret the same mixture of four people's DNA profiles.",
+      "en": "interpret the same mixture of four people's DNA profiles.",
+      "zh": ""
+    },
+    {
+      "start": 1244.48,
+      "duration": 3.28,
+      "text": "69% of the labs got the analysis wrong.",
+      "en": "69% of the labs got the analysis wrong.",
+      "zh": ""
+    },
+    {
+      "start": 1247.76,
+      "duration": 3.36,
+      "text": "And despite the sample being deliberately complex,",
+      "en": "And despite the sample being deliberately complex,",
+      "zh": ""
+    },
+    {
+      "start": 1251.12,
+      "duration": 3.6,
+      "text": "only 21% of the labs deemed the mix inconclusive",
+      "en": "only 21% of the labs deemed the mix inconclusive",
+      "zh": ""
+    },
+    {
+      "start": 1254.72,
+      "duration": 2.32,
+      "text": "and not possible to give a comparison on.",
+      "en": "and not possible to give a comparison on.",
+      "zh": ""
+    },
+    {
+      "start": 1257.04,
+      "duration": 1.68,
+      "text": "After NIST published the study,",
+      "en": "After NIST published the study,",
+      "zh": ""
+    },
+    {
+      "start": 1258.72,
+      "duration": 3.36,
+      "text": "new checks have been imposed to address some of the issues,",
+      "en": "new checks have been imposed to address some of the issues,",
+      "zh": ""
+    },
+    {
+      "start": 1262.08,
+      "duration": 1.6,
+      "text": "but there's still no lower limit",
+      "en": "but there's still no lower limit",
+      "zh": ""
+    },
+    {
+      "start": 1263.68,
+      "duration": 2.56,
+      "text": "on the quality or the quantity of a DNA sample",
+      "en": "on the quality or the quantity of a DNA sample",
+      "zh": ""
+    },
+    {
+      "start": 1266.24,
+      "duration": 2.08,
+      "text": "that labs are permitted to analyze.",
+      "en": "that labs are permitted to analyze.",
+      "zh": ""
+    },
+    {
+      "start": 1268.32,
+      "duration": 2.0,
+      "text": "And labs themselves still decide",
+      "en": "And labs themselves still decide",
+      "zh": ""
+    },
+    {
+      "start": 1270.32,
+      "duration": 2.88,
+      "text": "if something is too mixed or too partial.",
+      "en": "if something is too mixed or too partial.",
+      "zh": ""
+    },
+    {
+      "start": 1273.2,
+      "duration": 1.12,
+      "text": "Now, you might think that",
+      "en": "Now, you might think that",
+      "zh": ""
+    },
+    {
+      "start": 1274.32,
+      "duration": 2.96,
+      "text": "using the entire sequence genome would be better,",
+      "en": "using the entire sequence genome would be better,",
+      "zh": ""
+    },
+    {
+      "start": 1277.28,
+      "duration": 2.88,
+      "text": "but that can actually introduce different kinds of problems.",
+      "en": "but that can actually introduce different kinds of problems.",
+      "zh": ""
+    },
+    {
+      "start": 1280.16,
+      "duration": 2.64,
+      "text": "Now, your analyst has access to hair color,",
+      "en": "Now, your analyst has access to hair color,",
+      "zh": ""
+    },
+    {
+      "start": 1282.8,
+      "duration": 1.36,
+      "text": "eye color, ethnicity,",
+      "en": "eye color, ethnicity,",
+      "zh": ""
+    },
+    {
+      "start": 1284.16,
+      "duration": 1.68,
+      "text": "and that could introduce discrimination",
+      "en": "and that could introduce discrimination",
+      "zh": ""
+    },
+    {
+      "start": 1285.84,
+      "duration": 2.24,
+      "text": "in the way the sample is being analyzed.",
+      "en": "in the way the sample is being analyzed.",
+      "zh": ""
+    },
+    {
+      "start": 1288.08,
+      "duration": 1.84,
+      "text": "- This is where the guidelines",
+      "en": "- This is where the guidelines",
+      "zh": ""
+    },
+    {
+      "start": 1289.92,
+      "duration": 3.04,
+      "text": "and the guardrails have to come in here.",
+      "en": "and the guardrails have to come in here.",
+      "zh": ""
+    },
+    {
+      "start": 1292.96,
+      "duration": 3.44,
+      "text": "What are the genetic markers that are being used for this?",
+      "en": "What are the genetic markers that are being used for this?",
+      "zh": ""
+    },
+    {
+      "start": 1296.4,
+      "duration": 1.44,
+      "text": "This is where the really interesting",
+      "en": "This is where the really interesting",
+      "zh": ""
+    },
+    {
+      "start": 1297.84,
+      "duration": 1.76,
+      "text": "ethical questions come into it.",
+      "en": "ethical questions come into it.",
+      "zh": ""
+    },
+    {
+      "start": 1299.6,
+      "duration": 2.24,
+      "text": "People think that DNA is like the silver bullet",
+      "en": "People think that DNA is like the silver bullet",
+      "zh": ""
+    },
+    {
+      "start": 1301.84,
+      "duration": 2.56,
+      "text": "that will answer everything.",
+      "en": "that will answer everything.",
+      "zh": ""
+    },
+    {
+      "start": 1304.4,
+      "duration": 1.44,
+      "text": "And it is true.",
+      "en": "And it is true.",
+      "zh": ""
+    },
+    {
+      "start": 1305.84,
+      "duration": 2.8,
+      "text": "DNA evidence is incredibly powerful,",
+      "en": "DNA evidence is incredibly powerful,",
+      "zh": ""
+    },
+    {
+      "start": 1308.64,
+      "duration": 3.68,
+      "text": "it's amazing for identifying individuals,",
+      "en": "it's amazing for identifying individuals,",
+      "zh": ""
+    },
+    {
+      "start": 1312.32,
+      "duration": 5.2,
+      "text": "but DNA can never be taken out of context.",
+      "en": "but DNA can never be taken out of context.",
+      "zh": ""
+    },
+    {
+      "start": 1317.52,
+      "duration": 2.64,
+      "text": "- Now, the point of this video isn't to bash forensics.",
+      "en": "- Now, the point of this video isn't to bash forensics.",
+      "zh": ""
+    },
+    {
+      "start": 1320.16,
+      "duration": 1.92,
+      "text": "I think it's still better for us to live in a world",
+      "en": "I think it's still better for us to live in a world",
+      "zh": ""
+    },
+    {
+      "start": 1322.08,
+      "duration": 3.52,
+      "text": "where forensics exist rather than one where they don't.",
+      "en": "where forensics exist rather than one where they don't.",
+      "zh": ""
+    },
+    {
+      "start": 1325.6,
+      "duration": 3.2,
+      "text": "But if we want to keep calling forensics a science,",
+      "en": "But if we want to keep calling forensics a science,",
+      "zh": ""
+    },
+    {
+      "start": 1328.8,
+      "duration": 1.76,
+      "text": "we need to continue the work of the people",
+      "en": "we need to continue the work of the people",
+      "zh": ""
+    },
+    {
+      "start": 1330.56,
+      "duration": 1.6,
+      "text": "who actually made this video possible,",
+      "en": "who actually made this video possible,",
+      "zh": ""
+    },
+    {
+      "start": 1332.16,
+      "duration": 1.2,
+      "text": "who've dedicated their lives",
+      "en": "who've dedicated their lives",
+      "zh": ""
+    },
+    {
+      "start": 1333.36,
+      "duration": 2.0,
+      "text": "to already reassessing the field",
+      "en": "to already reassessing the field",
+      "zh": ""
+    },
+    {
+      "start": 1335.36,
+      "duration": 2.24,
+      "text": "and making it as accurate as it is today.",
+      "en": "and making it as accurate as it is today.",
+      "zh": ""
+    },
+    {
+      "start": 1337.6,
+      "duration": 2.04,
+      "text": "Do you think it's fair calling this a forensic science?",
+      "en": "Do you think it's fair calling this a forensic science?",
+      "zh": ""
+    },
+    {
+      "start": 1339.64,
+      "duration": 1.96,
+      "text": "- I still think there's science in it",
+      "en": "- I still think there's science in it",
+      "zh": ""
+    },
+    {
+      "start": 1341.6,
+      "duration": 1.68,
+      "text": "because you're trying to do the best",
+      "en": "because you're trying to do the best",
+      "zh": ""
+    },
+    {
+      "start": 1343.28,
+      "duration": 1.36,
+      "text": "with the information you have,",
+      "en": "with the information you have,",
+      "zh": ""
+    },
+    {
+      "start": 1344.64,
+      "duration": 3.04,
+      "text": "which is often times what science is trying to do is,",
+      "en": "which is often times what science is trying to do is,",
+      "zh": ""
+    },
+    {
+      "start": 1347.68,
+      "duration": 1.36,
+      "text": "with the information you have,",
+      "en": "with the information you have,",
+      "zh": ""
+    },
+    {
+      "start": 1349.04,
+      "duration": 1.52,
+      "text": "this is the conclusions you make",
+      "en": "this is the conclusions you make",
+      "zh": ""
+    },
+    {
+      "start": 1350.56,
+      "duration": 14.22,
+      "text": "until you know something better.",
+      "en": "until you know something better.",
+      "zh": ""
+    },
+    {
+      "start": 1364.78,
+      "duration": 0.3,
+      "text": "(gentle music)",
+      "en": "(gentle music)",
+      "zh": ""
+    },
+    {
+      "start": 1364.8,
+      "duration": 1.44,
+      "text": "- Hey, one last thing.",
+      "en": "- Hey, one last thing.",
+      "zh": ""
+    },
+    {
+      "start": 1366.24,
+      "duration": 3.12,
+      "text": "Last year we launched the official Veritasium game,",
+      "en": "Last year we launched the official Veritasium game,",
+      "zh": ""
+    },
+    {
+      "start": 1369.36,
+      "duration": 1.04,
+      "text": "Elements of Truth.",
+      "en": "Elements of Truth.",
+      "zh": ""
+    },
+    {
+      "start": 1370.4,
+      "duration": 2.24,
+      "text": "It's a trivia game with 800 questions",
+      "en": "It's a trivia game with 800 questions",
+      "zh": ""
+    },
+    {
+      "start": 1372.64,
+      "duration": 2.08,
+      "text": "covering science and technology,",
+      "en": "covering science and technology,",
+      "zh": ""
+    },
+    {
+      "start": 1374.72,
+      "duration": 2.32,
+      "text": "and we on the team get quite competitive.",
+      "en": "and we on the team get quite competitive.",
+      "zh": ""
+    },
+    {
+      "start": 1377.04,
+      "duration": 2.8,
+      "text": "So every time we play things get very saucy.",
+      "en": "So every time we play things get very saucy.",
+      "zh": ""
+    },
+    {
+      "start": 1379.84,
+      "duration": 0.96,
+      "text": "See, there's this mechanic",
+      "en": "See, there's this mechanic",
+      "zh": ""
+    },
+    {
+      "start": 1380.8,
+      "duration": 1.84,
+      "text": "where you can't only guess an answer,",
+      "en": "where you can't only guess an answer,",
+      "zh": ""
+    },
+    {
+      "start": 1382.64,
+      "duration": 2.16,
+      "text": "you have to put down a number between one and 10",
+      "en": "you have to put down a number between one and 10",
+      "zh": ""
+    },
+    {
+      "start": 1384.8,
+      "duration": 3.52,
+      "text": "to gauge how confident you are that your answer is right.",
+      "en": "to gauge how confident you are that your answer is right.",
+      "zh": ""
+    },
+    {
+      "start": 1388.32,
+      "duration": 1.68,
+      "text": "So it gets very fun very quickly.",
+      "en": "So it gets very fun very quickly.",
+      "zh": ""
+    },
+    {
+      "start": 1390.0,
+      "duration": 1.6,
+      "text": "The game is coming out later this year,",
+      "en": "The game is coming out later this year,",
+      "zh": ""
+    },
+    {
+      "start": 1391.6,
+      "duration": 1.6,
+      "text": "so if you're interested in pre-ordering,",
+      "en": "so if you're interested in pre-ordering,",
+      "zh": ""
+    },
+    {
+      "start": 1393.2,
+      "duration": 1.6,
+      "text": "you can click the link in the description,",
+      "en": "you can click the link in the description,",
+      "zh": ""
+    },
+    {
+      "start": 1394.8,
+      "duration": 2.8,
+      "text": "which will take you to the Elements of Truth website.",
+      "en": "which will take you to the Elements of Truth website.",
+      "zh": ""
+    },
+    {
+      "start": 1397.6,
+      "duration": 2.16,
+      "text": "Thank you so much for your support in this project.",
+      "en": "Thank you so much for your support in this project.",
+      "zh": ""
+    },
+    {
+      "start": 1399.76,
+      "duration": 1.76,
+      "text": "And as always, thanks for watching.",
+      "en": "And as always, thanks for watching.",
+      "zh": ""
+    }
+  ],
+  "words": []
+}

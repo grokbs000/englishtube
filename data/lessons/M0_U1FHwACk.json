@@ -1,0 +1,1489 @@
+{
+  "cues": [
+    {
+      "start": 1.58,
+      "duration": 2.67,
+      "text": "(rock skipping)",
+      "en": "(rock skipping)",
+      "zh": ""
+    },
+    {
+      "start": 7.2,
+      "duration": 3.84,
+      "text": "- What is the scientifically proven best way to skip a rock?",
+      "en": "- What is the scientifically proven best way to skip a rock?",
+      "zh": ""
+    },
+    {
+      "start": 11.04,
+      "duration": 1.08,
+      "text": "This is kinda hard to figure out",
+      "en": "This is kinda hard to figure out",
+      "zh": ""
+    },
+    {
+      "start": 12.12,
+      "duration": 2.46,
+      "text": "because every rock you throw is a little different,",
+      "en": "because every rock you throw is a little different,",
+      "zh": ""
+    },
+    {
+      "start": 14.58,
+      "duration": 1.23,
+      "text": "not to mention your throwing motion",
+      "en": "not to mention your throwing motion",
+      "zh": ""
+    },
+    {
+      "start": 15.81,
+      "duration": 2.43,
+      "text": "might accidentally vary in between throws.",
+      "en": "might accidentally vary in between throws.",
+      "zh": ""
+    },
+    {
+      "start": 18.24,
+      "duration": 0.83,
+      "text": "And so, to solve that,",
+      "en": "And so, to solve that,",
+      "zh": ""
+    },
+    {
+      "start": 19.07,
+      "duration": 1.66,
+      "text": "I built a perfect rock-skipping robot",
+      "en": "I built a perfect rock-skipping robot",
+      "zh": ""
+    },
+    {
+      "start": 20.73,
+      "duration": 1.23,
+      "text": "with my nieces and nephews.",
+      "en": "with my nieces and nephews.",
+      "zh": ""
+    },
+    {
+      "start": 21.96,
+      "duration": 1.02,
+      "text": "So today I'm gonna show you",
+      "en": "So today I'm gonna show you",
+      "zh": ""
+    },
+    {
+      "start": 22.98,
+      "duration": 2.43,
+      "text": "how we used what we learned from the perfect robot",
+      "en": "how we used what we learned from the perfect robot",
+      "zh": ""
+    },
+    {
+      "start": 25.41,
+      "duration": 3.75,
+      "text": "to improve their throws on average from 3 to 13 skips.",
+      "en": "to improve their throws on average from 3 to 13 skips.",
+      "zh": ""
+    },
+    {
+      "start": 29.16,
+      "duration": 1.14,
+      "text": "Let's get started.",
+      "en": "Let's get started.",
+      "zh": ""
+    },
+    {
+      "start": 36.05,
+      "duration": 1.18,
+      "text": "(upbeat music)",
+      "en": "(upbeat music)",
+      "zh": ""
+    },
+    {
+      "start": 37.23,
+      "duration": 1.35,
+      "text": "This is Lake Cavanaugh.",
+      "en": "This is Lake Cavanaugh.",
+      "zh": ""
+    },
+    {
+      "start": 38.58,
+      "duration": 2.16,
+      "text": "It's located here in Washington State.",
+      "en": "It's located here in Washington State.",
+      "zh": ""
+    },
+    {
+      "start": 43.47,
+      "duration": 1.23,
+      "text": "I came here every summer",
+      "en": "I came here every summer",
+      "zh": ""
+    },
+    {
+      "start": 44.7,
+      "duration": 1.62,
+      "text": "for a few weeks as a kid growing up,",
+      "en": "for a few weeks as a kid growing up,",
+      "zh": ""
+    },
+    {
+      "start": 46.32,
+      "duration": 2.31,
+      "text": "and my memory of it is just this magical place",
+      "en": "and my memory of it is just this magical place",
+      "zh": ""
+    },
+    {
+      "start": 48.63,
+      "duration": 3.0,
+      "text": "to be outdoors and to be with family,",
+      "en": "to be outdoors and to be with family,",
+      "zh": ""
+    },
+    {
+      "start": 51.63,
+      "duration": 2.63,
+      "text": "but to also discover my independence.",
+      "en": "but to also discover my independence.",
+      "zh": ""
+    },
+    {
+      "start": 54.26,
+      "duration": 2.58,
+      "text": "(upbeat music)",
+      "en": "(upbeat music)",
+      "zh": ""
+    },
+    {
+      "start": 58.6,
+      "duration": 3.63,
+      "text": "And of course, to find a way to compete in anything.",
+      "en": "And of course, to find a way to compete in anything.",
+      "zh": ""
+    },
+    {
+      "start": 62.23,
+      "duration": 2.84,
+      "text": "(children laughing)",
+      "en": "(children laughing)",
+      "zh": ""
+    },
+    {
+      "start": 65.07,
+      "duration": 1.32,
+      "text": "Including rock skipping.",
+      "en": "Including rock skipping.",
+      "zh": ""
+    },
+    {
+      "start": 68.91,
+      "duration": 2.04,
+      "text": "And this was my first time back in 15 years,",
+      "en": "And this was my first time back in 15 years,",
+      "zh": ""
+    },
+    {
+      "start": 70.95,
+      "duration": 1.23,
+      "text": "So to commemorate that,",
+      "en": "So to commemorate that,",
+      "zh": ""
+    },
+    {
+      "start": 72.18,
+      "duration": 1.83,
+      "text": "I wanted to build something really cool.",
+      "en": "I wanted to build something really cool.",
+      "zh": ""
+    },
+    {
+      "start": 74.01,
+      "duration": 1.5,
+      "text": "So we took a clay pigeon thrower",
+      "en": "So we took a clay pigeon thrower",
+      "zh": ""
+    },
+    {
+      "start": 75.51,
+      "duration": 3.54,
+      "text": "and tweaked the spring and machined an adapter plate,",
+      "en": "and tweaked the spring and machined an adapter plate,",
+      "zh": ""
+    },
+    {
+      "start": 79.05,
+      "duration": 2.49,
+      "text": "and then made some custom throwing arms from wood.",
+      "en": "and then made some custom throwing arms from wood.",
+      "zh": ""
+    },
+    {
+      "start": 81.54,
+      "duration": 1.77,
+      "text": "Then we created a base for stability.",
+      "en": "Then we created a base for stability.",
+      "zh": ""
+    },
+    {
+      "start": 83.31,
+      "duration": 2.13,
+      "text": "And now all that was left was to challenge my nieces",
+      "en": "And now all that was left was to challenge my nieces",
+      "zh": ""
+    },
+    {
+      "start": 85.44,
+      "duration": 1.86,
+      "text": "and nephews to a rock skipping contest.",
+      "en": "and nephews to a rock skipping contest.",
+      "zh": ""
+    },
+    {
+      "start": 87.3,
+      "duration": 3.33,
+      "text": "Only I might have neglected to tell them about my creation.",
+      "en": "Only I might have neglected to tell them about my creation.",
+      "zh": ""
+    },
+    {
+      "start": 90.63,
+      "duration": 2.46,
+      "text": "Actually, forget this. - I knew it.",
+      "en": "Actually, forget this. - I knew it.",
+      "zh": ""
+    },
+    {
+      "start": 94.35,
+      "duration": 2.25,
+      "text": "(crowd laughing)",
+      "en": "(crowd laughing)",
+      "zh": ""
+    },
+    {
+      "start": 96.6,
+      "duration": 1.38,
+      "text": "- [Mark] You guys ready?",
+      "en": "- [Mark] You guys ready?",
+      "zh": ""
+    },
+    {
+      "start": 97.98,
+      "duration": 1.3,
+      "text": "- [Crowd] Three, two, one.",
+      "en": "- [Crowd] Three, two, one.",
+      "zh": ""
+    },
+    {
+      "start": 102.16,
+      "duration": 2.63,
+      "text": "(Mark yelling)",
+      "en": "(Mark yelling)",
+      "zh": ""
+    },
+    {
+      "start": 104.79,
+      "duration": 1.59,
+      "text": "- So it actually wasn't that impressive",
+      "en": "- So it actually wasn't that impressive",
+      "zh": ""
+    },
+    {
+      "start": 106.38,
+      "duration": 1.86,
+      "text": "right out of the gate, but that was intentional",
+      "en": "right out of the gate, but that was intentional",
+      "zh": ""
+    },
+    {
+      "start": 108.24,
+      "duration": 1.17,
+      "text": "because for this video,",
+      "en": "because for this video,",
+      "zh": ""
+    },
+    {
+      "start": 109.41,
+      "duration": 1.62,
+      "text": "I wanted to pull back the curtain",
+      "en": "I wanted to pull back the curtain",
+      "zh": ""
+    },
+    {
+      "start": 111.03,
+      "duration": 2.85,
+      "text": "on some secrets about the engineering design process.",
+      "en": "on some secrets about the engineering design process.",
+      "zh": ""
+    },
+    {
+      "start": 113.88,
+      "duration": 2.28,
+      "text": "There are four steps I follow for any big project",
+      "en": "There are four steps I follow for any big project",
+      "zh": ""
+    },
+    {
+      "start": 116.16,
+      "duration": 2.46,
+      "text": "I've ever built on this channel or in real life.",
+      "en": "I've ever built on this channel or in real life.",
+      "zh": ""
+    },
+    {
+      "start": 118.62,
+      "duration": 1.2,
+      "text": "The first is research.",
+      "en": "The first is research.",
+      "zh": ""
+    },
+    {
+      "start": 119.82,
+      "duration": 2.22,
+      "text": "I will go online and look at any published papers,",
+      "en": "I will go online and look at any published papers,",
+      "zh": ""
+    },
+    {
+      "start": 122.04,
+      "duration": 2.67,
+      "text": "watch any videos on the topic, and then talk via Skype",
+      "en": "watch any videos on the topic, and then talk via Skype",
+      "zh": ""
+    },
+    {
+      "start": 124.71,
+      "duration": 1.89,
+      "text": "or email with any experts I can find.",
+      "en": "or email with any experts I can find.",
+      "zh": ""
+    },
+    {
+      "start": 126.6,
+      "duration": 2.01,
+      "text": "That usually gives me a rough idea of where to start.",
+      "en": "That usually gives me a rough idea of where to start.",
+      "zh": ""
+    },
+    {
+      "start": 128.61,
+      "duration": 1.83,
+      "text": "And so the next step is to build a prototype.",
+      "en": "And so the next step is to build a prototype.",
+      "zh": ""
+    },
+    {
+      "start": 130.44,
+      "duration": 2.55,
+      "text": "A good prototype is cheap and easy to reconfigure,",
+      "en": "A good prototype is cheap and easy to reconfigure,",
+      "zh": ""
+    },
+    {
+      "start": 132.99,
+      "duration": 1.68,
+      "text": "so you can try a lot of different things.",
+      "en": "so you can try a lot of different things.",
+      "zh": ""
+    },
+    {
+      "start": 134.67,
+      "duration": 0.83,
+      "text": "And then step three",
+      "en": "And then step three",
+      "zh": ""
+    },
+    {
+      "start": 135.5,
+      "duration": 2.02,
+      "text": "is to do a sensitivity analysis with the prototype.",
+      "en": "is to do a sensitivity analysis with the prototype.",
+      "zh": ""
+    },
+    {
+      "start": 137.52,
+      "duration": 2.88,
+      "text": "That means we try lots of different combinations of settings",
+      "en": "That means we try lots of different combinations of settings",
+      "zh": ""
+    },
+    {
+      "start": 140.4,
+      "duration": 2.22,
+      "text": "to see what actually matters and what doesn't.",
+      "en": "to see what actually matters and what doesn't.",
+      "zh": ""
+    },
+    {
+      "start": 142.62,
+      "duration": 1.86,
+      "text": "And only at that point are we ready to take",
+      "en": "And only at that point are we ready to take",
+      "zh": ""
+    },
+    {
+      "start": 144.48,
+      "duration": 1.77,
+      "text": "what we've learned and move to step four,",
+      "en": "what we've learned and move to step four,",
+      "zh": ""
+    },
+    {
+      "start": 146.25,
+      "duration": 1.8,
+      "text": "which is building the final version.",
+      "en": "which is building the final version.",
+      "zh": ""
+    },
+    {
+      "start": 149.76,
+      "duration": 1.41,
+      "text": "(children screaming)",
+      "en": "(children screaming)",
+      "zh": ""
+    },
+    {
+      "start": 151.17,
+      "duration": 2.49,
+      "text": "So often, people want to jump straight to step four,",
+      "en": "So often, people want to jump straight to step four,",
+      "zh": ""
+    },
+    {
+      "start": 153.66,
+      "duration": 2.79,
+      "text": "which usually won't work, but it's almost worse if it does",
+      "en": "which usually won't work, but it's almost worse if it does",
+      "zh": ""
+    },
+    {
+      "start": 156.45,
+      "duration": 1.38,
+      "text": "because you have no confidence",
+      "en": "because you have no confidence",
+      "zh": ""
+    },
+    {
+      "start": 157.83,
+      "duration": 1.53,
+      "text": "that you're close to the optimal design.",
+      "en": "that you're close to the optimal design.",
+      "zh": ""
+    },
+    {
+      "start": 159.36,
+      "duration": 0.9,
+      "text": "For the rock-skipping robot,",
+      "en": "For the rock-skipping robot,",
+      "zh": ""
+    },
+    {
+      "start": 160.26,
+      "duration": 1.59,
+      "text": "I'd already done steps one and two.",
+      "en": "I'd already done steps one and two.",
+      "zh": ""
+    },
+    {
+      "start": 161.85,
+      "duration": 2.97,
+      "text": "So we all sat down and brainstormed about step three",
+      "en": "So we all sat down and brainstormed about step three",
+      "zh": ""
+    },
+    {
+      "start": 164.82,
+      "duration": 1.32,
+      "text": "and all the things we could tweak",
+      "en": "and all the things we could tweak",
+      "zh": ""
+    },
+    {
+      "start": 166.14,
+      "duration": 2.22,
+      "text": "to find the right conditions for the perfect skip.",
+      "en": "to find the right conditions for the perfect skip.",
+      "zh": ""
+    },
+    {
+      "start": 168.36,
+      "duration": 1.89,
+      "text": "Eventually we came up with four different things to test,",
+      "en": "Eventually we came up with four different things to test,",
+      "zh": ""
+    },
+    {
+      "start": 170.25,
+      "duration": 0.93,
+      "text": "but before we did that,",
+      "en": "but before we did that,",
+      "zh": ""
+    },
+    {
+      "start": 171.18,
+      "duration": 2.91,
+      "text": "I was told the robot needed to look a lot cooler.",
+      "en": "I was told the robot needed to look a lot cooler.",
+      "zh": ""
+    },
+    {
+      "start": 174.09,
+      "duration": 2.58,
+      "text": "(upbeat music)",
+      "en": "(upbeat music)",
+      "zh": ""
+    },
+    {
+      "start": 207.51,
+      "duration": 1.68,
+      "text": "With mission clearly accomplished,",
+      "en": "With mission clearly accomplished,",
+      "zh": ""
+    },
+    {
+      "start": 209.19,
+      "duration": 2.4,
+      "text": "here are the four variables we decided to test.",
+      "en": "here are the four variables we decided to test.",
+      "zh": ""
+    },
+    {
+      "start": 211.59,
+      "duration": 2.28,
+      "text": "The first was wrist angle of the robot.",
+      "en": "The first was wrist angle of the robot.",
+      "zh": ""
+    },
+    {
+      "start": 213.87,
+      "duration": 1.83,
+      "text": "This will change the angle of the rock",
+      "en": "This will change the angle of the rock",
+      "zh": ""
+    },
+    {
+      "start": 215.7,
+      "duration": 2.67,
+      "text": "relative to the water, as you can see here.",
+      "en": "relative to the water, as you can see here.",
+      "zh": ""
+    },
+    {
+      "start": 218.37,
+      "duration": 1.59,
+      "text": "So should it be perfectly flat",
+      "en": "So should it be perfectly flat",
+      "zh": ""
+    },
+    {
+      "start": 219.96,
+      "duration": 2.13,
+      "text": "or really steep or something in between?",
+      "en": "or really steep or something in between?",
+      "zh": ""
+    },
+    {
+      "start": 222.09,
+      "duration": 1.98,
+      "text": "Next was finding the right arm angle.",
+      "en": "Next was finding the right arm angle.",
+      "zh": ""
+    },
+    {
+      "start": 224.07,
+      "duration": 1.59,
+      "text": "This changes the angle of the path",
+      "en": "This changes the angle of the path",
+      "zh": ""
+    },
+    {
+      "start": 225.66,
+      "duration": 1.77,
+      "text": "of the rock relative to the water.",
+      "en": "of the rock relative to the water.",
+      "zh": ""
+    },
+    {
+      "start": 227.43,
+      "duration": 2.13,
+      "text": "So is this better, or is this better,",
+      "en": "So is this better, or is this better,",
+      "zh": ""
+    },
+    {
+      "start": 229.56,
+      "duration": 1.29,
+      "text": "or something in between?",
+      "en": "or something in between?",
+      "zh": ""
+    },
+    {
+      "start": 230.85,
+      "duration": 2.16,
+      "text": "The last two variables had to do with the rocks,",
+      "en": "The last two variables had to do with the rocks,",
+      "zh": ""
+    },
+    {
+      "start": 233.01,
+      "duration": 2.01,
+      "text": "but since every rock is going to be unique,",
+      "en": "but since every rock is going to be unique,",
+      "zh": ""
+    },
+    {
+      "start": 235.02,
+      "duration": 1.8,
+      "text": "we needed a way to control this.",
+      "en": "we needed a way to control this.",
+      "zh": ""
+    },
+    {
+      "start": 236.82,
+      "duration": 4.11,
+      "text": "So we decided to make our own rocks out of unfired clay.",
+      "en": "So we decided to make our own rocks out of unfired clay.",
+      "zh": ""
+    },
+    {
+      "start": 240.93,
+      "duration": 1.65,
+      "text": "That allowed us to make lots of samples",
+      "en": "That allowed us to make lots of samples",
+      "zh": ""
+    },
+    {
+      "start": 242.58,
+      "duration": 1.86,
+      "text": "and to see how many more skips you would get",
+      "en": "and to see how many more skips you would get",
+      "zh": ""
+    },
+    {
+      "start": 244.44,
+      "duration": 3.39,
+      "text": "if you varied either the diameter or the thickness.",
+      "en": "if you varied either the diameter or the thickness.",
+      "zh": ""
+    },
+    {
+      "start": 247.83,
+      "duration": 1.8,
+      "text": "And if you've ever seen a Primitive Technology video,",
+      "en": "And if you've ever seen a Primitive Technology video,",
+      "zh": ""
+    },
+    {
+      "start": 249.63,
+      "duration": 1.59,
+      "text": "you know clay is just dirt and water.",
+      "en": "you know clay is just dirt and water.",
+      "zh": ""
+    },
+    {
+      "start": 251.22,
+      "duration": 0.99,
+      "text": "This is great because it means",
+      "en": "This is great because it means",
+      "zh": ""
+    },
+    {
+      "start": 252.21,
+      "duration": 1.74,
+      "text": "it has a similar density to a rock.",
+      "en": "it has a similar density to a rock.",
+      "zh": ""
+    },
+    {
+      "start": 253.95,
+      "duration": 2.55,
+      "text": "And if you dry it in the sun, it's hard like a rock.",
+      "en": "And if you dry it in the sun, it's hard like a rock.",
+      "zh": ""
+    },
+    {
+      "start": 256.5,
+      "duration": 1.62,
+      "text": "But then it only takes about 30 minutes",
+      "en": "But then it only takes about 30 minutes",
+      "zh": ""
+    },
+    {
+      "start": 258.12,
+      "duration": 2.31,
+      "text": "to totally dissolve away once you put it in the water.",
+      "en": "to totally dissolve away once you put it in the water.",
+      "zh": ""
+    },
+    {
+      "start": 260.43,
+      "duration": 1.32,
+      "text": "Then we set up a testing plan,",
+      "en": "Then we set up a testing plan,",
+      "zh": ""
+    },
+    {
+      "start": 261.75,
+      "duration": 2.7,
+      "text": "and for each throw, we would change only one thing",
+      "en": "and for each throw, we would change only one thing",
+      "zh": ""
+    },
+    {
+      "start": 264.45,
+      "duration": 1.32,
+      "text": "and then count the number of skips.",
+      "en": "and then count the number of skips.",
+      "zh": ""
+    },
+    {
+      "start": 265.77,
+      "duration": 1.86,
+      "text": "That way if we suddenly saw a huge improvement,",
+      "en": "That way if we suddenly saw a huge improvement,",
+      "zh": ""
+    },
+    {
+      "start": 267.63,
+      "duration": 2.46,
+      "text": "we know it would be from the thing that we just changed.",
+      "en": "we know it would be from the thing that we just changed.",
+      "zh": ""
+    },
+    {
+      "start": 270.09,
+      "duration": 2.43,
+      "text": "That's where having a robot is way better than using a human",
+      "en": "That's where having a robot is way better than using a human",
+      "zh": ""
+    },
+    {
+      "start": 272.52,
+      "duration": 1.38,
+      "text": "because it allows you to independently",
+      "en": "because it allows you to independently",
+      "zh": ""
+    },
+    {
+      "start": 273.9,
+      "duration": 1.29,
+      "text": "change one thing at a time.",
+      "en": "change one thing at a time.",
+      "zh": ""
+    },
+    {
+      "start": 275.19,
+      "duration": 1.74,
+      "text": "And so as you can imagine, we had a lot of skips",
+      "en": "And so as you can imagine, we had a lot of skips",
+      "zh": ""
+    },
+    {
+      "start": 276.93,
+      "duration": 1.77,
+      "text": "that looked like this,",
+      "en": "that looked like this,",
+      "zh": ""
+    },
+    {
+      "start": 278.7,
+      "duration": 2.04,
+      "text": "or this,",
+      "en": "or this,",
+      "zh": ""
+    },
+    {
+      "start": 280.74,
+      "duration": 1.74,
+      "text": "or this. (man screaming)",
+      "en": "or this. (man screaming)",
+      "zh": ""
+    },
+    {
+      "start": 282.48,
+      "duration": 2.4,
+      "text": "But then we started to narrow in on some key parameters,",
+      "en": "But then we started to narrow in on some key parameters,",
+      "zh": ""
+    },
+    {
+      "start": 284.88,
+      "duration": 2.73,
+      "text": "and then they started to look more like this.",
+      "en": "and then they started to look more like this.",
+      "zh": ""
+    },
+    {
+      "start": 288.99,
+      "duration": 0.83,
+      "text": "Yeah!",
+      "en": "Yeah!",
+      "zh": ""
+    },
+    {
+      "start": 290.94,
+      "duration": 1.46,
+      "text": "That's what's up!",
+      "en": "That's what's up!",
+      "zh": ""
+    },
+    {
+      "start": 292.4,
+      "duration": 1.56,
+      "text": "Woo!",
+      "en": "Woo!",
+      "zh": ""
+    },
+    {
+      "start": 293.96,
+      "duration": 2.58,
+      "text": "(upbeat music)",
+      "en": "(upbeat music)",
+      "zh": ""
+    },
+    {
+      "start": 322.59,
+      "duration": 1.41,
+      "text": "And I'm not exactly sure you count",
+      "en": "And I'm not exactly sure you count",
+      "zh": ""
+    },
+    {
+      "start": 324.0,
+      "duration": 2.28,
+      "text": "all those little skips at the end, but depending on that,",
+      "en": "all those little skips at the end, but depending on that,",
+      "zh": ""
+    },
+    {
+      "start": 326.28,
+      "duration": 2.55,
+      "text": "I would think we got some throws well into the 60s.",
+      "en": "I would think we got some throws well into the 60s.",
+      "zh": ""
+    },
+    {
+      "start": 330.03,
+      "duration": 2.58,
+      "text": "(upbeat music)",
+      "en": "(upbeat music)",
+      "zh": ""
+    },
+    {
+      "start": 347.52,
+      "duration": 1.53,
+      "text": "And so, in the end, we discovered there are four steps",
+      "en": "And so, in the end, we discovered there are four steps",
+      "zh": ""
+    },
+    {
+      "start": 349.05,
+      "duration": 1.89,
+      "text": "to achieving the perfect rock skip.",
+      "en": "to achieving the perfect rock skip.",
+      "zh": ""
+    },
+    {
+      "start": 350.94,
+      "duration": 1.62,
+      "text": "The first is that you want the angle of your rock",
+      "en": "The first is that you want the angle of your rock",
+      "zh": ""
+    },
+    {
+      "start": 352.56,
+      "duration": 2.58,
+      "text": "relative to the water to be about 20 degrees.",
+      "en": "relative to the water to be about 20 degrees.",
+      "zh": ""
+    },
+    {
+      "start": 355.14,
+      "duration": 1.77,
+      "text": "This is the optimal angle to allow the rock",
+      "en": "This is the optimal angle to allow the rock",
+      "zh": ""
+    },
+    {
+      "start": 356.91,
+      "duration": 2.76,
+      "text": "to sort of crash into the water and then to make a ramp,",
+      "en": "to sort of crash into the water and then to make a ramp,",
+      "zh": ""
+    },
+    {
+      "start": 359.67,
+      "duration": 1.41,
+      "text": "and then use its forward momentum",
+      "en": "and then use its forward momentum",
+      "zh": ""
+    },
+    {
+      "start": 361.08,
+      "duration": 2.97,
+      "text": "to ride up that ramp and shoot back up out of the water.",
+      "en": "to ride up that ramp and shoot back up out of the water.",
+      "zh": ""
+    },
+    {
+      "start": 364.05,
+      "duration": 3.63,
+      "text": "And that's the exact physics that explains why rocks skip.",
+      "en": "And that's the exact physics that explains why rocks skip.",
+      "zh": ""
+    },
+    {
+      "start": 367.68,
+      "duration": 1.41,
+      "text": "Next, you want the path of your rock",
+      "en": "Next, you want the path of your rock",
+      "zh": ""
+    },
+    {
+      "start": 369.09,
+      "duration": 2.67,
+      "text": "relative to the water's surface to be about 20 degrees.",
+      "en": "relative to the water's surface to be about 20 degrees.",
+      "zh": ""
+    },
+    {
+      "start": 371.76,
+      "duration": 2.22,
+      "text": "This means you sort of need to start to throw high,",
+      "en": "This means you sort of need to start to throw high,",
+      "zh": ""
+    },
+    {
+      "start": 373.98,
+      "duration": 1.59,
+      "text": "which gives you some potential energy",
+      "en": "which gives you some potential energy",
+      "zh": ""
+    },
+    {
+      "start": 375.57,
+      "duration": 1.02,
+      "text": "to put into the system,",
+      "en": "to put into the system,",
+      "zh": ""
+    },
+    {
+      "start": 376.59,
+      "duration": 2.22,
+      "text": "in the same way a ball bounced from this height",
+      "en": "in the same way a ball bounced from this height",
+      "zh": ""
+    },
+    {
+      "start": 378.81,
+      "duration": 3.06,
+      "text": "will bounce more times than a ball bounced from here.",
+      "en": "will bounce more times than a ball bounced from here.",
+      "zh": ""
+    },
+    {
+      "start": 381.87,
+      "duration": 0.96,
+      "text": "Now, before making this video,",
+      "en": "Now, before making this video,",
+      "zh": ""
+    },
+    {
+      "start": 382.83,
+      "duration": 1.71,
+      "text": "I assumed you wanted to throw as low",
+      "en": "I assumed you wanted to throw as low",
+      "zh": ""
+    },
+    {
+      "start": 384.54,
+      "duration": 2.4,
+      "text": "and parallel to the water as possible, like this,",
+      "en": "and parallel to the water as possible, like this,",
+      "zh": ""
+    },
+    {
+      "start": 386.94,
+      "duration": 1.74,
+      "text": "but actually, the ideal throw",
+      "en": "but actually, the ideal throw",
+      "zh": ""
+    },
+    {
+      "start": 388.68,
+      "duration": 1.59,
+      "text": "looks something more like this.",
+      "en": "looks something more like this.",
+      "zh": ""
+    },
+    {
+      "start": 390.27,
+      "duration": 2.43,
+      "text": "Here's the guy who holds the world record in rock skipping,",
+      "en": "Here's the guy who holds the world record in rock skipping,",
+      "zh": ""
+    },
+    {
+      "start": 392.7,
+      "duration": 1.65,
+      "text": "throwing from a bridge to demonstrate",
+      "en": "throwing from a bridge to demonstrate",
+      "zh": ""
+    },
+    {
+      "start": 394.35,
+      "duration": 1.26,
+      "text": "you don't need a super low throw",
+      "en": "you don't need a super low throw",
+      "zh": ""
+    },
+    {
+      "start": 395.61,
+      "duration": 1.35,
+      "text": "to the water to have it skip.",
+      "en": "to the water to have it skip.",
+      "zh": ""
+    },
+    {
+      "start": 396.96,
+      "duration": 1.56,
+      "text": "The third key is to flick the rock with your wrist",
+      "en": "The third key is to flick the rock with your wrist",
+      "zh": ""
+    },
+    {
+      "start": 398.52,
+      "duration": 2.25,
+      "text": "as much as possible to get it spinning.",
+      "en": "as much as possible to get it spinning.",
+      "zh": ""
+    },
+    {
+      "start": 400.77,
+      "duration": 2.34,
+      "text": "As you know, spinning things are more stable.",
+      "en": "As you know, spinning things are more stable.",
+      "zh": ""
+    },
+    {
+      "start": 403.11,
+      "duration": 1.83,
+      "text": "This is because they have angular momentum",
+      "en": "This is because they have angular momentum",
+      "zh": ""
+    },
+    {
+      "start": 404.94,
+      "duration": 1.71,
+      "text": "and resist having it changed,",
+      "en": "and resist having it changed,",
+      "zh": ""
+    },
+    {
+      "start": 406.65,
+      "duration": 1.41,
+      "text": "according to Newton's first law.",
+      "en": "according to Newton's first law.",
+      "zh": ""
+    },
+    {
+      "start": 408.06,
+      "duration": 2.49,
+      "text": "So spinning, and therefore, stability is important",
+      "en": "So spinning, and therefore, stability is important",
+      "zh": ""
+    },
+    {
+      "start": 410.55,
+      "duration": 2.67,
+      "text": "because it will maintain that magic 20-degree ramp angle",
+      "en": "because it will maintain that magic 20-degree ramp angle",
+      "zh": ""
+    },
+    {
+      "start": 413.22,
+      "duration": 1.86,
+      "text": "with the water, as you can see here.",
+      "en": "with the water, as you can see here.",
+      "zh": ""
+    },
+    {
+      "start": 416.79,
+      "duration": 1.26,
+      "text": "If it's not spinning enough,",
+      "en": "If it's not spinning enough,",
+      "zh": ""
+    },
+    {
+      "start": 418.05,
+      "duration": 2.37,
+      "text": "it will rotate over and then sink.",
+      "en": "it will rotate over and then sink.",
+      "zh": ""
+    },
+    {
+      "start": 420.42,
+      "duration": 2.01,
+      "text": "And finally, rock choice is important,",
+      "en": "And finally, rock choice is important,",
+      "zh": ""
+    },
+    {
+      "start": 422.43,
+      "duration": 1.62,
+      "text": "but not in the way I originally thought.",
+      "en": "but not in the way I originally thought.",
+      "zh": ""
+    },
+    {
+      "start": 424.05,
+      "duration": 1.32,
+      "text": "Primarily, it just needs to be flat",
+      "en": "Primarily, it just needs to be flat",
+      "zh": ""
+    },
+    {
+      "start": 425.37,
+      "duration": 1.65,
+      "text": "on the bottom to create that ramp.",
+      "en": "on the bottom to create that ramp.",
+      "zh": ""
+    },
+    {
+      "start": 427.02,
+      "duration": 2.91,
+      "text": "But shape and diameter don't matter nearly as much.",
+      "en": "But shape and diameter don't matter nearly as much.",
+      "zh": ""
+    },
+    {
+      "start": 429.93,
+      "duration": 0.83,
+      "text": "The heavier the better",
+      "en": "The heavier the better",
+      "zh": ""
+    },
+    {
+      "start": 430.76,
+      "duration": 1.75,
+      "text": "because you put more energy into the system,",
+      "en": "because you put more energy into the system,",
+      "zh": ""
+    },
+    {
+      "start": 432.51,
+      "duration": 2.46,
+      "text": "but not so big that you can't reach the terminal velocity",
+      "en": "but not so big that you can't reach the terminal velocity",
+      "zh": ""
+    },
+    {
+      "start": 434.97,
+      "duration": 1.95,
+      "text": "of your arm by the time you release the rock.",
+      "en": "of your arm by the time you release the rock.",
+      "zh": ""
+    },
+    {
+      "start": 436.92,
+      "duration": 1.8,
+      "text": "This is especially important for kids.",
+      "en": "This is especially important for kids.",
+      "zh": ""
+    },
+    {
+      "start": 438.72,
+      "duration": 2.97,
+      "text": "They'll see much more success with small, lightweight rocks.",
+      "en": "They'll see much more success with small, lightweight rocks.",
+      "zh": ""
+    },
+    {
+      "start": 441.69,
+      "duration": 2.01,
+      "text": "And I should also mention that we looped back",
+      "en": "And I should also mention that we looped back",
+      "zh": ""
+    },
+    {
+      "start": 443.7,
+      "duration": 1.38,
+      "text": "and checked a couple of papers",
+      "en": "and checked a couple of papers",
+      "zh": ""
+    },
+    {
+      "start": 445.08,
+      "duration": 1.65,
+      "text": "we discovered about rock skipping.",
+      "en": "we discovered about rock skipping.",
+      "zh": ""
+    },
+    {
+      "start": 446.73,
+      "duration": 0.99,
+      "text": "And for the most part,",
+      "en": "And for the most part,",
+      "zh": ""
+    },
+    {
+      "start": 447.72,
+      "duration": 2.76,
+      "text": "it matched really closely to what we discovered ourselves.",
+      "en": "it matched really closely to what we discovered ourselves.",
+      "zh": ""
+    },
+    {
+      "start": 450.48,
+      "duration": 1.38,
+      "text": "And so armed with our new knowledge,",
+      "en": "And so armed with our new knowledge,",
+      "zh": ""
+    },
+    {
+      "start": 451.86,
+      "duration": 1.47,
+      "text": "I put all the nieces and nephews",
+      "en": "I put all the nieces and nephews",
+      "zh": ""
+    },
+    {
+      "start": 453.33,
+      "duration": 2.7,
+      "text": "through rock skip bootcamp to get the perfect technique",
+      "en": "through rock skip bootcamp to get the perfect technique",
+      "zh": ""
+    },
+    {
+      "start": 456.03,
+      "duration": 1.35,
+      "text": "into their muscle memories.",
+      "en": "into their muscle memories.",
+      "zh": ""
+    },
+    {
+      "start": 457.38,
+      "duration": 2.34,
+      "text": "And while it started a bit rough,",
+      "en": "And while it started a bit rough,",
+      "zh": ""
+    },
+    {
+      "start": 459.72,
+      "duration": 2.19,
+      "text": "they all eventually graduated.",
+      "en": "they all eventually graduated.",
+      "zh": ""
+    },
+    {
+      "start": 461.91,
+      "duration": 2.58,
+      "text": "(upbeat music)",
+      "en": "(upbeat music)",
+      "zh": ""
+    },
+    {
+      "start": 475.33,
+      "duration": 2.12,
+      "text": "And the clay discs tended to be a little more forgiving.",
+      "en": "And the clay discs tended to be a little more forgiving.",
+      "zh": ""
+    },
+    {
+      "start": 477.45,
+      "duration": 1.32,
+      "text": "So we trained with those first,",
+      "en": "So we trained with those first,",
+      "zh": ""
+    },
+    {
+      "start": 478.77,
+      "duration": 1.68,
+      "text": "and then graduated to actual rocks,",
+      "en": "and then graduated to actual rocks,",
+      "zh": ""
+    },
+    {
+      "start": 480.45,
+      "duration": 2.07,
+      "text": "and the principles translated perfectly.",
+      "en": "and the principles translated perfectly.",
+      "zh": ""
+    },
+    {
+      "start": 484.11,
+      "duration": 1.05,
+      "text": "And so after our hard workout,",
+      "en": "And so after our hard workout,",
+      "zh": ""
+    },
+    {
+      "start": 485.16,
+      "duration": 3.0,
+      "text": "like all true performance athletes, we carb loaded.",
+      "en": "like all true performance athletes, we carb loaded.",
+      "zh": ""
+    },
+    {
+      "start": 491.22,
+      "duration": 0.83,
+      "text": "So there you have it.",
+      "en": "So there you have it.",
+      "zh": ""
+    },
+    {
+      "start": 492.05,
+      "duration": 2.44,
+      "text": "In addition to learning to skip rocks like a pro,",
+      "en": "In addition to learning to skip rocks like a pro,",
+      "zh": ""
+    },
+    {
+      "start": 494.49,
+      "duration": 1.26,
+      "text": "hopefully you picked up some tips",
+      "en": "hopefully you picked up some tips",
+      "zh": ""
+    },
+    {
+      "start": 495.75,
+      "duration": 1.5,
+      "text": "on the engineering design process.",
+      "en": "on the engineering design process.",
+      "zh": ""
+    },
+    {
+      "start": 497.25,
+      "duration": 1.5,
+      "text": "People ask me all the time,",
+      "en": "People ask me all the time,",
+      "zh": ""
+    },
+    {
+      "start": 498.75,
+      "duration": 1.65,
+      "text": "I have an egg drop competition coming up.",
+      "en": "I have an egg drop competition coming up.",
+      "zh": ""
+    },
+    {
+      "start": 500.4,
+      "duration": 1.5,
+      "text": "Here are the materials I can use.",
+      "en": "Here are the materials I can use.",
+      "zh": ""
+    },
+    {
+      "start": 501.9,
+      "duration": 1.23,
+      "text": "What's the best solution?",
+      "en": "What's the best solution?",
+      "zh": ""
+    },
+    {
+      "start": 503.13,
+      "duration": 1.95,
+      "text": "I don't know, no one does",
+      "en": "I don't know, no one does",
+      "zh": ""
+    },
+    {
+      "start": 505.08,
+      "duration": 1.41,
+      "text": "without running some tests",
+      "en": "without running some tests",
+      "zh": ""
+    },
+    {
+      "start": 506.49,
+      "duration": 2.25,
+      "text": "because it depends on the actual rules of the competition,",
+      "en": "because it depends on the actual rules of the competition,",
+      "zh": ""
+    },
+    {
+      "start": 508.74,
+      "duration": 2.01,
+      "text": "or maybe the brand and materials you chose,",
+      "en": "or maybe the brand and materials you chose,",
+      "zh": ""
+    },
+    {
+      "start": 510.75,
+      "duration": 1.68,
+      "text": "or how you actually put it together.",
+      "en": "or how you actually put it together.",
+      "zh": ""
+    },
+    {
+      "start": 512.43,
+      "duration": 1.8,
+      "text": "So you should do some Googling for inspiration,",
+      "en": "So you should do some Googling for inspiration,",
+      "zh": ""
+    },
+    {
+      "start": 514.23,
+      "duration": 1.89,
+      "text": "and then make a bunch of prototypes",
+      "en": "and then make a bunch of prototypes",
+      "zh": ""
+    },
+    {
+      "start": 516.12,
+      "duration": 1.5,
+      "text": "and do small changes on each",
+      "en": "and do small changes on each",
+      "zh": ""
+    },
+    {
+      "start": 517.62,
+      "duration": 1.44,
+      "text": "to see what matters and what doesn't.",
+      "en": "to see what matters and what doesn't.",
+      "zh": ""
+    },
+    {
+      "start": 519.06,
+      "duration": 1.08,
+      "text": "And only then go back",
+      "en": "And only then go back",
+      "zh": ""
+    },
+    {
+      "start": 520.14,
+      "duration": 2.4,
+      "text": "and build your final version with some confidence",
+      "en": "and build your final version with some confidence",
+      "zh": ""
+    },
+    {
+      "start": 522.54,
+      "duration": 2.33,
+      "text": "that you're gonna dominate the competition.",
+      "en": "that you're gonna dominate the competition.",
+      "zh": ""
+    },
+    {
+      "start": 524.87,
+      "duration": 3.06,
+      "text": "(drone whirring)",
+      "en": "(drone whirring)",
+      "zh": ""
+    },
+    {
+      "start": 527.93,
+      "duration": 2.58,
+      "text": "(upbeat music)",
+      "en": "(upbeat music)",
+      "zh": ""
+    },
+    {
+      "start": 549.32,
+      "duration": 2.59,
+      "text": "(men laughing)",
+      "en": "(men laughing)",
+      "zh": ""
+    }
+  ],
+  "words": []
+}

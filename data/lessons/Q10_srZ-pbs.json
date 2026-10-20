@@ -1,0 +1,5360 @@
+{
+  "cues": [
+    {
+      "start": 0.09,
+      "duration": 3.15,
+      "text": "- This is a video about a single simple rule",
+      "en": "- This is a video about a single simple rule",
+      "zh": ""
+    },
+    {
+      "start": 3.24,
+      "duration": 3.48,
+      "text": "that underpins all of physics, every principle,",
+      "en": "that underpins all of physics, every principle,",
+      "zh": ""
+    },
+    {
+      "start": 6.72,
+      "duration": 3.36,
+      "text": "from classical mechanics to electromagnetism,",
+      "en": "from classical mechanics to electromagnetism,",
+      "zh": ""
+    },
+    {
+      "start": 10.08,
+      "duration": 3.48,
+      "text": "from quantum theory to general relativity,",
+      "en": "from quantum theory to general relativity,",
+      "zh": ""
+    },
+    {
+      "start": 13.56,
+      "duration": 3.18,
+      "text": "right down to the ultimate constituents of matter,",
+      "en": "right down to the ultimate constituents of matter,",
+      "zh": ""
+    },
+    {
+      "start": 16.74,
+      "duration": 1.59,
+      "text": "the fundamental particles.",
+      "en": "the fundamental particles.",
+      "zh": ""
+    },
+    {
+      "start": 19.62,
+      "duration": 4.41,
+      "text": "All of it can be replaced by this single rule.",
+      "en": "All of it can be replaced by this single rule.",
+      "zh": ""
+    },
+    {
+      "start": 24.03,
+      "duration": 2.07,
+      "text": "It feels like we're approaching spooky territory.",
+      "en": "It feels like we're approaching spooky territory.",
+      "zh": ""
+    },
+    {
+      "start": 26.1,
+      "duration": 1.77,
+      "text": "- We're approaching spooky territory.",
+      "en": "- We're approaching spooky territory.",
+      "zh": ""
+    },
+    {
+      "start": 27.87,
+      "duration": 2.01,
+      "text": "I hear you and I agree.",
+      "en": "I hear you and I agree.",
+      "zh": ""
+    },
+    {
+      "start": 30.99,
+      "duration": 2.01,
+      "text": "- [Derek] It may in fact explain the behavior",
+      "en": "- [Derek] It may in fact explain the behavior",
+      "zh": ""
+    },
+    {
+      "start": 33.0,
+      "duration": 1.26,
+      "text": "of life itself.",
+      "en": "of life itself.",
+      "zh": ""
+    },
+    {
+      "start": 34.26,
+      "duration": 3.0,
+      "text": "- I think I'm stuck in some classical mindset where, to me,",
+      "en": "- I think I'm stuck in some classical mindset where, to me,",
+      "zh": ""
+    },
+    {
+      "start": 37.26,
+      "duration": 1.26,
+      "text": "the local picture,",
+      "en": "the local picture,",
+      "zh": ""
+    },
+    {
+      "start": 38.52,
+      "duration": 1.32,
+      "text": "the differential equation way",
+      "en": "the differential equation way",
+      "zh": ""
+    },
+    {
+      "start": 39.84,
+      "duration": 1.65,
+      "text": "of thinking about the universe,",
+      "en": "of thinking about the universe,",
+      "zh": ""
+    },
+    {
+      "start": 41.49,
+      "duration": 2.01,
+      "text": "that that's really what's going on.",
+      "en": "that that's really what's going on.",
+      "zh": ""
+    },
+    {
+      "start": 46.98,
+      "duration": 2.43,
+      "text": "But I fear that I have it exactly backwards.",
+      "en": "But I fear that I have it exactly backwards.",
+      "zh": ""
+    },
+    {
+      "start": 51.21,
+      "duration": 2.82,
+      "text": "- And it all starts with a simple problem.",
+      "en": "- And it all starts with a simple problem.",
+      "zh": ""
+    },
+    {
+      "start": 55.65,
+      "duration": 3.3,
+      "text": "If you wanna slide a mass from point A to point B,",
+      "en": "If you wanna slide a mass from point A to point B,",
+      "zh": ""
+    },
+    {
+      "start": 58.95,
+      "duration": 3.3,
+      "text": "what shape of ramp will get it there the fastest?",
+      "en": "what shape of ramp will get it there the fastest?",
+      "zh": ""
+    },
+    {
+      "start": 63.27,
+      "duration": 3.6,
+      "text": "This is known as the problem of fastest descent.",
+      "en": "This is known as the problem of fastest descent.",
+      "zh": ""
+    },
+    {
+      "start": 66.87,
+      "duration": 1.5,
+      "text": "- You know, common sense, you might say",
+      "en": "- You know, common sense, you might say",
+      "zh": ""
+    },
+    {
+      "start": 68.37,
+      "duration": 1.74,
+      "text": "take the shortest path.",
+      "en": "take the shortest path.",
+      "zh": ""
+    },
+    {
+      "start": 70.11,
+      "duration": 1.5,
+      "text": "Straight line from A to B.",
+      "en": "Straight line from A to B.",
+      "zh": ""
+    },
+    {
+      "start": 72.72,
+      "duration": 1.92,
+      "text": "- [Derek] But if you bend the ramp down a bit",
+      "en": "- [Derek] But if you bend the ramp down a bit",
+      "zh": ""
+    },
+    {
+      "start": 74.64,
+      "duration": 0.9,
+      "text": "at the beginning,",
+      "en": "at the beginning,",
+      "zh": ""
+    },
+    {
+      "start": 75.54,
+      "duration": 2.94,
+      "text": "well, the mass accelerates to a higher speed earlier.",
+      "en": "well, the mass accelerates to a higher speed earlier.",
+      "zh": ""
+    },
+    {
+      "start": 78.48,
+      "duration": 2.25,
+      "text": "So even though it travels slightly farther,",
+      "en": "So even though it travels slightly farther,",
+      "zh": ""
+    },
+    {
+      "start": 80.73,
+      "duration": 3.54,
+      "text": "it travels faster and beats the straight ramp.",
+      "en": "it travels faster and beats the straight ramp.",
+      "zh": ""
+    },
+    {
+      "start": 84.27,
+      "duration": 3.57,
+      "text": "So the question is, what shape provides the perfect balance",
+      "en": "So the question is, what shape provides the perfect balance",
+      "zh": ""
+    },
+    {
+      "start": 87.84,
+      "duration": 2.16,
+      "text": "of acceleration and path length",
+      "en": "of acceleration and path length",
+      "zh": ""
+    },
+    {
+      "start": 90.0,
+      "duration": 1.77,
+      "text": "to minimize travel time?",
+      "en": "to minimize travel time?",
+      "zh": ""
+    },
+    {
+      "start": 92.61,
+      "duration": 3.03,
+      "text": "According to Galileo, it was the arc of a circle.",
+      "en": "According to Galileo, it was the arc of a circle.",
+      "zh": ""
+    },
+    {
+      "start": 96.54,
+      "duration": 3.06,
+      "text": "He showed that this is faster than any polygon.",
+      "en": "He showed that this is faster than any polygon.",
+      "zh": ""
+    },
+    {
+      "start": 99.6,
+      "duration": 1.92,
+      "text": "But is it the fastest?",
+      "en": "But is it the fastest?",
+      "zh": ""
+    },
+    {
+      "start": 103.95,
+      "duration": 3.3,
+      "text": "Nearly 60 years later, in June of 1696,",
+      "en": "Nearly 60 years later, in June of 1696,",
+      "zh": ""
+    },
+    {
+      "start": 107.25,
+      "duration": 2.67,
+      "text": "Johann Bernoulli set this problem as a challenge",
+      "en": "Johann Bernoulli set this problem as a challenge",
+      "zh": ""
+    },
+    {
+      "start": 109.92,
+      "duration": 2.85,
+      "text": "to the best mathematicians in the world.",
+      "en": "to the best mathematicians in the world.",
+      "zh": ""
+    },
+    {
+      "start": 112.77,
+      "duration": 1.71,
+      "text": "- Mainly because he's a big show off",
+      "en": "- Mainly because he's a big show off",
+      "zh": ""
+    },
+    {
+      "start": 114.48,
+      "duration": 3.36,
+      "text": "and he wants to show that he's better than all of them.",
+      "en": "and he wants to show that he's better than all of them.",
+      "zh": ""
+    },
+    {
+      "start": 117.84,
+      "duration": 1.77,
+      "text": "- [Derek] He gave everyone six months",
+      "en": "- [Derek] He gave everyone six months",
+      "zh": ""
+    },
+    {
+      "start": 119.61,
+      "duration": 1.65,
+      "text": "to come up with solutions,",
+      "en": "to come up with solutions,",
+      "zh": ""
+    },
+    {
+      "start": 121.26,
+      "duration": 1.62,
+      "text": "but none were submitted.",
+      "en": "but none were submitted.",
+      "zh": ""
+    },
+    {
+      "start": 124.05,
+      "duration": 2.37,
+      "text": "So Gottfried Leibniz, a friend of Bernoulli's,",
+      "en": "So Gottfried Leibniz, a friend of Bernoulli's,",
+      "zh": ""
+    },
+    {
+      "start": 126.42,
+      "duration": 1.92,
+      "text": "persuaded him to extend the deadline",
+      "en": "persuaded him to extend the deadline",
+      "zh": ""
+    },
+    {
+      "start": 128.34,
+      "duration": 1.89,
+      "text": "to give foreigners a chance.",
+      "en": "to give foreigners a chance.",
+      "zh": ""
+    },
+    {
+      "start": 132.06,
+      "duration": 2.34,
+      "text": "- And I think Newton was probably the intended target",
+      "en": "- And I think Newton was probably the intended target",
+      "zh": ""
+    },
+    {
+      "start": 134.4,
+      "duration": 2.37,
+      "text": "because everybody thought of him as the best,",
+      "en": "because everybody thought of him as the best,",
+      "zh": ""
+    },
+    {
+      "start": 136.77,
+      "duration": 2.28,
+      "text": "and so Johann would've wanted to show",
+      "en": "and so Johann would've wanted to show",
+      "zh": ""
+    },
+    {
+      "start": 139.05,
+      "duration": 2.1,
+      "text": "that he was better than Newton.",
+      "en": "that he was better than Newton.",
+      "zh": ""
+    },
+    {
+      "start": 141.15,
+      "duration": 4.74,
+      "text": "He was no longer a really active mathematician or physicist.",
+      "en": "He was no longer a really active mathematician or physicist.",
+      "zh": ""
+    },
+    {
+      "start": 145.89,
+      "duration": 2.19,
+      "text": "He was working as the warden of the Mint,",
+      "en": "He was working as the warden of the Mint,",
+      "zh": ""
+    },
+    {
+      "start": 148.08,
+      "duration": 2.82,
+      "text": "like a big high government position.",
+      "en": "like a big high government position.",
+      "zh": ""
+    },
+    {
+      "start": 150.9,
+      "duration": 2.85,
+      "text": "- [Derek] And on the 29th of January, 1697,",
+      "en": "- [Derek] And on the 29th of January, 1697,",
+      "zh": ""
+    },
+    {
+      "start": 153.75,
+      "duration": 2.55,
+      "text": "Newton returned home after a long day at work",
+      "en": "Newton returned home after a long day at work",
+      "zh": ""
+    },
+    {
+      "start": 156.3,
+      "duration": 2.85,
+      "text": "to find Bernoulli's challenge in the mail.",
+      "en": "to find Bernoulli's challenge in the mail.",
+      "zh": ""
+    },
+    {
+      "start": 159.15,
+      "duration": 1.63,
+      "text": "Irritated, he wrote,",
+      "en": "Irritated, he wrote,",
+      "zh": ""
+    },
+    {
+      "start": 160.78,
+      "duration": 3.44,
+      "text": "\"I do not love to be dunned and teased by foreigners",
+      "en": "\"I do not love to be dunned and teased by foreigners",
+      "zh": ""
+    },
+    {
+      "start": 164.22,
+      "duration": 1.89,
+      "text": "about mathematical things.\"",
+      "en": "about mathematical things.\"",
+      "zh": ""
+    },
+    {
+      "start": 167.19,
+      "duration": 2.61,
+      "text": "But the problem was too enticing,",
+      "en": "But the problem was too enticing,",
+      "zh": ""
+    },
+    {
+      "start": 169.8,
+      "duration": 4.17,
+      "text": "so Newton spent the rest of the day and night on it,",
+      "en": "so Newton spent the rest of the day and night on it,",
+      "zh": ""
+    },
+    {
+      "start": 173.97,
+      "duration": 3.84,
+      "text": "and by 4:00 a.m. he had come up with a solution,",
+      "en": "and by 4:00 a.m. he had come up with a solution,",
+      "zh": ""
+    },
+    {
+      "start": 177.81,
+      "duration": 2.43,
+      "text": "something that took Bernoulli two weeks.",
+      "en": "something that took Bernoulli two weeks.",
+      "zh": ""
+    },
+    {
+      "start": 182.25,
+      "duration": 1.44,
+      "text": "Newton submitted his solution",
+      "en": "Newton submitted his solution",
+      "zh": ""
+    },
+    {
+      "start": 183.69,
+      "duration": 2.58,
+      "text": "to the journal Philosophical Transactions.",
+      "en": "to the journal Philosophical Transactions.",
+      "zh": ""
+    },
+    {
+      "start": 187.11,
+      "duration": 2.43,
+      "text": "- He sent his solution there but didn't sign it.",
+      "en": "- He sent his solution there but didn't sign it.",
+      "zh": ""
+    },
+    {
+      "start": 189.54,
+      "duration": 3.84,
+      "text": "And Johann Bernoulli, after seeing the solution,",
+      "en": "And Johann Bernoulli, after seeing the solution,",
+      "zh": ""
+    },
+    {
+      "start": 193.38,
+      "duration": 2.44,
+      "text": "is alleged to have said,",
+      "en": "is alleged to have said,",
+      "zh": ""
+    },
+    {
+      "start": 195.82,
+      "duration": 3.44,
+      "text": "\"I recognize the lion by his claw.\"",
+      "en": "\"I recognize the lion by his claw.\"",
+      "zh": ""
+    },
+    {
+      "start": 199.26,
+      "duration": 3.3,
+      "text": "You know, that, \"Okay, you don't need to sign it, Newton,",
+      "en": "You know, that, \"Okay, you don't need to sign it, Newton,",
+      "zh": ""
+    },
+    {
+      "start": 202.56,
+      "duration": 1.38,
+      "text": "I can tell who you are.",
+      "en": "I can tell who you are.",
+      "zh": ""
+    },
+    {
+      "start": 203.94,
+      "duration": 1.85,
+      "text": "Who else could give such a solution?\"",
+      "en": "Who else could give such a solution?\"",
+      "zh": ""
+    },
+    {
+      "start": 207.18,
+      "duration": 3.45,
+      "text": "- [Derek] And while overall Newton dominated Bernoulli,",
+      "en": "- [Derek] And while overall Newton dominated Bernoulli,",
+      "zh": ""
+    },
+    {
+      "start": 210.63,
+      "duration": 1.23,
+      "text": "in this instance,",
+      "en": "in this instance,",
+      "zh": ""
+    },
+    {
+      "start": 211.86,
+      "duration": 3.33,
+      "text": "Bernoulli's solution actually out-shone Newton's.",
+      "en": "Bernoulli's solution actually out-shone Newton's.",
+      "zh": ""
+    },
+    {
+      "start": 216.33,
+      "duration": 1.68,
+      "text": "- I could see why Johann Bernoulli",
+      "en": "- I could see why Johann Bernoulli",
+      "zh": ""
+    },
+    {
+      "start": 218.01,
+      "duration": 1.59,
+      "text": "wanted to challenge everybody,",
+      "en": "wanted to challenge everybody,",
+      "zh": ""
+    },
+    {
+      "start": 219.6,
+      "duration": 2.4,
+      "text": "because he came up with a really clever,",
+      "en": "because he came up with a really clever,",
+      "zh": ""
+    },
+    {
+      "start": 222.0,
+      "duration": 3.87,
+      "text": "I would say like a truly creative, beautiful solution.",
+      "en": "I would say like a truly creative, beautiful solution.",
+      "zh": ""
+    },
+    {
+      "start": 226.71,
+      "duration": 1.8,
+      "text": "- To do it, he took inspiration",
+      "en": "- To do it, he took inspiration",
+      "zh": ""
+    },
+    {
+      "start": 228.51,
+      "duration": 2.79,
+      "text": "from a problem faced by ancient philosophers.",
+      "en": "from a problem faced by ancient philosophers.",
+      "zh": ""
+    },
+    {
+      "start": 232.44,
+      "duration": 2.97,
+      "text": "How does light travel from one place to another?",
+      "en": "How does light travel from one place to another?",
+      "zh": ""
+    },
+    {
+      "start": 236.49,
+      "duration": 2.55,
+      "text": "This was contemplated by Hero of Alexandria",
+      "en": "This was contemplated by Hero of Alexandria",
+      "zh": ""
+    },
+    {
+      "start": 239.04,
+      "duration": 2.19,
+      "text": "in the 1st century AD.",
+      "en": "in the 1st century AD.",
+      "zh": ""
+    },
+    {
+      "start": 241.23,
+      "duration": 3.06,
+      "text": "He realized that in a single medium, like air,",
+      "en": "He realized that in a single medium, like air,",
+      "zh": ""
+    },
+    {
+      "start": 244.29,
+      "duration": 2.76,
+      "text": "light always follows the shortest path.",
+      "en": "light always follows the shortest path.",
+      "zh": ""
+    },
+    {
+      "start": 247.05,
+      "duration": 3.54,
+      "text": "A consequence is that when light reflects, say, off a lake,",
+      "en": "A consequence is that when light reflects, say, off a lake,",
+      "zh": ""
+    },
+    {
+      "start": 250.59,
+      "duration": 2.22,
+      "text": "the angle of incidence is always equal",
+      "en": "the angle of incidence is always equal",
+      "zh": ""
+    },
+    {
+      "start": 252.81,
+      "duration": 2.22,
+      "text": "to the angle of reflection.",
+      "en": "to the angle of reflection.",
+      "zh": ""
+    },
+    {
+      "start": 255.03,
+      "duration": 2.25,
+      "text": "Any other path between the start and end points",
+      "en": "Any other path between the start and end points",
+      "zh": ""
+    },
+    {
+      "start": 257.28,
+      "duration": 1.62,
+      "text": "would be longer.",
+      "en": "would be longer.",
+      "zh": ""
+    },
+    {
+      "start": 258.9,
+      "duration": 2.43,
+      "text": "But when light goes from one medium into another,",
+      "en": "But when light goes from one medium into another,",
+      "zh": ""
+    },
+    {
+      "start": 261.33,
+      "duration": 1.68,
+      "text": "like from air into water,",
+      "en": "like from air into water,",
+      "zh": ""
+    },
+    {
+      "start": 263.01,
+      "duration": 2.04,
+      "text": "it bends in a peculiar way.",
+      "en": "it bends in a peculiar way.",
+      "zh": ""
+    },
+    {
+      "start": 265.05,
+      "duration": 4.23,
+      "text": "It refracts and it doesn't follow the shortest path.",
+      "en": "It refracts and it doesn't follow the shortest path.",
+      "zh": ""
+    },
+    {
+      "start": 269.28,
+      "duration": 1.17,
+      "text": "- If you've ever dropped something",
+      "en": "- If you've ever dropped something",
+      "zh": ""
+    },
+    {
+      "start": 270.45,
+      "duration": 1.83,
+      "text": "at the bottom of a swimming pool",
+      "en": "at the bottom of a swimming pool",
+      "zh": ""
+    },
+    {
+      "start": 272.28,
+      "duration": 2.01,
+      "text": "and you look for it through the water,",
+      "en": "and you look for it through the water,",
+      "zh": ""
+    },
+    {
+      "start": 274.29,
+      "duration": 1.32,
+      "text": "if you put your hand in there,",
+      "en": "if you put your hand in there,",
+      "zh": ""
+    },
+    {
+      "start": 275.61,
+      "duration": 2.01,
+      "text": "it's not necessarily where you think it is",
+      "en": "it's not necessarily where you think it is",
+      "zh": ""
+    },
+    {
+      "start": 277.62,
+      "duration": 3.6,
+      "text": "because the light has bent away from the flat surface.",
+      "en": "because the light has bent away from the flat surface.",
+      "zh": ""
+    },
+    {
+      "start": 282.27,
+      "duration": 2.85,
+      "text": "- So what is the guiding principle here?",
+      "en": "- So what is the guiding principle here?",
+      "zh": ""
+    },
+    {
+      "start": 287.31,
+      "duration": 3.24,
+      "text": "Well, over the next 1,600 years people slowly figured out",
+      "en": "Well, over the next 1,600 years people slowly figured out",
+      "zh": ""
+    },
+    {
+      "start": 290.55,
+      "duration": 2.31,
+      "text": "that the sine of the angle of incidence",
+      "en": "that the sine of the angle of incidence",
+      "zh": ""
+    },
+    {
+      "start": 292.86,
+      "duration": 2.67,
+      "text": "divided by the sine of the angle of refraction",
+      "en": "divided by the sine of the angle of refraction",
+      "zh": ""
+    },
+    {
+      "start": 295.53,
+      "duration": 2.64,
+      "text": "is equal to a constant, n,",
+      "en": "is equal to a constant, n,",
+      "zh": ""
+    },
+    {
+      "start": 298.17,
+      "duration": 3.09,
+      "text": "which depends on the nature of the two media.",
+      "en": "which depends on the nature of the two media.",
+      "zh": ""
+    },
+    {
+      "start": 301.26,
+      "duration": 2.76,
+      "text": "This came to be known as Snell's Law.",
+      "en": "This came to be known as Snell's Law.",
+      "zh": ""
+    },
+    {
+      "start": 304.02,
+      "duration": 2.91,
+      "text": "But no one knew why it worked.",
+      "en": "But no one knew why it worked.",
+      "zh": ""
+    },
+    {
+      "start": 306.93,
+      "duration": 2.7,
+      "text": "That is, until 1657.",
+      "en": "That is, until 1657.",
+      "zh": ""
+    },
+    {
+      "start": 309.63,
+      "duration": 1.56,
+      "text": "- So another great mathematician",
+      "en": "- So another great mathematician",
+      "zh": ""
+    },
+    {
+      "start": 311.19,
+      "duration": 1.44,
+      "text": "enters our story at this point.",
+      "en": "enters our story at this point.",
+      "zh": ""
+    },
+    {
+      "start": 312.63,
+      "duration": 1.68,
+      "text": "This is Pierre Fermat.",
+      "en": "This is Pierre Fermat.",
+      "zh": ""
+    },
+    {
+      "start": 314.31,
+      "duration": 2.13,
+      "text": "By day he was a judge,",
+      "en": "By day he was a judge,",
+      "zh": ""
+    },
+    {
+      "start": 316.44,
+      "duration": 1.5,
+      "text": "but at night he'd come home",
+      "en": "but at night he'd come home",
+      "zh": ""
+    },
+    {
+      "start": 317.94,
+      "duration": 2.07,
+      "text": "and hang out with his wife and kids",
+      "en": "and hang out with his wife and kids",
+      "zh": ""
+    },
+    {
+      "start": 320.01,
+      "duration": 1.89,
+      "text": "and then do what he really loved the most,",
+      "en": "and then do what he really loved the most,",
+      "zh": ""
+    },
+    {
+      "start": 321.9,
+      "duration": 2.4,
+      "text": "which was work on math for fun.",
+      "en": "which was work on math for fun.",
+      "zh": ""
+    },
+    {
+      "start": 324.3,
+      "duration": 1.53,
+      "text": "And he mostly worked in pure math",
+      "en": "And he mostly worked in pure math",
+      "zh": ""
+    },
+    {
+      "start": 325.83,
+      "duration": 3.63,
+      "text": "but at one point he got interested in the question of,",
+      "en": "but at one point he got interested in the question of,",
+      "zh": ""
+    },
+    {
+      "start": 329.46,
+      "duration": 4.56,
+      "text": "why does light obey this principle of refraction?",
+      "en": "why does light obey this principle of refraction?",
+      "zh": ""
+    },
+    {
+      "start": 334.02,
+      "duration": 2.82,
+      "text": "- [Derek] And he thought maybe Hero of Alexandria",
+      "en": "- [Derek] And he thought maybe Hero of Alexandria",
+      "zh": ""
+    },
+    {
+      "start": 336.84,
+      "duration": 1.35,
+      "text": "was on the right track,",
+      "en": "was on the right track,",
+      "zh": ""
+    },
+    {
+      "start": 338.19,
+      "duration": 2.49,
+      "text": "but it's not distance that is being minimized,",
+      "en": "but it's not distance that is being minimized,",
+      "zh": ""
+    },
+    {
+      "start": 340.68,
+      "duration": 2.22,
+      "text": "but rather time.",
+      "en": "but rather time.",
+      "zh": ""
+    },
+    {
+      "start": 342.9,
+      "duration": 2.52,
+      "text": "But to see if this was true for refraction",
+      "en": "But to see if this was true for refraction",
+      "zh": ""
+    },
+    {
+      "start": 345.42,
+      "duration": 1.38,
+      "text": "would be difficult.",
+      "en": "would be difficult.",
+      "zh": ""
+    },
+    {
+      "start": 346.8,
+      "duration": 1.14,
+      "text": "He would have to work out",
+      "en": "He would have to work out",
+      "zh": ""
+    },
+    {
+      "start": 347.94,
+      "duration": 2.49,
+      "text": "every possible path light could take",
+      "en": "every possible path light could take",
+      "zh": ""
+    },
+    {
+      "start": 350.43,
+      "duration": 2.85,
+      "text": "by varying the point where it intersects the boundary",
+      "en": "by varying the point where it intersects the boundary",
+      "zh": ""
+    },
+    {
+      "start": 353.28,
+      "duration": 2.04,
+      "text": "and compute the time for each,",
+      "en": "and compute the time for each,",
+      "zh": ""
+    },
+    {
+      "start": 355.32,
+      "duration": 2.04,
+      "text": "and then show that light takes the path",
+      "en": "and then show that light takes the path",
+      "zh": ""
+    },
+    {
+      "start": 357.36,
+      "duration": 3.36,
+      "text": "for which the total travel time is the shortest.",
+      "en": "for which the total travel time is the shortest.",
+      "zh": ""
+    },
+    {
+      "start": 360.72,
+      "duration": 1.38,
+      "text": "- He doesn't know how to solve it",
+      "en": "- He doesn't know how to solve it",
+      "zh": ""
+    },
+    {
+      "start": 362.1,
+      "duration": 2.52,
+      "text": "and he worries that it's gonna come out complicated",
+      "en": "and he worries that it's gonna come out complicated",
+      "zh": ""
+    },
+    {
+      "start": 364.62,
+      "duration": 1.59,
+      "text": "even if he could solve it,",
+      "en": "even if he could solve it,",
+      "zh": ""
+    },
+    {
+      "start": 366.21,
+      "duration": 3.06,
+      "text": "so he's not gonna do it.",
+      "en": "so he's not gonna do it.",
+      "zh": ""
+    },
+    {
+      "start": 369.27,
+      "duration": 1.92,
+      "text": "I think it's 'cause he wasn't super interested",
+      "en": "I think it's 'cause he wasn't super interested",
+      "zh": ""
+    },
+    {
+      "start": 371.19,
+      "duration": 1.62,
+      "text": "in physics, actually.",
+      "en": "in physics, actually.",
+      "zh": ""
+    },
+    {
+      "start": 372.81,
+      "duration": 2.37,
+      "text": "But anyway, years go by,",
+      "en": "But anyway, years go by,",
+      "zh": ""
+    },
+    {
+      "start": 375.18,
+      "duration": 1.95,
+      "text": "he gets interested in it five years later",
+      "en": "he gets interested in it five years later",
+      "zh": ""
+    },
+    {
+      "start": 377.13,
+      "duration": 1.11,
+      "text": "and tries to solve it,",
+      "en": "and tries to solve it,",
+      "zh": ""
+    },
+    {
+      "start": 378.24,
+      "duration": 1.32,
+      "text": "and then he does solve it",
+      "en": "and then he does solve it",
+      "zh": ""
+    },
+    {
+      "start": 379.56,
+      "duration": 2.88,
+      "text": "and he shows that Snell's Law actually pops out",
+      "en": "and he shows that Snell's Law actually pops out",
+      "zh": ""
+    },
+    {
+      "start": 382.44,
+      "duration": 3.39,
+      "text": "as the minimizing path for light, you know,",
+      "en": "as the minimizing path for light, you know,",
+      "zh": ""
+    },
+    {
+      "start": 385.83,
+      "duration": 2.25,
+      "text": "under these conditions of moving from one medium",
+      "en": "under these conditions of moving from one medium",
+      "zh": ""
+    },
+    {
+      "start": 388.08,
+      "duration": 2.7,
+      "text": "with one speed of light to another with another.",
+      "en": "with one speed of light to another with another.",
+      "zh": ""
+    },
+    {
+      "start": 390.78,
+      "duration": 1.68,
+      "text": "- [Derek] And that constant, n,",
+      "en": "- [Derek] And that constant, n,",
+      "zh": ""
+    },
+    {
+      "start": 392.46,
+      "duration": 1.86,
+      "text": "well, that's just equal to the speed of light",
+      "en": "well, that's just equal to the speed of light",
+      "zh": ""
+    },
+    {
+      "start": 394.32,
+      "duration": 0.99,
+      "text": "in the first medium",
+      "en": "in the first medium",
+      "zh": ""
+    },
+    {
+      "start": 395.31,
+      "duration": 2.43,
+      "text": "divided by the speed of light in the second medium,",
+      "en": "divided by the speed of light in the second medium,",
+      "zh": ""
+    },
+    {
+      "start": 397.74,
+      "duration": 3.42,
+      "text": "which allows us to rewrite Snell's Law like this.",
+      "en": "which allows us to rewrite Snell's Law like this.",
+      "zh": ""
+    },
+    {
+      "start": 402.33,
+      "duration": 0.83,
+      "text": "- And he says this thing,",
+      "en": "- And he says this thing,",
+      "zh": ""
+    },
+    {
+      "start": 403.16,
+      "duration": 2.2,
+      "text": "I just wanna read you a little quote 'cause I love it.",
+      "en": "I just wanna read you a little quote 'cause I love it.",
+      "zh": ""
+    },
+    {
+      "start": 405.36,
+      "duration": 2.64,
+      "text": "He says that this is \"the most extraordinary,",
+      "en": "He says that this is \"the most extraordinary,",
+      "zh": ""
+    },
+    {
+      "start": 408.0,
+      "duration": 1.44,
+      "text": "the most unforeseen,",
+      "en": "the most unforeseen,",
+      "zh": ""
+    },
+    {
+      "start": 409.44,
+      "duration": 2.58,
+      "text": "and the happiest calculation\" of his life.",
+      "en": "and the happiest calculation\" of his life.",
+      "zh": ""
+    },
+    {
+      "start": 413.1,
+      "duration": 1.47,
+      "text": "See, it's good to do physics.",
+      "en": "See, it's good to do physics.",
+      "zh": ""
+    },
+    {
+      "start": 414.57,
+      "duration": 2.94,
+      "text": "(both laugh)",
+      "en": "(both laugh)",
+      "zh": ""
+    },
+    {
+      "start": 417.51,
+      "duration": 1.89,
+      "text": "If you use that principle of least time,",
+      "en": "If you use that principle of least time,",
+      "zh": ""
+    },
+    {
+      "start": 419.4,
+      "duration": 2.85,
+      "text": "you can explain everything that was known about light",
+      "en": "you can explain everything that was known about light",
+      "zh": ""
+    },
+    {
+      "start": 422.25,
+      "duration": 2.07,
+      "text": "at the time of Fermat.",
+      "en": "at the time of Fermat.",
+      "zh": ""
+    },
+    {
+      "start": 424.32,
+      "duration": 2.43,
+      "text": "It's the first time, as far as I know,",
+      "en": "It's the first time, as far as I know,",
+      "zh": ""
+    },
+    {
+      "start": 426.75,
+      "duration": 2.28,
+      "text": "that anyone shows that nature obeys",
+      "en": "that anyone shows that nature obeys",
+      "zh": ""
+    },
+    {
+      "start": 429.03,
+      "duration": 1.89,
+      "text": "an optimization principle,",
+      "en": "an optimization principle,",
+      "zh": ""
+    },
+    {
+      "start": 430.92,
+      "duration": 2.85,
+      "text": "that nature does the best possible thing.",
+      "en": "that nature does the best possible thing.",
+      "zh": ""
+    },
+    {
+      "start": 433.77,
+      "duration": 3.54,
+      "text": "In this case, that light takes the shortest possible time.",
+      "en": "In this case, that light takes the shortest possible time.",
+      "zh": ""
+    },
+    {
+      "start": 438.45,
+      "duration": 1.23,
+      "text": "- [Derek] Now, Bernoulli knew",
+      "en": "- [Derek] Now, Bernoulli knew",
+      "zh": ""
+    },
+    {
+      "start": 439.68,
+      "duration": 2.31,
+      "text": "about Fermat's principle of least time,",
+      "en": "about Fermat's principle of least time,",
+      "zh": ""
+    },
+    {
+      "start": 441.99,
+      "duration": 2.52,
+      "text": "and he thought he could use it to solve the problem",
+      "en": "and he thought he could use it to solve the problem",
+      "zh": ""
+    },
+    {
+      "start": 444.51,
+      "duration": 1.95,
+      "text": "of fastest descent.",
+      "en": "of fastest descent.",
+      "zh": ""
+    },
+    {
+      "start": 446.46,
+      "duration": 2.31,
+      "text": "- He converted the problem from a mechanics problem",
+      "en": "- He converted the problem from a mechanics problem",
+      "zh": ""
+    },
+    {
+      "start": 448.77,
+      "duration": 2.34,
+      "text": "about a particle sliding down a chute",
+      "en": "about a particle sliding down a chute",
+      "zh": ""
+    },
+    {
+      "start": 451.11,
+      "duration": 2.73,
+      "text": "to a problem about optics.",
+      "en": "to a problem about optics.",
+      "zh": ""
+    },
+    {
+      "start": 455.22,
+      "duration": 2.61,
+      "text": "- [Derek] Instead of a mass that's accelerated by gravity,",
+      "en": "- [Derek] Instead of a mass that's accelerated by gravity,",
+      "zh": ""
+    },
+    {
+      "start": 457.83,
+      "duration": 3.42,
+      "text": "he imagined a ray of light that would go faster and faster",
+      "en": "he imagined a ray of light that would go faster and faster",
+      "zh": ""
+    },
+    {
+      "start": 461.25,
+      "duration": 3.09,
+      "text": "as it went into layers of less and less dense media.",
+      "en": "as it went into layers of less and less dense media.",
+      "zh": ""
+    },
+    {
+      "start": 465.18,
+      "duration": 2.37,
+      "text": "And if you make the layers thinner and thinner",
+      "en": "And if you make the layers thinner and thinner",
+      "zh": ""
+    },
+    {
+      "start": 467.55,
+      "duration": 2.79,
+      "text": "where Snell's Law is obeyed at each interface,",
+      "en": "where Snell's Law is obeyed at each interface,",
+      "zh": ""
+    },
+    {
+      "start": 470.34,
+      "duration": 2.76,
+      "text": "you eventually get a continuous curve.",
+      "en": "you eventually get a continuous curve.",
+      "zh": ""
+    },
+    {
+      "start": 474.24,
+      "duration": 1.23,
+      "text": "Now the question is,",
+      "en": "Now the question is,",
+      "zh": ""
+    },
+    {
+      "start": 475.47,
+      "duration": 1.59,
+      "text": "how should the speed of light change",
+      "en": "how should the speed of light change",
+      "zh": ""
+    },
+    {
+      "start": 477.06,
+      "duration": 1.56,
+      "text": "from one layer to the next",
+      "en": "from one layer to the next",
+      "zh": ""
+    },
+    {
+      "start": 478.62,
+      "duration": 3.36,
+      "text": "so that it accurately models a falling object?",
+      "en": "so that it accurately models a falling object?",
+      "zh": ""
+    },
+    {
+      "start": 481.98,
+      "duration": 1.8,
+      "text": "- [Steven] You could try to solve the problem by thinking,",
+      "en": "- [Steven] You could try to solve the problem by thinking,",
+      "zh": ""
+    },
+    {
+      "start": 483.78,
+      "duration": 2.37,
+      "text": "if the particle has to fall from A to B,",
+      "en": "if the particle has to fall from A to B,",
+      "zh": ""
+    },
+    {
+      "start": 486.15,
+      "duration": 2.43,
+      "text": "it's gonna be picking up kinetic energy,",
+      "en": "it's gonna be picking up kinetic energy,",
+      "zh": ""
+    },
+    {
+      "start": 488.58,
+      "duration": 3.06,
+      "text": "it's going faster and faster as it slides down the chute",
+      "en": "it's going faster and faster as it slides down the chute",
+      "zh": ""
+    },
+    {
+      "start": 491.64,
+      "duration": 2.76,
+      "text": "and it's converting the loss in potential energy",
+      "en": "and it's converting the loss in potential energy",
+      "zh": ""
+    },
+    {
+      "start": 494.4,
+      "duration": 1.47,
+      "text": "into this kinetic energy.",
+      "en": "into this kinetic energy.",
+      "zh": ""
+    },
+    {
+      "start": 495.87,
+      "duration": 2.31,
+      "text": "If you write down the conservation of energy",
+      "en": "If you write down the conservation of energy",
+      "zh": ""
+    },
+    {
+      "start": 498.18,
+      "duration": 1.59,
+      "text": "for that relationship,",
+      "en": "for that relationship,",
+      "zh": ""
+    },
+    {
+      "start": 499.77,
+      "duration": 3.72,
+      "text": "you find that the velocity that the particle achieves",
+      "en": "you find that the velocity that the particle achieves",
+      "zh": ""
+    },
+    {
+      "start": 503.49,
+      "duration": 0.83,
+      "text": "at any time,",
+      "en": "at any time,",
+      "zh": ""
+    },
+    {
+      "start": 504.32,
+      "duration": 2.95,
+      "text": "having fallen a distance, let's say y,",
+      "en": "having fallen a distance, let's say y,",
+      "zh": ""
+    },
+    {
+      "start": 507.27,
+      "duration": 3.09,
+      "text": "its velocity squared will be proportional to y,",
+      "en": "its velocity squared will be proportional to y,",
+      "zh": ""
+    },
+    {
+      "start": 510.36,
+      "duration": 1.47,
+      "text": "the height from the top.",
+      "en": "the height from the top.",
+      "zh": ""
+    },
+    {
+      "start": 511.83,
+      "duration": 3.09,
+      "text": "So velocity goes like the square root of y.",
+      "en": "So velocity goes like the square root of y.",
+      "zh": ""
+    },
+    {
+      "start": 514.92,
+      "duration": 2.37,
+      "text": "And that'd be sort of like saying",
+      "en": "And that'd be sort of like saying",
+      "zh": ""
+    },
+    {
+      "start": 517.29,
+      "duration": 2.49,
+      "text": "imagine light moving in a way where,",
+      "en": "imagine light moving in a way where,",
+      "zh": ""
+    },
+    {
+      "start": 519.78,
+      "duration": 1.95,
+      "text": "instead of a constant speed of light,",
+      "en": "instead of a constant speed of light,",
+      "zh": ""
+    },
+    {
+      "start": 521.73,
+      "duration": 1.77,
+      "text": "the speed of light is proportional",
+      "en": "the speed of light is proportional",
+      "zh": ""
+    },
+    {
+      "start": 523.5,
+      "duration": 2.1,
+      "text": "to the distance from the top.",
+      "en": "to the distance from the top.",
+      "zh": ""
+    },
+    {
+      "start": 527.13,
+      "duration": 3.15,
+      "text": "- [Derek] Now let's zoom in and look at a single interface.",
+      "en": "- [Derek] Now let's zoom in and look at a single interface.",
+      "zh": ""
+    },
+    {
+      "start": 530.28,
+      "duration": 1.47,
+      "text": "We can plug in our expression",
+      "en": "We can plug in our expression",
+      "zh": ""
+    },
+    {
+      "start": 531.75,
+      "duration": 1.5,
+      "text": "for the speed of light in each layer",
+      "en": "for the speed of light in each layer",
+      "zh": ""
+    },
+    {
+      "start": 533.25,
+      "duration": 1.53,
+      "text": "into Snell's Law.",
+      "en": "into Snell's Law.",
+      "zh": ""
+    },
+    {
+      "start": 534.78,
+      "duration": 2.07,
+      "text": "Then find that the sine of the first angle",
+      "en": "Then find that the sine of the first angle",
+      "zh": ""
+    },
+    {
+      "start": 536.85,
+      "duration": 2.67,
+      "text": "divided by the square root of y for the first layer",
+      "en": "divided by the square root of y for the first layer",
+      "zh": ""
+    },
+    {
+      "start": 539.52,
+      "duration": 1.83,
+      "text": "is equal to the sine of the second angle",
+      "en": "is equal to the sine of the second angle",
+      "zh": ""
+    },
+    {
+      "start": 541.35,
+      "duration": 3.12,
+      "text": "divided by the square root of y for the second layer.",
+      "en": "divided by the square root of y for the second layer.",
+      "zh": ""
+    },
+    {
+      "start": 544.47,
+      "duration": 2.1,
+      "text": "And now here's the key insight.",
+      "en": "And now here's the key insight.",
+      "zh": ""
+    },
+    {
+      "start": 546.57,
+      "duration": 2.76,
+      "text": "Snell's Law also holds for the next layer,",
+      "en": "Snell's Law also holds for the next layer,",
+      "zh": ""
+    },
+    {
+      "start": 549.33,
+      "duration": 3.24,
+      "text": "and there the ingoing angle is simply theta 2.",
+      "en": "and there the ingoing angle is simply theta 2.",
+      "zh": ""
+    },
+    {
+      "start": 552.57,
+      "duration": 2.88,
+      "text": "So this is also equal to the sine of the third angle",
+      "en": "So this is also equal to the sine of the third angle",
+      "zh": ""
+    },
+    {
+      "start": 555.45,
+      "duration": 2.43,
+      "text": "divided by the square root of y3.",
+      "en": "divided by the square root of y3.",
+      "zh": ""
+    },
+    {
+      "start": 557.88,
+      "duration": 3.84,
+      "text": "And the same goes for the next layer and the next and so on.",
+      "en": "And the same goes for the next layer and the next and so on.",
+      "zh": ""
+    },
+    {
+      "start": 562.98,
+      "duration": 0.83,
+      "text": "In other words,",
+      "en": "In other words,",
+      "zh": ""
+    },
+    {
+      "start": 563.81,
+      "duration": 4.27,
+      "text": "this ratio must be equal to some constant, call it k.",
+      "en": "this ratio must be equal to some constant, call it k.",
+      "zh": ""
+    },
+    {
+      "start": 568.08,
+      "duration": 2.25,
+      "text": "And this equation, the story goes,",
+      "en": "And this equation, the story goes,",
+      "zh": ""
+    },
+    {
+      "start": 570.33,
+      "duration": 2.16,
+      "text": "Bernoulli immediately recognized",
+      "en": "Bernoulli immediately recognized",
+      "zh": ""
+    },
+    {
+      "start": 572.49,
+      "duration": 2.37,
+      "text": "as the equation of a cycloid.",
+      "en": "as the equation of a cycloid.",
+      "zh": ""
+    },
+    {
+      "start": 575.73,
+      "duration": 2.46,
+      "text": "That is the path traced out by a point",
+      "en": "That is the path traced out by a point",
+      "zh": ""
+    },
+    {
+      "start": 578.19,
+      "duration": 2.76,
+      "text": "attached to the rim of a rolling wheel.",
+      "en": "attached to the rim of a rolling wheel.",
+      "zh": ""
+    },
+    {
+      "start": 580.95,
+      "duration": 2.88,
+      "text": "This is also known as a brachistochrone curve",
+      "en": "This is also known as a brachistochrone curve",
+      "zh": ""
+    },
+    {
+      "start": 583.83,
+      "duration": 2.97,
+      "text": "from the Greek for shortest time.",
+      "en": "from the Greek for shortest time.",
+      "zh": ""
+    },
+    {
+      "start": 586.8,
+      "duration": 1.71,
+      "text": "- [Steven] And so the astonishing solution",
+      "en": "- [Steven] And so the astonishing solution",
+      "zh": ""
+    },
+    {
+      "start": 588.51,
+      "duration": 2.28,
+      "text": "is that the fastest way to get from A to B",
+      "en": "is that the fastest way to get from A to B",
+      "zh": ""
+    },
+    {
+      "start": 590.79,
+      "duration": 2.25,
+      "text": "is to follow an arc of a cycloid.",
+      "en": "is to follow an arc of a cycloid.",
+      "zh": ""
+    },
+    {
+      "start": 593.04,
+      "duration": 3.42,
+      "text": "Not a circle, a shape called a cycloid.",
+      "en": "Not a circle, a shape called a cycloid.",
+      "zh": ""
+    },
+    {
+      "start": 596.46,
+      "duration": 3.3,
+      "text": "- Now, this curve also has another surprising property.",
+      "en": "- Now, this curve also has another surprising property.",
+      "zh": ""
+    },
+    {
+      "start": 599.76,
+      "duration": 2.07,
+      "text": "No matter where I release the mass from,",
+      "en": "No matter where I release the mass from,",
+      "zh": ""
+    },
+    {
+      "start": 601.83,
+      "duration": 3.03,
+      "text": "it always reaches the end at the same time.",
+      "en": "it always reaches the end at the same time.",
+      "zh": ""
+    },
+    {
+      "start": 604.86,
+      "duration": 0.96,
+      "text": "For this reason,",
+      "en": "For this reason,",
+      "zh": ""
+    },
+    {
+      "start": 605.82,
+      "duration": 2.79,
+      "text": "it's also known as the tautochrone curve,",
+      "en": "it's also known as the tautochrone curve,",
+      "zh": ""
+    },
+    {
+      "start": 608.61,
+      "duration": 2.4,
+      "text": "from the Greek for same time.",
+      "en": "from the Greek for same time.",
+      "zh": ""
+    },
+    {
+      "start": 613.02,
+      "duration": 1.53,
+      "text": "Upon finding this solution,",
+      "en": "Upon finding this solution,",
+      "zh": ""
+    },
+    {
+      "start": 614.55,
+      "duration": 3.57,
+      "text": "Bernoulli wrote, \"In this way I have solved at one stroke",
+      "en": "Bernoulli wrote, \"In this way I have solved at one stroke",
+      "zh": ""
+    },
+    {
+      "start": 618.12,
+      "duration": 1.89,
+      "text": "two important problems,",
+      "en": "two important problems,",
+      "zh": ""
+    },
+    {
+      "start": 620.01,
+      "duration": 2.52,
+      "text": "an optical and a mechanical one,",
+      "en": "an optical and a mechanical one,",
+      "zh": ""
+    },
+    {
+      "start": 622.53,
+      "duration": 3.0,
+      "text": "and have achieved more than I demanded from others.",
+      "en": "and have achieved more than I demanded from others.",
+      "zh": ""
+    },
+    {
+      "start": 625.53,
+      "duration": 1.89,
+      "text": "I have shown that the two problems",
+      "en": "I have shown that the two problems",
+      "zh": ""
+    },
+    {
+      "start": 627.42,
+      "duration": 2.91,
+      "text": "taken from entirely separate fields of mathematics",
+      "en": "taken from entirely separate fields of mathematics",
+      "zh": ""
+    },
+    {
+      "start": 630.33,
+      "duration": 1.53,
+      "text": "have the same character.\"",
+      "en": "have the same character.\"",
+      "zh": ""
+    },
+    {
+      "start": 632.7,
+      "duration": 4.38,
+      "text": "Little did Bernoulli know he was onto something much bigger.",
+      "en": "Little did Bernoulli know he was onto something much bigger.",
+      "zh": ""
+    },
+    {
+      "start": 638.04,
+      "duration": 1.35,
+      "text": "Around 40 years later,",
+      "en": "Around 40 years later,",
+      "zh": ""
+    },
+    {
+      "start": 639.39,
+      "duration": 2.55,
+      "text": "one of his students, Pierre Louis de Maupertuis,",
+      "en": "one of his students, Pierre Louis de Maupertuis,",
+      "zh": ""
+    },
+    {
+      "start": 641.94,
+      "duration": 2.94,
+      "text": "also studied the behavior of light and particles,",
+      "en": "also studied the behavior of light and particles,",
+      "zh": ""
+    },
+    {
+      "start": 644.88,
+      "duration": 1.71,
+      "text": "and he noticed that there are cases",
+      "en": "and he noticed that there are cases",
+      "zh": ""
+    },
+    {
+      "start": 646.59,
+      "duration": 3.0,
+      "text": "where the two behave very similarly.",
+      "en": "where the two behave very similarly.",
+      "zh": ""
+    },
+    {
+      "start": 649.59,
+      "duration": 1.23,
+      "text": "This made him think,",
+      "en": "This made him think,",
+      "zh": ""
+    },
+    {
+      "start": 650.82,
+      "duration": 2.16,
+      "text": "what if Fermat's principle of least time",
+      "en": "what if Fermat's principle of least time",
+      "zh": ""
+    },
+    {
+      "start": 652.98,
+      "duration": 1.92,
+      "text": "wasn't the most fundamental?",
+      "en": "wasn't the most fundamental?",
+      "zh": ""
+    },
+    {
+      "start": 654.9,
+      "duration": 3.81,
+      "text": "I mean, why should nature care about minimizing time?",
+      "en": "I mean, why should nature care about minimizing time?",
+      "zh": ""
+    },
+    {
+      "start": 658.71,
+      "duration": 3.99,
+      "text": "Maybe there is a more foundational quantity being minimized,",
+      "en": "Maybe there is a more foundational quantity being minimized,",
+      "zh": ""
+    },
+    {
+      "start": 662.7,
+      "duration": 4.74,
+      "text": "one that doesn't only govern light, but also particles.",
+      "en": "one that doesn't only govern light, but also particles.",
+      "zh": ""
+    },
+    {
+      "start": 667.44,
+      "duration": 2.82,
+      "text": "So, in the 1740s, he proposed a new quantity,",
+      "en": "So, in the 1740s, he proposed a new quantity,",
+      "zh": ""
+    },
+    {
+      "start": 670.26,
+      "duration": 2.34,
+      "text": "which he called the action.",
+      "en": "which he called the action.",
+      "zh": ""
+    },
+    {
+      "start": 672.6,
+      "duration": 3.78,
+      "text": "It is mass times velocity times distance.",
+      "en": "It is mass times velocity times distance.",
+      "zh": ""
+    },
+    {
+      "start": 676.38,
+      "duration": 2.22,
+      "text": "His thinking went something like this.",
+      "en": "His thinking went something like this.",
+      "zh": ""
+    },
+    {
+      "start": 678.6,
+      "duration": 2.97,
+      "text": "The farther something travels, the greater the action.",
+      "en": "The farther something travels, the greater the action.",
+      "zh": ""
+    },
+    {
+      "start": 681.57,
+      "duration": 2.82,
+      "text": "The faster it goes, the greater the action.",
+      "en": "The faster it goes, the greater the action.",
+      "zh": ""
+    },
+    {
+      "start": 684.39,
+      "duration": 2.7,
+      "text": "And if it's a particle, then the more massive it is,",
+      "en": "And if it's a particle, then the more massive it is,",
+      "zh": ""
+    },
+    {
+      "start": 687.09,
+      "duration": 2.01,
+      "text": "the greater the action.",
+      "en": "the greater the action.",
+      "zh": ""
+    },
+    {
+      "start": 689.1,
+      "duration": 2.34,
+      "text": "If there are multiple segments to the journey,",
+      "en": "If there are multiple segments to the journey,",
+      "zh": ""
+    },
+    {
+      "start": 691.44,
+      "duration": 2.31,
+      "text": "then the total action is just the sum",
+      "en": "then the total action is just the sum",
+      "zh": ""
+    },
+    {
+      "start": 693.75,
+      "duration": 4.32,
+      "text": "of the mass times velocity times distance for each segment.",
+      "en": "of the mass times velocity times distance for each segment.",
+      "zh": ""
+    },
+    {
+      "start": 698.07,
+      "duration": 1.74,
+      "text": "To see the principle in action,",
+      "en": "To see the principle in action,",
+      "zh": ""
+    },
+    {
+      "start": 699.81,
+      "duration": 5.0,
+      "text": "here is a super simple example with no friction or losses.",
+      "en": "here is a super simple example with no friction or losses.",
+      "zh": ""
+    },
+    {
+      "start": 704.82,
+      "duration": 3.45,
+      "text": "Imagine a 0.5 kilogram ball is rolled over the ground",
+      "en": "Imagine a 0.5 kilogram ball is rolled over the ground",
+      "zh": ""
+    },
+    {
+      "start": 708.27,
+      "duration": 3.0,
+      "text": "for 6 meters at 3 meters per second.",
+      "en": "for 6 meters at 3 meters per second.",
+      "zh": ""
+    },
+    {
+      "start": 711.27,
+      "duration": 3.24,
+      "text": "Then that would be 9 units of action.",
+      "en": "Then that would be 9 units of action.",
+      "zh": ""
+    },
+    {
+      "start": 714.51,
+      "duration": 1.35,
+      "text": "If the ball then bounces",
+      "en": "If the ball then bounces",
+      "zh": ""
+    },
+    {
+      "start": 715.86,
+      "duration": 3.36,
+      "text": "and travels another 6 meters at 3 meters per second,",
+      "en": "and travels another 6 meters at 3 meters per second,",
+      "zh": ""
+    },
+    {
+      "start": 719.22,
+      "duration": 1.83,
+      "text": "then the action for the whole trip",
+      "en": "then the action for the whole trip",
+      "zh": ""
+    },
+    {
+      "start": 721.05,
+      "duration": 4.2,
+      "text": "is 9 plus 9, or 18 units of action.",
+      "en": "is 9 plus 9, or 18 units of action.",
+      "zh": ""
+    },
+    {
+      "start": 726.27,
+      "duration": 1.62,
+      "text": "Now, what Maupertuis claimed",
+      "en": "Now, what Maupertuis claimed",
+      "zh": ""
+    },
+    {
+      "start": 727.89,
+      "duration": 2.28,
+      "text": "is that out of all possible trajectories",
+      "en": "is that out of all possible trajectories",
+      "zh": ""
+    },
+    {
+      "start": 730.17,
+      "duration": 1.86,
+      "text": "where the ball bounces off the wall,",
+      "en": "where the ball bounces off the wall,",
+      "zh": ""
+    },
+    {
+      "start": 732.03,
+      "duration": 1.32,
+      "text": "the path it will follow",
+      "en": "the path it will follow",
+      "zh": ""
+    },
+    {
+      "start": 733.35,
+      "duration": 2.61,
+      "text": "is the one that minimizes the action.",
+      "en": "is the one that minimizes the action.",
+      "zh": ""
+    },
+    {
+      "start": 737.88,
+      "duration": 1.93,
+      "text": "In 1744, he wrote,",
+      "en": "In 1744, he wrote,",
+      "zh": ""
+    },
+    {
+      "start": 739.81,
+      "duration": 3.44,
+      "text": "\"This action is the true expense of Nature,",
+      "en": "\"This action is the true expense of Nature,",
+      "zh": ""
+    },
+    {
+      "start": 743.25,
+      "duration": 3.12,
+      "text": "which she manages to make as small as possible.\"",
+      "en": "which she manages to make as small as possible.\"",
+      "zh": ""
+    },
+    {
+      "start": 748.14,
+      "duration": 4.59,
+      "text": "So what was the response to Maupertuis' revolutionary idea?",
+      "en": "So what was the response to Maupertuis' revolutionary idea?",
+      "zh": ""
+    },
+    {
+      "start": 752.73,
+      "duration": 2.61,
+      "text": "He was attacked and ridiculed.",
+      "en": "He was attacked and ridiculed.",
+      "zh": ""
+    },
+    {
+      "start": 755.34,
+      "duration": 1.23,
+      "text": "One of his longtime friends,",
+      "en": "One of his longtime friends,",
+      "zh": ""
+    },
+    {
+      "start": 756.57,
+      "duration": 2.01,
+      "text": "a fellow physicist named Samuel Konig,",
+      "en": "a fellow physicist named Samuel Konig,",
+      "zh": ""
+    },
+    {
+      "start": 758.58,
+      "duration": 3.09,
+      "text": "wrote that \"not only is your principal wrong,",
+      "en": "wrote that \"not only is your principal wrong,",
+      "zh": ""
+    },
+    {
+      "start": 761.67,
+      "duration": 2.67,
+      "text": "you also stole it from Leibniz.\"",
+      "en": "you also stole it from Leibniz.\"",
+      "zh": ""
+    },
+    {
+      "start": 764.34,
+      "duration": 2.46,
+      "text": "Voltaire, who used to be a close friend of Maupertuis,",
+      "en": "Voltaire, who used to be a close friend of Maupertuis,",
+      "zh": ""
+    },
+    {
+      "start": 766.8,
+      "duration": 3.27,
+      "text": "accused him of plagiarism, bad physics, being stupid,",
+      "en": "accused him of plagiarism, bad physics, being stupid,",
+      "zh": ""
+    },
+    {
+      "start": 770.07,
+      "duration": 2.31,
+      "text": "and just about anything else he could think of.",
+      "en": "and just about anything else he could think of.",
+      "zh": ""
+    },
+    {
+      "start": 772.38,
+      "duration": 2.49,
+      "text": "In fact, he wrote a 32-page pamphlet",
+      "en": "In fact, he wrote a 32-page pamphlet",
+      "zh": ""
+    },
+    {
+      "start": 774.87,
+      "duration": 2.01,
+      "text": "just to mock Maupertuis.",
+      "en": "just to mock Maupertuis.",
+      "zh": ""
+    },
+    {
+      "start": 776.88,
+      "duration": 2.01,
+      "text": "Of course, this may have been partly due to rumors",
+      "en": "Of course, this may have been partly due to rumors",
+      "zh": ""
+    },
+    {
+      "start": 778.89,
+      "duration": 2.67,
+      "text": "Voltaire's lover had an affair with Maupertuis.",
+      "en": "Voltaire's lover had an affair with Maupertuis.",
+      "zh": ""
+    },
+    {
+      "start": 782.91,
+      "duration": 2.58,
+      "text": "But not everyone attacked him.",
+      "en": "But not everyone attacked him.",
+      "zh": ""
+    },
+    {
+      "start": 785.49,
+      "duration": 1.98,
+      "text": "Some just ignored him.",
+      "en": "Some just ignored him.",
+      "zh": ""
+    },
+    {
+      "start": 788.91,
+      "duration": 2.7,
+      "text": "- Maupertuis, I've taken a lot of math and physics",
+      "en": "- Maupertuis, I've taken a lot of math and physics",
+      "zh": ""
+    },
+    {
+      "start": 791.61,
+      "duration": 0.83,
+      "text": "in my life.",
+      "en": "in my life.",
+      "zh": ""
+    },
+    {
+      "start": 792.44,
+      "duration": 2.47,
+      "text": "I think you're the first person I ever heard pronounce it.",
+      "en": "I think you're the first person I ever heard pronounce it.",
+      "zh": ""
+    },
+    {
+      "start": 794.91,
+      "duration": 1.4,
+      "text": "He doesn't get much mention.",
+      "en": "He doesn't get much mention.",
+      "zh": ""
+    },
+    {
+      "start": 798.63,
+      "duration": 3.03,
+      "text": "- All of this was terribly stressful for Maupertuis",
+      "en": "- All of this was terribly stressful for Maupertuis",
+      "zh": ""
+    },
+    {
+      "start": 801.66,
+      "duration": 2.07,
+      "text": "who was nearing the end of his life,",
+      "en": "who was nearing the end of his life,",
+      "zh": ""
+    },
+    {
+      "start": 803.73,
+      "duration": 1.02,
+      "text": "and more than anything,",
+      "en": "and more than anything,",
+      "zh": ""
+    },
+    {
+      "start": 804.75,
+      "duration": 1.89,
+      "text": "he thought the principle of least action",
+      "en": "he thought the principle of least action",
+      "zh": ""
+    },
+    {
+      "start": 806.64,
+      "duration": 2.31,
+      "text": "would be what he was remembered for.",
+      "en": "would be what he was remembered for.",
+      "zh": ""
+    },
+    {
+      "start": 808.95,
+      "duration": 2.19,
+      "text": "That would be his legacy.",
+      "en": "That would be his legacy.",
+      "zh": ""
+    },
+    {
+      "start": 811.14,
+      "duration": 4.44,
+      "text": "But now he was attacked, mocked, ridiculed, and ignored.",
+      "en": "But now he was attacked, mocked, ridiculed, and ignored.",
+      "zh": ""
+    },
+    {
+      "start": 817.14,
+      "duration": 1.53,
+      "text": "Unfortunately, this treatment",
+      "en": "Unfortunately, this treatment",
+      "zh": ""
+    },
+    {
+      "start": 818.67,
+      "duration": 2.16,
+      "text": "was at least somewhat justified",
+      "en": "was at least somewhat justified",
+      "zh": ""
+    },
+    {
+      "start": 820.83,
+      "duration": 2.25,
+      "text": "because Maupertuis came up with this principle",
+      "en": "because Maupertuis came up with this principle",
+      "zh": ""
+    },
+    {
+      "start": 823.08,
+      "duration": 3.27,
+      "text": "by kind of just picking it out of thin air.",
+      "en": "by kind of just picking it out of thin air.",
+      "zh": ""
+    },
+    {
+      "start": 826.35,
+      "duration": 3.12,
+      "text": "There was no obvious reason why nature should care",
+      "en": "There was no obvious reason why nature should care",
+      "zh": ""
+    },
+    {
+      "start": 829.47,
+      "duration": 2.73,
+      "text": "about mass times velocity times distance,",
+      "en": "about mass times velocity times distance,",
+      "zh": ""
+    },
+    {
+      "start": 832.2,
+      "duration": 4.05,
+      "text": "or even less, why that quantity should be minimized.",
+      "en": "or even less, why that quantity should be minimized.",
+      "zh": ""
+    },
+    {
+      "start": 836.25,
+      "duration": 2.76,
+      "text": "And mathematically, the principle of least action",
+      "en": "And mathematically, the principle of least action",
+      "zh": ""
+    },
+    {
+      "start": 839.01,
+      "duration": 1.65,
+      "text": "wasn't rigorous either.",
+      "en": "wasn't rigorous either.",
+      "zh": ""
+    },
+    {
+      "start": 841.83,
+      "duration": 3.69,
+      "text": "But there was one man who vehemently defended it,",
+      "en": "But there was one man who vehemently defended it,",
+      "zh": ""
+    },
+    {
+      "start": 845.52,
+      "duration": 1.98,
+      "text": "and that man was Leonhard Euler.",
+      "en": "and that man was Leonhard Euler.",
+      "zh": ""
+    },
+    {
+      "start": 849.39,
+      "duration": 1.23,
+      "text": "The first thing Euler did",
+      "en": "The first thing Euler did",
+      "zh": ""
+    },
+    {
+      "start": 850.62,
+      "duration": 2.7,
+      "text": "was he replaced the sum with an integral",
+      "en": "was he replaced the sum with an integral",
+      "zh": ""
+    },
+    {
+      "start": 853.32,
+      "duration": 1.86,
+      "text": "so you could calculate the action",
+      "en": "so you could calculate the action",
+      "zh": ""
+    },
+    {
+      "start": 855.18,
+      "duration": 3.39,
+      "text": "while speed or direction changed continuously.",
+      "en": "while speed or direction changed continuously.",
+      "zh": ""
+    },
+    {
+      "start": 858.57,
+      "duration": 2.37,
+      "text": "And he used this to find the path of a particle",
+      "en": "And he used this to find the path of a particle",
+      "zh": ""
+    },
+    {
+      "start": 860.94,
+      "duration": 1.65,
+      "text": "around a central mass,",
+      "en": "around a central mass,",
+      "zh": ""
+    },
+    {
+      "start": 862.59,
+      "duration": 3.24,
+      "text": "like the orbit of a planet around a star.",
+      "en": "like the orbit of a planet around a star.",
+      "zh": ""
+    },
+    {
+      "start": 865.83,
+      "duration": 2.73,
+      "text": "Solving this meant that out of every possible path",
+      "en": "Solving this meant that out of every possible path",
+      "zh": ""
+    },
+    {
+      "start": 868.56,
+      "duration": 1.29,
+      "text": "between two points,",
+      "en": "between two points,",
+      "zh": ""
+    },
+    {
+      "start": 869.85,
+      "duration": 1.08,
+      "text": "he would have to find the one",
+      "en": "he would have to find the one",
+      "zh": ""
+    },
+    {
+      "start": 870.93,
+      "duration": 2.73,
+      "text": "for which the action was the smallest.",
+      "en": "for which the action was the smallest.",
+      "zh": ""
+    },
+    {
+      "start": 873.66,
+      "duration": 3.12,
+      "text": "This is similar to the problem Fermat tried to solve,",
+      "en": "This is similar to the problem Fermat tried to solve,",
+      "zh": ""
+    },
+    {
+      "start": 876.78,
+      "duration": 2.49,
+      "text": "only now, instead of changing one variable,",
+      "en": "only now, instead of changing one variable,",
+      "zh": ""
+    },
+    {
+      "start": 879.27,
+      "duration": 3.3,
+      "text": "he would have to vary every possible point along the path,",
+      "en": "he would have to vary every possible point along the path,",
+      "zh": ""
+    },
+    {
+      "start": 882.57,
+      "duration": 2.49,
+      "text": "which is infinitely many.",
+      "en": "which is infinitely many.",
+      "zh": ""
+    },
+    {
+      "start": 885.06,
+      "duration": 2.88,
+      "text": "Needless to say, this was an arduous task.",
+      "en": "Needless to say, this was an arduous task.",
+      "zh": ""
+    },
+    {
+      "start": 887.94,
+      "duration": 1.83,
+      "text": "Math had not yet developed the tools",
+      "en": "Math had not yet developed the tools",
+      "zh": ""
+    },
+    {
+      "start": 889.77,
+      "duration": 1.95,
+      "text": "required to handle such problems.",
+      "en": "required to handle such problems.",
+      "zh": ""
+    },
+    {
+      "start": 894.3,
+      "duration": 4.32,
+      "text": "Fortunately, Euler himself invented a new method.",
+      "en": "Fortunately, Euler himself invented a new method.",
+      "zh": ""
+    },
+    {
+      "start": 898.62,
+      "duration": 3.66,
+      "text": "It was clunky and time consuming, but it worked.",
+      "en": "It was clunky and time consuming, but it worked.",
+      "zh": ""
+    },
+    {
+      "start": 902.28,
+      "duration": 1.17,
+      "text": "Through this process,",
+      "en": "Through this process,",
+      "zh": ""
+    },
+    {
+      "start": 903.45,
+      "duration": 2.13,
+      "text": "he realized that the principle of least action",
+      "en": "he realized that the principle of least action",
+      "zh": ""
+    },
+    {
+      "start": 905.58,
+      "duration": 3.63,
+      "text": "only works if the total energy is conserved,",
+      "en": "only works if the total energy is conserved,",
+      "zh": ""
+    },
+    {
+      "start": 909.21,
+      "duration": 3.6,
+      "text": "and it is the same for all paths considered.",
+      "en": "and it is the same for all paths considered.",
+      "zh": ""
+    },
+    {
+      "start": 912.81,
+      "duration": 1.38,
+      "text": "These were two conditions",
+      "en": "These were two conditions",
+      "zh": ""
+    },
+    {
+      "start": 914.19,
+      "duration": 2.7,
+      "text": "that Maupertuis hadn't realized were necessary.",
+      "en": "that Maupertuis hadn't realized were necessary.",
+      "zh": ""
+    },
+    {
+      "start": 916.89,
+      "duration": 3.63,
+      "text": "So Euler improved the mathematical rigor of the principle.",
+      "en": "So Euler improved the mathematical rigor of the principle.",
+      "zh": ""
+    },
+    {
+      "start": 920.52,
+      "duration": 2.1,
+      "text": "He found two extra conditions",
+      "en": "He found two extra conditions",
+      "zh": ""
+    },
+    {
+      "start": 922.62,
+      "duration": 3.15,
+      "text": "and he provided a specific example of it working.",
+      "en": "and he provided a specific example of it working.",
+      "zh": ""
+    },
+    {
+      "start": 927.0,
+      "duration": 3.06,
+      "text": "- Euler is an astonishingly powerful",
+      "en": "- Euler is an astonishingly powerful",
+      "zh": ""
+    },
+    {
+      "start": 930.06,
+      "duration": 1.68,
+      "text": "and not just great mathematician,",
+      "en": "and not just great mathematician,",
+      "zh": ""
+    },
+    {
+      "start": 931.74,
+      "duration": 1.74,
+      "text": "but appears to be a good guy.",
+      "en": "but appears to be a good guy.",
+      "zh": ""
+    },
+    {
+      "start": 933.48,
+      "duration": 3.06,
+      "text": "As far as we could tell, he was very generous.",
+      "en": "As far as we could tell, he was very generous.",
+      "zh": ""
+    },
+    {
+      "start": 936.54,
+      "duration": 3.9,
+      "text": "You can still read Euler and really understand it.",
+      "en": "You can still read Euler and really understand it.",
+      "zh": ""
+    },
+    {
+      "start": 940.44,
+      "duration": 1.89,
+      "text": "He helps you, he's empathetic.",
+      "en": "He helps you, he's empathetic.",
+      "zh": ""
+    },
+    {
+      "start": 942.33,
+      "duration": 2.64,
+      "text": "You know, he was like you are, man.",
+      "en": "You know, he was like you are, man.",
+      "zh": ""
+    },
+    {
+      "start": 944.97,
+      "duration": 2.04,
+      "text": "He's trying to explain stuff.",
+      "en": "He's trying to explain stuff.",
+      "zh": ""
+    },
+    {
+      "start": 948.06,
+      "duration": 3.54,
+      "text": "- But Euler was still far from a general proof.",
+      "en": "- But Euler was still far from a general proof.",
+      "zh": ""
+    },
+    {
+      "start": 951.6,
+      "duration": 4.02,
+      "text": "That would have to wait for another legendary mathematician,",
+      "en": "That would have to wait for another legendary mathematician,",
+      "zh": ""
+    },
+    {
+      "start": 955.62,
+      "duration": 1.92,
+      "text": "Joseph-Louis Lagrange.",
+      "en": "Joseph-Louis Lagrange.",
+      "zh": ""
+    },
+    {
+      "start": 959.4,
+      "duration": 2.91,
+      "text": "Joseph-Louis Lagrange was a shy 19-year-old,",
+      "en": "Joseph-Louis Lagrange was a shy 19-year-old,",
+      "zh": ""
+    },
+    {
+      "start": 962.31,
+      "duration": 1.8,
+      "text": "mostly self-taught.",
+      "en": "mostly self-taught.",
+      "zh": ""
+    },
+    {
+      "start": 964.11,
+      "duration": 1.2,
+      "text": "But despite his age,",
+      "en": "But despite his age,",
+      "zh": ""
+    },
+    {
+      "start": 965.31,
+      "duration": 2.94,
+      "text": "he was already working at the forefront of mathematics,",
+      "en": "he was already working at the forefront of mathematics,",
+      "zh": ""
+    },
+    {
+      "start": 968.25,
+      "duration": 2.37,
+      "text": "including with Euler's new method.",
+      "en": "including with Euler's new method.",
+      "zh": ""
+    },
+    {
+      "start": 970.62,
+      "duration": 3.06,
+      "text": "In 1754, he shared his results with Euler,",
+      "en": "In 1754, he shared his results with Euler,",
+      "zh": ""
+    },
+    {
+      "start": 973.68,
+      "duration": 2.61,
+      "text": "who replied that Lagrange had \"extolled the theory",
+      "en": "who replied that Lagrange had \"extolled the theory",
+      "zh": ""
+    },
+    {
+      "start": 976.29,
+      "duration": 2.52,
+      "text": "to the highest summit of perfection,\"",
+      "en": "to the highest summit of perfection,\"",
+      "zh": ""
+    },
+    {
+      "start": 978.81,
+      "duration": 2.25,
+      "text": "which caused him \"the greatest joy.\"",
+      "en": "which caused him \"the greatest joy.\"",
+      "zh": ""
+    },
+    {
+      "start": 982.29,
+      "duration": 2.4,
+      "text": "But besides being world class mathematicians,",
+      "en": "But besides being world class mathematicians,",
+      "zh": ""
+    },
+    {
+      "start": 984.69,
+      "duration": 2.13,
+      "text": "the two had another thing in common.",
+      "en": "the two had another thing in common.",
+      "zh": ""
+    },
+    {
+      "start": 986.82,
+      "duration": 1.8,
+      "text": "They were both huge proponents",
+      "en": "They were both huge proponents",
+      "zh": ""
+    },
+    {
+      "start": 988.62,
+      "duration": 2.01,
+      "text": "of the principle of least action.",
+      "en": "of the principle of least action.",
+      "zh": ""
+    },
+    {
+      "start": 990.63,
+      "duration": 1.68,
+      "text": "And around five years later,",
+      "en": "And around five years later,",
+      "zh": ""
+    },
+    {
+      "start": 992.31,
+      "duration": 2.55,
+      "text": "just a year after Maupertuis' death,",
+      "en": "just a year after Maupertuis' death,",
+      "zh": ""
+    },
+    {
+      "start": 994.86,
+      "duration": 3.18,
+      "text": "Lagrange succeeded in providing a general proof.",
+      "en": "Lagrange succeeded in providing a general proof.",
+      "zh": ""
+    },
+    {
+      "start": 1000.56,
+      "duration": 3.7,
+      "text": "Is there any intuitive way to think about action?",
+      "en": "Is there any intuitive way to think about action?",
+      "zh": ""
+    },
+    {
+      "start": 1004.26,
+      "duration": 3.05,
+      "text": "I feel like there's an intuitive way to think about force",
+      "en": "I feel like there's an intuitive way to think about force",
+      "zh": ""
+    },
+    {
+      "start": 1007.31,
+      "duration": 3.21,
+      "text": "and there's kind of an intuitive way to think about energy,",
+      "en": "and there's kind of an intuitive way to think about energy,",
+      "zh": ""
+    },
+    {
+      "start": 1010.52,
+      "duration": 2.67,
+      "text": "but is there an intuitive way to think about action?",
+      "en": "but is there an intuitive way to think about action?",
+      "zh": ""
+    },
+    {
+      "start": 1013.19,
+      "duration": 0.99,
+      "text": "- I don't know.",
+      "en": "- I don't know.",
+      "zh": ""
+    },
+    {
+      "start": 1014.18,
+      "duration": 2.43,
+      "text": "I wanna watch your show to learn.",
+      "en": "I wanna watch your show to learn.",
+      "zh": ""
+    },
+    {
+      "start": 1016.61,
+      "duration": 1.17,
+      "text": "I hope you'll come up with it",
+      "en": "I hope you'll come up with it",
+      "zh": ""
+    },
+    {
+      "start": 1017.78,
+      "duration": 3.6,
+      "text": "because I don't have a good feeling about action.",
+      "en": "because I don't have a good feeling about action.",
+      "zh": ""
+    },
+    {
+      "start": 1021.38,
+      "duration": 2.28,
+      "text": "- [Derek] Now I wanna explain Lagrange's proof,",
+      "en": "- [Derek] Now I wanna explain Lagrange's proof,",
+      "zh": ""
+    },
+    {
+      "start": 1023.66,
+      "duration": 2.61,
+      "text": "but I don't want to do it the way he did.",
+      "en": "but I don't want to do it the way he did.",
+      "zh": ""
+    },
+    {
+      "start": 1026.27,
+      "duration": 2.64,
+      "text": "So instead, we'll go through three steps.",
+      "en": "So instead, we'll go through three steps.",
+      "zh": ""
+    },
+    {
+      "start": 1028.91,
+      "duration": 1.95,
+      "text": "First we'll explain the general approach",
+      "en": "First we'll explain the general approach",
+      "zh": ""
+    },
+    {
+      "start": 1030.86,
+      "duration": 1.95,
+      "text": "Euler and Lagrange came up with.",
+      "en": "Euler and Lagrange came up with.",
+      "zh": ""
+    },
+    {
+      "start": 1032.81,
+      "duration": 3.33,
+      "text": "Then we'll rewrite the principle into its modern form.",
+      "en": "Then we'll rewrite the principle into its modern form.",
+      "zh": ""
+    },
+    {
+      "start": 1036.14,
+      "duration": 3.15,
+      "text": "And finally we'll apply this math to a simple example",
+      "en": "And finally we'll apply this math to a simple example",
+      "zh": ""
+    },
+    {
+      "start": 1039.29,
+      "duration": 2.16,
+      "text": "to show you why it works.",
+      "en": "to show you why it works.",
+      "zh": ""
+    },
+    {
+      "start": 1043.01,
+      "duration": 2.37,
+      "text": "So first, the general approach.",
+      "en": "So first, the general approach.",
+      "zh": ""
+    },
+    {
+      "start": 1045.38,
+      "duration": 2.58,
+      "text": "If there are infinite possible paths,",
+      "en": "If there are infinite possible paths,",
+      "zh": ""
+    },
+    {
+      "start": 1047.96,
+      "duration": 2.91,
+      "text": "how do you find the one with the least action?",
+      "en": "how do you find the one with the least action?",
+      "zh": ""
+    },
+    {
+      "start": 1050.87,
+      "duration": 2.58,
+      "text": "Well, Euler and Lagrange realized you can do it",
+      "en": "Well, Euler and Lagrange realized you can do it",
+      "zh": ""
+    },
+    {
+      "start": 1053.45,
+      "duration": 3.69,
+      "text": "in a similar way to how you find the minimum of a function.",
+      "en": "in a similar way to how you find the minimum of a function.",
+      "zh": ""
+    },
+    {
+      "start": 1057.14,
+      "duration": 3.54,
+      "text": "There you take the derivative and set it equal to 0.",
+      "en": "There you take the derivative and set it equal to 0.",
+      "zh": ""
+    },
+    {
+      "start": 1060.68,
+      "duration": 4.29,
+      "text": "And where the slope is horizontal, that must be the minimum.",
+      "en": "And where the slope is horizontal, that must be the minimum.",
+      "zh": ""
+    },
+    {
+      "start": 1064.97,
+      "duration": 3.45,
+      "text": "So if you took a tiny step to the left or the right,",
+      "en": "So if you took a tiny step to the left or the right,",
+      "zh": ""
+    },
+    {
+      "start": 1068.42,
+      "duration": 3.27,
+      "text": "the value of the function basically doesn't change.",
+      "en": "the value of the function basically doesn't change.",
+      "zh": ""
+    },
+    {
+      "start": 1071.69,
+      "duration": 3.75,
+      "text": "And similarly, if you have the path of least action,",
+      "en": "And similarly, if you have the path of least action,",
+      "zh": ""
+    },
+    {
+      "start": 1075.44,
+      "duration": 2.19,
+      "text": "then if you were to change it a little bit",
+      "en": "then if you were to change it a little bit",
+      "zh": ""
+    },
+    {
+      "start": 1077.63,
+      "duration": 3.9,
+      "text": "by, say, adding a tiny bump here or flattening it out there,",
+      "en": "by, say, adding a tiny bump here or flattening it out there,",
+      "zh": ""
+    },
+    {
+      "start": 1081.53,
+      "duration": 3.06,
+      "text": "imagine we're just adding a tiny function, eta,",
+      "en": "imagine we're just adding a tiny function, eta,",
+      "zh": ""
+    },
+    {
+      "start": 1084.59,
+      "duration": 1.8,
+      "text": "to our path of least action,",
+      "en": "to our path of least action,",
+      "zh": ""
+    },
+    {
+      "start": 1086.39,
+      "duration": 3.27,
+      "text": "well, then the action basically shouldn't change",
+      "en": "well, then the action basically shouldn't change",
+      "zh": ""
+    },
+    {
+      "start": 1089.66,
+      "duration": 2.37,
+      "text": "because we're at this really special point,",
+      "en": "because we're at this really special point,",
+      "zh": ""
+    },
+    {
+      "start": 1092.03,
+      "duration": 2.19,
+      "text": "the path of least action.",
+      "en": "the path of least action.",
+      "zh": ""
+    },
+    {
+      "start": 1094.22,
+      "duration": 1.98,
+      "text": "You add a little bit to the minimal path",
+      "en": "You add a little bit to the minimal path",
+      "zh": ""
+    },
+    {
+      "start": 1096.2,
+      "duration": 1.32,
+      "text": "but the action is still the same.",
+      "en": "but the action is still the same.",
+      "zh": ""
+    },
+    {
+      "start": 1097.52,
+      "duration": 2.67,
+      "text": "If that is the optimal path that has the least action,",
+      "en": "If that is the optimal path that has the least action,",
+      "zh": ""
+    },
+    {
+      "start": 1100.19,
+      "duration": 3.15,
+      "text": "then any other path must have more action.",
+      "en": "then any other path must have more action.",
+      "zh": ""
+    },
+    {
+      "start": 1103.34,
+      "duration": 1.53,
+      "text": "- So the counter there",
+      "en": "- So the counter there",
+      "zh": ""
+    },
+    {
+      "start": 1104.87,
+      "duration": 2.49,
+      "text": "is like all of this is the first order.",
+      "en": "is like all of this is the first order.",
+      "zh": ""
+    },
+    {
+      "start": 1107.36,
+      "duration": 2.49,
+      "text": "So if you're looking at linear terms",
+      "en": "So if you're looking at linear terms",
+      "zh": ""
+    },
+    {
+      "start": 1109.85,
+      "duration": 2.61,
+      "text": "that are proportional to eta, the deviation,",
+      "en": "that are proportional to eta, the deviation,",
+      "zh": ""
+    },
+    {
+      "start": 1112.46,
+      "duration": 1.38,
+      "text": "then the first order,",
+      "en": "then the first order,",
+      "zh": ""
+    },
+    {
+      "start": 1113.84,
+      "duration": 1.01,
+      "text": "the difference in action will be 0.",
+      "en": "the difference in action will be 0.",
+      "zh": ""
+    },
+    {
+      "start": 1114.85,
+      "duration": 2.17,
+      "text": "And the way you could imagine this is like",
+      "en": "And the way you could imagine this is like",
+      "zh": ""
+    },
+    {
+      "start": 1117.02,
+      "duration": 1.77,
+      "text": "let's say you're at the bottom of a bowl",
+      "en": "let's say you're at the bottom of a bowl",
+      "zh": ""
+    },
+    {
+      "start": 1118.79,
+      "duration": 1.32,
+      "text": "and you're at the minimum",
+      "en": "and you're at the minimum",
+      "zh": ""
+    },
+    {
+      "start": 1120.11,
+      "duration": 3.3,
+      "text": "and you make some tiny step away and we call that step eta.",
+      "en": "and you make some tiny step away and we call that step eta.",
+      "zh": ""
+    },
+    {
+      "start": 1123.41,
+      "duration": 2.1,
+      "text": "If that change would be proportional to eta,",
+      "en": "If that change would be proportional to eta,",
+      "zh": ""
+    },
+    {
+      "start": 1125.51,
+      "duration": 1.8,
+      "text": "you would maybe increase on this side",
+      "en": "you would maybe increase on this side",
+      "zh": ""
+    },
+    {
+      "start": 1127.31,
+      "duration": 1.11,
+      "text": "but decrease on this side",
+      "en": "but decrease on this side",
+      "zh": ""
+    },
+    {
+      "start": 1128.42,
+      "duration": 2.01,
+      "text": "and then this would no longer be a minimum.",
+      "en": "and then this would no longer be a minimum.",
+      "zh": ""
+    },
+    {
+      "start": 1130.43,
+      "duration": 4.17,
+      "text": "So sort of the coefficient of eta has to be 0.",
+      "en": "So sort of the coefficient of eta has to be 0.",
+      "zh": ""
+    },
+    {
+      "start": 1134.6,
+      "duration": 1.41,
+      "text": "But since you're at a minimum,",
+      "en": "But since you're at a minimum,",
+      "zh": ""
+    },
+    {
+      "start": 1136.01,
+      "duration": 2.07,
+      "text": "it kind of goes like a parabola,",
+      "en": "it kind of goes like a parabola,",
+      "zh": ""
+    },
+    {
+      "start": 1138.08,
+      "duration": 1.86,
+      "text": "so it can be proportional to eta squared",
+      "en": "so it can be proportional to eta squared",
+      "zh": ""
+    },
+    {
+      "start": 1139.94,
+      "duration": 1.86,
+      "text": "or potentially some higher order term.",
+      "en": "or potentially some higher order term.",
+      "zh": ""
+    },
+    {
+      "start": 1141.8,
+      "duration": 3.6,
+      "text": "So there is a tiny deviation in the action,",
+      "en": "So there is a tiny deviation in the action,",
+      "zh": ""
+    },
+    {
+      "start": 1145.4,
+      "duration": 2.01,
+      "text": "but it's not proportional to eta.",
+      "en": "but it's not proportional to eta.",
+      "zh": ""
+    },
+    {
+      "start": 1147.41,
+      "duration": 1.71,
+      "text": "So the first order,",
+      "en": "So the first order,",
+      "zh": ""
+    },
+    {
+      "start": 1149.12,
+      "duration": 2.4,
+      "text": "the change in action between the optimal path",
+      "en": "the change in action between the optimal path",
+      "zh": ""
+    },
+    {
+      "start": 1151.52,
+      "duration": 1.98,
+      "text": "and some trial path is 0.",
+      "en": "and some trial path is 0.",
+      "zh": ""
+    },
+    {
+      "start": 1155.09,
+      "duration": 1.26,
+      "text": "- So what you can write",
+      "en": "- So what you can write",
+      "zh": ""
+    },
+    {
+      "start": 1156.35,
+      "duration": 2.04,
+      "text": "is that the action of this trial path",
+      "en": "is that the action of this trial path",
+      "zh": ""
+    },
+    {
+      "start": 1158.39,
+      "duration": 1.92,
+      "text": "minus the action of the true path",
+      "en": "minus the action of the true path",
+      "zh": ""
+    },
+    {
+      "start": 1160.31,
+      "duration": 2.61,
+      "text": "is equal to 0 to first order.",
+      "en": "is equal to 0 to first order.",
+      "zh": ""
+    },
+    {
+      "start": 1164.0,
+      "duration": 1.56,
+      "text": "This is a compact way",
+      "en": "This is a compact way",
+      "zh": ""
+    },
+    {
+      "start": 1165.56,
+      "duration": 2.22,
+      "text": "of writing the principle of least action,",
+      "en": "of writing the principle of least action,",
+      "zh": ""
+    },
+    {
+      "start": 1167.78,
+      "duration": 1.86,
+      "text": "and it's the general approach you use",
+      "en": "and it's the general approach you use",
+      "zh": ""
+    },
+    {
+      "start": 1169.64,
+      "duration": 2.61,
+      "text": "to solve all these problems.",
+      "en": "to solve all these problems.",
+      "zh": ""
+    },
+    {
+      "start": 1172.25,
+      "duration": 1.14,
+      "text": "So with that in hand,",
+      "en": "So with that in hand,",
+      "zh": ""
+    },
+    {
+      "start": 1173.39,
+      "duration": 3.03,
+      "text": "let's rewrite the principle into its modern form,",
+      "en": "let's rewrite the principle into its modern form,",
+      "zh": ""
+    },
+    {
+      "start": 1176.42,
+      "duration": 2.01,
+      "text": "starting with Maupertuis' action,",
+      "en": "starting with Maupertuis' action,",
+      "zh": ""
+    },
+    {
+      "start": 1178.43,
+      "duration": 3.93,
+      "text": "which is the sum of mass times velocity times distance.",
+      "en": "which is the sum of mass times velocity times distance.",
+      "zh": ""
+    },
+    {
+      "start": 1182.36,
+      "duration": 1.83,
+      "text": "But Euler changed this into an integral,",
+      "en": "But Euler changed this into an integral,",
+      "zh": ""
+    },
+    {
+      "start": 1184.19,
+      "duration": 2.49,
+      "text": "so it's the integral of mass times velocity",
+      "en": "so it's the integral of mass times velocity",
+      "zh": ""
+    },
+    {
+      "start": 1186.68,
+      "duration": 2.16,
+      "text": "integrated over distance.",
+      "en": "integrated over distance.",
+      "zh": ""
+    },
+    {
+      "start": 1188.84,
+      "duration": 3.3,
+      "text": "Now the velocity is equal to ds over dt,",
+      "en": "Now the velocity is equal to ds over dt,",
+      "zh": ""
+    },
+    {
+      "start": 1192.14,
+      "duration": 3.36,
+      "text": "which we can rearrange to get ds equals vdt.",
+      "en": "which we can rearrange to get ds equals vdt.",
+      "zh": ""
+    },
+    {
+      "start": 1195.5,
+      "duration": 1.29,
+      "text": "And plugging this in,",
+      "en": "And plugging this in,",
+      "zh": ""
+    },
+    {
+      "start": 1196.79,
+      "duration": 3.78,
+      "text": "we have an integral of mv squared over time.",
+      "en": "we have an integral of mv squared over time.",
+      "zh": ""
+    },
+    {
+      "start": 1200.57,
+      "duration": 3.0,
+      "text": "But wait, that's just twice the kinetic energy.",
+      "en": "But wait, that's just twice the kinetic energy.",
+      "zh": ""
+    },
+    {
+      "start": 1203.57,
+      "duration": 0.93,
+      "text": "And as Euler pointed out,",
+      "en": "And as Euler pointed out,",
+      "zh": ""
+    },
+    {
+      "start": 1204.5,
+      "duration": 2.49,
+      "text": "the total energy must be conserved.",
+      "en": "the total energy must be conserved.",
+      "zh": ""
+    },
+    {
+      "start": 1206.99,
+      "duration": 3.06,
+      "text": "Total energy is just kinetic plus potential.",
+      "en": "Total energy is just kinetic plus potential.",
+      "zh": ""
+    },
+    {
+      "start": 1210.05,
+      "duration": 4.44,
+      "text": "So we can rewrite this as T equals E minus V.",
+      "en": "So we can rewrite this as T equals E minus V.",
+      "zh": ""
+    },
+    {
+      "start": 1214.49,
+      "duration": 2.34,
+      "text": "And filling this in for the second T gives us",
+      "en": "And filling this in for the second T gives us",
+      "zh": ""
+    },
+    {
+      "start": 1216.83,
+      "duration": 4.95,
+      "text": "that the variation of T plus E minus V integrated over time",
+      "en": "that the variation of T plus E minus V integrated over time",
+      "zh": ""
+    },
+    {
+      "start": 1221.78,
+      "duration": 1.56,
+      "text": "is equal to 0.",
+      "en": "is equal to 0.",
+      "zh": ""
+    },
+    {
+      "start": 1224.33,
+      "duration": 2.28,
+      "text": "Now we can split this integral into two,",
+      "en": "Now we can split this integral into two,",
+      "zh": ""
+    },
+    {
+      "start": 1226.61,
+      "duration": 1.77,
+      "text": "and since the energy is constant,",
+      "en": "and since the energy is constant,",
+      "zh": ""
+    },
+    {
+      "start": 1228.38,
+      "duration": 3.6,
+      "text": "we can integrate this term over time to get this.",
+      "en": "we can integrate this term over time to get this.",
+      "zh": ""
+    },
+    {
+      "start": 1231.98,
+      "duration": 2.13,
+      "text": "And we can simplify this even further.",
+      "en": "And we can simplify this even further.",
+      "zh": ""
+    },
+    {
+      "start": 1234.11,
+      "duration": 1.65,
+      "text": "Just like with a normal derivative,",
+      "en": "Just like with a normal derivative,",
+      "zh": ""
+    },
+    {
+      "start": 1235.76,
+      "duration": 2.58,
+      "text": "we can write the variation of E times t",
+      "en": "we can write the variation of E times t",
+      "zh": ""
+    },
+    {
+      "start": 1238.34,
+      "duration": 1.86,
+      "text": "as E times the variation of t",
+      "en": "as E times the variation of t",
+      "zh": ""
+    },
+    {
+      "start": 1240.2,
+      "duration": 2.49,
+      "text": "plus t times the variation of E.",
+      "en": "plus t times the variation of E.",
+      "zh": ""
+    },
+    {
+      "start": 1242.69,
+      "duration": 1.71,
+      "text": "But remember, as Euler found,",
+      "en": "But remember, as Euler found,",
+      "zh": ""
+    },
+    {
+      "start": 1244.4,
+      "duration": 2.85,
+      "text": "the energy of different paths has to be the same,",
+      "en": "the energy of different paths has to be the same,",
+      "zh": ""
+    },
+    {
+      "start": 1247.25,
+      "duration": 2.28,
+      "text": "so the variation between them is 0",
+      "en": "so the variation between them is 0",
+      "zh": ""
+    },
+    {
+      "start": 1249.53,
+      "duration": 2.22,
+      "text": "and this term drops out.",
+      "en": "and this term drops out.",
+      "zh": ""
+    },
+    {
+      "start": 1251.75,
+      "duration": 1.92,
+      "text": "If we rearrange this like so,",
+      "en": "If we rearrange this like so,",
+      "zh": ""
+    },
+    {
+      "start": 1253.67,
+      "duration": 2.34,
+      "text": "then we find that the variation of this integral",
+      "en": "then we find that the variation of this integral",
+      "zh": ""
+    },
+    {
+      "start": 1256.01,
+      "duration": 4.44,
+      "text": "is equal to minus the energy times the variation of time.",
+      "en": "is equal to minus the energy times the variation of time.",
+      "zh": ""
+    },
+    {
+      "start": 1261.56,
+      "duration": 3.36,
+      "text": "This looks a lot like some other minimization principle,",
+      "en": "This looks a lot like some other minimization principle,",
+      "zh": ""
+    },
+    {
+      "start": 1264.92,
+      "duration": 2.61,
+      "text": "if only this was equal to 0.",
+      "en": "if only this was equal to 0.",
+      "zh": ""
+    },
+    {
+      "start": 1267.53,
+      "duration": 1.8,
+      "text": "Well, we can make this 0",
+      "en": "Well, we can make this 0",
+      "zh": ""
+    },
+    {
+      "start": 1269.33,
+      "duration": 3.42,
+      "text": "by only considering paths that have the same travel time.",
+      "en": "by only considering paths that have the same travel time.",
+      "zh": ""
+    },
+    {
+      "start": 1272.75,
+      "duration": 3.6,
+      "text": "If you do that, then there's no longer any variation in time",
+      "en": "If you do that, then there's no longer any variation in time",
+      "zh": ""
+    },
+    {
+      "start": 1276.35,
+      "duration": 1.98,
+      "text": "and this term drops out.",
+      "en": "and this term drops out.",
+      "zh": ""
+    },
+    {
+      "start": 1278.33,
+      "duration": 2.67,
+      "text": "And what we find is that Maupertuis' principle",
+      "en": "And what we find is that Maupertuis' principle",
+      "zh": ""
+    },
+    {
+      "start": 1281.0,
+      "duration": 2.58,
+      "text": "has changed into another form",
+      "en": "has changed into another form",
+      "zh": ""
+    },
+    {
+      "start": 1283.58,
+      "duration": 2.76,
+      "text": "where now the variation of kinetic energy",
+      "en": "where now the variation of kinetic energy",
+      "zh": ""
+    },
+    {
+      "start": 1286.34,
+      "duration": 1.62,
+      "text": "minus potential energy",
+      "en": "minus potential energy",
+      "zh": ""
+    },
+    {
+      "start": 1287.96,
+      "duration": 3.36,
+      "text": "integrated over time is equal to 0.",
+      "en": "integrated over time is equal to 0.",
+      "zh": ""
+    },
+    {
+      "start": 1291.32,
+      "duration": 3.93,
+      "text": "- T minus V, kinetic energy minus potential energy,",
+      "en": "- T minus V, kinetic energy minus potential energy,",
+      "zh": ""
+    },
+    {
+      "start": 1295.25,
+      "duration": 2.52,
+      "text": "and then you integrate that along a path",
+      "en": "and then you integrate that along a path",
+      "zh": ""
+    },
+    {
+      "start": 1297.77,
+      "duration": 1.53,
+      "text": "that you're traveling from A to B,",
+      "en": "that you're traveling from A to B,",
+      "zh": ""
+    },
+    {
+      "start": 1299.3,
+      "duration": 2.19,
+      "text": "and then integrate it with respect to time.",
+      "en": "and then integrate it with respect to time.",
+      "zh": ""
+    },
+    {
+      "start": 1301.49,
+      "duration": 1.23,
+      "text": "It's all very strange",
+      "en": "It's all very strange",
+      "zh": ""
+    },
+    {
+      "start": 1302.72,
+      "duration": 3.99,
+      "text": "and yet that turns out to be the correct thing to integrate.",
+      "en": "and yet that turns out to be the correct thing to integrate.",
+      "zh": ""
+    },
+    {
+      "start": 1306.71,
+      "duration": 1.41,
+      "text": "- [Derek] Now this is a little weird.",
+      "en": "- [Derek] Now this is a little weird.",
+      "zh": ""
+    },
+    {
+      "start": 1308.12,
+      "duration": 2.04,
+      "text": "We started with mass times velocity",
+      "en": "We started with mass times velocity",
+      "zh": ""
+    },
+    {
+      "start": 1310.16,
+      "duration": 1.41,
+      "text": "integrated over distance,",
+      "en": "integrated over distance,",
+      "zh": ""
+    },
+    {
+      "start": 1311.57,
+      "duration": 1.5,
+      "text": "and now we have the kinetic energy",
+      "en": "and now we have the kinetic energy",
+      "zh": ""
+    },
+    {
+      "start": 1313.07,
+      "duration": 1.41,
+      "text": "minus the potential energy",
+      "en": "minus the potential energy",
+      "zh": ""
+    },
+    {
+      "start": 1314.48,
+      "duration": 1.77,
+      "text": "integrated over time.",
+      "en": "integrated over time.",
+      "zh": ""
+    },
+    {
+      "start": 1316.25,
+      "duration": 1.77,
+      "text": "And somehow both are ways",
+      "en": "And somehow both are ways",
+      "zh": ""
+    },
+    {
+      "start": 1318.02,
+      "duration": 2.52,
+      "text": "to write the principle of least action.",
+      "en": "to write the principle of least action.",
+      "zh": ""
+    },
+    {
+      "start": 1320.54,
+      "duration": 2.13,
+      "text": "But that also means that this integral here,",
+      "en": "But that also means that this integral here,",
+      "zh": ""
+    },
+    {
+      "start": 1322.67,
+      "duration": 1.77,
+      "text": "T minus V integrated over time,",
+      "en": "T minus V integrated over time,",
+      "zh": ""
+    },
+    {
+      "start": 1324.44,
+      "duration": 2.76,
+      "text": "is another way to write the action.",
+      "en": "is another way to write the action.",
+      "zh": ""
+    },
+    {
+      "start": 1327.2,
+      "duration": 0.83,
+      "text": "The first person",
+      "en": "The first person",
+      "zh": ""
+    },
+    {
+      "start": 1328.03,
+      "duration": 1.9,
+      "text": "to write the principle of least action like this",
+      "en": "to write the principle of least action like this",
+      "zh": ""
+    },
+    {
+      "start": 1329.93,
+      "duration": 3.35,
+      "text": "was William Rowan Hamilton in 1834,",
+      "en": "was William Rowan Hamilton in 1834,",
+      "zh": ""
+    },
+    {
+      "start": 1333.28,
+      "duration": 3.61,
+      "text": "and by doing so, he got the principle named after him.",
+      "en": "and by doing so, he got the principle named after him.",
+      "zh": ""
+    },
+    {
+      "start": 1336.89,
+      "duration": 1.92,
+      "text": "- So the principle of least action",
+      "en": "- So the principle of least action",
+      "zh": ""
+    },
+    {
+      "start": 1338.81,
+      "duration": 2.94,
+      "text": "that we write as integral of Ldt,",
+      "en": "that we write as integral of Ldt,",
+      "zh": ""
+    },
+    {
+      "start": 1341.75,
+      "duration": 1.65,
+      "text": "L being being the Lagrangian,",
+      "en": "L being being the Lagrangian,",
+      "zh": ""
+    },
+    {
+      "start": 1343.4,
+      "duration": 2.97,
+      "text": "the T minus V, the kinetic minus potential energy,",
+      "en": "the T minus V, the kinetic minus potential energy,",
+      "zh": ""
+    },
+    {
+      "start": 1346.37,
+      "duration": 1.68,
+      "text": "they don't call it Lagrange's Principle,",
+      "en": "they don't call it Lagrange's Principle,",
+      "zh": ""
+    },
+    {
+      "start": 1348.05,
+      "duration": 1.95,
+      "text": "they call it Hamilton's Principle.",
+      "en": "they call it Hamilton's Principle.",
+      "zh": ""
+    },
+    {
+      "start": 1350.0,
+      "duration": 3.81,
+      "text": "So I guess Hamilton is building on Lagrange in that way.",
+      "en": "So I guess Hamilton is building on Lagrange in that way.",
+      "zh": ""
+    },
+    {
+      "start": 1353.81,
+      "duration": 2.16,
+      "text": "- Hamilton's Principle is the modern way",
+      "en": "- Hamilton's Principle is the modern way",
+      "zh": ""
+    },
+    {
+      "start": 1355.97,
+      "duration": 1.98,
+      "text": "of writing the principle of least action",
+      "en": "of writing the principle of least action",
+      "zh": ""
+    },
+    {
+      "start": 1357.95,
+      "duration": 2.94,
+      "text": "and the way you'd find it in almost every physics book.",
+      "en": "and the way you'd find it in almost every physics book.",
+      "zh": ""
+    },
+    {
+      "start": 1360.89,
+      "duration": 2.34,
+      "text": "In part that's because Hamilton's Principle tells you",
+      "en": "In part that's because Hamilton's Principle tells you",
+      "zh": ""
+    },
+    {
+      "start": 1363.23,
+      "duration": 2.79,
+      "text": "how objects move from one place to another",
+      "en": "how objects move from one place to another",
+      "zh": ""
+    },
+    {
+      "start": 1366.02,
+      "duration": 3.15,
+      "text": "rather than just giving you the shape of the path.",
+      "en": "rather than just giving you the shape of the path.",
+      "zh": ""
+    },
+    {
+      "start": 1369.17,
+      "duration": 2.46,
+      "text": "Two other important differences between both principles",
+      "en": "Two other important differences between both principles",
+      "zh": ""
+    },
+    {
+      "start": 1371.63,
+      "duration": 2.85,
+      "text": "are that the action is now an integral over time",
+      "en": "are that the action is now an integral over time",
+      "zh": ""
+    },
+    {
+      "start": 1374.48,
+      "duration": 1.2,
+      "text": "instead of space.",
+      "en": "instead of space.",
+      "zh": ""
+    },
+    {
+      "start": 1375.68,
+      "duration": 2.52,
+      "text": "And a consequence is that with Hamilton's Principle,",
+      "en": "And a consequence is that with Hamilton's Principle,",
+      "zh": ""
+    },
+    {
+      "start": 1378.2,
+      "duration": 1.95,
+      "text": "you now need a start and end point,",
+      "en": "you now need a start and end point,",
+      "zh": ""
+    },
+    {
+      "start": 1380.15,
+      "duration": 3.06,
+      "text": "and also a start and end time.",
+      "en": "and also a start and end time.",
+      "zh": ""
+    },
+    {
+      "start": 1383.21,
+      "duration": 2.31,
+      "text": "The third is that with Maupertuis' principle,",
+      "en": "The third is that with Maupertuis' principle,",
+      "zh": ""
+    },
+    {
+      "start": 1385.52,
+      "duration": 3.36,
+      "text": "you need to keep the energy of different paths the same,",
+      "en": "you need to keep the energy of different paths the same,",
+      "zh": ""
+    },
+    {
+      "start": 1388.88,
+      "duration": 1.62,
+      "text": "but the time can vary.",
+      "en": "but the time can vary.",
+      "zh": ""
+    },
+    {
+      "start": 1390.5,
+      "duration": 1.41,
+      "text": "While with Hamilton's Principle,",
+      "en": "While with Hamilton's Principle,",
+      "zh": ""
+    },
+    {
+      "start": 1391.91,
+      "duration": 1.38,
+      "text": "the energies can differ",
+      "en": "the energies can differ",
+      "zh": ""
+    },
+    {
+      "start": 1393.29,
+      "duration": 2.64,
+      "text": "but the time has to be the same between paths.",
+      "en": "but the time has to be the same between paths.",
+      "zh": ""
+    },
+    {
+      "start": 1397.82,
+      "duration": 2.1,
+      "text": "So now we have our general approach",
+      "en": "So now we have our general approach",
+      "zh": ""
+    },
+    {
+      "start": 1399.92,
+      "duration": 1.86,
+      "text": "and the modern way of writing the principle,",
+      "en": "and the modern way of writing the principle,",
+      "zh": ""
+    },
+    {
+      "start": 1401.78,
+      "duration": 4.17,
+      "text": "so let's apply it to a simple example to see why it works.",
+      "en": "so let's apply it to a simple example to see why it works.",
+      "zh": ""
+    },
+    {
+      "start": 1405.95,
+      "duration": 3.57,
+      "text": "Let's say I throw this ball straight up in the air,",
+      "en": "Let's say I throw this ball straight up in the air,",
+      "zh": ""
+    },
+    {
+      "start": 1409.52,
+      "duration": 2.1,
+      "text": "so it goes from some start point",
+      "en": "so it goes from some start point",
+      "zh": ""
+    },
+    {
+      "start": 1411.62,
+      "duration": 4.29,
+      "text": "to say a different end point in a certain amount of time.",
+      "en": "to say a different end point in a certain amount of time.",
+      "zh": ""
+    },
+    {
+      "start": 1415.91,
+      "duration": 3.0,
+      "text": "Now if we call the height of the ball y of t,",
+      "en": "Now if we call the height of the ball y of t,",
+      "zh": ""
+    },
+    {
+      "start": 1418.91,
+      "duration": 2.85,
+      "text": "then we can plot these two points like so,",
+      "en": "then we can plot these two points like so,",
+      "zh": ""
+    },
+    {
+      "start": 1421.76,
+      "duration": 1.89,
+      "text": "and then we can imagine",
+      "en": "and then we can imagine",
+      "zh": ""
+    },
+    {
+      "start": 1423.65,
+      "duration": 2.37,
+      "text": "infinitely many possible trajectories",
+      "en": "infinitely many possible trajectories",
+      "zh": ""
+    },
+    {
+      "start": 1426.02,
+      "duration": 1.74,
+      "text": "that could connect these two points.",
+      "en": "that could connect these two points.",
+      "zh": ""
+    },
+    {
+      "start": 1427.76,
+      "duration": 2.67,
+      "text": "Some go a little higher, some lower,",
+      "en": "Some go a little higher, some lower,",
+      "zh": ""
+    },
+    {
+      "start": 1430.43,
+      "duration": 2.43,
+      "text": "some have wiggles, others don't.",
+      "en": "some have wiggles, others don't.",
+      "zh": ""
+    },
+    {
+      "start": 1432.86,
+      "duration": 1.11,
+      "text": "The only condition",
+      "en": "The only condition",
+      "zh": ""
+    },
+    {
+      "start": 1433.97,
+      "duration": 3.39,
+      "text": "is that all paths must have the same start and end point",
+      "en": "is that all paths must have the same start and end point",
+      "zh": ""
+    },
+    {
+      "start": 1437.36,
+      "duration": 3.0,
+      "text": "and the same amount of time elapsed between them.",
+      "en": "and the same amount of time elapsed between them.",
+      "zh": ""
+    },
+    {
+      "start": 1440.36,
+      "duration": 1.8,
+      "text": "Now to find the real trajectory,",
+      "en": "Now to find the real trajectory,",
+      "zh": ""
+    },
+    {
+      "start": 1442.16,
+      "duration": 1.95,
+      "text": "we proceed as before.",
+      "en": "we proceed as before.",
+      "zh": ""
+    },
+    {
+      "start": 1444.11,
+      "duration": 3.0,
+      "text": "We imagine that this is the true path, y of t,",
+      "en": "We imagine that this is the true path, y of t,",
+      "zh": ""
+    },
+    {
+      "start": 1447.11,
+      "duration": 1.8,
+      "text": "the one with the least action.",
+      "en": "the one with the least action.",
+      "zh": ""
+    },
+    {
+      "start": 1448.91,
+      "duration": 2.91,
+      "text": "And then we imagine making small variations to it",
+      "en": "And then we imagine making small variations to it",
+      "zh": ""
+    },
+    {
+      "start": 1451.82,
+      "duration": 1.83,
+      "text": "by pushing it up a little here,",
+      "en": "by pushing it up a little here,",
+      "zh": ""
+    },
+    {
+      "start": 1453.65,
+      "duration": 2.22,
+      "text": "down a little there, and so on,",
+      "en": "down a little there, and so on,",
+      "zh": ""
+    },
+    {
+      "start": 1455.87,
+      "duration": 2.64,
+      "text": "making tiny changes at every time step,",
+      "en": "making tiny changes at every time step,",
+      "zh": ""
+    },
+    {
+      "start": 1458.51,
+      "duration": 2.25,
+      "text": "which we'll call eta of t.",
+      "en": "which we'll call eta of t.",
+      "zh": ""
+    },
+    {
+      "start": 1460.76,
+      "duration": 2.37,
+      "text": "So when you add y and eta together,",
+      "en": "So when you add y and eta together,",
+      "zh": ""
+    },
+    {
+      "start": 1463.13,
+      "duration": 1.68,
+      "text": "you get this new trial path,",
+      "en": "you get this new trial path,",
+      "zh": ""
+    },
+    {
+      "start": 1464.81,
+      "duration": 2.01,
+      "text": "let's call it q of t.",
+      "en": "let's call it q of t.",
+      "zh": ""
+    },
+    {
+      "start": 1466.82,
+      "duration": 1.98,
+      "text": "And since the variations are small,",
+      "en": "And since the variations are small,",
+      "zh": ""
+    },
+    {
+      "start": 1468.8,
+      "duration": 3.81,
+      "text": "the difference in action between these two paths is 0.",
+      "en": "the difference in action between these two paths is 0.",
+      "zh": ""
+    },
+    {
+      "start": 1472.61,
+      "duration": 3.63,
+      "text": "Our next task is to solve this equation.",
+      "en": "Our next task is to solve this equation.",
+      "zh": ""
+    },
+    {
+      "start": 1476.24,
+      "duration": 2.67,
+      "text": "So we compute the action for each path.",
+      "en": "So we compute the action for each path.",
+      "zh": ""
+    },
+    {
+      "start": 1478.91,
+      "duration": 2.94,
+      "text": "For this, we need the kinetic and potential energy for each,",
+      "en": "For this, we need the kinetic and potential energy for each,",
+      "zh": ""
+    },
+    {
+      "start": 1481.85,
+      "duration": 3.42,
+      "text": "and we write them as a function of y and eta.",
+      "en": "and we write them as a function of y and eta.",
+      "zh": ""
+    },
+    {
+      "start": 1485.27,
+      "duration": 0.83,
+      "text": "Plugging that in,",
+      "en": "Plugging that in,",
+      "zh": ""
+    },
+    {
+      "start": 1486.1,
+      "duration": 3.61,
+      "text": "you get the difference in actions is equal to this.",
+      "en": "you get the difference in actions is equal to this.",
+      "zh": ""
+    },
+    {
+      "start": 1489.71,
+      "duration": 1.83,
+      "text": "But wait, this first integral",
+      "en": "But wait, this first integral",
+      "zh": ""
+    },
+    {
+      "start": 1491.54,
+      "duration": 2.01,
+      "text": "is just the action of the true path,",
+      "en": "is just the action of the true path,",
+      "zh": ""
+    },
+    {
+      "start": 1493.55,
+      "duration": 2.01,
+      "text": "so these integrals cancel,",
+      "en": "so these integrals cancel,",
+      "zh": ""
+    },
+    {
+      "start": 1495.56,
+      "duration": 2.94,
+      "text": "and what you're left with is just that.",
+      "en": "and what you're left with is just that.",
+      "zh": ""
+    },
+    {
+      "start": 1498.5,
+      "duration": 1.92,
+      "text": "m times dy over dt",
+      "en": "m times dy over dt",
+      "zh": ""
+    },
+    {
+      "start": 1500.42,
+      "duration": 1.8,
+      "text": "times d eta over dt",
+      "en": "times d eta over dt",
+      "zh": ""
+    },
+    {
+      "start": 1502.22,
+      "duration": 2.88,
+      "text": "minus eta times the derivative of the potential",
+      "en": "minus eta times the derivative of the potential",
+      "zh": ""
+    },
+    {
+      "start": 1505.1,
+      "duration": 1.5,
+      "text": "integrated over time",
+      "en": "integrated over time",
+      "zh": ""
+    },
+    {
+      "start": 1506.6,
+      "duration": 1.98,
+      "text": "is equal to 0.",
+      "en": "is equal to 0.",
+      "zh": ""
+    },
+    {
+      "start": 1508.58,
+      "duration": 3.39,
+      "text": "We can rewrite this further by using integration by parts.",
+      "en": "We can rewrite this further by using integration by parts.",
+      "zh": ""
+    },
+    {
+      "start": 1511.97,
+      "duration": 3.84,
+      "text": "That allows us to replace this term with this one.",
+      "en": "That allows us to replace this term with this one.",
+      "zh": ""
+    },
+    {
+      "start": 1517.13,
+      "duration": 0.99,
+      "text": "And if we plug that in,",
+      "en": "And if we plug that in,",
+      "zh": ""
+    },
+    {
+      "start": 1518.12,
+      "duration": 1.56,
+      "text": "we now have some function",
+      "en": "we now have some function",
+      "zh": ""
+    },
+    {
+      "start": 1519.68,
+      "duration": 2.91,
+      "text": "that when multiplied by eta and integrated over time",
+      "en": "that when multiplied by eta and integrated over time",
+      "zh": ""
+    },
+    {
+      "start": 1522.59,
+      "duration": 1.98,
+      "text": "has to be equal to 0.",
+      "en": "has to be equal to 0.",
+      "zh": ""
+    },
+    {
+      "start": 1524.57,
+      "duration": 2.55,
+      "text": "But since eta can be just about anything,",
+      "en": "But since eta can be just about anything,",
+      "zh": ""
+    },
+    {
+      "start": 1527.12,
+      "duration": 3.99,
+      "text": "this can only be true if this part is 0.",
+      "en": "this can only be true if this part is 0.",
+      "zh": ""
+    },
+    {
+      "start": 1531.11,
+      "duration": 3.39,
+      "text": "So what we found is that the action is minimal for the path",
+      "en": "So what we found is that the action is minimal for the path",
+      "zh": ""
+    },
+    {
+      "start": 1534.5,
+      "duration": 3.78,
+      "text": "that satisfies this curious differential equation.",
+      "en": "that satisfies this curious differential equation.",
+      "zh": ""
+    },
+    {
+      "start": 1539.66,
+      "duration": 3.42,
+      "text": "Now it might look complicated, but it's not.",
+      "en": "Now it might look complicated, but it's not.",
+      "zh": ""
+    },
+    {
+      "start": 1543.08,
+      "duration": 4.29,
+      "text": "Minus the derivative of the potential is just the force.",
+      "en": "Minus the derivative of the potential is just the force.",
+      "zh": ""
+    },
+    {
+      "start": 1547.37,
+      "duration": 2.4,
+      "text": "And the second derivative of height?",
+      "en": "And the second derivative of height?",
+      "zh": ""
+    },
+    {
+      "start": 1549.77,
+      "duration": 2.55,
+      "text": "Well, that's just acceleration.",
+      "en": "Well, that's just acceleration.",
+      "zh": ""
+    },
+    {
+      "start": 1552.32,
+      "duration": 1.68,
+      "text": "So if we rearrange this,",
+      "en": "So if we rearrange this,",
+      "zh": ""
+    },
+    {
+      "start": 1554.0,
+      "duration": 1.86,
+      "text": "we find that the path that satisfies",
+      "en": "we find that the path that satisfies",
+      "zh": ""
+    },
+    {
+      "start": 1555.86,
+      "duration": 1.74,
+      "text": "the principle of least action",
+      "en": "the principle of least action",
+      "zh": ""
+    },
+    {
+      "start": 1557.6,
+      "duration": 2.97,
+      "text": "is the one that obeys F equals ma.",
+      "en": "is the one that obeys F equals ma.",
+      "zh": ""
+    },
+    {
+      "start": 1564.05,
+      "duration": 3.39,
+      "text": "In other words, the principle of least action is equivalent",
+      "en": "In other words, the principle of least action is equivalent",
+      "zh": ""
+    },
+    {
+      "start": 1567.44,
+      "duration": 2.49,
+      "text": "to Newton's Second Law,",
+      "en": "to Newton's Second Law,",
+      "zh": ""
+    },
+    {
+      "start": 1569.93,
+      "duration": 2.43,
+      "text": "but it covers more than just mechanics.",
+      "en": "but it covers more than just mechanics.",
+      "zh": ""
+    },
+    {
+      "start": 1574.52,
+      "duration": 1.47,
+      "text": "Fermat's principle of least time",
+      "en": "Fermat's principle of least time",
+      "zh": ""
+    },
+    {
+      "start": 1575.99,
+      "duration": 2.43,
+      "text": "turned out to be nothing more than a special case",
+      "en": "turned out to be nothing more than a special case",
+      "zh": ""
+    },
+    {
+      "start": 1578.42,
+      "duration": 1.71,
+      "text": "of the principle of least action.",
+      "en": "of the principle of least action.",
+      "zh": ""
+    },
+    {
+      "start": 1581.81,
+      "duration": 1.89,
+      "text": "So with this single principle,",
+      "en": "So with this single principle,",
+      "zh": ""
+    },
+    {
+      "start": 1583.7,
+      "duration": 1.86,
+      "text": "you could suddenly describe everything,",
+      "en": "you could suddenly describe everything,",
+      "zh": ""
+    },
+    {
+      "start": 1585.56,
+      "duration": 2.76,
+      "text": "from light reflecting and refracting,",
+      "en": "from light reflecting and refracting,",
+      "zh": ""
+    },
+    {
+      "start": 1588.32,
+      "duration": 2.4,
+      "text": "to the swinging of a pendulum clock,",
+      "en": "to the swinging of a pendulum clock,",
+      "zh": ""
+    },
+    {
+      "start": 1590.72,
+      "duration": 1.59,
+      "text": "to planets orbiting the sun",
+      "en": "to planets orbiting the sun",
+      "zh": ""
+    },
+    {
+      "start": 1592.31,
+      "duration": 2.76,
+      "text": "and stars orbiting the core of the galaxy.",
+      "en": "and stars orbiting the core of the galaxy.",
+      "zh": ""
+    },
+    {
+      "start": 1595.91,
+      "duration": 1.08,
+      "text": "What used to be viewed",
+      "en": "What used to be viewed",
+      "zh": ""
+    },
+    {
+      "start": 1596.99,
+      "duration": 2.46,
+      "text": "as entirely separate fields of physics",
+      "en": "as entirely separate fields of physics",
+      "zh": ""
+    },
+    {
+      "start": 1599.45,
+      "duration": 4.26,
+      "text": "were now all unified under a single simple rule.",
+      "en": "were now all unified under a single simple rule.",
+      "zh": ""
+    },
+    {
+      "start": 1603.71,
+      "duration": 2.73,
+      "text": "The variation of the action is 0.",
+      "en": "The variation of the action is 0.",
+      "zh": ""
+    },
+    {
+      "start": 1608.27,
+      "duration": 2.22,
+      "text": "After Euler found out about Lagrange's proof,",
+      "en": "After Euler found out about Lagrange's proof,",
+      "zh": ""
+    },
+    {
+      "start": 1610.49,
+      "duration": 1.39,
+      "text": "he wrote to him,",
+      "en": "he wrote to him,",
+      "zh": ""
+    },
+    {
+      "start": 1611.88,
+      "duration": 2.63,
+      "text": "\"How satisfied would not Mr. Maupertuis be,",
+      "en": "\"How satisfied would not Mr. Maupertuis be,",
+      "zh": ""
+    },
+    {
+      "start": 1614.51,
+      "duration": 1.44,
+      "text": "were he still alive,",
+      "en": "were he still alive,",
+      "zh": ""
+    },
+    {
+      "start": 1615.95,
+      "duration": 2.1,
+      "text": "if he could see his principle of least action",
+      "en": "if he could see his principle of least action",
+      "zh": ""
+    },
+    {
+      "start": 1618.05,
+      "duration": 1.98,
+      "text": "applied to the highest degree of dignity",
+      "en": "applied to the highest degree of dignity",
+      "zh": ""
+    },
+    {
+      "start": 1620.03,
+      "duration": 1.74,
+      "text": "to which it is susceptible.\"",
+      "en": "to which it is susceptible.\"",
+      "zh": ""
+    },
+    {
+      "start": 1628.7,
+      "duration": 1.56,
+      "text": "With Lagrange's proof,",
+      "en": "With Lagrange's proof,",
+      "zh": ""
+    },
+    {
+      "start": 1630.26,
+      "duration": 3.48,
+      "text": "we now have two ways to solve any mechanics problem.",
+      "en": "we now have two ways to solve any mechanics problem.",
+      "zh": ""
+    },
+    {
+      "start": 1633.74,
+      "duration": 2.28,
+      "text": "You can either use forces and vectors",
+      "en": "You can either use forces and vectors",
+      "zh": ""
+    },
+    {
+      "start": 1636.02,
+      "duration": 2.73,
+      "text": "or you can use energies and scalars.",
+      "en": "or you can use energies and scalars.",
+      "zh": ""
+    },
+    {
+      "start": 1638.75,
+      "duration": 2.07,
+      "text": "It seems like the principle of least action",
+      "en": "It seems like the principle of least action",
+      "zh": ""
+    },
+    {
+      "start": 1640.82,
+      "duration": 1.89,
+      "text": "is just way too complicated.",
+      "en": "is just way too complicated.",
+      "zh": ""
+    },
+    {
+      "start": 1642.71,
+      "duration": 1.8,
+      "text": "It is so unnecessary.",
+      "en": "It is so unnecessary.",
+      "zh": ""
+    },
+    {
+      "start": 1644.51,
+      "duration": 1.68,
+      "text": "Who would ever use this, you know,",
+      "en": "Who would ever use this, you know,",
+      "zh": ""
+    },
+    {
+      "start": 1646.19,
+      "duration": 1.47,
+      "text": "when you could just use Newton's Second Law?",
+      "en": "when you could just use Newton's Second Law?",
+      "zh": ""
+    },
+    {
+      "start": 1647.66,
+      "duration": 1.74,
+      "text": "Like that's a piece of cake.",
+      "en": "Like that's a piece of cake.",
+      "zh": ""
+    },
+    {
+      "start": 1649.4,
+      "duration": 3.66,
+      "text": "- Your options are either use all of this",
+      "en": "- Your options are either use all of this",
+      "zh": ""
+    },
+    {
+      "start": 1653.06,
+      "duration": 1.53,
+      "text": "or just start with F equals ma,",
+      "en": "or just start with F equals ma,",
+      "zh": ""
+    },
+    {
+      "start": 1654.59,
+      "duration": 1.32,
+      "text": "and they give you the same answer.",
+      "en": "and they give you the same answer.",
+      "zh": ""
+    },
+    {
+      "start": 1655.91,
+      "duration": 2.4,
+      "text": "Why ever use the principle of least action?",
+      "en": "Why ever use the principle of least action?",
+      "zh": ""
+    },
+    {
+      "start": 1658.31,
+      "duration": 3.06,
+      "text": "Well, that's because Euler and Lagrange came up with a way",
+      "en": "Well, that's because Euler and Lagrange came up with a way",
+      "zh": ""
+    },
+    {
+      "start": 1661.37,
+      "duration": 2.76,
+      "text": "to make all of this like super, super simple.",
+      "en": "to make all of this like super, super simple.",
+      "zh": ""
+    },
+    {
+      "start": 1664.97,
+      "duration": 1.83,
+      "text": "- [Derek] If this is the action,",
+      "en": "- [Derek] If this is the action,",
+      "zh": ""
+    },
+    {
+      "start": 1666.8,
+      "duration": 3.18,
+      "text": "then T minus V is called the Lagrangian.",
+      "en": "then T minus V is called the Lagrangian.",
+      "zh": ""
+    },
+    {
+      "start": 1669.98,
+      "duration": 2.19,
+      "text": "Now let's replace everything we did before",
+      "en": "Now let's replace everything we did before",
+      "zh": ""
+    },
+    {
+      "start": 1672.17,
+      "duration": 1.98,
+      "text": "with the Lagrangian.",
+      "en": "with the Lagrangian.",
+      "zh": ""
+    },
+    {
+      "start": 1674.15,
+      "duration": 2.64,
+      "text": "Then you see that the principle of least action works",
+      "en": "Then you see that the principle of least action works",
+      "zh": ""
+    },
+    {
+      "start": 1676.79,
+      "duration": 3.3,
+      "text": "whenever this differential equation is satisfied.",
+      "en": "whenever this differential equation is satisfied.",
+      "zh": ""
+    },
+    {
+      "start": 1680.09,
+      "duration": 1.5,
+      "text": "- So all you have to do now",
+      "en": "- So all you have to do now",
+      "zh": ""
+    },
+    {
+      "start": 1681.59,
+      "duration": 2.46,
+      "text": "if you wanna solve any mechanics problem",
+      "en": "if you wanna solve any mechanics problem",
+      "zh": ""
+    },
+    {
+      "start": 1684.05,
+      "duration": 2.88,
+      "text": "is you just write down the kinetic and potential energy",
+      "en": "is you just write down the kinetic and potential energy",
+      "zh": ""
+    },
+    {
+      "start": 1686.93,
+      "duration": 4.02,
+      "text": "and you plug it into this equation and you're done.",
+      "en": "and you plug it into this equation and you're done.",
+      "zh": ""
+    },
+    {
+      "start": 1690.95,
+      "duration": 3.54,
+      "text": "And that becomes extremely powerful.",
+      "en": "And that becomes extremely powerful.",
+      "zh": ""
+    },
+    {
+      "start": 1694.49,
+      "duration": 1.0,
+      "text": "- I remember thinking,",
+      "en": "- I remember thinking,",
+      "zh": ""
+    },
+    {
+      "start": 1695.49,
+      "duration": 2.72,
+      "text": "\"Man, force is like hard to get the right answer.\"",
+      "en": "\"Man, force is like hard to get the right answer.\"",
+      "zh": ""
+    },
+    {
+      "start": 1698.21,
+      "duration": 1.41,
+      "text": "You can do it if you're good,",
+      "en": "You can do it if you're good,",
+      "zh": ""
+    },
+    {
+      "start": 1699.62,
+      "duration": 2.34,
+      "text": "and people who are good at mechanics can do it.",
+      "en": "and people who are good at mechanics can do it.",
+      "zh": ""
+    },
+    {
+      "start": 1701.96,
+      "duration": 1.77,
+      "text": "But with the Lagrangian approach,",
+      "en": "But with the Lagrangian approach,",
+      "zh": ""
+    },
+    {
+      "start": 1703.73,
+      "duration": 1.56,
+      "text": "you have this machine",
+      "en": "you have this machine",
+      "zh": ""
+    },
+    {
+      "start": 1705.29,
+      "duration": 2.49,
+      "text": "crank out the principle of least action on it",
+      "en": "crank out the principle of least action on it",
+      "zh": ""
+    },
+    {
+      "start": 1707.78,
+      "duration": 1.68,
+      "text": "and you get the right equation to motion",
+      "en": "and you get the right equation to motion",
+      "zh": ""
+    },
+    {
+      "start": 1709.46,
+      "duration": 1.86,
+      "text": "and you don't have to be a good physicist.",
+      "en": "and you don't have to be a good physicist.",
+      "zh": ""
+    },
+    {
+      "start": 1711.32,
+      "duration": 1.65,
+      "text": "That was what I took from it,",
+      "en": "That was what I took from it,",
+      "zh": ""
+    },
+    {
+      "start": 1712.97,
+      "duration": 2.28,
+      "text": "that as a math guy I can do physics",
+      "en": "that as a math guy I can do physics",
+      "zh": ""
+    },
+    {
+      "start": 1715.25,
+      "duration": 2.1,
+      "text": "thanks to Lagrange and Euler.",
+      "en": "thanks to Lagrange and Euler.",
+      "zh": ""
+    },
+    {
+      "start": 1717.35,
+      "duration": 2.52,
+      "text": "- And it doesn't just work in one dimension.",
+      "en": "- And it doesn't just work in one dimension.",
+      "zh": ""
+    },
+    {
+      "start": 1719.87,
+      "duration": 1.53,
+      "text": "If you have more dimensions,",
+      "en": "If you have more dimensions,",
+      "zh": ""
+    },
+    {
+      "start": 1721.4,
+      "duration": 2.58,
+      "text": "then you just solve the Euler-Lagrange equation",
+      "en": "then you just solve the Euler-Lagrange equation",
+      "zh": ""
+    },
+    {
+      "start": 1723.98,
+      "duration": 1.74,
+      "text": "for each coordinate.",
+      "en": "for each coordinate.",
+      "zh": ""
+    },
+    {
+      "start": 1725.72,
+      "duration": 1.11,
+      "text": "- Another thing that's great is",
+      "en": "- Another thing that's great is",
+      "zh": ""
+    },
+    {
+      "start": 1726.83,
+      "duration": 1.98,
+      "text": "you could use weird coordinate systems",
+      "en": "you could use weird coordinate systems",
+      "zh": ""
+    },
+    {
+      "start": 1728.81,
+      "duration": 2.28,
+      "text": "that might be better suited to the problem.",
+      "en": "that might be better suited to the problem.",
+      "zh": ""
+    },
+    {
+      "start": 1731.09,
+      "duration": 2.76,
+      "text": "Like if you were doing a problem with something rotating,",
+      "en": "Like if you were doing a problem with something rotating,",
+      "zh": ""
+    },
+    {
+      "start": 1733.85,
+      "duration": 2.22,
+      "text": "you might want to use polar coordinates",
+      "en": "you might want to use polar coordinates",
+      "zh": ""
+    },
+    {
+      "start": 1736.07,
+      "duration": 1.89,
+      "text": "instead of Cartesian coordinates.",
+      "en": "instead of Cartesian coordinates.",
+      "zh": ""
+    },
+    {
+      "start": 1737.96,
+      "duration": 2.25,
+      "text": "And this will give you the correct equations of motion",
+      "en": "And this will give you the correct equations of motion",
+      "zh": ""
+    },
+    {
+      "start": 1740.21,
+      "duration": 1.62,
+      "text": "in polar coordinates,",
+      "en": "in polar coordinates,",
+      "zh": ""
+    },
+    {
+      "start": 1741.83,
+      "duration": 3.09,
+      "text": "which again might be kind of tricky to do with vectors.",
+      "en": "which again might be kind of tricky to do with vectors.",
+      "zh": ""
+    },
+    {
+      "start": 1744.92,
+      "duration": 1.74,
+      "text": "- [Derek] Like with the double pendulum.",
+      "en": "- [Derek] Like with the double pendulum.",
+      "zh": ""
+    },
+    {
+      "start": 1746.66,
+      "duration": 3.36,
+      "text": "Trying to solve this using forces is extremely hard.",
+      "en": "Trying to solve this using forces is extremely hard.",
+      "zh": ""
+    },
+    {
+      "start": 1750.02,
+      "duration": 2.13,
+      "text": "- Because as one pendulum is swinging,",
+      "en": "- Because as one pendulum is swinging,",
+      "zh": ""
+    },
+    {
+      "start": 1752.15,
+      "duration": 1.56,
+      "text": "it provides the attachment point",
+      "en": "it provides the attachment point",
+      "zh": ""
+    },
+    {
+      "start": 1753.71,
+      "duration": 1.32,
+      "text": "for the pendulum hanging below it,",
+      "en": "for the pendulum hanging below it,",
+      "zh": ""
+    },
+    {
+      "start": 1755.03,
+      "duration": 2.67,
+      "text": "and so that pendulum is in this moving reference frame",
+      "en": "and so that pendulum is in this moving reference frame",
+      "zh": ""
+    },
+    {
+      "start": 1757.7,
+      "duration": 1.2,
+      "text": "as it's swinging.",
+      "en": "as it's swinging.",
+      "zh": ""
+    },
+    {
+      "start": 1758.9,
+      "duration": 4.14,
+      "text": "It's a very nasty job to write down the correct F equals ma",
+      "en": "It's a very nasty job to write down the correct F equals ma",
+      "zh": ""
+    },
+    {
+      "start": 1763.04,
+      "duration": 1.83,
+      "text": "for a double pendulum.",
+      "en": "for a double pendulum.",
+      "zh": ""
+    },
+    {
+      "start": 1764.87,
+      "duration": 2.88,
+      "text": "But if you write it down with kinetic and potential energy,",
+      "en": "But if you write it down with kinetic and potential energy,",
+      "zh": ""
+    },
+    {
+      "start": 1767.75,
+      "duration": 1.5,
+      "text": "it's pretty easy.",
+      "en": "it's pretty easy.",
+      "zh": ""
+    },
+    {
+      "start": 1769.25,
+      "duration": 3.21,
+      "text": "- This is actually how we made this simulation.",
+      "en": "- This is actually how we made this simulation.",
+      "zh": ""
+    },
+    {
+      "start": 1773.69,
+      "duration": 2.07,
+      "text": "Now, there is one little side note",
+      "en": "Now, there is one little side note",
+      "zh": ""
+    },
+    {
+      "start": 1775.76,
+      "duration": 2.01,
+      "text": "we should give about the principle of least action,",
+      "en": "we should give about the principle of least action,",
+      "zh": ""
+    },
+    {
+      "start": 1777.77,
+      "duration": 3.18,
+      "text": "because the name is a little misleading.",
+      "en": "because the name is a little misleading.",
+      "zh": ""
+    },
+    {
+      "start": 1780.95,
+      "duration": 2.16,
+      "text": "- Although we often refer to the principle",
+      "en": "- Although we often refer to the principle",
+      "zh": ""
+    },
+    {
+      "start": 1783.11,
+      "duration": 2.16,
+      "text": "as the principle of least action,",
+      "en": "as the principle of least action,",
+      "zh": ""
+    },
+    {
+      "start": 1786.17,
+      "duration": 2.97,
+      "text": "it's probably good to add a little caveat here,",
+      "en": "it's probably good to add a little caveat here,",
+      "zh": ""
+    },
+    {
+      "start": 1789.14,
+      "duration": 2.88,
+      "text": "that sometimes it's not necessarily the minimum.",
+      "en": "that sometimes it's not necessarily the minimum.",
+      "zh": ""
+    },
+    {
+      "start": 1792.02,
+      "duration": 1.86,
+      "text": "Just as when you find in calculus",
+      "en": "Just as when you find in calculus",
+      "zh": ""
+    },
+    {
+      "start": 1793.88,
+      "duration": 1.77,
+      "text": "when you set a derivative to 0,",
+      "en": "when you set a derivative to 0,",
+      "zh": ""
+    },
+    {
+      "start": 1795.65,
+      "duration": 2.01,
+      "text": "that doesn't guarantee you're getting the minimum",
+      "en": "that doesn't guarantee you're getting the minimum",
+      "zh": ""
+    },
+    {
+      "start": 1797.66,
+      "duration": 1.05,
+      "text": "of a function.",
+      "en": "of a function.",
+      "zh": ""
+    },
+    {
+      "start": 1798.71,
+      "duration": 2.73,
+      "text": "The principle of least action more properly stated",
+      "en": "The principle of least action more properly stated",
+      "zh": ""
+    },
+    {
+      "start": 1801.44,
+      "duration": 2.52,
+      "text": "should be the principle of stationary action.",
+      "en": "should be the principle of stationary action.",
+      "zh": ""
+    },
+    {
+      "start": 1803.96,
+      "duration": 1.02,
+      "text": "That the laws of motion",
+      "en": "That the laws of motion",
+      "zh": ""
+    },
+    {
+      "start": 1804.98,
+      "duration": 2.19,
+      "text": "come from demanding a stationary point,",
+      "en": "come from demanding a stationary point,",
+      "zh": ""
+    },
+    {
+      "start": 1807.17,
+      "duration": 2.01,
+      "text": "which is tantamount to this condition",
+      "en": "which is tantamount to this condition",
+      "zh": ""
+    },
+    {
+      "start": 1809.18,
+      "duration": 2.28,
+      "text": "of setting a certain derivative to 0",
+      "en": "of setting a certain derivative to 0",
+      "zh": ""
+    },
+    {
+      "start": 1811.46,
+      "duration": 3.3,
+      "text": "and then getting the Euler-Lagrange equation from that.",
+      "en": "and then getting the Euler-Lagrange equation from that.",
+      "zh": ""
+    },
+    {
+      "start": 1814.76,
+      "duration": 4.74,
+      "text": "So very often it is a true minimum, but not always.",
+      "en": "So very often it is a true minimum, but not always.",
+      "zh": ""
+    },
+    {
+      "start": 1819.5,
+      "duration": 2.31,
+      "text": "- But action is much more fundamental",
+      "en": "- But action is much more fundamental",
+      "zh": ""
+    },
+    {
+      "start": 1821.81,
+      "duration": 2.1,
+      "text": "than just classical mechanics.",
+      "en": "than just classical mechanics.",
+      "zh": ""
+    },
+    {
+      "start": 1823.91,
+      "duration": 1.98,
+      "text": "Around the turn of the 20th century,",
+      "en": "Around the turn of the 20th century,",
+      "zh": ""
+    },
+    {
+      "start": 1825.89,
+      "duration": 2.73,
+      "text": "action popped up as the key part of a solution",
+      "en": "action popped up as the key part of a solution",
+      "zh": ""
+    },
+    {
+      "start": 1828.62,
+      "duration": 2.25,
+      "text": "to one of the biggest problems in atomic physics",
+      "en": "to one of the biggest problems in atomic physics",
+      "zh": ""
+    },
+    {
+      "start": 1830.87,
+      "duration": 1.02,
+      "text": "at the time.",
+      "en": "at the time.",
+      "zh": ""
+    },
+    {
+      "start": 1831.89,
+      "duration": 2.13,
+      "text": "The UV catastrophe.",
+      "en": "The UV catastrophe.",
+      "zh": ""
+    },
+    {
+      "start": 1834.02,
+      "duration": 3.99,
+      "text": "- It's kind of spooky that this breakthrough",
+      "en": "- It's kind of spooky that this breakthrough",
+      "zh": ""
+    },
+    {
+      "start": 1838.01,
+      "duration": 2.91,
+      "text": "that starts the ball rolling toward quantum theory",
+      "en": "that starts the ball rolling toward quantum theory",
+      "zh": ""
+    },
+    {
+      "start": 1840.92,
+      "duration": 1.29,
+      "text": "brings action in.",
+      "en": "brings action in.",
+      "zh": ""
+    },
+    {
+      "start": 1842.21,
+      "duration": 2.55,
+      "text": "Not energy and not force, action.",
+      "en": "Not energy and not force, action.",
+      "zh": ""
+    },
+    {
+      "start": 1846.44,
+      "duration": 2.67,
+      "text": "It gives you a hint, yeah.",
+      "en": "It gives you a hint, yeah.",
+      "zh": ""
+    },
+    {
+      "start": 1849.11,
+      "duration": 2.19,
+      "text": "- But that and much more",
+      "en": "- But that and much more",
+      "zh": ""
+    },
+    {
+      "start": 1851.3,
+      "duration": 2.1,
+      "text": "will have to wait for a separate video,",
+      "en": "will have to wait for a separate video,",
+      "zh": ""
+    },
+    {
+      "start": 1853.4,
+      "duration": 1.32,
+      "text": "so make sure you're subscribed",
+      "en": "so make sure you're subscribed",
+      "zh": ""
+    },
+    {
+      "start": 1854.72,
+      "duration": 1.95,
+      "text": "to get notified when it comes out.",
+      "en": "to get notified when it comes out.",
+      "zh": ""
+    },
+    {
+      "start": 1862.64,
+      "duration": 1.95,
+      "text": "The story of the principle of least action",
+      "en": "The story of the principle of least action",
+      "zh": ""
+    },
+    {
+      "start": 1864.59,
+      "duration": 2.4,
+      "text": "is the story of how knowledge compounds,",
+      "en": "is the story of how knowledge compounds,",
+      "zh": ""
+    },
+    {
+      "start": 1866.99,
+      "duration": 3.18,
+      "text": "growing through steady progress one step at a time",
+      "en": "growing through steady progress one step at a time",
+      "zh": ""
+    },
+    {
+      "start": 1870.17,
+      "duration": 2.91,
+      "text": "until it changes how we see the world completely.",
+      "en": "until it changes how we see the world completely.",
+      "zh": ""
+    },
+    {
+      "start": 1873.08,
+      "duration": 2.4,
+      "text": "And it's not just big scientific discoveries",
+      "en": "And it's not just big scientific discoveries",
+      "zh": ""
+    },
+    {
+      "start": 1875.48,
+      "duration": 0.96,
+      "text": "where this happens.",
+      "en": "where this happens.",
+      "zh": ""
+    },
+    {
+      "start": 1876.44,
+      "duration": 3.24,
+      "text": "Learning a little every day compounds over time,",
+      "en": "Learning a little every day compounds over time,",
+      "zh": ""
+    },
+    {
+      "start": 1879.68,
+      "duration": 2.61,
+      "text": "making you smarter and a better problem-solver.",
+      "en": "making you smarter and a better problem-solver.",
+      "zh": ""
+    },
+    {
+      "start": 1882.29,
+      "duration": 2.55,
+      "text": "And you can start doing this right now for free",
+      "en": "And you can start doing this right now for free",
+      "zh": ""
+    },
+    {
+      "start": 1884.84,
+      "duration": 2.1,
+      "text": "with this video's sponsor, Brilliant.",
+      "en": "with this video's sponsor, Brilliant.",
+      "zh": ""
+    },
+    {
+      "start": 1886.94,
+      "duration": 2.46,
+      "text": "Brilliant helps you get smarter every day",
+      "en": "Brilliant helps you get smarter every day",
+      "zh": ""
+    },
+    {
+      "start": 1889.4,
+      "duration": 2.16,
+      "text": "while building real practical skills",
+      "en": "while building real practical skills",
+      "zh": ""
+    },
+    {
+      "start": 1891.56,
+      "duration": 1.92,
+      "text": "in everything from math and physics",
+      "en": "in everything from math and physics",
+      "zh": ""
+    },
+    {
+      "start": 1893.48,
+      "duration": 2.07,
+      "text": "to data science and programming,",
+      "en": "to data science and programming,",
+      "zh": ""
+    },
+    {
+      "start": 1895.55,
+      "duration": 2.7,
+      "text": "whatever it is that sparks your curiosity.",
+      "en": "whatever it is that sparks your curiosity.",
+      "zh": ""
+    },
+    {
+      "start": 1898.25,
+      "duration": 2.79,
+      "text": "What I love most about Brilliant is that you learn by doing,",
+      "en": "What I love most about Brilliant is that you learn by doing,",
+      "zh": ""
+    },
+    {
+      "start": 1901.04,
+      "duration": 2.22,
+      "text": "getting hands on with real problems",
+      "en": "getting hands on with real problems",
+      "zh": ""
+    },
+    {
+      "start": 1903.26,
+      "duration": 1.71,
+      "text": "that help you build intuition.",
+      "en": "that help you build intuition.",
+      "zh": ""
+    },
+    {
+      "start": 1904.97,
+      "duration": 2.28,
+      "text": "And since all their lessons are bite-sized,",
+      "en": "And since all their lessons are bite-sized,",
+      "zh": ""
+    },
+    {
+      "start": 1907.25,
+      "duration": 4.2,
+      "text": "it's easy to take small steps toward mastering huge topics",
+      "en": "it's easy to take small steps toward mastering huge topics",
+      "zh": ""
+    },
+    {
+      "start": 1911.45,
+      "duration": 2.94,
+      "text": "like the language of most of physics, calculus.",
+      "en": "like the language of most of physics, calculus.",
+      "zh": ""
+    },
+    {
+      "start": 1914.39,
+      "duration": 1.38,
+      "text": "Brilliant recently updated",
+      "en": "Brilliant recently updated",
+      "zh": ""
+    },
+    {
+      "start": 1915.77,
+      "duration": 1.53,
+      "text": "their excellent course on calculus",
+      "en": "their excellent course on calculus",
+      "zh": ""
+    },
+    {
+      "start": 1917.3,
+      "duration": 2.82,
+      "text": "which doesn't just explain the big concepts,",
+      "en": "which doesn't just explain the big concepts,",
+      "zh": ""
+    },
+    {
+      "start": 1920.12,
+      "duration": 4.23,
+      "text": "it guides you through them interactively one step at a time.",
+      "en": "it guides you through them interactively one step at a time.",
+      "zh": ""
+    },
+    {
+      "start": 1924.35,
+      "duration": 2.4,
+      "text": "That way you don't just memorize concepts,",
+      "en": "That way you don't just memorize concepts,",
+      "zh": ""
+    },
+    {
+      "start": 1926.75,
+      "duration": 3.09,
+      "text": "you really understand them in a way that just clicks.",
+      "en": "you really understand them in a way that just clicks.",
+      "zh": ""
+    },
+    {
+      "start": 1929.84,
+      "duration": 2.76,
+      "text": "Now, I truly believe that learning a little bit every day",
+      "en": "Now, I truly believe that learning a little bit every day",
+      "zh": ""
+    },
+    {
+      "start": 1932.6,
+      "duration": 2.16,
+      "text": "is one of the best gifts you can give yourself.",
+      "en": "is one of the best gifts you can give yourself.",
+      "zh": ""
+    },
+    {
+      "start": 1934.76,
+      "duration": 2.58,
+      "text": "And with Brilliant, it's super easy.",
+      "en": "And with Brilliant, it's super easy.",
+      "zh": ""
+    },
+    {
+      "start": 1937.34,
+      "duration": 1.62,
+      "text": "All it takes is a few minutes,",
+      "en": "All it takes is a few minutes,",
+      "zh": ""
+    },
+    {
+      "start": 1938.96,
+      "duration": 3.12,
+      "text": "which could be on your commute, on a break, whenever.",
+      "en": "which could be on your commute, on a break, whenever.",
+      "zh": ""
+    },
+    {
+      "start": 1942.08,
+      "duration": 1.08,
+      "text": "And before you know it,",
+      "en": "And before you know it,",
+      "zh": ""
+    },
+    {
+      "start": 1943.16,
+      "duration": 2.4,
+      "text": "you're ending each day a bit smarter.",
+      "en": "you're ending each day a bit smarter.",
+      "zh": ""
+    },
+    {
+      "start": 1945.56,
+      "duration": 2.37,
+      "text": "So to try everything Brilliant has to offer for free",
+      "en": "So to try everything Brilliant has to offer for free",
+      "zh": ""
+    },
+    {
+      "start": 1947.93,
+      "duration": 1.14,
+      "text": "for a full 30 days,",
+      "en": "for a full 30 days,",
+      "zh": ""
+    },
+    {
+      "start": 1949.07,
+      "duration": 2.49,
+      "text": "visit brilliant.org/veritasium,",
+      "en": "visit brilliant.org/veritasium,",
+      "zh": ""
+    },
+    {
+      "start": 1951.56,
+      "duration": 3.06,
+      "text": "click that link in the description or scan this QR code.",
+      "en": "click that link in the description or scan this QR code.",
+      "zh": ""
+    },
+    {
+      "start": 1954.62,
+      "duration": 0.96,
+      "text": "And if you sign up,",
+      "en": "And if you sign up,",
+      "zh": ""
+    },
+    {
+      "start": 1955.58,
+      "duration": 3.36,
+      "text": "you'll also get 20% off their annual premium subscription.",
+      "en": "you'll also get 20% off their annual premium subscription.",
+      "zh": ""
+    },
+    {
+      "start": 1958.94,
+      "duration": 2.31,
+      "text": "So I wanna thank Brilliant for sponsoring this video",
+      "en": "So I wanna thank Brilliant for sponsoring this video",
+      "zh": ""
+    },
+    {
+      "start": 1961.25,
+      "duration": 2.01,
+      "text": "and I wanna thank you for watching.",
+      "en": "and I wanna thank you for watching.",
+      "zh": ""
+    }
+  ],
+  "words": []
+}

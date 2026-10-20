@@ -1,0 +1,4926 @@
+{
+  "cues": [
+    {
+      "start": 0.72,
+      "duration": 2.85,
+      "text": "- There is a rule in mathematics that is so simple,",
+      "en": "- There is a rule in mathematics that is so simple,",
+      "zh": ""
+    },
+    {
+      "start": 3.57,
+      "duration": 2.82,
+      "text": "you would think it obviously must be true,",
+      "en": "you would think it obviously must be true,",
+      "zh": ""
+    },
+    {
+      "start": 6.39,
+      "duration": 1.23,
+      "text": "but if you accept it,",
+      "en": "but if you accept it,",
+      "zh": ""
+    },
+    {
+      "start": 7.62,
+      "duration": 2.28,
+      "text": "you find there are now some line segments",
+      "en": "you find there are now some line segments",
+      "zh": ""
+    },
+    {
+      "start": 9.9,
+      "duration": 1.35,
+      "text": "that have no length.",
+      "en": "that have no length.",
+      "zh": ""
+    },
+    {
+      "start": 11.25,
+      "duration": 2.01,
+      "text": "A sphere without adding anything",
+      "en": "A sphere without adding anything",
+      "zh": ""
+    },
+    {
+      "start": 13.26,
+      "duration": 3.96,
+      "text": "to it can be turned into two identical spheres.",
+      "en": "to it can be turned into two identical spheres.",
+      "zh": ""
+    },
+    {
+      "start": 17.22,
+      "duration": 0.93,
+      "text": "A hundred plus years",
+      "en": "A hundred plus years",
+      "zh": ""
+    },
+    {
+      "start": 18.15,
+      "duration": 3.06,
+      "text": "of mathematics has been built on this axiom.",
+      "en": "of mathematics has been built on this axiom.",
+      "zh": ""
+    },
+    {
+      "start": 21.21,
+      "duration": 2.19,
+      "text": "It seems intuitive and it works,",
+      "en": "It seems intuitive and it works,",
+      "zh": ""
+    },
+    {
+      "start": 23.4,
+      "duration": 3.27,
+      "text": "but it also creates ridiculous paradoxes.",
+      "en": "but it also creates ridiculous paradoxes.",
+      "zh": ""
+    },
+    {
+      "start": 26.67,
+      "duration": 3.03,
+      "text": "So, is it right?",
+      "en": "So, is it right?",
+      "zh": ""
+    },
+    {
+      "start": 29.7,
+      "duration": 3.33,
+      "text": "Well, it all starts with the issue of choice.",
+      "en": "Well, it all starts with the issue of choice.",
+      "zh": ""
+    },
+    {
+      "start": 33.03,
+      "duration": 2.58,
+      "text": "Try this, choose a number.",
+      "en": "Try this, choose a number.",
+      "zh": ""
+    },
+    {
+      "start": 35.61,
+      "duration": 2.22,
+      "text": "I can just pluck a random number from my head,",
+      "en": "I can just pluck a random number from my head,",
+      "zh": ""
+    },
+    {
+      "start": 37.83,
+      "duration": 2.37,
+      "text": "like 37 or 42,",
+      "en": "like 37 or 42,",
+      "zh": ""
+    },
+    {
+      "start": 40.2,
+      "duration": 2.37,
+      "text": "but that is the human brain at work,",
+      "en": "but that is the human brain at work,",
+      "zh": ""
+    },
+    {
+      "start": 42.57,
+      "duration": 2.19,
+      "text": "not a mathematical process.",
+      "en": "not a mathematical process.",
+      "zh": ""
+    },
+    {
+      "start": 44.76,
+      "duration": 3.39,
+      "text": "In math, you can't truly pick things at random",
+      "en": "In math, you can't truly pick things at random",
+      "zh": ""
+    },
+    {
+      "start": 48.15,
+      "duration": 2.97,
+      "text": "because formulas always give the same result,",
+      "en": "because formulas always give the same result,",
+      "zh": ""
+    },
+    {
+      "start": 51.12,
+      "duration": 1.56,
+      "text": "which is why computers don't have",
+      "en": "which is why computers don't have",
+      "zh": ""
+    },
+    {
+      "start": 52.68,
+      "duration": 1.98,
+      "text": "true random number generators.",
+      "en": "true random number generators.",
+      "zh": ""
+    },
+    {
+      "start": 54.66,
+      "duration": 2.22,
+      "text": "Instead, they usually run an algorithm",
+      "en": "Instead, they usually run an algorithm",
+      "zh": ""
+    },
+    {
+      "start": 56.88,
+      "duration": 2.43,
+      "text": "on your current local time to generate numbers",
+      "en": "on your current local time to generate numbers",
+      "zh": ""
+    },
+    {
+      "start": 59.31,
+      "duration": 1.53,
+      "text": "that appear random.",
+      "en": "that appear random.",
+      "zh": ""
+    },
+    {
+      "start": 62.49,
+      "duration": 2.31,
+      "text": "So if we can't pick randomly,",
+      "en": "So if we can't pick randomly,",
+      "zh": ""
+    },
+    {
+      "start": 64.8,
+      "duration": 2.34,
+      "text": "how do we select anything in math?",
+      "en": "how do we select anything in math?",
+      "zh": ""
+    },
+    {
+      "start": 67.14,
+      "duration": 3.72,
+      "text": "Well, the only way is to follow a rule of some sort.",
+      "en": "Well, the only way is to follow a rule of some sort.",
+      "zh": ""
+    },
+    {
+      "start": 70.86,
+      "duration": 3.54,
+      "text": "So a rule could be always choose the smallest thing.",
+      "en": "So a rule could be always choose the smallest thing.",
+      "zh": ""
+    },
+    {
+      "start": 74.4,
+      "duration": 2.97,
+      "text": "For example, if we're looking at whole positive integers,",
+      "en": "For example, if we're looking at whole positive integers,",
+      "zh": ""
+    },
+    {
+      "start": 77.37,
+      "duration": 1.59,
+      "text": "the smallest is one.",
+      "en": "the smallest is one.",
+      "zh": ""
+    },
+    {
+      "start": 78.96,
+      "duration": 3.15,
+      "text": "For prime numbers it would be two, easy,",
+      "en": "For prime numbers it would be two, easy,",
+      "zh": ""
+    },
+    {
+      "start": 82.11,
+      "duration": 2.07,
+      "text": "but what about the real numbers?",
+      "en": "but what about the real numbers?",
+      "zh": ""
+    },
+    {
+      "start": 84.18,
+      "duration": 3.06,
+      "text": "That's any number, positive, negative, whole, fraction,",
+      "en": "That's any number, positive, negative, whole, fraction,",
+      "zh": ""
+    },
+    {
+      "start": 87.24,
+      "duration": 3.3,
+      "text": "even irrational like pi or the square root of two.",
+      "en": "even irrational like pi or the square root of two.",
+      "zh": ""
+    },
+    {
+      "start": 90.54,
+      "duration": 2.73,
+      "text": "Now try to choose the smallest one.",
+      "en": "Now try to choose the smallest one.",
+      "zh": ""
+    },
+    {
+      "start": 93.27,
+      "duration": 1.56,
+      "text": "It's impossible.",
+      "en": "It's impossible.",
+      "zh": ""
+    },
+    {
+      "start": 94.83,
+      "duration": 3.51,
+      "text": "The real numbers stretch off to negative infinity.",
+      "en": "The real numbers stretch off to negative infinity.",
+      "zh": ""
+    },
+    {
+      "start": 98.34,
+      "duration": 3.33,
+      "text": "Even if we try to fix our rule by making it super specific,",
+      "en": "Even if we try to fix our rule by making it super specific,",
+      "zh": ""
+    },
+    {
+      "start": 101.67,
+      "duration": 1.5,
+      "text": "like choose the smallest number",
+      "en": "like choose the smallest number",
+      "zh": ""
+    },
+    {
+      "start": 103.17,
+      "duration": 3.24,
+      "text": "after one, we still get stuck.",
+      "en": "after one, we still get stuck.",
+      "zh": ""
+    },
+    {
+      "start": 106.41,
+      "duration": 1.59,
+      "text": "There's 1.01",
+      "en": "There's 1.01",
+      "zh": ""
+    },
+    {
+      "start": 108.0,
+      "duration": 2.47,
+      "text": "and then 1.0001,",
+      "en": "and then 1.0001,",
+      "zh": ""
+    },
+    {
+      "start": 110.52,
+      "duration": 4.68,
+      "text": "then 1.00000000001 and so on.",
+      "en": "then 1.00000000001 and so on.",
+      "zh": ""
+    },
+    {
+      "start": 115.2,
+      "duration": 3.12,
+      "text": "So really what number comes after one?",
+      "en": "So really what number comes after one?",
+      "zh": ""
+    },
+    {
+      "start": 121.02,
+      "duration": 2.88,
+      "text": "If we can't begin to specify the order of the real numbers,",
+      "en": "If we can't begin to specify the order of the real numbers,",
+      "zh": ""
+    },
+    {
+      "start": 123.9,
+      "duration": 3.39,
+      "text": "next and previous, first and last, we're stuck.",
+      "en": "next and previous, first and last, we're stuck.",
+      "zh": ""
+    },
+    {
+      "start": 127.29,
+      "duration": 3.57,
+      "text": "The ridiculous part is we know we have infinite options,",
+      "en": "The ridiculous part is we know we have infinite options,",
+      "zh": ""
+    },
+    {
+      "start": 130.86,
+      "duration": 3.75,
+      "text": "but despite that, we can't figure out how to just pick one.",
+      "en": "but despite that, we can't figure out how to just pick one.",
+      "zh": ""
+    },
+    {
+      "start": 136.02,
+      "duration": 4.23,
+      "text": "The mission to resolve this began with one man in 1870.",
+      "en": "The mission to resolve this began with one man in 1870.",
+      "zh": ""
+    },
+    {
+      "start": 140.25,
+      "duration": 1.08,
+      "text": "He took on the task",
+      "en": "He took on the task",
+      "zh": ""
+    },
+    {
+      "start": 141.33,
+      "duration": 2.91,
+      "text": "of putting the real numbers in a definitive order,",
+      "en": "of putting the real numbers in a definitive order,",
+      "zh": ""
+    },
+    {
+      "start": 144.24,
+      "duration": 3.72,
+      "text": "even if it killed him and it nearly did.",
+      "en": "even if it killed him and it nearly did.",
+      "zh": ""
+    },
+    {
+      "start": 151.32,
+      "duration": 3.03,
+      "text": "Georg Cantor was a talented German mathematician",
+      "en": "Georg Cantor was a talented German mathematician",
+      "zh": ""
+    },
+    {
+      "start": 154.35,
+      "duration": 2.67,
+      "text": "who found himself at the center of a firestorm",
+      "en": "who found himself at the center of a firestorm",
+      "zh": ""
+    },
+    {
+      "start": 157.02,
+      "duration": 2.13,
+      "text": "after publishing one of his very first papers",
+      "en": "after publishing one of his very first papers",
+      "zh": ""
+    },
+    {
+      "start": 159.15,
+      "duration": 1.44,
+      "text": "at the age of 29.",
+      "en": "at the age of 29.",
+      "zh": ""
+    },
+    {
+      "start": 162.03,
+      "duration": 1.83,
+      "text": "For centuries, our understanding",
+      "en": "For centuries, our understanding",
+      "zh": ""
+    },
+    {
+      "start": 163.86,
+      "duration": 5.0,
+      "text": "of infinity was heavily influenced by Galileo's 1638 book.",
+      "en": "of infinity was heavily influenced by Galileo's 1638 book.",
+      "zh": ""
+    },
+    {
+      "start": 168.93,
+      "duration": 3.84,
+      "text": "It raised a key question, are there more natural numbers",
+      "en": "It raised a key question, are there more natural numbers",
+      "zh": ""
+    },
+    {
+      "start": 172.77,
+      "duration": 2.31,
+      "text": "or are there more square numbers?",
+      "en": "or are there more square numbers?",
+      "zh": ""
+    },
+    {
+      "start": 175.08,
+      "duration": 3.48,
+      "text": "Just looking at them, the square numbers are more spaced out",
+      "en": "Just looking at them, the square numbers are more spaced out",
+      "zh": ""
+    },
+    {
+      "start": 178.56,
+      "duration": 3.3,
+      "text": "and they only become more sparse the higher you go.",
+      "en": "and they only become more sparse the higher you go.",
+      "zh": ""
+    },
+    {
+      "start": 181.86,
+      "duration": 2.43,
+      "text": "So it would appear there are fewer squares",
+      "en": "So it would appear there are fewer squares",
+      "zh": ""
+    },
+    {
+      "start": 184.29,
+      "duration": 1.62,
+      "text": "than natural numbers,",
+      "en": "than natural numbers,",
+      "zh": ""
+    },
+    {
+      "start": 185.91,
+      "duration": 3.39,
+      "text": "but Galileo realized he could draw a line matching",
+      "en": "but Galileo realized he could draw a line matching",
+      "zh": ""
+    },
+    {
+      "start": 189.3,
+      "duration": 2.88,
+      "text": "every natural number with its own square.",
+      "en": "every natural number with its own square.",
+      "zh": ""
+    },
+    {
+      "start": 192.18,
+      "duration": 2.79,
+      "text": "And since he could make this one-to-one mapping,",
+      "en": "And since he could make this one-to-one mapping,",
+      "zh": ""
+    },
+    {
+      "start": 194.97,
+      "duration": 1.62,
+      "text": "that he knew that the two sets",
+      "en": "that he knew that the two sets",
+      "zh": ""
+    },
+    {
+      "start": 196.59,
+      "duration": 2.91,
+      "text": "must be exactly the same size.",
+      "en": "must be exactly the same size.",
+      "zh": ""
+    },
+    {
+      "start": 199.5,
+      "duration": 2.7,
+      "text": "So there are actually just as many square numbers",
+      "en": "So there are actually just as many square numbers",
+      "zh": ""
+    },
+    {
+      "start": 202.2,
+      "duration": 1.89,
+      "text": "as there are natural numbers.",
+      "en": "as there are natural numbers.",
+      "zh": ""
+    },
+    {
+      "start": 205.98,
+      "duration": 2.07,
+      "text": "From this counterintuitive result,",
+      "en": "From this counterintuitive result,",
+      "zh": ""
+    },
+    {
+      "start": 208.05,
+      "duration": 2.65,
+      "text": "Galileo concluded that terms like more than or less than",
+      "en": "Galileo concluded that terms like more than or less than",
+      "zh": ""
+    },
+    {
+      "start": 211.59,
+      "duration": 1.8,
+      "text": "don't apply to infinity,",
+      "en": "don't apply to infinity,",
+      "zh": ""
+    },
+    {
+      "start": 213.39,
+      "duration": 1.83,
+      "text": "how we normally use them.",
+      "en": "how we normally use them.",
+      "zh": ""
+    },
+    {
+      "start": 215.22,
+      "duration": 3.57,
+      "text": "It's all just one big concept of foreverness",
+      "en": "It's all just one big concept of foreverness",
+      "zh": ""
+    },
+    {
+      "start": 218.79,
+      "duration": 2.37,
+      "text": "and this view prevailed for centuries.",
+      "en": "and this view prevailed for centuries.",
+      "zh": ""
+    },
+    {
+      "start": 221.16,
+      "duration": 1.35,
+      "text": "In fact, it's how many people",
+      "en": "In fact, it's how many people",
+      "zh": ""
+    },
+    {
+      "start": 222.51,
+      "duration": 2.88,
+      "text": "still understand infinity today,",
+      "en": "still understand infinity today,",
+      "zh": ""
+    },
+    {
+      "start": 225.39,
+      "duration": 3.72,
+      "text": "but 200 years on, Cantor wasn't satisfied.",
+      "en": "but 200 years on, Cantor wasn't satisfied.",
+      "zh": ""
+    },
+    {
+      "start": 230.07,
+      "duration": 2.16,
+      "text": "In 1874, he wondered",
+      "en": "In 1874, he wondered",
+      "zh": ""
+    },
+    {
+      "start": 232.23,
+      "duration": 2.88,
+      "text": "what if there were two infinite sets out there",
+      "en": "what if there were two infinite sets out there",
+      "zh": ""
+    },
+    {
+      "start": 235.11,
+      "duration": 2.82,
+      "text": "that didn't map perfectly to each other?",
+      "en": "that didn't map perfectly to each other?",
+      "zh": ""
+    },
+    {
+      "start": 237.93,
+      "duration": 2.91,
+      "text": "Would they be different infinities?",
+      "en": "Would they be different infinities?",
+      "zh": ""
+    },
+    {
+      "start": 240.84,
+      "duration": 2.43,
+      "text": "So he set out to compare the natural numbers",
+      "en": "So he set out to compare the natural numbers",
+      "zh": ""
+    },
+    {
+      "start": 243.27,
+      "duration": 2.58,
+      "text": "and the real numbers between zero and one.",
+      "en": "and the real numbers between zero and one.",
+      "zh": ""
+    },
+    {
+      "start": 246.81,
+      "duration": 3.39,
+      "text": "Cantor started by assuming he could perfectly map these sets",
+      "en": "Cantor started by assuming he could perfectly map these sets",
+      "zh": ""
+    },
+    {
+      "start": 250.2,
+      "duration": 1.74,
+      "text": "to each other, one-to-one.",
+      "en": "to each other, one-to-one.",
+      "zh": ""
+    },
+    {
+      "start": 251.94,
+      "duration": 3.15,
+      "text": "So he imagined writing down an infinite list",
+      "en": "So he imagined writing down an infinite list",
+      "zh": ""
+    },
+    {
+      "start": 255.09,
+      "duration": 1.56,
+      "text": "with a natural number on one side",
+      "en": "with a natural number on one side",
+      "zh": ""
+    },
+    {
+      "start": 256.65,
+      "duration": 3.27,
+      "text": "and a real number between zero and one on the other.",
+      "en": "and a real number between zero and one on the other.",
+      "zh": ""
+    },
+    {
+      "start": 259.92,
+      "duration": 2.73,
+      "text": "Since there is no smallest real number,",
+      "en": "Since there is no smallest real number,",
+      "zh": ""
+    },
+    {
+      "start": 262.65,
+      "duration": 3.21,
+      "text": "he would just write them down in any order.",
+      "en": "he would just write them down in any order.",
+      "zh": ""
+    },
+    {
+      "start": 265.86,
+      "duration": 3.36,
+      "text": "Assuming he now has a complete infinite list,",
+      "en": "Assuming he now has a complete infinite list,",
+      "zh": ""
+    },
+    {
+      "start": 269.22,
+      "duration": 2.76,
+      "text": "Cantor writes down another real number",
+      "en": "Cantor writes down another real number",
+      "zh": ""
+    },
+    {
+      "start": 271.98,
+      "duration": 3.06,
+      "text": "and to do it, he takes the first digit of the first number",
+      "en": "and to do it, he takes the first digit of the first number",
+      "zh": ""
+    },
+    {
+      "start": 275.04,
+      "duration": 3.84,
+      "text": "and adds one, then the second digit of the second number,",
+      "en": "and adds one, then the second digit of the second number,",
+      "zh": ""
+    },
+    {
+      "start": 278.88,
+      "duration": 1.86,
+      "text": "and again, he adds one.",
+      "en": "and again, he adds one.",
+      "zh": ""
+    },
+    {
+      "start": 280.74,
+      "duration": 2.94,
+      "text": "He keeps doing this all the way down the list.",
+      "en": "He keeps doing this all the way down the list.",
+      "zh": ""
+    },
+    {
+      "start": 283.68,
+      "duration": 1.11,
+      "text": "If the digit is an eight",
+      "en": "If the digit is an eight",
+      "zh": ""
+    },
+    {
+      "start": 284.79,
+      "duration": 3.09,
+      "text": "or a nine, he subtracts one instead of adding",
+      "en": "or a nine, he subtracts one instead of adding",
+      "zh": ""
+    },
+    {
+      "start": 287.88,
+      "duration": 1.71,
+      "text": "to avoid duplicates,",
+      "en": "to avoid duplicates,",
+      "zh": ""
+    },
+    {
+      "start": 289.59,
+      "duration": 2.61,
+      "text": "and by the end of this process, he has written down",
+      "en": "and by the end of this process, he has written down",
+      "zh": ""
+    },
+    {
+      "start": 292.2,
+      "duration": 2.88,
+      "text": "a real number between zero and one,",
+      "en": "a real number between zero and one,",
+      "zh": ""
+    },
+    {
+      "start": 295.08,
+      "duration": 3.69,
+      "text": "but that number doesn't appear anywhere in his list.",
+      "en": "but that number doesn't appear anywhere in his list.",
+      "zh": ""
+    },
+    {
+      "start": 300.12,
+      "duration": 1.47,
+      "text": "It's different from the first number",
+      "en": "It's different from the first number",
+      "zh": ""
+    },
+    {
+      "start": 301.59,
+      "duration": 1.29,
+      "text": "in the first decimal place,",
+      "en": "in the first decimal place,",
+      "zh": ""
+    },
+    {
+      "start": 302.88,
+      "duration": 0.99,
+      "text": "different from the second number",
+      "en": "different from the second number",
+      "zh": ""
+    },
+    {
+      "start": 303.87,
+      "duration": 3.51,
+      "text": "in the second decimal place and so on down the line.",
+      "en": "in the second decimal place and so on down the line.",
+      "zh": ""
+    },
+    {
+      "start": 307.38,
+      "duration": 2.88,
+      "text": "It has to be different from every number on the list",
+      "en": "It has to be different from every number on the list",
+      "zh": ""
+    },
+    {
+      "start": 310.26,
+      "duration": 3.75,
+      "text": "by at least one digit, the digit on the diagonal.",
+      "en": "by at least one digit, the digit on the diagonal.",
+      "zh": ""
+    },
+    {
+      "start": 314.01,
+      "duration": 3.66,
+      "text": "That's why this is called Cantor's Diagonalization Proof",
+      "en": "That's why this is called Cantor's Diagonalization Proof",
+      "zh": ""
+    },
+    {
+      "start": 317.67,
+      "duration": 3.36,
+      "text": "and it shows there must be more real numbers between zero",
+      "en": "and it shows there must be more real numbers between zero",
+      "zh": ""
+    },
+    {
+      "start": 321.03,
+      "duration": 3.21,
+      "text": "and one than there are natural numbers extending out",
+      "en": "and one than there are natural numbers extending out",
+      "zh": ""
+    },
+    {
+      "start": 324.24,
+      "duration": 1.29,
+      "text": "to infinity.",
+      "en": "to infinity.",
+      "zh": ""
+    },
+    {
+      "start": 326.85,
+      "duration": 2.73,
+      "text": "Cantor had revealed something remarkable.",
+      "en": "Cantor had revealed something remarkable.",
+      "zh": ""
+    },
+    {
+      "start": 329.58,
+      "duration": 3.18,
+      "text": "Infinity doesn't come in just one size.",
+      "en": "Infinity doesn't come in just one size.",
+      "zh": ""
+    },
+    {
+      "start": 332.76,
+      "duration": 3.18,
+      "text": "Some infinities like the set of square numbers, integers",
+      "en": "Some infinities like the set of square numbers, integers",
+      "zh": ""
+    },
+    {
+      "start": 335.94,
+      "duration": 2.67,
+      "text": "or rational numbers can be paired perfectly",
+      "en": "or rational numbers can be paired perfectly",
+      "zh": ""
+    },
+    {
+      "start": 338.61,
+      "duration": 1.44,
+      "text": "with the natural numbers.",
+      "en": "with the natural numbers.",
+      "zh": ""
+    },
+    {
+      "start": 340.05,
+      "duration": 3.54,
+      "text": "You can literally count them, one, two, three and so on.",
+      "en": "You can literally count them, one, two, three and so on.",
+      "zh": ""
+    },
+    {
+      "start": 343.59,
+      "duration": 4.02,
+      "text": "So Cantor called these countable infinities,",
+      "en": "So Cantor called these countable infinities,",
+      "zh": ""
+    },
+    {
+      "start": 347.61,
+      "duration": 2.34,
+      "text": "but then there are bigger infinities,",
+      "en": "but then there are bigger infinities,",
+      "zh": ""
+    },
+    {
+      "start": 349.95,
+      "duration": 2.22,
+      "text": "Cantor called them uncountable.",
+      "en": "Cantor called them uncountable.",
+      "zh": ""
+    },
+    {
+      "start": 352.17,
+      "duration": 2.67,
+      "text": "These infinities like the set of all real numbers,",
+      "en": "These infinities like the set of all real numbers,",
+      "zh": ""
+    },
+    {
+      "start": 354.84,
+      "duration": 3.21,
+      "text": "the complex numbers, they can't be matched one-to-one",
+      "en": "the complex numbers, they can't be matched one-to-one",
+      "zh": ""
+    },
+    {
+      "start": 358.05,
+      "duration": 1.35,
+      "text": "with the natural numbers.",
+      "en": "with the natural numbers.",
+      "zh": ""
+    },
+    {
+      "start": 360.84,
+      "duration": 3.6,
+      "text": "Cantor's results rocked the mathematical community.",
+      "en": "Cantor's results rocked the mathematical community.",
+      "zh": ""
+    },
+    {
+      "start": 364.44,
+      "duration": 1.62,
+      "text": "After all, how can something",
+      "en": "After all, how can something",
+      "zh": ""
+    },
+    {
+      "start": 366.06,
+      "duration": 3.36,
+      "text": "that continues forever be bigger than something else",
+      "en": "that continues forever be bigger than something else",
+      "zh": ""
+    },
+    {
+      "start": 369.42,
+      "duration": 1.98,
+      "text": "that continues forever?",
+      "en": "that continues forever?",
+      "zh": ""
+    },
+    {
+      "start": 371.4,
+      "duration": 3.87,
+      "text": "His work was labeled a horror and a grave disease,",
+      "en": "His work was labeled a horror and a grave disease,",
+      "zh": ""
+    },
+    {
+      "start": 375.27,
+      "duration": 2.22,
+      "text": "but Cantor wasn't discouraged.",
+      "en": "but Cantor wasn't discouraged.",
+      "zh": ""
+    },
+    {
+      "start": 377.49,
+      "duration": 3.51,
+      "text": "His success only spurred him to pursue his even grander goal",
+      "en": "His success only spurred him to pursue his even grander goal",
+      "zh": ""
+    },
+    {
+      "start": 381.0,
+      "duration": 3.21,
+      "text": "to show that even uncountably infinite sets could be placed",
+      "en": "to show that even uncountably infinite sets could be placed",
+      "zh": ""
+    },
+    {
+      "start": 384.21,
+      "duration": 1.56,
+      "text": "in a definitive order.",
+      "en": "in a definitive order.",
+      "zh": ""
+    },
+    {
+      "start": 385.77,
+      "duration": 2.28,
+      "text": "What Cantor called a well-order.",
+      "en": "What Cantor called a well-order.",
+      "zh": ""
+    },
+    {
+      "start": 389.37,
+      "duration": 4.11,
+      "text": "For a set to be well ordered, he required two conditions.",
+      "en": "For a set to be well ordered, he required two conditions.",
+      "zh": ""
+    },
+    {
+      "start": 393.48,
+      "duration": 3.42,
+      "text": "First, the set must have a clear starting point.",
+      "en": "First, the set must have a clear starting point.",
+      "zh": ""
+    },
+    {
+      "start": 396.9,
+      "duration": 3.06,
+      "text": "And second, every subset, a collection of items",
+      "en": "And second, every subset, a collection of items",
+      "zh": ""
+    },
+    {
+      "start": 399.96,
+      "duration": 4.35,
+      "text": "from that set, must also have a clear starting point.",
+      "en": "from that set, must also have a clear starting point.",
+      "zh": ""
+    },
+    {
+      "start": 404.31,
+      "duration": 3.21,
+      "text": "So for example, the natural numbers are well ordered,",
+      "en": "So for example, the natural numbers are well ordered,",
+      "zh": ""
+    },
+    {
+      "start": 407.52,
+      "duration": 1.68,
+      "text": "there's a starting point, one,",
+      "en": "there's a starting point, one,",
+      "zh": ""
+    },
+    {
+      "start": 409.2,
+      "duration": 2.67,
+      "text": "and any subset, say six, seven, eight,",
+      "en": "and any subset, say six, seven, eight,",
+      "zh": ""
+    },
+    {
+      "start": 411.87,
+      "duration": 2.01,
+      "text": "also has a clear starting point.",
+      "en": "also has a clear starting point.",
+      "zh": ""
+    },
+    {
+      "start": 413.88,
+      "duration": 3.81,
+      "text": "In this case, six, you always know which number comes before",
+      "en": "In this case, six, you always know which number comes before",
+      "zh": ""
+    },
+    {
+      "start": 417.69,
+      "duration": 1.41,
+      "text": "and which comes next.",
+      "en": "and which comes next.",
+      "zh": ""
+    },
+    {
+      "start": 421.05,
+      "duration": 1.8,
+      "text": "But what about the integers?",
+      "en": "But what about the integers?",
+      "zh": ""
+    },
+    {
+      "start": 422.85,
+      "duration": 2.85,
+      "text": "Integers stretch off to infinity in both the positive",
+      "en": "Integers stretch off to infinity in both the positive",
+      "zh": ""
+    },
+    {
+      "start": 425.7,
+      "duration": 1.86,
+      "text": "and negative directions.",
+      "en": "and negative directions.",
+      "zh": ""
+    },
+    {
+      "start": 427.56,
+      "duration": 3.09,
+      "text": "Well Cantor realized he could just pick zero",
+      "en": "Well Cantor realized he could just pick zero",
+      "zh": ""
+    },
+    {
+      "start": 430.65,
+      "duration": 1.41,
+      "text": "as the starting point",
+      "en": "as the starting point",
+      "zh": ""
+    },
+    {
+      "start": 432.06,
+      "duration": 4.14,
+      "text": "and from there his ordering went one, negative one, two,",
+      "en": "and from there his ordering went one, negative one, two,",
+      "zh": ""
+    },
+    {
+      "start": 436.2,
+      "duration": 3.72,
+      "text": "negative two, ranking the integers by their absolute value,",
+      "en": "negative two, ranking the integers by their absolute value,",
+      "zh": ""
+    },
+    {
+      "start": 439.92,
+      "duration": 1.95,
+      "text": "their distance from zero.",
+      "en": "their distance from zero.",
+      "zh": ""
+    },
+    {
+      "start": 441.87,
+      "duration": 2.1,
+      "text": "It doesn't matter if you put the positives first",
+      "en": "It doesn't matter if you put the positives first",
+      "zh": ""
+    },
+    {
+      "start": 443.97,
+      "duration": 3.12,
+      "text": "or the negatives first, as long as you are consistent.",
+      "en": "or the negatives first, as long as you are consistent.",
+      "zh": ""
+    },
+    {
+      "start": 447.09,
+      "duration": 2.22,
+      "text": "Ordering them this way is actually what allows us",
+      "en": "Ordering them this way is actually what allows us",
+      "zh": ""
+    },
+    {
+      "start": 449.31,
+      "duration": 2.52,
+      "text": "to map the integers to the natural numbers",
+      "en": "to map the integers to the natural numbers",
+      "zh": ""
+    },
+    {
+      "start": 451.83,
+      "duration": 3.0,
+      "text": "and see that both sets are the same size,",
+      "en": "and see that both sets are the same size,",
+      "zh": ""
+    },
+    {
+      "start": 454.83,
+      "duration": 3.09,
+      "text": "but there are other ways we could well order the integers.",
+      "en": "but there are other ways we could well order the integers.",
+      "zh": ""
+    },
+    {
+      "start": 457.92,
+      "duration": 1.26,
+      "text": "We could start with zero",
+      "en": "We could start with zero",
+      "zh": ""
+    },
+    {
+      "start": 459.18,
+      "duration": 1.62,
+      "text": "and then have one, two, three,",
+      "en": "and then have one, two, three,",
+      "zh": ""
+    },
+    {
+      "start": 460.8,
+      "duration": 1.95,
+      "text": "all the way to positive infinity",
+      "en": "all the way to positive infinity",
+      "zh": ""
+    },
+    {
+      "start": 462.75,
+      "duration": 2.67,
+      "text": "and then negative one, negative two, negative three,",
+      "en": "and then negative one, negative two, negative three,",
+      "zh": ""
+    },
+    {
+      "start": 465.42,
+      "duration": 2.82,
+      "text": "all the way to negative infinity.",
+      "en": "all the way to negative infinity.",
+      "zh": ""
+    },
+    {
+      "start": 468.24,
+      "duration": 2.4,
+      "text": "This is not how we're used to counting,",
+      "en": "This is not how we're used to counting,",
+      "zh": ""
+    },
+    {
+      "start": 470.64,
+      "duration": 2.37,
+      "text": "but both of these options fit the definition",
+      "en": "but both of these options fit the definition",
+      "zh": ""
+    },
+    {
+      "start": 473.01,
+      "duration": 1.41,
+      "text": "of a well ordering.",
+      "en": "of a well ordering.",
+      "zh": ""
+    },
+    {
+      "start": 474.42,
+      "duration": 2.16,
+      "text": "There's a clear starting point, zero,",
+      "en": "There's a clear starting point, zero,",
+      "zh": ""
+    },
+    {
+      "start": 476.58,
+      "duration": 3.69,
+      "text": "and all their subsets also have a definitive starting point.",
+      "en": "and all their subsets also have a definitive starting point.",
+      "zh": ""
+    },
+    {
+      "start": 481.8,
+      "duration": 2.85,
+      "text": "Cantor had successfully well ordered a set",
+      "en": "Cantor had successfully well ordered a set",
+      "zh": ""
+    },
+    {
+      "start": 484.65,
+      "duration": 2.52,
+      "text": "that was infinite in both directions,",
+      "en": "that was infinite in both directions,",
+      "zh": ""
+    },
+    {
+      "start": 487.17,
+      "duration": 2.43,
+      "text": "but it was only countably infinite.",
+      "en": "but it was only countably infinite.",
+      "zh": ""
+    },
+    {
+      "start": 489.6,
+      "duration": 3.93,
+      "text": "In his next book, he published his well ordering theorem.",
+      "en": "In his next book, he published his well ordering theorem.",
+      "zh": ""
+    },
+    {
+      "start": 493.53,
+      "duration": 1.8,
+      "text": "It claimed that every set,",
+      "en": "It claimed that every set,",
+      "zh": ""
+    },
+    {
+      "start": 495.33,
+      "duration": 3.27,
+      "text": "even the uncountably infinite ones like the real numbers",
+      "en": "even the uncountably infinite ones like the real numbers",
+      "zh": ""
+    },
+    {
+      "start": 498.6,
+      "duration": 1.53,
+      "text": "could be well ordered.",
+      "en": "could be well ordered.",
+      "zh": ""
+    },
+    {
+      "start": 501.45,
+      "duration": 3.45,
+      "text": "The problem was he hadn't actually proven this",
+      "en": "The problem was he hadn't actually proven this",
+      "zh": ""
+    },
+    {
+      "start": 504.9,
+      "duration": 4.17,
+      "text": "because he couldn't, every method he tried had failed,",
+      "en": "because he couldn't, every method he tried had failed,",
+      "zh": ""
+    },
+    {
+      "start": 510.45,
+      "duration": 1.95,
+      "text": "but there was one big reason that Cantor",
+      "en": "but there was one big reason that Cantor",
+      "zh": ""
+    },
+    {
+      "start": 512.4,
+      "duration": 2.16,
+      "text": "was so confident in his theorem.",
+      "en": "was so confident in his theorem.",
+      "zh": ""
+    },
+    {
+      "start": 514.56,
+      "duration": 2.07,
+      "text": "Cantor was a devout Lutheran",
+      "en": "Cantor was a devout Lutheran",
+      "zh": ""
+    },
+    {
+      "start": 516.63,
+      "duration": 3.81,
+      "text": "and he believed God was speaking through him.",
+      "en": "and he believed God was speaking through him.",
+      "zh": ""
+    },
+    {
+      "start": 520.44,
+      "duration": 3.54,
+      "text": "He said, my theory stands as firm as a rock.",
+      "en": "He said, my theory stands as firm as a rock.",
+      "zh": ""
+    },
+    {
+      "start": 523.98,
+      "duration": 2.58,
+      "text": "Every arrow directed against it will return",
+      "en": "Every arrow directed against it will return",
+      "zh": ""
+    },
+    {
+      "start": 526.56,
+      "duration": 1.89,
+      "text": "quickly to its archer.",
+      "en": "quickly to its archer.",
+      "zh": ""
+    },
+    {
+      "start": 528.45,
+      "duration": 1.17,
+      "text": "How do I know this?",
+      "en": "How do I know this?",
+      "zh": ""
+    },
+    {
+      "start": 529.62,
+      "duration": 3.6,
+      "text": "Because I have studied it from all sides for many years",
+      "en": "Because I have studied it from all sides for many years",
+      "zh": ""
+    },
+    {
+      "start": 533.22,
+      "duration": 3.48,
+      "text": "and above all because I have followed its roots so to speak,",
+      "en": "and above all because I have followed its roots so to speak,",
+      "zh": ""
+    },
+    {
+      "start": 536.7,
+      "duration": 3.99,
+      "text": "to the first infallible cause of all created things.",
+      "en": "to the first infallible cause of all created things.",
+      "zh": ""
+    },
+    {
+      "start": 541.53,
+      "duration": 3.36,
+      "text": "Belief notwithstanding, the well ordering theorem",
+      "en": "Belief notwithstanding, the well ordering theorem",
+      "zh": ""
+    },
+    {
+      "start": 544.89,
+      "duration": 1.23,
+      "text": "was a lofty claim",
+      "en": "was a lofty claim",
+      "zh": ""
+    },
+    {
+      "start": 546.12,
+      "duration": 2.7,
+      "text": "to make without any mathematical proof.",
+      "en": "to make without any mathematical proof.",
+      "zh": ""
+    },
+    {
+      "start": 548.82,
+      "duration": 2.25,
+      "text": "And so for the second time,",
+      "en": "And so for the second time,",
+      "zh": ""
+    },
+    {
+      "start": 551.07,
+      "duration": 2.13,
+      "text": "the mathematical community attacked",
+      "en": "the mathematical community attacked",
+      "zh": ""
+    },
+    {
+      "start": 553.2,
+      "duration": 1.8,
+      "text": "and ostracized Cantor.",
+      "en": "and ostracized Cantor.",
+      "zh": ""
+    },
+    {
+      "start": 555.99,
+      "duration": 2.4,
+      "text": "Leading the charge was Leopold Kronecker,",
+      "en": "Leading the charge was Leopold Kronecker,",
+      "zh": ""
+    },
+    {
+      "start": 558.39,
+      "duration": 2.88,
+      "text": "the head of mathematics at the University of Berlin.",
+      "en": "the head of mathematics at the University of Berlin.",
+      "zh": ""
+    },
+    {
+      "start": 561.27,
+      "duration": 3.39,
+      "text": "Kronecker completely dismissed Cantor's work, labeling him",
+      "en": "Kronecker completely dismissed Cantor's work, labeling him",
+      "zh": ""
+    },
+    {
+      "start": 564.66,
+      "duration": 3.24,
+      "text": "a scientific charlatan and a corrupter of the youth.",
+      "en": "a scientific charlatan and a corrupter of the youth.",
+      "zh": ""
+    },
+    {
+      "start": 568.89,
+      "duration": 2.97,
+      "text": "And Kronecker used to be Cantor's teacher.",
+      "en": "And Kronecker used to be Cantor's teacher.",
+      "zh": ""
+    },
+    {
+      "start": 571.86,
+      "duration": 3.45,
+      "text": "Cantor dreamed of joining him at the University of Berlin,",
+      "en": "Cantor dreamed of joining him at the University of Berlin,",
+      "zh": ""
+    },
+    {
+      "start": 575.31,
+      "duration": 3.93,
+      "text": "but all his applications were mysteriously denied.",
+      "en": "but all his applications were mysteriously denied.",
+      "zh": ""
+    },
+    {
+      "start": 579.24,
+      "duration": 2.82,
+      "text": "So Cantor took the rejection personally.",
+      "en": "So Cantor took the rejection personally.",
+      "zh": ""
+    },
+    {
+      "start": 582.06,
+      "duration": 3.6,
+      "text": "In 1884, he wrote 52 letters to a friend",
+      "en": "In 1884, he wrote 52 letters to a friend",
+      "zh": ""
+    },
+    {
+      "start": 585.66,
+      "duration": 3.75,
+      "text": "and every one of them bemoaned Kronecker.",
+      "en": "and every one of them bemoaned Kronecker.",
+      "zh": ""
+    },
+    {
+      "start": 589.41,
+      "duration": 2.19,
+      "text": "Soon Cantor suffered what would be the first",
+      "en": "Soon Cantor suffered what would be the first",
+      "zh": ""
+    },
+    {
+      "start": 591.6,
+      "duration": 1.89,
+      "text": "of many nervous breakdowns.",
+      "en": "of many nervous breakdowns.",
+      "zh": ""
+    },
+    {
+      "start": 593.49,
+      "duration": 2.82,
+      "text": "He was confined to a sanitarium for recovery.",
+      "en": "He was confined to a sanitarium for recovery.",
+      "zh": ""
+    },
+    {
+      "start": 597.69,
+      "duration": 2.76,
+      "text": "The only way he could prove everyone wrong",
+      "en": "The only way he could prove everyone wrong",
+      "zh": ""
+    },
+    {
+      "start": 600.45,
+      "duration": 2.61,
+      "text": "was by well ordering the real numbers,",
+      "en": "was by well ordering the real numbers,",
+      "zh": ""
+    },
+    {
+      "start": 603.06,
+      "duration": 3.21,
+      "text": "but he couldn't find a starting point, literally.",
+      "en": "but he couldn't find a starting point, literally.",
+      "zh": ""
+    },
+    {
+      "start": 607.29,
+      "duration": 2.19,
+      "text": "Once Cantor was released from the sanatorium,",
+      "en": "Once Cantor was released from the sanatorium,",
+      "zh": ""
+    },
+    {
+      "start": 609.48,
+      "duration": 2.85,
+      "text": "he stepped away from math, a broken man.",
+      "en": "he stepped away from math, a broken man.",
+      "zh": ""
+    },
+    {
+      "start": 612.33,
+      "duration": 2.85,
+      "text": "And over the next 15 years he taught philosophy",
+      "en": "And over the next 15 years he taught philosophy",
+      "zh": ""
+    },
+    {
+      "start": 615.18,
+      "duration": 2.67,
+      "text": "and rarely dabbled in his old pursuits.",
+      "en": "and rarely dabbled in his old pursuits.",
+      "zh": ""
+    },
+    {
+      "start": 618.72,
+      "duration": 1.71,
+      "text": "Perhaps his greatest challenge came",
+      "en": "Perhaps his greatest challenge came",
+      "zh": ""
+    },
+    {
+      "start": 620.43,
+      "duration": 3.3,
+      "text": "at the 1904 International Congress of mathematicians.",
+      "en": "at the 1904 International Congress of mathematicians.",
+      "zh": ""
+    },
+    {
+      "start": 623.73,
+      "duration": 3.39,
+      "text": "There, Julius König, a respected professor from Budapest,",
+      "en": "There, Julius König, a respected professor from Budapest,",
+      "zh": ""
+    },
+    {
+      "start": 627.12,
+      "duration": 1.71,
+      "text": "announced he had proof",
+      "en": "announced he had proof",
+      "zh": ""
+    },
+    {
+      "start": 628.83,
+      "duration": 3.6,
+      "text": "that Cantor's well ordering theorem was wrong.",
+      "en": "that Cantor's well ordering theorem was wrong.",
+      "zh": ""
+    },
+    {
+      "start": 632.43,
+      "duration": 2.28,
+      "text": "In the audience was not only Cantor",
+      "en": "In the audience was not only Cantor",
+      "zh": ""
+    },
+    {
+      "start": 634.71,
+      "duration": 4.74,
+      "text": "but also his wife, two of his daughters and his colleagues.",
+      "en": "but also his wife, two of his daughters and his colleagues.",
+      "zh": ""
+    },
+    {
+      "start": 639.45,
+      "duration": 2.31,
+      "text": "He felt utterly humiliated,",
+      "en": "He felt utterly humiliated,",
+      "zh": ""
+    },
+    {
+      "start": 642.6,
+      "duration": 3.12,
+      "text": "but there was also another in attendance.",
+      "en": "but there was also another in attendance.",
+      "zh": ""
+    },
+    {
+      "start": 645.72,
+      "duration": 1.61,
+      "text": "Ernst Zermelo.",
+      "en": "Ernst Zermelo.",
+      "zh": ""
+    },
+    {
+      "start": 647.33,
+      "duration": 1.93,
+      "text": "Zermelo was a German mathematician",
+      "en": "Zermelo was a German mathematician",
+      "zh": ""
+    },
+    {
+      "start": 649.26,
+      "duration": 3.45,
+      "text": "who had recently developed a keen interest in Cantor's work",
+      "en": "who had recently developed a keen interest in Cantor's work",
+      "zh": ""
+    },
+    {
+      "start": 652.71,
+      "duration": 2.37,
+      "text": "and as he listened to König's presentation,",
+      "en": "and as he listened to König's presentation,",
+      "zh": ""
+    },
+    {
+      "start": 655.08,
+      "duration": 2.04,
+      "text": "something felt off.",
+      "en": "something felt off.",
+      "zh": ""
+    },
+    {
+      "start": 657.12,
+      "duration": 3.93,
+      "text": "Within 24 hours, Zermelo had pinpointed the problem.",
+      "en": "Within 24 hours, Zermelo had pinpointed the problem.",
+      "zh": ""
+    },
+    {
+      "start": 661.05,
+      "duration": 2.79,
+      "text": "König's proof contained a damning contradiction,",
+      "en": "König's proof contained a damning contradiction,",
+      "zh": ""
+    },
+    {
+      "start": 665.01,
+      "duration": 3.0,
+      "text": "and within a month, Zermello published a three-page article",
+      "en": "and within a month, Zermello published a three-page article",
+      "zh": ""
+    },
+    {
+      "start": 668.01,
+      "duration": 4.11,
+      "text": "titled \"Proof That Every Set Can Be Well-Ordered\"",
+      "en": "titled \"Proof That Every Set Can Be Well-Ordered\"",
+      "zh": ""
+    },
+    {
+      "start": 672.12,
+      "duration": 1.77,
+      "text": "and it was flawless.",
+      "en": "and it was flawless.",
+      "zh": ""
+    },
+    {
+      "start": 675.39,
+      "duration": 2.25,
+      "text": "Zermelo's breakthrough came when he discovered something",
+      "en": "Zermelo's breakthrough came when he discovered something",
+      "zh": ""
+    },
+    {
+      "start": 677.64,
+      "duration": 2.22,
+      "text": "profound in Cantor's work,",
+      "en": "profound in Cantor's work,",
+      "zh": ""
+    },
+    {
+      "start": 679.86,
+      "duration": 2.97,
+      "text": "a mechanism which Cantor uses unconsciously",
+      "en": "a mechanism which Cantor uses unconsciously",
+      "zh": ""
+    },
+    {
+      "start": 682.83,
+      "duration": 1.89,
+      "text": "and instinctively everywhere,",
+      "en": "and instinctively everywhere,",
+      "zh": ""
+    },
+    {
+      "start": 684.72,
+      "duration": 3.48,
+      "text": "but formulates explicitly nowhere.",
+      "en": "but formulates explicitly nowhere.",
+      "zh": ""
+    },
+    {
+      "start": 688.2,
+      "duration": 2.28,
+      "text": "See, all along, Cantor had been assuming",
+      "en": "See, all along, Cantor had been assuming",
+      "zh": ""
+    },
+    {
+      "start": 690.48,
+      "duration": 1.86,
+      "text": "that he could make an infinite number",
+      "en": "that he could make an infinite number",
+      "zh": ""
+    },
+    {
+      "start": 692.34,
+      "duration": 2.46,
+      "text": "of choices at once from any set,",
+      "en": "of choices at once from any set,",
+      "zh": ""
+    },
+    {
+      "start": 694.8,
+      "duration": 3.18,
+      "text": "including uncountable infinite sets like the real numbers,",
+      "en": "including uncountable infinite sets like the real numbers,",
+      "zh": ""
+    },
+    {
+      "start": 697.98,
+      "duration": 2.46,
+      "text": "but this was just an assumption.",
+      "en": "but this was just an assumption.",
+      "zh": ""
+    },
+    {
+      "start": 700.44,
+      "duration": 2.34,
+      "text": "Nowhere in the mathematical rule book",
+      "en": "Nowhere in the mathematical rule book",
+      "zh": ""
+    },
+    {
+      "start": 702.78,
+      "duration": 2.16,
+      "text": "was this explicitly permitted",
+      "en": "was this explicitly permitted",
+      "zh": ""
+    },
+    {
+      "start": 704.94,
+      "duration": 3.45,
+      "text": "and math is built on rules, specifically axioms.",
+      "en": "and math is built on rules, specifically axioms.",
+      "zh": ""
+    },
+    {
+      "start": 708.39,
+      "duration": 2.37,
+      "text": "Axioms are simple statements we accept",
+      "en": "Axioms are simple statements we accept",
+      "zh": ""
+    },
+    {
+      "start": 710.76,
+      "duration": 1.86,
+      "text": "as true without proof.",
+      "en": "as true without proof.",
+      "zh": ""
+    },
+    {
+      "start": 712.62,
+      "duration": 2.31,
+      "text": "Zermelo realized Cantor's assumption needed",
+      "en": "Zermelo realized Cantor's assumption needed",
+      "zh": ""
+    },
+    {
+      "start": 714.93,
+      "duration": 1.47,
+      "text": "to be formalized into something",
+      "en": "to be formalized into something",
+      "zh": ""
+    },
+    {
+      "start": 716.4,
+      "duration": 2.85,
+      "text": "that holds up in a system of proof.",
+      "en": "that holds up in a system of proof.",
+      "zh": ""
+    },
+    {
+      "start": 719.25,
+      "duration": 2.49,
+      "text": "A new axiom that said, making all",
+      "en": "A new axiom that said, making all",
+      "zh": ""
+    },
+    {
+      "start": 721.74,
+      "duration": 2.31,
+      "text": "of those choices was possible.",
+      "en": "of those choices was possible.",
+      "zh": ""
+    },
+    {
+      "start": 724.05,
+      "duration": 3.72,
+      "text": "He needed the axiom of choice.",
+      "en": "He needed the axiom of choice.",
+      "zh": ""
+    },
+    {
+      "start": 727.77,
+      "duration": 1.83,
+      "text": "- The axiom of choice can be said in the sense",
+      "en": "- The axiom of choice can be said in the sense",
+      "zh": ""
+    },
+    {
+      "start": 729.6,
+      "duration": 1.59,
+      "text": "that if you have infinitely many sets",
+      "en": "that if you have infinitely many sets",
+      "zh": ""
+    },
+    {
+      "start": 731.19,
+      "duration": 2.1,
+      "text": "and each set is not empty, then there is a way",
+      "en": "and each set is not empty, then there is a way",
+      "zh": ""
+    },
+    {
+      "start": 733.29,
+      "duration": 2.85,
+      "text": "to choose one element from each of the sets.",
+      "en": "to choose one element from each of the sets.",
+      "zh": ""
+    },
+    {
+      "start": 736.14,
+      "duration": 3.15,
+      "text": "- For finite sets, this seems obvious,",
+      "en": "- For finite sets, this seems obvious,",
+      "zh": ""
+    },
+    {
+      "start": 739.29,
+      "duration": 2.88,
+      "text": "just go set by set and pick something.",
+      "en": "just go set by set and pick something.",
+      "zh": ""
+    },
+    {
+      "start": 742.17,
+      "duration": 3.81,
+      "text": "Even for infinite sets, it's easy if there's a clear rule,",
+      "en": "Even for infinite sets, it's easy if there's a clear rule,",
+      "zh": ""
+    },
+    {
+      "start": 745.98,
+      "duration": 3.09,
+      "text": "like always choose the smallest thing,",
+      "en": "like always choose the smallest thing,",
+      "zh": ""
+    },
+    {
+      "start": 749.07,
+      "duration": 2.76,
+      "text": "but sometimes there is no natural rule.",
+      "en": "but sometimes there is no natural rule.",
+      "zh": ""
+    },
+    {
+      "start": 751.83,
+      "duration": 1.92,
+      "text": "In those cases when you're choosing",
+      "en": "In those cases when you're choosing",
+      "zh": ""
+    },
+    {
+      "start": 753.75,
+      "duration": 1.8,
+      "text": "from infinitely many sets,",
+      "en": "from infinitely many sets,",
+      "zh": ""
+    },
+    {
+      "start": 755.55,
+      "duration": 1.59,
+      "text": "including the uncountable ones,",
+      "en": "including the uncountable ones,",
+      "zh": ""
+    },
+    {
+      "start": 757.14,
+      "duration": 2.1,
+      "text": "you need the axiom of choice.",
+      "en": "you need the axiom of choice.",
+      "zh": ""
+    },
+    {
+      "start": 759.24,
+      "duration": 1.8,
+      "text": "We can't say how we're choosing,",
+      "en": "We can't say how we're choosing,",
+      "zh": ""
+    },
+    {
+      "start": 761.04,
+      "duration": 4.32,
+      "text": "but the axiom makes all of these choices all at once.",
+      "en": "but the axiom makes all of these choices all at once.",
+      "zh": ""
+    },
+    {
+      "start": 765.36,
+      "duration": 1.38,
+      "text": "The axiom doesn't allow you",
+      "en": "The axiom doesn't allow you",
+      "zh": ""
+    },
+    {
+      "start": 766.74,
+      "duration": 2.31,
+      "text": "to say which element you've chosen,",
+      "en": "to say which element you've chosen,",
+      "zh": ""
+    },
+    {
+      "start": 769.05,
+      "duration": 3.81,
+      "text": "only that infinitely many choices are possible.",
+      "en": "only that infinitely many choices are possible.",
+      "zh": ""
+    },
+    {
+      "start": 772.86,
+      "duration": 2.37,
+      "text": "So how does this new axiom enable us",
+      "en": "So how does this new axiom enable us",
+      "zh": ""
+    },
+    {
+      "start": 775.23,
+      "duration": 2.19,
+      "text": "to well order the real numbers.",
+      "en": "to well order the real numbers.",
+      "zh": ""
+    },
+    {
+      "start": 778.65,
+      "duration": 2.01,
+      "text": "Zermelo uses the axiom of choice",
+      "en": "Zermelo uses the axiom of choice",
+      "zh": ""
+    },
+    {
+      "start": 780.66,
+      "duration": 2.76,
+      "text": "to choose a number from the set of all real numbers.",
+      "en": "to choose a number from the set of all real numbers.",
+      "zh": ""
+    },
+    {
+      "start": 783.42,
+      "duration": 4.08,
+      "text": "He places this number, let's call it X1 into a new set, R.",
+      "en": "He places this number, let's call it X1 into a new set, R.",
+      "zh": ""
+    },
+    {
+      "start": 787.5,
+      "duration": 1.8,
+      "text": "The axiom then allows him",
+      "en": "The axiom then allows him",
+      "zh": ""
+    },
+    {
+      "start": 789.3,
+      "duration": 1.95,
+      "text": "to choose another number from the subset",
+      "en": "to choose another number from the subset",
+      "zh": ""
+    },
+    {
+      "start": 791.25,
+      "duration": 2.4,
+      "text": "of all reals minus the one taken out.",
+      "en": "of all reals minus the one taken out.",
+      "zh": ""
+    },
+    {
+      "start": 793.65,
+      "duration": 1.47,
+      "text": "He calls this number X2",
+      "en": "He calls this number X2",
+      "zh": ""
+    },
+    {
+      "start": 795.12,
+      "duration": 3.06,
+      "text": "and places it as the next number in his set",
+      "en": "and places it as the next number in his set",
+      "zh": ""
+    },
+    {
+      "start": 798.18,
+      "duration": 2.43,
+      "text": "and he keeps doing this, taking the chosen number",
+      "en": "and he keeps doing this, taking the chosen number",
+      "zh": ""
+    },
+    {
+      "start": 800.61,
+      "duration": 3.6,
+      "text": "and placing it next, X3, X4, X5.",
+      "en": "and placing it next, X3, X4, X5.",
+      "zh": ""
+    },
+    {
+      "start": 804.21,
+      "duration": 2.73,
+      "text": "Now it feels like he's choosing these numbers one at a time,",
+      "en": "Now it feels like he's choosing these numbers one at a time,",
+      "zh": ""
+    },
+    {
+      "start": 806.94,
+      "duration": 2.34,
+      "text": "but in reality the choices are made",
+      "en": "but in reality the choices are made",
+      "zh": ""
+    },
+    {
+      "start": 809.28,
+      "duration": 3.6,
+      "text": "from all possible subsets at the same time.",
+      "en": "from all possible subsets at the same time.",
+      "zh": ""
+    },
+    {
+      "start": 812.88,
+      "duration": 3.18,
+      "text": "As Zermelo indexes each number with the natural numbers,",
+      "en": "As Zermelo indexes each number with the natural numbers,",
+      "zh": ""
+    },
+    {
+      "start": 816.06,
+      "duration": 2.91,
+      "text": "at first it might seem like he'd run into a problem",
+      "en": "at first it might seem like he'd run into a problem",
+      "zh": ""
+    },
+    {
+      "start": 818.97,
+      "duration": 3.24,
+      "text": "because the natural numbers are only accountably infinite,",
+      "en": "because the natural numbers are only accountably infinite,",
+      "zh": ""
+    },
+    {
+      "start": 822.21,
+      "duration": 2.04,
+      "text": "whereas there are way more reals.",
+      "en": "whereas there are way more reals.",
+      "zh": ""
+    },
+    {
+      "start": 824.25,
+      "duration": 2.79,
+      "text": "So he should eventually run out of labels,",
+      "en": "So he should eventually run out of labels,",
+      "zh": ""
+    },
+    {
+      "start": 827.04,
+      "duration": 2.79,
+      "text": "but we can count beyond infinity.",
+      "en": "but we can count beyond infinity.",
+      "zh": ""
+    },
+    {
+      "start": 829.83,
+      "duration": 2.76,
+      "text": "We did it earlier when we counted past positive infinity",
+      "en": "We did it earlier when we counted past positive infinity",
+      "zh": ""
+    },
+    {
+      "start": 832.59,
+      "duration": 2.43,
+      "text": "to get to negative one, negative two and so on.",
+      "en": "to get to negative one, negative two and so on.",
+      "zh": ""
+    },
+    {
+      "start": 836.22,
+      "duration": 1.95,
+      "text": "So we just need a new set of numbers",
+      "en": "So we just need a new set of numbers",
+      "zh": ""
+    },
+    {
+      "start": 838.17,
+      "duration": 4.41,
+      "text": "that extends past the naturals, call the next number omega,",
+      "en": "that extends past the naturals, call the next number omega,",
+      "zh": ""
+    },
+    {
+      "start": 842.58,
+      "duration": 3.51,
+      "text": "then omega plus one, omega plus two, and so on.",
+      "en": "then omega plus one, omega plus two, and so on.",
+      "zh": ""
+    },
+    {
+      "start": 846.09,
+      "duration": 3.39,
+      "text": "These omega numbers are not bigger than infinity.",
+      "en": "These omega numbers are not bigger than infinity.",
+      "zh": ""
+    },
+    {
+      "start": 849.48,
+      "duration": 2.52,
+      "text": "They just come after infinity.",
+      "en": "They just come after infinity.",
+      "zh": ""
+    },
+    {
+      "start": 852.0,
+      "duration": 2.04,
+      "text": "They don't tell us how many things are there,",
+      "en": "They don't tell us how many things are there,",
+      "zh": ""
+    },
+    {
+      "start": 854.04,
+      "duration": 2.34,
+      "text": "but they do tell us their order.",
+      "en": "but they do tell us their order.",
+      "zh": ""
+    },
+    {
+      "start": 856.38,
+      "duration": 3.27,
+      "text": "So the next number we pull out, we'll label it X omega,",
+      "en": "So the next number we pull out, we'll label it X omega,",
+      "zh": ""
+    },
+    {
+      "start": 859.65,
+      "duration": 4.26,
+      "text": "then X omega plus one, X omega plus two, and so on.",
+      "en": "then X omega plus one, X omega plus two, and so on.",
+      "zh": ""
+    },
+    {
+      "start": 863.91,
+      "duration": 2.31,
+      "text": "This will continue until we match the size",
+      "en": "This will continue until we match the size",
+      "zh": ""
+    },
+    {
+      "start": 866.22,
+      "duration": 3.51,
+      "text": "of the real numbers and our original set is empty.",
+      "en": "of the real numbers and our original set is empty.",
+      "zh": ""
+    },
+    {
+      "start": 869.73,
+      "duration": 3.15,
+      "text": "Now every real number is in our new set.",
+      "en": "Now every real number is in our new set.",
+      "zh": ""
+    },
+    {
+      "start": 872.88,
+      "duration": 2.19,
+      "text": "There is a first number, X1,",
+      "en": "There is a first number, X1,",
+      "zh": ""
+    },
+    {
+      "start": 875.07,
+      "duration": 2.79,
+      "text": "and every subset also has a first number.",
+      "en": "and every subset also has a first number.",
+      "zh": ""
+    },
+    {
+      "start": 878.78,
+      "duration": 2.89,
+      "text": "And just like that, we have successfully well ordered",
+      "en": "And just like that, we have successfully well ordered",
+      "zh": ""
+    },
+    {
+      "start": 881.67,
+      "duration": 1.8,
+      "text": "the real numbers.",
+      "en": "the real numbers.",
+      "zh": ""
+    },
+    {
+      "start": 883.47,
+      "duration": 3.09,
+      "text": "This order looks nothing like our familiar ordering.",
+      "en": "This order looks nothing like our familiar ordering.",
+      "zh": ""
+    },
+    {
+      "start": 886.56,
+      "duration": 1.6,
+      "text": "A billion could come before 0.2,",
+      "en": "A billion could come before 0.2,",
+      "zh": ""
+    },
+    {
+      "start": 889.05,
+      "duration": 2.1,
+      "text": "but with this process, we can prove",
+      "en": "but with this process, we can prove",
+      "zh": ""
+    },
+    {
+      "start": 891.15,
+      "duration": 2.88,
+      "text": "that a well ordering exists.",
+      "en": "that a well ordering exists.",
+      "zh": ""
+    },
+    {
+      "start": 894.03,
+      "duration": 3.33,
+      "text": "And more than that, we now have a way to resolve our issue",
+      "en": "And more than that, we now have a way to resolve our issue",
+      "zh": ""
+    },
+    {
+      "start": 897.36,
+      "duration": 1.98,
+      "text": "of how to choose mathematically.",
+      "en": "of how to choose mathematically.",
+      "zh": ""
+    },
+    {
+      "start": 899.34,
+      "duration": 2.52,
+      "text": "We can't pick a smallest real number,",
+      "en": "We can't pick a smallest real number,",
+      "zh": ""
+    },
+    {
+      "start": 901.86,
+      "duration": 3.75,
+      "text": "but now we can pick a first real number, our starting point,",
+      "en": "but now we can pick a first real number, our starting point,",
+      "zh": ""
+    },
+    {
+      "start": 905.61,
+      "duration": 1.95,
+      "text": "and we can do this for any set,",
+      "en": "and we can do this for any set,",
+      "zh": ""
+    },
+    {
+      "start": 907.56,
+      "duration": 4.17,
+      "text": "meaning all sets can be well ordered no matter the infinity.",
+      "en": "meaning all sets can be well ordered no matter the infinity.",
+      "zh": ""
+    },
+    {
+      "start": 911.73,
+      "duration": 2.22,
+      "text": "So Cantor's well-ordering theorem",
+      "en": "So Cantor's well-ordering theorem",
+      "zh": ""
+    },
+    {
+      "start": 913.95,
+      "duration": 3.57,
+      "text": "and Zermelo's axiom of choice are equivalent.",
+      "en": "and Zermelo's axiom of choice are equivalent.",
+      "zh": ""
+    },
+    {
+      "start": 919.32,
+      "duration": 2.67,
+      "text": "Cantor was so relieved.",
+      "en": "Cantor was so relieved.",
+      "zh": ""
+    },
+    {
+      "start": 921.99,
+      "duration": 2.13,
+      "text": "Zermelo had proved the well-ordering theorem",
+      "en": "Zermelo had proved the well-ordering theorem",
+      "zh": ""
+    },
+    {
+      "start": 924.12,
+      "duration": 3.81,
+      "text": "and well ordered the real numbers all in under a month.",
+      "en": "and well ordered the real numbers all in under a month.",
+      "zh": ""
+    },
+    {
+      "start": 930.54,
+      "duration": 1.74,
+      "text": "Zermelo took something mathematicians",
+      "en": "Zermelo took something mathematicians",
+      "zh": ""
+    },
+    {
+      "start": 932.28,
+      "duration": 2.13,
+      "text": "had unknowingly relied on for decades",
+      "en": "had unknowingly relied on for decades",
+      "zh": ""
+    },
+    {
+      "start": 934.41,
+      "duration": 2.55,
+      "text": "and turned it into a formal axiom.",
+      "en": "and turned it into a formal axiom.",
+      "zh": ""
+    },
+    {
+      "start": 936.96,
+      "duration": 3.15,
+      "text": "He showed that understanding math isn't just about numbers,",
+      "en": "He showed that understanding math isn't just about numbers,",
+      "zh": ""
+    },
+    {
+      "start": 940.11,
+      "duration": 2.1,
+      "text": "it's about the logic behind them.",
+      "en": "it's about the logic behind them.",
+      "zh": ""
+    },
+    {
+      "start": 942.21,
+      "duration": 2.61,
+      "text": "And lately I've been trying to do a similar thing,",
+      "en": "And lately I've been trying to do a similar thing,",
+      "zh": ""
+    },
+    {
+      "start": 944.82,
+      "duration": 3.78,
+      "text": "but with AI where I'm trying to understand the logic behind",
+      "en": "but with AI where I'm trying to understand the logic behind",
+      "zh": ""
+    },
+    {
+      "start": 948.6,
+      "duration": 2.34,
+      "text": "how models like ChatGPT work,",
+      "en": "how models like ChatGPT work,",
+      "zh": ""
+    },
+    {
+      "start": 950.94,
+      "duration": 1.5,
+      "text": "and if you've also wanted to learn",
+      "en": "and if you've also wanted to learn",
+      "zh": ""
+    },
+    {
+      "start": 952.44,
+      "duration": 2.46,
+      "text": "how generative AI actually works,",
+      "en": "how generative AI actually works,",
+      "zh": ""
+    },
+    {
+      "start": 954.9,
+      "duration": 2.64,
+      "text": "well then you can do that with today's sponsor, Brilliant.",
+      "en": "well then you can do that with today's sponsor, Brilliant.",
+      "zh": ""
+    },
+    {
+      "start": 957.54,
+      "duration": 2.07,
+      "text": "Brilliant has just launched a great course",
+      "en": "Brilliant has just launched a great course",
+      "zh": ""
+    },
+    {
+      "start": 959.61,
+      "duration": 2.88,
+      "text": "that breaks all of this down with interactive visuals,",
+      "en": "that breaks all of this down with interactive visuals,",
+      "zh": ""
+    },
+    {
+      "start": 962.49,
+      "duration": 2.64,
+      "text": "which is exactly what I love about Brilliant.",
+      "en": "which is exactly what I love about Brilliant.",
+      "zh": ""
+    },
+    {
+      "start": 965.13,
+      "duration": 2.55,
+      "text": "The course builds your intuition for the math",
+      "en": "The course builds your intuition for the math",
+      "zh": ""
+    },
+    {
+      "start": 967.68,
+      "duration": 3.54,
+      "text": "and logic behind AI, exploring how models are trained",
+      "en": "and logic behind AI, exploring how models are trained",
+      "zh": ""
+    },
+    {
+      "start": 971.22,
+      "duration": 4.39,
+      "text": "to spot patterns, generate images, and even whip up a song.",
+      "en": "to spot patterns, generate images, and even whip up a song.",
+      "zh": ""
+    },
+    {
+      "start": 975.61,
+      "duration": 3.59,
+      "text": "♪ Strandbeest striding through the sand ♪",
+      "en": "♪ Strandbeest striding through the sand ♪",
+      "zh": ""
+    },
+    {
+      "start": 979.2,
+      "duration": 2.88,
+      "text": "Brilliant has thousands of interactive lessons in math,",
+      "en": "Brilliant has thousands of interactive lessons in math,",
+      "zh": ""
+    },
+    {
+      "start": 982.08,
+      "duration": 1.77,
+      "text": "science, programming, technology",
+      "en": "science, programming, technology",
+      "zh": ""
+    },
+    {
+      "start": 983.85,
+      "duration": 3.45,
+      "text": "and beyond, all designed to sharpen your thinking",
+      "en": "and beyond, all designed to sharpen your thinking",
+      "zh": ""
+    },
+    {
+      "start": 987.3,
+      "duration": 1.92,
+      "text": "and problem solving skills.",
+      "en": "and problem solving skills.",
+      "zh": ""
+    },
+    {
+      "start": 989.22,
+      "duration": 2.13,
+      "text": "And since each lesson is bite-sized,",
+      "en": "And since each lesson is bite-sized,",
+      "zh": ""
+    },
+    {
+      "start": 991.35,
+      "duration": 3.27,
+      "text": "you can jump in anywhere, anytime on your laptop",
+      "en": "you can jump in anywhere, anytime on your laptop",
+      "zh": ""
+    },
+    {
+      "start": 994.62,
+      "duration": 1.62,
+      "text": "or even on your phone.",
+      "en": "or even on your phone.",
+      "zh": ""
+    },
+    {
+      "start": 996.24,
+      "duration": 2.85,
+      "text": "So to try everything Brilliant has to offer for free",
+      "en": "So to try everything Brilliant has to offer for free",
+      "zh": ""
+    },
+    {
+      "start": 999.09,
+      "duration": 3.51,
+      "text": "for a full 30 days visit brilliant.org/veritasium,",
+      "en": "for a full 30 days visit brilliant.org/veritasium,",
+      "zh": ""
+    },
+    {
+      "start": 1002.6,
+      "duration": 1.65,
+      "text": "click that link in the description",
+      "en": "click that link in the description",
+      "zh": ""
+    },
+    {
+      "start": 1004.25,
+      "duration": 2.37,
+      "text": "or scan this handy QR code.",
+      "en": "or scan this handy QR code.",
+      "zh": ""
+    },
+    {
+      "start": 1006.62,
+      "duration": 2.91,
+      "text": "And if you sign up, you'll also get 20% off",
+      "en": "And if you sign up, you'll also get 20% off",
+      "zh": ""
+    },
+    {
+      "start": 1009.53,
+      "duration": 1.89,
+      "text": "their annual premium subscription.",
+      "en": "their annual premium subscription.",
+      "zh": ""
+    },
+    {
+      "start": 1011.42,
+      "duration": 2.58,
+      "text": "So I want to thank Brilliant for sponsoring this video.",
+      "en": "So I want to thank Brilliant for sponsoring this video.",
+      "zh": ""
+    },
+    {
+      "start": 1014.0,
+      "duration": 3.42,
+      "text": "And now back to the axiom of choice.",
+      "en": "And now back to the axiom of choice.",
+      "zh": ""
+    },
+    {
+      "start": 1017.42,
+      "duration": 2.76,
+      "text": "The axiom of choice may have been a new idea,",
+      "en": "The axiom of choice may have been a new idea,",
+      "zh": ""
+    },
+    {
+      "start": 1020.18,
+      "duration": 2.43,
+      "text": "but its use was anything but.",
+      "en": "but its use was anything but.",
+      "zh": ""
+    },
+    {
+      "start": 1022.61,
+      "duration": 2.91,
+      "text": "Zermelo scanned dozens of papers from other mathematicians",
+      "en": "Zermelo scanned dozens of papers from other mathematicians",
+      "zh": ""
+    },
+    {
+      "start": 1025.52,
+      "duration": 4.08,
+      "text": "and realized they had also been using the axiom all along,",
+      "en": "and realized they had also been using the axiom all along,",
+      "zh": ""
+    },
+    {
+      "start": 1029.6,
+      "duration": 2.61,
+      "text": "even those who had criticized Cantor's work.",
+      "en": "even those who had criticized Cantor's work.",
+      "zh": ""
+    },
+    {
+      "start": 1032.21,
+      "duration": 2.67,
+      "text": "- It just goes to show how unintuitive it is",
+      "en": "- It just goes to show how unintuitive it is",
+      "zh": ""
+    },
+    {
+      "start": 1034.88,
+      "duration": 1.86,
+      "text": "that it's even an axiom.",
+      "en": "that it's even an axiom.",
+      "zh": ""
+    },
+    {
+      "start": 1036.74,
+      "duration": 5.0,
+      "text": "People had been using it for like a decade, unknowingly.",
+      "en": "People had been using it for like a decade, unknowingly.",
+      "zh": ""
+    },
+    {
+      "start": 1041.87,
+      "duration": 2.73,
+      "text": "- But this almost seems too obvious.",
+      "en": "- But this almost seems too obvious.",
+      "zh": ""
+    },
+    {
+      "start": 1044.6,
+      "duration": 3.21,
+      "text": "Zermelo's proof didn't actually construct a well order.",
+      "en": "Zermelo's proof didn't actually construct a well order.",
+      "zh": ""
+    },
+    {
+      "start": 1047.81,
+      "duration": 2.4,
+      "text": "It just said one must exist,",
+      "en": "It just said one must exist,",
+      "zh": ""
+    },
+    {
+      "start": 1050.21,
+      "duration": 3.6,
+      "text": "but can something exist if we can't actually build it?",
+      "en": "but can something exist if we can't actually build it?",
+      "zh": ""
+    },
+    {
+      "start": 1053.81,
+      "duration": 3.6,
+      "text": "His proof also used an uncountable number of steps,",
+      "en": "His proof also used an uncountable number of steps,",
+      "zh": ""
+    },
+    {
+      "start": 1057.41,
+      "duration": 1.89,
+      "text": "was that even allowed?",
+      "en": "was that even allowed?",
+      "zh": ""
+    },
+    {
+      "start": 1059.3,
+      "duration": 3.09,
+      "text": "Some mathematicians argued proofs should be finite,",
+      "en": "Some mathematicians argued proofs should be finite,",
+      "zh": ""
+    },
+    {
+      "start": 1062.39,
+      "duration": 3.81,
+      "text": "others accepted infinity, but only the countable kind",
+      "en": "others accepted infinity, but only the countable kind",
+      "zh": ""
+    },
+    {
+      "start": 1066.2,
+      "duration": 2.64,
+      "text": "and then things got worse.",
+      "en": "and then things got worse.",
+      "zh": ""
+    },
+    {
+      "start": 1069.83,
+      "duration": 2.88,
+      "text": "When mathematicians played around with the axiom of choice,",
+      "en": "When mathematicians played around with the axiom of choice,",
+      "zh": ""
+    },
+    {
+      "start": 1072.71,
+      "duration": 2.94,
+      "text": "it created disturbing results.",
+      "en": "it created disturbing results.",
+      "zh": ""
+    },
+    {
+      "start": 1075.65,
+      "duration": 3.75,
+      "text": "One of the first came from Giuseppe Vitali in 1905.",
+      "en": "One of the first came from Giuseppe Vitali in 1905.",
+      "zh": ""
+    },
+    {
+      "start": 1079.4,
+      "duration": 3.03,
+      "text": "Vitali used the axiom of choice to build a set of numbers",
+      "en": "Vitali used the axiom of choice to build a set of numbers",
+      "zh": ""
+    },
+    {
+      "start": 1082.43,
+      "duration": 2.46,
+      "text": "that shattered our idea of what it means",
+      "en": "that shattered our idea of what it means",
+      "zh": ""
+    },
+    {
+      "start": 1084.89,
+      "duration": 1.47,
+      "text": "for something to have length.",
+      "en": "for something to have length.",
+      "zh": ""
+    },
+    {
+      "start": 1087.23,
+      "duration": 3.63,
+      "text": "So what Vitali does is he takes every real number",
+      "en": "So what Vitali does is he takes every real number",
+      "zh": ""
+    },
+    {
+      "start": 1090.86,
+      "duration": 1.95,
+      "text": "between zero and one",
+      "en": "between zero and one",
+      "zh": ""
+    },
+    {
+      "start": 1092.81,
+      "duration": 4.59,
+      "text": "and assigns it to one of an infinite number of bins.",
+      "en": "and assigns it to one of an infinite number of bins.",
+      "zh": ""
+    },
+    {
+      "start": 1097.4,
+      "duration": 2.37,
+      "text": "Let's call these bins groups.",
+      "en": "Let's call these bins groups.",
+      "zh": ""
+    },
+    {
+      "start": 1099.77,
+      "duration": 4.59,
+      "text": "So we want each real number to end up in exactly one",
+      "en": "So we want each real number to end up in exactly one",
+      "zh": ""
+    },
+    {
+      "start": 1104.36,
+      "duration": 1.62,
+      "text": "of our infinite bins.",
+      "en": "of our infinite bins.",
+      "zh": ""
+    },
+    {
+      "start": 1105.98,
+      "duration": 1.68,
+      "text": "So how does he do it?",
+      "en": "So how does he do it?",
+      "zh": ""
+    },
+    {
+      "start": 1107.66,
+      "duration": 4.71,
+      "text": "Well, let's say we have two numbers, X and Y.",
+      "en": "Well, let's say we have two numbers, X and Y.",
+      "zh": ""
+    },
+    {
+      "start": 1112.37,
+      "duration": 3.87,
+      "text": "If their difference, X minus Y is equal",
+      "en": "If their difference, X minus Y is equal",
+      "zh": ""
+    },
+    {
+      "start": 1116.24,
+      "duration": 3.33,
+      "text": "to a rational, that is one integer",
+      "en": "to a rational, that is one integer",
+      "zh": ""
+    },
+    {
+      "start": 1119.57,
+      "duration": 3.63,
+      "text": "divided by another integer, well then both X",
+      "en": "divided by another integer, well then both X",
+      "zh": ""
+    },
+    {
+      "start": 1123.2,
+      "duration": 4.29,
+      "text": "and Y will go into the same bin.",
+      "en": "and Y will go into the same bin.",
+      "zh": ""
+    },
+    {
+      "start": 1127.49,
+      "duration": 4.17,
+      "text": "But if we have two other numbers, let's say P",
+      "en": "But if we have two other numbers, let's say P",
+      "zh": ""
+    },
+    {
+      "start": 1131.66,
+      "duration": 4.86,
+      "text": "and Q and their difference is not a rational,",
+      "en": "and Q and their difference is not a rational,",
+      "zh": ""
+    },
+    {
+      "start": 1136.52,
+      "duration": 2.16,
+      "text": "so it's an irrational difference,",
+      "en": "so it's an irrational difference,",
+      "zh": ""
+    },
+    {
+      "start": 1138.68,
+      "duration": 1.74,
+      "text": "well then those two numbers",
+      "en": "well then those two numbers",
+      "zh": ""
+    },
+    {
+      "start": 1140.42,
+      "duration": 4.05,
+      "text": "will go into separate bins.",
+      "en": "will go into separate bins.",
+      "zh": ""
+    },
+    {
+      "start": 1144.47,
+      "duration": 1.77,
+      "text": "So let's do some examples.",
+      "en": "So let's do some examples.",
+      "zh": ""
+    },
+    {
+      "start": 1146.24,
+      "duration": 3.78,
+      "text": "If this is 3/4 minus a half,",
+      "en": "If this is 3/4 minus a half,",
+      "zh": ""
+    },
+    {
+      "start": 1150.02,
+      "duration": 4.05,
+      "text": "then we get a quarter and so both 3/4 and a half",
+      "en": "then we get a quarter and so both 3/4 and a half",
+      "zh": ""
+    },
+    {
+      "start": 1154.07,
+      "duration": 3.03,
+      "text": "will go into the same bin.",
+      "en": "will go into the same bin.",
+      "zh": ""
+    },
+    {
+      "start": 1157.1,
+      "duration": 1.29,
+      "text": "In fact, you can see",
+      "en": "In fact, you can see",
+      "zh": ""
+    },
+    {
+      "start": 1158.39,
+      "duration": 3.81,
+      "text": "that all rational numbers from this span, zero to one,",
+      "en": "that all rational numbers from this span, zero to one,",
+      "zh": ""
+    },
+    {
+      "start": 1162.2,
+      "duration": 2.94,
+      "text": "they'll all end up in the same group.",
+      "en": "they'll all end up in the same group.",
+      "zh": ""
+    },
+    {
+      "start": 1165.14,
+      "duration": 2.4,
+      "text": "Now if you have irrational numbers,",
+      "en": "Now if you have irrational numbers,",
+      "zh": ""
+    },
+    {
+      "start": 1167.54,
+      "duration": 3.18,
+      "text": "well it's not clear whether they will go into the same bin",
+      "en": "well it's not clear whether they will go into the same bin",
+      "zh": ""
+    },
+    {
+      "start": 1170.72,
+      "duration": 1.56,
+      "text": "or not because for example,",
+      "en": "or not because for example,",
+      "zh": ""
+    },
+    {
+      "start": 1172.28,
+      "duration": 3.84,
+      "text": "if we have the number root two over two minus",
+      "en": "if we have the number root two over two minus",
+      "zh": ""
+    },
+    {
+      "start": 1176.12,
+      "duration": 3.87,
+      "text": "say root two over two minus a quarter, well then",
+      "en": "say root two over two minus a quarter, well then",
+      "zh": ""
+    },
+    {
+      "start": 1179.99,
+      "duration": 2.37,
+      "text": "that does have a rational difference even though",
+      "en": "that does have a rational difference even though",
+      "zh": ""
+    },
+    {
+      "start": 1182.36,
+      "duration": 2.28,
+      "text": "each of these numbers is irrational.",
+      "en": "each of these numbers is irrational.",
+      "zh": ""
+    },
+    {
+      "start": 1184.64,
+      "duration": 5.0,
+      "text": "So these two numbers will go into the same group,",
+      "en": "So these two numbers will go into the same group,",
+      "zh": ""
+    },
+    {
+      "start": 1189.71,
+      "duration": 3.51,
+      "text": "but if we have irrational numbers root two over two",
+      "en": "but if we have irrational numbers root two over two",
+      "zh": ""
+    },
+    {
+      "start": 1193.22,
+      "duration": 2.64,
+      "text": "minus root two over three,",
+      "en": "minus root two over three,",
+      "zh": ""
+    },
+    {
+      "start": 1195.86,
+      "duration": 1.83,
+      "text": "well that gives an irrational difference.",
+      "en": "well that gives an irrational difference.",
+      "zh": ""
+    },
+    {
+      "start": 1197.69,
+      "duration": 5.0,
+      "text": "So root two over three will have to go into a different bin",
+      "en": "So root two over three will have to go into a different bin",
+      "zh": ""
+    },
+    {
+      "start": 1202.73,
+      "duration": 2.61,
+      "text": "and it will be joined by all of the numbers",
+      "en": "and it will be joined by all of the numbers",
+      "zh": ""
+    },
+    {
+      "start": 1205.34,
+      "duration": 1.77,
+      "text": "it has a rational difference from.",
+      "en": "it has a rational difference from.",
+      "zh": ""
+    },
+    {
+      "start": 1207.11,
+      "duration": 3.45,
+      "text": "And in this way, you can assign each real number",
+      "en": "And in this way, you can assign each real number",
+      "zh": ""
+    },
+    {
+      "start": 1210.56,
+      "duration": 3.33,
+      "text": "to exactly one of these bins.",
+      "en": "to exactly one of these bins.",
+      "zh": ""
+    },
+    {
+      "start": 1213.89,
+      "duration": 2.79,
+      "text": "Next, Vitali used the axiom of choice",
+      "en": "Next, Vitali used the axiom of choice",
+      "zh": ""
+    },
+    {
+      "start": 1216.68,
+      "duration": 2.25,
+      "text": "to reach into each group",
+      "en": "to reach into each group",
+      "zh": ""
+    },
+    {
+      "start": 1218.93,
+      "duration": 2.52,
+      "text": "and select exactly one number,",
+      "en": "and select exactly one number,",
+      "zh": ""
+    },
+    {
+      "start": 1221.45,
+      "duration": 2.67,
+      "text": "which would be a representative of the group.",
+      "en": "which would be a representative of the group.",
+      "zh": ""
+    },
+    {
+      "start": 1224.12,
+      "duration": 3.09,
+      "text": "So we could pull out 3/4 from the rational group,",
+      "en": "So we could pull out 3/4 from the rational group,",
+      "zh": ""
+    },
+    {
+      "start": 1227.21,
+      "duration": 1.47,
+      "text": "root two over two from this group,",
+      "en": "root two over two from this group,",
+      "zh": ""
+    },
+    {
+      "start": 1228.68,
+      "duration": 2.34,
+      "text": "root two over three from that group and so on.",
+      "en": "root two over three from that group and so on.",
+      "zh": ""
+    },
+    {
+      "start": 1231.02,
+      "duration": 2.76,
+      "text": "Though of course because we're using the axiom of choice,",
+      "en": "Though of course because we're using the axiom of choice,",
+      "zh": ""
+    },
+    {
+      "start": 1233.78,
+      "duration": 3.57,
+      "text": "you don't actually know what that representative number is,",
+      "en": "you don't actually know what that representative number is,",
+      "zh": ""
+    },
+    {
+      "start": 1237.35,
+      "duration": 2.07,
+      "text": "just that you have one.",
+      "en": "just that you have one.",
+      "zh": ""
+    },
+    {
+      "start": 1239.42,
+      "duration": 3.78,
+      "text": "So we could write it down like this.",
+      "en": "So we could write it down like this.",
+      "zh": ""
+    },
+    {
+      "start": 1243.2,
+      "duration": 2.67,
+      "text": "We have these representatives from each group",
+      "en": "We have these representatives from each group",
+      "zh": ""
+    },
+    {
+      "start": 1245.87,
+      "duration": 3.21,
+      "text": "and together they form the Vitali set.",
+      "en": "and together they form the Vitali set.",
+      "zh": ""
+    },
+    {
+      "start": 1249.08,
+      "duration": 2.55,
+      "text": "You can visualize this set as a collection of points",
+      "en": "You can visualize this set as a collection of points",
+      "zh": ""
+    },
+    {
+      "start": 1251.63,
+      "duration": 1.92,
+      "text": "between zero and one.",
+      "en": "between zero and one.",
+      "zh": ""
+    },
+    {
+      "start": 1253.55,
+      "duration": 4.29,
+      "text": "Next, Vitali makes infinite copies of his set",
+      "en": "Next, Vitali makes infinite copies of his set",
+      "zh": ""
+    },
+    {
+      "start": 1257.84,
+      "duration": 4.17,
+      "text": "and each one he shifts by a different rational number",
+      "en": "and each one he shifts by a different rational number",
+      "zh": ""
+    },
+    {
+      "start": 1262.01,
+      "duration": 3.24,
+      "text": "between negative one and positive one.",
+      "en": "between negative one and positive one.",
+      "zh": ""
+    },
+    {
+      "start": 1265.25,
+      "duration": 1.8,
+      "text": "So if you think about what that does,",
+      "en": "So if you think about what that does,",
+      "zh": ""
+    },
+    {
+      "start": 1267.05,
+      "duration": 2.64,
+      "text": "it's gonna move each representative number",
+      "en": "it's gonna move each representative number",
+      "zh": ""
+    },
+    {
+      "start": 1269.69,
+      "duration": 3.99,
+      "text": "to be at the position of every other number in its group.",
+      "en": "to be at the position of every other number in its group.",
+      "zh": ""
+    },
+    {
+      "start": 1273.68,
+      "duration": 2.97,
+      "text": "If we just had the one rational number that we plucked out",
+      "en": "If we just had the one rational number that we plucked out",
+      "zh": ""
+    },
+    {
+      "start": 1276.65,
+      "duration": 2.01,
+      "text": "as a representative from the rational group,",
+      "en": "as a representative from the rational group,",
+      "zh": ""
+    },
+    {
+      "start": 1278.66,
+      "duration": 3.27,
+      "text": "now we're gonna shift it by every possible rational number",
+      "en": "now we're gonna shift it by every possible rational number",
+      "zh": ""
+    },
+    {
+      "start": 1281.93,
+      "duration": 1.74,
+      "text": "between negative one and positive one.",
+      "en": "between negative one and positive one.",
+      "zh": ""
+    },
+    {
+      "start": 1283.67,
+      "duration": 3.42,
+      "text": "So it's going to end up at every other position occupied",
+      "en": "So it's going to end up at every other position occupied",
+      "zh": ""
+    },
+    {
+      "start": 1287.09,
+      "duration": 2.82,
+      "text": "by the other members of its group, at least on the span",
+      "en": "by the other members of its group, at least on the span",
+      "zh": ""
+    },
+    {
+      "start": 1289.91,
+      "duration": 1.86,
+      "text": "between zero and one.",
+      "en": "between zero and one.",
+      "zh": ""
+    },
+    {
+      "start": 1291.77,
+      "duration": 2.91,
+      "text": "So if you imagine now merging",
+      "en": "So if you imagine now merging",
+      "zh": ""
+    },
+    {
+      "start": 1294.68,
+      "duration": 2.4,
+      "text": "all of these infinite sets together,",
+      "en": "all of these infinite sets together,",
+      "zh": ""
+    },
+    {
+      "start": 1297.08,
+      "duration": 2.46,
+      "text": "there's gonna be no overlap between the points.",
+      "en": "there's gonna be no overlap between the points.",
+      "zh": ""
+    },
+    {
+      "start": 1299.54,
+      "duration": 3.36,
+      "text": "And second, we are going to have every real number",
+      "en": "And second, we are going to have every real number",
+      "zh": ""
+    },
+    {
+      "start": 1302.9,
+      "duration": 1.74,
+      "text": "between zero and one",
+      "en": "between zero and one",
+      "zh": ""
+    },
+    {
+      "start": 1304.64,
+      "duration": 4.92,
+      "text": "because on that span we have every member of every group.",
+      "en": "because on that span we have every member of every group.",
+      "zh": ""
+    },
+    {
+      "start": 1309.56,
+      "duration": 3.75,
+      "text": "So now the question is what is the size",
+      "en": "So now the question is what is the size",
+      "zh": ""
+    },
+    {
+      "start": 1313.31,
+      "duration": 1.47,
+      "text": "of the Vitali set?",
+      "en": "of the Vitali set?",
+      "zh": ""
+    },
+    {
+      "start": 1314.78,
+      "duration": 1.56,
+      "text": "Now we know that the union",
+      "en": "Now we know that the union",
+      "zh": ""
+    },
+    {
+      "start": 1316.34,
+      "duration": 5.0,
+      "text": "of those sets must be greater than or equal to one",
+      "en": "of those sets must be greater than or equal to one",
+      "zh": ""
+    },
+    {
+      "start": 1321.47,
+      "duration": 3.51,
+      "text": "because we have every real number between zero and one,",
+      "en": "because we have every real number between zero and one,",
+      "zh": ""
+    },
+    {
+      "start": 1324.98,
+      "duration": 3.99,
+      "text": "but also these points only extend out as far as negative one",
+      "en": "but also these points only extend out as far as negative one",
+      "zh": ""
+    },
+    {
+      "start": 1328.97,
+      "duration": 1.74,
+      "text": "or positive two.",
+      "en": "or positive two.",
+      "zh": ""
+    },
+    {
+      "start": 1330.71,
+      "duration": 4.62,
+      "text": "So it must be less than or equal to three,",
+      "en": "So it must be less than or equal to three,",
+      "zh": ""
+    },
+    {
+      "start": 1335.33,
+      "duration": 2.07,
+      "text": "but this is where the problem arises",
+      "en": "but this is where the problem arises",
+      "zh": ""
+    },
+    {
+      "start": 1337.4,
+      "duration": 3.09,
+      "text": "because what number for the size",
+      "en": "because what number for the size",
+      "zh": ""
+    },
+    {
+      "start": 1340.49,
+      "duration": 1.71,
+      "text": "of the Vitali set could you add",
+      "en": "of the Vitali set could you add",
+      "zh": ""
+    },
+    {
+      "start": 1342.2,
+      "duration": 2.43,
+      "text": "to itself infinitely many times",
+      "en": "to itself infinitely many times",
+      "zh": ""
+    },
+    {
+      "start": 1344.63,
+      "duration": 3.03,
+      "text": "and end up with a value between one and three?",
+      "en": "and end up with a value between one and three?",
+      "zh": ""
+    },
+    {
+      "start": 1347.66,
+      "duration": 2.22,
+      "text": "There is no number like that.",
+      "en": "There is no number like that.",
+      "zh": ""
+    },
+    {
+      "start": 1349.88,
+      "duration": 2.97,
+      "text": "I mean if the size of the Vitali set was zero,",
+      "en": "I mean if the size of the Vitali set was zero,",
+      "zh": ""
+    },
+    {
+      "start": 1352.85,
+      "duration": 3.42,
+      "text": "you add it up infinitely, many times you still get zero.",
+      "en": "you add it up infinitely, many times you still get zero.",
+      "zh": ""
+    },
+    {
+      "start": 1356.27,
+      "duration": 3.06,
+      "text": "If the size of the Vitali set is a small positive value,",
+      "en": "If the size of the Vitali set is a small positive value,",
+      "zh": ""
+    },
+    {
+      "start": 1359.33,
+      "duration": 2.16,
+      "text": "then you add it up infinitely many times,",
+      "en": "then you add it up infinitely many times,",
+      "zh": ""
+    },
+    {
+      "start": 1361.49,
+      "duration": 2.61,
+      "text": "you're gonna get infinity, not three.",
+      "en": "you're gonna get infinity, not three.",
+      "zh": ""
+    },
+    {
+      "start": 1364.1,
+      "duration": 1.38,
+      "text": "So we have a contradiction",
+      "en": "So we have a contradiction",
+      "zh": ""
+    },
+    {
+      "start": 1365.48,
+      "duration": 3.69,
+      "text": "and the only way out is if the Vitali set itself",
+      "en": "and the only way out is if the Vitali set itself",
+      "zh": ""
+    },
+    {
+      "start": 1369.17,
+      "duration": 3.06,
+      "text": "is unmeasurable, which seems crazy.",
+      "en": "is unmeasurable, which seems crazy.",
+      "zh": ""
+    },
+    {
+      "start": 1374.21,
+      "duration": 3.45,
+      "text": "Non-measurable sets like the Vitali set have no consistent",
+      "en": "Non-measurable sets like the Vitali set have no consistent",
+      "zh": ""
+    },
+    {
+      "start": 1377.66,
+      "duration": 4.41,
+      "text": "definition of size or length or area or even probability.",
+      "en": "definition of size or length or area or even probability.",
+      "zh": ""
+    },
+    {
+      "start": 1382.07,
+      "duration": 1.74,
+      "text": "But math is built on the idea",
+      "en": "But math is built on the idea",
+      "zh": ""
+    },
+    {
+      "start": 1383.81,
+      "duration": 3.06,
+      "text": "that everything can be quantified, whether it's distance,",
+      "en": "that everything can be quantified, whether it's distance,",
+      "zh": ""
+    },
+    {
+      "start": 1386.87,
+      "duration": 4.62,
+      "text": "time, or weight, except now there are non-measurable sets",
+      "en": "time, or weight, except now there are non-measurable sets",
+      "zh": ""
+    },
+    {
+      "start": 1391.49,
+      "duration": 3.09,
+      "text": "and it seems like the axiom of choice is to blame.",
+      "en": "and it seems like the axiom of choice is to blame.",
+      "zh": ""
+    },
+    {
+      "start": 1395.48,
+      "duration": 3.96,
+      "text": "This was just the start of the uproar caused by the axiom.",
+      "en": "This was just the start of the uproar caused by the axiom.",
+      "zh": ""
+    },
+    {
+      "start": 1399.44,
+      "duration": 2.88,
+      "text": "In 1924, two mathematicians, Stefan Banach",
+      "en": "In 1924, two mathematicians, Stefan Banach",
+      "zh": ""
+    },
+    {
+      "start": 1402.32,
+      "duration": 2.64,
+      "text": "and Alfred Tarski used it to show something",
+      "en": "and Alfred Tarski used it to show something",
+      "zh": ""
+    },
+    {
+      "start": 1404.96,
+      "duration": 2.28,
+      "text": "that looks like a magic trick.",
+      "en": "that looks like a magic trick.",
+      "zh": ""
+    },
+    {
+      "start": 1407.24,
+      "duration": 2.64,
+      "text": "They proved you could take a single solid ball",
+      "en": "They proved you could take a single solid ball",
+      "zh": ""
+    },
+    {
+      "start": 1409.88,
+      "duration": 2.4,
+      "text": "and split it into just five pieces,",
+      "en": "and split it into just five pieces,",
+      "zh": ""
+    },
+    {
+      "start": 1412.28,
+      "duration": 2.16,
+      "text": "and then by carefully rotating",
+      "en": "and then by carefully rotating",
+      "zh": ""
+    },
+    {
+      "start": 1414.44,
+      "duration": 1.47,
+      "text": "and moving those pieces,",
+      "en": "and moving those pieces,",
+      "zh": ""
+    },
+    {
+      "start": 1415.91,
+      "duration": 3.6,
+      "text": "you could reassemble them into two balls each identical",
+      "en": "you could reassemble them into two balls each identical",
+      "zh": ""
+    },
+    {
+      "start": 1419.51,
+      "duration": 1.74,
+      "text": "to the one we started with,",
+      "en": "to the one we started with,",
+      "zh": ""
+    },
+    {
+      "start": 1421.25,
+      "duration": 1.41,
+      "text": "and you could keep going",
+      "en": "and you could keep going",
+      "zh": ""
+    },
+    {
+      "start": 1422.66,
+      "duration": 3.45,
+      "text": "until eventually you have an infinite number of balls,",
+      "en": "until eventually you have an infinite number of balls,",
+      "zh": ""
+    },
+    {
+      "start": 1426.11,
+      "duration": 2.34,
+      "text": "infinity all from one.",
+      "en": "infinity all from one.",
+      "zh": ""
+    },
+    {
+      "start": 1429.59,
+      "duration": 1.47,
+      "text": "This sounds absurd,",
+      "en": "This sounds absurd,",
+      "zh": ""
+    },
+    {
+      "start": 1431.06,
+      "duration": 3.75,
+      "text": "but we can actually see how it works by building a graph.",
+      "en": "but we can actually see how it works by building a graph.",
+      "zh": ""
+    },
+    {
+      "start": 1436.1,
+      "duration": 2.67,
+      "text": "Imagine you can move in four directions,",
+      "en": "Imagine you can move in four directions,",
+      "zh": ""
+    },
+    {
+      "start": 1438.77,
+      "duration": 2.16,
+      "text": "up, down, left and right.",
+      "en": "up, down, left and right.",
+      "zh": ""
+    },
+    {
+      "start": 1440.93,
+      "duration": 2.67,
+      "text": "After taking a step, say to the left,",
+      "en": "After taking a step, say to the left,",
+      "zh": ""
+    },
+    {
+      "start": 1443.6,
+      "duration": 3.78,
+      "text": "you get the same four choices, up, down, left and right,",
+      "en": "you get the same four choices, up, down, left and right,",
+      "zh": ""
+    },
+    {
+      "start": 1447.38,
+      "duration": 1.65,
+      "text": "but if you go to the right, you'll end up",
+      "en": "but if you go to the right, you'll end up",
+      "zh": ""
+    },
+    {
+      "start": 1449.03,
+      "duration": 1.26,
+      "text": "back where you started.",
+      "en": "back where you started.",
+      "zh": ""
+    },
+    {
+      "start": 1450.29,
+      "duration": 2.01,
+      "text": "So the only rule we're gonna have is",
+      "en": "So the only rule we're gonna have is",
+      "zh": ""
+    },
+    {
+      "start": 1452.3,
+      "duration": 3.15,
+      "text": "that you can't immediately reverse a move,",
+      "en": "that you can't immediately reverse a move,",
+      "zh": ""
+    },
+    {
+      "start": 1455.45,
+      "duration": 2.52,
+      "text": "and we'll keep repeating this at every step,",
+      "en": "and we'll keep repeating this at every step,",
+      "zh": ""
+    },
+    {
+      "start": 1457.97,
+      "duration": 3.21,
+      "text": "drawing each new line, half the size of the previous one",
+      "en": "drawing each new line, half the size of the previous one",
+      "zh": ""
+    },
+    {
+      "start": 1461.18,
+      "duration": 2.46,
+      "text": "so it all fits on the screen.",
+      "en": "so it all fits on the screen.",
+      "zh": ""
+    },
+    {
+      "start": 1463.64,
+      "duration": 1.59,
+      "text": "If we keep going, we'll end up",
+      "en": "If we keep going, we'll end up",
+      "zh": ""
+    },
+    {
+      "start": 1465.23,
+      "duration": 2.46,
+      "text": "with this infinitely branching graph.",
+      "en": "with this infinitely branching graph.",
+      "zh": ""
+    },
+    {
+      "start": 1468.59,
+      "duration": 3.72,
+      "text": "Looking at our graph, we can break it into five sections.",
+      "en": "Looking at our graph, we can break it into five sections.",
+      "zh": ""
+    },
+    {
+      "start": 1472.31,
+      "duration": 2.34,
+      "text": "There's the middle section where we started,",
+      "en": "There's the middle section where we started,",
+      "zh": ""
+    },
+    {
+      "start": 1474.65,
+      "duration": 1.95,
+      "text": "and then there are four other sections",
+      "en": "and then there are four other sections",
+      "zh": ""
+    },
+    {
+      "start": 1476.6,
+      "duration": 3.15,
+      "text": "that are all identical, just rotated.",
+      "en": "that are all identical, just rotated.",
+      "zh": ""
+    },
+    {
+      "start": 1479.75,
+      "duration": 1.95,
+      "text": "So if we take this section to the left",
+      "en": "So if we take this section to the left",
+      "zh": ""
+    },
+    {
+      "start": 1481.7,
+      "duration": 2.7,
+      "text": "and we move everything one step to the right,",
+      "en": "and we move everything one step to the right,",
+      "zh": ""
+    },
+    {
+      "start": 1484.4,
+      "duration": 2.94,
+      "text": "the top part ends up here, the bottom part here,",
+      "en": "the top part ends up here, the bottom part here,",
+      "zh": ""
+    },
+    {
+      "start": 1487.34,
+      "duration": 2.04,
+      "text": "and the leftmost part here,",
+      "en": "and the leftmost part here,",
+      "zh": ""
+    },
+    {
+      "start": 1489.38,
+      "duration": 3.45,
+      "text": "then we've almost recreated the entire graph.",
+      "en": "then we've almost recreated the entire graph.",
+      "zh": ""
+    },
+    {
+      "start": 1492.83,
+      "duration": 2.37,
+      "text": "The only thing we're missing is this section,",
+      "en": "The only thing we're missing is this section,",
+      "zh": ""
+    },
+    {
+      "start": 1495.2,
+      "duration": 2.07,
+      "text": "so let's add it back in,",
+      "en": "so let's add it back in,",
+      "zh": ""
+    },
+    {
+      "start": 1497.27,
+      "duration": 1.59,
+      "text": "but we could have done the same thing",
+      "en": "but we could have done the same thing",
+      "zh": ""
+    },
+    {
+      "start": 1498.86,
+      "duration": 3.18,
+      "text": "in a completely different way by taking the bottom section",
+      "en": "in a completely different way by taking the bottom section",
+      "zh": ""
+    },
+    {
+      "start": 1502.04,
+      "duration": 2.31,
+      "text": "and moving it one step up.",
+      "en": "and moving it one step up.",
+      "zh": ""
+    },
+    {
+      "start": 1504.35,
+      "duration": 3.9,
+      "text": "Now the leftmost part ends up here, the rightmost part here",
+      "en": "Now the leftmost part ends up here, the rightmost part here",
+      "zh": ""
+    },
+    {
+      "start": 1508.25,
+      "duration": 1.38,
+      "text": "and the bottom here.",
+      "en": "and the bottom here.",
+      "zh": ""
+    },
+    {
+      "start": 1509.63,
+      "duration": 1.77,
+      "text": "Again, we're just missing one section,",
+      "en": "Again, we're just missing one section,",
+      "zh": ""
+    },
+    {
+      "start": 1511.4,
+      "duration": 1.8,
+      "text": "so let's add it back in.",
+      "en": "so let's add it back in.",
+      "zh": ""
+    },
+    {
+      "start": 1513.2,
+      "duration": 3.39,
+      "text": "But this means I can recreate the entire original graph",
+      "en": "But this means I can recreate the entire original graph",
+      "zh": ""
+    },
+    {
+      "start": 1516.59,
+      "duration": 2.4,
+      "text": "in two completely different ways.",
+      "en": "in two completely different ways.",
+      "zh": ""
+    },
+    {
+      "start": 1518.99,
+      "duration": 2.76,
+      "text": "We took one graph, split it into sections,",
+      "en": "We took one graph, split it into sections,",
+      "zh": ""
+    },
+    {
+      "start": 1521.75,
+      "duration": 2.61,
+      "text": "shifted the sections, so the left section went to the right",
+      "en": "shifted the sections, so the left section went to the right",
+      "zh": ""
+    },
+    {
+      "start": 1524.36,
+      "duration": 1.65,
+      "text": "and the down section up",
+      "en": "and the down section up",
+      "zh": ""
+    },
+    {
+      "start": 1526.01,
+      "duration": 3.57,
+      "text": "and somehow ended up with two identical copies.",
+      "en": "and somehow ended up with two identical copies.",
+      "zh": ""
+    },
+    {
+      "start": 1530.81,
+      "duration": 2.46,
+      "text": "This is exactly what Banach and Tarski did,",
+      "en": "This is exactly what Banach and Tarski did,",
+      "zh": ""
+    },
+    {
+      "start": 1533.27,
+      "duration": 4.35,
+      "text": "but with a ball, like our graph, we again have four moves.",
+      "en": "but with a ball, like our graph, we again have four moves.",
+      "zh": ""
+    },
+    {
+      "start": 1537.62,
+      "duration": 3.72,
+      "text": "We can rotate the ball up, down, left or right,",
+      "en": "We can rotate the ball up, down, left or right,",
+      "zh": ""
+    },
+    {
+      "start": 1541.34,
+      "duration": 1.47,
+      "text": "and again, our only rule is",
+      "en": "and again, our only rule is",
+      "zh": ""
+    },
+    {
+      "start": 1542.81,
+      "duration": 2.85,
+      "text": "that we can't immediately reverse a move.",
+      "en": "that we can't immediately reverse a move.",
+      "zh": ""
+    },
+    {
+      "start": 1545.66,
+      "duration": 2.31,
+      "text": "And to make sure we never come back to the same point,",
+      "en": "And to make sure we never come back to the same point,",
+      "zh": ""
+    },
+    {
+      "start": 1547.97,
+      "duration": 1.26,
+      "text": "every rotation will be",
+      "en": "every rotation will be",
+      "zh": ""
+    },
+    {
+      "start": 1549.23,
+      "duration": 3.72,
+      "text": "by the same irrational portion of a circle.",
+      "en": "by the same irrational portion of a circle.",
+      "zh": ""
+    },
+    {
+      "start": 1552.95,
+      "duration": 2.88,
+      "text": "We can pick a random starting point, mark it",
+      "en": "We can pick a random starting point, mark it",
+      "zh": ""
+    },
+    {
+      "start": 1555.83,
+      "duration": 2.79,
+      "text": "and then start rotating the ball.",
+      "en": "and then start rotating the ball.",
+      "zh": ""
+    },
+    {
+      "start": 1558.62,
+      "duration": 2.76,
+      "text": "Each point is colored based on the direction",
+      "en": "Each point is colored based on the direction",
+      "zh": ""
+    },
+    {
+      "start": 1561.38,
+      "duration": 2.73,
+      "text": "of rotation used to get there.",
+      "en": "of rotation used to get there.",
+      "zh": ""
+    },
+    {
+      "start": 1564.11,
+      "duration": 3.3,
+      "text": "If we do this an infinite number of times, we end up",
+      "en": "If we do this an infinite number of times, we end up",
+      "zh": ""
+    },
+    {
+      "start": 1567.41,
+      "duration": 2.52,
+      "text": "with this collection of points.",
+      "en": "with this collection of points.",
+      "zh": ""
+    },
+    {
+      "start": 1569.93,
+      "duration": 2.34,
+      "text": "This is a countably infinite collection",
+      "en": "This is a countably infinite collection",
+      "zh": ""
+    },
+    {
+      "start": 1572.27,
+      "duration": 1.92,
+      "text": "because we could list each rotation",
+      "en": "because we could list each rotation",
+      "zh": ""
+    },
+    {
+      "start": 1574.19,
+      "duration": 2.43,
+      "text": "and assign it a natural number,",
+      "en": "and assign it a natural number,",
+      "zh": ""
+    },
+    {
+      "start": 1576.62,
+      "duration": 3.51,
+      "text": "but the surface of a ball has uncountably infinite points",
+      "en": "but the surface of a ball has uncountably infinite points",
+      "zh": ""
+    },
+    {
+      "start": 1580.13,
+      "duration": 1.86,
+      "text": "just like the real number line.",
+      "en": "just like the real number line.",
+      "zh": ""
+    },
+    {
+      "start": 1581.99,
+      "duration": 3.24,
+      "text": "So if we want to cover the entire surface, we would need",
+      "en": "So if we want to cover the entire surface, we would need",
+      "zh": ""
+    },
+    {
+      "start": 1585.23,
+      "duration": 4.2,
+      "text": "to repeat this process, but where do we start next?",
+      "en": "to repeat this process, but where do we start next?",
+      "zh": ""
+    },
+    {
+      "start": 1589.43,
+      "duration": 2.22,
+      "text": "Since there are uncountably infinite possible",
+      "en": "Since there are uncountably infinite possible",
+      "zh": ""
+    },
+    {
+      "start": 1591.65,
+      "duration": 2.88,
+      "text": "starting points, we can't list them all",
+      "en": "starting points, we can't list them all",
+      "zh": ""
+    },
+    {
+      "start": 1594.53,
+      "duration": 2.19,
+      "text": "and we wanna be sure to avoid any points",
+      "en": "and we wanna be sure to avoid any points",
+      "zh": ""
+    },
+    {
+      "start": 1596.72,
+      "duration": 1.62,
+      "text": "we've already colored.",
+      "en": "we've already colored.",
+      "zh": ""
+    },
+    {
+      "start": 1598.34,
+      "duration": 3.63,
+      "text": "So the solution is to use the axiom of choice.",
+      "en": "So the solution is to use the axiom of choice.",
+      "zh": ""
+    },
+    {
+      "start": 1601.97,
+      "duration": 3.12,
+      "text": "With it, we can choosing unique starting points,",
+      "en": "With it, we can choosing unique starting points,",
+      "zh": ""
+    },
+    {
+      "start": 1605.09,
+      "duration": 3.48,
+      "text": "even though we can't say exactly how we are choosing them.",
+      "en": "even though we can't say exactly how we are choosing them.",
+      "zh": ""
+    },
+    {
+      "start": 1609.65,
+      "duration": 2.19,
+      "text": "Once we've colored every point on the ball,",
+      "en": "Once we've colored every point on the ball,",
+      "zh": ""
+    },
+    {
+      "start": 1611.84,
+      "duration": 2.37,
+      "text": "we can split the points into five groups,",
+      "en": "we can split the points into five groups,",
+      "zh": ""
+    },
+    {
+      "start": 1614.21,
+      "duration": 1.65,
+      "text": "one for the starting points",
+      "en": "one for the starting points",
+      "zh": ""
+    },
+    {
+      "start": 1615.86,
+      "duration": 2.94,
+      "text": "and four others based on the final rotation used",
+      "en": "and four others based on the final rotation used",
+      "zh": ""
+    },
+    {
+      "start": 1618.8,
+      "duration": 2.1,
+      "text": "to arrive at those points.",
+      "en": "to arrive at those points.",
+      "zh": ""
+    },
+    {
+      "start": 1620.9,
+      "duration": 1.62,
+      "text": "These groups can now be treated",
+      "en": "These groups can now be treated",
+      "zh": ""
+    },
+    {
+      "start": 1622.52,
+      "duration": 2.1,
+      "text": "just like the sections of our graph.",
+      "en": "just like the sections of our graph.",
+      "zh": ""
+    },
+    {
+      "start": 1624.62,
+      "duration": 1.53,
+      "text": "We can take the group of points that end",
+      "en": "We can take the group of points that end",
+      "zh": ""
+    },
+    {
+      "start": 1626.15,
+      "duration": 2.97,
+      "text": "with a left rotation and rotate it to the right.",
+      "en": "with a left rotation and rotate it to the right.",
+      "zh": ""
+    },
+    {
+      "start": 1629.12,
+      "duration": 3.42,
+      "text": "Then we add in the group that ends with a right rotation,",
+      "en": "Then we add in the group that ends with a right rotation,",
+      "zh": ""
+    },
+    {
+      "start": 1632.54,
+      "duration": 4.41,
+      "text": "and just like that, we've recreated our original ball",
+      "en": "and just like that, we've recreated our original ball",
+      "zh": ""
+    },
+    {
+      "start": 1636.95,
+      "duration": 2.82,
+      "text": "and we can do it again making an extra move to account",
+      "en": "and we can do it again making an extra move to account",
+      "zh": ""
+    },
+    {
+      "start": 1639.77,
+      "duration": 1.17,
+      "text": "for the starting points.",
+      "en": "for the starting points.",
+      "zh": ""
+    },
+    {
+      "start": 1640.94,
+      "duration": 3.24,
+      "text": "We can equally take the group that ends with a down rotation",
+      "en": "We can equally take the group that ends with a down rotation",
+      "zh": ""
+    },
+    {
+      "start": 1644.18,
+      "duration": 1.56,
+      "text": "and rotate it upwards.",
+      "en": "and rotate it upwards.",
+      "zh": ""
+    },
+    {
+      "start": 1645.74,
+      "duration": 3.12,
+      "text": "Then we add in the group that ends with an up rotation",
+      "en": "Then we add in the group that ends with an up rotation",
+      "zh": ""
+    },
+    {
+      "start": 1648.86,
+      "duration": 1.65,
+      "text": "and our starting points,",
+      "en": "and our starting points,",
+      "zh": ""
+    },
+    {
+      "start": 1650.51,
+      "duration": 4.95,
+      "text": "and now we've recreated our original ball a second time.",
+      "en": "and now we've recreated our original ball a second time.",
+      "zh": ""
+    },
+    {
+      "start": 1655.46,
+      "duration": 2.07,
+      "text": "Now, this is a bit of an oversimplification,",
+      "en": "Now, this is a bit of an oversimplification,",
+      "zh": ""
+    },
+    {
+      "start": 1657.53,
+      "duration": 3.09,
+      "text": "but it gives you the essence of how this is done.",
+      "en": "but it gives you the essence of how this is done.",
+      "zh": ""
+    },
+    {
+      "start": 1660.62,
+      "duration": 2.84,
+      "text": "From one ball, we have created two identical balls",
+      "en": "From one ball, we have created two identical balls",
+      "zh": ""
+    },
+    {
+      "start": 1663.46,
+      "duration": 1.63,
+      "text": "of the same volume,",
+      "en": "of the same volume,",
+      "zh": ""
+    },
+    {
+      "start": 1665.09,
+      "duration": 2.16,
+      "text": "and nothing stops us from doing this again.",
+      "en": "and nothing stops us from doing this again.",
+      "zh": ""
+    },
+    {
+      "start": 1667.25,
+      "duration": 2.4,
+      "text": "Two balls can become four, four become eight,",
+      "en": "Two balls can become four, four become eight,",
+      "zh": ""
+    },
+    {
+      "start": 1669.65,
+      "duration": 2.97,
+      "text": "and before you know it, you've got infinite balls.",
+      "en": "and before you know it, you've got infinite balls.",
+      "zh": ""
+    },
+    {
+      "start": 1673.49,
+      "duration": 3.42,
+      "text": "- The axiom of choice is something that's so obviously true",
+      "en": "- The axiom of choice is something that's so obviously true",
+      "zh": ""
+    },
+    {
+      "start": 1676.91,
+      "duration": 3.42,
+      "text": "and it's consequences are so obviously false",
+      "en": "and it's consequences are so obviously false",
+      "zh": ""
+    },
+    {
+      "start": 1680.33,
+      "duration": 2.58,
+      "text": "that you're like, what the hell is going on?",
+      "en": "that you're like, what the hell is going on?",
+      "zh": ""
+    },
+    {
+      "start": 1682.91,
+      "duration": 3.51,
+      "text": "- This infinite duplication is theoretically possible,",
+      "en": "- This infinite duplication is theoretically possible,",
+      "zh": ""
+    },
+    {
+      "start": 1686.42,
+      "duration": 2.91,
+      "text": "but the catch is the groups we split the ball into",
+      "en": "but the catch is the groups we split the ball into",
+      "zh": ""
+    },
+    {
+      "start": 1689.33,
+      "duration": 1.59,
+      "text": "aren't simple shapes.",
+      "en": "aren't simple shapes.",
+      "zh": ""
+    },
+    {
+      "start": 1690.92,
+      "duration": 3.18,
+      "text": "They're actually non-measurable, just like the Vitali set,",
+      "en": "They're actually non-measurable, just like the Vitali set,",
+      "zh": ""
+    },
+    {
+      "start": 1694.1,
+      "duration": 1.89,
+      "text": "although the original ball has a volume",
+      "en": "although the original ball has a volume",
+      "zh": ""
+    },
+    {
+      "start": 1695.99,
+      "duration": 2.31,
+      "text": "and the duplicated balls have a volume,",
+      "en": "and the duplicated balls have a volume,",
+      "zh": ""
+    },
+    {
+      "start": 1698.3,
+      "duration": 3.93,
+      "text": "the step in between violates our understanding of size.",
+      "en": "the step in between violates our understanding of size.",
+      "zh": ""
+    },
+    {
+      "start": 1702.23,
+      "duration": 3.15,
+      "text": "This is what allows the paradox to happen.",
+      "en": "This is what allows the paradox to happen.",
+      "zh": ""
+    },
+    {
+      "start": 1706.34,
+      "duration": 3.21,
+      "text": "- Of course, those are not physically plausible cuts,",
+      "en": "- Of course, those are not physically plausible cuts,",
+      "zh": ""
+    },
+    {
+      "start": 1709.55,
+      "duration": 3.93,
+      "text": "but like there's a more meta physical question like,",
+      "en": "but like there's a more meta physical question like,",
+      "zh": ""
+    },
+    {
+      "start": 1713.48,
+      "duration": 1.5,
+      "text": "should this even remotely be possible",
+      "en": "should this even remotely be possible",
+      "zh": ""
+    },
+    {
+      "start": 1714.98,
+      "duration": 1.83,
+      "text": "if we could make such cuts?",
+      "en": "if we could make such cuts?",
+      "zh": ""
+    },
+    {
+      "start": 1716.81,
+      "duration": 1.86,
+      "text": "And the answer to almost every human I know",
+      "en": "And the answer to almost every human I know",
+      "zh": ""
+    },
+    {
+      "start": 1718.67,
+      "duration": 1.77,
+      "text": "is absolutely not.",
+      "en": "is absolutely not.",
+      "zh": ""
+    },
+    {
+      "start": 1720.44,
+      "duration": 3.27,
+      "text": "- The truth is no one knew what was going on.",
+      "en": "- The truth is no one knew what was going on.",
+      "zh": ""
+    },
+    {
+      "start": 1723.71,
+      "duration": 2.7,
+      "text": "That same year, Tarski tried to push the axiom",
+      "en": "That same year, Tarski tried to push the axiom",
+      "zh": ""
+    },
+    {
+      "start": 1726.41,
+      "duration": 3.24,
+      "text": "of choice further proving it is equivalent to the statement",
+      "en": "of choice further proving it is equivalent to the statement",
+      "zh": ""
+    },
+    {
+      "start": 1729.65,
+      "duration": 4.95,
+      "text": "that squaring any infinite set would not increase its size.",
+      "en": "that squaring any infinite set would not increase its size.",
+      "zh": ""
+    },
+    {
+      "start": 1734.6,
+      "duration": 3.21,
+      "text": "When Tarski first submitted this work to a journal in Paris,",
+      "en": "When Tarski first submitted this work to a journal in Paris,",
+      "zh": ""
+    },
+    {
+      "start": 1737.81,
+      "duration": 2.91,
+      "text": "the editor Lebesgue responded dismissively,",
+      "en": "the editor Lebesgue responded dismissively,",
+      "zh": ""
+    },
+    {
+      "start": 1740.72,
+      "duration": 1.89,
+      "text": "nobody's interested in the equivalence",
+      "en": "nobody's interested in the equivalence",
+      "zh": ""
+    },
+    {
+      "start": 1742.61,
+      "duration": 2.58,
+      "text": "between two false statements.",
+      "en": "between two false statements.",
+      "zh": ""
+    },
+    {
+      "start": 1745.19,
+      "duration": 3.03,
+      "text": "Not to be deterred, Tarski sent it to a different editor",
+      "en": "Not to be deterred, Tarski sent it to a different editor",
+      "zh": ""
+    },
+    {
+      "start": 1748.22,
+      "duration": 3.78,
+      "text": "at the same journal, Freche, his response,",
+      "en": "at the same journal, Freche, his response,",
+      "zh": ""
+    },
+    {
+      "start": 1752.0,
+      "duration": 1.74,
+      "text": "nobody's interested in the equivalence",
+      "en": "nobody's interested in the equivalence",
+      "zh": ""
+    },
+    {
+      "start": 1753.74,
+      "duration": 3.27,
+      "text": "of two obviously true statements.",
+      "en": "of two obviously true statements.",
+      "zh": ""
+    },
+    {
+      "start": 1757.01,
+      "duration": 2.76,
+      "text": "Tarski never submitted a paper there again.",
+      "en": "Tarski never submitted a paper there again.",
+      "zh": ""
+    },
+    {
+      "start": 1760.76,
+      "duration": 3.45,
+      "text": "So math was in crisis for over 30 years",
+      "en": "So math was in crisis for over 30 years",
+      "zh": ""
+    },
+    {
+      "start": 1764.21,
+      "duration": 2.97,
+      "text": "with people not knowing what to believe.",
+      "en": "with people not knowing what to believe.",
+      "zh": ""
+    },
+    {
+      "start": 1767.18,
+      "duration": 2.97,
+      "text": "- The question is, wait a second, is this really an axiom",
+      "en": "- The question is, wait a second, is this really an axiom",
+      "zh": ""
+    },
+    {
+      "start": 1770.15,
+      "duration": 2.7,
+      "text": "or is this something that you can prove?",
+      "en": "or is this something that you can prove?",
+      "zh": ""
+    },
+    {
+      "start": 1772.85,
+      "duration": 4.53,
+      "text": "- In 1938, we finally started getting some answers.",
+      "en": "- In 1938, we finally started getting some answers.",
+      "zh": ""
+    },
+    {
+      "start": 1777.38,
+      "duration": 2.13,
+      "text": "The Austrian mathematician, Kurt Godel,",
+      "en": "The Austrian mathematician, Kurt Godel,",
+      "zh": ""
+    },
+    {
+      "start": 1779.51,
+      "duration": 3.39,
+      "text": "proved there is a world all the other already accepted",
+      "en": "proved there is a world all the other already accepted",
+      "zh": ""
+    },
+    {
+      "start": 1782.9,
+      "duration": 2.19,
+      "text": "axioms of set theory hold true,",
+      "en": "axioms of set theory hold true,",
+      "zh": ""
+    },
+    {
+      "start": 1785.09,
+      "duration": 2.85,
+      "text": "and so does the axiom of choice.",
+      "en": "and so does the axiom of choice.",
+      "zh": ""
+    },
+    {
+      "start": 1787.94,
+      "duration": 4.26,
+      "text": "Then in 1963, Paul Cohen proved there's also a world",
+      "en": "Then in 1963, Paul Cohen proved there's also a world",
+      "zh": ""
+    },
+    {
+      "start": 1792.2,
+      "duration": 2.55,
+      "text": "where all the axioms of set theory hold true",
+      "en": "where all the axioms of set theory hold true",
+      "zh": ""
+    },
+    {
+      "start": 1794.75,
+      "duration": 3.09,
+      "text": "except for the axiom of choice.",
+      "en": "except for the axiom of choice.",
+      "zh": ""
+    },
+    {
+      "start": 1797.84,
+      "duration": 3.66,
+      "text": "This is kind of like the parallel postulate in geometry.",
+      "en": "This is kind of like the parallel postulate in geometry.",
+      "zh": ""
+    },
+    {
+      "start": 1801.5,
+      "duration": 2.28,
+      "text": "You can think of geometry as a game.",
+      "en": "You can think of geometry as a game.",
+      "zh": ""
+    },
+    {
+      "start": 1803.78,
+      "duration": 1.44,
+      "text": "The first four postulates",
+      "en": "The first four postulates",
+      "zh": ""
+    },
+    {
+      "start": 1805.22,
+      "duration": 3.3,
+      "text": "or axioms are like the minimum rules required to play",
+      "en": "or axioms are like the minimum rules required to play",
+      "zh": ""
+    },
+    {
+      "start": 1808.52,
+      "duration": 2.43,
+      "text": "that game, and then the fifth axiom",
+      "en": "that game, and then the fifth axiom",
+      "zh": ""
+    },
+    {
+      "start": 1810.95,
+      "duration": 2.85,
+      "text": "selects the universe that you wanna play in.",
+      "en": "selects the universe that you wanna play in.",
+      "zh": ""
+    },
+    {
+      "start": 1813.8,
+      "duration": 2.46,
+      "text": "If you choose that the fifth axiom doesn't hold,",
+      "en": "If you choose that the fifth axiom doesn't hold,",
+      "zh": ""
+    },
+    {
+      "start": 1816.26,
+      "duration": 2.01,
+      "text": "so there are no parallel lines,",
+      "en": "so there are no parallel lines,",
+      "zh": ""
+    },
+    {
+      "start": 1818.27,
+      "duration": 2.73,
+      "text": "then you're playing in spherical geometry.",
+      "en": "then you're playing in spherical geometry.",
+      "zh": ""
+    },
+    {
+      "start": 1821.0,
+      "duration": 1.86,
+      "text": "If you choose one parallel line,",
+      "en": "If you choose one parallel line,",
+      "zh": ""
+    },
+    {
+      "start": 1822.86,
+      "duration": 2.04,
+      "text": "you're playing in flat geometry,",
+      "en": "you're playing in flat geometry,",
+      "zh": ""
+    },
+    {
+      "start": 1824.9,
+      "duration": 2.16,
+      "text": "and if you choose more than one parallel line,",
+      "en": "and if you choose more than one parallel line,",
+      "zh": ""
+    },
+    {
+      "start": 1827.06,
+      "duration": 2.91,
+      "text": "then you're playing in hyperbolic geometry.",
+      "en": "then you're playing in hyperbolic geometry.",
+      "zh": ""
+    },
+    {
+      "start": 1829.97,
+      "duration": 2.16,
+      "text": "All of these geometries are valid.",
+      "en": "All of these geometries are valid.",
+      "zh": ""
+    },
+    {
+      "start": 1832.13,
+      "duration": 2.61,
+      "text": "It just depends on the math you want to do,",
+      "en": "It just depends on the math you want to do,",
+      "zh": ""
+    },
+    {
+      "start": 1836.06,
+      "duration": 2.85,
+      "text": "and it's the same for the axiom of choice.",
+      "en": "and it's the same for the axiom of choice.",
+      "zh": ""
+    },
+    {
+      "start": 1838.91,
+      "duration": 2.16,
+      "text": "The axiom of choice can neither be proven",
+      "en": "The axiom of choice can neither be proven",
+      "zh": ""
+    },
+    {
+      "start": 1841.07,
+      "duration": 2.64,
+      "text": "nor disproven from the other axioms.",
+      "en": "nor disproven from the other axioms.",
+      "zh": ""
+    },
+    {
+      "start": 1843.71,
+      "duration": 2.82,
+      "text": "So as long as the other axioms are consistent,",
+      "en": "So as long as the other axioms are consistent,",
+      "zh": ""
+    },
+    {
+      "start": 1846.53,
+      "duration": 3.21,
+      "text": "adding choice won't lead to any contradictions.",
+      "en": "adding choice won't lead to any contradictions.",
+      "zh": ""
+    },
+    {
+      "start": 1849.74,
+      "duration": 2.91,
+      "text": "Paul Cohen was awarded the Fields Medal three years later",
+      "en": "Paul Cohen was awarded the Fields Medal three years later",
+      "zh": ""
+    },
+    {
+      "start": 1852.65,
+      "duration": 1.65,
+      "text": "for his groundbreaking result,",
+      "en": "for his groundbreaking result,",
+      "zh": ""
+    },
+    {
+      "start": 1854.3,
+      "duration": 4.02,
+      "text": "as well as his other work in set theory, and after Godel",
+      "en": "as well as his other work in set theory, and after Godel",
+      "zh": ""
+    },
+    {
+      "start": 1858.32,
+      "duration": 1.83,
+      "text": "and Cohen's work, most of the debates",
+      "en": "and Cohen's work, most of the debates",
+      "zh": ""
+    },
+    {
+      "start": 1860.15,
+      "duration": 2.82,
+      "text": "about the axiom of choice died down.",
+      "en": "about the axiom of choice died down.",
+      "zh": ""
+    },
+    {
+      "start": 1862.97,
+      "duration": 2.1,
+      "text": "- In the end, what the hell is going on is that it's up",
+      "en": "- In the end, what the hell is going on is that it's up",
+      "zh": ""
+    },
+    {
+      "start": 1865.07,
+      "duration": 3.36,
+      "text": "to you whether you want to choose for the axiom of choice",
+      "en": "to you whether you want to choose for the axiom of choice",
+      "zh": ""
+    },
+    {
+      "start": 1868.43,
+      "duration": 3.33,
+      "text": "to be a part of your system or not,",
+      "en": "to be a part of your system or not,",
+      "zh": ""
+    },
+    {
+      "start": 1871.76,
+      "duration": 1.47,
+      "text": "and face the consequences",
+      "en": "and face the consequences",
+      "zh": ""
+    },
+    {
+      "start": 1873.23,
+      "duration": 2.37,
+      "text": "of either having it or not having it.",
+      "en": "of either having it or not having it.",
+      "zh": ""
+    },
+    {
+      "start": 1875.6,
+      "duration": 2.19,
+      "text": "- Despite the counterintuitive results created",
+      "en": "- Despite the counterintuitive results created",
+      "zh": ""
+    },
+    {
+      "start": 1877.79,
+      "duration": 2.55,
+      "text": "by the axiom of choice, like non-measurable sets",
+      "en": "by the axiom of choice, like non-measurable sets",
+      "zh": ""
+    },
+    {
+      "start": 1880.34,
+      "duration": 1.83,
+      "text": "and infinite duplication,",
+      "en": "and infinite duplication,",
+      "zh": ""
+    },
+    {
+      "start": 1882.17,
+      "duration": 3.72,
+      "text": "it is incredibly useful, choice allows mathematicians",
+      "en": "it is incredibly useful, choice allows mathematicians",
+      "zh": ""
+    },
+    {
+      "start": 1885.89,
+      "duration": 2.22,
+      "text": "to replace lengthy explicit proofs",
+      "en": "to replace lengthy explicit proofs",
+      "zh": ""
+    },
+    {
+      "start": 1888.11,
+      "duration": 2.52,
+      "text": "with more concise arguments.",
+      "en": "with more concise arguments.",
+      "zh": ""
+    },
+    {
+      "start": 1890.63,
+      "duration": 2.07,
+      "text": "By proving statements in the finite case,",
+      "en": "By proving statements in the finite case,",
+      "zh": ""
+    },
+    {
+      "start": 1892.7,
+      "duration": 1.38,
+      "text": "many proofs can be extended",
+      "en": "many proofs can be extended",
+      "zh": ""
+    },
+    {
+      "start": 1894.08,
+      "duration": 3.54,
+      "text": "to any infinite case in just one line.",
+      "en": "to any infinite case in just one line.",
+      "zh": ""
+    },
+    {
+      "start": 1897.62,
+      "duration": 2.43,
+      "text": "This reduces proofs that could have been 20 pages",
+      "en": "This reduces proofs that could have been 20 pages",
+      "zh": ""
+    },
+    {
+      "start": 1900.05,
+      "duration": 2.4,
+      "text": "to just half a page.",
+      "en": "to just half a page.",
+      "zh": ""
+    },
+    {
+      "start": 1902.45,
+      "duration": 2.82,
+      "text": "And the axiom of choice doesn't just make math easier.",
+      "en": "And the axiom of choice doesn't just make math easier.",
+      "zh": ""
+    },
+    {
+      "start": 1905.27,
+      "duration": 2.16,
+      "text": "It is essential to some proofs.",
+      "en": "It is essential to some proofs.",
+      "zh": ""
+    },
+    {
+      "start": 1907.43,
+      "duration": 2.07,
+      "text": "There are many theorems where the general case",
+      "en": "There are many theorems where the general case",
+      "zh": ""
+    },
+    {
+      "start": 1909.5,
+      "duration": 3.66,
+      "text": "can't be proven without using choice somewhere.",
+      "en": "can't be proven without using choice somewhere.",
+      "zh": ""
+    },
+    {
+      "start": 1913.16,
+      "duration": 3.54,
+      "text": "Now, some mathematicians still prefer proofs without choice,",
+      "en": "Now, some mathematicians still prefer proofs without choice,",
+      "zh": ""
+    },
+    {
+      "start": 1916.7,
+      "duration": 1.2,
+      "text": "even if it's harder,",
+      "en": "even if it's harder,",
+      "zh": ""
+    },
+    {
+      "start": 1917.9,
+      "duration": 3.51,
+      "text": "the proof has to be spelled out step by step to generalize",
+      "en": "the proof has to be spelled out step by step to generalize",
+      "zh": ""
+    },
+    {
+      "start": 1921.41,
+      "duration": 3.6,
+      "text": "to infinite cases, and this provides additional information.",
+      "en": "to infinite cases, and this provides additional information.",
+      "zh": ""
+    },
+    {
+      "start": 1925.01,
+      "duration": 2.85,
+      "text": "Some mathematicians spend their time studying universes",
+      "en": "Some mathematicians spend their time studying universes",
+      "zh": ""
+    },
+    {
+      "start": 1927.86,
+      "duration": 2.64,
+      "text": "without the axiom of choice to understand",
+      "en": "without the axiom of choice to understand",
+      "zh": ""
+    },
+    {
+      "start": 1930.5,
+      "duration": 2.13,
+      "text": "what happens when we remove it.",
+      "en": "what happens when we remove it.",
+      "zh": ""
+    },
+    {
+      "start": 1932.63,
+      "duration": 1.86,
+      "text": "But today, the axiom of choice",
+      "en": "But today, the axiom of choice",
+      "zh": ""
+    },
+    {
+      "start": 1934.49,
+      "duration": 2.01,
+      "text": "is almost universally accepted.",
+      "en": "is almost universally accepted.",
+      "zh": ""
+    },
+    {
+      "start": 1937.58,
+      "duration": 3.27,
+      "text": "For the past 80 plus years, generations of mathematicians",
+      "en": "For the past 80 plus years, generations of mathematicians",
+      "zh": ""
+    },
+    {
+      "start": 1940.85,
+      "duration": 2.55,
+      "text": "have been taught with choice as a given",
+      "en": "have been taught with choice as a given",
+      "zh": ""
+    },
+    {
+      "start": 1943.4,
+      "duration": 2.73,
+      "text": "to the point where many who use the axiom of choice",
+      "en": "to the point where many who use the axiom of choice",
+      "zh": ""
+    },
+    {
+      "start": 1946.13,
+      "duration": 2.73,
+      "text": "might not even realize when they're doing it.",
+      "en": "might not even realize when they're doing it.",
+      "zh": ""
+    },
+    {
+      "start": 1948.86,
+      "duration": 1.47,
+      "text": "- If you don't include the axiom of choice,",
+      "en": "- If you don't include the axiom of choice,",
+      "zh": ""
+    },
+    {
+      "start": 1950.33,
+      "duration": 0.83,
+      "text": "then you're kind of working",
+      "en": "then you're kind of working",
+      "zh": ""
+    },
+    {
+      "start": 1951.16,
+      "duration": 1.54,
+      "text": "with both hands tied behind your back.",
+      "en": "with both hands tied behind your back.",
+      "zh": ""
+    },
+    {
+      "start": 1952.7,
+      "duration": 3.69,
+      "text": "It's very hard to make any progress on modern math.",
+      "en": "It's very hard to make any progress on modern math.",
+      "zh": ""
+    },
+    {
+      "start": 1956.39,
+      "duration": 2.52,
+      "text": "- So the question was never really",
+      "en": "- So the question was never really",
+      "zh": ""
+    },
+    {
+      "start": 1958.91,
+      "duration": 2.04,
+      "text": "is the axiom of choice right?",
+      "en": "is the axiom of choice right?",
+      "zh": ""
+    },
+    {
+      "start": 1960.95,
+      "duration": 2.88,
+      "text": "But rather is the axiom of choice right",
+      "en": "But rather is the axiom of choice right",
+      "zh": ""
+    },
+    {
+      "start": 1963.83,
+      "duration": 2.09,
+      "text": "for what you want to do?",
+      "en": "for what you want to do?",
+      "zh": ""
+    },
+    {
+      "start": 1965.92,
+      "duration": 2.57,
+      "text": "(frequencies buzzing)",
+      "en": "(frequencies buzzing)",
+      "zh": ""
+    },
+    {
+      "start": 1968.49,
+      "duration": 2.59,
+      "text": "(bright music)",
+      "en": "(bright music)",
+      "zh": ""
+    }
+  ],
+  "words": []
+}

@@ -1,0 +1,3778 @@
+{
+  "cues": [
+    {
+      "start": 0.21,
+      "duration": 2.04,
+      "text": "- I want you to listen to these two sounds",
+      "en": "- I want you to listen to these two sounds",
+      "zh": ""
+    },
+    {
+      "start": 2.25,
+      "duration": 1.92,
+      "text": "and decide which is higher.",
+      "en": "and decide which is higher.",
+      "zh": ""
+    },
+    {
+      "start": 4.17,
+      "duration": 1.02,
+      "text": "So this is sound A.",
+      "en": "So this is sound A.",
+      "zh": ""
+    },
+    {
+      "start": 5.19,
+      "duration": 1.32,
+      "text": "(sample sound buzzing)",
+      "en": "(sample sound buzzing)",
+      "zh": ""
+    },
+    {
+      "start": 6.51,
+      "duration": 1.25,
+      "text": "And this is sound B.",
+      "en": "And this is sound B.",
+      "zh": ""
+    },
+    {
+      "start": 7.76,
+      "duration": 1.48,
+      "text": "(sample sound buzzing)",
+      "en": "(sample sound buzzing)",
+      "zh": ""
+    },
+    {
+      "start": 9.24,
+      "duration": 2.49,
+      "text": "Okay, so to me, sound A is clearly higher,",
+      "en": "Okay, so to me, sound A is clearly higher,",
+      "zh": ""
+    },
+    {
+      "start": 11.73,
+      "duration": 1.38,
+      "text": "but that's strange",
+      "en": "but that's strange",
+      "zh": ""
+    },
+    {
+      "start": 13.11,
+      "duration": 3.39,
+      "text": "because sound A was just a 100 hertz sine wave.",
+      "en": "because sound A was just a 100 hertz sine wave.",
+      "zh": ""
+    },
+    {
+      "start": 16.5,
+      "duration": 2.55,
+      "text": "Sound B had that same 100 hertz frequency,",
+      "en": "Sound B had that same 100 hertz frequency,",
+      "zh": ""
+    },
+    {
+      "start": 19.05,
+      "duration": 4.11,
+      "text": "but also 150 hertz and 200 hertz.",
+      "en": "but also 150 hertz and 200 hertz.",
+      "zh": ""
+    },
+    {
+      "start": 23.16,
+      "duration": 4.26,
+      "text": "So we added higher frequencies, but the sound was lower.",
+      "en": "So we added higher frequencies, but the sound was lower.",
+      "zh": ""
+    },
+    {
+      "start": 27.42,
+      "duration": 1.56,
+      "text": "How does that work?",
+      "en": "How does that work?",
+      "zh": ""
+    },
+    {
+      "start": 28.98,
+      "duration": 1.32,
+      "text": "I think there's this idea that",
+      "en": "I think there's this idea that",
+      "zh": ""
+    },
+    {
+      "start": 30.3,
+      "duration": 2.76,
+      "text": "what our ears do is simply detect the frequency",
+      "en": "what our ears do is simply detect the frequency",
+      "zh": ""
+    },
+    {
+      "start": 33.06,
+      "duration": 2.07,
+      "text": "of vibrations in our environment that are between",
+      "en": "of vibrations in our environment that are between",
+      "zh": ""
+    },
+    {
+      "start": 35.13,
+      "duration": 2.34,
+      "text": "20 hertz and 20,000 hertz.",
+      "en": "20 hertz and 20,000 hertz.",
+      "zh": ""
+    },
+    {
+      "start": 37.47,
+      "duration": 3.09,
+      "text": "But there is so much more to hearing than that.",
+      "en": "But there is so much more to hearing than that.",
+      "zh": ""
+    },
+    {
+      "start": 40.56,
+      "duration": 2.22,
+      "text": "And in this video, we're gonna go through a series",
+      "en": "And in this video, we're gonna go through a series",
+      "zh": ""
+    },
+    {
+      "start": 42.78,
+      "duration": 2.58,
+      "text": "of audio illusions that illustrate how our sense",
+      "en": "of audio illusions that illustrate how our sense",
+      "zh": ""
+    },
+    {
+      "start": 45.36,
+      "duration": 2.16,
+      "text": "of hearing actually works.",
+      "en": "of hearing actually works.",
+      "zh": ""
+    },
+    {
+      "start": 47.52,
+      "duration": 2.46,
+      "text": "Most of these effects will work on a phone",
+      "en": "Most of these effects will work on a phone",
+      "zh": ""
+    },
+    {
+      "start": 49.98,
+      "duration": 3.15,
+      "text": "or laptop speakers, but if you have headphones handy, well,",
+      "en": "or laptop speakers, but if you have headphones handy, well,",
+      "zh": ""
+    },
+    {
+      "start": 53.13,
+      "duration": 4.5,
+      "text": "I'd recommend putting them on for the full experience.",
+      "en": "I'd recommend putting them on for the full experience.",
+      "zh": ""
+    },
+    {
+      "start": 74.13,
+      "duration": 1.59,
+      "text": "It's like a whole body instrument, isn't it?",
+      "en": "It's like a whole body instrument, isn't it?",
+      "zh": ""
+    },
+    {
+      "start": 75.72,
+      "duration": 1.29,
+      "text": "- Absolutely yeah, yeah.",
+      "en": "- Absolutely yeah, yeah.",
+      "zh": ""
+    },
+    {
+      "start": 77.01,
+      "duration": 3.57,
+      "text": "- This is the Sydney Town Hall pipe organ.",
+      "en": "- This is the Sydney Town Hall pipe organ.",
+      "zh": ""
+    },
+    {
+      "start": 80.58,
+      "duration": 1.86,
+      "text": "When it was built in 1890,",
+      "en": "When it was built in 1890,",
+      "zh": ""
+    },
+    {
+      "start": 82.44,
+      "duration": 3.17,
+      "text": "it was the largest organ in the world.",
+      "en": "it was the largest organ in the world.",
+      "zh": ""
+    },
+    {
+      "start": 87.93,
+      "duration": 2.04,
+      "text": "Something I didn't realize about organs is",
+      "en": "Something I didn't realize about organs is",
+      "zh": ""
+    },
+    {
+      "start": 89.97,
+      "duration": 2.25,
+      "text": "that they were meant to sound like many different",
+      "en": "that they were meant to sound like many different",
+      "zh": ""
+    },
+    {
+      "start": 92.22,
+      "duration": 2.4,
+      "text": "instruments playing together.",
+      "en": "instruments playing together.",
+      "zh": ""
+    },
+    {
+      "start": 94.62,
+      "duration": 3.67,
+      "text": "- Organs are sort of a one person orchestra.",
+      "en": "- Organs are sort of a one person orchestra.",
+      "zh": ""
+    },
+    {
+      "start": 100.98,
+      "duration": 0.83,
+      "text": "Very flutie, right?",
+      "en": "Very flutie, right?",
+      "zh": ""
+    },
+    {
+      "start": 101.81,
+      "duration": 1.15,
+      "text": "- Yeah. - You can tell.",
+      "en": "- Yeah. - You can tell.",
+      "zh": ""
+    },
+    {
+      "start": 103.83,
+      "duration": 2.17,
+      "text": "Compare that to a trumpet.",
+      "en": "Compare that to a trumpet.",
+      "zh": ""
+    },
+    {
+      "start": 112.26,
+      "duration": 1.51,
+      "text": "Oboe sound.",
+      "en": "Oboe sound.",
+      "zh": ""
+    },
+    {
+      "start": 122.64,
+      "duration": 4.02,
+      "text": "So you can hear all these orchestral sounds on the organ.",
+      "en": "So you can hear all these orchestral sounds on the organ.",
+      "zh": ""
+    },
+    {
+      "start": 126.66,
+      "duration": 2.31,
+      "text": "We could get inside the instrument too.",
+      "en": "We could get inside the instrument too.",
+      "zh": ""
+    },
+    {
+      "start": 128.97,
+      "duration": 0.83,
+      "text": "- Should we go look?",
+      "en": "- Should we go look?",
+      "zh": ""
+    },
+    {
+      "start": 129.8,
+      "duration": 0.84,
+      "text": "- Let's have a look. Yeah.",
+      "en": "- Let's have a look. Yeah.",
+      "zh": ""
+    },
+    {
+      "start": 130.64,
+      "duration": 0.88,
+      "text": "- Okay.",
+      "en": "- Okay.",
+      "zh": ""
+    },
+    {
+      "start": 131.52,
+      "duration": 2.76,
+      "text": "- For each instrument, there are a series of pipes",
+      "en": "- For each instrument, there are a series of pipes",
+      "zh": ""
+    },
+    {
+      "start": 134.28,
+      "duration": 1.68,
+      "text": "in the organ which play all the different",
+      "en": "in the organ which play all the different",
+      "zh": ""
+    },
+    {
+      "start": 135.96,
+      "duration": 1.71,
+      "text": "notes for that instrument.",
+      "en": "notes for that instrument.",
+      "zh": ""
+    },
+    {
+      "start": 137.67,
+      "duration": 2.51,
+      "text": "- I mean, there are 8,000 pipes in this organ.",
+      "en": "- I mean, there are 8,000 pipes in this organ.",
+      "zh": ""
+    },
+    {
+      "start": 140.18,
+      "duration": 1.38,
+      "text": "- 8,000?",
+      "en": "- 8,000?",
+      "zh": ""
+    },
+    {
+      "start": 141.56,
+      "duration": 0.88,
+      "text": "- 8,000, yeah.",
+      "en": "- 8,000, yeah.",
+      "zh": ""
+    },
+    {
+      "start": 142.44,
+      "duration": 1.62,
+      "text": "- Why do you need that many?",
+      "en": "- Why do you need that many?",
+      "zh": ""
+    },
+    {
+      "start": 144.06,
+      "duration": 2.46,
+      "text": "- To create all the different sounds of the orchestra.",
+      "en": "- To create all the different sounds of the orchestra.",
+      "zh": ""
+    },
+    {
+      "start": 146.52,
+      "duration": 3.09,
+      "text": "- What you see on the outside is just a tiny fraction",
+      "en": "- What you see on the outside is just a tiny fraction",
+      "zh": ""
+    },
+    {
+      "start": 149.61,
+      "duration": 1.8,
+      "text": "of the organ itself.",
+      "en": "of the organ itself.",
+      "zh": ""
+    },
+    {
+      "start": 151.41,
+      "duration": 3.03,
+      "text": "Whoa look at all these. They're all hidden in here.",
+      "en": "Whoa look at all these. They're all hidden in here.",
+      "zh": ""
+    },
+    {
+      "start": 154.44,
+      "duration": 0.93,
+      "text": "- [Titus] They are, yeah.",
+      "en": "- [Titus] They are, yeah.",
+      "zh": ""
+    },
+    {
+      "start": 155.37,
+      "duration": 1.74,
+      "text": "And some are wooden, some are metal.",
+      "en": "And some are wooden, some are metal.",
+      "zh": ""
+    },
+    {
+      "start": 157.11,
+      "duration": 1.75,
+      "text": "Some have resonators at the bottom of them",
+      "en": "Some have resonators at the bottom of them",
+      "zh": ""
+    },
+    {
+      "start": 158.86,
+      "duration": 3.26,
+      "text": "to create the more reedy sounds, the brassy sounds.",
+      "en": "to create the more reedy sounds, the brassy sounds.",
+      "zh": ""
+    },
+    {
+      "start": 162.12,
+      "duration": 1.26,
+      "text": "But then these wooden ones are more",
+      "en": "But then these wooden ones are more",
+      "zh": ""
+    },
+    {
+      "start": 163.38,
+      "duration": 3.27,
+      "text": "of the deep flutie sounds as well.",
+      "en": "of the deep flutie sounds as well.",
+      "zh": ""
+    },
+    {
+      "start": 166.65,
+      "duration": 1.56,
+      "text": "- This is like what a keyboard?",
+      "en": "- This is like what a keyboard?",
+      "zh": ""
+    },
+    {
+      "start": 168.21,
+      "duration": 1.29,
+      "text": "- It's a keyboard. Yeah, that's right.",
+      "en": "- It's a keyboard. Yeah, that's right.",
+      "zh": ""
+    },
+    {
+      "start": 169.5,
+      "duration": 2.34,
+      "text": "A keyboard layout of pipes.",
+      "en": "A keyboard layout of pipes.",
+      "zh": ""
+    },
+    {
+      "start": 181.27,
+      "duration": 2.39,
+      "text": "- Very nice you position yourself well...",
+      "en": "- Very nice you position yourself well...",
+      "zh": ""
+    },
+    {
+      "start": 183.66,
+      "duration": 2.31,
+      "text": "- When two pipes of the same length vibrate,",
+      "en": "- When two pipes of the same length vibrate,",
+      "zh": ""
+    },
+    {
+      "start": 185.97,
+      "duration": 2.42,
+      "text": "they both play the same note.",
+      "en": "they both play the same note.",
+      "zh": ""
+    },
+    {
+      "start": 190.83,
+      "duration": 2.46,
+      "text": "That's because they're both producing the same fundamental",
+      "en": "That's because they're both producing the same fundamental",
+      "zh": ""
+    },
+    {
+      "start": 193.29,
+      "duration": 2.04,
+      "text": "frequency that is the lowest",
+      "en": "frequency that is the lowest",
+      "zh": ""
+    },
+    {
+      "start": 195.33,
+      "duration": 3.72,
+      "text": "and usually highest amplitude vibration they produce.",
+      "en": "and usually highest amplitude vibration they produce.",
+      "zh": ""
+    },
+    {
+      "start": 199.05,
+      "duration": 2.55,
+      "text": "But if the pipes are made of different materials,",
+      "en": "But if the pipes are made of different materials,",
+      "zh": ""
+    },
+    {
+      "start": 201.6,
+      "duration": 1.77,
+      "text": "they will sound different.",
+      "en": "they will sound different.",
+      "zh": ""
+    },
+    {
+      "start": 203.37,
+      "duration": 2.94,
+      "text": "So you can tell they are different instruments,",
+      "en": "So you can tell they are different instruments,",
+      "zh": ""
+    },
+    {
+      "start": 206.31,
+      "duration": 3.03,
+      "text": "and that's because each one produces a distinct set",
+      "en": "and that's because each one produces a distinct set",
+      "zh": ""
+    },
+    {
+      "start": 209.34,
+      "duration": 2.94,
+      "text": "of higher frequencies called overtones.",
+      "en": "of higher frequencies called overtones.",
+      "zh": ""
+    },
+    {
+      "start": 212.28,
+      "duration": 2.16,
+      "text": "They're not as loud as the fundamental,",
+      "en": "They're not as loud as the fundamental,",
+      "zh": ""
+    },
+    {
+      "start": 214.44,
+      "duration": 3.01,
+      "text": "and we don't hear them as distinct tones,",
+      "en": "and we don't hear them as distinct tones,",
+      "zh": ""
+    },
+    {
+      "start": 217.45,
+      "duration": 4.31,
+      "text": "but they affect the quality of the sound called timbre.",
+      "en": "but they affect the quality of the sound called timbre.",
+      "zh": ""
+    },
+    {
+      "start": 221.76,
+      "duration": 2.49,
+      "text": "It's how you can tell apart a trumpet",
+      "en": "It's how you can tell apart a trumpet",
+      "zh": ""
+    },
+    {
+      "start": 224.25,
+      "duration": 1.86,
+      "text": "from say a flute.",
+      "en": "from say a flute.",
+      "zh": ""
+    },
+    {
+      "start": 226.11,
+      "duration": 2.64,
+      "text": "They have overtones of different frequencies",
+      "en": "They have overtones of different frequencies",
+      "zh": ""
+    },
+    {
+      "start": 228.75,
+      "duration": 1.53,
+      "text": "and relative amplitudes.",
+      "en": "and relative amplitudes.",
+      "zh": ""
+    },
+    {
+      "start": 231.54,
+      "duration": 1.14,
+      "text": "For a lot of instruments,",
+      "en": "For a lot of instruments,",
+      "zh": ""
+    },
+    {
+      "start": 232.68,
+      "duration": 2.7,
+      "text": "the most common overtones are integer multiples",
+      "en": "the most common overtones are integer multiples",
+      "zh": ""
+    },
+    {
+      "start": 235.38,
+      "duration": 1.86,
+      "text": "of the fundamental frequency.",
+      "en": "of the fundamental frequency.",
+      "zh": ""
+    },
+    {
+      "start": 237.24,
+      "duration": 2.46,
+      "text": "These are known as harmonics.",
+      "en": "These are known as harmonics.",
+      "zh": ""
+    },
+    {
+      "start": 239.7,
+      "duration": 2.91,
+      "text": "- If this was your fundamental note,",
+      "en": "- If this was your fundamental note,",
+      "zh": ""
+    },
+    {
+      "start": 242.61,
+      "duration": 4.83,
+      "text": "the notes that you're gonna be hearing with it would be...",
+      "en": "the notes that you're gonna be hearing with it would be...",
+      "zh": ""
+    },
+    {
+      "start": 257.1,
+      "duration": 3.36,
+      "text": "So all of those notes are within that fundamental note.",
+      "en": "So all of those notes are within that fundamental note.",
+      "zh": ""
+    },
+    {
+      "start": 260.46,
+      "duration": 2.16,
+      "text": "- Now, harmonics can be useful when you're trying",
+      "en": "- Now, harmonics can be useful when you're trying",
+      "zh": ""
+    },
+    {
+      "start": 262.62,
+      "duration": 2.07,
+      "text": "to play really low notes.",
+      "en": "to play really low notes.",
+      "zh": ""
+    },
+    {
+      "start": 264.69,
+      "duration": 2.1,
+      "text": "The Sydney Town Hall pipe organ is one",
+      "en": "The Sydney Town Hall pipe organ is one",
+      "zh": ""
+    },
+    {
+      "start": 266.79,
+      "duration": 4.08,
+      "text": "of only two in the world that has a 64 foot long pipe.",
+      "en": "of only two in the world that has a 64 foot long pipe.",
+      "zh": ""
+    },
+    {
+      "start": 270.87,
+      "duration": 1.35,
+      "text": "- It's actually so large that it has",
+      "en": "- It's actually so large that it has",
+      "zh": ""
+    },
+    {
+      "start": 272.22,
+      "duration": 1.29,
+      "text": "to be folded over itself.",
+      "en": "to be folded over itself.",
+      "zh": ""
+    },
+    {
+      "start": 273.51,
+      "duration": 2.46,
+      "text": "- Where is the 64? Can we see it?",
+      "en": "- Where is the 64? Can we see it?",
+      "zh": ""
+    },
+    {
+      "start": 275.97,
+      "duration": 1.44,
+      "text": "- You've got the grand question",
+      "en": "- You've got the grand question",
+      "zh": ""
+    },
+    {
+      "start": 277.41,
+      "duration": 0.9,
+      "text": "that I don't know.",
+      "en": "that I don't know.",
+      "zh": ""
+    },
+    {
+      "start": 279.27,
+      "duration": 1.32,
+      "text": "I know it's somewhere here.",
+      "en": "I know it's somewhere here.",
+      "zh": ""
+    },
+    {
+      "start": 280.59,
+      "duration": 2.94,
+      "text": "- Like that's a really big chunk of wood right here.",
+      "en": "- Like that's a really big chunk of wood right here.",
+      "zh": ""
+    },
+    {
+      "start": 283.53,
+      "duration": 0.83,
+      "text": "- Oh, yeah.",
+      "en": "- Oh, yeah.",
+      "zh": ""
+    },
+    {
+      "start": 284.36,
+      "duration": 1.3,
+      "text": "- Could that be it?",
+      "en": "- Could that be it?",
+      "zh": ""
+    },
+    {
+      "start": 285.66,
+      "duration": 4.41,
+      "text": "This pipe is used to produce a frequency of 8 hertz.",
+      "en": "This pipe is used to produce a frequency of 8 hertz.",
+      "zh": ""
+    },
+    {
+      "start": 290.07,
+      "duration": 1.5,
+      "text": "- When you get to that level, it's more something",
+      "en": "- When you get to that level, it's more something",
+      "zh": ""
+    },
+    {
+      "start": 291.57,
+      "duration": 2.37,
+      "text": "that you feel rather than something that you hear.",
+      "en": "that you feel rather than something that you hear.",
+      "zh": ""
+    },
+    {
+      "start": 293.94,
+      "duration": 0.83,
+      "text": "- For sure.",
+      "en": "- For sure.",
+      "zh": ""
+    },
+    {
+      "start": 294.77,
+      "duration": 2.53,
+      "text": "The lowest note most big pipe organs can play is",
+      "en": "The lowest note most big pipe organs can play is",
+      "zh": ""
+    },
+    {
+      "start": 297.3,
+      "duration": 3.54,
+      "text": "16 hertz, which is just at the limit of human hearing.",
+      "en": "16 hertz, which is just at the limit of human hearing.",
+      "zh": ""
+    },
+    {
+      "start": 300.84,
+      "duration": 3.39,
+      "text": "But even this requires a 32 foot pipe, which is too big",
+      "en": "But even this requires a 32 foot pipe, which is too big",
+      "zh": ""
+    },
+    {
+      "start": 304.23,
+      "duration": 2.61,
+      "text": "or expensive for many organs.",
+      "en": "or expensive for many organs.",
+      "zh": ""
+    },
+    {
+      "start": 306.84,
+      "duration": 2.25,
+      "text": "Do you know where the 32 footers are?",
+      "en": "Do you know where the 32 footers are?",
+      "zh": ""
+    },
+    {
+      "start": 309.09,
+      "duration": 1.86,
+      "text": "- Well...",
+      "en": "- Well...",
+      "zh": ""
+    },
+    {
+      "start": 310.95,
+      "duration": 1.5,
+      "text": "- They're ones out the front?",
+      "en": "- They're ones out the front?",
+      "zh": ""
+    },
+    {
+      "start": 312.45,
+      "duration": 1.7,
+      "text": "- They're the ones that you see at the front.",
+      "en": "- They're the ones that you see at the front.",
+      "zh": ""
+    },
+    {
+      "start": 315.3,
+      "duration": 1.59,
+      "text": "That one.",
+      "en": "That one.",
+      "zh": ""
+    },
+    {
+      "start": 316.89,
+      "duration": 2.13,
+      "text": "- That's the 32 footer. - Yeah.",
+      "en": "- That's the 32 footer. - Yeah.",
+      "zh": ""
+    },
+    {
+      "start": 319.02,
+      "duration": 2.25,
+      "text": "- So that's nearly 10 meters.",
+      "en": "- So that's nearly 10 meters.",
+      "zh": ""
+    },
+    {
+      "start": 321.27,
+      "duration": 1.74,
+      "text": "- Nearly 10 meters. Yeah.",
+      "en": "- Nearly 10 meters. Yeah.",
+      "zh": ""
+    },
+    {
+      "start": 323.01,
+      "duration": 1.2,
+      "text": "It's pretty scary to think about",
+      "en": "It's pretty scary to think about",
+      "zh": ""
+    },
+    {
+      "start": 324.21,
+      "duration": 1.59,
+      "text": "from the top of it actually.",
+      "en": "from the top of it actually.",
+      "zh": ""
+    },
+    {
+      "start": 325.8,
+      "duration": 1.8,
+      "text": "- In 18th century Europe,",
+      "en": "- In 18th century Europe,",
+      "zh": ""
+    },
+    {
+      "start": 327.6,
+      "duration": 3.42,
+      "text": "Georg Joseph Vogler was a popular organist.",
+      "en": "Georg Joseph Vogler was a popular organist.",
+      "zh": ""
+    },
+    {
+      "start": 331.02,
+      "duration": 1.68,
+      "text": "He wanted to tour the continent,",
+      "en": "He wanted to tour the continent,",
+      "zh": ""
+    },
+    {
+      "start": 332.7,
+      "duration": 3.66,
+      "text": "but that would require building a compact portable organ",
+      "en": "but that would require building a compact portable organ",
+      "zh": ""
+    },
+    {
+      "start": 336.36,
+      "duration": 2.64,
+      "text": "that he could take with him on the road.",
+      "en": "that he could take with him on the road.",
+      "zh": ""
+    },
+    {
+      "start": 339.0,
+      "duration": 1.32,
+      "text": "And we obviously couldn't haul",
+      "en": "And we obviously couldn't haul",
+      "zh": ""
+    },
+    {
+      "start": 340.32,
+      "duration": 3.93,
+      "text": "around the huge 32 foot pipe required to produce 16 hertz.",
+      "en": "around the huge 32 foot pipe required to produce 16 hertz.",
+      "zh": ""
+    },
+    {
+      "start": 344.25,
+      "duration": 2.61,
+      "text": "So how could he still create the low frequencies",
+      "en": "So how could he still create the low frequencies",
+      "zh": ""
+    },
+    {
+      "start": 346.86,
+      "duration": 2.46,
+      "text": "that make the organ so powerful?",
+      "en": "that make the organ so powerful?",
+      "zh": ""
+    },
+    {
+      "start": 349.32,
+      "duration": 3.03,
+      "text": "Well, Vogler realized that if he played the harmonics",
+      "en": "Well, Vogler realized that if he played the harmonics",
+      "zh": ""
+    },
+    {
+      "start": 352.35,
+      "duration": 2.94,
+      "text": "of 16 hertz using shorter pipes,",
+      "en": "of 16 hertz using shorter pipes,",
+      "zh": ""
+    },
+    {
+      "start": 355.29,
+      "duration": 3.33,
+      "text": "your brain would hear this missing fundamental.",
+      "en": "your brain would hear this missing fundamental.",
+      "zh": ""
+    },
+    {
+      "start": 360.21,
+      "duration": 0.83,
+      "text": "Can we try the trick",
+      "en": "Can we try the trick",
+      "zh": ""
+    },
+    {
+      "start": 361.04,
+      "duration": 1.72,
+      "text": "and see if it sounds? - Yeah, sure.",
+      "en": "and see if it sounds? - Yeah, sure.",
+      "zh": ""
+    },
+    {
+      "start": 362.76,
+      "duration": 2.98,
+      "text": "The fifth is that sort of most common fundamental,",
+      "en": "The fifth is that sort of most common fundamental,",
+      "zh": ""
+    },
+    {
+      "start": 365.74,
+      "duration": 3.05,
+      "text": "which you're gonna hear to get the low sound,",
+      "en": "which you're gonna hear to get the low sound,",
+      "zh": ""
+    },
+    {
+      "start": 368.79,
+      "duration": 3.6,
+      "text": "but basically the quint gets used with a 16 foot",
+      "en": "but basically the quint gets used with a 16 foot",
+      "zh": ""
+    },
+    {
+      "start": 372.39,
+      "duration": 3.39,
+      "text": "and it creates the lower resultant tone.",
+      "en": "and it creates the lower resultant tone.",
+      "zh": ""
+    },
+    {
+      "start": 375.78,
+      "duration": 2.33,
+      "text": "So that's just the 16 metal.",
+      "en": "So that's just the 16 metal.",
+      "zh": ""
+    },
+    {
+      "start": 381.18,
+      "duration": 1.5,
+      "text": "- It's so funny because you add it",
+      "en": "- It's so funny because you add it",
+      "zh": ""
+    },
+    {
+      "start": 382.68,
+      "duration": 1.89,
+      "text": "and I do not hear it going up.",
+      "en": "and I do not hear it going up.",
+      "zh": ""
+    },
+    {
+      "start": 384.57,
+      "duration": 1.68,
+      "text": "You're playing a fifth above.",
+      "en": "You're playing a fifth above.",
+      "zh": ""
+    },
+    {
+      "start": 386.25,
+      "duration": 1.65,
+      "text": "- Yes - But I'm hearing it go down.",
+      "en": "- Yes - But I'm hearing it go down.",
+      "zh": ""
+    },
+    {
+      "start": 387.9,
+      "duration": 1.41,
+      "text": "Like you just pull that out and I'm like,",
+      "en": "Like you just pull that out and I'm like,",
+      "zh": ""
+    },
+    {
+      "start": 389.31,
+      "duration": 1.17,
+      "text": "oh yeah, the note dropped.",
+      "en": "oh yeah, the note dropped.",
+      "zh": ""
+    },
+    {
+      "start": 390.48,
+      "duration": 1.35,
+      "text": "- That's the trick. Yeah.",
+      "en": "- That's the trick. Yeah.",
+      "zh": ""
+    },
+    {
+      "start": 391.83,
+      "duration": 1.89,
+      "text": "- With the two sounds I played at the beginning,",
+      "en": "- With the two sounds I played at the beginning,",
+      "zh": ""
+    },
+    {
+      "start": 393.72,
+      "duration": 1.95,
+      "text": "the first was a pure 100 hertz.",
+      "en": "the first was a pure 100 hertz.",
+      "zh": ""
+    },
+    {
+      "start": 395.67,
+      "duration": 1.98,
+      "text": "(sample sound buzzing)",
+      "en": "(sample sound buzzing)",
+      "zh": ""
+    },
+    {
+      "start": 397.65,
+      "duration": 1.65,
+      "text": "But the second sound was made up",
+      "en": "But the second sound was made up",
+      "zh": ""
+    },
+    {
+      "start": 399.3,
+      "duration": 1.94,
+      "text": "of the harmonics of 50 hertz.",
+      "en": "of the harmonics of 50 hertz.",
+      "zh": ""
+    },
+    {
+      "start": 401.24,
+      "duration": 2.96,
+      "text": "(sample sound buzzing)",
+      "en": "(sample sound buzzing)",
+      "zh": ""
+    },
+    {
+      "start": 404.2,
+      "duration": 3.35,
+      "text": "So you actually heard this fundamental frequency,",
+      "en": "So you actually heard this fundamental frequency,",
+      "zh": ""
+    },
+    {
+      "start": 407.55,
+      "duration": 1.8,
+      "text": "even though it wasn't there.",
+      "en": "even though it wasn't there.",
+      "zh": ""
+    },
+    {
+      "start": 409.35,
+      "duration": 3.96,
+      "text": "That's how higher frequencies together can sound lower than",
+      "en": "That's how higher frequencies together can sound lower than",
+      "zh": ""
+    },
+    {
+      "start": 413.31,
+      "duration": 5.0,
+      "text": "low frequencies if they are harmonics of a low fundamental.",
+      "en": "low frequencies if they are harmonics of a low fundamental.",
+      "zh": ""
+    },
+    {
+      "start": 418.32,
+      "duration": 2.64,
+      "text": "Now, this might not be as weird as it seems.",
+      "en": "Now, this might not be as weird as it seems.",
+      "zh": ""
+    },
+    {
+      "start": 420.96,
+      "duration": 2.04,
+      "text": "If you look at the wave form of the harmonics,",
+      "en": "If you look at the wave form of the harmonics,",
+      "zh": ""
+    },
+    {
+      "start": 423.0,
+      "duration": 2.04,
+      "text": "you find that adding the higher frequencies",
+      "en": "you find that adding the higher frequencies",
+      "zh": ""
+    },
+    {
+      "start": 425.04,
+      "duration": 2.22,
+      "text": "changes the period of the sound.",
+      "en": "changes the period of the sound.",
+      "zh": ""
+    },
+    {
+      "start": 427.26,
+      "duration": 3.24,
+      "text": "It makes the period longer so that it's actually the same",
+      "en": "It makes the period longer so that it's actually the same",
+      "zh": ""
+    },
+    {
+      "start": 430.5,
+      "duration": 1.95,
+      "text": "as the missing fundamental.",
+      "en": "as the missing fundamental.",
+      "zh": ""
+    },
+    {
+      "start": 432.45,
+      "duration": 4.05,
+      "text": "- If you kind of recreate some of those harmonic pitches,",
+      "en": "- If you kind of recreate some of those harmonic pitches,",
+      "zh": ""
+    },
+    {
+      "start": 436.5,
+      "duration": 3.78,
+      "text": "you're actually gonna bring out more bass in the sound.",
+      "en": "you're actually gonna bring out more bass in the sound.",
+      "zh": ""
+    },
+    {
+      "start": 441.14,
+      "duration": 3.16,
+      "text": "- So, the idea of like you could play the harmonics",
+      "en": "- So, the idea of like you could play the harmonics",
+      "zh": ""
+    },
+    {
+      "start": 444.3,
+      "duration": 2.46,
+      "text": "and hear the fundamental",
+      "en": "and hear the fundamental",
+      "zh": ""
+    },
+    {
+      "start": 446.76,
+      "duration": 1.53,
+      "text": "even if you're not playing the fundamental.",
+      "en": "even if you're not playing the fundamental.",
+      "zh": ""
+    },
+    {
+      "start": 448.29,
+      "duration": 1.29,
+      "text": "- That's right. Yeah.",
+      "en": "- That's right. Yeah.",
+      "zh": ""
+    },
+    {
+      "start": 449.58,
+      "duration": 1.92,
+      "text": "- So different frequency sounds can",
+      "en": "- So different frequency sounds can",
+      "zh": ""
+    },
+    {
+      "start": 451.5,
+      "duration": 2.64,
+      "text": "combine to make notes that aren't there,",
+      "en": "combine to make notes that aren't there,",
+      "zh": ""
+    },
+    {
+      "start": 454.14,
+      "duration": 2.82,
+      "text": "but they can also do something, even stranger.",
+      "en": "but they can also do something, even stranger.",
+      "zh": ""
+    },
+    {
+      "start": 457.99,
+      "duration": 2.39,
+      "text": "- Hello, it's me, Mario.",
+      "en": "- Hello, it's me, Mario.",
+      "zh": ""
+    },
+    {
+      "start": 460.38,
+      "duration": 3.03,
+      "text": "- In Super Mario 64, there's a staircase",
+      "en": "- In Super Mario 64, there's a staircase",
+      "zh": ""
+    },
+    {
+      "start": 463.41,
+      "duration": 1.89,
+      "text": "that seems to go on forever.",
+      "en": "that seems to go on forever.",
+      "zh": ""
+    },
+    {
+      "start": 465.3,
+      "duration": 3.45,
+      "text": "Players can't level up until they collect enough coins.",
+      "en": "Players can't level up until they collect enough coins.",
+      "zh": ""
+    },
+    {
+      "start": 468.75,
+      "duration": 2.82,
+      "text": "Now listen carefully to the music.",
+      "en": "Now listen carefully to the music.",
+      "zh": ""
+    },
+    {
+      "start": 471.57,
+      "duration": 4.44,
+      "text": "The scale sounds like it keeps going up and up",
+      "en": "The scale sounds like it keeps going up and up",
+      "zh": ""
+    },
+    {
+      "start": 476.01,
+      "duration": 3.78,
+      "text": "and up, just like the endless staircase.",
+      "en": "and up, just like the endless staircase.",
+      "zh": ""
+    },
+    {
+      "start": 480.93,
+      "duration": 2.13,
+      "text": "This is the Shepard tone illusion,",
+      "en": "This is the Shepard tone illusion,",
+      "zh": ""
+    },
+    {
+      "start": 483.06,
+      "duration": 2.62,
+      "text": "and here's a Shepard Glissando on its own.",
+      "en": "and here's a Shepard Glissando on its own.",
+      "zh": ""
+    },
+    {
+      "start": 485.68,
+      "duration": 3.59,
+      "text": "(music escalating)",
+      "en": "(music escalating)",
+      "zh": ""
+    },
+    {
+      "start": 489.27,
+      "duration": 3.36,
+      "text": "An ever increasing tone should be impossible",
+      "en": "An ever increasing tone should be impossible",
+      "zh": ""
+    },
+    {
+      "start": 492.63,
+      "duration": 1.62,
+      "text": "because we can't hear anything",
+      "en": "because we can't hear anything",
+      "zh": ""
+    },
+    {
+      "start": 494.25,
+      "duration": 2.58,
+      "text": "beyond the 20,000 hertz limit,",
+      "en": "beyond the 20,000 hertz limit,",
+      "zh": ""
+    },
+    {
+      "start": 496.83,
+      "duration": 4.35,
+      "text": "and yet this sound keeps going, always ascending.",
+      "en": "and yet this sound keeps going, always ascending.",
+      "zh": ""
+    },
+    {
+      "start": 502.92,
+      "duration": 3.18,
+      "text": "The trick is a Shepard tone isn't just one note.",
+      "en": "The trick is a Shepard tone isn't just one note.",
+      "zh": ""
+    },
+    {
+      "start": 506.1,
+      "duration": 2.28,
+      "text": "There are multiple frequencies being played,",
+      "en": "There are multiple frequencies being played,",
+      "zh": ""
+    },
+    {
+      "start": 508.38,
+      "duration": 2.46,
+      "text": "all separated by octaves.",
+      "en": "all separated by octaves.",
+      "zh": ""
+    },
+    {
+      "start": 510.84,
+      "duration": 2.49,
+      "text": "All of these frequencies are increasing,",
+      "en": "All of these frequencies are increasing,",
+      "zh": ""
+    },
+    {
+      "start": 513.33,
+      "duration": 3.06,
+      "text": "but as they do, their volumes change.",
+      "en": "but as they do, their volumes change.",
+      "zh": ""
+    },
+    {
+      "start": 516.39,
+      "duration": 3.72,
+      "text": "So the high notes get quieter, and the low notes get louder.",
+      "en": "So the high notes get quieter, and the low notes get louder.",
+      "zh": ""
+    },
+    {
+      "start": 520.11,
+      "duration": 4.25,
+      "text": "High notes soon fade out, and new low notes are faded in.",
+      "en": "High notes soon fade out, and new low notes are faded in.",
+      "zh": ""
+    },
+    {
+      "start": 524.36,
+      "duration": 4.15,
+      "text": "This gives the illusion of an ever rising pitch,",
+      "en": "This gives the illusion of an ever rising pitch,",
+      "zh": ""
+    },
+    {
+      "start": 528.51,
+      "duration": 3.67,
+      "text": "like the audio version of a barbershop pole.",
+      "en": "like the audio version of a barbershop pole.",
+      "zh": ""
+    },
+    {
+      "start": 533.16,
+      "duration": 2.28,
+      "text": "Shepard tones can also evoke emotional",
+      "en": "Shepard tones can also evoke emotional",
+      "zh": ""
+    },
+    {
+      "start": 535.44,
+      "duration": 2.4,
+      "text": "or physical responses in some listeners.",
+      "en": "or physical responses in some listeners.",
+      "zh": ""
+    },
+    {
+      "start": 537.84,
+      "duration": 1.56,
+      "text": "A 2016 study found that",
+      "en": "A 2016 study found that",
+      "zh": ""
+    },
+    {
+      "start": 539.4,
+      "duration": 1.35,
+      "text": "after listening to Shepard tones,",
+      "en": "after listening to Shepard tones,",
+      "zh": ""
+    },
+    {
+      "start": 540.75,
+      "duration": 2.37,
+      "text": "participants reported feeling nervous,",
+      "en": "participants reported feeling nervous,",
+      "zh": ""
+    },
+    {
+      "start": 543.12,
+      "duration": 2.13,
+      "text": "anxious, and disturbed.",
+      "en": "anxious, and disturbed.",
+      "zh": ""
+    },
+    {
+      "start": 545.25,
+      "duration": 2.43,
+      "text": "Perhaps that's why during an intense bombing scene",
+      "en": "Perhaps that's why during an intense bombing scene",
+      "zh": ""
+    },
+    {
+      "start": 547.68,
+      "duration": 2.7,
+      "text": "in the film, \"Dunkirk\" Shepard tones feature",
+      "en": "in the film, \"Dunkirk\" Shepard tones feature",
+      "zh": ""
+    },
+    {
+      "start": 550.38,
+      "duration": 2.17,
+      "text": "in the accompanying score.",
+      "en": "in the accompanying score.",
+      "zh": ""
+    },
+    {
+      "start": 556.53,
+      "duration": 2.55,
+      "text": "Hopefully this won't make you uneasy,",
+      "en": "Hopefully this won't make you uneasy,",
+      "zh": ""
+    },
+    {
+      "start": 559.08,
+      "duration": 3.51,
+      "text": "but I want you to try to figure out which well-known tune,",
+      "en": "but I want you to try to figure out which well-known tune,",
+      "zh": ""
+    },
+    {
+      "start": 562.59,
+      "duration": 3.54,
+      "text": "this is, all of the notes have been kept the same,",
+      "en": "this is, all of the notes have been kept the same,",
+      "zh": ""
+    },
+    {
+      "start": 566.13,
+      "duration": 3.06,
+      "text": "but they've been mixed up into different octaves.",
+      "en": "but they've been mixed up into different octaves.",
+      "zh": ""
+    },
+    {
+      "start": 570.09,
+      "duration": 3.34,
+      "text": "(sound beeping)",
+      "en": "(sound beeping)",
+      "zh": ""
+    },
+    {
+      "start": 577.05,
+      "duration": 2.25,
+      "text": "Did you recognize the song?",
+      "en": "Did you recognize the song?",
+      "zh": ""
+    },
+    {
+      "start": 579.3,
+      "duration": 2.58,
+      "text": "Well, here is the unscrambled melody.",
+      "en": "Well, here is the unscrambled melody.",
+      "zh": ""
+    },
+    {
+      "start": 581.88,
+      "duration": 3.33,
+      "text": "(sound beeping)",
+      "en": "(sound beeping)",
+      "zh": ""
+    },
+    {
+      "start": 589.29,
+      "duration": 1.56,
+      "text": "But now that you've heard that,",
+      "en": "But now that you've heard that,",
+      "zh": ""
+    },
+    {
+      "start": 590.85,
+      "duration": 2.3,
+      "text": "can you follow the scrambled version?",
+      "en": "can you follow the scrambled version?",
+      "zh": ""
+    },
+    {
+      "start": 593.15,
+      "duration": 3.33,
+      "text": "(sound beeping)",
+      "en": "(sound beeping)",
+      "zh": ""
+    },
+    {
+      "start": 601.47,
+      "duration": 2.25,
+      "text": "To me, it's fascinating how the second time",
+      "en": "To me, it's fascinating how the second time",
+      "zh": ""
+    },
+    {
+      "start": 603.72,
+      "duration": 2.73,
+      "text": "I heard the scrambled melody, the tune seemed obvious,",
+      "en": "I heard the scrambled melody, the tune seemed obvious,",
+      "zh": ""
+    },
+    {
+      "start": 606.45,
+      "duration": 3.3,
+      "text": "which is very different from how it sounded the first time.",
+      "en": "which is very different from how it sounded the first time.",
+      "zh": ""
+    },
+    {
+      "start": 609.75,
+      "duration": 3.51,
+      "text": "Our brains can find patterns in random sounds too.",
+      "en": "Our brains can find patterns in random sounds too.",
+      "zh": ""
+    },
+    {
+      "start": 613.26,
+      "duration": 2.28,
+      "text": "This is the phantom word illusion created",
+      "en": "This is the phantom word illusion created",
+      "zh": ""
+    },
+    {
+      "start": 615.54,
+      "duration": 1.86,
+      "text": "by Dr. Diana Deutsch.",
+      "en": "by Dr. Diana Deutsch.",
+      "zh": ""
+    },
+    {
+      "start": 617.4,
+      "duration": 1.02,
+      "text": "Listen to this audio",
+      "en": "Listen to this audio",
+      "zh": ""
+    },
+    {
+      "start": 618.42,
+      "duration": 2.73,
+      "text": "and try to figure out which words are being said.",
+      "en": "and try to figure out which words are being said.",
+      "zh": ""
+    },
+    {
+      "start": 621.15,
+      "duration": 3.58,
+      "text": "You can put what you heard in the comments.",
+      "en": "You can put what you heard in the comments.",
+      "zh": ""
+    },
+    {
+      "start": 631.25,
+      "duration": 2.17,
+      "text": "When one speaker plays a word,",
+      "en": "When one speaker plays a word,",
+      "zh": ""
+    },
+    {
+      "start": 633.42,
+      "duration": 2.07,
+      "text": "the second speaker plays a different word",
+      "en": "the second speaker plays a different word",
+      "zh": ""
+    },
+    {
+      "start": 635.49,
+      "duration": 1.44,
+      "text": "at the same time.",
+      "en": "at the same time.",
+      "zh": ""
+    },
+    {
+      "start": 636.93,
+      "duration": 2.94,
+      "text": "According to Dr. Deutsch, because the signals are mixed",
+      "en": "According to Dr. Deutsch, because the signals are mixed",
+      "zh": ""
+    },
+    {
+      "start": 639.87,
+      "duration": 2.25,
+      "text": "in the air before they reach your ears,",
+      "en": "in the air before they reach your ears,",
+      "zh": ""
+    },
+    {
+      "start": 642.12,
+      "duration": 1.68,
+      "text": "you're given a pile of sounds",
+      "en": "you're given a pile of sounds",
+      "zh": ""
+    },
+    {
+      "start": 643.8,
+      "duration": 3.69,
+      "text": "to choose from, so you can create words in your mind.",
+      "en": "to choose from, so you can create words in your mind.",
+      "zh": ""
+    },
+    {
+      "start": 649.08,
+      "duration": 2.82,
+      "text": "A lot of what we hear depends not on the frequencies",
+      "en": "A lot of what we hear depends not on the frequencies",
+      "zh": ""
+    },
+    {
+      "start": 651.9,
+      "duration": 3.63,
+      "text": "of sound, but on how our brains process them.",
+      "en": "of sound, but on how our brains process them.",
+      "zh": ""
+    },
+    {
+      "start": 655.53,
+      "duration": 2.37,
+      "text": "Dr. Deutsch noticed that when she played this illusion near",
+      "en": "Dr. Deutsch noticed that when she played this illusion near",
+      "zh": ""
+    },
+    {
+      "start": 657.9,
+      "duration": 3.73,
+      "text": "exam week, students reported hearing words like, \"No brain,\"",
+      "en": "exam week, students reported hearing words like, \"No brain,\"",
+      "zh": ""
+    },
+    {
+      "start": 661.63,
+      "duration": 2.99,
+      "text": "\"I'm tired,\" or \"No time.\"",
+      "en": "\"I'm tired,\" or \"No time.\"",
+      "zh": ""
+    },
+    {
+      "start": 664.62,
+      "duration": 2.34,
+      "text": "And we can actually prime the brain to hear",
+      "en": "And we can actually prime the brain to hear",
+      "zh": ""
+    },
+    {
+      "start": 666.96,
+      "duration": 1.32,
+      "text": "what we want it to hear.",
+      "en": "what we want it to hear.",
+      "zh": ""
+    },
+    {
+      "start": 668.28,
+      "duration": 1.92,
+      "text": "For example, using text.",
+      "en": "For example, using text.",
+      "zh": ""
+    },
+    {
+      "start": 670.2,
+      "duration": 2.55,
+      "text": "Take the case of this crowd chanting.",
+      "en": "Take the case of this crowd chanting.",
+      "zh": ""
+    },
+    {
+      "start": 672.75,
+      "duration": 2.75,
+      "text": "(crowd chanting)",
+      "en": "(crowd chanting)",
+      "zh": ""
+    },
+    {
+      "start": 679.65,
+      "duration": 3.33,
+      "text": "You're primed to hear the lyrics you see.",
+      "en": "You're primed to hear the lyrics you see.",
+      "zh": ""
+    },
+    {
+      "start": 682.98,
+      "duration": 2.1,
+      "text": "These are called Mondegreens,",
+      "en": "These are called Mondegreens,",
+      "zh": ""
+    },
+    {
+      "start": 685.08,
+      "duration": 2.5,
+      "text": "after a misheard poem in which there's a line,",
+      "en": "after a misheard poem in which there's a line,",
+      "zh": ""
+    },
+    {
+      "start": 687.58,
+      "duration": 2.39,
+      "text": "\"They have slain the Earl Amurray",
+      "en": "\"They have slain the Earl Amurray",
+      "zh": ""
+    },
+    {
+      "start": 689.97,
+      "duration": 1.98,
+      "text": "and Lady Mondegreen.\"",
+      "en": "and Lady Mondegreen.\"",
+      "zh": ""
+    },
+    {
+      "start": 691.95,
+      "duration": 1.38,
+      "text": "Except in the real poem,",
+      "en": "Except in the real poem,",
+      "zh": ""
+    },
+    {
+      "start": 693.33,
+      "duration": 1.47,
+      "text": "the Earl dies alone",
+      "en": "the Earl dies alone",
+      "zh": ""
+    },
+    {
+      "start": 694.8,
+      "duration": 4.5,
+      "text": "and his killers actually laid him on the green.",
+      "en": "and his killers actually laid him on the green.",
+      "zh": ""
+    },
+    {
+      "start": 699.3,
+      "duration": 2.85,
+      "text": "Sometimes mondegreens happen when sounds are divided",
+      "en": "Sometimes mondegreens happen when sounds are divided",
+      "zh": ""
+    },
+    {
+      "start": 702.15,
+      "duration": 1.56,
+      "text": "logically, but incorrectly,",
+      "en": "logically, but incorrectly,",
+      "zh": ""
+    },
+    {
+      "start": 703.71,
+      "duration": 4.29,
+      "text": "such as hearing pullet surprise instead of Pulitzer Prize.",
+      "en": "such as hearing pullet surprise instead of Pulitzer Prize.",
+      "zh": ""
+    },
+    {
+      "start": 708.0,
+      "duration": 1.98,
+      "text": "Language familiarity would help you hear",
+      "en": "Language familiarity would help you hear",
+      "zh": ""
+    },
+    {
+      "start": 709.98,
+      "duration": 1.56,
+      "text": "the correct one from the start.",
+      "en": "the correct one from the start.",
+      "zh": ""
+    },
+    {
+      "start": 711.54,
+      "duration": 3.24,
+      "text": "So while UK football fans might hear the common chant",
+      "en": "So while UK football fans might hear the common chant",
+      "zh": ""
+    },
+    {
+      "start": 714.78,
+      "duration": 1.29,
+      "text": "that is embarrassing.",
+      "en": "that is embarrassing.",
+      "zh": ""
+    },
+    {
+      "start": 716.07,
+      "duration": 2.01,
+      "text": "- [Crowd] That is embarrassing.",
+      "en": "- [Crowd] That is embarrassing.",
+      "zh": ""
+    },
+    {
+      "start": 718.08,
+      "duration": 2.55,
+      "text": "- An American football fan might not.",
+      "en": "- An American football fan might not.",
+      "zh": ""
+    },
+    {
+      "start": 722.22,
+      "duration": 1.65,
+      "text": "What's even more amazing is",
+      "en": "What's even more amazing is",
+      "zh": ""
+    },
+    {
+      "start": 723.87,
+      "duration": 3.87,
+      "text": "how subtle visual cues can affect what we hear.",
+      "en": "how subtle visual cues can affect what we hear.",
+      "zh": ""
+    },
+    {
+      "start": 727.74,
+      "duration": 2.64,
+      "text": "What am I saying in this clip?",
+      "en": "What am I saying in this clip?",
+      "zh": ""
+    },
+    {
+      "start": 733.98,
+      "duration": 1.95,
+      "text": "If you heard the word bear,",
+      "en": "If you heard the word bear,",
+      "zh": ""
+    },
+    {
+      "start": 735.93,
+      "duration": 2.07,
+      "text": "that's because that's what I was saying.",
+      "en": "that's because that's what I was saying.",
+      "zh": ""
+    },
+    {
+      "start": 738.0,
+      "duration": 2.91,
+      "text": "But what am I saying in this clip?",
+      "en": "But what am I saying in this clip?",
+      "zh": ""
+    },
+    {
+      "start": 744.36,
+      "duration": 2.22,
+      "text": "Now I bet you heard fair,",
+      "en": "Now I bet you heard fair,",
+      "zh": ""
+    },
+    {
+      "start": 746.58,
+      "duration": 3.24,
+      "text": "but if you play back both those clips without looking,",
+      "en": "but if you play back both those clips without looking,",
+      "zh": ""
+    },
+    {
+      "start": 749.82,
+      "duration": 2.17,
+      "text": "you'll find it's the exact same audio.",
+      "en": "you'll find it's the exact same audio.",
+      "zh": ""
+    },
+    {
+      "start": 751.99,
+      "duration": 2.69,
+      "text": "All we changed was the mouth movement,",
+      "en": "All we changed was the mouth movement,",
+      "zh": ""
+    },
+    {
+      "start": 754.68,
+      "duration": 1.38,
+      "text": "and I can prove it to you",
+      "en": "and I can prove it to you",
+      "zh": ""
+    },
+    {
+      "start": 756.06,
+      "duration": 2.43,
+      "text": "by playing those two clips at the same time.",
+      "en": "by playing those two clips at the same time.",
+      "zh": ""
+    },
+    {
+      "start": 758.49,
+      "duration": 2.76,
+      "text": "And what you hear will change depending on which",
+      "en": "And what you hear will change depending on which",
+      "zh": ""
+    },
+    {
+      "start": 761.25,
+      "duration": 2.07,
+      "text": "clip you focus on.",
+      "en": "clip you focus on.",
+      "zh": ""
+    },
+    {
+      "start": 770.7,
+      "duration": 2.82,
+      "text": "So what we see affects what we hear.",
+      "en": "So what we see affects what we hear.",
+      "zh": ""
+    },
+    {
+      "start": 773.52,
+      "duration": 2.73,
+      "text": "And the reverse is also true.",
+      "en": "And the reverse is also true.",
+      "zh": ""
+    },
+    {
+      "start": 776.25,
+      "duration": 2.22,
+      "text": "In this illusion if no sound is played,",
+      "en": "In this illusion if no sound is played,",
+      "zh": ""
+    },
+    {
+      "start": 778.47,
+      "duration": 2.16,
+      "text": "it looks like the two circles are passing",
+      "en": "it looks like the two circles are passing",
+      "zh": ""
+    },
+    {
+      "start": 780.63,
+      "duration": 2.84,
+      "text": "through each other, but at a sound when they intersect",
+      "en": "through each other, but at a sound when they intersect",
+      "zh": ""
+    },
+    {
+      "start": 783.47,
+      "duration": 1.0,
+      "text": "(balls dashing)",
+      "en": "(balls dashing)",
+      "zh": ""
+    },
+    {
+      "start": 784.47,
+      "duration": 1.86,
+      "text": "and immediately it seems like",
+      "en": "and immediately it seems like",
+      "zh": ""
+    },
+    {
+      "start": 786.33,
+      "duration": 1.69,
+      "text": "they're bouncing off each other.",
+      "en": "they're bouncing off each other.",
+      "zh": ""
+    },
+    {
+      "start": 788.02,
+      "duration": 1.82,
+      "text": "(balls dashing)",
+      "en": "(balls dashing)",
+      "zh": ""
+    },
+    {
+      "start": 789.84,
+      "duration": 2.52,
+      "text": "What we see and hear are intrinsically linked.",
+      "en": "What we see and hear are intrinsically linked.",
+      "zh": ""
+    },
+    {
+      "start": 792.36,
+      "duration": 1.56,
+      "text": "Because in the real world,",
+      "en": "Because in the real world,",
+      "zh": ""
+    },
+    {
+      "start": 793.92,
+      "duration": 3.33,
+      "text": "one sense can reliably inform the other.",
+      "en": "one sense can reliably inform the other.",
+      "zh": ""
+    },
+    {
+      "start": 797.25,
+      "duration": 3.54,
+      "text": "But what if there are no visual cues to go on?",
+      "en": "But what if there are no visual cues to go on?",
+      "zh": ""
+    },
+    {
+      "start": 800.79,
+      "duration": 2.73,
+      "text": "In the 1950s, air traffic controllers were communicating",
+      "en": "In the 1950s, air traffic controllers were communicating",
+      "zh": ""
+    },
+    {
+      "start": 803.52,
+      "duration": 3.75,
+      "text": "with multiple pilots simultaneously in the same room.",
+      "en": "with multiple pilots simultaneously in the same room.",
+      "zh": ""
+    },
+    {
+      "start": 807.27,
+      "duration": 1.83,
+      "text": "Unfortunately, messages from all",
+      "en": "Unfortunately, messages from all",
+      "zh": ""
+    },
+    {
+      "start": 809.1,
+      "duration": 3.3,
+      "text": "of the pilots would play from a single loudspeaker,",
+      "en": "of the pilots would play from a single loudspeaker,",
+      "zh": ""
+    },
+    {
+      "start": 812.4,
+      "duration": 2.52,
+      "text": "and the overlapping audio made it really difficult",
+      "en": "and the overlapping audio made it really difficult",
+      "zh": ""
+    },
+    {
+      "start": 814.92,
+      "duration": 1.92,
+      "text": "to pick out just one voice.",
+      "en": "to pick out just one voice.",
+      "zh": ""
+    },
+    {
+      "start": 816.84,
+      "duration": 2.52,
+      "text": "So researchers started looking into the so-called",
+      "en": "So researchers started looking into the so-called",
+      "zh": ""
+    },
+    {
+      "start": 819.36,
+      "duration": 3.12,
+      "text": "cocktail party effect, because this problem resembled",
+      "en": "cocktail party effect, because this problem resembled",
+      "zh": ""
+    },
+    {
+      "start": 822.48,
+      "duration": 3.36,
+      "text": "focusing on a single voice in a noisy room.",
+      "en": "focusing on a single voice in a noisy room.",
+      "zh": ""
+    },
+    {
+      "start": 825.84,
+      "duration": 3.93,
+      "text": "Most of us can do this with little effort, but how?",
+      "en": "Most of us can do this with little effort, but how?",
+      "zh": ""
+    },
+    {
+      "start": 829.77,
+      "duration": 1.77,
+      "text": "It's kind of like taking the recording",
+      "en": "It's kind of like taking the recording",
+      "zh": ""
+    },
+    {
+      "start": 831.54,
+      "duration": 1.71,
+      "text": "of the entire party and pulling out",
+      "en": "of the entire party and pulling out",
+      "zh": ""
+    },
+    {
+      "start": 833.25,
+      "duration": 2.85,
+      "text": "a particular voices waveform.",
+      "en": "a particular voices waveform.",
+      "zh": ""
+    },
+    {
+      "start": 836.1,
+      "duration": 1.86,
+      "text": "The sound waves interfere with each other",
+      "en": "The sound waves interfere with each other",
+      "zh": ""
+    },
+    {
+      "start": 837.96,
+      "duration": 1.26,
+      "text": "before reaching your ears.",
+      "en": "before reaching your ears.",
+      "zh": ""
+    },
+    {
+      "start": 839.22,
+      "duration": 3.12,
+      "text": "So this should be a difficult task.",
+      "en": "So this should be a difficult task.",
+      "zh": ""
+    },
+    {
+      "start": 842.34,
+      "duration": 2.37,
+      "text": "In this recording, try to find the voice talking",
+      "en": "In this recording, try to find the voice talking",
+      "zh": ""
+    },
+    {
+      "start": 844.71,
+      "duration": 1.78,
+      "text": "about a flight in this crowd.",
+      "en": "about a flight in this crowd.",
+      "zh": ""
+    },
+    {
+      "start": 846.49,
+      "duration": 2.75,
+      "text": "(crowd talking)",
+      "en": "(crowd talking)",
+      "zh": ""
+    },
+    {
+      "start": 855.54,
+      "duration": 1.5,
+      "text": "I find that really hard,",
+      "en": "I find that really hard,",
+      "zh": ""
+    },
+    {
+      "start": 857.04,
+      "duration": 3.12,
+      "text": "but if you hear the voice first, then the rest",
+      "en": "but if you hear the voice first, then the rest",
+      "zh": ""
+    },
+    {
+      "start": 860.16,
+      "duration": 2.42,
+      "text": "of the conversation is easier to follow,",
+      "en": "of the conversation is easier to follow,",
+      "zh": ""
+    },
+    {
+      "start": 862.58,
+      "duration": 2.75,
+      "text": "(crowd talking)",
+      "en": "(crowd talking)",
+      "zh": ""
+    },
+    {
+      "start": 870.6,
+      "duration": 2.55,
+      "text": "This is much easier because you can predict",
+      "en": "This is much easier because you can predict",
+      "zh": ""
+    },
+    {
+      "start": 873.15,
+      "duration": 2.13,
+      "text": "what words will come next based on context",
+      "en": "what words will come next based on context",
+      "zh": ""
+    },
+    {
+      "start": 875.28,
+      "duration": 1.23,
+      "text": "and language structure.",
+      "en": "and language structure.",
+      "zh": ""
+    },
+    {
+      "start": 877.44,
+      "duration": 3.51,
+      "text": "The second way we can focus on one voice is by identifying",
+      "en": "The second way we can focus on one voice is by identifying",
+      "zh": ""
+    },
+    {
+      "start": 880.95,
+      "duration": 2.16,
+      "text": "where the sound is coming from.",
+      "en": "where the sound is coming from.",
+      "zh": ""
+    },
+    {
+      "start": 883.11,
+      "duration": 2.28,
+      "text": "Listen again, but this time focus on the pilot",
+      "en": "Listen again, but this time focus on the pilot",
+      "zh": ""
+    },
+    {
+      "start": 885.39,
+      "duration": 1.61,
+      "text": "played in your left ear.",
+      "en": "played in your left ear.",
+      "zh": ""
+    },
+    {
+      "start": 887.0,
+      "duration": 2.75,
+      "text": "(crowd talking)",
+      "en": "(crowd talking)",
+      "zh": ""
+    },
+    {
+      "start": 894.96,
+      "duration": 2.34,
+      "text": "In a cocktail party, you can focus on your friend",
+      "en": "In a cocktail party, you can focus on your friend",
+      "zh": ""
+    },
+    {
+      "start": 897.3,
+      "duration": 3.18,
+      "text": "by ignoring sounds that come from other locations.",
+      "en": "by ignoring sounds that come from other locations.",
+      "zh": ""
+    },
+    {
+      "start": 900.48,
+      "duration": 2.7,
+      "text": "Once researchers realized this, they advocated",
+      "en": "Once researchers realized this, they advocated",
+      "zh": ""
+    },
+    {
+      "start": 903.18,
+      "duration": 1.71,
+      "text": "that different pilots be broadcast",
+      "en": "that different pilots be broadcast",
+      "zh": ""
+    },
+    {
+      "start": 904.89,
+      "duration": 1.38,
+      "text": "through different speakers,",
+      "en": "through different speakers,",
+      "zh": ""
+    },
+    {
+      "start": 906.27,
+      "duration": 2.31,
+      "text": "spread out throughout the control room.",
+      "en": "spread out throughout the control room.",
+      "zh": ""
+    },
+    {
+      "start": 908.58,
+      "duration": 2.13,
+      "text": "This allowed air traffic controllers",
+      "en": "This allowed air traffic controllers",
+      "zh": ""
+    },
+    {
+      "start": 910.71,
+      "duration": 2.97,
+      "text": "to more successfully tune in to their pilot.",
+      "en": "to more successfully tune in to their pilot.",
+      "zh": ""
+    },
+    {
+      "start": 916.47,
+      "duration": 3.33,
+      "text": "But how do we actually locate the source of a sound?",
+      "en": "But how do we actually locate the source of a sound?",
+      "zh": ""
+    },
+    {
+      "start": 919.8,
+      "duration": 1.92,
+      "text": "Well, I'm gonna put on this blindfold",
+      "en": "Well, I'm gonna put on this blindfold",
+      "zh": ""
+    },
+    {
+      "start": 921.72,
+      "duration": 1.89,
+      "text": "and ask my wife to walk around me",
+      "en": "and ask my wife to walk around me",
+      "zh": ""
+    },
+    {
+      "start": 923.61,
+      "duration": 2.31,
+      "text": "and clap in different locations,",
+      "en": "and clap in different locations,",
+      "zh": ""
+    },
+    {
+      "start": 925.92,
+      "duration": 3.78,
+      "text": "and I am going to try to point to the location of the sound.",
+      "en": "and I am going to try to point to the location of the sound.",
+      "zh": ""
+    },
+    {
+      "start": 929.7,
+      "duration": 1.92,
+      "text": "So let's give it a try.",
+      "en": "So let's give it a try.",
+      "zh": ""
+    },
+    {
+      "start": 932.55,
+      "duration": 1.77,
+      "text": "Normally you can pinpoint a sound",
+      "en": "Normally you can pinpoint a sound",
+      "zh": ""
+    },
+    {
+      "start": 934.32,
+      "duration": 2.01,
+      "text": "to within a degree or two.",
+      "en": "to within a degree or two.",
+      "zh": ""
+    },
+    {
+      "start": 936.33,
+      "duration": 1.93,
+      "text": "And there are actually four different cues",
+      "en": "And there are actually four different cues",
+      "zh": ""
+    },
+    {
+      "start": 938.26,
+      "duration": 2.72,
+      "text": "that help me identify the location of the sound.",
+      "en": "that help me identify the location of the sound.",
+      "zh": ""
+    },
+    {
+      "start": 940.98,
+      "duration": 1.56,
+      "text": "How is it?",
+      "en": "How is it?",
+      "zh": ""
+    },
+    {
+      "start": 942.54,
+      "duration": 1.74,
+      "text": "The first is volume.",
+      "en": "The first is volume.",
+      "zh": ""
+    },
+    {
+      "start": 944.28,
+      "duration": 3.09,
+      "text": "A sound on my right will be louder in my right ear.",
+      "en": "A sound on my right will be louder in my right ear.",
+      "zh": ""
+    },
+    {
+      "start": 947.37,
+      "duration": 3.87,
+      "text": "My head sort of casts a sound shadow over my left ear.",
+      "en": "My head sort of casts a sound shadow over my left ear.",
+      "zh": ""
+    },
+    {
+      "start": 951.24,
+      "duration": 3.09,
+      "text": "And the second cue is that this shadow attenuates",
+      "en": "And the second cue is that this shadow attenuates",
+      "zh": ""
+    },
+    {
+      "start": 954.33,
+      "duration": 3.09,
+      "text": "higher frequencies more than low frequencies.",
+      "en": "higher frequencies more than low frequencies.",
+      "zh": ""
+    },
+    {
+      "start": 957.42,
+      "duration": 2.01,
+      "text": "It's kinda like when your neighbor is having a party.",
+      "en": "It's kinda like when your neighbor is having a party.",
+      "zh": ""
+    },
+    {
+      "start": 959.43,
+      "duration": 3.0,
+      "text": "You can't really hear the high frequencies like the lyrics,",
+      "en": "You can't really hear the high frequencies like the lyrics,",
+      "zh": ""
+    },
+    {
+      "start": 962.43,
+      "duration": 1.77,
+      "text": "but you can hear the bass",
+      "en": "but you can hear the bass",
+      "zh": ""
+    },
+    {
+      "start": 964.2,
+      "duration": 2.55,
+      "text": "because low frequencies are less attenuated",
+      "en": "because low frequencies are less attenuated",
+      "zh": ""
+    },
+    {
+      "start": 966.75,
+      "duration": 2.22,
+      "text": "by distance and obstacles.",
+      "en": "by distance and obstacles.",
+      "zh": ""
+    },
+    {
+      "start": 968.97,
+      "duration": 1.98,
+      "text": "The third is time delay.",
+      "en": "The third is time delay.",
+      "zh": ""
+    },
+    {
+      "start": 970.95,
+      "duration": 3.57,
+      "text": "It takes a sound half a millisecond to cross your head,",
+      "en": "It takes a sound half a millisecond to cross your head,",
+      "zh": ""
+    },
+    {
+      "start": 974.52,
+      "duration": 4.08,
+      "text": "so sound will usually arrive at one ear before the other.",
+      "en": "so sound will usually arrive at one ear before the other.",
+      "zh": ""
+    },
+    {
+      "start": 978.6,
+      "duration": 2.03,
+      "text": "Listen to a beep on your left.",
+      "en": "Listen to a beep on your left.",
+      "zh": ""
+    },
+    {
+      "start": 980.63,
+      "duration": 1.12,
+      "text": "(sound beeping)",
+      "en": "(sound beeping)",
+      "zh": ""
+    },
+    {
+      "start": 981.75,
+      "duration": 1.51,
+      "text": "and then on your right.",
+      "en": "and then on your right.",
+      "zh": ""
+    },
+    {
+      "start": 983.26,
+      "duration": 1.55,
+      "text": "(sound beeping)",
+      "en": "(sound beeping)",
+      "zh": ""
+    },
+    {
+      "start": 984.81,
+      "duration": 2.79,
+      "text": "Now, as the delay between those two beeps is shortened,",
+      "en": "Now, as the delay between those two beeps is shortened,",
+      "zh": ""
+    },
+    {
+      "start": 987.6,
+      "duration": 1.65,
+      "text": "(ound beeping)",
+      "en": "(ound beeping)",
+      "zh": ""
+    },
+    {
+      "start": 989.25,
+      "duration": 4.83,
+      "text": "it's less of an echo and more just one sound",
+      "en": "it's less of an echo and more just one sound",
+      "zh": ""
+    },
+    {
+      "start": 994.08,
+      "duration": 2.09,
+      "text": "that's really on your left.",
+      "en": "that's really on your left.",
+      "zh": ""
+    },
+    {
+      "start": 996.17,
+      "duration": 1.9,
+      "text": "(sound beeping)",
+      "en": "(sound beeping)",
+      "zh": ""
+    },
+    {
+      "start": 998.07,
+      "duration": 2.31,
+      "text": "The fourth cue we use to identify the source",
+      "en": "The fourth cue we use to identify the source",
+      "zh": ""
+    },
+    {
+      "start": 1000.38,
+      "duration": 2.88,
+      "text": "of a sound is at what point in the wave cycle",
+      "en": "of a sound is at what point in the wave cycle",
+      "zh": ""
+    },
+    {
+      "start": 1003.26,
+      "duration": 3.72,
+      "text": "the sound arrives at each ear or the phase of the wave.",
+      "en": "the sound arrives at each ear or the phase of the wave.",
+      "zh": ""
+    },
+    {
+      "start": 1006.98,
+      "duration": 2.82,
+      "text": "Is it arriving at a peak or a trough?",
+      "en": "Is it arriving at a peak or a trough?",
+      "zh": ""
+    },
+    {
+      "start": 1009.8,
+      "duration": 3.21,
+      "text": "The phase of the wave at one ear will typically be different",
+      "en": "The phase of the wave at one ear will typically be different",
+      "zh": ""
+    },
+    {
+      "start": 1013.01,
+      "duration": 2.58,
+      "text": "than the phase at the other ear.",
+      "en": "than the phase at the other ear.",
+      "zh": ""
+    },
+    {
+      "start": 1015.59,
+      "duration": 1.59,
+      "text": "Now you run into a bit of trouble",
+      "en": "Now you run into a bit of trouble",
+      "zh": ""
+    },
+    {
+      "start": 1017.18,
+      "duration": 2.22,
+      "text": "when the sound is either directly in front",
+      "en": "when the sound is either directly in front",
+      "zh": ""
+    },
+    {
+      "start": 1019.4,
+      "duration": 3.84,
+      "text": "or behind you or on any point in a vertical plane",
+      "en": "or behind you or on any point in a vertical plane",
+      "zh": ""
+    },
+    {
+      "start": 1023.24,
+      "duration": 1.29,
+      "text": "that passes through the middle of your head.",
+      "en": "that passes through the middle of your head.",
+      "zh": ""
+    },
+    {
+      "start": 1024.53,
+      "duration": 1.89,
+      "text": "And that's because the distance from the sound to both",
+      "en": "And that's because the distance from the sound to both",
+      "zh": ""
+    },
+    {
+      "start": 1026.42,
+      "duration": 1.23,
+      "text": "of your ears is the same.",
+      "en": "of your ears is the same.",
+      "zh": ""
+    },
+    {
+      "start": 1027.65,
+      "duration": 2.55,
+      "text": "And therefore, those four cues aren't very useful.",
+      "en": "And therefore, those four cues aren't very useful.",
+      "zh": ""
+    },
+    {
+      "start": 1031.1,
+      "duration": 3.18,
+      "text": "Owls solve this issue with asymmetrical ears.",
+      "en": "Owls solve this issue with asymmetrical ears.",
+      "zh": ""
+    },
+    {
+      "start": 1034.28,
+      "duration": 2.19,
+      "text": "Their left ear is actually lower on their",
+      "en": "Their left ear is actually lower on their",
+      "zh": ""
+    },
+    {
+      "start": 1036.47,
+      "duration": 1.35,
+      "text": "head than their right ear.",
+      "en": "head than their right ear.",
+      "zh": ""
+    },
+    {
+      "start": 1037.82,
+      "duration": 5.0,
+      "text": "So sounds from below are louder in their lower left ear.",
+      "en": "So sounds from below are louder in their lower left ear.",
+      "zh": ""
+    },
+    {
+      "start": 1042.89,
+      "duration": 2.01,
+      "text": "Humans typically have symmetric ears,",
+      "en": "Humans typically have symmetric ears,",
+      "zh": ""
+    },
+    {
+      "start": 1044.9,
+      "duration": 2.4,
+      "text": "but their shapes are important.",
+      "en": "but their shapes are important.",
+      "zh": ""
+    },
+    {
+      "start": 1047.3,
+      "duration": 3.18,
+      "text": "This is where the outer part of your ear comes in.",
+      "en": "This is where the outer part of your ear comes in.",
+      "zh": ""
+    },
+    {
+      "start": 1050.48,
+      "duration": 2.16,
+      "text": "I mean, what we'd normally just refer to as the ear.",
+      "en": "I mean, what we'd normally just refer to as the ear.",
+      "zh": ""
+    },
+    {
+      "start": 1052.64,
+      "duration": 2.34,
+      "text": "Technically this is called the pinna.",
+      "en": "Technically this is called the pinna.",
+      "zh": ""
+    },
+    {
+      "start": 1054.98,
+      "duration": 3.48,
+      "text": "Depending on the location and the frequency of sound,",
+      "en": "Depending on the location and the frequency of sound,",
+      "zh": ""
+    },
+    {
+      "start": 1058.46,
+      "duration": 2.25,
+      "text": "it will bounce off these ridges",
+      "en": "it will bounce off these ridges",
+      "zh": ""
+    },
+    {
+      "start": 1060.71,
+      "duration": 2.34,
+      "text": "and bumps on your ear",
+      "en": "and bumps on your ear",
+      "zh": ""
+    },
+    {
+      "start": 1063.05,
+      "duration": 3.78,
+      "text": "and end up inside your ear actually going into the eardrum.",
+      "en": "and end up inside your ear actually going into the eardrum.",
+      "zh": ""
+    },
+    {
+      "start": 1066.83,
+      "duration": 2.79,
+      "text": "And those reflections will actually change",
+      "en": "And those reflections will actually change",
+      "zh": ""
+    },
+    {
+      "start": 1069.62,
+      "duration": 2.52,
+      "text": "some frequencies differently than others",
+      "en": "some frequencies differently than others",
+      "zh": ""
+    },
+    {
+      "start": 1072.14,
+      "duration": 1.71,
+      "text": "depending on the location.",
+      "en": "depending on the location.",
+      "zh": ""
+    },
+    {
+      "start": 1073.85,
+      "duration": 2.4,
+      "text": "Scientists placed tiny microphones",
+      "en": "Scientists placed tiny microphones",
+      "zh": ""
+    },
+    {
+      "start": 1076.25,
+      "duration": 2.49,
+      "text": "inside volunteer's ears to measure this.",
+      "en": "inside volunteer's ears to measure this.",
+      "zh": ""
+    },
+    {
+      "start": 1078.74,
+      "duration": 1.2,
+      "text": "They could see, for example,",
+      "en": "They could see, for example,",
+      "zh": ""
+    },
+    {
+      "start": 1079.94,
+      "duration": 1.98,
+      "text": "that a 6,000 hertz sound located",
+      "en": "that a 6,000 hertz sound located",
+      "zh": ""
+    },
+    {
+      "start": 1081.92,
+      "duration": 3.0,
+      "text": "above you might be amplified by 10 decibels,",
+      "en": "above you might be amplified by 10 decibels,",
+      "zh": ""
+    },
+    {
+      "start": 1084.92,
+      "duration": 3.39,
+      "text": "but that same sound below you would be attenuated",
+      "en": "but that same sound below you would be attenuated",
+      "zh": ""
+    },
+    {
+      "start": 1088.31,
+      "duration": 1.8,
+      "text": "by 10 decibels.",
+      "en": "by 10 decibels.",
+      "zh": ""
+    },
+    {
+      "start": 1090.11,
+      "duration": 2.31,
+      "text": "These figures depend on the unique bumps",
+      "en": "These figures depend on the unique bumps",
+      "zh": ""
+    },
+    {
+      "start": 1092.42,
+      "duration": 2.67,
+      "text": "and ridges of cartilage in your ear.",
+      "en": "and ridges of cartilage in your ear.",
+      "zh": ""
+    },
+    {
+      "start": 1095.09,
+      "duration": 3.09,
+      "text": "So each person's ears have a unique response curve",
+      "en": "So each person's ears have a unique response curve",
+      "zh": ""
+    },
+    {
+      "start": 1098.18,
+      "duration": 3.63,
+      "text": "to different frequencies at different locations.",
+      "en": "to different frequencies at different locations.",
+      "zh": ""
+    },
+    {
+      "start": 1101.81,
+      "duration": 1.86,
+      "text": "And over the course of our lives,",
+      "en": "And over the course of our lives,",
+      "zh": ""
+    },
+    {
+      "start": 1103.67,
+      "duration": 3.21,
+      "text": "our brains learn the way different frequencies reflect off",
+      "en": "our brains learn the way different frequencies reflect off",
+      "zh": ""
+    },
+    {
+      "start": 1106.88,
+      "duration": 2.34,
+      "text": "our ears, and we use that information",
+      "en": "our ears, and we use that information",
+      "zh": ""
+    },
+    {
+      "start": 1109.22,
+      "duration": 3.36,
+      "text": "to identify the source of the sound.",
+      "en": "to identify the source of the sound.",
+      "zh": ""
+    },
+    {
+      "start": 1112.58,
+      "duration": 3.54,
+      "text": "Now, every person has a unique pinna shape.",
+      "en": "Now, every person has a unique pinna shape.",
+      "zh": ""
+    },
+    {
+      "start": 1116.12,
+      "duration": 3.6,
+      "text": "So what if our ears changed?",
+      "en": "So what if our ears changed?",
+      "zh": ""
+    },
+    {
+      "start": 1119.72,
+      "duration": 1.23,
+      "text": "In a 1998 study,",
+      "en": "In a 1998 study,",
+      "zh": ""
+    },
+    {
+      "start": 1120.95,
+      "duration": 2.94,
+      "text": "researchers placed small molds into the ears of a group",
+      "en": "researchers placed small molds into the ears of a group",
+      "zh": ""
+    },
+    {
+      "start": 1123.89,
+      "duration": 3.42,
+      "text": "of participants changing the shape of their pinnas.",
+      "en": "of participants changing the shape of their pinnas.",
+      "zh": ""
+    },
+    {
+      "start": 1127.31,
+      "duration": 2.28,
+      "text": "Here's one subject's data.",
+      "en": "Here's one subject's data.",
+      "zh": ""
+    },
+    {
+      "start": 1129.59,
+      "duration": 2.28,
+      "text": "The rigid background grid represents",
+      "en": "The rigid background grid represents",
+      "zh": ""
+    },
+    {
+      "start": 1131.87,
+      "duration": 2.13,
+      "text": "where sounds were actually played.",
+      "en": "where sounds were actually played.",
+      "zh": ""
+    },
+    {
+      "start": 1134.0,
+      "duration": 2.04,
+      "text": "The dots are the subject's guesses,",
+      "en": "The dots are the subject's guesses,",
+      "zh": ""
+    },
+    {
+      "start": 1136.04,
+      "duration": 4.29,
+      "text": "and the darker warped grid is the averages of those guesses.",
+      "en": "and the darker warped grid is the averages of those guesses.",
+      "zh": ""
+    },
+    {
+      "start": 1140.33,
+      "duration": 3.39,
+      "text": "Before the study, they were fairly good at locating sounds,",
+      "en": "Before the study, they were fairly good at locating sounds,",
+      "zh": ""
+    },
+    {
+      "start": 1143.72,
+      "duration": 1.79,
+      "text": "but after changing their pinna shape,",
+      "en": "but after changing their pinna shape,",
+      "zh": ""
+    },
+    {
+      "start": 1145.51,
+      "duration": 2.92,
+      "text": "they were downright terrible.",
+      "en": "they were downright terrible.",
+      "zh": ""
+    },
+    {
+      "start": 1148.43,
+      "duration": 3.48,
+      "text": "Over a series of days and weeks with their new pinnas,",
+      "en": "Over a series of days and weeks with their new pinnas,",
+      "zh": ""
+    },
+    {
+      "start": 1151.91,
+      "duration": 1.95,
+      "text": "the participants all adjusted",
+      "en": "the participants all adjusted",
+      "zh": ""
+    },
+    {
+      "start": 1153.86,
+      "duration": 2.97,
+      "text": "and became better at locating sound.",
+      "en": "and became better at locating sound.",
+      "zh": ""
+    },
+    {
+      "start": 1156.83,
+      "duration": 3.21,
+      "text": "So it is something your brain can adapt to.",
+      "en": "So it is something your brain can adapt to.",
+      "zh": ""
+    },
+    {
+      "start": 1160.04,
+      "duration": 2.1,
+      "text": "Thankfully, after the molds were removed,",
+      "en": "Thankfully, after the molds were removed,",
+      "zh": ""
+    },
+    {
+      "start": 1162.14,
+      "duration": 2.31,
+      "text": "participants had no trouble reverting back",
+      "en": "participants had no trouble reverting back",
+      "zh": ""
+    },
+    {
+      "start": 1164.45,
+      "duration": 1.86,
+      "text": "to their original ears.",
+      "en": "to their original ears.",
+      "zh": ""
+    },
+    {
+      "start": 1167.3,
+      "duration": 3.15,
+      "text": "Pinna shape is so key to an immersive sound experience",
+      "en": "Pinna shape is so key to an immersive sound experience",
+      "zh": ""
+    },
+    {
+      "start": 1170.45,
+      "duration": 2.58,
+      "text": "in virtual reality that companies like Apple",
+      "en": "in virtual reality that companies like Apple",
+      "zh": ""
+    },
+    {
+      "start": 1173.03,
+      "duration": 2.19,
+      "text": "and Sony actually scan your ears",
+      "en": "and Sony actually scan your ears",
+      "zh": ""
+    },
+    {
+      "start": 1175.22,
+      "duration": 2.7,
+      "text": "to create personalized spatial audio.",
+      "en": "to create personalized spatial audio.",
+      "zh": ""
+    },
+    {
+      "start": 1179.87,
+      "duration": 2.7,
+      "text": "And for a long time, people have been trying to harness",
+      "en": "And for a long time, people have been trying to harness",
+      "zh": ""
+    },
+    {
+      "start": 1182.57,
+      "duration": 3.15,
+      "text": "and amplify our ability to locate sounds.",
+      "en": "and amplify our ability to locate sounds.",
+      "zh": ""
+    },
+    {
+      "start": 1185.72,
+      "duration": 3.06,
+      "text": "In 1880, professor Alfred Mayer presented a device",
+      "en": "In 1880, professor Alfred Mayer presented a device",
+      "zh": ""
+    },
+    {
+      "start": 1188.78,
+      "duration": 3.18,
+      "text": "called a topophone to locate ships in the fog.",
+      "en": "called a topophone to locate ships in the fog.",
+      "zh": ""
+    },
+    {
+      "start": 1191.96,
+      "duration": 2.97,
+      "text": "It was made from two adjustable hearing cones.",
+      "en": "It was made from two adjustable hearing cones.",
+      "zh": ""
+    },
+    {
+      "start": 1194.93,
+      "duration": 2.34,
+      "text": "By changing the distance and angle between them,",
+      "en": "By changing the distance and angle between them,",
+      "zh": ""
+    },
+    {
+      "start": 1197.27,
+      "duration": 3.57,
+      "text": "sailors could narrow down the direction of a ship's foghorn.",
+      "en": "sailors could narrow down the direction of a ship's foghorn.",
+      "zh": ""
+    },
+    {
+      "start": 1202.25,
+      "duration": 2.13,
+      "text": "Unfortunately, they weren't very useful",
+      "en": "Unfortunately, they weren't very useful",
+      "zh": ""
+    },
+    {
+      "start": 1204.38,
+      "duration": 3.2,
+      "text": "because sound waves interact with fog.",
+      "en": "because sound waves interact with fog.",
+      "zh": ""
+    },
+    {
+      "start": 1207.58,
+      "duration": 3.79,
+      "text": "But then during World War I locating bombing planes on",
+      "en": "But then during World War I locating bombing planes on",
+      "zh": ""
+    },
+    {
+      "start": 1211.37,
+      "duration": 2.55,
+      "text": "approach was of central importance.",
+      "en": "approach was of central importance.",
+      "zh": ""
+    },
+    {
+      "start": 1213.92,
+      "duration": 3.06,
+      "text": "So armies developed special equipment called sound mirrors",
+      "en": "So armies developed special equipment called sound mirrors",
+      "zh": ""
+    },
+    {
+      "start": 1216.98,
+      "duration": 2.13,
+      "text": "to amplify sound.",
+      "en": "to amplify sound.",
+      "zh": ""
+    },
+    {
+      "start": 1219.11,
+      "duration": 2.76,
+      "text": "In Britain, sound mirror stations coordinated together",
+      "en": "In Britain, sound mirror stations coordinated together",
+      "zh": ""
+    },
+    {
+      "start": 1221.87,
+      "duration": 3.78,
+      "text": "to locate an enemy up to 15 minutes in advance.",
+      "en": "to locate an enemy up to 15 minutes in advance.",
+      "zh": ""
+    },
+    {
+      "start": 1225.65,
+      "duration": 1.98,
+      "text": "But as planes became faster,",
+      "en": "But as planes became faster,",
+      "zh": ""
+    },
+    {
+      "start": 1227.63,
+      "duration": 2.88,
+      "text": "sound mirrors couldn't detect them early enough,",
+      "en": "sound mirrors couldn't detect them early enough,",
+      "zh": ""
+    },
+    {
+      "start": 1230.51,
+      "duration": 1.26,
+      "text": "and they were eventually abandoned",
+      "en": "and they were eventually abandoned",
+      "zh": ""
+    },
+    {
+      "start": 1231.77,
+      "duration": 2.25,
+      "text": "after the invention of radar.",
+      "en": "after the invention of radar.",
+      "zh": ""
+    },
+    {
+      "start": 1234.02,
+      "duration": 2.22,
+      "text": "But even though the technology became obsolete,",
+      "en": "But even though the technology became obsolete,",
+      "zh": ""
+    },
+    {
+      "start": 1236.24,
+      "duration": 1.74,
+      "text": "the system was not.",
+      "en": "the system was not.",
+      "zh": ""
+    },
+    {
+      "start": 1237.98,
+      "duration": 2.85,
+      "text": "The radar team used the coordinating station's idea",
+      "en": "The radar team used the coordinating station's idea",
+      "zh": ""
+    },
+    {
+      "start": 1240.83,
+      "duration": 3.36,
+      "text": "that was first developed from the Sound Mirror program.",
+      "en": "that was first developed from the Sound Mirror program.",
+      "zh": ""
+    },
+    {
+      "start": 1244.19,
+      "duration": 2.7,
+      "text": "Linked radar stations were a critical defense",
+      "en": "Linked radar stations were a critical defense",
+      "zh": ""
+    },
+    {
+      "start": 1246.89,
+      "duration": 2.08,
+      "text": "in the Battle of Britain.",
+      "en": "in the Battle of Britain.",
+      "zh": ""
+    },
+    {
+      "start": 1258.14,
+      "duration": 4.14,
+      "text": "This is the Vox Angelica on the Sydney Town Hall Organ.",
+      "en": "This is the Vox Angelica on the Sydney Town Hall Organ.",
+      "zh": ""
+    },
+    {
+      "start": 1262.28,
+      "duration": 2.28,
+      "text": "When two pipes are slightly out of tune,",
+      "en": "When two pipes are slightly out of tune,",
+      "zh": ""
+    },
+    {
+      "start": 1264.56,
+      "duration": 2.46,
+      "text": "there's this pulsing effect to the sound.",
+      "en": "there's this pulsing effect to the sound.",
+      "zh": ""
+    },
+    {
+      "start": 1268.01,
+      "duration": 1.74,
+      "text": "You can hear that in a more pronounced way",
+      "en": "You can hear that in a more pronounced way",
+      "zh": ""
+    },
+    {
+      "start": 1269.75,
+      "duration": 1.86,
+      "text": "if I play pure tones.",
+      "en": "if I play pure tones.",
+      "zh": ""
+    },
+    {
+      "start": 1271.61,
+      "duration": 2.84,
+      "text": "Here is a pure 261 hertz sine wave.",
+      "en": "Here is a pure 261 hertz sine wave.",
+      "zh": ""
+    },
+    {
+      "start": 1274.45,
+      "duration": 3.28,
+      "text": "(sound beeping)",
+      "en": "(sound beeping)",
+      "zh": ""
+    },
+    {
+      "start": 1277.73,
+      "duration": 2.43,
+      "text": "And a pure 263 hertz sine wave.",
+      "en": "And a pure 263 hertz sine wave.",
+      "zh": ""
+    },
+    {
+      "start": 1280.16,
+      "duration": 2.7,
+      "text": "(sound beeping)",
+      "en": "(sound beeping)",
+      "zh": ""
+    },
+    {
+      "start": 1282.86,
+      "duration": 2.73,
+      "text": "When both of these tones play, those compression",
+      "en": "When both of these tones play, those compression",
+      "zh": ""
+    },
+    {
+      "start": 1285.59,
+      "duration": 3.0,
+      "text": "and refraction waves interfere with each other.",
+      "en": "and refraction waves interfere with each other.",
+      "zh": ""
+    },
+    {
+      "start": 1288.59,
+      "duration": 2.7,
+      "text": "Sometimes the peaks line up to produce a louder sound,",
+      "en": "Sometimes the peaks line up to produce a louder sound,",
+      "zh": ""
+    },
+    {
+      "start": 1292.28,
+      "duration": 3.21,
+      "text": "and when a peak lines up with a trough, they cancel out.",
+      "en": "and when a peak lines up with a trough, they cancel out.",
+      "zh": ""
+    },
+    {
+      "start": 1295.49,
+      "duration": 2.82,
+      "text": "Because these frequencies are separated by two hertz,",
+      "en": "Because these frequencies are separated by two hertz,",
+      "zh": ""
+    },
+    {
+      "start": 1298.31,
+      "duration": 3.21,
+      "text": "you hear two louder pulses every second.",
+      "en": "you hear two louder pulses every second.",
+      "zh": ""
+    },
+    {
+      "start": 1301.52,
+      "duration": 1.7,
+      "text": "This is known as beating.",
+      "en": "This is known as beating.",
+      "zh": ""
+    },
+    {
+      "start": 1303.22,
+      "duration": 1.87,
+      "text": "(sound buzzing)",
+      "en": "(sound buzzing)",
+      "zh": ""
+    },
+    {
+      "start": 1305.09,
+      "duration": 2.13,
+      "text": "Now the beats are really clear,",
+      "en": "Now the beats are really clear,",
+      "zh": ""
+    },
+    {
+      "start": 1308.42,
+      "duration": 1.83,
+      "text": "and this makes sense when the two waves",
+      "en": "and this makes sense when the two waves",
+      "zh": ""
+    },
+    {
+      "start": 1310.25,
+      "duration": 1.92,
+      "text": "are interfering in the air.",
+      "en": "are interfering in the air.",
+      "zh": ""
+    },
+    {
+      "start": 1312.17,
+      "duration": 4.65,
+      "text": "But what happens if a 261 hertz tone is played in one ear",
+      "en": "But what happens if a 261 hertz tone is played in one ear",
+      "zh": ""
+    },
+    {
+      "start": 1316.82,
+      "duration": 3.53,
+      "text": "and a 263 hertz tone is played in the other?",
+      "en": "and a 263 hertz tone is played in the other?",
+      "zh": ""
+    },
+    {
+      "start": 1320.35,
+      "duration": 3.34,
+      "text": "(sound beeping)",
+      "en": "(sound beeping)",
+      "zh": ""
+    },
+    {
+      "start": 1325.88,
+      "duration": 2.01,
+      "text": "What did you hear?",
+      "en": "What did you hear?",
+      "zh": ""
+    },
+    {
+      "start": 1327.89,
+      "duration": 3.12,
+      "text": "Well, the tones never had a chance to interact,",
+      "en": "Well, the tones never had a chance to interact,",
+      "zh": ""
+    },
+    {
+      "start": 1331.01,
+      "duration": 3.6,
+      "text": "but you can still hear some subtle beating.",
+      "en": "but you can still hear some subtle beating.",
+      "zh": ""
+    },
+    {
+      "start": 1334.61,
+      "duration": 2.7,
+      "text": "Your brain is firing at a rate corresponding",
+      "en": "Your brain is firing at a rate corresponding",
+      "zh": ""
+    },
+    {
+      "start": 1337.31,
+      "duration": 4.2,
+      "text": "to the phase difference causing the beat perception.",
+      "en": "to the phase difference causing the beat perception.",
+      "zh": ""
+    },
+    {
+      "start": 1341.51,
+      "duration": 2.4,
+      "text": "When your brain mixes these frequencies together,",
+      "en": "When your brain mixes these frequencies together,",
+      "zh": ""
+    },
+    {
+      "start": 1343.91,
+      "duration": 1.42,
+      "text": "it's called Binaural Beats.",
+      "en": "it's called Binaural Beats.",
+      "zh": ""
+    },
+    {
+      "start": 1345.33,
+      "duration": 2.18,
+      "text": "(sound beeping)",
+      "en": "(sound beeping)",
+      "zh": ""
+    },
+    {
+      "start": 1347.51,
+      "duration": 2.79,
+      "text": "And maybe you've already heard of Binaural Beats",
+      "en": "And maybe you've already heard of Binaural Beats",
+      "zh": ""
+    },
+    {
+      "start": 1350.3,
+      "duration": 1.71,
+      "text": "as a quick search of YouTube shows",
+      "en": "as a quick search of YouTube shows",
+      "zh": ""
+    },
+    {
+      "start": 1352.01,
+      "duration": 3.36,
+      "text": "that some people claim they can improve focus or memory.",
+      "en": "that some people claim they can improve focus or memory.",
+      "zh": ""
+    },
+    {
+      "start": 1355.37,
+      "duration": 2.88,
+      "text": "But a 2023 review was inconclusive",
+      "en": "But a 2023 review was inconclusive",
+      "zh": ""
+    },
+    {
+      "start": 1358.25,
+      "duration": 1.23,
+      "text": "and emphasized the need",
+      "en": "and emphasized the need",
+      "zh": ""
+    },
+    {
+      "start": 1359.48,
+      "duration": 2.22,
+      "text": "for more standardized testing methods.",
+      "en": "for more standardized testing methods.",
+      "zh": ""
+    },
+    {
+      "start": 1363.14,
+      "duration": 2.13,
+      "text": "Audio illusions aren't a sign that our sense",
+      "en": "Audio illusions aren't a sign that our sense",
+      "zh": ""
+    },
+    {
+      "start": 1365.27,
+      "duration": 1.2,
+      "text": "of hearing is faulty.",
+      "en": "of hearing is faulty.",
+      "zh": ""
+    },
+    {
+      "start": 1366.47,
+      "duration": 2.37,
+      "text": "I mean, the world is a messy, noisy place,",
+      "en": "I mean, the world is a messy, noisy place,",
+      "zh": ""
+    },
+    {
+      "start": 1368.84,
+      "duration": 2.16,
+      "text": "and our brains have developed complex methods",
+      "en": "and our brains have developed complex methods",
+      "zh": ""
+    },
+    {
+      "start": 1371.0,
+      "duration": 1.74,
+      "text": "to deal with ambiguity.",
+      "en": "to deal with ambiguity.",
+      "zh": ""
+    },
+    {
+      "start": 1372.74,
+      "duration": 1.2,
+      "text": "You fill in the gaps",
+      "en": "You fill in the gaps",
+      "zh": ""
+    },
+    {
+      "start": 1373.94,
+      "duration": 3.12,
+      "text": "with your past experiences or expectations.",
+      "en": "with your past experiences or expectations.",
+      "zh": ""
+    },
+    {
+      "start": 1377.06,
+      "duration": 1.59,
+      "text": "Without your brain making these",
+      "en": "Without your brain making these",
+      "zh": ""
+    },
+    {
+      "start": 1378.65,
+      "duration": 1.23,
+      "text": "subconscious adjustments,",
+      "en": "subconscious adjustments,",
+      "zh": ""
+    },
+    {
+      "start": 1379.88,
+      "duration": 4.5,
+      "text": "a cocktail party would always just sound like a total mess.",
+      "en": "a cocktail party would always just sound like a total mess.",
+      "zh": ""
+    },
+    {
+      "start": 1384.38,
+      "duration": 3.06,
+      "text": "Audio illusions show us where our perception goes wrong,",
+      "en": "Audio illusions show us where our perception goes wrong,",
+      "zh": ""
+    },
+    {
+      "start": 1387.44,
+      "duration": 2.96,
+      "text": "but the system as a whole is pretty good",
+      "en": "but the system as a whole is pretty good",
+      "zh": ""
+    },
+    {
+      "start": 1390.4,
+      "duration": 2.14,
+      "text": "at getting to the truth.",
+      "en": "at getting to the truth.",
+      "zh": ""
+    },
+    {
+      "start": 1392.54,
+      "duration": 2.75,
+      "text": "(static hissing)",
+      "en": "(static hissing)",
+      "zh": ""
+    },
+    {
+      "start": 1398.12,
+      "duration": 1.59,
+      "text": "Now, illusions remind us",
+      "en": "Now, illusions remind us",
+      "zh": ""
+    },
+    {
+      "start": 1399.71,
+      "duration": 2.7,
+      "text": "that we can't always take the world at face value.",
+      "en": "that we can't always take the world at face value.",
+      "zh": ""
+    },
+    {
+      "start": 1402.41,
+      "duration": 2.91,
+      "text": "And while our unconscious minds might fill in the gaps from",
+      "en": "And while our unconscious minds might fill in the gaps from",
+      "zh": ""
+    },
+    {
+      "start": 1405.32,
+      "duration": 2.7,
+      "text": "time to time, it's our critical thinking skills",
+      "en": "time to time, it's our critical thinking skills",
+      "zh": ""
+    },
+    {
+      "start": 1408.02,
+      "duration": 3.45,
+      "text": "that do the heavy lifting of separating fact from fiction.",
+      "en": "that do the heavy lifting of separating fact from fiction.",
+      "zh": ""
+    },
+    {
+      "start": 1411.47,
+      "duration": 1.2,
+      "text": "And if you are looking",
+      "en": "And if you are looking",
+      "zh": ""
+    },
+    {
+      "start": 1412.67,
+      "duration": 2.19,
+      "text": "to start building these skills yourself, you can do",
+      "en": "to start building these skills yourself, you can do",
+      "zh": ""
+    },
+    {
+      "start": 1414.86,
+      "duration": 3.87,
+      "text": "that right now for free with today's sponsor, Brilliant.",
+      "en": "that right now for free with today's sponsor, Brilliant.",
+      "zh": ""
+    },
+    {
+      "start": 1418.73,
+      "duration": 1.95,
+      "text": "Brilliant will make you a better thinker",
+      "en": "Brilliant will make you a better thinker",
+      "zh": ""
+    },
+    {
+      "start": 1420.68,
+      "duration": 2.91,
+      "text": "and problem solver while helping you build real skills",
+      "en": "and problem solver while helping you build real skills",
+      "zh": ""
+    },
+    {
+      "start": 1423.59,
+      "duration": 1.59,
+      "text": "in everything from math",
+      "en": "in everything from math",
+      "zh": ""
+    },
+    {
+      "start": 1425.18,
+      "duration": 4.56,
+      "text": "and data analysis to programming, technology, whatever it is",
+      "en": "and data analysis to programming, technology, whatever it is",
+      "zh": ""
+    },
+    {
+      "start": 1429.74,
+      "duration": 1.56,
+      "text": "that you're curious about.",
+      "en": "that you're curious about.",
+      "zh": ""
+    },
+    {
+      "start": 1431.3,
+      "duration": 1.2,
+      "text": "On Brilliant, you'll learn",
+      "en": "On Brilliant, you'll learn",
+      "zh": ""
+    },
+    {
+      "start": 1432.5,
+      "duration": 2.61,
+      "text": "through discovery by trying things out for yourself.",
+      "en": "through discovery by trying things out for yourself.",
+      "zh": ""
+    },
+    {
+      "start": 1435.11,
+      "duration": 2.52,
+      "text": "And you'll not only gain knowledge of key concepts,",
+      "en": "And you'll not only gain knowledge of key concepts,",
+      "zh": ""
+    },
+    {
+      "start": 1437.63,
+      "duration": 1.11,
+      "text": "you'll learn to apply them",
+      "en": "you'll learn to apply them",
+      "zh": ""
+    },
+    {
+      "start": 1438.74,
+      "duration": 4.14,
+      "text": "to real world situations all while building your intuition.",
+      "en": "to real world situations all while building your intuition.",
+      "zh": ""
+    },
+    {
+      "start": 1442.88,
+      "duration": 1.38,
+      "text": "This gives you the tools",
+      "en": "This gives you the tools",
+      "zh": ""
+    },
+    {
+      "start": 1444.26,
+      "duration": 2.7,
+      "text": "to solve whatever problems come your way.",
+      "en": "to solve whatever problems come your way.",
+      "zh": ""
+    },
+    {
+      "start": 1446.96,
+      "duration": 2.61,
+      "text": "You know, learning something new every day is one",
+      "en": "You know, learning something new every day is one",
+      "zh": ""
+    },
+    {
+      "start": 1449.57,
+      "duration": 2.43,
+      "text": "of the most important things you can do for yourself,",
+      "en": "of the most important things you can do for yourself,",
+      "zh": ""
+    },
+    {
+      "start": 1452.0,
+      "duration": 2.46,
+      "text": "and Brilliant is the perfect way to do it.",
+      "en": "and Brilliant is the perfect way to do it.",
+      "zh": ""
+    },
+    {
+      "start": 1454.46,
+      "duration": 2.37,
+      "text": "They have thousands of bite-sized lessons",
+      "en": "They have thousands of bite-sized lessons",
+      "zh": ""
+    },
+    {
+      "start": 1456.83,
+      "duration": 1.86,
+      "text": "you can do in just minutes.",
+      "en": "you can do in just minutes.",
+      "zh": ""
+    },
+    {
+      "start": 1458.69,
+      "duration": 2.22,
+      "text": "Right now, I'm spending a little time each day in their",
+      "en": "Right now, I'm spending a little time each day in their",
+      "zh": ""
+    },
+    {
+      "start": 1460.91,
+      "duration": 1.86,
+      "text": "logic course, which has been a great way",
+      "en": "logic course, which has been a great way",
+      "zh": ""
+    },
+    {
+      "start": 1462.77,
+      "duration": 1.5,
+      "text": "to brush up on my own skills",
+      "en": "to brush up on my own skills",
+      "zh": ""
+    },
+    {
+      "start": 1464.27,
+      "duration": 2.61,
+      "text": "of discerning what's true and false.",
+      "en": "of discerning what's true and false.",
+      "zh": ""
+    },
+    {
+      "start": 1466.88,
+      "duration": 2.7,
+      "text": "And the best part about Brilliant is you can learn from",
+      "en": "And the best part about Brilliant is you can learn from",
+      "zh": ""
+    },
+    {
+      "start": 1469.58,
+      "duration": 2.01,
+      "text": "anywhere right on your phone.",
+      "en": "anywhere right on your phone.",
+      "zh": ""
+    },
+    {
+      "start": 1471.59,
+      "duration": 1.8,
+      "text": "So whenever you have a few minutes,",
+      "en": "So whenever you have a few minutes,",
+      "zh": ""
+    },
+    {
+      "start": 1473.39,
+      "duration": 3.03,
+      "text": "spend them building a quicker, sharper mind.",
+      "en": "spend them building a quicker, sharper mind.",
+      "zh": ""
+    },
+    {
+      "start": 1476.42,
+      "duration": 2.16,
+      "text": "To try everything Brilliant has to offer for free",
+      "en": "To try everything Brilliant has to offer for free",
+      "zh": ""
+    },
+    {
+      "start": 1478.58,
+      "duration": 3.06,
+      "text": "for 30 days, visit brilliant.org/veritasium,",
+      "en": "for 30 days, visit brilliant.org/veritasium,",
+      "zh": ""
+    },
+    {
+      "start": 1481.64,
+      "duration": 1.89,
+      "text": "or you can scan this QR code",
+      "en": "or you can scan this QR code",
+      "zh": ""
+    },
+    {
+      "start": 1483.53,
+      "duration": 2.1,
+      "text": "or click that link in the description.",
+      "en": "or click that link in the description.",
+      "zh": ""
+    },
+    {
+      "start": 1485.63,
+      "duration": 1.8,
+      "text": "You'll also get 20% off Brilliant's",
+      "en": "You'll also get 20% off Brilliant's",
+      "zh": ""
+    },
+    {
+      "start": 1487.43,
+      "duration": 1.68,
+      "text": "annual premium subscription.",
+      "en": "annual premium subscription.",
+      "zh": ""
+    },
+    {
+      "start": 1489.11,
+      "duration": 2.31,
+      "text": "So I wanna thank Brilliant for sponsoring this video,",
+      "en": "So I wanna thank Brilliant for sponsoring this video,",
+      "zh": ""
+    },
+    {
+      "start": 1491.42,
+      "duration": 1.89,
+      "text": "and I wanna thank you for watching.",
+      "en": "and I wanna thank you for watching.",
+      "zh": ""
+    }
+  ],
+  "words": []
+}

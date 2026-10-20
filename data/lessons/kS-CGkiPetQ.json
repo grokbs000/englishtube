@@ -1,0 +1,5143 @@
+{
+  "cues": [
+    {
+      "start": 0.69,
+      "duration": 0.99,
+      "text": "- [Derek] Say you wanna drive",
+      "en": "- [Derek] Say you wanna drive",
+      "zh": ""
+    },
+    {
+      "start": 1.68,
+      "duration": 1.92,
+      "text": "from New York to San Francisco.",
+      "en": "from New York to San Francisco.",
+      "zh": ""
+    },
+    {
+      "start": 3.6,
+      "duration": 2.88,
+      "text": "How could you calculate the absolute shortest path?",
+      "en": "How could you calculate the absolute shortest path?",
+      "zh": ""
+    },
+    {
+      "start": 7.71,
+      "duration": 2.55,
+      "text": "There are over 64 million intersections",
+      "en": "There are over 64 million intersections",
+      "zh": ""
+    },
+    {
+      "start": 10.26,
+      "duration": 1.53,
+      "text": "in the North American road system,",
+      "en": "in the North American road system,",
+      "zh": ""
+    },
+    {
+      "start": 11.79,
+      "duration": 4.73,
+      "text": "so a simplified estimate gives around 10 to the 220 possible routes.",
+      "en": "so a simplified estimate gives around 10 to the 220 possible routes.",
+      "zh": ""
+    },
+    {
+      "start": 16.52,
+      "duration": 2.82,
+      "text": "Even if you could check a billion routes per second,",
+      "en": "Even if you could check a billion routes per second,",
+      "zh": ""
+    },
+    {
+      "start": 19.34,
+      "duration": 1.12,
+      "text": "testing all of them",
+      "en": "testing all of them",
+      "zh": ""
+    },
+    {
+      "start": 20.46,
+      "duration": 3.93,
+      "text": "would still take over 10 to the 200 years.",
+      "en": "would still take over 10 to the 200 years.",
+      "zh": ""
+    },
+    {
+      "start": 24.39,
+      "duration": 2.94,
+      "text": "And this isn't just a problem for navigation software.",
+      "en": "And this isn't just a problem for navigation software.",
+      "zh": ""
+    },
+    {
+      "start": 27.33,
+      "duration": 2.1,
+      "text": "Any independent system like a robot",
+      "en": "Any independent system like a robot",
+      "zh": ""
+    },
+    {
+      "start": 29.43,
+      "duration": 2.79,
+      "text": "or a video game character that needs to navigate a maze,",
+      "en": "or a video game character that needs to navigate a maze,",
+      "zh": ""
+    },
+    {
+      "start": 32.22,
+      "duration": 3.57,
+      "text": "or obstacle course faces this same problem.",
+      "en": "or obstacle course faces this same problem.",
+      "zh": ""
+    },
+    {
+      "start": 35.79,
+      "duration": 2.76,
+      "text": "And yet, Google or Apple Maps will find you the route",
+      "en": "And yet, Google or Apple Maps will find you the route",
+      "zh": ""
+    },
+    {
+      "start": 38.55,
+      "duration": 1.65,
+      "text": "in only four seconds.",
+      "en": "in only four seconds.",
+      "zh": ""
+    },
+    {
+      "start": 41.19,
+      "duration": 1.8,
+      "text": "So how is that possible?",
+      "en": "So how is that possible?",
+      "zh": ""
+    },
+    {
+      "start": 44.52,
+      "duration": 1.86,
+      "text": "Well, we teamed up with the channel 2swap,",
+      "en": "Well, we teamed up with the channel 2swap,",
+      "zh": ""
+    },
+    {
+      "start": 46.38,
+      "duration": 2.61,
+      "text": "who creates incredible simulations and animations",
+      "en": "who creates incredible simulations and animations",
+      "zh": ""
+    },
+    {
+      "start": 48.99,
+      "duration": 2.97,
+      "text": "to show you step by step, how these algorithms work.",
+      "en": "to show you step by step, how these algorithms work.",
+      "zh": ""
+    },
+    {
+      "start": 53.01,
+      "duration": 2.55,
+      "text": "They trace their origins back to a shopping trip",
+      "en": "They trace their origins back to a shopping trip",
+      "zh": ""
+    },
+    {
+      "start": 55.56,
+      "duration": 2.36,
+      "text": "in Amsterdam in 1956.",
+      "en": "in Amsterdam in 1956.",
+      "zh": ""
+    },
+    {
+      "start": 57.92,
+      "duration": 2.59,
+      "text": "(jaunty music)",
+      "en": "(jaunty music)",
+      "zh": ""
+    },
+    {
+      "start": 61.52,
+      "duration": 2.38,
+      "text": "Edsger Dijkstra needed a problem.",
+      "en": "Edsger Dijkstra needed a problem.",
+      "zh": ""
+    },
+    {
+      "start": 63.9,
+      "duration": 2.16,
+      "text": "He was working on software for ARMAC,",
+      "en": "He was working on software for ARMAC,",
+      "zh": ""
+    },
+    {
+      "start": 66.06,
+      "duration": 2.37,
+      "text": "an early computer developed at the mathematical center",
+      "en": "an early computer developed at the mathematical center",
+      "zh": ""
+    },
+    {
+      "start": 68.43,
+      "duration": 1.08,
+      "text": "in the Netherlands.",
+      "en": "in the Netherlands.",
+      "zh": ""
+    },
+    {
+      "start": 69.51,
+      "duration": 1.95,
+      "text": "And it was almost ready to debut.",
+      "en": "And it was almost ready to debut.",
+      "zh": ""
+    },
+    {
+      "start": 71.46,
+      "duration": 2.28,
+      "text": "But at the time, the general public considered computers",
+      "en": "But at the time, the general public considered computers",
+      "zh": ""
+    },
+    {
+      "start": 73.74,
+      "duration": 2.16,
+      "text": "to be practically useless.",
+      "en": "to be practically useless.",
+      "zh": ""
+    },
+    {
+      "start": 75.9,
+      "duration": 0.93,
+      "text": "So useless, in fact,",
+      "en": "So useless, in fact,",
+      "zh": ""
+    },
+    {
+      "start": 76.83,
+      "duration": 3.24,
+      "text": "that Dijkstra ran into issues filing his marriage license.",
+      "en": "that Dijkstra ran into issues filing his marriage license.",
+      "zh": ""
+    },
+    {
+      "start": 80.07,
+      "duration": 2.04,
+      "text": "- [Casper's Dijkstra Impression] Dutch marriage rights require you",
+      "en": "- [Casper's Dijkstra Impression] Dutch marriage rights require you",
+      "zh": ""
+    },
+    {
+      "start": 82.11,
+      "duration": 1.59,
+      "text": "to state your profession,",
+      "en": "to state your profession,",
+      "zh": ""
+    },
+    {
+      "start": 83.7,
+      "duration": 3.08,
+      "text": "and I said that I was a programmer.",
+      "en": "and I said that I was a programmer.",
+      "zh": ""
+    },
+    {
+      "start": 86.78,
+      "duration": 3.88,
+      "text": "But the municipal authorities of the town of Amsterdam",
+      "en": "But the municipal authorities of the town of Amsterdam",
+      "zh": ""
+    },
+    {
+      "start": 90.66,
+      "duration": 1.68,
+      "text": "didn't accept it on the ground",
+      "en": "didn't accept it on the ground",
+      "zh": ""
+    },
+    {
+      "start": 92.34,
+      "duration": 1.74,
+      "text": "that there was no such profession.",
+      "en": "that there was no such profession.",
+      "zh": ""
+    },
+    {
+      "start": 95.22,
+      "duration": 3.36,
+      "text": "And believe it or not, that under the heading \"profession,\"",
+      "en": "And believe it or not, that under the heading \"profession,\"",
+      "zh": ""
+    },
+    {
+      "start": 98.58,
+      "duration": 3.01,
+      "text": "my marriage act shows the ridiculous entry,",
+      "en": "my marriage act shows the ridiculous entry,",
+      "zh": ""
+    },
+    {
+      "start": 101.59,
+      "duration": 1.94,
+      "text": "\"theoretical physicist.\"",
+      "en": "\"theoretical physicist.\"",
+      "zh": ""
+    },
+    {
+      "start": 105.93,
+      "duration": 2.61,
+      "text": "- [Derek] And so Dijkstra was looking for a specific demo",
+      "en": "- [Derek] And so Dijkstra was looking for a specific demo",
+      "zh": ""
+    },
+    {
+      "start": 108.54,
+      "duration": 4.14,
+      "text": "to prove just how powerful ARMAC was, even to the layperson.",
+      "en": "to prove just how powerful ARMAC was, even to the layperson.",
+      "zh": ""
+    },
+    {
+      "start": 112.68,
+      "duration": 1.29,
+      "text": "- ['Dijkstra'] The problem of course,",
+      "en": "- ['Dijkstra'] The problem of course,",
+      "zh": ""
+    },
+    {
+      "start": 113.97,
+      "duration": 3.51,
+      "text": "is that for a demonstration for non-computing people,",
+      "en": "is that for a demonstration for non-computing people,",
+      "zh": ""
+    },
+    {
+      "start": 117.48,
+      "duration": 1.68,
+      "text": "you have to have a problem statement",
+      "en": "you have to have a problem statement",
+      "zh": ""
+    },
+    {
+      "start": 119.16,
+      "duration": 2.31,
+      "text": "that non-mathematicians can understand.",
+      "en": "that non-mathematicians can understand.",
+      "zh": ""
+    },
+    {
+      "start": 122.34,
+      "duration": 1.95,
+      "text": "And they have to understand the answer.",
+      "en": "And they have to understand the answer.",
+      "zh": ""
+    },
+    {
+      "start": 125.37,
+      "duration": 1.41,
+      "text": "- [Derek] And during that shopping trip,",
+      "en": "- [Derek] And during that shopping trip,",
+      "zh": ""
+    },
+    {
+      "start": 126.78,
+      "duration": 1.83,
+      "text": "he thought of the perfect problem.",
+      "en": "he thought of the perfect problem.",
+      "zh": ""
+    },
+    {
+      "start": 129.51,
+      "duration": 1.14,
+      "text": "- ['Dijkstra'] What's the shortest way",
+      "en": "- ['Dijkstra'] What's the shortest way",
+      "zh": ""
+    },
+    {
+      "start": 130.65,
+      "duration": 2.73,
+      "text": "to travel from Rotterdam to Groningen?",
+      "en": "to travel from Rotterdam to Groningen?",
+      "zh": ""
+    },
+    {
+      "start": 133.38,
+      "duration": 3.24,
+      "text": "- [Derek] In other words, a shortest path algorithm.",
+      "en": "- [Derek] In other words, a shortest path algorithm.",
+      "zh": ""
+    },
+    {
+      "start": 136.62,
+      "duration": 2.52,
+      "text": "Here's a simplified graph of the Netherlands.",
+      "en": "Here's a simplified graph of the Netherlands.",
+      "zh": ""
+    },
+    {
+      "start": 139.14,
+      "duration": 1.62,
+      "text": "The nodes represent the cities,",
+      "en": "The nodes represent the cities,",
+      "zh": ""
+    },
+    {
+      "start": 140.76,
+      "duration": 2.58,
+      "text": "and the edges connecting them are the roads.",
+      "en": "and the edges connecting them are the roads.",
+      "zh": ""
+    },
+    {
+      "start": 143.34,
+      "duration": 1.71,
+      "text": "The simplest way to find the shortest path",
+      "en": "The simplest way to find the shortest path",
+      "zh": ""
+    },
+    {
+      "start": 145.05,
+      "duration": 3.0,
+      "text": "from Rotterdam to Groningen looks like this.",
+      "en": "from Rotterdam to Groningen looks like this.",
+      "zh": ""
+    },
+    {
+      "start": 148.05,
+      "duration": 1.17,
+      "text": "Starting from Rotterdam,",
+      "en": "Starting from Rotterdam,",
+      "zh": ""
+    },
+    {
+      "start": 149.22,
+      "duration": 2.34,
+      "text": "we're first going to explore all its neighbors",
+      "en": "we're first going to explore all its neighbors",
+      "zh": ""
+    },
+    {
+      "start": 151.56,
+      "duration": 1.08,
+      "text": "looking for Groningen.",
+      "en": "looking for Groningen.",
+      "zh": ""
+    },
+    {
+      "start": 152.64,
+      "duration": 2.52,
+      "text": "Since Groningen isn't one of these neighboring nodes,",
+      "en": "Since Groningen isn't one of these neighboring nodes,",
+      "zh": ""
+    },
+    {
+      "start": 155.16,
+      "duration": 3.69,
+      "text": "we'll mark Rotterdam as explored, and keep searching.",
+      "en": "we'll mark Rotterdam as explored, and keep searching.",
+      "zh": ""
+    },
+    {
+      "start": 158.85,
+      "duration": 2.55,
+      "text": "So now we'll branch out from these four nodes",
+      "en": "So now we'll branch out from these four nodes",
+      "zh": ""
+    },
+    {
+      "start": 161.4,
+      "duration": 2.4,
+      "text": "to explore all of their neighbors.",
+      "en": "to explore all of their neighbors.",
+      "zh": ""
+    },
+    {
+      "start": 163.8,
+      "duration": 1.86,
+      "text": "And we keep branching out this way,",
+      "en": "And we keep branching out this way,",
+      "zh": ""
+    },
+    {
+      "start": 165.66,
+      "duration": 1.62,
+      "text": "exploring all neighboring nodes,",
+      "en": "exploring all neighboring nodes,",
+      "zh": ""
+    },
+    {
+      "start": 167.28,
+      "duration": 2.07,
+      "text": "until we stumble upon Groningen.",
+      "en": "until we stumble upon Groningen.",
+      "zh": ""
+    },
+    {
+      "start": 170.67,
+      "duration": 2.43,
+      "text": "This algorithm is known as Breadth-First Search.",
+      "en": "This algorithm is known as Breadth-First Search.",
+      "zh": ""
+    },
+    {
+      "start": 173.1,
+      "duration": 1.68,
+      "text": "It will always find the shortest path",
+      "en": "It will always find the shortest path",
+      "zh": ""
+    },
+    {
+      "start": 174.78,
+      "duration": 2.55,
+      "text": "because it checks all nodes one step away,",
+      "en": "because it checks all nodes one step away,",
+      "zh": ""
+    },
+    {
+      "start": 177.33,
+      "duration": 2.91,
+      "text": "and then two steps away, and so on.",
+      "en": "and then two steps away, and so on.",
+      "zh": ""
+    },
+    {
+      "start": 180.24,
+      "duration": 2.7,
+      "text": "So if there were a path from Rotterdam to Groningen",
+      "en": "So if there were a path from Rotterdam to Groningen",
+      "zh": ""
+    },
+    {
+      "start": 182.94,
+      "duration": 0.83,
+      "text": "in four steps,",
+      "en": "in four steps,",
+      "zh": ""
+    },
+    {
+      "start": 183.77,
+      "duration": 4.45,
+      "text": "we would've found it on the fourth iteration, but we didn't.",
+      "en": "we would've found it on the fourth iteration, but we didn't.",
+      "zh": ""
+    },
+    {
+      "start": 188.22,
+      "duration": 2.94,
+      "text": "So the shortest path must be five steps.",
+      "en": "So the shortest path must be five steps.",
+      "zh": ""
+    },
+    {
+      "start": 191.16,
+      "duration": 1.98,
+      "text": "But there's a problem with this approach.",
+      "en": "But there's a problem with this approach.",
+      "zh": ""
+    },
+    {
+      "start": 193.14,
+      "duration": 2.19,
+      "text": "I mean, the algorithm considers all these roads",
+      "en": "I mean, the algorithm considers all these roads",
+      "zh": ""
+    },
+    {
+      "start": 195.33,
+      "duration": 2.67,
+      "text": "to be the same length, which is obviously not true.",
+      "en": "to be the same length, which is obviously not true.",
+      "zh": ""
+    },
+    {
+      "start": 199.14,
+      "duration": 2.46,
+      "text": "So let's add weights to represent distances",
+      "en": "So let's add weights to represent distances",
+      "zh": ""
+    },
+    {
+      "start": 201.6,
+      "duration": 1.44,
+      "text": "between these nodes.",
+      "en": "between these nodes.",
+      "zh": ""
+    },
+    {
+      "start": 203.04,
+      "duration": 3.09,
+      "text": "Now the shortest path is much harder to figure out.",
+      "en": "Now the shortest path is much harder to figure out.",
+      "zh": ""
+    },
+    {
+      "start": 206.13,
+      "duration": 2.07,
+      "text": "So Dijkstra needed a better method.",
+      "en": "So Dijkstra needed a better method.",
+      "zh": ""
+    },
+    {
+      "start": 209.22,
+      "duration": 2.4,
+      "text": "- ['Dijkstra'] One morning I was shopping in Amsterdam",
+      "en": "- ['Dijkstra'] One morning I was shopping in Amsterdam",
+      "zh": ""
+    },
+    {
+      "start": 211.62,
+      "duration": 2.52,
+      "text": "with my young fiance, and tired,",
+      "en": "with my young fiance, and tired,",
+      "zh": ""
+    },
+    {
+      "start": 214.14,
+      "duration": 3.36,
+      "text": "we sat down on the cafe terrace to drink a cup of coffee.",
+      "en": "we sat down on the cafe terrace to drink a cup of coffee.",
+      "zh": ""
+    },
+    {
+      "start": 217.5,
+      "duration": 3.12,
+      "text": "And I was just thinking about whether I could do this.",
+      "en": "And I was just thinking about whether I could do this.",
+      "zh": ""
+    },
+    {
+      "start": 221.82,
+      "duration": 1.41,
+      "text": "- [Henry] His idea was this.",
+      "en": "- [Henry] His idea was this.",
+      "zh": ""
+    },
+    {
+      "start": 223.23,
+      "duration": 2.46,
+      "text": "First he wanted to keep track of the shortest distance",
+      "en": "First he wanted to keep track of the shortest distance",
+      "zh": ""
+    },
+    {
+      "start": 225.69,
+      "duration": 1.71,
+      "text": "from the source to each node.",
+      "en": "from the source to each node.",
+      "zh": ""
+    },
+    {
+      "start": 227.4,
+      "duration": 2.1,
+      "text": "This is also known as its cost.",
+      "en": "This is also known as its cost.",
+      "zh": ""
+    },
+    {
+      "start": 230.37,
+      "duration": 2.61,
+      "text": "His goal, well, if he could find the shortest path",
+      "en": "His goal, well, if he could find the shortest path",
+      "zh": ""
+    },
+    {
+      "start": 232.98,
+      "duration": 1.68,
+      "text": "from the source to one node,",
+      "en": "from the source to one node,",
+      "zh": ""
+    },
+    {
+      "start": 234.66,
+      "duration": 1.77,
+      "text": "then he could build up other shortest paths",
+      "en": "then he could build up other shortest paths",
+      "zh": ""
+    },
+    {
+      "start": 236.43,
+      "duration": 1.5,
+      "text": "starting from this new node,",
+      "en": "starting from this new node,",
+      "zh": ""
+    },
+    {
+      "start": 237.93,
+      "duration": 2.13,
+      "text": "and then the next, and on and on.",
+      "en": "and then the next, and on and on.",
+      "zh": ""
+    },
+    {
+      "start": 241.11,
+      "duration": 2.28,
+      "text": "Now, the cost of the starting node was zero.",
+      "en": "Now, the cost of the starting node was zero.",
+      "zh": ""
+    },
+    {
+      "start": 243.39,
+      "duration": 1.62,
+      "text": "But since he hadn't actually explored",
+      "en": "But since he hadn't actually explored",
+      "zh": ""
+    },
+    {
+      "start": 245.01,
+      "duration": 1.14,
+      "text": "the rest of the graph yet,",
+      "en": "the rest of the graph yet,",
+      "zh": ""
+    },
+    {
+      "start": 246.15,
+      "duration": 3.39,
+      "text": "he set all the other nodes to a cost of infinity.",
+      "en": "he set all the other nodes to a cost of infinity.",
+      "zh": ""
+    },
+    {
+      "start": 249.54,
+      "duration": 1.89,
+      "text": "Then just like breadth-first search,",
+      "en": "Then just like breadth-first search,",
+      "zh": ""
+    },
+    {
+      "start": 251.43,
+      "duration": 1.31,
+      "text": "Dijkstra started from the source,",
+      "en": "Dijkstra started from the source,",
+      "zh": ""
+    },
+    {
+      "start": 252.74,
+      "duration": 2.65,
+      "text": "and explored each of its neighboring nodes.",
+      "en": "and explored each of its neighboring nodes.",
+      "zh": ""
+    },
+    {
+      "start": 255.39,
+      "duration": 1.39,
+      "text": "At every step he'd ask,",
+      "en": "At every step he'd ask,",
+      "zh": ""
+    },
+    {
+      "start": 256.78,
+      "duration": 1.61,
+      "text": "\"Is the current path to this node",
+      "en": "\"Is the current path to this node",
+      "zh": ""
+    },
+    {
+      "start": 258.39,
+      "duration": 2.19,
+      "text": "the shortest we've seen so far?\"",
+      "en": "the shortest we've seen so far?\"",
+      "zh": ""
+    },
+    {
+      "start": 260.58,
+      "duration": 2.28,
+      "text": "For example, this edge only has a weight of one,",
+      "en": "For example, this edge only has a weight of one,",
+      "zh": ""
+    },
+    {
+      "start": 262.86,
+      "duration": 2.34,
+      "text": "while the node's current cost is infinity.",
+      "en": "while the node's current cost is infinity.",
+      "zh": ""
+    },
+    {
+      "start": 265.2,
+      "duration": 2.73,
+      "text": "So this path is the shortest yet to that node.",
+      "en": "So this path is the shortest yet to that node.",
+      "zh": ""
+    },
+    {
+      "start": 267.93,
+      "duration": 2.07,
+      "text": "So Dijkstra updated its cost to one.",
+      "en": "So Dijkstra updated its cost to one.",
+      "zh": ""
+    },
+    {
+      "start": 271.92,
+      "duration": 3.48,
+      "text": "Likewise, these nodes were updated to three, two, and four.",
+      "en": "Likewise, these nodes were updated to three, two, and four.",
+      "zh": ""
+    },
+    {
+      "start": 276.93,
+      "duration": 2.4,
+      "text": "After checking all of Rotterdam's neighboring nodes,",
+      "en": "After checking all of Rotterdam's neighboring nodes,",
+      "zh": ""
+    },
+    {
+      "start": 279.33,
+      "duration": 2.28,
+      "text": "Dijkstra marked it as explored.",
+      "en": "Dijkstra marked it as explored.",
+      "zh": ""
+    },
+    {
+      "start": 281.61,
+      "duration": 2.01,
+      "text": "Then since this node had the lowest cost",
+      "en": "Then since this node had the lowest cost",
+      "zh": ""
+    },
+    {
+      "start": 283.62,
+      "duration": 3.21,
+      "text": "out of all the unexplored nodes, Dijkstra explored it next.",
+      "en": "out of all the unexplored nodes, Dijkstra explored it next.",
+      "zh": ""
+    },
+    {
+      "start": 287.67,
+      "duration": 1.98,
+      "text": "Like before, he checked each of its edges",
+      "en": "Like before, he checked each of its edges",
+      "zh": ""
+    },
+    {
+      "start": 289.65,
+      "duration": 2.13,
+      "text": "to reduce the neighbor's costs.",
+      "en": "to reduce the neighbor's costs.",
+      "zh": ""
+    },
+    {
+      "start": 291.78,
+      "duration": 1.38,
+      "text": "Dijkstra could update this neighbor",
+      "en": "Dijkstra could update this neighbor",
+      "zh": ""
+    },
+    {
+      "start": 293.16,
+      "duration": 1.74,
+      "text": "from infinity down to six,",
+      "en": "from infinity down to six,",
+      "zh": ""
+    },
+    {
+      "start": 294.9,
+      "duration": 2.64,
+      "text": "a total path length of five plus one,",
+      "en": "a total path length of five plus one,",
+      "zh": ""
+    },
+    {
+      "start": 297.54,
+      "duration": 1.83,
+      "text": "but he couldn't update this one.",
+      "en": "but he couldn't update this one.",
+      "zh": ""
+    },
+    {
+      "start": 299.37,
+      "duration": 1.8,
+      "text": "The current path has a cost of five,",
+      "en": "The current path has a cost of five,",
+      "zh": ""
+    },
+    {
+      "start": 301.17,
+      "duration": 2.19,
+      "text": "but the nodes' cost was three.",
+      "en": "but the nodes' cost was three.",
+      "zh": ""
+    },
+    {
+      "start": 303.36,
+      "duration": 2.22,
+      "text": "That meant there was already a shorter path,",
+      "en": "That meant there was already a shorter path,",
+      "zh": ""
+    },
+    {
+      "start": 305.58,
+      "duration": 2.1,
+      "text": "this one directly from the source.",
+      "en": "this one directly from the source.",
+      "zh": ""
+    },
+    {
+      "start": 307.68,
+      "duration": 2.1,
+      "text": "So there was no need to update the cost.",
+      "en": "So there was no need to update the cost.",
+      "zh": ""
+    },
+    {
+      "start": 311.13,
+      "duration": 3.36,
+      "text": "The next node to explore is this one with a cost of two,",
+      "en": "The next node to explore is this one with a cost of two,",
+      "zh": ""
+    },
+    {
+      "start": 314.49,
+      "duration": 2.22,
+      "text": "which would update its neighbor to five.",
+      "en": "which would update its neighbor to five.",
+      "zh": ""
+    },
+    {
+      "start": 316.71,
+      "duration": 1.62,
+      "text": "Then this one with a cost of three",
+      "en": "Then this one with a cost of three",
+      "zh": ""
+    },
+    {
+      "start": 318.33,
+      "duration": 2.16,
+      "text": "would update its neighbors, and so on.",
+      "en": "would update its neighbors, and so on.",
+      "zh": ""
+    },
+    {
+      "start": 320.49,
+      "duration": 3.18,
+      "text": "Sometimes Dijkstra had to update a node's cost a few times.",
+      "en": "Sometimes Dijkstra had to update a node's cost a few times.",
+      "zh": ""
+    },
+    {
+      "start": 323.67,
+      "duration": 2.61,
+      "text": "For example, he first reached this node through this path",
+      "en": "For example, he first reached this node through this path",
+      "zh": ""
+    },
+    {
+      "start": 326.28,
+      "duration": 2.01,
+      "text": "with edge weights four, and then three,",
+      "en": "with edge weights four, and then three,",
+      "zh": ""
+    },
+    {
+      "start": 328.29,
+      "duration": 1.56,
+      "text": "for a total cost of seven.",
+      "en": "for a total cost of seven.",
+      "zh": ""
+    },
+    {
+      "start": 329.85,
+      "duration": 2.85,
+      "text": "But later he found this path was cost six.",
+      "en": "But later he found this path was cost six.",
+      "zh": ""
+    },
+    {
+      "start": 332.7,
+      "duration": 2.59,
+      "text": "So he updated the nodes cost again.",
+      "en": "So he updated the nodes cost again.",
+      "zh": ""
+    },
+    {
+      "start": 335.29,
+      "duration": 3.17,
+      "text": "(gentle music)",
+      "en": "(gentle music)",
+      "zh": ""
+    },
+    {
+      "start": 338.46,
+      "duration": 1.23,
+      "text": "The first time Dijkstra reached Groningen,",
+      "en": "The first time Dijkstra reached Groningen,",
+      "zh": ""
+    },
+    {
+      "start": 339.69,
+      "duration": 2.13,
+      "text": "it had a cost of 19.",
+      "en": "it had a cost of 19.",
+      "zh": ""
+    },
+    {
+      "start": 341.82,
+      "duration": 1.56,
+      "text": "But it didn't have the lowest cost",
+      "en": "But it didn't have the lowest cost",
+      "zh": ""
+    },
+    {
+      "start": 343.38,
+      "duration": 1.92,
+      "text": "out of all the unexplored nodes.",
+      "en": "out of all the unexplored nodes.",
+      "zh": ""
+    },
+    {
+      "start": 345.3,
+      "duration": 2.43,
+      "text": "There was still this node with a cost of 16,",
+      "en": "There was still this node with a cost of 16,",
+      "zh": ""
+    },
+    {
+      "start": 347.73,
+      "duration": 3.03,
+      "text": "which could be hiding a shorter path to our goal.",
+      "en": "which could be hiding a shorter path to our goal.",
+      "zh": ""
+    },
+    {
+      "start": 350.76,
+      "duration": 3.09,
+      "text": "So he continued exploring nodes in cost order,",
+      "en": "So he continued exploring nodes in cost order,",
+      "zh": ""
+    },
+    {
+      "start": 353.85,
+      "duration": 2.43,
+      "text": "and found this path with cost 18.",
+      "en": "and found this path with cost 18.",
+      "zh": ""
+    },
+    {
+      "start": 356.28,
+      "duration": 1.48,
+      "text": "Now, out of all unexplored nodes,",
+      "en": "Now, out of all unexplored nodes,",
+      "zh": ""
+    },
+    {
+      "start": 357.76,
+      "duration": 2.72,
+      "text": "Groningen had the next lowest cost.",
+      "en": "Groningen had the next lowest cost.",
+      "zh": ""
+    },
+    {
+      "start": 360.48,
+      "duration": 3.0,
+      "text": "So Dijkstra was confident that he'd found the shortest path.",
+      "en": "So Dijkstra was confident that he'd found the shortest path.",
+      "zh": ""
+    },
+    {
+      "start": 364.35,
+      "duration": 0.83,
+      "text": "Here's why.",
+      "en": "Here's why.",
+      "zh": ""
+    },
+    {
+      "start": 366.33,
+      "duration": 3.21,
+      "text": "If the lowest cost among the unexplored nodes is 18,",
+      "en": "If the lowest cost among the unexplored nodes is 18,",
+      "zh": ""
+    },
+    {
+      "start": 369.54,
+      "duration": 2.13,
+      "text": "then Dijkstra must have explored all the paths",
+      "en": "then Dijkstra must have explored all the paths",
+      "zh": ""
+    },
+    {
+      "start": 371.67,
+      "duration": 5.0,
+      "text": "with cost 16, 14, 13, every path less than 18.",
+      "en": "with cost 16, 14, 13, every path less than 18.",
+      "zh": ""
+    },
+    {
+      "start": 376.83,
+      "duration": 2.49,
+      "text": "And none of those paths reached Groningen.",
+      "en": "And none of those paths reached Groningen.",
+      "zh": ""
+    },
+    {
+      "start": 379.32,
+      "duration": 1.68,
+      "text": "It's just like breadth-first search,",
+      "en": "It's just like breadth-first search,",
+      "zh": ""
+    },
+    {
+      "start": 381.0,
+      "duration": 2.28,
+      "text": "searching every step away from the source.",
+      "en": "searching every step away from the source.",
+      "zh": ""
+    },
+    {
+      "start": 383.28,
+      "duration": 2.16,
+      "text": "By exploring from lowest to highest cost,",
+      "en": "By exploring from lowest to highest cost,",
+      "zh": ""
+    },
+    {
+      "start": 385.44,
+      "duration": 2.43,
+      "text": "Dijkstra's algorithm guaranteed the shortest path",
+      "en": "Dijkstra's algorithm guaranteed the shortest path",
+      "zh": ""
+    },
+    {
+      "start": 387.87,
+      "duration": 0.87,
+      "text": "to any target.",
+      "en": "to any target.",
+      "zh": ""
+    },
+    {
+      "start": 390.81,
+      "duration": 2.34,
+      "text": "- ['Dijkstra'] It was a 20-minute invention.",
+      "en": "- ['Dijkstra'] It was a 20-minute invention.",
+      "zh": ""
+    },
+    {
+      "start": 393.15,
+      "duration": 2.58,
+      "text": "I designed it without pencil and paper.",
+      "en": "I designed it without pencil and paper.",
+      "zh": ""
+    },
+    {
+      "start": 395.73,
+      "duration": 2.37,
+      "text": "I learned later that one of the advantages",
+      "en": "I learned later that one of the advantages",
+      "zh": ""
+    },
+    {
+      "start": 398.1,
+      "duration": 2.76,
+      "text": "of designing without pencil and paper",
+      "en": "of designing without pencil and paper",
+      "zh": ""
+    },
+    {
+      "start": 400.86,
+      "duration": 1.68,
+      "text": "is that you are almost forced",
+      "en": "is that you are almost forced",
+      "zh": ""
+    },
+    {
+      "start": 402.54,
+      "duration": 3.0,
+      "text": "to avoid all avoidable complexities.",
+      "en": "to avoid all avoidable complexities.",
+      "zh": ""
+    },
+    {
+      "start": 405.54,
+      "duration": 2.92,
+      "text": "- [Derek] During ARMAC's official inauguration in 1956,",
+      "en": "- [Derek] During ARMAC's official inauguration in 1956,",
+      "zh": ""
+    },
+    {
+      "start": 408.46,
+      "duration": 2.63,
+      "text": "Dijkstra asked the audience members for two towns",
+      "en": "Dijkstra asked the audience members for two towns",
+      "zh": ""
+    },
+    {
+      "start": 411.09,
+      "duration": 2.37,
+      "text": "on a simplified map of the Netherlands.",
+      "en": "on a simplified map of the Netherlands.",
+      "zh": ""
+    },
+    {
+      "start": 413.46,
+      "duration": 3.27,
+      "text": "ARMAC then printed the shortest route town by town.",
+      "en": "ARMAC then printed the shortest route town by town.",
+      "zh": ""
+    },
+    {
+      "start": 416.73,
+      "duration": 2.01,
+      "text": "It ran perfectly.",
+      "en": "It ran perfectly.",
+      "zh": ""
+    },
+    {
+      "start": 418.74,
+      "duration": 1.71,
+      "text": "The computer was such a success",
+      "en": "The computer was such a success",
+      "zh": ""
+    },
+    {
+      "start": 420.45,
+      "duration": 3.51,
+      "text": "that the center immediately started the next generation.",
+      "en": "that the center immediately started the next generation.",
+      "zh": ""
+    },
+    {
+      "start": 423.96,
+      "duration": 2.04,
+      "text": "And as for his algorithm, well,",
+      "en": "And as for his algorithm, well,",
+      "zh": ""
+    },
+    {
+      "start": 426.0,
+      "duration": 2.61,
+      "text": "it just sat in his papers for years.",
+      "en": "it just sat in his papers for years.",
+      "zh": ""
+    },
+    {
+      "start": 428.61,
+      "duration": 2.19,
+      "text": "Algorithms weren't respectable enough",
+      "en": "Algorithms weren't respectable enough",
+      "zh": ""
+    },
+    {
+      "start": 430.8,
+      "duration": 1.38,
+      "text": "for mathematics journals,",
+      "en": "for mathematics journals,",
+      "zh": ""
+    },
+    {
+      "start": 432.18,
+      "duration": 2.82,
+      "text": "and there weren't very many computing journals yet.",
+      "en": "and there weren't very many computing journals yet.",
+      "zh": ""
+    },
+    {
+      "start": 435.0,
+      "duration": 3.75,
+      "text": "But in 1959, he published his work in Numerische Mathematik,",
+      "en": "But in 1959, he published his work in Numerische Mathematik,",
+      "zh": ""
+    },
+    {
+      "start": 438.75,
+      "duration": 2.73,
+      "text": "or Numerical Mathematics, a brand new German journal",
+      "en": "or Numerical Mathematics, a brand new German journal",
+      "zh": ""
+    },
+    {
+      "start": 441.48,
+      "duration": 2.7,
+      "text": "that needed some help getting established.",
+      "en": "that needed some help getting established.",
+      "zh": ""
+    },
+    {
+      "start": 444.18,
+      "duration": 2.19,
+      "text": "And that was the beginning.",
+      "en": "And that was the beginning.",
+      "zh": ""
+    },
+    {
+      "start": 446.37,
+      "duration": 2.1,
+      "text": "- ['Dijkstra'] Eventually, that algorithm became,",
+      "en": "- ['Dijkstra'] Eventually, that algorithm became,",
+      "zh": ""
+    },
+    {
+      "start": 448.47,
+      "duration": 4.47,
+      "text": "to my great amazement, one of the cornerstones of my fame.",
+      "en": "to my great amazement, one of the cornerstones of my fame.",
+      "zh": ""
+    },
+    {
+      "start": 452.94,
+      "duration": 1.74,
+      "text": "I found it in the early '60s",
+      "en": "I found it in the early '60s",
+      "zh": ""
+    },
+    {
+      "start": 454.68,
+      "duration": 2.25,
+      "text": "in a German book on management science,",
+      "en": "in a German book on management science,",
+      "zh": ""
+    },
+    {
+      "start": 456.93,
+      "duration": 1.35,
+      "text": "Das Dijktra'sche Verfahren.",
+      "en": "Das Dijktra'sche Verfahren.",
+      "zh": ""
+    },
+    {
+      "start": 459.69,
+      "duration": 2.17,
+      "text": "Suddenly there was a method named after me.",
+      "en": "Suddenly there was a method named after me.",
+      "zh": ""
+    },
+    {
+      "start": 461.86,
+      "duration": 1.88,
+      "text": "Dijkstra's algorithm is still regarded",
+      "en": "Dijkstra's algorithm is still regarded",
+      "zh": ""
+    },
+    {
+      "start": 463.74,
+      "duration": 2.49,
+      "text": "as one of the most elegant, shortest path algorithms.",
+      "en": "as one of the most elegant, shortest path algorithms.",
+      "zh": ""
+    },
+    {
+      "start": 466.23,
+      "duration": 2.4,
+      "text": "But it isn't good enough for Google Maps.",
+      "en": "But it isn't good enough for Google Maps.",
+      "zh": ""
+    },
+    {
+      "start": 470.63,
+      "duration": 2.55,
+      "text": "Let's say I want to get from Newark Airport in New Jersey",
+      "en": "Let's say I want to get from Newark Airport in New Jersey",
+      "zh": ""
+    },
+    {
+      "start": 473.18,
+      "duration": 1.77,
+      "text": "over to the Central Park Zoo.",
+      "en": "over to the Central Park Zoo.",
+      "zh": ""
+    },
+    {
+      "start": 474.95,
+      "duration": 1.2,
+      "text": "First, Dijkstra's algorithm",
+      "en": "First, Dijkstra's algorithm",
+      "zh": ""
+    },
+    {
+      "start": 476.15,
+      "duration": 2.16,
+      "text": "checks all the 10-kilometer journeys,",
+      "en": "checks all the 10-kilometer journeys,",
+      "zh": ""
+    },
+    {
+      "start": 478.31,
+      "duration": 1.83,
+      "text": "and then all the 20 kilometer journeys,",
+      "en": "and then all the 20 kilometer journeys,",
+      "zh": ""
+    },
+    {
+      "start": 480.14,
+      "duration": 3.15,
+      "text": "and so on until it reaches all the 28 kilometer journeys,",
+      "en": "and so on until it reaches all the 28 kilometer journeys,",
+      "zh": ""
+    },
+    {
+      "start": 483.29,
+      "duration": 1.15,
+      "text": "which includes the zoo.",
+      "en": "which includes the zoo.",
+      "zh": ""
+    },
+    {
+      "start": 485.54,
+      "duration": 2.97,
+      "text": "The search frontier covers over 65,000 nodes,",
+      "en": "The search frontier covers over 65,000 nodes,",
+      "zh": ""
+    },
+    {
+      "start": 488.51,
+      "duration": 1.92,
+      "text": "and includes places that are way off,",
+      "en": "and includes places that are way off,",
+      "zh": ""
+    },
+    {
+      "start": 490.43,
+      "duration": 2.64,
+      "text": "like Staten Island, and large swaths of New Jersey.",
+      "en": "like Staten Island, and large swaths of New Jersey.",
+      "zh": ""
+    },
+    {
+      "start": 494.42,
+      "duration": 2.55,
+      "text": "But even though it searched in a illogical directions,",
+      "en": "But even though it searched in a illogical directions,",
+      "zh": ""
+    },
+    {
+      "start": 496.97,
+      "duration": 2.79,
+      "text": "the runtime was about a 10th of a second,",
+      "en": "the runtime was about a 10th of a second,",
+      "zh": ""
+    },
+    {
+      "start": 499.76,
+      "duration": 2.22,
+      "text": "which is incredibly fast.",
+      "en": "which is incredibly fast.",
+      "zh": ""
+    },
+    {
+      "start": 501.98,
+      "duration": 0.9,
+      "text": "And for anyone wanting",
+      "en": "And for anyone wanting",
+      "zh": ""
+    },
+    {
+      "start": 502.88,
+      "duration": 1.71,
+      "text": "to set up their own pathfinding tests,",
+      "en": "to set up their own pathfinding tests,",
+      "zh": ""
+    },
+    {
+      "start": 504.59,
+      "duration": 1.89,
+      "text": "we were able to get a feel for these algorithms",
+      "en": "we were able to get a feel for these algorithms",
+      "zh": ""
+    },
+    {
+      "start": 506.48,
+      "duration": 1.29,
+      "text": "using some Python scripts",
+      "en": "using some Python scripts",
+      "zh": ""
+    },
+    {
+      "start": 507.77,
+      "duration": 2.37,
+      "text": "and actual maps from OpenStreetMaps.",
+      "en": "and actual maps from OpenStreetMaps.",
+      "zh": ""
+    },
+    {
+      "start": 510.14,
+      "duration": 1.59,
+      "text": "Solving problems using code like this",
+      "en": "Solving problems using code like this",
+      "zh": ""
+    },
+    {
+      "start": 511.73,
+      "duration": 2.97,
+      "text": "is as much about the journey as it is about the destination.",
+      "en": "is as much about the journey as it is about the destination.",
+      "zh": ""
+    },
+    {
+      "start": 514.7,
+      "duration": 2.76,
+      "text": "You get to understand how Dijkstra works under the hood.",
+      "en": "You get to understand how Dijkstra works under the hood.",
+      "zh": ""
+    },
+    {
+      "start": 517.46,
+      "duration": 2.67,
+      "text": "Along the way, you also brush up on your coding skills.",
+      "en": "Along the way, you also brush up on your coding skills.",
+      "zh": ""
+    },
+    {
+      "start": 520.13,
+      "duration": 1.38,
+      "text": "If that's something you wanna try out,",
+      "en": "If that's something you wanna try out,",
+      "zh": ""
+    },
+    {
+      "start": 521.51,
+      "duration": 2.61,
+      "text": "I strongly recommend today's sponsor, Boot.dev.",
+      "en": "I strongly recommend today's sponsor, Boot.dev.",
+      "zh": ""
+    },
+    {
+      "start": 524.12,
+      "duration": 1.32,
+      "text": "Instead of blinding you with code,",
+      "en": "Instead of blinding you with code,",
+      "zh": ""
+    },
+    {
+      "start": 525.44,
+      "duration": 1.86,
+      "text": "their courses drill in the fundamentals",
+      "en": "their courses drill in the fundamentals",
+      "zh": ""
+    },
+    {
+      "start": 527.3,
+      "duration": 2.04,
+      "text": "by giving you actual problems to solve.",
+      "en": "by giving you actual problems to solve.",
+      "zh": ""
+    },
+    {
+      "start": 529.34,
+      "duration": 2.7,
+      "text": "Designing an RPG game, building a payment app,",
+      "en": "Designing an RPG game, building a payment app,",
+      "zh": ""
+    },
+    {
+      "start": 532.04,
+      "duration": 2.37,
+      "text": "or yes, running Dijkstra's algorithm.",
+      "en": "or yes, running Dijkstra's algorithm.",
+      "zh": ""
+    },
+    {
+      "start": 534.41,
+      "duration": 1.77,
+      "text": "Their courses start with overview videos",
+      "en": "Their courses start with overview videos",
+      "zh": ""
+    },
+    {
+      "start": 536.18,
+      "duration": 1.56,
+      "text": "and steadily feed in terminology",
+      "en": "and steadily feed in terminology",
+      "zh": ""
+    },
+    {
+      "start": 537.74,
+      "duration": 2.07,
+      "text": "to make sure that you actually understand it.",
+      "en": "to make sure that you actually understand it.",
+      "zh": ""
+    },
+    {
+      "start": 539.81,
+      "duration": 2.76,
+      "text": "They even cover pronunciation. You ever heard of SQL?",
+      "en": "They even cover pronunciation. You ever heard of SQL?",
+      "zh": ""
+    },
+    {
+      "start": 543.53,
+      "duration": 1.32,
+      "text": "Okay, it's SQL.",
+      "en": "Okay, it's SQL.",
+      "zh": ""
+    },
+    {
+      "start": 544.85,
+      "duration": 1.41,
+      "text": "Well, it's a programming language",
+      "en": "Well, it's a programming language",
+      "zh": ""
+    },
+    {
+      "start": 546.26,
+      "duration": 1.98,
+      "text": "that's become a bottleneck for certain jobs.",
+      "en": "that's become a bottleneck for certain jobs.",
+      "zh": ""
+    },
+    {
+      "start": 548.24,
+      "duration": 0.87,
+      "text": "Take data science.",
+      "en": "Take data science.",
+      "zh": ""
+    },
+    {
+      "start": 549.11,
+      "duration": 3.54,
+      "text": "60% of US job listings last year required you to know SQL.",
+      "en": "60% of US job listings last year required you to know SQL.",
+      "zh": ""
+    },
+    {
+      "start": 552.65,
+      "duration": 1.71,
+      "text": "That's almost 80% for Python.",
+      "en": "That's almost 80% for Python.",
+      "zh": ""
+    },
+    {
+      "start": 554.36,
+      "duration": 2.85,
+      "text": "Boot.dev is geared up to teach you the languages and tools",
+      "en": "Boot.dev is geared up to teach you the languages and tools",
+      "zh": ""
+    },
+    {
+      "start": 557.21,
+      "duration": 2.34,
+      "text": "that you'll need for backend and DevOps roles.",
+      "en": "that you'll need for backend and DevOps roles.",
+      "zh": ""
+    },
+    {
+      "start": 559.55,
+      "duration": 2.94,
+      "text": "From Go in Docker to Linux and AWS.",
+      "en": "From Go in Docker to Linux and AWS.",
+      "zh": ""
+    },
+    {
+      "start": 562.49,
+      "duration": 1.05,
+      "text": "You can start from scratch,",
+      "en": "You can start from scratch,",
+      "zh": ""
+    },
+    {
+      "start": 563.54,
+      "duration": 1.71,
+      "text": "or jump into more advanced topics.",
+      "en": "or jump into more advanced topics.",
+      "zh": ""
+    },
+    {
+      "start": 565.25,
+      "duration": 1.62,
+      "text": "See, DevOps engineers in the US",
+      "en": "See, DevOps engineers in the US",
+      "zh": ""
+    },
+    {
+      "start": 566.87,
+      "duration": 2.01,
+      "text": "are still some of the highest paid tech roles.",
+      "en": "are still some of the highest paid tech roles.",
+      "zh": ""
+    },
+    {
+      "start": 568.88,
+      "duration": 2.37,
+      "text": "Because these skills are genuinely hard to learn.",
+      "en": "Because these skills are genuinely hard to learn.",
+      "zh": ""
+    },
+    {
+      "start": 571.25,
+      "duration": 1.02,
+      "text": "And that's the point.",
+      "en": "And that's the point.",
+      "zh": ""
+    },
+    {
+      "start": 572.27,
+      "duration": 1.62,
+      "text": "To get started, go to Boot.dev",
+      "en": "To get started, go to Boot.dev",
+      "zh": ""
+    },
+    {
+      "start": 573.89,
+      "duration": 1.32,
+      "text": "and use our code \"Veritasium\"",
+      "en": "and use our code \"Veritasium\"",
+      "zh": ""
+    },
+    {
+      "start": 575.21,
+      "duration": 3.39,
+      "text": "to get 25% off your entire first year on the annual plan.",
+      "en": "to get 25% off your entire first year on the annual plan.",
+      "zh": ""
+    },
+    {
+      "start": 578.6,
+      "duration": 1.14,
+      "text": "I wanna thank Boot.dev",
+      "en": "I wanna thank Boot.dev",
+      "zh": ""
+    },
+    {
+      "start": 579.74,
+      "duration": 1.56,
+      "text": "for sponsoring this part of the video.",
+      "en": "for sponsoring this part of the video.",
+      "zh": ""
+    },
+    {
+      "start": 581.3,
+      "duration": 3.09,
+      "text": "Now less than 100 milliseconds seems pretty fast.",
+      "en": "Now less than 100 milliseconds seems pretty fast.",
+      "zh": ""
+    },
+    {
+      "start": 584.39,
+      "duration": 1.29,
+      "text": "So what's the problem?",
+      "en": "So what's the problem?",
+      "zh": ""
+    },
+    {
+      "start": 586.79,
+      "duration": 3.0,
+      "text": "Well, things slow down a lot with bigger and bigger graphs.",
+      "en": "Well, things slow down a lot with bigger and bigger graphs.",
+      "zh": ""
+    },
+    {
+      "start": 589.79,
+      "duration": 2.07,
+      "text": "Like the North America network.",
+      "en": "Like the North America network.",
+      "zh": ""
+    },
+    {
+      "start": 591.86,
+      "duration": 1.77,
+      "text": "One way we can compare search algorithms",
+      "en": "One way we can compare search algorithms",
+      "zh": ""
+    },
+    {
+      "start": 593.63,
+      "duration": 1.53,
+      "text": "is by their average query speed.",
+      "en": "is by their average query speed.",
+      "zh": ""
+    },
+    {
+      "start": 595.16,
+      "duration": 2.19,
+      "text": "First we pick lots of random points.",
+      "en": "First we pick lots of random points.",
+      "zh": ""
+    },
+    {
+      "start": 597.35,
+      "duration": 2.76,
+      "text": "Then we run Dijkstra's algorithm on each pair of points",
+      "en": "Then we run Dijkstra's algorithm on each pair of points",
+      "zh": ""
+    },
+    {
+      "start": 600.11,
+      "duration": 1.95,
+      "text": "and average all the runtimes.",
+      "en": "and average all the runtimes.",
+      "zh": ""
+    },
+    {
+      "start": 602.06,
+      "duration": 1.11,
+      "text": "On the North American network,",
+      "en": "On the North American network,",
+      "zh": ""
+    },
+    {
+      "start": 603.17,
+      "duration": 2.9,
+      "text": "a well-tuned Dijkstra takes around seven seconds per path.",
+      "en": "a well-tuned Dijkstra takes around seven seconds per path.",
+      "zh": ""
+    },
+    {
+      "start": 607.4,
+      "duration": 1.08,
+      "text": "And for a lot of these searches,",
+      "en": "And for a lot of these searches,",
+      "zh": ""
+    },
+    {
+      "start": 608.48,
+      "duration": 4.44,
+      "text": "the algorithm has to explore most of those 64 million nodes.",
+      "en": "the algorithm has to explore most of those 64 million nodes.",
+      "zh": ""
+    },
+    {
+      "start": 612.92,
+      "duration": 2.16,
+      "text": "One note, most of the queries in this average",
+      "en": "One note, most of the queries in this average",
+      "zh": ""
+    },
+    {
+      "start": 615.08,
+      "duration": 1.47,
+      "text": "are for very long journeys,",
+      "en": "are for very long journeys,",
+      "zh": ""
+    },
+    {
+      "start": 616.55,
+      "duration": 2.34,
+      "text": "since it's unlikely that two randomly picked points",
+      "en": "since it's unlikely that two randomly picked points",
+      "zh": ""
+    },
+    {
+      "start": 618.89,
+      "duration": 1.24,
+      "text": "will be close together.",
+      "en": "will be close together.",
+      "zh": ""
+    },
+    {
+      "start": 620.13,
+      "duration": 2.48,
+      "text": "Now we've seen that Dijkstra runs much faster",
+      "en": "Now we've seen that Dijkstra runs much faster",
+      "zh": ""
+    },
+    {
+      "start": 622.61,
+      "duration": 2.43,
+      "text": "within one city, but this average is a good way",
+      "en": "within one city, but this average is a good way",
+      "zh": ""
+    },
+    {
+      "start": 625.04,
+      "duration": 2.22,
+      "text": "to compare pathfinding algorithms.",
+      "en": "to compare pathfinding algorithms.",
+      "zh": ""
+    },
+    {
+      "start": 627.26,
+      "duration": 1.74,
+      "text": "But still, I can wait seven seconds.",
+      "en": "But still, I can wait seven seconds.",
+      "zh": ""
+    },
+    {
+      "start": 629.0,
+      "duration": 2.28,
+      "text": "I mean it took about four seconds on my phone.",
+      "en": "I mean it took about four seconds on my phone.",
+      "zh": ""
+    },
+    {
+      "start": 631.28,
+      "duration": 1.83,
+      "text": "But the thing is, it's not just me.",
+      "en": "But the thing is, it's not just me.",
+      "zh": ""
+    },
+    {
+      "start": 633.11,
+      "duration": 1.8,
+      "text": "I'm waiting in a line behind Derek,",
+      "en": "I'm waiting in a line behind Derek,",
+      "zh": ""
+    },
+    {
+      "start": 634.91,
+      "duration": 2.37,
+      "text": "Gregor, Casper, and all of you.",
+      "en": "Gregor, Casper, and all of you.",
+      "zh": ""
+    },
+    {
+      "start": 637.28,
+      "duration": 0.99,
+      "text": "There can be millions of people",
+      "en": "There can be millions of people",
+      "zh": ""
+    },
+    {
+      "start": 638.27,
+      "duration": 2.43,
+      "text": "asking for directions all at once.",
+      "en": "asking for directions all at once.",
+      "zh": ""
+    },
+    {
+      "start": 640.7,
+      "duration": 3.3,
+      "text": "And while Google has a lot of servers, there's a limit.",
+      "en": "And while Google has a lot of servers, there's a limit.",
+      "zh": ""
+    },
+    {
+      "start": 644.0,
+      "duration": 2.4,
+      "text": "If we want Google Maps to run in a couple of seconds,",
+      "en": "If we want Google Maps to run in a couple of seconds,",
+      "zh": ""
+    },
+    {
+      "start": 646.4,
+      "duration": 1.08,
+      "text": "we actually need the algorithm",
+      "en": "we actually need the algorithm",
+      "zh": ""
+    },
+    {
+      "start": 647.48,
+      "duration": 1.54,
+      "text": "to run in less than a millisecond,",
+      "en": "to run in less than a millisecond,",
+      "zh": ""
+    },
+    {
+      "start": 649.02,
+      "duration": 3.53,
+      "text": "something 7,000 times faster than Dijkstra's.",
+      "en": "something 7,000 times faster than Dijkstra's.",
+      "zh": ""
+    },
+    {
+      "start": 652.55,
+      "duration": 3.3,
+      "text": "(whooshing sound)",
+      "en": "(whooshing sound)",
+      "zh": ""
+    },
+    {
+      "start": 655.85,
+      "duration": 1.35,
+      "text": "Well, one problem with Dijkstra's",
+      "en": "Well, one problem with Dijkstra's",
+      "zh": ""
+    },
+    {
+      "start": 657.2,
+      "duration": 2.25,
+      "text": "is it searches in the opposite direction of the target.",
+      "en": "is it searches in the opposite direction of the target.",
+      "zh": ""
+    },
+    {
+      "start": 659.45,
+      "duration": 1.59,
+      "text": "So if we know the rough direction,",
+      "en": "So if we know the rough direction,",
+      "zh": ""
+    },
+    {
+      "start": 661.04,
+      "duration": 2.79,
+      "text": "is there a way that we can punish a illogical route?",
+      "en": "is there a way that we can punish a illogical route?",
+      "zh": ""
+    },
+    {
+      "start": 663.83,
+      "duration": 0.96,
+      "text": "Let's go back to our problem,",
+      "en": "Let's go back to our problem,",
+      "zh": ""
+    },
+    {
+      "start": 664.79,
+      "duration": 2.2,
+      "text": "getting from Newark to the Central Park Zoo.",
+      "en": "getting from Newark to the Central Park Zoo.",
+      "zh": ""
+    },
+    {
+      "start": 668.03,
+      "duration": 3.09,
+      "text": "We'd like to prioritize nodes that are closer to the zoo.",
+      "en": "We'd like to prioritize nodes that are closer to the zoo.",
+      "zh": ""
+    },
+    {
+      "start": 671.12,
+      "duration": 1.77,
+      "text": "So using longitudes and latitudes,",
+      "en": "So using longitudes and latitudes,",
+      "zh": ""
+    },
+    {
+      "start": 672.89,
+      "duration": 2.34,
+      "text": "we can easily calculate the straight line distance",
+      "en": "we can easily calculate the straight line distance",
+      "zh": ""
+    },
+    {
+      "start": 675.23,
+      "duration": 2.16,
+      "text": "between any node and our target.",
+      "en": "between any node and our target.",
+      "zh": ""
+    },
+    {
+      "start": 677.39,
+      "duration": 1.89,
+      "text": "We'll order the nodes by their cost,",
+      "en": "We'll order the nodes by their cost,",
+      "zh": ""
+    },
+    {
+      "start": 679.28,
+      "duration": 2.43,
+      "text": "plus this straight line distance.",
+      "en": "plus this straight line distance.",
+      "zh": ""
+    },
+    {
+      "start": 681.71,
+      "duration": 1.47,
+      "text": "A great way to visualize this",
+      "en": "A great way to visualize this",
+      "zh": ""
+    },
+    {
+      "start": 683.18,
+      "duration": 2.34,
+      "text": "comes from the channel Polylog.",
+      "en": "comes from the channel Polylog.",
+      "zh": ""
+    },
+    {
+      "start": 685.52,
+      "duration": 2.4,
+      "text": "We can represent each node's straight line distance",
+      "en": "We can represent each node's straight line distance",
+      "zh": ""
+    },
+    {
+      "start": 687.92,
+      "duration": 1.41,
+      "text": "to the target as its height,",
+      "en": "to the target as its height,",
+      "zh": ""
+    },
+    {
+      "start": 689.33,
+      "duration": 2.79,
+      "text": "so the graph stretches into 3D space.",
+      "en": "so the graph stretches into 3D space.",
+      "zh": ""
+    },
+    {
+      "start": 692.12,
+      "duration": 3.18,
+      "text": "The further a node is from the zoo, the higher it is.",
+      "en": "The further a node is from the zoo, the higher it is.",
+      "zh": ""
+    },
+    {
+      "start": 695.3,
+      "duration": 3.54,
+      "text": "So the algorithm penalizes moves that climb up the graph.",
+      "en": "So the algorithm penalizes moves that climb up the graph.",
+      "zh": ""
+    },
+    {
+      "start": 698.84,
+      "duration": 2.19,
+      "text": "That way nodes in the opposite direction",
+      "en": "That way nodes in the opposite direction",
+      "zh": ""
+    },
+    {
+      "start": 701.03,
+      "duration": 2.04,
+      "text": "aren't explored early on.",
+      "en": "aren't explored early on.",
+      "zh": ""
+    },
+    {
+      "start": 703.07,
+      "duration": 1.74,
+      "text": "So while Dijkstra's search frontier",
+      "en": "So while Dijkstra's search frontier",
+      "zh": ""
+    },
+    {
+      "start": 704.81,
+      "duration": 1.65,
+      "text": "spreads out in all directions,",
+      "en": "spreads out in all directions,",
+      "zh": ""
+    },
+    {
+      "start": 706.46,
+      "duration": 2.85,
+      "text": "this modified Dijkstra's, also called A-star,",
+      "en": "this modified Dijkstra's, also called A-star,",
+      "zh": ""
+    },
+    {
+      "start": 709.31,
+      "duration": 2.16,
+      "text": "immediately heads toward the zoo.",
+      "en": "immediately heads toward the zoo.",
+      "zh": ""
+    },
+    {
+      "start": 711.47,
+      "duration": 2.34,
+      "text": "It only checks around 7,000 nodes,",
+      "en": "It only checks around 7,000 nodes,",
+      "zh": ""
+    },
+    {
+      "start": 713.81,
+      "duration": 3.33,
+      "text": "which is almost a 10 times improvement over Dijkstra's.",
+      "en": "which is almost a 10 times improvement over Dijkstra's.",
+      "zh": ""
+    },
+    {
+      "start": 717.14,
+      "duration": 2.88,
+      "text": "And by changing this penalty, also called a heuristic,",
+      "en": "And by changing this penalty, also called a heuristic,",
+      "zh": ""
+    },
+    {
+      "start": 720.02,
+      "duration": 3.51,
+      "text": "we can tweak how aggressively A-star targets the zoo.",
+      "en": "we can tweak how aggressively A-star targets the zoo.",
+      "zh": ""
+    },
+    {
+      "start": 723.53,
+      "duration": 3.27,
+      "text": "The steeper the slope, the less A-star spreads out.",
+      "en": "The steeper the slope, the less A-star spreads out.",
+      "zh": ""
+    },
+    {
+      "start": 726.8,
+      "duration": 3.06,
+      "text": "It's a more human approach to finding the shortest path,",
+      "en": "It's a more human approach to finding the shortest path,",
+      "zh": ""
+    },
+    {
+      "start": 729.86,
+      "duration": 1.5,
+      "text": "since we're only exploring",
+      "en": "since we're only exploring",
+      "zh": ""
+    },
+    {
+      "start": 731.36,
+      "duration": 2.64,
+      "text": "in the rough direction of the target.",
+      "en": "in the rough direction of the target.",
+      "zh": ""
+    },
+    {
+      "start": 734.0,
+      "duration": 2.52,
+      "text": "That's why A-star is one of the most popular algorithms",
+      "en": "That's why A-star is one of the most popular algorithms",
+      "zh": ""
+    },
+    {
+      "start": 736.52,
+      "duration": 2.1,
+      "text": "behind video game NPCs.",
+      "en": "behind video game NPCs.",
+      "zh": ""
+    },
+    {
+      "start": 738.62,
+      "duration": 1.92,
+      "text": "For example, many of the mobs in Minecraft",
+      "en": "For example, many of the mobs in Minecraft",
+      "zh": ""
+    },
+    {
+      "start": 740.54,
+      "duration": 2.49,
+      "text": "use a version of A-star with extra penalties",
+      "en": "use a version of A-star with extra penalties",
+      "zh": ""
+    },
+    {
+      "start": 743.03,
+      "duration": 1.85,
+      "text": "for dangerous zones.",
+      "en": "for dangerous zones.",
+      "zh": ""
+    },
+    {
+      "start": 744.88,
+      "duration": 3.16,
+      "text": "It's also a popular maze-solving algorithm.",
+      "en": "It's also a popular maze-solving algorithm.",
+      "zh": ""
+    },
+    {
+      "start": 748.04,
+      "duration": 3.12,
+      "text": "At worst, A-star checks as many nodes as Dijkstra.",
+      "en": "At worst, A-star checks as many nodes as Dijkstra.",
+      "zh": ""
+    },
+    {
+      "start": 751.16,
+      "duration": 1.02,
+      "text": "But on the right maze,",
+      "en": "But on the right maze,",
+      "zh": ""
+    },
+    {
+      "start": 752.18,
+      "duration": 2.61,
+      "text": "it can cut down the search space by more than half.",
+      "en": "it can cut down the search space by more than half.",
+      "zh": ""
+    },
+    {
+      "start": 756.86,
+      "duration": 1.56,
+      "text": "But when I'm trying to get somewhere,",
+      "en": "But when I'm trying to get somewhere,",
+      "zh": ""
+    },
+    {
+      "start": 758.42,
+      "duration": 2.13,
+      "text": "I don't care about minimizing the distance.",
+      "en": "I don't care about minimizing the distance.",
+      "zh": ""
+    },
+    {
+      "start": 760.55,
+      "duration": 1.77,
+      "text": "I just wanna get there the fastest.",
+      "en": "I just wanna get there the fastest.",
+      "zh": ""
+    },
+    {
+      "start": 762.32,
+      "duration": 2.67,
+      "text": "(Henry laughing)",
+      "en": "(Henry laughing)",
+      "zh": ""
+    },
+    {
+      "start": 764.99,
+      "duration": 2.79,
+      "text": "To optimize for time, we divide the straight line distance",
+      "en": "To optimize for time, we divide the straight line distance",
+      "zh": ""
+    },
+    {
+      "start": 767.78,
+      "duration": 2.46,
+      "text": "by the maximum speed allowed on the graph.",
+      "en": "by the maximum speed allowed on the graph.",
+      "zh": ""
+    },
+    {
+      "start": 770.24,
+      "duration": 2.64,
+      "text": "This gives us the minimum travel time.",
+      "en": "This gives us the minimum travel time.",
+      "zh": ""
+    },
+    {
+      "start": 772.88,
+      "duration": 3.0,
+      "text": "But this heuristic is an extreme underestimate.",
+      "en": "But this heuristic is an extreme underestimate.",
+      "zh": ""
+    },
+    {
+      "start": 775.88,
+      "duration": 2.88,
+      "text": "- If you wanna go for the shortest path",
+      "en": "- If you wanna go for the shortest path",
+      "zh": ""
+    },
+    {
+      "start": 778.76,
+      "duration": 2.97,
+      "text": "in the sense that shortest geographic distance,",
+      "en": "in the sense that shortest geographic distance,",
+      "zh": ""
+    },
+    {
+      "start": 781.73,
+      "duration": 2.4,
+      "text": "you will gain some advantages using A-star,",
+      "en": "you will gain some advantages using A-star,",
+      "zh": ""
+    },
+    {
+      "start": 784.13,
+      "duration": 1.71,
+      "text": "compared to Dijkstra.",
+      "en": "compared to Dijkstra.",
+      "zh": ""
+    },
+    {
+      "start": 785.84,
+      "duration": 2.88,
+      "text": "If you go for travel time, A-star,",
+      "en": "If you go for travel time, A-star,",
+      "zh": ""
+    },
+    {
+      "start": 788.72,
+      "duration": 5.0,
+      "text": "from my experience, loses against a well-tuned Dijkstra.",
+      "en": "from my experience, loses against a well-tuned Dijkstra.",
+      "zh": ""
+    },
+    {
+      "start": 794.33,
+      "duration": 3.23,
+      "text": "You explore fewer nodes, but not that many.",
+      "en": "You explore fewer nodes, but not that many.",
+      "zh": ""
+    },
+    {
+      "start": 797.56,
+      "duration": 3.52,
+      "text": "But you now also have to evaluate quite a few heuristics",
+      "en": "But you now also have to evaluate quite a few heuristics",
+      "zh": ""
+    },
+    {
+      "start": 801.08,
+      "duration": 2.01,
+      "text": "that you would not need to evaluate",
+      "en": "that you would not need to evaluate",
+      "zh": ""
+    },
+    {
+      "start": 803.09,
+      "duration": 2.01,
+      "text": "when doing pure Dijkstra.",
+      "en": "when doing pure Dijkstra.",
+      "zh": ""
+    },
+    {
+      "start": 805.1,
+      "duration": 3.9,
+      "text": "And those heuristic contain a nasty square root computation.",
+      "en": "And those heuristic contain a nasty square root computation.",
+      "zh": ""
+    },
+    {
+      "start": 809.0,
+      "duration": 1.38,
+      "text": "- [Henry] On our New York City graph,",
+      "en": "- [Henry] On our New York City graph,",
+      "zh": ""
+    },
+    {
+      "start": 810.38,
+      "duration": 3.48,
+      "text": "Dijkstra's algorithm explored around 9.5 times more nodes",
+      "en": "Dijkstra's algorithm explored around 9.5 times more nodes",
+      "zh": ""
+    },
+    {
+      "start": 813.86,
+      "duration": 3.0,
+      "text": "than A-star, to find the shortest path by distance.",
+      "en": "than A-star, to find the shortest path by distance.",
+      "zh": ""
+    },
+    {
+      "start": 816.86,
+      "duration": 2.37,
+      "text": "But if we switch that to the shortest travel time,",
+      "en": "But if we switch that to the shortest travel time,",
+      "zh": ""
+    },
+    {
+      "start": 819.23,
+      "duration": 2.82,
+      "text": "the number of nodes A-star explores triples,",
+      "en": "the number of nodes A-star explores triples,",
+      "zh": ""
+    },
+    {
+      "start": 822.05,
+      "duration": 2.7,
+      "text": "while Dijkstra only increases by 10%.",
+      "en": "while Dijkstra only increases by 10%.",
+      "zh": ""
+    },
+    {
+      "start": 824.75,
+      "duration": 2.79,
+      "text": "And it only gets worse on larger graphs.",
+      "en": "And it only gets worse on larger graphs.",
+      "zh": ""
+    },
+    {
+      "start": 827.54,
+      "duration": 1.98,
+      "text": "So Google Maps need something better",
+      "en": "So Google Maps need something better",
+      "zh": ""
+    },
+    {
+      "start": 829.52,
+      "duration": 1.62,
+      "text": "that works well for travel time.",
+      "en": "that works well for travel time.",
+      "zh": ""
+    },
+    {
+      "start": 832.13,
+      "duration": 2.28,
+      "text": "What if we ran the search in both directions?",
+      "en": "What if we ran the search in both directions?",
+      "zh": ""
+    },
+    {
+      "start": 834.41,
+      "duration": 1.38,
+      "text": "From the source to the target,",
+      "en": "From the source to the target,",
+      "zh": ""
+    },
+    {
+      "start": 835.79,
+      "duration": 1.98,
+      "text": "and from the target to the source?",
+      "en": "and from the target to the source?",
+      "zh": ""
+    },
+    {
+      "start": 837.77,
+      "duration": 2.31,
+      "text": "If two points are a distance R away,",
+      "en": "If two points are a distance R away,",
+      "zh": ""
+    },
+    {
+      "start": 840.08,
+      "duration": 1.41,
+      "text": "Dijkstra searches most of the nodes",
+      "en": "Dijkstra searches most of the nodes",
+      "zh": ""
+    },
+    {
+      "start": 841.49,
+      "duration": 3.18,
+      "text": "roughly within a circle of area pi R-squared.",
+      "en": "roughly within a circle of area pi R-squared.",
+      "zh": ""
+    },
+    {
+      "start": 844.67,
+      "duration": 1.29,
+      "text": "But with two searches,",
+      "en": "But with two searches,",
+      "zh": ""
+    },
+    {
+      "start": 845.96,
+      "duration": 3.0,
+      "text": "the frontiers will overlap around R over two,",
+      "en": "the frontiers will overlap around R over two,",
+      "zh": ""
+    },
+    {
+      "start": 848.96,
+      "duration": 2.73,
+      "text": "and cover an area of half pi R-squared,",
+      "en": "and cover an area of half pi R-squared,",
+      "zh": ""
+    },
+    {
+      "start": 851.69,
+      "duration": 2.19,
+      "text": "half that of the single search.",
+      "en": "half that of the single search.",
+      "zh": ""
+    },
+    {
+      "start": 853.88,
+      "duration": 1.02,
+      "text": "And depending on the graph,",
+      "en": "And depending on the graph,",
+      "zh": ""
+    },
+    {
+      "start": 854.9,
+      "duration": 2.46,
+      "text": "it can sometimes be better than half.",
+      "en": "it can sometimes be better than half.",
+      "zh": ""
+    },
+    {
+      "start": 857.36,
+      "duration": 2.82,
+      "text": "A basic Dijkstra search from Carnegie Hall to Wall Street",
+      "en": "A basic Dijkstra search from Carnegie Hall to Wall Street",
+      "zh": ""
+    },
+    {
+      "start": 860.18,
+      "duration": 2.61,
+      "text": "explored over 7,200 nodes.",
+      "en": "explored over 7,200 nodes.",
+      "zh": ""
+    },
+    {
+      "start": 864.24,
+      "duration": 1.34,
+      "text": "But a bi-directional Dijkstra",
+      "en": "But a bi-directional Dijkstra",
+      "zh": ""
+    },
+    {
+      "start": 865.58,
+      "duration": 2.82,
+      "text": "explored a little over 2,600 nodes,",
+      "en": "explored a little over 2,600 nodes,",
+      "zh": ""
+    },
+    {
+      "start": 868.4,
+      "duration": 1.92,
+      "text": "close to a three times improvement.",
+      "en": "close to a three times improvement.",
+      "zh": ""
+    },
+    {
+      "start": 871.37,
+      "duration": 2.34,
+      "text": "But even a bi-directional search doesn't take advantage",
+      "en": "But even a bi-directional search doesn't take advantage",
+      "zh": ""
+    },
+    {
+      "start": 873.71,
+      "duration": 2.04,
+      "text": "of the logic built into road networks.",
+      "en": "of the logic built into road networks.",
+      "zh": ""
+    },
+    {
+      "start": 875.75,
+      "duration": 1.02,
+      "text": "- They still do things",
+      "en": "- They still do things",
+      "zh": ""
+    },
+    {
+      "start": 876.77,
+      "duration": 2.55,
+      "text": "that you wouldn't necessarily conceive",
+      "en": "that you wouldn't necessarily conceive",
+      "zh": ""
+    },
+    {
+      "start": 879.32,
+      "duration": 1.14,
+      "text": "as a good idea, right?",
+      "en": "as a good idea, right?",
+      "zh": ""
+    },
+    {
+      "start": 880.46,
+      "duration": 3.84,
+      "text": "Like they still look at the drive-through at In-N-Out",
+      "en": "Like they still look at the drive-through at In-N-Out",
+      "zh": ""
+    },
+    {
+      "start": 884.3,
+      "duration": 2.53,
+      "text": "and see if there isn't perhaps a shorter path",
+      "en": "and see if there isn't perhaps a shorter path",
+      "zh": ""
+    },
+    {
+      "start": 886.83,
+      "duration": 2.03,
+      "text": "if you drive halfway into it,",
+      "en": "if you drive halfway into it,",
+      "zh": ""
+    },
+    {
+      "start": 888.86,
+      "duration": 2.13,
+      "text": "and then some clever way out of it, right?",
+      "en": "and then some clever way out of it, right?",
+      "zh": ""
+    },
+    {
+      "start": 890.99,
+      "duration": 3.36,
+      "text": "So maybe that is the intuition between why kind of Dijkstra",
+      "en": "So maybe that is the intuition between why kind of Dijkstra",
+      "zh": ""
+    },
+    {
+      "start": 894.35,
+      "duration": 2.37,
+      "text": "and A-star itself don't suffice.",
+      "en": "and A-star itself don't suffice.",
+      "zh": ""
+    },
+    {
+      "start": 896.72,
+      "duration": 3.36,
+      "text": "Both of them still kind of don't have a good sense",
+      "en": "Both of them still kind of don't have a good sense",
+      "zh": ""
+    },
+    {
+      "start": 900.08,
+      "duration": 1.92,
+      "text": "of the hierarchy of the road network.",
+      "en": "of the hierarchy of the road network.",
+      "zh": ""
+    },
+    {
+      "start": 904.79,
+      "duration": 2.13,
+      "text": "- When I think about how to get from one place to another,",
+      "en": "- When I think about how to get from one place to another,",
+      "zh": ""
+    },
+    {
+      "start": 906.92,
+      "duration": 1.95,
+      "text": "I know that I'm probably gonna meander around",
+      "en": "I know that I'm probably gonna meander around",
+      "zh": ""
+    },
+    {
+      "start": 908.87,
+      "duration": 2.58,
+      "text": "some local roads, then hop on a highway,",
+      "en": "some local roads, then hop on a highway,",
+      "zh": ""
+    },
+    {
+      "start": 911.45,
+      "duration": 1.38,
+      "text": "and then when I'm close to my destination,",
+      "en": "and then when I'm close to my destination,",
+      "zh": ""
+    },
+    {
+      "start": 912.83,
+      "duration": 1.38,
+      "text": "I'm gonna hop off the highway and meander",
+      "en": "I'm gonna hop off the highway and meander",
+      "zh": ""
+    },
+    {
+      "start": 914.21,
+      "duration": 2.01,
+      "text": "around some more local roads.",
+      "en": "around some more local roads.",
+      "zh": ""
+    },
+    {
+      "start": 916.22,
+      "duration": 2.28,
+      "text": "There's a hierarchy to road networks,",
+      "en": "There's a hierarchy to road networks,",
+      "zh": ""
+    },
+    {
+      "start": 918.5,
+      "duration": 2.55,
+      "text": "but these algorithms can't take advantage of them.",
+      "en": "but these algorithms can't take advantage of them.",
+      "zh": ""
+    },
+    {
+      "start": 921.05,
+      "duration": 2.88,
+      "text": "So they're as likely to search a twisty local road",
+      "en": "So they're as likely to search a twisty local road",
+      "zh": ""
+    },
+    {
+      "start": 923.93,
+      "duration": 1.77,
+      "text": "as an interstate highway,",
+      "en": "as an interstate highway,",
+      "zh": ""
+    },
+    {
+      "start": 925.7,
+      "duration": 1.95,
+      "text": "as long as they have the same weight.",
+      "en": "as long as they have the same weight.",
+      "zh": ""
+    },
+    {
+      "start": 927.65,
+      "duration": 3.09,
+      "text": "So how do we actually encode that human intuition",
+      "en": "So how do we actually encode that human intuition",
+      "zh": ""
+    },
+    {
+      "start": 930.74,
+      "duration": 1.7,
+      "text": "into an algorithm?",
+      "en": "into an algorithm?",
+      "zh": ""
+    },
+    {
+      "start": 932.44,
+      "duration": 2.29,
+      "text": "- If you look at kind of industry implementations",
+      "en": "- If you look at kind of industry implementations",
+      "zh": ""
+    },
+    {
+      "start": 934.73,
+      "duration": 1.11,
+      "text": "in the '90s, for instance,",
+      "en": "in the '90s, for instance,",
+      "zh": ""
+    },
+    {
+      "start": 935.84,
+      "duration": 2.7,
+      "text": "like in these early in-car GPS systems,",
+      "en": "like in these early in-car GPS systems,",
+      "zh": ""
+    },
+    {
+      "start": 938.54,
+      "duration": 3.75,
+      "text": "they had like a pre-computed road class",
+      "en": "they had like a pre-computed road class",
+      "zh": ""
+    },
+    {
+      "start": 942.29,
+      "duration": 2.48,
+      "text": "that they annotated on the roads.",
+      "en": "that they annotated on the roads.",
+      "zh": ""
+    },
+    {
+      "start": 944.77,
+      "duration": 1.87,
+      "text": "- So here was the basic idea.",
+      "en": "- So here was the basic idea.",
+      "zh": ""
+    },
+    {
+      "start": 946.64,
+      "duration": 2.49,
+      "text": "Surveyors would go out and take notes about a road.",
+      "en": "Surveyors would go out and take notes about a road.",
+      "zh": ""
+    },
+    {
+      "start": 949.13,
+      "duration": 2.43,
+      "text": "Like its speed limit, how wide it was,",
+      "en": "Like its speed limit, how wide it was,",
+      "zh": ""
+    },
+    {
+      "start": 951.56,
+      "duration": 1.32,
+      "text": "whether it was a highway.",
+      "en": "whether it was a highway.",
+      "zh": ""
+    },
+    {
+      "start": 952.88,
+      "duration": 1.71,
+      "text": "And then they would send that to the mapping companies",
+      "en": "And then they would send that to the mapping companies",
+      "zh": ""
+    },
+    {
+      "start": 954.59,
+      "duration": 2.34,
+      "text": "who would manually categorize it into hierarchies.",
+      "en": "who would manually categorize it into hierarchies.",
+      "zh": ""
+    },
+    {
+      "start": 956.93,
+      "duration": 2.73,
+      "text": "An example of a hierarchy might be express highway,",
+      "en": "An example of a hierarchy might be express highway,",
+      "zh": ""
+    },
+    {
+      "start": 959.66,
+      "duration": 3.09,
+      "text": "local major road, or narrow road like this.",
+      "en": "local major road, or narrow road like this.",
+      "zh": ""
+    },
+    {
+      "start": 962.75,
+      "duration": 1.05,
+      "text": "Once it had the maps,",
+      "en": "Once it had the maps,",
+      "zh": ""
+    },
+    {
+      "start": 963.8,
+      "duration": 2.5,
+      "text": "GPS would run a bi-directional Dijkstra,",
+      "en": "GPS would run a bi-directional Dijkstra,",
+      "zh": ""
+    },
+    {
+      "start": 966.3,
+      "duration": 1.88,
+      "text": "but there was a catch.",
+      "en": "but there was a catch.",
+      "zh": ""
+    },
+    {
+      "start": 968.18,
+      "duration": 1.95,
+      "text": "It first searched all the narrow roads",
+      "en": "It first searched all the narrow roads",
+      "zh": ""
+    },
+    {
+      "start": 970.13,
+      "duration": 1.68,
+      "text": "within a candidate area.",
+      "en": "within a candidate area.",
+      "zh": ""
+    },
+    {
+      "start": 971.81,
+      "duration": 1.26,
+      "text": "If it didn't find the target,",
+      "en": "If it didn't find the target,",
+      "zh": ""
+    },
+    {
+      "start": 973.07,
+      "duration": 2.46,
+      "text": "it mapped the path to the next hierarchy,",
+      "en": "it mapped the path to the next hierarchy,",
+      "zh": ""
+    },
+    {
+      "start": 975.53,
+      "duration": 1.41,
+      "text": "the major local roads.",
+      "en": "the major local roads.",
+      "zh": ""
+    },
+    {
+      "start": 976.94,
+      "duration": 1.92,
+      "text": "Then search all of the major local roads",
+      "en": "Then search all of the major local roads",
+      "zh": ""
+    },
+    {
+      "start": 978.86,
+      "duration": 1.95,
+      "text": "within the new candidate area.",
+      "en": "within the new candidate area.",
+      "zh": ""
+    },
+    {
+      "start": 980.81,
+      "duration": 1.56,
+      "text": "If it still didn't find the target,",
+      "en": "If it still didn't find the target,",
+      "zh": ""
+    },
+    {
+      "start": 982.37,
+      "duration": 2.55,
+      "text": "it moved up again to the highway level.",
+      "en": "it moved up again to the highway level.",
+      "zh": ""
+    },
+    {
+      "start": 984.92,
+      "duration": 2.04,
+      "text": "The two searches would overlap at some point,",
+      "en": "The two searches would overlap at some point,",
+      "zh": ""
+    },
+    {
+      "start": 986.96,
+      "duration": 1.65,
+      "text": "and return the final path.",
+      "en": "and return the final path.",
+      "zh": ""
+    },
+    {
+      "start": 988.61,
+      "duration": 1.8,
+      "text": "This way, a little pre-processing",
+      "en": "This way, a little pre-processing",
+      "zh": ""
+    },
+    {
+      "start": 990.41,
+      "duration": 1.44,
+      "text": "could reduce the search area",
+      "en": "could reduce the search area",
+      "zh": ""
+    },
+    {
+      "start": 991.85,
+      "duration": 2.85,
+      "text": "and take advantage of the road hierarchy.",
+      "en": "and take advantage of the road hierarchy.",
+      "zh": ""
+    },
+    {
+      "start": 994.7,
+      "duration": 2.4,
+      "text": "- One obvious downside here is that",
+      "en": "- One obvious downside here is that",
+      "zh": ""
+    },
+    {
+      "start": 997.1,
+      "duration": 4.17,
+      "text": "how do you correctly compute those levels of hierarchy?",
+      "en": "how do you correctly compute those levels of hierarchy?",
+      "zh": ""
+    },
+    {
+      "start": 1001.27,
+      "duration": 3.12,
+      "text": "And how can you prove to yourself that they're correct",
+      "en": "And how can you prove to yourself that they're correct",
+      "zh": ""
+    },
+    {
+      "start": 1004.39,
+      "duration": 2.79,
+      "text": "in the sense that you are not missing any shortest paths?",
+      "en": "in the sense that you are not missing any shortest paths?",
+      "zh": ""
+    },
+    {
+      "start": 1007.18,
+      "duration": 2.34,
+      "text": "- For example, if the candidate area is too small,",
+      "en": "- For example, if the candidate area is too small,",
+      "zh": ""
+    },
+    {
+      "start": 1009.52,
+      "duration": 2.7,
+      "text": "there's a chance the algorithm returns a highway path,",
+      "en": "there's a chance the algorithm returns a highway path,",
+      "zh": ""
+    },
+    {
+      "start": 1012.22,
+      "duration": 2.79,
+      "text": "when a series of local roads really is better.",
+      "en": "when a series of local roads really is better.",
+      "zh": ""
+    },
+    {
+      "start": 1015.01,
+      "duration": 1.38,
+      "text": "A much larger candidate area",
+      "en": "A much larger candidate area",
+      "zh": ""
+    },
+    {
+      "start": 1016.39,
+      "duration": 3.18,
+      "text": "might always find the shortest path, but at some point,",
+      "en": "might always find the shortest path, but at some point,",
+      "zh": ""
+    },
+    {
+      "start": 1019.57,
+      "duration": 2.61,
+      "text": "that's not much better than Dijkstra.",
+      "en": "that's not much better than Dijkstra.",
+      "zh": ""
+    },
+    {
+      "start": 1022.18,
+      "duration": 1.59,
+      "text": "If Google wanted to map the world,",
+      "en": "If Google wanted to map the world,",
+      "zh": ""
+    },
+    {
+      "start": 1023.77,
+      "duration": 1.86,
+      "text": "they need a better routing algorithm.",
+      "en": "they need a better routing algorithm.",
+      "zh": ""
+    },
+    {
+      "start": 1025.63,
+      "duration": 1.53,
+      "text": "(upbeat music)",
+      "en": "(upbeat music)",
+      "zh": ""
+    },
+    {
+      "start": 1027.16,
+      "duration": 1.5,
+      "text": "Using a pre-processed hierarchy",
+      "en": "Using a pre-processed hierarchy",
+      "zh": ""
+    },
+    {
+      "start": 1028.66,
+      "duration": 2.13,
+      "text": "gives us way faster query runtimes.",
+      "en": "gives us way faster query runtimes.",
+      "zh": ""
+    },
+    {
+      "start": 1030.79,
+      "duration": 1.59,
+      "text": "But, there's a trade-off.",
+      "en": "But, there's a trade-off.",
+      "zh": ""
+    },
+    {
+      "start": 1032.38,
+      "duration": 1.65,
+      "text": "Our brute force algorithm from earlier",
+      "en": "Our brute force algorithm from earlier",
+      "zh": ""
+    },
+    {
+      "start": 1034.03,
+      "duration": 1.95,
+      "text": "where we just calculated all the paths",
+      "en": "where we just calculated all the paths",
+      "zh": ""
+    },
+    {
+      "start": 1035.98,
+      "duration": 2.61,
+      "text": "to get the shortest one is a perfect example.",
+      "en": "to get the shortest one is a perfect example.",
+      "zh": ""
+    },
+    {
+      "start": 1038.59,
+      "duration": 2.46,
+      "text": "If we had a massive lookup table of all the shortest paths",
+      "en": "If we had a massive lookup table of all the shortest paths",
+      "zh": ""
+    },
+    {
+      "start": 1041.05,
+      "duration": 0.87,
+      "text": "from any two points,",
+      "en": "from any two points,",
+      "zh": ""
+    },
+    {
+      "start": 1041.92,
+      "duration": 3.3,
+      "text": "then we would get insanely fast query runtimes.",
+      "en": "then we would get insanely fast query runtimes.",
+      "zh": ""
+    },
+    {
+      "start": 1045.22,
+      "duration": 3.21,
+      "text": "But building that list would take way too long.",
+      "en": "But building that list would take way too long.",
+      "zh": ""
+    },
+    {
+      "start": 1048.43,
+      "duration": 3.15,
+      "text": "Here I have a graph. On the vertical axis is query runtime.",
+      "en": "Here I have a graph. On the vertical axis is query runtime.",
+      "zh": ""
+    },
+    {
+      "start": 1051.58,
+      "duration": 2.55,
+      "text": "And on the horizontal axis is pre-processing time.",
+      "en": "And on the horizontal axis is pre-processing time.",
+      "zh": ""
+    },
+    {
+      "start": 1054.13,
+      "duration": 1.71,
+      "text": "In the case of our massive lookup table,",
+      "en": "In the case of our massive lookup table,",
+      "zh": ""
+    },
+    {
+      "start": 1055.84,
+      "duration": 1.92,
+      "text": "it would be right about here.",
+      "en": "it would be right about here.",
+      "zh": ""
+    },
+    {
+      "start": 1057.76,
+      "duration": 1.05,
+      "text": "Even running Dijkstra",
+      "en": "Even running Dijkstra",
+      "zh": ""
+    },
+    {
+      "start": 1058.81,
+      "duration": 2.85,
+      "text": "from every one of those 64 million intersections,",
+      "en": "from every one of those 64 million intersections,",
+      "zh": ""
+    },
+    {
+      "start": 1061.66,
+      "duration": 3.54,
+      "text": "that's more than a decade of compute on a single core.",
+      "en": "that's more than a decade of compute on a single core.",
+      "zh": ""
+    },
+    {
+      "start": 1065.2,
+      "duration": 1.02,
+      "text": "And the entire table",
+      "en": "And the entire table",
+      "zh": ""
+    },
+    {
+      "start": 1066.22,
+      "duration": 2.37,
+      "text": "would be more than eight petabytes of raw data.",
+      "en": "would be more than eight petabytes of raw data.",
+      "zh": ""
+    },
+    {
+      "start": 1068.59,
+      "duration": 4.26,
+      "text": "That's like storing all of Wikipedia, 16 times over.",
+      "en": "That's like storing all of Wikipedia, 16 times over.",
+      "zh": ""
+    },
+    {
+      "start": 1072.85,
+      "duration": 1.59,
+      "text": "And even if we had the table,",
+      "en": "And even if we had the table,",
+      "zh": ""
+    },
+    {
+      "start": 1074.44,
+      "duration": 3.27,
+      "text": "we'd have to rebuild entire portions whenever a road closes,",
+      "en": "we'd have to rebuild entire portions whenever a road closes,",
+      "zh": ""
+    },
+    {
+      "start": 1077.71,
+      "duration": 3.36,
+      "text": "a new bridge opens, and for every small traffic adjustment.",
+      "en": "a new bridge opens, and for every small traffic adjustment.",
+      "zh": ""
+    },
+    {
+      "start": 1081.07,
+      "duration": 2.82,
+      "text": "Now in reality it would probably not even fit on this chart.",
+      "en": "Now in reality it would probably not even fit on this chart.",
+      "zh": ""
+    },
+    {
+      "start": 1083.89,
+      "duration": 1.68,
+      "text": "But for now, we're just gonna put it here.",
+      "en": "But for now, we're just gonna put it here.",
+      "zh": ""
+    },
+    {
+      "start": 1085.57,
+      "duration": 0.84,
+      "text": "On the other hand,",
+      "en": "On the other hand,",
+      "zh": ""
+    },
+    {
+      "start": 1086.41,
+      "duration": 2.94,
+      "text": "Dijkstra's algorithm requires no pre-processing at all.",
+      "en": "Dijkstra's algorithm requires no pre-processing at all.",
+      "zh": ""
+    },
+    {
+      "start": 1089.35,
+      "duration": 1.83,
+      "text": "But it takes a long time to run.",
+      "en": "But it takes a long time to run.",
+      "zh": ""
+    },
+    {
+      "start": 1091.18,
+      "duration": 2.31,
+      "text": "So on our graph, it would fit about here.",
+      "en": "So on our graph, it would fit about here.",
+      "zh": ""
+    },
+    {
+      "start": 1095.35,
+      "duration": 2.04,
+      "text": "Google Maps need something in between.",
+      "en": "Google Maps need something in between.",
+      "zh": ""
+    },
+    {
+      "start": 1097.39,
+      "duration": 1.56,
+      "text": "Very fast query run times,",
+      "en": "Very fast query run times,",
+      "zh": ""
+    },
+    {
+      "start": 1098.95,
+      "duration": 2.1,
+      "text": "but not too much pre-processing.",
+      "en": "but not too much pre-processing.",
+      "zh": ""
+    },
+    {
+      "start": 1101.05,
+      "duration": 2.49,
+      "text": "In that case, we want to be in this region.",
+      "en": "In that case, we want to be in this region.",
+      "zh": ""
+    },
+    {
+      "start": 1107.05,
+      "duration": 2.79,
+      "text": "Now the idea is very similar to the manual hierarchies,",
+      "en": "Now the idea is very similar to the manual hierarchies,",
+      "zh": ""
+    },
+    {
+      "start": 1109.84,
+      "duration": 1.89,
+      "text": "but with two major changes.",
+      "en": "but with two major changes.",
+      "zh": ""
+    },
+    {
+      "start": 1111.73,
+      "duration": 2.22,
+      "text": "First, we'll automatically pre-process our graph",
+      "en": "First, we'll automatically pre-process our graph",
+      "zh": ""
+    },
+    {
+      "start": 1113.95,
+      "duration": 2.38,
+      "text": "to order nodes by how important they are.",
+      "en": "to order nodes by how important they are.",
+      "zh": ""
+    },
+    {
+      "start": 1116.33,
+      "duration": 2.96,
+      "text": "An exit connecting two highways, quite important.",
+      "en": "An exit connecting two highways, quite important.",
+      "zh": ""
+    },
+    {
+      "start": 1119.29,
+      "duration": 3.15,
+      "text": "The intersection to a tiny cul-de-sac, well, not as much.",
+      "en": "The intersection to a tiny cul-de-sac, well, not as much.",
+      "zh": ""
+    },
+    {
+      "start": 1122.44,
+      "duration": 2.4,
+      "text": "No more categorizing roads by hand.",
+      "en": "No more categorizing roads by hand.",
+      "zh": ""
+    },
+    {
+      "start": 1124.84,
+      "duration": 1.92,
+      "text": "We'll still use a bi-directional Dijkstras",
+      "en": "We'll still use a bi-directional Dijkstras",
+      "zh": ""
+    },
+    {
+      "start": 1126.76,
+      "duration": 2.82,
+      "text": "that only searches up the hierarchy from both directions.",
+      "en": "that only searches up the hierarchy from both directions.",
+      "zh": ""
+    },
+    {
+      "start": 1129.58,
+      "duration": 1.38,
+      "text": "But if we build it clever enough,",
+      "en": "But if we build it clever enough,",
+      "zh": ""
+    },
+    {
+      "start": 1130.96,
+      "duration": 1.5,
+      "text": "we can get rid of candidate areas",
+      "en": "we can get rid of candidate areas",
+      "zh": ""
+    },
+    {
+      "start": 1132.46,
+      "duration": 2.19,
+      "text": "and still guarantee the shortest path.",
+      "en": "and still guarantee the shortest path.",
+      "zh": ""
+    },
+    {
+      "start": 1134.65,
+      "duration": 2.82,
+      "text": "So phase one is building this hierarchy.",
+      "en": "So phase one is building this hierarchy.",
+      "zh": ""
+    },
+    {
+      "start": 1137.47,
+      "duration": 2.35,
+      "text": "How do we pick the most important nodes though?",
+      "en": "How do we pick the most important nodes though?",
+      "zh": ""
+    },
+    {
+      "start": 1140.71,
+      "duration": 2.16,
+      "text": "Let's take a look at these two small towns.",
+      "en": "Let's take a look at these two small towns.",
+      "zh": ""
+    },
+    {
+      "start": 1142.87,
+      "duration": 1.71,
+      "text": "We're gonna throw away everything in one town",
+      "en": "We're gonna throw away everything in one town",
+      "zh": ""
+    },
+    {
+      "start": 1144.58,
+      "duration": 1.8,
+      "text": "except for this house for right now.",
+      "en": "except for this house for right now.",
+      "zh": ""
+    },
+    {
+      "start": 1146.38,
+      "duration": 2.01,
+      "text": "If someone in that house wants to get anywhere,",
+      "en": "If someone in that house wants to get anywhere,",
+      "zh": ""
+    },
+    {
+      "start": 1148.39,
+      "duration": 1.59,
+      "text": "they have to pass through this intersection",
+      "en": "they have to pass through this intersection",
+      "zh": ""
+    },
+    {
+      "start": 1149.98,
+      "duration": 1.74,
+      "text": "at the end of the bridge.",
+      "en": "at the end of the bridge.",
+      "zh": ""
+    },
+    {
+      "start": 1151.72,
+      "duration": 2.34,
+      "text": "All of the shortest paths to and from their house",
+      "en": "All of the shortest paths to and from their house",
+      "zh": ""
+    },
+    {
+      "start": 1154.06,
+      "duration": 3.36,
+      "text": "include that node, so it's pretty important to them.",
+      "en": "include that node, so it's pretty important to them.",
+      "zh": ""
+    },
+    {
+      "start": 1157.42,
+      "duration": 3.0,
+      "text": "But that node isn't as important to the rest of the town.",
+      "en": "But that node isn't as important to the rest of the town.",
+      "zh": ""
+    },
+    {
+      "start": 1160.42,
+      "duration": 1.98,
+      "text": "After all, the only reason to cross the bridge",
+      "en": "After all, the only reason to cross the bridge",
+      "zh": ""
+    },
+    {
+      "start": 1162.4,
+      "duration": 1.74,
+      "text": "is to get to that one house.",
+      "en": "is to get to that one house.",
+      "zh": ""
+    },
+    {
+      "start": 1164.14,
+      "duration": 2.64,
+      "text": "But with more and more houses on the other side,",
+      "en": "But with more and more houses on the other side,",
+      "zh": ""
+    },
+    {
+      "start": 1166.78,
+      "duration": 3.12,
+      "text": "the bridge node gets more and more important.",
+      "en": "the bridge node gets more and more important.",
+      "zh": ""
+    },
+    {
+      "start": 1169.9,
+      "duration": 3.39,
+      "text": "Any trip from one side to the other needs to use it.",
+      "en": "Any trip from one side to the other needs to use it.",
+      "zh": ""
+    },
+    {
+      "start": 1173.29,
+      "duration": 1.89,
+      "text": "It's the most important when the two towns",
+      "en": "It's the most important when the two towns",
+      "zh": ""
+    },
+    {
+      "start": 1175.18,
+      "duration": 4.05,
+      "text": "are roughly the same size, when it splits the graph in half.",
+      "en": "are roughly the same size, when it splits the graph in half.",
+      "zh": ""
+    },
+    {
+      "start": 1179.23,
+      "duration": 2.25,
+      "text": "That's when the maximum number of shortest paths",
+      "en": "That's when the maximum number of shortest paths",
+      "zh": ""
+    },
+    {
+      "start": 1181.48,
+      "duration": 1.92,
+      "text": "include that bridge.",
+      "en": "include that bridge.",
+      "zh": ""
+    },
+    {
+      "start": 1183.4,
+      "duration": 2.43,
+      "text": "There are other sets of nodes that split the graph in half,",
+      "en": "There are other sets of nodes that split the graph in half,",
+      "zh": ""
+    },
+    {
+      "start": 1185.83,
+      "duration": 1.23,
+      "text": "like this main street,",
+      "en": "like this main street,",
+      "zh": ""
+    },
+    {
+      "start": 1187.06,
+      "duration": 2.07,
+      "text": "but there's far more intersections along that street",
+      "en": "but there's far more intersections along that street",
+      "zh": ""
+    },
+    {
+      "start": 1189.13,
+      "duration": 1.65,
+      "text": "than just the one bridge node.",
+      "en": "than just the one bridge node.",
+      "zh": ""
+    },
+    {
+      "start": 1190.78,
+      "duration": 3.03,
+      "text": "So a small set of nodes, or a small cut of nodes",
+      "en": "So a small set of nodes, or a small cut of nodes",
+      "zh": ""
+    },
+    {
+      "start": 1193.81,
+      "duration": 3.33,
+      "text": "is important when it roughly splits the graph in half.",
+      "en": "is important when it roughly splits the graph in half.",
+      "zh": ""
+    },
+    {
+      "start": 1197.14,
+      "duration": 2.2,
+      "text": "Let's bring back the North American network.",
+      "en": "Let's bring back the North American network.",
+      "zh": ""
+    },
+    {
+      "start": 1200.56,
+      "duration": 2.7,
+      "text": "These blue nodes roughly split the graph in half.",
+      "en": "These blue nodes roughly split the graph in half.",
+      "zh": ""
+    },
+    {
+      "start": 1203.26,
+      "duration": 1.95,
+      "text": "If you wanted to get from anywhere on the east coast,",
+      "en": "If you wanted to get from anywhere on the east coast,",
+      "zh": ""
+    },
+    {
+      "start": 1205.21,
+      "duration": 1.29,
+      "text": "to anywhere on the west coast,",
+      "en": "to anywhere on the west coast,",
+      "zh": ""
+    },
+    {
+      "start": 1206.5,
+      "duration": 3.0,
+      "text": "you'd have to go through one of these 102 nodes.",
+      "en": "you'd have to go through one of these 102 nodes.",
+      "zh": ""
+    },
+    {
+      "start": 1209.5,
+      "duration": 3.15,
+      "text": "It's just like the bridge connecting the two towns.",
+      "en": "It's just like the bridge connecting the two towns.",
+      "zh": ""
+    },
+    {
+      "start": 1212.65,
+      "duration": 1.29,
+      "text": "- That's really small.",
+      "en": "- That's really small.",
+      "zh": ""
+    },
+    {
+      "start": 1213.94,
+      "duration": 2.13,
+      "text": "But if you look at where does this thing go,",
+      "en": "But if you look at where does this thing go,",
+      "zh": ""
+    },
+    {
+      "start": 1216.07,
+      "duration": 2.07,
+      "text": "that's essentially the Mississippi River.",
+      "en": "that's essentially the Mississippi River.",
+      "zh": ""
+    },
+    {
+      "start": 1218.14,
+      "duration": 3.27,
+      "text": "And bridges over the Mississippi are expensive to build.",
+      "en": "And bridges over the Mississippi are expensive to build.",
+      "zh": ""
+    },
+    {
+      "start": 1221.41,
+      "duration": 1.62,
+      "text": "- [Henry] These are the biggest bottlenecks.",
+      "en": "- [Henry] These are the biggest bottlenecks.",
+      "zh": ""
+    },
+    {
+      "start": 1223.03,
+      "duration": 2.46,
+      "text": "Out of all the 64 million plus nodes,",
+      "en": "Out of all the 64 million plus nodes,",
+      "zh": ""
+    },
+    {
+      "start": 1225.49,
+      "duration": 3.87,
+      "text": "these 102 get the highest rank, so the biggest numbers.",
+      "en": "these 102 get the highest rank, so the biggest numbers.",
+      "zh": ""
+    },
+    {
+      "start": 1229.36,
+      "duration": 2.19,
+      "text": "Now let's find the next most important nodes.",
+      "en": "Now let's find the next most important nodes.",
+      "zh": ""
+    },
+    {
+      "start": 1231.55,
+      "duration": 2.28,
+      "text": "- Well, what can we do on both sides?",
+      "en": "- Well, what can we do on both sides?",
+      "zh": ""
+    },
+    {
+      "start": 1233.83,
+      "duration": 1.32,
+      "text": "Well, we can do the same thing.",
+      "en": "Well, we can do the same thing.",
+      "zh": ""
+    },
+    {
+      "start": 1235.15,
+      "duration": 2.49,
+      "text": "We again, search for small cuts.",
+      "en": "We again, search for small cuts.",
+      "zh": ""
+    },
+    {
+      "start": 1237.64,
+      "duration": 1.38,
+      "text": "- The next cut on the east coast",
+      "en": "- The next cut on the east coast",
+      "zh": ""
+    },
+    {
+      "start": 1239.02,
+      "duration": 1.5,
+      "text": "follows the Ohio River.",
+      "en": "follows the Ohio River.",
+      "zh": ""
+    },
+    {
+      "start": 1240.52,
+      "duration": 2.88,
+      "text": "And then it loosely traces up the Appalachian Mountains",
+      "en": "And then it loosely traces up the Appalachian Mountains",
+      "zh": ""
+    },
+    {
+      "start": 1243.4,
+      "duration": 2.67,
+      "text": "before heading back south along the Potomac River.",
+      "en": "before heading back south along the Potomac River.",
+      "zh": ""
+    },
+    {
+      "start": 1246.07,
+      "duration": 2.91,
+      "text": "On the west coast, the cut mostly follows the Rockies,",
+      "en": "On the west coast, the cut mostly follows the Rockies,",
+      "zh": ""
+    },
+    {
+      "start": 1248.98,
+      "duration": 1.98,
+      "text": "and then the Colorado River.",
+      "en": "and then the Colorado River.",
+      "zh": ""
+    },
+    {
+      "start": 1250.96,
+      "duration": 3.3,
+      "text": "These two sets get the next highest ranks for their sides,",
+      "en": "These two sets get the next highest ranks for their sides,",
+      "zh": ""
+    },
+    {
+      "start": 1254.26,
+      "duration": 3.57,
+      "text": "and we can split these in half again and rank those nodes.",
+      "en": "and we can split these in half again and rank those nodes.",
+      "zh": ""
+    },
+    {
+      "start": 1257.83,
+      "duration": 2.52,
+      "text": "And again, and on and on,",
+      "en": "And again, and on and on,",
+      "zh": ""
+    },
+    {
+      "start": 1260.35,
+      "duration": 3.06,
+      "text": "until we've ranked all 64 million nodes.",
+      "en": "until we've ranked all 64 million nodes.",
+      "zh": ""
+    },
+    {
+      "start": 1263.41,
+      "duration": 1.89,
+      "text": "This is called nested dissection.",
+      "en": "This is called nested dissection.",
+      "zh": ""
+    },
+    {
+      "start": 1266.23,
+      "duration": 2.41,
+      "text": "This pre-processing step has two goals.",
+      "en": "This pre-processing step has two goals.",
+      "zh": ""
+    },
+    {
+      "start": 1268.64,
+      "duration": 3.32,
+      "text": "We want an algorithm that doesn't search a lot of nodes,",
+      "en": "We want an algorithm that doesn't search a lot of nodes,",
+      "zh": ""
+    },
+    {
+      "start": 1271.96,
+      "duration": 1.7,
+      "text": "so the runtime is really fast,",
+      "en": "so the runtime is really fast,",
+      "zh": ""
+    },
+    {
+      "start": 1273.66,
+      "duration": 3.13,
+      "text": "but also will always return the shortest path.",
+      "en": "but also will always return the shortest path.",
+      "zh": ""
+    },
+    {
+      "start": 1276.79,
+      "duration": 1.35,
+      "text": "The hierarchy we build now",
+      "en": "The hierarchy we build now",
+      "zh": ""
+    },
+    {
+      "start": 1278.14,
+      "duration": 2.31,
+      "text": "needs to support both of these goals.",
+      "en": "needs to support both of these goals.",
+      "zh": ""
+    },
+    {
+      "start": 1280.45,
+      "duration": 2.52,
+      "text": "Let's test this out on a smaller graph.",
+      "en": "Let's test this out on a smaller graph.",
+      "zh": ""
+    },
+    {
+      "start": 1282.97,
+      "duration": 2.31,
+      "text": "We ignore the edge weights for the first step.",
+      "en": "We ignore the edge weights for the first step.",
+      "zh": ""
+    },
+    {
+      "start": 1286.3,
+      "duration": 2.34,
+      "text": "These two nodes split the graph roughly in half,",
+      "en": "These two nodes split the graph roughly in half,",
+      "zh": ""
+    },
+    {
+      "start": 1288.64,
+      "duration": 1.65,
+      "text": "so we give them the highest rank.",
+      "en": "so we give them the highest rank.",
+      "zh": ""
+    },
+    {
+      "start": 1291.19,
+      "duration": 3.03,
+      "text": "Looking at one side, this node splits the subset in half,",
+      "en": "Looking at one side, this node splits the subset in half,",
+      "zh": ""
+    },
+    {
+      "start": 1294.22,
+      "duration": 2.19,
+      "text": "so it has the highest rank of the three.",
+      "en": "so it has the highest rank of the three.",
+      "zh": ""
+    },
+    {
+      "start": 1296.41,
+      "duration": 2.82,
+      "text": "We can rank the remaining two nodes in any order.",
+      "en": "We can rank the remaining two nodes in any order.",
+      "zh": ""
+    },
+    {
+      "start": 1299.23,
+      "duration": 0.99,
+      "text": "Now, on the other side,",
+      "en": "Now, on the other side,",
+      "zh": ""
+    },
+    {
+      "start": 1300.22,
+      "duration": 2.64,
+      "text": "these two nodes split this subset in half.",
+      "en": "these two nodes split this subset in half.",
+      "zh": ""
+    },
+    {
+      "start": 1302.86,
+      "duration": 2.13,
+      "text": "So they have the next highest rank.",
+      "en": "So they have the next highest rank.",
+      "zh": ""
+    },
+    {
+      "start": 1304.99,
+      "duration": 0.83,
+      "text": "And then again,",
+      "en": "And then again,",
+      "zh": ""
+    },
+    {
+      "start": 1305.82,
+      "duration": 2.92,
+      "text": "we rank the final two nodes with the remaining numbers.",
+      "en": "we rank the final two nodes with the remaining numbers.",
+      "zh": ""
+    },
+    {
+      "start": 1308.74,
+      "duration": 1.56,
+      "text": "But what about this ranking?",
+      "en": "But what about this ranking?",
+      "zh": ""
+    },
+    {
+      "start": 1310.3,
+      "duration": 1.56,
+      "text": "We split the graph the same,",
+      "en": "We split the graph the same,",
+      "zh": ""
+    },
+    {
+      "start": 1311.86,
+      "duration": 3.42,
+      "text": "but the rankings within the same cut are all swapped around.",
+      "en": "but the rankings within the same cut are all swapped around.",
+      "zh": ""
+    },
+    {
+      "start": 1315.28,
+      "duration": 1.53,
+      "text": "Or if we split the graph differently,",
+      "en": "Or if we split the graph differently,",
+      "zh": ""
+    },
+    {
+      "start": 1316.81,
+      "duration": 1.86,
+      "text": "we could get this ranking.",
+      "en": "we could get this ranking.",
+      "zh": ""
+    },
+    {
+      "start": 1318.67,
+      "duration": 2.49,
+      "text": "It even splits the graph perfectly in half.",
+      "en": "It even splits the graph perfectly in half.",
+      "zh": ""
+    },
+    {
+      "start": 1321.16,
+      "duration": 4.2,
+      "text": "Isn't that better? And these rankings are all valid.",
+      "en": "Isn't that better? And these rankings are all valid.",
+      "zh": ""
+    },
+    {
+      "start": 1325.36,
+      "duration": 2.31,
+      "text": "We'll see in a bit why we could use any one of them.",
+      "en": "We'll see in a bit why we could use any one of them.",
+      "zh": ""
+    },
+    {
+      "start": 1327.67,
+      "duration": 2.19,
+      "text": "But for now, we'll just take this one.",
+      "en": "But for now, we'll just take this one.",
+      "zh": ""
+    },
+    {
+      "start": 1329.86,
+      "duration": 2.64,
+      "text": "The best way to visualize this ranking is to pull down,",
+      "en": "The best way to visualize this ranking is to pull down,",
+      "zh": ""
+    },
+    {
+      "start": 1332.5,
+      "duration": 1.98,
+      "text": "or contract the nodes in order.",
+      "en": "or contract the nodes in order.",
+      "zh": ""
+    },
+    {
+      "start": 1334.48,
+      "duration": 3.69,
+      "text": "One is the furthest down, two is next up, and so on.",
+      "en": "One is the furthest down, two is next up, and so on.",
+      "zh": ""
+    },
+    {
+      "start": 1338.17,
+      "duration": 1.92,
+      "text": "Now we can bring in a search algorithm.",
+      "en": "Now we can bring in a search algorithm.",
+      "zh": ""
+    },
+    {
+      "start": 1340.09,
+      "duration": 1.11,
+      "text": "To speed up the runtime,",
+      "en": "To speed up the runtime,",
+      "zh": ""
+    },
+    {
+      "start": 1341.2,
+      "duration": 3.45,
+      "text": "we limit the search space by only moving up the hierarchy.",
+      "en": "we limit the search space by only moving up the hierarchy.",
+      "zh": ""
+    },
+    {
+      "start": 1345.65,
+      "duration": 1.02,
+      "text": "And that's why it's so important",
+      "en": "And that's why it's so important",
+      "zh": ""
+    },
+    {
+      "start": 1346.67,
+      "duration": 1.71,
+      "text": "to use a bi-directional Dijkstra.",
+      "en": "to use a bi-directional Dijkstra.",
+      "zh": ""
+    },
+    {
+      "start": 1348.38,
+      "duration": 2.13,
+      "text": "If the algorithm couldn't search in both directions,",
+      "en": "If the algorithm couldn't search in both directions,",
+      "zh": ""
+    },
+    {
+      "start": 1350.51,
+      "duration": 2.22,
+      "text": "it would get stuck on a lot of pairs.",
+      "en": "it would get stuck on a lot of pairs.",
+      "zh": ""
+    },
+    {
+      "start": 1352.73,
+      "duration": 2.16,
+      "text": "So instead, the two searches meet in the middle",
+      "en": "So instead, the two searches meet in the middle",
+      "zh": ""
+    },
+    {
+      "start": 1354.89,
+      "duration": 2.07,
+      "text": "at the top of the hierarchy.",
+      "en": "at the top of the hierarchy.",
+      "zh": ""
+    },
+    {
+      "start": 1356.96,
+      "duration": 1.77,
+      "text": "Now let's add the edge weights back.",
+      "en": "Now let's add the edge weights back.",
+      "zh": ""
+    },
+    {
+      "start": 1358.73,
+      "duration": 3.21,
+      "text": "Okay, what's the shortest path from node four to node eight?",
+      "en": "Okay, what's the shortest path from node four to node eight?",
+      "zh": ""
+    },
+    {
+      "start": 1361.94,
+      "duration": 2.22,
+      "text": "Well, starting from node four, we search up,",
+      "en": "Well, starting from node four, we search up,",
+      "zh": ""
+    },
+    {
+      "start": 1364.16,
+      "duration": 2.85,
+      "text": "and reach node nine with a cost of 10,",
+      "en": "and reach node nine with a cost of 10,",
+      "zh": ""
+    },
+    {
+      "start": 1367.01,
+      "duration": 1.65,
+      "text": "From node eight, we also search up,",
+      "en": "From node eight, we also search up,",
+      "zh": ""
+    },
+    {
+      "start": 1368.66,
+      "duration": 2.79,
+      "text": "and get to node nine with a cost of five.",
+      "en": "and get to node nine with a cost of five.",
+      "zh": ""
+    },
+    {
+      "start": 1371.45,
+      "duration": 4.68,
+      "text": "So that must be the shortest path with a cost of 15. Done.",
+      "en": "So that must be the shortest path with a cost of 15. Done.",
+      "zh": ""
+    },
+    {
+      "start": 1376.13,
+      "duration": 3.69,
+      "text": "Except, there's a problem. That's not the shortest path.",
+      "en": "Except, there's a problem. That's not the shortest path.",
+      "zh": ""
+    },
+    {
+      "start": 1379.82,
+      "duration": 2.55,
+      "text": "Using this path only costs three.",
+      "en": "Using this path only costs three.",
+      "zh": ""
+    },
+    {
+      "start": 1382.37,
+      "duration": 1.44,
+      "text": "This search doesn't check paths",
+      "en": "This search doesn't check paths",
+      "zh": ""
+    },
+    {
+      "start": 1383.81,
+      "duration": 2.04,
+      "text": "that go through lower rank nodes.",
+      "en": "that go through lower rank nodes.",
+      "zh": ""
+    },
+    {
+      "start": 1385.85,
+      "duration": 3.12,
+      "text": "But we can fix it with a little more pre-processing.",
+      "en": "But we can fix it with a little more pre-processing.",
+      "zh": ""
+    },
+    {
+      "start": 1388.97,
+      "duration": 1.41,
+      "text": "Start from the lowest rank.",
+      "en": "Start from the lowest rank.",
+      "zh": ""
+    },
+    {
+      "start": 1390.38,
+      "duration": 3.06,
+      "text": "Does this node connect to at least two higher nodes?",
+      "en": "Does this node connect to at least two higher nodes?",
+      "zh": ""
+    },
+    {
+      "start": 1393.44,
+      "duration": 2.94,
+      "text": "On this graph, node one connects to three and eight.",
+      "en": "On this graph, node one connects to three and eight.",
+      "zh": ""
+    },
+    {
+      "start": 1396.38,
+      "duration": 2.07,
+      "text": "This is called a lower triangle.",
+      "en": "This is called a lower triangle.",
+      "zh": ""
+    },
+    {
+      "start": 1398.45,
+      "duration": 1.26,
+      "text": "And while there's a chance this path",
+      "en": "And while there's a chance this path",
+      "zh": ""
+    },
+    {
+      "start": 1399.71,
+      "duration": 2.82,
+      "text": "is actually the shortest between node three and node eight,",
+      "en": "is actually the shortest between node three and node eight,",
+      "zh": ""
+    },
+    {
+      "start": 1402.53,
+      "duration": 1.98,
+      "text": "our search will never consider it.",
+      "en": "our search will never consider it.",
+      "zh": ""
+    },
+    {
+      "start": 1404.51,
+      "duration": 2.88,
+      "text": "So we'll add a shortcut between nodes three and node eight.",
+      "en": "So we'll add a shortcut between nodes three and node eight.",
+      "zh": ""
+    },
+    {
+      "start": 1407.39,
+      "duration": 2.76,
+      "text": "That's just the cost of this lower triangle.",
+      "en": "That's just the cost of this lower triangle.",
+      "zh": ""
+    },
+    {
+      "start": 1410.15,
+      "duration": 2.37,
+      "text": "Now, this edge doesn't correspond to anything real",
+      "en": "Now, this edge doesn't correspond to anything real",
+      "zh": ""
+    },
+    {
+      "start": 1412.52,
+      "duration": 0.93,
+      "text": "on the road network.",
+      "en": "on the road network.",
+      "zh": ""
+    },
+    {
+      "start": 1413.45,
+      "duration": 2.58,
+      "text": "It's just a way to keep track of shortest paths.",
+      "en": "It's just a way to keep track of shortest paths.",
+      "zh": ""
+    },
+    {
+      "start": 1416.03,
+      "duration": 3.45,
+      "text": "We move on to the next lowest node and run the same test.",
+      "en": "We move on to the next lowest node and run the same test.",
+      "zh": ""
+    },
+    {
+      "start": 1419.48,
+      "duration": 2.13,
+      "text": "But there could be multiple lower triangles,",
+      "en": "But there could be multiple lower triangles,",
+      "zh": ""
+    },
+    {
+      "start": 1421.61,
+      "duration": 1.38,
+      "text": "or there might already be an edge",
+      "en": "or there might already be an edge",
+      "zh": ""
+    },
+    {
+      "start": 1422.99,
+      "duration": 1.83,
+      "text": "between the two higher nodes.",
+      "en": "between the two higher nodes.",
+      "zh": ""
+    },
+    {
+      "start": 1424.82,
+      "duration": 1.8,
+      "text": "In those cases, the shortcut represents",
+      "en": "In those cases, the shortcut represents",
+      "zh": ""
+    },
+    {
+      "start": 1426.62,
+      "duration": 2.64,
+      "text": "whichever path has the minimum cost.",
+      "en": "whichever path has the minimum cost.",
+      "zh": ""
+    },
+    {
+      "start": 1429.26,
+      "duration": 2.04,
+      "text": "A path that only uses lower ranked nodes",
+      "en": "A path that only uses lower ranked nodes",
+      "zh": ""
+    },
+    {
+      "start": 1431.3,
+      "duration": 3.03,
+      "text": "is like a path that only uses smaller local roads.",
+      "en": "is like a path that only uses smaller local roads.",
+      "zh": ""
+    },
+    {
+      "start": 1434.33,
+      "duration": 2.34,
+      "text": "We don't want the algorithm to return a highway route",
+      "en": "We don't want the algorithm to return a highway route",
+      "zh": ""
+    },
+    {
+      "start": 1436.67,
+      "duration": 1.83,
+      "text": "if a local road is shorter.",
+      "en": "if a local road is shorter.",
+      "zh": ""
+    },
+    {
+      "start": 1438.5,
+      "duration": 1.62,
+      "text": "Building shortcuts from the bottom up",
+      "en": "Building shortcuts from the bottom up",
+      "zh": ""
+    },
+    {
+      "start": 1440.12,
+      "duration": 1.71,
+      "text": "makes sure we don't miss these paths,",
+      "en": "makes sure we don't miss these paths,",
+      "zh": ""
+    },
+    {
+      "start": 1441.83,
+      "duration": 2.4,
+      "text": "while also ignoring them if they aren't needed.",
+      "en": "while also ignoring them if they aren't needed.",
+      "zh": ""
+    },
+    {
+      "start": 1444.23,
+      "duration": 2.07,
+      "text": "This way, we both limit the search space,",
+      "en": "This way, we both limit the search space,",
+      "zh": ""
+    },
+    {
+      "start": 1446.3,
+      "duration": 2.31,
+      "text": "and never miss the shortest path.",
+      "en": "and never miss the shortest path.",
+      "zh": ""
+    },
+    {
+      "start": 1448.61,
+      "duration": 2.46,
+      "text": "But there's another benefit to shortcuts.",
+      "en": "But there's another benefit to shortcuts.",
+      "zh": ""
+    },
+    {
+      "start": 1451.07,
+      "duration": 1.35,
+      "text": "We don't need to worry too much about",
+      "en": "We don't need to worry too much about",
+      "zh": ""
+    },
+    {
+      "start": 1452.42,
+      "duration": 1.59,
+      "text": "getting a perfect ranking.",
+      "en": "getting a perfect ranking.",
+      "zh": ""
+    },
+    {
+      "start": 1454.01,
+      "duration": 1.83,
+      "text": "We can roughly cut the graph in half,",
+      "en": "We can roughly cut the graph in half,",
+      "zh": ""
+    },
+    {
+      "start": 1455.84,
+      "duration": 2.88,
+      "text": "and rank nodes in the same cut in any order.",
+      "en": "and rank nodes in the same cut in any order.",
+      "zh": ""
+    },
+    {
+      "start": 1458.72,
+      "duration": 1.92,
+      "text": "If the ranking overlooks the shortest path,",
+      "en": "If the ranking overlooks the shortest path,",
+      "zh": ""
+    },
+    {
+      "start": 1460.64,
+      "duration": 2.25,
+      "text": "well, we'll add it back later with a shortcut.",
+      "en": "well, we'll add it back later with a shortcut.",
+      "zh": ""
+    },
+    {
+      "start": 1462.89,
+      "duration": 2.22,
+      "text": "That's why we were able to get three valid rankings",
+      "en": "That's why we were able to get three valid rankings",
+      "zh": ""
+    },
+    {
+      "start": 1465.11,
+      "duration": 2.25,
+      "text": "using the same instructions earlier.",
+      "en": "using the same instructions earlier.",
+      "zh": ""
+    },
+    {
+      "start": 1467.36,
+      "duration": 2.61,
+      "text": "But while any ranking will still find the shortest path,",
+      "en": "But while any ranking will still find the shortest path,",
+      "zh": ""
+    },
+    {
+      "start": 1469.97,
+      "duration": 1.8,
+      "text": "a bad one will go really slow,",
+      "en": "a bad one will go really slow,",
+      "zh": ""
+    },
+    {
+      "start": 1471.77,
+      "duration": 2.58,
+      "text": "or it'll quickly blow the graph up.",
+      "en": "or it'll quickly blow the graph up.",
+      "zh": ""
+    },
+    {
+      "start": 1474.35,
+      "duration": 2.91,
+      "text": "For example, with a series of nodes in a straight line,",
+      "en": "For example, with a series of nodes in a straight line,",
+      "zh": ""
+    },
+    {
+      "start": 1477.26,
+      "duration": 1.56,
+      "text": "we don't need to add any shortcuts",
+      "en": "we don't need to add any shortcuts",
+      "zh": ""
+    },
+    {
+      "start": 1478.82,
+      "duration": 2.97,
+      "text": "if we just contract the nodes from left to right.",
+      "en": "if we just contract the nodes from left to right.",
+      "zh": ""
+    },
+    {
+      "start": 1481.79,
+      "duration": 2.07,
+      "text": "But when we search between the two ends,",
+      "en": "But when we search between the two ends,",
+      "zh": ""
+    },
+    {
+      "start": 1483.86,
+      "duration": 2.5,
+      "text": "we have to explore every node and edge.",
+      "en": "we have to explore every node and edge.",
+      "zh": ""
+    },
+    {
+      "start": 1486.36,
+      "duration": 2.81,
+      "text": "And that's no improvement over Dijkstra's.",
+      "en": "And that's no improvement over Dijkstra's.",
+      "zh": ""
+    },
+    {
+      "start": 1489.17,
+      "duration": 1.23,
+      "text": "Here's another possible ranking",
+      "en": "Here's another possible ranking",
+      "zh": ""
+    },
+    {
+      "start": 1490.4,
+      "duration": 1.92,
+      "text": "with the necessary shortcuts.",
+      "en": "with the necessary shortcuts.",
+      "zh": ""
+    },
+    {
+      "start": 1492.32,
+      "duration": 2.55,
+      "text": "End-to-end, we only need to search two edges,",
+      "en": "End-to-end, we only need to search two edges,",
+      "zh": ""
+    },
+    {
+      "start": 1494.87,
+      "duration": 1.65,
+      "text": "but we need a lot of shortcuts.",
+      "en": "but we need a lot of shortcuts.",
+      "zh": ""
+    },
+    {
+      "start": 1496.52,
+      "duration": 2.79,
+      "text": "And in some sections, we still have to check all the edges.",
+      "en": "And in some sections, we still have to check all the edges.",
+      "zh": ""
+    },
+    {
+      "start": 1499.31,
+      "duration": 3.0,
+      "text": "Manageable, but not very efficient.",
+      "en": "Manageable, but not very efficient.",
+      "zh": ""
+    },
+    {
+      "start": 1502.31,
+      "duration": 2.92,
+      "text": "- And so you want to have this trade-off",
+      "en": "- And so you want to have this trade-off",
+      "zh": ""
+    },
+    {
+      "start": 1505.23,
+      "duration": 2.0,
+      "text": "between the number of shortcuts that you introduce",
+      "en": "between the number of shortcuts that you introduce",
+      "zh": ""
+    },
+    {
+      "start": 1507.23,
+      "duration": 2.4,
+      "text": "and how much faster the query gets.",
+      "en": "and how much faster the query gets.",
+      "zh": ""
+    },
+    {
+      "start": 1509.63,
+      "duration": 0.83,
+      "text": "- [Henry] In practice,",
+      "en": "- [Henry] In practice,",
+      "zh": ""
+    },
+    {
+      "start": 1510.46,
+      "duration": 2.5,
+      "text": "the nested dissection method gets a decent node ordering",
+      "en": "the nested dissection method gets a decent node ordering",
+      "zh": ""
+    },
+    {
+      "start": 1512.96,
+      "duration": 1.3,
+      "text": "and doesn't take too long.",
+      "en": "and doesn't take too long.",
+      "zh": ""
+    },
+    {
+      "start": 1516.05,
+      "duration": 1.74,
+      "text": "This entire algorithm is called",
+      "en": "This entire algorithm is called",
+      "zh": ""
+    },
+    {
+      "start": 1517.79,
+      "duration": 2.94,
+      "text": "a customizable contraction hierarchy.",
+      "en": "a customizable contraction hierarchy.",
+      "zh": ""
+    },
+    {
+      "start": 1520.73,
+      "duration": 2.25,
+      "text": "And Ben tested it out on the North American network",
+      "en": "And Ben tested it out on the North American network",
+      "zh": ""
+    },
+    {
+      "start": 1522.98,
+      "duration": 2.46,
+      "text": "to give us a sense of the runtimes.",
+      "en": "to give us a sense of the runtimes.",
+      "zh": ""
+    },
+    {
+      "start": 1525.44,
+      "duration": 2.85,
+      "text": "In phase one, we order the nodes and add shortcuts.",
+      "en": "In phase one, we order the nodes and add shortcuts.",
+      "zh": ""
+    },
+    {
+      "start": 1528.29,
+      "duration": 2.37,
+      "text": "This doesn't change unless the graph itself changes,",
+      "en": "This doesn't change unless the graph itself changes,",
+      "zh": ""
+    },
+    {
+      "start": 1530.66,
+      "duration": 2.01,
+      "text": "like a new bridge, or a road closure.",
+      "en": "like a new bridge, or a road closure.",
+      "zh": ""
+    },
+    {
+      "start": 1532.67,
+      "duration": 2.37,
+      "text": "It's by far the most expensive part of the process.",
+      "en": "It's by far the most expensive part of the process.",
+      "zh": ""
+    },
+    {
+      "start": 1535.04,
+      "duration": 3.05,
+      "text": "But once it's done, it hardly ever changes.",
+      "en": "But once it's done, it hardly ever changes.",
+      "zh": ""
+    },
+    {
+      "start": 1538.09,
+      "duration": 3.56,
+      "text": "- I think it would ended up at an hour 40",
+      "en": "- I think it would ended up at an hour 40",
+      "zh": ""
+    },
+    {
+      "start": 1541.65,
+      "duration": 0.84,
+      "text": "or something like that.",
+      "en": "or something like that.",
+      "zh": ""
+    },
+    {
+      "start": 1542.49,
+      "duration": 1.91,
+      "text": "You can spend more time, you get better results.",
+      "en": "You can spend more time, you get better results.",
+      "zh": ""
+    },
+    {
+      "start": 1544.4,
+      "duration": 4.14,
+      "text": "So it's an argument to make that that's a good idea.",
+      "en": "So it's an argument to make that that's a good idea.",
+      "zh": ""
+    },
+    {
+      "start": 1548.54,
+      "duration": 0.83,
+      "text": "- [Derek] In phase two,",
+      "en": "- [Derek] In phase two,",
+      "zh": ""
+    },
+    {
+      "start": 1549.37,
+      "duration": 2.2,
+      "text": "we calculate the weights for all the shortcuts.",
+      "en": "we calculate the weights for all the shortcuts.",
+      "zh": ""
+    },
+    {
+      "start": 1551.57,
+      "duration": 1.14,
+      "text": "Whenever there's traffic updates,",
+      "en": "Whenever there's traffic updates,",
+      "zh": ""
+    },
+    {
+      "start": 1552.71,
+      "duration": 1.38,
+      "text": "we'll have to rerun this step.",
+      "en": "we'll have to rerun this step.",
+      "zh": ""
+    },
+    {
+      "start": 1554.09,
+      "duration": 1.98,
+      "text": "So it needs to be relatively quick,",
+      "en": "So it needs to be relatively quick,",
+      "zh": ""
+    },
+    {
+      "start": 1556.07,
+      "duration": 3.42,
+      "text": "- I think seven, eight seconds without parallelization",
+      "en": "- I think seven, eight seconds without parallelization",
+      "zh": ""
+    },
+    {
+      "start": 1559.49,
+      "duration": 2.88,
+      "text": "and take it down to about a second,",
+      "en": "and take it down to about a second,",
+      "zh": ""
+    },
+    {
+      "start": 1562.37,
+      "duration": 2.97,
+      "text": "and then that's where the memory starts setting.",
+      "en": "and then that's where the memory starts setting.",
+      "zh": ""
+    },
+    {
+      "start": 1565.34,
+      "duration": 3.06,
+      "text": "- [Derek] Finally, phase three is the actual search.",
+      "en": "- [Derek] Finally, phase three is the actual search.",
+      "zh": ""
+    },
+    {
+      "start": 1568.4,
+      "duration": 2.91,
+      "text": "Remember, for a long path on the North American network,",
+      "en": "Remember, for a long path on the North American network,",
+      "zh": ""
+    },
+    {
+      "start": 1571.31,
+      "duration": 1.92,
+      "text": "a well-tuned Dijkstra needs to explore",
+      "en": "a well-tuned Dijkstra needs to explore",
+      "zh": ""
+    },
+    {
+      "start": 1573.23,
+      "duration": 2.1,
+      "text": "most of the 64 million nodes",
+      "en": "most of the 64 million nodes",
+      "zh": ""
+    },
+    {
+      "start": 1575.33,
+      "duration": 2.85,
+      "text": "and takes around seven seconds per path.",
+      "en": "and takes around seven seconds per path.",
+      "zh": ""
+    },
+    {
+      "start": 1578.18,
+      "duration": 2.04,
+      "text": "For this contraction hierarchy,",
+      "en": "For this contraction hierarchy,",
+      "zh": ""
+    },
+    {
+      "start": 1580.22,
+      "duration": 3.69,
+      "text": "the query runtime was around 200 microseconds.",
+      "en": "the query runtime was around 200 microseconds.",
+      "zh": ""
+    },
+    {
+      "start": 1583.91,
+      "duration": 1.74,
+      "text": "- Depending on how you configure stuff,",
+      "en": "- Depending on how you configure stuff,",
+      "zh": ""
+    },
+    {
+      "start": 1585.65,
+      "duration": 3.74,
+      "text": "you can get down to like 100 microseconds or so.",
+      "en": "you can get down to like 100 microseconds or so.",
+      "zh": ""
+    },
+    {
+      "start": 1589.39,
+      "duration": 2.5,
+      "text": "But for practical purposes,",
+      "en": "But for practical purposes,",
+      "zh": ""
+    },
+    {
+      "start": 1591.89,
+      "duration": 2.94,
+      "text": "below a millisecond is all you need.",
+      "en": "below a millisecond is all you need.",
+      "zh": ""
+    },
+    {
+      "start": 1594.83,
+      "duration": 2.52,
+      "text": "- [Henry] That's 35,000 times faster than Dijkstra",
+      "en": "- [Henry] That's 35,000 times faster than Dijkstra",
+      "zh": ""
+    },
+    {
+      "start": 1597.35,
+      "duration": 1.71,
+      "text": "in just this experiment.",
+      "en": "in just this experiment.",
+      "zh": ""
+    },
+    {
+      "start": 1599.06,
+      "duration": 4.11,
+      "text": "And on average, it only needed to explore 1,450 nodes,",
+      "en": "And on average, it only needed to explore 1,450 nodes,",
+      "zh": ""
+    },
+    {
+      "start": 1603.17,
+      "duration": 4.8,
+      "text": "cutting the search space by a factor of around 44,000.",
+      "en": "cutting the search space by a factor of around 44,000.",
+      "zh": ""
+    },
+    {
+      "start": 1607.97,
+      "duration": 2.01,
+      "text": "A Dijkstra search from San Francisco to Montreal",
+      "en": "A Dijkstra search from San Francisco to Montreal",
+      "zh": ""
+    },
+    {
+      "start": 1609.98,
+      "duration": 3.09,
+      "text": "would need to check all the nodes roughly in this area.",
+      "en": "would need to check all the nodes roughly in this area.",
+      "zh": ""
+    },
+    {
+      "start": 1613.07,
+      "duration": 2.4,
+      "text": "On a customizable contraction hierarchy,",
+      "en": "On a customizable contraction hierarchy,",
+      "zh": ""
+    },
+    {
+      "start": 1615.47,
+      "duration": 4.02,
+      "text": "it only needs to search these 1,236 nodes.",
+      "en": "it only needs to search these 1,236 nodes.",
+      "zh": ""
+    },
+    {
+      "start": 1619.49,
+      "duration": 2.88,
+      "text": "Most of the nodes cluster around the source and target.",
+      "en": "Most of the nodes cluster around the source and target.",
+      "zh": ""
+    },
+    {
+      "start": 1622.37,
+      "duration": 1.95,
+      "text": "Once it gets far enough up the hierarchy,",
+      "en": "Once it gets far enough up the hierarchy,",
+      "zh": ""
+    },
+    {
+      "start": 1624.32,
+      "duration": 2.4,
+      "text": "it only needs to check the most important cuts,",
+      "en": "it only needs to check the most important cuts,",
+      "zh": ""
+    },
+    {
+      "start": 1626.72,
+      "duration": 1.5,
+      "text": "like the Mississippi.",
+      "en": "like the Mississippi.",
+      "zh": ""
+    },
+    {
+      "start": 1628.22,
+      "duration": 2.73,
+      "text": "While we don't know exactly what Google maps, Apple maps,",
+      "en": "While we don't know exactly what Google maps, Apple maps,",
+      "zh": ""
+    },
+    {
+      "start": 1630.95,
+      "duration": 1.86,
+      "text": "or any of these big routing applications",
+      "en": "or any of these big routing applications",
+      "zh": ""
+    },
+    {
+      "start": 1632.81,
+      "duration": 1.92,
+      "text": "actually use under the hood,",
+      "en": "actually use under the hood,",
+      "zh": ""
+    },
+    {
+      "start": 1634.73,
+      "duration": 3.15,
+      "text": "they all could be built with contraction hierarchies.",
+      "en": "they all could be built with contraction hierarchies.",
+      "zh": ""
+    },
+    {
+      "start": 1637.88,
+      "duration": 2.1,
+      "text": "And customizable contraction hierarchies",
+      "en": "And customizable contraction hierarchies",
+      "zh": ""
+    },
+    {
+      "start": 1639.98,
+      "duration": 1.62,
+      "text": "is just one variation,",
+      "en": "is just one variation,",
+      "zh": ""
+    },
+    {
+      "start": 1641.6,
+      "duration": 2.13,
+      "text": "and there are even more routing algorithms",
+      "en": "and there are even more routing algorithms",
+      "zh": ""
+    },
+    {
+      "start": 1643.73,
+      "duration": 1.5,
+      "text": "that we haven't covered.",
+      "en": "that we haven't covered.",
+      "zh": ""
+    },
+    {
+      "start": 1646.16,
+      "duration": 1.11,
+      "text": "But if you think about it,",
+      "en": "But if you think about it,",
+      "zh": ""
+    },
+    {
+      "start": 1647.27,
+      "duration": 3.57,
+      "text": "its core search is still Dijkstras, a 70-year-old algorithm.",
+      "en": "its core search is still Dijkstras, a 70-year-old algorithm.",
+      "zh": ""
+    },
+    {
+      "start": 1651.77,
+      "duration": 2.43,
+      "text": "Four decades after Dijkstra publishes article,",
+      "en": "Four decades after Dijkstra publishes article,",
+      "zh": ""
+    },
+    {
+      "start": 1654.2,
+      "duration": 2.01,
+      "text": "Danish computer scientist Mikkel Thorup",
+      "en": "Danish computer scientist Mikkel Thorup",
+      "zh": ""
+    },
+    {
+      "start": 1656.21,
+      "duration": 1.92,
+      "text": "said that all theoretical developments",
+      "en": "said that all theoretical developments",
+      "zh": ""
+    },
+    {
+      "start": 1658.13,
+      "duration": 1.44,
+      "text": "in single source shortest paths",
+      "en": "in single source shortest paths",
+      "zh": ""
+    },
+    {
+      "start": 1659.57,
+      "duration": 2.37,
+      "text": "have been based on Dijkstra's algorithm.",
+      "en": "have been based on Dijkstra's algorithm.",
+      "zh": ""
+    },
+    {
+      "start": 1663.02,
+      "duration": 3.33,
+      "text": "And since 2000, many of the newest shortest path algorithms",
+      "en": "And since 2000, many of the newest shortest path algorithms",
+      "zh": ""
+    },
+    {
+      "start": 1666.35,
+      "duration": 2.7,
+      "text": "still use bits and pieces of Dijkstras.",
+      "en": "still use bits and pieces of Dijkstras.",
+      "zh": ""
+    },
+    {
+      "start": 1669.05,
+      "duration": 2.34,
+      "text": "From variations on contraction hierarchies,",
+      "en": "From variations on contraction hierarchies,",
+      "zh": ""
+    },
+    {
+      "start": 1671.39,
+      "duration": 2.28,
+      "text": "all the way to a recent theoretical breakthrough",
+      "en": "all the way to a recent theoretical breakthrough",
+      "zh": ""
+    },
+    {
+      "start": 1673.67,
+      "duration": 2.25,
+      "text": "for an even faster shortest path algorithm.",
+      "en": "for an even faster shortest path algorithm.",
+      "zh": ""
+    },
+    {
+      "start": 1677.9,
+      "duration": 3.51,
+      "text": "All of this, based on a 20-minute invention.",
+      "en": "All of this, based on a 20-minute invention.",
+      "zh": ""
+    },
+    {
+      "start": 1683.48,
+      "duration": 1.77,
+      "text": "Part of Dijkstra's enduring success",
+      "en": "Part of Dijkstra's enduring success",
+      "zh": ""
+    },
+    {
+      "start": 1685.25,
+      "duration": 2.1,
+      "text": "comes down to just how simple it is.",
+      "en": "comes down to just how simple it is.",
+      "zh": ""
+    },
+    {
+      "start": 1687.35,
+      "duration": 3.96,
+      "text": "As he said, \"Simplicity is prerequisite for reliability.\"",
+      "en": "As he said, \"Simplicity is prerequisite for reliability.\"",
+      "zh": ""
+    },
+    {
+      "start": 1691.31,
+      "duration": 1.47,
+      "text": "Dijkstra thought deeply about problems",
+      "en": "Dijkstra thought deeply about problems",
+      "zh": ""
+    },
+    {
+      "start": 1692.78,
+      "duration": 1.71,
+      "text": "before ever touching a pen.",
+      "en": "before ever touching a pen.",
+      "zh": ""
+    },
+    {
+      "start": 1694.49,
+      "duration": 2.19,
+      "text": "Because at the end of the day, it would be a programmer",
+      "en": "Because at the end of the day, it would be a programmer",
+      "zh": ""
+    },
+    {
+      "start": 1696.68,
+      "duration": 2.61,
+      "text": "who is accountable for their work, not the machine.",
+      "en": "who is accountable for their work, not the machine.",
+      "zh": ""
+    },
+    {
+      "start": 1700.14,
+      "duration": 3.67,
+      "text": "(speaking foreign language)",
+      "en": "(speaking foreign language)",
+      "zh": ""
+    },
+    {
+      "start": 1737.15,
+      "duration": 1.35,
+      "text": "- So with those two ideas,",
+      "en": "- So with those two ideas,",
+      "zh": ""
+    },
+    {
+      "start": 1738.5,
+      "duration": 2.1,
+      "text": "he hoped to have one lasting legacy.",
+      "en": "he hoped to have one lasting legacy.",
+      "zh": ""
+    },
+    {
+      "start": 1740.6,
+      "duration": 1.56,
+      "text": "He said, \"If 10 years from now,",
+      "en": "He said, \"If 10 years from now,",
+      "zh": ""
+    },
+    {
+      "start": 1742.16,
+      "duration": 1.5,
+      "text": "when you're doing something quick and dirty,",
+      "en": "when you're doing something quick and dirty,",
+      "zh": ""
+    },
+    {
+      "start": 1743.66,
+      "duration": 1.59,
+      "text": "you suddenly visualize that I'm here,",
+      "en": "you suddenly visualize that I'm here,",
+      "zh": ""
+    },
+    {
+      "start": 1745.25,
+      "duration": 2.37,
+      "text": "looking over your shoulders, and say to yourself,",
+      "en": "looking over your shoulders, and say to yourself,",
+      "zh": ""
+    },
+    {
+      "start": 1747.62,
+      "duration": 1.86,
+      "text": "'Dijkstra would not have liked this.'",
+      "en": "'Dijkstra would not have liked this.'",
+      "zh": ""
+    },
+    {
+      "start": 1749.48,
+      "duration": 2.43,
+      "text": "Well, that'd be enough immortality for me.\"",
+      "en": "Well, that'd be enough immortality for me.\"",
+      "zh": ""
+    },
+    {
+      "start": 1751.91,
+      "duration": 1.53,
+      "text": "So even if you can only control",
+      "en": "So even if you can only control",
+      "zh": ""
+    },
+    {
+      "start": 1753.44,
+      "duration": 1.62,
+      "text": "your little corner of the world,",
+      "en": "your little corner of the world,",
+      "zh": ""
+    },
+    {
+      "start": 1755.06,
+      "duration": 3.09,
+      "text": "you can still make it as elegant and thoughtful as possible.",
+      "en": "you can still make it as elegant and thoughtful as possible.",
+      "zh": ""
+    },
+    {
+      "start": 1758.15,
+      "duration": 1.97,
+      "text": "For you, and all the people who come after.",
+      "en": "For you, and all the people who come after.",
+      "zh": ""
+    },
+    {
+      "start": 1760.12,
+      "duration": 2.59,
+      "text": "(bright music)",
+      "en": "(bright music)",
+      "zh": ""
+    },
+    {
+      "start": 1765.39,
+      "duration": 3.17,
+      "text": "Before we go, I just wanted to say thanks again to Boot.dev",
+      "en": "Before we go, I just wanted to say thanks again to Boot.dev",
+      "zh": ""
+    },
+    {
+      "start": 1768.56,
+      "duration": 1.26,
+      "text": "for sponsoring this video.",
+      "en": "for sponsoring this video.",
+      "zh": ""
+    },
+    {
+      "start": 1769.82,
+      "duration": 1.08,
+      "text": "If you guys wanna check 'em out,",
+      "en": "If you guys wanna check 'em out,",
+      "zh": ""
+    },
+    {
+      "start": 1770.9,
+      "duration": 1.62,
+      "text": "you can check the link in our description,",
+      "en": "you can check the link in our description,",
+      "zh": ""
+    },
+    {
+      "start": 1772.52,
+      "duration": 1.77,
+      "text": "or scan this QR code right here,",
+      "en": "or scan this QR code right here,",
+      "zh": ""
+    },
+    {
+      "start": 1774.29,
+      "duration": 2.34,
+      "text": "and make sure to use that checkout code \"Veritasium\"",
+      "en": "and make sure to use that checkout code \"Veritasium\"",
+      "zh": ""
+    },
+    {
+      "start": 1776.63,
+      "duration": 1.38,
+      "text": "for 25% off.",
+      "en": "for 25% off.",
+      "zh": ""
+    },
+    {
+      "start": 1778.01,
+      "duration": 1.59,
+      "text": "So thanks to Boot.dev,",
+      "en": "So thanks to Boot.dev,",
+      "zh": ""
+    },
+    {
+      "start": 1779.6,
+      "duration": 2.91,
+      "text": "and I also wanted to thank you for watching.",
+      "en": "and I also wanted to thank you for watching.",
+      "zh": ""
+    },
+    {
+      "start": 1782.51,
+      "duration": 2.45,
+      "text": "- [Speaker] You have arrived at your destination.",
+      "en": "- [Speaker] You have arrived at your destination.",
+      "zh": ""
+    },
+    {
+      "start": 1786.31,
+      "duration": 2.58,
+      "text": "(bright music)",
+      "en": "(bright music)",
+      "zh": ""
+    }
+  ],
+  "words": []
+}

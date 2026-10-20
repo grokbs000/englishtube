@@ -1,0 +1,2238 @@
+{
+  "cues": [
+    {
+      "start": 0.15,
+      "duration": 1.2,
+      "text": "- This is Dom.",
+      "en": "- This is Dom.",
+      "zh": ""
+    },
+    {
+      "start": 1.35,
+      "duration": 2.19,
+      "text": "He's a friendly little robot that's super good",
+      "en": "He's a friendly little robot that's super good",
+      "zh": ""
+    },
+    {
+      "start": 3.54,
+      "duration": 3.36,
+      "text": "at only one thing, setting up a butt ton of dominoes",
+      "en": "at only one thing, setting up a butt ton of dominoes",
+      "zh": ""
+    },
+    {
+      "start": 6.9,
+      "duration": 1.41,
+      "text": "really, really fast.",
+      "en": "really, really fast.",
+      "zh": ""
+    },
+    {
+      "start": 8.31,
+      "duration": 2.01,
+      "text": "It's taken five years to get to this point,",
+      "en": "It's taken five years to get to this point,",
+      "zh": ""
+    },
+    {
+      "start": 10.32,
+      "duration": 2.52,
+      "text": "but according to our initial test, we have hopes",
+      "en": "but according to our initial test, we have hopes",
+      "zh": ""
+    },
+    {
+      "start": 12.84,
+      "duration": 2.28,
+      "text": "that he might be more than 10 times faster",
+      "en": "that he might be more than 10 times faster",
+      "zh": ""
+    },
+    {
+      "start": 15.12,
+      "duration": 1.29,
+      "text": "than the fastest human.",
+      "en": "than the fastest human.",
+      "zh": ""
+    },
+    {
+      "start": 16.41,
+      "duration": 1.5,
+      "text": "So today we're gonna put him to the test,",
+      "en": "So today we're gonna put him to the test,",
+      "zh": ""
+    },
+    {
+      "start": 17.91,
+      "duration": 0.84,
+      "text": "going head to head",
+      "en": "going head to head",
+      "zh": ""
+    },
+    {
+      "start": 18.75,
+      "duration": 2.22,
+      "text": "against the world's foremost domino expert,",
+      "en": "against the world's foremost domino expert,",
+      "zh": ""
+    },
+    {
+      "start": 20.97,
+      "duration": 2.28,
+      "text": "who unfortunately is a mere human.",
+      "en": "who unfortunately is a mere human.",
+      "zh": ""
+    },
+    {
+      "start": 23.25,
+      "duration": 2.04,
+      "text": "Then we're gonna attempt a Guinness World Record",
+      "en": "Then we're gonna attempt a Guinness World Record",
+      "zh": ""
+    },
+    {
+      "start": 25.29,
+      "duration": 2.58,
+      "text": "and he's gonna try and fill this entire warehouse",
+      "en": "and he's gonna try and fill this entire warehouse",
+      "zh": ""
+    },
+    {
+      "start": 27.87,
+      "duration": 2.49,
+      "text": "with a mural of a 100,000 dominoes.",
+      "en": "with a mural of a 100,000 dominoes.",
+      "zh": ""
+    },
+    {
+      "start": 30.36,
+      "duration": 2.82,
+      "text": "And for context, setting up a domino mural that size",
+      "en": "And for context, setting up a domino mural that size",
+      "zh": ""
+    },
+    {
+      "start": 33.18,
+      "duration": 3.42,
+      "text": "would take a team of seven skill builders one full week.",
+      "en": "would take a team of seven skill builders one full week.",
+      "zh": ""
+    },
+    {
+      "start": 36.6,
+      "duration": 4.02,
+      "text": "Dom here is gonna attempt to do it by himself in 24 hours.",
+      "en": "Dom here is gonna attempt to do it by himself in 24 hours.",
+      "zh": ""
+    },
+    {
+      "start": 40.62,
+      "duration": 1.03,
+      "text": "Now I know what you're thinking,",
+      "en": "Now I know what you're thinking,",
+      "zh": ""
+    },
+    {
+      "start": 41.65,
+      "duration": 2.87,
+      "text": "\"Big whoop, Mark,\" because as a kid you might have had a toy",
+      "en": "\"Big whoop, Mark,\" because as a kid you might have had a toy",
+      "zh": ""
+    },
+    {
+      "start": 44.52,
+      "duration": 1.08,
+      "text": "that looked like this",
+      "en": "that looked like this",
+      "zh": ""
+    },
+    {
+      "start": 45.6,
+      "duration": 2.28,
+      "text": "or even this custom robot KiwiCo made me",
+      "en": "or even this custom robot KiwiCo made me",
+      "zh": ""
+    },
+    {
+      "start": 47.88,
+      "duration": 1.98,
+      "text": "that can drop 20 dominoes in a row.",
+      "en": "that can drop 20 dominoes in a row.",
+      "zh": ""
+    },
+    {
+      "start": 49.86,
+      "duration": 3.27,
+      "text": "So isn't it a bit overkill to utilize an autonomous robot",
+      "en": "So isn't it a bit overkill to utilize an autonomous robot",
+      "zh": ""
+    },
+    {
+      "start": 53.13,
+      "duration": 1.65,
+      "text": "a half mile of Hot wheels tracks,",
+      "en": "a half mile of Hot wheels tracks,",
+      "zh": ""
+    },
+    {
+      "start": 54.78,
+      "duration": 1.8,
+      "text": "and a high speed robotic arm?",
+      "en": "and a high speed robotic arm?",
+      "zh": ""
+    },
+    {
+      "start": 56.58,
+      "duration": 2.43,
+      "text": "And I get it because our designs look like this,",
+      "en": "And I get it because our designs look like this,",
+      "zh": ""
+    },
+    {
+      "start": 59.01,
+      "duration": 2.13,
+      "text": "where we're just trying to hack a little Roomba",
+      "en": "where we're just trying to hack a little Roomba",
+      "zh": ""
+    },
+    {
+      "start": 61.14,
+      "duration": 1.71,
+      "text": "when we first tried to tackle this problem",
+      "en": "when we first tried to tackle this problem",
+      "zh": ""
+    },
+    {
+      "start": 62.85,
+      "duration": 1.62,
+      "text": "exactly five years ago.",
+      "en": "exactly five years ago.",
+      "zh": ""
+    },
+    {
+      "start": 64.47,
+      "duration": 2.7,
+      "text": "But then pesky details with scale arise.",
+      "en": "But then pesky details with scale arise.",
+      "zh": ""
+    },
+    {
+      "start": 67.17,
+      "duration": 1.2,
+      "text": "Like for starters,",
+      "en": "Like for starters,",
+      "zh": ""
+    },
+    {
+      "start": 68.37,
+      "duration": 2.94,
+      "text": "just how much a hundred thousand dominoes is.",
+      "en": "just how much a hundred thousand dominoes is.",
+      "zh": ""
+    },
+    {
+      "start": 71.31,
+      "duration": 1.65,
+      "text": "So the robot will need to come",
+      "en": "So the robot will need to come",
+      "zh": ""
+    },
+    {
+      "start": 72.96,
+      "duration": 2.82,
+      "text": "and reload at least a thousand times.",
+      "en": "and reload at least a thousand times.",
+      "zh": ""
+    },
+    {
+      "start": 75.78,
+      "duration": 2.46,
+      "text": "But how exactly do you reload it?",
+      "en": "But how exactly do you reload it?",
+      "zh": ""
+    },
+    {
+      "start": 78.24,
+      "duration": 2.88,
+      "text": "And how would it know exactly where to drop each domino",
+      "en": "And how would it know exactly where to drop each domino",
+      "zh": ""
+    },
+    {
+      "start": 81.12,
+      "duration": 1.5,
+      "text": "and what color it should be?",
+      "en": "and what color it should be?",
+      "zh": ""
+    },
+    {
+      "start": 82.62,
+      "duration": 3.21,
+      "text": "And how do you make it so reliable that it doesn't screw up",
+      "en": "And how do you make it so reliable that it doesn't screw up",
+      "zh": ""
+    },
+    {
+      "start": 85.83,
+      "duration": 2.97,
+      "text": "once in a hundred thousand drops of a domino?",
+      "en": "once in a hundred thousand drops of a domino?",
+      "zh": ""
+    },
+    {
+      "start": 88.8,
+      "duration": 3.63,
+      "text": "A system to reliably tackle issues at scales like this",
+      "en": "A system to reliably tackle issues at scales like this",
+      "zh": ""
+    },
+    {
+      "start": 92.43,
+      "duration": 2.34,
+      "text": "is just going to be inherently super complex.",
+      "en": "is just going to be inherently super complex.",
+      "zh": ""
+    },
+    {
+      "start": 94.77,
+      "duration": 1.86,
+      "text": "Like 10 times more complex",
+      "en": "Like 10 times more complex",
+      "zh": ""
+    },
+    {
+      "start": 96.63,
+      "duration": 1.8,
+      "text": "than my automatic bullseye dart board,",
+      "en": "than my automatic bullseye dart board,",
+      "zh": ""
+    },
+    {
+      "start": 98.43,
+      "duration": 2.64,
+      "text": "which to this point was probably the most complicated build",
+      "en": "which to this point was probably the most complicated build",
+      "zh": ""
+    },
+    {
+      "start": 101.07,
+      "duration": 0.83,
+      "text": "on my channel.",
+      "en": "on my channel.",
+      "zh": ""
+    },
+    {
+      "start": 101.9,
+      "duration": 2.35,
+      "text": "So after failing off and on for three years,",
+      "en": "So after failing off and on for three years,",
+      "zh": ""
+    },
+    {
+      "start": 104.25,
+      "duration": 1.68,
+      "text": "I was doing a Q and A at Maker Faire,",
+      "en": "I was doing a Q and A at Maker Faire,",
+      "zh": ""
+    },
+    {
+      "start": 105.93,
+      "duration": 2.1,
+      "text": "and I told the crowd if anyone wanted to help me",
+      "en": "and I told the crowd if anyone wanted to help me",
+      "zh": ""
+    },
+    {
+      "start": 108.03,
+      "duration": 2.52,
+      "text": "with the brutal challenge to hit me up afterwards.",
+      "en": "with the brutal challenge to hit me up afterwards.",
+      "zh": ""
+    },
+    {
+      "start": 110.55,
+      "duration": 3.0,
+      "text": "And to my absolute delight, two freshmen from Stanford",
+      "en": "And to my absolute delight, two freshmen from Stanford",
+      "zh": ""
+    },
+    {
+      "start": 113.55,
+      "duration": 1.95,
+      "text": "and a software engineer from the Bay Area",
+      "en": "and a software engineer from the Bay Area",
+      "zh": ""
+    },
+    {
+      "start": 115.5,
+      "duration": 1.41,
+      "text": "all took me up on the challenge.",
+      "en": "all took me up on the challenge.",
+      "zh": ""
+    },
+    {
+      "start": 116.91,
+      "duration": 3.06,
+      "text": "So I hired them and two years later, here we were.",
+      "en": "So I hired them and two years later, here we were.",
+      "zh": ""
+    },
+    {
+      "start": 119.97,
+      "duration": 1.59,
+      "text": "Now, before I show you how it all works,",
+      "en": "Now, before I show you how it all works,",
+      "zh": ""
+    },
+    {
+      "start": 121.56,
+      "duration": 2.46,
+      "text": "I first wanted to put him in a head-to-head competition",
+      "en": "I first wanted to put him in a head-to-head competition",
+      "zh": ""
+    },
+    {
+      "start": 124.02,
+      "duration": 1.62,
+      "text": "to see how good he really was.",
+      "en": "to see how good he really was.",
+      "zh": ""
+    },
+    {
+      "start": 125.64,
+      "duration": 2.88,
+      "text": "And for that, we need the undisputed heavyweight champion",
+      "en": "And for that, we need the undisputed heavyweight champion",
+      "zh": ""
+    },
+    {
+      "start": 128.52,
+      "duration": 3.54,
+      "text": "on YouTube for all things dominoes, Lily Hevesh.",
+      "en": "on YouTube for all things dominoes, Lily Hevesh.",
+      "zh": ""
+    },
+    {
+      "start": 132.06,
+      "duration": 2.43,
+      "text": "Lily, you are known on YouTube",
+      "en": "Lily, you are known on YouTube",
+      "zh": ""
+    },
+    {
+      "start": 134.49,
+      "duration": 1.86,
+      "text": "as the Queen of Dominoes, right?",
+      "en": "as the Queen of Dominoes, right?",
+      "zh": ""
+    },
+    {
+      "start": 136.35,
+      "duration": 1.77,
+      "text": "- People do call me the Domino Queen.",
+      "en": "- People do call me the Domino Queen.",
+      "zh": ""
+    },
+    {
+      "start": 138.12,
+      "duration": 3.15,
+      "text": "- And for very good reason, with over 1.2 billion views",
+      "en": "- And for very good reason, with over 1.2 billion views",
+      "zh": ""
+    },
+    {
+      "start": 141.27,
+      "duration": 2.22,
+      "text": "on her channel, you've almost certainly seen one",
+      "en": "on her channel, you've almost certainly seen one",
+      "zh": ""
+    },
+    {
+      "start": 143.49,
+      "duration": 2.37,
+      "text": "of her incredible creations over her 12 years",
+      "en": "of her incredible creations over her 12 years",
+      "zh": ""
+    },
+    {
+      "start": 145.86,
+      "duration": 0.84,
+      "text": "on the platform.",
+      "en": "on the platform.",
+      "zh": ""
+    },
+    {
+      "start": 146.7,
+      "duration": 2.37,
+      "text": "She's so good she's even got her own line",
+      "en": "She's so good she's even got her own line",
+      "zh": ""
+    },
+    {
+      "start": 149.07,
+      "duration": 2.01,
+      "text": "of dominoes you can buy in stores.",
+      "en": "of dominoes you can buy in stores.",
+      "zh": ""
+    },
+    {
+      "start": 151.08,
+      "duration": 1.56,
+      "text": "Okay, so here's the challenge, Lily,",
+      "en": "Okay, so here's the challenge, Lily,",
+      "zh": ""
+    },
+    {
+      "start": 152.64,
+      "duration": 2.7,
+      "text": "I want you to set up like 300 dominoes right now",
+      "en": "I want you to set up like 300 dominoes right now",
+      "zh": ""
+    },
+    {
+      "start": 155.34,
+      "duration": 2.35,
+      "text": "and let's see how long it takes a human to do that.",
+      "en": "and let's see how long it takes a human to do that.",
+      "zh": ""
+    },
+    {
+      "start": 157.69,
+      "duration": 1.28,
+      "text": "- Okay. - Okay?",
+      "en": "- Okay. - Okay?",
+      "zh": ""
+    },
+    {
+      "start": 158.97,
+      "duration": 3.12,
+      "text": "Clock starts now.",
+      "en": "Clock starts now.",
+      "zh": ""
+    },
+    {
+      "start": 164.16,
+      "duration": 2.07,
+      "text": "- I gotta do two hands.",
+      "en": "- I gotta do two hands.",
+      "zh": ""
+    },
+    {
+      "start": 166.23,
+      "duration": 2.01,
+      "text": "- If you need me, Lily,",
+      "en": "- If you need me, Lily,",
+      "zh": ""
+    },
+    {
+      "start": 168.24,
+      "duration": 2.58,
+      "text": "I'm just sitting here reading my newspaper.",
+      "en": "I'm just sitting here reading my newspaper.",
+      "zh": ""
+    },
+    {
+      "start": 170.82,
+      "duration": 0.87,
+      "text": "For you kids at home,",
+      "en": "For you kids at home,",
+      "zh": ""
+    },
+    {
+      "start": 171.69,
+      "duration": 3.42,
+      "text": "a newspaper is like a boring iPad made from trees.",
+      "en": "a newspaper is like a boring iPad made from trees.",
+      "zh": ""
+    },
+    {
+      "start": 176.09,
+      "duration": 1.83,
+      "text": "(upbeat music)",
+      "en": "(upbeat music)",
+      "zh": ""
+    },
+    {
+      "start": 177.92,
+      "duration": 1.65,
+      "text": "(laughing) That's actually pretty fast.",
+      "en": "(laughing) That's actually pretty fast.",
+      "zh": ""
+    },
+    {
+      "start": 181.57,
+      "duration": 0.83,
+      "text": "- Oh no!",
+      "en": "- Oh no!",
+      "zh": ""
+    },
+    {
+      "start": 182.4,
+      "duration": 2.79,
+      "text": "- Oh a disaster!",
+      "en": "- Oh a disaster!",
+      "zh": ""
+    },
+    {
+      "start": 185.19,
+      "duration": 2.43,
+      "text": "The foibles of being a human!",
+      "en": "The foibles of being a human!",
+      "zh": ""
+    },
+    {
+      "start": 187.62,
+      "duration": 2.19,
+      "text": "Okay, Lily, are you ready for this?",
+      "en": "Okay, Lily, are you ready for this?",
+      "zh": ""
+    },
+    {
+      "start": 189.81,
+      "duration": 1.9,
+      "text": "- No! - I've seen enough.",
+      "en": "- No! - I've seen enough.",
+      "zh": ""
+    },
+    {
+      "start": 191.71,
+      "duration": 1.16,
+      "text": "(blowing air through fingers)",
+      "en": "(blowing air through fingers)",
+      "zh": ""
+    },
+    {
+      "start": 192.87,
+      "duration": 2.16,
+      "text": "I actually dunno how to whistle.",
+      "en": "I actually dunno how to whistle.",
+      "zh": ""
+    },
+    {
+      "start": 195.03,
+      "duration": 3.68,
+      "text": "This is The Dominator!",
+      "en": "This is The Dominator!",
+      "zh": ""
+    },
+    {
+      "start": 198.71,
+      "duration": 2.53,
+      "text": "- Oh my God, wow!",
+      "en": "- Oh my God, wow!",
+      "zh": ""
+    },
+    {
+      "start": 202.74,
+      "duration": 1.53,
+      "text": "I love the eyes.",
+      "en": "I love the eyes.",
+      "zh": ""
+    },
+    {
+      "start": 204.27,
+      "duration": 2.91,
+      "text": "- A good set of googly eyes will go a long ways.",
+      "en": "- A good set of googly eyes will go a long ways.",
+      "zh": ""
+    },
+    {
+      "start": 207.18,
+      "duration": 2.79,
+      "text": "Okay, boy, let them down.",
+      "en": "Okay, boy, let them down.",
+      "zh": ""
+    },
+    {
+      "start": 210.87,
+      "duration": 2.94,
+      "text": "I suck at dominoes Lily, but I'm good at engineering.",
+      "en": "I suck at dominoes Lily, but I'm good at engineering.",
+      "zh": ""
+    },
+    {
+      "start": 213.81,
+      "duration": 4.38,
+      "text": "Which means I'm actually really good at dominoes.",
+      "en": "Which means I'm actually really good at dominoes.",
+      "zh": ""
+    },
+    {
+      "start": 219.72,
+      "duration": 1.35,
+      "text": "We even showed off!",
+      "en": "We even showed off!",
+      "zh": ""
+    },
+    {
+      "start": 221.07,
+      "duration": 2.73,
+      "text": "The Dominator double stacked the middle row for you.",
+      "en": "The Dominator double stacked the middle row for you.",
+      "zh": ""
+    },
+    {
+      "start": 223.8,
+      "duration": 1.5,
+      "text": "- That is impressive!",
+      "en": "- That is impressive!",
+      "zh": ""
+    },
+    {
+      "start": 225.3,
+      "duration": 2.13,
+      "text": "That is seriously impressive.",
+      "en": "That is seriously impressive.",
+      "zh": ""
+    },
+    {
+      "start": 227.43,
+      "duration": 2.49,
+      "text": "- This technique of laying down a tile of 300 dominoes",
+      "en": "- This technique of laying down a tile of 300 dominoes",
+      "zh": ""
+    },
+    {
+      "start": 229.92,
+      "duration": 2.61,
+      "text": "at once was really the key that helped us crack the scale",
+      "en": "at once was really the key that helped us crack the scale",
+      "zh": ""
+    },
+    {
+      "start": 232.53,
+      "duration": 1.29,
+      "text": "and reliability issues.",
+      "en": "and reliability issues.",
+      "zh": ""
+    },
+    {
+      "start": 233.82,
+      "duration": 2.55,
+      "text": "And it's probably my favorite part about The Dominator",
+      "en": "And it's probably my favorite part about The Dominator",
+      "zh": ""
+    },
+    {
+      "start": 236.37,
+      "duration": 1.92,
+      "text": "besides his wiggly tail, of course.",
+      "en": "besides his wiggly tail, of course.",
+      "zh": ""
+    },
+    {
+      "start": 238.29,
+      "duration": 1.74,
+      "text": "Here's Josh to explain more.",
+      "en": "Here's Josh to explain more.",
+      "zh": ""
+    },
+    {
+      "start": 240.03,
+      "duration": 1.41,
+      "text": "- So we have these 3D printed funnels here",
+      "en": "- So we have these 3D printed funnels here",
+      "zh": ""
+    },
+    {
+      "start": 241.44,
+      "duration": 2.58,
+      "text": "which allow us to drop all 300 dominoes all at once.",
+      "en": "which allow us to drop all 300 dominoes all at once.",
+      "zh": ""
+    },
+    {
+      "start": 244.02,
+      "duration": 2.55,
+      "text": "- And the mechanism that drops those into the top",
+      "en": "- And the mechanism that drops those into the top",
+      "zh": ""
+    },
+    {
+      "start": 246.57,
+      "duration": 2.01,
+      "text": "of this tray, we'll show that in just a second.",
+      "en": "of this tray, we'll show that in just a second.",
+      "zh": ""
+    },
+    {
+      "start": 248.58,
+      "duration": 1.92,
+      "text": "- And if we remove these funnels here,",
+      "en": "- And if we remove these funnels here,",
+      "zh": ""
+    },
+    {
+      "start": 250.5,
+      "duration": 2.43,
+      "text": "we can see that the dominoes are precisely placed",
+      "en": "we can see that the dominoes are precisely placed",
+      "zh": ""
+    },
+    {
+      "start": 252.93,
+      "duration": 0.83,
+      "text": "in their locations.",
+      "en": "in their locations.",
+      "zh": ""
+    },
+    {
+      "start": 253.76,
+      "duration": 2.29,
+      "text": "This allows us to place 300 dominoes exactly",
+      "en": "This allows us to place 300 dominoes exactly",
+      "zh": ""
+    },
+    {
+      "start": 256.05,
+      "duration": 1.26,
+      "text": "where we want them all at once.",
+      "en": "where we want them all at once.",
+      "zh": ""
+    },
+    {
+      "start": 257.31,
+      "duration": 1.65,
+      "text": "- And they don't fall out because of what we call",
+      "en": "- And they don't fall out because of what we call",
+      "zh": ""
+    },
+    {
+      "start": 258.96,
+      "duration": 2.01,
+      "text": "the Connect Four mechanism under here.",
+      "en": "the Connect Four mechanism under here.",
+      "zh": ""
+    },
+    {
+      "start": 260.97,
+      "duration": 1.65,
+      "text": "But if we trigger the servo,",
+      "en": "But if we trigger the servo,",
+      "zh": ""
+    },
+    {
+      "start": 262.62,
+      "duration": 2.7,
+      "text": "then it slides that Connect Four tray over",
+      "en": "then it slides that Connect Four tray over",
+      "zh": ""
+    },
+    {
+      "start": 265.32,
+      "duration": 1.71,
+      "text": "and drops them all at once,",
+      "en": "and drops them all at once,",
+      "zh": ""
+    },
+    {
+      "start": 267.03,
+      "duration": 4.1,
+      "text": "making for some gratuitous, beautiful slow-mo shots.",
+      "en": "making for some gratuitous, beautiful slow-mo shots.",
+      "zh": ""
+    },
+    {
+      "start": 271.13,
+      "duration": 2.67,
+      "text": "(upbeat music)",
+      "en": "(upbeat music)",
+      "zh": ""
+    },
+    {
+      "start": 282.93,
+      "duration": 1.29,
+      "text": "And so while this looks really cool,",
+      "en": "And so while this looks really cool,",
+      "zh": ""
+    },
+    {
+      "start": 284.22,
+      "duration": 2.64,
+      "text": "obviously dropping from that height wouldn't be effective.",
+      "en": "obviously dropping from that height wouldn't be effective.",
+      "zh": ""
+    },
+    {
+      "start": 286.86,
+      "duration": 2.91,
+      "text": "So we lower the whole platform down on this ball screw",
+      "en": "So we lower the whole platform down on this ball screw",
+      "zh": ""
+    },
+    {
+      "start": 289.77,
+      "duration": 1.56,
+      "text": "then set them right on the floor,",
+      "en": "then set them right on the floor,",
+      "zh": ""
+    },
+    {
+      "start": 291.33,
+      "duration": 2.64,
+      "text": "which turned out to be incredibly reliable.",
+      "en": "which turned out to be incredibly reliable.",
+      "zh": ""
+    },
+    {
+      "start": 293.97,
+      "duration": 2.16,
+      "text": "So Dom took the W in round one,",
+      "en": "So Dom took the W in round one,",
+      "zh": ""
+    },
+    {
+      "start": 296.13,
+      "duration": 1.98,
+      "text": "but now it's time for the endurance round.",
+      "en": "but now it's time for the endurance round.",
+      "zh": ""
+    },
+    {
+      "start": 298.11,
+      "duration": 3.69,
+      "text": "Okay, first one to 10,000, dominoes wins.",
+      "en": "Okay, first one to 10,000, dominoes wins.",
+      "zh": ""
+    },
+    {
+      "start": 301.8,
+      "duration": 2.07,
+      "text": "Lily, you ready? - I'm ready.",
+      "en": "Lily, you ready? - I'm ready.",
+      "zh": ""
+    },
+    {
+      "start": 303.87,
+      "duration": 1.56,
+      "text": "- Dominator, you ready?",
+      "en": "- Dominator, you ready?",
+      "zh": ""
+    },
+    {
+      "start": 307.32,
+      "duration": 2.8,
+      "text": "Start! (upbeat music)",
+      "en": "Start! (upbeat music)",
+      "zh": ""
+    },
+    {
+      "start": 312.72,
+      "duration": 0.99,
+      "text": "- Oh my God.",
+      "en": "- Oh my God.",
+      "zh": ""
+    },
+    {
+      "start": 313.71,
+      "duration": 2.46,
+      "text": "Wow, I already failed.",
+      "en": "Wow, I already failed.",
+      "zh": ""
+    },
+    {
+      "start": 316.17,
+      "duration": 2.95,
+      "text": "- That's great. (upbeat music)",
+      "en": "- That's great. (upbeat music)",
+      "zh": ""
+    },
+    {
+      "start": 323.46,
+      "duration": 3.3,
+      "text": "And to Lily's credit, she was actually insanely fast.",
+      "en": "And to Lily's credit, she was actually insanely fast.",
+      "zh": ""
+    },
+    {
+      "start": 326.76,
+      "duration": 4.17,
+      "text": "Just not, you know, robot fast.",
+      "en": "Just not, you know, robot fast.",
+      "zh": ""
+    },
+    {
+      "start": 330.93,
+      "duration": 1.59,
+      "text": "- So unfair.",
+      "en": "- So unfair.",
+      "zh": ""
+    },
+    {
+      "start": 332.52,
+      "duration": 0.93,
+      "text": "So unfair!",
+      "en": "So unfair!",
+      "zh": ""
+    },
+    {
+      "start": 333.45,
+      "duration": 2.91,
+      "text": "- On top of that, she had to handle a very large distraction",
+      "en": "- On top of that, she had to handle a very large distraction",
+      "zh": ""
+    },
+    {
+      "start": 336.36,
+      "duration": 2.67,
+      "text": "with the emotional maturity of a nine-year-old.",
+      "en": "with the emotional maturity of a nine-year-old.",
+      "zh": ""
+    },
+    {
+      "start": 340.14,
+      "duration": 2.63,
+      "text": "Yep, I think I'm doing pretty good.",
+      "en": "Yep, I think I'm doing pretty good.",
+      "zh": ""
+    },
+    {
+      "start": 342.77,
+      "duration": 2.67,
+      "text": "(upbeat music)",
+      "en": "(upbeat music)",
+      "zh": ""
+    },
+    {
+      "start": 346.74,
+      "duration": 2.67,
+      "text": "You're doing very good for human, I'll give you that.",
+      "en": "You're doing very good for human, I'll give you that.",
+      "zh": ""
+    },
+    {
+      "start": 350.67,
+      "duration": 1.11,
+      "text": "Oh, no!",
+      "en": "Oh, no!",
+      "zh": ""
+    },
+    {
+      "start": 351.78,
+      "duration": 1.99,
+      "text": "(laughing)",
+      "en": "(laughing)",
+      "zh": ""
+    },
+    {
+      "start": 353.77,
+      "duration": 2.67,
+      "text": "(upbeat music)",
+      "en": "(upbeat music)",
+      "zh": ""
+    },
+    {
+      "start": 357.71,
+      "duration": 0.83,
+      "text": "No what?",
+      "en": "No what?",
+      "zh": ""
+    },
+    {
+      "start": 358.54,
+      "duration": 1.32,
+      "text": "No what, Lily? - Get out of here.",
+      "en": "No what, Lily? - Get out of here.",
+      "zh": ""
+    },
+    {
+      "start": 359.86,
+      "duration": 1.85,
+      "text": "Nope, get out, get out!",
+      "en": "Nope, get out, get out!",
+      "zh": ""
+    },
+    {
+      "start": 361.71,
+      "duration": 2.97,
+      "text": "(Mark yelling)",
+      "en": "(Mark yelling)",
+      "zh": ""
+    },
+    {
+      "start": 364.68,
+      "duration": 2.85,
+      "text": "- That feels so much faster than it probably looks.",
+      "en": "- That feels so much faster than it probably looks.",
+      "zh": ""
+    },
+    {
+      "start": 367.53,
+      "duration": 1.14,
+      "text": "How's Lily doing?",
+      "en": "How's Lily doing?",
+      "zh": ""
+    },
+    {
+      "start": 368.67,
+      "duration": 0.99,
+      "text": "- Tired!",
+      "en": "- Tired!",
+      "zh": ""
+    },
+    {
+      "start": 369.66,
+      "duration": 1.35,
+      "text": "- [Mark] And so while Lily's output",
+      "en": "- [Mark] And so while Lily's output",
+      "zh": ""
+    },
+    {
+      "start": 371.01,
+      "duration": 2.79,
+      "text": "slowed down considerably, Dom's did not.",
+      "en": "slowed down considerably, Dom's did not.",
+      "zh": ""
+    },
+    {
+      "start": 373.8,
+      "duration": 1.74,
+      "text": "And I should mention we sometimes call him Dom,",
+      "en": "And I should mention we sometimes call him Dom,",
+      "zh": ""
+    },
+    {
+      "start": 375.54,
+      "duration": 2.04,
+      "text": "but that's just short for his legal birth name,",
+      "en": "but that's just short for his legal birth name,",
+      "zh": ""
+    },
+    {
+      "start": 377.58,
+      "duration": 2.76,
+      "text": "which as noted before is Dominator.",
+      "en": "which as noted before is Dominator.",
+      "zh": ""
+    },
+    {
+      "start": 380.34,
+      "duration": 3.39,
+      "text": "'Cause you know, like domino, dominator.",
+      "en": "'Cause you know, like domino, dominator.",
+      "zh": ""
+    },
+    {
+      "start": 383.73,
+      "duration": 1.62,
+      "text": "Whatever, it all works.",
+      "en": "Whatever, it all works.",
+      "zh": ""
+    },
+    {
+      "start": 385.35,
+      "duration": 1.89,
+      "text": "- I'm gonna head to the bathroom.",
+      "en": "- I'm gonna head to the bathroom.",
+      "zh": ""
+    },
+    {
+      "start": 387.24,
+      "duration": 3.09,
+      "text": "- Oh, Lily has to go to the bathroom.",
+      "en": "- Oh, Lily has to go to the bathroom.",
+      "zh": ""
+    },
+    {
+      "start": 390.33,
+      "duration": 1.59,
+      "text": "- I'm human, right?",
+      "en": "- I'm human, right?",
+      "zh": ""
+    },
+    {
+      "start": 391.92,
+      "duration": 3.0,
+      "text": "Dominator, do you have to go to the bathroom?",
+      "en": "Dominator, do you have to go to the bathroom?",
+      "zh": ""
+    },
+    {
+      "start": 394.92,
+      "duration": 0.83,
+      "text": "Didn't think so.",
+      "en": "Didn't think so.",
+      "zh": ""
+    },
+    {
+      "start": 399.49,
+      "duration": 2.5,
+      "text": "9,000 perfectly laid dominoes",
+      "en": "9,000 perfectly laid dominoes",
+      "zh": ""
+    },
+    {
+      "start": 401.99,
+      "duration": 3.94,
+      "text": "in a little over two hours, actually, 9,001.",
+      "en": "in a little over two hours, actually, 9,001.",
+      "zh": ""
+    },
+    {
+      "start": 405.93,
+      "duration": 3.42,
+      "text": "We got a bonus domino out there in the middle of this field.",
+      "en": "We got a bonus domino out there in the middle of this field.",
+      "zh": ""
+    },
+    {
+      "start": 409.35,
+      "duration": 1.65,
+      "text": "May or may not have been on purpose",
+      "en": "May or may not have been on purpose",
+      "zh": ""
+    },
+    {
+      "start": 411.0,
+      "duration": 2.46,
+      "text": "but now we can say it's actually over 9,000.",
+      "en": "but now we can say it's actually over 9,000.",
+      "zh": ""
+    },
+    {
+      "start": 413.46,
+      "duration": 1.2,
+      "text": "It was a pretty clear result.",
+      "en": "It was a pretty clear result.",
+      "zh": ""
+    },
+    {
+      "start": 414.66,
+      "duration": 2.58,
+      "text": "And Lilly, of course, was gracious in her defeat",
+      "en": "And Lilly, of course, was gracious in her defeat",
+      "zh": ""
+    },
+    {
+      "start": 417.24,
+      "duration": 1.32,
+      "text": "to the machine overlords.",
+      "en": "to the machine overlords.",
+      "zh": ""
+    },
+    {
+      "start": 418.56,
+      "duration": 2.73,
+      "text": "So all that was left to do now was to knock them down.",
+      "en": "So all that was left to do now was to knock them down.",
+      "zh": ""
+    },
+    {
+      "start": 423.15,
+      "duration": 2.89,
+      "text": "(dominoes clinking)",
+      "en": "(dominoes clinking)",
+      "zh": ""
+    },
+    {
+      "start": 426.04,
+      "duration": 2.54,
+      "text": "Yes, that was satisfying!",
+      "en": "Yes, that was satisfying!",
+      "zh": ""
+    },
+    {
+      "start": 428.58,
+      "duration": 1.08,
+      "text": "So we went head to head",
+      "en": "So we went head to head",
+      "zh": ""
+    },
+    {
+      "start": 429.66,
+      "duration": 3.09,
+      "text": "with the world's foremost domino expert and came out on top.",
+      "en": "with the world's foremost domino expert and came out on top.",
+      "zh": ""
+    },
+    {
+      "start": 432.75,
+      "duration": 1.71,
+      "text": "And now it's time for the real challenge",
+      "en": "And now it's time for the real challenge",
+      "zh": ""
+    },
+    {
+      "start": 434.46,
+      "duration": 1.89,
+      "text": "to attempt a Guinness World Record",
+      "en": "to attempt a Guinness World Record",
+      "zh": ""
+    },
+    {
+      "start": 436.35,
+      "duration": 3.09,
+      "text": "and see how quickly we could fill this entire room",
+      "en": "and see how quickly we could fill this entire room",
+      "zh": ""
+    },
+    {
+      "start": 439.44,
+      "duration": 2.82,
+      "text": "with a mural of over a 100,000 dominoes.",
+      "en": "with a mural of over a 100,000 dominoes.",
+      "zh": ""
+    },
+    {
+      "start": 442.26,
+      "duration": 2.07,
+      "text": "All right, buddy, you got the game plan",
+      "en": "All right, buddy, you got the game plan",
+      "zh": ""
+    },
+    {
+      "start": 444.33,
+      "duration": 2.25,
+      "text": "now you just gotta get out there and execute.",
+      "en": "now you just gotta get out there and execute.",
+      "zh": ""
+    },
+    {
+      "start": 447.9,
+      "duration": 2.97,
+      "text": "Godspeed, little fella, godspeed.",
+      "en": "Godspeed, little fella, godspeed.",
+      "zh": ""
+    },
+    {
+      "start": 450.87,
+      "duration": 2.83,
+      "text": "(whimsical music)",
+      "en": "(whimsical music)",
+      "zh": ""
+    },
+    {
+      "start": 456.6,
+      "duration": 4.96,
+      "text": "300 dominoes down a hundred, 102,000 left to go.",
+      "en": "300 dominoes down a hundred, 102,000 left to go.",
+      "zh": ""
+    },
+    {
+      "start": 461.56,
+      "duration": 5.0,
+      "text": "♪ Enchante ♪ (upbeat music)",
+      "en": "♪ Enchante ♪ (upbeat music)",
+      "zh": ""
+    },
+    {
+      "start": 484.74,
+      "duration": 3.54,
+      "text": "- So we're about six hours in, but more importantly,",
+      "en": "- So we're about six hours in, but more importantly,",
+      "zh": ""
+    },
+    {
+      "start": 488.28,
+      "duration": 1.77,
+      "text": "we just got our first Goomba.",
+      "en": "we just got our first Goomba.",
+      "zh": ""
+    },
+    {
+      "start": 490.05,
+      "duration": 2.07,
+      "text": "This is beautiful!",
+      "en": "This is beautiful!",
+      "zh": ""
+    },
+    {
+      "start": 492.12,
+      "duration": 1.12,
+      "text": "Back to work Dom.",
+      "en": "Back to work Dom.",
+      "zh": ""
+    },
+    {
+      "start": 495.15,
+      "duration": 2.73,
+      "text": "And the best part about working really hard for a few years",
+      "en": "And the best part about working really hard for a few years",
+      "zh": ""
+    },
+    {
+      "start": 497.88,
+      "duration": 3.67,
+      "text": "is that the last 24 hours are super relaxing.",
+      "en": "is that the last 24 hours are super relaxing.",
+      "zh": ""
+    },
+    {
+      "start": 501.55,
+      "duration": 2.33,
+      "text": "(upbeat music)",
+      "en": "(upbeat music)",
+      "zh": ""
+    },
+    {
+      "start": 503.88,
+      "duration": 4.5,
+      "text": "And with that tile placed we are officially halfway done",
+      "en": "And with that tile placed we are officially halfway done",
+      "zh": ""
+    },
+    {
+      "start": 508.38,
+      "duration": 2.85,
+      "text": "with over 50,000 dominoes put down",
+      "en": "with over 50,000 dominoes put down",
+      "zh": ""
+    },
+    {
+      "start": 511.23,
+      "duration": 2.19,
+      "text": "in just a little bit over 12 hours.",
+      "en": "in just a little bit over 12 hours.",
+      "zh": ""
+    },
+    {
+      "start": 513.42,
+      "duration": 2.79,
+      "text": "And Dom, whoa, easy boy,",
+      "en": "And Dom, whoa, easy boy,",
+      "zh": ""
+    },
+    {
+      "start": 516.21,
+      "duration": 2.82,
+      "text": "just showing no signs of slowing down.",
+      "en": "just showing no signs of slowing down.",
+      "zh": ""
+    },
+    {
+      "start": 519.03,
+      "duration": 1.65,
+      "text": "So this is a good point to explain the rest",
+      "en": "So this is a good point to explain the rest",
+      "zh": ""
+    },
+    {
+      "start": 520.68,
+      "duration": 0.99,
+      "text": "of the robotic system.",
+      "en": "of the robotic system.",
+      "zh": ""
+    },
+    {
+      "start": 521.67,
+      "duration": 2.46,
+      "text": "It all starts over here with the loading station",
+      "en": "It all starts over here with the loading station",
+      "zh": ""
+    },
+    {
+      "start": 524.13,
+      "duration": 2.55,
+      "text": "that Josh and John-Luke spend a lot of time optimizing.",
+      "en": "that Josh and John-Luke spend a lot of time optimizing.",
+      "zh": ""
+    },
+    {
+      "start": 526.68,
+      "duration": 2.52,
+      "text": "The dominoes are loaded by color on these conveyor belts",
+      "en": "The dominoes are loaded by color on these conveyor belts",
+      "zh": ""
+    },
+    {
+      "start": 529.2,
+      "duration": 1.86,
+      "text": "and then a KUKA robot arm grabs them",
+      "en": "and then a KUKA robot arm grabs them",
+      "zh": ""
+    },
+    {
+      "start": 531.06,
+      "duration": 2.82,
+      "text": "and places them in one of 300 loading shoots made",
+      "en": "and places them in one of 300 loading shoots made",
+      "zh": ""
+    },
+    {
+      "start": 533.88,
+      "duration": 3.12,
+      "text": "from 2.7 miles worth of hot wheel tracks.",
+      "en": "from 2.7 miles worth of hot wheel tracks.",
+      "zh": ""
+    },
+    {
+      "start": 537.0,
+      "duration": 2.22,
+      "text": "And you could load Dom directly with the robot arm",
+      "en": "And you could load Dom directly with the robot arm",
+      "zh": ""
+    },
+    {
+      "start": 539.22,
+      "duration": 2.22,
+      "text": "but this is much faster because he doesn't have to wait.",
+      "en": "but this is much faster because he doesn't have to wait.",
+      "zh": ""
+    },
+    {
+      "start": 541.44,
+      "duration": 1.86,
+      "text": "He just comes in here to the docking station",
+      "en": "He just comes in here to the docking station",
+      "zh": ""
+    },
+    {
+      "start": 543.3,
+      "duration": 2.94,
+      "text": "and the lower platform slides over so the bottom layer",
+      "en": "and the lower platform slides over so the bottom layer",
+      "zh": ""
+    },
+    {
+      "start": 546.24,
+      "duration": 2.49,
+      "text": "of 300 dominoes gets loaded up all at once.",
+      "en": "of 300 dominoes gets loaded up all at once.",
+      "zh": ""
+    },
+    {
+      "start": 548.73,
+      "duration": 2.58,
+      "text": "And we also had a backup loading system using a tray just",
+      "en": "And we also had a backup loading system using a tray just",
+      "zh": ""
+    },
+    {
+      "start": 551.31,
+      "duration": 2.16,
+      "text": "in case at any point the robot arm wasn't working.",
+      "en": "in case at any point the robot arm wasn't working.",
+      "zh": ""
+    },
+    {
+      "start": 553.47,
+      "duration": 1.26,
+      "text": "Besides the Hot Wheels tracks,",
+      "en": "Besides the Hot Wheels tracks,",
+      "zh": ""
+    },
+    {
+      "start": 554.73,
+      "duration": 2.76,
+      "text": "there's a ton of 3D printed parts throughout the build",
+      "en": "there's a ton of 3D printed parts throughout the build",
+      "zh": ""
+    },
+    {
+      "start": 557.49,
+      "duration": 2.88,
+      "text": "that we either printed ourselves or if we were in a pinch,",
+      "en": "that we either printed ourselves or if we were in a pinch,",
+      "zh": ""
+    },
+    {
+      "start": 560.37,
+      "duration": 1.86,
+      "text": "my friends at MatterHackers helped us out.",
+      "en": "my friends at MatterHackers helped us out.",
+      "zh": ""
+    },
+    {
+      "start": 562.23,
+      "duration": 1.17,
+      "text": "So that's the loader.",
+      "en": "So that's the loader.",
+      "zh": ""
+    },
+    {
+      "start": 563.4,
+      "duration": 2.19,
+      "text": "Now how about The Dominator himself?",
+      "en": "Now how about The Dominator himself?",
+      "zh": ""
+    },
+    {
+      "start": 565.59,
+      "duration": 2.28,
+      "text": "How does Dom know exactly where to go",
+      "en": "How does Dom know exactly where to go",
+      "zh": ""
+    },
+    {
+      "start": 567.87,
+      "duration": 1.47,
+      "text": "in the room to drop a domino?",
+      "en": "in the room to drop a domino?",
+      "zh": ""
+    },
+    {
+      "start": 569.34,
+      "duration": 3.21,
+      "text": "- So we've pre-programmed the route for all 102,000 dominoes",
+      "en": "- So we've pre-programmed the route for all 102,000 dominoes",
+      "zh": ""
+    },
+    {
+      "start": 572.55,
+      "duration": 2.79,
+      "text": "so the robot knows exactly where to go right from the start.",
+      "en": "so the robot knows exactly where to go right from the start.",
+      "zh": ""
+    },
+    {
+      "start": 575.34,
+      "duration": 1.47,
+      "text": "Then as we're driving around,",
+      "en": "Then as we're driving around,",
+      "zh": ""
+    },
+    {
+      "start": 576.81,
+      "duration": 2.85,
+      "text": "we use these indoor GPS sensors to track the position",
+      "en": "we use these indoor GPS sensors to track the position",
+      "zh": ""
+    },
+    {
+      "start": 579.66,
+      "duration": 1.68,
+      "text": "of the robot so it knows roughly where it is.",
+      "en": "of the robot so it knows roughly where it is.",
+      "zh": ""
+    },
+    {
+      "start": 581.34,
+      "duration": 1.62,
+      "text": "And then as we get closer to the place",
+      "en": "And then as we get closer to the place",
+      "zh": ""
+    },
+    {
+      "start": 582.96,
+      "duration": 1.08,
+      "text": "the dominoes need to drop,",
+      "en": "the dominoes need to drop,",
+      "zh": ""
+    },
+    {
+      "start": 584.04,
+      "duration": 2.01,
+      "text": "we use these IR cameras that are tracking markers",
+      "en": "we use these IR cameras that are tracking markers",
+      "zh": ""
+    },
+    {
+      "start": 586.05,
+      "duration": 1.62,
+      "text": "on the ground to make sure the robot lines",
+      "en": "on the ground to make sure the robot lines",
+      "zh": ""
+    },
+    {
+      "start": 587.67,
+      "duration": 1.32,
+      "text": "up perfectly every single time.",
+      "en": "up perfectly every single time.",
+      "zh": ""
+    },
+    {
+      "start": 588.99,
+      "duration": 1.2,
+      "text": "- So the vision from the beginning is",
+      "en": "- So the vision from the beginning is",
+      "zh": ""
+    },
+    {
+      "start": 590.19,
+      "duration": 2.25,
+      "text": "that we could set Dom up, we could turn off the lights",
+      "en": "that we could set Dom up, we could turn off the lights",
+      "zh": ""
+    },
+    {
+      "start": 592.44,
+      "duration": 1.95,
+      "text": "and leave and come back the next morning,",
+      "en": "and leave and come back the next morning,",
+      "zh": ""
+    },
+    {
+      "start": 594.39,
+      "duration": 2.22,
+      "text": "and you've got like a full field of dominoes set up.",
+      "en": "and you've got like a full field of dominoes set up.",
+      "zh": ""
+    },
+    {
+      "start": 596.61,
+      "duration": 1.44,
+      "text": "- He could work all night in the dark, just fine.",
+      "en": "- He could work all night in the dark, just fine.",
+      "zh": ""
+    },
+    {
+      "start": 598.05,
+      "duration": 2.31,
+      "text": "- All right, now how about these super cool wheels?",
+      "en": "- All right, now how about these super cool wheels?",
+      "zh": ""
+    },
+    {
+      "start": 600.36,
+      "duration": 1.98,
+      "text": "- So these are called omni wheels and they're awesome",
+      "en": "- So these are called omni wheels and they're awesome",
+      "zh": ""
+    },
+    {
+      "start": 602.34,
+      "duration": 2.01,
+      "text": "because they let you translate it any direction you want.",
+      "en": "because they let you translate it any direction you want.",
+      "zh": ""
+    },
+    {
+      "start": 604.35,
+      "duration": 2.1,
+      "text": "So this is way better than like your car,",
+      "en": "So this is way better than like your car,",
+      "zh": ""
+    },
+    {
+      "start": 606.45,
+      "duration": 2.67,
+      "text": "where if you need to move a little bit to the left or right",
+      "en": "where if you need to move a little bit to the left or right",
+      "zh": ""
+    },
+    {
+      "start": 609.12,
+      "duration": 1.89,
+      "text": "you have to make like a five point turn.",
+      "en": "you have to make like a five point turn.",
+      "zh": ""
+    },
+    {
+      "start": 611.01,
+      "duration": 1.92,
+      "text": "So with these guys, you can move any direction you want",
+      "en": "So with these guys, you can move any direction you want",
+      "zh": ""
+    },
+    {
+      "start": 612.93,
+      "duration": 1.95,
+      "text": "to adjust for small corrections in the placement",
+      "en": "to adjust for small corrections in the placement",
+      "zh": ""
+    },
+    {
+      "start": 614.88,
+      "duration": 0.83,
+      "text": "of the dominoes.",
+      "en": "of the dominoes.",
+      "zh": ""
+    },
+    {
+      "start": 615.71,
+      "duration": 2.14,
+      "text": "These wheels are powered by these ClearPath brushless",
+      "en": "These wheels are powered by these ClearPath brushless",
+      "zh": ""
+    },
+    {
+      "start": 617.85,
+      "duration": 0.9,
+      "text": "DC servo motors.",
+      "en": "DC servo motors.",
+      "zh": ""
+    },
+    {
+      "start": 618.75,
+      "duration": 1.17,
+      "text": "These are like the gold standard",
+      "en": "These are like the gold standard",
+      "zh": ""
+    },
+    {
+      "start": 619.92,
+      "duration": 1.5,
+      "text": "in terms of speed and accuracy,",
+      "en": "in terms of speed and accuracy,",
+      "zh": ""
+    },
+    {
+      "start": 621.42,
+      "duration": 1.65,
+      "text": "and they allow us to slide the robot around",
+      "en": "and they allow us to slide the robot around",
+      "zh": ""
+    },
+    {
+      "start": 623.07,
+      "duration": 1.74,
+      "text": "by even just a couple millimeters at a time,",
+      "en": "by even just a couple millimeters at a time,",
+      "zh": ""
+    },
+    {
+      "start": 624.81,
+      "duration": 1.68,
+      "text": "which is super useful when we're trying to make",
+      "en": "which is super useful when we're trying to make",
+      "zh": ""
+    },
+    {
+      "start": 626.49,
+      "duration": 1.8,
+      "text": "real fine adjustments for placing the dominoes down.",
+      "en": "real fine adjustments for placing the dominoes down.",
+      "zh": ""
+    },
+    {
+      "start": 628.29,
+      "duration": 2.94,
+      "text": "- Now obviously that's just the uppermost tip",
+      "en": "- Now obviously that's just the uppermost tip",
+      "zh": ""
+    },
+    {
+      "start": 631.23,
+      "duration": 3.87,
+      "text": "of the iceberg tip, but Dom's brain is over 14,000 lines",
+      "en": "of the iceberg tip, but Dom's brain is over 14,000 lines",
+      "zh": ""
+    },
+    {
+      "start": 635.1,
+      "duration": 1.44,
+      "text": "of code all from scratch.",
+      "en": "of code all from scratch.",
+      "zh": ""
+    },
+    {
+      "start": 636.54,
+      "duration": 2.13,
+      "text": "So if you wanna go way deeper into the technical details",
+      "en": "So if you wanna go way deeper into the technical details",
+      "zh": ""
+    },
+    {
+      "start": 638.67,
+      "duration": 1.62,
+      "text": "I'll put a link in the video description",
+      "en": "I'll put a link in the video description",
+      "zh": ""
+    },
+    {
+      "start": 640.29,
+      "duration": 1.44,
+      "text": "where Alex put it all in one spot.",
+      "en": "where Alex put it all in one spot.",
+      "zh": ""
+    },
+    {
+      "start": 641.73,
+      "duration": 1.9,
+      "text": "Now back to finishing the second half.",
+      "en": "Now back to finishing the second half.",
+      "zh": ""
+    },
+    {
+      "start": 644.95,
+      "duration": 3.18,
+      "text": "(upbeat music)",
+      "en": "(upbeat music)",
+      "zh": ""
+    },
+    {
+      "start": 648.13,
+      "duration": 5.0,
+      "text": "♪ Enchante ♪ (upbeat music)",
+      "en": "♪ Enchante ♪ (upbeat music)",
+      "zh": ""
+    },
+    {
+      "start": 674.31,
+      "duration": 3.96,
+      "text": "So The Dominator has been running just under 24 hours",
+      "en": "So The Dominator has been running just under 24 hours",
+      "zh": ""
+    },
+    {
+      "start": 678.27,
+      "duration": 2.43,
+      "text": "and this is a bit of a momentous tile here.",
+      "en": "and this is a bit of a momentous tile here.",
+      "zh": ""
+    },
+    {
+      "start": 684.24,
+      "duration": 2.17,
+      "text": "It's-a me, Mario!",
+      "en": "It's-a me, Mario!",
+      "zh": ""
+    },
+    {
+      "start": 686.41,
+      "duration": 2.67,
+      "text": "(upbeat music)",
+      "en": "(upbeat music)",
+      "zh": ""
+    },
+    {
+      "start": 691.77,
+      "duration": 5.0,
+      "text": "102,300 dominoes are on the floor successfully.",
+      "en": "102,300 dominoes are on the floor successfully.",
+      "zh": ""
+    },
+    {
+      "start": 697.38,
+      "duration": 2.28,
+      "text": "This is the last 300.",
+      "en": "This is the last 300.",
+      "zh": ""
+    },
+    {
+      "start": 699.66,
+      "duration": 3.9,
+      "text": "I think this is a moment, you guys get back over here.",
+      "en": "I think this is a moment, you guys get back over here.",
+      "zh": ""
+    },
+    {
+      "start": 703.56,
+      "duration": 2.82,
+      "text": "Josh and Alex, let's observe it.",
+      "en": "Josh and Alex, let's observe it.",
+      "zh": ""
+    },
+    {
+      "start": 706.38,
+      "duration": 1.32,
+      "text": "Don't blow this Dom.",
+      "en": "Don't blow this Dom.",
+      "zh": ""
+    },
+    {
+      "start": 707.7,
+      "duration": 1.98,
+      "text": "You got it buddy, finish strong.",
+      "en": "You got it buddy, finish strong.",
+      "zh": ""
+    },
+    {
+      "start": 714.41,
+      "duration": 3.0,
+      "text": "(dominoes clinking)",
+      "en": "(dominoes clinking)",
+      "zh": ""
+    },
+    {
+      "start": 720.34,
+      "duration": 0.86,
+      "text": "We got it!",
+      "en": "We got it!",
+      "zh": ""
+    },
+    {
+      "start": 721.2,
+      "duration": 5.0,
+      "text": "Just over 24 hours to lay all the dominoes, gentlemen.",
+      "en": "Just over 24 hours to lay all the dominoes, gentlemen.",
+      "zh": ""
+    },
+    {
+      "start": 727.98,
+      "duration": 1.26,
+      "text": "So now with everything set up",
+      "en": "So now with everything set up",
+      "zh": ""
+    },
+    {
+      "start": 729.24,
+      "duration": 2.46,
+      "text": "the final critical step was to knock them down.",
+      "en": "the final critical step was to knock them down.",
+      "zh": ""
+    },
+    {
+      "start": 731.7,
+      "duration": 1.98,
+      "text": "You can see John loading in the Mario pipes",
+      "en": "You can see John loading in the Mario pipes",
+      "zh": ""
+    },
+    {
+      "start": 733.68,
+      "duration": 1.83,
+      "text": "because they were gonna be our trigger mechanism.",
+      "en": "because they were gonna be our trigger mechanism.",
+      "zh": ""
+    },
+    {
+      "start": 735.51,
+      "duration": 2.64,
+      "text": "The way that works is we've got four Hot Wheel cars glued",
+      "en": "The way that works is we've got four Hot Wheel cars glued",
+      "zh": ""
+    },
+    {
+      "start": 738.15,
+      "duration": 1.44,
+      "text": "to the bottom of this platform",
+      "en": "to the bottom of this platform",
+      "zh": ""
+    },
+    {
+      "start": 739.59,
+      "duration": 2.73,
+      "text": "that rides in these parallel Hot Wheels tracks.",
+      "en": "that rides in these parallel Hot Wheels tracks.",
+      "zh": ""
+    },
+    {
+      "start": 742.32,
+      "duration": 2.25,
+      "text": "Then you slap a green sliding shell on top",
+      "en": "Then you slap a green sliding shell on top",
+      "zh": ""
+    },
+    {
+      "start": 744.57,
+      "duration": 2.58,
+      "text": "and a motor at the end pulls the cart along the tracks",
+      "en": "and a motor at the end pulls the cart along the tracks",
+      "zh": ""
+    },
+    {
+      "start": 747.15,
+      "duration": 0.83,
+      "text": "with a string.",
+      "en": "with a string.",
+      "zh": ""
+    },
+    {
+      "start": 747.98,
+      "duration": 1.6,
+      "text": "Then the shell contacts the lever arm",
+      "en": "Then the shell contacts the lever arm",
+      "zh": ""
+    },
+    {
+      "start": 749.58,
+      "duration": 2.91,
+      "text": "at each pipe like this, which causes them to roll forward,",
+      "en": "at each pipe like this, which causes them to roll forward,",
+      "zh": ""
+    },
+    {
+      "start": 752.49,
+      "duration": 2.43,
+      "text": "down the ramp, hopefully into the dominoes.",
+      "en": "down the ramp, hopefully into the dominoes.",
+      "zh": ""
+    },
+    {
+      "start": 754.92,
+      "duration": 1.26,
+      "text": "Okay, now I'm nervous.",
+      "en": "Okay, now I'm nervous.",
+      "zh": ""
+    },
+    {
+      "start": 757.41,
+      "duration": 0.96,
+      "text": "I wasn't nervous.",
+      "en": "I wasn't nervous.",
+      "zh": ""
+    },
+    {
+      "start": 758.37,
+      "duration": 1.26,
+      "text": "Now I'm nervous.",
+      "en": "Now I'm nervous.",
+      "zh": ""
+    },
+    {
+      "start": 759.63,
+      "duration": 4.58,
+      "text": "Okay, 3, 2, 1, go.",
+      "en": "Okay, 3, 2, 1, go.",
+      "zh": ""
+    },
+    {
+      "start": 764.21,
+      "duration": 5.0,
+      "text": "(motor whirring) (dominoes clinking)",
+      "en": "(motor whirring) (dominoes clinking)",
+      "zh": ""
+    },
+    {
+      "start": 769.55,
+      "duration": 2.43,
+      "text": "Yes, yes!",
+      "en": "Yes, yes!",
+      "zh": ""
+    },
+    {
+      "start": 771.98,
+      "duration": 2.62,
+      "text": "Three! (dominoes clinking)",
+      "en": "Three! (dominoes clinking)",
+      "zh": ""
+    },
+    {
+      "start": 774.6,
+      "duration": 1.49,
+      "text": "Four! (dominoes clinking)",
+      "en": "Four! (dominoes clinking)",
+      "zh": ""
+    },
+    {
+      "start": 776.09,
+      "duration": 5.0,
+      "text": "Five! (dominoes clinking)",
+      "en": "Five! (dominoes clinking)",
+      "zh": ""
+    },
+    {
+      "start": 783.46,
+      "duration": 2.38,
+      "text": "- Oh my gosh! (dominoes clinking)",
+      "en": "- Oh my gosh! (dominoes clinking)",
+      "zh": ""
+    },
+    {
+      "start": 785.84,
+      "duration": 5.0,
+      "text": "(Dom beeping happily) (dominoes clinking)",
+      "en": "(Dom beeping happily) (dominoes clinking)",
+      "zh": ""
+    },
+    {
+      "start": 797.24,
+      "duration": 2.83,
+      "text": "(build team cheering)",
+      "en": "(build team cheering)",
+      "zh": ""
+    },
+    {
+      "start": 800.07,
+      "duration": 1.33,
+      "text": "- Yes! - Awesome!",
+      "en": "- Yes! - Awesome!",
+      "zh": ""
+    },
+    {
+      "start": 805.08,
+      "duration": 0.84,
+      "text": "- Holy cow! - Whoa.",
+      "en": "- Holy cow! - Whoa.",
+      "zh": ""
+    },
+    {
+      "start": 808.71,
+      "duration": 1.62,
+      "text": "- Oh my gosh!",
+      "en": "- Oh my gosh!",
+      "zh": ""
+    },
+    {
+      "start": 811.7,
+      "duration": 2.29,
+      "text": "And in the end, Dom was 50 times faster",
+      "en": "And in the end, Dom was 50 times faster",
+      "zh": ""
+    },
+    {
+      "start": 813.99,
+      "duration": 1.5,
+      "text": "than a skilled domino builder,",
+      "en": "than a skilled domino builder,",
+      "zh": ""
+    },
+    {
+      "start": 815.49,
+      "duration": 2.13,
+      "text": "and he got himself a world record to show for it.",
+      "en": "and he got himself a world record to show for it.",
+      "zh": ""
+    },
+    {
+      "start": 817.62,
+      "duration": 1.83,
+      "text": "Although, to be fair to us organisms,",
+      "en": "Although, to be fair to us organisms,",
+      "zh": ""
+    },
+    {
+      "start": 819.45,
+      "duration": 1.95,
+      "text": "it was in the non-human category.",
+      "en": "it was in the non-human category.",
+      "zh": ""
+    },
+    {
+      "start": 821.4,
+      "duration": 1.65,
+      "text": "And at that point, after five years",
+      "en": "And at that point, after five years",
+      "zh": ""
+    },
+    {
+      "start": 823.05,
+      "duration": 1.71,
+      "text": "we were just so relieved to be done.",
+      "en": "we were just so relieved to be done.",
+      "zh": ""
+    },
+    {
+      "start": 824.76,
+      "duration": 2.4,
+      "text": "We got a little carried away celebrating the champ",
+      "en": "We got a little carried away celebrating the champ",
+      "zh": ""
+    },
+    {
+      "start": 827.16,
+      "duration": 2.32,
+      "text": "with an appropriate sendoff.",
+      "en": "with an appropriate sendoff.",
+      "zh": ""
+    },
+    {
+      "start": 829.48,
+      "duration": 2.66,
+      "text": "(upbeat music)",
+      "en": "(upbeat music)",
+      "zh": ""
+    },
+    {
+      "start": 834.66,
+      "duration": 1.47,
+      "text": "What do we do now?",
+      "en": "What do we do now?",
+      "zh": ""
+    },
+    {
+      "start": 836.13,
+      "duration": 1.22,
+      "text": "- Build a robot to clean it up.",
+      "en": "- Build a robot to clean it up.",
+      "zh": ""
+    },
+    {
+      "start": 837.35,
+      "duration": 1.5,
+      "text": "- Ah, there we go!",
+      "en": "- Ah, there we go!",
+      "zh": ""
+    },
+    {
+      "start": 840.1,
+      "duration": 1.34,
+      "text": "A cleanup robot.",
+      "en": "A cleanup robot.",
+      "zh": ""
+    }
+  ],
+  "words": []
+}

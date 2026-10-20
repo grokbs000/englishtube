@@ -1,0 +1,943 @@
+{
+  "cues": [
+    {
+      "start": 0.31,
+      "duration": 2.09,
+      "text": "(splashing)",
+      "en": "(splashing)",
+      "zh": ""
+    },
+    {
+      "start": 2.4,
+      "duration": 1.56,
+      "text": "- Today I am here with Kevin,",
+      "en": "- Today I am here with Kevin,",
+      "zh": ""
+    },
+    {
+      "start": 3.96,
+      "duration": 2.37,
+      "text": "more commonly known as the Backyard Scientist.",
+      "en": "more commonly known as the Backyard Scientist.",
+      "zh": ""
+    },
+    {
+      "start": 6.33,
+      "duration": 2.13,
+      "text": "And as fate would have it, we are actually in-",
+      "en": "And as fate would have it, we are actually in-",
+      "zh": ""
+    },
+    {
+      "start": 8.46,
+      "duration": 0.93,
+      "text": "- The backyard.",
+      "en": "- The backyard.",
+      "zh": ""
+    },
+    {
+      "start": 9.39,
+      "duration": 2.94,
+      "text": "- So I recently made a video where I converted a leaf blower",
+      "en": "- So I recently made a video where I converted a leaf blower",
+      "zh": ""
+    },
+    {
+      "start": 12.33,
+      "duration": 3.0,
+      "text": "into a snowball machine gun and the first thing he said was-",
+      "en": "into a snowball machine gun and the first thing he said was-",
+      "zh": ""
+    },
+    {
+      "start": 15.33,
+      "duration": 1.41,
+      "text": "- You should set those on fire.",
+      "en": "- You should set those on fire.",
+      "zh": ""
+    },
+    {
+      "start": 16.74,
+      "duration": 1.66,
+      "text": "- So as soon as I got here today, we-",
+      "en": "- So as soon as I got here today, we-",
+      "zh": ""
+    },
+    {
+      "start": 18.4,
+      "duration": 2.58,
+      "text": "(upbeat music)",
+      "en": "(upbeat music)",
+      "zh": ""
+    },
+    {
+      "start": 25.98,
+      "duration": 2.61,
+      "text": "But flaming snowballs aren't actually why I'm here today.",
+      "en": "But flaming snowballs aren't actually why I'm here today.",
+      "zh": ""
+    },
+    {
+      "start": 28.59,
+      "duration": 1.41,
+      "text": "Show 'em why I'm here today, Kevin.",
+      "en": "Show 'em why I'm here today, Kevin.",
+      "zh": ""
+    },
+    {
+      "start": 30.0,
+      "duration": 0.84,
+      "text": "(glass breaking, splashing)",
+      "en": "(glass breaking, splashing)",
+      "zh": ""
+    },
+    {
+      "start": 30.84,
+      "duration": 1.02,
+      "text": "So I actually don't drink,",
+      "en": "So I actually don't drink,",
+      "zh": ""
+    },
+    {
+      "start": 31.86,
+      "duration": 2.4,
+      "text": "but I've heard of people doing this with beer bottles.",
+      "en": "but I've heard of people doing this with beer bottles.",
+      "zh": ""
+    },
+    {
+      "start": 34.26,
+      "duration": 2.52,
+      "text": "So either Kevin has some superpowers,",
+      "en": "So either Kevin has some superpowers,",
+      "zh": ""
+    },
+    {
+      "start": 36.78,
+      "duration": 2.31,
+      "text": "or there's some crazy physics going on there",
+      "en": "or there's some crazy physics going on there",
+      "zh": ""
+    },
+    {
+      "start": 39.09,
+      "duration": 1.62,
+      "text": "that we're gonna try and figure out today.",
+      "en": "that we're gonna try and figure out today.",
+      "zh": ""
+    },
+    {
+      "start": 40.71,
+      "duration": 2.52,
+      "text": "- So neither of us really knows what causes these bottles",
+      "en": "- So neither of us really knows what causes these bottles",
+      "zh": ""
+    },
+    {
+      "start": 43.23,
+      "duration": 2.31,
+      "text": "to break and there's a lot of conflicting evidence out there",
+      "en": "to break and there's a lot of conflicting evidence out there",
+      "zh": ""
+    },
+    {
+      "start": 45.54,
+      "duration": 1.71,
+      "text": "but we have some of our own ideas.",
+      "en": "but we have some of our own ideas.",
+      "zh": ""
+    },
+    {
+      "start": 47.25,
+      "duration": 2.22,
+      "text": "- So as firm believers in the scientific method,",
+      "en": "- So as firm believers in the scientific method,",
+      "zh": ""
+    },
+    {
+      "start": 49.47,
+      "duration": 2.76,
+      "text": "we are going to science our way to the right answer",
+      "en": "we are going to science our way to the right answer",
+      "zh": ""
+    },
+    {
+      "start": 52.23,
+      "duration": 1.14,
+      "text": "through a bunch of experiments.",
+      "en": "through a bunch of experiments.",
+      "zh": ""
+    },
+    {
+      "start": 53.37,
+      "duration": 0.83,
+      "text": "- I'll drink to that.",
+      "en": "- I'll drink to that.",
+      "zh": ""
+    },
+    {
+      "start": 54.2,
+      "duration": 3.54,
+      "text": "- Not yet you won't, Kevin. (glass popping, laughing)",
+      "en": "- Not yet you won't, Kevin. (glass popping, laughing)",
+      "zh": ""
+    },
+    {
+      "start": 57.74,
+      "duration": 3.56,
+      "text": "(glass breaking)",
+      "en": "(glass breaking)",
+      "zh": ""
+    },
+    {
+      "start": 61.3,
+      "duration": 2.61,
+      "text": "(cardboard ripping)",
+      "en": "(cardboard ripping)",
+      "zh": ""
+    },
+    {
+      "start": 63.91,
+      "duration": 1.04,
+      "text": "(triumph horn blowing)",
+      "en": "(triumph horn blowing)",
+      "zh": ""
+    },
+    {
+      "start": 64.95,
+      "duration": 2.07,
+      "text": "- I've heard that one of the reasons people think",
+      "en": "- I've heard that one of the reasons people think",
+      "zh": ""
+    },
+    {
+      "start": 67.02,
+      "duration": 1.23,
+      "text": "it's breaking is because when they",
+      "en": "it's breaking is because when they",
+      "zh": ""
+    },
+    {
+      "start": 68.25,
+      "duration": 2.91,
+      "text": "slam their hand down on it, they're forcing a bunch of air",
+      "en": "slam their hand down on it, they're forcing a bunch of air",
+      "zh": ""
+    },
+    {
+      "start": 71.16,
+      "duration": 2.82,
+      "text": "in the bottle and that causes the bottom to shoot out.",
+      "en": "in the bottle and that causes the bottom to shoot out.",
+      "zh": ""
+    },
+    {
+      "start": 75.87,
+      "duration": 1.47,
+      "text": "- So in this experiment, we're testing",
+      "en": "- So in this experiment, we're testing",
+      "zh": ""
+    },
+    {
+      "start": 77.34,
+      "duration": 2.82,
+      "text": "the pressure wave theory, where when a person hits it",
+      "en": "the pressure wave theory, where when a person hits it",
+      "zh": ""
+    },
+    {
+      "start": 80.16,
+      "duration": 2.82,
+      "text": "with their hand, they force a bunch of air in",
+      "en": "with their hand, they force a bunch of air in",
+      "zh": ""
+    },
+    {
+      "start": 82.98,
+      "duration": 1.26,
+      "text": "that then creates a pressure wave",
+      "en": "that then creates a pressure wave",
+      "zh": ""
+    },
+    {
+      "start": 84.24,
+      "duration": 1.89,
+      "text": "that pushes out the bottom of the bottle.",
+      "en": "that pushes out the bottom of the bottle.",
+      "zh": ""
+    },
+    {
+      "start": 86.13,
+      "duration": 1.5,
+      "text": "So we've put a cap on the top,",
+      "en": "So we've put a cap on the top,",
+      "zh": ""
+    },
+    {
+      "start": 87.63,
+      "duration": 2.19,
+      "text": "so there's no way to force air in.",
+      "en": "so there's no way to force air in.",
+      "zh": ""
+    },
+    {
+      "start": 89.82,
+      "duration": 1.32,
+      "text": "We're using a rubber mallet",
+      "en": "We're using a rubber mallet",
+      "zh": ""
+    },
+    {
+      "start": 91.14,
+      "duration": 3.55,
+      "text": "just to be more consistent for all of the hits.",
+      "en": "just to be more consistent for all of the hits.",
+      "zh": ""
+    },
+    {
+      "start": 94.69,
+      "duration": 3.33,
+      "text": "One. (glass shattering)",
+      "en": "One. (glass shattering)",
+      "zh": ""
+    },
+    {
+      "start": 99.93,
+      "duration": 2.4,
+      "text": "The bottle broke, even though the cap was on,",
+      "en": "The bottle broke, even though the cap was on,",
+      "zh": ""
+    },
+    {
+      "start": 102.33,
+      "duration": 1.8,
+      "text": "and there was no way to force air in,",
+      "en": "and there was no way to force air in,",
+      "zh": ""
+    },
+    {
+      "start": 104.13,
+      "duration": 2.04,
+      "text": "so we are rejecting this theory.",
+      "en": "so we are rejecting this theory.",
+      "zh": ""
+    },
+    {
+      "start": 106.17,
+      "duration": 3.42,
+      "text": "(buzzer horn blowing)",
+      "en": "(buzzer horn blowing)",
+      "zh": ""
+    },
+    {
+      "start": 109.59,
+      "duration": 2.04,
+      "text": "- We think carbonation might have something to do with it.",
+      "en": "- We think carbonation might have something to do with it.",
+      "zh": ""
+    },
+    {
+      "start": 111.63,
+      "duration": 2.16,
+      "text": "- Okay so to isolate that,",
+      "en": "- Okay so to isolate that,",
+      "zh": ""
+    },
+    {
+      "start": 113.79,
+      "duration": 3.03,
+      "text": "we have one beer that's carbonated, one with water,",
+      "en": "we have one beer that's carbonated, one with water,",
+      "zh": ""
+    },
+    {
+      "start": 116.82,
+      "duration": 1.92,
+      "text": "and then we filled this one with sparkling water.",
+      "en": "and then we filled this one with sparkling water.",
+      "zh": ""
+    },
+    {
+      "start": 118.74,
+      "duration": 3.33,
+      "text": "So if these two don't break and this one breaks,",
+      "en": "So if these two don't break and this one breaks,",
+      "zh": ""
+    },
+    {
+      "start": 122.07,
+      "duration": 2.46,
+      "text": "I think we've isolated that it works better",
+      "en": "I think we've isolated that it works better",
+      "zh": ""
+    },
+    {
+      "start": 124.53,
+      "duration": 1.27,
+      "text": "without carbonation.",
+      "en": "without carbonation.",
+      "zh": ""
+    },
+    {
+      "start": 125.8,
+      "duration": 0.83,
+      "text": "- Yes.",
+      "en": "- Yes.",
+      "zh": ""
+    },
+    {
+      "start": 129.21,
+      "duration": 2.01,
+      "text": "- So this bottle is filled with sparkling water,",
+      "en": "- So this bottle is filled with sparkling water,",
+      "zh": ""
+    },
+    {
+      "start": 131.22,
+      "duration": 2.38,
+      "text": "so the theory is that it shouldn't break.",
+      "en": "so the theory is that it shouldn't break.",
+      "zh": ""
+    },
+    {
+      "start": 133.6,
+      "duration": 2.45,
+      "text": "(popping)",
+      "en": "(popping)",
+      "zh": ""
+    },
+    {
+      "start": 136.05,
+      "duration": 2.73,
+      "text": "And now for the beer, the bottle didn't break,",
+      "en": "And now for the beer, the bottle didn't break,",
+      "zh": ""
+    },
+    {
+      "start": 138.78,
+      "duration": 2.13,
+      "text": "but that was interesting how much it fizzed up.",
+      "en": "but that was interesting how much it fizzed up.",
+      "zh": ""
+    },
+    {
+      "start": 140.91,
+      "duration": 2.13,
+      "text": "So as it turns out, here's why that happens.",
+      "en": "So as it turns out, here's why that happens.",
+      "zh": ""
+    },
+    {
+      "start": 143.04,
+      "duration": 2.61,
+      "text": "When you hit the bottle, it moves down really fast,",
+      "en": "When you hit the bottle, it moves down really fast,",
+      "zh": ""
+    },
+    {
+      "start": 145.65,
+      "duration": 2.01,
+      "text": "but the liquid hasn't started moving yet.",
+      "en": "but the liquid hasn't started moving yet.",
+      "zh": ""
+    },
+    {
+      "start": 147.66,
+      "duration": 1.8,
+      "text": "That creates an empty gap down here,",
+      "en": "That creates an empty gap down here,",
+      "zh": ""
+    },
+    {
+      "start": 149.46,
+      "duration": 3.06,
+      "text": "that's basically a vacuum or really low pressure.",
+      "en": "that's basically a vacuum or really low pressure.",
+      "zh": ""
+    },
+    {
+      "start": 153.6,
+      "duration": 1.5,
+      "text": "And if the drink is carbonated,",
+      "en": "And if the drink is carbonated,",
+      "zh": ""
+    },
+    {
+      "start": 155.1,
+      "duration": 2.73,
+      "text": "the CO2 from the liquid gets sucked into that vacuum",
+      "en": "the CO2 from the liquid gets sucked into that vacuum",
+      "zh": ""
+    },
+    {
+      "start": 157.83,
+      "duration": 2.1,
+      "text": "and fills it with CO2 gas bubbles.",
+      "en": "and fills it with CO2 gas bubbles.",
+      "zh": ""
+    },
+    {
+      "start": 159.93,
+      "duration": 2.43,
+      "text": "And since these bubbles are less dense than the drink,",
+      "en": "And since these bubbles are less dense than the drink,",
+      "zh": ""
+    },
+    {
+      "start": 162.36,
+      "duration": 1.59,
+      "text": "they rise up through the liquid",
+      "en": "they rise up through the liquid",
+      "zh": ""
+    },
+    {
+      "start": 163.95,
+      "duration": 3.66,
+      "text": "and create a chain reaction of more bubbles as they go.",
+      "en": "and create a chain reaction of more bubbles as they go.",
+      "zh": ""
+    },
+    {
+      "start": 167.61,
+      "duration": 1.59,
+      "text": "Now finally, we test the water,",
+      "en": "Now finally, we test the water,",
+      "zh": ""
+    },
+    {
+      "start": 169.2,
+      "duration": 2.01,
+      "text": "and just like with the carbonated liquids,",
+      "en": "and just like with the carbonated liquids,",
+      "zh": ""
+    },
+    {
+      "start": 171.21,
+      "duration": 2.88,
+      "text": "you see this vacuum form on the bottom.",
+      "en": "you see this vacuum form on the bottom.",
+      "zh": ""
+    },
+    {
+      "start": 174.09,
+      "duration": 3.51,
+      "text": "(bumping, glass shattering)",
+      "en": "(bumping, glass shattering)",
+      "zh": ""
+    },
+    {
+      "start": 177.6,
+      "duration": 2.31,
+      "text": "Except this time the bottle breaks.",
+      "en": "Except this time the bottle breaks.",
+      "zh": ""
+    },
+    {
+      "start": 179.91,
+      "duration": 2.52,
+      "text": "So theory number two is confirmed,",
+      "en": "So theory number two is confirmed,",
+      "zh": ""
+    },
+    {
+      "start": 182.43,
+      "duration": 2.16,
+      "text": "non-carbonated liquids work better.",
+      "en": "non-carbonated liquids work better.",
+      "zh": ""
+    },
+    {
+      "start": 184.59,
+      "duration": 1.83,
+      "text": "But now we just have to figure out why.",
+      "en": "But now we just have to figure out why.",
+      "zh": ""
+    },
+    {
+      "start": 186.42,
+      "duration": 1.71,
+      "text": "What are they doing differently",
+      "en": "What are they doing differently",
+      "zh": ""
+    },
+    {
+      "start": 188.13,
+      "duration": 2.19,
+      "text": "to make the bottle actually break?",
+      "en": "to make the bottle actually break?",
+      "zh": ""
+    },
+    {
+      "start": 190.32,
+      "duration": 1.74,
+      "text": "- So what I think is breaking the bottle",
+      "en": "- So what I think is breaking the bottle",
+      "zh": ""
+    },
+    {
+      "start": 192.06,
+      "duration": 1.95,
+      "text": "is the momentum of the water going back",
+      "en": "is the momentum of the water going back",
+      "zh": ""
+    },
+    {
+      "start": 194.01,
+      "duration": 2.88,
+      "text": "and filling the vacuum is causing the bottom to break out.",
+      "en": "and filling the vacuum is causing the bottom to break out.",
+      "zh": ""
+    },
+    {
+      "start": 196.89,
+      "duration": 2.88,
+      "text": "- And I think the break is happening a little bit earlier.",
+      "en": "- And I think the break is happening a little bit earlier.",
+      "zh": ""
+    },
+    {
+      "start": 199.77,
+      "duration": 3.36,
+      "text": "When the vacuum is formed like the air outside",
+      "en": "When the vacuum is formed like the air outside",
+      "zh": ""
+    },
+    {
+      "start": 203.13,
+      "duration": 4.32,
+      "text": "is at 14 PSI and so it's pushing in on the vacuum.",
+      "en": "is at 14 PSI and so it's pushing in on the vacuum.",
+      "zh": ""
+    },
+    {
+      "start": 207.45,
+      "duration": 2.61,
+      "text": "So it's before the water rebounds,",
+      "en": "So it's before the water rebounds,",
+      "zh": ""
+    },
+    {
+      "start": 210.06,
+      "duration": 2.58,
+      "text": "it's actually cracking because the difference in pressure.",
+      "en": "it's actually cracking because the difference in pressure.",
+      "zh": ""
+    },
+    {
+      "start": 212.64,
+      "duration": 1.02,
+      "text": "- Well we'll find out.",
+      "en": "- Well we'll find out.",
+      "zh": ""
+    },
+    {
+      "start": 213.66,
+      "duration": 2.7,
+      "text": "- [Announcer] Round three. Fight!",
+      "en": "- [Announcer] Round three. Fight!",
+      "zh": ""
+    },
+    {
+      "start": 216.36,
+      "duration": 1.44,
+      "text": "- So we're gonna add some red dye",
+      "en": "- So we're gonna add some red dye",
+      "zh": ""
+    },
+    {
+      "start": 217.8,
+      "duration": 1.44,
+      "text": "and then we're gonna slow the camera down",
+      "en": "and then we're gonna slow the camera down",
+      "zh": ""
+    },
+    {
+      "start": 219.24,
+      "duration": 3.32,
+      "text": "to like 7,000 frames per second to see precisely",
+      "en": "to like 7,000 frames per second to see precisely",
+      "zh": ""
+    },
+    {
+      "start": 222.56,
+      "duration": 2.48,
+      "text": "the moment when it happens.",
+      "en": "the moment when it happens.",
+      "zh": ""
+    },
+    {
+      "start": 225.04,
+      "duration": 4.25,
+      "text": "One. (glass shattering, splashing)",
+      "en": "One. (glass shattering, splashing)",
+      "zh": ""
+    },
+    {
+      "start": 235.26,
+      "duration": 4.26,
+      "text": "So if I'm right, okay, bottle, it should break right there.",
+      "en": "So if I'm right, okay, bottle, it should break right there.",
+      "zh": ""
+    },
+    {
+      "start": 239.52,
+      "duration": 0.83,
+      "text": "- No.",
+      "en": "- No.",
+      "zh": ""
+    },
+    {
+      "start": 244.06,
+      "duration": 2.75,
+      "text": "- [Kevin] Yes! - [Mark] (laughing) You punk.",
+      "en": "- [Kevin] Yes! - [Mark] (laughing) You punk.",
+      "zh": ""
+    },
+    {
+      "start": 246.81,
+      "duration": 1.47,
+      "text": "Yeah so you're definitely right.",
+      "en": "Yeah so you're definitely right.",
+      "zh": ""
+    },
+    {
+      "start": 248.28,
+      "duration": 0.83,
+      "text": "- Yeah.",
+      "en": "- Yeah.",
+      "zh": ""
+    },
+    {
+      "start": 249.11,
+      "duration": 1.69,
+      "text": "- It ruptured when the water is coming back right?",
+      "en": "- It ruptured when the water is coming back right?",
+      "zh": ""
+    },
+    {
+      "start": 250.8,
+      "duration": 2.75,
+      "text": "- Cracks right after it hits the bottom.",
+      "en": "- Cracks right after it hits the bottom.",
+      "zh": ""
+    },
+    {
+      "start": 253.55,
+      "duration": 3.73,
+      "text": "(blow torch screeching)",
+      "en": "(blow torch screeching)",
+      "zh": ""
+    },
+    {
+      "start": 257.28,
+      "duration": 2.31,
+      "text": "- So Kevin was right. In fact, it turns out",
+      "en": "- So Kevin was right. In fact, it turns out",
+      "zh": ""
+    },
+    {
+      "start": 259.59,
+      "duration": 3.93,
+      "text": "that water cavity collapses 10 times faster than it formed,",
+      "en": "that water cavity collapses 10 times faster than it formed,",
+      "zh": ""
+    },
+    {
+      "start": 263.52,
+      "duration": 2.73,
+      "text": "which creates a force higher than the initial hit",
+      "en": "which creates a force higher than the initial hit",
+      "zh": ""
+    },
+    {
+      "start": 266.25,
+      "duration": 2.28,
+      "text": "on the bottle, which is why it doesn't break right away.",
+      "en": "on the bottle, which is why it doesn't break right away.",
+      "zh": ""
+    },
+    {
+      "start": 268.53,
+      "duration": 1.62,
+      "text": "So now that you know the science,",
+      "en": "So now that you know the science,",
+      "zh": ""
+    },
+    {
+      "start": 270.15,
+      "duration": 1.8,
+      "text": "if you want to impress your friends with this trick,",
+      "en": "if you want to impress your friends with this trick,",
+      "zh": ""
+    },
+    {
+      "start": 271.95,
+      "duration": 1.56,
+      "text": "here are a couple important tips.",
+      "en": "here are a couple important tips.",
+      "zh": ""
+    },
+    {
+      "start": 273.51,
+      "duration": 2.7,
+      "text": "Number one, hit the bottle and not your hand.",
+      "en": "Number one, hit the bottle and not your hand.",
+      "zh": ""
+    },
+    {
+      "start": 276.21,
+      "duration": 2.73,
+      "text": "You want to make as much energy from your strike go into",
+      "en": "You want to make as much energy from your strike go into",
+      "zh": ""
+    },
+    {
+      "start": 278.94,
+      "duration": 3.24,
+      "text": "moving the bottle and not just being reacted by your hand.",
+      "en": "moving the bottle and not just being reacted by your hand.",
+      "zh": ""
+    },
+    {
+      "start": 282.18,
+      "duration": 1.95,
+      "text": "You can even get the neck of the bottle a little wet",
+      "en": "You can even get the neck of the bottle a little wet",
+      "zh": ""
+    },
+    {
+      "start": 284.13,
+      "duration": 1.92,
+      "text": "and then let it slip a bit when you hit it,",
+      "en": "and then let it slip a bit when you hit it,",
+      "zh": ""
+    },
+    {
+      "start": 286.05,
+      "duration": 1.32,
+      "text": "just to make sure it's moving.",
+      "en": "just to make sure it's moving.",
+      "zh": ""
+    },
+    {
+      "start": 287.37,
+      "duration": 1.68,
+      "text": "Number two, like we discovered,",
+      "en": "Number two, like we discovered,",
+      "zh": ""
+    },
+    {
+      "start": 289.05,
+      "duration": 2.07,
+      "text": "use water or something non-carbonated.",
+      "en": "use water or something non-carbonated.",
+      "zh": ""
+    },
+    {
+      "start": 291.12,
+      "duration": 2.37,
+      "text": "Otherwise, the carbonation just fills in that vacuum",
+      "en": "Otherwise, the carbonation just fills in that vacuum",
+      "zh": ""
+    },
+    {
+      "start": 293.49,
+      "duration": 1.71,
+      "text": "and cushions the rebound force.",
+      "en": "and cushions the rebound force.",
+      "zh": ""
+    },
+    {
+      "start": 295.2,
+      "duration": 3.24,
+      "text": "Number three, a liquid with a high vapor pressure is good.",
+      "en": "Number three, a liquid with a high vapor pressure is good.",
+      "zh": ""
+    },
+    {
+      "start": 298.44,
+      "duration": 1.98,
+      "text": "If you use a liquid with a high vapor pressure",
+      "en": "If you use a liquid with a high vapor pressure",
+      "zh": ""
+    },
+    {
+      "start": 300.42,
+      "duration": 2.49,
+      "text": "that means the vacuum you need at the bottom of the bottle",
+      "en": "that means the vacuum you need at the bottom of the bottle",
+      "zh": ""
+    },
+    {
+      "start": 302.91,
+      "duration": 3.33,
+      "text": "will form much easier, so hot water is a lot better",
+      "en": "will form much easier, so hot water is a lot better",
+      "zh": ""
+    },
+    {
+      "start": 306.24,
+      "duration": 2.31,
+      "text": "than cold water because the vapor pressure's higher.",
+      "en": "than cold water because the vapor pressure's higher.",
+      "zh": ""
+    },
+    {
+      "start": 308.55,
+      "duration": 2.58,
+      "text": "Nail polish remover also works well for the same reason.",
+      "en": "Nail polish remover also works well for the same reason.",
+      "zh": ""
+    },
+    {
+      "start": 311.13,
+      "duration": 3.36,
+      "text": "Number four, be safe, this is glass, and glass can cut you",
+      "en": "Number four, be safe, this is glass, and glass can cut you",
+      "zh": ""
+    },
+    {
+      "start": 314.49,
+      "duration": 1.32,
+      "text": "if you're not careful where it lands.",
+      "en": "if you're not careful where it lands.",
+      "zh": ""
+    },
+    {
+      "start": 315.81,
+      "duration": 1.86,
+      "text": "Number five, don't chicken out.",
+      "en": "Number five, don't chicken out.",
+      "zh": ""
+    },
+    {
+      "start": 317.67,
+      "duration": 2.13,
+      "text": "It hurts way more if you don't follow through.",
+      "en": "It hurts way more if you don't follow through.",
+      "zh": ""
+    },
+    {
+      "start": 319.8,
+      "duration": 1.6,
+      "text": "Plus you look like this.",
+      "en": "Plus you look like this.",
+      "zh": ""
+    },
+    {
+      "start": 321.4,
+      "duration": 0.83,
+      "text": "(glass knocking)",
+      "en": "(glass knocking)",
+      "zh": ""
+    },
+    {
+      "start": 322.23,
+      "duration": 2.68,
+      "text": "- Oh, I heard it. Did it hurt? (Mark groaning)",
+      "en": "- Oh, I heard it. Did it hurt? (Mark groaning)",
+      "zh": ""
+    }
+  ],
+  "words": []
+}

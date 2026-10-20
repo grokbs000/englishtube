@@ -1,0 +1,901 @@
+{
+  "cues": [
+    {
+      "start": 0.48,
+      "duration": 5.2,
+      "text": "The future of humanity seems insecure. Rapid climate change, political division,",
+      "en": "The future of humanity seems insecure. Rapid climate change, political division,",
+      "zh": ""
+    },
+    {
+      "start": 5.68,
+      "duration": 4.8,
+      "text": "our greed and failings make it hard to look at our species with a lot of optimism and so many",
+      "en": "our greed and failings make it hard to look at our species with a lot of optimism and so many",
+      "zh": ""
+    },
+    {
+      "start": 10.48,
+      "duration": 6.0,
+      "text": "people think our end is in sight. But humans have always thought they lived in the end times. Every",
+      "en": "people think our end is in sight. But humans have always thought they lived in the end times. Every",
+      "zh": ""
+    },
+    {
+      "start": 16.48,
+      "duration": 5.04,
+      "text": "generation assumes they’re important enough to witness the apocalypse and then life just goes on.",
+      "en": "generation assumes they’re important enough to witness the apocalypse and then life just goes on.",
+      "zh": ""
+    },
+    {
+      "start": 22.56,
+      "duration": 2.72,
+      "text": "This is a problem because it leads to short term thinking",
+      "en": "This is a problem because it leads to short term thinking",
+      "zh": ""
+    },
+    {
+      "start": 25.28,
+      "duration": 5.44,
+      "text": "and prevents us from creating the best world for ourselves and our descendents. What makes",
+      "en": "and prevents us from creating the best world for ourselves and our descendents. What makes",
+      "zh": ""
+    },
+    {
+      "start": 30.72,
+      "duration": 5.2,
+      "text": "this worse is that we may actually BE living at an extremely critical moment in human history.",
+      "en": "this worse is that we may actually BE living at an extremely critical moment in human history.",
+      "zh": ""
+    },
+    {
+      "start": 36.8,
+      "duration": 4.72,
+      "text": "To understand why, let us look at the temporal window of humanity and ask:",
+      "en": "To understand why, let us look at the temporal window of humanity and ask:",
+      "zh": ""
+    },
+    {
+      "start": 42.16,
+      "duration": 4.56,
+      "text": "When will the last human be born and how many people will there ever be?",
+      "en": "When will the last human be born and how many people will there ever be?",
+      "zh": ""
+    },
+    {
+      "start": 55.36,
+      "duration": 3.52,
+      "text": "These sorts of estimates come with a lot of uncertainties, so please take",
+      "en": "These sorts of estimates come with a lot of uncertainties, so please take",
+      "zh": ""
+    },
+    {
+      "start": 58.88,
+      "duration": 5.2,
+      "text": "them with a gigantic grain of salt. To get a sense of how many people there will be,",
+      "en": "them with a gigantic grain of salt. To get a sense of how many people there will be,",
+      "zh": ""
+    },
+    {
+      "start": 64.08,
+      "duration": 6.0,
+      "text": "let us see how many have already lived. Modern humans arose some 200 thousand years ago.",
+      "en": "let us see how many have already lived. Modern humans arose some 200 thousand years ago.",
+      "zh": ""
+    },
+    {
+      "start": 70.8,
+      "duration": 3.2,
+      "text": "They were uniquely good at making tools, telling stories,",
+      "en": "They were uniquely good at making tools, telling stories,",
+      "zh": ""
+    },
+    {
+      "start": 74.0,
+      "duration": 4.8,
+      "text": "thinking abstractly, planning and working together in large groups beyond their close family.",
+      "en": "thinking abstractly, planning and working together in large groups beyond their close family.",
+      "zh": ""
+    },
+    {
+      "start": 79.68,
+      "duration": 6.16,
+      "text": "Still there were not that many of us. Surpluses in food were sparse, survival was hard,",
+      "en": "Still there were not that many of us. Surpluses in food were sparse, survival was hard,",
+      "zh": ""
+    },
+    {
+      "start": 85.84,
+      "duration": 6.72,
+      "text": "life expectancy was low. It took us 150,000 years to grow to a population of 2 million.",
+      "en": "life expectancy was low. It took us 150,000 years to grow to a population of 2 million.",
+      "zh": ""
+    },
+    {
+      "start": 93.44,
+      "duration": 4.72,
+      "text": "Improvements were gradual and eventually led to the agricultural revolution,",
+      "en": "Improvements were gradual and eventually led to the agricultural revolution,",
+      "zh": ""
+    },
+    {
+      "start": 98.16,
+      "duration": 5.2,
+      "text": "arguably the biggest change in our history. This was when our numbers really started",
+      "en": "arguably the biggest change in our history. This was when our numbers really started",
+      "zh": ""
+    },
+    {
+      "start": 103.36,
+      "duration": 5.92,
+      "text": "growing. It took ten thousand more years to get to 300 million. But that increase was dwarfed",
+      "en": "growing. It took ten thousand more years to get to 300 million. But that increase was dwarfed",
+      "zh": ""
+    },
+    {
+      "start": 109.28,
+      "duration": 6.24,
+      "text": "by the industrial revolution. In 1800 there were a billion of us. The human population",
+      "en": "by the industrial revolution. In 1800 there were a billion of us. The human population",
+      "zh": ""
+    },
+    {
+      "start": 115.52,
+      "duration": 6.64,
+      "text": "doubled in just 120 years and then again in fifty. Today, we number around 8 billion.",
+      "en": "doubled in just 120 years and then again in fifty. Today, we number around 8 billion.",
+      "zh": ""
+    },
+    {
+      "start": 122.96,
+      "duration": 6.32,
+      "text": "In total, over the last two hundred thousand years about 117 billion humans were born and lived,",
+      "en": "In total, over the last two hundred thousand years about 117 billion humans were born and lived,",
+      "zh": ""
+    },
+    {
+      "start": 129.28,
+      "duration": 6.8,
+      "text": "and 109 billion also died. Which means that about 7% of all humans that ever lived are alive",
+      "en": "and 109 billion also died. Which means that about 7% of all humans that ever lived are alive",
+      "zh": ""
+    },
+    {
+      "start": 136.08,
+      "duration": 7.36,
+      "text": "right now. As many as were born in the first 150,000 years of human history. Every minute,",
+      "en": "right now. As many as were born in the first 150,000 years of human history. Every minute,",
+      "zh": ""
+    },
+    {
+      "start": 143.44,
+      "duration": 7.2,
+      "text": "270 babies join the party. But there are not just more people, never before have we been as healthy",
+      "en": "270 babies join the party. But there are not just more people, never before have we been as healthy",
+      "zh": ""
+    },
+    {
+      "start": 150.64,
+      "duration": 5.52,
+      "text": "and well off, or lived longer. With growing living standards our birth rates collapsed.",
+      "en": "and well off, or lived longer. With growing living standards our birth rates collapsed.",
+      "zh": ""
+    },
+    {
+      "start": 157.04,
+      "duration": 5.2,
+      "text": "The UN estimates that around the year 2100 we will hit our population peak and there",
+      "en": "The UN estimates that around the year 2100 we will hit our population peak and there",
+      "zh": ""
+    },
+    {
+      "start": 162.24,
+      "duration": 6.08,
+      "text": "will be 125 million people born each year. It is pretty unlikely that birth rates will",
+      "en": "will be 125 million people born each year. It is pretty unlikely that birth rates will",
+      "zh": ""
+    },
+    {
+      "start": 168.32,
+      "duration": 4.08,
+      "text": "stay stable forever, but let’s pretend to make our thought experiment simpler.",
+      "en": "stay stable forever, but let’s pretend to make our thought experiment simpler.",
+      "zh": ""
+    },
+    {
+      "start": 173.36,
+      "duration": 4.72,
+      "text": "How many people there will be in the future depends on when our species will die out.",
+      "en": "How many people there will be in the future depends on when our species will die out.",
+      "zh": ""
+    },
+    {
+      "start": 178.08,
+      "duration": 5.28,
+      "text": "And here we find a lot of uncertainties. We are able to destroy ourselves through",
+      "en": "And here we find a lot of uncertainties. We are able to destroy ourselves through",
+      "zh": ""
+    },
+    {
+      "start": 183.36,
+      "duration": 5.04,
+      "text": "our own inventions – but we are also able to find solutions to avert catastrophic risk.",
+      "en": "our own inventions – but we are also able to find solutions to avert catastrophic risk.",
+      "zh": ""
+    },
+    {
+      "start": 189.12,
+      "duration": 4.72,
+      "text": "We can change the direction of planet killer asteroids but we’ve also invented nuclear weapons.",
+      "en": "We can change the direction of planet killer asteroids but we’ve also invented nuclear weapons.",
+      "zh": ""
+    },
+    {
+      "start": 194.48,
+      "duration": 5.6,
+      "text": "We discovered antibiotics but also carry diseases across the globe in a matter of days. Our",
+      "en": "We discovered antibiotics but also carry diseases across the globe in a matter of days. Our",
+      "zh": ""
+    },
+    {
+      "start": 200.08,
+      "duration": 4.64,
+      "text": "industrial system gave us an incredible standard of living but also changed the atmosphere in the",
+      "en": "industrial system gave us an incredible standard of living but also changed the atmosphere in the",
+      "zh": ""
+    },
+    {
+      "start": 204.72,
+      "duration": 7.44,
+      "text": "process. It is very hard to say if human ingenuity will prolong or shorten our species’ lifespan.",
+      "en": "process. It is very hard to say if human ingenuity will prolong or shorten our species’ lifespan.",
+      "zh": ""
+    },
+    {
+      "start": 212.16,
+      "duration": 5.12,
+      "text": "If things go badly our end could come suddenly. But if we manage to avoid that,",
+      "en": "If things go badly our end could come suddenly. But if we manage to avoid that,",
+      "zh": ""
+    },
+    {
+      "start": 217.28,
+      "duration": 5.6,
+      "text": "we could conceivably stick around for a long time. So every day we don’t destroy ourselves",
+      "en": "we could conceivably stick around for a long time. So every day we don’t destroy ourselves",
+      "zh": ""
+    },
+    {
+      "start": 222.88,
+      "duration": 5.52,
+      "text": "may mean life for an unfathomable number of humans. How many people are we talking about?",
+      "en": "may mean life for an unfathomable number of humans. How many people are we talking about?",
+      "zh": ""
+    },
+    {
+      "start": 229.36,
+      "duration": 3.36,
+      "text": "It depends on how far our species is going to expand.",
+      "en": "It depends on how far our species is going to expand.",
+      "zh": ""
+    },
+    {
+      "start": 234.0,
+      "duration": 2.96,
+      "text": "Scenario 1: Humans will never leave Earth",
+      "en": "Scenario 1: Humans will never leave Earth",
+      "zh": ""
+    },
+    {
+      "start": 238.24,
+      "duration": 4.72,
+      "text": "If we stay on our home planet, a good metric to look at is the extinction rate of animals",
+      "en": "If we stay on our home planet, a good metric to look at is the extinction rate of animals",
+      "zh": ""
+    },
+    {
+      "start": 242.96,
+      "duration": 4.8,
+      "text": "that we get from the fossil record. The average lifespan of mammalian species is",
+      "en": "that we get from the fossil record. The average lifespan of mammalian species is",
+      "zh": ""
+    },
+    {
+      "start": 247.76,
+      "duration": 3.92,
+      "text": "in the region of 1 million years, with some surviving up to 10 million years.",
+      "en": "in the region of 1 million years, with some surviving up to 10 million years.",
+      "zh": ""
+    },
+    {
+      "start": 252.88,
+      "duration": 4.72,
+      "text": "Our close relative homo erectus survived for about 1.9 million years.",
+      "en": "Our close relative homo erectus survived for about 1.9 million years.",
+      "zh": ""
+    },
+    {
+      "start": 258.64,
+      "duration": 4.88,
+      "text": "Let us be conservative and assume that humans will survive for a million years, which leaves",
+      "en": "Let us be conservative and assume that humans will survive for a million years, which leaves",
+      "zh": ""
+    },
+    {
+      "start": 263.52,
+      "duration": 6.96,
+      "text": "us 800,000 more years to dawdle away. Assuming a stable birth rate of 125 million people each year,",
+      "en": "us 800,000 more years to dawdle away. Assuming a stable birth rate of 125 million people each year,",
+      "zh": ""
+    },
+    {
+      "start": 270.48,
+      "duration": 3.68,
+      "text": "this means there are roughly 100 TRILLION humans waiting to be born.",
+      "en": "this means there are roughly 100 TRILLION humans waiting to be born.",
+      "zh": ""
+    },
+    {
+      "start": 274.96,
+      "duration": 4.0,
+      "text": "850 times greater than the number of people that have ever lived.",
+      "en": "850 times greater than the number of people that have ever lived.",
+      "zh": ""
+    },
+    {
+      "start": 279.68,
+      "duration": 6.64,
+      "text": "This would make everybody alive today only 0.008% of all people that will ever live.",
+      "en": "This would make everybody alive today only 0.008% of all people that will ever live.",
+      "zh": ""
+    },
+    {
+      "start": 287.28,
+      "duration": 4.64,
+      "text": "Think about where this leaves you. Instead of putting you at the end of the chaotic",
+      "en": "Think about where this leaves you. Instead of putting you at the end of the chaotic",
+      "zh": ""
+    },
+    {
+      "start": 291.92,
+      "duration": 4.72,
+      "text": "mess that was our past, it would mean you live at the very beginning of something big.",
+      "en": "mess that was our past, it would mean you live at the very beginning of something big.",
+      "zh": ""
+    },
+    {
+      "start": 297.36,
+      "duration": 5.76,
+      "text": "The start of the human story rather than the end. Doesn’t this feel incredibly different?",
+      "en": "The start of the human story rather than the end. Doesn’t this feel incredibly different?",
+      "zh": ""
+    },
+    {
+      "start": 304.56,
+      "duration": 3.84,
+      "text": "And now consider that this may be an extremely pessimistic estimate.",
+      "en": "And now consider that this may be an extremely pessimistic estimate.",
+      "zh": ""
+    },
+    {
+      "start": 309.28,
+      "duration": 4.56,
+      "text": "If we match the survival time of the most successful mammals, then our future numbers",
+      "en": "If we match the survival time of the most successful mammals, then our future numbers",
+      "zh": ""
+    },
+    {
+      "start": 313.84,
+      "duration": 7.2,
+      "text": "rise to 1.2 quadrillion people that have yet to be born. And even this seems far from our potential:",
+      "en": "rise to 1.2 quadrillion people that have yet to be born. And even this seems far from our potential:",
+      "zh": ""
+    },
+    {
+      "start": 321.04,
+      "duration": 6.32,
+      "text": "As the sun slowly gets hotter and brighter, earth will remain habitable for about 500 million years,",
+      "en": "As the sun slowly gets hotter and brighter, earth will remain habitable for about 500 million years,",
+      "zh": ""
+    },
+    {
+      "start": 327.36,
+      "duration": 4.48,
+      "text": "giving so many more potential people the chance to become actual people.",
+      "en": "giving so many more potential people the chance to become actual people.",
+      "zh": ""
+    },
+    {
+      "start": 333.04,
+      "duration": 2.72,
+      "text": "And now let’s begin to think big.",
+      "en": "And now let’s begin to think big.",
+      "zh": ""
+    },
+    {
+      "start": 337.2,
+      "duration": 2.88,
+      "text": "Scenario 2: Humans will leave Earth",
+      "en": "Scenario 2: Humans will leave Earth",
+      "zh": ""
+    },
+    {
+      "start": 341.36,
+      "duration": 3.84,
+      "text": "We went from humans worshipping the moon, to humans walking on it,",
+      "en": "We went from humans worshipping the moon, to humans walking on it,",
+      "zh": ""
+    },
+    {
+      "start": 345.2,
+      "duration": 5.2,
+      "text": "so who knows how much farther we can go? If we don't die out within the next few hundred years,",
+      "en": "so who knows how much farther we can go? If we don't die out within the next few hundred years,",
+      "zh": ""
+    },
+    {
+      "start": 350.4,
+      "duration": 4.32,
+      "text": "ideas that seem outlandish right now become serious considerations.",
+      "en": "ideas that seem outlandish right now become serious considerations.",
+      "zh": ""
+    },
+    {
+      "start": 355.92,
+      "duration": 4.16,
+      "text": "If we believe that we have a chance of surviving for maybe millions of years,",
+      "en": "If we believe that we have a chance of surviving for maybe millions of years,",
+      "zh": ""
+    },
+    {
+      "start": 360.08,
+      "duration": 6.0,
+      "text": "then we could expand onto the other planets or into our own artificial worlds. Life needs",
+      "en": "then we could expand onto the other planets or into our own artificial worlds. Life needs",
+      "zh": ""
+    },
+    {
+      "start": 366.08,
+      "duration": 3.2,
+      "text": "three things: a surface, resources and energy.",
+      "en": "three things: a surface, resources and energy.",
+      "zh": ""
+    },
+    {
+      "start": 370.16,
+      "duration": 5.28,
+      "text": "Our Sun provides energy for billions of years and there is so much water and material floating in",
+      "en": "Our Sun provides energy for billions of years and there is so much water and material floating in",
+      "zh": ""
+    },
+    {
+      "start": 375.44,
+      "duration": 4.4,
+      "text": "the asteroid and kuiper belt that we could sustain many times our current population.",
+      "en": "the asteroid and kuiper belt that we could sustain many times our current population.",
+      "zh": ""
+    },
+    {
+      "start": 380.88,
+      "duration": 5.68,
+      "text": "Instead of living on planets, we could decide to construct our own artificial worlds and habitats.",
+      "en": "Instead of living on planets, we could decide to construct our own artificial worlds and habitats.",
+      "zh": ""
+    },
+    {
+      "start": 387.12,
+      "duration": 5.12,
+      "text": "With resources and energy so abundant, we could try out different types of society and ways of",
+      "en": "With resources and energy so abundant, we could try out different types of society and ways of",
+      "zh": ""
+    },
+    {
+      "start": 392.24,
+      "duration": 5.92,
+      "text": "life. An interconnected civilization spanning the solar system would create the basis of existence",
+      "en": "life. An interconnected civilization spanning the solar system would create the basis of existence",
+      "zh": ""
+    },
+    {
+      "start": 398.16,
+      "duration": 5.12,
+      "text": "for an absurd number of individuals, orders of magnitude more than if we stick to earth, even",
+      "en": "for an absurd number of individuals, orders of magnitude more than if we stick to earth, even",
+      "zh": ""
+    },
+    {
+      "start": 403.28,
+      "duration": 6.88,
+      "text": "if it only existed for a few million years. This future doesn’t have to be grim and dark as science",
+      "en": "if it only existed for a few million years. This future doesn’t have to be grim and dark as science",
+      "zh": ""
+    },
+    {
+      "start": 410.16,
+      "duration": 5.68,
+      "text": "fiction likes to paint it. With quadrillions of people waiting to be born, we will have billions",
+      "en": "fiction likes to paint it. With quadrillions of people waiting to be born, we will have billions",
+      "zh": ""
+    },
+    {
+      "start": 415.84,
+      "duration": 5.6,
+      "text": "of doctors working on curing cancer, billions of problem solvers working on ending poverty and",
+      "en": "of doctors working on curing cancer, billions of problem solvers working on ending poverty and",
+      "zh": ""
+    },
+    {
+      "start": 421.44,
+      "duration": 6.64,
+      "text": "billions of video game developers making life fun. More humans may actually mean more progress.",
+      "en": "billions of video game developers making life fun. More humans may actually mean more progress.",
+      "zh": ""
+    },
+    {
+      "start": 429.84,
+      "duration": 4.56,
+      "text": "Another upside of leaving earth and spreading out is that it becomes much harder for us to",
+      "en": "Another upside of leaving earth and spreading out is that it becomes much harder for us to",
+      "zh": ""
+    },
+    {
+      "start": 434.4,
+      "duration": 4.8,
+      "text": "become extinct, as you need a solar system wide catastrophe to catch everybody.",
+      "en": "become extinct, as you need a solar system wide catastrophe to catch everybody.",
+      "zh": ""
+    },
+    {
+      "start": 439.84,
+      "duration": 3.2,
+      "text": "So aside from nearby supernovae or Gamma Rays bursts,",
+      "en": "So aside from nearby supernovae or Gamma Rays bursts,",
+      "zh": ""
+    },
+    {
+      "start": 443.04,
+      "duration": 4.24,
+      "text": "humanity would be relatively safe from extinction, maybe for billions of years.",
+      "en": "humanity would be relatively safe from extinction, maybe for billions of years.",
+      "zh": ""
+    },
+    {
+      "start": 448.48,
+      "duration": 5.2,
+      "text": "If we manage to survive for that long, slow evolution or genetic engineering might split us",
+      "en": "If we manage to survive for that long, slow evolution or genetic engineering might split us",
+      "zh": ""
+    },
+    {
+      "start": 453.68,
+      "duration": 4.72,
+      "text": "into multiple species, or we might intentionally keep ourselves the same as we are now.",
+      "en": "into multiple species, or we might intentionally keep ourselves the same as we are now.",
+      "zh": ""
+    },
+    {
+      "start": 459.2,
+      "duration": 4.64,
+      "text": "So to account for that, we’ll just talk about people from now on, instead of humans.",
+      "en": "So to account for that, we’ll just talk about people from now on, instead of humans.",
+      "zh": ""
+    },
+    {
+      "start": 464.72,
+      "duration": 2.8,
+      "text": "Ok. Now let us think really big.",
+      "en": "Ok. Now let us think really big.",
+      "zh": ""
+    },
+    {
+      "start": 468.56,
+      "duration": 2.96,
+      "text": "Szenario 3: People leave the Solar System",
+      "en": "Szenario 3: People leave the Solar System",
+      "zh": ""
+    },
+    {
+      "start": 472.24,
+      "duration": 5.6,
+      "text": "As enormous as the solar system is, it is just one star system among billions in the milky way.",
+      "en": "As enormous as the solar system is, it is just one star system among billions in the milky way.",
+      "zh": ""
+    },
+    {
+      "start": 478.72,
+      "duration": 5.84,
+      "text": "If future people can colonize, say, 100 billion stars and live there for 10 billion years, while",
+      "en": "If future people can colonize, say, 100 billion stars and live there for 10 billion years, while",
+      "zh": ""
+    },
+    {
+      "start": 484.56,
+      "duration": 5.68,
+      "text": "each generating 100 million births per year, then we can expect something like a hundred Octillion",
+      "en": "each generating 100 million births per year, then we can expect something like a hundred Octillion",
+      "zh": ""
+    },
+    {
+      "start": 490.24,
+      "duration": 7.04,
+      "text": "lives to be lived in the future. This is a 1 with 29 zeros, a hundred thousand trillion, trillion.",
+      "en": "lives to be lived in the future. This is a 1 with 29 zeros, a hundred thousand trillion, trillion.",
+      "zh": ""
+    },
+    {
+      "start": 498.08,
+      "duration": 5.52,
+      "text": "We can spin this up as much as we like. The Andromeda Galaxy will merge with the Milky way,",
+      "en": "We can spin this up as much as we like. The Andromeda Galaxy will merge with the Milky way,",
+      "zh": ""
+    },
+    {
+      "start": 503.6,
+      "duration": 5.2,
+      "text": "adding another trillion stars for us to settle. Red Dwarfs stay active for up to a trillion",
+      "en": "adding another trillion stars for us to settle. Red Dwarfs stay active for up to a trillion",
+      "zh": ""
+    },
+    {
+      "start": 508.8,
+      "duration": 5.36,
+      "text": "years and future civilizations might even find energy for their habitats around black holes.",
+      "en": "years and future civilizations might even find energy for their habitats around black holes.",
+      "zh": ""
+    },
+    {
+      "start": 515.12,
+      "duration": 4.56,
+      "text": "A sufficiently advanced civilization of our descendants might even try to reach other",
+      "en": "A sufficiently advanced civilization of our descendants might even try to reach other",
+      "zh": ""
+    },
+    {
+      "start": 519.68,
+      "duration": 5.44,
+      "text": "galaxy groups. While these numbers are mind blowing, they may underestimate the number of",
+      "en": "galaxy groups. While these numbers are mind blowing, they may underestimate the number of",
+      "zh": ""
+    },
+    {
+      "start": 525.12,
+      "duration": 6.0,
+      "text": "unborn people by many orders of magnitude. If we divide the total energy available in a galaxy by",
+      "en": "unborn people by many orders of magnitude. If we divide the total energy available in a galaxy by",
+      "zh": ""
+    },
+    {
+      "start": 531.12,
+      "duration": 4.96,
+      "text": "the average energy needs of a single person, then we get a tredecillion potential lives.",
+      "en": "the average energy needs of a single person, then we get a tredecillion potential lives.",
+      "zh": ""
+    },
+    {
+      "start": 536.88,
+      "duration": 3.84,
+      "text": "A million, trillion, trillion, trillion potential people.",
+      "en": "A million, trillion, trillion, trillion potential people.",
+      "zh": ""
+    },
+    {
+      "start": 542.24,
+      "duration": 0.64,
+      "text": "Conclusion",
+      "en": "Conclusion",
+      "zh": ""
+    },
+    {
+      "start": 543.6,
+      "duration": 3.68,
+      "text": "Hopefully what has become evident is that if we don’t kill ourselves in the next",
+      "en": "Hopefully what has become evident is that if we don’t kill ourselves in the next",
+      "zh": ""
+    },
+    {
+      "start": 547.28,
+      "duration": 4.88,
+      "text": "few centuries or millennia, almost all humans that will ever exist, will live in the future.",
+      "en": "few centuries or millennia, almost all humans that will ever exist, will live in the future.",
+      "zh": ""
+    },
+    {
+      "start": 552.72,
+      "duration": 6.48,
+      "text": "Which brings us back to us, in the present. We exist at a highpoint of human history,",
+      "en": "Which brings us back to us, in the present. We exist at a highpoint of human history,",
+      "zh": ""
+    },
+    {
+      "start": 559.2,
+      "duration": 6.56,
+      "text": "with incredible possibilities at our grasp. Technological, environmental and societal.",
+      "en": "with incredible possibilities at our grasp. Technological, environmental and societal.",
+      "zh": ""
+    },
+    {
+      "start": 566.72,
+      "duration": 3.36,
+      "text": "What we do matters for all the people who do not exist yet.",
+      "en": "What we do matters for all the people who do not exist yet.",
+      "zh": ""
+    },
+    {
+      "start": 570.88,
+      "duration": 3.68,
+      "text": "So while it is not en vogue to think about humanity's long term future with",
+      "en": "So while it is not en vogue to think about humanity's long term future with",
+      "zh": ""
+    },
+    {
+      "start": 574.56,
+      "duration": 4.48,
+      "text": "optimism – or to think about it at all –, maybe this has given you a bit of perspective.",
+      "en": "optimism – or to think about it at all –, maybe this has given you a bit of perspective.",
+      "zh": ""
+    },
+    {
+      "start": 579.92,
+      "duration": 3.92,
+      "text": "If we screw up the present, so many people may never come to exist.",
+      "en": "If we screw up the present, so many people may never come to exist.",
+      "zh": ""
+    },
+    {
+      "start": 584.56,
+      "duration": 6.48,
+      "text": "Quadrillions of unborn humans are at our mercy. Even if we go with fairly conservative estimates,",
+      "en": "Quadrillions of unborn humans are at our mercy. Even if we go with fairly conservative estimates,",
+      "zh": ""
+    },
+    {
+      "start": 591.04,
+      "duration": 6.64,
+      "text": "the unborn are by far the largest group of people – and the most disenfranchised. Somebody who might",
+      "en": "the unborn are by far the largest group of people – and the most disenfranchised. Somebody who might",
+      "zh": ""
+    },
+    {
+      "start": 597.68,
+      "duration": 5.2,
+      "text": "be born in a thousand or even a million years deeply depends on us today for their existence.",
+      "en": "be born in a thousand or even a million years deeply depends on us today for their existence.",
+      "zh": ""
+    },
+    {
+      "start": 603.84,
+      "duration": 5.76,
+      "text": "This is why it is important to think about the distant future and why our presence is so crucial,",
+      "en": "This is why it is important to think about the distant future and why our presence is so crucial,",
+      "zh": ""
+    },
+    {
+      "start": 609.6,
+      "duration": 6.88,
+      "text": "why it matters what we do today. One day the last human will be born. We don’t know when.",
+      "en": "why it matters what we do today. One day the last human will be born. We don’t know when.",
+      "zh": ""
+    },
+    {
+      "start": 616.48,
+      "duration": 4.32,
+      "text": "But if we change our perspective from us living at the end of the human story,",
+      "en": "But if we change our perspective from us living at the end of the human story,",
+      "zh": ""
+    },
+    {
+      "start": 620.8,
+      "duration": 4.8,
+      "text": "to us living at the very beginning we can not only build a wonderful world for us",
+      "en": "to us living at the very beginning we can not only build a wonderful world for us",
+      "zh": ""
+    },
+    {
+      "start": 625.6,
+      "duration": 6.72,
+      "text": "and for them but also for countless numbers of others.",
+      "en": "and for them but also for countless numbers of others.",
+      "zh": ""
+    },
+    {
+      "start": 632.32,
+      "duration": 7.12,
+      "text": "HUGE announcement: we are launching Kurzgesagt in six more languages! Arabic, Brazilian Portuguese,",
+      "en": "HUGE announcement: we are launching Kurzgesagt in six more languages! Arabic, Brazilian Portuguese,",
+      "zh": ""
+    },
+    {
+      "start": 639.44,
+      "duration": 7.12,
+      "text": "French, Hindi, Japanese and Korean, on top of our English, German and Spanish channels. To bring",
+      "en": "French, Hindi, Japanese and Korean, on top of our English, German and Spanish channels. To bring",
+      "zh": ""
+    },
+    {
+      "start": 646.56,
+      "duration": 5.28,
+      "text": "new perspectives and a love for science to as many people as possible – especially to some",
+      "en": "new perspectives and a love for science to as many people as possible – especially to some",
+      "zh": ""
+    },
+    {
+      "start": 651.84,
+      "duration": 4.0,
+      "text": "languages that are underserved because it is not profitable to translate to.",
+      "en": "languages that are underserved because it is not profitable to translate to.",
+      "zh": ""
+    },
+    {
+      "start": 656.4,
+      "duration": 3.92,
+      "text": "If enough people watch our new channels, we hopefully can run them for many years to come!",
+      "en": "If enough people watch our new channels, we hopefully can run them for many years to come!",
+      "zh": ""
+    },
+    {
+      "start": 660.96,
+      "duration": 6.96,
+      "text": "This is where we need YOUR help. It takes us a lot of time, effort and yes, money to translate",
+      "en": "This is where we need YOUR help. It takes us a lot of time, effort and yes, money to translate",
+      "zh": ""
+    },
+    {
+      "start": 667.92,
+      "duration": 5.76,
+      "text": "our videos properly and run so many channels – so to make this sustainable, please help",
+      "en": "our videos properly and run so many channels – so to make this sustainable, please help",
+      "zh": ""
+    },
+    {
+      "start": 673.68,
+      "duration": 5.6,
+      "text": "us spread the word!If you are a native in one of these languages, share our videos on social media",
+      "en": "us spread the word!If you are a native in one of these languages, share our videos on social media",
+      "zh": ""
+    },
+    {
+      "start": 679.28,
+      "duration": 4.8,
+      "text": "and tell your friends and family – make people in your native language aware that it exists.",
+      "en": "and tell your friends and family – make people in your native language aware that it exists.",
+      "zh": ""
+    },
+    {
+      "start": 684.8,
+      "duration": 3.44,
+      "text": "This multi language expansion is supported by Open Philanthropy,",
+      "en": "This multi language expansion is supported by Open Philanthropy,",
+      "zh": ""
+    },
+    {
+      "start": 688.24,
+      "duration": 4.88,
+      "text": "an organization that tries to do as much good as possible. They want to help us spread awareness",
+      "en": "an organization that tries to do as much good as possible. They want to help us spread awareness",
+      "zh": ""
+    },
+    {
+      "start": 693.12,
+      "duration": 5.76,
+      "text": "of science, and ideas for how YOU can help humanity thrive. Their values align with",
+      "en": "of science, and ideas for how YOU can help humanity thrive. Their values align with",
+      "zh": ""
+    },
+    {
+      "start": 698.88,
+      "duration": 4.48,
+      "text": "ours in many fundamental ways so we are going to work with them on more projects in the future.",
+      "en": "ours in many fundamental ways so we are going to work with them on more projects in the future.",
+      "zh": ""
+    },
+    {
+      "start": 703.92,
+      "duration": 11.92,
+      "text": "So please help us spread the word – and thank you for watching.",
+      "en": "So please help us spread the word – and thank you for watching.",
+      "zh": ""
+    }
+  ],
+  "words": []
+}

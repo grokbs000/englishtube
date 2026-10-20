@@ -1,0 +1,5108 @@
+{
+  "cues": [
+    {
+      "start": 0.06,
+      "duration": 3.21,
+      "text": "- You are not looking at a yellow ball.",
+      "en": "- You are not looking at a yellow ball.",
+      "zh": ""
+    },
+    {
+      "start": 3.27,
+      "duration": 2.82,
+      "text": "Your brain might think you're looking at a yellow ball,",
+      "en": "Your brain might think you're looking at a yellow ball,",
+      "zh": ""
+    },
+    {
+      "start": 6.09,
+      "duration": 1.74,
+      "text": "but look closer.",
+      "en": "but look closer.",
+      "zh": ""
+    },
+    {
+      "start": 7.83,
+      "duration": 3.42,
+      "text": "The screen you're watching this on displays color using only",
+      "en": "The screen you're watching this on displays color using only",
+      "zh": ""
+    },
+    {
+      "start": 11.25,
+      "duration": 2.61,
+      "text": "red, green, and blue subpixels.",
+      "en": "red, green, and blue subpixels.",
+      "zh": ""
+    },
+    {
+      "start": 13.86,
+      "duration": 2.58,
+      "text": "The yellow your brain thinks it's seeing is actually",
+      "en": "The yellow your brain thinks it's seeing is actually",
+      "zh": ""
+    },
+    {
+      "start": 16.44,
+      "duration": 2.61,
+      "text": "a mix of red and green light.",
+      "en": "a mix of red and green light.",
+      "zh": ""
+    },
+    {
+      "start": 19.05,
+      "duration": 2.7,
+      "text": "The camera I'm talking to right now has a sensor composed",
+      "en": "The camera I'm talking to right now has a sensor composed",
+      "zh": ""
+    },
+    {
+      "start": 21.75,
+      "duration": 2.67,
+      "text": "of red, green, and blue-sensitive photosites.",
+      "en": "of red, green, and blue-sensitive photosites.",
+      "zh": ""
+    },
+    {
+      "start": 24.42,
+      "duration": 2.73,
+      "text": "Again, no yellow.",
+      "en": "Again, no yellow.",
+      "zh": ""
+    },
+    {
+      "start": 27.15,
+      "duration": 2.67,
+      "text": "Of course, I have the ball here in my hand,",
+      "en": "Of course, I have the ball here in my hand,",
+      "zh": ""
+    },
+    {
+      "start": 29.82,
+      "duration": 3.57,
+      "text": "so I am looking at a yellow ball,",
+      "en": "so I am looking at a yellow ball,",
+      "zh": ""
+    },
+    {
+      "start": 33.39,
+      "duration": 0.98,
+      "text": "or am I?",
+      "en": "or am I?",
+      "zh": ""
+    },
+    {
+      "start": 34.37,
+      "duration": 1.06,
+      "text": "(light mysterious music)",
+      "en": "(light mysterious music)",
+      "zh": ""
+    },
+    {
+      "start": 35.43,
+      "duration": 3.6,
+      "text": "After all my eyes aren't so different from that camera.",
+      "en": "After all my eyes aren't so different from that camera.",
+      "zh": ""
+    },
+    {
+      "start": 39.03,
+      "duration": 3.39,
+      "text": "The human retina only has cone cells sensitive to red,",
+      "en": "The human retina only has cone cells sensitive to red,",
+      "zh": ""
+    },
+    {
+      "start": 42.42,
+      "duration": 2.55,
+      "text": "green, or blue wavelengths of light.",
+      "en": "green, or blue wavelengths of light.",
+      "zh": ""
+    },
+    {
+      "start": 44.97,
+      "duration": 3.36,
+      "text": "To perceive other colors, we have to integrate the inputs",
+      "en": "To perceive other colors, we have to integrate the inputs",
+      "zh": ""
+    },
+    {
+      "start": 48.33,
+      "duration": 2.25,
+      "text": "from those three cone types.",
+      "en": "from those three cone types.",
+      "zh": ""
+    },
+    {
+      "start": 50.58,
+      "duration": 3.69,
+      "text": "When yellow light enters my eye, it stimulates my red",
+      "en": "When yellow light enters my eye, it stimulates my red",
+      "zh": ""
+    },
+    {
+      "start": 54.27,
+      "duration": 2.13,
+      "text": "and green-sensitive cone cells,",
+      "en": "and green-sensitive cone cells,",
+      "zh": ""
+    },
+    {
+      "start": 56.4,
+      "duration": 3.72,
+      "text": "although not as much as pure red, or green light would.",
+      "en": "although not as much as pure red, or green light would.",
+      "zh": ""
+    },
+    {
+      "start": 60.12,
+      "duration": 3.39,
+      "text": "With red and green-sensitive cones equally excited,",
+      "en": "With red and green-sensitive cones equally excited,",
+      "zh": ""
+    },
+    {
+      "start": 63.51,
+      "duration": 3.42,
+      "text": "my brain tells me I'm looking at yellow.",
+      "en": "my brain tells me I'm looking at yellow.",
+      "zh": ""
+    },
+    {
+      "start": 66.93,
+      "duration": 1.98,
+      "text": "This is how our technology, our cameras,",
+      "en": "This is how our technology, our cameras,",
+      "zh": ""
+    },
+    {
+      "start": 68.91,
+      "duration": 2.7,
+      "text": "and screens, and projectors can trick our brains",
+      "en": "and screens, and projectors can trick our brains",
+      "zh": ""
+    },
+    {
+      "start": 71.61,
+      "duration": 2.79,
+      "text": "into seeing a whole rainbow of colors",
+      "en": "into seeing a whole rainbow of colors",
+      "zh": ""
+    },
+    {
+      "start": 74.4,
+      "duration": 2.31,
+      "text": "using just three wavelengths of light",
+      "en": "using just three wavelengths of light",
+      "zh": ""
+    },
+    {
+      "start": 76.71,
+      "duration": 2.76,
+      "text": "by triggering our three different types of cone cells",
+      "en": "by triggering our three different types of cone cells",
+      "zh": ""
+    },
+    {
+      "start": 79.47,
+      "duration": 1.62,
+      "text": "in different proportions.",
+      "en": "in different proportions.",
+      "zh": ""
+    },
+    {
+      "start": 82.2,
+      "duration": 3.27,
+      "text": "So is the ball really yellow?",
+      "en": "So is the ball really yellow?",
+      "zh": ""
+    },
+    {
+      "start": 85.47,
+      "duration": 2.76,
+      "text": "What does yellow even mean?",
+      "en": "What does yellow even mean?",
+      "zh": ""
+    },
+    {
+      "start": 88.23,
+      "duration": 1.77,
+      "text": "A lot of people would say that color is",
+      "en": "A lot of people would say that color is",
+      "zh": ""
+    },
+    {
+      "start": 90.0,
+      "duration": 2.73,
+      "text": "the wavelengths of light that an object reflects.",
+      "en": "the wavelengths of light that an object reflects.",
+      "zh": ""
+    },
+    {
+      "start": 92.73,
+      "duration": 1.71,
+      "text": "In other words, like Aristotle thought,",
+      "en": "In other words, like Aristotle thought,",
+      "zh": ""
+    },
+    {
+      "start": 94.44,
+      "duration": 2.73,
+      "text": "color is a property of the object.",
+      "en": "color is a property of the object.",
+      "zh": ""
+    },
+    {
+      "start": 97.17,
+      "duration": 2.55,
+      "text": "But looking at the same ball on a screen,",
+      "en": "But looking at the same ball on a screen,",
+      "zh": ""
+    },
+    {
+      "start": 99.72,
+      "duration": 2.43,
+      "text": "your eyes only sensed red and green light,",
+      "en": "your eyes only sensed red and green light,",
+      "zh": ""
+    },
+    {
+      "start": 102.15,
+      "duration": 3.57,
+      "text": "yet your brain still perceived it as yellow.",
+      "en": "yet your brain still perceived it as yellow.",
+      "zh": ""
+    },
+    {
+      "start": 105.72,
+      "duration": 2.67,
+      "text": "So it's also possible, like Galileo believed,",
+      "en": "So it's also possible, like Galileo believed,",
+      "zh": ""
+    },
+    {
+      "start": 108.39,
+      "duration": 2.76,
+      "text": "that color isn't a property of an object at all,",
+      "en": "that color isn't a property of an object at all,",
+      "zh": ""
+    },
+    {
+      "start": 111.15,
+      "duration": 3.96,
+      "text": "but a phenomenon of the mind instead.",
+      "en": "but a phenomenon of the mind instead.",
+      "zh": ""
+    },
+    {
+      "start": 115.11,
+      "duration": 1.53,
+      "text": "But whose mind?",
+      "en": "But whose mind?",
+      "zh": ""
+    },
+    {
+      "start": 116.64,
+      "duration": 2.1,
+      "text": "Because we aren't the only animals",
+      "en": "Because we aren't the only animals",
+      "zh": ""
+    },
+    {
+      "start": 118.74,
+      "duration": 2.16,
+      "text": "that can see the world in color.",
+      "en": "that can see the world in color.",
+      "zh": ""
+    },
+    {
+      "start": 120.9,
+      "duration": 2.16,
+      "text": "- We oftentimes don't really think about",
+      "en": "- We oftentimes don't really think about",
+      "zh": ""
+    },
+    {
+      "start": 123.06,
+      "duration": 1.92,
+      "text": "how other animals see color.",
+      "en": "how other animals see color.",
+      "zh": ""
+    },
+    {
+      "start": 124.98,
+      "duration": 3.03,
+      "text": "So for example, we buy our dogs bright red,",
+      "en": "So for example, we buy our dogs bright red,",
+      "zh": ""
+    },
+    {
+      "start": 128.01,
+      "duration": 3.57,
+      "text": "or orange toys that are only bright red, or orange for us,",
+      "en": "or orange toys that are only bright red, or orange for us,",
+      "zh": ""
+    },
+    {
+      "start": 131.58,
+      "duration": 2.28,
+      "text": "and not for them, because they can't see orange,",
+      "en": "and not for them, because they can't see orange,",
+      "zh": ""
+    },
+    {
+      "start": 133.86,
+      "duration": 2.22,
+      "text": "or red as being distinct from green.",
+      "en": "or red as being distinct from green.",
+      "zh": ""
+    },
+    {
+      "start": 136.08,
+      "duration": 1.95,
+      "text": "- [Derek] So maybe we should start taking in the world",
+      "en": "- [Derek] So maybe we should start taking in the world",
+      "zh": ""
+    },
+    {
+      "start": 138.03,
+      "duration": 2.46,
+      "text": "from more than just the human perspective.",
+      "en": "from more than just the human perspective.",
+      "zh": ""
+    },
+    {
+      "start": 140.49,
+      "duration": 2.25,
+      "text": "Doing that might just teach us why color vision",
+      "en": "Doing that might just teach us why color vision",
+      "zh": ""
+    },
+    {
+      "start": 142.74,
+      "duration": 1.68,
+      "text": "evolved in the first place.",
+      "en": "evolved in the first place.",
+      "zh": ""
+    },
+    {
+      "start": 145.5,
+      "duration": 1.53,
+      "text": "- We're actually towards",
+      "en": "- We're actually towards",
+      "zh": ""
+    },
+    {
+      "start": 147.03,
+      "duration": 2.49,
+      "text": "the lower end of the spectrum, honestly.",
+      "en": "the lower end of the spectrum, honestly.",
+      "zh": ""
+    },
+    {
+      "start": 149.52,
+      "duration": 3.36,
+      "text": "We're a step up from our household pets, maybe,",
+      "en": "We're a step up from our household pets, maybe,",
+      "zh": ""
+    },
+    {
+      "start": 152.88,
+      "duration": 1.62,
+      "text": "if they're cats, or dogs,",
+      "en": "if they're cats, or dogs,",
+      "zh": ""
+    },
+    {
+      "start": 154.5,
+      "duration": 3.6,
+      "text": "but not nearly as good as many animal groups out there,",
+      "en": "but not nearly as good as many animal groups out there,",
+      "zh": ""
+    },
+    {
+      "start": 158.1,
+      "duration": 3.69,
+      "text": "butterflies, birds, fish, lizards, jumping spiders.",
+      "en": "butterflies, birds, fish, lizards, jumping spiders.",
+      "zh": ""
+    },
+    {
+      "start": 162.9,
+      "duration": 2.4,
+      "text": "Jumping spiders are harmless creatures, actually.",
+      "en": "Jumping spiders are harmless creatures, actually.",
+      "zh": ""
+    },
+    {
+      "start": 165.3,
+      "duration": 1.74,
+      "text": "They don't ever really get big enough to pose",
+      "en": "They don't ever really get big enough to pose",
+      "zh": ""
+    },
+    {
+      "start": 167.04,
+      "duration": 1.35,
+      "text": "much of a threat to humans.",
+      "en": "much of a threat to humans.",
+      "zh": ""
+    },
+    {
+      "start": 168.39,
+      "duration": 1.74,
+      "text": "Of course, if you were a small insect,",
+      "en": "Of course, if you were a small insect,",
+      "zh": ""
+    },
+    {
+      "start": 170.13,
+      "duration": 2.07,
+      "text": "yes, you would absolutely need to be afraid",
+      "en": "yes, you would absolutely need to be afraid",
+      "zh": ""
+    },
+    {
+      "start": 172.2,
+      "duration": 1.56,
+      "text": "of a jumping spider.",
+      "en": "of a jumping spider.",
+      "zh": ""
+    },
+    {
+      "start": 173.76,
+      "duration": 1.59,
+      "text": "- [Lisa] They'll take down prey that's sometimes",
+      "en": "- [Lisa] They'll take down prey that's sometimes",
+      "zh": ""
+    },
+    {
+      "start": 175.35,
+      "duration": 2.37,
+      "text": "like two, or three times their own body size.",
+      "en": "like two, or three times their own body size.",
+      "zh": ""
+    },
+    {
+      "start": 178.98,
+      "duration": 2.85,
+      "text": "- The Chinese word for jumping spider translates literally",
+      "en": "- The Chinese word for jumping spider translates literally",
+      "zh": ""
+    },
+    {
+      "start": 181.83,
+      "duration": 3.0,
+      "text": "to fly tiger, and that's the way I like to think about them",
+      "en": "to fly tiger, and that's the way I like to think about them",
+      "zh": ""
+    },
+    {
+      "start": 184.83,
+      "duration": 3.54,
+      "text": "is the kind of small cats of the undergrowth.",
+      "en": "is the kind of small cats of the undergrowth.",
+      "zh": ""
+    },
+    {
+      "start": 188.37,
+      "duration": 1.74,
+      "text": "- Jumping spiders are everywhere.",
+      "en": "- Jumping spiders are everywhere.",
+      "zh": ""
+    },
+    {
+      "start": 190.11,
+      "duration": 1.02,
+      "text": "They're in your backyard.",
+      "en": "They're in your backyard.",
+      "zh": ""
+    },
+    {
+      "start": 191.13,
+      "duration": 1.8,
+      "text": "They're probably in your kitchen.",
+      "en": "They're probably in your kitchen.",
+      "zh": ""
+    },
+    {
+      "start": 192.93,
+      "duration": 5.0,
+      "text": "- There are about 6,000 species of jumping spiders known.",
+      "en": "- There are about 6,000 species of jumping spiders known.",
+      "zh": ""
+    },
+    {
+      "start": 198.09,
+      "duration": 2.55,
+      "text": "Some are sort of furry, some are sort of shiny,",
+      "en": "Some are sort of furry, some are sort of shiny,",
+      "zh": ""
+    },
+    {
+      "start": 200.64,
+      "duration": 3.36,
+      "text": "striped, spotted, red, green, blue.",
+      "en": "striped, spotted, red, green, blue.",
+      "zh": ""
+    },
+    {
+      "start": 204.0,
+      "duration": 1.62,
+      "text": "Pretty much anything you can imagine.",
+      "en": "Pretty much anything you can imagine.",
+      "zh": ""
+    },
+    {
+      "start": 205.62,
+      "duration": 2.46,
+      "text": "It's like every one is a little work of art.",
+      "en": "It's like every one is a little work of art.",
+      "zh": ""
+    },
+    {
+      "start": 208.08,
+      "duration": 3.09,
+      "text": "- As a group, spiders aren't known for their vision.",
+      "en": "- As a group, spiders aren't known for their vision.",
+      "zh": ""
+    },
+    {
+      "start": 211.17,
+      "duration": 1.8,
+      "text": "I mean, most species are nocturnal,",
+      "en": "I mean, most species are nocturnal,",
+      "zh": ""
+    },
+    {
+      "start": 212.97,
+      "duration": 4.05,
+      "text": "and for many, their webs act as a sort of extra sense organ,",
+      "en": "and for many, their webs act as a sort of extra sense organ,",
+      "zh": ""
+    },
+    {
+      "start": 217.02,
+      "duration": 2.88,
+      "text": "so they just don't need to see that well.",
+      "en": "so they just don't need to see that well.",
+      "zh": ""
+    },
+    {
+      "start": 220.95,
+      "duration": 3.75,
+      "text": "But jumping spiders, as active daytime hunters,",
+      "en": "But jumping spiders, as active daytime hunters,",
+      "zh": ""
+    },
+    {
+      "start": 224.7,
+      "duration": 1.08,
+      "text": "well, they're different.",
+      "en": "well, they're different.",
+      "zh": ""
+    },
+    {
+      "start": 225.78,
+      "duration": 2.16,
+      "text": "Not only do they have great eyesight,",
+      "en": "Not only do they have great eyesight,",
+      "zh": ""
+    },
+    {
+      "start": 227.94,
+      "duration": 4.05,
+      "text": "but different species have different forms of color vision.",
+      "en": "but different species have different forms of color vision.",
+      "zh": ""
+    },
+    {
+      "start": 231.99,
+      "duration": 1.05,
+      "text": "Look at those eyes.",
+      "en": "Look at those eyes.",
+      "zh": ""
+    },
+    {
+      "start": 234.15,
+      "duration": 2.34,
+      "text": "- Jumping spider eyes are fascinating,",
+      "en": "- Jumping spider eyes are fascinating,",
+      "zh": ""
+    },
+    {
+      "start": 236.49,
+      "duration": 3.06,
+      "text": "and when I say eyes, I mean eight eyes.",
+      "en": "and when I say eyes, I mean eight eyes.",
+      "zh": ""
+    },
+    {
+      "start": 239.55,
+      "duration": 3.0,
+      "text": "Jumping spiders split up things like motion detection",
+      "en": "Jumping spiders split up things like motion detection",
+      "zh": ""
+    },
+    {
+      "start": 242.55,
+      "duration": 2.43,
+      "text": "and light sensitivity to some eyes,",
+      "en": "and light sensitivity to some eyes,",
+      "zh": ""
+    },
+    {
+      "start": 244.98,
+      "duration": 3.78,
+      "text": "and then color vision and fine detail vision into others.",
+      "en": "and then color vision and fine detail vision into others.",
+      "zh": ""
+    },
+    {
+      "start": 248.76,
+      "duration": 2.37,
+      "text": "The pair of eyes that are perhaps the most fascinating,",
+      "en": "The pair of eyes that are perhaps the most fascinating,",
+      "zh": ""
+    },
+    {
+      "start": 251.13,
+      "duration": 3.21,
+      "text": "or most unusual are what we call the principal eyes,",
+      "en": "or most unusual are what we call the principal eyes,",
+      "zh": ""
+    },
+    {
+      "start": 254.34,
+      "duration": 3.3,
+      "text": "and those are the really big eyes in the front of the face",
+      "en": "and those are the really big eyes in the front of the face",
+      "zh": ""
+    },
+    {
+      "start": 257.64,
+      "duration": 2.55,
+      "text": "that make jumping spiders look a little cute",
+      "en": "that make jumping spiders look a little cute",
+      "zh": ""
+    },
+    {
+      "start": 260.19,
+      "duration": 3.48,
+      "text": "if you're willing to say a spider looks cute ever,",
+      "en": "if you're willing to say a spider looks cute ever,",
+      "zh": ""
+    },
+    {
+      "start": 263.67,
+      "duration": 2.13,
+      "text": "and those are built unlike any other eye",
+      "en": "and those are built unlike any other eye",
+      "zh": ""
+    },
+    {
+      "start": 265.8,
+      "duration": 1.68,
+      "text": "in the animal kingdom.",
+      "en": "in the animal kingdom.",
+      "zh": ""
+    },
+    {
+      "start": 267.48,
+      "duration": 0.96,
+      "text": "- [Derek] It turns out",
+      "en": "- [Derek] It turns out",
+      "zh": ""
+    },
+    {
+      "start": 268.44,
+      "duration": 3.63,
+      "text": "the way jumping spiders perceive color has everything to do",
+      "en": "the way jumping spiders perceive color has everything to do",
+      "zh": ""
+    },
+    {
+      "start": 272.07,
+      "duration": 3.27,
+      "text": "with the anatomy of those principal eyes.",
+      "en": "with the anatomy of those principal eyes.",
+      "zh": ""
+    },
+    {
+      "start": 275.34,
+      "duration": 1.23,
+      "text": "- [Nathan] They're really actually built",
+      "en": "- [Nathan] They're really actually built",
+      "zh": ""
+    },
+    {
+      "start": 276.57,
+      "duration": 4.44,
+      "text": "a lot like a Galilean telescope, or binoculars.",
+      "en": "a lot like a Galilean telescope, or binoculars.",
+      "zh": ""
+    },
+    {
+      "start": 281.01,
+      "duration": 3.39,
+      "text": "That big lens that you see from the outside of the animal is",
+      "en": "That big lens that you see from the outside of the animal is",
+      "zh": ""
+    },
+    {
+      "start": 284.4,
+      "duration": 2.46,
+      "text": "one of two lenses in these eyes,",
+      "en": "one of two lenses in these eyes,",
+      "zh": ""
+    },
+    {
+      "start": 286.86,
+      "duration": 2.25,
+      "text": "and in between those two lenses is",
+      "en": "and in between those two lenses is",
+      "zh": ""
+    },
+    {
+      "start": 289.11,
+      "duration": 2.34,
+      "text": "a long fluid-filled tube.",
+      "en": "a long fluid-filled tube.",
+      "zh": ""
+    },
+    {
+      "start": 291.45,
+      "duration": 3.9,
+      "text": "At the end of that fluid-filled tube is a second lens,",
+      "en": "At the end of that fluid-filled tube is a second lens,",
+      "zh": ""
+    },
+    {
+      "start": 295.35,
+      "duration": 3.39,
+      "text": "and what that lens does is it magnifies the image that",
+      "en": "and what that lens does is it magnifies the image that",
+      "zh": ""
+    },
+    {
+      "start": 298.74,
+      "duration": 3.09,
+      "text": "that first lens projects down that long tube,",
+      "en": "that first lens projects down that long tube,",
+      "zh": ""
+    },
+    {
+      "start": 301.83,
+      "duration": 3.93,
+      "text": "and in that way, it increases the ability to see detail",
+      "en": "and in that way, it increases the ability to see detail",
+      "zh": ""
+    },
+    {
+      "start": 305.76,
+      "duration": 1.95,
+      "text": "by the retina that sits right below it.",
+      "en": "by the retina that sits right below it.",
+      "zh": ""
+    },
+    {
+      "start": 308.55,
+      "duration": 2.04,
+      "text": "- [Derek] And when it comes to seeing detail,",
+      "en": "- [Derek] And when it comes to seeing detail,",
+      "zh": ""
+    },
+    {
+      "start": 310.59,
+      "duration": 3.06,
+      "text": "it's hard to beat a jumping spider.",
+      "en": "it's hard to beat a jumping spider.",
+      "zh": ""
+    },
+    {
+      "start": 313.65,
+      "duration": 1.65,
+      "text": "- For most animals, the bigger the eye,",
+      "en": "- For most animals, the bigger the eye,",
+      "zh": ""
+    },
+    {
+      "start": 315.3,
+      "duration": 1.89,
+      "text": "the better it functions.",
+      "en": "the better it functions.",
+      "zh": ""
+    },
+    {
+      "start": 317.19,
+      "duration": 3.6,
+      "text": "Jumping spiders absolutely break this rule.",
+      "en": "Jumping spiders absolutely break this rule.",
+      "zh": ""
+    },
+    {
+      "start": 320.79,
+      "duration": 2.73,
+      "text": "The secondary eyes can see the world",
+      "en": "The secondary eyes can see the world",
+      "zh": ""
+    },
+    {
+      "start": 323.52,
+      "duration": 4.47,
+      "text": "about as well as the absolute best insect eyes out there,",
+      "en": "about as well as the absolute best insect eyes out there,",
+      "zh": ""
+    },
+    {
+      "start": 327.99,
+      "duration": 2.37,
+      "text": "better than the world's biggest dragonflies,",
+      "en": "better than the world's biggest dragonflies,",
+      "zh": ""
+    },
+    {
+      "start": 330.36,
+      "duration": 3.63,
+      "text": "whose entire head is consumed by an eye.",
+      "en": "whose entire head is consumed by an eye.",
+      "zh": ""
+    },
+    {
+      "start": 333.99,
+      "duration": 2.16,
+      "text": "The principal eyes,",
+      "en": "The principal eyes,",
+      "zh": ""
+    },
+    {
+      "start": 336.15,
+      "duration": 2.31,
+      "text": "they can actually see pattern in the world",
+      "en": "they can actually see pattern in the world",
+      "zh": ""
+    },
+    {
+      "start": 338.46,
+      "duration": 2.1,
+      "text": "better than a lap dog,",
+      "en": "better than a lap dog,",
+      "zh": ""
+    },
+    {
+      "start": 340.56,
+      "duration": 3.72,
+      "text": "a house cat, an elephant,",
+      "en": "a house cat, an elephant,",
+      "zh": ""
+    },
+    {
+      "start": 344.28,
+      "duration": 3.69,
+      "text": "and nearly as good as the sharp-sighted pigeon,",
+      "en": "and nearly as good as the sharp-sighted pigeon,",
+      "zh": ""
+    },
+    {
+      "start": 347.97,
+      "duration": 3.51,
+      "text": "but it's a very narrow slice of the world that they can see.",
+      "en": "but it's a very narrow slice of the world that they can see.",
+      "zh": ""
+    },
+    {
+      "start": 351.48,
+      "duration": 4.17,
+      "text": "It's about like your thumb held at arm's length.",
+      "en": "It's about like your thumb held at arm's length.",
+      "zh": ""
+    },
+    {
+      "start": 356.49,
+      "duration": 2.94,
+      "text": "- [Derek] And it's only in that narrow slice of the world",
+      "en": "- [Derek] And it's only in that narrow slice of the world",
+      "zh": ""
+    },
+    {
+      "start": 359.43,
+      "duration": 3.3,
+      "text": "that jumping spiders can see fine detail and color.",
+      "en": "that jumping spiders can see fine detail and color.",
+      "zh": ""
+    },
+    {
+      "start": 363.57,
+      "duration": 3.78,
+      "text": "- So the jumping spider's secondary eyes give them",
+      "en": "- So the jumping spider's secondary eyes give them",
+      "zh": ""
+    },
+    {
+      "start": 367.35,
+      "duration": 4.38,
+      "text": "a full 360-degree view of the world.",
+      "en": "a full 360-degree view of the world.",
+      "zh": ""
+    },
+    {
+      "start": 371.73,
+      "duration": 2.91,
+      "text": "Now, imagine most of that's in black and white.",
+      "en": "Now, imagine most of that's in black and white.",
+      "zh": ""
+    },
+    {
+      "start": 374.64,
+      "duration": 4.11,
+      "text": "When you see something move, you can swivel to look at it.",
+      "en": "When you see something move, you can swivel to look at it.",
+      "zh": ""
+    },
+    {
+      "start": 378.75,
+      "duration": 4.2,
+      "text": "And now, anything that's really of curiosity to you,",
+      "en": "And now, anything that's really of curiosity to you,",
+      "zh": ""
+    },
+    {
+      "start": 382.95,
+      "duration": 5.0,
+      "text": "you can add to this world of black and white vision",
+      "en": "you can add to this world of black and white vision",
+      "zh": ""
+    },
+    {
+      "start": 387.96,
+      "duration": 3.3,
+      "text": "fine detail and color.",
+      "en": "fine detail and color.",
+      "zh": ""
+    },
+    {
+      "start": 391.26,
+      "duration": 2.67,
+      "text": "But you can only do it moment by moment.",
+      "en": "But you can only do it moment by moment.",
+      "zh": ""
+    },
+    {
+      "start": 393.93,
+      "duration": 3.99,
+      "text": "So you're really kind of painting additional details",
+      "en": "So you're really kind of painting additional details",
+      "zh": ""
+    },
+    {
+      "start": 397.92,
+      "duration": 3.9,
+      "text": "about color and pattern that you couldn't see otherwise.",
+      "en": "about color and pattern that you couldn't see otherwise.",
+      "zh": ""
+    },
+    {
+      "start": 402.66,
+      "duration": 3.13,
+      "text": "It's a wild world to try to put yourself into.",
+      "en": "It's a wild world to try to put yourself into.",
+      "zh": ""
+    },
+    {
+      "start": 405.79,
+      "duration": 0.95,
+      "text": "(bee buzzing)",
+      "en": "(bee buzzing)",
+      "zh": ""
+    },
+    {
+      "start": 406.74,
+      "duration": 3.24,
+      "text": "- As they sweep their principal eyes across a scene,",
+      "en": "- As they sweep their principal eyes across a scene,",
+      "zh": ""
+    },
+    {
+      "start": 409.98,
+      "duration": 2.16,
+      "text": "some species of jumping spiders are adding",
+      "en": "some species of jumping spiders are adding",
+      "zh": ""
+    },
+    {
+      "start": 412.14,
+      "duration": 3.48,
+      "text": "a lot more color information to their world than others.",
+      "en": "a lot more color information to their world than others.",
+      "zh": ""
+    },
+    {
+      "start": 416.97,
+      "duration": 3.3,
+      "text": "Most jumping spiders, including this one, are dichromats,",
+      "en": "Most jumping spiders, including this one, are dichromats,",
+      "zh": ""
+    },
+    {
+      "start": 420.27,
+      "duration": 2.88,
+      "text": "meaning they have two types of color-sensitive cone cells",
+      "en": "meaning they have two types of color-sensitive cone cells",
+      "zh": ""
+    },
+    {
+      "start": 423.15,
+      "duration": 3.66,
+      "text": "in their retinas, just like dogs and most other mammals.",
+      "en": "in their retinas, just like dogs and most other mammals.",
+      "zh": ""
+    },
+    {
+      "start": 426.81,
+      "duration": 2.31,
+      "text": "- [Nathan] And by comparing those two kinds of cells",
+      "en": "- [Nathan] And by comparing those two kinds of cells",
+      "zh": ""
+    },
+    {
+      "start": 429.12,
+      "duration": 2.58,
+      "text": "and how they respond to light in the environment,",
+      "en": "and how they respond to light in the environment,",
+      "zh": ""
+    },
+    {
+      "start": 431.7,
+      "duration": 2.37,
+      "text": "they get a coarse understanding of color.",
+      "en": "they get a coarse understanding of color.",
+      "zh": ""
+    },
+    {
+      "start": 434.07,
+      "duration": 2.58,
+      "text": "They can tell the difference between UV,",
+      "en": "They can tell the difference between UV,",
+      "zh": ""
+    },
+    {
+      "start": 436.65,
+      "duration": 2.4,
+      "text": "violet, blue, and green.",
+      "en": "violet, blue, and green.",
+      "zh": ""
+    },
+    {
+      "start": 439.05,
+      "duration": 2.94,
+      "text": "- But some types of jumping spiders are trichromats",
+      "en": "- But some types of jumping spiders are trichromats",
+      "zh": ""
+    },
+    {
+      "start": 441.99,
+      "duration": 2.55,
+      "text": "with three types of cones, like humans,",
+      "en": "with three types of cones, like humans,",
+      "zh": ""
+    },
+    {
+      "start": 444.54,
+      "duration": 3.56,
+      "text": "and other are tetrachromats, like birds.",
+      "en": "and other are tetrachromats, like birds.",
+      "zh": ""
+    },
+    {
+      "start": 448.1,
+      "duration": 1.21,
+      "text": "(light music)",
+      "en": "(light music)",
+      "zh": ""
+    },
+    {
+      "start": 449.31,
+      "duration": 2.4,
+      "text": "The weird thing is all these species",
+      "en": "The weird thing is all these species",
+      "zh": ""
+    },
+    {
+      "start": 451.71,
+      "duration": 1.65,
+      "text": "with expanded color vision",
+      "en": "with expanded color vision",
+      "zh": ""
+    },
+    {
+      "start": 453.36,
+      "duration": 2.52,
+      "text": "aren't necessarily close relatives.",
+      "en": "aren't necessarily close relatives.",
+      "zh": ""
+    },
+    {
+      "start": 455.88,
+      "duration": 2.79,
+      "text": "- In jumping spiders, we have huge variation,",
+      "en": "- In jumping spiders, we have huge variation,",
+      "zh": ""
+    },
+    {
+      "start": 458.67,
+      "duration": 1.83,
+      "text": "even from closely related groups,",
+      "en": "even from closely related groups,",
+      "zh": ""
+    },
+    {
+      "start": 460.5,
+      "duration": 2.58,
+      "text": "in how well they're able to see color in the world.",
+      "en": "in how well they're able to see color in the world.",
+      "zh": ""
+    },
+    {
+      "start": 463.08,
+      "duration": 3.69,
+      "text": "Jumping spiders are reinventing, in some ways,",
+      "en": "Jumping spiders are reinventing, in some ways,",
+      "zh": ""
+    },
+    {
+      "start": 466.77,
+      "duration": 2.25,
+      "text": "the ability to see color over and over again",
+      "en": "the ability to see color over and over again",
+      "zh": ""
+    },
+    {
+      "start": 469.02,
+      "duration": 1.5,
+      "text": "in different ways.",
+      "en": "in different ways.",
+      "zh": ""
+    },
+    {
+      "start": 470.52,
+      "duration": 2.79,
+      "text": "- That makes jumping spiders pretty special.",
+      "en": "- That makes jumping spiders pretty special.",
+      "zh": ""
+    },
+    {
+      "start": 473.31,
+      "duration": 1.95,
+      "text": "I mean, consider primates.",
+      "en": "I mean, consider primates.",
+      "zh": ""
+    },
+    {
+      "start": 475.26,
+      "duration": 1.41,
+      "text": "Old World monkeys, apes,",
+      "en": "Old World monkeys, apes,",
+      "zh": ""
+    },
+    {
+      "start": 476.67,
+      "duration": 3.18,
+      "text": "and humans all have trichromatic color vision,",
+      "en": "and humans all have trichromatic color vision,",
+      "zh": ""
+    },
+    {
+      "start": 479.85,
+      "duration": 2.58,
+      "text": "but we also share a common ancestor.",
+      "en": "but we also share a common ancestor.",
+      "zh": ""
+    },
+    {
+      "start": 482.43,
+      "duration": 3.12,
+      "text": "So our color vision probably evolved only once,",
+      "en": "So our color vision probably evolved only once,",
+      "zh": ""
+    },
+    {
+      "start": 485.55,
+      "duration": 2.16,
+      "text": "and then it stuck around.",
+      "en": "and then it stuck around.",
+      "zh": ""
+    },
+    {
+      "start": 487.71,
+      "duration": 3.18,
+      "text": "This is where jumping spiders really stand out.",
+      "en": "This is where jumping spiders really stand out.",
+      "zh": ""
+    },
+    {
+      "start": 490.89,
+      "duration": 2.55,
+      "text": "The ability to see red, for example,",
+      "en": "The ability to see red, for example,",
+      "zh": ""
+    },
+    {
+      "start": 493.44,
+      "duration": 3.48,
+      "text": "has evolved several times in jumping spiders.",
+      "en": "has evolved several times in jumping spiders.",
+      "zh": ""
+    },
+    {
+      "start": 496.92,
+      "duration": 1.2,
+      "text": "Researchers know that,",
+      "en": "Researchers know that,",
+      "zh": ""
+    },
+    {
+      "start": 498.12,
+      "duration": 0.96,
+      "text": "because they've figured out",
+      "en": "because they've figured out",
+      "zh": ""
+    },
+    {
+      "start": 499.08,
+      "duration": 2.37,
+      "text": "how different groups are related,",
+      "en": "how different groups are related,",
+      "zh": ""
+    },
+    {
+      "start": 501.45,
+      "duration": 1.83,
+      "text": "and by they, I mostly mean",
+      "en": "and by they, I mostly mean",
+      "zh": ""
+    },
+    {
+      "start": 503.28,
+      "duration": 3.24,
+      "text": "jumping spider fanatic Wayne Maddison.",
+      "en": "jumping spider fanatic Wayne Maddison.",
+      "zh": ""
+    },
+    {
+      "start": 506.52,
+      "duration": 1.65,
+      "text": "- Oh my gosh, Havaika.",
+      "en": "- Oh my gosh, Havaika.",
+      "zh": ""
+    },
+    {
+      "start": 509.58,
+      "duration": 2.1,
+      "text": "Fantastic!",
+      "en": "Fantastic!",
+      "zh": ""
+    },
+    {
+      "start": 511.68,
+      "duration": 1.92,
+      "text": "Beautiful male.",
+      "en": "Beautiful male.",
+      "zh": ""
+    },
+    {
+      "start": 513.6,
+      "duration": 2.28,
+      "text": "Ah, it's been, it's been 30 years since I've seen",
+      "en": "Ah, it's been, it's been 30 years since I've seen",
+      "zh": ""
+    },
+    {
+      "start": 515.88,
+      "duration": 1.83,
+      "text": "a live Havaika.",
+      "en": "a live Havaika.",
+      "zh": ""
+    },
+    {
+      "start": 517.71,
+      "duration": 2.61,
+      "text": "- [Megan] He is absolutely Mr. Jumping Spider.",
+      "en": "- [Megan] He is absolutely Mr. Jumping Spider.",
+      "zh": ""
+    },
+    {
+      "start": 520.32,
+      "duration": 5.0,
+      "text": "His expertise really is in jumping spider taxonomy.",
+      "en": "His expertise really is in jumping spider taxonomy.",
+      "zh": ""
+    },
+    {
+      "start": 525.57,
+      "duration": 3.87,
+      "text": "- I work on the evolutionary tree of jumping spiders.",
+      "en": "- I work on the evolutionary tree of jumping spiders.",
+      "zh": ""
+    },
+    {
+      "start": 529.44,
+      "duration": 2.91,
+      "text": "The evolutionary tree of life is basically",
+      "en": "The evolutionary tree of life is basically",
+      "zh": ""
+    },
+    {
+      "start": 532.35,
+      "duration": 4.41,
+      "text": "the pathway of genetic descent that links all of us.",
+      "en": "the pathway of genetic descent that links all of us.",
+      "zh": ""
+    },
+    {
+      "start": 536.76,
+      "duration": 1.83,
+      "text": "- [Derek] The position of different species",
+      "en": "- [Derek] The position of different species",
+      "zh": ""
+    },
+    {
+      "start": 538.59,
+      "duration": 3.21,
+      "text": "on this evolutionary tree can tell us how they ended up",
+      "en": "on this evolutionary tree can tell us how they ended up",
+      "zh": ""
+    },
+    {
+      "start": 541.8,
+      "duration": 2.01,
+      "text": "with the traits they have.",
+      "en": "with the traits they have.",
+      "zh": ""
+    },
+    {
+      "start": 543.81,
+      "duration": 3.21,
+      "text": "Like if most jumping spiders don't see red,",
+      "en": "Like if most jumping spiders don't see red,",
+      "zh": ""
+    },
+    {
+      "start": 547.02,
+      "duration": 4.17,
+      "text": "but two species on two very different parts of the tree do,",
+      "en": "but two species on two very different parts of the tree do,",
+      "zh": ""
+    },
+    {
+      "start": 551.19,
+      "duration": 2.16,
+      "text": "chances are that those two species",
+      "en": "chances are that those two species",
+      "zh": ""
+    },
+    {
+      "start": 553.35,
+      "duration": 2.85,
+      "text": "evolved those abilities independently.",
+      "en": "evolved those abilities independently.",
+      "zh": ""
+    },
+    {
+      "start": 557.31,
+      "duration": 3.96,
+      "text": "- In which case, then we can start to ask questions like",
+      "en": "- In which case, then we can start to ask questions like",
+      "zh": ""
+    },
+    {
+      "start": 561.27,
+      "duration": 1.29,
+      "text": "what's driving that evolution?",
+      "en": "what's driving that evolution?",
+      "zh": ""
+    },
+    {
+      "start": 562.56,
+      "duration": 1.47,
+      "text": "Do they have similar ecologies?",
+      "en": "Do they have similar ecologies?",
+      "zh": ""
+    },
+    {
+      "start": 564.03,
+      "duration": 2.19,
+      "text": "Do they hunt similar prey?",
+      "en": "Do they hunt similar prey?",
+      "zh": ""
+    },
+    {
+      "start": 566.22,
+      "duration": 2.22,
+      "text": "And try to really understand",
+      "en": "And try to really understand",
+      "zh": ""
+    },
+    {
+      "start": 568.44,
+      "duration": 2.55,
+      "text": "what selective forces are leading",
+      "en": "what selective forces are leading",
+      "zh": ""
+    },
+    {
+      "start": 570.99,
+      "duration": 3.45,
+      "text": "to these expanded color vision systems.",
+      "en": "to these expanded color vision systems.",
+      "zh": ""
+    },
+    {
+      "start": 574.44,
+      "duration": 1.56,
+      "text": "- It might help them find food,",
+      "en": "- It might help them find food,",
+      "zh": ""
+    },
+    {
+      "start": 576.0,
+      "duration": 3.99,
+      "text": "or discriminate tasty prey from prey that can harm them.",
+      "en": "or discriminate tasty prey from prey that can harm them.",
+      "zh": ""
+    },
+    {
+      "start": 579.99,
+      "duration": 0.93,
+      "text": "- [Nathan] Because, of course,",
+      "en": "- [Nathan] Because, of course,",
+      "zh": ""
+    },
+    {
+      "start": 580.92,
+      "duration": 2.16,
+      "text": "lots of small insects are brightly colored,",
+      "en": "lots of small insects are brightly colored,",
+      "zh": ""
+    },
+    {
+      "start": 583.08,
+      "duration": 1.98,
+      "text": "and some of them are using those bright colors",
+      "en": "and some of them are using those bright colors",
+      "zh": ""
+    },
+    {
+      "start": 585.06,
+      "duration": 3.27,
+      "text": "to advertise that they're toxic.",
+      "en": "to advertise that they're toxic.",
+      "zh": ""
+    },
+    {
+      "start": 588.33,
+      "duration": 2.01,
+      "text": "- [Derek] Another possibility is that seeing",
+      "en": "- [Derek] Another possibility is that seeing",
+      "zh": ""
+    },
+    {
+      "start": 590.34,
+      "duration": 2.55,
+      "text": "a richer world of color might help animals,",
+      "en": "a richer world of color might help animals,",
+      "zh": ""
+    },
+    {
+      "start": 592.89,
+      "duration": 3.84,
+      "text": "from lizards to spiders, choose better mates.",
+      "en": "from lizards to spiders, choose better mates.",
+      "zh": ""
+    },
+    {
+      "start": 597.63,
+      "duration": 3.18,
+      "text": "To test these ideas, the researchers needed to know",
+      "en": "To test these ideas, the researchers needed to know",
+      "zh": ""
+    },
+    {
+      "start": 600.81,
+      "duration": 3.09,
+      "text": "which of the 6,000 species of jumping spiders had",
+      "en": "which of the 6,000 species of jumping spiders had",
+      "zh": ""
+    },
+    {
+      "start": 603.9,
+      "duration": 3.21,
+      "text": "expanded color vision and which didn't,",
+      "en": "expanded color vision and which didn't,",
+      "zh": ""
+    },
+    {
+      "start": 607.11,
+      "duration": 2.64,
+      "text": "and outside of a few well-studied species,",
+      "en": "and outside of a few well-studied species,",
+      "zh": ""
+    },
+    {
+      "start": 609.75,
+      "duration": 2.07,
+      "text": "no one really knew.",
+      "en": "no one really knew.",
+      "zh": ""
+    },
+    {
+      "start": 611.82,
+      "duration": 1.98,
+      "text": "So the team set out to collect spiders",
+      "en": "So the team set out to collect spiders",
+      "zh": ""
+    },
+    {
+      "start": 613.8,
+      "duration": 3.69,
+      "text": "from every major branch of the jumping spider family tree.",
+      "en": "from every major branch of the jumping spider family tree.",
+      "zh": ""
+    },
+    {
+      "start": 618.45,
+      "duration": 2.82,
+      "text": "- One of our first things is just prioritizing where to go",
+      "en": "- One of our first things is just prioritizing where to go",
+      "zh": ""
+    },
+    {
+      "start": 621.27,
+      "duration": 1.23,
+      "text": "and what to look for.",
+      "en": "and what to look for.",
+      "zh": ""
+    },
+    {
+      "start": 622.5,
+      "duration": 2.64,
+      "text": "And so, it's a lot of sampling in a lot of places.",
+      "en": "And so, it's a lot of sampling in a lot of places.",
+      "zh": ""
+    },
+    {
+      "start": 625.14,
+      "duration": 1.35,
+      "text": "- Let's see who lives here.",
+      "en": "- Let's see who lives here.",
+      "zh": ""
+    },
+    {
+      "start": 627.51,
+      "duration": 2.13,
+      "text": "- [Derek] It's kind of like \"Pokemon GO,\"",
+      "en": "- [Derek] It's kind of like \"Pokemon GO,\"",
+      "zh": ""
+    },
+    {
+      "start": 629.64,
+      "duration": 2.01,
+      "text": "except the Pokemon are real,",
+      "en": "except the Pokemon are real,",
+      "zh": ""
+    },
+    {
+      "start": 631.65,
+      "duration": 2.46,
+      "text": "they're smaller than your pinky fingernail,",
+      "en": "they're smaller than your pinky fingernail,",
+      "zh": ""
+    },
+    {
+      "start": 634.11,
+      "duration": 2.28,
+      "text": "and they're really good at hiding.",
+      "en": "and they're really good at hiding.",
+      "zh": ""
+    },
+    {
+      "start": 637.29,
+      "duration": 1.95,
+      "text": "- Some jumping spiders have evolved",
+      "en": "- Some jumping spiders have evolved",
+      "zh": ""
+    },
+    {
+      "start": 639.24,
+      "duration": 3.21,
+      "text": "to be really fine-tuned to a particular situation.",
+      "en": "to be really fine-tuned to a particular situation.",
+      "zh": ""
+    },
+    {
+      "start": 642.45,
+      "duration": 0.87,
+      "text": "So for example,",
+      "en": "So for example,",
+      "zh": ""
+    },
+    {
+      "start": 643.32,
+      "duration": 3.57,
+      "text": "there are termite-eating specialist jumping spiders",
+      "en": "there are termite-eating specialist jumping spiders",
+      "zh": ""
+    },
+    {
+      "start": 646.89,
+      "duration": 3.45,
+      "text": "that you're only gonna find around termites.",
+      "en": "that you're only gonna find around termites.",
+      "zh": ""
+    },
+    {
+      "start": 650.34,
+      "duration": 2.52,
+      "text": "There was this one species that we only found",
+      "en": "There was this one species that we only found",
+      "zh": ""
+    },
+    {
+      "start": 652.86,
+      "duration": 3.66,
+      "text": "in piles of bones in South Africa.",
+      "en": "in piles of bones in South Africa.",
+      "zh": ""
+    },
+    {
+      "start": 656.52,
+      "duration": 2.01,
+      "text": "Who knows what it was doing there,",
+      "en": "Who knows what it was doing there,",
+      "zh": ""
+    },
+    {
+      "start": 658.53,
+      "duration": 2.13,
+      "text": "but we quickly learned that",
+      "en": "but we quickly learned that",
+      "zh": ""
+    },
+    {
+      "start": 660.66,
+      "duration": 1.68,
+      "text": "that was the only place in the environment",
+      "en": "that was the only place in the environment",
+      "zh": ""
+    },
+    {
+      "start": 662.34,
+      "duration": 0.84,
+      "text": "we were gonna find it.",
+      "en": "we were gonna find it.",
+      "zh": ""
+    },
+    {
+      "start": 663.18,
+      "duration": 1.29,
+      "text": "And so, that's part of the fun of it.",
+      "en": "And so, that's part of the fun of it.",
+      "zh": ""
+    },
+    {
+      "start": 664.47,
+      "duration": 2.44,
+      "text": "I feel like it's a bit of a treasure hunt, really.",
+      "en": "I feel like it's a bit of a treasure hunt, really.",
+      "zh": ""
+    },
+    {
+      "start": 666.91,
+      "duration": 2.18,
+      "text": "(light music)",
+      "en": "(light music)",
+      "zh": ""
+    },
+    {
+      "start": 669.09,
+      "duration": 3.06,
+      "text": "- With no proverbial stone left unturned,",
+      "en": "- With no proverbial stone left unturned,",
+      "zh": ""
+    },
+    {
+      "start": 672.15,
+      "duration": 3.33,
+      "text": "the team returns to their labs with hundreds of spiders",
+      "en": "the team returns to their labs with hundreds of spiders",
+      "zh": ""
+    },
+    {
+      "start": 675.48,
+      "duration": 2.46,
+      "text": "representing many different species.",
+      "en": "representing many different species.",
+      "zh": ""
+    },
+    {
+      "start": 677.94,
+      "duration": 2.25,
+      "text": "They want to figure out which species have",
+      "en": "They want to figure out which species have",
+      "zh": ""
+    },
+    {
+      "start": 680.19,
+      "duration": 5.0,
+      "text": "expanded color vision, how each species does it, and why.",
+      "en": "expanded color vision, how each species does it, and why.",
+      "zh": ""
+    },
+    {
+      "start": 685.23,
+      "duration": 1.71,
+      "text": "It's actually a hard question",
+      "en": "It's actually a hard question",
+      "zh": ""
+    },
+    {
+      "start": 686.94,
+      "duration": 2.04,
+      "text": "to tell how animals can see color.",
+      "en": "to tell how animals can see color.",
+      "zh": ""
+    },
+    {
+      "start": 688.98,
+      "duration": 3.09,
+      "text": "We can't just connect our brains to see what they see.",
+      "en": "We can't just connect our brains to see what they see.",
+      "zh": ""
+    },
+    {
+      "start": 692.07,
+      "duration": 1.44,
+      "text": "So how do we do it?",
+      "en": "So how do we do it?",
+      "zh": ""
+    },
+    {
+      "start": 694.53,
+      "duration": 2.34,
+      "text": "- [Nathan] We begin by using a technique",
+      "en": "- [Nathan] We begin by using a technique",
+      "zh": ""
+    },
+    {
+      "start": 696.87,
+      "duration": 2.55,
+      "text": "called microspectrophotometry.",
+      "en": "called microspectrophotometry.",
+      "zh": ""
+    },
+    {
+      "start": 699.42,
+      "duration": 1.53,
+      "text": "It's a really long word.",
+      "en": "It's a really long word.",
+      "zh": ""
+    },
+    {
+      "start": 700.95,
+      "duration": 5.0,
+      "text": "What it simply means is a microscope paired with a device",
+      "en": "What it simply means is a microscope paired with a device",
+      "zh": ""
+    },
+    {
+      "start": 706.29,
+      "duration": 2.79,
+      "text": "that measures different wavelengths of light,",
+      "en": "that measures different wavelengths of light,",
+      "zh": ""
+    },
+    {
+      "start": 709.08,
+      "duration": 1.89,
+      "text": "a spectrophotometer.",
+      "en": "a spectrophotometer.",
+      "zh": ""
+    },
+    {
+      "start": 710.97,
+      "duration": 2.58,
+      "text": "- [Derek] The researchers take ultra-thin slices",
+      "en": "- [Derek] The researchers take ultra-thin slices",
+      "zh": ""
+    },
+    {
+      "start": 713.55,
+      "duration": 1.5,
+      "text": "of jumping spider retinas,",
+      "en": "of jumping spider retinas,",
+      "zh": ""
+    },
+    {
+      "start": 715.05,
+      "duration": 2.49,
+      "text": "and then they measure the wavelengths of light absorbed",
+      "en": "and then they measure the wavelengths of light absorbed",
+      "zh": ""
+    },
+    {
+      "start": 717.54,
+      "duration": 2.55,
+      "text": "by individual cone cells.",
+      "en": "by individual cone cells.",
+      "zh": ""
+    },
+    {
+      "start": 720.09,
+      "duration": 1.83,
+      "text": "With enough of these measurements,",
+      "en": "With enough of these measurements,",
+      "zh": ""
+    },
+    {
+      "start": 721.92,
+      "duration": 2.76,
+      "text": "they can tell if a species is a dichromat,",
+      "en": "they can tell if a species is a dichromat,",
+      "zh": ""
+    },
+    {
+      "start": 724.68,
+      "duration": 2.55,
+      "text": "trichromat, or tetrachromat,",
+      "en": "trichromat, or tetrachromat,",
+      "zh": ""
+    },
+    {
+      "start": 727.23,
+      "duration": 1.59,
+      "text": "and what wavelengths of light",
+      "en": "and what wavelengths of light",
+      "zh": ""
+    },
+    {
+      "start": 728.82,
+      "duration": 2.73,
+      "text": "its cells are best at detecting.",
+      "en": "its cells are best at detecting.",
+      "zh": ""
+    },
+    {
+      "start": 731.55,
+      "duration": 2.85,
+      "text": "But that's not the whole story.",
+      "en": "But that's not the whole story.",
+      "zh": ""
+    },
+    {
+      "start": 734.4,
+      "duration": 3.36,
+      "text": "- Having that knowledge of what's in the retina tells us",
+      "en": "- Having that knowledge of what's in the retina tells us",
+      "zh": ""
+    },
+    {
+      "start": 737.76,
+      "duration": 3.15,
+      "text": "what is, or isn't possible for these animals to see,",
+      "en": "what is, or isn't possible for these animals to see,",
+      "zh": ""
+    },
+    {
+      "start": 740.91,
+      "duration": 2.4,
+      "text": "but it doesn't actually tell us what they do see,",
+      "en": "but it doesn't actually tell us what they do see,",
+      "zh": ""
+    },
+    {
+      "start": 743.31,
+      "duration": 1.53,
+      "text": "or how they might use that.",
+      "en": "or how they might use that.",
+      "zh": ""
+    },
+    {
+      "start": 744.84,
+      "duration": 3.36,
+      "text": "And so, the gold standard for establishing",
+      "en": "And so, the gold standard for establishing",
+      "zh": ""
+    },
+    {
+      "start": 748.2,
+      "duration": 4.44,
+      "text": "that an animal can see color is to do so behaviorally.",
+      "en": "that an animal can see color is to do so behaviorally.",
+      "zh": ""
+    },
+    {
+      "start": 752.64,
+      "duration": 3.18,
+      "text": "- In other words, we somehow need to ask the spiders",
+      "en": "- In other words, we somehow need to ask the spiders",
+      "zh": ""
+    },
+    {
+      "start": 755.82,
+      "duration": 4.29,
+      "text": "what they can see and then understand their answers.",
+      "en": "what they can see and then understand their answers.",
+      "zh": ""
+    },
+    {
+      "start": 760.11,
+      "duration": 1.14,
+      "text": "Figuring out what's going on",
+      "en": "Figuring out what's going on",
+      "zh": ""
+    },
+    {
+      "start": 761.25,
+      "duration": 2.28,
+      "text": "inside a spider's mind is difficult.",
+      "en": "inside a spider's mind is difficult.",
+      "zh": ""
+    },
+    {
+      "start": 763.53,
+      "duration": 1.14,
+      "text": "It's no surprise that it takes",
+      "en": "It's no surprise that it takes",
+      "zh": ""
+    },
+    {
+      "start": 764.67,
+      "duration": 2.88,
+      "text": "a group of expert zoologists to do so.",
+      "en": "a group of expert zoologists to do so.",
+      "zh": ""
+    },
+    {
+      "start": 767.55,
+      "duration": 2.58,
+      "text": "But our own minds can be just as complicated,",
+      "en": "But our own minds can be just as complicated,",
+      "zh": ""
+    },
+    {
+      "start": 770.13,
+      "duration": 2.28,
+      "text": "yet we rarely talk with mental health experts",
+      "en": "yet we rarely talk with mental health experts",
+      "zh": ""
+    },
+    {
+      "start": 772.41,
+      "duration": 2.7,
+      "text": "to help us interpret our thoughts and emotions.",
+      "en": "to help us interpret our thoughts and emotions.",
+      "zh": ""
+    },
+    {
+      "start": 775.11,
+      "duration": 1.86,
+      "text": "Whether you're feeling depressed, anxious,",
+      "en": "Whether you're feeling depressed, anxious,",
+      "zh": ""
+    },
+    {
+      "start": 776.97,
+      "duration": 2.34,
+      "text": "or are just stressed and want someone to talk to,",
+      "en": "or are just stressed and want someone to talk to,",
+      "zh": ""
+    },
+    {
+      "start": 779.31,
+      "duration": 1.62,
+      "text": "a therapist lets you see things",
+      "en": "a therapist lets you see things",
+      "zh": ""
+    },
+    {
+      "start": 780.93,
+      "duration": 1.38,
+      "text": "from a different perspective,",
+      "en": "from a different perspective,",
+      "zh": ""
+    },
+    {
+      "start": 782.31,
+      "duration": 2.97,
+      "text": "and that's where today's sponsor, BetterHelp, comes in.",
+      "en": "and that's where today's sponsor, BetterHelp, comes in.",
+      "zh": ""
+    },
+    {
+      "start": 785.28,
+      "duration": 2.34,
+      "text": "I know finding a therapist you're comfortable around",
+      "en": "I know finding a therapist you're comfortable around",
+      "zh": ""
+    },
+    {
+      "start": 787.62,
+      "duration": 2.91,
+      "text": "can be intimidating, especially if you're only limited",
+      "en": "can be intimidating, especially if you're only limited",
+      "zh": ""
+    },
+    {
+      "start": 790.53,
+      "duration": 1.65,
+      "text": "to the options in your city,",
+      "en": "to the options in your city,",
+      "zh": ""
+    },
+    {
+      "start": 792.18,
+      "duration": 1.71,
+      "text": "but BetterHelp lets you get around this,",
+      "en": "but BetterHelp lets you get around this,",
+      "zh": ""
+    },
+    {
+      "start": 793.89,
+      "duration": 1.71,
+      "text": "because it's an online platform,",
+      "en": "because it's an online platform,",
+      "zh": ""
+    },
+    {
+      "start": 795.6,
+      "duration": 1.5,
+      "text": "and they make it really easy to connect",
+      "en": "and they make it really easy to connect",
+      "zh": ""
+    },
+    {
+      "start": 797.1,
+      "duration": 1.56,
+      "text": "with a professional therapist,",
+      "en": "with a professional therapist,",
+      "zh": ""
+    },
+    {
+      "start": 798.66,
+      "duration": 2.73,
+      "text": "who can help you work through whatever you're facing.",
+      "en": "who can help you work through whatever you're facing.",
+      "zh": ""
+    },
+    {
+      "start": 801.39,
+      "duration": 1.05,
+      "text": "It's easy to sign up.",
+      "en": "It's easy to sign up.",
+      "zh": ""
+    },
+    {
+      "start": 802.44,
+      "duration": 1.23,
+      "text": "There's a link in the description,",
+      "en": "There's a link in the description,",
+      "zh": ""
+    },
+    {
+      "start": 803.67,
+      "duration": 2.13,
+      "text": "betterhelp.com/veritasium,",
+      "en": "betterhelp.com/veritasium,",
+      "zh": ""
+    },
+    {
+      "start": 805.8,
+      "duration": 1.95,
+      "text": "and after answering a few questions,",
+      "en": "and after answering a few questions,",
+      "zh": ""
+    },
+    {
+      "start": 807.75,
+      "duration": 0.99,
+      "text": "BetterHelp will match you",
+      "en": "BetterHelp will match you",
+      "zh": ""
+    },
+    {
+      "start": 808.74,
+      "duration": 3.3,
+      "text": "with one of their more than 30,000 therapists.",
+      "en": "with one of their more than 30,000 therapists.",
+      "zh": ""
+    },
+    {
+      "start": 812.04,
+      "duration": 2.76,
+      "text": "Each therapist is licensed, has a master's, or a PhD,",
+      "en": "Each therapist is licensed, has a master's, or a PhD,",
+      "zh": ""
+    },
+    {
+      "start": 814.8,
+      "duration": 1.62,
+      "text": "and has spent over three years",
+      "en": "and has spent over three years",
+      "zh": ""
+    },
+    {
+      "start": 816.42,
+      "duration": 2.22,
+      "text": "and over 1,000 hours with people.",
+      "en": "and over 1,000 hours with people.",
+      "zh": ""
+    },
+    {
+      "start": 818.64,
+      "duration": 1.68,
+      "text": "And if you don't click with your first therapist,",
+      "en": "And if you don't click with your first therapist,",
+      "zh": ""
+    },
+    {
+      "start": 820.32,
+      "duration": 2.43,
+      "text": "you can simply switch to a new one for free",
+      "en": "you can simply switch to a new one for free",
+      "zh": ""
+    },
+    {
+      "start": 822.75,
+      "duration": 1.56,
+      "text": "without things getting awkward.",
+      "en": "without things getting awkward.",
+      "zh": ""
+    },
+    {
+      "start": 824.31,
+      "duration": 1.92,
+      "text": "If you feel like you'd benefit from talking to someone,",
+      "en": "If you feel like you'd benefit from talking to someone,",
+      "zh": ""
+    },
+    {
+      "start": 826.23,
+      "duration": 2.1,
+      "text": "getting advice, feedback, and help,",
+      "en": "getting advice, feedback, and help,",
+      "zh": ""
+    },
+    {
+      "start": 828.33,
+      "duration": 3.0,
+      "text": "then visit betterhelp.com/veritasium to get started.",
+      "en": "then visit betterhelp.com/veritasium to get started.",
+      "zh": ""
+    },
+    {
+      "start": 831.33,
+      "duration": 2.37,
+      "text": "Clicking that link both helps support this channel,",
+      "en": "Clicking that link both helps support this channel,",
+      "zh": ""
+    },
+    {
+      "start": 833.7,
+      "duration": 2.37,
+      "text": "but it also gets you 10% off your first month.",
+      "en": "but it also gets you 10% off your first month.",
+      "zh": ""
+    },
+    {
+      "start": 836.07,
+      "duration": 2.49,
+      "text": "So I wanna thank BetterHelp for sponsoring this video,",
+      "en": "So I wanna thank BetterHelp for sponsoring this video,",
+      "zh": ""
+    },
+    {
+      "start": 838.56,
+      "duration": 3.39,
+      "text": "and now, back to jumping spiders and how they see color.",
+      "en": "and now, back to jumping spiders and how they see color.",
+      "zh": ""
+    },
+    {
+      "start": 841.95,
+      "duration": 2.31,
+      "text": "- These animals are particularly motivated",
+      "en": "- These animals are particularly motivated",
+      "zh": ""
+    },
+    {
+      "start": 844.26,
+      "duration": 2.31,
+      "text": "to investigate things that move,",
+      "en": "to investigate things that move,",
+      "zh": ""
+    },
+    {
+      "start": 846.57,
+      "duration": 3.09,
+      "text": "and these responses can be guided by color.",
+      "en": "and these responses can be guided by color.",
+      "zh": ""
+    },
+    {
+      "start": 849.66,
+      "duration": 1.47,
+      "text": "- [Derek] The theory is simple.",
+      "en": "- [Derek] The theory is simple.",
+      "zh": ""
+    },
+    {
+      "start": 851.13,
+      "duration": 3.21,
+      "text": "You show the spider a screen with a moving shape",
+      "en": "You show the spider a screen with a moving shape",
+      "zh": ""
+    },
+    {
+      "start": 854.34,
+      "duration": 2.31,
+      "text": "that differs from the background in color,",
+      "en": "that differs from the background in color,",
+      "zh": ""
+    },
+    {
+      "start": 856.65,
+      "duration": 1.89,
+      "text": "but not in brightness,",
+      "en": "but not in brightness,",
+      "zh": ""
+    },
+    {
+      "start": 858.54,
+      "duration": 2.88,
+      "text": "and you see if the spider tries to follow.",
+      "en": "and you see if the spider tries to follow.",
+      "zh": ""
+    },
+    {
+      "start": 861.42,
+      "duration": 1.86,
+      "text": "- [Nathan] The problem with letting the jumping spider",
+      "en": "- [Nathan] The problem with letting the jumping spider",
+      "zh": ""
+    },
+    {
+      "start": 863.28,
+      "duration": 3.75,
+      "text": "actually turn and respond is that they'll absolutely do so,",
+      "en": "actually turn and respond is that they'll absolutely do so,",
+      "zh": ""
+    },
+    {
+      "start": 867.03,
+      "duration": 3.03,
+      "text": "but it changes some of what they see.",
+      "en": "but it changes some of what they see.",
+      "zh": ""
+    },
+    {
+      "start": 870.06,
+      "duration": 2.67,
+      "text": "So what we want is to really have some control",
+      "en": "So what we want is to really have some control",
+      "zh": ""
+    },
+    {
+      "start": 872.73,
+      "duration": 3.27,
+      "text": "over what the spiders can see at any given moment.",
+      "en": "over what the spiders can see at any given moment.",
+      "zh": ""
+    },
+    {
+      "start": 876.0,
+      "duration": 2.34,
+      "text": "- So the researchers hold them in place",
+      "en": "- So the researchers hold them in place",
+      "zh": ""
+    },
+    {
+      "start": 878.34,
+      "duration": 3.63,
+      "text": "with tiny magnets attached to their heads.",
+      "en": "with tiny magnets attached to their heads.",
+      "zh": ""
+    },
+    {
+      "start": 881.97,
+      "duration": 3.75,
+      "text": "- [Nathan] What we do is we give them a ball to stand on.",
+      "en": "- [Nathan] What we do is we give them a ball to stand on.",
+      "zh": ""
+    },
+    {
+      "start": 885.72,
+      "duration": 2.07,
+      "text": "They actually hold it with their feet,",
+      "en": "They actually hold it with their feet,",
+      "zh": ""
+    },
+    {
+      "start": 887.79,
+      "duration": 4.77,
+      "text": "and we can monitor how that ball moves around in their feet",
+      "en": "and we can monitor how that ball moves around in their feet",
+      "zh": ""
+    },
+    {
+      "start": 892.56,
+      "duration": 2.7,
+      "text": "to know where they would want to go.",
+      "en": "to know where they would want to go.",
+      "zh": ""
+    },
+    {
+      "start": 895.26,
+      "duration": 2.4,
+      "text": "- If the spider turns the ball to the left,",
+      "en": "- If the spider turns the ball to the left,",
+      "zh": ""
+    },
+    {
+      "start": 897.66,
+      "duration": 2.19,
+      "text": "it's probably trying to look to the right",
+      "en": "it's probably trying to look to the right",
+      "zh": ""
+    },
+    {
+      "start": 899.85,
+      "duration": 1.95,
+      "text": "to follow the moving shape,",
+      "en": "to follow the moving shape,",
+      "zh": ""
+    },
+    {
+      "start": 901.8,
+      "duration": 2.1,
+      "text": "and that's evidence the spider can discriminate",
+      "en": "and that's evidence the spider can discriminate",
+      "zh": ""
+    },
+    {
+      "start": 903.9,
+      "duration": 2.74,
+      "text": "between the colors of the shape and the background.",
+      "en": "between the colors of the shape and the background.",
+      "zh": ""
+    },
+    {
+      "start": 906.64,
+      "duration": 2.67,
+      "text": "(playful music)",
+      "en": "(playful music)",
+      "zh": ""
+    },
+    {
+      "start": 911.4,
+      "duration": 3.39,
+      "text": "Once the team knows which species can see which colors,",
+      "en": "Once the team knows which species can see which colors,",
+      "zh": ""
+    },
+    {
+      "start": 914.79,
+      "duration": 2.88,
+      "text": "the next question is how do they do it?",
+      "en": "the next question is how do they do it?",
+      "zh": ""
+    },
+    {
+      "start": 917.67,
+      "duration": 3.36,
+      "text": "What's different in the DNA of these spiders that can see",
+      "en": "What's different in the DNA of these spiders that can see",
+      "zh": ""
+    },
+    {
+      "start": 921.03,
+      "duration": 2.46,
+      "text": "and discriminate more colors?",
+      "en": "and discriminate more colors?",
+      "zh": ""
+    },
+    {
+      "start": 923.49,
+      "duration": 2.82,
+      "text": "If you ask Megan Porter, a lot of it comes down to genes",
+      "en": "If you ask Megan Porter, a lot of it comes down to genes",
+      "zh": ""
+    },
+    {
+      "start": 926.31,
+      "duration": 3.33,
+      "text": "that encode proteins called opsins.",
+      "en": "that encode proteins called opsins.",
+      "zh": ""
+    },
+    {
+      "start": 929.64,
+      "duration": 2.46,
+      "text": "- The way that animals achieve color vision is",
+      "en": "- The way that animals achieve color vision is",
+      "zh": ""
+    },
+    {
+      "start": 932.1,
+      "duration": 3.24,
+      "text": "to have different copies of this opsin gene,",
+      "en": "to have different copies of this opsin gene,",
+      "zh": ""
+    },
+    {
+      "start": 935.34,
+      "duration": 4.5,
+      "text": "and those variations then are what produce proteins",
+      "en": "and those variations then are what produce proteins",
+      "zh": ""
+    },
+    {
+      "start": 939.84,
+      "duration": 2.4,
+      "text": "that are sensitive to different colors of light.",
+      "en": "that are sensitive to different colors of light.",
+      "zh": ""
+    },
+    {
+      "start": 943.14,
+      "duration": 3.21,
+      "text": "The first technique that we generally go to",
+      "en": "The first technique that we generally go to",
+      "zh": ""
+    },
+    {
+      "start": 946.35,
+      "duration": 3.6,
+      "text": "with a new species is called transcriptome sequencing,",
+      "en": "with a new species is called transcriptome sequencing,",
+      "zh": ""
+    },
+    {
+      "start": 949.95,
+      "duration": 2.64,
+      "text": "and this is where we can take the entire head",
+      "en": "and this is where we can take the entire head",
+      "zh": ""
+    },
+    {
+      "start": 952.59,
+      "duration": 3.78,
+      "text": "of a jumping spider, and we can get the sequences",
+      "en": "of a jumping spider, and we can get the sequences",
+      "zh": ""
+    },
+    {
+      "start": 956.37,
+      "duration": 4.53,
+      "text": "for every single gene that is expressed in that tissue.",
+      "en": "for every single gene that is expressed in that tissue.",
+      "zh": ""
+    },
+    {
+      "start": 960.9,
+      "duration": 2.61,
+      "text": "- [Derek] This method gives the researchers an inventory",
+      "en": "- [Derek] This method gives the researchers an inventory",
+      "zh": ""
+    },
+    {
+      "start": 963.51,
+      "duration": 2.19,
+      "text": "of all the genes being expressed,",
+      "en": "of all the genes being expressed,",
+      "zh": ""
+    },
+    {
+      "start": 965.7,
+      "duration": 3.27,
+      "text": "in other words, all the genes that are copied out of the DNA",
+      "en": "in other words, all the genes that are copied out of the DNA",
+      "zh": ""
+    },
+    {
+      "start": 968.97,
+      "duration": 2.28,
+      "text": "and sent to make a protein.",
+      "en": "and sent to make a protein.",
+      "zh": ""
+    },
+    {
+      "start": 971.25,
+      "duration": 1.47,
+      "text": "Then the team can figure out",
+      "en": "Then the team can figure out",
+      "zh": ""
+    },
+    {
+      "start": 972.72,
+      "duration": 2.91,
+      "text": "where each of these genes is expressed,",
+      "en": "where each of these genes is expressed,",
+      "zh": ""
+    },
+    {
+      "start": 975.63,
+      "duration": 3.99,
+      "text": "in which eyes, and in which parts of the eye.",
+      "en": "in which eyes, and in which parts of the eye.",
+      "zh": ""
+    },
+    {
+      "start": 979.62,
+      "duration": 1.65,
+      "text": "- And we do that using",
+      "en": "- And we do that using",
+      "zh": ""
+    },
+    {
+      "start": 981.27,
+      "duration": 3.39,
+      "text": "a fancy technique called immunohistochemistry.",
+      "en": "a fancy technique called immunohistochemistry.",
+      "zh": ""
+    },
+    {
+      "start": 984.66,
+      "duration": 1.71,
+      "text": "- [Derek] The researchers basically create",
+      "en": "- [Derek] The researchers basically create",
+      "zh": ""
+    },
+    {
+      "start": 986.37,
+      "duration": 3.33,
+      "text": "glowing molecular tags specific to each protein",
+      "en": "glowing molecular tags specific to each protein",
+      "zh": ""
+    },
+    {
+      "start": 989.7,
+      "duration": 1.79,
+      "text": "they're interested in.",
+      "en": "they're interested in.",
+      "zh": ""
+    },
+    {
+      "start": 991.49,
+      "duration": 2.02,
+      "text": "- [Megan] And then looking for which parts glow",
+      "en": "- [Megan] And then looking for which parts glow",
+      "zh": ""
+    },
+    {
+      "start": 993.51,
+      "duration": 2.16,
+      "text": "in the right color, we can figure out",
+      "en": "in the right color, we can figure out",
+      "zh": ""
+    },
+    {
+      "start": 995.67,
+      "duration": 2.01,
+      "text": "where each opsin is being expressed,",
+      "en": "where each opsin is being expressed,",
+      "zh": ""
+    },
+    {
+      "start": 997.68,
+      "duration": 2.37,
+      "text": "where the protein is located.",
+      "en": "where the protein is located.",
+      "zh": ""
+    },
+    {
+      "start": 1000.05,
+      "duration": 2.22,
+      "text": "- The team is especially interested in genes",
+      "en": "- The team is especially interested in genes",
+      "zh": ""
+    },
+    {
+      "start": 1002.27,
+      "duration": 3.24,
+      "text": "that are expressed in the retinas of the principal eyes.",
+      "en": "that are expressed in the retinas of the principal eyes.",
+      "zh": ""
+    },
+    {
+      "start": 1005.51,
+      "duration": 2.07,
+      "text": "These are the genes most likely to be related",
+      "en": "These are the genes most likely to be related",
+      "zh": ""
+    },
+    {
+      "start": 1007.58,
+      "duration": 1.74,
+      "text": "to changes in color vision.",
+      "en": "to changes in color vision.",
+      "zh": ""
+    },
+    {
+      "start": 1010.22,
+      "duration": 2.13,
+      "text": "Already, this process of asking",
+      "en": "Already, this process of asking",
+      "zh": ""
+    },
+    {
+      "start": 1012.35,
+      "duration": 1.8,
+      "text": "which species have expanded color vision",
+      "en": "which species have expanded color vision",
+      "zh": ""
+    },
+    {
+      "start": 1014.15,
+      "duration": 1.89,
+      "text": "and how they accomplish it has led",
+      "en": "and how they accomplish it has led",
+      "zh": ""
+    },
+    {
+      "start": 1016.04,
+      "duration": 2.7,
+      "text": "to some surprising discoveries.",
+      "en": "to some surprising discoveries.",
+      "zh": ""
+    },
+    {
+      "start": 1018.74,
+      "duration": 2.67,
+      "text": "The researchers already knew that the ability to see",
+      "en": "The researchers already knew that the ability to see",
+      "zh": ""
+    },
+    {
+      "start": 1021.41,
+      "duration": 2.64,
+      "text": "and discriminate more colors had evolved more than once",
+      "en": "and discriminate more colors had evolved more than once",
+      "zh": ""
+    },
+    {
+      "start": 1024.05,
+      "duration": 1.68,
+      "text": "among jumping spiders.",
+      "en": "among jumping spiders.",
+      "zh": ""
+    },
+    {
+      "start": 1025.73,
+      "duration": 1.38,
+      "text": "But they hadn't realized",
+      "en": "But they hadn't realized",
+      "zh": ""
+    },
+    {
+      "start": 1027.11,
+      "duration": 2.64,
+      "text": "just how widespread this ability would be.",
+      "en": "just how widespread this ability would be.",
+      "zh": ""
+    },
+    {
+      "start": 1030.89,
+      "duration": 3.93,
+      "text": "After measuring 45 species across the evolutionary tree,",
+      "en": "After measuring 45 species across the evolutionary tree,",
+      "zh": ""
+    },
+    {
+      "start": 1034.82,
+      "duration": 1.14,
+      "text": "the team has already found",
+      "en": "the team has already found",
+      "zh": ""
+    },
+    {
+      "start": 1035.96,
+      "duration": 4.26,
+      "text": "as many as 12 independent changes in color vision.",
+      "en": "as many as 12 independent changes in color vision.",
+      "zh": ""
+    },
+    {
+      "start": 1040.22,
+      "duration": 3.45,
+      "text": "In evolutionary terms, jumping spiders seem to be evolving",
+      "en": "In evolutionary terms, jumping spiders seem to be evolving",
+      "zh": ""
+    },
+    {
+      "start": 1043.67,
+      "duration": 4.11,
+      "text": "new expanded forms of color vision all the time,",
+      "en": "new expanded forms of color vision all the time,",
+      "zh": ""
+    },
+    {
+      "start": 1047.78,
+      "duration": 1.71,
+      "text": "and different species have acquired",
+      "en": "and different species have acquired",
+      "zh": ""
+    },
+    {
+      "start": 1049.49,
+      "duration": 3.72,
+      "text": "their new visual capabilities in very different ways.",
+      "en": "their new visual capabilities in very different ways.",
+      "zh": ""
+    },
+    {
+      "start": 1053.21,
+      "duration": 3.57,
+      "text": "Take, for example, the ability to see red.",
+      "en": "Take, for example, the ability to see red.",
+      "zh": ""
+    },
+    {
+      "start": 1056.78,
+      "duration": 2.49,
+      "text": "Most jumping spiders only have green-sensitive",
+      "en": "Most jumping spiders only have green-sensitive",
+      "zh": ""
+    },
+    {
+      "start": 1059.27,
+      "duration": 3.72,
+      "text": "and UV-sensitive photo pigments in their retinas.",
+      "en": "and UV-sensitive photo pigments in their retinas.",
+      "zh": ""
+    },
+    {
+      "start": 1062.99,
+      "duration": 2.43,
+      "text": "But some species became sensitive to red",
+      "en": "But some species became sensitive to red",
+      "zh": ""
+    },
+    {
+      "start": 1065.42,
+      "duration": 1.74,
+      "text": "when their green-sensitive opsin gene",
+      "en": "when their green-sensitive opsin gene",
+      "zh": ""
+    },
+    {
+      "start": 1067.16,
+      "duration": 2.55,
+      "text": "was accidentally duplicated in the genome,",
+      "en": "was accidentally duplicated in the genome,",
+      "zh": ""
+    },
+    {
+      "start": 1069.71,
+      "duration": 2.61,
+      "text": "and the new copy started to evolve,",
+      "en": "and the new copy started to evolve,",
+      "zh": ""
+    },
+    {
+      "start": 1072.32,
+      "duration": 4.26,
+      "text": "shifting its sensitivity to longer wavelengths.",
+      "en": "shifting its sensitivity to longer wavelengths.",
+      "zh": ""
+    },
+    {
+      "start": 1076.58,
+      "duration": 2.61,
+      "text": "- So in our eyes, that's exactly what happened.",
+      "en": "- So in our eyes, that's exactly what happened.",
+      "zh": ""
+    },
+    {
+      "start": 1079.19,
+      "duration": 3.96,
+      "text": "The opsin gene for our green-sensitive visual pigment",
+      "en": "The opsin gene for our green-sensitive visual pigment",
+      "zh": ""
+    },
+    {
+      "start": 1083.15,
+      "duration": 3.72,
+      "text": "was duplicated, and the second version evolved to be",
+      "en": "was duplicated, and the second version evolved to be",
+      "zh": ""
+    },
+    {
+      "start": 1086.87,
+      "duration": 1.41,
+      "text": "more red-sensitive,",
+      "en": "more red-sensitive,",
+      "zh": ""
+    },
+    {
+      "start": 1088.28,
+      "duration": 3.06,
+      "text": "and we see this happen over and over and over again",
+      "en": "and we see this happen over and over and over again",
+      "zh": ""
+    },
+    {
+      "start": 1091.34,
+      "duration": 1.83,
+      "text": "in jumping spiders.",
+      "en": "in jumping spiders.",
+      "zh": ""
+    },
+    {
+      "start": 1093.17,
+      "duration": 1.8,
+      "text": "- But other jumping spiders see red",
+      "en": "- But other jumping spiders see red",
+      "zh": ""
+    },
+    {
+      "start": 1094.97,
+      "duration": 2.49,
+      "text": "in a totally different way.",
+      "en": "in a totally different way.",
+      "zh": ""
+    },
+    {
+      "start": 1097.46,
+      "duration": 2.31,
+      "text": "Rather than evolving new photo pigments,",
+      "en": "Rather than evolving new photo pigments,",
+      "zh": ""
+    },
+    {
+      "start": 1099.77,
+      "duration": 1.98,
+      "text": "they added an internal filter",
+      "en": "they added an internal filter",
+      "zh": ""
+    },
+    {
+      "start": 1101.75,
+      "duration": 2.34,
+      "text": "to some of their green-sensitive cone cells,",
+      "en": "to some of their green-sensitive cone cells,",
+      "zh": ""
+    },
+    {
+      "start": 1104.09,
+      "duration": 1.56,
+      "text": "which cuts out green light,",
+      "en": "which cuts out green light,",
+      "zh": ""
+    },
+    {
+      "start": 1105.65,
+      "duration": 2.04,
+      "text": "and forces those cells to respond",
+      "en": "and forces those cells to respond",
+      "zh": ""
+    },
+    {
+      "start": 1107.69,
+      "duration": 2.49,
+      "text": "only to longer wavelengths, like red.",
+      "en": "only to longer wavelengths, like red.",
+      "zh": ""
+    },
+    {
+      "start": 1111.11,
+      "duration": 2.94,
+      "text": "- They can basically create two kinds of cells",
+      "en": "- They can basically create two kinds of cells",
+      "zh": ""
+    },
+    {
+      "start": 1114.05,
+      "duration": 2.22,
+      "text": "from the same type of photoreceptor",
+      "en": "from the same type of photoreceptor",
+      "zh": ""
+    },
+    {
+      "start": 1116.27,
+      "duration": 2.55,
+      "text": "simply by using a filter in front of some of them",
+      "en": "simply by using a filter in front of some of them",
+      "zh": ""
+    },
+    {
+      "start": 1118.82,
+      "duration": 1.44,
+      "text": "and not in front of others.",
+      "en": "and not in front of others.",
+      "zh": ""
+    },
+    {
+      "start": 1121.61,
+      "duration": 1.86,
+      "text": "- All this evolutionary innovation",
+      "en": "- All this evolutionary innovation",
+      "zh": ""
+    },
+    {
+      "start": 1123.47,
+      "duration": 3.33,
+      "text": "makes the original question even more intriguing.",
+      "en": "makes the original question even more intriguing.",
+      "zh": ""
+    },
+    {
+      "start": 1126.8,
+      "duration": 3.81,
+      "text": "Why evolve expanded color vision in the first place?",
+      "en": "Why evolve expanded color vision in the first place?",
+      "zh": ""
+    },
+    {
+      "start": 1130.61,
+      "duration": 3.51,
+      "text": "That's the question Lisa Taylor is trying to answer.",
+      "en": "That's the question Lisa Taylor is trying to answer.",
+      "zh": ""
+    },
+    {
+      "start": 1134.12,
+      "duration": 2.82,
+      "text": "For a visual predator, like a jumping spider,",
+      "en": "For a visual predator, like a jumping spider,",
+      "zh": ""
+    },
+    {
+      "start": 1136.94,
+      "duration": 2.97,
+      "text": "better color vision could mean finding more prey.",
+      "en": "better color vision could mean finding more prey.",
+      "zh": ""
+    },
+    {
+      "start": 1139.91,
+      "duration": 3.87,
+      "text": "It could also mean avoiding prey that might harmful.",
+      "en": "It could also mean avoiding prey that might harmful.",
+      "zh": ""
+    },
+    {
+      "start": 1143.78,
+      "duration": 2.34,
+      "text": "- [Lisa] And so, a lot of prey in the environment advertise",
+      "en": "- [Lisa] And so, a lot of prey in the environment advertise",
+      "zh": ""
+    },
+    {
+      "start": 1146.12,
+      "duration": 1.59,
+      "text": "their toxicity with bright colors,",
+      "en": "their toxicity with bright colors,",
+      "zh": ""
+    },
+    {
+      "start": 1147.71,
+      "duration": 1.92,
+      "text": "and particularly with long wavelength colors,",
+      "en": "and particularly with long wavelength colors,",
+      "zh": ""
+    },
+    {
+      "start": 1149.63,
+      "duration": 1.89,
+      "text": "such as red and orange.",
+      "en": "such as red and orange.",
+      "zh": ""
+    },
+    {
+      "start": 1151.52,
+      "duration": 2.07,
+      "text": "So we're testing the idea that the ability",
+      "en": "So we're testing the idea that the ability",
+      "zh": ""
+    },
+    {
+      "start": 1153.59,
+      "duration": 2.7,
+      "text": "to use color vision will help these spiders learn to avoid",
+      "en": "to use color vision will help these spiders learn to avoid",
+      "zh": ""
+    },
+    {
+      "start": 1156.29,
+      "duration": 3.0,
+      "text": "and continue to avoid red prey that taste bad.",
+      "en": "and continue to avoid red prey that taste bad.",
+      "zh": ""
+    },
+    {
+      "start": 1159.29,
+      "duration": 3.0,
+      "text": "- [Derek] In this experiment, all the prey are termites.",
+      "en": "- [Derek] In this experiment, all the prey are termites.",
+      "zh": ""
+    },
+    {
+      "start": 1162.29,
+      "duration": 2.67,
+      "text": "Some have a dab of red paint on their backs,",
+      "en": "Some have a dab of red paint on their backs,",
+      "zh": ""
+    },
+    {
+      "start": 1164.96,
+      "duration": 2.31,
+      "text": "and others have a dab of gray,",
+      "en": "and others have a dab of gray,",
+      "zh": ""
+    },
+    {
+      "start": 1168.17,
+      "duration": 1.95,
+      "text": "- And this doesn't affect their behavior in any way.",
+      "en": "- And this doesn't affect their behavior in any way.",
+      "zh": ""
+    },
+    {
+      "start": 1170.12,
+      "duration": 1.95,
+      "text": "They still move around naturally,",
+      "en": "They still move around naturally,",
+      "zh": ""
+    },
+    {
+      "start": 1172.07,
+      "duration": 1.65,
+      "text": "and the spiders really like to eat termites.",
+      "en": "and the spiders really like to eat termites.",
+      "zh": ""
+    },
+    {
+      "start": 1173.72,
+      "duration": 2.55,
+      "text": "- [Derek] The red termites also get treated",
+      "en": "- [Derek] The red termites also get treated",
+      "zh": ""
+    },
+    {
+      "start": 1176.27,
+      "duration": 2.13,
+      "text": "with a compound called Bitrex,",
+      "en": "with a compound called Bitrex,",
+      "zh": ""
+    },
+    {
+      "start": 1178.4,
+      "duration": 3.06,
+      "text": "which is actually the most bitter substance known.",
+      "en": "which is actually the most bitter substance known.",
+      "zh": ""
+    },
+    {
+      "start": 1182.48,
+      "duration": 2.55,
+      "text": "- And yeah, it turns out that the spiders also think",
+      "en": "- And yeah, it turns out that the spiders also think",
+      "zh": ""
+    },
+    {
+      "start": 1185.03,
+      "duration": 0.99,
+      "text": "it tastes disgusting.",
+      "en": "it tastes disgusting.",
+      "zh": ""
+    },
+    {
+      "start": 1186.02,
+      "duration": 1.65,
+      "text": "So we can simultaneously",
+      "en": "So we can simultaneously",
+      "zh": ""
+    },
+    {
+      "start": 1187.67,
+      "duration": 2.73,
+      "text": "and independently manipulate color and palatability.",
+      "en": "and independently manipulate color and palatability.",
+      "zh": ""
+    },
+    {
+      "start": 1191.36,
+      "duration": 1.8,
+      "text": "- In other words, the researchers can make",
+      "en": "- In other words, the researchers can make",
+      "zh": ""
+    },
+    {
+      "start": 1193.16,
+      "duration": 3.69,
+      "text": "the termites red and bitter, gray and tasty,",
+      "en": "the termites red and bitter, gray and tasty,",
+      "zh": ""
+    },
+    {
+      "start": 1196.85,
+      "duration": 2.4,
+      "text": "or if they want to mess with the spiders,",
+      "en": "or if they want to mess with the spiders,",
+      "zh": ""
+    },
+    {
+      "start": 1199.25,
+      "duration": 2.79,
+      "text": "gray and bitter, or red and tasty.",
+      "en": "gray and bitter, or red and tasty.",
+      "zh": ""
+    },
+    {
+      "start": 1203.0,
+      "duration": 3.27,
+      "text": "The first part of the experiment is the training phase.",
+      "en": "The first part of the experiment is the training phase.",
+      "zh": ""
+    },
+    {
+      "start": 1206.27,
+      "duration": 2.88,
+      "text": "Basically, the spiders get to choose from a tiny buffet",
+      "en": "Basically, the spiders get to choose from a tiny buffet",
+      "zh": ""
+    },
+    {
+      "start": 1209.15,
+      "duration": 4.83,
+      "text": "of termite prey, each one in its own little Petri dish.",
+      "en": "of termite prey, each one in its own little Petri dish.",
+      "zh": ""
+    },
+    {
+      "start": 1213.98,
+      "duration": 1.38,
+      "text": "- [Lisa] In three of the Petri dishes,",
+      "en": "- [Lisa] In three of the Petri dishes,",
+      "zh": ""
+    },
+    {
+      "start": 1215.36,
+      "duration": 2.58,
+      "text": "they get a red-painted, bitter-tasting termite,",
+      "en": "they get a red-painted, bitter-tasting termite,",
+      "zh": ""
+    },
+    {
+      "start": 1217.94,
+      "duration": 1.5,
+      "text": "and then the other three Petri dishes,",
+      "en": "and then the other three Petri dishes,",
+      "zh": ""
+    },
+    {
+      "start": 1219.44,
+      "duration": 2.7,
+      "text": "they get a gray-painted, very tasty termite.",
+      "en": "they get a gray-painted, very tasty termite.",
+      "zh": ""
+    },
+    {
+      "start": 1223.37,
+      "duration": 1.32,
+      "text": "As they interact with this prey,",
+      "en": "As they interact with this prey,",
+      "zh": ""
+    },
+    {
+      "start": 1224.69,
+      "duration": 2.31,
+      "text": "they are constantly learning",
+      "en": "they are constantly learning",
+      "zh": ""
+    },
+    {
+      "start": 1227.0,
+      "duration": 1.38,
+      "text": "and it's constantly being reinforced that",
+      "en": "and it's constantly being reinforced that",
+      "zh": ""
+    },
+    {
+      "start": 1228.38,
+      "duration": 1.68,
+      "text": "whenever they attack something red,",
+      "en": "whenever they attack something red,",
+      "zh": ""
+    },
+    {
+      "start": 1230.06,
+      "duration": 2.64,
+      "text": "they get a mouthful of bitter-tasting termite,",
+      "en": "they get a mouthful of bitter-tasting termite,",
+      "zh": ""
+    },
+    {
+      "start": 1232.7,
+      "duration": 1.38,
+      "text": "and whenever they attack something gray,",
+      "en": "and whenever they attack something gray,",
+      "zh": ""
+    },
+    {
+      "start": 1234.08,
+      "duration": 3.42,
+      "text": "they get a mouthful of tasty termite.",
+      "en": "they get a mouthful of tasty termite.",
+      "zh": ""
+    },
+    {
+      "start": 1237.5,
+      "duration": 2.1,
+      "text": "The first spiders to go through this experiment are",
+      "en": "The first spiders to go through this experiment are",
+      "zh": ""
+    },
+    {
+      "start": 1239.6,
+      "duration": 2.19,
+      "text": "Habronattus pyrrithrix, and we started with them",
+      "en": "Habronattus pyrrithrix, and we started with them",
+      "zh": ""
+    },
+    {
+      "start": 1241.79,
+      "duration": 3.18,
+      "text": "because we know that they have good color vision",
+      "en": "because we know that they have good color vision",
+      "zh": ""
+    },
+    {
+      "start": 1244.97,
+      "duration": 2.12,
+      "text": "that extends into the long wavelengths.",
+      "en": "that extends into the long wavelengths.",
+      "zh": ""
+    },
+    {
+      "start": 1247.09,
+      "duration": 2.44,
+      "text": "- [Derek] Habronattus pyrrithrix is one of the species",
+      "en": "- [Derek] Habronattus pyrrithrix is one of the species",
+      "zh": ""
+    },
+    {
+      "start": 1249.53,
+      "duration": 2.31,
+      "text": "that can see red using a red filter",
+      "en": "that can see red using a red filter",
+      "zh": ""
+    },
+    {
+      "start": 1251.84,
+      "duration": 3.39,
+      "text": "in front of some of its green-sensitive cone cells.",
+      "en": "in front of some of its green-sensitive cone cells.",
+      "zh": ""
+    },
+    {
+      "start": 1255.23,
+      "duration": 1.26,
+      "text": "- [Lisa] Our data so far suggests",
+      "en": "- [Lisa] Our data so far suggests",
+      "zh": ""
+    },
+    {
+      "start": 1256.49,
+      "duration": 2.88,
+      "text": "that the spiders are really good at learning the rules.",
+      "en": "that the spiders are really good at learning the rules.",
+      "zh": ""
+    },
+    {
+      "start": 1259.37,
+      "duration": 1.95,
+      "text": "- And once they learn the rules,",
+      "en": "- And once they learn the rules,",
+      "zh": ""
+    },
+    {
+      "start": 1261.32,
+      "duration": 2.64,
+      "text": "then the real experiment begins.",
+      "en": "then the real experiment begins.",
+      "zh": ""
+    },
+    {
+      "start": 1263.96,
+      "duration": 2.73,
+      "text": "The spiders hunt for all their food in a setup",
+      "en": "The spiders hunt for all their food in a setup",
+      "zh": ""
+    },
+    {
+      "start": 1266.69,
+      "duration": 2.64,
+      "text": "just like the termite buffet where they were trained,",
+      "en": "just like the termite buffet where they were trained,",
+      "zh": ""
+    },
+    {
+      "start": 1269.33,
+      "duration": 2.4,
+      "text": "except that for half of the spiders",
+      "en": "except that for half of the spiders",
+      "zh": ""
+    },
+    {
+      "start": 1271.73,
+      "duration": 1.83,
+      "text": "there's a big difference.",
+      "en": "there's a big difference.",
+      "zh": ""
+    },
+    {
+      "start": 1273.56,
+      "duration": 3.99,
+      "text": "Some of the termites are still bitter, but they're all gray.",
+      "en": "Some of the termites are still bitter, but they're all gray.",
+      "zh": ""
+    },
+    {
+      "start": 1277.55,
+      "duration": 1.98,
+      "text": "The color cues are gone.",
+      "en": "The color cues are gone.",
+      "zh": ""
+    },
+    {
+      "start": 1280.76,
+      "duration": 1.68,
+      "text": "Now, the question becomes",
+      "en": "Now, the question becomes",
+      "zh": ""
+    },
+    {
+      "start": 1282.44,
+      "duration": 2.52,
+      "text": "do the spiders that have color cues available,",
+      "en": "do the spiders that have color cues available,",
+      "zh": ""
+    },
+    {
+      "start": 1284.96,
+      "duration": 2.19,
+      "text": "in other words, the ones for which bitter termites",
+      "en": "in other words, the ones for which bitter termites",
+      "zh": ""
+    },
+    {
+      "start": 1287.15,
+      "duration": 2.7,
+      "text": "are still red, do they do better?",
+      "en": "are still red, do they do better?",
+      "zh": ""
+    },
+    {
+      "start": 1290.81,
+      "duration": 2.7,
+      "text": "- So our data so far show that they do fare better",
+      "en": "- So our data so far show that they do fare better",
+      "zh": ""
+    },
+    {
+      "start": 1293.51,
+      "duration": 1.95,
+      "text": "when they have access to those color cues,",
+      "en": "when they have access to those color cues,",
+      "zh": ""
+    },
+    {
+      "start": 1295.46,
+      "duration": 1.29,
+      "text": "they lay eggs sooner,",
+      "en": "they lay eggs sooner,",
+      "zh": ""
+    },
+    {
+      "start": 1296.75,
+      "duration": 2.13,
+      "text": "and that they're also heavier at the end of the experiment",
+      "en": "and that they're also heavier at the end of the experiment",
+      "zh": ""
+    },
+    {
+      "start": 1298.88,
+      "duration": 1.35,
+      "text": "if they're in the treatment group",
+      "en": "if they're in the treatment group",
+      "zh": ""
+    },
+    {
+      "start": 1300.23,
+      "duration": 2.19,
+      "text": "where they have access to color cues.",
+      "en": "where they have access to color cues.",
+      "zh": ""
+    },
+    {
+      "start": 1302.42,
+      "duration": 2.31,
+      "text": "- One hypothesis for why primates evolved",
+      "en": "- One hypothesis for why primates evolved",
+      "zh": ""
+    },
+    {
+      "start": 1304.73,
+      "duration": 1.47,
+      "text": "expanded color vision is",
+      "en": "expanded color vision is",
+      "zh": ""
+    },
+    {
+      "start": 1306.2,
+      "duration": 3.09,
+      "text": "to distinguish ripe from unripe fruit,",
+      "en": "to distinguish ripe from unripe fruit,",
+      "zh": ""
+    },
+    {
+      "start": 1309.29,
+      "duration": 3.48,
+      "text": "or tender new leaves from older, tougher ones,",
+      "en": "or tender new leaves from older, tougher ones,",
+      "zh": ""
+    },
+    {
+      "start": 1312.77,
+      "duration": 3.93,
+      "text": "in other words, telling good food apart from bad food,",
+      "en": "in other words, telling good food apart from bad food,",
+      "zh": ""
+    },
+    {
+      "start": 1316.7,
+      "duration": 2.61,
+      "text": "kind of like what these spiders are doing.",
+      "en": "kind of like what these spiders are doing.",
+      "zh": ""
+    },
+    {
+      "start": 1319.31,
+      "duration": 3.66,
+      "text": "- Here, we've got this kind of evidence in a jumping spider,",
+      "en": "- Here, we've got this kind of evidence in a jumping spider,",
+      "zh": ""
+    },
+    {
+      "start": 1322.97,
+      "duration": 2.33,
+      "text": "and we're gonna repeatedly test that",
+      "en": "and we're gonna repeatedly test that",
+      "zh": ""
+    },
+    {
+      "start": 1325.3,
+      "duration": 1.96,
+      "text": "in other jumping spider species",
+      "en": "in other jumping spider species",
+      "zh": ""
+    },
+    {
+      "start": 1327.26,
+      "duration": 2.61,
+      "text": "that have different forms of color vision.",
+      "en": "that have different forms of color vision.",
+      "zh": ""
+    },
+    {
+      "start": 1329.87,
+      "duration": 1.59,
+      "text": "- The team predicts that spiders",
+      "en": "- The team predicts that spiders",
+      "zh": ""
+    },
+    {
+      "start": 1331.46,
+      "duration": 2.79,
+      "text": "with expanded color vision will use color cues",
+      "en": "with expanded color vision will use color cues",
+      "zh": ""
+    },
+    {
+      "start": 1334.25,
+      "duration": 1.32,
+      "text": "to their advantage.",
+      "en": "to their advantage.",
+      "zh": ""
+    },
+    {
+      "start": 1335.57,
+      "duration": 2.22,
+      "text": "So they'll do better when color can tell them",
+      "en": "So they'll do better when color can tell them",
+      "zh": ""
+    },
+    {
+      "start": 1337.79,
+      "duration": 2.37,
+      "text": "which prey items taste bad.",
+      "en": "which prey items taste bad.",
+      "zh": ""
+    },
+    {
+      "start": 1340.16,
+      "duration": 2.91,
+      "text": "Species that can't see red won't get any benefit",
+      "en": "Species that can't see red won't get any benefit",
+      "zh": ""
+    },
+    {
+      "start": 1343.07,
+      "duration": 3.33,
+      "text": "from the warning colors, or from the training.",
+      "en": "from the warning colors, or from the training.",
+      "zh": ""
+    },
+    {
+      "start": 1346.4,
+      "duration": 2.07,
+      "text": "If the data support these predictions,",
+      "en": "If the data support these predictions,",
+      "zh": ""
+    },
+    {
+      "start": 1348.47,
+      "duration": 2.82,
+      "text": "these will be some of the first experiments in any species",
+      "en": "these will be some of the first experiments in any species",
+      "zh": ""
+    },
+    {
+      "start": 1351.29,
+      "duration": 2.97,
+      "text": "to reveal an evolutionary advantage to seeing",
+      "en": "to reveal an evolutionary advantage to seeing",
+      "zh": ""
+    },
+    {
+      "start": 1354.26,
+      "duration": 1.98,
+      "text": "and discriminating more colors.",
+      "en": "and discriminating more colors.",
+      "zh": ""
+    },
+    {
+      "start": 1357.17,
+      "duration": 2.76,
+      "text": "But feeding behavior can't be the whole story,",
+      "en": "But feeding behavior can't be the whole story,",
+      "zh": ""
+    },
+    {
+      "start": 1359.93,
+      "duration": 3.75,
+      "text": "because the spiders had some more surprises in store.",
+      "en": "because the spiders had some more surprises in store.",
+      "zh": ""
+    },
+    {
+      "start": 1363.68,
+      "duration": 2.61,
+      "text": "- For example, there's a genus of jumping spiders",
+      "en": "- For example, there's a genus of jumping spiders",
+      "zh": ""
+    },
+    {
+      "start": 1366.29,
+      "duration": 3.24,
+      "text": "in Central America called Mexigonus,",
+      "en": "in Central America called Mexigonus,",
+      "zh": ""
+    },
+    {
+      "start": 1369.53,
+      "duration": 2.52,
+      "text": "where males and only males sport",
+      "en": "where males and only males sport",
+      "zh": ""
+    },
+    {
+      "start": 1372.05,
+      "duration": 4.35,
+      "text": "incredibly bright red colors on parts of their body",
+      "en": "incredibly bright red colors on parts of their body",
+      "zh": ""
+    },
+    {
+      "start": 1376.4,
+      "duration": 2.43,
+      "text": "that they use during courtship.",
+      "en": "that they use during courtship.",
+      "zh": ""
+    },
+    {
+      "start": 1378.83,
+      "duration": 0.83,
+      "text": "- We thought for sure",
+      "en": "- We thought for sure",
+      "zh": ""
+    },
+    {
+      "start": 1379.66,
+      "duration": 2.26,
+      "text": "the female has gotta be paying attention to red,",
+      "en": "the female has gotta be paying attention to red,",
+      "zh": ""
+    },
+    {
+      "start": 1381.92,
+      "duration": 1.38,
+      "text": "distinguishing it from other colors.",
+      "en": "distinguishing it from other colors.",
+      "zh": ""
+    },
+    {
+      "start": 1383.3,
+      "duration": 4.02,
+      "text": "They've gotta have red color vision in some special way.",
+      "en": "They've gotta have red color vision in some special way.",
+      "zh": ""
+    },
+    {
+      "start": 1387.32,
+      "duration": 3.3,
+      "text": "- And it turns out that at least by our measurements,",
+      "en": "- And it turns out that at least by our measurements,",
+      "zh": ""
+    },
+    {
+      "start": 1390.62,
+      "duration": 2.82,
+      "text": "they don't have the ability to see red.",
+      "en": "they don't have the ability to see red.",
+      "zh": ""
+    },
+    {
+      "start": 1393.44,
+      "duration": 2.9,
+      "text": "They just have UV and green-sensitive cells",
+      "en": "They just have UV and green-sensitive cells",
+      "zh": ""
+    },
+    {
+      "start": 1396.34,
+      "duration": 2.35,
+      "text": "in those principal eye retinas.",
+      "en": "in those principal eye retinas.",
+      "zh": ""
+    },
+    {
+      "start": 1398.69,
+      "duration": 3.12,
+      "text": "- I don't mind being proved wrong at all.",
+      "en": "- I don't mind being proved wrong at all.",
+      "zh": ""
+    },
+    {
+      "start": 1401.81,
+      "duration": 2.1,
+      "text": "It usually means something more exciting,",
+      "en": "It usually means something more exciting,",
+      "zh": ""
+    },
+    {
+      "start": 1403.91,
+      "duration": 2.43,
+      "text": "because it means that, oh my God, there's something cool",
+      "en": "because it means that, oh my God, there's something cool",
+      "zh": ""
+    },
+    {
+      "start": 1406.34,
+      "duration": 1.11,
+      "text": "and new in the world, right?",
+      "en": "and new in the world, right?",
+      "zh": ""
+    },
+    {
+      "start": 1407.45,
+      "duration": 1.95,
+      "text": "And you've learned something new.",
+      "en": "And you've learned something new.",
+      "zh": ""
+    },
+    {
+      "start": 1409.4,
+      "duration": 2.58,
+      "text": "- So what's going on here?",
+      "en": "- So what's going on here?",
+      "zh": ""
+    },
+    {
+      "start": 1411.98,
+      "duration": 1.44,
+      "text": "To help answer that question",
+      "en": "To help answer that question",
+      "zh": ""
+    },
+    {
+      "start": 1413.42,
+      "duration": 2.58,
+      "text": "and maybe understand why some spiders are displaying",
+      "en": "and maybe understand why some spiders are displaying",
+      "zh": ""
+    },
+    {
+      "start": 1416.0,
+      "duration": 2.76,
+      "text": "to one another with colors they can't see,",
+      "en": "to one another with colors they can't see,",
+      "zh": ""
+    },
+    {
+      "start": 1418.76,
+      "duration": 3.33,
+      "text": "it's time to revisit the jumping spider retina.",
+      "en": "it's time to revisit the jumping spider retina.",
+      "zh": ""
+    },
+    {
+      "start": 1422.09,
+      "duration": 2.46,
+      "text": "- Instead of just one retina like we have,",
+      "en": "- Instead of just one retina like we have,",
+      "zh": ""
+    },
+    {
+      "start": 1424.55,
+      "duration": 2.25,
+      "text": "they have a stack of translucent retinas",
+      "en": "they have a stack of translucent retinas",
+      "zh": ""
+    },
+    {
+      "start": 1426.8,
+      "duration": 1.53,
+      "text": "right on top of each other.",
+      "en": "right on top of each other.",
+      "zh": ""
+    },
+    {
+      "start": 1428.33,
+      "duration": 2.4,
+      "text": "- One thing that we think that this layering does is",
+      "en": "- One thing that we think that this layering does is",
+      "zh": ""
+    },
+    {
+      "start": 1430.73,
+      "duration": 2.16,
+      "text": "to correct for a problem",
+      "en": "to correct for a problem",
+      "zh": ""
+    },
+    {
+      "start": 1432.89,
+      "duration": 2.58,
+      "text": "that the optics present to the retina.",
+      "en": "that the optics present to the retina.",
+      "zh": ""
+    },
+    {
+      "start": 1435.47,
+      "duration": 2.13,
+      "text": "It's called chromatic aberration.",
+      "en": "It's called chromatic aberration.",
+      "zh": ""
+    },
+    {
+      "start": 1438.68,
+      "duration": 3.24,
+      "text": "- Most optical materials, like these glass prisms,",
+      "en": "- Most optical materials, like these glass prisms,",
+      "zh": ""
+    },
+    {
+      "start": 1441.92,
+      "duration": 3.18,
+      "text": "refract, or bend short wavelength light,",
+      "en": "refract, or bend short wavelength light,",
+      "zh": ""
+    },
+    {
+      "start": 1445.1,
+      "duration": 2.76,
+      "text": "like blue and UV, more strongly",
+      "en": "like blue and UV, more strongly",
+      "zh": ""
+    },
+    {
+      "start": 1447.86,
+      "duration": 2.7,
+      "text": "than long wavelength light, like red.",
+      "en": "than long wavelength light, like red.",
+      "zh": ""
+    },
+    {
+      "start": 1450.56,
+      "duration": 2.37,
+      "text": "That's chromatic aberration.",
+      "en": "That's chromatic aberration.",
+      "zh": ""
+    },
+    {
+      "start": 1452.93,
+      "duration": 1.92,
+      "text": "Lenses do this, too.",
+      "en": "Lenses do this, too.",
+      "zh": ""
+    },
+    {
+      "start": 1454.85,
+      "duration": 2.07,
+      "text": "In photos taken with vintage camera lenses,",
+      "en": "In photos taken with vintage camera lenses,",
+      "zh": ""
+    },
+    {
+      "start": 1456.92,
+      "duration": 1.89,
+      "text": "you can often see a fringe of color",
+      "en": "you can often see a fringe of color",
+      "zh": ""
+    },
+    {
+      "start": 1458.81,
+      "duration": 2.7,
+      "text": "around high contrast edges.",
+      "en": "around high contrast edges.",
+      "zh": ""
+    },
+    {
+      "start": 1461.51,
+      "duration": 4.5,
+      "text": "The sensor in a camera is a single flat layer of photosites.",
+      "en": "The sensor in a camera is a single flat layer of photosites.",
+      "zh": ""
+    },
+    {
+      "start": 1466.01,
+      "duration": 2.4,
+      "text": "So getting the different colors of light to focus",
+      "en": "So getting the different colors of light to focus",
+      "zh": ""
+    },
+    {
+      "start": 1468.41,
+      "duration": 2.4,
+      "text": "in the same plane is critical.",
+      "en": "in the same plane is critical.",
+      "zh": ""
+    },
+    {
+      "start": 1470.81,
+      "duration": 2.85,
+      "text": "Modern camera lenses correct for chromatic aberration",
+      "en": "Modern camera lenses correct for chromatic aberration",
+      "zh": ""
+    },
+    {
+      "start": 1473.66,
+      "duration": 2.13,
+      "text": "using complicated optical designs",
+      "en": "using complicated optical designs",
+      "zh": ""
+    },
+    {
+      "start": 1475.79,
+      "duration": 2.34,
+      "text": "with lots of lens elements.",
+      "en": "with lots of lens elements.",
+      "zh": ""
+    },
+    {
+      "start": 1478.13,
+      "duration": 2.28,
+      "text": "- But the other solution is to put",
+      "en": "- But the other solution is to put",
+      "zh": ""
+    },
+    {
+      "start": 1480.41,
+      "duration": 3.54,
+      "text": "different color-sensitive cells at the right depths",
+      "en": "different color-sensitive cells at the right depths",
+      "zh": ""
+    },
+    {
+      "start": 1483.95,
+      "duration": 3.33,
+      "text": "behind the lenses, so that the colors",
+      "en": "behind the lenses, so that the colors",
+      "zh": ""
+    },
+    {
+      "start": 1487.28,
+      "duration": 2.85,
+      "text": "that they're sensitive to are in proper focus.",
+      "en": "that they're sensitive to are in proper focus.",
+      "zh": ""
+    },
+    {
+      "start": 1490.13,
+      "duration": 3.81,
+      "text": "- That's exactly what jumping spider retinas do,",
+      "en": "- That's exactly what jumping spider retinas do,",
+      "zh": ""
+    },
+    {
+      "start": 1493.94,
+      "duration": 2.52,
+      "text": "and this gets us one step closer to understanding",
+      "en": "and this gets us one step closer to understanding",
+      "zh": ""
+    },
+    {
+      "start": 1496.46,
+      "duration": 5.0,
+      "text": "what red might mean to a spider that can't actually see red.",
+      "en": "what red might mean to a spider that can't actually see red.",
+      "zh": ""
+    },
+    {
+      "start": 1501.86,
+      "duration": 3.03,
+      "text": "In the jumping spider eye, the cells sensitive",
+      "en": "In the jumping spider eye, the cells sensitive",
+      "zh": ""
+    },
+    {
+      "start": 1504.89,
+      "duration": 3.42,
+      "text": "to shorter wavelengths are generally closer to the lens,",
+      "en": "to shorter wavelengths are generally closer to the lens,",
+      "zh": ""
+    },
+    {
+      "start": 1508.31,
+      "duration": 4.26,
+      "text": "and those sensitive to longer wavelengths are farther away.",
+      "en": "and those sensitive to longer wavelengths are farther away.",
+      "zh": ""
+    },
+    {
+      "start": 1512.57,
+      "duration": 2.52,
+      "text": "But most jumping spiders are dichromats.",
+      "en": "But most jumping spiders are dichromats.",
+      "zh": ""
+    },
+    {
+      "start": 1515.09,
+      "duration": 2.46,
+      "text": "They only have two cone cell types.",
+      "en": "They only have two cone cell types.",
+      "zh": ""
+    },
+    {
+      "start": 1517.55,
+      "duration": 3.9,
+      "text": "So why have four layers in their retinas?",
+      "en": "So why have four layers in their retinas?",
+      "zh": ""
+    },
+    {
+      "start": 1521.45,
+      "duration": 1.62,
+      "text": "- [Nathan] Typically, the bottom,",
+      "en": "- [Nathan] Typically, the bottom,",
+      "zh": ""
+    },
+    {
+      "start": 1523.07,
+      "duration": 2.94,
+      "text": "or farthest away from the lens two tiers,",
+      "en": "or farthest away from the lens two tiers,",
+      "zh": ""
+    },
+    {
+      "start": 1526.01,
+      "duration": 2.91,
+      "text": "we call those tiers 1 and 2.",
+      "en": "we call those tiers 1 and 2.",
+      "zh": ""
+    },
+    {
+      "start": 1528.92,
+      "duration": 3.6,
+      "text": "Those are both typically sensitive just to green light.",
+      "en": "Those are both typically sensitive just to green light.",
+      "zh": ""
+    },
+    {
+      "start": 1532.52,
+      "duration": 1.98,
+      "text": "And with a retina like that,",
+      "en": "And with a retina like that,",
+      "zh": ""
+    },
+    {
+      "start": 1534.5,
+      "duration": 3.93,
+      "text": "an object in that world might appear in different focus",
+      "en": "an object in that world might appear in different focus",
+      "zh": ""
+    },
+    {
+      "start": 1538.43,
+      "duration": 3.0,
+      "text": "in tier 2 than in tier 1.",
+      "en": "in tier 2 than in tier 1.",
+      "zh": ""
+    },
+    {
+      "start": 1541.43,
+      "duration": 1.59,
+      "text": "- [Derek] Researchers in Japan have shown",
+      "en": "- [Derek] Researchers in Japan have shown",
+      "zh": ""
+    },
+    {
+      "start": 1543.02,
+      "duration": 3.18,
+      "text": "that jumping spiders can actually use this discrepancy",
+      "en": "that jumping spiders can actually use this discrepancy",
+      "zh": ""
+    },
+    {
+      "start": 1546.2,
+      "duration": 2.52,
+      "text": "in focus to perceive depth",
+      "en": "in focus to perceive depth",
+      "zh": ""
+    },
+    {
+      "start": 1548.72,
+      "duration": 2.94,
+      "text": "and distance in their environment.",
+      "en": "and distance in their environment.",
+      "zh": ""
+    },
+    {
+      "start": 1551.66,
+      "duration": 3.27,
+      "text": "- But there is a liability with this system.",
+      "en": "- But there is a liability with this system.",
+      "zh": ""
+    },
+    {
+      "start": 1554.93,
+      "duration": 3.84,
+      "text": "It only works if you're just using one color of light,",
+      "en": "It only works if you're just using one color of light,",
+      "zh": ""
+    },
+    {
+      "start": 1558.77,
+      "duration": 1.65,
+      "text": "like green.",
+      "en": "like green.",
+      "zh": ""
+    },
+    {
+      "start": 1560.42,
+      "duration": 2.4,
+      "text": "If you start to mix in other colors of light,",
+      "en": "If you start to mix in other colors of light,",
+      "zh": ""
+    },
+    {
+      "start": 1562.82,
+      "duration": 4.02,
+      "text": "for example, red, then the system creates errors.",
+      "en": "for example, red, then the system creates errors.",
+      "zh": ""
+    },
+    {
+      "start": 1566.84,
+      "duration": 4.38,
+      "text": "Essentially, colors like red might create this perception",
+      "en": "Essentially, colors like red might create this perception",
+      "zh": ""
+    },
+    {
+      "start": 1571.22,
+      "duration": 4.83,
+      "text": "of being close, or being looming towards the receiver,",
+      "en": "of being close, or being looming towards the receiver,",
+      "zh": ""
+    },
+    {
+      "start": 1576.05,
+      "duration": 1.35,
+      "text": "and that would provide",
+      "en": "and that would provide",
+      "zh": ""
+    },
+    {
+      "start": 1577.4,
+      "duration": 3.9,
+      "text": "a totally different perceptual experience for the viewer.",
+      "en": "a totally different perceptual experience for the viewer.",
+      "zh": ""
+    },
+    {
+      "start": 1582.35,
+      "duration": 3.9,
+      "text": "- So a jumping spider's red coloration might not look red",
+      "en": "- So a jumping spider's red coloration might not look red",
+      "zh": ""
+    },
+    {
+      "start": 1586.25,
+      "duration": 1.41,
+      "text": "to another jumping spider,",
+      "en": "to another jumping spider,",
+      "zh": ""
+    },
+    {
+      "start": 1587.66,
+      "duration": 3.69,
+      "text": "but instead create a sort of depth illusion.",
+      "en": "but instead create a sort of depth illusion.",
+      "zh": ""
+    },
+    {
+      "start": 1591.35,
+      "duration": 2.13,
+      "text": "But why would a male spider benefit",
+      "en": "But why would a male spider benefit",
+      "zh": ""
+    },
+    {
+      "start": 1593.48,
+      "duration": 3.3,
+      "text": "from displaying an optical illusion?",
+      "en": "from displaying an optical illusion?",
+      "zh": ""
+    },
+    {
+      "start": 1596.78,
+      "duration": 2.43,
+      "text": "- One thing about jumping spiders is",
+      "en": "- One thing about jumping spiders is",
+      "zh": ""
+    },
+    {
+      "start": 1599.21,
+      "duration": 2.61,
+      "text": "that females often are quite aggressive",
+      "en": "that females often are quite aggressive",
+      "zh": ""
+    },
+    {
+      "start": 1601.82,
+      "duration": 1.41,
+      "text": "towards prospective mates.",
+      "en": "towards prospective mates.",
+      "zh": ""
+    },
+    {
+      "start": 1603.23,
+      "duration": 2.97,
+      "text": "In fact, they can often eat the male",
+      "en": "In fact, they can often eat the male",
+      "zh": ""
+    },
+    {
+      "start": 1606.2,
+      "duration": 2.16,
+      "text": "rather than allowing him to mate with them.",
+      "en": "rather than allowing him to mate with them.",
+      "zh": ""
+    },
+    {
+      "start": 1608.36,
+      "duration": 2.16,
+      "text": "So these males, when they're dancing for females,",
+      "en": "So these males, when they're dancing for females,",
+      "zh": ""
+    },
+    {
+      "start": 1610.52,
+      "duration": 2.16,
+      "text": "are really actually dancing for their lives",
+      "en": "are really actually dancing for their lives",
+      "zh": ""
+    },
+    {
+      "start": 1612.68,
+      "duration": 1.26,
+      "text": "in many instances.",
+      "en": "in many instances.",
+      "zh": ""
+    },
+    {
+      "start": 1614.87,
+      "duration": 2.37,
+      "text": "- [Derek] If a female thinks a male is closer",
+      "en": "- [Derek] If a female thinks a male is closer",
+      "zh": ""
+    },
+    {
+      "start": 1617.24,
+      "duration": 3.9,
+      "text": "than he really is, that could throw off her attack,",
+      "en": "than he really is, that could throw off her attack,",
+      "zh": ""
+    },
+    {
+      "start": 1621.14,
+      "duration": 4.05,
+      "text": "or maybe confusing the female pays off in other ways.",
+      "en": "or maybe confusing the female pays off in other ways.",
+      "zh": ""
+    },
+    {
+      "start": 1625.19,
+      "duration": 2.79,
+      "text": "- If she can't quite figure out the male's display,",
+      "en": "- If she can't quite figure out the male's display,",
+      "zh": ""
+    },
+    {
+      "start": 1627.98,
+      "duration": 2.91,
+      "text": "she might stick around paying attention to it for longer,",
+      "en": "she might stick around paying attention to it for longer,",
+      "zh": ""
+    },
+    {
+      "start": 1630.89,
+      "duration": 2.19,
+      "text": "and this might result in better outcomes",
+      "en": "and this might result in better outcomes",
+      "zh": ""
+    },
+    {
+      "start": 1633.08,
+      "duration": 1.85,
+      "text": "for the male at the end of courtship.",
+      "en": "for the male at the end of courtship.",
+      "zh": ""
+    },
+    {
+      "start": 1635.84,
+      "duration": 2.22,
+      "text": "- [Derek] And amorous male spiders might not be",
+      "en": "- [Derek] And amorous male spiders might not be",
+      "zh": ""
+    },
+    {
+      "start": 1638.06,
+      "duration": 2.73,
+      "text": "the only ones exploiting these depth delusions.",
+      "en": "the only ones exploiting these depth delusions.",
+      "zh": ""
+    },
+    {
+      "start": 1641.66,
+      "duration": 1.86,
+      "text": "- So imagine a red prey item.",
+      "en": "- So imagine a red prey item.",
+      "zh": ""
+    },
+    {
+      "start": 1643.52,
+      "duration": 3.52,
+      "text": "We might look at it and say, \"That's probably toxic,",
+      "en": "We might look at it and say, \"That's probably toxic,",
+      "zh": ""
+    },
+    {
+      "start": 1647.04,
+      "duration": 2.48,
+      "text": "\"and it's warning birds that it's toxic.\"",
+      "en": "\"and it's warning birds that it's toxic.\"",
+      "zh": ""
+    },
+    {
+      "start": 1649.52,
+      "duration": 1.83,
+      "text": "But another possibility is that it's red",
+      "en": "But another possibility is that it's red",
+      "zh": ""
+    },
+    {
+      "start": 1651.35,
+      "duration": 3.0,
+      "text": "simply to look like it's closer to a jumping spider,",
+      "en": "simply to look like it's closer to a jumping spider,",
+      "zh": ""
+    },
+    {
+      "start": 1654.35,
+      "duration": 2.85,
+      "text": "so that it has a better chance of escaping.",
+      "en": "so that it has a better chance of escaping.",
+      "zh": ""
+    },
+    {
+      "start": 1657.2,
+      "duration": 2.43,
+      "text": "We also see small insects",
+      "en": "We also see small insects",
+      "zh": ""
+    },
+    {
+      "start": 1659.63,
+      "duration": 2.52,
+      "text": "with red and blue patterns on them,",
+      "en": "with red and blue patterns on them,",
+      "zh": ""
+    },
+    {
+      "start": 1662.15,
+      "duration": 4.14,
+      "text": "which would create a really complicated visual illusion",
+      "en": "which would create a really complicated visual illusion",
+      "zh": ""
+    },
+    {
+      "start": 1666.29,
+      "duration": 1.89,
+      "text": "that might simply baffle it,",
+      "en": "that might simply baffle it,",
+      "zh": ""
+    },
+    {
+      "start": 1668.18,
+      "duration": 2.25,
+      "text": "and require it a longer period of time",
+      "en": "and require it a longer period of time",
+      "zh": ""
+    },
+    {
+      "start": 1670.43,
+      "duration": 2.43,
+      "text": "before it judge this distance.",
+      "en": "before it judge this distance.",
+      "zh": ""
+    },
+    {
+      "start": 1672.86,
+      "duration": 2.7,
+      "text": "Even a split second can really matter.",
+      "en": "Even a split second can really matter.",
+      "zh": ""
+    },
+    {
+      "start": 1676.43,
+      "duration": 2.37,
+      "text": "- But in this tiny game of cat and mouse,",
+      "en": "- But in this tiny game of cat and mouse,",
+      "zh": ""
+    },
+    {
+      "start": 1678.8,
+      "duration": 3.33,
+      "text": "a spider that could see and discriminate red from green",
+      "en": "a spider that could see and discriminate red from green",
+      "zh": ""
+    },
+    {
+      "start": 1682.13,
+      "duration": 2.85,
+      "text": "would be a lot harder to fool,",
+      "en": "would be a lot harder to fool,",
+      "zh": ""
+    },
+    {
+      "start": 1684.98,
+      "duration": 2.19,
+      "text": "and this could be another surprising benefit",
+      "en": "and this could be another surprising benefit",
+      "zh": ""
+    },
+    {
+      "start": 1687.17,
+      "duration": 4.17,
+      "text": "of color vision, one that isn't really about color at all.",
+      "en": "of color vision, one that isn't really about color at all.",
+      "zh": ""
+    },
+    {
+      "start": 1692.36,
+      "duration": 1.62,
+      "text": "- And what we really need to ask",
+      "en": "- And what we really need to ask",
+      "zh": ""
+    },
+    {
+      "start": 1693.98,
+      "duration": 3.15,
+      "text": "whether, or not this hypothesis is even plausible",
+      "en": "whether, or not this hypothesis is even plausible",
+      "zh": ""
+    },
+    {
+      "start": 1697.13,
+      "duration": 3.69,
+      "text": "is really good high resolution measurements",
+      "en": "is really good high resolution measurements",
+      "zh": ""
+    },
+    {
+      "start": 1700.82,
+      "duration": 2.46,
+      "text": "of the distances of things in their eyes,",
+      "en": "of the distances of things in their eyes,",
+      "zh": ""
+    },
+    {
+      "start": 1703.28,
+      "duration": 3.84,
+      "text": "including the retina and the lenses, from live animals.",
+      "en": "including the retina and the lenses, from live animals.",
+      "zh": ""
+    },
+    {
+      "start": 1707.12,
+      "duration": 1.89,
+      "text": "- [Derek] This information you can't just get",
+      "en": "- [Derek] This information you can't just get",
+      "zh": ""
+    },
+    {
+      "start": 1709.01,
+      "duration": 2.79,
+      "text": "from preserved specimens on microscope slides,",
+      "en": "from preserved specimens on microscope slides,",
+      "zh": ""
+    },
+    {
+      "start": 1711.8,
+      "duration": 2.19,
+      "text": "but there is another way.",
+      "en": "but there is another way.",
+      "zh": ""
+    },
+    {
+      "start": 1713.99,
+      "duration": 2.61,
+      "text": "(light music) (air whooshing)",
+      "en": "(light music) (air whooshing)",
+      "zh": ""
+    },
+    {
+      "start": 1716.6,
+      "duration": 2.1,
+      "text": "By using a particle accelerator called",
+      "en": "By using a particle accelerator called",
+      "zh": ""
+    },
+    {
+      "start": 1718.7,
+      "duration": 2.79,
+      "text": "the Advanced Photon Source, the researchers have started",
+      "en": "the Advanced Photon Source, the researchers have started",
+      "zh": ""
+    },
+    {
+      "start": 1721.49,
+      "duration": 2.85,
+      "text": "to collect high resolution X-ray videos",
+      "en": "to collect high resolution X-ray videos",
+      "zh": ""
+    },
+    {
+      "start": 1724.34,
+      "duration": 2.52,
+      "text": "through the spider's exoskeletons.",
+      "en": "through the spider's exoskeletons.",
+      "zh": ""
+    },
+    {
+      "start": 1726.86,
+      "duration": 1.35,
+      "text": "- This has never been done before.",
+      "en": "- This has never been done before.",
+      "zh": ""
+    },
+    {
+      "start": 1728.21,
+      "duration": 2.34,
+      "text": "It's in X-ray, so we can see through their eyes,",
+      "en": "It's in X-ray, so we can see through their eyes,",
+      "zh": ""
+    },
+    {
+      "start": 1730.55,
+      "duration": 3.15,
+      "text": "and we can see how these eye tubes are moving around.",
+      "en": "and we can see how these eye tubes are moving around.",
+      "zh": ""
+    },
+    {
+      "start": 1734.69,
+      "duration": 2.28,
+      "text": "- [Derek] If the spider's retinal movements change",
+      "en": "- [Derek] If the spider's retinal movements change",
+      "zh": ""
+    },
+    {
+      "start": 1736.97,
+      "duration": 2.49,
+      "text": "the shape, or length of their eye tubes,",
+      "en": "the shape, or length of their eye tubes,",
+      "zh": ""
+    },
+    {
+      "start": 1739.46,
+      "duration": 3.3,
+      "text": "that'll affect what they're capable of perceiving.",
+      "en": "that'll affect what they're capable of perceiving.",
+      "zh": ""
+    },
+    {
+      "start": 1742.76,
+      "duration": 2.01,
+      "text": "- It would change how they experience depth.",
+      "en": "- It would change how they experience depth.",
+      "zh": ""
+    },
+    {
+      "start": 1744.77,
+      "duration": 2.4,
+      "text": "It would change how they experience color.",
+      "en": "It would change how they experience color.",
+      "zh": ""
+    },
+    {
+      "start": 1747.17,
+      "duration": 1.2,
+      "text": "Previously, this information",
+      "en": "Previously, this information",
+      "zh": ""
+    },
+    {
+      "start": 1748.37,
+      "duration": 2.79,
+      "text": "has only been collected from dissections.",
+      "en": "has only been collected from dissections.",
+      "zh": ""
+    },
+    {
+      "start": 1751.16,
+      "duration": 4.29,
+      "text": "So we're very excited to get super high resolution videos",
+      "en": "So we're very excited to get super high resolution videos",
+      "zh": ""
+    },
+    {
+      "start": 1755.45,
+      "duration": 2.1,
+      "text": "of the inside of the spider's head",
+      "en": "of the inside of the spider's head",
+      "zh": ""
+    },
+    {
+      "start": 1757.55,
+      "duration": 3.72,
+      "text": "as it's performing complicated visual motions.",
+      "en": "as it's performing complicated visual motions.",
+      "zh": ""
+    },
+    {
+      "start": 1761.27,
+      "duration": 2.58,
+      "text": "- Unfortunately, a few months after their initial tests,",
+      "en": "- Unfortunately, a few months after their initial tests,",
+      "zh": ""
+    },
+    {
+      "start": 1763.85,
+      "duration": 2.46,
+      "text": "the Advanced Photon Source shut down for upgrades",
+      "en": "the Advanced Photon Source shut down for upgrades",
+      "zh": ""
+    },
+    {
+      "start": 1766.31,
+      "duration": 2.43,
+      "text": "that'll take over a year to complete.",
+      "en": "that'll take over a year to complete.",
+      "zh": ""
+    },
+    {
+      "start": 1768.74,
+      "duration": 2.37,
+      "text": "So it looks like we'll have to wait a little longer",
+      "en": "So it looks like we'll have to wait a little longer",
+      "zh": ""
+    },
+    {
+      "start": 1771.11,
+      "duration": 2.7,
+      "text": "for some of the answers the team has been looking for.",
+      "en": "for some of the answers the team has been looking for.",
+      "zh": ""
+    },
+    {
+      "start": 1774.86,
+      "duration": 2.31,
+      "text": "- We know that the retinas can be moved around",
+      "en": "- We know that the retinas can be moved around",
+      "zh": ""
+    },
+    {
+      "start": 1777.17,
+      "duration": 4.17,
+      "text": "and that they maybe have between a 50 and 60-degree travel.",
+      "en": "and that they maybe have between a 50 and 60-degree travel.",
+      "zh": ""
+    },
+    {
+      "start": 1781.34,
+      "duration": 2.64,
+      "text": "Not only can they be moved in the horizontal plane,",
+      "en": "Not only can they be moved in the horizontal plane,",
+      "zh": ""
+    },
+    {
+      "start": 1783.98,
+      "duration": 1.14,
+      "text": "but in the vertical plane,",
+      "en": "but in the vertical plane,",
+      "zh": ""
+    },
+    {
+      "start": 1785.12,
+      "duration": 1.92,
+      "text": "and they can actually be twisted",
+      "en": "and they can actually be twisted",
+      "zh": ""
+    },
+    {
+      "start": 1787.04,
+      "duration": 3.3,
+      "text": "to change the orientation of their field of view.",
+      "en": "to change the orientation of their field of view.",
+      "zh": ""
+    },
+    {
+      "start": 1790.34,
+      "duration": 3.03,
+      "text": "- The question is how do these movements affect",
+      "en": "- The question is how do these movements affect",
+      "zh": ""
+    },
+    {
+      "start": 1793.37,
+      "duration": 4.11,
+      "text": "what the spiders can focus on, or how they sense depth,",
+      "en": "what the spiders can focus on, or how they sense depth,",
+      "zh": ""
+    },
+    {
+      "start": 1797.48,
+      "duration": 3.3,
+      "text": "or even how they perceive color?",
+      "en": "or even how they perceive color?",
+      "zh": ""
+    },
+    {
+      "start": 1800.78,
+      "duration": 3.12,
+      "text": "It's this connection between focus, depth,",
+      "en": "It's this connection between focus, depth,",
+      "zh": ""
+    },
+    {
+      "start": 1803.9,
+      "duration": 3.72,
+      "text": "and color that makes these spiders so intriguing.",
+      "en": "and color that makes these spiders so intriguing.",
+      "zh": ""
+    },
+    {
+      "start": 1807.62,
+      "duration": 2.37,
+      "text": "- It opens up all sorts of questions about",
+      "en": "- It opens up all sorts of questions about",
+      "zh": ""
+    },
+    {
+      "start": 1809.99,
+      "duration": 2.47,
+      "text": "what color is in the first place.",
+      "en": "what color is in the first place.",
+      "zh": ""
+    },
+    {
+      "start": 1812.46,
+      "duration": 1.82,
+      "text": "(light music)",
+      "en": "(light music)",
+      "zh": ""
+    },
+    {
+      "start": 1814.28,
+      "duration": 1.89,
+      "text": "- It's already clear that these spiders have",
+      "en": "- It's already clear that these spiders have",
+      "zh": ""
+    },
+    {
+      "start": 1816.17,
+      "duration": 2.13,
+      "text": "a lot to teach us about color vision,",
+      "en": "a lot to teach us about color vision,",
+      "zh": ""
+    },
+    {
+      "start": 1818.3,
+      "duration": 1.38,
+      "text": "how and why it evolves,",
+      "en": "how and why it evolves,",
+      "zh": ""
+    },
+    {
+      "start": 1819.68,
+      "duration": 1.98,
+      "text": "and how many forms it can take",
+      "en": "and how many forms it can take",
+      "zh": ""
+    },
+    {
+      "start": 1821.66,
+      "duration": 2.73,
+      "text": "even within a single group of animals.",
+      "en": "even within a single group of animals.",
+      "zh": ""
+    },
+    {
+      "start": 1824.39,
+      "duration": 1.56,
+      "text": "(gentle music)",
+      "en": "(gentle music)",
+      "zh": ""
+    },
+    {
+      "start": 1825.95,
+      "duration": 3.33,
+      "text": "If our understanding of their visual system is correct,",
+      "en": "If our understanding of their visual system is correct,",
+      "zh": ""
+    },
+    {
+      "start": 1829.28,
+      "duration": 3.06,
+      "text": "the experience of color for jumping spiders",
+      "en": "the experience of color for jumping spiders",
+      "zh": ""
+    },
+    {
+      "start": 1832.34,
+      "duration": 2.58,
+      "text": "might even be three-dimensional",
+      "en": "might even be three-dimensional",
+      "zh": ""
+    },
+    {
+      "start": 1834.92,
+      "duration": 3.69,
+      "text": "in a way that's totally different from how we see the world.",
+      "en": "in a way that's totally different from how we see the world.",
+      "zh": ""
+    },
+    {
+      "start": 1840.17,
+      "duration": 2.22,
+      "text": "And we haven't even talked about their other senses,",
+      "en": "And we haven't even talked about their other senses,",
+      "zh": ""
+    },
+    {
+      "start": 1842.39,
+      "duration": 3.06,
+      "text": "like their ability to communicate through vibration.",
+      "en": "like their ability to communicate through vibration.",
+      "zh": ""
+    },
+    {
+      "start": 1846.74,
+      "duration": 1.08,
+      "text": "When you think about it,",
+      "en": "When you think about it,",
+      "zh": ""
+    },
+    {
+      "start": 1847.82,
+      "duration": 3.18,
+      "text": "you realize that the universe we humans perceive,",
+      "en": "you realize that the universe we humans perceive,",
+      "zh": ""
+    },
+    {
+      "start": 1851.0,
+      "duration": 1.83,
+      "text": "even with all our technology,",
+      "en": "even with all our technology,",
+      "zh": ""
+    },
+    {
+      "start": 1852.83,
+      "duration": 3.55,
+      "text": "is just a sliver of what's out there.",
+      "en": "is just a sliver of what's out there.",
+      "zh": ""
+    },
+    {
+      "start": 1856.38,
+      "duration": 0.92,
+      "text": "(light music)",
+      "en": "(light music)",
+      "zh": ""
+    },
+    {
+      "start": 1857.3,
+      "duration": 2.46,
+      "text": "- If we owe anything to the world,",
+      "en": "- If we owe anything to the world,",
+      "zh": ""
+    },
+    {
+      "start": 1859.76,
+      "duration": 2.4,
+      "text": "it's to allow the world to be experienced",
+      "en": "it's to allow the world to be experienced",
+      "zh": ""
+    },
+    {
+      "start": 1862.16,
+      "duration": 1.47,
+      "text": "in the fullness of itself.",
+      "en": "in the fullness of itself.",
+      "zh": ""
+    },
+    {
+      "start": 1865.07,
+      "duration": 2.91,
+      "text": "I think this is one of the tragedies of extinction",
+      "en": "I think this is one of the tragedies of extinction",
+      "zh": ""
+    },
+    {
+      "start": 1867.98,
+      "duration": 4.74,
+      "text": "is the loss of oftentimes a totally unique way",
+      "en": "is the loss of oftentimes a totally unique way",
+      "zh": ""
+    },
+    {
+      "start": 1872.72,
+      "duration": 2.61,
+      "text": "of experiencing our world,",
+      "en": "of experiencing our world,",
+      "zh": ""
+    },
+    {
+      "start": 1875.33,
+      "duration": 2.43,
+      "text": "a way of experiencing our world",
+      "en": "a way of experiencing our world",
+      "zh": ""
+    },
+    {
+      "start": 1877.76,
+      "duration": 3.96,
+      "text": "that we probably couldn't even imagine.",
+      "en": "that we probably couldn't even imagine.",
+      "zh": ""
+    },
+    {
+      "start": 1881.72,
+      "duration": 2.1,
+      "text": "- So color,",
+      "en": "- So color,",
+      "zh": ""
+    },
+    {
+      "start": 1883.82,
+      "duration": 1.56,
+      "text": "what is it?",
+      "en": "what is it?",
+      "zh": ""
+    },
+    {
+      "start": 1885.38,
+      "duration": 2.37,
+      "text": "Is it an intrinsic property of an object,",
+      "en": "Is it an intrinsic property of an object,",
+      "zh": ""
+    },
+    {
+      "start": 1887.75,
+      "duration": 1.53,
+      "text": "like Aristotle thought,",
+      "en": "like Aristotle thought,",
+      "zh": ""
+    },
+    {
+      "start": 1889.28,
+      "duration": 3.6,
+      "text": "or something that exists only in the mind perceiving it,",
+      "en": "or something that exists only in the mind perceiving it,",
+      "zh": ""
+    },
+    {
+      "start": 1892.88,
+      "duration": 2.19,
+      "text": "like Galileo believed?",
+      "en": "like Galileo believed?",
+      "zh": ""
+    },
+    {
+      "start": 1895.07,
+      "duration": 3.09,
+      "text": "Maybe it's not an either/or question.",
+      "en": "Maybe it's not an either/or question.",
+      "zh": ""
+    },
+    {
+      "start": 1899.03,
+      "duration": 3.24,
+      "text": "- My belief is that color is something that emerges",
+      "en": "- My belief is that color is something that emerges",
+      "zh": ""
+    },
+    {
+      "start": 1902.27,
+      "duration": 4.53,
+      "text": "through the evolution of the eyes that see the world",
+      "en": "through the evolution of the eyes that see the world",
+      "zh": ""
+    },
+    {
+      "start": 1906.8,
+      "duration": 2.1,
+      "text": "and the world that the eyes see.",
+      "en": "and the world that the eyes see.",
+      "zh": ""
+    },
+    {
+      "start": 1908.9,
+      "duration": 3.63,
+      "text": "Color as a thing emerges through this dance,",
+      "en": "Color as a thing emerges through this dance,",
+      "zh": ""
+    },
+    {
+      "start": 1912.53,
+      "duration": 2.31,
+      "text": "this evolutionary dance between",
+      "en": "this evolutionary dance between",
+      "zh": ""
+    },
+    {
+      "start": 1914.84,
+      "duration": 2.31,
+      "text": "what can be sensed about the world",
+      "en": "what can be sensed about the world",
+      "zh": ""
+    },
+    {
+      "start": 1917.15,
+      "duration": 1.62,
+      "text": "and those that are sensing it.",
+      "en": "and those that are sensing it.",
+      "zh": ""
+    },
+    {
+      "start": 1920.0,
+      "duration": 3.66,
+      "text": "- It's that dance playing out over millions of generations",
+      "en": "- It's that dance playing out over millions of generations",
+      "zh": ""
+    },
+    {
+      "start": 1923.66,
+      "duration": 3.0,
+      "text": "that created the colorful world we inhabit,",
+      "en": "that created the colorful world we inhabit,",
+      "zh": ""
+    },
+    {
+      "start": 1926.66,
+      "duration": 2.19,
+      "text": "and shaped the countless ways",
+      "en": "and shaped the countless ways",
+      "zh": ""
+    },
+    {
+      "start": 1928.85,
+      "duration": 3.49,
+      "text": "that we and our fellow life forms experience it.",
+      "en": "that we and our fellow life forms experience it.",
+      "zh": ""
+    },
+    {
+      "start": 1932.34,
+      "duration": 2.65,
+      "text": "(light music)",
+      "en": "(light music)",
+      "zh": ""
+    },
+    {
+      "start": 1934.99,
+      "duration": 2.77,
+      "text": "(graphics beeping)",
+      "en": "(graphics beeping)",
+      "zh": ""
+    },
+    {
+      "start": 1937.76,
+      "duration": 0.84,
+      "text": "Come to me.",
+      "en": "Come to me.",
+      "zh": ""
+    },
+    {
+      "start": 1938.6,
+      "duration": 2.09,
+      "text": "Okay, not that far.",
+      "en": "Okay, not that far.",
+      "zh": ""
+    },
+    {
+      "start": 1940.69,
+      "duration": 0.84,
+      "text": "Ah!",
+      "en": "Ah!",
+      "zh": ""
+    },
+    {
+      "start": 1941.53,
+      "duration": 2.47,
+      "text": "(Derek laughing)",
+      "en": "(Derek laughing)",
+      "zh": ""
+    },
+    {
+      "start": 1944.0,
+      "duration": 2.07,
+      "text": "They're not called jumping spiders for nothing.",
+      "en": "They're not called jumping spiders for nothing.",
+      "zh": ""
+    },
+    {
+      "start": 1946.07,
+      "duration": 1.05,
+      "text": "Yeah, come on.",
+      "en": "Yeah, come on.",
+      "zh": ""
+    }
+  ],
+  "words": []
+}

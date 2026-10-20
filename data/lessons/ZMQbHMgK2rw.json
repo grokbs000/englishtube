@@ -1,0 +1,3953 @@
+{
+  "cues": [
+    {
+      "start": 0.12,
+      "duration": 1.47,
+      "text": "- [Derek] This tiny robot mouse",
+      "en": "- [Derek] This tiny robot mouse",
+      "zh": ""
+    },
+    {
+      "start": 1.59,
+      "duration": 3.03,
+      "text": "can finish this maze in just six seconds.",
+      "en": "can finish this maze in just six seconds.",
+      "zh": ""
+    },
+    {
+      "start": 5.64,
+      "duration": 2.75,
+      "text": "(dramatic music)",
+      "en": "(dramatic music)",
+      "zh": ""
+    },
+    {
+      "start": 11.67,
+      "duration": 1.56,
+      "text": "Every year, around the world,",
+      "en": "Every year, around the world,",
+      "zh": ""
+    },
+    {
+      "start": 13.23,
+      "duration": 2.82,
+      "text": "people compete in the oldest robotics race.",
+      "en": "people compete in the oldest robotics race.",
+      "zh": ""
+    },
+    {
+      "start": 16.05,
+      "duration": 1.44,
+      "text": "The goal is simple:",
+      "en": "The goal is simple:",
+      "zh": ""
+    },
+    {
+      "start": 17.49,
+      "duration": 2.37,
+      "text": "get to the end of the maze as fast as possible.",
+      "en": "get to the end of the maze as fast as possible.",
+      "zh": ""
+    },
+    {
+      "start": 19.86,
+      "duration": 1.78,
+      "text": "- The person who came second",
+      "en": "- The person who came second",
+      "zh": ""
+    },
+    {
+      "start": 21.64,
+      "duration": 2.12,
+      "text": "(announcer chattering) (people cheering)",
+      "en": "(announcer chattering) (people cheering)",
+      "zh": ""
+    },
+    {
+      "start": 23.76,
+      "duration": 2.07,
+      "text": "lost by 20 milliseconds.",
+      "en": "lost by 20 milliseconds.",
+      "zh": ""
+    },
+    {
+      "start": 25.83,
+      "duration": 2.46,
+      "text": "- [Derek] But competition has grown fierce.",
+      "en": "- [Derek] But competition has grown fierce.",
+      "zh": ""
+    },
+    {
+      "start": 29.52,
+      "duration": 3.18,
+      "text": "- When somebody saw my design, they said, \"You're crazy!\"",
+      "en": "- When somebody saw my design, they said, \"You're crazy!\"",
+      "zh": ""
+    },
+    {
+      "start": 34.74,
+      "duration": 3.24,
+      "text": "- [Derek] Why is there so much tension? What's riding on it?",
+      "en": "- [Derek] Why is there so much tension? What's riding on it?",
+      "zh": ""
+    },
+    {
+      "start": 37.98,
+      "duration": 1.53,
+      "text": "Honor? - Honor",
+      "en": "Honor? - Honor",
+      "zh": ""
+    },
+    {
+      "start": 39.51,
+      "duration": 1.48,
+      "text": "(audience applauding)",
+      "en": "(audience applauding)",
+      "zh": ""
+    },
+    {
+      "start": 40.99,
+      "duration": 3.0,
+      "text": "(audience cheering)",
+      "en": "(audience cheering)",
+      "zh": ""
+    },
+    {
+      "start": 44.88,
+      "duration": 2.25,
+      "text": "- [Derek] This video is sponsored by Onshape.",
+      "en": "- [Derek] This video is sponsored by Onshape.",
+      "zh": ""
+    },
+    {
+      "start": 48.31,
+      "duration": 3.05,
+      "text": "In 1952, mathematician Claude Shannon constructed",
+      "en": "In 1952, mathematician Claude Shannon constructed",
+      "zh": ""
+    },
+    {
+      "start": 51.36,
+      "duration": 4.53,
+      "text": "an electronic mouse named Theseus that could solve a maze.",
+      "en": "an electronic mouse named Theseus that could solve a maze.",
+      "zh": ""
+    },
+    {
+      "start": 55.89,
+      "duration": 2.61,
+      "text": "The trick to making the mouse intelligent",
+      "en": "The trick to making the mouse intelligent",
+      "zh": ""
+    },
+    {
+      "start": 58.5,
+      "duration": 3.57,
+      "text": "was hidden in a computer built into the maze itself,",
+      "en": "was hidden in a computer built into the maze itself,",
+      "zh": ""
+    },
+    {
+      "start": 62.07,
+      "duration": 2.52,
+      "text": "made of telephone relay switches.",
+      "en": "made of telephone relay switches.",
+      "zh": ""
+    },
+    {
+      "start": 64.59,
+      "duration": 3.24,
+      "text": "The mouse was just a magnet on wheels, essentially,",
+      "en": "The mouse was just a magnet on wheels, essentially,",
+      "zh": ""
+    },
+    {
+      "start": 67.83,
+      "duration": 1.83,
+      "text": "following an electromagnet controlled",
+      "en": "following an electromagnet controlled",
+      "zh": ""
+    },
+    {
+      "start": 69.66,
+      "duration": 2.04,
+      "text": "by the position of the relay switches.",
+      "en": "by the position of the relay switches.",
+      "zh": ""
+    },
+    {
+      "start": 71.7,
+      "duration": 1.89,
+      "text": "- [Claude] He is now exploring the maze",
+      "en": "- [Claude] He is now exploring the maze",
+      "zh": ""
+    },
+    {
+      "start": 73.59,
+      "duration": 3.3,
+      "text": "using a rather involved strategy of trial and error.",
+      "en": "using a rather involved strategy of trial and error.",
+      "zh": ""
+    },
+    {
+      "start": 76.89,
+      "duration": 1.05,
+      "text": "As he finds the correct path,",
+      "en": "As he finds the correct path,",
+      "zh": ""
+    },
+    {
+      "start": 77.94,
+      "duration": 3.21,
+      "text": "he registers the information in his memory.",
+      "en": "he registers the information in his memory.",
+      "zh": ""
+    },
+    {
+      "start": 81.15,
+      "duration": 1.11,
+      "text": "Later, I can put him down",
+      "en": "Later, I can put him down",
+      "zh": ""
+    },
+    {
+      "start": 82.26,
+      "duration": 2.73,
+      "text": "in any part of the maze that he's already explored,",
+      "en": "in any part of the maze that he's already explored,",
+      "zh": ""
+    },
+    {
+      "start": 84.99,
+      "duration": 1.92,
+      "text": "and he'll be able to go directly to the goal",
+      "en": "and he'll be able to go directly to the goal",
+      "zh": ""
+    },
+    {
+      "start": 86.91,
+      "duration": 2.46,
+      "text": "without making a single false turn.",
+      "en": "without making a single false turn.",
+      "zh": ""
+    },
+    {
+      "start": 89.37,
+      "duration": 1.59,
+      "text": "- [Derek] Theseus is often referred to",
+      "en": "- [Derek] Theseus is often referred to",
+      "zh": ""
+    },
+    {
+      "start": 90.96,
+      "duration": 2.85,
+      "text": "as one of the first examples of machine learning.",
+      "en": "as one of the first examples of machine learning.",
+      "zh": ""
+    },
+    {
+      "start": 93.81,
+      "duration": 1.77,
+      "text": "A director at Google recently said",
+      "en": "A director at Google recently said",
+      "zh": ""
+    },
+    {
+      "start": 95.58,
+      "duration": 3.27,
+      "text": "that it inspired the whole field of AI.",
+      "en": "that it inspired the whole field of AI.",
+      "zh": ""
+    },
+    {
+      "start": 99.72,
+      "duration": 2.55,
+      "text": "25 years later, editors at the Institute",
+      "en": "25 years later, editors at the Institute",
+      "zh": ""
+    },
+    {
+      "start": 102.27,
+      "duration": 3.21,
+      "text": "of Electrical and Electronics Engineers, or IEEE,",
+      "en": "of Electrical and Electronics Engineers, or IEEE,",
+      "zh": ""
+    },
+    {
+      "start": 105.48,
+      "duration": 2.73,
+      "text": "caught wind of a contest for electronic mice,",
+      "en": "caught wind of a contest for electronic mice,",
+      "zh": ""
+    },
+    {
+      "start": 108.21,
+      "duration": 3.06,
+      "text": "or le mouse electronique, as they had heard.",
+      "en": "or le mouse electronique, as they had heard.",
+      "zh": ""
+    },
+    {
+      "start": 111.27,
+      "duration": 4.08,
+      "text": "They were ecstatic. Were these the successors to Theseus?",
+      "en": "They were ecstatic. Were these the successors to Theseus?",
+      "zh": ""
+    },
+    {
+      "start": 115.35,
+      "duration": 2.34,
+      "text": "But something had been lost in translation.",
+      "en": "But something had been lost in translation.",
+      "zh": ""
+    },
+    {
+      "start": 117.69,
+      "duration": 3.09,
+      "text": "These mice were just batteries in cases,",
+      "en": "These mice were just batteries in cases,",
+      "zh": ""
+    },
+    {
+      "start": 120.78,
+      "duration": 3.09,
+      "text": "not robots capable of intelligent behavior.",
+      "en": "not robots capable of intelligent behavior.",
+      "zh": ""
+    },
+    {
+      "start": 123.87,
+      "duration": 2.98,
+      "text": "But the misunderstanding stuck with them, and they wondered,",
+      "en": "But the misunderstanding stuck with them, and they wondered,",
+      "zh": ""
+    },
+    {
+      "start": 126.85,
+      "duration": 3.8,
+      "text": "\"Why couldn't we hold that competition ourselves?\"",
+      "en": "\"Why couldn't we hold that competition ourselves?\"",
+      "zh": ""
+    },
+    {
+      "start": 130.65,
+      "duration": 3.24,
+      "text": "In 1977, the announcement for IEEE's",
+      "en": "In 1977, the announcement for IEEE's",
+      "zh": ""
+    },
+    {
+      "start": 133.89,
+      "duration": 2.07,
+      "text": "Amazing Micro-Mouse Maze Contest",
+      "en": "Amazing Micro-Mouse Maze Contest",
+      "zh": ""
+    },
+    {
+      "start": 135.96,
+      "duration": 2.85,
+      "text": "attracted over 6,000 entrants,",
+      "en": "attracted over 6,000 entrants,",
+      "zh": ""
+    },
+    {
+      "start": 138.81,
+      "duration": 3.54,
+      "text": "but the number of successful competitors dwindled rapidly.",
+      "en": "but the number of successful competitors dwindled rapidly.",
+      "zh": ""
+    },
+    {
+      "start": 142.35,
+      "duration": 5.0,
+      "text": "Eventually, just 15 entrants reached the finals in 1979.",
+      "en": "Eventually, just 15 entrants reached the finals in 1979.",
+      "zh": ""
+    },
+    {
+      "start": 147.57,
+      "duration": 0.83,
+      "text": "But by this point,",
+      "en": "But by this point,",
+      "zh": ""
+    },
+    {
+      "start": 148.4,
+      "duration": 2.29,
+      "text": "the contest had garnered enough public interest",
+      "en": "the contest had garnered enough public interest",
+      "zh": ""
+    },
+    {
+      "start": 150.69,
+      "duration": 3.57,
+      "text": "to be broadcast nationwide on the evening news.",
+      "en": "to be broadcast nationwide on the evening news.",
+      "zh": ""
+    },
+    {
+      "start": 154.26,
+      "duration": 2.82,
+      "text": "And just like the rumor that inspired the competition,",
+      "en": "And just like the rumor that inspired the competition,",
+      "zh": ""
+    },
+    {
+      "start": 157.08,
+      "duration": 3.41,
+      "text": "Micromouse began to spread across the world.",
+      "en": "Micromouse began to spread across the world.",
+      "zh": ""
+    },
+    {
+      "start": 160.49,
+      "duration": 3.31,
+      "text": "♪ Micromouse, is for the taking ♪",
+      "en": "♪ Micromouse, is for the taking ♪",
+      "zh": ""
+    },
+    {
+      "start": 163.8,
+      "duration": 3.57,
+      "text": "♪ Micromouse, is here and now ♪",
+      "en": "♪ Micromouse, is here and now ♪",
+      "zh": ""
+    },
+    {
+      "start": 167.37,
+      "duration": 3.7,
+      "text": "♪ Take a chance, and start creating ♪",
+      "en": "♪ Take a chance, and start creating ♪",
+      "zh": ""
+    },
+    {
+      "start": 171.07,
+      "duration": 4.75,
+      "text": "(upbeat music) (reporter speaking Japanese)",
+      "en": "(upbeat music) (reporter speaking Japanese)",
+      "zh": ""
+    },
+    {
+      "start": 175.82,
+      "duration": 1.25,
+      "text": "- A Micromouse?",
+      "en": "- A Micromouse?",
+      "zh": ""
+    },
+    {
+      "start": 178.19,
+      "duration": 5.0,
+      "text": "- [Group] Micromouse!",
+      "en": "- [Group] Micromouse!",
+      "zh": ""
+    },
+    {
+      "start": 186.36,
+      "duration": 2.31,
+      "text": "(audience applauding)",
+      "en": "(audience applauding)",
+      "zh": ""
+    },
+    {
+      "start": 211.65,
+      "duration": 2.49,
+      "text": "- Even people in the top two or three,",
+      "en": "- Even people in the top two or three,",
+      "zh": ""
+    },
+    {
+      "start": 214.14,
+      "duration": 1.8,
+      "text": "you can see them trying to set their mice up,",
+      "en": "you can see them trying to set their mice up,",
+      "zh": ""
+    },
+    {
+      "start": 215.94,
+      "duration": 2.46,
+      "text": "and they can barely find the buttons to press,",
+      "en": "and they can barely find the buttons to press,",
+      "zh": ""
+    },
+    {
+      "start": 218.4,
+      "duration": 2.04,
+      "text": "because it's absolutely nerve-racking.",
+      "en": "because it's absolutely nerve-racking.",
+      "zh": ""
+    },
+    {
+      "start": 222.22,
+      "duration": 3.0,
+      "text": "(suspenseful music)",
+      "en": "(suspenseful music)",
+      "zh": ""
+    },
+    {
+      "start": 226.92,
+      "duration": 1.86,
+      "text": "It doesn't matter what it was, it could be horse racing,",
+      "en": "It doesn't matter what it was, it could be horse racing,",
+      "zh": ""
+    },
+    {
+      "start": 228.78,
+      "duration": 2.55,
+      "text": "it could be motor racing, it could be mouse racing,",
+      "en": "it could be motor racing, it could be mouse racing,",
+      "zh": ""
+    },
+    {
+      "start": 234.6,
+      "duration": 1.89,
+      "text": "If you have a shred of competitiveness in you,",
+      "en": "If you have a shred of competitiveness in you,",
+      "zh": ""
+    },
+    {
+      "start": 236.49,
+      "duration": 1.71,
+      "text": "you'd wanna win, right?",
+      "en": "you'd wanna win, right?",
+      "zh": ""
+    },
+    {
+      "start": 243.09,
+      "duration": 1.3,
+      "text": "- [Derek] Just like a real mouse,",
+      "en": "- [Derek] Just like a real mouse,",
+      "zh": ""
+    },
+    {
+      "start": 244.39,
+      "duration": 2.45,
+      "text": "a Micromouse has to be fully autonomous.",
+      "en": "a Micromouse has to be fully autonomous.",
+      "zh": ""
+    },
+    {
+      "start": 246.84,
+      "duration": 3.39,
+      "text": "No internet connection, no GPS or remote control",
+      "en": "No internet connection, no GPS or remote control",
+      "zh": ""
+    },
+    {
+      "start": 250.23,
+      "duration": 2.85,
+      "text": "and no nudging it to help it get unstuck.",
+      "en": "and no nudging it to help it get unstuck.",
+      "zh": ""
+    },
+    {
+      "start": 253.08,
+      "duration": 2.55,
+      "text": "It has to fit all its computing, motors,",
+      "en": "It has to fit all its computing, motors,",
+      "zh": ""
+    },
+    {
+      "start": 255.63,
+      "duration": 2.25,
+      "text": "sensors, and power supply in a frame",
+      "en": "sensors, and power supply in a frame",
+      "zh": ""
+    },
+    {
+      "start": 257.88,
+      "duration": 3.78,
+      "text": "no longer or wider than 25 centimeters.",
+      "en": "no longer or wider than 25 centimeters.",
+      "zh": ""
+    },
+    {
+      "start": 261.66,
+      "duration": 2.4,
+      "text": "There isn't a limit on the height of the mouse,",
+      "en": "There isn't a limit on the height of the mouse,",
+      "zh": ""
+    },
+    {
+      "start": 264.06,
+      "duration": 1.98,
+      "text": "but the rules don't allow climbing,",
+      "en": "but the rules don't allow climbing,",
+      "zh": ""
+    },
+    {
+      "start": 266.04,
+      "duration": 2.79,
+      "text": "flight, or any forms of combustion,",
+      "en": "flight, or any forms of combustion,",
+      "zh": ""
+    },
+    {
+      "start": 268.83,
+      "duration": 3.11,
+      "text": "so rocket propulsion, for example, is out of the equation.",
+      "en": "so rocket propulsion, for example, is out of the equation.",
+      "zh": ""
+    },
+    {
+      "start": 271.94,
+      "duration": 3.27,
+      "text": "(audience cheering)",
+      "en": "(audience cheering)",
+      "zh": ""
+    },
+    {
+      "start": 275.21,
+      "duration": 3.25,
+      "text": "(announcer chattering)",
+      "en": "(announcer chattering)",
+      "zh": ""
+    },
+    {
+      "start": 280.83,
+      "duration": 3.63,
+      "text": "The maze itself is a square about three meters on each side,",
+      "en": "The maze itself is a square about three meters on each side,",
+      "zh": ""
+    },
+    {
+      "start": 284.46,
+      "duration": 2.43,
+      "text": "subdivided by walls into corridors",
+      "en": "subdivided by walls into corridors",
+      "zh": ""
+    },
+    {
+      "start": 286.89,
+      "duration": 2.31,
+      "text": "only 18 centimeters across.",
+      "en": "only 18 centimeters across.",
+      "zh": ""
+    },
+    {
+      "start": 289.2,
+      "duration": 1.32,
+      "text": "And in 2009,",
+      "en": "And in 2009,",
+      "zh": ""
+    },
+    {
+      "start": 290.52,
+      "duration": 2.58,
+      "text": "the half-size Micromouse category was introduced,",
+      "en": "the half-size Micromouse category was introduced,",
+      "zh": ""
+    },
+    {
+      "start": 293.1,
+      "duration": 3.03,
+      "text": "with mice smaller than 12 1/2 centimeters per side,",
+      "en": "with mice smaller than 12 1/2 centimeters per side,",
+      "zh": ""
+    },
+    {
+      "start": 296.13,
+      "duration": 3.24,
+      "text": "and paths just nine centimeters across.",
+      "en": "and paths just nine centimeters across.",
+      "zh": ""
+    },
+    {
+      "start": 299.37,
+      "duration": 2.58,
+      "text": "The final layout of the maze is only revealed",
+      "en": "The final layout of the maze is only revealed",
+      "zh": ""
+    },
+    {
+      "start": 301.95,
+      "duration": 2.01,
+      "text": "at the start of each competition,",
+      "en": "at the start of each competition,",
+      "zh": ""
+    },
+    {
+      "start": 303.96,
+      "duration": 1.95,
+      "text": "after which competitors are not allowed",
+      "en": "after which competitors are not allowed",
+      "zh": ""
+    },
+    {
+      "start": 305.91,
+      "duration": 2.19,
+      "text": "to change the code in their mice.",
+      "en": "to change the code in their mice.",
+      "zh": ""
+    },
+    {
+      "start": 309.33,
+      "duration": 4.09,
+      "text": "(announcer speaking in Japanese)",
+      "en": "(announcer speaking in Japanese)",
+      "zh": ""
+    },
+    {
+      "start": 316.98,
+      "duration": 3.42,
+      "text": "(audience cheering)",
+      "en": "(audience cheering)",
+      "zh": ""
+    },
+    {
+      "start": 320.4,
+      "duration": 1.59,
+      "text": "The big three competitions,",
+      "en": "The big three competitions,",
+      "zh": ""
+    },
+    {
+      "start": 321.99,
+      "duration": 3.27,
+      "text": "All Japan, Taiwan, and USA's APEC,",
+      "en": "All Japan, Taiwan, and USA's APEC,",
+      "zh": ""
+    },
+    {
+      "start": 325.26,
+      "duration": 2.55,
+      "text": "usually limit the time mice get in the maze",
+      "en": "usually limit the time mice get in the maze",
+      "zh": ""
+    },
+    {
+      "start": 327.81,
+      "duration": 1.83,
+      "text": "to seven or 10 minutes,",
+      "en": "to seven or 10 minutes,",
+      "zh": ""
+    },
+    {
+      "start": 329.64,
+      "duration": 2.16,
+      "text": "and mice are only allowed five runs",
+      "en": "and mice are only allowed five runs",
+      "zh": ""
+    },
+    {
+      "start": 331.8,
+      "duration": 1.29,
+      "text": "from the start to the goal.",
+      "en": "from the start to the goal.",
+      "zh": ""
+    },
+    {
+      "start": 333.09,
+      "duration": 3.75,
+      "text": "- So if you spend a lot of time searching, that's a penalty.",
+      "en": "- So if you spend a lot of time searching, that's a penalty.",
+      "zh": ""
+    },
+    {
+      "start": 337.89,
+      "duration": 1.65,
+      "text": "- Makes sense.",
+      "en": "- Makes sense.",
+      "zh": ""
+    },
+    {
+      "start": 339.54,
+      "duration": 2.16,
+      "text": "So the strategy for most Micromice",
+      "en": "So the strategy for most Micromice",
+      "zh": ""
+    },
+    {
+      "start": 341.7,
+      "duration": 3.12,
+      "text": "is to spend their first run carefully learning the maze",
+      "en": "is to spend their first run carefully learning the maze",
+      "zh": ""
+    },
+    {
+      "start": 344.82,
+      "duration": 2.04,
+      "text": "and looking for the best path to the goal,",
+      "en": "and looking for the best path to the goal,",
+      "zh": ""
+    },
+    {
+      "start": 346.86,
+      "duration": 2.19,
+      "text": "while not wasting too much time.",
+      "en": "while not wasting too much time.",
+      "zh": ""
+    },
+    {
+      "start": 349.05,
+      "duration": 1.89,
+      "text": "Then they use their remaining tries",
+      "en": "Then they use their remaining tries",
+      "zh": ""
+    },
+    {
+      "start": 350.94,
+      "duration": 3.45,
+      "text": "to sprint down that path for the fastest run time possible.",
+      "en": "to sprint down that path for the fastest run time possible.",
+      "zh": ""
+    },
+    {
+      "start": 357.25,
+      "duration": 2.87,
+      "text": "(audience applauding)",
+      "en": "(audience applauding)",
+      "zh": ""
+    },
+    {
+      "start": 360.12,
+      "duration": 2.13,
+      "text": "Solving a maze may sound simple enough,",
+      "en": "Solving a maze may sound simple enough,",
+      "zh": ""
+    },
+    {
+      "start": 362.25,
+      "duration": 1.5,
+      "text": "though it's important to remember that,",
+      "en": "though it's important to remember that,",
+      "zh": ""
+    },
+    {
+      "start": 363.75,
+      "duration": 2.64,
+      "text": "with only a few infrared sensors for eyes,",
+      "en": "with only a few infrared sensors for eyes,",
+      "zh": ""
+    },
+    {
+      "start": 366.39,
+      "duration": 2.58,
+      "text": "the view from inside the maze is a lot less clear",
+      "en": "the view from inside the maze is a lot less clear",
+      "zh": ""
+    },
+    {
+      "start": 368.97,
+      "duration": 1.89,
+      "text": "than what we see from above.",
+      "en": "than what we see from above.",
+      "zh": ""
+    },
+    {
+      "start": 370.86,
+      "duration": 2.97,
+      "text": "Still, you can solve a maze with your eyes closed.",
+      "en": "Still, you can solve a maze with your eyes closed.",
+      "zh": ""
+    },
+    {
+      "start": 373.83,
+      "duration": 2.25,
+      "text": "If you just put one hand along one wall,",
+      "en": "If you just put one hand along one wall,",
+      "zh": ""
+    },
+    {
+      "start": 376.08,
+      "duration": 3.72,
+      "text": "you will eventually reach the end of most common mazes.",
+      "en": "you will eventually reach the end of most common mazes.",
+      "zh": ""
+    },
+    {
+      "start": 379.8,
+      "duration": 1.98,
+      "text": "And that's exactly what some initial",
+      "en": "And that's exactly what some initial",
+      "zh": ""
+    },
+    {
+      "start": 381.78,
+      "duration": 2.37,
+      "text": "Micromouse competitors realized, too.",
+      "en": "Micromouse competitors realized, too.",
+      "zh": ""
+    },
+    {
+      "start": 384.15,
+      "duration": 2.07,
+      "text": "And after a simple wall-following mouse",
+      "en": "And after a simple wall-following mouse",
+      "zh": ""
+    },
+    {
+      "start": 386.22,
+      "duration": 2.16,
+      "text": "took home gold in the first finals,",
+      "en": "took home gold in the first finals,",
+      "zh": ""
+    },
+    {
+      "start": 388.38,
+      "duration": 2.61,
+      "text": "the goal of the maze was moved away from the edges,",
+      "en": "the goal of the maze was moved away from the edges,",
+      "zh": ""
+    },
+    {
+      "start": 390.99,
+      "duration": 2.37,
+      "text": "and free-standing walls were added,",
+      "en": "and free-standing walls were added,",
+      "zh": ""
+    },
+    {
+      "start": 393.36,
+      "duration": 1.35,
+      "text": "which would leave a simple",
+      "en": "which would leave a simple",
+      "zh": ""
+    },
+    {
+      "start": 394.71,
+      "duration": 2.46,
+      "text": "wall-following mouse searching forever.",
+      "en": "wall-following mouse searching forever.",
+      "zh": ""
+    },
+    {
+      "start": 399.66,
+      "duration": 2.13,
+      "text": "Your next instinct might be to run through the maze,",
+      "en": "Your next instinct might be to run through the maze,",
+      "zh": ""
+    },
+    {
+      "start": 401.79,
+      "duration": 2.4,
+      "text": "taking note of every fork in the road.",
+      "en": "taking note of every fork in the road.",
+      "zh": ""
+    },
+    {
+      "start": 404.19,
+      "duration": 2.04,
+      "text": "Whenever you reach a dead end or a loop,",
+      "en": "Whenever you reach a dead end or a loop,",
+      "zh": ""
+    },
+    {
+      "start": 406.23,
+      "duration": 1.77,
+      "text": "you can go back to the last intersection",
+      "en": "you can go back to the last intersection",
+      "zh": ""
+    },
+    {
+      "start": 408.0,
+      "duration": 1.77,
+      "text": "and try a different path.",
+      "en": "and try a different path.",
+      "zh": ""
+    },
+    {
+      "start": 409.77,
+      "duration": 1.92,
+      "text": "If your last left turn got you nowhere,",
+      "en": "If your last left turn got you nowhere,",
+      "zh": ""
+    },
+    {
+      "start": 411.69,
+      "duration": 3.45,
+      "text": "you'd come back to that intersection and go right instead.",
+      "en": "you'd come back to that intersection and go right instead.",
+      "zh": ""
+    },
+    {
+      "start": 415.14,
+      "duration": 1.32,
+      "text": "You can think of this strategy",
+      "en": "You can think of this strategy",
+      "zh": ""
+    },
+    {
+      "start": 416.46,
+      "duration": 2.43,
+      "text": "as the one a headstrong mouse might use,",
+      "en": "as the one a headstrong mouse might use,",
+      "zh": ""
+    },
+    {
+      "start": 418.89,
+      "duration": 2.07,
+      "text": "running as deep into the maze as it can,",
+      "en": "running as deep into the maze as it can,",
+      "zh": ""
+    },
+    {
+      "start": 420.96,
+      "duration": 3.21,
+      "text": "and turning back only when it can't go any further.",
+      "en": "and turning back only when it can't go any further.",
+      "zh": ""
+    },
+    {
+      "start": 424.17,
+      "duration": 3.06,
+      "text": "This search strategy, known as depth-first search,",
+      "en": "This search strategy, known as depth-first search,",
+      "zh": ""
+    },
+    {
+      "start": 427.23,
+      "duration": 2.55,
+      "text": "will eventually get the mouse to the goal.",
+      "en": "will eventually get the mouse to the goal.",
+      "zh": ""
+    },
+    {
+      "start": 429.78,
+      "duration": 3.15,
+      "text": "The problem is, it might not be the shortest route,",
+      "en": "The problem is, it might not be the shortest route,",
+      "zh": ""
+    },
+    {
+      "start": 432.93,
+      "duration": 2.76,
+      "text": "because the mouse only turns back when it needs to,",
+      "en": "because the mouse only turns back when it needs to,",
+      "zh": ""
+    },
+    {
+      "start": 435.69,
+      "duration": 2.94,
+      "text": "so it may have missed a shortcut that it never tried.",
+      "en": "so it may have missed a shortcut that it never tried.",
+      "zh": ""
+    },
+    {
+      "start": 439.59,
+      "duration": 3.63,
+      "text": "The sibling to this search algorithm, breadth-first search,",
+      "en": "The sibling to this search algorithm, breadth-first search,",
+      "zh": ""
+    },
+    {
+      "start": 443.22,
+      "duration": 1.92,
+      "text": "would find the shortest path.",
+      "en": "would find the shortest path.",
+      "zh": ""
+    },
+    {
+      "start": 445.14,
+      "duration": 1.02,
+      "text": "With this strategy,",
+      "en": "With this strategy,",
+      "zh": ""
+    },
+    {
+      "start": 446.16,
+      "duration": 2.28,
+      "text": "the mouse runs down one branch of an intersection,",
+      "en": "the mouse runs down one branch of an intersection,",
+      "zh": ""
+    },
+    {
+      "start": 448.44,
+      "duration": 1.68,
+      "text": "until it reaches the next one,",
+      "en": "until it reaches the next one,",
+      "zh": ""
+    },
+    {
+      "start": 450.12,
+      "duration": 2.34,
+      "text": "and then it goes back to check the path it skipped,",
+      "en": "and then it goes back to check the path it skipped,",
+      "zh": ""
+    },
+    {
+      "start": 452.46,
+      "duration": 2.79,
+      "text": "before moving on to the next layer of intersections.",
+      "en": "before moving on to the next layer of intersections.",
+      "zh": ""
+    },
+    {
+      "start": 455.25,
+      "duration": 2.67,
+      "text": "So the mouse checks every option it reaches,",
+      "en": "So the mouse checks every option it reaches,",
+      "zh": ""
+    },
+    {
+      "start": 457.92,
+      "duration": 1.44,
+      "text": "but all that backtracking",
+      "en": "but all that backtracking",
+      "zh": ""
+    },
+    {
+      "start": 459.36,
+      "duration": 3.51,
+      "text": "means that it's rerunning paths dozens of times.",
+      "en": "means that it's rerunning paths dozens of times.",
+      "zh": ""
+    },
+    {
+      "start": 462.87,
+      "duration": 0.83,
+      "text": "At this point,",
+      "en": "At this point,",
+      "zh": ""
+    },
+    {
+      "start": 463.7,
+      "duration": 3.43,
+      "text": "even searching the whole maze often takes less time.",
+      "en": "even searching the whole maze often takes less time.",
+      "zh": ""
+    },
+    {
+      "start": 467.13,
+      "duration": 1.8,
+      "text": "So why not just do that?",
+      "en": "So why not just do that?",
+      "zh": ""
+    },
+    {
+      "start": 468.93,
+      "duration": 4.05,
+      "text": "A meticulous mouse could search all 256 cells of the maze,",
+      "en": "A meticulous mouse could search all 256 cells of the maze,",
+      "zh": ""
+    },
+    {
+      "start": 472.98,
+      "duration": 2.79,
+      "text": "testing every turn and corner to ensure",
+      "en": "testing every turn and corner to ensure",
+      "zh": ""
+    },
+    {
+      "start": 475.77,
+      "duration": 2.55,
+      "text": "it has definitely found the shortest path.",
+      "en": "it has definitely found the shortest path.",
+      "zh": ""
+    },
+    {
+      "start": 478.32,
+      "duration": 3.24,
+      "text": "But searching so thoroughly isn't necessary, either.",
+      "en": "But searching so thoroughly isn't necessary, either.",
+      "zh": ""
+    },
+    {
+      "start": 483.33,
+      "duration": 2.31,
+      "text": "Instead, the most popular Micromouse strategy",
+      "en": "Instead, the most popular Micromouse strategy",
+      "zh": ""
+    },
+    {
+      "start": 485.64,
+      "duration": 2.34,
+      "text": "is different from all of these techniques.",
+      "en": "is different from all of these techniques.",
+      "zh": ""
+    },
+    {
+      "start": 487.98,
+      "duration": 3.3,
+      "text": "It's a search algorithm known as flood fill.",
+      "en": "It's a search algorithm known as flood fill.",
+      "zh": ""
+    },
+    {
+      "start": 491.28,
+      "duration": 1.77,
+      "text": "This mouse's plan is to make",
+      "en": "This mouse's plan is to make",
+      "zh": ""
+    },
+    {
+      "start": 493.05,
+      "duration": 2.01,
+      "text": "optimistic journeys through the maze,",
+      "en": "optimistic journeys through the maze,",
+      "zh": ""
+    },
+    {
+      "start": 495.06,
+      "duration": 2.76,
+      "text": "so optimistic, in fact, that on their first journey,",
+      "en": "so optimistic, in fact, that on their first journey,",
+      "zh": ""
+    },
+    {
+      "start": 497.82,
+      "duration": 3.12,
+      "text": "their map of the maze doesn't have any walls at all.",
+      "en": "their map of the maze doesn't have any walls at all.",
+      "zh": ""
+    },
+    {
+      "start": 500.94,
+      "duration": 3.93,
+      "text": "They simply draw the shortest path to the goal and go.",
+      "en": "They simply draw the shortest path to the goal and go.",
+      "zh": ""
+    },
+    {
+      "start": 504.87,
+      "duration": 1.83,
+      "text": "When their optimistic plan inevitably",
+      "en": "When their optimistic plan inevitably",
+      "zh": ""
+    },
+    {
+      "start": 506.7,
+      "duration": 1.95,
+      "text": "hits a wall that wasn't on their map,",
+      "en": "hits a wall that wasn't on their map,",
+      "zh": ""
+    },
+    {
+      "start": 508.65,
+      "duration": 1.41,
+      "text": "they simply mark it down",
+      "en": "they simply mark it down",
+      "zh": ""
+    },
+    {
+      "start": 510.06,
+      "duration": 3.24,
+      "text": "and update their new shortest path to the goal.",
+      "en": "and update their new shortest path to the goal.",
+      "zh": ""
+    },
+    {
+      "start": 513.3,
+      "duration": 3.63,
+      "text": "Running, updating, running, updating,",
+      "en": "Running, updating, running, updating,",
+      "zh": ""
+    },
+    {
+      "start": 516.93,
+      "duration": 2.34,
+      "text": "always beelining for the goal.",
+      "en": "always beelining for the goal.",
+      "zh": ""
+    },
+    {
+      "start": 519.27,
+      "duration": 1.41,
+      "text": "Under the hood of the algorithm,",
+      "en": "Under the hood of the algorithm,",
+      "zh": ""
+    },
+    {
+      "start": 520.68,
+      "duration": 2.07,
+      "text": "what the Micromouse is marking on their map",
+      "en": "what the Micromouse is marking on their map",
+      "zh": ""
+    },
+    {
+      "start": 522.75,
+      "duration": 3.42,
+      "text": "is the distance from every square in the maze to the goal.",
+      "en": "is the distance from every square in the maze to the goal.",
+      "zh": ""
+    },
+    {
+      "start": 526.17,
+      "duration": 3.12,
+      "text": "To travel optimistically, the mouse follows the trail",
+      "en": "To travel optimistically, the mouse follows the trail",
+      "zh": ""
+    },
+    {
+      "start": 529.29,
+      "duration": 2.37,
+      "text": "of decreasing numbers down to zero.",
+      "en": "of decreasing numbers down to zero.",
+      "zh": ""
+    },
+    {
+      "start": 531.66,
+      "duration": 1.2,
+      "text": "Whenever they hit a wall,",
+      "en": "Whenever they hit a wall,",
+      "zh": ""
+    },
+    {
+      "start": 532.86,
+      "duration": 1.74,
+      "text": "they update the numbers on their map",
+      "en": "they update the numbers on their map",
+      "zh": ""
+    },
+    {
+      "start": 534.6,
+      "duration": 3.51,
+      "text": "to reflect the new shortest distance to the goal.",
+      "en": "to reflect the new shortest distance to the goal.",
+      "zh": ""
+    },
+    {
+      "start": 538.11,
+      "duration": 1.62,
+      "text": "This strategy of following",
+      "en": "This strategy of following",
+      "zh": ""
+    },
+    {
+      "start": 539.73,
+      "duration": 1.92,
+      "text": "the numerical path of least resistance",
+      "en": "the numerical path of least resistance",
+      "zh": ""
+    },
+    {
+      "start": 541.65,
+      "duration": 2.88,
+      "text": "gives the flood fill algorithm its name.",
+      "en": "gives the flood fill algorithm its name.",
+      "zh": ""
+    },
+    {
+      "start": 544.53,
+      "duration": 2.43,
+      "text": "The process resembles flooding the maze with water",
+      "en": "The process resembles flooding the maze with water",
+      "zh": ""
+    },
+    {
+      "start": 546.96,
+      "duration": 2.7,
+      "text": "and updating values based on the flow.",
+      "en": "and updating values based on the flow.",
+      "zh": ""
+    },
+    {
+      "start": 550.68,
+      "duration": 1.71,
+      "text": "Once the mouse reaches the goal,",
+      "en": "Once the mouse reaches the goal,",
+      "zh": ""
+    },
+    {
+      "start": 552.39,
+      "duration": 1.89,
+      "text": "it can smooth out the path it took",
+      "en": "it can smooth out the path it took",
+      "zh": ""
+    },
+    {
+      "start": 554.28,
+      "duration": 2.01,
+      "text": "and get a solution to the maze.",
+      "en": "and get a solution to the maze.",
+      "zh": ""
+    },
+    {
+      "start": 556.29,
+      "duration": 3.51,
+      "text": "However, it may look back and imagine an even shorter,",
+      "en": "However, it may look back and imagine an even shorter,",
+      "zh": ""
+    },
+    {
+      "start": 559.8,
+      "duration": 2.31,
+      "text": "uncharted path it could've taken.",
+      "en": "uncharted path it could've taken.",
+      "zh": ""
+    },
+    {
+      "start": 562.11,
+      "duration": 1.65,
+      "text": "The mouse might not be satisfied",
+      "en": "The mouse might not be satisfied",
+      "zh": ""
+    },
+    {
+      "start": 563.76,
+      "duration": 2.58,
+      "text": "that it's found the shortest path just yet.",
+      "en": "that it's found the shortest path just yet.",
+      "zh": ""
+    },
+    {
+      "start": 566.34,
+      "duration": 1.65,
+      "text": "While this algorithm isn't guaranteed",
+      "en": "While this algorithm isn't guaranteed",
+      "zh": ""
+    },
+    {
+      "start": 567.99,
+      "duration": 2.49,
+      "text": "to find the best path on first pass,",
+      "en": "to find the best path on first pass,",
+      "zh": ""
+    },
+    {
+      "start": 570.48,
+      "duration": 2.25,
+      "text": "it takes advantage of the fact that Micromice",
+      "en": "it takes advantage of the fact that Micromice",
+      "zh": ""
+    },
+    {
+      "start": 572.73,
+      "duration": 2.91,
+      "text": "need to return to the start to begin their next run.",
+      "en": "need to return to the start to begin their next run.",
+      "zh": ""
+    },
+    {
+      "start": 575.64,
+      "duration": 3.24,
+      "text": "So if the mouse treats its return as a new journey,",
+      "en": "So if the mouse treats its return as a new journey,",
+      "zh": ""
+    },
+    {
+      "start": 578.88,
+      "duration": 4.26,
+      "text": "it can use the return trip to search the maze as well.",
+      "en": "it can use the return trip to search the maze as well.",
+      "zh": ""
+    },
+    {
+      "start": 583.14,
+      "duration": 2.64,
+      "text": "Between these two attempts, both optimized to find",
+      "en": "Between these two attempts, both optimized to find",
+      "zh": ""
+    },
+    {
+      "start": 585.78,
+      "duration": 1.86,
+      "text": "the shortest path from start to finish,",
+      "en": "the shortest path from start to finish,",
+      "zh": ""
+    },
+    {
+      "start": 587.64,
+      "duration": 2.94,
+      "text": "it's extremely likely that the mouse will discover it,",
+      "en": "it's extremely likely that the mouse will discover it,",
+      "zh": ""
+    },
+    {
+      "start": 590.58,
+      "duration": 2.13,
+      "text": "and the mouse will have done it efficiently,",
+      "en": "and the mouse will have done it efficiently,",
+      "zh": ""
+    },
+    {
+      "start": 592.71,
+      "duration": 1.5,
+      "text": "often leaving irrelevant areas",
+      "en": "often leaving irrelevant areas",
+      "zh": ""
+    },
+    {
+      "start": 594.21,
+      "duration": 2.46,
+      "text": "of the maze entirely untouched.",
+      "en": "of the maze entirely untouched.",
+      "zh": ""
+    },
+    {
+      "start": 596.67,
+      "duration": 3.42,
+      "text": "Flood fill offers both an intelligent and practical way",
+      "en": "Flood fill offers both an intelligent and practical way",
+      "zh": ""
+    },
+    {
+      "start": 600.09,
+      "duration": 3.87,
+      "text": "for Micromice to find the shortest path through the maze.",
+      "en": "for Micromice to find the shortest path through the maze.",
+      "zh": ""
+    },
+    {
+      "start": 603.96,
+      "duration": 2.73,
+      "text": "Once there was a clear strategy to find the shortest path,",
+      "en": "Once there was a clear strategy to find the shortest path,",
+      "zh": ""
+    },
+    {
+      "start": 606.69,
+      "duration": 2.1,
+      "text": "and once the microcontrollers and sensors",
+      "en": "and once the microcontrollers and sensors",
+      "zh": ""
+    },
+    {
+      "start": 608.79,
+      "duration": 2.22,
+      "text": "required to implement it became common,",
+      "en": "required to implement it became common,",
+      "zh": ""
+    },
+    {
+      "start": 611.01,
+      "duration": 3.12,
+      "text": "some people believed Micromouse had run its course.",
+      "en": "some people believed Micromouse had run its course.",
+      "zh": ""
+    },
+    {
+      "start": 614.13,
+      "duration": 2.05,
+      "text": "As a paper published in IEEE put it,",
+      "en": "As a paper published in IEEE put it,",
+      "zh": ""
+    },
+    {
+      "start": 616.18,
+      "duration": 1.55,
+      "text": "\"At the end of the 1980s,",
+      "en": "\"At the end of the 1980s,",
+      "zh": ""
+    },
+    {
+      "start": 617.73,
+      "duration": 2.85,
+      "text": "the Micromouse Contest had outlived itself.",
+      "en": "the Micromouse Contest had outlived itself.",
+      "zh": ""
+    },
+    {
+      "start": 620.58,
+      "duration": 1.2,
+      "text": "The problem was solved,",
+      "en": "The problem was solved,",
+      "zh": ""
+    },
+    {
+      "start": 621.78,
+      "duration": 2.55,
+      "text": "and did not provide any new challenges.\"",
+      "en": "and did not provide any new challenges.\"",
+      "zh": ""
+    },
+    {
+      "start": 625.34,
+      "duration": 2.32,
+      "text": "(people chattering)",
+      "en": "(people chattering)",
+      "zh": ""
+    },
+    {
+      "start": 627.66,
+      "duration": 3.15,
+      "text": "In the 2017 All Japan Micromouse Competition,",
+      "en": "In the 2017 All Japan Micromouse Competition,",
+      "zh": ""
+    },
+    {
+      "start": 630.81,
+      "duration": 2.34,
+      "text": "both the bronze-and silver-placing mice",
+      "en": "both the bronze-and silver-placing mice",
+      "zh": ""
+    },
+    {
+      "start": 633.15,
+      "duration": 2.73,
+      "text": "found the shortest path to the goal, and once they did,",
+      "en": "found the shortest path to the goal, and once they did,",
+      "zh": ""
+    },
+    {
+      "start": 635.88,
+      "duration": 3.69,
+      "text": "they were able to zip along it as quick as 7.4 seconds.",
+      "en": "they were able to zip along it as quick as 7.4 seconds.",
+      "zh": ""
+    },
+    {
+      "start": 640.53,
+      "duration": 0.99,
+      "text": "(audience applauding)",
+      "en": "(audience applauding)",
+      "zh": ""
+    },
+    {
+      "start": 641.52,
+      "duration": 3.27,
+      "text": "But Masakazu Utsunomiya's winning mouse, Red Comet,",
+      "en": "But Masakazu Utsunomiya's winning mouse, Red Comet,",
+      "zh": ""
+    },
+    {
+      "start": 644.79,
+      "duration": 2.46,
+      "text": "did something entirely different.",
+      "en": "did something entirely different.",
+      "zh": ""
+    },
+    {
+      "start": 647.25,
+      "duration": 2.16,
+      "text": "This is the shortest path to the goal,",
+      "en": "This is the shortest path to the goal,",
+      "zh": ""
+    },
+    {
+      "start": 649.41,
+      "duration": 1.71,
+      "text": "the one that everyone took.",
+      "en": "the one that everyone took.",
+      "zh": ""
+    },
+    {
+      "start": 651.12,
+      "duration": 2.91,
+      "text": "This is the path that Red Comet took.",
+      "en": "This is the path that Red Comet took.",
+      "zh": ""
+    },
+    {
+      "start": 654.03,
+      "duration": 3.15,
+      "text": "It's a full 5 1/2 meters longer.",
+      "en": "It's a full 5 1/2 meters longer.",
+      "zh": ""
+    },
+    {
+      "start": 657.18,
+      "duration": 2.16,
+      "text": "That's because Micromice aren't actually searching",
+      "en": "That's because Micromice aren't actually searching",
+      "zh": ""
+    },
+    {
+      "start": 659.34,
+      "duration": 1.23,
+      "text": "for the shortest path,",
+      "en": "for the shortest path,",
+      "zh": ""
+    },
+    {
+      "start": 660.57,
+      "duration": 2.25,
+      "text": "they're searching for the fastest path.",
+      "en": "they're searching for the fastest path.",
+      "zh": ""
+    },
+    {
+      "start": 662.82,
+      "duration": 2.19,
+      "text": "And Red Comet's search algorithm figured out",
+      "en": "And Red Comet's search algorithm figured out",
+      "zh": ""
+    },
+    {
+      "start": 665.01,
+      "duration": 2.85,
+      "text": "that this path had fewer turns to slow it down.",
+      "en": "that this path had fewer turns to slow it down.",
+      "zh": ""
+    },
+    {
+      "start": 667.86,
+      "duration": 2.28,
+      "text": "So even though the path was longer,",
+      "en": "So even though the path was longer,",
+      "zh": ""
+    },
+    {
+      "start": 670.14,
+      "duration": 2.28,
+      "text": "it could end up being faster.",
+      "en": "it could end up being faster.",
+      "zh": ""
+    },
+    {
+      "start": 672.42,
+      "duration": 2.16,
+      "text": "So it took that risk.",
+      "en": "So it took that risk.",
+      "zh": ""
+    },
+    {
+      "start": 674.58,
+      "duration": 4.08,
+      "text": "(announcer speaking in Japanese)",
+      "en": "(announcer speaking in Japanese)",
+      "zh": ""
+    },
+    {
+      "start": 680.73,
+      "duration": 2.94,
+      "text": "(audience applauding)",
+      "en": "(audience applauding)",
+      "zh": ""
+    },
+    {
+      "start": 683.67,
+      "duration": 4.01,
+      "text": "- [Derek] It won by 131 milliseconds.",
+      "en": "- [Derek] It won by 131 milliseconds.",
+      "zh": ""
+    },
+    {
+      "start": 687.68,
+      "duration": 2.02,
+      "text": "(upbeat music)",
+      "en": "(upbeat music)",
+      "zh": ""
+    },
+    {
+      "start": 689.7,
+      "duration": 1.35,
+      "text": "Differing routes at competition",
+      "en": "Differing routes at competition",
+      "zh": ""
+    },
+    {
+      "start": 691.05,
+      "duration": 1.8,
+      "text": "are now more common than not,",
+      "en": "are now more common than not,",
+      "zh": ""
+    },
+    {
+      "start": 692.85,
+      "duration": 2.88,
+      "text": "and even just getting to the goal remains difficult,",
+      "en": "and even just getting to the goal remains difficult,",
+      "zh": ""
+    },
+    {
+      "start": 695.73,
+      "duration": 1.92,
+      "text": "whether due to a mysterious algorithm",
+      "en": "whether due to a mysterious algorithm",
+      "zh": ""
+    },
+    {
+      "start": 697.65,
+      "duration": 1.89,
+      "text": "or a quirk of the physical maze.",
+      "en": "or a quirk of the physical maze.",
+      "zh": ""
+    },
+    {
+      "start": 699.54,
+      "duration": 0.93,
+      "text": "(audience laughing)",
+      "en": "(audience laughing)",
+      "zh": ""
+    },
+    {
+      "start": 700.47,
+      "duration": 1.91,
+      "text": "- [Commentator] The corner, it's a little bit like a...",
+      "en": "- [Commentator] The corner, it's a little bit like a...",
+      "zh": ""
+    },
+    {
+      "start": 702.38,
+      "duration": 0.97,
+      "text": "Whoa!",
+      "en": "Whoa!",
+      "zh": ""
+    },
+    {
+      "start": 703.35,
+      "duration": 4.86,
+      "text": "(commentator speaking in Japanese)",
+      "en": "(commentator speaking in Japanese)",
+      "zh": ""
+    },
+    {
+      "start": 708.21,
+      "duration": 2.8,
+      "text": "- [Derek] Micromice don't always behave as you'd expect.",
+      "en": "- [Derek] Micromice don't always behave as you'd expect.",
+      "zh": ""
+    },
+    {
+      "start": 712.06,
+      "duration": 4.17,
+      "text": "(competitor speaking in Japanese)",
+      "en": "(competitor speaking in Japanese)",
+      "zh": ""
+    },
+    {
+      "start": 724.83,
+      "duration": 1.41,
+      "text": "(upbeat music)",
+      "en": "(upbeat music)",
+      "zh": ""
+    },
+    {
+      "start": 726.24,
+      "duration": 1.89,
+      "text": "Micromouse is far from solved,",
+      "en": "Micromouse is far from solved,",
+      "zh": ""
+    },
+    {
+      "start": 728.13,
+      "duration": 1.98,
+      "text": "because it's not just a software problem",
+      "en": "because it's not just a software problem",
+      "zh": ""
+    },
+    {
+      "start": 730.11,
+      "duration": 2.46,
+      "text": "or a hardware problem, it's both.",
+      "en": "or a hardware problem, it's both.",
+      "zh": ""
+    },
+    {
+      "start": 732.57,
+      "duration": 2.01,
+      "text": "It's a robotics problem.",
+      "en": "It's a robotics problem.",
+      "zh": ""
+    },
+    {
+      "start": 734.58,
+      "duration": 1.14,
+      "text": "Red Comet didn't win",
+      "en": "Red Comet didn't win",
+      "zh": ""
+    },
+    {
+      "start": 735.72,
+      "duration": 1.59,
+      "text": "because it had a better search algorithm",
+      "en": "because it had a better search algorithm",
+      "zh": ""
+    },
+    {
+      "start": 737.31,
+      "duration": 1.98,
+      "text": "or because it had faster motors.",
+      "en": "or because it had faster motors.",
+      "zh": ""
+    },
+    {
+      "start": 739.29,
+      "duration": 1.89,
+      "text": "Its cleverness came from how the brains",
+      "en": "Its cleverness came from how the brains",
+      "zh": ""
+    },
+    {
+      "start": 741.18,
+      "duration": 2.73,
+      "text": "and body of the mouse interacted together.",
+      "en": "and body of the mouse interacted together.",
+      "zh": ""
+    },
+    {
+      "start": 743.91,
+      "duration": 2.46,
+      "text": "- So it turns out solving the maze is not the problem.",
+      "en": "- So it turns out solving the maze is not the problem.",
+      "zh": ""
+    },
+    {
+      "start": 746.37,
+      "duration": 1.5,
+      "text": "It never was the problem, right?",
+      "en": "It never was the problem, right?",
+      "zh": ""
+    },
+    {
+      "start": 747.87,
+      "duration": 1.71,
+      "text": "But it's actually about navigation,",
+      "en": "But it's actually about navigation,",
+      "zh": ""
+    },
+    {
+      "start": 749.58,
+      "duration": 1.71,
+      "text": "and it's about going fast.",
+      "en": "and it's about going fast.",
+      "zh": ""
+    },
+    {
+      "start": 751.29,
+      "duration": 3.42,
+      "text": "- Every year, the robots get smaller, faster, lighter.",
+      "en": "- Every year, the robots get smaller, faster, lighter.",
+      "zh": ""
+    },
+    {
+      "start": 754.71,
+      "duration": 2.91,
+      "text": "There is still plenty of innovation left.",
+      "en": "There is still plenty of innovation left.",
+      "zh": ""
+    },
+    {
+      "start": 757.62,
+      "duration": 3.75,
+      "text": "And there's a small group of devotees in Japan",
+      "en": "And there's a small group of devotees in Japan",
+      "zh": ""
+    },
+    {
+      "start": 761.37,
+      "duration": 2.34,
+      "text": "busy building quarter-size Micromouse",
+      "en": "busy building quarter-size Micromouse",
+      "zh": ""
+    },
+    {
+      "start": 763.71,
+      "duration": 1.56,
+      "text": "which would sit on a quarter.",
+      "en": "which would sit on a quarter.",
+      "zh": ""
+    },
+    {
+      "start": 766.14,
+      "duration": 4.35,
+      "text": "(commentator speaking in Japanese)",
+      "en": "(commentator speaking in Japanese)",
+      "zh": ""
+    },
+    {
+      "start": 770.49,
+      "duration": 1.47,
+      "text": "- [Derek] Nearly 50 years on,",
+      "en": "- [Derek] Nearly 50 years on,",
+      "zh": ""
+    },
+    {
+      "start": 771.96,
+      "duration": 1.71,
+      "text": "Micromouse is bigger than ever.",
+      "en": "Micromouse is bigger than ever.",
+      "zh": ""
+    },
+    {
+      "start": 776.75,
+      "duration": 3.91,
+      "text": "(commentator speaking in Japanese)",
+      "en": "(commentator speaking in Japanese)",
+      "zh": ""
+    },
+    {
+      "start": 780.66,
+      "duration": 3.0,
+      "text": "(audience cheering)",
+      "en": "(audience cheering)",
+      "zh": ""
+    },
+    {
+      "start": 786.27,
+      "duration": 1.74,
+      "text": "- [Derek] Competitions have appeared solved",
+      "en": "- [Derek] Competitions have appeared solved",
+      "zh": ""
+    },
+    {
+      "start": 788.01,
+      "duration": 1.62,
+      "text": "at first glance before.",
+      "en": "at first glance before.",
+      "zh": ""
+    },
+    {
+      "start": 789.63,
+      "duration": 2.88,
+      "text": "The high jump was an Olympic sport since 1896,",
+      "en": "The high jump was an Olympic sport since 1896,",
+      "zh": ""
+    },
+    {
+      "start": 792.51,
+      "duration": 1.77,
+      "text": "with competitors refining their jumps",
+      "en": "with competitors refining their jumps",
+      "zh": ""
+    },
+    {
+      "start": 794.28,
+      "duration": 2.94,
+      "text": "using variations like the scissor, the western roll,",
+      "en": "using variations like the scissor, the western roll,",
+      "zh": ""
+    },
+    {
+      "start": 797.22,
+      "duration": 3.39,
+      "text": "and the straddle over the decades, with diminishing returns.",
+      "en": "and the straddle over the decades, with diminishing returns.",
+      "zh": ""
+    },
+    {
+      "start": 800.61,
+      "duration": 3.27,
+      "text": "But once foam padding became standard in competition,",
+      "en": "But once foam padding became standard in competition,",
+      "zh": ""
+    },
+    {
+      "start": 803.88,
+      "duration": 2.88,
+      "text": "Dick Fosbury rewrote the sport in 1968",
+      "en": "Dick Fosbury rewrote the sport in 1968",
+      "zh": ""
+    },
+    {
+      "start": 806.76,
+      "duration": 1.65,
+      "text": "by becoming the first Olympian",
+      "en": "by becoming the first Olympian",
+      "zh": ""
+    },
+    {
+      "start": 808.41,
+      "duration": 2.55,
+      "text": "to jump over the pole backwards.",
+      "en": "to jump over the pole backwards.",
+      "zh": ""
+    },
+    {
+      "start": 810.96,
+      "duration": 2.19,
+      "text": "Now almost every high jumper does",
+      "en": "Now almost every high jumper does",
+      "zh": ""
+    },
+    {
+      "start": 813.15,
+      "duration": 2.04,
+      "text": "what's known as the Fosbury flop.",
+      "en": "what's known as the Fosbury flop.",
+      "zh": ""
+    },
+    {
+      "start": 816.15,
+      "duration": 2.85,
+      "text": "If Micromouse had indeed stopped in the 1980s,",
+      "en": "If Micromouse had indeed stopped in the 1980s,",
+      "zh": ""
+    },
+    {
+      "start": 819.0,
+      "duration": 3.21,
+      "text": "the competition would've missed its own Fosbury flops,",
+      "en": "the competition would've missed its own Fosbury flops,",
+      "zh": ""
+    },
+    {
+      "start": 822.21,
+      "duration": 3.93,
+      "text": "two innovations that completely changed how Micromice ran.",
+      "en": "two innovations that completely changed how Micromice ran.",
+      "zh": ""
+    },
+    {
+      "start": 826.14,
+      "duration": 2.61,
+      "text": "After all, a lot can change in a sport where competitors",
+      "en": "After all, a lot can change in a sport where competitors",
+      "zh": ""
+    },
+    {
+      "start": 828.75,
+      "duration": 2.46,
+      "text": "can solder on any upgrade they can imagine.",
+      "en": "can solder on any upgrade they can imagine.",
+      "zh": ""
+    },
+    {
+      "start": 832.83,
+      "duration": 1.29,
+      "text": "The first Fosbury flop",
+      "en": "The first Fosbury flop",
+      "zh": ""
+    },
+    {
+      "start": 834.12,
+      "duration": 2.58,
+      "text": "was one of the earliest innovations in Micromouse,",
+      "en": "was one of the earliest innovations in Micromouse,",
+      "zh": ""
+    },
+    {
+      "start": 836.7,
+      "duration": 2.55,
+      "text": "and had nothing to do with technology.",
+      "en": "and had nothing to do with technology.",
+      "zh": ""
+    },
+    {
+      "start": 839.25,
+      "duration": 2.73,
+      "text": "It was simply a way of thinking outside the box,",
+      "en": "It was simply a way of thinking outside the box,",
+      "zh": ""
+    },
+    {
+      "start": 841.98,
+      "duration": 2.46,
+      "text": "or rather, cutting through the box.",
+      "en": "or rather, cutting through the box.",
+      "zh": ""
+    },
+    {
+      "start": 844.44,
+      "duration": 2.73,
+      "text": "Every mouse used to turn corners like this.",
+      "en": "Every mouse used to turn corners like this.",
+      "zh": ""
+    },
+    {
+      "start": 848.54,
+      "duration": 1.57,
+      "text": "(Micromouse whirring)",
+      "en": "(Micromouse whirring)",
+      "zh": ""
+    },
+    {
+      "start": 850.11,
+      "duration": 3.01,
+      "text": "But everything changed with the mouse Mitee 3.",
+      "en": "But everything changed with the mouse Mitee 3.",
+      "zh": ""
+    },
+    {
+      "start": 853.12,
+      "duration": 3.23,
+      "text": "- So Mitee Mouse 3 implemented diagonals for the first time.",
+      "en": "- So Mitee Mouse 3 implemented diagonals for the first time.",
+      "zh": ""
+    },
+    {
+      "start": 858.19,
+      "duration": 3.0,
+      "text": "(people chattering)",
+      "en": "(people chattering)",
+      "zh": ""
+    },
+    {
+      "start": 863.1,
+      "duration": 2.07,
+      "text": "And that turned out to be a much better idea",
+      "en": "And that turned out to be a much better idea",
+      "zh": ""
+    },
+    {
+      "start": 865.17,
+      "duration": 1.26,
+      "text": "than we really thought.",
+      "en": "than we really thought.",
+      "zh": ""
+    },
+    {
+      "start": 866.43,
+      "duration": 2.28,
+      "text": "And because it's cool, you know,",
+      "en": "And because it's cool, you know,",
+      "zh": ""
+    },
+    {
+      "start": 868.71,
+      "duration": 2.94,
+      "text": "maze designers often put diagonals into the maze now.",
+      "en": "maze designers often put diagonals into the maze now.",
+      "zh": ""
+    },
+    {
+      "start": 871.65,
+      "duration": 1.26,
+      "text": "So, you know,",
+      "en": "So, you know,",
+      "zh": ""
+    },
+    {
+      "start": 872.91,
+      "duration": 2.22,
+      "text": "you could end up with a maze where it never comes up,",
+      "en": "you could end up with a maze where it never comes up,",
+      "zh": ""
+    },
+    {
+      "start": 875.13,
+      "duration": 2.73,
+      "text": "but most of the time it's actually a benefit.",
+      "en": "but most of the time it's actually a benefit.",
+      "zh": ""
+    },
+    {
+      "start": 877.86,
+      "duration": 1.86,
+      "text": "- [Derek] In order to pull off diagonals,",
+      "en": "- [Derek] In order to pull off diagonals,",
+      "zh": ""
+    },
+    {
+      "start": 879.72,
+      "duration": 1.98,
+      "text": "the chassis of the mouse had to be reduced",
+      "en": "the chassis of the mouse had to be reduced",
+      "zh": ""
+    },
+    {
+      "start": 881.7,
+      "duration": 2.28,
+      "text": "to less than 11 centimeters wide,",
+      "en": "to less than 11 centimeters wide,",
+      "zh": ""
+    },
+    {
+      "start": 883.98,
+      "duration": 2.79,
+      "text": "or just five centimeters for half-size Micromouse.",
+      "en": "or just five centimeters for half-size Micromouse.",
+      "zh": ""
+    },
+    {
+      "start": 886.77,
+      "duration": 2.91,
+      "text": "The sensors and software of the mouse had to change, too.",
+      "en": "The sensors and software of the mouse had to change, too.",
+      "zh": ""
+    },
+    {
+      "start": 889.68,
+      "duration": 1.86,
+      "text": "When you're running between parallel walls,",
+      "en": "When you're running between parallel walls,",
+      "zh": ""
+    },
+    {
+      "start": 891.54,
+      "duration": 2.22,
+      "text": "all you have to do is maintain an equal distance",
+      "en": "all you have to do is maintain an equal distance",
+      "zh": ""
+    },
+    {
+      "start": 893.76,
+      "duration": 2.64,
+      "text": "between your left and right infrared readings.",
+      "en": "between your left and right infrared readings.",
+      "zh": ""
+    },
+    {
+      "start": 896.4,
+      "duration": 3.48,
+      "text": "But a diagonal requires an entirely new algorithm,",
+      "en": "But a diagonal requires an entirely new algorithm,",
+      "zh": ""
+    },
+    {
+      "start": 899.88,
+      "duration": 1.8,
+      "text": "one that essentially guides the mouse",
+      "en": "one that essentially guides the mouse",
+      "zh": ""
+    },
+    {
+      "start": 901.68,
+      "duration": 1.83,
+      "text": "as if it had blinders on.",
+      "en": "as if it had blinders on.",
+      "zh": ""
+    },
+    {
+      "start": 903.51,
+      "duration": 2.25,
+      "text": "- Normally, if you're going along the side of a wall,",
+      "en": "- Normally, if you're going along the side of a wall,",
+      "zh": ""
+    },
+    {
+      "start": 905.76,
+      "duration": 1.17,
+      "text": "or something like that,",
+      "en": "or something like that,",
+      "zh": ""
+    },
+    {
+      "start": 906.93,
+      "duration": 2.7,
+      "text": "most of the time you can see the wall all the time.",
+      "en": "most of the time you can see the wall all the time.",
+      "zh": ""
+    },
+    {
+      "start": 909.63,
+      "duration": 2.82,
+      "text": "And so that helps you to guide yourself,",
+      "en": "And so that helps you to guide yourself,",
+      "zh": ""
+    },
+    {
+      "start": 912.45,
+      "duration": 1.86,
+      "text": "and you know when you're getting off.",
+      "en": "and you know when you're getting off.",
+      "zh": ""
+    },
+    {
+      "start": 914.31,
+      "duration": 1.95,
+      "text": "But in the diagonal situation,",
+      "en": "But in the diagonal situation,",
+      "zh": ""
+    },
+    {
+      "start": 916.26,
+      "duration": 2.1,
+      "text": "you just see these walls coming at you.",
+      "en": "you just see these walls coming at you.",
+      "zh": ""
+    },
+    {
+      "start": 918.36,
+      "duration": 2.94,
+      "text": "- [Derek] And if you veer even a tiny bit off course,",
+      "en": "- [Derek] And if you veer even a tiny bit off course,",
+      "zh": ""
+    },
+    {
+      "start": 921.3,
+      "duration": 2.1,
+      "text": "snagging a corner is a lot less forgiving",
+      "en": "snagging a corner is a lot less forgiving",
+      "zh": ""
+    },
+    {
+      "start": 923.4,
+      "duration": 1.92,
+      "text": "than sliding against a wall.",
+      "en": "than sliding against a wall.",
+      "zh": ""
+    },
+    {
+      "start": 925.32,
+      "duration": 2.07,
+      "text": "Diagonals are still one of the biggest sources",
+      "en": "Diagonals are still one of the biggest sources",
+      "zh": ""
+    },
+    {
+      "start": 927.39,
+      "duration": 1.98,
+      "text": "of crashes in competition today.",
+      "en": "of crashes in competition today.",
+      "zh": ""
+    },
+    {
+      "start": 930.78,
+      "duration": 2.52,
+      "text": "But in exchange, a jagged path of turns",
+      "en": "But in exchange, a jagged path of turns",
+      "zh": ""
+    },
+    {
+      "start": 933.3,
+      "duration": 3.12,
+      "text": "transforms into one narrow straightaway.",
+      "en": "transforms into one narrow straightaway.",
+      "zh": ""
+    },
+    {
+      "start": 936.42,
+      "duration": 1.06,
+      "text": "- [Commentator] Oh!",
+      "en": "- [Commentator] Oh!",
+      "zh": ""
+    },
+    {
+      "start": 937.48,
+      "duration": 1.9,
+      "text": "Whoa! (audience applauding)",
+      "en": "Whoa! (audience applauding)",
+      "zh": ""
+    },
+    {
+      "start": 939.38,
+      "duration": 3.01,
+      "text": "(audience applauding)",
+      "en": "(audience applauding)",
+      "zh": ""
+    },
+    {
+      "start": 942.39,
+      "duration": 1.86,
+      "text": "(audience cheering)",
+      "en": "(audience cheering)",
+      "zh": ""
+    },
+    {
+      "start": 944.25,
+      "duration": 2.55,
+      "text": "- [Derek] These days, nearly every competitive Micromouse",
+      "en": "- [Derek] These days, nearly every competitive Micromouse",
+      "zh": ""
+    },
+    {
+      "start": 946.8,
+      "duration": 2.07,
+      "text": "is designed to take this risk.",
+      "en": "is designed to take this risk.",
+      "zh": ""
+    },
+    {
+      "start": 950.31,
+      "duration": 3.39,
+      "text": "Cutting diagonals opened up room for even more ideas.",
+      "en": "Cutting diagonals opened up room for even more ideas.",
+      "zh": ""
+    },
+    {
+      "start": 953.7,
+      "duration": 1.08,
+      "text": "Around the same time,",
+      "en": "Around the same time,",
+      "zh": ""
+    },
+    {
+      "start": 954.78,
+      "duration": 3.03,
+      "text": "mice were applying similar strategies to turning.",
+      "en": "mice were applying similar strategies to turning.",
+      "zh": ""
+    },
+    {
+      "start": 957.81,
+      "duration": 3.06,
+      "text": "Instead of stopping and pivoting through two right turns,",
+      "en": "Instead of stopping and pivoting through two right turns,",
+      "zh": ""
+    },
+    {
+      "start": 960.87,
+      "duration": 3.24,
+      "text": "a mouse could sweep around in a single U-turn motion.",
+      "en": "a mouse could sweep around in a single U-turn motion.",
+      "zh": ""
+    },
+    {
+      "start": 964.11,
+      "duration": 2.43,
+      "text": "And once the possibility of diagonals were added,",
+      "en": "And once the possibility of diagonals were added,",
+      "zh": ""
+    },
+    {
+      "start": 966.54,
+      "duration": 3.99,
+      "text": "the total number of possible turns opened up exponentially.",
+      "en": "the total number of possible turns opened up exponentially.",
+      "zh": ""
+    },
+    {
+      "start": 970.53,
+      "duration": 3.69,
+      "text": "The maze was no longer just a grid of square hallways.",
+      "en": "The maze was no longer just a grid of square hallways.",
+      "zh": ""
+    },
+    {
+      "start": 974.22,
+      "duration": 2.4,
+      "text": "With so many more options to weigh,",
+      "en": "With so many more options to weigh,",
+      "zh": ""
+    },
+    {
+      "start": 976.62,
+      "duration": 3.75,
+      "text": "figuring out the best path became more complex than ever.",
+      "en": "figuring out the best path became more complex than ever.",
+      "zh": ""
+    },
+    {
+      "start": 980.37,
+      "duration": 1.98,
+      "text": "But the payoff was dramatic.",
+      "en": "But the payoff was dramatic.",
+      "zh": ""
+    },
+    {
+      "start": 982.35,
+      "duration": 2.1,
+      "text": "What was once a series of stops and starts",
+      "en": "What was once a series of stops and starts",
+      "zh": ""
+    },
+    {
+      "start": 984.45,
+      "duration": 2.82,
+      "text": "could now be a single, fluid, snaking motion.",
+      "en": "could now be a single, fluid, snaking motion.",
+      "zh": ""
+    },
+    {
+      "start": 987.27,
+      "duration": 2.61,
+      "text": "How Micromice imagined and moved through the maze",
+      "en": "How Micromice imagined and moved through the maze",
+      "zh": ""
+    },
+    {
+      "start": 989.88,
+      "duration": 1.66,
+      "text": "had changed completely.",
+      "en": "had changed completely.",
+      "zh": ""
+    },
+    {
+      "start": 991.54,
+      "duration": 3.0,
+      "text": "(audience cheering)",
+      "en": "(audience cheering)",
+      "zh": ""
+    },
+    {
+      "start": 995.85,
+      "duration": 1.89,
+      "text": "Available technology was getting upgrades",
+      "en": "Available technology was getting upgrades",
+      "zh": ""
+    },
+    {
+      "start": 997.74,
+      "duration": 1.65,
+      "text": "over the years as well.",
+      "en": "over the years as well.",
+      "zh": ""
+    },
+    {
+      "start": 999.39,
+      "duration": 3.0,
+      "text": "Tall and unwieldy arms that were used to find walls",
+      "en": "Tall and unwieldy arms that were used to find walls",
+      "zh": ""
+    },
+    {
+      "start": 1002.39,
+      "duration": 1.89,
+      "text": "were replaced by a smaller array",
+      "en": "were replaced by a smaller array",
+      "zh": ""
+    },
+    {
+      "start": 1004.28,
+      "duration": 2.64,
+      "text": "of infrared sensors on board the mouse.",
+      "en": "of infrared sensors on board the mouse.",
+      "zh": ""
+    },
+    {
+      "start": 1006.92,
+      "duration": 1.77,
+      "text": "Precise stepper motors were traded in",
+      "en": "Precise stepper motors were traded in",
+      "zh": ""
+    },
+    {
+      "start": 1008.69,
+      "duration": 2.7,
+      "text": "for continuous DC motors and encoders.",
+      "en": "for continuous DC motors and encoders.",
+      "zh": ""
+    },
+    {
+      "start": 1011.39,
+      "duration": 1.77,
+      "text": "- The DC motors give you more power",
+      "en": "- The DC motors give you more power",
+      "zh": ""
+    },
+    {
+      "start": 1013.16,
+      "duration": 1.56,
+      "text": "for less size and weight,",
+      "en": "for less size and weight,",
+      "zh": ""
+    },
+    {
+      "start": 1014.72,
+      "duration": 1.59,
+      "text": "and so we were interested in doing that.",
+      "en": "and so we were interested in doing that.",
+      "zh": ""
+    },
+    {
+      "start": 1016.31,
+      "duration": 1.8,
+      "text": "So then you have to have a servo.",
+      "en": "So then you have to have a servo.",
+      "zh": ""
+    },
+    {
+      "start": 1018.11,
+      "duration": 2.4,
+      "text": "You have to actually have feedback on the motor",
+      "en": "You have to actually have feedback on the motor",
+      "zh": ""
+    },
+    {
+      "start": 1020.51,
+      "duration": 1.5,
+      "text": "to make it do the right thing.",
+      "en": "to make it do the right thing.",
+      "zh": ""
+    },
+    {
+      "start": 1022.01,
+      "duration": 3.03,
+      "text": "- [Derek] Gyroscopes added an extra sense of orientation.",
+      "en": "- [Derek] Gyroscopes added an extra sense of orientation.",
+      "zh": ""
+    },
+    {
+      "start": 1026.54,
+      "duration": 3.09,
+      "text": "It's like a compass, if you had this thing with you.",
+      "en": "It's like a compass, if you had this thing with you.",
+      "zh": ""
+    },
+    {
+      "start": 1029.63,
+      "duration": 2.33,
+      "text": "- They came about cause of mobile phones, really.",
+      "en": "- They came about cause of mobile phones, really.",
+      "zh": ""
+    },
+    {
+      "start": 1031.96,
+      "duration": 1.9,
+      "text": "so the technology provides people",
+      "en": "so the technology provides people",
+      "zh": ""
+    },
+    {
+      "start": 1033.86,
+      "duration": 1.68,
+      "text": "with things which weren't there before.",
+      "en": "with things which weren't there before.",
+      "zh": ""
+    },
+    {
+      "start": 1035.54,
+      "duration": 3.3,
+      "text": "All of the turning is done based off the gyro",
+      "en": "All of the turning is done based off the gyro",
+      "zh": ""
+    },
+    {
+      "start": 1038.84,
+      "duration": 2.64,
+      "text": "rather than counting pulses off the wheels,",
+      "en": "rather than counting pulses off the wheels,",
+      "zh": ""
+    },
+    {
+      "start": 1041.48,
+      "duration": 1.56,
+      "text": "because it's much more reliable.",
+      "en": "because it's much more reliable.",
+      "zh": ""
+    },
+    {
+      "start": 1043.04,
+      "duration": 2.16,
+      "text": "- [Derek] But even with all the mechanical upgrades,",
+      "en": "- [Derek] But even with all the mechanical upgrades,",
+      "zh": ""
+    },
+    {
+      "start": 1045.2,
+      "duration": 1.86,
+      "text": "the biggest physical issue for Micromice",
+      "en": "the biggest physical issue for Micromice",
+      "zh": ""
+    },
+    {
+      "start": 1047.06,
+      "duration": 2.16,
+      "text": "went unaddressed for decades.",
+      "en": "went unaddressed for decades.",
+      "zh": ""
+    },
+    {
+      "start": 1049.22,
+      "duration": 2.49,
+      "text": "One thing you'll see almost every competitor holding",
+      "en": "One thing you'll see almost every competitor holding",
+      "zh": ""
+    },
+    {
+      "start": 1051.71,
+      "duration": 1.83,
+      "text": "is a roll of tape.",
+      "en": "is a roll of tape.",
+      "zh": ""
+    },
+    {
+      "start": 1053.54,
+      "duration": 2.7,
+      "text": "Once you know to look for it, you'll see it everywhere.",
+      "en": "Once you know to look for it, you'll see it everywhere.",
+      "zh": ""
+    },
+    {
+      "start": 1056.24,
+      "duration": 3.84,
+      "text": "This tape isn't for repairs or reattaching fallen parts.",
+      "en": "This tape isn't for repairs or reattaching fallen parts.",
+      "zh": ""
+    },
+    {
+      "start": 1060.08,
+      "duration": 1.83,
+      "text": "It's to gather specs of dust",
+      "en": "It's to gather specs of dust",
+      "zh": ""
+    },
+    {
+      "start": 1061.91,
+      "duration": 2.49,
+      "text": "off the wheels in between rounds.",
+      "en": "off the wheels in between rounds.",
+      "zh": ""
+    },
+    {
+      "start": 1064.4,
+      "duration": 2.7,
+      "text": "At the speed and precision these robots are operating,",
+      "en": "At the speed and precision these robots are operating,",
+      "zh": ""
+    },
+    {
+      "start": 1067.1,
+      "duration": 3.96,
+      "text": "that tiny change in friction is enough to ruin a run.",
+      "en": "that tiny change in friction is enough to ruin a run.",
+      "zh": ""
+    },
+    {
+      "start": 1073.28,
+      "duration": 2.16,
+      "text": "If you wanna turn while driving fast,",
+      "en": "If you wanna turn while driving fast,",
+      "zh": ""
+    },
+    {
+      "start": 1075.44,
+      "duration": 3.81,
+      "text": "you need centripetal force to accelerate you into the turn.",
+      "en": "you need centripetal force to accelerate you into the turn.",
+      "zh": ""
+    },
+    {
+      "start": 1079.25,
+      "duration": 1.29,
+      "text": "And the faster you're moving,",
+      "en": "And the faster you're moving,",
+      "zh": ""
+    },
+    {
+      "start": 1080.54,
+      "duration": 3.15,
+      "text": "the more force you need to keep you on the track.",
+      "en": "the more force you need to keep you on the track.",
+      "zh": ""
+    },
+    {
+      "start": 1083.69,
+      "duration": 1.95,
+      "text": "The only centripetal force for a car",
+      "en": "The only centripetal force for a car",
+      "zh": ""
+    },
+    {
+      "start": 1085.64,
+      "duration": 2.52,
+      "text": "turning on flat ground is friction,",
+      "en": "turning on flat ground is friction,",
+      "zh": ""
+    },
+    {
+      "start": 1088.16,
+      "duration": 1.98,
+      "text": "which is determined by two things,",
+      "en": "which is determined by two things,",
+      "zh": ""
+    },
+    {
+      "start": 1090.14,
+      "duration": 2.22,
+      "text": "the road pushing up the weight of the car,",
+      "en": "the road pushing up the weight of the car,",
+      "zh": ""
+    },
+    {
+      "start": 1092.36,
+      "duration": 1.23,
+      "text": "or the normal force,",
+      "en": "or the normal force,",
+      "zh": ""
+    },
+    {
+      "start": 1093.59,
+      "duration": 2.43,
+      "text": "multiplied by the static coefficient of friction,",
+      "en": "multiplied by the static coefficient of friction,",
+      "zh": ""
+    },
+    {
+      "start": 1096.02,
+      "duration": 1.65,
+      "text": "which is the friction of the interface",
+      "en": "which is the friction of the interface",
+      "zh": ""
+    },
+    {
+      "start": 1097.67,
+      "duration": 2.28,
+      "text": "between the tire and road surface.",
+      "en": "between the tire and road surface.",
+      "zh": ""
+    },
+    {
+      "start": 1099.95,
+      "duration": 2.76,
+      "text": "This is why racetracks have banked turns.",
+      "en": "This is why racetracks have banked turns.",
+      "zh": ""
+    },
+    {
+      "start": 1102.71,
+      "duration": 3.24,
+      "text": "The steep angles help cars turn with less friction,",
+      "en": "The steep angles help cars turn with less friction,",
+      "zh": ""
+    },
+    {
+      "start": 1105.95,
+      "duration": 3.33,
+      "text": "because part of the normal force itself now points in",
+      "en": "because part of the normal force itself now points in",
+      "zh": ""
+    },
+    {
+      "start": 1109.28,
+      "duration": 2.85,
+      "text": "to contribute to the centripetal force required.",
+      "en": "to contribute to the centripetal force required.",
+      "zh": ""
+    },
+    {
+      "start": 1112.13,
+      "duration": 1.59,
+      "text": "If the banked turn is steep enough,",
+      "en": "If the banked turn is steep enough,",
+      "zh": ""
+    },
+    {
+      "start": 1113.72,
+      "duration": 3.54,
+      "text": "cars can actually make the turn without any friction at all.",
+      "en": "cars can actually make the turn without any friction at all.",
+      "zh": ""
+    },
+    {
+      "start": 1117.26,
+      "duration": 2.7,
+      "text": "The inward component of the normal force alone is enough",
+      "en": "The inward component of the normal force alone is enough",
+      "zh": ""
+    },
+    {
+      "start": 1119.96,
+      "duration": 3.32,
+      "text": "to provide the centripetal force required to stay on track.",
+      "en": "to provide the centripetal force required to stay on track.",
+      "zh": ""
+    },
+    {
+      "start": 1123.28,
+      "duration": 1.6,
+      "text": "(upbeat music)",
+      "en": "(upbeat music)",
+      "zh": ""
+    },
+    {
+      "start": 1124.88,
+      "duration": 1.59,
+      "text": "Micromice are no different,",
+      "en": "Micromice are no different,",
+      "zh": ""
+    },
+    {
+      "start": 1126.47,
+      "duration": 2.7,
+      "text": "and they don't have banked turns to help.",
+      "en": "and they don't have banked turns to help.",
+      "zh": ""
+    },
+    {
+      "start": 1129.17,
+      "duration": 3.03,
+      "text": "As they got faster and faster, by the early 2000s,",
+      "en": "As they got faster and faster, by the early 2000s,",
+      "zh": ""
+    },
+    {
+      "start": 1132.2,
+      "duration": 2.46,
+      "text": "their limiting factor was no longer speed,",
+      "en": "their limiting factor was no longer speed,",
+      "zh": ""
+    },
+    {
+      "start": 1134.66,
+      "duration": 2.13,
+      "text": "but control of that speed.",
+      "en": "but control of that speed.",
+      "zh": ""
+    },
+    {
+      "start": 1136.79,
+      "duration": 2.46,
+      "text": "They had to set their center of gravity low,",
+      "en": "They had to set their center of gravity low,",
+      "zh": ""
+    },
+    {
+      "start": 1139.25,
+      "duration": 1.62,
+      "text": "and slow down during turns",
+      "en": "and slow down during turns",
+      "zh": ""
+    },
+    {
+      "start": 1140.87,
+      "duration": 3.45,
+      "text": "to avoid slipping into a wall or flipping over.",
+      "en": "to avoid slipping into a wall or flipping over.",
+      "zh": ""
+    },
+    {
+      "start": 1144.32,
+      "duration": 2.55,
+      "text": "But unlike race cars, there wasn't anything in the rules",
+      "en": "But unlike race cars, there wasn't anything in the rules",
+      "zh": ""
+    },
+    {
+      "start": 1146.87,
+      "duration": 2.94,
+      "text": "to stop Micromouse competitors from solving this problem",
+      "en": "to stop Micromouse competitors from solving this problem",
+      "zh": ""
+    },
+    {
+      "start": 1149.81,
+      "duration": 2.88,
+      "text": "by engineering an entirely new mechanism.",
+      "en": "by engineering an entirely new mechanism.",
+      "zh": ""
+    },
+    {
+      "start": 1154.82,
+      "duration": 1.92,
+      "text": "Micromouse's second Fosbury flop",
+      "en": "Micromouse's second Fosbury flop",
+      "zh": ""
+    },
+    {
+      "start": 1156.74,
+      "duration": 1.56,
+      "text": "was almost considered a gimmick",
+      "en": "was almost considered a gimmick",
+      "zh": ""
+    },
+    {
+      "start": 1158.3,
+      "duration": 3.84,
+      "text": "when the mouse Mokomo08 first used it in competition.",
+      "en": "when the mouse Mokomo08 first used it in competition.",
+      "zh": ""
+    },
+    {
+      "start": 1162.14,
+      "duration": 2.4,
+      "text": "You might be staring at the video to try to see it,",
+      "en": "You might be staring at the video to try to see it,",
+      "zh": ""
+    },
+    {
+      "start": 1164.54,
+      "duration": 1.11,
+      "text": "but you won't.",
+      "en": "but you won't.",
+      "zh": ""
+    },
+    {
+      "start": 1165.65,
+      "duration": 2.33,
+      "text": "Instead, it's something you'll hear.",
+      "en": "Instead, it's something you'll hear.",
+      "zh": ""
+    },
+    {
+      "start": 1167.98,
+      "duration": 2.92,
+      "text": "(Micromouse whirring)",
+      "en": "(Micromouse whirring)",
+      "zh": ""
+    },
+    {
+      "start": 1170.9,
+      "duration": 1.92,
+      "text": "That isn't the mouse revving its engines.",
+      "en": "That isn't the mouse revving its engines.",
+      "zh": ""
+    },
+    {
+      "start": 1172.82,
+      "duration": 2.34,
+      "text": "It's spinning up a propeller.",
+      "en": "It's spinning up a propeller.",
+      "zh": ""
+    },
+    {
+      "start": 1175.16,
+      "duration": 3.06,
+      "text": "And while flying over the walls is against the rules,",
+      "en": "And while flying over the walls is against the rules,",
+      "zh": ""
+    },
+    {
+      "start": 1178.22,
+      "duration": 1.68,
+      "text": "there's nothing in the rules against a mouse",
+      "en": "there's nothing in the rules against a mouse",
+      "zh": ""
+    },
+    {
+      "start": 1179.9,
+      "duration": 2.79,
+      "text": "vacuuming itself to the ground to prevent slipping.",
+      "en": "vacuuming itself to the ground to prevent slipping.",
+      "zh": ""
+    },
+    {
+      "start": 1182.69,
+      "duration": 2.13,
+      "text": "- Dave Otten was the first person",
+      "en": "- Dave Otten was the first person",
+      "zh": ""
+    },
+    {
+      "start": 1184.82,
+      "duration": 2.07,
+      "text": "I saw put a fan on a mouse,",
+      "en": "I saw put a fan on a mouse,",
+      "zh": ""
+    },
+    {
+      "start": 1186.89,
+      "duration": 1.92,
+      "text": "but he used a ducted fan,",
+      "en": "but he used a ducted fan,",
+      "zh": ""
+    },
+    {
+      "start": 1188.81,
+      "duration": 2.94,
+      "text": "and I think he was really looking at kind of reaction force,",
+      "en": "and I think he was really looking at kind of reaction force,",
+      "zh": ""
+    },
+    {
+      "start": 1191.75,
+      "duration": 1.47,
+      "text": "you know, blowing the thing down.",
+      "en": "you know, blowing the thing down.",
+      "zh": ""
+    },
+    {
+      "start": 1193.22,
+      "duration": 5.0,
+      "text": "He had a skirt around, but it was not terribly effective.",
+      "en": "He had a skirt around, but it was not terribly effective.",
+      "zh": ""
+    },
+    {
+      "start": 1198.59,
+      "duration": 1.5,
+      "text": "Forgive me for saying this, though.",
+      "en": "Forgive me for saying this, though.",
+      "zh": ""
+    },
+    {
+      "start": 1200.09,
+      "duration": 4.44,
+      "text": "The idea is to let as little air in as possible.",
+      "en": "The idea is to let as little air in as possible.",
+      "zh": ""
+    },
+    {
+      "start": 1204.53,
+      "duration": 1.26,
+      "text": "And like your vacuum cleaner,",
+      "en": "And like your vacuum cleaner,",
+      "zh": ""
+    },
+    {
+      "start": 1205.79,
+      "duration": 1.68,
+      "text": "when you block your vacuum cleaner, right,",
+      "en": "when you block your vacuum cleaner, right,",
+      "zh": ""
+    },
+    {
+      "start": 1207.47,
+      "duration": 3.87,
+      "text": "the motor unloads and speeds up, and so the current drops.",
+      "en": "the motor unloads and speeds up, and so the current drops.",
+      "zh": ""
+    },
+    {
+      "start": 1211.34,
+      "duration": 3.09,
+      "text": "But if you let too much air in, the current's very high.",
+      "en": "But if you let too much air in, the current's very high.",
+      "zh": ""
+    },
+    {
+      "start": 1214.43,
+      "duration": 2.31,
+      "text": "And these are just quadcopter motors,",
+      "en": "And these are just quadcopter motors,",
+      "zh": ""
+    },
+    {
+      "start": 1216.74,
+      "duration": 1.41,
+      "text": "and they draw a lot of current.",
+      "en": "and they draw a lot of current.",
+      "zh": ""
+    },
+    {
+      "start": 1218.15,
+      "duration": 2.79,
+      "text": "- [Derek] At the scale of Micromouse, a vacuum fan,",
+      "en": "- [Derek] At the scale of Micromouse, a vacuum fan,",
+      "zh": ""
+    },
+    {
+      "start": 1220.94,
+      "duration": 3.09,
+      "text": "often just built from handheld drone parts,",
+      "en": "often just built from handheld drone parts,",
+      "zh": ""
+    },
+    {
+      "start": 1224.03,
+      "duration": 2.25,
+      "text": "is enough to generate a downward force",
+      "en": "is enough to generate a downward force",
+      "zh": ""
+    },
+    {
+      "start": 1226.28,
+      "duration": 2.19,
+      "text": "five times the mouse's weight.",
+      "en": "five times the mouse's weight.",
+      "zh": ""
+    },
+    {
+      "start": 1229.64,
+      "duration": 1.17,
+      "text": "Wow. Okay.",
+      "en": "Wow. Okay.",
+      "zh": ""
+    },
+    {
+      "start": 1231.86,
+      "duration": 1.02,
+      "text": "That's impressive.",
+      "en": "That's impressive.",
+      "zh": ""
+    },
+    {
+      "start": 1232.88,
+      "duration": 2.07,
+      "text": "So how much does the car actually weigh?",
+      "en": "So how much does the car actually weigh?",
+      "zh": ""
+    },
+    {
+      "start": 1234.95,
+      "duration": 1.83,
+      "text": "- About 130 grams.",
+      "en": "- About 130 grams.",
+      "zh": ""
+    },
+    {
+      "start": 1236.78,
+      "duration": 1.21,
+      "text": "And if you listen,",
+      "en": "And if you listen,",
+      "zh": ""
+    },
+    {
+      "start": 1237.99,
+      "duration": 1.89,
+      "text": "I don't know if you'll get it on your microphone, but-",
+      "en": "I don't know if you'll get it on your microphone, but-",
+      "zh": ""
+    },
+    {
+      "start": 1239.88,
+      "duration": 0.95,
+      "text": "(motor whirring)",
+      "en": "(motor whirring)",
+      "zh": ""
+    },
+    {
+      "start": 1240.83,
+      "duration": 1.32,
+      "text": "- Oh yeah. - you can hear",
+      "en": "- Oh yeah. - you can hear",
+      "zh": ""
+    },
+    {
+      "start": 1242.15,
+      "duration": 3.15,
+      "text": "the motors slow down, and it loads up.",
+      "en": "the motors slow down, and it loads up.",
+      "zh": ""
+    },
+    {
+      "start": 1245.3,
+      "duration": 1.56,
+      "text": "- [Derek] With that much friction,",
+      "en": "- [Derek] With that much friction,",
+      "zh": ""
+    },
+    {
+      "start": 1246.86,
+      "duration": 1.92,
+      "text": "Micromice today can turn corners",
+      "en": "Micromice today can turn corners",
+      "zh": ""
+    },
+    {
+      "start": 1248.78,
+      "duration": 3.66,
+      "text": "with a centripetal acceleration approaching six Gs.",
+      "en": "with a centripetal acceleration approaching six Gs.",
+      "zh": ""
+    },
+    {
+      "start": 1252.44,
+      "duration": 3.18,
+      "text": "That's the same as F1 cars.",
+      "en": "That's the same as F1 cars.",
+      "zh": ""
+    },
+    {
+      "start": 1255.62,
+      "duration": 2.46,
+      "text": "(engines revving)",
+      "en": "(engines revving)",
+      "zh": ""
+    },
+    {
+      "start": 1258.08,
+      "duration": 2.37,
+      "text": "Once nearly everyone equipped fans,",
+      "en": "Once nearly everyone equipped fans,",
+      "zh": ""
+    },
+    {
+      "start": 1260.45,
+      "duration": 1.8,
+      "text": "the added control allowed builders",
+      "en": "the added control allowed builders",
+      "zh": ""
+    },
+    {
+      "start": 1262.25,
+      "duration": 2.16,
+      "text": "to push the speed limit on Micromice.",
+      "en": "to push the speed limit on Micromice.",
+      "zh": ""
+    },
+    {
+      "start": 1264.41,
+      "duration": 1.2,
+      "text": "- When it's allowed to,",
+      "en": "- When it's allowed to,",
+      "zh": ""
+    },
+    {
+      "start": 1265.61,
+      "duration": 2.58,
+      "text": "it will out-accelerate a Tesla Roadster,",
+      "en": "it will out-accelerate a Tesla Roadster,",
+      "zh": ""
+    },
+    {
+      "start": 1268.19,
+      "duration": 1.42,
+      "text": "but not for very far.",
+      "en": "but not for very far.",
+      "zh": ""
+    },
+    {
+      "start": 1269.61,
+      "duration": 0.83,
+      "text": "(Derek laughs)",
+      "en": "(Derek laughs)",
+      "zh": ""
+    },
+    {
+      "start": 1270.44,
+      "duration": 1.11,
+      "text": "- [Derek] And they can zip along",
+      "en": "- [Derek] And they can zip along",
+      "zh": ""
+    },
+    {
+      "start": 1271.55,
+      "duration": 2.1,
+      "text": "at up to seven meters per second,",
+      "en": "at up to seven meters per second,",
+      "zh": ""
+    },
+    {
+      "start": 1273.65,
+      "duration": 2.05,
+      "text": "faster than most people can run.",
+      "en": "faster than most people can run.",
+      "zh": ""
+    },
+    {
+      "start": 1275.7,
+      "duration": 3.22,
+      "text": "(audience laughing)",
+      "en": "(audience laughing)",
+      "zh": ""
+    },
+    {
+      "start": 1278.92,
+      "duration": 3.17,
+      "text": "(Micromouse whirring)",
+      "en": "(Micromouse whirring)",
+      "zh": ""
+    },
+    {
+      "start": 1289.93,
+      "duration": 3.0,
+      "text": "(audience cheering)",
+      "en": "(audience cheering)",
+      "zh": ""
+    },
+    {
+      "start": 1296.03,
+      "duration": 1.77,
+      "text": "Every one of the features now standard",
+      "en": "Every one of the features now standard",
+      "zh": ""
+    },
+    {
+      "start": 1297.8,
+      "duration": 2.61,
+      "text": "on the modern Micromouse was once an experiment,",
+      "en": "on the modern Micromouse was once an experiment,",
+      "zh": ""
+    },
+    {
+      "start": 1300.41,
+      "duration": 3.36,
+      "text": "and the next Fosbury flop might not be far off.",
+      "en": "and the next Fosbury flop might not be far off.",
+      "zh": ""
+    },
+    {
+      "start": 1303.77,
+      "duration": 1.8,
+      "text": "The first four-wheeled Micromouse",
+      "en": "The first four-wheeled Micromouse",
+      "zh": ""
+    },
+    {
+      "start": 1305.57,
+      "duration": 4.11,
+      "text": "to win the All Japan competition did so in 1988,",
+      "en": "to win the All Japan competition did so in 1988,",
+      "zh": ""
+    },
+    {
+      "start": 1309.68,
+      "duration": 1.92,
+      "text": "but it would take another 22 years",
+      "en": "but it would take another 22 years",
+      "zh": ""
+    },
+    {
+      "start": 1311.6,
+      "duration": 2.67,
+      "text": "of the winning mouse growing and losing appendages",
+      "en": "of the winning mouse growing and losing appendages",
+      "zh": ""
+    },
+    {
+      "start": 1314.27,
+      "duration": 3.12,
+      "text": "before four-wheeled mice became the norm.",
+      "en": "before four-wheeled mice became the norm.",
+      "zh": ""
+    },
+    {
+      "start": 1317.39,
+      "duration": 1.98,
+      "text": "With Micromice still experimenting",
+      "en": "With Micromice still experimenting",
+      "zh": ""
+    },
+    {
+      "start": 1319.37,
+      "duration": 1.89,
+      "text": "in six- and eight-wheel designs,",
+      "en": "in six- and eight-wheel designs,",
+      "zh": ""
+    },
+    {
+      "start": 1321.26,
+      "duration": 2.94,
+      "text": "omnidirectional movement, and even computer vision,",
+      "en": "omnidirectional movement, and even computer vision,",
+      "zh": ""
+    },
+    {
+      "start": 1324.2,
+      "duration": 2.61,
+      "text": "who knows what the next paradigm shift will be?",
+      "en": "who knows what the next paradigm shift will be?",
+      "zh": ""
+    },
+    {
+      "start": 1326.81,
+      "duration": 2.19,
+      "text": "- [Commentator] Your time on the maze actually begins",
+      "en": "- [Commentator] Your time on the maze actually begins",
+      "zh": ""
+    },
+    {
+      "start": 1329.0,
+      "duration": 2.4,
+      "text": "only when you leave the start square,",
+      "en": "only when you leave the start square,",
+      "zh": ""
+    },
+    {
+      "start": 1331.4,
+      "duration": 3.09,
+      "text": "so he's not penalized for any of this time.",
+      "en": "so he's not penalized for any of this time.",
+      "zh": ""
+    },
+    {
+      "start": 1337.61,
+      "duration": 1.95,
+      "text": "- [Derek] But if you wanna get started with Micromouse,",
+      "en": "- [Derek] But if you wanna get started with Micromouse,",
+      "zh": ""
+    },
+    {
+      "start": 1339.56,
+      "duration": 2.94,
+      "text": "you don't need to worry about wheel count or vacuum fans,",
+      "en": "you don't need to worry about wheel count or vacuum fans,",
+      "zh": ""
+    },
+    {
+      "start": 1342.5,
+      "duration": 1.68,
+      "text": "or even diagonals.",
+      "en": "or even diagonals.",
+      "zh": ""
+    },
+    {
+      "start": 1344.18,
+      "duration": 2.55,
+      "text": "- It is, to my mind, the perfect combination",
+      "en": "- It is, to my mind, the perfect combination",
+      "zh": ""
+    },
+    {
+      "start": 1346.73,
+      "duration": 3.54,
+      "text": "of all the major disciplines that you need",
+      "en": "of all the major disciplines that you need",
+      "zh": ""
+    },
+    {
+      "start": 1350.27,
+      "duration": 3.87,
+      "text": "for robotics and engineering and programming,",
+      "en": "for robotics and engineering and programming,",
+      "zh": ""
+    },
+    {
+      "start": 1354.14,
+      "duration": 1.5,
+      "text": "embedded systems,",
+      "en": "embedded systems,",
+      "zh": ""
+    },
+    {
+      "start": 1355.64,
+      "duration": 2.58,
+      "text": "all wrapped up in one accessible bundle",
+      "en": "all wrapped up in one accessible bundle",
+      "zh": ""
+    },
+    {
+      "start": 1358.22,
+      "duration": 1.8,
+      "text": "that you can do in your living room,",
+      "en": "that you can do in your living room,",
+      "zh": ""
+    },
+    {
+      "start": 1360.02,
+      "duration": 3.44,
+      "text": "and you don't need a laboratory to run it.",
+      "en": "and you don't need a laboratory to run it.",
+      "zh": ""
+    },
+    {
+      "start": 1365.48,
+      "duration": 4.24,
+      "text": "You come along because you're curious, and then you think,",
+      "en": "You come along because you're curious, and then you think,",
+      "zh": ""
+    },
+    {
+      "start": 1369.72,
+      "duration": 2.66,
+      "text": "\"I could do that. That doesn't look so hard.\"",
+      "en": "\"I could do that. That doesn't look so hard.\"",
+      "zh": ""
+    },
+    {
+      "start": 1372.38,
+      "duration": 1.32,
+      "text": "And then you're doomed, really.",
+      "en": "And then you're doomed, really.",
+      "zh": ""
+    },
+    {
+      "start": 1373.7,
+      "duration": 3.92,
+      "text": "If it sucks you in, it turns into quite the journey.",
+      "en": "If it sucks you in, it turns into quite the journey.",
+      "zh": ""
+    },
+    {
+      "start": 1377.62,
+      "duration": 4.25,
+      "text": "(commentator speaking in Japanese)",
+      "en": "(commentator speaking in Japanese)",
+      "zh": ""
+    },
+    {
+      "start": 1388.4,
+      "duration": 3.0,
+      "text": "(audience cheering)",
+      "en": "(audience cheering)",
+      "zh": ""
+    },
+    {
+      "start": 1394.52,
+      "duration": 0.83,
+      "text": "- [Derek] At its core,",
+      "en": "- [Derek] At its core,",
+      "zh": ""
+    },
+    {
+      "start": 1395.35,
+      "duration": 4.18,
+      "text": "Micromouse is just about a mouse trying to solve a maze.",
+      "en": "Micromouse is just about a mouse trying to solve a maze.",
+      "zh": ""
+    },
+    {
+      "start": 1399.53,
+      "duration": 1.47,
+      "text": "Though, nearly 50 years later,",
+      "en": "Though, nearly 50 years later,",
+      "zh": ""
+    },
+    {
+      "start": 1401.0,
+      "duration": 2.76,
+      "text": "it's a simple problem that's a good reminder,",
+      "en": "it's a simple problem that's a good reminder,",
+      "zh": ""
+    },
+    {
+      "start": 1403.76,
+      "duration": 2.85,
+      "text": "there is no such thing as a simple problem.",
+      "en": "there is no such thing as a simple problem.",
+      "zh": ""
+    },
+    {
+      "start": 1408.29,
+      "duration": 2.91,
+      "text": "♪ Micromouse, is for the taking ♪",
+      "en": "♪ Micromouse, is for the taking ♪",
+      "zh": ""
+    },
+    {
+      "start": 1411.2,
+      "duration": 3.52,
+      "text": "♪ Micromouse, is here and now ♪",
+      "en": "♪ Micromouse, is here and now ♪",
+      "zh": ""
+    },
+    {
+      "start": 1414.72,
+      "duration": 3.52,
+      "text": "♪ Take a chance, and start creating ♪",
+      "en": "♪ Take a chance, and start creating ♪",
+      "zh": ""
+    },
+    {
+      "start": 1418.24,
+      "duration": 3.42,
+      "text": "♪ Micromouse, will show you how ♪",
+      "en": "♪ Micromouse, will show you how ♪",
+      "zh": ""
+    },
+    {
+      "start": 1421.66,
+      "duration": 2.59,
+      "text": "(logo beeping)",
+      "en": "(logo beeping)",
+      "zh": ""
+    },
+    {
+      "start": 1425.8,
+      "duration": 2.14,
+      "text": "- If you wanna build your own Micromouse,",
+      "en": "- If you wanna build your own Micromouse,",
+      "zh": ""
+    },
+    {
+      "start": 1427.94,
+      "duration": 1.68,
+      "text": "you'll likely need to design parts",
+      "en": "you'll likely need to design parts",
+      "zh": ""
+    },
+    {
+      "start": 1429.62,
+      "duration": 2.73,
+      "text": "using a 3D CAD program like Onshape,",
+      "en": "using a 3D CAD program like Onshape,",
+      "zh": ""
+    },
+    {
+      "start": 1432.35,
+      "duration": 1.83,
+      "text": "the sponsor of this video.",
+      "en": "the sponsor of this video.",
+      "zh": ""
+    },
+    {
+      "start": 1434.18,
+      "duration": 2.73,
+      "text": "Onshape is a modern CAD plus PDM system",
+      "en": "Onshape is a modern CAD plus PDM system",
+      "zh": ""
+    },
+    {
+      "start": 1436.91,
+      "duration": 1.26,
+      "text": "designed for businesses,",
+      "en": "designed for businesses,",
+      "zh": ""
+    },
+    {
+      "start": 1438.17,
+      "duration": 4.05,
+      "text": "and completely free for makers and hobbyists to use.",
+      "en": "and completely free for makers and hobbyists to use.",
+      "zh": ""
+    },
+    {
+      "start": 1442.22,
+      "duration": 2.85,
+      "text": "Any serious hardware product needs a precise design",
+      "en": "Any serious hardware product needs a precise design",
+      "zh": ""
+    },
+    {
+      "start": 1445.07,
+      "duration": 2.79,
+      "text": "in order to be successfully made in the real world,",
+      "en": "in order to be successfully made in the real world,",
+      "zh": ""
+    },
+    {
+      "start": 1447.86,
+      "duration": 2.25,
+      "text": "from a Micromouse model like this one",
+      "en": "from a Micromouse model like this one",
+      "zh": ""
+    },
+    {
+      "start": 1450.11,
+      "duration": 3.72,
+      "text": "to a professional V2 engine model like this one.",
+      "en": "to a professional V2 engine model like this one.",
+      "zh": ""
+    },
+    {
+      "start": 1453.83,
+      "duration": 1.47,
+      "text": "Unlike traditional CAD programs,",
+      "en": "Unlike traditional CAD programs,",
+      "zh": ""
+    },
+    {
+      "start": 1455.3,
+      "duration": 1.86,
+      "text": "which are installed on premises,",
+      "en": "which are installed on premises,",
+      "zh": ""
+    },
+    {
+      "start": 1457.16,
+      "duration": 2.43,
+      "text": "Onshape was built entirely in the cloud,",
+      "en": "Onshape was built entirely in the cloud,",
+      "zh": ""
+    },
+    {
+      "start": 1459.59,
+      "duration": 1.74,
+      "text": "which allows engineering and design teams",
+      "en": "which allows engineering and design teams",
+      "zh": ""
+    },
+    {
+      "start": 1461.33,
+      "duration": 2.28,
+      "text": "to collaborate like never before.",
+      "en": "to collaborate like never before.",
+      "zh": ""
+    },
+    {
+      "start": 1463.61,
+      "duration": 2.58,
+      "text": "Onshape allows you to work together in real time",
+      "en": "Onshape allows you to work together in real time",
+      "zh": ""
+    },
+    {
+      "start": 1466.19,
+      "duration": 2.19,
+      "text": "on the same design with multiple users,",
+      "en": "on the same design with multiple users,",
+      "zh": ""
+    },
+    {
+      "start": 1468.38,
+      "duration": 1.47,
+      "text": "just like Google Docs.",
+      "en": "just like Google Docs.",
+      "zh": ""
+    },
+    {
+      "start": 1469.85,
+      "duration": 1.68,
+      "text": "This completely eliminates the need",
+      "en": "This completely eliminates the need",
+      "zh": ""
+    },
+    {
+      "start": 1471.53,
+      "duration": 2.01,
+      "text": "for emailing large files back and forth",
+      "en": "for emailing large files back and forth",
+      "zh": ""
+    },
+    {
+      "start": 1473.54,
+      "duration": 2.58,
+      "text": "and trying to keep track of who has the most recent version,",
+      "en": "and trying to keep track of who has the most recent version,",
+      "zh": ""
+    },
+    {
+      "start": 1476.12,
+      "duration": 3.06,
+      "text": "whether it's V2 or V22.",
+      "en": "whether it's V2 or V22.",
+      "zh": ""
+    },
+    {
+      "start": 1479.18,
+      "duration": 1.95,
+      "text": "With Onshape, Agile methodologies",
+      "en": "With Onshape, Agile methodologies",
+      "zh": ""
+    },
+    {
+      "start": 1481.13,
+      "duration": 1.65,
+      "text": "that are common in software development",
+      "en": "that are common in software development",
+      "zh": ""
+    },
+    {
+      "start": 1482.78,
+      "duration": 2.64,
+      "text": "are now being adopted in hardware development",
+      "en": "are now being adopted in hardware development",
+      "zh": ""
+    },
+    {
+      "start": 1485.42,
+      "duration": 3.21,
+      "text": "to allow companies to build better products faster.",
+      "en": "to allow companies to build better products faster.",
+      "zh": ""
+    },
+    {
+      "start": 1488.63,
+      "duration": 1.77,
+      "text": "Onshape's not only great for businesses,",
+      "en": "Onshape's not only great for businesses,",
+      "zh": ""
+    },
+    {
+      "start": 1490.4,
+      "duration": 1.65,
+      "text": "but also for open source projects,",
+      "en": "but also for open source projects,",
+      "zh": ""
+    },
+    {
+      "start": 1492.05,
+      "duration": 2.37,
+      "text": "or just working on designs with your friends.",
+      "en": "or just working on designs with your friends.",
+      "zh": ""
+    },
+    {
+      "start": 1494.42,
+      "duration": 2.07,
+      "text": "Again, it's totally free for hobbyists,",
+      "en": "Again, it's totally free for hobbyists,",
+      "zh": ""
+    },
+    {
+      "start": 1496.49,
+      "duration": 2.58,
+      "text": "so you can try it out for yourself as much as you like",
+      "en": "so you can try it out for yourself as much as you like",
+      "zh": ""
+    },
+    {
+      "start": 1499.07,
+      "duration": 2.94,
+      "text": "at onshape.pro/veritasium.",
+      "en": "at onshape.pro/veritasium.",
+      "zh": ""
+    },
+    {
+      "start": 1502.01,
+      "duration": 2.52,
+      "text": "You can take Onshape with you wherever you go.",
+      "en": "You can take Onshape with you wherever you go.",
+      "zh": ""
+    },
+    {
+      "start": 1504.53,
+      "duration": 1.74,
+      "text": "You don't need a powerful desktop",
+      "en": "You don't need a powerful desktop",
+      "zh": ""
+    },
+    {
+      "start": 1506.27,
+      "duration": 2.16,
+      "text": "or a specific operating system to run it.",
+      "en": "or a specific operating system to run it.",
+      "zh": ""
+    },
+    {
+      "start": 1508.43,
+      "duration": 1.83,
+      "text": "Whether you're on a Mac or PC,",
+      "en": "Whether you're on a Mac or PC,",
+      "zh": ""
+    },
+    {
+      "start": 1510.26,
+      "duration": 3.39,
+      "text": "or even just on your phone, you can easily use Onshape.",
+      "en": "or even just on your phone, you can easily use Onshape.",
+      "zh": ""
+    },
+    {
+      "start": 1513.65,
+      "duration": 1.62,
+      "text": "So to get started, sign up for free",
+      "en": "So to get started, sign up for free",
+      "zh": ""
+    },
+    {
+      "start": 1515.27,
+      "duration": 2.55,
+      "text": "at onshape.pro/veritasium.",
+      "en": "at onshape.pro/veritasium.",
+      "zh": ""
+    },
+    {
+      "start": 1517.82,
+      "duration": 2.1,
+      "text": "I wanna thank Onshape for sponsoring this video,",
+      "en": "I wanna thank Onshape for sponsoring this video,",
+      "zh": ""
+    },
+    {
+      "start": 1519.92,
+      "duration": 1.89,
+      "text": "and I wanna thank you for watching.",
+      "en": "and I wanna thank you for watching.",
+      "zh": ""
+    }
+  ],
+  "words": []
+}
