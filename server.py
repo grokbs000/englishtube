@@ -15,8 +15,10 @@ def clean_sub_text(text):
         s = html.unescape(s)
     # Strip YouTube speaker transitions (>> or >)
     s = re.sub(r'(?:^|\s)(?:>>|>)(?:\s|$)', ' ', s)
-    # Strip non-speech annotations like [Music], [Applause]
-    s = re.sub(r'\[(?:music|applause|laughter|cheering|chuckles|groans)\]', '', s, flags=re.I)
+    # Strip non-speech annotations like [Music], (Applause), [Bell tolling], etc.
+    s = re.sub(r'\[[^\]]*\]', '', s)
+    s = re.sub(r'\([^\)]*\)', '', s)
+    s = re.sub(r'^[-\s]+', '', s)
     return re.sub(r'\s+', ' ', s).strip()
 
 def video_id(url):
@@ -744,7 +746,7 @@ class Handler(SimpleHTTPRequestHandler):
         try:
             oembed_url = f'https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v={vid}&format=json'
             oembed_req = urllib.request.Request(oembed_url, headers={'User-Agent': 'Mozilla/5.0 (compatible; Googlebot/2.1)'})
-            with urllib.request.urlopen(oembed_req, timeout=3) as oembed_resp:
+            with urllib.request.urlopen(oembed_req, timeout=4) as oembed_resp:
                 oembed_data = json.loads(oembed_resp.read().decode('utf-8'))
                 title = oembed_data.get('title', '').strip()
         except Exception:
@@ -780,21 +782,54 @@ class Handler(SimpleHTTPRequestHandler):
 
         cues = []
 
-        # Priority 1: 記憶體內 yt_dlp 抽取（android 單一客戶端 + socket_timeout 3s）
-        def _fetch_ytdlp():
+        # Priority 1: 首選 youtube_transcript_api（最輕量、秒級回應，支援 manual 與 auto 字幕）
+        try:
+            from youtube_transcript_api import YouTubeTranscriptApi
+            api = YouTubeTranscriptApi()
+            transcript_list = api.list(vid)
+            en_t = None
+            try:
+                en_t = transcript_list.find_transcript(['en', 'en-US', 'en-GB', 'en-CA', 'en-AU', 'en-orig'])
+            except Exception:
+                for t in transcript_list:
+                    if t.language_code.startswith('en'):
+                        en_t = t
+                        break
+                if not en_t:
+                    for t in transcript_list:
+                        if t.is_translatable:
+                            en_t = t.translate('en')
+                            break
+            if en_t:
+                snippets = en_t.fetch()
+                for snip in snippets:
+                    txt = clean_sub_text(snip.text if hasattr(snip, 'text') else snip.get('text', ''))
+                    if txt and len(txt) > 1:
+                        s_time = float(snip.start if hasattr(snip, 'start') else snip.get('start', 0.0))
+                        d_time = float(snip.duration if hasattr(snip, 'duration') else snip.get('duration', 2.0))
+                        cues.append({'start': round(s_time, 2), 'duration': max(0.5, round(d_time, 2)), 'text': txt})
+                if cues:
+                    print(f"[transcript] youtube_transcript_api successfully extracted {len(cues)} cues for {vid}!")
+        except Exception as yte:
+            print(f"[transcript] youtube_transcript_api notice for {vid}: {yte}")
+
+        # Priority 2: 若 Priority 1 未取得，使用 yt_dlp Android Client 抽取官方簽章 JSON3
+        if not cues:
             try:
                 import yt_dlp
                 ydl_opts = {
                     'skip_download': True,
                     'quiet': True,
                     'no_warnings': True,
-                    'socket_timeout': 3,
-                    'retries': 0,
-                    'extractor_retries': 0,
+                    'socket_timeout': 6,
+                    'retries': 1,
+                    'extractor_retries': 1,
                     'extractor_args': {'youtube': {'player_client': ['android']}}
                 }
                 with yt_dlp.YoutubeDL(ydl_opts) as ydl:
                     info = ydl.extract_info(url, download=False)
+                    if not title:
+                        title = info.get('title', '').strip()
                     subs = info.get('subtitles', {}) or {}
                     auto_subs = info.get('automatic_captions', {}) or {}
                     target_url = None
@@ -807,77 +842,27 @@ class Handler(SimpleHTTPRequestHandler):
                                         break
                             if target_url: break
                         if target_url: break
+
                     if target_url:
                         raw = ydl.urlopen(target_url).read().decode('utf-8')
                         events = json.loads(raw).get('events', [])
-                        res = []
                         for e in events:
                             txt = ''.join(s.get('utf8', '') for s in e.get('segs', [])).strip()
                             txt = clean_sub_text(txt)
-                            if txt and not (txt.startswith('[') and txt.endswith(']')) and not (txt.startswith('(') and txt.endswith(')')):
-                                res.append({
+                            if txt and len(txt) > 1:
+                                cues.append({
                                     'start': round(float(e.get('tStartMs', 0) / 1000), 2),
                                     'duration': max(0.5, round(float(e.get('dDurationMs', 0) / 1000), 2)),
                                     'text': txt
                                 })
-                        return res
-            except Exception as e:
-                print(f"[transcript] yt_dlp fast notice: {e}")
-            return []
+                        if cues:
+                            print(f"[transcript] In-process yt_dlp successfully extracted {len(cues)} cues for {vid}!")
+            except Exception as ytdlp_err:
+                print(f"[transcript] yt_dlp notice for {vid}: {ytdlp_err}")
 
-        # Priority 2: youtube_transcript_api 備援
-        def _fetch_transcript_api():
-            try:
-                from youtube_transcript_api import YouTubeTranscriptApi
-                api = YouTubeTranscriptApi()
-                transcript_list = api.list(vid)
-                en_t = None
-                try:
-                    en_t = transcript_list.find_transcript(['en', 'en-US', 'en-GB', 'en-CA', 'en-AU', 'en-orig'])
-                except Exception:
-                    for t in transcript_list:
-                        if t.language_code.startswith('en'):
-                            en_t = t
-                            break
-                    if not en_t:
-                        for t in transcript_list:
-                            if t.is_translatable:
-                                en_t = t.translate('en')
-                                break
-                if en_t:
-                    snippets = en_t.fetch()
-                    res = []
-                    for snip in snippets:
-                        txt = clean_sub_text(snip.text if hasattr(snip, 'text') else snip.get('text', ''))
-                        if txt and not (txt.startswith('[') and txt.endswith(']')) and not (txt.startswith('(') and txt.endswith(')')):
-                            s_time = float(snip.start if hasattr(snip, 'start') else snip.get('start', 0.0))
-                            d_time = float(snip.duration if hasattr(snip, 'duration') else snip.get('duration', 2.0))
-                            res.append({'start': round(s_time, 2), 'duration': max(0.5, round(d_time, 2)), 'text': txt})
-                    return res
-            except Exception as e:
-                print(f"[transcript] youtube_transcript_api notice: {e}")
-            return []
-
-        # 硬性並發時限保護（最多 3.5s），保證 API 永遠在 4 秒內迅速回應
-        import concurrent.futures
-        with concurrent.futures.ThreadPoolExecutor(max_workers=2) as executor:
-            fut = executor.submit(_fetch_ytdlp)
-            try:
-                cues = fut.result(timeout=3.0)
-            except Exception:
-                cues = []
-
-            if not cues:
-                fut2 = executor.submit(_fetch_transcript_api)
-                try:
-                    cues = fut2.result(timeout=1.8)
-                except Exception:
-                    cues = []
-
-        # Priority 3: 優雅降級（Graceful Fallback）
-        # 確保任何無英文字幕影片或機房受限影片，皆能在 3 秒內 100% 成功收錄至自訂頻道
+        # Priority 3: 容錯降級（僅在完全無任何字幕軌時作為最後保障）
         if not cues:
-            print(f"[transcript] Video {vid} fallback to Native CC prompt.")
+            print(f"[transcript] Video {vid} has no automated English track, enabling Native CC fallback.")
             cues = [{
                 'start': 0.0,
                 'duration': 3600.0,
