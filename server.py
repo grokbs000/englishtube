@@ -785,6 +785,8 @@ class Handler(SimpleHTTPRequestHandler):
                 pass
 
         cues = []
+        yte_err = ''
+        ytdlp_err_msg = ''
 
         # Priority 1: 高速、無封鎖純 Python 官方字幕提取 (youtube_transcript_api)
         # 完全免疫 Render / AWS 雲端機房 IP 封鎖與 Web PO Token 驗證
@@ -817,6 +819,7 @@ class Handler(SimpleHTTPRequestHandler):
                 if cues:
                     print(f"[transcript] youtube_transcript_api successfully extracted {len(cues)} cues for {vid}!")
         except Exception as yte:
+            yte_err = str(yte)
             print(f"[transcript] youtube_transcript_api notice for {vid}: {yte}")
 
         # Priority 2: yt-dlp 多客戶端降級抽取 (Android/iOS/Web 輪詢，timeout 寬限 25s 且捕獲 TimeoutExpired)
@@ -836,6 +839,8 @@ class Handler(SimpleHTTPRequestHandler):
                         url
                     ]
                     p = subprocess.run(cmd, capture_output=True, text=True, timeout=25)
+                    if not cues:
+                        ytdlp_err_msg = (p.stderr or p.stdout or '')[-180:].strip()
                     files = list(Path(td).glob('*.vtt')) + list(Path(td).glob('*.json3'))
                     if files:
                         f = files[0]
@@ -851,6 +856,7 @@ class Handler(SimpleHTTPRequestHandler):
                 except subprocess.TimeoutExpired:
                     print(f"[transcript] yt-dlp timed out for {vid}")
                 except Exception as ytdlp_err:
+                    ytdlp_err_msg = str(ytdlp_err)
                     print(f"[transcript] yt-dlp error for {vid}: {ytdlp_err}")
 
         # Priority 3: 本地/專案 Faster-Whisper 音訊 AI 辨識備援
@@ -899,7 +905,7 @@ class Handler(SimpleHTTPRequestHandler):
                 print(f"[transcript] Whisper AI error for {vid}: {we}")
 
         if not cues:
-            self.send_json(422, {'error': '此 YouTube 影片目前沒有可提取的官方或自動英文字幕。請換一部影片試試！', 'title': title})
+            self.send_json(422, {'error': f'此 YouTube 影片目前沒有可提取的字幕 (API: {yte_err[:120]}; YTDLP: {ytdlp_err_msg[:120]})', 'title': title})
             return
 
         cues = normalize_cues(cues)
