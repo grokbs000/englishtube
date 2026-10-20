@@ -2973,9 +2973,13 @@ html[data-theme='dark'] .yt-card-author,
         </div>
       </div>
 
-      <details style="margin-bottom:16px;background:rgba(109,93,252,0.06);border:1px solid rgba(109,93,252,0.2);border-radius:10px;padding:10px 14px">
-        <summary style="font-size:12px;color:var(--purple,#6d5dfc);cursor:pointer;font-weight:700">＋ 自備逐字稿（選填，若影片無字幕可貼在此處）</summary>
-        <textarea id="makerTranscriptInput" rows="4" placeholder="貼上 YouTube「顯示文字稿」逐字稿或帶時間軸的文字..." style="width:100%;box-sizing:border-box;margin-top:8px;padding:8px 10px;background:#e5e7eb;border:1.5px solid #cbd5e1;border-radius:8px;color:#0f172a;font-size:12px;resize:vertical"></textarea>
+      <details id="customMakerDetails" style="margin-bottom:16px;background:rgba(109,93,252,0.06);border:1px solid rgba(109,93,252,0.2);border-radius:10px;padding:10px 14px">
+        <summary style="font-size:12px;color:var(--purple,#6d5dfc);cursor:pointer;font-weight:700">＋ 自備逐字稿（選填，支援 YouTube「顯示文字稿」複製貼上）</summary>
+        <div style="display:flex;justify-content:space-between;align-items:center;margin-top:8px">
+          <small style="color:var(--muted,#64748b);font-size:11px">支援雙行/單行時間戳逐字稿，自動提取時間軸</small>
+          <button class="pill" type="button" onclick="pasteTranscriptFromClipboard()" style="padding:3px 10px;font-size:11px">📋 貼上剪貼簿</button>
+        </div>
+        <textarea id="makerTranscriptInput" rows="4" placeholder="貼上 YouTube「顯示文字稿」逐字稿或帶時間軸的文字..." style="width:100%;box-sizing:border-box;margin-top:6px;padding:8px 10px;background:#e5e7eb;border:1.5px solid #cbd5e1;border-radius:8px;color:#0f172a;font-size:12px;resize:vertical"></textarea>
       </details>
 
       <div id="makerStatus" style="display:none;padding:10px 14px;border-radius:8px;margin-bottom:14px;font-size:13px"></div>
@@ -54813,17 +54817,138 @@ function parseCustomTranscript(raw) {
   if (!raw || !raw.trim()) return [];
   const lines = raw.replace(/\r/g, '').split(/\n+/).map(x => x.trim()).filter(Boolean);
   const cues = [];
-  for (const line of lines) {
-    const m = line.match(/^(?:(\d{1,2}:)?(\d{1,2}):(\d{2})(?:[.,](\d{1,3}))?)\s+(.+)$/);
-    if (m) {
-      const start = (Number(m[1] ? m[1].slice(0, -1) : 0) * 3600) + (Number(m[2]) * 60) + Number(m[3]) + (Number('0.' + (m[4] || '0')));
-      cues.push({ start, duration: 2.5, text: m[5].trim() });
+  let pendingStart = null;
+
+  const timeRegex = /^(?:(\d{1,2}:)?(\d{1,2}):(\d{2})(?:[.,](\d{1,3}))?)$/;
+  const lineWithTimeRegex = /^(?:(\d{1,2}:)?(\d{1,2}):(\d{2})(?:[.,](\d{1,3}))?)\s+(.+)$/;
+
+  for (let i = 0; i < lines.length; i++) {
+    const line = lines[i];
+
+    // Case 1: Line has both timestamp and text: "0:10 It's December 6, 2014."
+    const mCombined = line.match(lineWithTimeRegex);
+    if (mCombined) {
+      const start = (Number(mCombined[1] ? mCombined[1].slice(0, -1) : 0) * 3600) + (Number(mCombined[2]) * 60) + Number(mCombined[3]) + (Number('0.' + (mCombined[4] || '0')));
+      cues.push({ start, duration: 2.5, text: mCombined[5].trim() });
+      pendingStart = null;
+      continue;
+    }
+
+    // Case 2: Line is standalone timestamp from YouTube copy: "0:10"
+    const mTime = line.match(timeRegex);
+    if (mTime) {
+      pendingStart = (Number(mTime[1] ? mTime[1].slice(0, -1) : 0) * 3600) + (Number(mTime[2]) * 60) + Number(mTime[3]) + (Number('0.' + (mTime[4] || '0')));
+      continue;
+    }
+
+    // Case 3: Line is text
+    let text = line.replace(/^\s*\d+\s*$/, '').trim();
+    if (!text || /^\[[^\]]*\]$/.test(text) || /^\([^\)]*\)$/.test(text)) {
+      continue; // Skip music/noise annotations
+    }
+
+    if (pendingStart !== null) {
+      cues.push({ start: pendingStart, duration: 2.5, text });
+      pendingStart = null;
     } else {
-      const text = line.replace(/^\s*\d+\s*$/, '').trim();
-      if (text) cues.push({ start: cues.length * 3.5, duration: 3.5, text });
+      cues.push({ start: cues.length * 3.5, duration: 3.5, text });
     }
   }
+
+  // Adjust durations dynamically based on next start timestamp
+  for (let i = 0; i < cues.length; i++) {
+    if (i < cues.length - 1 && cues[i+1].start > cues[i].start) {
+      cues[i].duration = Math.min(8.0, Math.max(0.8, Number((cues[i+1].start - cues[i].start).toFixed(2))));
+    }
+  }
+
   return cues;
+}
+
+async function pasteTranscriptFromClipboard() {
+  try {
+    const text = await navigator.clipboard.readText();
+    const input = document.getElementById('makerTranscriptInput');
+    if (input) {
+      input.value = text;
+      toast('✓ 已成功貼上逐字稿');
+    }
+  } catch(e) {
+    toast('請在逐字稿框中直接按 Ctrl+V 或 Cmd+V 貼上');
+  }
+}
+
+async function pasteTranscriptFromClipboardAndBuild() {
+  await pasteTranscriptFromClipboard();
+  startGenerateCustomLesson();
+}
+
+function proceedWithNativeCC(vid, videoTitle) {
+  const chosenChannelId = document.getElementById('makerCustomChannelSelect')?.value || 'custom_default';
+  const makerType = document.getElementById('makerMediaTypeSelect')?.value || 'auto';
+  const isSong = makerType === 'song' || (makerType === 'auto' && isSongMedia({ title: videoTitle, customChannelId: chosenChannelId }, { mediaMode: typeof mediaMode !== 'undefined' ? mediaMode : 'video' }));
+
+  const cues = [{
+    start: 0.0,
+    duration: 3600.0,
+    text: '📺 支援 YouTube 原生 CC 字幕（請點擊播放器右下角 [CC] 按鈕開啟觀看）'
+  }];
+
+  finishSavingCustomLesson(vid, videoTitle, cues, chosenChannelId, isSong);
+}
+
+function finishSavingCustomLesson(vid, videoTitle, cues, chosenChannelId, isSong) {
+  const customItem = {
+    id: vid,
+    title: videoTitle,
+    speaker: isSong ? 'YouTube Music' : 'YouTube',
+    channel: '自選加入',
+    cat: isSong ? '自選歌曲' : '自選',
+    type: isSong ? 'song' : 'video',
+    customChannelId: chosenChannelId,
+    isCustom: true,
+    level: 'B1',
+    duration: formatDuration(cues[cues.length - 1]?.start || 180),
+    views: 'Custom',
+    emoji: isSong ? '🎵' : '✨',
+    color: isSong ? 'linear-gradient(135deg, #ec4899, #8b5cf6)' : 'linear-gradient(135deg, #667eea, #764ba2)',
+    zh: isSong ? '使用者自選歌曲' : '使用者自選教材',
+    cues: cues,
+    en: cues.map(c => c.text),
+    cn: cues.map(c => '點擊單字可查詢字典或使用 TTS 聆聽'),
+    words: extractKeywordsFromCues(cues)
+  };
+
+  const existingIdx = videos.findIndex(v => v.id === vid);
+  if (existingIdx >= 0) {
+    videos[existingIdx] = customItem;
+  } else {
+    videos.unshift(customItem);
+  }
+
+  if (isSong && typeof songs !== 'undefined') {
+    const existingSongIdx = songs.findIndex(s => s.id === vid);
+    if (existingSongIdx >= 0) {
+      songs[existingSongIdx] = customItem;
+    } else {
+      songs.unshift(customItem);
+    }
+  }
+
+  try {
+    const savedCustoms = JSON.parse(localStorage.getItem('et_custom_lessons') || '[]');
+    const filtered = savedCustoms.filter(c => c.id !== vid);
+    filtered.unshift(customItem);
+    localStorage.setItem('et_custom_lessons', JSON.stringify(filtered.slice(0, 30)));
+  } catch (e) {}
+
+  render();
+  closeCustomMakerModal();
+  toast(`🎉 自訂教材建立成功！共 ${cues.length} 句字幕`);
+
+  setTimeout(() => {
+    openVideo(vid);
+  }, 200);
 }
 
 function cleanSubtitleText(text) {
@@ -54906,68 +55031,44 @@ async function startGenerateCustomLesson() {
       }
     }
 
+    const isFallbackOnly = (cues.length === 1 && (cues[0].text || '').includes('原生 CC'));
+    if (isFallbackOnly && !userTranscript) {
+      if (statusEl) {
+        statusEl.style.display = 'block';
+        statusEl.style.background = 'rgba(234, 88, 12, 0.12)';
+        statusEl.style.border = '1px solid rgba(234, 88, 12, 0.3)';
+        statusEl.style.color = '#c2410c';
+        statusEl.innerHTML = `
+          <div style="font-weight:800;font-size:13.5px;margin-bottom:6px">⚠️ 雲端機房受 YouTube 存取限制，未能自動下載此影片字幕</div>
+          <div style="font-size:12px;opacity:0.95;line-height:1.6;margin-bottom:10px">
+            💡 <b>只需 3 秒即可生成完整時間軸與單字庫</b>：<br>
+            1. 在 YouTube 影片下方點擊「...」➜「顯示文字稿」<br>
+            2. 全選複製（Ctrl+A / Cmd+A）<br>
+            3. 點擊下方按鈕貼入，系統將立即自動生成卡拉OK逐句時間軸與跟讀教材！
+          </div>
+          <div style="display:flex;gap:8px;flex-wrap:wrap">
+            <button class="pill" type="button" onclick="pasteTranscriptFromClipboardAndBuild()" style="padding:7px 14px;font-size:12.5px;background:#ea580c;color:#fff">📋 點我一鍵貼上逐字稿並建立</button>
+            <button class="ghost" type="button" onclick="proceedWithNativeCC('${vid}', '${escapeHTML(videoTitle).replace(/'/g, "\\'")}')" style="padding:7px 12px;font-size:12px">📺 依然以 YouTube 原生 CC 模式收錄</button>
+          </div>
+        `;
+      }
+      const detailsEl = document.getElementById('customMakerDetails');
+      if (detailsEl) detailsEl.open = true;
+      if (btn) btn.disabled = false;
+      if (btnText) btnText.textContent = '重新建立教材';
+      return;
+    }
+
     if (!cues.length) {
       throw new Error('未取得有效句子');
     }
 
-    // 3. Assemble complete lesson object
+    // 3. Assemble and save complete lesson object
     const chosenChannelId = document.getElementById('makerCustomChannelSelect')?.value || 'custom_default';
     const makerType = document.getElementById('makerMediaTypeSelect')?.value || 'auto';
     const isSong = makerType === 'song' || (makerType === 'auto' && isSongMedia({ title: videoTitle, customChannelId: chosenChannelId }, { mediaMode: typeof mediaMode !== 'undefined' ? mediaMode : 'video' }));
 
-    const customItem = {
-      id: vid,
-      title: videoTitle,
-      speaker: isSong ? 'YouTube Music' : 'YouTube',
-      channel: '自選加入',
-      cat: isSong ? '自選歌曲' : '自選',
-      type: isSong ? 'song' : 'video',
-      customChannelId: chosenChannelId,
-      isCustom: true,
-      level: 'B1',
-      duration: formatDuration(cues[cues.length - 1]?.start || 180),
-      views: 'Custom',
-      emoji: isSong ? '🎵' : '✨',
-      color: isSong ? 'linear-gradient(135deg, #ec4899, #8b5cf6)' : 'linear-gradient(135deg, #667eea, #764ba2)',
-      zh: isSong ? '使用者自選歌曲' : '使用者自選教材',
-      cues: cues,
-      en: cues.map(c => c.text),
-      cn: cues.map(c => '點擊單字可查詢字典或使用 TTS 聆聽'),
-      words: extractKeywordsFromCues(cues)
-    };
-
-    // Save to window.videos, window.songs and localStorage custom lessons
-    const existingIdx = videos.findIndex(v => v.id === vid);
-    if (existingIdx >= 0) {
-      videos[existingIdx] = customItem;
-    } else {
-      videos.unshift(customItem);
-    }
-
-    if (isSong && typeof songs !== 'undefined') {
-      const existingSongIdx = songs.findIndex(s => s.id === vid);
-      if (existingSongIdx >= 0) {
-        songs[existingSongIdx] = customItem;
-      } else {
-        songs.unshift(customItem);
-      }
-    }
-    
-    try {
-      const savedCustoms = JSON.parse(localStorage.getItem('et_custom_lessons') || '[]');
-      const filtered = savedCustoms.filter(c => c.id !== vid);
-      filtered.unshift(customItem);
-      localStorage.setItem('et_custom_lessons', JSON.stringify(filtered.slice(0, 30)));
-    } catch (e) {}
-
-    render();
-    closeCustomMakerModal();
-    toast(`🎉 自訂教材建立成功！共 ${cues.length} 句字幕`);
-
-    // Launch modern VoiceTube Studio
-    setTimeout(() => {
-      openVideo(vid);
-    }, 200);
+    finishSavingCustomLesson(vid, videoTitle, cues, chosenChannelId, isSong);
 
   } catch (err) {
     console.error('Custom lesson error:', err);

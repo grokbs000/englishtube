@@ -788,10 +788,12 @@ class Handler(SimpleHTTPRequestHandler):
 
         cues = []
 
-        # Priority 1: 首選 youtube_transcript_api（最輕量、秒級回應，支援 manual 與 auto 字幕）
+        # Priority 1: 首選 youtube_transcript_api（支援 HTTP/HTTPS/YOUTUBE 代理，秒級回應）
         try:
             from youtube_transcript_api import YouTubeTranscriptApi
-            api = YouTubeTranscriptApi()
+            yt_proxy = os.getenv('YOUTUBE_PROXY') or os.getenv('HTTPS_PROXY') or os.getenv('HTTP_PROXY')
+            proxies = {'http': yt_proxy, 'https': yt_proxy} if yt_proxy else None
+            api = YouTubeTranscriptApi(proxies=proxies) if proxies else YouTubeTranscriptApi()
             transcript_list = api.list(vid)
             en_t = None
             try:
@@ -833,6 +835,8 @@ class Handler(SimpleHTTPRequestHandler):
                     'extractor_retries': 1,
                     'extractor_args': {'youtube': {'player_client': ['android']}}
                 }
+                if yt_proxy:
+                    ydl_opts['proxy'] = yt_proxy
                 with yt_dlp.YoutubeDL(ydl_opts) as ydl:
                     info = ydl.extract_info(url, download=False)
                     if not title:
