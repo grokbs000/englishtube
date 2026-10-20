@@ -73688,7 +73688,7 @@ const songs = [
   {
     "id": "j8pR1tyoRFc",
     "title": "Taylor Swift - Patient Zero (Expanded Video)",
-    "zh": "【Taylor Swift 泰勒絲金曲】 Taylor Swift - Patient Zero (Expanded Video)（雙語跟唱教材）",
+    "zh": "【真實對話・幕後花絮】 Taylor Swift - Patient Zero (Expanded Video)（雙語跟讀教材）",
     "speaker": "Taylor Swift",
     "cat": "👸 Taylor Swift",
     "level": "B2",
@@ -73696,7 +73696,7 @@ const songs = [
     "views": "4.6M",
     "emoji": "👸",
     "color": "linear-gradient(135deg, #c0392b, #e74c3c)",
-    "desc": "Taylor Swift · 純英文原聲與經典跟唱 (4.6M 觀看)",
+    "desc": "Taylor Swift · 幕後花絮與真實自然對話 (4.6M 觀看)",
     "url": "https://www.youtube.com/watch?v=j8pR1tyoRFc",
     "en": [],
     "cn": [],
@@ -83272,7 +83272,7 @@ if(window.matchMedia('(display-mode: standalone)').matches||navigator.standalone
 document.querySelector('#installBtn').addEventListener('click',async()=>{if(deferredPrompt){deferredPrompt.prompt();const{outcome}=await deferredPrompt.userChoice;deferredPrompt=null;if(outcome==='accepted')toast('✓ 安裝中...')}else if(/iphone|ipad|ipod/i.test(navigator.userAgent)){toast('Safari：分享 → 加入主畫面')}else{toast('請從瀏覽器選單選擇「安裝應用程式」')}});
 // Register Service Worker + auto-reload on new SW version
 if('serviceWorker'in navigator&&location.protocol.startsWith('http')){
-  window.addEventListener('load',()=>navigator.serviceWorker.register('./sw.js?v=167').then(reg=>{
+  window.addEventListener('load',()=>navigator.serviceWorker.register('./sw.js?v=169').then(reg=>{
     try{reg.update()}catch(e){}
     reg.addEventListener('updatefound',()=>{
       const nw=reg.installing;
