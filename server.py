@@ -5,6 +5,8 @@ from pathlib import Path
 from http.server import ThreadingHTTPServer, SimpleHTTPRequestHandler
 from urllib.parse import urlparse
 ROOT=Path(__file__).resolve().parent
+recent_transcript_logs = []
+recent_transcript_lock = threading.Lock()
 YOUTUBE_ID=re.compile(r'^[A-Za-z0-9_-]{11}$')
 
 def clean_sub_text(text):
@@ -316,6 +318,10 @@ class Handler(SimpleHTTPRequestHandler):
         super().do_HEAD()
     def do_GET(self):
         parsed = urllib.parse.urlparse(self.path)
+        if parsed.path == '/api/transcript-recent':
+            with recent_transcript_lock:
+                self.send_json(200, recent_transcript_logs[-10:])
+            return
         if parsed.path == '/api/dict':
             qs = urllib.parse.parse_qs(parsed.query)
             word = (qs.get('word', [''])[0]).strip().lower()
@@ -870,11 +876,24 @@ class Handler(SimpleHTTPRequestHandler):
             }]
 
         cues = normalize_cues(cues)
+        with recent_transcript_lock:
+            recent_transcript_logs.append({
+                'vid': vid,
+                'title': title,
+                'cues_count': len(cues),
+                'yte_err': str(yte) if 'yte' in locals() else '',
+                'ytdlp_err': str(ytdlp_err) if 'ytdlp_err' in locals() else '',
+                'time': time.strftime('%H:%M:%S')
+            })
         self.send_json(200, {
             'videoId': vid,
             'title': title or 'YouTube 英語教材',
             'language': 'en',
-            'cues': cues[:3000]
+            'cues': cues[:3000],
+            'debug': {
+                'yte_err': str(yte) if 'yte' in locals() else '',
+                'ytdlp_err': str(ytdlp_err) if 'ytdlp_err' in locals() else ''
+            }
         })
 
     def translate(self,data):
