@@ -817,6 +817,7 @@ class Handler(SimpleHTTPRequestHandler):
                 if cues:
                     print(f"[transcript] youtube_transcript_api successfully extracted {len(cues)} cues for {vid}!")
         except Exception as yte:
+            yte_msg = str(yte)
             print(f"[transcript] youtube_transcript_api notice for {vid}: {yte}")
 
         # Priority 2: 若 Priority 1 未取得，使用 yt_dlp Android Client 抽取官方簽章 JSON3
@@ -864,6 +865,7 @@ class Handler(SimpleHTTPRequestHandler):
                         if cues:
                             print(f"[transcript] In-process yt_dlp successfully extracted {len(cues)} cues for {vid}!")
             except Exception as ytdlp_err:
+                ytdlp_msg = str(ytdlp_err)
                 print(f"[transcript] yt_dlp notice for {vid}: {ytdlp_err}")
 
         # Priority 3: 容錯降級（僅在完全無任何字幕軌時作為最後保障）
@@ -876,13 +878,15 @@ class Handler(SimpleHTTPRequestHandler):
             }]
 
         cues = normalize_cues(cues)
+        yte_err_str = yte_msg if 'yte_msg' in locals() else ''
+        ytdlp_err_str = ytdlp_msg if 'ytdlp_msg' in locals() else ''
         with recent_transcript_lock:
             recent_transcript_logs.append({
                 'vid': vid,
                 'title': title,
                 'cues_count': len(cues),
-                'yte_err': str(yte) if 'yte' in locals() else '',
-                'ytdlp_err': str(ytdlp_err) if 'ytdlp_err' in locals() else '',
+                'yte_err': yte_err_str,
+                'ytdlp_err': ytdlp_err_str,
                 'time': time.strftime('%H:%M:%S')
             })
         self.send_json(200, {
@@ -891,8 +895,8 @@ class Handler(SimpleHTTPRequestHandler):
             'language': 'en',
             'cues': cues[:3000],
             'debug': {
-                'yte_err': str(yte) if 'yte' in locals() else '',
-                'ytdlp_err': str(ytdlp_err) if 'ytdlp_err' in locals() else ''
+                'yte_err': yte_err_str,
+                'ytdlp_err': ytdlp_err_str
             }
         })
 
