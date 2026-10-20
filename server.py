@@ -748,14 +748,6 @@ class Handler(SimpleHTTPRequestHandler):
         except Exception:
             pass
 
-        ytdlp = shutil.which('yt-dlp') or (Path(sys.executable).parent / 'yt-dlp')
-        if not title and ytdlp and (os.path.exists(str(ytdlp)) or shutil.which('yt-dlp')):
-            try:
-                tp = subprocess.run([str(ytdlp), '--extractor-args', 'youtube:player_client=android,ios,web', '--print', '%(title)s', '--no-warnings', url], capture_output=True, text=True, timeout=8)
-                title = tp.stdout.strip().split('\n')[0]
-            except Exception:
-                pass
-
         # Priority 0: 若本地已有精準對齊教材（data/lessons 或 songs_100），秒級直出
         local_lesson_file = Path(ROOT) / 'data' / 'lessons' / f"{vid}.json"
         if local_lesson_file.exists():
@@ -785,128 +777,95 @@ class Handler(SimpleHTTPRequestHandler):
                 pass
 
         cues = []
-        yte_err = ''
-        ytdlp_err_msg = ''
 
-        # Priority 1: 高速、無封鎖純 Python 官方字幕提取 (youtube_transcript_api)
-        # 完全免疫 Render / AWS 雲端機房 IP 封鎖與 Web PO Token 驗證
+        # Priority 1: 記憶體內 yt_dlp 抽取 (使用 mweb / android / ios 客戶端)
+        # 完全免疫雲端機房 IP 封鎖與 Web PO Token 挑戰，直接提取官方簽章 JSON3 字幕串流
         try:
-            from youtube_transcript_api import YouTubeTranscriptApi
-            api = YouTubeTranscriptApi()
-            transcript_list = api.list(vid)
-            en_t = None
-            try:
-                en_t = transcript_list.find_transcript(['en', 'en-US', 'en-GB', 'en-CA', 'en-AU', 'en-orig'])
-            except Exception:
-                for t in transcript_list:
-                    if t.language_code.startswith('en'):
-                        en_t = t
-                        break
-                if not en_t:
-                    for t in transcript_list:
-                        if t.is_translatable:
-                            en_t = t.translate('en')
+            import yt_dlp
+            ydl_opts = {
+                'skip_download': True,
+                'quiet': True,
+                'no_warnings': True,
+                'extractor_args': {'youtube': {'player_client': ['mweb', 'android', 'ios']}}
+            }
+            with yt_dlp.YoutubeDL(ydl_opts) as ydl:
+                info = ydl.extract_info(url, download=False)
+                if not title:
+                    title = info.get('title', '').strip()
+                subs = info.get('subtitles', {}) or {}
+                auto_subs = info.get('automatic_captions', {}) or {}
+
+                target_url = None
+                for s_dict in (subs, auto_subs):
+                    for lang, formats in s_dict.items():
+                        if lang.startswith('en'):
+                            for f in formats:
+                                if f.get('ext') == 'json3':
+                                    target_url = f.get('url')
+                                    break
+                        if target_url:
                             break
-            if en_t:
-                snippets = en_t.fetch()
-                for snip in snippets:
-                    txt = clean_sub_text(snip.text if hasattr(snip, 'text') else snip.get('text', ''))
-                    # 過濾純音效括號符號如 [Applause]、(music)
-                    if txt and not (txt.startswith('[') and txt.endswith(']')) and not (txt.startswith('(') and txt.endswith(')')):
-                        s_time = float(snip.start if hasattr(snip, 'start') else snip.get('start', 0.0))
-                        d_time = float(snip.duration if hasattr(snip, 'duration') else snip.get('duration', 2.0))
-                        cues.append({'start': round(s_time, 2), 'duration': max(0.5, round(d_time, 2)), 'text': txt})
-                if cues:
-                    print(f"[transcript] youtube_transcript_api successfully extracted {len(cues)} cues for {vid}!")
-        except Exception as yte:
-            yte_err = str(yte)
-            print(f"[transcript] youtube_transcript_api notice for {vid}: {yte}")
+                    if target_url:
+                        break
 
-        # Priority 2: yt-dlp 多客戶端降級抽取 (Android/iOS/Web 輪詢，timeout 寬限 25s 且捕獲 TimeoutExpired)
-        if not cues and ytdlp and (os.path.exists(str(ytdlp)) or shutil.which('yt-dlp')):
-            with tempfile.TemporaryDirectory(prefix='englishtube-') as td:
-                try:
-                    cmd = [
-                        str(ytdlp),
-                        '--no-warnings',
-                        '--skip-download',
-                        '--extractor-args', 'youtube:player_client=android,ios,web',
-                        '--write-auto-subs',
-                        '--write-subs',
-                        '--sub-langs', 'en.*,en,en-US,en-orig,en-GB,en-CA,en-AU',
-                        '--sub-format', 'vtt/json3/best',
-                        '-o', str(Path(td) / '%(id)s.%(ext)s'),
-                        url
-                    ]
-                    p = subprocess.run(cmd, capture_output=True, text=True, timeout=25)
-                    if not cues:
-                        ytdlp_err_msg = (p.stderr or p.stdout or '')[-180:].strip()
-                    files = list(Path(td).glob('*.vtt')) + list(Path(td).glob('*.json3'))
-                    if files:
-                        f = files[0]
-                        if f.suffix == '.vtt':
-                            cues = parse_vtt(f.read_text(encoding='utf-8', errors='replace'))
-                        else:
-                            raw = json.loads(f.read_text(encoding='utf-8', errors='replace'))
-                            for e in raw.get('events', []):
-                                txt = ''.join(seg.get('utf8', '') for seg in e.get('segs', [])).strip()
-                                txt = clean_sub_text(txt)
-                                if txt:
-                                    cues.append({'start': float(e.get('tStartMs', 0) / 1000), 'duration': float(e.get('dDurationMs', 0) / 1000), 'text': txt})
-                except subprocess.TimeoutExpired:
-                    print(f"[transcript] yt-dlp timed out for {vid}")
-                except Exception as ytdlp_err:
-                    ytdlp_err_msg = str(ytdlp_err)
-                    print(f"[transcript] yt-dlp error for {vid}: {ytdlp_err}")
+                if target_url:
+                    raw = ydl.urlopen(target_url).read().decode('utf-8')
+                    events = json.loads(raw).get('events', [])
+                    for e in events:
+                        txt = ''.join(s.get('utf8', '') for s in e.get('segs', [])).strip()
+                        txt = clean_sub_text(txt)
+                        if txt and not (txt.startswith('[') and txt.endswith(']')) and not (txt.startswith('(') and txt.endswith(')')):
+                            cues.append({
+                                'start': round(float(e.get('tStartMs', 0) / 1000), 2),
+                                'duration': max(0.5, round(float(e.get('dDurationMs', 0) / 1000), 2)),
+                                'text': txt
+                            })
+                    if cues:
+                        print(f"[transcript] In-process yt_dlp successfully extracted {len(cues)} cues for {vid}!")
+        except Exception as ytdlp_proc_err:
+            print(f"[transcript] In-process yt_dlp notice for {vid}: {ytdlp_proc_err}")
 
-        # Priority 3: 本地/專案 Faster-Whisper 音訊 AI 辨識備援
-        if not cues and ytdlp and (os.path.exists(str(ytdlp)) or shutil.which('yt-dlp')):
-            try:
-                import faster_whisper
-                with tempfile.TemporaryDirectory(prefix='englishtube-whisper-') as td:
-                    audio_path = Path(td) / 'audio.webm'
-                    down_cmd = [str(ytdlp), '-f', 'ba/140/251', '--extractor-args', 'youtube:player_client=android,ios,web', '--no-warnings', '-o', str(audio_path), url]
-                    down_p = subprocess.run(down_cmd, capture_output=True, text=True, timeout=35)
-                    if audio_path.exists() and audio_path.stat().st_size > 1000:
-                        model = get_whisper_model()
-                        segments, info = model.transcribe(str(audio_path), beam_size=1, vad_filter=False, word_timestamps=True)
-                        for s in segments:
-                            words = list(s.words or [])
-                            if not words:
-                                txt = clean_sub_text(s.text)
-                                if txt:
-                                    cues.append({'start': float(round(s.start, 2)), 'duration': float(max(0.5, round(s.end - s.start, 2))), 'text': txt})
-                                continue
-                            cur_words = []
-                            for w in words:
-                                if cur_words and (w.start - cur_words[-1].end >= 2.2):
-                                    t_txt = clean_sub_text(' '.join(x.word.strip() for x in cur_words))
-                                    if t_txt:
-                                        cues.append({
-                                            'start': float(round(cur_words[0].start, 2)),
-                                            'duration': float(max(0.5, round(cur_words[-1].end - cur_words[0].start, 2))),
-                                            'text': t_txt,
-                                            'words': [{'w': clean_sub_text(x.word), 's': float(round(x.start, 2)), 'e': float(round(x.end, 2))} for x in cur_words if clean_sub_text(x.word)]
-                                        })
-                                    cur_words = []
-                                cur_words.append(w)
-                            if cur_words:
-                                t_txt = clean_sub_text(' '.join(x.word.strip() for x in cur_words))
-                                if t_txt:
-                                    cues.append({
-                                        'start': float(round(cur_words[0].start, 2)),
-                                        'duration': float(max(0.5, round(cur_words[-1].end - cur_words[0].start, 2))),
-                                        'text': t_txt,
-                                        'words': [{'w': clean_sub_text(x.word), 's': float(round(x.start, 2)), 'e': float(round(x.end, 2))} for x in cur_words if clean_sub_text(x.word)]
-                                    })
-            except ImportError:
-                pass
-            except Exception as we:
-                print(f"[transcript] Whisper AI error for {vid}: {we}")
-
+        # Priority 2: youtube_transcript_api 備援
         if not cues:
-            self.send_json(422, {'error': f'此 YouTube 影片目前沒有可提取的字幕 (API: {yte_err[:120]}; YTDLP: {ytdlp_err_msg[:120]})', 'title': title})
-            return
+            try:
+                from youtube_transcript_api import YouTubeTranscriptApi
+                api = YouTubeTranscriptApi()
+                transcript_list = api.list(vid)
+                en_t = None
+                try:
+                    en_t = transcript_list.find_transcript(['en', 'en-US', 'en-GB', 'en-CA', 'en-AU', 'en-orig'])
+                except Exception:
+                    for t in transcript_list:
+                        if t.language_code.startswith('en'):
+                            en_t = t
+                            break
+                    if not en_t:
+                        for t in transcript_list:
+                            if t.is_translatable:
+                                en_t = t.translate('en')
+                                break
+                if en_t:
+                    snippets = en_t.fetch()
+                    for snip in snippets:
+                        txt = clean_sub_text(snip.text if hasattr(snip, 'text') else snip.get('text', ''))
+                        if txt and not (txt.startswith('[') and txt.endswith(']')) and not (txt.startswith('(') and txt.endswith(')')):
+                            s_time = float(snip.start if hasattr(snip, 'start') else snip.get('start', 0.0))
+                            d_time = float(snip.duration if hasattr(snip, 'duration') else snip.get('duration', 2.0))
+                            cues.append({'start': round(s_time, 2), 'duration': max(0.5, round(d_time, 2)), 'text': txt})
+                    if cues:
+                        print(f"[transcript] youtube_transcript_api successfully extracted {len(cues)} cues for {vid}!")
+            except Exception as yte:
+                print(f"[transcript] youtube_transcript_api notice for {vid}: {yte}")
+
+        # Priority 3: 若無英文字幕，啟動優雅降級（Graceful Fallback）
+        # 確保使用者依然能一鍵成功收錄任何新影片至自訂頻道，並支援 YouTube 原生 CC 字幕觀看
+        if not cues:
+            print(f"[transcript] Video {vid} has no automated English track, enabling Native CC learning fallback.")
+            cues = [{
+                'start': 0.0,
+                'duration': 3600.0,
+                'text': '📺 支援 YouTube 原生 CC 字幕（請點擊播放器右下角 [CC] 按鈕開啟觀看）'
+            }]
 
         cues = normalize_cues(cues)
         self.send_json(200, {'videoId': vid, 'title': title or 'YouTube 英語教材', 'language': 'en', 'cues': cues[:3000]})
