@@ -1,0 +1,1524 @@
+{
+  "cues": [
+    {
+      "start": 0.0,
+      "duration": 2.28,
+      "text": "Okay, ready?",
+      "en": "Okay, ready?",
+      "zh": ""
+    },
+    {
+      "start": 2.28,
+      "duration": 3.72,
+      "text": "Today we're going to take the stuff that's in those boxes and we're going to",
+      "en": "Today we're going to take the stuff that's in those boxes and we're going to",
+      "zh": ""
+    },
+    {
+      "start": 9.66,
+      "duration": 1.29,
+      "text": "How do you introduce yourself?",
+      "en": "How do you introduce yourself?",
+      "zh": ""
+    },
+    {
+      "start": 10.95,
+      "duration": 3.07,
+      "text": "I don't know! \"Person who makes things and has a lot of tools",
+      "en": "I don't know! \"Person who makes things and has a lot of tools",
+      "zh": ""
+    },
+    {
+      "start": 14.02,
+      "duration": 1.7,
+      "text": "and a place we can mess up?\"",
+      "en": "and a place we can mess up?\"",
+      "zh": ""
+    },
+    {
+      "start": 15.72,
+      "duration": 2.86,
+      "text": "And this is David. Davis is the reason we can actually do this because Simone and I",
+      "en": "And this is David. Davis is the reason we can actually do this because Simone and I",
+      "zh": ""
+    },
+    {
+      "start": 18.58,
+      "duration": 2.81,
+      "text": "don't know what we're doing here...",
+      "en": "don't know what we're doing here...",
+      "zh": ""
+    },
+    {
+      "start": 21.39,
+      "duration": 2.03,
+      "text": "Talk about yourself!",
+      "en": "Talk about yourself!",
+      "zh": ""
+    },
+    {
+      "start": 23.42,
+      "duration": 2.24,
+      "text": "David runs a real kind of nuclear fusion",
+      "en": "David runs a real kind of nuclear fusion",
+      "zh": ""
+    },
+    {
+      "start": 25.66,
+      "duration": 4.65,
+      "text": "they're building massive devices that could in the future create electricity that people could actually use",
+      "en": "they're building massive devices that could in the future create electricity that people could actually use",
+      "zh": ""
+    },
+    {
+      "start": 30.31,
+      "duration": 2.55,
+      "text": "Well, today we're going to be building a fusor",
+      "en": "Well, today we're going to be building a fusor",
+      "zh": ""
+    },
+    {
+      "start": 32.86,
+      "duration": 3.9,
+      "text": "which is not commercial scale, it's much smaller, but if we're successful, we'll be",
+      "en": "which is not commercial scale, it's much smaller, but if we're successful, we'll be",
+      "zh": ""
+    },
+    {
+      "start": 36.76,
+      "duration": 2.71,
+      "text": "able to build this system today, get it running and do fusion...",
+      "en": "able to build this system today, get it running and do fusion...",
+      "zh": ""
+    },
+    {
+      "start": 39.47,
+      "duration": 2.88,
+      "text": "In my backyard!",
+      "en": "In my backyard!",
+      "zh": ""
+    },
+    {
+      "start": 49.15,
+      "duration": 4.32,
+      "text": "we're taking two particles and at a very high energies we're forcing them",
+      "en": "we're taking two particles and at a very high energies we're forcing them",
+      "zh": ""
+    },
+    {
+      "start": 53.47,
+      "duration": 3.18,
+      "text": "together where they fuse and form a heavier particle but that takes high",
+      "en": "together where they fuse and form a heavier particle but that takes high",
+      "zh": ""
+    },
+    {
+      "start": 56.65,
+      "duration": 3.78,
+      "text": "energies to do. So we'll be using high voltage today, so it's important we talk",
+      "en": "energies to do. So we'll be using high voltage today, so it's important we talk",
+      "zh": ""
+    },
+    {
+      "start": 60.43,
+      "duration": 3.77,
+      "text": "about how we safely approach high voltage to make sure that we can do this safely.",
+      "en": "about how we safely approach high voltage to make sure that we can do this safely.",
+      "zh": ""
+    },
+    {
+      "start": 64.2,
+      "duration": 2.52,
+      "text": "Is it okay that I have metal plates in my head?",
+      "en": "Is it okay that I have metal plates in my head?",
+      "zh": ""
+    },
+    {
+      "start": 66.72,
+      "duration": 4.23,
+      "text": "First rule is don't touch it with two hands, second rule is don't put your head in it.",
+      "en": "First rule is don't touch it with two hands, second rule is don't put your head in it.",
+      "zh": ""
+    },
+    {
+      "start": 70.95,
+      "duration": 2.96,
+      "text": "I just won't touch it with my head, I think I can avoid that yeah...",
+      "en": "I just won't touch it with my head, I think I can avoid that yeah...",
+      "zh": ""
+    },
+    {
+      "start": 73.91,
+      "duration": 5.3,
+      "text": "The fun thing about this, the wrinkle in all of this is David - he's not allowed to touch anything so",
+      "en": "The fun thing about this, the wrinkle in all of this is David - he's not allowed to touch anything so",
+      "zh": ""
+    },
+    {
+      "start": 79.21,
+      "duration": 4.06,
+      "text": "David No Hands is going to instruct us on how to build a fusion device.",
+      "en": "David No Hands is going to instruct us on how to build a fusion device.",
+      "zh": ""
+    },
+    {
+      "start": 83.27,
+      "duration": 3.57,
+      "text": "I feel like this mostly has to do with our ego and no practical...",
+      "en": "I feel like this mostly has to do with our ego and no practical...",
+      "zh": ""
+    },
+    {
+      "start": 86.84,
+      "duration": 4.31,
+      "text": "Yeah! We're gonna build it we just need David to tell us how...",
+      "en": "Yeah! We're gonna build it we just need David to tell us how...",
+      "zh": ""
+    },
+    {
+      "start": 91.15,
+      "duration": 1.72,
+      "text": "He's the brain, we're the hands.",
+      "en": "He's the brain, we're the hands.",
+      "zh": ""
+    },
+    {
+      "start": 92.87,
+      "duration": 1.54,
+      "text": "Yes I like that...",
+      "en": "Yes I like that...",
+      "zh": ""
+    },
+    {
+      "start": 102.87,
+      "duration": 4.06,
+      "text": "So now what is that we're gonna take that chamber and we're gonna",
+      "en": "So now what is that we're gonna take that chamber and we're gonna",
+      "zh": ""
+    },
+    {
+      "start": 106.93,
+      "duration": 1.49,
+      "text": "rotate the turbo pump...",
+      "en": "rotate the turbo pump...",
+      "zh": ""
+    },
+    {
+      "start": 109.23,
+      "duration": 1.34,
+      "text": "Okay how does that look?",
+      "en": "Okay how does that look?",
+      "zh": ""
+    },
+    {
+      "start": 110.57,
+      "duration": 3.46,
+      "text": "I think it looks great but I also don't know what I'm doing.",
+      "en": "I think it looks great but I also don't know what I'm doing.",
+      "zh": ""
+    },
+    {
+      "start": 114.03,
+      "duration": 1.65,
+      "text": "At this point we should put on gloves.",
+      "en": "At this point we should put on gloves.",
+      "zh": ""
+    },
+    {
+      "start": 118.39,
+      "duration": 1.85,
+      "text": "What is this device called?",
+      "en": "What is this device called?",
+      "zh": ""
+    },
+    {
+      "start": 121.63,
+      "duration": 1.39,
+      "text": "George.",
+      "en": "George.",
+      "zh": ""
+    },
+    {
+      "start": 123.66,
+      "duration": 2.41,
+      "text": "We're building a Farnsworth fusor, it's a",
+      "en": "We're building a Farnsworth fusor, it's a",
+      "zh": ""
+    },
+    {
+      "start": 126.07,
+      "duration": 4.02,
+      "text": "very compact small device to do some amount of fusion. You're building a",
+      "en": "very compact small device to do some amount of fusion. You're building a",
+      "zh": ""
+    },
+    {
+      "start": 130.09,
+      "duration": 4.8,
+      "text": "vacuum chamber, all fusion devices have these - a stellarator-type fusion has a",
+      "en": "vacuum chamber, all fusion devices have these - a stellarator-type fusion has a",
+      "zh": ""
+    },
+    {
+      "start": 134.89,
+      "duration": 5.04,
+      "text": "really twisty turny one. Helion's devices are cylindrical. A tokamak has a more of",
+      "en": "really twisty turny one. Helion's devices are cylindrical. A tokamak has a more of",
+      "zh": ""
+    },
+    {
+      "start": 139.93,
+      "duration": 3.1,
+      "text": "a donut, it's got a d-shaped cross section...",
+      "en": "a donut, it's got a d-shaped cross section...",
+      "zh": ""
+    },
+    {
+      "start": 143.03,
+      "duration": 4.74,
+      "text": "So I know that in order to do fusion, we're confining plasma and I know",
+      "en": "So I know that in order to do fusion, we're confining plasma and I know",
+      "zh": ""
+    },
+    {
+      "start": 147.77,
+      "duration": 1.7,
+      "text": "that the sun does this with gravity",
+      "en": "that the sun does this with gravity",
+      "zh": ""
+    },
+    {
+      "start": 149.47,
+      "duration": 4.74,
+      "text": "\"gravitational confinement\" and then two sort of broad categories of how humans do",
+      "en": "\"gravitational confinement\" and then two sort of broad categories of how humans do",
+      "zh": ""
+    },
+    {
+      "start": 154.21,
+      "duration": 5.2,
+      "text": "this are \"magnetic confinement\" and \"inertial confinement.\" Magnetic confinement uses",
+      "en": "this are \"magnetic confinement\" and \"inertial confinement.\" Magnetic confinement uses",
+      "zh": ""
+    },
+    {
+      "start": 159.41,
+      "duration": 2.66,
+      "text": "magnets to confine plasma and one kind of inertial",
+      "en": "magnets to confine plasma and one kind of inertial",
+      "zh": ""
+    },
+    {
+      "start": 162.07,
+      "duration": 3.54,
+      "text": "confinement is using lasers to push the plasma close together and then things",
+      "en": "confinement is using lasers to push the plasma close together and then things",
+      "zh": ""
+    },
+    {
+      "start": 165.61,
+      "duration": 3.92,
+      "text": "fuse. So my question is: What method is this device using?",
+      "en": "fuse. So my question is: What method is this device using?",
+      "zh": ""
+    },
+    {
+      "start": 169.53,
+      "duration": 4.54,
+      "text": "This one uses something called \"electrostatic inertial confinement.\" In this case, we're going to",
+      "en": "This one uses something called \"electrostatic inertial confinement.\" In this case, we're going to",
+      "zh": ""
+    },
+    {
+      "start": 174.07,
+      "duration": 4.08,
+      "text": "take two deuteriums, which is a neutron and a proton, and they fuse together to",
+      "en": "take two deuteriums, which is a neutron and a proton, and they fuse together to",
+      "zh": ""
+    },
+    {
+      "start": 178.15,
+      "duration": 4.62,
+      "text": "form helium-4 which has two protons and two neutrons, this bigger molecule that",
+      "en": "form helium-4 which has two protons and two neutrons, this bigger molecule that",
+      "zh": ""
+    },
+    {
+      "start": 182.77,
+      "duration": 4.02,
+      "text": "then is really hot and that's how we take the energy out of that particle. We",
+      "en": "then is really hot and that's how we take the energy out of that particle. We",
+      "zh": ""
+    },
+    {
+      "start": 186.79,
+      "duration": 5.34,
+      "text": "do it in a spherical way where the ions stream in from all angles to a center",
+      "en": "do it in a spherical way where the ions stream in from all angles to a center",
+      "zh": ""
+    },
+    {
+      "start": 192.13,
+      "duration": 5.4,
+      "text": "core and as they collide, they fuse and each of those fusion reactions will",
+      "en": "core and as they collide, they fuse and each of those fusion reactions will",
+      "zh": ""
+    },
+    {
+      "start": 197.53,
+      "duration": 5.04,
+      "text": "produce tremendously more energy than it took to actually fuse them together. The",
+      "en": "produce tremendously more energy than it took to actually fuse them together. The",
+      "zh": ""
+    },
+    {
+      "start": 202.57,
+      "duration": 3.48,
+      "text": "channel challenge with that is that in a particle accelerator you only take one",
+      "en": "channel challenge with that is that in a particle accelerator you only take one",
+      "zh": ""
+    },
+    {
+      "start": 206.05,
+      "duration": 4.14,
+      "text": "or packet of a couple hundred and so yes you can make fusion, but you can't make",
+      "en": "or packet of a couple hundred and so yes you can make fusion, but you can't make",
+      "zh": ""
+    },
+    {
+      "start": 210.19,
+      "duration": 4.38,
+      "text": "enough to counteract all the energy you spent on the electronics to make that thing happen.",
+      "en": "enough to counteract all the energy you spent on the electronics to make that thing happen.",
+      "zh": ""
+    },
+    {
+      "start": 214.57,
+      "duration": 3.54,
+      "text": "So just to repeat this back to you, the challenge that we're having",
+      "en": "So just to repeat this back to you, the challenge that we're having",
+      "zh": ""
+    },
+    {
+      "start": 218.11,
+      "duration": 4.02,
+      "text": "with fusion right now we can get an enormous amount of energy out of the",
+      "en": "with fusion right now we can get an enormous amount of energy out of the",
+      "zh": ""
+    },
+    {
+      "start": 222.13,
+      "duration": 7.2,
+      "text": "actual react- the atomic reaction but we are having trouble getting more total",
+      "en": "actual react- the atomic reaction but we are having trouble getting more total",
+      "zh": ""
+    },
+    {
+      "start": 229.33,
+      "duration": 3.72,
+      "text": "electricity out of the system that we create to do it in the first place.",
+      "en": "electricity out of the system that we create to do it in the first place.",
+      "zh": ""
+    },
+    {
+      "start": 233.05,
+      "duration": 0.64,
+      "text": "That's right.",
+      "en": "That's right.",
+      "zh": ""
+    },
+    {
+      "start": 233.69,
+      "duration": 2.42,
+      "text": "Awesome, okay I understand the problem.",
+      "en": "Awesome, okay I understand the problem.",
+      "zh": ""
+    },
+    {
+      "start": 238.29,
+      "duration": 2.37,
+      "text": "This is deuterium!",
+      "en": "This is deuterium!",
+      "zh": ""
+    },
+    {
+      "start": 244.17,
+      "duration": 4.13,
+      "text": "We are just pros at this, we just... well I shouldn't say that...",
+      "en": "We are just pros at this, we just... well I shouldn't say that...",
+      "zh": ""
+    },
+    {
+      "start": 248.3,
+      "duration": 5.45,
+      "text": "Let's be humble for a little bit longer, I'll let you know when we can stop being humble.",
+      "en": "Let's be humble for a little bit longer, I'll let you know when we can stop being humble.",
+      "zh": ""
+    },
+    {
+      "start": 253.75,
+      "duration": 3.32,
+      "text": "Like what are we gonna do next time we hang out to top this?",
+      "en": "Like what are we gonna do next time we hang out to top this?",
+      "zh": ""
+    },
+    {
+      "start": 257.07,
+      "duration": 4.96,
+      "text": "Are you gonna be disappointed if next time I come over we just have coffee?",
+      "en": "Are you gonna be disappointed if next time I come over we just have coffee?",
+      "zh": ""
+    },
+    {
+      "start": 262.03,
+      "duration": 4.92,
+      "text": "How do we know when fusion is happening in the middle? Like what are we looking for at that moment?",
+      "en": "How do we know when fusion is happening in the middle? Like what are we looking for at that moment?",
+      "zh": ""
+    },
+    {
+      "start": 266.95,
+      "duration": 3.24,
+      "text": "Yeah so what we're looking for is a couple of things:",
+      "en": "Yeah so what we're looking for is a couple of things:",
+      "zh": ""
+    },
+    {
+      "start": 270.19,
+      "duration": 3.9,
+      "text": "Mostly what we do is, we know how hot it is, we know how much energy all those",
+      "en": "Mostly what we do is, we know how hot it is, we know how much energy all those",
+      "zh": ""
+    },
+    {
+      "start": 274.09,
+      "duration": 3.36,
+      "text": "particles have and they come together they collide and so we know that they",
+      "en": "particles have and they come together they collide and so we know that they",
+      "zh": ""
+    },
+    {
+      "start": 277.45,
+      "duration": 1.09,
+      "text": "must be doing fusion.",
+      "en": "must be doing fusion.",
+      "zh": ""
+    },
+    {
+      "start": 278.54,
+      "duration": 1.16,
+      "text": "Why is it pink?",
+      "en": "Why is it pink?",
+      "zh": ""
+    },
+    {
+      "start": 279.7,
+      "duration": 3.29,
+      "text": "The color that you see is actually not pink at all, it's totally not pink",
+      "en": "The color that you see is actually not pink at all, it's totally not pink",
+      "zh": ""
+    },
+    {
+      "start": 282.99,
+      "duration": 3.1,
+      "text": "It looks pink, it's blue and red at the same time.",
+      "en": "It looks pink, it's blue and red at the same time.",
+      "zh": ""
+    },
+    {
+      "start": 286.09,
+      "duration": 4.98,
+      "text": "There's a blue photon and a bright red photon and when your eye sees those two",
+      "en": "There's a blue photon and a bright red photon and when your eye sees those two",
+      "zh": ""
+    },
+    {
+      "start": 291.07,
+      "duration": 4.26,
+      "text": "photons together it looks like that pink color, you get that fuchsia color that is",
+      "en": "photons together it looks like that pink color, you get that fuchsia color that is",
+      "zh": ""
+    },
+    {
+      "start": 295.33,
+      "duration": 2.54,
+      "text": "that the deuterium plasma being made.",
+      "en": "that the deuterium plasma being made.",
+      "zh": ""
+    },
+    {
+      "start": 297.87,
+      "duration": 0.58,
+      "text": "Dope!",
+      "en": "Dope!",
+      "zh": ""
+    },
+    {
+      "start": 301.59,
+      "duration": 0.76,
+      "text": "Are these are all good sounds?",
+      "en": "Are these are all good sounds?",
+      "zh": ""
+    },
+    {
+      "start": 302.35,
+      "duration": 2.0,
+      "text": "These are all good sounds! All good.",
+      "en": "These are all good sounds! All good.",
+      "zh": ""
+    },
+    {
+      "start": 305.64,
+      "duration": 0.85,
+      "text": "Now what?",
+      "en": "Now what?",
+      "zh": ""
+    },
+    {
+      "start": 306.49,
+      "duration": 3.95,
+      "text": "So now we're going to plug in that roughing pump...",
+      "en": "So now we're going to plug in that roughing pump...",
+      "zh": ""
+    },
+    {
+      "start": 311.2,
+      "duration": 1.85,
+      "text": "[WHIRRRRRRRR]",
+      "en": "[WHIRRRRRRRR]",
+      "zh": ""
+    },
+    {
+      "start": 313.05,
+      "duration": 0.65,
+      "text": "Ah!",
+      "en": "Ah!",
+      "zh": ""
+    },
+    {
+      "start": 313.7,
+      "duration": 0.75,
+      "text": "Good?",
+      "en": "Good?",
+      "zh": ""
+    },
+    {
+      "start": 314.45,
+      "duration": 1.73,
+      "text": "Yep that's good.",
+      "en": "Yep that's good.",
+      "zh": ""
+    },
+    {
+      "start": 316.18,
+      "duration": 4.74,
+      "text": "So the next step is you can open that and it'll suck the air out of the two pumps",
+      "en": "So the next step is you can open that and it'll suck the air out of the two pumps",
+      "zh": ""
+    },
+    {
+      "start": 320.92,
+      "duration": 2.67,
+      "text": "[GROWWWWWWLLLLLL]",
+      "en": "[GROWWWWWWLLLLLL]",
+      "zh": ""
+    },
+    {
+      "start": 323.59,
+      "duration": 3.38,
+      "text": "Now you can open that, it looks like it's a little open already",
+      "en": "Now you can open that, it looks like it's a little open already",
+      "zh": ""
+    },
+    {
+      "start": 329.19,
+      "duration": 2.55,
+      "text": "[HISSSSS GRRRRRRRR]",
+      "en": "[HISSSSS GRRRRRRRR]",
+      "zh": ""
+    },
+    {
+      "start": 331.75,
+      "duration": 3.3,
+      "text": "Ah! So there you go, it actually tightens those you can see that it's starting to",
+      "en": "Ah! So there you go, it actually tightens those you can see that it's starting to",
+      "zh": ""
+    },
+    {
+      "start": 335.05,
+      "duration": 4.26,
+      "text": "come down a lot faster... so that was probably leaking a little bit.",
+      "en": "come down a lot faster... so that was probably leaking a little bit.",
+      "zh": ""
+    },
+    {
+      "start": 339.31,
+      "duration": 6.06,
+      "text": "Alright, so now we have pumped all of the air out right?",
+      "en": "Alright, so now we have pumped all of the air out right?",
+      "zh": ""
+    },
+    {
+      "start": 345.37,
+      "duration": 3.96,
+      "text": "Yeah we're ready we can hook up the fusion fuel and the fusion power supplies",
+      "en": "Yeah we're ready we can hook up the fusion fuel and the fusion power supplies",
+      "zh": ""
+    },
+    {
+      "start": 349.33,
+      "duration": 1.52,
+      "text": "and start to do fusion.",
+      "en": "and start to do fusion.",
+      "zh": ""
+    },
+    {
+      "start": 350.85,
+      "duration": 2.49,
+      "text": "Yeah? Awesome. Let's do it. What's the first step?",
+      "en": "Yeah? Awesome. Let's do it. What's the first step?",
+      "zh": ""
+    },
+    {
+      "start": 353.34,
+      "duration": 1.09,
+      "text": "Fusion fuel!",
+      "en": "Fusion fuel!",
+      "zh": ""
+    },
+    {
+      "start": 356.04,
+      "duration": 2.12,
+      "text": "Got my fusion fuel here, I'll show you -",
+      "en": "Got my fusion fuel here, I'll show you -",
+      "zh": ""
+    },
+    {
+      "start": 358.16,
+      "duration": 2.0,
+      "text": "OH!",
+      "en": "OH!",
+      "zh": ""
+    },
+    {
+      "start": 361.63,
+      "duration": 2.09,
+      "text": "Why did the sound change?",
+      "en": "Why did the sound change?",
+      "zh": ""
+    },
+    {
+      "start": 363.72,
+      "duration": 2.62,
+      "text": "[WHEEEEEEEEEEEE]",
+      "en": "[WHEEEEEEEEEEEE]",
+      "zh": ""
+    },
+    {
+      "start": 367.09,
+      "duration": 3.52,
+      "text": "We lost a breaker! Here let me turn the breaker back on",
+      "en": "We lost a breaker! Here let me turn the breaker back on",
+      "zh": ""
+    },
+    {
+      "start": 370.61,
+      "duration": 2.33,
+      "text": "[POP!! HISSSSSS]",
+      "en": "[POP!! HISSSSSS]",
+      "zh": ""
+    },
+    {
+      "start": 374.23,
+      "duration": 2.95,
+      "text": "That was a bad sound! We popped the fuse on that...",
+      "en": "That was a bad sound! We popped the fuse on that...",
+      "zh": ""
+    },
+    {
+      "start": 377.18,
+      "duration": 5.99,
+      "text": "and then that shut all the power down and then it started leaking air in. We're gonna let it come back down...",
+      "en": "and then that shut all the power down and then it started leaking air in. We're gonna let it come back down...",
+      "zh": ""
+    },
+    {
+      "start": 383.17,
+      "duration": 3.72,
+      "text": "Unplug everything and plug it in straight there...",
+      "en": "Unplug everything and plug it in straight there...",
+      "zh": ""
+    },
+    {
+      "start": 386.89,
+      "duration": 3.96,
+      "text": "We popped a fuse so the air that we sucked out of the chamber where we want",
+      "en": "We popped a fuse so the air that we sucked out of the chamber where we want",
+      "zh": ""
+    },
+    {
+      "start": 390.85,
+      "duration": 3.72,
+      "text": "to do the fusion all rush back in and you can't do fusion with a bunch of air",
+      "en": "to do the fusion all rush back in and you can't do fusion with a bunch of air",
+      "zh": ""
+    },
+    {
+      "start": 394.57,
+      "duration": 3.24,
+      "text": "molecules in there so we've shut everything down, we rerouted the pumps",
+      "en": "molecules in there so we've shut everything down, we rerouted the pumps",
+      "zh": ""
+    },
+    {
+      "start": 397.81,
+      "duration": 2.32,
+      "text": "and we vacuumed the air back out again.",
+      "en": "and we vacuumed the air back out again.",
+      "zh": ""
+    },
+    {
+      "start": 401.65,
+      "duration": 4.22,
+      "text": "I'm so scared of it or I feel like I'm like all skittish and I'm like ready to bounce",
+      "en": "I'm so scared of it or I feel like I'm like all skittish and I'm like ready to bounce",
+      "zh": ""
+    },
+    {
+      "start": 405.87,
+      "duration": 3.88,
+      "text": "Now what we're going to do is we're going to start introducing the",
+      "en": "Now what we're going to do is we're going to start introducing the",
+      "zh": ""
+    },
+    {
+      "start": 409.75,
+      "duration": 3.42,
+      "text": "fuel into the chamber. We're just going to turn it slowly so we get to use to",
+      "en": "fuel into the chamber. We're just going to turn it slowly so we get to use to",
+      "zh": ""
+    },
+    {
+      "start": 413.17,
+      "duration": 1.82,
+      "text": "what it's going to sound like...",
+      "en": "what it's going to sound like...",
+      "zh": ""
+    },
+    {
+      "start": 414.99,
+      "duration": 1.48,
+      "text": "I did those!",
+      "en": "I did those!",
+      "zh": ""
+    },
+    {
+      "start": 416.47,
+      "duration": 1.69,
+      "text": "Rock Paper Scissors Shoot...",
+      "en": "Rock Paper Scissors Shoot...",
+      "zh": ""
+    },
+    {
+      "start": 419.58,
+      "duration": 1.92,
+      "text": "That's it okay, open slowly",
+      "en": "That's it okay, open slowly",
+      "zh": ""
+    },
+    {
+      "start": 426.07,
+      "duration": 3.96,
+      "text": "And you can close it and then it should... now it's pumping the",
+      "en": "And you can close it and then it should... now it's pumping the",
+      "zh": ""
+    },
+    {
+      "start": 430.03,
+      "duration": 5.41,
+      "text": "gas back out... so a lot of a lot of fusion is listening to the machine.",
+      "en": "gas back out... so a lot of a lot of fusion is listening to the machine.",
+      "zh": ""
+    },
+    {
+      "start": 435.44,
+      "duration": 2.89,
+      "text": "Next we need to get out the power supply...",
+      "en": "Next we need to get out the power supply...",
+      "zh": ""
+    },
+    {
+      "start": 438.33,
+      "duration": 2.21,
+      "text": "Now begins the Do Not Die section.",
+      "en": "Now begins the Do Not Die section.",
+      "zh": ""
+    },
+    {
+      "start": 441.58,
+      "duration": 1.77,
+      "text": "But as soon as the plasma starts, it'll",
+      "en": "But as soon as the plasma starts, it'll",
+      "zh": ""
+    },
+    {
+      "start": 443.35,
+      "duration": 3.96,
+      "text": "start to flow current. So there's enough voltage to start the plasma but then",
+      "en": "start to flow current. So there's enough voltage to start the plasma but then",
+      "zh": ""
+    },
+    {
+      "start": 447.31,
+      "duration": 4.14,
+      "text": "once it starts going we keep the current low so it doesn't have too much.",
+      "en": "once it starts going we keep the current low so it doesn't have too much.",
+      "zh": ""
+    },
+    {
+      "start": 451.45,
+      "duration": 4.74,
+      "text": "Okay we're gonna test this right now. High voltage is on! Ready? We're at 1000 volts...",
+      "en": "Okay we're gonna test this right now. High voltage is on! Ready? We're at 1000 volts...",
+      "zh": ""
+    },
+    {
+      "start": 456.19,
+      "duration": 2.75,
+      "text": "There's 2000 volts...",
+      "en": "There's 2000 volts...",
+      "zh": ""
+    },
+    {
+      "start": 458.94,
+      "duration": 1.69,
+      "text": "3000 volts...",
+      "en": "3000 volts...",
+      "zh": ""
+    },
+    {
+      "start": 460.63,
+      "duration": 1.91,
+      "text": "4000 volts...",
+      "en": "4000 volts...",
+      "zh": ""
+    },
+    {
+      "start": 462.54,
+      "duration": 6.57,
+      "text": "6000 volts... okay open really slowly really slowly",
+      "en": "6000 volts... okay open really slowly really slowly",
+      "zh": ""
+    },
+    {
+      "start": 470.07,
+      "duration": 1.08,
+      "text": "One hand...",
+      "en": "One hand...",
+      "zh": ""
+    },
+    {
+      "start": 472.13,
+      "duration": 0.8,
+      "text": "I heard something!",
+      "en": "I heard something!",
+      "zh": ""
+    },
+    {
+      "start": 472.93,
+      "duration": 2.58,
+      "text": "Slower than that! Still but really slow...",
+      "en": "Slower than that! Still but really slow...",
+      "zh": ""
+    },
+    {
+      "start": 475.51,
+      "duration": 2.15,
+      "text": "My heart is beading so fast...",
+      "en": "My heart is beading so fast...",
+      "zh": ""
+    },
+    {
+      "start": 479.91,
+      "duration": 2.01,
+      "text": "AHHHHHH!!!!!!",
+      "en": "AHHHHHH!!!!!!",
+      "zh": ""
+    },
+    {
+      "start": 481.92,
+      "duration": 0.77,
+      "text": "IS SOMETHING HAPPENING???",
+      "en": "IS SOMETHING HAPPENING???",
+      "zh": ""
+    },
+    {
+      "start": 482.69,
+      "duration": 1.1,
+      "text": "IT'S HAPPENING!!!!",
+      "en": "IT'S HAPPENING!!!!",
+      "zh": ""
+    },
+    {
+      "start": 484.48,
+      "duration": 2.21,
+      "text": "It's all sci-fi stuff!!",
+      "en": "It's all sci-fi stuff!!",
+      "zh": ""
+    },
+    {
+      "start": 486.69,
+      "duration": 0.92,
+      "text": "Okay now close it...",
+      "en": "Okay now close it...",
+      "zh": ""
+    },
+    {
+      "start": 487.61,
+      "duration": 3.36,
+      "text": "Close it? To the right okay to the right...",
+      "en": "Close it? To the right okay to the right...",
+      "zh": ""
+    },
+    {
+      "start": 490.97,
+      "duration": 1.04,
+      "text": "[GASP] Am I in the way??",
+      "en": "[GASP] Am I in the way??",
+      "zh": ""
+    },
+    {
+      "start": 493.79,
+      "duration": 0.76,
+      "text": "[GAAAASP]",
+      "en": "[GAAAASP]",
+      "zh": ""
+    },
+    {
+      "start": 495.6,
+      "duration": 2.33,
+      "text": "Oh now it died. What happened? Why did it die?",
+      "en": "Oh now it died. What happened? Why did it die?",
+      "zh": ""
+    },
+    {
+      "start": 497.93,
+      "duration": 2.66,
+      "text": "So we went all the way up in pressure to where there was enough",
+      "en": "So we went all the way up in pressure to where there was enough",
+      "zh": ""
+    },
+    {
+      "start": 500.59,
+      "duration": 4.55,
+      "text": "particles to make a plasma and then just to show it we then came all the way back down...",
+      "en": "particles to make a plasma and then just to show it we then came all the way back down...",
+      "zh": ""
+    },
+    {
+      "start": 505.14,
+      "duration": 1.15,
+      "text": "Why didn't we stay????",
+      "en": "Why didn't we stay????",
+      "zh": ""
+    },
+    {
+      "start": 506.29,
+      "duration": 2.75,
+      "text": "So you're gonna have to get more fine on your gas control...",
+      "en": "So you're gonna have to get more fine on your gas control...",
+      "zh": ""
+    },
+    {
+      "start": 509.04,
+      "duration": 0.66,
+      "text": "Okay!",
+      "en": "Okay!",
+      "zh": ""
+    },
+    {
+      "start": 511.57,
+      "duration": 4.98,
+      "text": "Like really fine! High voltage on. Gas, just a little bit of gas, really slow...",
+      "en": "Like really fine! High voltage on. Gas, just a little bit of gas, really slow...",
+      "zh": ""
+    },
+    {
+      "start": 518.4,
+      "duration": 2.29,
+      "text": "It's coming up... it's lit, now turn to the right",
+      "en": "It's coming up... it's lit, now turn to the right",
+      "zh": ""
+    },
+    {
+      "start": 520.69,
+      "duration": 2.9,
+      "text": "slow it down, real slow..",
+      "en": "slow it down, real slow..",
+      "zh": ""
+    },
+    {
+      "start": 523.59,
+      "duration": 2.0,
+      "text": "AAAHHHHWWWWAAAHHHH",
+      "en": "AAAHHHHWWWWAAAHHHH",
+      "zh": ""
+    },
+    {
+      "start": 525.59,
+      "duration": 2.56,
+      "text": "Oh my god Cleo, you gotta look at this thing",
+      "en": "Oh my god Cleo, you gotta look at this thing",
+      "zh": ""
+    },
+    {
+      "start": 528.15,
+      "duration": 1.57,
+      "text": "it looks unlike anything I've ever seen!!",
+      "en": "it looks unlike anything I've ever seen!!",
+      "zh": ""
+    },
+    {
+      "start": 529.72,
+      "duration": 3.27,
+      "text": "Turn to the right, slow, oh you're dialing really...",
+      "en": "Turn to the right, slow, oh you're dialing really...",
+      "zh": ""
+    },
+    {
+      "start": 532.99,
+      "duration": 4.5,
+      "text": "Switch the gauge around and then I would adjust the gas pressure.",
+      "en": "Switch the gauge around and then I would adjust the gas pressure.",
+      "zh": ""
+    },
+    {
+      "start": 537.49,
+      "duration": 4.2,
+      "text": "So the problem that we were having before was that I was too clammy hands on",
+      "en": "So the problem that we were having before was that I was too clammy hands on",
+      "zh": ""
+    },
+    {
+      "start": 541.69,
+      "duration": 6.06,
+      "text": "the gauge there so I was causing it to sort of jump around and not have",
+      "en": "the gauge there so I was causing it to sort of jump around and not have",
+      "zh": ""
+    },
+    {
+      "start": 547.75,
+      "duration": 2.94,
+      "text": "the right amount of all of the things it needed for the right amount of time.",
+      "en": "the right amount of all of the things it needed for the right amount of time.",
+      "zh": ""
+    },
+    {
+      "start": 550.69,
+      "duration": 4.32,
+      "text": "We've swapped some things around to make it easier to control now and we're gonna",
+      "en": "We've swapped some things around to make it easier to control now and we're gonna",
+      "zh": ""
+    },
+    {
+      "start": 555.01,
+      "duration": 3.72,
+      "text": "try it again. Cecause the key is we have to get it up to the right temperature",
+      "en": "try it again. Cecause the key is we have to get it up to the right temperature",
+      "zh": ""
+    },
+    {
+      "start": 558.73,
+      "duration": 3.3,
+      "text": "for long enough to know that we actually did fusion.",
+      "en": "for long enough to know that we actually did fusion.",
+      "zh": ""
+    },
+    {
+      "start": 564.49,
+      "duration": 2.67,
+      "text": "This valve's harder than, yeah [VALIDATION]",
+      "en": "This valve's harder than, yeah [VALIDATION]",
+      "zh": ""
+    },
+    {
+      "start": 567.16,
+      "duration": 2.0,
+      "text": "GASP-AHHHH!!!",
+      "en": "GASP-AHHHH!!!",
+      "zh": ""
+    },
+    {
+      "start": 569.79,
+      "duration": 1.22,
+      "text": "Wait it was there, it was there!",
+      "en": "Wait it was there, it was there!",
+      "zh": ""
+    },
+    {
+      "start": 571.01,
+      "duration": 1.22,
+      "text": "It's gone now...",
+      "en": "It's gone now...",
+      "zh": ""
+    },
+    {
+      "start": 572.23,
+      "duration": 2.01,
+      "text": "SQUEEEEEEAAAAL!!!!",
+      "en": "SQUEEEEEEAAAAL!!!!",
+      "zh": ""
+    },
+    {
+      "start": 575.9,
+      "duration": 4.85,
+      "text": "Nice core on the jet, a single jet with a single pinch, and so what you're really",
+      "en": "Nice core on the jet, a single jet with a single pinch, and so what you're really",
+      "zh": ""
+    },
+    {
+      "start": 580.75,
+      "duration": 3.72,
+      "text": "seeing here is the ions those charged particles that are flowing around that",
+      "en": "seeing here is the ions those charged particles that are flowing around that",
+      "zh": ""
+    },
+    {
+      "start": 584.47,
+      "duration": 3.9,
+      "text": "haze are getting focused in and blasting in, it's not actually coming out it's",
+      "en": "haze are getting focused in and blasting in, it's not actually coming out it's",
+      "zh": ""
+    },
+    {
+      "start": 588.37,
+      "duration": 4.8,
+      "text": "going in. Those ions are coming in to the core and as they come through and they",
+      "en": "going in. Those ions are coming in to the core and as they come through and they",
+      "zh": ""
+    },
+    {
+      "start": 593.17,
+      "duration": 2.85,
+      "text": "hit things, they ionize and form more plasma.",
+      "en": "hit things, they ionize and form more plasma.",
+      "zh": ""
+    },
+    {
+      "start": 596.02,
+      "duration": 6.09,
+      "text": "There's two kind of like pinch points on the beam... like there's another thinner point",
+      "en": "There's two kind of like pinch points on the beam... like there's another thinner point",
+      "zh": ""
+    },
+    {
+      "start": 602.11,
+      "duration": 2.52,
+      "text": "Oh wow wow this is pretty awesome.",
+      "en": "Oh wow wow this is pretty awesome.",
+      "zh": ""
+    },
+    {
+      "start": 604.63,
+      "duration": 1.73,
+      "text": "It is pretty awesome.",
+      "en": "It is pretty awesome.",
+      "zh": ""
+    },
+    {
+      "start": 606.36,
+      "duration": 5.11,
+      "text": "So at this point we're now at the right densities and pressures and voltage so we should be",
+      "en": "So at this point we're now at the right densities and pressures and voltage so we should be",
+      "zh": ""
+    },
+    {
+      "start": 611.47,
+      "duration": 1.15,
+      "text": "creating fusion right now.",
+      "en": "creating fusion right now.",
+      "zh": ""
+    },
+    {
+      "start": 612.62,
+      "duration": 1.12,
+      "text": "Is it? Is it happening?",
+      "en": "Is it? Is it happening?",
+      "zh": ""
+    },
+    {
+      "start": 613.74,
+      "duration": 1.61,
+      "text": "It's happening right now.",
+      "en": "It's happening right now.",
+      "zh": ""
+    },
+    {
+      "start": 615.35,
+      "duration": 0.89,
+      "text": "Oh my god...",
+      "en": "Oh my god...",
+      "zh": ""
+    },
+    {
+      "start": 616.24,
+      "duration": 2.91,
+      "text": "And probably in those pinch points and a little bit in the core too.",
+      "en": "And probably in those pinch points and a little bit in the core too.",
+      "zh": ""
+    },
+    {
+      "start": 619.15,
+      "duration": 1.56,
+      "text": "What's happening as it evolves?",
+      "en": "What's happening as it evolves?",
+      "zh": ""
+    },
+    {
+      "start": 620.71,
+      "duration": 4.15,
+      "text": "So now it's starting to run out of gas, there's not enough ions around",
+      "en": "So now it's starting to run out of gas, there's not enough ions around",
+      "zh": ""
+    },
+    {
+      "start": 624.86,
+      "duration": 2.69,
+      "text": "to actually drag in and collide with the gas...",
+      "en": "to actually drag in and collide with the gas...",
+      "zh": ""
+    },
+    {
+      "start": 627.55,
+      "duration": 2.17,
+      "text": "This is amazing. Oh my God.",
+      "en": "This is amazing. Oh my God.",
+      "zh": ""
+    },
+    {
+      "start": 631.01,
+      "duration": 2.14,
+      "text": "And eventually the gas will decay enough",
+      "en": "And eventually the gas will decay enough",
+      "zh": ""
+    },
+    {
+      "start": 633.15,
+      "duration": 3.22,
+      "text": "that there won't be enough to even sustain a plasma at all... so right now we",
+      "en": "that there won't be enough to even sustain a plasma at all... so right now we",
+      "zh": ""
+    },
+    {
+      "start": 636.37,
+      "duration": 2.07,
+      "text": "have a core and this like tiny little jet...",
+      "en": "have a core and this like tiny little jet...",
+      "zh": ""
+    },
+    {
+      "start": 638.44,
+      "duration": 5.73,
+      "text": "I wonder if like two generations down this is going to be the equivalent of like watching your",
+      "en": "I wonder if like two generations down this is going to be the equivalent of like watching your",
+      "zh": ""
+    },
+    {
+      "start": 644.17,
+      "duration": 4.14,
+      "text": "like washing machine go, where you're like \"oh my god that's so cool\"",
+      "en": "like washing machine go, where you're like \"oh my god that's so cool\"",
+      "zh": ""
+    },
+    {
+      "start": 649.82,
+      "duration": 5.15,
+      "text": "Hot tip: If your friend's ever like, \"hey can we do fusion in your garage?\" Say yes!",
+      "en": "Hot tip: If your friend's ever like, \"hey can we do fusion in your garage?\" Say yes!",
+      "zh": ""
+    },
+    {
+      "start": 654.97,
+      "duration": 2.21,
+      "text": "Be the crazy friend that says yes.",
+      "en": "Be the crazy friend that says yes.",
+      "zh": ""
+    },
+    {
+      "start": 657.18,
+      "duration": 2.15,
+      "text": "Be the even crazier friend that asks.",
+      "en": "Be the even crazier friend that asks.",
+      "zh": ""
+    },
+    {
+      "start": 660.53,
+      "duration": 1.96,
+      "text": "Wait so now can we say we did fusion?",
+      "en": "Wait so now can we say we did fusion?",
+      "zh": ""
+    },
+    {
+      "start": 662.49,
+      "duration": 1.01,
+      "text": "Yes you can say that.",
+      "en": "Yes you can say that.",
+      "zh": ""
+    },
+    {
+      "start": 663.5,
+      "duration": 1.23,
+      "text": "YESS!!!!!!",
+      "en": "YESS!!!!!!",
+      "zh": ""
+    },
+    {
+      "start": 664.73,
+      "duration": 1.64,
+      "text": "WE DID FUSION!!!!!",
+      "en": "WE DID FUSION!!!!!",
+      "zh": ""
+    },
+    {
+      "start": 666.37,
+      "duration": 4.44,
+      "text": "At that accelerating voltage, pure deuterium, at this pressure, there was fusion.",
+      "en": "At that accelerating voltage, pure deuterium, at this pressure, there was fusion.",
+      "zh": ""
+    },
+    {
+      "start": 670.81,
+      "duration": 1.83,
+      "text": "In my workshop!!",
+      "en": "In my workshop!!",
+      "zh": ""
+    },
+    {
+      "start": 672.64,
+      "duration": 2.0,
+      "text": "We did fusion in Simone's workshop...",
+      "en": "We did fusion in Simone's workshop...",
+      "zh": ""
+    },
+    {
+      "start": 674.64,
+      "duration": 3.0,
+      "text": "Holy [Bleepedy bleep bleep]",
+      "en": "Holy [Bleepedy bleep bleep]",
+      "zh": ""
+    },
+    {
+      "start": 677.64,
+      "duration": 3.14,
+      "text": "What the fusion.",
+      "en": "What the fusion.",
+      "zh": ""
+    },
+    {
+      "start": 684.55,
+      "duration": 3.54,
+      "text": "So we've done all of this, we've built this device, we've done fusion in",
+      "en": "So we've done all of this, we've built this device, we've done fusion in",
+      "zh": ""
+    },
+    {
+      "start": 688.09,
+      "duration": 3.84,
+      "text": "Simone's workshop, like how should people understand what we did here in",
+      "en": "Simone's workshop, like how should people understand what we did here in",
+      "zh": ""
+    },
+    {
+      "start": 691.93,
+      "duration": 2.94,
+      "text": "comparison to what companies like yours and government projects are trying to do",
+      "en": "comparison to what companies like yours and government projects are trying to do",
+      "zh": ""
+    },
+    {
+      "start": 694.87,
+      "duration": 4.08,
+      "text": "with nuclear fusion and like how this might get them electricity sometime in the future?",
+      "en": "with nuclear fusion and like how this might get them electricity sometime in the future?",
+      "zh": ""
+    },
+    {
+      "start": 698.95,
+      "duration": 4.32,
+      "text": "It's a great question. So we built a fusor today but this is not a",
+      "en": "It's a great question. So we built a fusor today but this is not a",
+      "zh": ""
+    },
+    {
+      "start": 703.27,
+      "duration": 3.78,
+      "text": "commercial electricity system. Commercial electricity systems are going",
+      "en": "commercial electricity system. Commercial electricity systems are going",
+      "zh": ""
+    },
+    {
+      "start": 707.05,
+      "duration": 3.66,
+      "text": "to be larger, they're going to be more complex but what we are seeing is that",
+      "en": "to be larger, they're going to be more complex but what we are seeing is that",
+      "zh": ""
+    },
+    {
+      "start": 710.71,
+      "duration": 4.2,
+      "text": "the rate of progress of the technology as such that now private companies",
+      "en": "the rate of progress of the technology as such that now private companies",
+      "zh": ""
+    },
+    {
+      "start": 714.91,
+      "duration": 4.44,
+      "text": "governments are now building systems that do commercial levels of fusion",
+      "en": "governments are now building systems that do commercial levels of fusion",
+      "zh": ""
+    },
+    {
+      "start": 719.35,
+      "duration": 3.9,
+      "text": "already and so now it's a matter of us building systems and getting them on the",
+      "en": "already and so now it's a matter of us building systems and getting them on the",
+      "zh": ""
+    },
+    {
+      "start": 723.25,
+      "duration": 3.78,
+      "text": "grid as fast as possible. What I believe and Helion believes is that we are close",
+      "en": "grid as fast as possible. What I believe and Helion believes is that we are close",
+      "zh": ""
+    },
+    {
+      "start": 727.03,
+      "duration": 3.72,
+      "text": "enough to start thinking about having electricity on the grid from fusion in",
+      "en": "enough to start thinking about having electricity on the grid from fusion in",
+      "zh": ""
+    },
+    {
+      "start": 730.75,
+      "duration": 3.24,
+      "text": "our lifetimes and I want it much sooner than that.",
+      "en": "our lifetimes and I want it much sooner than that.",
+      "zh": ""
+    },
+    {
+      "start": 733.99,
+      "duration": 1.01,
+      "text": "Huge if true!",
+      "en": "Huge if true!",
+      "zh": ""
+    },
+    {
+      "start": 736.14,
+      "duration": 7.21,
+      "text": "Thanks Simone for lending us your workshop, thank you for coming, thank you to the team at Helion -",
+      "en": "Thanks Simone for lending us your workshop, thank you for coming, thank you to the team at Helion -",
+      "zh": ""
+    }
+  ],
+  "words": []
+}

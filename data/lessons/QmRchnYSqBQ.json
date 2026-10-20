@@ -1,0 +1,607 @@
+{
+  "cues": [
+    {
+      "start": 1.75,
+      "duration": 0.3,
+      "text": "Have you heard the real story about this",
+      "en": "Have you heard the real story about this",
+      "zh": ""
+    },
+    {
+      "start": 1.76,
+      "duration": 1.51,
+      "text": "Have you heard the real story about this crazy math problem? This is one of the",
+      "en": "Have you heard the real story about this crazy math problem? This is one of the",
+      "zh": ""
+    },
+    {
+      "start": 3.27,
+      "duration": 0.3,
+      "text": "crazy math problem? This is one of the",
+      "en": "crazy math problem? This is one of the",
+      "zh": ""
+    },
+    {
+      "start": 3.28,
+      "duration": 1.71,
+      "text": "crazy math problem? This is one of the hardest math problems of all time.",
+      "en": "crazy math problem? This is one of the hardest math problems of all time.",
+      "zh": ""
+    },
+    {
+      "start": 4.99,
+      "duration": 0.3,
+      "text": "hardest math problems of all time.",
+      "en": "hardest math problems of all time.",
+      "zh": ""
+    },
+    {
+      "start": 5.0,
+      "duration": 1.71,
+      "text": "hardest math problems of all time. There's a million-dollar prize for",
+      "en": "hardest math problems of all time. There's a million-dollar prize for",
+      "zh": ""
+    },
+    {
+      "start": 6.71,
+      "duration": 0.3,
+      "text": "There's a million-dollar prize for",
+      "en": "There's a million-dollar prize for",
+      "zh": ""
+    },
+    {
+      "start": 6.72,
+      "duration": 2.03,
+      "text": "There's a million-dollar prize for solving it, and someone just did it.",
+      "en": "There's a million-dollar prize for solving it, and someone just did it.",
+      "zh": ""
+    },
+    {
+      "start": 8.75,
+      "duration": 0.3,
+      "text": "solving it, and someone just did it.",
+      "en": "solving it, and someone just did it.",
+      "zh": ""
+    },
+    {
+      "start": 8.76,
+      "duration": 1.07,
+      "text": "solving it, and someone just did it. But, there's big drama about who",
+      "en": "solving it, and someone just did it. But, there's big drama about who",
+      "zh": ""
+    },
+    {
+      "start": 9.83,
+      "duration": 0.3,
+      "text": "But, there's big drama about who",
+      "en": "But, there's big drama about who",
+      "zh": ""
+    },
+    {
+      "start": 9.84,
+      "duration": 1.39,
+      "text": "But, there's big drama about who deserves credit. So, there's this set of",
+      "en": "But, there's big drama about who deserves credit. So, there's this set of",
+      "zh": ""
+    },
+    {
+      "start": 11.23,
+      "duration": 0.3,
+      "text": "deserves credit. So, there's this set of",
+      "en": "deserves credit. So, there's this set of",
+      "zh": ""
+    },
+    {
+      "start": 11.24,
+      "duration": 1.67,
+      "text": "deserves credit. So, there's this set of equations that we use all the time for",
+      "en": "deserves credit. So, there's this set of equations that we use all the time for",
+      "zh": ""
+    },
+    {
+      "start": 12.91,
+      "duration": 0.3,
+      "text": "equations that we use all the time for",
+      "en": "equations that we use all the time for",
+      "zh": ""
+    },
+    {
+      "start": 12.92,
+      "duration": 1.79,
+      "text": "equations that we use all the time for everything from airplanes to blood flow",
+      "en": "equations that we use all the time for everything from airplanes to blood flow",
+      "zh": ""
+    },
+    {
+      "start": 14.71,
+      "duration": 0.3,
+      "text": "everything from airplanes to blood flow",
+      "en": "everything from airplanes to blood flow",
+      "zh": ""
+    },
+    {
+      "start": 14.72,
+      "duration": 2.03,
+      "text": "everything from airplanes to blood flow to your weather app to model how fluids",
+      "en": "everything from airplanes to blood flow to your weather app to model how fluids",
+      "zh": ""
+    },
+    {
+      "start": 16.75,
+      "duration": 0.3,
+      "text": "to your weather app to model how fluids",
+      "en": "to your weather app to model how fluids",
+      "zh": ""
+    },
+    {
+      "start": 16.76,
+      "duration": 2.23,
+      "text": "to your weather app to model how fluids move because doing this is really hard.",
+      "en": "to your weather app to model how fluids move because doing this is really hard.",
+      "zh": ""
+    },
+    {
+      "start": 18.99,
+      "duration": 0.3,
+      "text": "move because doing this is really hard.",
+      "en": "move because doing this is really hard.",
+      "zh": ""
+    },
+    {
+      "start": 19.0,
+      "duration": 1.79,
+      "text": "move because doing this is really hard. And they basically use a math shortcut",
+      "en": "move because doing this is really hard. And they basically use a math shortcut",
+      "zh": ""
+    },
+    {
+      "start": 20.79,
+      "duration": 0.3,
+      "text": "And they basically use a math shortcut",
+      "en": "And they basically use a math shortcut",
+      "zh": ""
+    },
+    {
+      "start": 20.8,
+      "duration": 1.95,
+      "text": "And they basically use a math shortcut that treats liquid like one continuous",
+      "en": "And they basically use a math shortcut that treats liquid like one continuous",
+      "zh": ""
+    },
+    {
+      "start": 22.75,
+      "duration": 0.3,
+      "text": "that treats liquid like one continuous",
+      "en": "that treats liquid like one continuous",
+      "zh": ""
+    },
+    {
+      "start": 22.76,
+      "duration": 1.59,
+      "text": "that treats liquid like one continuous soup as opposed to a bunch of little",
+      "en": "that treats liquid like one continuous soup as opposed to a bunch of little",
+      "zh": ""
+    },
+    {
+      "start": 24.35,
+      "duration": 0.3,
+      "text": "soup as opposed to a bunch of little",
+      "en": "soup as opposed to a bunch of little",
+      "zh": ""
+    },
+    {
+      "start": 24.36,
+      "duration": 1.67,
+      "text": "soup as opposed to a bunch of little molecules, which it really is. But, the",
+      "en": "soup as opposed to a bunch of little molecules, which it really is. But, the",
+      "zh": ""
+    },
+    {
+      "start": 26.03,
+      "duration": 0.3,
+      "text": "molecules, which it really is. But, the",
+      "en": "molecules, which it really is. But, the",
+      "zh": ""
+    },
+    {
+      "start": 26.04,
+      "duration": 1.95,
+      "text": "molecules, which it really is. But, the problem is we don't actually know if",
+      "en": "molecules, which it really is. But, the problem is we don't actually know if",
+      "zh": ""
+    },
+    {
+      "start": 27.99,
+      "duration": 0.3,
+      "text": "problem is we don't actually know if",
+      "en": "problem is we don't actually know if",
+      "zh": ""
+    },
+    {
+      "start": 28.0,
+      "duration": 2.27,
+      "text": "problem is we don't actually know if these equations always work or if",
+      "en": "problem is we don't actually know if these equations always work or if",
+      "zh": ""
+    },
+    {
+      "start": 30.27,
+      "duration": 0.3,
+      "text": "these equations always work or if",
+      "en": "these equations always work or if",
+      "zh": ""
+    },
+    {
+      "start": 30.28,
+      "duration": 1.51,
+      "text": "these equations always work or if there's some set of conditions where the",
+      "en": "these equations always work or if there's some set of conditions where the",
+      "zh": ""
+    },
+    {
+      "start": 31.79,
+      "duration": 0.3,
+      "text": "there's some set of conditions where the",
+      "en": "there's some set of conditions where the",
+      "zh": ""
+    },
+    {
+      "start": 31.8,
+      "duration": 2.75,
+      "text": "there's some set of conditions where the math blows up. And we rely on it so much",
+      "en": "there's some set of conditions where the math blows up. And we rely on it so much",
+      "zh": ""
+    },
+    {
+      "start": 34.55,
+      "duration": 0.3,
+      "text": "math blows up. And we rely on it so much",
+      "en": "math blows up. And we rely on it so much",
+      "zh": ""
+    },
+    {
+      "start": 34.56,
+      "duration": 1.95,
+      "text": "math blows up. And we rely on it so much that trying to blow it up has become one",
+      "en": "math blows up. And we rely on it so much that trying to blow it up has become one",
+      "zh": ""
+    },
+    {
+      "start": 36.51,
+      "duration": 0.3,
+      "text": "that trying to blow it up has become one",
+      "en": "that trying to blow it up has become one",
+      "zh": ""
+    },
+    {
+      "start": 36.52,
+      "duration": 2.11,
+      "text": "that trying to blow it up has become one of the seven famous millennium prize",
+      "en": "that trying to blow it up has become one of the seven famous millennium prize",
+      "zh": ""
+    },
+    {
+      "start": 38.63,
+      "duration": 0.3,
+      "text": "of the seven famous millennium prize",
+      "en": "of the seven famous millennium prize",
+      "zh": ""
+    },
+    {
+      "start": 38.65,
+      "duration": 1.5,
+      "text": "of the seven famous millennium prize [music] problems. To solve the problem,",
+      "en": "of the seven famous millennium prize [music] problems. To solve the problem,",
+      "zh": ""
+    },
+    {
+      "start": 40.15,
+      "duration": 0.3,
+      "text": "[music] problems. To solve the problem,",
+      "en": "[music] problems. To solve the problem,",
+      "zh": ""
+    },
+    {
+      "start": 40.16,
+      "duration": 1.63,
+      "text": "[music] problems. To solve the problem, you have to prove either one, the math",
+      "en": "[music] problems. To solve the problem, you have to prove either one, the math",
+      "zh": ""
+    },
+    {
+      "start": 41.79,
+      "duration": 0.3,
+      "text": "you have to prove either one, the math",
+      "en": "you have to prove either one, the math",
+      "zh": ""
+    },
+    {
+      "start": 41.8,
+      "duration": 2.19,
+      "text": "you have to prove either one, the math never blows up, or two, the math does",
+      "en": "you have to prove either one, the math never blows up, or two, the math does",
+      "zh": ""
+    },
+    {
+      "start": 43.99,
+      "duration": 0.3,
+      "text": "never blows up, or two, the math does",
+      "en": "never blows up, or two, the math does",
+      "zh": ""
+    },
+    {
+      "start": 44.0,
+      "duration": 1.79,
+      "text": "never blows up, or two, the math does blow up in this specific set of",
+      "en": "never blows up, or two, the math does blow up in this specific set of",
+      "zh": ""
+    },
+    {
+      "start": 45.79,
+      "duration": 0.3,
+      "text": "blow up in this specific set of",
+      "en": "blow up in this specific set of",
+      "zh": ""
+    },
+    {
+      "start": 45.8,
+      "duration": 1.39,
+      "text": "blow up in this specific set of circumstances. People have been trying",
+      "en": "blow up in this specific set of circumstances. People have been trying",
+      "zh": ""
+    },
+    {
+      "start": 47.19,
+      "duration": 0.3,
+      "text": "circumstances. People have been trying",
+      "en": "circumstances. People have been trying",
+      "zh": ""
+    },
+    {
+      "start": 47.2,
+      "duration": 1.51,
+      "text": "circumstances. People have been trying to solve this problem for a hundred",
+      "en": "circumstances. People have been trying to solve this problem for a hundred",
+      "zh": ""
+    },
+    {
+      "start": 48.71,
+      "duration": 0.3,
+      "text": "to solve this problem for a hundred",
+      "en": "to solve this problem for a hundred",
+      "zh": ""
+    },
+    {
+      "start": 48.72,
+      "duration": 1.79,
+      "text": "to solve this problem for a hundred years, but recently two scientists used",
+      "en": "to solve this problem for a hundred years, but recently two scientists used",
+      "zh": ""
+    },
+    {
+      "start": 50.51,
+      "duration": 0.3,
+      "text": "years, but recently two scientists used",
+      "en": "years, but recently two scientists used",
+      "zh": ""
+    },
+    {
+      "start": 50.52,
+      "duration": 1.47,
+      "text": "years, but recently two scientists used a bunch of different AI tools and seem",
+      "en": "years, but recently two scientists used a bunch of different AI tools and seem",
+      "zh": ""
+    },
+    {
+      "start": 51.99,
+      "duration": 0.3,
+      "text": "a bunch of different AI tools and seem",
+      "en": "a bunch of different AI tools and seem",
+      "zh": ""
+    },
+    {
+      "start": 52.0,
+      "duration": 1.59,
+      "text": "a bunch of different AI tools and seem to be getting really close to proving",
+      "en": "a bunch of different AI tools and seem to be getting really close to proving",
+      "zh": ""
+    },
+    {
+      "start": 53.59,
+      "duration": 0.3,
+      "text": "to be getting really close to proving",
+      "en": "to be getting really close to proving",
+      "zh": ""
+    },
+    {
+      "start": 53.6,
+      "duration": 2.31,
+      "text": "to be getting really close to proving that second option. But, then OpenAI",
+      "en": "to be getting really close to proving that second option. But, then OpenAI",
+      "zh": ""
+    },
+    {
+      "start": 55.91,
+      "duration": 0.3,
+      "text": "that second option. But, then OpenAI",
+      "en": "that second option. But, then OpenAI",
+      "zh": ""
+    },
+    {
+      "start": 55.92,
+      "duration": 1.51,
+      "text": "that second option. But, then OpenAI heard about this and threw a bunch more",
+      "en": "that second option. But, then OpenAI heard about this and threw a bunch more",
+      "zh": ""
+    },
+    {
+      "start": 57.43,
+      "duration": 0.3,
+      "text": "heard about this and threw a bunch more",
+      "en": "heard about this and threw a bunch more",
+      "zh": ""
+    },
+    {
+      "start": 57.44,
+      "duration": 2.15,
+      "text": "heard about this and threw a bunch more resources at this problem. And just 88",
+      "en": "heard about this and threw a bunch more resources at this problem. And just 88",
+      "zh": ""
+    },
+    {
+      "start": 59.59,
+      "duration": 0.3,
+      "text": "resources at this problem. And just 88",
+      "en": "resources at this problem. And just 88",
+      "zh": ""
+    },
+    {
+      "start": 59.6,
+      "duration": 1.87,
+      "text": "resources at this problem. And just 88 [music] hours later, as I understand it,",
+      "en": "resources at this problem. And just 88 [music] hours later, as I understand it,",
+      "zh": ""
+    },
+    {
+      "start": 61.47,
+      "duration": 0.3,
+      "text": "[music] hours later, as I understand it,",
+      "en": "[music] hours later, as I understand it,",
+      "zh": ""
+    },
+    {
+      "start": 61.48,
+      "duration": 2.43,
+      "text": "[music] hours later, as I understand it, they solved it. Exactly how is also",
+      "en": "[music] hours later, as I understand it, they solved it. Exactly how is also",
+      "zh": ""
+    },
+    {
+      "start": 63.91,
+      "duration": 0.3,
+      "text": "they solved it. Exactly how is also",
+      "en": "they solved it. Exactly how is also",
+      "zh": ""
+    },
+    {
+      "start": 63.92,
+      "duration": 1.95,
+      "text": "they solved it. Exactly how is also controversial, but the big drama is it's",
+      "en": "they solved it. Exactly how is also controversial, but the big drama is it's",
+      "zh": ""
+    },
+    {
+      "start": 65.87,
+      "duration": 0.3,
+      "text": "controversial, but the big drama is it's",
+      "en": "controversial, but the big drama is it's",
+      "zh": ""
+    },
+    {
+      "start": 65.88,
+      "duration": 1.75,
+      "text": "controversial, but the big drama is it's possible those two scientists",
+      "en": "controversial, but the big drama is it's possible those two scientists",
+      "zh": ""
+    },
+    {
+      "start": 67.63,
+      "duration": 0.3,
+      "text": "possible those two scientists",
+      "en": "possible those two scientists",
+      "zh": ""
+    },
+    {
+      "start": 67.64,
+      "duration": 2.79,
+      "text": "possible those two scientists unknowingly taught OpenAI tools how to",
+      "en": "possible those two scientists unknowingly taught OpenAI tools how to",
+      "zh": ""
+    },
+    {
+      "start": 70.43,
+      "duration": 0.3,
+      "text": "unknowingly taught OpenAI tools how to",
+      "en": "unknowingly taught OpenAI tools how to",
+      "zh": ""
+    },
+    {
+      "start": 70.44,
+      "duration": 2.47,
+      "text": "unknowingly taught OpenAI tools how to solve the problem by using them. OpenAI",
+      "en": "unknowingly taught OpenAI tools how to solve the problem by using them. OpenAI",
+      "zh": ""
+    },
+    {
+      "start": 72.91,
+      "duration": 0.3,
+      "text": "solve the problem by using them. OpenAI",
+      "en": "solve the problem by using them. OpenAI",
+      "zh": ""
+    },
+    {
+      "start": 72.92,
+      "duration": 1.79,
+      "text": "solve the problem by using them. OpenAI says, \"Maybe.\" But, what really matters",
+      "en": "solve the problem by using them. OpenAI says, \"Maybe.\" But, what really matters",
+      "zh": ""
+    },
+    {
+      "start": 74.71,
+      "duration": 0.3,
+      "text": "says, \"Maybe.\" But, what really matters",
+      "en": "says, \"Maybe.\" But, what really matters",
+      "zh": ""
+    },
+    {
+      "start": 74.72,
+      "duration": 2.31,
+      "text": "says, \"Maybe.\" But, what really matters here is both groups were using new",
+      "en": "says, \"Maybe.\" But, what really matters here is both groups were using new",
+      "zh": ""
+    },
+    {
+      "start": 77.03,
+      "duration": 0.3,
+      "text": "here is both groups were using new",
+      "en": "here is both groups were using new",
+      "zh": ""
+    },
+    {
+      "start": 77.04,
+      "duration": 2.31,
+      "text": "here is both groups were using new technology to solve a problem we never",
+      "en": "here is both groups were using new technology to solve a problem we never",
+      "zh": ""
+    },
+    {
+      "start": 79.35,
+      "duration": 0.3,
+      "text": "technology to solve a problem we never",
+      "en": "technology to solve a problem we never",
+      "zh": ""
+    },
+    {
+      "start": 79.36,
+      "duration": 1.71,
+      "text": "technology to solve a problem we never solved before. For more like this,",
+      "en": "technology to solve a problem we never solved before. For more like this,",
+      "zh": ""
+    },
+    {
+      "start": 81.07,
+      "duration": 0.3,
+      "text": "solved before. For more like this,",
+      "en": "solved before. For more like this,",
+      "zh": ""
+    },
+    {
+      "start": 81.08,
+      "duration": 2.64,
+      "text": "solved before. For more like this, subscribe.",
+      "en": "solved before. For more like this, subscribe.",
+      "zh": ""
+    }
+  ],
+  "words": []
+}

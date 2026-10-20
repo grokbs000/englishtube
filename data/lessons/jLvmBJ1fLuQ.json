@@ -1,0 +1,341 @@
+{
+  "cues": [
+    {
+      "start": 1.27,
+      "duration": 0.3,
+      "text": "There's a new way to predict the",
+      "en": "There's a new way to predict the",
+      "zh": ""
+    },
+    {
+      "start": 1.28,
+      "duration": 1.71,
+      "text": "There's a new way to predict the weather, and it seems to be much better.",
+      "en": "There's a new way to predict the weather, and it seems to be much better.",
+      "zh": ""
+    },
+    {
+      "start": 2.99,
+      "duration": 0.3,
+      "text": "weather, and it seems to be much better.",
+      "en": "weather, and it seems to be much better.",
+      "zh": ""
+    },
+    {
+      "start": 3.0,
+      "duration": 1.75,
+      "text": "weather, and it seems to be much better. So, your weather app right now probably",
+      "en": "weather, and it seems to be much better. So, your weather app right now probably",
+      "zh": ""
+    },
+    {
+      "start": 4.75,
+      "duration": 0.3,
+      "text": "So, your weather app right now probably",
+      "en": "So, your weather app right now probably",
+      "zh": ""
+    },
+    {
+      "start": 4.76,
+      "duration": 1.51,
+      "text": "So, your weather app right now probably uses measurements from all over the",
+      "en": "So, your weather app right now probably uses measurements from all over the",
+      "zh": ""
+    },
+    {
+      "start": 6.27,
+      "duration": 0.3,
+      "text": "uses measurements from all over the",
+      "en": "uses measurements from all over the",
+      "zh": ""
+    },
+    {
+      "start": 6.28,
+      "duration": 1.23,
+      "text": "uses measurements from all over the world of wind and pressure and",
+      "en": "uses measurements from all over the world of wind and pressure and",
+      "zh": ""
+    },
+    {
+      "start": 7.51,
+      "duration": 0.3,
+      "text": "world of wind and pressure and",
+      "en": "world of wind and pressure and",
+      "zh": ""
+    },
+    {
+      "start": 7.52,
+      "duration": 1.59,
+      "text": "world of wind and pressure and temperature and plugs them into super",
+      "en": "world of wind and pressure and temperature and plugs them into super",
+      "zh": ""
+    },
+    {
+      "start": 9.11,
+      "duration": 0.3,
+      "text": "temperature and plugs them into super",
+      "en": "temperature and plugs them into super",
+      "zh": ""
+    },
+    {
+      "start": 9.12,
+      "duration": 1.43,
+      "text": "temperature and plugs them into super complicated physics equations. The",
+      "en": "temperature and plugs them into super complicated physics equations. The",
+      "zh": ""
+    },
+    {
+      "start": 10.55,
+      "duration": 0.3,
+      "text": "complicated physics equations. The",
+      "en": "complicated physics equations. The",
+      "zh": ""
+    },
+    {
+      "start": 10.56,
+      "duration": 1.95,
+      "text": "complicated physics equations. The problem is a single forecast can take",
+      "en": "complicated physics equations. The problem is a single forecast can take",
+      "zh": ""
+    },
+    {
+      "start": 12.51,
+      "duration": 0.3,
+      "text": "problem is a single forecast can take",
+      "en": "problem is a single forecast can take",
+      "zh": ""
+    },
+    {
+      "start": 12.52,
+      "duration": 1.39,
+      "text": "problem is a single forecast can take trillions of [music] calculations. So,",
+      "en": "problem is a single forecast can take trillions of [music] calculations. So,",
+      "zh": ""
+    },
+    {
+      "start": 13.91,
+      "duration": 0.3,
+      "text": "trillions of [music] calculations. So,",
+      "en": "trillions of [music] calculations. So,",
+      "zh": ""
+    },
+    {
+      "start": 13.92,
+      "duration": 1.79,
+      "text": "trillions of [music] calculations. So, they're only great at predicting either",
+      "en": "trillions of [music] calculations. So, they're only great at predicting either",
+      "zh": ""
+    },
+    {
+      "start": 15.71,
+      "duration": 0.3,
+      "text": "they're only great at predicting either",
+      "en": "they're only great at predicting either",
+      "zh": ""
+    },
+    {
+      "start": 15.72,
+      "duration": 1.91,
+      "text": "they're only great at predicting either where the storm will go or how intense",
+      "en": "they're only great at predicting either where the storm will go or how intense",
+      "zh": ""
+    },
+    {
+      "start": 17.63,
+      "duration": 0.3,
+      "text": "where the storm will go or how intense",
+      "en": "where the storm will go or how intense",
+      "zh": ""
+    },
+    {
+      "start": 17.64,
+      "duration": 1.75,
+      "text": "where the storm will go or how intense it'll get. But, this new model learns by",
+      "en": "where the storm will go or how intense it'll get. But, this new model learns by",
+      "zh": ""
+    },
+    {
+      "start": 19.39,
+      "duration": 0.3,
+      "text": "it'll get. But, this new model learns by",
+      "en": "it'll get. But, this new model learns by",
+      "zh": ""
+    },
+    {
+      "start": 19.4,
+      "duration": 1.75,
+      "text": "it'll get. But, this new model learns by looking at a bunch of historical data,",
+      "en": "it'll get. But, this new model learns by looking at a bunch of historical data,",
+      "zh": ""
+    },
+    {
+      "start": 21.15,
+      "duration": 0.3,
+      "text": "looking at a bunch of historical data,",
+      "en": "looking at a bunch of historical data,",
+      "zh": ""
+    },
+    {
+      "start": 21.16,
+      "duration": 1.67,
+      "text": "looking at a bunch of historical data, both of measured weather in the past and",
+      "en": "looking at a bunch of historical data, both of measured weather in the past and",
+      "zh": ""
+    },
+    {
+      "start": 22.83,
+      "duration": 0.3,
+      "text": "both of measured weather in the past and",
+      "en": "both of measured weather in the past and",
+      "zh": ""
+    },
+    {
+      "start": 22.84,
+      "duration": 1.71,
+      "text": "both of measured weather in the past and of previous cyclones. And that data,",
+      "en": "both of measured weather in the past and of previous cyclones. And that data,",
+      "zh": ""
+    },
+    {
+      "start": 24.55,
+      "duration": 0.3,
+      "text": "of previous cyclones. And that data,",
+      "en": "of previous cyclones. And that data,",
+      "zh": ""
+    },
+    {
+      "start": 24.56,
+      "duration": 1.39,
+      "text": "of previous cyclones. And that data, paired with satellite imagery, helps it",
+      "en": "of previous cyclones. And that data, paired with satellite imagery, helps it",
+      "zh": ""
+    },
+    {
+      "start": 25.95,
+      "duration": 0.3,
+      "text": "paired with satellite imagery, helps it",
+      "en": "paired with satellite imagery, helps it",
+      "zh": ""
+    },
+    {
+      "start": 25.96,
+      "duration": 1.87,
+      "text": "paired with satellite imagery, helps it find patterns in how weather develops.",
+      "en": "paired with satellite imagery, helps it find patterns in how weather develops.",
+      "zh": ""
+    },
+    {
+      "start": 27.83,
+      "duration": 0.3,
+      "text": "find patterns in how weather develops.",
+      "en": "find patterns in how weather develops.",
+      "zh": ""
+    },
+    {
+      "start": 27.84,
+      "duration": 1.51,
+      "text": "find patterns in how weather develops. And it's now better than traditional",
+      "en": "find patterns in how weather develops. And it's now better than traditional",
+      "zh": ""
+    },
+    {
+      "start": 29.35,
+      "duration": 0.3,
+      "text": "And it's now better than traditional",
+      "en": "And it's now better than traditional",
+      "zh": ""
+    },
+    {
+      "start": 29.36,
+      "duration": 2.59,
+      "text": "And it's now better than traditional methods at both predicting the path and",
+      "en": "And it's now better than traditional methods at both predicting the path and",
+      "zh": ""
+    },
+    {
+      "start": 31.95,
+      "duration": 0.3,
+      "text": "methods at both predicting the path and",
+      "en": "methods at both predicting the path and",
+      "zh": ""
+    },
+    {
+      "start": 31.96,
+      "duration": 1.79,
+      "text": "methods at both predicting the path and the intensity. So much so, that we could",
+      "en": "methods at both predicting the path and the intensity. So much so, that we could",
+      "zh": ""
+    },
+    {
+      "start": 33.75,
+      "duration": 0.3,
+      "text": "the intensity. So much so, that we could",
+      "en": "the intensity. So much so, that we could",
+      "zh": ""
+    },
+    {
+      "start": 33.76,
+      "duration": 2.35,
+      "text": "the intensity. So much so, that we could get the same level of accuracy a full",
+      "en": "the intensity. So much so, that we could get the same level of accuracy a full",
+      "zh": ""
+    },
+    {
+      "start": 36.11,
+      "duration": 0.3,
+      "text": "get the same level of accuracy a full",
+      "en": "get the same level of accuracy a full",
+      "zh": ""
+    },
+    {
+      "start": 36.12,
+      "duration": 1.43,
+      "text": "get the same level of accuracy a full day earlier. [music] But, we know that",
+      "en": "get the same level of accuracy a full day earlier. [music] But, we know that",
+      "zh": ""
+    },
+    {
+      "start": 37.55,
+      "duration": 0.3,
+      "text": "day earlier. [music] But, we know that",
+      "en": "day earlier. [music] But, we know that",
+      "zh": ""
+    },
+    {
+      "start": 37.56,
+      "duration": 1.35,
+      "text": "day earlier. [music] But, we know that this year half the world's weather",
+      "en": "day earlier. [music] But, we know that this year half the world's weather",
+      "zh": ""
+    },
+    {
+      "start": 38.91,
+      "duration": 0.3,
+      "text": "this year half the world's weather",
+      "en": "this year half the world's weather",
+      "zh": ""
+    },
+    {
+      "start": 38.92,
+      "duration": 1.59,
+      "text": "this year half the world's weather system is about to break. So, to see",
+      "en": "this year half the world's weather system is about to break. So, to see",
+      "zh": ""
+    },
+    {
+      "start": 40.51,
+      "duration": 0.3,
+      "text": "system is about to break. So, to see",
+      "en": "system is about to break. So, to see",
+      "zh": ""
+    },
+    {
+      "start": 40.52,
+      "duration": 3.04,
+      "text": "system is about to break. So, to see why, subscribe.",
+      "en": "system is about to break. So, to see why, subscribe.",
+      "zh": ""
+    }
+  ],
+  "words": []
+}

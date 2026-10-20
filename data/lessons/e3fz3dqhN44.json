@@ -1,0 +1,1790 @@
+{
+  "cues": [
+    {
+      "start": 0.0,
+      "duration": 2.13,
+      "text": "So, this is it!",
+      "en": "So, this is it!",
+      "zh": ""
+    },
+    {
+      "start": 2.13,
+      "duration": 2.0,
+      "text": "This... this is a quantum computer?",
+      "en": "This... this is a quantum computer?",
+      "zh": ""
+    },
+    {
+      "start": 4.13,
+      "duration": 1.04,
+      "text": "This is a quantum computer!",
+      "en": "This is a quantum computer!",
+      "zh": ""
+    },
+    {
+      "start": 9.67,
+      "duration": 4.67,
+      "text": "Here I am seeing a real life quantum computer for the very first time, with",
+      "en": "Here I am seeing a real life quantum computer for the very first time, with",
+      "zh": ""
+    },
+    {
+      "start": 14.34,
+      "duration": 5.46,
+      "text": "my friend and king of tech YouTube Marques Brownlee. And I'm finally understanding why",
+      "en": "my friend and king of tech YouTube Marques Brownlee. And I'm finally understanding why",
+      "zh": ""
+    },
+    {
+      "start": 19.8,
+      "duration": 1.92,
+      "text": "quantum computers are such a big deal.",
+      "en": "quantum computers are such a big deal.",
+      "zh": ""
+    },
+    {
+      "start": 21.72,
+      "duration": 0.76,
+      "text": "\"Quantum computers...\"",
+      "en": "\"Quantum computers...\"",
+      "zh": ""
+    },
+    {
+      "start": 22.48,
+      "duration": 1.22,
+      "text": "\"Quantum technology...\"",
+      "en": "\"Quantum technology...\"",
+      "zh": ""
+    },
+    {
+      "start": 23.7,
+      "duration": 2.51,
+      "text": "\"What on earth is a quantum computer?\"",
+      "en": "\"What on earth is a quantum computer?\"",
+      "zh": ""
+    },
+    {
+      "start": 26.21,
+      "duration": 1.14,
+      "text": "\"Bits! Qubits!\"",
+      "en": "\"Bits! Qubits!\"",
+      "zh": ""
+    },
+    {
+      "start": 27.35,
+      "duration": 2.41,
+      "text": "\"Try all the codes at once!\"",
+      "en": "\"Try all the codes at once!\"",
+      "zh": ""
+    },
+    {
+      "start": 29.76,
+      "duration": 2.9,
+      "text": "\"Whichever nation first develops a practical quantum computer",
+      "en": "\"Whichever nation first develops a practical quantum computer",
+      "zh": ""
+    },
+    {
+      "start": 32.66,
+      "duration": 1.24,
+      "text": "will have a tremendous advantage...\"",
+      "en": "will have a tremendous advantage...\"",
+      "zh": ""
+    },
+    {
+      "start": 33.9,
+      "duration": 1.29,
+      "text": "\"Quantum Supremacy...\"",
+      "en": "\"Quantum Supremacy...\"",
+      "zh": ""
+    },
+    {
+      "start": 35.19,
+      "duration": 4.68,
+      "text": "I see a lot of news about quantum computers and it's always extremely confusing",
+      "en": "I see a lot of news about quantum computers and it's always extremely confusing",
+      "zh": ""
+    },
+    {
+      "start": 39.87,
+      "duration": 3.35,
+      "text": "\"That was really well done and I still need to re-hear it...\"",
+      "en": "\"That was really well done and I still need to re-hear it...\"",
+      "zh": ""
+    },
+    {
+      "start": 43.22,
+      "duration": 2.17,
+      "text": "But also it's often wrong.",
+      "en": "But also it's often wrong.",
+      "zh": ""
+    },
+    {
+      "start": 45.39,
+      "duration": 4.17,
+      "text": "Quantum computers aren't super computers. They aren't bigger, faster versions",
+      "en": "Quantum computers aren't super computers. They aren't bigger, faster versions",
+      "zh": ""
+    },
+    {
+      "start": 49.56,
+      "duration": 4.44,
+      "text": "of what we use now. They're something totally different. And that difference is actually the",
+      "en": "of what we use now. They're something totally different. And that difference is actually the",
+      "zh": ""
+    },
+    {
+      "start": 54.0,
+      "duration": 4.44,
+      "text": "key to understanding why they're such a big deal, why governments around the world are battling it",
+      "en": "key to understanding why they're such a big deal, why governments around the world are battling it",
+      "zh": ""
+    },
+    {
+      "start": 58.44,
+      "duration": 5.22,
+      "text": "out to build them the fastest. Quantum computers are wild. They're on track to change what we can",
+      "en": "out to build them the fastest. Quantum computers are wild. They're on track to change what we can",
+      "zh": ""
+    },
+    {
+      "start": 63.66,
+      "duration": 5.34,
+      "text": "build and how we understand the world. They're kept at temperatures colder than space... but if you",
+      "en": "build and how we understand the world. They're kept at temperatures colder than space... but if you",
+      "zh": ""
+    },
+    {
+      "start": 69.0,
+      "duration": 2.14,
+      "text": "think you really understand how they work...",
+      "en": "think you really understand how they work...",
+      "zh": ""
+    },
+    {
+      "start": 71.14,
+      "duration": 4.75,
+      "text": "you're probably wrong. At least, I didn't. And that's where this video starts.",
+      "en": "you're probably wrong. At least, I didn't. And that's where this video starts.",
+      "zh": ""
+    },
+    {
+      "start": 75.89,
+      "duration": 3.91,
+      "text": "Marques and I both realized that there was this big important technology",
+      "en": "Marques and I both realized that there was this big important technology",
+      "zh": ""
+    },
+    {
+      "start": 79.8,
+      "duration": 6.3,
+      "text": "that we really didn't understand. So we decided to go on an adventure to figure out the truth about",
+      "en": "that we really didn't understand. So we decided to go on an adventure to figure out the truth about",
+      "zh": ""
+    },
+    {
+      "start": 86.1,
+      "duration": 5.1,
+      "text": "quantum computers - what they can really do and why we should care. And of course we're taking",
+      "en": "quantum computers - what they can really do and why we should care. And of course we're taking",
+      "zh": ""
+    },
+    {
+      "start": 91.2,
+      "duration": 5.7,
+      "text": "you on that adventure with us, to show you what we learn as we learn it and more importantly to show",
+      "en": "you on that adventure with us, to show you what we learn as we learn it and more importantly to show",
+      "zh": ""
+    },
+    {
+      "start": 96.9,
+      "duration": 3.51,
+      "text": "you how these crazy computers might actually impact your life...",
+      "en": "you how these crazy computers might actually impact your life...",
+      "zh": ""
+    },
+    {
+      "start": 100.41,
+      "duration": 2.0,
+      "text": "...and sooner than you think.",
+      "en": "...and sooner than you think.",
+      "zh": ""
+    },
+    {
+      "start": 106.09,
+      "duration": 2.15,
+      "text": "It's a very niche skill we just got, which is being able",
+      "en": "It's a very niche skill we just got, which is being able",
+      "zh": ""
+    },
+    {
+      "start": 108.24,
+      "duration": 1.98,
+      "text": "to hear when a quantum computer is working.",
+      "en": "to hear when a quantum computer is working.",
+      "zh": ""
+    },
+    {
+      "start": 110.22,
+      "duration": 1.8,
+      "text": "What does it sound like?",
+      "en": "What does it sound like?",
+      "zh": ""
+    },
+    {
+      "start": 112.02,
+      "duration": 1.87,
+      "text": "Sh-pp-sh-ppp-sh-ppp-sh...",
+      "en": "Sh-pp-sh-ppp-sh-ppp-sh...",
+      "zh": ""
+    },
+    {
+      "start": 121.03,
+      "duration": 2.03,
+      "text": "[Confused sounds]",
+      "en": "[Confused sounds]",
+      "zh": ""
+    },
+    {
+      "start": 123.06,
+      "duration": 5.4,
+      "text": "So it works, it's not broken. I swear I'm usually good with tech but...",
+      "en": "So it works, it's not broken. I swear I'm usually good with tech but...",
+      "zh": ""
+    },
+    {
+      "start": 128.46,
+      "duration": 6.06,
+      "text": "The only function of this screen is to provide directions... you're getting this?",
+      "en": "The only function of this screen is to provide directions... you're getting this?",
+      "zh": ""
+    },
+    {
+      "start": 136.62,
+      "duration": 3.65,
+      "text": "So we're going to visit IBM's quantum computer. This is really exciting that",
+      "en": "So we're going to visit IBM's quantum computer. This is really exciting that",
+      "zh": ""
+    },
+    {
+      "start": 140.27,
+      "duration": 2.83,
+      "text": "they're letting us see this computer because",
+      "en": "they're letting us see this computer because",
+      "zh": ""
+    },
+    {
+      "start": 143.1,
+      "duration": 4.32,
+      "text": "it is to my knowledge the largest quantum computer that exists which I say with",
+      "en": "it is to my knowledge the largest quantum computer that exists which I say with",
+      "zh": ""
+    },
+    {
+      "start": 147.42,
+      "duration": 1.84,
+      "text": "confidence like I know what that means...",
+      "en": "confidence like I know what that means...",
+      "zh": ""
+    },
+    {
+      "start": 149.26,
+      "duration": 1.7,
+      "text": "I was gonna say, what is \"biggest\" because like",
+      "en": "I was gonna say, what is \"biggest\" because like",
+      "zh": ""
+    },
+    {
+      "start": 150.96,
+      "duration": 4.98,
+      "text": "super computers, they're massive rooms full of computers and I",
+      "en": "super computers, they're massive rooms full of computers and I",
+      "zh": ""
+    },
+    {
+      "start": 155.94,
+      "duration": 3.0,
+      "text": "when someone says \"we have the biggest supercomputer,\" I'm like oh I can picture",
+      "en": "when someone says \"we have the biggest supercomputer,\" I'm like oh I can picture",
+      "zh": ""
+    },
+    {
+      "start": 158.94,
+      "duration": 3.37,
+      "text": "that. The largest quantum computer... I'm not even sure what to picture.",
+      "en": "that. The largest quantum computer... I'm not even sure what to picture.",
+      "zh": ""
+    },
+    {
+      "start": 162.31,
+      "duration": 2.0,
+      "text": "I imagine the golden octopus...",
+      "en": "I imagine the golden octopus...",
+      "zh": ""
+    },
+    {
+      "start": 164.31,
+      "duration": 1.95,
+      "text": "You know that Biden looked at like [confused]...",
+      "en": "You know that Biden looked at like [confused]...",
+      "zh": ""
+    },
+    {
+      "start": 166.26,
+      "duration": 1.33,
+      "text": "The press images, yeah.",
+      "en": "The press images, yeah.",
+      "zh": ""
+    },
+    {
+      "start": 167.59,
+      "duration": 5.0,
+      "text": "And I know that in order to see that they have to shut down the computer, so this",
+      "en": "And I know that in order to see that they have to shut down the computer, so this",
+      "zh": ""
+    },
+    {
+      "start": 172.59,
+      "duration": 2.88,
+      "text": "took some real logistics on their part to allow us to see it...",
+      "en": "took some real logistics on their part to allow us to see it...",
+      "zh": ""
+    },
+    {
+      "start": 175.47,
+      "duration": 0.56,
+      "text": "This is the real deal.",
+      "en": "This is the real deal.",
+      "zh": ""
+    },
+    {
+      "start": 176.03,
+      "duration": 3.26,
+      "text": "What is most interesting to you about quantum computing?",
+      "en": "What is most interesting to you about quantum computing?",
+      "zh": ""
+    },
+    {
+      "start": 179.29,
+      "duration": 5.87,
+      "text": "It's definitely on the edge of my expertise, I would say. I'm really curious about",
+      "en": "It's definitely on the edge of my expertise, I would say. I'm really curious about",
+      "zh": ""
+    },
+    {
+      "start": 185.16,
+      "duration": 5.28,
+      "text": "when it's actually going to touch like regular people. My whole concern is purchase decisions.",
+      "en": "when it's actually going to touch like regular people. My whole concern is purchase decisions.",
+      "zh": ""
+    },
+    {
+      "start": 190.44,
+      "duration": 4.8,
+      "text": "at some point in the future quantum computing will come into play with a real purchase decision. Someone",
+      "en": "at some point in the future quantum computing will come into play with a real purchase decision. Someone",
+      "zh": ""
+    },
+    {
+      "start": 195.24,
+      "duration": 5.28,
+      "text": "will have like a device that they can buy where quantum computing is a part of it or maybe went",
+      "en": "will have like a device that they can buy where quantum computing is a part of it or maybe went",
+      "zh": ""
+    },
+    {
+      "start": 200.52,
+      "duration": 3.24,
+      "text": "into its creation at least. When are we going to get to that point?",
+      "en": "into its creation at least. When are we going to get to that point?",
+      "zh": ""
+    },
+    {
+      "start": 203.76,
+      "duration": 2.96,
+      "text": "One thing I think is think is very important to make clear is",
+      "en": "One thing I think is think is very important to make clear is",
+      "zh": ""
+    },
+    {
+      "start": 206.72,
+      "duration": 3.04,
+      "text": "this is a different kind of explainer. You're just",
+      "en": "this is a different kind of explainer. You're just",
+      "zh": ""
+    },
+    {
+      "start": 209.76,
+      "duration": 1.84,
+      "text": "coming with us as we figure this out.",
+      "en": "coming with us as we figure this out.",
+      "zh": ""
+    },
+    {
+      "start": 211.6,
+      "duration": 1.61,
+      "text": "Exploratory explainer!",
+      "en": "Exploratory explainer!",
+      "zh": ""
+    },
+    {
+      "start": 213.21,
+      "duration": 2.78,
+      "text": "Exactly. A whole new genre. Along for this adventure are",
+      "en": "Exactly. A whole new genre. Along for this adventure are",
+      "zh": ""
+    },
+    {
+      "start": 215.99,
+      "duration": 4.21,
+      "text": "Cody and Nicole. Nicole is an associate producer on this episode who is also",
+      "en": "Cody and Nicole. Nicole is an associate producer on this episode who is also",
+      "zh": ""
+    },
+    {
+      "start": 220.2,
+      "duration": 4.92,
+      "text": "studying quantum communication for her PhD. And Cody is our DP, the man behind the camera.",
+      "en": "studying quantum communication for her PhD. And Cody is our DP, the man behind the camera.",
+      "zh": ""
+    },
+    {
+      "start": 225.12,
+      "duration": 1.29,
+      "text": "Thank god they're both here.",
+      "en": "Thank god they're both here.",
+      "zh": ""
+    },
+    {
+      "start": 226.41,
+      "duration": 4.65,
+      "text": "So when I started doing this episode, I spoke to a really famous quantum",
+      "en": "So when I started doing this episode, I spoke to a really famous quantum",
+      "zh": ""
+    },
+    {
+      "start": 231.06,
+      "duration": 3.96,
+      "text": "physicist. He was really frustrated at the way that people were talking about quantum computers and I",
+      "en": "physicist. He was really frustrated at the way that people were talking about quantum computers and I",
+      "zh": ""
+    },
+    {
+      "start": 235.02,
+      "duration": 2.62,
+      "text": "was like, okay, how do you want people to think about them?",
+      "en": "was like, okay, how do you want people to think about them?",
+      "zh": ""
+    },
+    {
+      "start": 237.64,
+      "duration": 4.48,
+      "text": "Okay, here's the analogy that helps me understand what quantum computers are good for:",
+      "en": "Okay, here's the analogy that helps me understand what quantum computers are good for:",
+      "zh": ""
+    },
+    {
+      "start": 242.12,
+      "duration": 2.26,
+      "text": "Imagine that you're on a video game map",
+      "en": "Imagine that you're on a video game map",
+      "zh": ""
+    },
+    {
+      "start": 244.38,
+      "duration": 4.16,
+      "text": "and how you get around depends on how good you are at doing math...",
+      "en": "and how you get around depends on how good you are at doing math...",
+      "zh": ""
+    },
+    {
+      "start": 248.54,
+      "duration": 2.5,
+      "text": "(You may not want to play this video game, bear with me...)",
+      "en": "(You may not want to play this video game, bear with me...)",
+      "zh": ""
+    },
+    {
+      "start": 251.04,
+      "duration": 5.4,
+      "text": "So first there were no computers. Things like geometry and astronomy took forever.",
+      "en": "So first there were no computers. Things like geometry and astronomy took forever.",
+      "zh": ""
+    },
+    {
+      "start": 256.44,
+      "duration": 4.08,
+      "text": "So you have your little pencil and paper and you're traveling across the mathematical map by walking.",
+      "en": "So you have your little pencil and paper and you're traveling across the mathematical map by walking.",
+      "zh": ""
+    },
+    {
+      "start": 260.52,
+      "duration": 4.44,
+      "text": "It was slow and there were lots of areas that we just couldn't explore because it was beyond our",
+      "en": "It was slow and there were lots of areas that we just couldn't explore because it was beyond our",
+      "zh": ""
+    },
+    {
+      "start": 264.96,
+      "duration": 5.64,
+      "text": "computational ability. But then we developed early computers, and that allowed us to input larger data",
+      "en": "computational ability. But then we developed early computers, and that allowed us to input larger data",
+      "zh": ""
+    },
+    {
+      "start": 270.6,
+      "duration": 4.86,
+      "text": "sets and answer problems that had previously been out of reach. These new computers unlocked",
+      "en": "sets and answer problems that had previously been out of reach. These new computers unlocked",
+      "zh": ""
+    },
+    {
+      "start": 275.46,
+      "duration": 5.28,
+      "text": "new areas on our mathematical map. Instead of walking everywhere we can now ride horses. We",
+      "en": "new areas on our mathematical map. Instead of walking everywhere we can now ride horses. We",
+      "zh": ""
+    },
+    {
+      "start": 280.74,
+      "duration": 4.98,
+      "text": "can get farther faster and we can access areas that were previously inaccessible. But there were",
+      "en": "can get farther faster and we can access areas that were previously inaccessible. But there were",
+      "zh": ""
+    },
+    {
+      "start": 285.72,
+      "duration": 4.68,
+      "text": "still parts of the map that our computers couldn't access. Luckily, computers just kept getting better",
+      "en": "still parts of the map that our computers couldn't access. Luckily, computers just kept getting better",
+      "zh": ""
+    },
+    {
+      "start": 290.4,
+      "duration": 4.8,
+      "text": "and they allowed us to solve more and more complex math problems. As a result, our virtual map has",
+      "en": "and they allowed us to solve more and more complex math problems. As a result, our virtual map has",
+      "zh": ""
+    },
+    {
+      "start": 295.2,
+      "duration": 6.78,
+      "text": "transformed: We have roads and cars and we're just reaching areas that were previously unreachable.",
+      "en": "transformed: We have roads and cars and we're just reaching areas that were previously unreachable.",
+      "zh": ""
+    },
+    {
+      "start": 301.98,
+      "duration": 4.98,
+      "text": "Better computers mean traveling across this map faster and more easily than ever. The thing that he",
+      "en": "Better computers mean traveling across this map faster and more easily than ever. The thing that he",
+      "zh": ""
+    },
+    {
+      "start": 306.96,
+      "duration": 5.88,
+      "text": "said was really important to understand is that quantum computers are not faster cars. They're",
+      "en": "said was really important to understand is that quantum computers are not faster cars. They're",
+      "zh": ""
+    },
+    {
+      "start": 312.84,
+      "duration": 7.2,
+      "text": "BOATS. A boat is not necessarily better than a car, they're just built for totally different terrain.",
+      "en": "BOATS. A boat is not necessarily better than a car, they're just built for totally different terrain.",
+      "zh": ""
+    },
+    {
+      "start": 320.04,
+      "duration": 5.82,
+      "text": "So with our new quantum computers, we're beginning to navigate these new mathematical waters, solving",
+      "en": "So with our new quantum computers, we're beginning to navigate these new mathematical waters, solving",
+      "zh": ""
+    },
+    {
+      "start": 325.86,
+      "duration": 5.22,
+      "text": "problems and discovering areas that traditional computers just can't. My question for IBM is:",
+      "en": "problems and discovering areas that traditional computers just can't. My question for IBM is:",
+      "zh": ""
+    },
+    {
+      "start": 332.04,
+      "duration": 1.34,
+      "text": "What's in the water?",
+      "en": "What's in the water?",
+      "zh": ""
+    },
+    {
+      "start": 333.38,
+      "duration": 0.5,
+      "text": "Oh wow...",
+      "en": "Oh wow...",
+      "zh": ""
+    },
+    {
+      "start": 333.88,
+      "duration": 3.72,
+      "text": "Like, what are the oceans that we're all of a sudden able",
+      "en": "Like, what are the oceans that we're all of a sudden able",
+      "zh": ""
+    },
+    {
+      "start": 337.6,
+      "duration": 1.98,
+      "text": "to explore with our quantum computer-boats?",
+      "en": "to explore with our quantum computer-boats?",
+      "zh": ""
+    },
+    {
+      "start": 339.58,
+      "duration": 3.92,
+      "text": "I love this. I'm an analogy person, so I'm like fully absorbed in this now.",
+      "en": "I love this. I'm an analogy person, so I'm like fully absorbed in this now.",
+      "zh": ""
+    },
+    {
+      "start": 343.5,
+      "duration": 5.82,
+      "text": "This is why I think a quantum computer is never gonna \"beat\" an iPhone. But I think that",
+      "en": "This is why I think a quantum computer is never gonna \"beat\" an iPhone. But I think that",
+      "zh": ""
+    },
+    {
+      "start": 349.32,
+      "duration": 6.0,
+      "text": "this is a better thing to offer the audience, like to offer you guys instead of like \"quantum",
+      "en": "this is a better thing to offer the audience, like to offer you guys instead of like \"quantum",
+      "zh": ""
+    },
+    {
+      "start": 355.32,
+      "duration": 3.23,
+      "text": "computers or just another exciting computer.\"",
+      "en": "computers or just another exciting computer.\"",
+      "zh": ""
+    },
+    {
+      "start": 358.55,
+      "duration": 2.66,
+      "text": "I guess what people are probably clicking on this video are",
+      "en": "I guess what people are probably clicking on this video are",
+      "zh": ""
+    },
+    {
+      "start": 361.21,
+      "duration": 5.94,
+      "text": "thinking in their head is, \"well is there really never ever be a quantum computer in my",
+      "en": "thinking in their head is, \"well is there really never ever be a quantum computer in my",
+      "zh": ""
+    },
+    {
+      "start": 367.15,
+      "duration": 3.93,
+      "text": "pocket?\" And I guess that would be, \"will there ever be a flying car-boat?\"",
+      "en": "pocket?\" And I guess that would be, \"will there ever be a flying car-boat?\"",
+      "zh": ""
+    },
+    {
+      "start": 371.08,
+      "duration": 2.0,
+      "text": "You know, is the tech ever going to get to that point?",
+      "en": "You know, is the tech ever going to get to that point?",
+      "zh": ""
+    },
+    {
+      "start": 373.08,
+      "duration": 3.83,
+      "text": "I just want to say I really appreciate your commitment to this analogy.",
+      "en": "I just want to say I really appreciate your commitment to this analogy.",
+      "zh": ""
+    },
+    {
+      "start": 376.91,
+      "duration": 1.29,
+      "text": "I love it. I love the analogy.",
+      "en": "I love it. I love the analogy.",
+      "zh": ""
+    },
+    {
+      "start": 378.2,
+      "duration": 1.29,
+      "text": "Guys, we have arrived.",
+      "en": "Guys, we have arrived.",
+      "zh": ""
+    },
+    {
+      "start": 380.21,
+      "duration": 1.46,
+      "text": "... where we have arrived to...",
+      "en": "... where we have arrived to...",
+      "zh": ""
+    },
+    {
+      "start": 382.12,
+      "duration": 3.11,
+      "text": "This does not look like there's a quantum computer here.",
+      "en": "This does not look like there's a quantum computer here.",
+      "zh": ""
+    },
+    {
+      "start": 385.23,
+      "duration": 2.0,
+      "text": "IBM Research Division...",
+      "en": "IBM Research Division...",
+      "zh": ""
+    },
+    {
+      "start": 387.23,
+      "duration": 1.81,
+      "text": "Here we go.",
+      "en": "Here we go.",
+      "zh": ""
+    },
+    {
+      "start": 389.77,
+      "duration": 0.78,
+      "text": "Alright...",
+      "en": "Alright...",
+      "zh": ""
+    },
+    {
+      "start": 393.01,
+      "duration": 0.88,
+      "text": "Let's go!",
+      "en": "Let's go!",
+      "zh": ""
+    },
+    {
+      "start": 394.2,
+      "duration": 0.92,
+      "text": "Let's go see a quantum computer.",
+      "en": "Let's go see a quantum computer.",
+      "zh": ""
+    },
+    {
+      "start": 395.74,
+      "duration": 1.76,
+      "text": "We made it, we're here. Here we go.",
+      "en": "We made it, we're here. Here we go.",
+      "zh": ""
+    },
+    {
+      "start": 398.05,
+      "duration": 3.03,
+      "text": "Do you want to introduce yourself first? Olivia, audience. Audience, Olivia.",
+      "en": "Do you want to introduce yourself first? Olivia, audience. Audience, Olivia.",
+      "zh": ""
+    },
+    {
+      "start": 401.08,
+      "duration": 1.58,
+      "text": "Hi! I'm Olivia Lanes.",
+      "en": "Hi! I'm Olivia Lanes.",
+      "zh": ""
+    },
+    {
+      "start": 402.66,
+      "duration": 4.21,
+      "text": "I'm a researcher at IBM and I also work on the education and",
+      "en": "I'm a researcher at IBM and I also work on the education and",
+      "zh": ""
+    },
+    {
+      "start": 406.87,
+      "duration": 2.46,
+      "text": "the community team. We're gonna go look for a quantum computer.",
+      "en": "the community team. We're gonna go look for a quantum computer.",
+      "zh": ""
+    },
+    {
+      "start": 415.44,
+      "duration": 0.84,
+      "text": "What's goin' on here?",
+      "en": "What's goin' on here?",
+      "zh": ""
+    },
+    {
+      "start": 416.29,
+      "duration": 8.22,
+      "text": "This is our Watson setup... no please go ahead... this is where the Watson AI was displayed",
+      "en": "This is our Watson setup... no please go ahead... this is where the Watson AI was displayed",
+      "zh": ""
+    },
+    {
+      "start": 424.51,
+      "duration": 3.25,
+      "text": "and it competed on Jeopardy with Ken Jennings...",
+      "en": "and it competed on Jeopardy with Ken Jennings...",
+      "zh": ""
+    },
+    {
+      "start": 427.76,
+      "duration": 2.0,
+      "text": "\"Watson?\" \"What is shoe?\" \"You are right!\"",
+      "en": "\"Watson?\" \"What is shoe?\" \"You are right!\"",
+      "zh": ""
+    },
+    {
+      "start": 429.76,
+      "duration": 4.61,
+      "text": "This is Brent. It's Brent's lab, so it's very nice of him to...",
+      "en": "This is Brent. It's Brent's lab, so it's very nice of him to...",
+      "zh": ""
+    },
+    {
+      "start": 434.37,
+      "duration": 2.0,
+      "text": "Great to meet you. Thanks for having us!",
+      "en": "Great to meet you. Thanks for having us!",
+      "zh": ""
+    },
+    {
+      "start": 437.05,
+      "duration": 1.1,
+      "text": "So this is the lab...",
+      "en": "So this is the lab...",
+      "zh": ""
+    },
+    {
+      "start": 439.56,
+      "duration": 1.39,
+      "text": "That's a quantum computer?",
+      "en": "That's a quantum computer?",
+      "zh": ""
+    },
+    {
+      "start": 440.95,
+      "duration": 2.28,
+      "text": "Yeah. Actually, this is a dilution refrigerator.",
+      "en": "Yeah. Actually, this is a dilution refrigerator.",
+      "zh": ""
+    },
+    {
+      "start": 443.23,
+      "duration": 5.7,
+      "text": "This whole thing is basically constructed to keep the quantum computer very very cold:",
+      "en": "This whole thing is basically constructed to keep the quantum computer very very cold:",
+      "zh": ""
+    },
+    {
+      "start": 448.93,
+      "duration": 4.62,
+      "text": "15 millikelvin. It's the coldest thing basically in the universe. It's colder than outer space.",
+      "en": "15 millikelvin. It's the coldest thing basically in the universe. It's colder than outer space.",
+      "zh": ""
+    },
+    {
+      "start": 453.55,
+      "duration": 3.93,
+      "text": "So inside that is 15 millikelvin? Yep.",
+      "en": "So inside that is 15 millikelvin? Yep.",
+      "zh": ""
+    },
+    {
+      "start": 457.48,
+      "duration": 2.0,
+      "text": "[That is very cold]",
+      "en": "[That is very cold]",
+      "zh": ""
+    },
+    {
+      "start": 459.9,
+      "duration": 2.29,
+      "text": "So here, let me show you the one that we can like play with...",
+      "en": "So here, let me show you the one that we can like play with...",
+      "zh": ""
+    },
+    {
+      "start": 463.03,
+      "duration": 0.84,
+      "text": "This is it...",
+      "en": "This is it...",
+      "zh": ""
+    },
+    {
+      "start": 463.87,
+      "duration": 1.76,
+      "text": "This... this is a quantum computer.",
+      "en": "This... this is a quantum computer.",
+      "zh": ""
+    },
+    {
+      "start": 465.63,
+      "duration": 1.39,
+      "text": "This is a quantum computer.",
+      "en": "This is a quantum computer.",
+      "zh": ""
+    },
+    {
+      "start": 467.72,
+      "duration": 1.04,
+      "text": "[Ohhhh yeahhhh]",
+      "en": "[Ohhhh yeahhhh]",
+      "zh": ""
+    },
+    {
+      "start": 470.49,
+      "duration": 5.27,
+      "text": "The quantum computer is a chip in this one here but this whole thing",
+      "en": "The quantum computer is a chip in this one here but this whole thing",
+      "zh": ""
+    },
+    {
+      "start": 475.76,
+      "duration": 2.69,
+      "text": "keeps the quantum computer working at insanely",
+      "en": "keeps the quantum computer working at insanely",
+      "zh": ""
+    },
+    {
+      "start": 478.45,
+      "duration": 1.75,
+      "text": "cold temperatures like we talked about.",
+      "en": "cold temperatures like we talked about.",
+      "zh": ""
+    },
+    {
+      "start": 480.2,
+      "duration": 2.68,
+      "text": "So this is all refrigerator technology?",
+      "en": "So this is all refrigerator technology?",
+      "zh": ""
+    },
+    {
+      "start": 482.88,
+      "duration": 4.92,
+      "text": "All of these cables that you see here on the side carry signals",
+      "en": "All of these cables that you see here on the side carry signals",
+      "zh": ""
+    },
+    {
+      "start": 487.8,
+      "duration": 3.85,
+      "text": "down through the fridge into the processor and then",
+      "en": "down through the fridge into the processor and then",
+      "zh": ""
+    },
+    {
+      "start": 491.65,
+      "duration": 6.12,
+      "text": "they do their their quantum stuff and it comes up and it goes to these room temperature control",
+      "en": "they do their their quantum stuff and it comes up and it goes to these room temperature control",
+      "zh": ""
+    },
+    {
+      "start": 497.77,
+      "duration": 3.33,
+      "text": "electronics and they turn it into things that humans can understand.",
+      "en": "electronics and they turn it into things that humans can understand.",
+      "zh": ""
+    },
+    {
+      "start": 501.1,
+      "duration": 4.46,
+      "text": "That is a quantum computer. We were allowed to touch it which was cool.",
+      "en": "That is a quantum computer. We were allowed to touch it which was cool.",
+      "zh": ""
+    },
+    {
+      "start": 505.56,
+      "duration": 1.39,
+      "text": "Oh my god...",
+      "en": "Oh my god...",
+      "zh": ""
+    },
+    {
+      "start": 506.95,
+      "duration": 1.68,
+      "text": "So I think it's really funny that when people",
+      "en": "So I think it's really funny that when people",
+      "zh": ""
+    },
+    {
+      "start": 508.63,
+      "duration": 3.96,
+      "text": "generally talk about like the difference between classical and quantum computers people are like",
+      "en": "generally talk about like the difference between classical and quantum computers people are like",
+      "zh": ""
+    },
+    {
+      "start": 512.59,
+      "duration": 3.66,
+      "text": "\"okay well you know how a classical computer works, right?\" but like the truth is that like",
+      "en": "\"okay well you know how a classical computer works, right?\" but like the truth is that like",
+      "zh": ""
+    },
+    {
+      "start": 516.25,
+      "duration": 4.14,
+      "text": "nobody knows that. A simplification of it is it comes down to bits.",
+      "en": "nobody knows that. A simplification of it is it comes down to bits.",
+      "zh": ""
+    },
+    {
+      "start": 520.77,
+      "duration": 0.5,
+      "text": "[BITS]",
+      "en": "[BITS]",
+      "zh": ""
+    },
+    {
+      "start": 521.53,
+      "duration": 4.62,
+      "text": "and bits are made out of pieces of silicon and you have you know tens of thousands to millions",
+      "en": "and bits are made out of pieces of silicon and you have you know tens of thousands to millions",
+      "zh": ""
+    },
+    {
+      "start": 526.15,
+      "duration": 5.46,
+      "text": "of them in your computer. And they can either be in the state zero or one. We call it the ground state",
+      "en": "of them in your computer. And they can either be in the state zero or one. We call it the ground state",
+      "zh": ""
+    },
+    {
+      "start": 531.61,
+      "duration": 5.52,
+      "text": "or the excited state. And everything that you type into your computer, all words, all numbers, all",
+      "en": "or the excited state. And everything that you type into your computer, all words, all numbers, all",
+      "zh": ""
+    },
+    {
+      "start": 537.13,
+      "duration": 6.36,
+      "text": "colors, get translated into computer speech. But it's very binary, right. A quantum computer is run",
+      "en": "colors, get translated into computer speech. But it's very binary, right. A quantum computer is run",
+      "zh": ""
+    },
+    {
+      "start": 543.49,
+      "duration": 6.84,
+      "text": "on qubits. Qubits aren't like bits. They aren't a one or a zero. They're more complex. Think of this",
+      "en": "on qubits. Qubits aren't like bits. They aren't a one or a zero. They're more complex. Think of this",
+      "zh": ""
+    },
+    {
+      "start": 550.33,
+      "duration": 6.18,
+      "text": "like a wave: A qubit could be really likely to be zero which means a lower energy wave. Or it could",
+      "en": "like a wave: A qubit could be really likely to be zero which means a lower energy wave. Or it could",
+      "zh": ""
+    },
+    {
+      "start": 556.51,
+      "duration": 5.76,
+      "text": "be really likely to be one which means a higher energy wave and each qubit has a probability of",
+      "en": "be really likely to be one which means a higher energy wave and each qubit has a probability of",
+      "zh": ""
+    },
+    {
+      "start": 562.27,
+      "duration": 5.4,
+      "text": "being each. When a quantum computer is working, the probabilities of multiple qubits interact.",
+      "en": "being each. When a quantum computer is working, the probabilities of multiple qubits interact.",
+      "zh": ""
+    },
+    {
+      "start": 567.67,
+      "duration": 2.75,
+      "text": "And they add constructively or destructively",
+      "en": "And they add constructively or destructively",
+      "zh": ""
+    },
+    {
+      "start": 570.42,
+      "duration": 4.64,
+      "text": "just like waves would if you were to tap two places in a pond...",
+      "en": "just like waves would if you were to tap two places in a pond...",
+      "zh": ""
+    },
+    {
+      "start": 575.06,
+      "duration": 2.03,
+      "text": "You know how when you explain something to a two-year-old",
+      "en": "You know how when you explain something to a two-year-old",
+      "zh": ""
+    },
+    {
+      "start": 577.09,
+      "duration": 4.08,
+      "text": "and they just keep going \"why?\" and you have to explain again and they go \"why?\"... my question",
+      "en": "and they just keep going \"why?\" and you have to explain again and they go \"why?\"... my question",
+      "zh": ""
+    },
+    {
+      "start": 581.17,
+      "duration": 7.74,
+      "text": "is: As the controller of the computer, you decide what about those probabilities?",
+      "en": "is: As the controller of the computer, you decide what about those probabilities?",
+      "zh": ""
+    },
+    {
+      "start": 589.44,
+      "duration": 4.17,
+      "text": "Basically, you are altering the probabilities while you're running an algorithm...",
+      "en": "Basically, you are altering the probabilities while you're running an algorithm...",
+      "zh": ""
+    },
+    {
+      "start": 593.61,
+      "duration": 5.52,
+      "text": "It's a common misconception that quantum computers \"try all the options.\" That's not right.",
+      "en": "It's a common misconception that quantum computers \"try all the options.\" That's not right.",
+      "zh": ""
+    },
+    {
+      "start": 599.13,
+      "duration": 4.83,
+      "text": "This is simplified but it's more like a quantum computer kind of watches the pond...",
+      "en": "This is simplified but it's more like a quantum computer kind of watches the pond...",
+      "zh": ""
+    },
+    {
+      "start": 603.96,
+      "duration": 2.29,
+      "text": "it watches how all of those waves interact",
+      "en": "it watches how all of those waves interact",
+      "zh": ""
+    },
+    {
+      "start": 606.25,
+      "duration": 4.92,
+      "text": "and then finds the most likely answer. If this is all confusing, don't worry, all you really need to",
+      "en": "and then finds the most likely answer. If this is all confusing, don't worry, all you really need to",
+      "zh": ""
+    },
+    {
+      "start": 611.17,
+      "duration": 4.92,
+      "text": "know is that quantum computers calculate things very differently than classical computers do and",
+      "en": "know is that quantum computers calculate things very differently than classical computers do and",
+      "zh": ""
+    },
+    {
+      "start": 616.09,
+      "duration": 2.05,
+      "text": "that makes them good at different things.",
+      "en": "that makes them good at different things.",
+      "zh": ""
+    },
+    {
+      "start": 618.14,
+      "duration": 2.51,
+      "text": "Quantum computers are not going to be faster at everything",
+      "en": "Quantum computers are not going to be faster at everything",
+      "zh": ""
+    },
+    {
+      "start": 620.65,
+      "duration": 5.1,
+      "text": "than a classical computer. Like, it's not good for addition right, because your calculator and your",
+      "en": "than a classical computer. Like, it's not good for addition right, because your calculator and your",
+      "zh": ""
+    },
+    {
+      "start": 625.75,
+      "duration": 4.38,
+      "text": "phone is perfectly good at that. But the things that quantum computers are good at is finding",
+      "en": "phone is perfectly good at that. But the things that quantum computers are good at is finding",
+      "zh": ""
+    },
+    {
+      "start": 630.13,
+      "duration": 6.25,
+      "text": "structure in tons of data. And if you're interested we can close it back up...",
+      "en": "structure in tons of data. And if you're interested we can close it back up...",
+      "zh": ""
+    },
+    {
+      "start": 636.38,
+      "duration": 2.39,
+      "text": "Absolutely. Put us to work.",
+      "en": "Absolutely. Put us to work.",
+      "zh": ""
+    },
+    {
+      "start": 647.18,
+      "duration": 1.7,
+      "text": "Let's go back to our virtual map:",
+      "en": "Let's go back to our virtual map:",
+      "zh": ""
+    },
+    {
+      "start": 648.88,
+      "duration": 4.83,
+      "text": "So we have our boats, and we're floating around discovering new parts of this map. One of the",
+      "en": "So we have our boats, and we're floating around discovering new parts of this map. One of the",
+      "zh": ""
+    },
+    {
+      "start": 653.71,
+      "duration": 3.24,
+      "text": "first new areas of interest is \"simulating nature.\"",
+      "en": "first new areas of interest is \"simulating nature.\"",
+      "zh": ""
+    },
+    {
+      "start": 656.95,
+      "duration": 2.0,
+      "text": "Simulation of nature seems really interesting.",
+      "en": "Simulation of nature seems really interesting.",
+      "zh": ""
+    },
+    {
+      "start": 658.95,
+      "duration": 1.59,
+      "text": "Why is nature one of the things?",
+      "en": "Why is nature one of the things?",
+      "zh": ""
+    },
+    {
+      "start": 660.54,
+      "duration": 5.18,
+      "text": "So nature fundamentally is quantum and it obeys quantum physics.",
+      "en": "So nature fundamentally is quantum and it obeys quantum physics.",
+      "zh": ""
+    },
+    {
+      "start": 665.72,
+      "duration": 5.81,
+      "text": "We just don't normally see it but if you look at like a molecular level and like the atomic",
+      "en": "We just don't normally see it but if you look at like a molecular level and like the atomic",
+      "zh": ""
+    },
+    {
+      "start": 671.53,
+      "duration": 6.42,
+      "text": "structure of molecules, everything has to follow the laws of quantum physics. It's really hard",
+      "en": "structure of molecules, everything has to follow the laws of quantum physics. It's really hard",
+      "zh": ""
+    },
+    {
+      "start": 677.95,
+      "duration": 6.78,
+      "text": "to calculate what a material or what an atom is going to do a certain size. So at a certain point",
+      "en": "to calculate what a material or what an atom is going to do a certain size. So at a certain point",
+      "zh": ""
+    },
+    {
+      "start": 684.73,
+      "duration": 6.3,
+      "text": "it just can't do it. But if you're interested in like developing battery technology or creating",
+      "en": "it just can't do it. But if you're interested in like developing battery technology or creating",
+      "zh": ""
+    },
+    {
+      "start": 691.03,
+      "duration": 5.94,
+      "text": "new materials that have you know long chains of molecules, you're going to need a quantum computer.",
+      "en": "new materials that have you know long chains of molecules, you're going to need a quantum computer.",
+      "zh": ""
+    },
+    {
+      "start": 696.97,
+      "duration": 6.06,
+      "text": "This is why people are so excited! Think of the new materials or medicines or molecules that",
+      "en": "This is why people are so excited! Think of the new materials or medicines or molecules that",
+      "zh": ""
+    },
+    {
+      "start": 703.03,
+      "duration": 4.08,
+      "text": "we could make if we could better predict the way that nature behaves at a molecular scale.",
+      "en": "we could make if we could better predict the way that nature behaves at a molecular scale.",
+      "zh": ""
+    },
+    {
+      "start": 720.49,
+      "duration": 2.25,
+      "text": "There you go! Boom.",
+      "en": "There you go! Boom.",
+      "zh": ""
+    },
+    {
+      "start": 723.95,
+      "duration": 2.59,
+      "text": "Okay so simulating nature is something that quantum computers",
+      "en": "Okay so simulating nature is something that quantum computers",
+      "zh": ""
+    },
+    {
+      "start": 726.54,
+      "duration": 5.83,
+      "text": "could be amazing at but we're also getting closer to another use for quantum computing,",
+      "en": "could be amazing at but we're also getting closer to another use for quantum computing,",
+      "zh": ""
+    },
+    {
+      "start": 732.37,
+      "duration": 4.24,
+      "text": "one that people and governments are more concerned about...",
+      "en": "one that people and governments are more concerned about...",
+      "zh": ""
+    },
+    {
+      "start": 736.61,
+      "duration": 1.52,
+      "text": "\"Completely new encryption algorithms\"",
+      "en": "\"Completely new encryption algorithms\"",
+      "zh": ""
+    },
+    {
+      "start": 738.13,
+      "duration": 0.99,
+      "text": "\"Break encryption...\"",
+      "en": "\"Break encryption...\"",
+      "zh": ""
+    },
+    {
+      "start": 739.12,
+      "duration": 1.54,
+      "text": "\"Quantum resistant encryption...\"",
+      "en": "\"Quantum resistant encryption...\"",
+      "zh": ""
+    },
+    {
+      "start": 740.66,
+      "duration": 2.75,
+      "text": "\"A fully functional quantum computer could be",
+      "en": "\"A fully functional quantum computer could be",
+      "zh": ""
+    },
+    {
+      "start": 743.41,
+      "duration": 5.4,
+      "text": "built with code breaking capabilities that could render all forms of online encryption unreliable...\"",
+      "en": "built with code breaking capabilities that could render all forms of online encryption unreliable...\"",
+      "zh": ""
+    },
+    {
+      "start": 748.81,
+      "duration": 3.48,
+      "text": "Okay now this is the one that I've been waiting to ask about:",
+      "en": "Okay now this is the one that I've been waiting to ask about:",
+      "zh": ""
+    },
+    {
+      "start": 752.29,
+      "duration": 6.48,
+      "text": "why is everybody so obsessed with talking about quantum computers and encryption?",
+      "en": "why is everybody so obsessed with talking about quantum computers and encryption?",
+      "zh": ""
+    },
+    {
+      "start": 758.77,
+      "duration": 4.74,
+      "text": "So the first major algorithm that was developed for quantum computers is Shores Algorithm, named after",
+      "en": "So the first major algorithm that was developed for quantum computers is Shores Algorithm, named after",
+      "zh": ""
+    },
+    {
+      "start": 763.51,
+      "duration": 7.26,
+      "text": "Peter Shore, super nice guy. He invented an algorithm which basically can find factors, prime factors, for",
+      "en": "Peter Shore, super nice guy. He invented an algorithm which basically can find factors, prime factors, for",
+      "zh": ""
+    },
+    {
+      "start": 770.77,
+      "duration": 5.28,
+      "text": "really large numbers. Why does anyone care about this? Because that's the basis for \"RSA encryption\"",
+      "en": "really large numbers. Why does anyone care about this? Because that's the basis for \"RSA encryption\"",
+      "zh": ""
+    },
+    {
+      "start": 776.05,
+      "duration": 5.16,
+      "text": "which is basically how all transactions on the internet are conducted and the entire reason",
+      "en": "which is basically how all transactions on the internet are conducted and the entire reason",
+      "zh": ""
+    },
+    {
+      "start": 781.21,
+      "duration": 6.66,
+      "text": "that all of our encryption schemes today work that way is because it's basically impossible to crack",
+      "en": "that all of our encryption schemes today work that way is because it's basically impossible to crack",
+      "zh": ""
+    },
+    {
+      "start": 787.87,
+      "duration": 5.04,
+      "text": "that with a brute force classical algorithm. It would take I think it's like billions of",
+      "en": "that with a brute force classical algorithm. It would take I think it's like billions of",
+      "zh": ""
+    },
+    {
+      "start": 792.91,
+      "duration": 6.48,
+      "text": "years. But a quantum computer could do that way more efficiently, we're talking hours to days.",
+      "en": "years. But a quantum computer could do that way more efficiently, we're talking hours to days.",
+      "zh": ""
+    },
+    {
+      "start": 799.39,
+      "duration": 3.21,
+      "text": "So this global race now makes a ton of sense. Whoever gets a",
+      "en": "So this global race now makes a ton of sense. Whoever gets a",
+      "zh": ""
+    },
+    {
+      "start": 802.6,
+      "duration": 4.53,
+      "text": "quantum computer to actually do this has a big, obvious advantage.",
+      "en": "quantum computer to actually do this has a big, obvious advantage.",
+      "zh": ""
+    },
+    {
+      "start": 807.13,
+      "duration": 4.32,
+      "text": "But we haven't done that yet. That's one of the ones that requires probably like",
+      "en": "But we haven't done that yet. That's one of the ones that requires probably like",
+      "zh": ""
+    },
+    {
+      "start": 811.45,
+      "duration": 3.59,
+      "text": "a million qubits or more to do, but we're working up to it.",
+      "en": "a million qubits or more to do, but we're working up to it.",
+      "zh": ""
+    },
+    {
+      "start": 815.04,
+      "duration": 4.46,
+      "text": "So we're not going to be using quantum computers to break all internet security right now.",
+      "en": "So we're not going to be using quantum computers to break all internet security right now.",
+      "zh": ""
+    },
+    {
+      "start": 819.5,
+      "duration": 3.47,
+      "text": "Today, we're at 433 qubits, the record set by IBM.",
+      "en": "Today, we're at 433 qubits, the record set by IBM.",
+      "zh": ""
+    },
+    {
+      "start": 822.97,
+      "duration": 7.44,
+      "text": "400 to a million qubits is a big difference but Olivia is confident that we'll get there sooner than you think.",
+      "en": "400 to a million qubits is a big difference but Olivia is confident that we'll get there sooner than you think.",
+      "zh": ""
+    },
+    {
+      "start": 830.41,
+      "duration": 3.96,
+      "text": "In the next five or even less years, we're going to see people switching",
+      "en": "In the next five or even less years, we're going to see people switching",
+      "zh": ""
+    },
+    {
+      "start": 834.37,
+      "duration": 3.42,
+      "text": "over to quantum safe algorithms because of this reason.",
+      "en": "over to quantum safe algorithms because of this reason.",
+      "zh": ""
+    },
+    {
+      "start": 837.79,
+      "duration": 4.72,
+      "text": "So RSA goes away and we have quantum safe encryption instead?",
+      "en": "So RSA goes away and we have quantum safe encryption instead?",
+      "zh": ""
+    },
+    {
+      "start": 842.51,
+      "duration": 4.4,
+      "text": "Probably. Not all at once yeah but gradually you're going to see people",
+      "en": "Probably. Not all at once yeah but gradually you're going to see people",
+      "zh": ""
+    },
+    {
+      "start": 846.91,
+      "duration": 5.4,
+      "text": "do it. We're progressing at an incredibly fast rate. We're solving problems that people didn't",
+      "en": "do it. We're progressing at an incredibly fast rate. We're solving problems that people didn't",
+      "zh": ""
+    },
+    {
+      "start": 852.31,
+      "duration": 4.86,
+      "text": "even begin to know how to crack two years ago. But we've done it! Every single year, everything",
+      "en": "even begin to know how to crack two years ago. But we've done it! Every single year, everything",
+      "zh": ""
+    },
+    {
+      "start": 857.17,
+      "duration": 7.92,
+      "text": "that we say we do, we do. Nothing mathematically or physically prevents it. And so if the physics",
+      "en": "that we say we do, we do. Nothing mathematically or physically prevents it. And so if the physics",
+      "zh": ""
+    },
+    {
+      "start": 865.09,
+      "duration": 3.13,
+      "text": "says it's allowed, the engineers will find a way.",
+      "en": "says it's allowed, the engineers will find a way.",
+      "zh": ""
+    },
+    {
+      "start": 868.22,
+      "duration": 2.69,
+      "text": "That's sick. I'm picturing that - I'm adjusting the",
+      "en": "That's sick. I'm picturing that - I'm adjusting the",
+      "zh": ""
+    },
+    {
+      "start": 870.91,
+      "duration": 7.68,
+      "text": "analogy slightly that it's a \"submarine\" because there are sort of different levels of quantum computing...",
+      "en": "analogy slightly that it's a \"submarine\" because there are sort of different levels of quantum computing...",
+      "zh": ""
+    },
+    {
+      "start": 878.59,
+      "duration": 4.62,
+      "text": "Yeah, we are just skimming the surface. We're going to keep iterating and improving",
+      "en": "Yeah, we are just skimming the surface. We're going to keep iterating and improving",
+      "zh": ""
+    },
+    {
+      "start": 883.21,
+      "duration": 5.94,
+      "text": "upon this technology every single year and we're probably going to discover like new",
+      "en": "upon this technology every single year and we're probably going to discover like new",
+      "zh": ""
+    },
+    {
+      "start": 889.15,
+      "duration": 2.39,
+      "text": "applications that we haven't even considered yet.",
+      "en": "applications that we haven't even considered yet.",
+      "zh": ""
+    },
+    {
+      "start": 891.54,
+      "duration": 0.74,
+      "text": "It's a bottomless ocean...",
+      "en": "It's a bottomless ocean...",
+      "zh": ""
+    },
+    {
+      "start": 892.28,
+      "duration": 1.25,
+      "text": "It's a bottomless ocean!",
+      "en": "It's a bottomless ocean!",
+      "zh": ""
+    },
+    {
+      "start": 896.26,
+      "duration": 3.08,
+      "text": "The tour was amazing and as we left we thought about what we learned:",
+      "en": "The tour was amazing and as we left we thought about what we learned:",
+      "zh": ""
+    },
+    {
+      "start": 899.34,
+      "duration": 4.68,
+      "text": "Awesome. Let me just get on the highway and then I will have thoughts...",
+      "en": "Awesome. Let me just get on the highway and then I will have thoughts...",
+      "zh": ""
+    },
+    {
+      "start": 904.02,
+      "duration": 3.85,
+      "text": "Quantum computers do look exactly like I imagined they look! They look like the pictures.",
+      "en": "Quantum computers do look exactly like I imagined they look! They look like the pictures.",
+      "zh": ""
+    },
+    {
+      "start": 907.87,
+      "duration": 4.5,
+      "text": "But something about being in person with it was just like, oh... helped me",
+      "en": "But something about being in person with it was just like, oh... helped me",
+      "zh": ""
+    },
+    {
+      "start": 912.37,
+      "duration": 4.66,
+      "text": "understand that this is a fundamentally different technology. Like it just looks so weird.",
+      "en": "understand that this is a fundamentally different technology. Like it just looks so weird.",
+      "zh": ""
+    },
+    {
+      "start": 917.03,
+      "duration": 4.76,
+      "text": "I'm really glad I got to finish exploring that analogy and fully understand it too and adjust it",
+      "en": "I'm really glad I got to finish exploring that analogy and fully understand it too and adjust it",
+      "zh": ""
+    },
+    {
+      "start": 921.79,
+      "duration": 4.8,
+      "text": "a little bit to like a really encapsulate at least everything that I currently understand",
+      "en": "a little bit to like a really encapsulate at least everything that I currently understand",
+      "zh": ""
+    },
+    {
+      "start": 926.59,
+      "duration": 5.64,
+      "text": "about quantum computers, in that there is an evolution to the future of them and that they",
+      "en": "about quantum computers, in that there is an evolution to the future of them and that they",
+      "zh": ""
+    },
+    {
+      "start": 932.23,
+      "duration": 6.48,
+      "text": "are specialized and really good at certain things. I like a good analogy so that helped a lot.",
+      "en": "are specialized and really good at certain things. I like a good analogy so that helped a lot.",
+      "zh": ""
+    },
+    {
+      "start": 938.71,
+      "duration": 2.87,
+      "text": "Okay so what is your summary of the analogy now?",
+      "en": "Okay so what is your summary of the analogy now?",
+      "zh": ""
+    },
+    {
+      "start": 941.58,
+      "duration": 2.53,
+      "text": "I think we can keep almost all of it which is that",
+      "en": "I think we can keep almost all of it which is that",
+      "zh": ""
+    },
+    {
+      "start": 944.11,
+      "duration": 6.06,
+      "text": "our exploration of other fields of mathematics and physics and science was equivalent to other",
+      "en": "our exploration of other fields of mathematics and physics and science was equivalent to other",
+      "zh": ""
+    },
+    {
+      "start": 950.17,
+      "duration": 4.62,
+      "text": "steadily advancing forms of transportation around our imaginary video game island but",
+      "en": "steadily advancing forms of transportation around our imaginary video game island but",
+      "zh": ""
+    },
+    {
+      "start": 954.79,
+      "duration": 5.64,
+      "text": "I like adjusting to \"submarine\" because there are levels to it. It's more of a bottomless ocean in",
+      "en": "I like adjusting to \"submarine\" because there are levels to it. It's more of a bottomless ocean in",
+      "zh": ""
+    },
+    {
+      "start": 960.43,
+      "duration": 3.18,
+      "text": "that we're just going to keep going! The tech gets better, there's no physical limit.",
+      "en": "that we're just going to keep going! The tech gets better, there's no physical limit.",
+      "zh": ""
+    },
+    {
+      "start": 963.61,
+      "duration": 1.13,
+      "text": "It just continues to improve.",
+      "en": "It just continues to improve.",
+      "zh": ""
+    },
+    {
+      "start": 964.74,
+      "duration": 3.67,
+      "text": "Here's how Olivia put the dream of how we'd actually use quantum computers:",
+      "en": "Here's how Olivia put the dream of how we'd actually use quantum computers:",
+      "zh": ""
+    },
+    {
+      "start": 968.41,
+      "duration": 3.78,
+      "text": "It's beautiful because like of course we all want to make the world a better place, we",
+      "en": "It's beautiful because like of course we all want to make the world a better place, we",
+      "zh": ""
+    },
+    {
+      "start": 972.19,
+      "duration": 4.86,
+      "text": "want to develop technology that's going to enable us to do fundamentally different and",
+      "en": "want to develop technology that's going to enable us to do fundamentally different and",
+      "zh": ""
+    },
+    {
+      "start": 977.05,
+      "duration": 3.96,
+      "text": "better things. But it's also beautiful because like part of the human experience is you just",
+      "en": "better things. But it's also beautiful because like part of the human experience is you just",
+      "zh": ""
+    },
+    {
+      "start": 981.01,
+      "duration": 5.7,
+      "text": "want to learn what we are and like learn more about the world we live in. And the fact is:",
+      "en": "want to learn what we are and like learn more about the world we live in. And the fact is:",
+      "zh": ""
+    },
+    {
+      "start": 986.71,
+      "duration": 2.4,
+      "text": "The world is quantum mechanical.",
+      "en": "The world is quantum mechanical.",
+      "zh": ""
+    },
+    {
+      "start": 989.11,
+      "duration": 3.41,
+      "text": "There you have it! Thanks for coming. Peace!",
+      "en": "There you have it! Thanks for coming. Peace!",
+      "zh": ""
+    },
+    {
+      "start": 993.68,
+      "duration": 2.5,
+      "text": "This episode was so much fun to make.",
+      "en": "This episode was so much fun to make.",
+      "zh": ""
+    },
+    {
+      "start": 996.18,
+      "duration": 4.69,
+      "text": "Huge If True is a genuinely optimistic, journalistically rigorous show about",
+      "en": "Huge If True is a genuinely optimistic, journalistically rigorous show about",
+      "zh": ""
+    },
+    {
+      "start": 1000.87,
+      "duration": 4.32,
+      "text": "finding ways to use technology to make the world better. If that's something that you believe in,",
+      "en": "finding ways to use technology to make the world better. If that's something that you believe in,",
+      "zh": ""
+    },
+    {
+      "start": 1005.19,
+      "duration": 3.84,
+      "text": "the best thing that you can do to support us is to subscribe. And if you like this episode you",
+      "en": "the best thing that you can do to support us is to subscribe. And if you like this episode you",
+      "zh": ""
+    },
+    {
+      "start": 1009.03,
+      "duration": 3.9,
+      "text": "definitely should subscribe because Marques and I already have another adventure planned. Also if",
+      "en": "definitely should subscribe because Marques and I already have another adventure planned. Also if",
+      "zh": ""
+    },
+    {
+      "start": 1012.93,
+      "duration": 3.42,
+      "text": "you subscribe leave a comment and let me know. I'd love to meet you. See you for the next one!",
+      "en": "you subscribe leave a comment and let me know. I'd love to meet you. See you for the next one!",
+      "zh": ""
+    },
+    {
+      "start": 1018.69,
+      "duration": 0.84,
+      "text": "(thank you <3)",
+      "en": "(thank you <3)",
+      "zh": ""
+    }
+  ],
+  "words": []
+}
