@@ -55035,20 +55035,16 @@ async function startGenerateCustomLesson() {
     if (isFallbackOnly && !userTranscript) {
       if (statusEl) {
         statusEl.style.display = 'block';
-        statusEl.style.background = 'rgba(234, 88, 12, 0.12)';
-        statusEl.style.border = '1px solid rgba(234, 88, 12, 0.3)';
-        statusEl.style.color = '#c2410c';
+        statusEl.style.background = 'rgba(99,102,241,0.08)';
+        statusEl.style.border = '1px solid rgba(99,102,241,0.22)';
+        statusEl.style.color = '#e0e0f0';
+        statusEl.style.borderRadius = '10px';
+        statusEl.style.padding = '14px 16px';
         statusEl.innerHTML = `
-          <div style="font-weight:800;font-size:13.5px;margin-bottom:6px">⚠️ 雲端機房受 YouTube 存取限制，未能自動下載此影片字幕</div>
-          <div style="font-size:12px;opacity:0.95;line-height:1.6;margin-bottom:10px">
-            💡 <b>只需 3 秒即可生成完整時間軸與單字庫</b>：<br>
-            1. 在 YouTube 影片下方點擊「...」➜「顯示文字稿」<br>
-            2. 全選複製（Ctrl+A / Cmd+A）<br>
-            3. 點擊下方按鈕貼入，系統將立即自動生成卡拉OK逐句時間軸與跟讀教材！
-          </div>
-          <div style="display:flex;gap:8px;flex-wrap:wrap">
-            <button class="pill" type="button" onclick="pasteTranscriptFromClipboardAndBuild()" style="padding:7px 14px;font-size:12.5px;background:#ea580c;color:#fff">📋 點我一鍵貼上逐字稿並建立</button>
-            <button class="ghost" type="button" onclick="proceedWithNativeCC('${vid}', '${escapeHTML(videoTitle).replace(/'/g, "\\'")}')" style="padding:7px 12px;font-size:12px">📺 依然以 YouTube 原生 CC 模式收錄</button>
+          <div style="font-weight:700;font-size:14px;margin-bottom:8px;color:#a5b4fc">🌐 為什麼沒有字幕？</div>
+          <div style="font-size:12.5px;line-height:1.75;opacity:0.88">
+            本站部署在雲端伺服器（AWS），而 <b>YouTube 會封鎖來自雲端機房 IP 的字幕請求</b>，這是 YouTube 的反爬蟲政策，非程式錯誤。<br><br>
+            <b>解決方式：</b>到 YouTube 影片頁面，點選「⋯」→「顯示文字稿」，手動複製後貼入下方「自備逐字稿」框，即可正常建立跟讀教材。
           </div>
         `;
       }
