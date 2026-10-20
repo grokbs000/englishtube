@@ -822,55 +822,113 @@ class Handler(SimpleHTTPRequestHandler):
             yte_msg = str(yte)
             print(f"[transcript] youtube_transcript_api notice for {vid}: {yte}")
 
-        # Priority 2: 若 Priority 1 未取得，使用 yt_dlp Android Client 抽取官方簽章 JSON3
-        if not cues:
+        # Priority 1.5: Cloudflare Worker 代理（設定 YT_WORKER_URL 環境變數即可啟用）
+        # CF Worker 在 Cloudflare Edge 取得字幕，完全繞過 Render/AWS IP 封鎖
+        # 設定方式：在 Render 環境變數加入 YT_WORKER_URL=https://xxx.workers.dev
+        yt_worker_url = os.getenv('YT_WORKER_URL', '').rstrip('/')
+        if not cues and yt_worker_url:
             try:
-                import yt_dlp
-                ydl_opts = {
+                import requests as _req
+                worker_resp = _req.get(
+                    f'{yt_worker_url}/?v={vid}&lang=en',
+                    timeout=12
+                )
+                if worker_resp.status_code == 200:
+                    wdata = worker_resp.json()
+                    worker_cues = wdata.get('cues', [])
+                    if worker_cues:
+                        for wc in worker_cues:
+                            txt = clean_sub_text(wc.get('text', ''))
+                            if txt and len(txt) > 1:
+                                cues.append({
+                                    'start': float(wc.get('start', 0.0)),
+                                    'duration': max(0.5, float(wc.get('duration', 2.0))),
+                                    'text': txt
+                                })
+                        if not title:
+                            title = wdata.get('title', '').strip()
+                        if cues:
+                            print(f"[transcript] CF Worker ✅ {len(cues)} cues for {vid}!")
+                    else:
+                        print(f"[transcript] CF Worker returned no cues: {wdata.get('error','')}")
+            except Exception as worker_err:
+                print(f"[transcript] CF Worker error for {vid}: {worker_err}")
+
+        # Priority 2: yt_dlp — tv_embedded → web_creator → android 多客戶端嘗試
+        # tv_embedded/web_creator 走不同 YouTube Innertube API 端點，較不受 AWS ASN 封鎖影響
+        if not cues:
+            import yt_dlp
+            import requests as _req
+
+            def _try_ytdlp_client(client_name):
+                """嘗試用指定客戶端取得字幕，成功回傳 (cues_list, title_str)，失敗回傳 ([], '')"""
+                _cues, _title = [], ''
+                _opts = {
                     'skip_download': True,
                     'quiet': True,
                     'no_warnings': True,
-                    'socket_timeout': 6,
+                    'socket_timeout': 7,
                     'retries': 1,
                     'extractor_retries': 1,
-                    'extractor_args': {'youtube': {'player_client': ['android']}}
+                    'extractor_args': {'youtube': {'player_client': [client_name]}}
                 }
                 if yt_proxy:
-                    ydl_opts['proxy'] = yt_proxy
-                with yt_dlp.YoutubeDL(ydl_opts) as ydl:
-                    info = ydl.extract_info(url, download=False)
-                    if not title:
-                        title = info.get('title', '').strip()
-                    subs = info.get('subtitles', {}) or {}
-                    auto_subs = info.get('automatic_captions', {}) or {}
-                    target_url = None
-                    for s_dict in (subs, auto_subs):
-                        for lang, formats in s_dict.items():
-                            if lang.startswith('en'):
-                                for f in formats:
-                                    if f.get('ext') == 'json3':
-                                        target_url = f.get('url')
-                                        break
+                    _opts['proxy'] = yt_proxy
+                try:
+                    with yt_dlp.YoutubeDL(_opts) as ydl:
+                        info = ydl.extract_info(url, download=False)
+                        _title = info.get('title', '').strip()
+                        subs = info.get('subtitles', {}) or {}
+                        auto_subs = info.get('automatic_captions', {}) or {}
+                        target_url = None
+                        for s_dict in (subs, auto_subs):
+                            for lang, formats in s_dict.items():
+                                if lang.startswith('en'):
+                                    for f in formats:
+                                        if f.get('ext') == 'json3':
+                                            target_url = f.get('url')
+                                            break
+                                if target_url: break
                             if target_url: break
-                        if target_url: break
+                        if target_url:
+                            prx = {'http': yt_proxy, 'https': yt_proxy} if yt_proxy else None
+                            raw = _req.get(target_url, proxies=prx, timeout=8).text
+                            events = json.loads(raw).get('events', [])
+                            for e in events:
+                                txt = ''.join(s.get('utf8', '') for s in e.get('segs', [])).strip()
+                                txt = clean_sub_text(txt)
+                                if txt and len(txt) > 1:
+                                    _cues.append({
+                                        'start': round(float(e.get('tStartMs', 0) / 1000), 2),
+                                        'duration': max(0.5, round(float(e.get('dDurationMs', 0) / 1000), 2)),
+                                        'text': txt
+                                    })
+                except Exception as _e:
+                    print(f"[transcript] yt_dlp({client_name}) notice: {_e}")
+                return _cues, _title
 
-                    if target_url:
-                        raw = ydl.urlopen(target_url).read().decode('utf-8')
-                        events = json.loads(raw).get('events', [])
-                        for e in events:
-                            txt = ''.join(s.get('utf8', '') for s in e.get('segs', [])).strip()
-                            txt = clean_sub_text(txt)
-                            if txt and len(txt) > 1:
-                                cues.append({
-                                    'start': round(float(e.get('tStartMs', 0) / 1000), 2),
-                                    'duration': max(0.5, round(float(e.get('dDurationMs', 0) / 1000), 2)),
-                                    'text': txt
-                                })
-                        if cues:
-                            print(f"[transcript] In-process yt_dlp successfully extracted {len(cues)} cues for {vid}!")
-            except Exception as ytdlp_err:
-                ytdlp_msg = str(ytdlp_err)
-                print(f"[transcript] yt_dlp notice for {vid}: {ytdlp_err}")
+            ytdlp_msg = ''
+            for _client in ['tv_embedded', 'web_creator', 'android']:
+                try:
+                    from concurrent.futures import ThreadPoolExecutor, TimeoutError as FuturesTimeout
+                    with ThreadPoolExecutor(max_workers=1) as _pool:
+                        _fut = _pool.submit(_try_ytdlp_client, _client)
+                        try:
+                            _res_cues, _res_title = _fut.result(timeout=10)
+                            if _res_cues:
+                                cues = _res_cues
+                                if not title and _res_title:
+                                    title = _res_title
+                                print(f"[transcript] yt_dlp({_client}) success: {len(cues)} cues for {vid}")
+                                break
+                            else:
+                                print(f"[transcript] yt_dlp({_client}) no cues, trying next...")
+                        except FuturesTimeout:
+                            ytdlp_msg = f'yt_dlp({_client}) timed out after 10s'
+                            print(f"[transcript] {ytdlp_msg}")
+                except Exception as ytdlp_err:
+                    ytdlp_msg = str(ytdlp_err)
+                    print(f"[transcript] yt_dlp({_client}) error: {ytdlp_err}")
 
         # Priority 3: 容錯降級（僅在完全無任何字幕軌時作為最後保障）
         if not cues:
