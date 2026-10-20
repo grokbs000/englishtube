@@ -868,7 +868,12 @@ class Handler(SimpleHTTPRequestHandler):
             }]
 
         cues = normalize_cues(cues)
-        self.send_json(200, {'videoId': vid, 'title': title or 'YouTube 英語教材', 'language': 'en', 'cues': cues[:3000]})
+        diag_info = {
+            'ytdlp_err': str(ytdlp_proc_err) if 'ytdlp_proc_err' in locals() else '',
+            'yte_err': str(yte) if 'yte' in locals() else '',
+            'cues_count': len(cues)
+        }
+        self.send_json(200, {'videoId': vid, 'title': title or 'YouTube 英語教材', 'language': 'en', 'cues': cues[:3000], 'diag': diag_info})
 
     def translate(self,data):
         key=os.getenv('OPENAI_API_KEY','').strip()
