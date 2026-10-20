@@ -1,0 +1,733 @@
+{
+  "cues": [
+    {
+      "start": 2.95,
+      "duration": 0.3,
+      "text": "[Applause]",
+      "en": "[Applause]",
+      "zh": ""
+    },
+    {
+      "start": 2.96,
+      "duration": 2.31,
+      "text": "[Applause] [Music]",
+      "en": "[Applause] [Music]",
+      "zh": ""
+    },
+    {
+      "start": 5.27,
+      "duration": 0.3,
+      "text": "[Music]",
+      "en": "[Music]",
+      "zh": ""
+    },
+    {
+      "start": 5.28,
+      "duration": 1.79,
+      "text": "[Music] if you want to run away with me I know a",
+      "en": "[Music] if you want to run away with me I know a",
+      "zh": ""
+    },
+    {
+      "start": 7.07,
+      "duration": 0.3,
+      "text": "if you want to run away with me I know a",
+      "en": "if you want to run away with me I know a",
+      "zh": ""
+    },
+    {
+      "start": 7.08,
+      "duration": 3.27,
+      "text": "if you want to run away with me I know a Galaxy and I can take it for right had a",
+      "en": "if you want to run away with me I know a Galaxy and I can take it for right had a",
+      "zh": ""
+    },
+    {
+      "start": 10.35,
+      "duration": 0.3,
+      "text": "Galaxy and I can take it for right had a",
+      "en": "Galaxy and I can take it for right had a",
+      "zh": ""
+    },
+    {
+      "start": 10.36,
+      "duration": 2.07,
+      "text": "Galaxy and I can take it for right had a femin that we fell into a rhym where the",
+      "en": "Galaxy and I can take it for right had a femin that we fell into a rhym where the",
+      "zh": ""
+    },
+    {
+      "start": 12.43,
+      "duration": 0.3,
+      "text": "femin that we fell into a rhym where the",
+      "en": "femin that we fell into a rhym where the",
+      "zh": ""
+    },
+    {
+      "start": 12.44,
+      "duration": 2.87,
+      "text": "femin that we fell into a rhym where the music don't stop for light glitter in",
+      "en": "femin that we fell into a rhym where the music don't stop for light glitter in",
+      "zh": ""
+    },
+    {
+      "start": 15.31,
+      "duration": 0.3,
+      "text": "music don't stop for light glitter in",
+      "en": "music don't stop for light glitter in",
+      "zh": ""
+    },
+    {
+      "start": 15.32,
+      "duration": 2.67,
+      "text": "music don't stop for light glitter in the sky glitter in my eyes Shin just the",
+      "en": "music don't stop for light glitter in the sky glitter in my eyes Shin just the",
+      "zh": ""
+    },
+    {
+      "start": 17.99,
+      "duration": 0.3,
+      "text": "the sky glitter in my eyes Shin just the",
+      "en": "the sky glitter in my eyes Shin just the",
+      "zh": ""
+    },
+    {
+      "start": 18.0,
+      "duration": 2.51,
+      "text": "the sky glitter in my eyes Shin just the way you like if you're feeling like you",
+      "en": "the sky glitter in my eyes Shin just the way you like if you're feeling like you",
+      "zh": ""
+    },
+    {
+      "start": 20.51,
+      "duration": 0.3,
+      "text": "way you like if you're feeling like you",
+      "en": "way you like if you're feeling like you",
+      "zh": ""
+    },
+    {
+      "start": 20.52,
+      "duration": 1.83,
+      "text": "way you like if you're feeling like you need a little bit of company you met me",
+      "en": "way you like if you're feeling like you need a little bit of company you met me",
+      "zh": ""
+    },
+    {
+      "start": 22.35,
+      "duration": 0.3,
+      "text": "need a little bit of company you met me",
+      "en": "need a little bit of company you met me",
+      "zh": ""
+    },
+    {
+      "start": 22.36,
+      "duration": 1.59,
+      "text": "need a little bit of company you met me at the perfect",
+      "en": "need a little bit of company you met me at the perfect",
+      "zh": ""
+    },
+    {
+      "start": 23.95,
+      "duration": 0.3,
+      "text": "at the perfect",
+      "en": "at the perfect",
+      "zh": ""
+    },
+    {
+      "start": 23.96,
+      "duration": 3.55,
+      "text": "at the perfect time you want me I want you baby my",
+      "en": "at the perfect time you want me I want you baby my",
+      "zh": ""
+    },
+    {
+      "start": 27.51,
+      "duration": 0.3,
+      "text": "time you want me I want you baby my",
+      "en": "time you want me I want you baby my",
+      "zh": ""
+    },
+    {
+      "start": 27.52,
+      "duration": 3.35,
+      "text": "time you want me I want you baby my sugar Boo I'm never",
+      "en": "time you want me I want you baby my sugar Boo I'm never",
+      "zh": ""
+    },
+    {
+      "start": 30.87,
+      "duration": 0.3,
+      "text": "sugar Boo I'm never",
+      "en": "sugar Boo I'm never",
+      "zh": ""
+    },
+    {
+      "start": 30.88,
+      "duration": 4.91,
+      "text": "sugar Boo I'm never way yeah yeah yeah yeah yeah I got you",
+      "en": "sugar Boo I'm never way yeah yeah yeah yeah yeah I got you",
+      "zh": ""
+    },
+    {
+      "start": 35.79,
+      "duration": 0.3,
+      "text": "way yeah yeah yeah yeah yeah I got you",
+      "en": "way yeah yeah yeah yeah yeah I got you",
+      "zh": ""
+    },
+    {
+      "start": 35.8,
+      "duration": 5.99,
+      "text": "way yeah yeah yeah yeah yeah I got you Moonlight your star I need you all night",
+      "en": "way yeah yeah yeah yeah yeah I got you Moonlight your star I need you all night",
+      "zh": ""
+    },
+    {
+      "start": 41.79,
+      "duration": 0.3,
+      "text": "Moonlight your star I need you all night",
+      "en": "Moonlight your star I need you all night",
+      "zh": ""
+    },
+    {
+      "start": 41.8,
+      "duration": 3.99,
+      "text": "Moonlight your star I need you all night come on dance with me I'm levitating you",
+      "en": "Moonlight your star I need you all night come on dance with me I'm levitating you",
+      "zh": ""
+    },
+    {
+      "start": 45.79,
+      "duration": 0.3,
+      "text": "come on dance with me I'm levitating you",
+      "en": "come on dance with me I'm levitating you",
+      "zh": ""
+    },
+    {
+      "start": 45.8,
+      "duration": 4.71,
+      "text": "come on dance with me I'm levitating you Moonlight you're my staright I need you",
+      "en": "come on dance with me I'm levitating you Moonlight you're my staright I need you",
+      "zh": ""
+    },
+    {
+      "start": 50.51,
+      "duration": 0.3,
+      "text": "Moonlight you're my staright I need you",
+      "en": "Moonlight you're my staright I need you",
+      "zh": ""
+    },
+    {
+      "start": 50.52,
+      "duration": 7.59,
+      "text": "Moonlight you're my staright I need you all night come on baby Dan",
+      "en": "Moonlight you're my staright I need you all night come on baby Dan",
+      "zh": ""
+    },
+    {
+      "start": 60.91,
+      "duration": 0.3,
+      "text": "me I believe that you me I feel it in an",
+      "en": "me I believe that you me I feel it in an",
+      "zh": ""
+    },
+    {
+      "start": 60.92,
+      "duration": 2.95,
+      "text": "me I believe that you me I feel it in an energy I see it's written in the stars",
+      "en": "me I believe that you me I feel it in an energy I see it's written in the stars",
+      "zh": ""
+    },
+    {
+      "start": 63.87,
+      "duration": 0.3,
+      "text": "energy I see it's written in the stars",
+      "en": "energy I see it's written in the stars",
+      "zh": ""
+    },
+    {
+      "start": 63.88,
+      "duration": 1.71,
+      "text": "energy I see it's written in the stars we can go whever so let's do it now",
+      "en": "energy I see it's written in the stars we can go whever so let's do it now",
+      "zh": ""
+    },
+    {
+      "start": 65.59,
+      "duration": 0.3,
+      "text": "we can go whever so let's do it now",
+      "en": "we can go whever so let's do it now",
+      "zh": ""
+    },
+    {
+      "start": 65.6,
+      "duration": 2.07,
+      "text": "we can go whever so let's do it now whenever baby nothing's ever ever too",
+      "en": "we can go whever so let's do it now whenever baby nothing's ever ever too",
+      "zh": ""
+    },
+    {
+      "start": 67.67,
+      "duration": 0.3,
+      "text": "whenever baby nothing's ever ever too",
+      "en": "whenever baby nothing's ever ever too",
+      "zh": ""
+    },
+    {
+      "start": 67.68,
+      "duration": 3.03,
+      "text": "whenever baby nothing's ever ever too far glitter in the sky glitter in my",
+      "en": "whenever baby nothing's ever ever too far glitter in the sky glitter in my",
+      "zh": ""
+    },
+    {
+      "start": 70.71,
+      "duration": 0.3,
+      "text": "far glitter in the sky glitter in my",
+      "en": "far glitter in the sky glitter in my",
+      "zh": ""
+    },
+    {
+      "start": 70.72,
+      "duration": 3.23,
+      "text": "far glitter in the sky glitter in my eyes sh is the way you like I feel like",
+      "en": "far glitter in the sky glitter in my eyes sh is the way you like I feel like",
+      "zh": ""
+    },
+    {
+      "start": 73.95,
+      "duration": 0.3,
+      "text": "eyes sh is the way you like I feel like",
+      "en": "eyes sh is the way you like I feel like",
+      "zh": ""
+    },
+    {
+      "start": 73.96,
+      "duration": 1.79,
+      "text": "eyes sh is the way you like I feel like we forever every time we get together",
+      "en": "eyes sh is the way you like I feel like we forever every time we get together",
+      "zh": ""
+    },
+    {
+      "start": 75.75,
+      "duration": 0.3,
+      "text": "we forever every time we get together",
+      "en": "we forever every time we get together",
+      "zh": ""
+    },
+    {
+      "start": 75.76,
+      "duration": 2.11,
+      "text": "we forever every time we get together but whatever Let's Get Lost on",
+      "en": "we forever every time we get together but whatever Let's Get Lost on",
+      "zh": ""
+    },
+    {
+      "start": 77.87,
+      "duration": 0.3,
+      "text": "but whatever Let's Get Lost on",
+      "en": "but whatever Let's Get Lost on",
+      "zh": ""
+    },
+    {
+      "start": 77.88,
+      "duration": 3.75,
+      "text": "but whatever Let's Get Lost on more you want me I want you baby my",
+      "en": "but whatever Let's Get Lost on more you want me I want you baby my",
+      "zh": ""
+    },
+    {
+      "start": 81.63,
+      "duration": 0.3,
+      "text": "more you want me I want you baby my",
+      "en": "more you want me I want you baby my",
+      "zh": ""
+    },
+    {
+      "start": 81.64,
+      "duration": 3.59,
+      "text": "more you want me I want you baby my sugar I'm never tting the Milky Way",
+      "en": "more you want me I want you baby my sugar I'm never tting the Milky Way",
+      "zh": ""
+    },
+    {
+      "start": 85.23,
+      "duration": 0.3,
+      "text": "sugar I'm never tting the Milky Way",
+      "en": "sugar I'm never tting the Milky Way",
+      "zh": ""
+    },
+    {
+      "start": 85.24,
+      "duration": 4.19,
+      "text": "sugar I'm never tting the Milky Way better get it yeah yeah yeah I got you",
+      "en": "sugar I'm never tting the Milky Way better get it yeah yeah yeah I got you",
+      "zh": ""
+    },
+    {
+      "start": 89.43,
+      "duration": 0.3,
+      "text": "better get it yeah yeah yeah I got you",
+      "en": "better get it yeah yeah yeah I got you",
+      "zh": ""
+    },
+    {
+      "start": 89.44,
+      "duration": 4.07,
+      "text": "better get it yeah yeah yeah I got you Moon night you're my Starlight I need",
+      "en": "better get it yeah yeah yeah I got you Moon night you're my Starlight I need",
+      "zh": ""
+    },
+    {
+      "start": 93.51,
+      "duration": 0.3,
+      "text": "Moon night you're my Starlight I need",
+      "en": "Moon night you're my Starlight I need",
+      "zh": ""
+    },
+    {
+      "start": 93.52,
+      "duration": 3.95,
+      "text": "Moon night you're my Starlight I need you all night come on dance with me I'm",
+      "en": "Moon night you're my Starlight I need you all night come on dance with me I'm",
+      "zh": ""
+    },
+    {
+      "start": 97.47,
+      "duration": 0.3,
+      "text": "you all night come on dance with me I'm",
+      "en": "you all night come on dance with me I'm",
+      "zh": ""
+    },
+    {
+      "start": 97.48,
+      "duration": 3.79,
+      "text": "you all night come on dance with me I'm Le dating you Moonlight",
+      "en": "you all night come on dance with me I'm Le dating you Moonlight",
+      "zh": ""
+    },
+    {
+      "start": 101.27,
+      "duration": 0.3,
+      "text": "Le dating you Moonlight",
+      "en": "Le dating you Moonlight",
+      "zh": ""
+    },
+    {
+      "start": 101.28,
+      "duration": 4.31,
+      "text": "Le dating you Moonlight your all I know you all night come on",
+      "en": "Le dating you Moonlight your all I know you all night come on",
+      "zh": ""
+    },
+    {
+      "start": 105.59,
+      "duration": 0.3,
+      "text": "your all I know you all night come on",
+      "en": "your all I know you all night come on",
+      "zh": ""
+    },
+    {
+      "start": 105.6,
+      "duration": 3.34,
+      "text": "your all I know you all night come on baby come and dance with meoo",
+      "en": "your all I know you all night come on baby come and dance with meoo",
+      "zh": ""
+    },
+    {
+      "start": 108.94,
+      "duration": 0.3,
+      "text": "baby come and dance with meoo",
+      "en": "baby come and dance with meoo",
+      "zh": ""
+    },
+    {
+      "start": 108.95,
+      "duration": 8.7,
+      "text": "baby come and dance with meoo [Music]",
+      "en": "baby come and dance with meoo [Music]",
+      "zh": ""
+    },
+    {
+      "start": 132.11,
+      "duration": 0.3,
+      "text": "you can fly away with me tonight you can",
+      "en": "you can fly away with me tonight you can",
+      "zh": ""
+    },
+    {
+      "start": 132.12,
+      "duration": 3.51,
+      "text": "you can fly away with me tonight you can fly away with me tonight baby let me",
+      "en": "you can fly away with me tonight you can fly away with me tonight baby let me",
+      "zh": ""
+    },
+    {
+      "start": 135.63,
+      "duration": 0.3,
+      "text": "fly away with me tonight baby let me",
+      "en": "fly away with me tonight baby let me",
+      "zh": ""
+    },
+    {
+      "start": 135.64,
+      "duration": 3.99,
+      "text": "fly away with me tonight baby let me take it for right yeah yeah yeah",
+      "en": "fly away with me tonight baby let me take it for right yeah yeah yeah",
+      "zh": ""
+    },
+    {
+      "start": 139.63,
+      "duration": 0.3,
+      "text": "take it for right yeah yeah yeah",
+      "en": "take it for right yeah yeah yeah",
+      "zh": ""
+    },
+    {
+      "start": 139.64,
+      "duration": 3.91,
+      "text": "take it for right yeah yeah yeah yeah you can fly away with me tonight",
+      "en": "take it for right yeah yeah yeah yeah you can fly away with me tonight",
+      "zh": ""
+    },
+    {
+      "start": 143.55,
+      "duration": 0.3,
+      "text": "yeah you can fly away with me tonight",
+      "en": "yeah you can fly away with me tonight",
+      "zh": ""
+    },
+    {
+      "start": 143.56,
+      "duration": 3.43,
+      "text": "yeah you can fly away with me tonight you can fly away with me tonight baby",
+      "en": "yeah you can fly away with me tonight you can fly away with me tonight baby",
+      "zh": ""
+    },
+    {
+      "start": 146.99,
+      "duration": 0.3,
+      "text": "you can fly away with me tonight baby",
+      "en": "you can fly away with me tonight baby",
+      "zh": ""
+    },
+    {
+      "start": 147.0,
+      "duration": 5.83,
+      "text": "you can fly away with me tonight baby let me take you for ride",
+      "en": "you can fly away with me tonight baby let me take you for ride",
+      "zh": ""
+    },
+    {
+      "start": 155.31,
+      "duration": 0.3,
+      "text": "my love is like a rocket watch it blast",
+      "en": "my love is like a rocket watch it blast",
+      "zh": ""
+    },
+    {
+      "start": 155.32,
+      "duration": 4.19,
+      "text": "my love is like a rocket watch it blast off and I'm feeling SOC dance my ass off",
+      "en": "my love is like a rocket watch it blast off and I'm feeling SOC dance my ass off",
+      "zh": ""
+    },
+    {
+      "start": 159.51,
+      "duration": 0.3,
+      "text": "off and I'm feeling SOC dance my ass off",
+      "en": "off and I'm feeling SOC dance my ass off",
+      "zh": ""
+    },
+    {
+      "start": 159.52,
+      "duration": 3.75,
+      "text": "off and I'm feeling SOC dance my ass off and even if I wanted to I can't stop",
+      "en": "off and I'm feeling SOC dance my ass off and even if I wanted to I can't stop",
+      "zh": ""
+    },
+    {
+      "start": 163.27,
+      "duration": 0.3,
+      "text": "and even if I wanted to I can't stop",
+      "en": "and even if I wanted to I can't stop",
+      "zh": ""
+    },
+    {
+      "start": 163.28,
+      "duration": 3.07,
+      "text": "and even if I wanted to I can't stop yeah yeah yeah yeah yeah my love is like",
+      "en": "and even if I wanted to I can't stop yeah yeah yeah yeah yeah my love is like",
+      "zh": ""
+    },
+    {
+      "start": 166.35,
+      "duration": 0.3,
+      "text": "yeah yeah yeah yeah yeah my love is like",
+      "en": "yeah yeah yeah yeah yeah my love is like",
+      "zh": ""
+    },
+    {
+      "start": 166.36,
+      "duration": 2.43,
+      "text": "yeah yeah yeah yeah yeah my love is like a pocket watchet blast off and I'm",
+      "en": "yeah yeah yeah yeah yeah my love is like a pocket watchet blast off and I'm",
+      "zh": ""
+    },
+    {
+      "start": 168.79,
+      "duration": 0.3,
+      "text": "a pocket watchet blast off and I'm",
+      "en": "a pocket watchet blast off and I'm",
+      "zh": ""
+    },
+    {
+      "start": 168.8,
+      "duration": 3.11,
+      "text": "a pocket watchet blast off and I'm feeling so electric dance my ass off and",
+      "en": "a pocket watchet blast off and I'm feeling so electric dance my ass off and",
+      "zh": ""
+    },
+    {
+      "start": 171.91,
+      "duration": 0.3,
+      "text": "feeling so electric dance my ass off and",
+      "en": "feeling so electric dance my ass off and",
+      "zh": ""
+    },
+    {
+      "start": 171.92,
+      "duration": 3.95,
+      "text": "feeling so electric dance my ass off and even if I wanted to I Can't",
+      "en": "feeling so electric dance my ass off and even if I wanted to I Can't",
+      "zh": ""
+    },
+    {
+      "start": 181.59,
+      "duration": 0.3,
+      "text": "Stop are you moonlight you're my",
+      "en": "Stop are you moonlight you're my",
+      "zh": ""
+    },
+    {
+      "start": 181.6,
+      "duration": 5.83,
+      "text": "Stop are you moonlight you're my staright I need you all night bab band",
+      "en": "Stop are you moonlight you're my staright I need you all night bab band",
+      "zh": ""
+    },
+    {
+      "start": 187.43,
+      "duration": 0.3,
+      "text": "staright I need you all night bab band",
+      "en": "staright I need you all night bab band",
+      "zh": ""
+    },
+    {
+      "start": 187.44,
+      "duration": 5.67,
+      "text": "staright I need you all night bab band with me on you all night your master I",
+      "en": "staright I need you all night bab band with me on you all night your master I",
+      "zh": ""
+    },
+    {
+      "start": 193.11,
+      "duration": 0.3,
+      "text": "with me on you all night your master I",
+      "en": "with me on you all night your master I",
+      "zh": ""
+    },
+    {
+      "start": 193.12,
+      "duration": 4.03,
+      "text": "with me on you all night your master I on you all night baby baby come and",
+      "en": "with me on you all night your master I on you all night baby baby come and",
+      "zh": ""
+    },
+    {
+      "start": 197.15,
+      "duration": 0.3,
+      "text": "on you all night baby baby come and",
+      "en": "on you all night baby baby come and",
+      "zh": ""
+    },
+    {
+      "start": 197.16,
+      "duration": 2.99,
+      "text": "on you all night baby baby come and dance with me oh you can fly away with",
+      "en": "on you all night baby baby come and dance with me oh you can fly away with",
+      "zh": ""
+    },
+    {
+      "start": 200.15,
+      "duration": 0.3,
+      "text": "dance with me oh you can fly away with",
+      "en": "dance with me oh you can fly away with",
+      "zh": ""
+    },
+    {
+      "start": 200.16,
+      "duration": 1.11,
+      "text": "dance with me oh you can fly away with me",
+      "en": "dance with me oh you can fly away with me",
+      "zh": ""
+    },
+    {
+      "start": 201.27,
+      "duration": 0.3,
+      "text": "me",
+      "en": "me",
+      "zh": ""
+    },
+    {
+      "start": 201.28,
+      "duration": 5.35,
+      "text": "me tonight ohab baby let me take you for a",
+      "en": "me tonight ohab baby let me take you for a",
+      "zh": ""
+    },
+    {
+      "start": 206.63,
+      "duration": 0.3,
+      "text": "tonight ohab baby let me take you for a",
+      "en": "tonight ohab baby let me take you for a",
+      "zh": ""
+    },
+    {
+      "start": 206.64,
+      "duration": 3.63,
+      "text": "tonight ohab baby let me take you for a ride oh come on baby baby baby fly Away",
+      "en": "tonight ohab baby let me take you for a ride oh come on baby baby baby fly Away",
+      "zh": ""
+    },
+    {
+      "start": 210.27,
+      "duration": 0.3,
+      "text": "ride oh come on baby baby baby fly Away",
+      "en": "ride oh come on baby baby baby fly Away",
+      "zh": ""
+    },
+    {
+      "start": 210.28,
+      "duration": 3.55,
+      "text": "ride oh come on baby baby baby fly Away with Me Fly Away with Me Your bab me let",
+      "en": "ride oh come on baby baby baby fly Away with Me Fly Away with Me Your bab me let",
+      "zh": ""
+    },
+    {
+      "start": 213.83,
+      "duration": 0.3,
+      "text": "with Me Fly Away with Me Your bab me let",
+      "en": "with Me Fly Away with Me Your bab me let",
+      "zh": ""
+    },
+    {
+      "start": 213.84,
+      "duration": 6.24,
+      "text": "with Me Fly Away with Me Your bab me let me thank you for right",
+      "en": "with Me Fly Away with Me Your bab me let me thank you for right",
+      "zh": ""
+    }
+  ],
+  "words": []
+}

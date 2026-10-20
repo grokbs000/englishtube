@@ -1,0 +1,551 @@
+{
+  "cues": [
+    {
+      "start": 10.23,
+      "duration": 0.3,
+      "text": "[Music]",
+      "en": "[Music]",
+      "zh": ""
+    },
+    {
+      "start": 10.24,
+      "duration": 4.62,
+      "text": "[Music] when i'm away",
+      "en": "[Music] when i'm away",
+      "zh": ""
+    },
+    {
+      "start": 29.11,
+      "duration": 0.3,
+      "text": "[Music]",
+      "en": "[Music]",
+      "zh": ""
+    },
+    {
+      "start": 29.12,
+      "duration": 5.75,
+      "text": "[Music] i wish it wasn't true",
+      "en": "[Music] i wish it wasn't true",
+      "zh": ""
+    },
+    {
+      "start": 45.2,
+      "duration": 0.3,
+      "text": "[Applause]",
+      "en": "[Applause]",
+      "zh": ""
+    },
+    {
+      "start": 45.21,
+      "duration": 2.62,
+      "text": "[Applause] [Music]",
+      "en": "[Applause] [Music]",
+      "zh": ""
+    },
+    {
+      "start": 47.83,
+      "duration": 0.3,
+      "text": "[Music]",
+      "en": "[Music]",
+      "zh": ""
+    },
+    {
+      "start": 47.84,
+      "duration": 2.61,
+      "text": "[Music] to write myself",
+      "en": "[Music] to write myself",
+      "zh": ""
+    },
+    {
+      "start": 50.45,
+      "duration": 0.3,
+      "text": "to write myself",
+      "en": "to write myself",
+      "zh": ""
+    },
+    {
+      "start": 50.46,
+      "duration": 3.61,
+      "text": "to write myself [Music]",
+      "en": "to write myself [Music]",
+      "zh": ""
+    },
+    {
+      "start": 57.27,
+      "duration": 0.3,
+      "text": "to tell me what to do",
+      "en": "to tell me what to do",
+      "zh": ""
+    },
+    {
+      "start": 57.28,
+      "duration": 5.03,
+      "text": "to tell me what to do [Music]",
+      "en": "to tell me what to do [Music]",
+      "zh": ""
+    },
+    {
+      "start": 66.59,
+      "duration": 0.3,
+      "text": "read my interviews",
+      "en": "read my interviews",
+      "zh": ""
+    },
+    {
+      "start": 66.6,
+      "duration": 1.23,
+      "text": "read my interviews [Music]",
+      "en": "read my interviews [Music]",
+      "zh": ""
+    },
+    {
+      "start": 67.83,
+      "duration": 0.3,
+      "text": "[Music]",
+      "en": "[Music]",
+      "zh": ""
+    },
+    {
+      "start": 67.84,
+      "duration": 2.95,
+      "text": "[Music] how do you",
+      "en": "[Music] how do you",
+      "zh": ""
+    },
+    {
+      "start": 70.79,
+      "duration": 0.3,
+      "text": "how do you",
+      "en": "how do you",
+      "zh": ""
+    },
+    {
+      "start": 70.8,
+      "duration": 3.27,
+      "text": "how do you skip my avenue",
+      "en": "how do you skip my avenue",
+      "zh": ""
+    },
+    {
+      "start": 74.07,
+      "duration": 0.3,
+      "text": "skip my avenue",
+      "en": "skip my avenue",
+      "zh": ""
+    },
+    {
+      "start": 74.08,
+      "duration": 3.11,
+      "text": "skip my avenue when you said",
+      "en": "skip my avenue when you said",
+      "zh": ""
+    },
+    {
+      "start": 77.19,
+      "duration": 0.3,
+      "text": "when you said",
+      "en": "when you said",
+      "zh": ""
+    },
+    {
+      "start": 77.2,
+      "duration": 4.13,
+      "text": "when you said you were passing through",
+      "en": "when you said you were passing through",
+      "zh": ""
+    },
+    {
+      "start": 81.33,
+      "duration": 0.3,
+      "text": "you were passing through",
+      "en": "you were passing through",
+      "zh": ""
+    },
+    {
+      "start": 81.34,
+      "duration": 28.12,
+      "text": "you were passing through [Music]",
+      "en": "you were passing through [Music]",
+      "zh": ""
+    },
+    {
+      "start": 111.43,
+      "duration": 0.3,
+      "text": "[Music]",
+      "en": "[Music]",
+      "zh": ""
+    },
+    {
+      "start": 111.44,
+      "duration": 3.11,
+      "text": "[Music] don't say it isn't fair",
+      "en": "[Music] don't say it isn't fair",
+      "zh": ""
+    },
+    {
+      "start": 114.55,
+      "duration": 0.3,
+      "text": "don't say it isn't fair",
+      "en": "don't say it isn't fair",
+      "zh": ""
+    },
+    {
+      "start": 114.56,
+      "duration": 4.31,
+      "text": "don't say it isn't fair you clearly weren't aware that you",
+      "en": "don't say it isn't fair you clearly weren't aware that you",
+      "zh": ""
+    },
+    {
+      "start": 118.87,
+      "duration": 0.3,
+      "text": "you clearly weren't aware that you",
+      "en": "you clearly weren't aware that you",
+      "zh": ""
+    },
+    {
+      "start": 118.88,
+      "duration": 4.86,
+      "text": "you clearly weren't aware that you made me",
+      "en": "you clearly weren't aware that you made me",
+      "zh": ""
+    },
+    {
+      "start": 127.11,
+      "duration": 0.3,
+      "text": "[Music]",
+      "en": "[Music]",
+      "zh": ""
+    },
+    {
+      "start": 127.12,
+      "duration": 2.55,
+      "text": "[Music] if you really",
+      "en": "[Music] if you really",
+      "zh": ""
+    },
+    {
+      "start": 129.67,
+      "duration": 0.3,
+      "text": "if you really",
+      "en": "if you really",
+      "zh": ""
+    },
+    {
+      "start": 129.68,
+      "duration": 1.67,
+      "text": "if you really want",
+      "en": "if you really want",
+      "zh": ""
+    },
+    {
+      "start": 131.35,
+      "duration": 0.3,
+      "text": "want",
+      "en": "want",
+      "zh": ""
+    },
+    {
+      "start": 131.36,
+      "duration": 1.35,
+      "text": "want more",
+      "en": "want more",
+      "zh": ""
+    },
+    {
+      "start": 132.71,
+      "duration": 0.3,
+      "text": "more",
+      "en": "more",
+      "zh": ""
+    },
+    {
+      "start": 132.72,
+      "duration": 2.48,
+      "text": "more when i'm always",
+      "en": "more when i'm always",
+      "zh": ""
+    },
+    {
+      "start": 135.2,
+      "duration": 0.3,
+      "text": "when i'm always",
+      "en": "when i'm always",
+      "zh": ""
+    },
+    {
+      "start": 135.21,
+      "duration": 6.73,
+      "text": "when i'm always [Music]",
+      "en": "when i'm always [Music]",
+      "zh": ""
+    },
+    {
+      "start": 141.94,
+      "duration": 0.3,
+      "text": "[Music]",
+      "en": "[Music]",
+      "zh": ""
+    },
+    {
+      "start": 141.95,
+      "duration": 1.16,
+      "text": "[Music] [Applause]",
+      "en": "[Music] [Applause]",
+      "zh": ""
+    },
+    {
+      "start": 143.11,
+      "duration": 0.3,
+      "text": "[Applause]",
+      "en": "[Applause]",
+      "zh": ""
+    },
+    {
+      "start": 143.12,
+      "duration": 8.71,
+      "text": "[Applause] [Music]",
+      "en": "[Applause] [Music]",
+      "zh": ""
+    },
+    {
+      "start": 173.75,
+      "duration": 0.3,
+      "text": "[Music]",
+      "en": "[Music]",
+      "zh": ""
+    },
+    {
+      "start": 173.76,
+      "duration": 1.91,
+      "text": "[Music] you called me again",
+      "en": "[Music] you called me again",
+      "zh": ""
+    },
+    {
+      "start": 175.67,
+      "duration": 0.3,
+      "text": "you called me again",
+      "en": "you called me again",
+      "zh": ""
+    },
+    {
+      "start": 175.68,
+      "duration": 3.11,
+      "text": "you called me again drunk in your benz driving home under",
+      "en": "you called me again drunk in your benz driving home under",
+      "zh": ""
+    },
+    {
+      "start": 178.79,
+      "duration": 0.3,
+      "text": "drunk in your benz driving home under",
+      "en": "drunk in your benz driving home under",
+      "zh": ""
+    },
+    {
+      "start": 178.8,
+      "duration": 1.91,
+      "text": "drunk in your benz driving home under the influence",
+      "en": "drunk in your benz driving home under the influence",
+      "zh": ""
+    },
+    {
+      "start": 180.71,
+      "duration": 0.3,
+      "text": "the influence",
+      "en": "the influence",
+      "zh": ""
+    },
+    {
+      "start": 180.72,
+      "duration": 11.71,
+      "text": "the influence you scared me to death but i'm wasting",
+      "en": "the influence you scared me to death but i'm wasting",
+      "zh": ""
+    },
+    {
+      "start": 196.23,
+      "duration": 0.3,
+      "text": "[Music]",
+      "en": "[Music]",
+      "zh": ""
+    },
+    {
+      "start": 196.24,
+      "duration": 4.32,
+      "text": "[Music] you made me",
+      "en": "[Music] you made me",
+      "zh": ""
+    },
+    {
+      "start": 211.99,
+      "duration": 0.3,
+      "text": "and all that you did was making me very",
+      "en": "and all that you did was making me very",
+      "zh": ""
+    },
+    {
+      "start": 212.0,
+      "duration": 1.35,
+      "text": "and all that you did was making me very sad",
+      "en": "and all that you did was making me very sad",
+      "zh": ""
+    },
+    {
+      "start": 213.35,
+      "duration": 0.3,
+      "text": "sad",
+      "en": "sad",
+      "zh": ""
+    },
+    {
+      "start": 213.36,
+      "duration": 3.35,
+      "text": "sad so don't waste the time i don't have",
+      "en": "sad so don't waste the time i don't have",
+      "zh": ""
+    },
+    {
+      "start": 216.71,
+      "duration": 0.3,
+      "text": "so don't waste the time i don't have",
+      "en": "so don't waste the time i don't have",
+      "zh": ""
+    },
+    {
+      "start": 216.72,
+      "duration": 2.47,
+      "text": "so don't waste the time i don't have and don't try to make me feel bad i",
+      "en": "so don't waste the time i don't have and don't try to make me feel bad i",
+      "zh": ""
+    },
+    {
+      "start": 219.19,
+      "duration": 0.3,
+      "text": "and don't try to make me feel bad i",
+      "en": "and don't try to make me feel bad i",
+      "zh": ""
+    },
+    {
+      "start": 219.2,
+      "duration": 2.47,
+      "text": "and don't try to make me feel bad i could talk about it every time that you",
+      "en": "and don't try to make me feel bad i could talk about it every time that you",
+      "zh": ""
+    },
+    {
+      "start": 221.67,
+      "duration": 0.3,
+      "text": "could talk about it every time that you",
+      "en": "could talk about it every time that you",
+      "zh": ""
+    },
+    {
+      "start": 221.68,
+      "duration": 4.87,
+      "text": "could talk about it every time that you showed up on time",
+      "en": "could talk about it every time that you showed up on time",
+      "zh": ""
+    },
+    {
+      "start": 236.31,
+      "duration": 0.3,
+      "text": "you ruined everything good",
+      "en": "you ruined everything good",
+      "zh": ""
+    },
+    {
+      "start": 236.32,
+      "duration": 2.58,
+      "text": "you ruined everything good always said you were misunderstood",
+      "en": "you ruined everything good always said you were misunderstood",
+      "zh": ""
+    },
+    {
+      "start": 238.9,
+      "duration": 0.3,
+      "text": "always said you were misunderstood",
+      "en": "always said you were misunderstood",
+      "zh": ""
+    },
+    {
+      "start": 238.91,
+      "duration": 1.32,
+      "text": "always said you were misunderstood [Music]",
+      "en": "always said you were misunderstood [Music]",
+      "zh": ""
+    },
+    {
+      "start": 240.23,
+      "duration": 0.3,
+      "text": "[Music]",
+      "en": "[Music]",
+      "zh": ""
+    },
+    {
+      "start": 240.24,
+      "duration": 4.54,
+      "text": "[Music] made all my moments young",
+      "en": "[Music] made all my moments young",
+      "zh": ""
+    },
+    {
+      "start": 258.87,
+      "duration": 0.3,
+      "text": "[Music]",
+      "en": "[Music]",
+      "zh": ""
+    },
+    {
+      "start": 258.88,
+      "duration": 2.32,
+      "text": "[Music] i'm happier",
+      "en": "[Music] i'm happier",
+      "zh": ""
+    },
+    {
+      "start": 261.2,
+      "duration": 0.3,
+      "text": "i'm happier",
+      "en": "i'm happier",
+      "zh": ""
+    },
+    {
+      "start": 261.21,
+      "duration": 21.1,
+      "text": "i'm happier [Music]",
+      "en": "i'm happier [Music]",
+      "zh": ""
+    },
+    {
+      "start": 286.43,
+      "duration": 0.3,
+      "text": "when i'm",
+      "en": "when i'm",
+      "zh": ""
+    },
+    {
+      "start": 286.44,
+      "duration": 2.23,
+      "text": "when i'm away from",
+      "en": "when i'm away from",
+      "zh": ""
+    },
+    {
+      "start": 288.67,
+      "duration": 0.3,
+      "text": "away from",
+      "en": "away from",
+      "zh": ""
+    },
+    {
+      "start": 288.68,
+      "duration": 16.43,
+      "text": "away from [Music]",
+      "en": "away from [Music]",
+      "zh": ""
+    }
+  ],
+  "words": []
+}

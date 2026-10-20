@@ -1,0 +1,677 @@
+{
+  "cues": [
+    {
+      "start": 0.44,
+      "duration": 1.88,
+      "text": "[TRAFFIC HUMS]",
+      "en": "[TRAFFIC HUMS]",
+      "zh": ""
+    },
+    {
+      "start": 2.52,
+      "duration": 2.32,
+      "text": "♪ You're glowing ♪",
+      "en": "♪ You're glowing ♪",
+      "zh": ""
+    },
+    {
+      "start": 5.48,
+      "duration": 3.12,
+      "text": "♪ You colour and fracture the light ♪",
+      "en": "♪ You colour and fracture the light ♪",
+      "zh": ""
+    },
+    {
+      "start": 8.68,
+      "duration": 2.64,
+      "text": "♪ You can't help but shine ♪",
+      "en": "♪ You can't help but shine ♪",
+      "zh": ""
+    },
+    {
+      "start": 12.56,
+      "duration": 2.36,
+      "text": "♪ And I know that ♪",
+      "en": "♪ And I know that ♪",
+      "zh": ""
+    },
+    {
+      "start": 15.64,
+      "duration": 3.08,
+      "text": "♪ You carry the world on your back ♪",
+      "en": "♪ You carry the world on your back ♪",
+      "zh": ""
+    },
+    {
+      "start": 18.8,
+      "duration": 2.48,
+      "text": "♪ But look at you tonight ♪",
+      "en": "♪ But look at you tonight ♪",
+      "zh": ""
+    },
+    {
+      "start": 23.12,
+      "duration": 1.16,
+      "text": "♪ The lights ♪",
+      "en": "♪ The lights ♪",
+      "zh": ""
+    },
+    {
+      "start": 24.36,
+      "duration": 1.16,
+      "text": "♪ Your face ♪",
+      "en": "♪ Your face ♪",
+      "zh": ""
+    },
+    {
+      "start": 25.6,
+      "duration": 1.2,
+      "text": "♪ Your eyes ♪",
+      "en": "♪ Your eyes ♪",
+      "zh": ""
+    },
+    {
+      "start": 26.88,
+      "duration": 1.28,
+      "text": "♪ Exploding ♪",
+      "en": "♪ Exploding ♪",
+      "zh": ""
+    },
+    {
+      "start": 28.24,
+      "duration": 1.44,
+      "text": "♪ Like fireworks ♪",
+      "en": "♪ Like fireworks ♪",
+      "zh": ""
+    },
+    {
+      "start": 29.76,
+      "duration": 2.84,
+      "text": "♪ In the sky ♪",
+      "en": "♪ In the sky ♪",
+      "zh": ""
+    },
+    {
+      "start": 32.72,
+      "duration": 0.76,
+      "text": "♪ Sapphire ♪",
+      "en": "♪ Sapphire ♪",
+      "zh": ""
+    },
+    {
+      "start": 33.56,
+      "duration": 2.32,
+      "text": "♪ Touching on your body while you're pushing on me ♪",
+      "en": "♪ Touching on your body while you're pushing on me ♪",
+      "zh": ""
+    },
+    {
+      "start": 36.04,
+      "duration": 2.24,
+      "text": "♪ Don't you end the party, I could do this all week ♪",
+      "en": "♪ Don't you end the party, I could do this all week ♪",
+      "zh": ""
+    },
+    {
+      "start": 38.36,
+      "duration": 1.16,
+      "text": "♪ We'll be dancing till the morning ♪",
+      "en": "♪ We'll be dancing till the morning ♪",
+      "zh": ""
+    },
+    {
+      "start": 39.6,
+      "duration": 1.44,
+      "text": "♪ Go to bed, we won't sleep ♪",
+      "en": "♪ Go to bed, we won't sleep ♪",
+      "zh": ""
+    },
+    {
+      "start": 41.12,
+      "duration": 1.84,
+      "text": "[IN PUNJABI]: ♪ They sparkle just like stars ♪",
+      "en": "[IN PUNJABI]: ♪ They sparkle just like stars ♪",
+      "zh": ""
+    },
+    {
+      "start": 43.04,
+      "duration": 0.72,
+      "text": "♪ Sapphire ♪",
+      "en": "♪ Sapphire ♪",
+      "zh": ""
+    },
+    {
+      "start": 43.84,
+      "duration": 2.2,
+      "text": "♪ Touching on your body while you're pushing on me ♪",
+      "en": "♪ Touching on your body while you're pushing on me ♪",
+      "zh": ""
+    },
+    {
+      "start": 46.16,
+      "duration": 2.16,
+      "text": "♪ Don't you end the party, I could do this all week ♪",
+      "en": "♪ Don't you end the party, I could do this all week ♪",
+      "zh": ""
+    },
+    {
+      "start": 48.4,
+      "duration": 1.24,
+      "text": "♪ We'll be dancing till the morning ♪",
+      "en": "♪ We'll be dancing till the morning ♪",
+      "zh": ""
+    },
+    {
+      "start": 49.72,
+      "duration": 1.32,
+      "text": "♪ Go to bed, we won't sleep ♪",
+      "en": "♪ Go to bed, we won't sleep ♪",
+      "zh": ""
+    },
+    {
+      "start": 51.24,
+      "duration": 2.12,
+      "text": "[IN PUNJABI]: ♪ They sparkle just like stars ♪",
+      "en": "[IN PUNJABI]: ♪ They sparkle just like stars ♪",
+      "zh": ""
+    },
+    {
+      "start": 54.04,
+      "duration": 1.0,
+      "text": "♪ Look what we found ♪",
+      "en": "♪ Look what we found ♪",
+      "zh": ""
+    },
+    {
+      "start": 55.32,
+      "duration": 0.92,
+      "text": "♪ Karma reached out ♪",
+      "en": "♪ Karma reached out ♪",
+      "zh": ""
+    },
+    {
+      "start": 56.36,
+      "duration": 2.44,
+      "text": "♪ Into our hearts and pulled us to our feet now ♪",
+      "en": "♪ Into our hearts and pulled us to our feet now ♪",
+      "zh": ""
+    },
+    {
+      "start": 58.88,
+      "duration": 1.16,
+      "text": "♪ You know the truth is ♪",
+      "en": "♪ You know the truth is ♪",
+      "zh": ""
+    },
+    {
+      "start": 60.28,
+      "duration": 1.24,
+      "text": "♪ We could disappear ♪",
+      "en": "♪ We could disappear ♪",
+      "zh": ""
+    },
+    {
+      "start": 61.68,
+      "duration": 2.12,
+      "text": "♪ Anywhere, as long as I got you there ♪",
+      "en": "♪ Anywhere, as long as I got you there ♪",
+      "zh": ""
+    },
+    {
+      "start": 64.08,
+      "duration": 1.24,
+      "text": "♪ When the sun dies ♪",
+      "en": "♪ When the sun dies ♪",
+      "zh": ""
+    },
+    {
+      "start": 65.44,
+      "duration": 1.2,
+      "text": "♪ Till the day shines ♪",
+      "en": "♪ Till the day shines ♪",
+      "zh": ""
+    },
+    {
+      "start": 66.72,
+      "duration": 1.12,
+      "text": "♪ When I'm with you ♪",
+      "en": "♪ When I'm with you ♪",
+      "zh": ""
+    },
+    {
+      "start": 67.92,
+      "duration": 0.96,
+      "text": "♪ There's not enough time ♪",
+      "en": "♪ There's not enough time ♪",
+      "zh": ""
+    },
+    {
+      "start": 68.96,
+      "duration": 1.36,
+      "text": "♪ You are my spring flower ♪",
+      "en": "♪ You are my spring flower ♪",
+      "zh": ""
+    },
+    {
+      "start": 70.4,
+      "duration": 1.2,
+      "text": "♪ Watching you bloom, wow ♪",
+      "en": "♪ Watching you bloom, wow ♪",
+      "zh": ""
+    },
+    {
+      "start": 71.68,
+      "duration": 2.0,
+      "text": "♪ We are surrounded but I can only see ♪",
+      "en": "♪ We are surrounded but I can only see ♪",
+      "zh": ""
+    },
+    {
+      "start": 73.76,
+      "duration": 1.12,
+      "text": "♪ The lights ♪",
+      "en": "♪ The lights ♪",
+      "zh": ""
+    },
+    {
+      "start": 74.96,
+      "duration": 1.04,
+      "text": "♪ Your face ♪",
+      "en": "♪ Your face ♪",
+      "zh": ""
+    },
+    {
+      "start": 76.08,
+      "duration": 1.2,
+      "text": "♪ Your eyes ♪",
+      "en": "♪ Your eyes ♪",
+      "zh": ""
+    },
+    {
+      "start": 77.36,
+      "duration": 1.24,
+      "text": "♪ Exploding ♪",
+      "en": "♪ Exploding ♪",
+      "zh": ""
+    },
+    {
+      "start": 78.68,
+      "duration": 1.56,
+      "text": "♪ Like fireworks ♪",
+      "en": "♪ Like fireworks ♪",
+      "zh": ""
+    },
+    {
+      "start": 80.32,
+      "duration": 2.76,
+      "text": "♪ In the sky ♪",
+      "en": "♪ In the sky ♪",
+      "zh": ""
+    },
+    {
+      "start": 83.32,
+      "duration": 0.72,
+      "text": "♪ Sapphire ♪",
+      "en": "♪ Sapphire ♪",
+      "zh": ""
+    },
+    {
+      "start": 84.12,
+      "duration": 2.32,
+      "text": "♪ Touching on your body while you're pushing on me ♪",
+      "en": "♪ Touching on your body while you're pushing on me ♪",
+      "zh": ""
+    },
+    {
+      "start": 86.56,
+      "duration": 2.24,
+      "text": "♪ Don't you end the party, I could do this all week ♪",
+      "en": "♪ Don't you end the party, I could do this all week ♪",
+      "zh": ""
+    },
+    {
+      "start": 88.88,
+      "duration": 1.12,
+      "text": "♪ We'll be dancing till the morning ♪",
+      "en": "♪ We'll be dancing till the morning ♪",
+      "zh": ""
+    },
+    {
+      "start": 90.08,
+      "duration": 1.36,
+      "text": "♪ Go to bed, we won't sleep ♪",
+      "en": "♪ Go to bed, we won't sleep ♪",
+      "zh": ""
+    },
+    {
+      "start": 91.56,
+      "duration": 1.88,
+      "text": "[IN PUNJABI]: ♪ They sparkle just like stars ♪",
+      "en": "[IN PUNJABI]: ♪ They sparkle just like stars ♪",
+      "zh": ""
+    },
+    {
+      "start": 93.52,
+      "duration": 0.88,
+      "text": "♪ Sapphire ♪",
+      "en": "♪ Sapphire ♪",
+      "zh": ""
+    },
+    {
+      "start": 94.48,
+      "duration": 2.0,
+      "text": "♪ Touching on your body while you're pushing on me ♪",
+      "en": "♪ Touching on your body while you're pushing on me ♪",
+      "zh": ""
+    },
+    {
+      "start": 96.68,
+      "duration": 2.2,
+      "text": "♪ Don't you end the party, I could do this all week ♪",
+      "en": "♪ Don't you end the party, I could do this all week ♪",
+      "zh": ""
+    },
+    {
+      "start": 98.96,
+      "duration": 1.12,
+      "text": "♪ We'll be dancing till the morning ♪",
+      "en": "♪ We'll be dancing till the morning ♪",
+      "zh": ""
+    },
+    {
+      "start": 100.16,
+      "duration": 1.32,
+      "text": "♪ Go to bed, we won't sleep ♪",
+      "en": "♪ Go to bed, we won't sleep ♪",
+      "zh": ""
+    },
+    {
+      "start": 101.72,
+      "duration": 1.84,
+      "text": "[IN PUNJABI]: ♪ They sparkle just like stars ♪",
+      "en": "[IN PUNJABI]: ♪ They sparkle just like stars ♪",
+      "zh": ""
+    },
+    {
+      "start": 103.64,
+      "duration": 1.12,
+      "text": "♪ Sapphire ♪",
+      "en": "♪ Sapphire ♪",
+      "zh": ""
+    },
+    {
+      "start": 105.16,
+      "duration": 1.68,
+      "text": "[♪♪♪]",
+      "en": "[♪♪♪]",
+      "zh": ""
+    },
+    {
+      "start": 107.68,
+      "duration": 1.04,
+      "text": "[IN PUNJABI]: ♪ (They sparkle, sparkle) ♪",
+      "en": "[IN PUNJABI]: ♪ (They sparkle, sparkle) ♪",
+      "zh": ""
+    },
+    {
+      "start": 108.8,
+      "duration": 3.4,
+      "text": "♪ You're glowing ♪",
+      "en": "♪ You're glowing ♪",
+      "zh": ""
+    },
+    {
+      "start": 116.72,
+      "duration": 2.72,
+      "text": "♪ You colour and fracture the light ♪",
+      "en": "♪ You colour and fracture the light ♪",
+      "zh": ""
+    },
+    {
+      "start": 120.04,
+      "duration": 1.08,
+      "text": "♪ Look at you ♪",
+      "en": "♪ Look at you ♪",
+      "zh": ""
+    },
+    {
+      "start": 121.24,
+      "duration": 2.44,
+      "text": "♪ Tonight ♪",
+      "en": "♪ Tonight ♪",
+      "zh": ""
+    },
+    {
+      "start": 123.76,
+      "duration": 0.64,
+      "text": "♪ Sapphire ♪",
+      "en": "♪ Sapphire ♪",
+      "zh": ""
+    },
+    {
+      "start": 124.48,
+      "duration": 1.48,
+      "text": "[IN HINDI/PUNJABI]: ♪ When you raise your eyelashes ♪",
+      "en": "[IN HINDI/PUNJABI]: ♪ When you raise your eyelashes ♪",
+      "zh": ""
+    },
+    {
+      "start": 126.04,
+      "duration": 0.88,
+      "text": "♪ Darkness disappears ♪",
+      "en": "♪ Darkness disappears ♪",
+      "zh": ""
+    },
+    {
+      "start": 127.0,
+      "duration": 1.2,
+      "text": "♪ With rainbows wrapped around your fingers ♪",
+      "en": "♪ With rainbows wrapped around your fingers ♪",
+      "zh": ""
+    },
+    {
+      "start": 128.28,
+      "duration": 0.88,
+      "text": "♪ You move like magic ♪",
+      "en": "♪ You move like magic ♪",
+      "zh": ""
+    },
+    {
+      "start": 129.28,
+      "duration": 2.6,
+      "text": "♪ How did God embed sapphires in those eyes? ♪",
+      "en": "♪ How did God embed sapphires in those eyes? ♪",
+      "zh": ""
+    },
+    {
+      "start": 132.04,
+      "duration": 1.84,
+      "text": "[IN PUNJABI]: ♪ They sparkle just like little stars ♪",
+      "en": "[IN PUNJABI]: ♪ They sparkle just like little stars ♪",
+      "zh": ""
+    },
+    {
+      "start": 133.96,
+      "duration": 0.6,
+      "text": "♪ Sapphire ♪",
+      "en": "♪ Sapphire ♪",
+      "zh": ""
+    },
+    {
+      "start": 134.64,
+      "duration": 2.36,
+      "text": "♪ Touching on your body while you're pushing on me ♪",
+      "en": "♪ Touching on your body while you're pushing on me ♪",
+      "zh": ""
+    },
+    {
+      "start": 137.12,
+      "duration": 2.2,
+      "text": "♪ Don't you end the party, I could do this all week ♪",
+      "en": "♪ Don't you end the party, I could do this all week ♪",
+      "zh": ""
+    },
+    {
+      "start": 139.4,
+      "duration": 1.2,
+      "text": "♪ We'll be dancing till the morning ♪",
+      "en": "♪ We'll be dancing till the morning ♪",
+      "zh": ""
+    },
+    {
+      "start": 140.68,
+      "duration": 1.24,
+      "text": "♪ Go to bed, we won't sleep ♪",
+      "en": "♪ Go to bed, we won't sleep ♪",
+      "zh": ""
+    },
+    {
+      "start": 142.12,
+      "duration": 1.88,
+      "text": "[IN PUNJABI]: ♪ They sparkle just like stars ♪",
+      "en": "[IN PUNJABI]: ♪ They sparkle just like stars ♪",
+      "zh": ""
+    },
+    {
+      "start": 144.08,
+      "duration": 0.64,
+      "text": "♪ Sapphire ♪",
+      "en": "♪ Sapphire ♪",
+      "zh": ""
+    },
+    {
+      "start": 144.8,
+      "duration": 2.32,
+      "text": "♪ Touching on your body while you're pushing on me ♪",
+      "en": "♪ Touching on your body while you're pushing on me ♪",
+      "zh": ""
+    },
+    {
+      "start": 147.28,
+      "duration": 2.2,
+      "text": "♪ Don't you end the party, I could do this all week ♪",
+      "en": "♪ Don't you end the party, I could do this all week ♪",
+      "zh": ""
+    },
+    {
+      "start": 149.56,
+      "duration": 1.08,
+      "text": "♪ We'll be dancing till the morning ♪",
+      "en": "♪ We'll be dancing till the morning ♪",
+      "zh": ""
+    },
+    {
+      "start": 150.72,
+      "duration": 1.4,
+      "text": "♪ Go to bed, we won't sleep ♪",
+      "en": "♪ Go to bed, we won't sleep ♪",
+      "zh": ""
+    },
+    {
+      "start": 152.24,
+      "duration": 1.76,
+      "text": "[IN PUNJABI]: ♪ They sparkle just like stars ♪",
+      "en": "[IN PUNJABI]: ♪ They sparkle just like stars ♪",
+      "zh": ""
+    },
+    {
+      "start": 154.08,
+      "duration": 0.76,
+      "text": "♪ Sapphire ♪",
+      "en": "♪ Sapphire ♪",
+      "zh": ""
+    },
+    {
+      "start": 154.92,
+      "duration": 2.16,
+      "text": "♪ Touching on your body while you're pushing on me ♪",
+      "en": "♪ Touching on your body while you're pushing on me ♪",
+      "zh": ""
+    },
+    {
+      "start": 157.32,
+      "duration": 0.84,
+      "text": "♪ (Your eyes) ♪",
+      "en": "♪ (Your eyes) ♪",
+      "zh": ""
+    },
+    {
+      "start": 158.24,
+      "duration": 1.2,
+      "text": "♪ (Exploding) ♪",
+      "en": "♪ (Exploding) ♪",
+      "zh": ""
+    },
+    {
+      "start": 159.52,
+      "duration": 1.6,
+      "text": "♪ (Like fireworks) ♪",
+      "en": "♪ (Like fireworks) ♪",
+      "zh": ""
+    },
+    {
+      "start": 161.2,
+      "duration": 2.76,
+      "text": "♪ (In the sky) ♪",
+      "en": "♪ (In the sky) ♪",
+      "zh": ""
+    },
+    {
+      "start": 164.08,
+      "duration": 0.76,
+      "text": "♪ Sapphire ♪",
+      "en": "♪ Sapphire ♪",
+      "zh": ""
+    },
+    {
+      "start": 164.92,
+      "duration": 0.92,
+      "text": "♪ The lights ♪",
+      "en": "♪ The lights ♪",
+      "zh": ""
+    },
+    {
+      "start": 165.92,
+      "duration": 1.0,
+      "text": "♪ Your face ♪",
+      "en": "♪ Your face ♪",
+      "zh": ""
+    },
+    {
+      "start": 167.0,
+      "duration": 1.12,
+      "text": "♪ Your eyes ♪",
+      "en": "♪ Your eyes ♪",
+      "zh": ""
+    },
+    {
+      "start": 168.36,
+      "duration": 1.16,
+      "text": "♪ Exploding ♪",
+      "en": "♪ Exploding ♪",
+      "zh": ""
+    },
+    {
+      "start": 169.6,
+      "duration": 1.52,
+      "text": "♪ Like fireworks ♪",
+      "en": "♪ Like fireworks ♪",
+      "zh": ""
+    },
+    {
+      "start": 171.2,
+      "duration": 3.0,
+      "text": "♪ In the sky ♪",
+      "en": "♪ In the sky ♪",
+      "zh": ""
+    },
+    {
+      "start": 174.28,
+      "duration": 1.28,
+      "text": "♪ Sapphire ♪",
+      "en": "♪ Sapphire ♪",
+      "zh": ""
+    }
+  ],
+  "words": []
+}

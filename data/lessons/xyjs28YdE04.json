@@ -1,0 +1,607 @@
+{
+  "cues": [
+    {
+      "start": 4.59,
+      "duration": 0.3,
+      "text": "Amazing",
+      "en": "Amazing",
+      "zh": ""
+    },
+    {
+      "start": 4.6,
+      "duration": 2.31,
+      "text": "Amazing Grace how",
+      "en": "Amazing Grace how",
+      "zh": ""
+    },
+    {
+      "start": 6.91,
+      "duration": 0.3,
+      "text": "Grace how",
+      "en": "Grace how",
+      "zh": ""
+    },
+    {
+      "start": 6.92,
+      "duration": 2.43,
+      "text": "Grace how sweet the",
+      "en": "Grace how sweet the",
+      "zh": ""
+    },
+    {
+      "start": 9.35,
+      "duration": 0.3,
+      "text": "sweet the",
+      "en": "sweet the",
+      "zh": ""
+    },
+    {
+      "start": 9.36,
+      "duration": 2.11,
+      "text": "sweet the sound that",
+      "en": "sweet the sound that",
+      "zh": ""
+    },
+    {
+      "start": 11.47,
+      "duration": 0.3,
+      "text": "sound that",
+      "en": "sound that",
+      "zh": ""
+    },
+    {
+      "start": 11.48,
+      "duration": 2.47,
+      "text": "sound that saved a",
+      "en": "sound that saved a",
+      "zh": ""
+    },
+    {
+      "start": 13.95,
+      "duration": 0.3,
+      "text": "saved a",
+      "en": "saved a",
+      "zh": ""
+    },
+    {
+      "start": 13.96,
+      "duration": 4.59,
+      "text": "saved a r like",
+      "en": "saved a r like",
+      "zh": ""
+    },
+    {
+      "start": 20.83,
+      "duration": 0.3,
+      "text": "me I",
+      "en": "me I",
+      "zh": ""
+    },
+    {
+      "start": 20.84,
+      "duration": 2.43,
+      "text": "me I once was",
+      "en": "me I once was",
+      "zh": ""
+    },
+    {
+      "start": 23.27,
+      "duration": 0.3,
+      "text": "once was",
+      "en": "once was",
+      "zh": ""
+    },
+    {
+      "start": 23.28,
+      "duration": 2.23,
+      "text": "once was lost but",
+      "en": "once was lost but",
+      "zh": ""
+    },
+    {
+      "start": 25.51,
+      "duration": 0.3,
+      "text": "lost but",
+      "en": "lost but",
+      "zh": ""
+    },
+    {
+      "start": 25.52,
+      "duration": 2.31,
+      "text": "lost but now and",
+      "en": "lost but now and",
+      "zh": ""
+    },
+    {
+      "start": 27.83,
+      "duration": 0.3,
+      "text": "now and",
+      "en": "now and",
+      "zh": ""
+    },
+    {
+      "start": 27.84,
+      "duration": 3.31,
+      "text": "now and found was blind",
+      "en": "now and found was blind",
+      "zh": ""
+    },
+    {
+      "start": 31.15,
+      "duration": 0.3,
+      "text": "found was blind",
+      "en": "found was blind",
+      "zh": ""
+    },
+    {
+      "start": 31.16,
+      "duration": 1.35,
+      "text": "found was blind but",
+      "en": "found was blind but",
+      "zh": ""
+    },
+    {
+      "start": 32.51,
+      "duration": 0.3,
+      "text": "but",
+      "en": "but",
+      "zh": ""
+    },
+    {
+      "start": 32.52,
+      "duration": 4.19,
+      "text": "but now I",
+      "en": "but now I",
+      "zh": ""
+    },
+    {
+      "start": 39.35,
+      "duration": 0.3,
+      "text": "see was",
+      "en": "see was",
+      "zh": ""
+    },
+    {
+      "start": 39.36,
+      "duration": 2.19,
+      "text": "see was Grace that",
+      "en": "see was Grace that",
+      "zh": ""
+    },
+    {
+      "start": 41.55,
+      "duration": 0.3,
+      "text": "Grace that",
+      "en": "Grace that",
+      "zh": ""
+    },
+    {
+      "start": 41.56,
+      "duration": 4.63,
+      "text": "Grace that t my heart to",
+      "en": "Grace that t my heart to",
+      "zh": ""
+    },
+    {
+      "start": 46.19,
+      "duration": 0.3,
+      "text": "t my heart to",
+      "en": "t my heart to",
+      "zh": ""
+    },
+    {
+      "start": 46.2,
+      "duration": 2.27,
+      "text": "t my heart to feel and",
+      "en": "t my heart to feel and",
+      "zh": ""
+    },
+    {
+      "start": 48.47,
+      "duration": 0.3,
+      "text": "feel and",
+      "en": "feel and",
+      "zh": ""
+    },
+    {
+      "start": 48.48,
+      "duration": 2.26,
+      "text": "feel and Grace my",
+      "en": "feel and Grace my",
+      "zh": ""
+    },
+    {
+      "start": 50.74,
+      "duration": 0.3,
+      "text": "Grace my",
+      "en": "Grace my",
+      "zh": ""
+    },
+    {
+      "start": 50.75,
+      "duration": 1.62,
+      "text": "Grace my [Music]",
+      "en": "Grace my [Music]",
+      "zh": ""
+    },
+    {
+      "start": 52.37,
+      "duration": 0.3,
+      "text": "[Music]",
+      "en": "[Music]",
+      "zh": ""
+    },
+    {
+      "start": 52.38,
+      "duration": 2.93,
+      "text": "[Music] [Laughter]",
+      "en": "[Music] [Laughter]",
+      "zh": ""
+    },
+    {
+      "start": 55.31,
+      "duration": 0.3,
+      "text": "[Laughter]",
+      "en": "[Laughter]",
+      "zh": ""
+    },
+    {
+      "start": 55.32,
+      "duration": 3.19,
+      "text": "[Laughter] feet how",
+      "en": "[Laughter] feet how",
+      "zh": ""
+    },
+    {
+      "start": 58.51,
+      "duration": 0.3,
+      "text": "feet how",
+      "en": "feet how",
+      "zh": ""
+    },
+    {
+      "start": 58.52,
+      "duration": 2.59,
+      "text": "feet how preious de",
+      "en": "feet how preious de",
+      "zh": ""
+    },
+    {
+      "start": 61.11,
+      "duration": 0.3,
+      "text": "preious de",
+      "en": "preious de",
+      "zh": ""
+    },
+    {
+      "start": 61.12,
+      "duration": 3.71,
+      "text": "preious de that",
+      "en": "preious de that",
+      "zh": ""
+    },
+    {
+      "start": 70.96,
+      "duration": 0.3,
+      "text": "Grace we are I first",
+      "en": "Grace we are I first",
+      "zh": ""
+    },
+    {
+      "start": 70.97,
+      "duration": 3.14,
+      "text": "Grace we are I first [Music]",
+      "en": "Grace we are I first [Music]",
+      "zh": ""
+    },
+    {
+      "start": 76.23,
+      "duration": 0.3,
+      "text": "feeling and",
+      "en": "feeling and",
+      "zh": ""
+    },
+    {
+      "start": 76.24,
+      "duration": 2.27,
+      "text": "feeling and when this",
+      "en": "feeling and when this",
+      "zh": ""
+    },
+    {
+      "start": 78.51,
+      "duration": 0.3,
+      "text": "when this",
+      "en": "when this",
+      "zh": ""
+    },
+    {
+      "start": 78.52,
+      "duration": 4.71,
+      "text": "when this flesh and heart shall",
+      "en": "when this flesh and heart shall",
+      "zh": ""
+    },
+    {
+      "start": 83.23,
+      "duration": 0.3,
+      "text": "flesh and heart shall",
+      "en": "flesh and heart shall",
+      "zh": ""
+    },
+    {
+      "start": 83.24,
+      "duration": 2.95,
+      "text": "flesh and heart shall fail and",
+      "en": "flesh and heart shall fail and",
+      "zh": ""
+    },
+    {
+      "start": 86.19,
+      "duration": 0.3,
+      "text": "fail and",
+      "en": "fail and",
+      "zh": ""
+    },
+    {
+      "start": 86.2,
+      "duration": 7.35,
+      "text": "fail and moreal life shall see",
+      "en": "fail and moreal life shall see",
+      "zh": ""
+    },
+    {
+      "start": 94.63,
+      "duration": 0.3,
+      "text": "I",
+      "en": "I",
+      "zh": ""
+    },
+    {
+      "start": 94.64,
+      "duration": 2.39,
+      "text": "I shall",
+      "en": "I shall",
+      "zh": ""
+    },
+    {
+      "start": 97.03,
+      "duration": 0.3,
+      "text": "shall",
+      "en": "shall",
+      "zh": ""
+    },
+    {
+      "start": 97.04,
+      "duration": 2.19,
+      "text": "shall possess",
+      "en": "shall possess",
+      "zh": ""
+    },
+    {
+      "start": 99.23,
+      "duration": 0.3,
+      "text": "possess",
+      "en": "possess",
+      "zh": ""
+    },
+    {
+      "start": 99.24,
+      "duration": 2.31,
+      "text": "possess within the",
+      "en": "possess within the",
+      "zh": ""
+    },
+    {
+      "start": 101.55,
+      "duration": 0.3,
+      "text": "within the",
+      "en": "within the",
+      "zh": ""
+    },
+    {
+      "start": 101.56,
+      "duration": 2.35,
+      "text": "within the veil a",
+      "en": "within the veil a",
+      "zh": ""
+    },
+    {
+      "start": 103.91,
+      "duration": 0.3,
+      "text": "veil a",
+      "en": "veil a",
+      "zh": ""
+    },
+    {
+      "start": 103.92,
+      "duration": 2.31,
+      "text": "veil a life of",
+      "en": "veil a life of",
+      "zh": ""
+    },
+    {
+      "start": 106.23,
+      "duration": 0.3,
+      "text": "life of",
+      "en": "life of",
+      "zh": ""
+    },
+    {
+      "start": 106.24,
+      "duration": 5.15,
+      "text": "life of joy and",
+      "en": "life of joy and",
+      "zh": ""
+    },
+    {
+      "start": 113.87,
+      "duration": 0.3,
+      "text": "peace",
+      "en": "peace",
+      "zh": ""
+    },
+    {
+      "start": 113.88,
+      "duration": 1.59,
+      "text": "peace amazing",
+      "en": "peace amazing",
+      "zh": ""
+    },
+    {
+      "start": 115.47,
+      "duration": 0.3,
+      "text": "amazing",
+      "en": "amazing",
+      "zh": ""
+    },
+    {
+      "start": 115.48,
+      "duration": 5.59,
+      "text": "amazing gra How Sweet Sweet the Sound",
+      "en": "amazing gra How Sweet Sweet the Sound",
+      "zh": ""
+    },
+    {
+      "start": 121.07,
+      "duration": 0.3,
+      "text": "gra How Sweet Sweet the Sound",
+      "en": "gra How Sweet Sweet the Sound",
+      "zh": ""
+    },
+    {
+      "start": 121.08,
+      "duration": 1.19,
+      "text": "gra How Sweet Sweet the Sound that",
+      "en": "gra How Sweet Sweet the Sound that",
+      "zh": ""
+    },
+    {
+      "start": 122.27,
+      "duration": 0.3,
+      "text": "that",
+      "en": "that",
+      "zh": ""
+    },
+    {
+      "start": 122.28,
+      "duration": 2.51,
+      "text": "that Sav",
+      "en": "that Sav",
+      "zh": ""
+    },
+    {
+      "start": 124.79,
+      "duration": 0.3,
+      "text": "Sav",
+      "en": "Sav",
+      "zh": ""
+    },
+    {
+      "start": 124.8,
+      "duration": 4.67,
+      "text": "Sav a like",
+      "en": "Sav a like",
+      "zh": ""
+    },
+    {
+      "start": 131.71,
+      "duration": 0.3,
+      "text": "me I",
+      "en": "me I",
+      "zh": ""
+    },
+    {
+      "start": 131.72,
+      "duration": 4.63,
+      "text": "me I once was lost but",
+      "en": "me I once was lost but",
+      "zh": ""
+    },
+    {
+      "start": 136.35,
+      "duration": 0.3,
+      "text": "once was lost but",
+      "en": "once was lost but",
+      "zh": ""
+    },
+    {
+      "start": 136.36,
+      "duration": 2.27,
+      "text": "once was lost but now and",
+      "en": "once was lost but now and",
+      "zh": ""
+    },
+    {
+      "start": 138.63,
+      "duration": 0.3,
+      "text": "now and",
+      "en": "now and",
+      "zh": ""
+    },
+    {
+      "start": 138.64,
+      "duration": 2.31,
+      "text": "now and found",
+      "en": "now and found",
+      "zh": ""
+    },
+    {
+      "start": 140.95,
+      "duration": 0.3,
+      "text": "found",
+      "en": "found",
+      "zh": ""
+    },
+    {
+      "start": 140.96,
+      "duration": 2.31,
+      "text": "found was but",
+      "en": "found was but",
+      "zh": ""
+    },
+    {
+      "start": 143.27,
+      "duration": 0.3,
+      "text": "was but",
+      "en": "was but",
+      "zh": ""
+    },
+    {
+      "start": 143.28,
+      "duration": 4.55,
+      "text": "was but now I",
+      "en": "was but now I",
+      "zh": ""
+    },
+    {
+      "start": 151.35,
+      "duration": 0.3,
+      "text": "see was blind",
+      "en": "see was blind",
+      "zh": ""
+    },
+    {
+      "start": 151.36,
+      "duration": 2.23,
+      "text": "see was blind but",
+      "en": "see was blind but",
+      "zh": ""
+    },
+    {
+      "start": 153.59,
+      "duration": 0.3,
+      "text": "but",
+      "en": "but",
+      "zh": ""
+    },
+    {
+      "start": 153.6,
+      "duration": 5.12,
+      "text": "but now I see",
+      "en": "but now I see",
+      "zh": ""
+    }
+  ],
+  "words": []
+}

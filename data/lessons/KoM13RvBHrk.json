@@ -1,0 +1,635 @@
+{
+  "cues": [
+    {
+      "start": 3.15,
+      "duration": 0.3,
+      "text": "I found my old phone",
+      "en": "I found my old phone",
+      "zh": ""
+    },
+    {
+      "start": 3.16,
+      "duration": 4.55,
+      "text": "I found my old phone today in a box that I had hidden",
+      "en": "I found my old phone today in a box that I had hidden",
+      "zh": ""
+    },
+    {
+      "start": 7.71,
+      "duration": 0.3,
+      "text": "today in a box that I had hidden",
+      "en": "today in a box that I had hidden",
+      "zh": ""
+    },
+    {
+      "start": 7.72,
+      "duration": 4.23,
+      "text": "today in a box that I had hidden away. Nostalgia trying to lead me",
+      "en": "today in a box that I had hidden away. Nostalgia trying to lead me",
+      "zh": ""
+    },
+    {
+      "start": 11.95,
+      "duration": 0.3,
+      "text": "away. Nostalgia trying to lead me",
+      "en": "away. Nostalgia trying to lead me",
+      "zh": ""
+    },
+    {
+      "start": 11.96,
+      "duration": 5.11,
+      "text": "away. Nostalgia trying to lead me astray. Maybe I'll write some",
+      "en": "away. Nostalgia trying to lead me astray. Maybe I'll write some",
+      "zh": ""
+    },
+    {
+      "start": 20.91,
+      "duration": 0.3,
+      "text": "wrong. I charge the battery",
+      "en": "wrong. I charge the battery",
+      "zh": ""
+    },
+    {
+      "start": 20.92,
+      "duration": 3.71,
+      "text": "wrong. I charge the battery again combinations cuz my pass had",
+      "en": "wrong. I charge the battery again combinations cuz my pass had",
+      "zh": ""
+    },
+    {
+      "start": 24.63,
+      "duration": 0.3,
+      "text": "again combinations cuz my pass had",
+      "en": "again combinations cuz my pass had",
+      "zh": ""
+    },
+    {
+      "start": 24.64,
+      "duration": 1.67,
+      "text": "again combinations cuz my pass had changed.",
+      "en": "again combinations cuz my pass had changed.",
+      "zh": ""
+    },
+    {
+      "start": 26.31,
+      "duration": 0.3,
+      "text": "changed.",
+      "en": "changed.",
+      "zh": ""
+    },
+    {
+      "start": 26.32,
+      "duration": 3.31,
+      "text": "changed. opened up and saw",
+      "en": "changed. opened up and saw",
+      "zh": ""
+    },
+    {
+      "start": 29.63,
+      "duration": 0.3,
+      "text": "opened up and saw",
+      "en": "opened up and saw",
+      "zh": ""
+    },
+    {
+      "start": 29.64,
+      "duration": 4.55,
+      "text": "opened up and saw families. Now I wonder where they've",
+      "en": "opened up and saw families. Now I wonder where they've",
+      "zh": ""
+    },
+    {
+      "start": 34.19,
+      "duration": 0.3,
+      "text": "families. Now I wonder where they've",
+      "en": "families. Now I wonder where they've",
+      "zh": ""
+    },
+    {
+      "start": 34.2,
+      "duration": 4.47,
+      "text": "families. Now I wonder where they've gone. Conversations with my dead",
+      "en": "families. Now I wonder where they've gone. Conversations with my dead",
+      "zh": ""
+    },
+    {
+      "start": 38.67,
+      "duration": 0.3,
+      "text": "gone. Conversations with my dead",
+      "en": "gone. Conversations with my dead",
+      "zh": ""
+    },
+    {
+      "start": 38.68,
+      "duration": 4.07,
+      "text": "gone. Conversations with my dead friends. Messages from all my",
+      "en": "gone. Conversations with my dead friends. Messages from all my",
+      "zh": ""
+    },
+    {
+      "start": 42.75,
+      "duration": 0.3,
+      "text": "friends. Messages from all my",
+      "en": "friends. Messages from all my",
+      "zh": ""
+    },
+    {
+      "start": 42.76,
+      "duration": 4.71,
+      "text": "friends. Messages from all my exes. I kind of think that this was best",
+      "en": "friends. Messages from all my exes. I kind of think that this was best",
+      "zh": ""
+    },
+    {
+      "start": 47.47,
+      "duration": 0.3,
+      "text": "exes. I kind of think that this was best",
+      "en": "exes. I kind of think that this was best",
+      "zh": ""
+    },
+    {
+      "start": 47.48,
+      "duration": 5.07,
+      "text": "exes. I kind of think that this was best left in the past where it belongs.",
+      "en": "exes. I kind of think that this was best left in the past where it belongs.",
+      "zh": ""
+    },
+    {
+      "start": 52.55,
+      "duration": 0.3,
+      "text": "left in the past where it belongs.",
+      "en": "left in the past where it belongs.",
+      "zh": ""
+    },
+    {
+      "start": 52.56,
+      "duration": 3.55,
+      "text": "left in the past where it belongs. I feel an overwhelming",
+      "en": "left in the past where it belongs. I feel an overwhelming",
+      "zh": ""
+    },
+    {
+      "start": 56.11,
+      "duration": 0.3,
+      "text": "I feel an overwhelming",
+      "en": "I feel an overwhelming",
+      "zh": ""
+    },
+    {
+      "start": 56.12,
+      "duration": 4.31,
+      "text": "I feel an overwhelming sadness before the friends I do not have",
+      "en": "I feel an overwhelming sadness before the friends I do not have",
+      "zh": ""
+    },
+    {
+      "start": 60.43,
+      "duration": 0.3,
+      "text": "sadness before the friends I do not have",
+      "en": "sadness before the friends I do not have",
+      "zh": ""
+    },
+    {
+      "start": 60.44,
+      "duration": 4.87,
+      "text": "sadness before the friends I do not have left. Seeing how my family has",
+      "en": "sadness before the friends I do not have left. Seeing how my family has",
+      "zh": ""
+    },
+    {
+      "start": 65.31,
+      "duration": 0.3,
+      "text": "left. Seeing how my family has",
+      "en": "left. Seeing how my family has",
+      "zh": ""
+    },
+    {
+      "start": 65.32,
+      "duration": 5.19,
+      "text": "left. Seeing how my family has fractured growing up and moving",
+      "en": "left. Seeing how my family has fractured growing up and moving",
+      "zh": ""
+    },
+    {
+      "start": 74.19,
+      "duration": 0.3,
+      "text": "on. I found my old phone",
+      "en": "on. I found my old phone",
+      "zh": ""
+    },
+    {
+      "start": 74.2,
+      "duration": 3.71,
+      "text": "on. I found my old phone today. Arguments that I tried to keep at",
+      "en": "on. I found my old phone today. Arguments that I tried to keep at",
+      "zh": ""
+    },
+    {
+      "start": 77.91,
+      "duration": 0.3,
+      "text": "today. Arguments that I tried to keep at",
+      "en": "today. Arguments that I tried to keep at",
+      "zh": ""
+    },
+    {
+      "start": 77.92,
+      "duration": 3.83,
+      "text": "today. Arguments that I tried to keep at bay. The ones who love me, I just push",
+      "en": "today. Arguments that I tried to keep at bay. The ones who love me, I just push",
+      "zh": ""
+    },
+    {
+      "start": 81.75,
+      "duration": 0.3,
+      "text": "bay. The ones who love me, I just push",
+      "en": "bay. The ones who love me, I just push",
+      "zh": ""
+    },
+    {
+      "start": 81.76,
+      "duration": 0.99,
+      "text": "bay. The ones who love me, I just push them",
+      "en": "bay. The ones who love me, I just push them",
+      "zh": ""
+    },
+    {
+      "start": 82.75,
+      "duration": 0.3,
+      "text": "them",
+      "en": "them",
+      "zh": ""
+    },
+    {
+      "start": 82.76,
+      "duration": 2.75,
+      "text": "them away. Couldn't tell the difference from",
+      "en": "them away. Couldn't tell the difference from",
+      "zh": ""
+    },
+    {
+      "start": 85.51,
+      "duration": 0.3,
+      "text": "away. Couldn't tell the difference from",
+      "en": "away. Couldn't tell the difference from",
+      "zh": ""
+    },
+    {
+      "start": 85.52,
+      "duration": 2.67,
+      "text": "away. Couldn't tell the difference from the",
+      "en": "away. Couldn't tell the difference from the",
+      "zh": ""
+    },
+    {
+      "start": 91.71,
+      "duration": 0.3,
+      "text": "leaches. My close hands still hold some",
+      "en": "leaches. My close hands still hold some",
+      "zh": ""
+    },
+    {
+      "start": 91.72,
+      "duration": 3.31,
+      "text": "leaches. My close hands still hold some maze. But if I'm hoping it gets smaller",
+      "en": "leaches. My close hands still hold some maze. But if I'm hoping it gets smaller",
+      "zh": ""
+    },
+    {
+      "start": 95.03,
+      "duration": 0.3,
+      "text": "maze. But if I'm hoping it gets smaller",
+      "en": "maze. But if I'm hoping it gets smaller",
+      "zh": ""
+    },
+    {
+      "start": 95.04,
+      "duration": 3.99,
+      "text": "maze. But if I'm hoping it gets smaller day by day, I can't tell if it is",
+      "en": "maze. But if I'm hoping it gets smaller day by day, I can't tell if it is",
+      "zh": ""
+    },
+    {
+      "start": 99.03,
+      "duration": 0.3,
+      "text": "day by day, I can't tell if it is",
+      "en": "day by day, I can't tell if it is",
+      "zh": ""
+    },
+    {
+      "start": 99.04,
+      "duration": 4.07,
+      "text": "day by day, I can't tell if it is pleasure or pain. Trying to keep within",
+      "en": "day by day, I can't tell if it is pleasure or pain. Trying to keep within",
+      "zh": ""
+    },
+    {
+      "start": 103.11,
+      "duration": 0.3,
+      "text": "pleasure or pain. Trying to keep within",
+      "en": "pleasure or pain. Trying to keep within",
+      "zh": ""
+    },
+    {
+      "start": 103.12,
+      "duration": 2.27,
+      "text": "pleasure or pain. Trying to keep within my",
+      "en": "pleasure or pain. Trying to keep within my",
+      "zh": ""
+    },
+    {
+      "start": 105.39,
+      "duration": 0.3,
+      "text": "my",
+      "en": "my",
+      "zh": ""
+    },
+    {
+      "start": 105.4,
+      "duration": 4.31,
+      "text": "my re conversations with my dead",
+      "en": "my re conversations with my dead",
+      "zh": ""
+    },
+    {
+      "start": 109.71,
+      "duration": 0.3,
+      "text": "re conversations with my dead",
+      "en": "re conversations with my dead",
+      "zh": ""
+    },
+    {
+      "start": 109.72,
+      "duration": 4.15,
+      "text": "re conversations with my dead friends messages from all my",
+      "en": "re conversations with my dead friends messages from all my",
+      "zh": ""
+    },
+    {
+      "start": 113.87,
+      "duration": 0.3,
+      "text": "friends messages from all my",
+      "en": "friends messages from all my",
+      "zh": ""
+    },
+    {
+      "start": 113.88,
+      "duration": 4.39,
+      "text": "friends messages from all my exes. I kind of think that this was best",
+      "en": "friends messages from all my exes. I kind of think that this was best",
+      "zh": ""
+    },
+    {
+      "start": 118.27,
+      "duration": 0.3,
+      "text": "exes. I kind of think that this was best",
+      "en": "exes. I kind of think that this was best",
+      "zh": ""
+    },
+    {
+      "start": 118.28,
+      "duration": 4.39,
+      "text": "exes. I kind of think that this was best left there in the past where it",
+      "en": "exes. I kind of think that this was best left there in the past where it",
+      "zh": ""
+    },
+    {
+      "start": 122.67,
+      "duration": 0.3,
+      "text": "left there in the past where it",
+      "en": "left there in the past where it",
+      "zh": ""
+    },
+    {
+      "start": 122.68,
+      "duration": 4.63,
+      "text": "left there in the past where it belong. I feel an overwhelming",
+      "en": "left there in the past where it belong. I feel an overwhelming",
+      "zh": ""
+    },
+    {
+      "start": 127.31,
+      "duration": 0.3,
+      "text": "belong. I feel an overwhelming",
+      "en": "belong. I feel an overwhelming",
+      "zh": ""
+    },
+    {
+      "start": 127.32,
+      "duration": 3.31,
+      "text": "belong. I feel an overwhelming sadness of all the friends I do not have",
+      "en": "belong. I feel an overwhelming sadness of all the friends I do not have",
+      "zh": ""
+    },
+    {
+      "start": 130.63,
+      "duration": 0.3,
+      "text": "sadness of all the friends I do not have",
+      "en": "sadness of all the friends I do not have",
+      "zh": ""
+    },
+    {
+      "start": 130.64,
+      "duration": 1.99,
+      "text": "sadness of all the friends I do not have left.",
+      "en": "sadness of all the friends I do not have left.",
+      "zh": ""
+    },
+    {
+      "start": 132.63,
+      "duration": 0.3,
+      "text": "left.",
+      "en": "left.",
+      "zh": ""
+    },
+    {
+      "start": 132.64,
+      "duration": 3.79,
+      "text": "left. See our family has",
+      "en": "left. See our family has",
+      "zh": ""
+    },
+    {
+      "start": 136.43,
+      "duration": 0.3,
+      "text": "See our family has",
+      "en": "See our family has",
+      "zh": ""
+    },
+    {
+      "start": 136.44,
+      "duration": 23.95,
+      "text": "See our family has fractured growing up and moving on.",
+      "en": "See our family has fractured growing up and moving on.",
+      "zh": ""
+    },
+    {
+      "start": 163.23,
+      "duration": 0.3,
+      "text": "I found my old phone",
+      "en": "I found my old phone",
+      "zh": ""
+    },
+    {
+      "start": 163.24,
+      "duration": 3.91,
+      "text": "I found my old phone today. So full of love yet so full of",
+      "en": "I found my old phone today. So full of love yet so full of",
+      "zh": ""
+    },
+    {
+      "start": 167.15,
+      "duration": 0.3,
+      "text": "today. So full of love yet so full of",
+      "en": "today. So full of love yet so full of",
+      "zh": ""
+    },
+    {
+      "start": 167.16,
+      "duration": 3.31,
+      "text": "today. So full of love yet so full of hate. I put it back inside there from",
+      "en": "today. So full of love yet so full of hate. I put it back inside there from",
+      "zh": ""
+    },
+    {
+      "start": 170.47,
+      "duration": 0.3,
+      "text": "hate. I put it back inside there from",
+      "en": "hate. I put it back inside there from",
+      "zh": ""
+    },
+    {
+      "start": 170.48,
+      "duration": 3.35,
+      "text": "hate. I put it back inside there from whence it came. Nothing good will come",
+      "en": "hate. I put it back inside there from whence it came. Nothing good will come",
+      "zh": ""
+    },
+    {
+      "start": 173.83,
+      "duration": 0.3,
+      "text": "whence it came. Nothing good will come",
+      "en": "whence it came. Nothing good will come",
+      "zh": ""
+    },
+    {
+      "start": 173.84,
+      "duration": 2.59,
+      "text": "whence it came. Nothing good will come from",
+      "en": "whence it came. Nothing good will come from",
+      "zh": ""
+    },
+    {
+      "start": 179.59,
+      "duration": 0.3,
+      "text": "regretting conversations with my dead",
+      "en": "regretting conversations with my dead",
+      "zh": ""
+    },
+    {
+      "start": 179.6,
+      "duration": 2.31,
+      "text": "regretting conversations with my dead friends.",
+      "en": "regretting conversations with my dead friends.",
+      "zh": ""
+    },
+    {
+      "start": 181.91,
+      "duration": 0.3,
+      "text": "friends.",
+      "en": "friends.",
+      "zh": ""
+    },
+    {
+      "start": 181.92,
+      "duration": 3.07,
+      "text": "friends. messages from all my",
+      "en": "friends. messages from all my",
+      "zh": ""
+    },
+    {
+      "start": 184.99,
+      "duration": 0.3,
+      "text": "messages from all my",
+      "en": "messages from all my",
+      "zh": ""
+    },
+    {
+      "start": 185.0,
+      "duration": 4.39,
+      "text": "messages from all my exes. I kind of think that this was best",
+      "en": "messages from all my exes. I kind of think that this was best",
+      "zh": ""
+    },
+    {
+      "start": 189.39,
+      "duration": 0.3,
+      "text": "exes. I kind of think that this was best",
+      "en": "exes. I kind of think that this was best",
+      "zh": ""
+    },
+    {
+      "start": 189.4,
+      "duration": 4.39,
+      "text": "exes. I kind of think that this was best left there in the past where it",
+      "en": "exes. I kind of think that this was best left there in the past where it",
+      "zh": ""
+    },
+    {
+      "start": 193.79,
+      "duration": 0.3,
+      "text": "left there in the past where it",
+      "en": "left there in the past where it",
+      "zh": ""
+    },
+    {
+      "start": 193.8,
+      "duration": 4.55,
+      "text": "left there in the past where it belongs. I feel an overwhelming",
+      "en": "left there in the past where it belongs. I feel an overwhelming",
+      "zh": ""
+    },
+    {
+      "start": 198.35,
+      "duration": 0.3,
+      "text": "belongs. I feel an overwhelming",
+      "en": "belongs. I feel an overwhelming",
+      "zh": ""
+    },
+    {
+      "start": 198.36,
+      "duration": 4.23,
+      "text": "belongs. I feel an overwhelming sadness of all the friends I do not have",
+      "en": "belongs. I feel an overwhelming sadness of all the friends I do not have",
+      "zh": ""
+    },
+    {
+      "start": 202.59,
+      "duration": 0.3,
+      "text": "sadness of all the friends I do not have",
+      "en": "sadness of all the friends I do not have",
+      "zh": ""
+    },
+    {
+      "start": 202.6,
+      "duration": 4.87,
+      "text": "sadness of all the friends I do not have left. See how my family has",
+      "en": "sadness of all the friends I do not have left. See how my family has",
+      "zh": ""
+    },
+    {
+      "start": 207.47,
+      "duration": 0.3,
+      "text": "left. See how my family has",
+      "en": "left. See how my family has",
+      "zh": ""
+    },
+    {
+      "start": 207.48,
+      "duration": 5.27,
+      "text": "left. See how my family has fractured. Growing up and moving",
+      "en": "left. See how my family has fractured. Growing up and moving",
+      "zh": ""
+    }
+  ],
+  "words": []
+}

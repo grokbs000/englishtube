@@ -1,0 +1,4443 @@
+{
+  "cues": [
+    {
+      "start": 23.59,
+      "duration": 0.3,
+      "text": "Stop. Stop. You can ask for cash, but I",
+      "en": "Stop. Stop. You can ask for cash, but I",
+      "zh": ""
+    },
+    {
+      "start": 23.6,
+      "duration": 1.47,
+      "text": "Stop. Stop. You can ask for cash, but I don't got the money.",
+      "en": "Stop. Stop. You can ask for cash, but I don't got the money.",
+      "zh": ""
+    },
+    {
+      "start": 25.07,
+      "duration": 0.3,
+      "text": "don't got the money.",
+      "en": "don't got the money.",
+      "zh": ""
+    },
+    {
+      "start": 25.08,
+      "duration": 2.75,
+      "text": "don't got the money. Play inside cat cat, see me running.",
+      "en": "don't got the money. Play inside cat cat, see me running.",
+      "zh": ""
+    },
+    {
+      "start": 27.83,
+      "duration": 0.3,
+      "text": "Play inside cat cat, see me running.",
+      "en": "Play inside cat cat, see me running.",
+      "zh": ""
+    },
+    {
+      "start": 27.84,
+      "duration": 2.47,
+      "text": "Play inside cat cat, see me running. Play on the cat mat, please understand.",
+      "en": "Play inside cat cat, see me running. Play on the cat mat, please understand.",
+      "zh": ""
+    },
+    {
+      "start": 30.31,
+      "duration": 0.3,
+      "text": "Play on the cat mat, please understand.",
+      "en": "Play on the cat mat, please understand.",
+      "zh": ""
+    },
+    {
+      "start": 30.32,
+      "duration": 1.95,
+      "text": "Play on the cat mat, please understand. Got a running fire cat you've never seen",
+      "en": "Play on the cat mat, please understand. Got a running fire cat you've never seen",
+      "zh": ""
+    },
+    {
+      "start": 32.27,
+      "duration": 0.3,
+      "text": "Got a running fire cat you've never seen",
+      "en": "Got a running fire cat you've never seen",
+      "zh": ""
+    },
+    {
+      "start": 32.28,
+      "duration": 1.15,
+      "text": "Got a running fire cat you've never seen again.",
+      "en": "Got a running fire cat you've never seen again.",
+      "zh": ""
+    },
+    {
+      "start": 33.43,
+      "duration": 0.3,
+      "text": "again.",
+      "en": "again.",
+      "zh": ""
+    },
+    {
+      "start": 33.44,
+      "duration": 2.75,
+      "text": "again. Try to walk like this thing's got side.",
+      "en": "again. Try to walk like this thing's got side.",
+      "zh": ""
+    },
+    {
+      "start": 36.19,
+      "duration": 0.3,
+      "text": "Try to walk like this thing's got side.",
+      "en": "Try to walk like this thing's got side.",
+      "zh": ""
+    },
+    {
+      "start": 36.2,
+      "duration": 1.91,
+      "text": "Try to walk like this thing's got side. Try to talk it out, but he flew out of",
+      "en": "Try to walk like this thing's got side. Try to talk it out, but he flew out of",
+      "zh": ""
+    },
+    {
+      "start": 38.11,
+      "duration": 0.3,
+      "text": "Try to talk it out, but he flew out of",
+      "en": "Try to talk it out, but he flew out of",
+      "zh": ""
+    },
+    {
+      "start": 38.12,
+      "duration": 0.87,
+      "text": "Try to talk it out, but he flew out of night.",
+      "en": "Try to talk it out, but he flew out of night.",
+      "zh": ""
+    },
+    {
+      "start": 38.99,
+      "duration": 0.3,
+      "text": "night.",
+      "en": "night.",
+      "zh": ""
+    },
+    {
+      "start": 39.0,
+      "duration": 1.03,
+      "text": "night. Did it.",
+      "en": "night. Did it.",
+      "zh": ""
+    },
+    {
+      "start": 40.03,
+      "duration": 0.3,
+      "text": "Did it.",
+      "en": "Did it.",
+      "zh": ""
+    },
+    {
+      "start": 40.04,
+      "duration": 1.79,
+      "text": "Did it. Didn't know.",
+      "en": "Did it. Didn't know.",
+      "zh": ""
+    },
+    {
+      "start": 41.83,
+      "duration": 0.3,
+      "text": "Didn't know.",
+      "en": "Didn't know.",
+      "zh": ""
+    },
+    {
+      "start": 41.84,
+      "duration": 1.03,
+      "text": "Didn't know. Did it.",
+      "en": "Didn't know. Did it.",
+      "zh": ""
+    },
+    {
+      "start": 42.87,
+      "duration": 0.3,
+      "text": "Did it.",
+      "en": "Did it.",
+      "zh": ""
+    },
+    {
+      "start": 42.88,
+      "duration": 1.71,
+      "text": "Did it. Didn't know.",
+      "en": "Did it. Didn't know.",
+      "zh": ""
+    },
+    {
+      "start": 44.59,
+      "duration": 0.3,
+      "text": "Didn't know.",
+      "en": "Didn't know.",
+      "zh": ""
+    },
+    {
+      "start": 44.6,
+      "duration": 1.07,
+      "text": "Didn't know. Did it.",
+      "en": "Didn't know. Did it.",
+      "zh": ""
+    },
+    {
+      "start": 45.67,
+      "duration": 0.3,
+      "text": "Did it.",
+      "en": "Did it.",
+      "zh": ""
+    },
+    {
+      "start": 45.68,
+      "duration": 1.71,
+      "text": "Did it. Didn't know.",
+      "en": "Did it. Didn't know.",
+      "zh": ""
+    },
+    {
+      "start": 47.39,
+      "duration": 0.3,
+      "text": "Didn't know.",
+      "en": "Didn't know.",
+      "zh": ""
+    },
+    {
+      "start": 47.4,
+      "duration": 1.11,
+      "text": "Didn't know. Did it.",
+      "en": "Didn't know. Did it.",
+      "zh": ""
+    },
+    {
+      "start": 48.51,
+      "duration": 0.3,
+      "text": "Did it.",
+      "en": "Did it.",
+      "zh": ""
+    },
+    {
+      "start": 48.52,
+      "duration": 1.63,
+      "text": "Did it. Didn't know.",
+      "en": "Did it. Didn't know.",
+      "zh": ""
+    },
+    {
+      "start": 50.15,
+      "duration": 0.3,
+      "text": "Didn't know.",
+      "en": "Didn't know.",
+      "zh": ""
+    },
+    {
+      "start": 50.16,
+      "duration": 3.54,
+      "text": "Didn't know. B A G I G E A Never get it.",
+      "en": "Didn't know. B A G I G E A Never get it.",
+      "zh": ""
+    },
+    {
+      "start": 53.7,
+      "duration": 0.3,
+      "text": "B A G I G E A Never get it.",
+      "en": "B A G I G E A Never get it.",
+      "zh": ""
+    },
+    {
+      "start": 53.71,
+      "duration": 0.56,
+      "text": "B A G I G E A Never get it. >> [music]",
+      "en": "B A G I G E A Never get it. >> [music]",
+      "zh": ""
+    },
+    {
+      "start": 54.27,
+      "duration": 0.3,
+      "text": ">> [music]",
+      "en": ">> [music]",
+      "zh": ""
+    },
+    {
+      "start": 54.28,
+      "duration": 4.63,
+      "text": ">> [music] >> Never walk away. B A G I G E A",
+      "en": ">> [music] >> Never walk away. B A G I G E A",
+      "zh": ""
+    },
+    {
+      "start": 58.91,
+      "duration": 0.3,
+      "text": ">> Never walk away. B A G I G E A",
+      "en": ">> Never walk away. B A G I G E A",
+      "zh": ""
+    },
+    {
+      "start": 58.92,
+      "duration": 1.39,
+      "text": ">> Never walk away. B A G I G E A Never get it.",
+      "en": ">> Never walk away. B A G I G E A Never get it.",
+      "zh": ""
+    },
+    {
+      "start": 60.31,
+      "duration": 0.3,
+      "text": "Never get it.",
+      "en": "Never get it.",
+      "zh": ""
+    },
+    {
+      "start": 60.32,
+      "duration": 6.59,
+      "text": "Never get it. Just forget it.",
+      "en": "Never get it. Just forget it.",
+      "zh": ""
+    },
+    {
+      "start": 74.43,
+      "duration": 0.3,
+      "text": ">> I've been getting it. Getting",
+      "en": ">> I've been getting it. Getting",
+      "zh": ""
+    },
+    {
+      "start": 74.44,
+      "duration": 0.95,
+      "text": ">> I've been getting it. Getting it. Getting it.",
+      "en": ">> I've been getting it. Getting it. Getting it.",
+      "zh": ""
+    },
+    {
+      "start": 75.39,
+      "duration": 0.3,
+      "text": "it. Getting it.",
+      "en": "it. Getting it.",
+      "zh": ""
+    },
+    {
+      "start": 75.4,
+      "duration": 2.79,
+      "text": "it. Getting it. It's my mom. She just walked away.",
+      "en": "it. Getting it. It's my mom. She just walked away.",
+      "zh": ""
+    },
+    {
+      "start": 78.19,
+      "duration": 0.3,
+      "text": "It's my mom. She just walked away.",
+      "en": "It's my mom. She just walked away.",
+      "zh": ""
+    },
+    {
+      "start": 78.2,
+      "duration": 2.36,
+      "text": "It's my mom. She just walked away. What you told me never talk to me again.",
+      "en": "It's my mom. She just walked away. What you told me never talk to me again.",
+      "zh": ""
+    },
+    {
+      "start": 80.56,
+      "duration": 0.3,
+      "text": "What you told me never talk to me again.",
+      "en": "What you told me never talk to me again.",
+      "zh": ""
+    },
+    {
+      "start": 80.56,
+      "duration": 0.39,
+      "text": "What you told me never talk to me again. >> [music]",
+      "en": "What you told me never talk to me again. >> [music]",
+      "zh": ""
+    },
+    {
+      "start": 80.95,
+      "duration": 0.3,
+      "text": ">> [music]",
+      "en": ">> [music]",
+      "zh": ""
+    },
+    {
+      "start": 80.96,
+      "duration": 2.79,
+      "text": ">> [music] >> Had to apologize. You're not a bad guy.",
+      "en": ">> [music] >> Had to apologize. You're not a bad guy.",
+      "zh": ""
+    },
+    {
+      "start": 83.75,
+      "duration": 0.3,
+      "text": ">> Had to apologize. You're not a bad guy.",
+      "en": ">> Had to apologize. You're not a bad guy.",
+      "zh": ""
+    },
+    {
+      "start": 83.76,
+      "duration": 1.07,
+      "text": ">> Had to apologize. You're not a bad guy. Did it.",
+      "en": ">> Had to apologize. You're not a bad guy. Did it.",
+      "zh": ""
+    },
+    {
+      "start": 84.83,
+      "duration": 0.3,
+      "text": "Did it.",
+      "en": "Did it.",
+      "zh": ""
+    },
+    {
+      "start": 84.84,
+      "duration": 1.75,
+      "text": "Did it. Didn't know.",
+      "en": "Did it. Didn't know.",
+      "zh": ""
+    },
+    {
+      "start": 86.59,
+      "duration": 0.3,
+      "text": "Didn't know.",
+      "en": "Didn't know.",
+      "zh": ""
+    },
+    {
+      "start": 86.6,
+      "duration": 1.07,
+      "text": "Didn't know. Did it.",
+      "en": "Didn't know. Did it.",
+      "zh": ""
+    },
+    {
+      "start": 87.67,
+      "duration": 0.3,
+      "text": "Did it.",
+      "en": "Did it.",
+      "zh": ""
+    },
+    {
+      "start": 87.68,
+      "duration": 1.71,
+      "text": "Did it. Didn't know.",
+      "en": "Did it. Didn't know.",
+      "zh": ""
+    },
+    {
+      "start": 89.39,
+      "duration": 0.3,
+      "text": "Didn't know.",
+      "en": "Didn't know.",
+      "zh": ""
+    },
+    {
+      "start": 89.4,
+      "duration": 1.07,
+      "text": "Didn't know. Did it.",
+      "en": "Didn't know. Did it.",
+      "zh": ""
+    },
+    {
+      "start": 90.47,
+      "duration": 0.3,
+      "text": "Did it.",
+      "en": "Did it.",
+      "zh": ""
+    },
+    {
+      "start": 90.48,
+      "duration": 1.71,
+      "text": "Did it. Didn't know.",
+      "en": "Did it. Didn't know.",
+      "zh": ""
+    },
+    {
+      "start": 92.19,
+      "duration": 0.3,
+      "text": "Didn't know.",
+      "en": "Didn't know.",
+      "zh": ""
+    },
+    {
+      "start": 92.2,
+      "duration": 1.11,
+      "text": "Didn't know. Did it.",
+      "en": "Didn't know. Did it.",
+      "zh": ""
+    },
+    {
+      "start": 93.31,
+      "duration": 0.3,
+      "text": "Did it.",
+      "en": "Did it.",
+      "zh": ""
+    },
+    {
+      "start": 93.32,
+      "duration": 1.67,
+      "text": "Did it. Didn't know.",
+      "en": "Did it. Didn't know.",
+      "zh": ""
+    },
+    {
+      "start": 94.99,
+      "duration": 0.3,
+      "text": "Didn't know.",
+      "en": "Didn't know.",
+      "zh": ""
+    },
+    {
+      "start": 95.0,
+      "duration": 1.93,
+      "text": "Didn't know. B A G I G",
+      "en": "Didn't know. B A G I G",
+      "zh": ""
+    },
+    {
+      "start": 96.93,
+      "duration": 0.3,
+      "text": "B A G I G",
+      "en": "B A G I G",
+      "zh": ""
+    },
+    {
+      "start": 96.94,
+      "duration": 0.3,
+      "text": "B A G I G >> [music]",
+      "en": "B A G I G >> [music]",
+      "zh": ""
+    },
+    {
+      "start": 97.23,
+      "duration": 0.3,
+      "text": ">> [music]",
+      "en": ">> [music]",
+      "zh": ""
+    },
+    {
+      "start": 97.24,
+      "duration": 1.91,
+      "text": ">> [music] >> E A Never get it.",
+      "en": ">> [music] >> E A Never get it.",
+      "zh": ""
+    },
+    {
+      "start": 99.15,
+      "duration": 0.3,
+      "text": ">> E A Never get it.",
+      "en": ">> E A Never get it.",
+      "zh": ""
+    },
+    {
+      "start": 99.16,
+      "duration": 4.63,
+      "text": ">> E A Never get it. Never walk away. B A G I G E A",
+      "en": ">> E A Never get it. Never walk away. B A G I G E A",
+      "zh": ""
+    },
+    {
+      "start": 103.79,
+      "duration": 0.3,
+      "text": "Never walk away. B A G I G E A",
+      "en": "Never walk away. B A G I G E A",
+      "zh": ""
+    },
+    {
+      "start": 103.8,
+      "duration": 1.35,
+      "text": "Never walk away. B A G I G E A Never get it.",
+      "en": "Never walk away. B A G I G E A Never get it.",
+      "zh": ""
+    },
+    {
+      "start": 105.15,
+      "duration": 0.3,
+      "text": "Never get it.",
+      "en": "Never get it.",
+      "zh": ""
+    },
+    {
+      "start": 105.16,
+      "duration": 1.11,
+      "text": "Never get it. Just forget it.",
+      "en": "Never get it. Just forget it.",
+      "zh": ""
+    },
+    {
+      "start": 106.27,
+      "duration": 0.3,
+      "text": "Just forget it.",
+      "en": "Just forget it.",
+      "zh": ""
+    },
+    {
+      "start": 106.28,
+      "duration": 2.35,
+      "text": "Just forget it. B A G I G",
+      "en": "Just forget it. B A G I G",
+      "zh": ""
+    },
+    {
+      "start": 108.63,
+      "duration": 0.3,
+      "text": "B A G I G",
+      "en": "B A G I G",
+      "zh": ""
+    },
+    {
+      "start": 108.64,
+      "duration": 1.95,
+      "text": "B A G I G E A Never get it.",
+      "en": "B A G I G E A Never get it.",
+      "zh": ""
+    },
+    {
+      "start": 110.59,
+      "duration": 0.3,
+      "text": "E A Never get it.",
+      "en": "E A Never get it.",
+      "zh": ""
+    },
+    {
+      "start": 110.6,
+      "duration": 3.79,
+      "text": "E A Never get it. Never walk away. B A G I G",
+      "en": "E A Never get it. Never walk away. B A G I G",
+      "zh": ""
+    },
+    {
+      "start": 114.39,
+      "duration": 0.3,
+      "text": "Never walk away. B A G I G",
+      "en": "Never walk away. B A G I G",
+      "zh": ""
+    },
+    {
+      "start": 114.4,
+      "duration": 1.53,
+      "text": "Never walk away. B A G I G E A YOU'LL NEVER GET IT.",
+      "en": "Never walk away. B A G I G E A YOU'LL NEVER GET IT.",
+      "zh": ""
+    },
+    {
+      "start": 115.93,
+      "duration": 0.3,
+      "text": "E A YOU'LL NEVER GET IT.",
+      "en": "E A YOU'LL NEVER GET IT.",
+      "zh": ""
+    },
+    {
+      "start": 115.94,
+      "duration": 0.53,
+      "text": "E A YOU'LL NEVER GET IT. >> [screaming]",
+      "en": "E A YOU'LL NEVER GET IT. >> [screaming]",
+      "zh": ""
+    },
+    {
+      "start": 116.47,
+      "duration": 0.3,
+      "text": ">> [screaming]",
+      "en": ">> [screaming]",
+      "zh": ""
+    },
+    {
+      "start": 116.48,
+      "duration": 1.95,
+      "text": ">> [screaming] >> SO JUST FORGET",
+      "en": ">> [screaming] >> SO JUST FORGET",
+      "zh": ""
+    },
+    {
+      "start": 118.43,
+      "duration": 0.3,
+      "text": ">> SO JUST FORGET",
+      "en": ">> SO JUST FORGET",
+      "zh": ""
+    },
+    {
+      "start": 118.44,
+      "duration": 1.23,
+      "text": ">> SO JUST FORGET IT.",
+      "en": ">> SO JUST FORGET IT.",
+      "zh": ""
+    },
+    {
+      "start": 119.67,
+      "duration": 0.3,
+      "text": "IT.",
+      "en": "IT.",
+      "zh": ""
+    },
+    {
+      "start": 119.68,
+      "duration": 0.83,
+      "text": "IT. WOO!",
+      "en": "IT. WOO!",
+      "zh": ""
+    },
+    {
+      "start": 120.51,
+      "duration": 0.3,
+      "text": "WOO!",
+      "en": "WOO!",
+      "zh": ""
+    },
+    {
+      "start": 120.52,
+      "duration": 2.61,
+      "text": "WOO! >> [cheering]",
+      "en": "WOO! >> [cheering]",
+      "zh": ""
+    },
+    {
+      "start": 154.99,
+      "duration": 0.3,
+      "text": ">> CLIMB INTO [music] MY CAR, leaving all",
+      "en": ">> CLIMB INTO [music] MY CAR, leaving all",
+      "zh": ""
+    },
+    {
+      "start": 155.0,
+      "duration": 1.83,
+      "text": ">> CLIMB INTO [music] MY CAR, leaving all your useless stuff.",
+      "en": ">> CLIMB INTO [music] MY CAR, leaving all your useless stuff.",
+      "zh": ""
+    },
+    {
+      "start": 156.83,
+      "duration": 0.3,
+      "text": "your useless stuff.",
+      "en": "your useless stuff.",
+      "zh": ""
+    },
+    {
+      "start": 156.84,
+      "duration": 3.35,
+      "text": "your useless stuff. Knock through the door, reminder of the",
+      "en": "your useless stuff. Knock through the door, reminder of the",
+      "zh": ""
+    },
+    {
+      "start": 160.19,
+      "duration": 0.3,
+      "text": "Knock through the door, reminder of the",
+      "en": "Knock through the door, reminder of the",
+      "zh": ""
+    },
+    {
+      "start": 160.2,
+      "duration": 3.03,
+      "text": "Knock through the door, reminder of the rich. Try to make me jump. If I don't,",
+      "en": "Knock through the door, reminder of the rich. Try to make me jump. If I don't,",
+      "zh": ""
+    },
+    {
+      "start": 163.23,
+      "duration": 0.3,
+      "text": "rich. Try to make me jump. If I don't,",
+      "en": "rich. Try to make me jump. If I don't,",
+      "zh": ""
+    },
+    {
+      "start": 163.24,
+      "duration": 1.75,
+      "text": "rich. Try to make me jump. If I don't, you push me up.",
+      "en": "rich. Try to make me jump. If I don't, you push me up.",
+      "zh": ""
+    },
+    {
+      "start": 164.99,
+      "duration": 0.3,
+      "text": "you push me up.",
+      "en": "you push me up.",
+      "zh": ""
+    },
+    {
+      "start": 165.0,
+      "duration": 2.67,
+      "text": "you push me up. Try my best to make it",
+      "en": "you push me up. Try my best to make it",
+      "zh": ""
+    },
+    {
+      "start": 167.67,
+      "duration": 0.3,
+      "text": "Try my best to make it",
+      "en": "Try my best to make it",
+      "zh": ""
+    },
+    {
+      "start": 167.68,
+      "duration": 0.3,
+      "text": "Try my best to make it >> [music]",
+      "en": "Try my best to make it >> [music]",
+      "zh": ""
+    },
+    {
+      "start": 167.83,
+      "duration": 0.3,
+      "text": ">> [music]",
+      "en": ">> [music]",
+      "zh": ""
+    },
+    {
+      "start": 167.84,
+      "duration": 1.31,
+      "text": ">> [music] >> an offense.",
+      "en": ">> [music] >> an offense.",
+      "zh": ""
+    },
+    {
+      "start": 169.15,
+      "duration": 0.3,
+      "text": ">> an offense.",
+      "en": ">> an offense.",
+      "zh": ""
+    },
+    {
+      "start": 169.16,
+      "duration": 3.11,
+      "text": ">> an offense. Things you'll never remember.",
+      "en": ">> an offense. Things you'll never remember.",
+      "zh": ""
+    },
+    {
+      "start": 172.27,
+      "duration": 0.3,
+      "text": "Things you'll never remember.",
+      "en": "Things you'll never remember.",
+      "zh": ""
+    },
+    {
+      "start": 172.28,
+      "duration": 1.27,
+      "text": "Things you'll never remember. I'll never",
+      "en": "Things you'll never remember. I'll never",
+      "zh": ""
+    },
+    {
+      "start": 173.55,
+      "duration": 0.3,
+      "text": "I'll never",
+      "en": "I'll never",
+      "zh": ""
+    },
+    {
+      "start": 173.56,
+      "duration": 3.75,
+      "text": "I'll never get to forget.",
+      "en": "I'll never get to forget.",
+      "zh": ""
+    },
+    {
+      "start": 180.47,
+      "duration": 0.3,
+      "text": "Things you'll never [music] remember.",
+      "en": "Things you'll never [music] remember.",
+      "zh": ""
+    },
+    {
+      "start": 180.48,
+      "duration": 0.71,
+      "text": "Things you'll never [music] remember. I'll",
+      "en": "Things you'll never [music] remember. I'll",
+      "zh": ""
+    },
+    {
+      "start": 181.19,
+      "duration": 0.3,
+      "text": "I'll",
+      "en": "I'll",
+      "zh": ""
+    },
+    {
+      "start": 181.2,
+      "duration": 1.27,
+      "text": "I'll live through",
+      "en": "I'll live through",
+      "zh": ""
+    },
+    {
+      "start": 182.47,
+      "duration": 0.3,
+      "text": "live through",
+      "en": "live through",
+      "zh": ""
+    },
+    {
+      "start": 182.48,
+      "duration": 1.43,
+      "text": "live through again",
+      "en": "live through again",
+      "zh": ""
+    },
+    {
+      "start": 183.91,
+      "duration": 0.3,
+      "text": "again",
+      "en": "again",
+      "zh": ""
+    },
+    {
+      "start": 183.92,
+      "duration": 2.75,
+      "text": "again and again.",
+      "en": "again and again.",
+      "zh": ""
+    },
+    {
+      "start": 187.59,
+      "duration": 0.3,
+      "text": ">> [music]",
+      "en": ">> [music]",
+      "zh": ""
+    },
+    {
+      "start": 187.6,
+      "duration": 2.15,
+      "text": ">> [music] >> Say the worst things",
+      "en": ">> [music] >> Say the worst things",
+      "zh": ""
+    },
+    {
+      "start": 189.75,
+      "duration": 0.3,
+      "text": ">> Say the worst things",
+      "en": ">> Say the worst things",
+      "zh": ""
+    },
+    {
+      "start": 189.76,
+      "duration": 2.99,
+      "text": ">> Say the worst things you can.",
+      "en": ">> Say the worst things you can.",
+      "zh": ""
+    },
+    {
+      "start": 199.15,
+      "duration": 0.3,
+      "text": "Again [music] and again and",
+      "en": "Again [music] and again and",
+      "zh": ""
+    },
+    {
+      "start": 199.16,
+      "duration": 2.51,
+      "text": "Again [music] and again and again.",
+      "en": "Again [music] and again and again.",
+      "zh": ""
+    },
+    {
+      "start": 204.47,
+      "duration": 0.3,
+      "text": "Do you feel [music] better now? Leaving",
+      "en": "Do you feel [music] better now? Leaving",
+      "zh": ""
+    },
+    {
+      "start": 204.48,
+      "duration": 1.39,
+      "text": "Do you feel [music] better now? Leaving all of this",
+      "en": "Do you feel [music] better now? Leaving all of this",
+      "zh": ""
+    },
+    {
+      "start": 205.87,
+      "duration": 0.3,
+      "text": "all of this",
+      "en": "all of this",
+      "zh": ""
+    },
+    {
+      "start": 205.88,
+      "duration": 2.67,
+      "text": "all of this with me. Leave me rotting down, reminder",
+      "en": "all of this with me. Leave me rotting down, reminder",
+      "zh": ""
+    },
+    {
+      "start": 208.55,
+      "duration": 0.3,
+      "text": "with me. Leave me rotting down, reminder",
+      "en": "with me. Leave me rotting down, reminder",
+      "zh": ""
+    },
+    {
+      "start": 208.56,
+      "duration": 1.19,
+      "text": "with me. Leave me rotting down, reminder of the",
+      "en": "with me. Leave me rotting down, reminder of the",
+      "zh": ""
+    },
+    {
+      "start": 209.75,
+      "duration": 0.3,
+      "text": "of the",
+      "en": "of the",
+      "zh": ""
+    },
+    {
+      "start": 209.76,
+      "duration": 2.31,
+      "text": "of the weak. Successfully [music] ruined all of",
+      "en": "of the weak. Successfully [music] ruined all of",
+      "zh": ""
+    },
+    {
+      "start": 212.07,
+      "duration": 0.3,
+      "text": "weak. Successfully [music] ruined all of",
+      "en": "weak. Successfully [music] ruined all of",
+      "zh": ""
+    },
+    {
+      "start": 212.08,
+      "duration": 3.23,
+      "text": "weak. Successfully [music] ruined all of my god damn peace.",
+      "en": "weak. Successfully [music] ruined all of my god damn peace.",
+      "zh": ""
+    },
+    {
+      "start": 215.31,
+      "duration": 0.3,
+      "text": "my god damn peace.",
+      "en": "my god damn peace.",
+      "zh": ""
+    },
+    {
+      "start": 215.32,
+      "duration": 3.15,
+      "text": "my god damn peace. Now we both have this [music] disease.",
+      "en": "my god damn peace. Now we both have this [music] disease.",
+      "zh": ""
+    },
+    {
+      "start": 218.47,
+      "duration": 0.3,
+      "text": "Now we both have this [music] disease.",
+      "en": "Now we both have this [music] disease.",
+      "zh": ""
+    },
+    {
+      "start": 218.48,
+      "duration": 3.11,
+      "text": "Now we both have this [music] disease. Things you'll never remember.",
+      "en": "Now we both have this [music] disease. Things you'll never remember.",
+      "zh": ""
+    },
+    {
+      "start": 221.59,
+      "duration": 0.3,
+      "text": "Things you'll never remember.",
+      "en": "Things you'll never remember.",
+      "zh": ""
+    },
+    {
+      "start": 221.6,
+      "duration": 1.23,
+      "text": "Things you'll never remember. I'll never",
+      "en": "Things you'll never remember. I'll never",
+      "zh": ""
+    },
+    {
+      "start": 222.83,
+      "duration": 0.3,
+      "text": "I'll never",
+      "en": "I'll never",
+      "zh": ""
+    },
+    {
+      "start": 222.84,
+      "duration": 1.16,
+      "text": "I'll never get to forget.",
+      "en": "I'll never get to forget.",
+      "zh": ""
+    },
+    {
+      "start": 224.0,
+      "duration": 0.3,
+      "text": "get to forget.",
+      "en": "get to forget.",
+      "zh": ""
+    },
+    {
+      "start": 224.01,
+      "duration": 2.66,
+      "text": "get to forget. >> [music]",
+      "en": "get to forget. >> [music]",
+      "zh": ""
+    },
+    {
+      "start": 229.79,
+      "duration": 0.3,
+      "text": ">> Things you'll never remember.",
+      "en": ">> Things you'll never remember.",
+      "zh": ""
+    },
+    {
+      "start": 229.8,
+      "duration": 2.07,
+      "text": ">> Things you'll never remember. I'll live",
+      "en": ">> Things you'll never remember. I'll live",
+      "zh": ""
+    },
+    {
+      "start": 231.87,
+      "duration": 0.3,
+      "text": "I'll live",
+      "en": "I'll live",
+      "zh": ""
+    },
+    {
+      "start": 231.88,
+      "duration": 0.67,
+      "text": "I'll live through",
+      "en": "I'll live through",
+      "zh": ""
+    },
+    {
+      "start": 232.55,
+      "duration": 0.3,
+      "text": "through",
+      "en": "through",
+      "zh": ""
+    },
+    {
+      "start": 232.56,
+      "duration": 2.55,
+      "text": "through again and again and again.",
+      "en": "through again and again and again.",
+      "zh": ""
+    },
+    {
+      "start": 241.69,
+      "duration": 0.3,
+      "text": "Cuz it feels better to be so unkind.",
+      "en": "Cuz it feels better to be so unkind.",
+      "zh": ""
+    },
+    {
+      "start": 241.7,
+      "duration": 1.45,
+      "text": "Cuz it feels better to be so unkind. >> [music]",
+      "en": "Cuz it feels better to be so unkind. >> [music]",
+      "zh": ""
+    },
+    {
+      "start": 243.15,
+      "duration": 0.3,
+      "text": ">> [music]",
+      "en": ">> [music]",
+      "zh": ""
+    },
+    {
+      "start": 243.16,
+      "duration": 4.91,
+      "text": ">> [music] >> Don't know why I was left outside.",
+      "en": ">> [music] >> Don't know why I was left outside.",
+      "zh": ""
+    },
+    {
+      "start": 248.75,
+      "duration": 0.3,
+      "text": "God knows me, buddy. I'll get it in",
+      "en": "God knows me, buddy. I'll get it in",
+      "zh": ""
+    },
+    {
+      "start": 248.76,
+      "duration": 2.63,
+      "text": "God knows me, buddy. I'll get it in time.",
+      "en": "God knows me, buddy. I'll get it in time.",
+      "zh": ""
+    },
+    {
+      "start": 255.47,
+      "duration": 0.3,
+      "text": "Post-traumatic feels too dramatic.",
+      "en": "Post-traumatic feels too dramatic.",
+      "zh": ""
+    },
+    {
+      "start": 255.48,
+      "duration": 4.11,
+      "text": "Post-traumatic feels too dramatic. You're lucky your memory's static.",
+      "en": "Post-traumatic feels too dramatic. You're lucky your memory's static.",
+      "zh": ""
+    },
+    {
+      "start": 259.59,
+      "duration": 0.3,
+      "text": "You're lucky your memory's static.",
+      "en": "You're lucky your memory's static.",
+      "zh": ""
+    },
+    {
+      "start": 259.6,
+      "duration": 2.67,
+      "text": "You're lucky your memory's static. Burned too bright into [singing] my",
+      "en": "You're lucky your memory's static. Burned too bright into [singing] my",
+      "zh": ""
+    },
+    {
+      "start": 262.27,
+      "duration": 0.3,
+      "text": "Burned too bright into [singing] my",
+      "en": "Burned too bright into [singing] my",
+      "zh": ""
+    },
+    {
+      "start": 262.28,
+      "duration": 1.51,
+      "text": "Burned too bright into [singing] my eyes.",
+      "en": "Burned too bright into [singing] my eyes.",
+      "zh": ""
+    },
+    {
+      "start": 263.79,
+      "duration": 0.3,
+      "text": "eyes.",
+      "en": "eyes.",
+      "zh": ""
+    },
+    {
+      "start": 263.8,
+      "duration": 3.35,
+      "text": "eyes. I don't know how we survived.",
+      "en": "eyes. I don't know how we survived.",
+      "zh": ""
+    },
+    {
+      "start": 267.15,
+      "duration": 0.3,
+      "text": "I don't know how we survived.",
+      "en": "I don't know how we survived.",
+      "zh": ""
+    },
+    {
+      "start": 267.16,
+      "duration": 0.95,
+      "text": "I don't know how we survived. >> Hey!",
+      "en": "I don't know how we survived. >> Hey!",
+      "zh": ""
+    },
+    {
+      "start": 268.11,
+      "duration": 0.3,
+      "text": ">> Hey!",
+      "en": ">> Hey!",
+      "zh": ""
+    },
+    {
+      "start": 268.12,
+      "duration": 1.83,
+      "text": ">> Hey! >> Too close.",
+      "en": ">> Hey! >> Too close.",
+      "zh": ""
+    },
+    {
+      "start": 269.95,
+      "duration": 0.3,
+      "text": ">> Too close.",
+      "en": ">> Too close.",
+      "zh": ""
+    },
+    {
+      "start": 269.96,
+      "duration": 1.95,
+      "text": ">> Too close. Not close enough.",
+      "en": ">> Too close. Not close enough.",
+      "zh": ""
+    },
+    {
+      "start": 271.91,
+      "duration": 0.3,
+      "text": "Not close enough.",
+      "en": "Not close enough.",
+      "zh": ""
+    },
+    {
+      "start": 271.92,
+      "duration": 2.15,
+      "text": "Not close enough. I want to feel it.",
+      "en": "Not close enough. I want to feel it.",
+      "zh": ""
+    },
+    {
+      "start": 274.07,
+      "duration": 0.3,
+      "text": "I want to feel it.",
+      "en": "I want to feel it.",
+      "zh": ""
+    },
+    {
+      "start": 274.08,
+      "duration": 1.43,
+      "text": "I want to feel it. Please don't give me the silent",
+      "en": "I want to feel it. Please don't give me the silent",
+      "zh": ""
+    },
+    {
+      "start": 275.51,
+      "duration": 0.3,
+      "text": "Please don't give me the silent",
+      "en": "Please don't give me the silent",
+      "zh": ""
+    },
+    {
+      "start": 275.52,
+      "duration": 1.71,
+      "text": "Please don't give me the silent treatment. Don't know why",
+      "en": "Please don't give me the silent treatment. Don't know why",
+      "zh": ""
+    },
+    {
+      "start": 277.23,
+      "duration": 0.3,
+      "text": "treatment. Don't know why",
+      "en": "treatment. Don't know why",
+      "zh": ""
+    },
+    {
+      "start": 277.24,
+      "duration": 0.47,
+      "text": "treatment. Don't know why I was left",
+      "en": "treatment. Don't know why I was left",
+      "zh": ""
+    },
+    {
+      "start": 277.71,
+      "duration": 0.3,
+      "text": "I was left",
+      "en": "I was left",
+      "zh": ""
+    },
+    {
+      "start": 277.72,
+      "duration": 0.59,
+      "text": "I was left >> [singing and music]",
+      "en": "I was left >> [singing and music]",
+      "zh": ""
+    },
+    {
+      "start": 278.31,
+      "duration": 0.3,
+      "text": ">> [singing and music]",
+      "en": ">> [singing and music]",
+      "zh": ""
+    },
+    {
+      "start": 278.32,
+      "duration": 1.91,
+      "text": ">> [singing and music] >> outside.",
+      "en": ">> [singing and music] >> outside.",
+      "zh": ""
+    },
+    {
+      "start": 280.23,
+      "duration": 0.3,
+      "text": ">> outside.",
+      "en": ">> outside.",
+      "zh": ""
+    },
+    {
+      "start": 280.24,
+      "duration": 3.31,
+      "text": ">> outside. God knows me, buddy. I'll get it in",
+      "en": ">> outside. God knows me, buddy. I'll get it in",
+      "zh": ""
+    },
+    {
+      "start": 283.55,
+      "duration": 0.3,
+      "text": "God knows me, buddy. I'll get it in",
+      "en": "God knows me, buddy. I'll get it in",
+      "zh": ""
+    },
+    {
+      "start": 283.56,
+      "duration": 0.79,
+      "text": "God knows me, buddy. I'll get it in time.",
+      "en": "God knows me, buddy. I'll get it in time.",
+      "zh": ""
+    },
+    {
+      "start": 284.35,
+      "duration": 0.3,
+      "text": "time.",
+      "en": "time.",
+      "zh": ""
+    },
+    {
+      "start": 284.36,
+      "duration": 3.11,
+      "text": "time. Things you'll never remember,",
+      "en": "time. Things you'll never remember,",
+      "zh": ""
+    },
+    {
+      "start": 287.47,
+      "duration": 0.3,
+      "text": "Things you'll never remember,",
+      "en": "Things you'll never remember,",
+      "zh": ""
+    },
+    {
+      "start": 287.48,
+      "duration": 5.11,
+      "text": "Things you'll never remember, I'll never get to forget.",
+      "en": "Things you'll never remember, I'll never get to forget.",
+      "zh": ""
+    },
+    {
+      "start": 295.67,
+      "duration": 0.3,
+      "text": "Things [music] you'll never remember,",
+      "en": "Things [music] you'll never remember,",
+      "zh": ""
+    },
+    {
+      "start": 295.68,
+      "duration": 0.91,
+      "text": "Things [music] you'll never remember, I lived",
+      "en": "Things [music] you'll never remember, I lived",
+      "zh": ""
+    },
+    {
+      "start": 296.59,
+      "duration": 0.3,
+      "text": "I lived",
+      "en": "I lived",
+      "zh": ""
+    },
+    {
+      "start": 296.6,
+      "duration": 1.19,
+      "text": "I lived through",
+      "en": "I lived through",
+      "zh": ""
+    },
+    {
+      "start": 297.79,
+      "duration": 0.3,
+      "text": "through",
+      "en": "through",
+      "zh": ""
+    },
+    {
+      "start": 297.8,
+      "duration": 0.99,
+      "text": "through again",
+      "en": "through again",
+      "zh": ""
+    },
+    {
+      "start": 298.79,
+      "duration": 0.3,
+      "text": "again",
+      "en": "again",
+      "zh": ""
+    },
+    {
+      "start": 298.8,
+      "duration": 0.95,
+      "text": "again and again",
+      "en": "again and again",
+      "zh": ""
+    },
+    {
+      "start": 299.75,
+      "duration": 0.3,
+      "text": "and again",
+      "en": "and again",
+      "zh": ""
+    },
+    {
+      "start": 299.76,
+      "duration": 0.88,
+      "text": "and again and again.",
+      "en": "and again and again.",
+      "zh": ""
+    },
+    {
+      "start": 300.64,
+      "duration": 0.3,
+      "text": "and again.",
+      "en": "and again.",
+      "zh": ""
+    },
+    {
+      "start": 300.65,
+      "duration": 0.3,
+      "text": "and again. >> [music]",
+      "en": "and again. >> [music]",
+      "zh": ""
+    },
+    {
+      "start": 300.75,
+      "duration": 0.3,
+      "text": ">> [music]",
+      "en": ">> [music]",
+      "zh": ""
+    },
+    {
+      "start": 300.76,
+      "duration": 4.11,
+      "text": ">> [music] >> Say the worst thing that comes to mind.",
+      "en": ">> [music] >> Say the worst thing that comes to mind.",
+      "zh": ""
+    },
+    {
+      "start": 304.87,
+      "duration": 0.3,
+      "text": ">> Say the worst thing that comes to mind.",
+      "en": ">> Say the worst thing that comes to mind.",
+      "zh": ""
+    },
+    {
+      "start": 304.88,
+      "duration": 2.31,
+      "text": ">> Say the worst thing that comes to mind. Cuz it feels better",
+      "en": ">> Say the worst thing that comes to mind. Cuz it feels better",
+      "zh": ""
+    },
+    {
+      "start": 307.19,
+      "duration": 0.3,
+      "text": "Cuz it feels better",
+      "en": "Cuz it feels better",
+      "zh": ""
+    },
+    {
+      "start": 307.2,
+      "duration": 3.11,
+      "text": "Cuz it feels better to be so unkind. Don't know why I was",
+      "en": "Cuz it feels better to be so unkind. Don't know why I was",
+      "zh": ""
+    },
+    {
+      "start": 310.31,
+      "duration": 0.3,
+      "text": "to be so unkind. Don't know why I was",
+      "en": "to be so unkind. Don't know why I was",
+      "zh": ""
+    },
+    {
+      "start": 310.32,
+      "duration": 2.83,
+      "text": "to be so unkind. Don't know why I was left outside.",
+      "en": "to be so unkind. Don't know why I was left outside.",
+      "zh": ""
+    },
+    {
+      "start": 313.15,
+      "duration": 0.3,
+      "text": "left outside.",
+      "en": "left outside.",
+      "zh": ""
+    },
+    {
+      "start": 313.16,
+      "duration": 2.23,
+      "text": "left outside. God [music] knows me, buddy.",
+      "en": "left outside. God [music] knows me, buddy.",
+      "zh": ""
+    },
+    {
+      "start": 315.39,
+      "duration": 0.3,
+      "text": "God [music] knows me, buddy.",
+      "en": "God [music] knows me, buddy.",
+      "zh": ""
+    },
+    {
+      "start": 315.4,
+      "duration": 0.95,
+      "text": "God [music] knows me, buddy. I'll get",
+      "en": "God [music] knows me, buddy. I'll get",
+      "zh": ""
+    },
+    {
+      "start": 316.35,
+      "duration": 0.3,
+      "text": "I'll get",
+      "en": "I'll get",
+      "zh": ""
+    },
+    {
+      "start": 316.36,
+      "duration": 2.62,
+      "text": "I'll get it in time.",
+      "en": "I'll get it in time.",
+      "zh": ""
+    },
+    {
+      "start": 325.53,
+      "duration": 0.3,
+      "text": "[applause]",
+      "en": "[applause]",
+      "zh": ""
+    },
+    {
+      "start": 325.54,
+      "duration": 0.45,
+      "text": "[applause] [cheering]",
+      "en": "[applause] [cheering]",
+      "zh": ""
+    },
+    {
+      "start": 325.99,
+      "duration": 0.3,
+      "text": "[cheering]",
+      "en": "[cheering]",
+      "zh": ""
+    },
+    {
+      "start": 326.0,
+      "duration": 3.46,
+      "text": "[cheering] >> This one's called Throw Me Away.",
+      "en": "[cheering] >> This one's called Throw Me Away.",
+      "zh": ""
+    },
+    {
+      "start": 334.87,
+      "duration": 0.3,
+      "text": ">> I shouldn't be the one to love. Yet,",
+      "en": ">> I shouldn't be the one to love. Yet,",
+      "zh": ""
+    },
+    {
+      "start": 334.88,
+      "duration": 4.03,
+      "text": ">> I shouldn't be the one to love. Yet, here I am smothered in hugs. My only use",
+      "en": ">> I shouldn't be the one to love. Yet, here I am smothered in hugs. My only use",
+      "zh": ""
+    },
+    {
+      "start": 338.91,
+      "duration": 0.3,
+      "text": "here I am smothered in hugs. My only use",
+      "en": "here I am smothered in hugs. My only use",
+      "zh": ""
+    },
+    {
+      "start": 338.92,
+      "duration": 0.83,
+      "text": "here I am smothered in hugs. My only use is to",
+      "en": "here I am smothered in hugs. My only use is to",
+      "zh": ""
+    },
+    {
+      "start": 339.75,
+      "duration": 0.3,
+      "text": "is to",
+      "en": "is to",
+      "zh": ""
+    },
+    {
+      "start": 339.76,
+      "duration": 1.95,
+      "text": "is to make you",
+      "en": "is to make you",
+      "zh": ""
+    },
+    {
+      "start": 341.71,
+      "duration": 0.3,
+      "text": "make you",
+      "en": "make you",
+      "zh": ""
+    },
+    {
+      "start": 341.72,
+      "duration": 1.15,
+      "text": "make you angry.",
+      "en": "make you angry.",
+      "zh": ""
+    },
+    {
+      "start": 342.87,
+      "duration": 0.3,
+      "text": "angry.",
+      "en": "angry.",
+      "zh": ""
+    },
+    {
+      "start": 342.88,
+      "duration": 2.11,
+      "text": "angry. Save [music] yourself. Put me in the",
+      "en": "angry. Save [music] yourself. Put me in the",
+      "zh": ""
+    },
+    {
+      "start": 344.99,
+      "duration": 0.3,
+      "text": "Save [music] yourself. Put me in the",
+      "en": "Save [music] yourself. Put me in the",
+      "zh": ""
+    },
+    {
+      "start": 345.0,
+      "duration": 2.81,
+      "text": "Save [music] yourself. Put me in the trash. Pray to heaven going to make you",
+      "en": "Save [music] yourself. Put me in the trash. Pray to heaven going to make you",
+      "zh": ""
+    },
+    {
+      "start": 347.81,
+      "duration": 0.3,
+      "text": "trash. Pray to heaven going to make you",
+      "en": "trash. Pray to heaven going to make you",
+      "zh": ""
+    },
+    {
+      "start": 347.82,
+      "duration": 2.05,
+      "text": "trash. Pray to heaven going to make you [music] sad. My only",
+      "en": "trash. Pray to heaven going to make you [music] sad. My only",
+      "zh": ""
+    },
+    {
+      "start": 349.87,
+      "duration": 0.3,
+      "text": "[music] sad. My only",
+      "en": "[music] sad. My only",
+      "zh": ""
+    },
+    {
+      "start": 349.88,
+      "duration": 1.07,
+      "text": "[music] sad. My only use is to",
+      "en": "[music] sad. My only use is to",
+      "zh": ""
+    },
+    {
+      "start": 350.95,
+      "duration": 0.3,
+      "text": "use is to",
+      "en": "use is to",
+      "zh": ""
+    },
+    {
+      "start": 350.96,
+      "duration": 1.95,
+      "text": "use is to make you",
+      "en": "use is to make you",
+      "zh": ""
+    },
+    {
+      "start": 352.91,
+      "duration": 0.3,
+      "text": "make you",
+      "en": "make you",
+      "zh": ""
+    },
+    {
+      "start": 352.92,
+      "duration": 1.15,
+      "text": "make you angry.",
+      "en": "make you angry.",
+      "zh": ""
+    },
+    {
+      "start": 354.07,
+      "duration": 0.3,
+      "text": "angry.",
+      "en": "angry.",
+      "zh": ""
+    },
+    {
+      "start": 354.08,
+      "duration": 1.79,
+      "text": "angry. Tell me",
+      "en": "angry. Tell me",
+      "zh": ""
+    },
+    {
+      "start": 355.87,
+      "duration": 0.3,
+      "text": "Tell me",
+      "en": "Tell me",
+      "zh": ""
+    },
+    {
+      "start": 355.88,
+      "duration": 1.63,
+      "text": "Tell me what you need me",
+      "en": "Tell me what you need me",
+      "zh": ""
+    },
+    {
+      "start": 357.51,
+      "duration": 0.3,
+      "text": "what you need me",
+      "en": "what you need me",
+      "zh": ""
+    },
+    {
+      "start": 357.52,
+      "duration": 1.83,
+      "text": "what you need me to be.",
+      "en": "what you need me to be.",
+      "zh": ""
+    },
+    {
+      "start": 359.35,
+      "duration": 0.3,
+      "text": "to be.",
+      "en": "to be.",
+      "zh": ""
+    },
+    {
+      "start": 359.36,
+      "duration": 3.55,
+      "text": "to be. I'll change",
+      "en": "to be. I'll change",
+      "zh": ""
+    },
+    {
+      "start": 365.95,
+      "duration": 0.3,
+      "text": "if you promise just to [music] stay the",
+      "en": "if you promise just to [music] stay the",
+      "zh": ""
+    },
+    {
+      "start": 365.96,
+      "duration": 3.59,
+      "text": "if you promise just to [music] stay the same.",
+      "en": "if you promise just to [music] stay the same.",
+      "zh": ""
+    },
+    {
+      "start": 371.39,
+      "duration": 0.3,
+      "text": "I'll even change [music]",
+      "en": "I'll even change [music]",
+      "zh": ""
+    },
+    {
+      "start": 371.4,
+      "duration": 2.79,
+      "text": "I'll even change [music] my face",
+      "en": "I'll even change [music] my face",
+      "zh": ""
+    },
+    {
+      "start": 374.19,
+      "duration": 0.3,
+      "text": "my face",
+      "en": "my face",
+      "zh": ""
+    },
+    {
+      "start": 374.2,
+      "duration": 3.07,
+      "text": "my face if you promise just [music] to stay",
+      "en": "my face if you promise just [music] to stay",
+      "zh": ""
+    },
+    {
+      "start": 377.27,
+      "duration": 0.3,
+      "text": "if you promise just [music] to stay",
+      "en": "if you promise just [music] to stay",
+      "zh": ""
+    },
+    {
+      "start": 377.28,
+      "duration": 2.59,
+      "text": "if you promise just [music] to stay the same.",
+      "en": "if you promise just [music] to stay the same.",
+      "zh": ""
+    },
+    {
+      "start": 383.27,
+      "duration": 0.3,
+      "text": "Please don't throw [music] me away.",
+      "en": "Please don't throw [music] me away.",
+      "zh": ""
+    },
+    {
+      "start": 383.28,
+      "duration": 3.59,
+      "text": "Please don't throw [music] me away. 1 2 3 4 I wouldn't [music] wish me on",
+      "en": "Please don't throw [music] me away. 1 2 3 4 I wouldn't [music] wish me on",
+      "zh": ""
+    },
+    {
+      "start": 386.87,
+      "duration": 0.3,
+      "text": "1 2 3 4 I wouldn't [music] wish me on",
+      "en": "1 2 3 4 I wouldn't [music] wish me on",
+      "zh": ""
+    },
+    {
+      "start": 386.88,
+      "duration": 2.84,
+      "text": "1 2 3 4 I wouldn't [music] wish me on anyone. Take what you like and then",
+      "en": "1 2 3 4 I wouldn't [music] wish me on anyone. Take what you like and then",
+      "zh": ""
+    },
+    {
+      "start": 389.72,
+      "duration": 0.3,
+      "text": "anyone. Take what you like and then",
+      "en": "anyone. Take what you like and then",
+      "zh": ""
+    },
+    {
+      "start": 389.73,
+      "duration": 2.02,
+      "text": "anyone. Take what you like and then [singing] you'll run. My [music] only",
+      "en": "anyone. Take what you like and then [singing] you'll run. My [music] only",
+      "zh": ""
+    },
+    {
+      "start": 391.75,
+      "duration": 0.3,
+      "text": "[singing] you'll run. My [music] only",
+      "en": "[singing] you'll run. My [music] only",
+      "zh": ""
+    },
+    {
+      "start": 391.76,
+      "duration": 3.27,
+      "text": "[singing] you'll run. My [music] only use is to make you",
+      "en": "[singing] you'll run. My [music] only use is to make you",
+      "zh": ""
+    },
+    {
+      "start": 395.03,
+      "duration": 0.3,
+      "text": "use is to make you",
+      "en": "use is to make you",
+      "zh": ""
+    },
+    {
+      "start": 395.04,
+      "duration": 1.27,
+      "text": "use is to make you angry.",
+      "en": "use is to make you angry.",
+      "zh": ""
+    },
+    {
+      "start": 396.31,
+      "duration": 0.3,
+      "text": "angry.",
+      "en": "angry.",
+      "zh": ""
+    },
+    {
+      "start": 396.32,
+      "duration": 3.15,
+      "text": "angry. I guess I'm the disappointment tracks.",
+      "en": "angry. I guess I'm the disappointment tracks.",
+      "zh": ""
+    },
+    {
+      "start": 399.47,
+      "duration": 0.3,
+      "text": "I guess I'm the disappointment tracks.",
+      "en": "I guess I'm the disappointment tracks.",
+      "zh": ""
+    },
+    {
+      "start": 399.48,
+      "duration": 2.55,
+      "text": "I guess I'm the disappointment tracks. Try to make up for what I lack. [music]",
+      "en": "I guess I'm the disappointment tracks. Try to make up for what I lack. [music]",
+      "zh": ""
+    },
+    {
+      "start": 402.03,
+      "duration": 0.3,
+      "text": "Try to make up for what I lack. [music]",
+      "en": "Try to make up for what I lack. [music]",
+      "zh": ""
+    },
+    {
+      "start": 402.04,
+      "duration": 1.39,
+      "text": "Try to make up for what I lack. [music] My only",
+      "en": "Try to make up for what I lack. [music] My only",
+      "zh": ""
+    },
+    {
+      "start": 403.43,
+      "duration": 0.3,
+      "text": "My only",
+      "en": "My only",
+      "zh": ""
+    },
+    {
+      "start": 403.44,
+      "duration": 1.11,
+      "text": "My only use is to",
+      "en": "My only use is to",
+      "zh": ""
+    },
+    {
+      "start": 404.55,
+      "duration": 0.3,
+      "text": "use is to",
+      "en": "use is to",
+      "zh": ""
+    },
+    {
+      "start": 404.56,
+      "duration": 3.07,
+      "text": "use is to make you angry.",
+      "en": "use is to make you angry.",
+      "zh": ""
+    },
+    {
+      "start": 409.39,
+      "duration": 0.3,
+      "text": "Tell me",
+      "en": "Tell me",
+      "zh": ""
+    },
+    {
+      "start": 409.4,
+      "duration": 1.75,
+      "text": "Tell me what you need me",
+      "en": "Tell me what you need me",
+      "zh": ""
+    },
+    {
+      "start": 411.15,
+      "duration": 0.3,
+      "text": "what you need me",
+      "en": "what you need me",
+      "zh": ""
+    },
+    {
+      "start": 411.16,
+      "duration": 1.71,
+      "text": "what you need me to be.",
+      "en": "what you need me to be.",
+      "zh": ""
+    },
+    {
+      "start": 412.87,
+      "duration": 0.3,
+      "text": "to be.",
+      "en": "to be.",
+      "zh": ""
+    },
+    {
+      "start": 412.88,
+      "duration": 3.55,
+      "text": "to be. I'll [music] change",
+      "en": "to be. I'll [music] change",
+      "zh": ""
+    },
+    {
+      "start": 421.81,
+      "duration": 0.3,
+      "text": "if you promise just to stay the same.",
+      "en": "if you promise just to stay the same.",
+      "zh": ""
+    },
+    {
+      "start": 421.82,
+      "duration": 1.25,
+      "text": "if you promise just to stay the same. >> [music]",
+      "en": "if you promise just to stay the same. >> [music]",
+      "zh": ""
+    },
+    {
+      "start": 423.07,
+      "duration": 0.3,
+      "text": ">> [music]",
+      "en": ">> [music]",
+      "zh": ""
+    },
+    {
+      "start": 423.08,
+      "duration": 3.97,
+      "text": ">> [music] >> I'll even change my face",
+      "en": ">> [music] >> I'll even change my face",
+      "zh": ""
+    },
+    {
+      "start": 427.05,
+      "duration": 0.3,
+      "text": ">> I'll even change my face",
+      "en": ">> I'll even change my face",
+      "zh": ""
+    },
+    {
+      "start": 427.06,
+      "duration": 0.73,
+      "text": ">> I'll even change my face >> [music]",
+      "en": ">> I'll even change my face >> [music]",
+      "zh": ""
+    },
+    {
+      "start": 427.79,
+      "duration": 0.3,
+      "text": ">> [music]",
+      "en": ">> [music]",
+      "zh": ""
+    },
+    {
+      "start": 427.8,
+      "duration": 3.23,
+      "text": ">> [music] >> if you promise just to stay",
+      "en": ">> [music] >> if you promise just to stay",
+      "zh": ""
+    },
+    {
+      "start": 431.03,
+      "duration": 0.3,
+      "text": ">> if you promise just to stay",
+      "en": ">> if you promise just to stay",
+      "zh": ""
+    },
+    {
+      "start": 431.04,
+      "duration": 2.35,
+      "text": ">> if you promise just to stay the same.",
+      "en": ">> if you promise just to stay the same.",
+      "zh": ""
+    },
+    {
+      "start": 447.43,
+      "duration": 0.3,
+      "text": "Please let me",
+      "en": "Please let me",
+      "zh": ""
+    },
+    {
+      "start": 447.44,
+      "duration": 5.81,
+      "text": "Please let me Please let me [music and singing] stay.",
+      "en": "Please let me Please let me [music and singing] stay.",
+      "zh": ""
+    },
+    {
+      "start": 458.55,
+      "duration": 0.3,
+      "text": ">> Please let me. [singing]",
+      "en": ">> Please let me. [singing]",
+      "zh": ""
+    },
+    {
+      "start": 458.56,
+      "duration": 3.03,
+      "text": ">> Please let me. [singing] But drugs never seem to be enough. I",
+      "en": ">> Please let me. [singing] But drugs never seem to be enough. I",
+      "zh": ""
+    },
+    {
+      "start": 461.59,
+      "duration": 0.3,
+      "text": "But drugs never seem to be enough. I",
+      "en": "But drugs never seem to be enough. I",
+      "zh": ""
+    },
+    {
+      "start": 461.6,
+      "duration": 2.87,
+      "text": "But drugs never seem to be enough. I just try keep [music] it in my blood. No",
+      "en": "But drugs never seem to be enough. I just try keep [music] it in my blood. No",
+      "zh": ""
+    },
+    {
+      "start": 464.47,
+      "duration": 0.3,
+      "text": "just try keep [music] it in my blood. No",
+      "en": "just try keep [music] it in my blood. No",
+      "zh": ""
+    },
+    {
+      "start": 464.48,
+      "duration": 3.51,
+      "text": "just try keep [music] it in my blood. No matter what, [singing] it just keeps me",
+      "en": "just try keep [music] it in my blood. No matter what, [singing] it just keeps me",
+      "zh": ""
+    },
+    {
+      "start": 467.99,
+      "duration": 0.3,
+      "text": "matter what, [singing] it just keeps me",
+      "en": "matter what, [singing] it just keeps me",
+      "zh": ""
+    },
+    {
+      "start": 468.0,
+      "duration": 2.83,
+      "text": "matter what, [singing] it just keeps me lonely.",
+      "en": "matter what, [singing] it just keeps me lonely.",
+      "zh": ""
+    },
+    {
+      "start": 470.83,
+      "duration": 0.3,
+      "text": "lonely.",
+      "en": "lonely.",
+      "zh": ""
+    },
+    {
+      "start": 470.84,
+      "duration": 3.51,
+      "text": "lonely. I'll change.",
+      "en": "lonely. I'll change.",
+      "zh": ""
+    },
+    {
+      "start": 477.43,
+      "duration": 0.3,
+      "text": "If you promise just [music] to stay the",
+      "en": "If you promise just [music] to stay the",
+      "zh": ""
+    },
+    {
+      "start": 477.44,
+      "duration": 3.63,
+      "text": "If you promise just [music] to stay the same,",
+      "en": "If you promise just [music] to stay the same,",
+      "zh": ""
+    },
+    {
+      "start": 483.51,
+      "duration": 0.3,
+      "text": "I'll even [music and singing] cut off my",
+      "en": "I'll even [music and singing] cut off my",
+      "zh": ""
+    },
+    {
+      "start": 483.52,
+      "duration": 2.19,
+      "text": "I'll even [music and singing] cut off my face.",
+      "en": "I'll even [music and singing] cut off my face.",
+      "zh": ""
+    },
+    {
+      "start": 485.71,
+      "duration": 0.3,
+      "text": "face.",
+      "en": "face.",
+      "zh": ""
+    },
+    {
+      "start": 485.72,
+      "duration": 6.55,
+      "text": "face. If you promise just to stay the same,",
+      "en": "face. If you promise just to stay the same,",
+      "zh": ""
+    },
+    {
+      "start": 494.95,
+      "duration": 0.3,
+      "text": "get out graduate.",
+      "en": "get out graduate.",
+      "zh": ""
+    },
+    {
+      "start": 494.96,
+      "duration": 1.19,
+      "text": "get out graduate. How's it",
+      "en": "get out graduate. How's it",
+      "zh": ""
+    },
+    {
+      "start": 496.15,
+      "duration": 0.3,
+      "text": "How's it",
+      "en": "How's it",
+      "zh": ""
+    },
+    {
+      "start": 496.16,
+      "duration": 1.79,
+      "text": "How's it going to be?",
+      "en": "How's it going to be?",
+      "zh": ""
+    },
+    {
+      "start": 497.95,
+      "duration": 0.3,
+      "text": "going to be?",
+      "en": "going to be?",
+      "zh": ""
+    },
+    {
+      "start": 497.96,
+      "duration": 2.59,
+      "text": "going to be? Get out graduate.",
+      "en": "going to be? Get out graduate.",
+      "zh": ""
+    },
+    {
+      "start": 500.55,
+      "duration": 0.3,
+      "text": "Get out graduate.",
+      "en": "Get out graduate.",
+      "zh": ""
+    },
+    {
+      "start": 500.56,
+      "duration": 2.99,
+      "text": "Get out graduate. How's it [music] going to be?",
+      "en": "Get out graduate. How's it [music] going to be?",
+      "zh": ""
+    },
+    {
+      "start": 503.55,
+      "duration": 0.3,
+      "text": "How's it [music] going to be?",
+      "en": "How's it [music] going to be?",
+      "zh": ""
+    },
+    {
+      "start": 503.56,
+      "duration": 2.67,
+      "text": "How's it [music] going to be? Get out graduate.",
+      "en": "How's it [music] going to be? Get out graduate.",
+      "zh": ""
+    },
+    {
+      "start": 506.23,
+      "duration": 0.3,
+      "text": "Get out graduate.",
+      "en": "Get out graduate.",
+      "zh": ""
+    },
+    {
+      "start": 506.24,
+      "duration": 3.03,
+      "text": "Get out graduate. How's [music] it going to",
+      "en": "Get out graduate. How's [music] it going to",
+      "zh": ""
+    },
+    {
+      "start": 511.87,
+      "duration": 0.3,
+      "text": "Get out graduate.",
+      "en": "Get out graduate.",
+      "zh": ""
+    },
+    {
+      "start": 511.88,
+      "duration": 3.11,
+      "text": "Get out graduate. How's it going to be?",
+      "en": "Get out graduate. How's it going to be?",
+      "zh": ""
+    },
+    {
+      "start": 514.99,
+      "duration": 0.3,
+      "text": "How's it going to be?",
+      "en": "How's it going to be?",
+      "zh": ""
+    },
+    {
+      "start": 515.0,
+      "duration": 3.75,
+      "text": "How's it going to be? Get out graduate.",
+      "en": "How's it going to be? Get out graduate.",
+      "zh": ""
+    },
+    {
+      "start": 520.07,
+      "duration": 0.3,
+      "text": ">> [cheering]",
+      "en": ">> [cheering]",
+      "zh": ""
+    },
+    {
+      "start": 520.08,
+      "duration": 4.57,
+      "text": ">> [cheering] [applause]",
+      "en": ">> [cheering] [applause]",
+      "zh": ""
+    },
+    {
+      "start": 525.27,
+      "duration": 0.3,
+      "text": "[applause]",
+      "en": "[applause]",
+      "zh": ""
+    },
+    {
+      "start": 525.28,
+      "duration": 2.19,
+      "text": "[applause] >> Thank you. Thank you everyone for being",
+      "en": "[applause] >> Thank you. Thank you everyone for being",
+      "zh": ""
+    },
+    {
+      "start": 527.47,
+      "duration": 0.3,
+      "text": ">> Thank you. Thank you everyone for being",
+      "en": ">> Thank you. Thank you everyone for being",
+      "zh": ""
+    },
+    {
+      "start": 527.48,
+      "duration": 2.95,
+      "text": ">> Thank you. Thank you everyone for being here. This is crazy.",
+      "en": ">> Thank you. Thank you everyone for being here. This is crazy.",
+      "zh": ""
+    },
+    {
+      "start": 530.43,
+      "duration": 0.3,
+      "text": "here. This is crazy.",
+      "en": "here. This is crazy.",
+      "zh": ""
+    },
+    {
+      "start": 530.44,
+      "duration": 2.59,
+      "text": "here. This is crazy. I've played shows in office spaces in",
+      "en": "here. This is crazy. I've played shows in office spaces in",
+      "zh": ""
+    },
+    {
+      "start": 533.03,
+      "duration": 0.3,
+      "text": "I've played shows in office spaces in",
+      "en": "I've played shows in office spaces in",
+      "zh": ""
+    },
+    {
+      "start": 533.04,
+      "duration": 1.87,
+      "text": "I've played shows in office spaces in like a DIY",
+      "en": "I've played shows in office spaces in like a DIY",
+      "zh": ""
+    },
+    {
+      "start": 534.91,
+      "duration": 0.3,
+      "text": "like a DIY",
+      "en": "like a DIY",
+      "zh": ""
+    },
+    {
+      "start": 534.92,
+      "duration": 1.71,
+      "text": "like a DIY show context where people are jumping",
+      "en": "like a DIY show context where people are jumping",
+      "zh": ""
+    },
+    {
+      "start": 536.63,
+      "duration": 0.3,
+      "text": "show context where people are jumping",
+      "en": "show context where people are jumping",
+      "zh": ""
+    },
+    {
+      "start": 536.64,
+      "duration": 2.31,
+      "text": "show context where people are jumping off of stuff and this is very different",
+      "en": "show context where people are jumping off of stuff and this is very different",
+      "zh": ""
+    },
+    {
+      "start": 538.95,
+      "duration": 0.3,
+      "text": "off of stuff and this is very different",
+      "en": "off of stuff and this is very different",
+      "zh": ""
+    },
+    {
+      "start": 538.96,
+      "duration": 2.11,
+      "text": "off of stuff and this is very different than that, but",
+      "en": "off of stuff and this is very different than that, but",
+      "zh": ""
+    },
+    {
+      "start": 541.07,
+      "duration": 0.3,
+      "text": "than that, but",
+      "en": "than that, but",
+      "zh": ""
+    },
+    {
+      "start": 541.08,
+      "duration": 2.83,
+      "text": "than that, but still very excited to be here.",
+      "en": "than that, but still very excited to be here.",
+      "zh": ""
+    },
+    {
+      "start": 543.91,
+      "duration": 0.3,
+      "text": "still very excited to be here.",
+      "en": "still very excited to be here.",
+      "zh": ""
+    },
+    {
+      "start": 543.92,
+      "duration": 2.31,
+      "text": "still very excited to be here. Uh we got through one of the ones I was",
+      "en": "still very excited to be here. Uh we got through one of the ones I was",
+      "zh": ""
+    },
+    {
+      "start": 546.23,
+      "duration": 0.3,
+      "text": "Uh we got through one of the ones I was",
+      "en": "Uh we got through one of the ones I was",
+      "zh": ""
+    },
+    {
+      "start": 546.24,
+      "duration": 1.63,
+      "text": "Uh we got through one of the ones I was really nervous about, so I'm feeling",
+      "en": "Uh we got through one of the ones I was really nervous about, so I'm feeling",
+      "zh": ""
+    },
+    {
+      "start": 547.87,
+      "duration": 0.3,
+      "text": "really nervous about, so I'm feeling",
+      "en": "really nervous about, so I'm feeling",
+      "zh": ""
+    },
+    {
+      "start": 547.88,
+      "duration": 1.95,
+      "text": "really nervous about, so I'm feeling feeling pretty good now. It's a pretty",
+      "en": "really nervous about, so I'm feeling feeling pretty good now. It's a pretty",
+      "zh": ""
+    },
+    {
+      "start": 549.83,
+      "duration": 0.3,
+      "text": "feeling pretty good now. It's a pretty",
+      "en": "feeling pretty good now. It's a pretty",
+      "zh": ""
+    },
+    {
+      "start": 549.84,
+      "duration": 4.43,
+      "text": "feeling pretty good now. It's a pretty nerve-racking setup.",
+      "en": "feeling pretty good now. It's a pretty nerve-racking setup.",
+      "zh": ""
+    },
+    {
+      "start": 555.31,
+      "duration": 0.3,
+      "text": "Um",
+      "en": "Um",
+      "zh": ""
+    },
+    {
+      "start": 555.32,
+      "duration": 1.23,
+      "text": "Um for anyone who doesn't know Military",
+      "en": "Um for anyone who doesn't know Military",
+      "zh": ""
+    },
+    {
+      "start": 556.55,
+      "duration": 0.3,
+      "text": "for anyone who doesn't know Military",
+      "en": "for anyone who doesn't know Military",
+      "zh": ""
+    },
+    {
+      "start": 556.56,
+      "duration": 0.95,
+      "text": "for anyone who doesn't know Military Gun,",
+      "en": "for anyone who doesn't know Military Gun,",
+      "zh": ""
+    },
+    {
+      "start": 557.51,
+      "duration": 0.3,
+      "text": "Gun,",
+      "en": "Gun,",
+      "zh": ""
+    },
+    {
+      "start": 557.52,
+      "duration": 2.67,
+      "text": "Gun, we primarily write songs for drug",
+      "en": "Gun, we primarily write songs for drug",
+      "zh": ""
+    },
+    {
+      "start": 560.19,
+      "duration": 0.3,
+      "text": "we primarily write songs for drug",
+      "en": "we primarily write songs for drug",
+      "zh": ""
+    },
+    {
+      "start": 560.2,
+      "duration": 1.63,
+      "text": "we primarily write songs for drug addicts and people who grew up around",
+      "en": "we primarily write songs for drug addicts and people who grew up around",
+      "zh": ""
+    },
+    {
+      "start": 561.83,
+      "duration": 0.3,
+      "text": "addicts and people who grew up around",
+      "en": "addicts and people who grew up around",
+      "zh": ""
+    },
+    {
+      "start": 561.84,
+      "duration": 1.39,
+      "text": "addicts and people who grew up around drug addicts.",
+      "en": "addicts and people who grew up around drug addicts.",
+      "zh": ""
+    },
+    {
+      "start": 563.23,
+      "duration": 0.3,
+      "text": "drug addicts.",
+      "en": "drug addicts.",
+      "zh": ""
+    },
+    {
+      "start": 563.24,
+      "duration": 2.47,
+      "text": "drug addicts. Uh it's what a lot of our songs",
+      "en": "drug addicts. Uh it's what a lot of our songs",
+      "zh": ""
+    },
+    {
+      "start": 565.71,
+      "duration": 0.3,
+      "text": "Uh it's what a lot of our songs",
+      "en": "Uh it's what a lot of our songs",
+      "zh": ""
+    },
+    {
+      "start": 565.72,
+      "duration": 1.43,
+      "text": "Uh it's what a lot of our songs are about.",
+      "en": "Uh it's what a lot of our songs are about.",
+      "zh": ""
+    },
+    {
+      "start": 567.15,
+      "duration": 0.3,
+      "text": "are about.",
+      "en": "are about.",
+      "zh": ""
+    },
+    {
+      "start": 567.16,
+      "duration": 1.55,
+      "text": "are about. And uh",
+      "en": "are about. And uh",
+      "zh": ""
+    },
+    {
+      "start": 568.71,
+      "duration": 0.3,
+      "text": "And uh",
+      "en": "And uh",
+      "zh": ""
+    },
+    {
+      "start": 568.72,
+      "duration": 2.75,
+      "text": "And uh this next one is an old song",
+      "en": "And uh this next one is an old song",
+      "zh": ""
+    },
+    {
+      "start": 571.47,
+      "duration": 0.3,
+      "text": "this next one is an old song",
+      "en": "this next one is an old song",
+      "zh": ""
+    },
+    {
+      "start": 571.48,
+      "duration": 2.27,
+      "text": "this next one is an old song and it's called Don't Pick Up the Phone",
+      "en": "this next one is an old song and it's called Don't Pick Up the Phone",
+      "zh": ""
+    },
+    {
+      "start": 573.75,
+      "duration": 0.3,
+      "text": "and it's called Don't Pick Up the Phone",
+      "en": "and it's called Don't Pick Up the Phone",
+      "zh": ""
+    },
+    {
+      "start": 573.76,
+      "duration": 21.63,
+      "text": "and it's called Don't Pick Up the Phone When You're on Drugs.",
+      "en": "and it's called Don't Pick Up the Phone When You're on Drugs.",
+      "zh": ""
+    },
+    {
+      "start": 672.27,
+      "duration": 0.3,
+      "text": "Uh we got two songs left. Again, thank",
+      "en": "Uh we got two songs left. Again, thank",
+      "zh": ""
+    },
+    {
+      "start": 672.28,
+      "duration": 1.27,
+      "text": "Uh we got two songs left. Again, thank you everyone for",
+      "en": "Uh we got two songs left. Again, thank you everyone for",
+      "zh": ""
+    },
+    {
+      "start": 673.55,
+      "duration": 0.3,
+      "text": "you everyone for",
+      "en": "you everyone for",
+      "zh": ""
+    },
+    {
+      "start": 673.56,
+      "duration": 1.39,
+      "text": "you everyone for for being here.",
+      "en": "you everyone for for being here.",
+      "zh": ""
+    },
+    {
+      "start": 674.95,
+      "duration": 0.3,
+      "text": "for being here.",
+      "en": "for being here.",
+      "zh": ""
+    },
+    {
+      "start": 674.96,
+      "duration": 2.39,
+      "text": "for being here. Um this next one",
+      "en": "for being here. Um this next one",
+      "zh": ""
+    },
+    {
+      "start": 677.35,
+      "duration": 0.3,
+      "text": "Um this next one",
+      "en": "Um this next one",
+      "zh": ""
+    },
+    {
+      "start": 677.36,
+      "duration": 2.35,
+      "text": "Um this next one is a song about miscommunication.",
+      "en": "Um this next one is a song about miscommunication.",
+      "zh": ""
+    },
+    {
+      "start": 679.71,
+      "duration": 0.3,
+      "text": "is a song about miscommunication.",
+      "en": "is a song about miscommunication.",
+      "zh": ""
+    },
+    {
+      "start": 679.72,
+      "duration": 1.15,
+      "text": "is a song about miscommunication. Uh uh uh",
+      "en": "is a song about miscommunication. Uh uh uh",
+      "zh": ""
+    },
+    {
+      "start": 680.87,
+      "duration": 0.3,
+      "text": "Uh uh uh",
+      "en": "Uh uh uh",
+      "zh": ""
+    },
+    {
+      "start": 680.88,
+      "duration": 1.63,
+      "text": "Uh uh uh In my own life, I feel like I'm like",
+      "en": "Uh uh uh In my own life, I feel like I'm like",
+      "zh": ""
+    },
+    {
+      "start": 682.51,
+      "duration": 0.3,
+      "text": "In my own life, I feel like I'm like",
+      "en": "In my own life, I feel like I'm like",
+      "zh": ""
+    },
+    {
+      "start": 682.52,
+      "duration": 1.47,
+      "text": "In my own life, I feel like I'm like telegraphing to everyone that I'm having",
+      "en": "In my own life, I feel like I'm like telegraphing to everyone that I'm having",
+      "zh": ""
+    },
+    {
+      "start": 683.99,
+      "duration": 0.3,
+      "text": "telegraphing to everyone that I'm having",
+      "en": "telegraphing to everyone that I'm having",
+      "zh": ""
+    },
+    {
+      "start": 684.0,
+      "duration": 2.31,
+      "text": "telegraphing to everyone that I'm having such a hard time and that I hope people",
+      "en": "telegraphing to everyone that I'm having such a hard time and that I hope people",
+      "zh": ""
+    },
+    {
+      "start": 686.31,
+      "duration": 0.3,
+      "text": "such a hard time and that I hope people",
+      "en": "such a hard time and that I hope people",
+      "zh": ""
+    },
+    {
+      "start": 686.32,
+      "duration": 2.51,
+      "text": "such a hard time and that I hope people are noticing that",
+      "en": "such a hard time and that I hope people are noticing that",
+      "zh": ""
+    },
+    {
+      "start": 688.83,
+      "duration": 0.3,
+      "text": "are noticing that",
+      "en": "are noticing that",
+      "zh": ""
+    },
+    {
+      "start": 688.84,
+      "duration": 2.87,
+      "text": "are noticing that I'm in hell, but the reality is that",
+      "en": "are noticing that I'm in hell, but the reality is that",
+      "zh": ""
+    },
+    {
+      "start": 691.71,
+      "duration": 0.3,
+      "text": "I'm in hell, but the reality is that",
+      "en": "I'm in hell, but the reality is that",
+      "zh": ""
+    },
+    {
+      "start": 691.72,
+      "duration": 2.11,
+      "text": "I'm in hell, but the reality is that everyone is living in their own hell and",
+      "en": "I'm in hell, but the reality is that everyone is living in their own hell and",
+      "zh": ""
+    },
+    {
+      "start": 693.83,
+      "duration": 0.3,
+      "text": "everyone is living in their own hell and",
+      "en": "everyone is living in their own hell and",
+      "zh": ""
+    },
+    {
+      "start": 693.84,
+      "duration": 2.27,
+      "text": "everyone is living in their own hell and is too busy to notice what you have",
+      "en": "everyone is living in their own hell and is too busy to notice what you have",
+      "zh": ""
+    },
+    {
+      "start": 696.11,
+      "duration": 0.3,
+      "text": "is too busy to notice what you have",
+      "en": "is too busy to notice what you have",
+      "zh": ""
+    },
+    {
+      "start": 696.12,
+      "duration": 1.95,
+      "text": "is too busy to notice what you have going on in your own life.",
+      "en": "is too busy to notice what you have going on in your own life.",
+      "zh": ""
+    },
+    {
+      "start": 698.07,
+      "duration": 0.3,
+      "text": "going on in your own life.",
+      "en": "going on in your own life.",
+      "zh": ""
+    },
+    {
+      "start": 698.08,
+      "duration": 2.07,
+      "text": "going on in your own life. Uh And so this song is about that",
+      "en": "going on in your own life. Uh And so this song is about that",
+      "zh": ""
+    },
+    {
+      "start": 700.15,
+      "duration": 0.3,
+      "text": "Uh And so this song is about that",
+      "en": "Uh And so this song is about that",
+      "zh": ""
+    },
+    {
+      "start": 700.16,
+      "duration": 1.95,
+      "text": "Uh And so this song is about that miscommunication. It's a song about",
+      "en": "Uh And so this song is about that miscommunication. It's a song about",
+      "zh": ""
+    },
+    {
+      "start": 702.11,
+      "duration": 0.3,
+      "text": "miscommunication. It's a song about",
+      "en": "miscommunication. It's a song about",
+      "zh": ""
+    },
+    {
+      "start": 702.12,
+      "duration": 1.79,
+      "text": "miscommunication. It's a song about needing to ask for help. It's about song",
+      "en": "miscommunication. It's a song about needing to ask for help. It's about song",
+      "zh": ""
+    },
+    {
+      "start": 703.91,
+      "duration": 0.3,
+      "text": "needing to ask for help. It's about song",
+      "en": "needing to ask for help. It's about song",
+      "zh": ""
+    },
+    {
+      "start": 703.92,
+      "duration": 1.39,
+      "text": "needing to ask for help. It's about song about needing to ask someone else if",
+      "en": "needing to ask for help. It's about song about needing to ask someone else if",
+      "zh": ""
+    },
+    {
+      "start": 705.31,
+      "duration": 0.3,
+      "text": "about needing to ask someone else if",
+      "en": "about needing to ask someone else if",
+      "zh": ""
+    },
+    {
+      "start": 705.32,
+      "duration": 1.87,
+      "text": "about needing to ask someone else if they need help. Uh it's a song about",
+      "en": "about needing to ask someone else if they need help. Uh it's a song about",
+      "zh": ""
+    },
+    {
+      "start": 707.19,
+      "duration": 0.3,
+      "text": "they need help. Uh it's a song about",
+      "en": "they need help. Uh it's a song about",
+      "zh": ""
+    },
+    {
+      "start": 707.2,
+      "duration": 1.31,
+      "text": "they need help. Uh it's a song about drowning. This song is called I Thought",
+      "en": "they need help. Uh it's a song about drowning. This song is called I Thought",
+      "zh": ""
+    },
+    {
+      "start": 708.51,
+      "duration": 0.3,
+      "text": "drowning. This song is called I Thought",
+      "en": "drowning. This song is called I Thought",
+      "zh": ""
+    },
+    {
+      "start": 708.52,
+      "duration": 12.67,
+      "text": "drowning. This song is called I Thought You Were Waving.",
+      "en": "drowning. This song is called I Thought You Were Waving.",
+      "zh": ""
+    },
+    {
+      "start": 737.99,
+      "duration": 0.3,
+      "text": "I was taking on water, trying to get",
+      "en": "I was taking on water, trying to get",
+      "zh": ""
+    },
+    {
+      "start": 738.0,
+      "duration": 1.95,
+      "text": "I was taking on water, trying to get back to land.",
+      "en": "I was taking on water, trying to get back to land.",
+      "zh": ""
+    },
+    {
+      "start": 739.95,
+      "duration": 0.3,
+      "text": "back to land.",
+      "en": "back to land.",
+      "zh": ""
+    },
+    {
+      "start": 739.96,
+      "duration": 1.59,
+      "text": "back to land. I froze.",
+      "en": "back to land. I froze.",
+      "zh": ""
+    },
+    {
+      "start": 741.55,
+      "duration": 0.3,
+      "text": "I froze.",
+      "en": "I froze.",
+      "zh": ""
+    },
+    {
+      "start": 744.09,
+      "duration": 1.86,
+      "text": "I froze. >> [singing]",
+      "en": "I froze. >> [singing]",
+      "zh": ""
+    },
+    {
+      "start": 745.95,
+      "duration": 0.3,
+      "text": ">> [singing]",
+      "en": ">> [singing]",
+      "zh": ""
+    },
+    {
+      "start": 745.96,
+      "duration": 2.07,
+      "text": ">> [singing] >> Too busy trying to keep myself out of",
+      "en": ">> [singing] >> Too busy trying to keep myself out of",
+      "zh": ""
+    },
+    {
+      "start": 748.03,
+      "duration": 0.3,
+      "text": ">> Too busy trying to keep myself out of",
+      "en": ">> Too busy trying to keep myself out of",
+      "zh": ""
+    },
+    {
+      "start": 748.04,
+      "duration": 2.47,
+      "text": ">> Too busy trying to keep myself out of trouble. I just didn't",
+      "en": ">> Too busy trying to keep myself out of trouble. I just didn't",
+      "zh": ""
+    },
+    {
+      "start": 750.51,
+      "duration": 0.3,
+      "text": "trouble. I just didn't",
+      "en": "trouble. I just didn't",
+      "zh": ""
+    },
+    {
+      "start": 750.52,
+      "duration": 1.67,
+      "text": "trouble. I just didn't understand.",
+      "en": "trouble. I just didn't understand.",
+      "zh": ""
+    },
+    {
+      "start": 752.19,
+      "duration": 0.3,
+      "text": "understand.",
+      "en": "understand.",
+      "zh": ""
+    },
+    {
+      "start": 752.2,
+      "duration": 1.67,
+      "text": "understand. I froze.",
+      "en": "understand. I froze.",
+      "zh": ""
+    },
+    {
+      "start": 753.87,
+      "duration": 0.3,
+      "text": "I froze.",
+      "en": "I froze.",
+      "zh": ""
+    },
+    {
+      "start": 759.14,
+      "duration": 0.3,
+      "text": "I thought you were waving.",
+      "en": "I thought you were waving.",
+      "zh": ""
+    },
+    {
+      "start": 759.15,
+      "duration": 1.92,
+      "text": "I thought you were waving. >> [music]",
+      "en": "I thought you were waving. >> [music]",
+      "zh": ""
+    },
+    {
+      "start": 761.07,
+      "duration": 0.3,
+      "text": ">> [music]",
+      "en": ">> [music]",
+      "zh": ""
+    },
+    {
+      "start": 761.08,
+      "duration": 1.59,
+      "text": ">> [music] >> Turns out you",
+      "en": ">> [music] >> Turns out you",
+      "zh": ""
+    },
+    {
+      "start": 762.67,
+      "duration": 0.3,
+      "text": ">> Turns out you",
+      "en": ">> Turns out you",
+      "zh": ""
+    },
+    {
+      "start": 762.68,
+      "duration": 1.95,
+      "text": ">> Turns out you were drowning.",
+      "en": ">> Turns out you were drowning.",
+      "zh": ""
+    },
+    {
+      "start": 764.63,
+      "duration": 0.3,
+      "text": "were drowning.",
+      "en": "were drowning.",
+      "zh": ""
+    },
+    {
+      "start": 764.64,
+      "duration": 0.83,
+      "text": "were drowning. Really",
+      "en": "were drowning. Really",
+      "zh": ""
+    },
+    {
+      "start": 765.47,
+      "duration": 0.3,
+      "text": "Really",
+      "en": "Really",
+      "zh": ""
+    },
+    {
+      "start": 765.48,
+      "duration": 1.15,
+      "text": "Really wish I could",
+      "en": "Really wish I could",
+      "zh": ""
+    },
+    {
+      "start": 766.63,
+      "duration": 0.3,
+      "text": "wish I could",
+      "en": "wish I could",
+      "zh": ""
+    },
+    {
+      "start": 766.64,
+      "duration": 1.02,
+      "text": "wish I could read your",
+      "en": "wish I could read your",
+      "zh": ""
+    },
+    {
+      "start": 767.66,
+      "duration": 0.3,
+      "text": "read your",
+      "en": "read your",
+      "zh": ""
+    },
+    {
+      "start": 767.67,
+      "duration": 0.3,
+      "text": "read your >> [music]",
+      "en": "read your >> [music]",
+      "zh": ""
+    },
+    {
+      "start": 767.87,
+      "duration": 0.3,
+      "text": ">> [music]",
+      "en": ">> [music]",
+      "zh": ""
+    },
+    {
+      "start": 767.88,
+      "duration": 2.83,
+      "text": ">> [music] >> mind.",
+      "en": ">> [music] >> mind.",
+      "zh": ""
+    },
+    {
+      "start": 773.43,
+      "duration": 0.3,
+      "text": "Thought you were waving.",
+      "en": "Thought you were waving.",
+      "zh": ""
+    },
+    {
+      "start": 773.44,
+      "duration": 1.63,
+      "text": "Thought you were waving. Turns out you",
+      "en": "Thought you were waving. Turns out you",
+      "zh": ""
+    },
+    {
+      "start": 775.07,
+      "duration": 0.3,
+      "text": "Turns out you",
+      "en": "Turns out you",
+      "zh": ""
+    },
+    {
+      "start": 775.08,
+      "duration": 1.95,
+      "text": "Turns out you were drowning.",
+      "en": "Turns out you were drowning.",
+      "zh": ""
+    },
+    {
+      "start": 777.03,
+      "duration": 0.3,
+      "text": "were drowning.",
+      "en": "were drowning.",
+      "zh": ""
+    },
+    {
+      "start": 777.04,
+      "duration": 0.44,
+      "text": "were drowning. Pull me",
+      "en": "were drowning. Pull me",
+      "zh": ""
+    },
+    {
+      "start": 777.48,
+      "duration": 0.3,
+      "text": "Pull me",
+      "en": "Pull me",
+      "zh": ""
+    },
+    {
+      "start": 777.49,
+      "duration": 0.34,
+      "text": "Pull me >> [singing and music]",
+      "en": "Pull me >> [singing and music]",
+      "zh": ""
+    },
+    {
+      "start": 777.83,
+      "duration": 0.3,
+      "text": ">> [singing and music]",
+      "en": ">> [singing and music]",
+      "zh": ""
+    },
+    {
+      "start": 777.84,
+      "duration": 1.91,
+      "text": ">> [singing and music] >> down to save me",
+      "en": ">> [singing and music] >> down to save me",
+      "zh": ""
+    },
+    {
+      "start": 779.75,
+      "duration": 0.3,
+      "text": ">> down to save me",
+      "en": ">> down to save me",
+      "zh": ""
+    },
+    {
+      "start": 779.76,
+      "duration": 0.79,
+      "text": ">> down to save me next",
+      "en": ">> down to save me next",
+      "zh": ""
+    },
+    {
+      "start": 780.55,
+      "duration": 0.3,
+      "text": "next",
+      "en": "next",
+      "zh": ""
+    },
+    {
+      "start": 780.56,
+      "duration": 6.23,
+      "text": "next time.",
+      "en": "next time.",
+      "zh": ""
+    },
+    {
+      "start": 789.63,
+      "duration": 0.3,
+      "text": "Well, [screaming] now I saw you through",
+      "en": "Well, [screaming] now I saw you through",
+      "zh": ""
+    },
+    {
+      "start": 789.64,
+      "duration": 2.63,
+      "text": "Well, [screaming] now I saw you through the window of another burning house. I",
+      "en": "Well, [screaming] now I saw you through the window of another burning house. I",
+      "zh": ""
+    },
+    {
+      "start": 792.27,
+      "duration": 0.3,
+      "text": "the window of another burning house. I",
+      "en": "the window of another burning house. I",
+      "zh": ""
+    },
+    {
+      "start": 792.28,
+      "duration": 1.31,
+      "text": "the window of another burning house. I just thought you meant that, so I",
+      "en": "the window of another burning house. I just thought you meant that, so I",
+      "zh": ""
+    },
+    {
+      "start": 793.59,
+      "duration": 0.3,
+      "text": "just thought you meant that, so I",
+      "en": "just thought you meant that, so I",
+      "zh": ""
+    },
+    {
+      "start": 793.6,
+      "duration": 1.57,
+      "text": "just thought you meant that, so I wouldn't shut my mouth.",
+      "en": "just thought you meant that, so I wouldn't shut my mouth.",
+      "zh": ""
+    },
+    {
+      "start": 795.17,
+      "duration": 0.3,
+      "text": "wouldn't shut my mouth.",
+      "en": "wouldn't shut my mouth.",
+      "zh": ""
+    },
+    {
+      "start": 795.18,
+      "duration": 0.3,
+      "text": "wouldn't shut my mouth. >> [singing]",
+      "en": "wouldn't shut my mouth. >> [singing]",
+      "zh": ""
+    },
+    {
+      "start": 795.27,
+      "duration": 0.3,
+      "text": ">> [singing]",
+      "en": ">> [singing]",
+      "zh": ""
+    },
+    {
+      "start": 795.28,
+      "duration": 0.54,
+      "text": ">> [singing] >> I froze.",
+      "en": ">> [singing] >> I froze.",
+      "zh": ""
+    },
+    {
+      "start": 795.82,
+      "duration": 0.3,
+      "text": ">> I froze.",
+      "en": ">> I froze.",
+      "zh": ""
+    },
+    {
+      "start": 795.83,
+      "duration": 0.96,
+      "text": ">> I froze. >> [music]",
+      "en": ">> I froze. >> [music]",
+      "zh": ""
+    },
+    {
+      "start": 796.79,
+      "duration": 0.3,
+      "text": ">> [music]",
+      "en": ">> [music]",
+      "zh": ""
+    },
+    {
+      "start": 796.8,
+      "duration": 1.59,
+      "text": ">> [music] >> I froze.",
+      "en": ">> [music] >> I froze.",
+      "zh": ""
+    },
+    {
+      "start": 798.39,
+      "duration": 0.3,
+      "text": ">> I froze.",
+      "en": ">> I froze.",
+      "zh": ""
+    },
+    {
+      "start": 798.4,
+      "duration": 2.87,
+      "text": ">> I froze. I froze.",
+      "en": ">> I froze. I froze.",
+      "zh": ""
+    },
+    {
+      "start": 803.11,
+      "duration": 0.3,
+      "text": "Hanging off a cliff, saw you reach for",
+      "en": "Hanging off a cliff, saw you reach for",
+      "zh": ""
+    },
+    {
+      "start": 803.12,
+      "duration": 1.19,
+      "text": "Hanging off a cliff, saw you reach for my hand.",
+      "en": "Hanging off a cliff, saw you reach for my hand.",
+      "zh": ""
+    },
+    {
+      "start": 804.31,
+      "duration": 0.3,
+      "text": "my hand.",
+      "en": "my hand.",
+      "zh": ""
+    },
+    {
+      "start": 804.32,
+      "duration": 1.95,
+      "text": "my hand. You keep giving me signals that I don't",
+      "en": "my hand. You keep giving me signals that I don't",
+      "zh": ""
+    },
+    {
+      "start": 806.27,
+      "duration": 0.3,
+      "text": "You keep giving me signals that I don't",
+      "en": "You keep giving me signals that I don't",
+      "zh": ""
+    },
+    {
+      "start": 806.28,
+      "duration": 2.75,
+      "text": "You keep giving me signals that I don't understand. I froze.",
+      "en": "You keep giving me signals that I don't understand. I froze.",
+      "zh": ""
+    },
+    {
+      "start": 809.03,
+      "duration": 0.3,
+      "text": "understand. I froze.",
+      "en": "understand. I froze.",
+      "zh": ""
+    },
+    {
+      "start": 809.04,
+      "duration": 1.71,
+      "text": "understand. I froze. I froze.",
+      "en": "understand. I froze. I froze.",
+      "zh": ""
+    },
+    {
+      "start": 810.75,
+      "duration": 0.3,
+      "text": "I froze.",
+      "en": "I froze.",
+      "zh": ""
+    },
+    {
+      "start": 813.59,
+      "duration": 0.3,
+      "text": ">> [music]",
+      "en": ">> [music]",
+      "zh": ""
+    },
+    {
+      "start": 813.6,
+      "duration": 1.63,
+      "text": ">> [music] >> Thought you were",
+      "en": ">> [music] >> Thought you were",
+      "zh": ""
+    },
+    {
+      "start": 815.23,
+      "duration": 0.3,
+      "text": ">> Thought you were",
+      "en": ">> Thought you were",
+      "zh": ""
+    },
+    {
+      "start": 815.24,
+      "duration": 1.15,
+      "text": ">> Thought you were waving.",
+      "en": ">> Thought you were waving.",
+      "zh": ""
+    },
+    {
+      "start": 816.39,
+      "duration": 0.3,
+      "text": "waving.",
+      "en": "waving.",
+      "zh": ""
+    },
+    {
+      "start": 816.4,
+      "duration": 1.59,
+      "text": "waving. Turns out you",
+      "en": "waving. Turns out you",
+      "zh": ""
+    },
+    {
+      "start": 817.99,
+      "duration": 0.3,
+      "text": "Turns out you",
+      "en": "Turns out you",
+      "zh": ""
+    },
+    {
+      "start": 818.0,
+      "duration": 2.71,
+      "text": "Turns out you were drowning.",
+      "en": "Turns out you were drowning.",
+      "zh": ""
+    },
+    {
+      "start": 820.87,
+      "duration": 0.3,
+      "text": ">> [music]",
+      "en": ">> [music]",
+      "zh": ""
+    },
+    {
+      "start": 820.88,
+      "duration": 1.87,
+      "text": ">> [music] >> Really wish I could",
+      "en": ">> [music] >> Really wish I could",
+      "zh": ""
+    },
+    {
+      "start": 822.75,
+      "duration": 0.3,
+      "text": ">> Really wish I could",
+      "en": ">> Really wish I could",
+      "zh": ""
+    },
+    {
+      "start": 822.76,
+      "duration": 0.79,
+      "text": ">> Really wish I could read your",
+      "en": ">> Really wish I could read your",
+      "zh": ""
+    },
+    {
+      "start": 823.55,
+      "duration": 0.3,
+      "text": "read your",
+      "en": "read your",
+      "zh": ""
+    },
+    {
+      "start": 823.56,
+      "duration": 2.59,
+      "text": "read your mind.",
+      "en": "read your mind.",
+      "zh": ""
+    },
+    {
+      "start": 827.79,
+      "duration": 0.3,
+      "text": "Thought you were",
+      "en": "Thought you were",
+      "zh": ""
+    },
+    {
+      "start": 827.8,
+      "duration": 1.11,
+      "text": "Thought you were waving.",
+      "en": "Thought you were waving.",
+      "zh": ""
+    },
+    {
+      "start": 828.91,
+      "duration": 0.3,
+      "text": "waving.",
+      "en": "waving.",
+      "zh": ""
+    },
+    {
+      "start": 828.92,
+      "duration": 1.67,
+      "text": "waving. Turns out you",
+      "en": "waving. Turns out you",
+      "zh": ""
+    },
+    {
+      "start": 830.59,
+      "duration": 0.3,
+      "text": "Turns out you",
+      "en": "Turns out you",
+      "zh": ""
+    },
+    {
+      "start": 830.6,
+      "duration": 1.91,
+      "text": "Turns out you were drowning.",
+      "en": "Turns out you were drowning.",
+      "zh": ""
+    },
+    {
+      "start": 832.51,
+      "duration": 0.3,
+      "text": "were drowning.",
+      "en": "were drowning.",
+      "zh": ""
+    },
+    {
+      "start": 832.52,
+      "duration": 0.64,
+      "text": "were drowning. Pull me",
+      "en": "were drowning. Pull me",
+      "zh": ""
+    },
+    {
+      "start": 833.16,
+      "duration": 0.3,
+      "text": "Pull me",
+      "en": "Pull me",
+      "zh": ""
+    },
+    {
+      "start": 833.17,
+      "duration": 0.3,
+      "text": "Pull me >> [music]",
+      "en": "Pull me >> [music]",
+      "zh": ""
+    },
+    {
+      "start": 833.35,
+      "duration": 0.3,
+      "text": ">> [music]",
+      "en": ">> [music]",
+      "zh": ""
+    },
+    {
+      "start": 833.36,
+      "duration": 2.63,
+      "text": ">> [music] >> down to save me",
+      "en": ">> [music] >> down to save me",
+      "zh": ""
+    },
+    {
+      "start": 835.99,
+      "duration": 0.3,
+      "text": ">> down to save me",
+      "en": ">> down to save me",
+      "zh": ""
+    },
+    {
+      "start": 836.0,
+      "duration": 6.39,
+      "text": ">> down to save me next time.",
+      "en": ">> down to save me next time.",
+      "zh": ""
+    },
+    {
+      "start": 844.59,
+      "duration": 0.3,
+      "text": "Well, now",
+      "en": "Well, now",
+      "zh": ""
+    },
+    {
+      "start": 844.6,
+      "duration": 1.79,
+      "text": "Well, now I Thought [music] you were",
+      "en": "Well, now I Thought [music] you were",
+      "zh": ""
+    },
+    {
+      "start": 846.39,
+      "duration": 0.3,
+      "text": "I Thought [music] you were",
+      "en": "I Thought [music] you were",
+      "zh": ""
+    },
+    {
+      "start": 846.4,
+      "duration": 1.55,
+      "text": "I Thought [music] you were waving.",
+      "en": "I Thought [music] you were waving.",
+      "zh": ""
+    },
+    {
+      "start": 847.95,
+      "duration": 0.3,
+      "text": "waving.",
+      "en": "waving.",
+      "zh": ""
+    },
+    {
+      "start": 847.96,
+      "duration": 1.57,
+      "text": "waving. Turns out you were",
+      "en": "waving. Turns out you were",
+      "zh": ""
+    },
+    {
+      "start": 849.53,
+      "duration": 0.3,
+      "text": "Turns out you were",
+      "en": "Turns out you were",
+      "zh": ""
+    },
+    {
+      "start": 849.54,
+      "duration": 0.3,
+      "text": "Turns out you were >> [music]",
+      "en": "Turns out you were >> [music]",
+      "zh": ""
+    },
+    {
+      "start": 849.71,
+      "duration": 0.3,
+      "text": ">> [music]",
+      "en": ">> [music]",
+      "zh": ""
+    },
+    {
+      "start": 849.72,
+      "duration": 0.47,
+      "text": ">> [music] >> drowning.",
+      "en": ">> [music] >> drowning.",
+      "zh": ""
+    },
+    {
+      "start": 850.19,
+      "duration": 0.3,
+      "text": ">> drowning.",
+      "en": ">> drowning.",
+      "zh": ""
+    },
+    {
+      "start": 850.2,
+      "duration": 1.91,
+      "text": ">> drowning. >> [singing]",
+      "en": ">> drowning. >> [singing]",
+      "zh": ""
+    },
+    {
+      "start": 852.11,
+      "duration": 0.3,
+      "text": ">> [singing]",
+      "en": ">> [singing]",
+      "zh": ""
+    },
+    {
+      "start": 852.12,
+      "duration": 2.63,
+      "text": ">> [singing] >> Really wish I could read your",
+      "en": ">> [singing] >> Really wish I could read your",
+      "zh": ""
+    },
+    {
+      "start": 854.75,
+      "duration": 0.3,
+      "text": ">> Really wish I could read your",
+      "en": ">> Really wish I could read your",
+      "zh": ""
+    },
+    {
+      "start": 854.76,
+      "duration": 2.67,
+      "text": ">> Really wish I could read your mind.",
+      "en": ">> Really wish I could read your mind.",
+      "zh": ""
+    },
+    {
+      "start": 858.05,
+      "duration": 0.3,
+      "text": "Thought you were",
+      "en": "Thought you were",
+      "zh": ""
+    },
+    {
+      "start": 858.06,
+      "duration": 1.09,
+      "text": "Thought you were >> [music]",
+      "en": "Thought you were >> [music]",
+      "zh": ""
+    },
+    {
+      "start": 859.15,
+      "duration": 0.3,
+      "text": ">> [music]",
+      "en": ">> [music]",
+      "zh": ""
+    },
+    {
+      "start": 859.16,
+      "duration": 1.23,
+      "text": ">> [music] >> waving.",
+      "en": ">> [music] >> waving.",
+      "zh": ""
+    },
+    {
+      "start": 860.39,
+      "duration": 0.3,
+      "text": ">> waving.",
+      "en": ">> waving.",
+      "zh": ""
+    },
+    {
+      "start": 860.4,
+      "duration": 2.07,
+      "text": ">> waving. Turns out you were",
+      "en": ">> waving. Turns out you were",
+      "zh": ""
+    },
+    {
+      "start": 862.47,
+      "duration": 0.3,
+      "text": "Turns out you were",
+      "en": "Turns out you were",
+      "zh": ""
+    },
+    {
+      "start": 862.48,
+      "duration": 1.39,
+      "text": "Turns out you were drowning.",
+      "en": "Turns out you were drowning.",
+      "zh": ""
+    },
+    {
+      "start": 863.87,
+      "duration": 0.3,
+      "text": "drowning.",
+      "en": "drowning.",
+      "zh": ""
+    },
+    {
+      "start": 863.88,
+      "duration": 0.72,
+      "text": "drowning. Pull me",
+      "en": "drowning. Pull me",
+      "zh": ""
+    },
+    {
+      "start": 864.6,
+      "duration": 0.3,
+      "text": "Pull me",
+      "en": "Pull me",
+      "zh": ""
+    },
+    {
+      "start": 864.61,
+      "duration": 0.3,
+      "text": "Pull me >> [music]",
+      "en": "Pull me >> [music]",
+      "zh": ""
+    },
+    {
+      "start": 864.71,
+      "duration": 0.3,
+      "text": ">> [music]",
+      "en": ">> [music]",
+      "zh": ""
+    },
+    {
+      "start": 864.72,
+      "duration": 0.91,
+      "text": ">> [music] >> down to",
+      "en": ">> [music] >> down to",
+      "zh": ""
+    },
+    {
+      "start": 865.63,
+      "duration": 0.3,
+      "text": ">> down to",
+      "en": ">> down to",
+      "zh": ""
+    },
+    {
+      "start": 865.64,
+      "duration": 1.79,
+      "text": ">> down to save me",
+      "en": ">> down to save me",
+      "zh": ""
+    },
+    {
+      "start": 867.43,
+      "duration": 0.3,
+      "text": "save me",
+      "en": "save me",
+      "zh": ""
+    },
+    {
+      "start": 867.44,
+      "duration": 2.67,
+      "text": "save me next time.",
+      "en": "save me next time.",
+      "zh": ""
+    },
+    {
+      "start": 871.55,
+      "duration": 0.3,
+      "text": "If you've",
+      "en": "If you've",
+      "zh": ""
+    },
+    {
+      "start": 871.56,
+      "duration": 1.39,
+      "text": "If you've been waiting",
+      "en": "If you've been waiting",
+      "zh": ""
+    },
+    {
+      "start": 872.95,
+      "duration": 0.3,
+      "text": "been waiting",
+      "en": "been waiting",
+      "zh": ""
+    },
+    {
+      "start": 872.96,
+      "duration": 1.51,
+      "text": "been waiting and waiting",
+      "en": "been waiting and waiting",
+      "zh": ""
+    },
+    {
+      "start": 874.47,
+      "duration": 0.3,
+      "text": "and waiting",
+      "en": "and waiting",
+      "zh": ""
+    },
+    {
+      "start": 874.48,
+      "duration": 1.99,
+      "text": "and waiting and waiting,",
+      "en": "and waiting and waiting,",
+      "zh": ""
+    },
+    {
+      "start": 876.47,
+      "duration": 0.3,
+      "text": "and waiting,",
+      "en": "and waiting,",
+      "zh": ""
+    },
+    {
+      "start": 876.48,
+      "duration": 3.84,
+      "text": "and waiting, pull me down to save me next time.",
+      "en": "and waiting, pull me down to save me next time.",
+      "zh": ""
+    },
+    {
+      "start": 880.32,
+      "duration": 0.3,
+      "text": "pull me down to save me next time.",
+      "en": "pull me down to save me next time.",
+      "zh": ""
+    },
+    {
+      "start": 880.33,
+      "duration": 7.85,
+      "text": "pull me down to save me next time. [singing and music]",
+      "en": "pull me down to save me next time. [singing and music]",
+      "zh": ""
+    },
+    {
+      "start": 905.63,
+      "duration": 0.3,
+      "text": "Plans are all",
+      "en": "Plans are all",
+      "zh": ""
+    },
+    {
+      "start": 905.64,
+      "duration": 1.07,
+      "text": "Plans are all and nothing",
+      "en": "Plans are all and nothing",
+      "zh": ""
+    },
+    {
+      "start": 906.71,
+      "duration": 0.3,
+      "text": "and nothing",
+      "en": "and nothing",
+      "zh": ""
+    },
+    {
+      "start": 906.72,
+      "duration": 2.15,
+      "text": "and nothing to attend.",
+      "en": "and nothing to attend.",
+      "zh": ""
+    },
+    {
+      "start": 908.87,
+      "duration": 0.3,
+      "text": "to attend.",
+      "en": "to attend.",
+      "zh": ""
+    },
+    {
+      "start": 908.88,
+      "duration": 1.83,
+      "text": "to attend. And [music] nothing to",
+      "en": "to attend. And [music] nothing to",
+      "zh": ""
+    },
+    {
+      "start": 910.71,
+      "duration": 0.3,
+      "text": "And [music] nothing to",
+      "en": "And [music] nothing to",
+      "zh": ""
+    },
+    {
+      "start": 910.72,
+      "duration": 1.55,
+      "text": "And [music] nothing to but wait.",
+      "en": "And [music] nothing to but wait.",
+      "zh": ""
+    },
+    {
+      "start": 912.27,
+      "duration": 0.3,
+      "text": "but wait.",
+      "en": "but wait.",
+      "zh": ""
+    },
+    {
+      "start": 912.28,
+      "duration": 1.45,
+      "text": "but wait. For myself to sit",
+      "en": "but wait. For myself to sit",
+      "zh": ""
+    },
+    {
+      "start": 913.73,
+      "duration": 0.3,
+      "text": "For myself to sit",
+      "en": "For myself to sit",
+      "zh": ""
+    },
+    {
+      "start": 913.74,
+      "duration": 0.53,
+      "text": "For myself to sit >> [music]",
+      "en": "For myself to sit >> [music]",
+      "zh": ""
+    },
+    {
+      "start": 914.27,
+      "duration": 0.3,
+      "text": ">> [music]",
+      "en": ">> [music]",
+      "zh": ""
+    },
+    {
+      "start": 914.28,
+      "duration": 1.43,
+      "text": ">> [music] >> and wait.",
+      "en": ">> [music] >> and wait.",
+      "zh": ""
+    },
+    {
+      "start": 915.71,
+      "duration": 0.3,
+      "text": ">> and wait.",
+      "en": ">> and wait.",
+      "zh": ""
+    },
+    {
+      "start": 915.72,
+      "duration": 3.79,
+      "text": ">> and wait. Push me out. Push me out. Push me",
+      "en": ">> and wait. Push me out. Push me out. Push me",
+      "zh": ""
+    },
+    {
+      "start": 921.35,
+      "duration": 0.3,
+      "text": "Waste [music] my time.",
+      "en": "Waste [music] my time.",
+      "zh": ""
+    },
+    {
+      "start": 921.36,
+      "duration": 1.83,
+      "text": "Waste [music] my time. Waste my life.",
+      "en": "Waste [music] my time. Waste my life.",
+      "zh": ""
+    },
+    {
+      "start": 923.19,
+      "duration": 0.3,
+      "text": "Waste my life.",
+      "en": "Waste my life.",
+      "zh": ""
+    },
+    {
+      "start": 923.2,
+      "duration": 3.47,
+      "text": "Waste my life. as I sit and wait for",
+      "en": "Waste my life. as I sit and wait for",
+      "zh": ""
+    },
+    {
+      "start": 928.19,
+      "duration": 0.3,
+      "text": "you. I [music] don't see",
+      "en": "you. I [music] don't see",
+      "zh": ""
+    },
+    {
+      "start": 928.2,
+      "duration": 2.03,
+      "text": "you. I [music] don't see what's up to me.",
+      "en": "you. I [music] don't see what's up to me.",
+      "zh": ""
+    },
+    {
+      "start": 930.23,
+      "duration": 0.3,
+      "text": "what's up to me.",
+      "en": "what's up to me.",
+      "zh": ""
+    },
+    {
+      "start": 930.24,
+      "duration": 2.39,
+      "text": "what's up to me. Why I got to be",
+      "en": "what's up to me. Why I got to be",
+      "zh": ""
+    },
+    {
+      "start": 938.62,
+      "duration": 0.3,
+      "text": "Don't get yourself twisted",
+      "en": "Don't get yourself twisted",
+      "zh": ""
+    },
+    {
+      "start": 938.62,
+      "duration": 1.41,
+      "text": "Don't get yourself twisted >> [music]",
+      "en": "Don't get yourself twisted >> [music]",
+      "zh": ""
+    },
+    {
+      "start": 940.03,
+      "duration": 0.3,
+      "text": ">> [music]",
+      "en": ">> [music]",
+      "zh": ""
+    },
+    {
+      "start": 940.04,
+      "duration": 1.71,
+      "text": ">> [music] >> trying to get up, get",
+      "en": ">> [music] >> trying to get up, get",
+      "zh": ""
+    },
+    {
+      "start": 941.75,
+      "duration": 0.3,
+      "text": ">> trying to get up, get",
+      "en": ">> trying to get up, get",
+      "zh": ""
+    },
+    {
+      "start": 941.76,
+      "duration": 1.75,
+      "text": ">> trying to get up, get out of",
+      "en": ">> trying to get up, get out of",
+      "zh": ""
+    },
+    {
+      "start": 943.51,
+      "duration": 0.3,
+      "text": "out of",
+      "en": "out of",
+      "zh": ""
+    },
+    {
+      "start": 943.52,
+      "duration": 1.03,
+      "text": "out of bed. Still here",
+      "en": "out of bed. Still here",
+      "zh": ""
+    },
+    {
+      "start": 944.55,
+      "duration": 0.3,
+      "text": "bed. Still here",
+      "en": "bed. Still here",
+      "zh": ""
+    },
+    {
+      "start": 944.56,
+      "duration": 0.91,
+      "text": "bed. Still here waiting",
+      "en": "bed. Still here waiting",
+      "zh": ""
+    },
+    {
+      "start": 945.47,
+      "duration": 0.3,
+      "text": "waiting",
+      "en": "waiting",
+      "zh": ""
+    },
+    {
+      "start": 945.48,
+      "duration": 5.31,
+      "text": "waiting for you.",
+      "en": "waiting for you.",
+      "zh": ""
+    },
+    {
+      "start": 951.72,
+      "duration": 0.3,
+      "text": "I waste my",
+      "en": "I waste my",
+      "zh": ""
+    },
+    {
+      "start": 951.73,
+      "duration": 0.86,
+      "text": "I waste my >> [music]",
+      "en": "I waste my >> [music]",
+      "zh": ""
+    },
+    {
+      "start": 952.59,
+      "duration": 0.3,
+      "text": ">> [music]",
+      "en": ">> [music]",
+      "zh": ""
+    },
+    {
+      "start": 952.6,
+      "duration": 1.75,
+      "text": ">> [music] >> time as I sit and wait for",
+      "en": ">> [music] >> time as I sit and wait for",
+      "zh": ""
+    },
+    {
+      "start": 954.35,
+      "duration": 0.3,
+      "text": ">> time as I sit and wait for",
+      "en": ">> time as I sit and wait for",
+      "zh": ""
+    },
+    {
+      "start": 954.36,
+      "duration": 3.47,
+      "text": ">> time as I sit and wait for you.",
+      "en": ">> time as I sit and wait for you.",
+      "zh": ""
+    },
+    {
+      "start": 959.31,
+      "duration": 0.3,
+      "text": "I don't see",
+      "en": "I don't see",
+      "zh": ""
+    },
+    {
+      "start": 959.32,
+      "duration": 1.95,
+      "text": "I don't see what's up to me.",
+      "en": "I don't see what's up to me.",
+      "zh": ""
+    },
+    {
+      "start": 961.27,
+      "duration": 0.3,
+      "text": "what's up to me.",
+      "en": "what's up to me.",
+      "zh": ""
+    },
+    {
+      "start": 961.28,
+      "duration": 0.92,
+      "text": "what's up to me. Why I got to be",
+      "en": "what's up to me. Why I got to be",
+      "zh": ""
+    },
+    {
+      "start": 962.2,
+      "duration": 0.3,
+      "text": "Why I got to be",
+      "en": "Why I got to be",
+      "zh": ""
+    },
+    {
+      "start": 962.21,
+      "duration": 1.62,
+      "text": "Why I got to be >> [music]",
+      "en": "Why I got to be >> [music]",
+      "zh": ""
+    },
+    {
+      "start": 963.83,
+      "duration": 0.3,
+      "text": ">> [music]",
+      "en": ">> [music]",
+      "zh": ""
+    },
+    {
+      "start": 963.84,
+      "duration": 0.95,
+      "text": ">> [music] >> yours, too?",
+      "en": ">> [music] >> yours, too?",
+      "zh": ""
+    },
+    {
+      "start": 964.79,
+      "duration": 0.3,
+      "text": ">> yours, too?",
+      "en": ">> yours, too?",
+      "zh": ""
+    },
+    {
+      "start": 964.8,
+      "duration": 1.71,
+      "text": ">> yours, too? I don't care",
+      "en": ">> yours, too? I don't care",
+      "zh": ""
+    },
+    {
+      "start": 966.51,
+      "duration": 0.3,
+      "text": "I don't care",
+      "en": "I don't care",
+      "zh": ""
+    },
+    {
+      "start": 966.52,
+      "duration": 1.71,
+      "text": "I don't care what [music] you do.",
+      "en": "I don't care what [music] you do.",
+      "zh": ""
+    },
+    {
+      "start": 968.23,
+      "duration": 0.3,
+      "text": "what [music] you do.",
+      "en": "what [music] you do.",
+      "zh": ""
+    },
+    {
+      "start": 968.24,
+      "duration": 0.87,
+      "text": "what [music] you do. Just",
+      "en": "what [music] you do. Just",
+      "zh": ""
+    },
+    {
+      "start": 969.11,
+      "duration": 0.3,
+      "text": "Just",
+      "en": "Just",
+      "zh": ""
+    },
+    {
+      "start": 969.12,
+      "duration": 2.55,
+      "text": "Just do it faster.",
+      "en": "Just do it faster.",
+      "zh": ""
+    },
+    {
+      "start": 971.67,
+      "duration": 0.3,
+      "text": "do it faster.",
+      "en": "do it faster.",
+      "zh": ""
+    },
+    {
+      "start": 971.68,
+      "duration": 1.91,
+      "text": "do it faster. Spend [music] your time",
+      "en": "do it faster. Spend [music] your time",
+      "zh": ""
+    },
+    {
+      "start": 973.59,
+      "duration": 0.3,
+      "text": "Spend [music] your time",
+      "en": "Spend [music] your time",
+      "zh": ""
+    },
+    {
+      "start": 973.6,
+      "duration": 1.71,
+      "text": "Spend [music] your time getting high.",
+      "en": "Spend [music] your time getting high.",
+      "zh": ""
+    },
+    {
+      "start": 975.31,
+      "duration": 0.3,
+      "text": "getting high.",
+      "en": "getting high.",
+      "zh": ""
+    },
+    {
+      "start": 975.32,
+      "duration": 0.63,
+      "text": "getting high. What's",
+      "en": "getting high. What's",
+      "zh": ""
+    },
+    {
+      "start": 975.95,
+      "duration": 0.3,
+      "text": "What's",
+      "en": "What's",
+      "zh": ""
+    },
+    {
+      "start": 975.96,
+      "duration": 1.03,
+      "text": "What's it for?",
+      "en": "What's it for?",
+      "zh": ""
+    },
+    {
+      "start": 976.99,
+      "duration": 0.3,
+      "text": "it for?",
+      "en": "it for?",
+      "zh": ""
+    },
+    {
+      "start": 977.0,
+      "duration": 17.29,
+      "text": "it for? Take your time.",
+      "en": "it for? Take your time.",
+      "zh": ""
+    },
+    {
+      "start": 1012.63,
+      "duration": 0.3,
+      "text": "[cheering]",
+      "en": "[cheering]",
+      "zh": ""
+    },
+    {
+      "start": 1012.64,
+      "duration": 2.02,
+      "text": "[cheering] [applause]",
+      "en": "[cheering] [applause]",
+      "zh": ""
+    }
+  ],
+  "words": []
+}

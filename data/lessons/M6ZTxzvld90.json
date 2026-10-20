@@ -1,0 +1,719 @@
+{
+  "cues": [
+    {
+      "start": 20.3,
+      "duration": 0.3,
+      "text": "I'm standing [music] on a bridge.",
+      "en": "I'm standing [music] on a bridge.",
+      "zh": ""
+    },
+    {
+      "start": 20.3,
+      "duration": 1.21,
+      "text": "I'm standing [music] on a bridge. [singing]",
+      "en": "I'm standing [music] on a bridge. [singing]",
+      "zh": ""
+    },
+    {
+      "start": 21.51,
+      "duration": 0.3,
+      "text": "[singing]",
+      "en": "[singing]",
+      "zh": ""
+    },
+    {
+      "start": 21.52,
+      "duration": 3.03,
+      "text": "[singing] I'm waiting in the dark. I thought that",
+      "en": "[singing] I'm waiting in the dark. I thought that",
+      "zh": ""
+    },
+    {
+      "start": 24.55,
+      "duration": 0.3,
+      "text": "I'm waiting in the dark. I thought that",
+      "en": "I'm waiting in the dark. I thought that",
+      "zh": ""
+    },
+    {
+      "start": 24.56,
+      "duration": 1.91,
+      "text": "I'm waiting in the dark. I thought that you'd be [music and singing] here by",
+      "en": "I'm waiting in the dark. I thought that you'd be [music and singing] here by",
+      "zh": ""
+    },
+    {
+      "start": 26.47,
+      "duration": 0.3,
+      "text": "you'd be [music and singing] here by",
+      "en": "you'd be [music and singing] here by",
+      "zh": ""
+    },
+    {
+      "start": 26.48,
+      "duration": 2.15,
+      "text": "you'd be [music and singing] here by now.",
+      "en": "you'd be [music and singing] here by now.",
+      "zh": ""
+    },
+    {
+      "start": 28.63,
+      "duration": 0.3,
+      "text": "now.",
+      "en": "now.",
+      "zh": ""
+    },
+    {
+      "start": 28.64,
+      "duration": 2.55,
+      "text": "now. There's nothing but the [music] rain. No",
+      "en": "now. There's nothing but the [music] rain. No",
+      "zh": ""
+    },
+    {
+      "start": 31.19,
+      "duration": 0.3,
+      "text": "There's nothing but the [music] rain. No",
+      "en": "There's nothing but the [music] rain. No",
+      "zh": ""
+    },
+    {
+      "start": 31.2,
+      "duration": 2.95,
+      "text": "There's nothing but the [music] rain. No footsteps on the ground. I'm listening,",
+      "en": "There's nothing but the [music] rain. No footsteps on the ground. I'm listening,",
+      "zh": ""
+    },
+    {
+      "start": 34.15,
+      "duration": 0.3,
+      "text": "footsteps on the ground. I'm listening,",
+      "en": "footsteps on the ground. I'm listening,",
+      "zh": ""
+    },
+    {
+      "start": 34.16,
+      "duration": 1.43,
+      "text": "footsteps on the ground. I'm listening, but there's [music and singing]",
+      "en": "footsteps on the ground. I'm listening, but there's [music and singing]",
+      "zh": ""
+    },
+    {
+      "start": 35.59,
+      "duration": 0.3,
+      "text": "but there's [music and singing]",
+      "en": "but there's [music and singing]",
+      "zh": ""
+    },
+    {
+      "start": 35.6,
+      "duration": 3.19,
+      "text": "but there's [music and singing] no sound.",
+      "en": "but there's [music and singing] no sound.",
+      "zh": ""
+    },
+    {
+      "start": 38.79,
+      "duration": 0.3,
+      "text": "no sound.",
+      "en": "no sound.",
+      "zh": ""
+    },
+    {
+      "start": 38.8,
+      "duration": 1.19,
+      "text": "no sound. Isn't anyone [music]",
+      "en": "no sound. Isn't anyone [music]",
+      "zh": ""
+    },
+    {
+      "start": 39.99,
+      "duration": 0.3,
+      "text": "Isn't anyone [music]",
+      "en": "Isn't anyone [music]",
+      "zh": ""
+    },
+    {
+      "start": 40.0,
+      "duration": 3.35,
+      "text": "Isn't anyone [music] trying to find me?",
+      "en": "Isn't anyone [music] trying to find me?",
+      "zh": ""
+    },
+    {
+      "start": 43.35,
+      "duration": 0.3,
+      "text": "trying to find me?",
+      "en": "trying to find me?",
+      "zh": ""
+    },
+    {
+      "start": 43.36,
+      "duration": 1.83,
+      "text": "trying to find me? Won't somebody [music] come take me",
+      "en": "trying to find me? Won't somebody [music] come take me",
+      "zh": ""
+    },
+    {
+      "start": 45.19,
+      "duration": 0.3,
+      "text": "Won't somebody [music] come take me",
+      "en": "Won't somebody [music] come take me",
+      "zh": ""
+    },
+    {
+      "start": 45.2,
+      "duration": 1.91,
+      "text": "Won't somebody [music] come take me [singing] home?",
+      "en": "Won't somebody [music] come take me [singing] home?",
+      "zh": ""
+    },
+    {
+      "start": 47.11,
+      "duration": 0.3,
+      "text": "[singing] home?",
+      "en": "[singing] home?",
+      "zh": ""
+    },
+    {
+      "start": 47.12,
+      "duration": 4.63,
+      "text": "[singing] home? It's a cold night [music]",
+      "en": "[singing] home? It's a cold night [music]",
+      "zh": ""
+    },
+    {
+      "start": 51.75,
+      "duration": 0.3,
+      "text": "It's a cold night [music]",
+      "en": "It's a cold night [music]",
+      "zh": ""
+    },
+    {
+      "start": 51.76,
+      "duration": 4.71,
+      "text": "It's a cold night [music] trying to figure out this life.",
+      "en": "It's a cold night [music] trying to figure out this life.",
+      "zh": ""
+    },
+    {
+      "start": 56.47,
+      "duration": 0.3,
+      "text": "trying to figure out this life.",
+      "en": "trying to figure out this life.",
+      "zh": ""
+    },
+    {
+      "start": 56.48,
+      "duration": 2.79,
+      "text": "trying to figure out this life. Won't you [music] take me by land? Take",
+      "en": "trying to figure out this life. Won't you [music] take me by land? Take",
+      "zh": ""
+    },
+    {
+      "start": 59.27,
+      "duration": 0.3,
+      "text": "Won't you [music] take me by land? Take",
+      "en": "Won't you [music] take me by land? Take",
+      "zh": ""
+    },
+    {
+      "start": 59.28,
+      "duration": 3.99,
+      "text": "Won't you [music] take me by land? Take me somewhere new. I don't know who you",
+      "en": "Won't you [music] take me by land? Take me somewhere new. I don't know who you",
+      "zh": ""
+    },
+    {
+      "start": 63.27,
+      "duration": 0.3,
+      "text": "me somewhere new. I don't know who you",
+      "en": "me somewhere new. I don't know who you",
+      "zh": ""
+    },
+    {
+      "start": 63.28,
+      "duration": 2.79,
+      "text": "me somewhere new. I don't know who you are, but I",
+      "en": "me somewhere new. I don't know who you are, but I",
+      "zh": ""
+    },
+    {
+      "start": 66.07,
+      "duration": 0.3,
+      "text": "are, but I",
+      "en": "are, but I",
+      "zh": ""
+    },
+    {
+      "start": 66.08,
+      "duration": 4.65,
+      "text": "are, but I I'm [music] with you.",
+      "en": "are, but I I'm [music] with you.",
+      "zh": ""
+    },
+    {
+      "start": 73.75,
+      "duration": 0.3,
+      "text": "[music] I'm with [singing] you.",
+      "en": "[music] I'm with [singing] you.",
+      "zh": ""
+    },
+    {
+      "start": 73.76,
+      "duration": 2.31,
+      "text": "[music] I'm with [singing] you. M",
+      "en": "[music] I'm with [singing] you. M",
+      "zh": ""
+    },
+    {
+      "start": 76.07,
+      "duration": 0.3,
+      "text": "M",
+      "en": "M",
+      "zh": ""
+    },
+    {
+      "start": 76.08,
+      "duration": 2.63,
+      "text": "M I'm looking [music] for a place. I'm",
+      "en": "M I'm looking [music] for a place. I'm",
+      "zh": ""
+    },
+    {
+      "start": 78.71,
+      "duration": 0.3,
+      "text": "I'm looking [music] for a place. I'm",
+      "en": "I'm looking [music] for a place. I'm",
+      "zh": ""
+    },
+    {
+      "start": 78.72,
+      "duration": 3.11,
+      "text": "I'm looking [music] for a place. I'm searching for a face. Is anybody [music]",
+      "en": "I'm looking [music] for a place. I'm searching for a face. Is anybody [music]",
+      "zh": ""
+    },
+    {
+      "start": 81.83,
+      "duration": 0.3,
+      "text": "searching for a face. Is anybody [music]",
+      "en": "searching for a face. Is anybody [music]",
+      "zh": ""
+    },
+    {
+      "start": 81.84,
+      "duration": 1.27,
+      "text": "searching for a face. Is anybody [music] here [singing]",
+      "en": "searching for a face. Is anybody [music] here [singing]",
+      "zh": ""
+    },
+    {
+      "start": 83.11,
+      "duration": 0.3,
+      "text": "here [singing]",
+      "en": "here [singing]",
+      "zh": ""
+    },
+    {
+      "start": 83.12,
+      "duration": 2.31,
+      "text": "here [singing] I know?",
+      "en": "here [singing] I know?",
+      "zh": ""
+    },
+    {
+      "start": 85.43,
+      "duration": 0.3,
+      "text": "I know?",
+      "en": "I know?",
+      "zh": ""
+    },
+    {
+      "start": 85.44,
+      "duration": 2.79,
+      "text": "I know? Cuz nothing's going right and",
+      "en": "I know? Cuz nothing's going right and",
+      "zh": ""
+    },
+    {
+      "start": 88.23,
+      "duration": 0.3,
+      "text": "Cuz nothing's going right and",
+      "en": "Cuz nothing's going right and",
+      "zh": ""
+    },
+    {
+      "start": 88.24,
+      "duration": 1.91,
+      "text": "Cuz nothing's going right and everything's a mess [music]",
+      "en": "Cuz nothing's going right and everything's a mess [music]",
+      "zh": ""
+    },
+    {
+      "start": 90.15,
+      "duration": 0.3,
+      "text": "everything's a mess [music]",
+      "en": "everything's a mess [music]",
+      "zh": ""
+    },
+    {
+      "start": 90.16,
+      "duration": 5.59,
+      "text": "everything's a mess [music] and no one likes to be alone.",
+      "en": "everything's a mess [music] and no one likes to be alone.",
+      "zh": ""
+    },
+    {
+      "start": 97.43,
+      "duration": 0.3,
+      "text": "Isn't anyone [music and singing] trying",
+      "en": "Isn't anyone [music and singing] trying",
+      "zh": ""
+    },
+    {
+      "start": 97.44,
+      "duration": 2.95,
+      "text": "Isn't anyone [music and singing] trying to find me?",
+      "en": "Isn't anyone [music and singing] trying to find me?",
+      "zh": ""
+    },
+    {
+      "start": 100.39,
+      "duration": 0.3,
+      "text": "to find me?",
+      "en": "to find me?",
+      "zh": ""
+    },
+    {
+      "start": 100.4,
+      "duration": 1.99,
+      "text": "to find me? Once a night, come [singing] take me",
+      "en": "to find me? Once a night, come [singing] take me",
+      "zh": ""
+    },
+    {
+      "start": 102.39,
+      "duration": 0.3,
+      "text": "Once a night, come [singing] take me",
+      "en": "Once a night, come [singing] take me",
+      "zh": ""
+    },
+    {
+      "start": 102.4,
+      "duration": 1.67,
+      "text": "Once a night, come [singing] take me home.",
+      "en": "Once a night, come [singing] take me home.",
+      "zh": ""
+    },
+    {
+      "start": 104.07,
+      "duration": 0.3,
+      "text": "home.",
+      "en": "home.",
+      "zh": ""
+    },
+    {
+      "start": 104.08,
+      "duration": 4.63,
+      "text": "home. It's a damn cold night. [music]",
+      "en": "home. It's a damn cold night. [music]",
+      "zh": ""
+    },
+    {
+      "start": 108.71,
+      "duration": 0.3,
+      "text": "It's a damn cold night. [music]",
+      "en": "It's a damn cold night. [music]",
+      "zh": ""
+    },
+    {
+      "start": 108.72,
+      "duration": 4.71,
+      "text": "It's a damn cold night. [music] Trying to figure out this.",
+      "en": "It's a damn cold night. [music] Trying to figure out this.",
+      "zh": ""
+    },
+    {
+      "start": 113.43,
+      "duration": 0.3,
+      "text": "Trying to figure out this.",
+      "en": "Trying to figure out this.",
+      "zh": ""
+    },
+    {
+      "start": 113.44,
+      "duration": 2.79,
+      "text": "Trying to figure out this. Won't you [music] take me by hand? Take",
+      "en": "Trying to figure out this. Won't you [music] take me by hand? Take",
+      "zh": ""
+    },
+    {
+      "start": 116.23,
+      "duration": 0.3,
+      "text": "Won't you [music] take me by hand? Take",
+      "en": "Won't you [music] take me by hand? Take",
+      "zh": ""
+    },
+    {
+      "start": 116.24,
+      "duration": 3.27,
+      "text": "Won't you [music] take me by hand? Take me [singing] somewhere new. I don't know",
+      "en": "Won't you [music] take me by hand? Take me [singing] somewhere new. I don't know",
+      "zh": ""
+    },
+    {
+      "start": 119.51,
+      "duration": 0.3,
+      "text": "me [singing] somewhere new. I don't know",
+      "en": "me [singing] somewhere new. I don't know",
+      "zh": ""
+    },
+    {
+      "start": 119.52,
+      "duration": 3.67,
+      "text": "me [singing] somewhere new. I don't know who you are, but",
+      "en": "me [singing] somewhere new. I don't know who you are, but",
+      "zh": ""
+    },
+    {
+      "start": 123.19,
+      "duration": 0.3,
+      "text": "who you are, but",
+      "en": "who you are, but",
+      "zh": ""
+    },
+    {
+      "start": 123.2,
+      "duration": 4.71,
+      "text": "who you are, but I'm with you.",
+      "en": "who you are, but I'm with you.",
+      "zh": ""
+    },
+    {
+      "start": 133.67,
+      "duration": 0.3,
+      "text": "[music]",
+      "en": "[music]",
+      "zh": ""
+    },
+    {
+      "start": 133.68,
+      "duration": 4.79,
+      "text": "[music] Why is everything so confusing?",
+      "en": "[music] Why is everything so confusing?",
+      "zh": ""
+    },
+    {
+      "start": 138.47,
+      "duration": 0.3,
+      "text": "Why is everything so confusing?",
+      "en": "Why is everything so confusing?",
+      "zh": ""
+    },
+    {
+      "start": 138.48,
+      "duration": 1.27,
+      "text": "Why is everything so confusing? Baby, [music and singing] I'm just out",
+      "en": "Why is everything so confusing? Baby, [music and singing] I'm just out",
+      "zh": ""
+    },
+    {
+      "start": 139.75,
+      "duration": 0.3,
+      "text": "Baby, [music and singing] I'm just out",
+      "en": "Baby, [music and singing] I'm just out",
+      "zh": ""
+    },
+    {
+      "start": 139.76,
+      "duration": 2.71,
+      "text": "Baby, [music and singing] I'm just out of my mind.",
+      "en": "Baby, [music and singing] I'm just out of my mind.",
+      "zh": ""
+    },
+    {
+      "start": 142.47,
+      "duration": 0.3,
+      "text": "of my mind.",
+      "en": "of my mind.",
+      "zh": ""
+    },
+    {
+      "start": 142.48,
+      "duration": 4.89,
+      "text": "of my mind. Yeah. Yeah. Yeah. Yeah.",
+      "en": "of my mind. Yeah. Yeah. Yeah. Yeah.",
+      "zh": ""
+    },
+    {
+      "start": 147.37,
+      "duration": 0.3,
+      "text": "Yeah. Yeah. Yeah. Yeah.",
+      "en": "Yeah. Yeah. Yeah. Yeah.",
+      "zh": ""
+    },
+    {
+      "start": 147.38,
+      "duration": 4.37,
+      "text": "Yeah. Yeah. Yeah. Yeah. [music]",
+      "en": "Yeah. Yeah. Yeah. Yeah. [music]",
+      "zh": ""
+    },
+    {
+      "start": 153.59,
+      "duration": 0.3,
+      "text": "It's a [music]",
+      "en": "It's a [music]",
+      "zh": ""
+    },
+    {
+      "start": 153.6,
+      "duration": 1.11,
+      "text": "It's a [music] cold [singing]",
+      "en": "It's a [music] cold [singing]",
+      "zh": ""
+    },
+    {
+      "start": 154.71,
+      "duration": 0.3,
+      "text": "cold [singing]",
+      "en": "cold [singing]",
+      "zh": ""
+    },
+    {
+      "start": 154.72,
+      "duration": 1.51,
+      "text": "cold [singing] night",
+      "en": "cold [singing] night",
+      "zh": ""
+    },
+    {
+      "start": 156.23,
+      "duration": 0.3,
+      "text": "night",
+      "en": "night",
+      "zh": ""
+    },
+    {
+      "start": 156.24,
+      "duration": 4.87,
+      "text": "night trying to figure [music] out this life.",
+      "en": "night trying to figure [music] out this life.",
+      "zh": ""
+    },
+    {
+      "start": 161.11,
+      "duration": 0.3,
+      "text": "trying to figure [music] out this life.",
+      "en": "trying to figure [music] out this life.",
+      "zh": ""
+    },
+    {
+      "start": 161.12,
+      "duration": 2.39,
+      "text": "trying to figure [music] out this life. Won't you [music] take me where I am?",
+      "en": "trying to figure [music] out this life. Won't you [music] take me where I am?",
+      "zh": ""
+    },
+    {
+      "start": 163.51,
+      "duration": 0.3,
+      "text": "Won't you [music] take me where I am?",
+      "en": "Won't you [music] take me where I am?",
+      "zh": ""
+    },
+    {
+      "start": 163.52,
+      "duration": 3.5,
+      "text": "Won't you [music] take me where I am? Take me somewhere new. I don't know",
+      "en": "Won't you [music] take me where I am? Take me somewhere new. I don't know",
+      "zh": ""
+    },
+    {
+      "start": 167.02,
+      "duration": 0.3,
+      "text": "Take me somewhere new. I don't know",
+      "en": "Take me somewhere new. I don't know",
+      "zh": ""
+    },
+    {
+      "start": 167.03,
+      "duration": 4.57,
+      "text": "Take me somewhere new. I don't know [music] who you are, [singing] but",
+      "en": "Take me somewhere new. I don't know [music] who you are, [singing] but",
+      "zh": ""
+    },
+    {
+      "start": 185.03,
+      "duration": 0.3,
+      "text": ">> Take me by hand. Take me somewhere new.",
+      "en": ">> Take me by hand. Take me somewhere new.",
+      "zh": ""
+    },
+    {
+      "start": 185.04,
+      "duration": 2.28,
+      "text": ">> Take me by hand. Take me somewhere new. I don't [music] know who you are.",
+      "en": ">> Take me by hand. Take me somewhere new. I don't [music] know who you are.",
+      "zh": ""
+    },
+    {
+      "start": 187.32,
+      "duration": 0.3,
+      "text": "I don't [music] know who you are.",
+      "en": "I don't [music] know who you are.",
+      "zh": ""
+    },
+    {
+      "start": 187.33,
+      "duration": 3.27,
+      "text": "I don't [music] know who you are. [singing]",
+      "en": "I don't [music] know who you are. [singing]",
+      "zh": ""
+    },
+    {
+      "start": 204.07,
+      "duration": 0.3,
+      "text": "Take me by land. Take me somewhere new.",
+      "en": "Take me by land. Take me somewhere new.",
+      "zh": ""
+    },
+    {
+      "start": 204.08,
+      "duration": 1.83,
+      "text": "Take me by land. Take me somewhere new. I don't know [music and singing] who you",
+      "en": "Take me by land. Take me somewhere new. I don't know [music and singing] who you",
+      "zh": ""
+    },
+    {
+      "start": 205.91,
+      "duration": 0.3,
+      "text": "I don't know [music and singing] who you",
+      "en": "I don't know [music and singing] who you",
+      "zh": ""
+    },
+    {
+      "start": 205.92,
+      "duration": 2.87,
+      "text": "I don't know [music and singing] who you are, but I",
+      "en": "I don't know [music and singing] who you are, but I",
+      "zh": ""
+    },
+    {
+      "start": 208.79,
+      "duration": 0.3,
+      "text": "are, but I",
+      "en": "are, but I",
+      "zh": ""
+    },
+    {
+      "start": 208.8,
+      "duration": 4.63,
+      "text": "are, but I I'm with you. [music]",
+      "en": "are, but I I'm with you. [music]",
+      "zh": ""
+    }
+  ],
+  "words": []
+}

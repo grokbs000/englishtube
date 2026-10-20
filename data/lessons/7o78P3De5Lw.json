@@ -1,0 +1,831 @@
+{
+  "cues": [
+    {
+      "start": 10.31,
+      "duration": 0.3,
+      "text": "let's get down let's get down to",
+      "en": "let's get down let's get down to",
+      "zh": ""
+    },
+    {
+      "start": 10.32,
+      "duration": 1.51,
+      "text": "let's get down let's get down to business",
+      "en": "let's get down let's get down to business",
+      "zh": ""
+    },
+    {
+      "start": 11.83,
+      "duration": 0.3,
+      "text": "business",
+      "en": "business",
+      "zh": ""
+    },
+    {
+      "start": 11.84,
+      "duration": 2.31,
+      "text": "business give you one more night one more night",
+      "en": "business give you one more night one more night",
+      "zh": ""
+    },
+    {
+      "start": 14.15,
+      "duration": 0.3,
+      "text": "give you one more night one more night",
+      "en": "give you one more night one more night",
+      "zh": ""
+    },
+    {
+      "start": 14.16,
+      "duration": 1.43,
+      "text": "give you one more night one more night to get this",
+      "en": "give you one more night one more night to get this",
+      "zh": ""
+    },
+    {
+      "start": 15.59,
+      "duration": 0.3,
+      "text": "to get this",
+      "en": "to get this",
+      "zh": ""
+    },
+    {
+      "start": 15.6,
+      "duration": 3.11,
+      "text": "to get this we've had a million million nights just",
+      "en": "to get this we've had a million million nights just",
+      "zh": ""
+    },
+    {
+      "start": 18.71,
+      "duration": 0.3,
+      "text": "we've had a million million nights just",
+      "en": "we've had a million million nights just",
+      "zh": ""
+    },
+    {
+      "start": 18.72,
+      "duration": 1.27,
+      "text": "we've had a million million nights just like this",
+      "en": "we've had a million million nights just like this",
+      "zh": ""
+    },
+    {
+      "start": 19.99,
+      "duration": 0.3,
+      "text": "like this",
+      "en": "like this",
+      "zh": ""
+    },
+    {
+      "start": 20.0,
+      "duration": 2.23,
+      "text": "like this so let's get down let's get down to",
+      "en": "like this so let's get down let's get down to",
+      "zh": ""
+    },
+    {
+      "start": 22.23,
+      "duration": 0.3,
+      "text": "so let's get down let's get down to",
+      "en": "so let's get down let's get down to",
+      "zh": ""
+    },
+    {
+      "start": 22.24,
+      "duration": 1.99,
+      "text": "so let's get down let's get down to business",
+      "en": "so let's get down let's get down to business",
+      "zh": ""
+    },
+    {
+      "start": 24.23,
+      "duration": 0.3,
+      "text": "business",
+      "en": "business",
+      "zh": ""
+    },
+    {
+      "start": 24.24,
+      "duration": 3.83,
+      "text": "business mama please don't worry about me",
+      "en": "business mama please don't worry about me",
+      "zh": ""
+    },
+    {
+      "start": 28.07,
+      "duration": 0.3,
+      "text": "mama please don't worry about me",
+      "en": "mama please don't worry about me",
+      "zh": ""
+    },
+    {
+      "start": 28.08,
+      "duration": 3.91,
+      "text": "mama please don't worry about me cause i'm about to let my heart speak",
+      "en": "mama please don't worry about me cause i'm about to let my heart speak",
+      "zh": ""
+    },
+    {
+      "start": 31.99,
+      "duration": 0.3,
+      "text": "cause i'm about to let my heart speak",
+      "en": "cause i'm about to let my heart speak",
+      "zh": ""
+    },
+    {
+      "start": 32.0,
+      "duration": 4.07,
+      "text": "cause i'm about to let my heart speak my friends keep telling me to leave this",
+      "en": "cause i'm about to let my heart speak my friends keep telling me to leave this",
+      "zh": ""
+    },
+    {
+      "start": 36.07,
+      "duration": 0.3,
+      "text": "my friends keep telling me to leave this",
+      "en": "my friends keep telling me to leave this",
+      "zh": ""
+    },
+    {
+      "start": 36.08,
+      "duration": 2.07,
+      "text": "my friends keep telling me to leave this so let's get down let's get down to",
+      "en": "my friends keep telling me to leave this so let's get down let's get down to",
+      "zh": ""
+    },
+    {
+      "start": 38.15,
+      "duration": 0.3,
+      "text": "so let's get down let's get down to",
+      "en": "so let's get down let's get down to",
+      "zh": ""
+    },
+    {
+      "start": 38.16,
+      "duration": 2.07,
+      "text": "so let's get down let's get down to business",
+      "en": "so let's get down let's get down to business",
+      "zh": ""
+    },
+    {
+      "start": 40.23,
+      "duration": 0.3,
+      "text": "business",
+      "en": "business",
+      "zh": ""
+    },
+    {
+      "start": 40.24,
+      "duration": 1.91,
+      "text": "business let's get down let's get down to",
+      "en": "business let's get down let's get down to",
+      "zh": ""
+    },
+    {
+      "start": 42.15,
+      "duration": 0.3,
+      "text": "let's get down let's get down to",
+      "en": "let's get down let's get down to",
+      "zh": ""
+    },
+    {
+      "start": 42.16,
+      "duration": 1.59,
+      "text": "let's get down let's get down to business",
+      "en": "let's get down let's get down to business",
+      "zh": ""
+    },
+    {
+      "start": 43.75,
+      "duration": 0.3,
+      "text": "business",
+      "en": "business",
+      "zh": ""
+    },
+    {
+      "start": 43.76,
+      "duration": 2.23,
+      "text": "business give you one more night one more night",
+      "en": "business give you one more night one more night",
+      "zh": ""
+    },
+    {
+      "start": 45.99,
+      "duration": 0.3,
+      "text": "give you one more night one more night",
+      "en": "give you one more night one more night",
+      "zh": ""
+    },
+    {
+      "start": 46.0,
+      "duration": 1.51,
+      "text": "give you one more night one more night to get this",
+      "en": "give you one more night one more night to get this",
+      "zh": ""
+    },
+    {
+      "start": 47.51,
+      "duration": 0.3,
+      "text": "to get this",
+      "en": "to get this",
+      "zh": ""
+    },
+    {
+      "start": 47.52,
+      "duration": 3.11,
+      "text": "to get this we've had a million million nights just",
+      "en": "to get this we've had a million million nights just",
+      "zh": ""
+    },
+    {
+      "start": 50.63,
+      "duration": 0.3,
+      "text": "we've had a million million nights just",
+      "en": "we've had a million million nights just",
+      "zh": ""
+    },
+    {
+      "start": 50.64,
+      "duration": 1.35,
+      "text": "we've had a million million nights just like this",
+      "en": "we've had a million million nights just like this",
+      "zh": ""
+    },
+    {
+      "start": 51.99,
+      "duration": 0.3,
+      "text": "like this",
+      "en": "like this",
+      "zh": ""
+    },
+    {
+      "start": 52.0,
+      "duration": 2.23,
+      "text": "like this so let's get down let's get down to",
+      "en": "like this so let's get down let's get down to",
+      "zh": ""
+    },
+    {
+      "start": 54.23,
+      "duration": 0.3,
+      "text": "so let's get down let's get down to",
+      "en": "so let's get down let's get down to",
+      "zh": ""
+    },
+    {
+      "start": 54.24,
+      "duration": 1.99,
+      "text": "so let's get down let's get down to business",
+      "en": "so let's get down let's get down to business",
+      "zh": ""
+    },
+    {
+      "start": 56.23,
+      "duration": 0.3,
+      "text": "business",
+      "en": "business",
+      "zh": ""
+    },
+    {
+      "start": 56.24,
+      "duration": 1.91,
+      "text": "business let's get down let's get down to",
+      "en": "business let's get down let's get down to",
+      "zh": ""
+    },
+    {
+      "start": 58.15,
+      "duration": 0.3,
+      "text": "let's get down let's get down to",
+      "en": "let's get down let's get down to",
+      "zh": ""
+    },
+    {
+      "start": 58.16,
+      "duration": 1.59,
+      "text": "let's get down let's get down to business",
+      "en": "let's get down let's get down to business",
+      "zh": ""
+    },
+    {
+      "start": 59.75,
+      "duration": 0.3,
+      "text": "business",
+      "en": "business",
+      "zh": ""
+    },
+    {
+      "start": 59.76,
+      "duration": 2.39,
+      "text": "business give it one more night one more night to",
+      "en": "business give it one more night one more night to",
+      "zh": ""
+    },
+    {
+      "start": 62.15,
+      "duration": 0.3,
+      "text": "give it one more night one more night to",
+      "en": "give it one more night one more night to",
+      "zh": ""
+    },
+    {
+      "start": 62.16,
+      "duration": 1.35,
+      "text": "give it one more night one more night to get this",
+      "en": "give it one more night one more night to get this",
+      "zh": ""
+    },
+    {
+      "start": 63.51,
+      "duration": 0.3,
+      "text": "get this",
+      "en": "get this",
+      "zh": ""
+    },
+    {
+      "start": 63.52,
+      "duration": 3.11,
+      "text": "get this we've had a million million nights just",
+      "en": "get this we've had a million million nights just",
+      "zh": ""
+    },
+    {
+      "start": 66.63,
+      "duration": 0.3,
+      "text": "we've had a million million nights just",
+      "en": "we've had a million million nights just",
+      "zh": ""
+    },
+    {
+      "start": 66.64,
+      "duration": 1.27,
+      "text": "we've had a million million nights just like this",
+      "en": "we've had a million million nights just like this",
+      "zh": ""
+    },
+    {
+      "start": 67.91,
+      "duration": 0.3,
+      "text": "like this",
+      "en": "like this",
+      "zh": ""
+    },
+    {
+      "start": 67.92,
+      "duration": 3.83,
+      "text": "like this so let's get down let's get down the",
+      "en": "like this so let's get down let's get down the",
+      "zh": ""
+    },
+    {
+      "start": 71.75,
+      "duration": 0.3,
+      "text": "so let's get down let's get down the",
+      "en": "so let's get down let's get down the",
+      "zh": ""
+    },
+    {
+      "start": 71.76,
+      "duration": 2.31,
+      "text": "so let's get down let's get down the back and forth back and forth with",
+      "en": "so let's get down let's get down the back and forth back and forth with",
+      "zh": ""
+    },
+    {
+      "start": 74.07,
+      "duration": 0.3,
+      "text": "back and forth back and forth with",
+      "en": "back and forth back and forth with",
+      "zh": ""
+    },
+    {
+      "start": 74.08,
+      "duration": 1.35,
+      "text": "back and forth back and forth with abortion",
+      "en": "back and forth back and forth with abortion",
+      "zh": ""
+    },
+    {
+      "start": 75.43,
+      "duration": 0.3,
+      "text": "abortion",
+      "en": "abortion",
+      "zh": ""
+    },
+    {
+      "start": 75.44,
+      "duration": 3.99,
+      "text": "abortion i know i said it before i don't mean it",
+      "en": "abortion i know i said it before i don't mean it",
+      "zh": ""
+    },
+    {
+      "start": 79.43,
+      "duration": 0.3,
+      "text": "i know i said it before i don't mean it",
+      "en": "i know i said it before i don't mean it",
+      "zh": ""
+    },
+    {
+      "start": 79.44,
+      "duration": 2.71,
+      "text": "i know i said it before i don't mean it it's been a while since i had your",
+      "en": "i know i said it before i don't mean it it's been a while since i had your",
+      "zh": ""
+    },
+    {
+      "start": 82.15,
+      "duration": 0.3,
+      "text": "it's been a while since i had your",
+      "en": "it's been a while since i had your",
+      "zh": ""
+    },
+    {
+      "start": 82.16,
+      "duration": 1.83,
+      "text": "it's been a while since i had your attention",
+      "en": "it's been a while since i had your attention",
+      "zh": ""
+    },
+    {
+      "start": 83.99,
+      "duration": 0.3,
+      "text": "attention",
+      "en": "attention",
+      "zh": ""
+    },
+    {
+      "start": 84.0,
+      "duration": 2.07,
+      "text": "attention so it might hurt",
+      "en": "attention so it might hurt",
+      "zh": ""
+    },
+    {
+      "start": 86.07,
+      "duration": 0.3,
+      "text": "so it might hurt",
+      "en": "so it might hurt",
+      "zh": ""
+    },
+    {
+      "start": 86.08,
+      "duration": 5.88,
+      "text": "so it might hurt us",
+      "en": "so it might hurt us",
+      "zh": ""
+    },
+    {
+      "start": 104.23,
+      "duration": 0.3,
+      "text": "[Music]",
+      "en": "[Music]",
+      "zh": ""
+    },
+    {
+      "start": 104.24,
+      "duration": 3.99,
+      "text": "[Music] dreams we had don't ever fall away",
+      "en": "[Music] dreams we had don't ever fall away",
+      "zh": ""
+    },
+    {
+      "start": 108.23,
+      "duration": 0.3,
+      "text": "dreams we had don't ever fall away",
+      "en": "dreams we had don't ever fall away",
+      "zh": ""
+    },
+    {
+      "start": 108.24,
+      "duration": 3.83,
+      "text": "dreams we had don't ever fall away we can't leave them if we stay the same",
+      "en": "dreams we had don't ever fall away we can't leave them if we stay the same",
+      "zh": ""
+    },
+    {
+      "start": 112.07,
+      "duration": 0.3,
+      "text": "we can't leave them if we stay the same",
+      "en": "we can't leave them if we stay the same",
+      "zh": ""
+    },
+    {
+      "start": 112.08,
+      "duration": 3.99,
+      "text": "we can't leave them if we stay the same and i can't do this for another day",
+      "en": "we can't leave them if we stay the same and i can't do this for another day",
+      "zh": ""
+    },
+    {
+      "start": 116.07,
+      "duration": 0.3,
+      "text": "and i can't do this for another day",
+      "en": "and i can't do this for another day",
+      "zh": ""
+    },
+    {
+      "start": 116.08,
+      "duration": 2.07,
+      "text": "and i can't do this for another day so let's get down let's get down to",
+      "en": "and i can't do this for another day so let's get down let's get down to",
+      "zh": ""
+    },
+    {
+      "start": 118.15,
+      "duration": 0.3,
+      "text": "so let's get down let's get down to",
+      "en": "so let's get down let's get down to",
+      "zh": ""
+    },
+    {
+      "start": 118.16,
+      "duration": 2.07,
+      "text": "so let's get down let's get down to business",
+      "en": "so let's get down let's get down to business",
+      "zh": ""
+    },
+    {
+      "start": 120.23,
+      "duration": 0.3,
+      "text": "business",
+      "en": "business",
+      "zh": ""
+    },
+    {
+      "start": 120.24,
+      "duration": 1.91,
+      "text": "business let's get down let's get down to",
+      "en": "business let's get down let's get down to",
+      "zh": ""
+    },
+    {
+      "start": 122.15,
+      "duration": 0.3,
+      "text": "let's get down let's get down to",
+      "en": "let's get down let's get down to",
+      "zh": ""
+    },
+    {
+      "start": 122.16,
+      "duration": 1.59,
+      "text": "let's get down let's get down to business",
+      "en": "let's get down let's get down to business",
+      "zh": ""
+    },
+    {
+      "start": 123.75,
+      "duration": 0.3,
+      "text": "business",
+      "en": "business",
+      "zh": ""
+    },
+    {
+      "start": 123.76,
+      "duration": 2.23,
+      "text": "business give you one more night one more night",
+      "en": "business give you one more night one more night",
+      "zh": ""
+    },
+    {
+      "start": 125.99,
+      "duration": 0.3,
+      "text": "give you one more night one more night",
+      "en": "give you one more night one more night",
+      "zh": ""
+    },
+    {
+      "start": 126.0,
+      "duration": 1.51,
+      "text": "give you one more night one more night to get",
+      "en": "give you one more night one more night to get",
+      "zh": ""
+    },
+    {
+      "start": 127.51,
+      "duration": 0.3,
+      "text": "to get",
+      "en": "to get",
+      "zh": ""
+    },
+    {
+      "start": 127.52,
+      "duration": 3.11,
+      "text": "to get we've had a million million nights just",
+      "en": "to get we've had a million million nights just",
+      "zh": ""
+    },
+    {
+      "start": 130.63,
+      "duration": 0.3,
+      "text": "we've had a million million nights just",
+      "en": "we've had a million million nights just",
+      "zh": ""
+    },
+    {
+      "start": 130.64,
+      "duration": 1.35,
+      "text": "we've had a million million nights just like this",
+      "en": "we've had a million million nights just like this",
+      "zh": ""
+    },
+    {
+      "start": 131.99,
+      "duration": 0.3,
+      "text": "like this",
+      "en": "like this",
+      "zh": ""
+    },
+    {
+      "start": 132.0,
+      "duration": 2.23,
+      "text": "like this so let's get down let's get down to",
+      "en": "like this so let's get down let's get down to",
+      "zh": ""
+    },
+    {
+      "start": 134.23,
+      "duration": 0.3,
+      "text": "so let's get down let's get down to",
+      "en": "so let's get down let's get down to",
+      "zh": ""
+    },
+    {
+      "start": 134.24,
+      "duration": 1.99,
+      "text": "so let's get down let's get down to business",
+      "en": "so let's get down let's get down to business",
+      "zh": ""
+    },
+    {
+      "start": 136.23,
+      "duration": 0.3,
+      "text": "business",
+      "en": "business",
+      "zh": ""
+    },
+    {
+      "start": 136.24,
+      "duration": 1.91,
+      "text": "business let's get down let's get down to",
+      "en": "business let's get down let's get down to",
+      "zh": ""
+    },
+    {
+      "start": 138.15,
+      "duration": 0.3,
+      "text": "let's get down let's get down to",
+      "en": "let's get down let's get down to",
+      "zh": ""
+    },
+    {
+      "start": 138.16,
+      "duration": 1.59,
+      "text": "let's get down let's get down to business",
+      "en": "let's get down let's get down to business",
+      "zh": ""
+    },
+    {
+      "start": 139.75,
+      "duration": 0.3,
+      "text": "business",
+      "en": "business",
+      "zh": ""
+    },
+    {
+      "start": 139.76,
+      "duration": 2.23,
+      "text": "business give you one more night one more night",
+      "en": "business give you one more night one more night",
+      "zh": ""
+    },
+    {
+      "start": 141.99,
+      "duration": 0.3,
+      "text": "give you one more night one more night",
+      "en": "give you one more night one more night",
+      "zh": ""
+    },
+    {
+      "start": 142.0,
+      "duration": 1.51,
+      "text": "give you one more night one more night to get this",
+      "en": "give you one more night one more night to get this",
+      "zh": ""
+    },
+    {
+      "start": 143.51,
+      "duration": 0.3,
+      "text": "to get this",
+      "en": "to get this",
+      "zh": ""
+    },
+    {
+      "start": 143.52,
+      "duration": 3.19,
+      "text": "to get this we've had a million million nights just",
+      "en": "to get this we've had a million million nights just",
+      "zh": ""
+    },
+    {
+      "start": 146.71,
+      "duration": 0.3,
+      "text": "we've had a million million nights just",
+      "en": "we've had a million million nights just",
+      "zh": ""
+    },
+    {
+      "start": 146.72,
+      "duration": 1.19,
+      "text": "we've had a million million nights just like this",
+      "en": "we've had a million million nights just like this",
+      "zh": ""
+    },
+    {
+      "start": 147.91,
+      "duration": 0.3,
+      "text": "like this",
+      "en": "like this",
+      "zh": ""
+    },
+    {
+      "start": 147.92,
+      "duration": 2.23,
+      "text": "like this so let's get down let's get down to",
+      "en": "like this so let's get down let's get down to",
+      "zh": ""
+    },
+    {
+      "start": 150.15,
+      "duration": 0.3,
+      "text": "so let's get down let's get down to",
+      "en": "so let's get down let's get down to",
+      "zh": ""
+    },
+    {
+      "start": 150.16,
+      "duration": 2.87,
+      "text": "so let's get down let's get down to business yeah we've had a million",
+      "en": "so let's get down let's get down to business yeah we've had a million",
+      "zh": ""
+    },
+    {
+      "start": 153.03,
+      "duration": 0.3,
+      "text": "business yeah we've had a million",
+      "en": "business yeah we've had a million",
+      "zh": ""
+    },
+    {
+      "start": 153.04,
+      "duration": 3.43,
+      "text": "business yeah we've had a million million nights just like this so let's",
+      "en": "business yeah we've had a million million nights just like this so let's",
+      "zh": ""
+    },
+    {
+      "start": 156.47,
+      "duration": 0.3,
+      "text": "million nights just like this so let's",
+      "en": "million nights just like this so let's",
+      "zh": ""
+    },
+    {
+      "start": 156.48,
+      "duration": 2.7,
+      "text": "million nights just like this so let's get down let's get down to business",
+      "en": "million nights just like this so let's get down let's get down to business",
+      "zh": ""
+    },
+    {
+      "start": 159.18,
+      "duration": 0.3,
+      "text": "get down let's get down to business",
+      "en": "get down let's get down to business",
+      "zh": ""
+    },
+    {
+      "start": 159.19,
+      "duration": 14.48,
+      "text": "get down let's get down to business [Music]",
+      "en": "get down let's get down to business [Music]",
+      "zh": ""
+    },
+    {
+      "start": 173.67,
+      "duration": 0.3,
+      "text": "[Music]",
+      "en": "[Music]",
+      "zh": ""
+    },
+    {
+      "start": 173.68,
+      "duration": 2.08,
+      "text": "[Music] you",
+      "en": "[Music] you",
+      "zh": ""
+    }
+  ],
+  "words": []
+}

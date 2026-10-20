@@ -1,0 +1,5136 @@
+{
+  "cues": [
+    {
+      "start": 11.23,
+      "duration": 0.3,
+      "text": "[music]",
+      "en": "[music]",
+      "zh": ""
+    },
+    {
+      "start": 11.24,
+      "duration": 2.71,
+      "text": "[music] >> I like this song right here.",
+      "en": "[music] >> I like this song right here.",
+      "zh": ""
+    },
+    {
+      "start": 13.95,
+      "duration": 0.3,
+      "text": ">> I like this song right here.",
+      "en": ">> I like this song right here.",
+      "zh": ""
+    },
+    {
+      "start": 13.96,
+      "duration": 1.75,
+      "text": ">> I like this song right here. This going to be special.",
+      "en": ">> I like this song right here. This going to be special.",
+      "zh": ""
+    },
+    {
+      "start": 15.71,
+      "duration": 0.3,
+      "text": "This going to be special.",
+      "en": "This going to be special.",
+      "zh": ""
+    },
+    {
+      "start": 15.72,
+      "duration": 3.55,
+      "text": "This going to be special. >> [music]",
+      "en": "This going to be special. >> [music]",
+      "zh": ""
+    },
+    {
+      "start": 20.95,
+      "duration": 0.3,
+      "text": ">> Hey.",
+      "en": ">> Hey.",
+      "zh": ""
+    },
+    {
+      "start": 20.96,
+      "duration": 3.92,
+      "text": ">> Hey. >> [music]",
+      "en": ">> Hey. >> [music]",
+      "zh": ""
+    },
+    {
+      "start": 29.87,
+      "duration": 0.3,
+      "text": ">> Baby girl.",
+      "en": ">> Baby girl.",
+      "zh": ""
+    },
+    {
+      "start": 29.88,
+      "duration": 1.55,
+      "text": ">> Baby girl. All right.",
+      "en": ">> Baby girl. All right.",
+      "zh": ""
+    },
+    {
+      "start": 31.43,
+      "duration": 0.3,
+      "text": "All right.",
+      "en": "All right.",
+      "zh": ""
+    },
+    {
+      "start": 31.44,
+      "duration": 1.47,
+      "text": "All right. >> [music]",
+      "en": "All right. >> [music]",
+      "zh": ""
+    },
+    {
+      "start": 32.91,
+      "duration": 0.3,
+      "text": ">> [music]",
+      "en": ">> [music]",
+      "zh": ""
+    },
+    {
+      "start": 32.92,
+      "duration": 2.44,
+      "text": ">> [music] >> I got to find me a girl.",
+      "en": ">> [music] >> I got to find me a girl.",
+      "zh": ""
+    },
+    {
+      "start": 35.36,
+      "duration": 0.3,
+      "text": ">> I got to find me a girl.",
+      "en": ">> I got to find me a girl.",
+      "zh": ""
+    },
+    {
+      "start": 35.37,
+      "duration": 3.92,
+      "text": ">> I got to find me a girl. >> [singing]",
+      "en": ">> I got to find me a girl. >> [singing]",
+      "zh": ""
+    },
+    {
+      "start": 44.55,
+      "duration": 0.3,
+      "text": ">> Yeah.",
+      "en": ">> Yeah.",
+      "zh": ""
+    },
+    {
+      "start": 44.56,
+      "duration": 2.95,
+      "text": ">> Yeah. I'm ringing now. [singing]",
+      "en": ">> Yeah. I'm ringing now. [singing]",
+      "zh": ""
+    },
+    {
+      "start": 52.47,
+      "duration": 0.3,
+      "text": "From the first [singing and music] time",
+      "en": "From the first [singing and music] time",
+      "zh": ""
+    },
+    {
+      "start": 52.48,
+      "duration": 1.91,
+      "text": "From the first [singing and music] time that we met,",
+      "en": "From the first [singing and music] time that we met,",
+      "zh": ""
+    },
+    {
+      "start": 54.39,
+      "duration": 0.3,
+      "text": "that we met,",
+      "en": "that we met,",
+      "zh": ""
+    },
+    {
+      "start": 54.4,
+      "duration": 3.11,
+      "text": "that we met, helpless.",
+      "en": "that we met, helpless.",
+      "zh": ""
+    },
+    {
+      "start": 59.43,
+      "duration": 0.3,
+      "text": "You [music] took my heart, I must",
+      "en": "You [music] took my heart, I must",
+      "zh": ""
+    },
+    {
+      "start": 59.44,
+      "duration": 2.12,
+      "text": "You [music] took my heart, I must confess, deep in your",
+      "en": "You [music] took my heart, I must confess, deep in your",
+      "zh": ""
+    },
+    {
+      "start": 61.56,
+      "duration": 0.3,
+      "text": "confess, deep in your",
+      "en": "confess, deep in your",
+      "zh": ""
+    },
+    {
+      "start": 61.57,
+      "duration": 0.66,
+      "text": "confess, deep in your >> [singing]",
+      "en": "confess, deep in your >> [singing]",
+      "zh": ""
+    },
+    {
+      "start": 62.23,
+      "duration": 0.3,
+      "text": ">> [singing]",
+      "en": ">> [singing]",
+      "zh": ""
+    },
+    {
+      "start": 62.24,
+      "duration": 1.75,
+      "text": ">> [singing] >> eyes.",
+      "en": ">> [singing] >> eyes.",
+      "zh": ""
+    },
+    {
+      "start": 63.99,
+      "duration": 0.3,
+      "text": ">> eyes.",
+      "en": ">> eyes.",
+      "zh": ""
+    },
+    {
+      "start": 64.0,
+      "duration": 2.31,
+      "text": ">> eyes. There seemed [music] to be a look that",
+      "en": ">> eyes. There seemed [music] to be a look that",
+      "zh": ""
+    },
+    {
+      "start": 66.31,
+      "duration": 0.3,
+      "text": "There seemed [music] to be a look that",
+      "en": "There seemed [music] to be a look that",
+      "zh": ""
+    },
+    {
+      "start": 66.32,
+      "duration": 2.87,
+      "text": "There seemed [music] to be a look that said,",
+      "en": "There seemed [music] to be a look that said,",
+      "zh": ""
+    },
+    {
+      "start": 70.87,
+      "duration": 0.3,
+      "text": "\"Hey, baby.",
+      "en": "\"Hey, baby.",
+      "zh": ""
+    },
+    {
+      "start": 70.88,
+      "duration": 2.67,
+      "text": "\"Hey, baby. Is it me you're searching [music] for?\"",
+      "en": "\"Hey, baby. Is it me you're searching [music] for?\"",
+      "zh": ""
+    },
+    {
+      "start": 73.55,
+      "duration": 0.3,
+      "text": "Is it me you're searching [music] for?\"",
+      "en": "Is it me you're searching [music] for?\"",
+      "zh": ""
+    },
+    {
+      "start": 73.56,
+      "duration": 2.47,
+      "text": "Is it me you're searching [music] for?\" >> Suddenly my sunshine [singing] turned",
+      "en": "Is it me you're searching [music] for?\" >> Suddenly my sunshine [singing] turned",
+      "zh": ""
+    },
+    {
+      "start": 76.03,
+      "duration": 0.3,
+      "text": ">> Suddenly my sunshine [singing] turned",
+      "en": ">> Suddenly my sunshine [singing] turned",
+      "zh": ""
+    },
+    {
+      "start": 76.04,
+      "duration": 0.95,
+      "text": ">> Suddenly my sunshine [singing] turned away.",
+      "en": ">> Suddenly my sunshine [singing] turned away.",
+      "zh": ""
+    },
+    {
+      "start": 76.99,
+      "duration": 0.3,
+      "text": "away.",
+      "en": "away.",
+      "zh": ""
+    },
+    {
+      "start": 77.0,
+      "duration": 1.99,
+      "text": "away. >> I don't [music] know if it'll ever come",
+      "en": "away. >> I don't [music] know if it'll ever come",
+      "zh": ""
+    },
+    {
+      "start": 78.99,
+      "duration": 0.3,
+      "text": ">> I don't [music] know if it'll ever come",
+      "en": ">> I don't [music] know if it'll ever come",
+      "zh": ""
+    },
+    {
+      "start": 79.0,
+      "duration": 1.03,
+      "text": ">> I don't [music] know if it'll ever come back again.",
+      "en": ">> I don't [music] know if it'll ever come back again.",
+      "zh": ""
+    },
+    {
+      "start": 80.03,
+      "duration": 0.3,
+      "text": "back again.",
+      "en": "back again.",
+      "zh": ""
+    },
+    {
+      "start": 80.04,
+      "duration": 1.67,
+      "text": "back again. >> That's what you are,",
+      "en": "back again. >> That's what you are,",
+      "zh": ""
+    },
+    {
+      "start": 81.71,
+      "duration": 0.3,
+      "text": ">> That's what you are,",
+      "en": ">> That's what you are,",
+      "zh": ""
+    },
+    {
+      "start": 81.72,
+      "duration": 0.87,
+      "text": ">> That's what you are, sunshine [singing]",
+      "en": ">> That's what you are, sunshine [singing]",
+      "zh": ""
+    },
+    {
+      "start": 82.59,
+      "duration": 0.3,
+      "text": "sunshine [singing]",
+      "en": "sunshine [singing]",
+      "zh": ""
+    },
+    {
+      "start": 82.6,
+      "duration": 1.23,
+      "text": "sunshine [singing] and rain.",
+      "en": "sunshine [singing] and rain.",
+      "zh": ""
+    },
+    {
+      "start": 83.83,
+      "duration": 0.3,
+      "text": "and rain.",
+      "en": "and rain.",
+      "zh": ""
+    },
+    {
+      "start": 83.84,
+      "duration": 2.87,
+      "text": "and rain. >> [music]",
+      "en": "and rain. >> [music]",
+      "zh": ""
+    },
+    {
+      "start": 90.19,
+      "duration": 0.3,
+      "text": ">> You didn't say you love",
+      "en": ">> You didn't say you love",
+      "zh": ""
+    },
+    {
+      "start": 90.2,
+      "duration": 2.14,
+      "text": ">> You didn't say you love Never been love within your",
+      "en": ">> You didn't say you love Never been love within your",
+      "zh": ""
+    },
+    {
+      "start": 92.34,
+      "duration": 0.3,
+      "text": "Never been love within your",
+      "en": "Never been love within your",
+      "zh": ""
+    },
+    {
+      "start": 92.35,
+      "duration": 2.12,
+      "text": "Never been love within your [singing and music] plans.",
+      "en": "Never been love within your [singing and music] plans.",
+      "zh": ""
+    },
+    {
+      "start": 94.47,
+      "duration": 0.3,
+      "text": "[singing and music] plans.",
+      "en": "[singing and music] plans.",
+      "zh": ""
+    },
+    {
+      "start": 94.48,
+      "duration": 2.79,
+      "text": "[singing and music] plans. And it hurts so bad.",
+      "en": "[singing and music] plans. And it hurts so bad.",
+      "zh": ""
+    },
+    {
+      "start": 97.27,
+      "duration": 0.3,
+      "text": "And it hurts so bad.",
+      "en": "And it hurts so bad.",
+      "zh": ""
+    },
+    {
+      "start": 97.28,
+      "duration": 1.47,
+      "text": "And it hurts so bad. Can someone [music and singing] tell me",
+      "en": "And it hurts so bad. Can someone [music and singing] tell me",
+      "zh": ""
+    },
+    {
+      "start": 98.75,
+      "duration": 0.3,
+      "text": "Can someone [music and singing] tell me",
+      "en": "Can someone [music and singing] tell me",
+      "zh": ""
+    },
+    {
+      "start": 98.76,
+      "duration": 2.79,
+      "text": "Can someone [music and singing] tell me why",
+      "en": "Can someone [music and singing] tell me why",
+      "zh": ""
+    },
+    {
+      "start": 102.35,
+      "duration": 0.3,
+      "text": "I",
+      "en": "I",
+      "zh": ""
+    },
+    {
+      "start": 102.36,
+      "duration": 2.87,
+      "text": "I was taken every time.",
+      "en": "I was taken every time.",
+      "zh": ""
+    },
+    {
+      "start": 105.23,
+      "duration": 0.3,
+      "text": "was taken every time.",
+      "en": "was taken every time.",
+      "zh": ""
+    },
+    {
+      "start": 105.24,
+      "duration": 0.86,
+      "text": "was taken every time. And why",
+      "en": "was taken every time. And why",
+      "zh": ""
+    },
+    {
+      "start": 106.1,
+      "duration": 0.3,
+      "text": "And why",
+      "en": "And why",
+      "zh": ""
+    },
+    {
+      "start": 106.11,
+      "duration": 0.36,
+      "text": "And why >> [singing]",
+      "en": "And why >> [singing]",
+      "zh": ""
+    },
+    {
+      "start": 106.47,
+      "duration": 0.3,
+      "text": ">> [singing]",
+      "en": ">> [singing]",
+      "zh": ""
+    },
+    {
+      "start": 106.48,
+      "duration": 1.59,
+      "text": ">> [singing] >> do I keep falling for",
+      "en": ">> [singing] >> do I keep falling for",
+      "zh": ""
+    },
+    {
+      "start": 108.07,
+      "duration": 0.3,
+      "text": ">> do I keep falling for",
+      "en": ">> do I keep falling for",
+      "zh": ""
+    },
+    {
+      "start": 108.08,
+      "duration": 0.3,
+      "text": ">> do I keep falling for >> [music]",
+      "en": ">> do I keep falling for >> [music]",
+      "zh": ""
+    },
+    {
+      "start": 108.31,
+      "duration": 0.3,
+      "text": ">> [music]",
+      "en": ">> [music]",
+      "zh": ""
+    },
+    {
+      "start": 108.32,
+      "duration": 0.67,
+      "text": ">> [music] >> That's right.",
+      "en": ">> [music] >> That's right.",
+      "zh": ""
+    },
+    {
+      "start": 108.99,
+      "duration": 0.3,
+      "text": ">> That's right.",
+      "en": ">> That's right.",
+      "zh": ""
+    },
+    {
+      "start": 109.0,
+      "duration": 1.91,
+      "text": ">> That's right. >> someone just like you?",
+      "en": ">> That's right. >> someone just like you?",
+      "zh": ""
+    },
+    {
+      "start": 110.91,
+      "duration": 0.3,
+      "text": ">> someone just like you?",
+      "en": ">> someone just like you?",
+      "zh": ""
+    },
+    {
+      "start": 110.92,
+      "duration": 1.11,
+      "text": ">> someone just like you? >> Why do I",
+      "en": ">> someone just like you? >> Why do I",
+      "zh": ""
+    },
+    {
+      "start": 112.03,
+      "duration": 0.3,
+      "text": ">> Why do I",
+      "en": ">> Why do I",
+      "zh": ""
+    },
+    {
+      "start": 112.04,
+      "duration": 1.15,
+      "text": ">> Why do I >> timeless",
+      "en": ">> Why do I >> timeless",
+      "zh": ""
+    },
+    {
+      "start": 113.19,
+      "duration": 0.3,
+      "text": ">> timeless",
+      "en": ">> timeless",
+      "zh": ""
+    },
+    {
+      "start": 113.2,
+      "duration": 2.19,
+      "text": ">> timeless lesson. [singing and music]",
+      "en": ">> timeless lesson. [singing and music]",
+      "zh": ""
+    },
+    {
+      "start": 119.86,
+      "duration": 0.3,
+      "text": "So why do So my",
+      "en": "So why do So my",
+      "zh": ""
+    },
+    {
+      "start": 119.87,
+      "duration": 1.04,
+      "text": "So why do So my >> [singing and music]",
+      "en": "So why do So my >> [singing and music]",
+      "zh": ""
+    },
+    {
+      "start": 120.91,
+      "duration": 0.3,
+      "text": ">> [singing and music]",
+      "en": ">> [singing and music]",
+      "zh": ""
+    },
+    {
+      "start": 120.92,
+      "duration": 3.91,
+      "text": ">> [singing and music] >> oh my good girl.",
+      "en": ">> [singing and music] >> oh my good girl.",
+      "zh": ""
+    },
+    {
+      "start": 126.31,
+      "duration": 0.3,
+      "text": "I got to believe [music]",
+      "en": "I got to believe [music]",
+      "zh": ""
+    },
+    {
+      "start": 126.32,
+      "duration": 2.05,
+      "text": "I got to believe [music] there's a woman for me somewhere",
+      "en": "I got to believe [music] there's a woman for me somewhere",
+      "zh": ""
+    },
+    {
+      "start": 128.37,
+      "duration": 0.3,
+      "text": "there's a woman for me somewhere",
+      "en": "there's a woman for me somewhere",
+      "zh": ""
+    },
+    {
+      "start": 128.38,
+      "duration": 3.01,
+      "text": "there's a woman for me somewhere [singing] in this world.",
+      "en": "there's a woman for me somewhere [singing] in this world.",
+      "zh": ""
+    },
+    {
+      "start": 131.39,
+      "duration": 0.3,
+      "text": "[singing] in this world.",
+      "en": "[singing] in this world.",
+      "zh": ""
+    },
+    {
+      "start": 131.4,
+      "duration": 7.59,
+      "text": "[singing] in this world. I'm not going to stop.",
+      "en": "[singing] in this world. I'm not going to stop.",
+      "zh": ""
+    },
+    {
+      "start": 140.82,
+      "duration": 0.3,
+      "text": "Got to believe.",
+      "en": "Got to believe.",
+      "zh": ""
+    },
+    {
+      "start": 140.83,
+      "duration": 2.61,
+      "text": "Got to believe. >> [singing]",
+      "en": "Got to believe. >> [singing]",
+      "zh": ""
+    },
+    {
+      "start": 161.91,
+      "duration": 0.3,
+      "text": ">> [singing]",
+      "en": ">> [singing]",
+      "zh": ""
+    },
+    {
+      "start": 161.92,
+      "duration": 6.19,
+      "text": ">> [singing] >> What's up, Tiny Desk?",
+      "en": ">> [singing] >> What's up, Tiny Desk?",
+      "zh": ""
+    },
+    {
+      "start": 169.35,
+      "duration": 0.3,
+      "text": "She was more [music and singing] than a",
+      "en": "She was more [music and singing] than a",
+      "zh": ""
+    },
+    {
+      "start": 169.36,
+      "duration": 4.55,
+      "text": "She was more [music and singing] than a woman and a goddess for all to see.",
+      "en": "She was more [music and singing] than a woman and a goddess for all to see.",
+      "zh": ""
+    },
+    {
+      "start": 179.46,
+      "duration": 0.3,
+      "text": "was her right here loving me.",
+      "en": "was her right here loving me.",
+      "zh": ""
+    },
+    {
+      "start": 179.47,
+      "duration": 0.48,
+      "text": "was her right here loving me. >> [music]",
+      "en": "was her right here loving me. >> [music]",
+      "zh": ""
+    },
+    {
+      "start": 179.95,
+      "duration": 0.3,
+      "text": ">> [music]",
+      "en": ">> [music]",
+      "zh": ""
+    },
+    {
+      "start": 179.96,
+      "duration": 2.12,
+      "text": ">> [music] >> For a while we were cooling and grooving",
+      "en": ">> [music] >> For a while we were cooling and grooving",
+      "zh": ""
+    },
+    {
+      "start": 182.08,
+      "duration": 0.3,
+      "text": ">> For a while we were cooling and grooving",
+      "en": ">> For a while we were cooling and grooving",
+      "zh": ""
+    },
+    {
+      "start": 182.09,
+      "duration": 3.42,
+      "text": ">> For a while we were cooling and grooving [singing] and our love was on.",
+      "en": ">> For a while we were cooling and grooving [singing] and our love was on.",
+      "zh": ""
+    },
+    {
+      "start": 188.39,
+      "duration": 0.3,
+      "text": "But I still [music] remember",
+      "en": "But I still [music] remember",
+      "zh": ""
+    },
+    {
+      "start": 188.4,
+      "duration": 3.35,
+      "text": "But I still [music] remember how I felt when the love was gone.",
+      "en": "But I still [music] remember how I felt when the love was gone.",
+      "zh": ""
+    },
+    {
+      "start": 191.75,
+      "duration": 0.3,
+      "text": "how I felt when the love was gone.",
+      "en": "how I felt when the love was gone.",
+      "zh": ""
+    },
+    {
+      "start": 191.76,
+      "duration": 0.8,
+      "text": "how I felt when the love was gone. And a time",
+      "en": "how I felt when the love was gone. And a time",
+      "zh": ""
+    },
+    {
+      "start": 192.56,
+      "duration": 0.3,
+      "text": "And a time",
+      "en": "And a time",
+      "zh": ""
+    },
+    {
+      "start": 192.57,
+      "duration": 2.74,
+      "text": "And a time >> [music and singing]",
+      "en": "And a time >> [music and singing]",
+      "zh": ""
+    },
+    {
+      "start": 201.07,
+      "duration": 0.3,
+      "text": ">> [singing and music]",
+      "en": ">> [singing and music]",
+      "zh": ""
+    },
+    {
+      "start": 201.08,
+      "duration": 0.87,
+      "text": ">> [singing and music] >> And",
+      "en": ">> [singing and music] >> And",
+      "zh": ""
+    },
+    {
+      "start": 201.95,
+      "duration": 0.3,
+      "text": ">> And",
+      "en": ">> And",
+      "zh": ""
+    },
+    {
+      "start": 201.96,
+      "duration": 3.05,
+      "text": ">> And seeking memories in her mind.",
+      "en": ">> And seeking memories in her mind.",
+      "zh": ""
+    },
+    {
+      "start": 205.01,
+      "duration": 0.3,
+      "text": "seeking memories in her mind.",
+      "en": "seeking memories in her mind.",
+      "zh": ""
+    },
+    {
+      "start": 205.02,
+      "duration": 5.23,
+      "text": "seeking memories in her mind. >> [music]",
+      "en": "seeking memories in her mind. >> [music]",
+      "zh": ""
+    },
+    {
+      "start": 211.11,
+      "duration": 0.3,
+      "text": "[singing and music]",
+      "en": "[singing and music]",
+      "zh": ""
+    },
+    {
+      "start": 211.12,
+      "duration": 2.03,
+      "text": "[singing and music] >> A heartbreak turn.",
+      "en": "[singing and music] >> A heartbreak turn.",
+      "zh": ""
+    },
+    {
+      "start": 213.15,
+      "duration": 0.3,
+      "text": ">> A heartbreak turn.",
+      "en": ">> A heartbreak turn.",
+      "zh": ""
+    },
+    {
+      "start": 213.16,
+      "duration": 3.64,
+      "text": ">> A heartbreak turn. If you know the song, sing it with me.",
+      "en": ">> A heartbreak turn. If you know the song, sing it with me.",
+      "zh": ""
+    },
+    {
+      "start": 226.62,
+      "duration": 0.3,
+      "text": ">> Was there someone",
+      "en": ">> Was there someone",
+      "zh": ""
+    },
+    {
+      "start": 226.63,
+      "duration": 4.58,
+      "text": ">> Was there someone >> [singing]",
+      "en": ">> Was there someone >> [singing]",
+      "zh": ""
+    },
+    {
+      "start": 231.27,
+      "duration": 0.3,
+      "text": "[music]",
+      "en": "[music]",
+      "zh": ""
+    },
+    {
+      "start": 231.28,
+      "duration": 2.55,
+      "text": "[music] >> Cuz it's breaking my heart",
+      "en": "[music] >> Cuz it's breaking my heart",
+      "zh": ""
+    },
+    {
+      "start": 233.83,
+      "duration": 0.3,
+      "text": ">> Cuz it's breaking my heart",
+      "en": ">> Cuz it's breaking my heart",
+      "zh": ""
+    },
+    {
+      "start": 233.84,
+      "duration": 0.3,
+      "text": ">> Cuz it's breaking my heart >> [singing]",
+      "en": ">> Cuz it's breaking my heart >> [singing]",
+      "zh": ""
+    },
+    {
+      "start": 234.11,
+      "duration": 0.3,
+      "text": ">> [singing]",
+      "en": ">> [singing]",
+      "zh": ""
+    },
+    {
+      "start": 234.12,
+      "duration": 1.83,
+      "text": ">> [singing] >> to watch you stare into the",
+      "en": ">> [singing] >> to watch you stare into the",
+      "zh": ""
+    },
+    {
+      "start": 235.95,
+      "duration": 0.3,
+      "text": ">> to watch you stare into the",
+      "en": ">> to watch you stare into the",
+      "zh": ""
+    },
+    {
+      "start": 235.96,
+      "duration": 3.43,
+      "text": ">> to watch you stare into the glass. Stare into the glass.",
+      "en": ">> to watch you stare into the glass. Stare into the glass.",
+      "zh": ""
+    },
+    {
+      "start": 239.39,
+      "duration": 0.3,
+      "text": "glass. Stare into the glass.",
+      "en": "glass. Stare into the glass.",
+      "zh": ""
+    },
+    {
+      "start": 239.4,
+      "duration": 2.23,
+      "text": "glass. Stare into the glass. Ooh, na na na [singing and music] na na.",
+      "en": "glass. Stare into the glass. Ooh, na na na [singing and music] na na.",
+      "zh": ""
+    },
+    {
+      "start": 241.63,
+      "duration": 0.3,
+      "text": "Ooh, na na na [singing and music] na na.",
+      "en": "Ooh, na na na [singing and music] na na.",
+      "zh": ""
+    },
+    {
+      "start": 241.64,
+      "duration": 2.99,
+      "text": "Ooh, na na na [singing and music] na na. As she stares into the glass, I'll never",
+      "en": "Ooh, na na na [singing and music] na na. As she stares into the glass, I'll never",
+      "zh": ""
+    },
+    {
+      "start": 244.63,
+      "duration": 0.3,
+      "text": "As she stares into the glass, I'll never",
+      "en": "As she stares into the glass, I'll never",
+      "zh": ""
+    },
+    {
+      "start": 244.64,
+      "duration": 3.11,
+      "text": "As she stares into the glass, I'll never be with [singing] her.",
+      "en": "As she stares into the glass, I'll never be with [singing] her.",
+      "zh": ""
+    },
+    {
+      "start": 250.47,
+      "duration": 0.3,
+      "text": "As she's lost [music] inside the past,",
+      "en": "As she's lost [music] inside the past,",
+      "zh": ""
+    },
+    {
+      "start": 250.48,
+      "duration": 3.23,
+      "text": "As she's lost [music] inside the past, as she moves in the",
+      "en": "As she's lost [music] inside the past, as she moves in the",
+      "zh": ""
+    },
+    {
+      "start": 255.23,
+      "duration": 0.3,
+      "text": "As she stares into",
+      "en": "As she stares into",
+      "zh": ""
+    },
+    {
+      "start": 255.24,
+      "duration": 0.83,
+      "text": "As she stares into the glass,",
+      "en": "As she stares into the glass,",
+      "zh": ""
+    },
+    {
+      "start": 256.07,
+      "duration": 0.3,
+      "text": "the glass,",
+      "en": "the glass,",
+      "zh": ""
+    },
+    {
+      "start": 256.08,
+      "duration": 4.63,
+      "text": "the glass, I'll never be [music] with",
+      "en": "the glass, I'll never be [music] with",
+      "zh": ""
+    },
+    {
+      "start": 261.99,
+      "duration": 0.3,
+      "text": "As she's lost inside the past,",
+      "en": "As she's lost inside the past,",
+      "zh": ""
+    },
+    {
+      "start": 262.0,
+      "duration": 0.47,
+      "text": "As she's lost inside the past, >> [music]",
+      "en": "As she's lost inside the past, >> [music]",
+      "zh": ""
+    },
+    {
+      "start": 262.47,
+      "duration": 0.3,
+      "text": ">> [music]",
+      "en": ">> [music]",
+      "zh": ""
+    },
+    {
+      "start": 262.48,
+      "duration": 4.75,
+      "text": ">> [music] >> many pictures in her head.",
+      "en": ">> [music] >> many pictures in her head.",
+      "zh": ""
+    },
+    {
+      "start": 280.33,
+      "duration": 0.3,
+      "text": "[singing]",
+      "en": "[singing]",
+      "zh": ""
+    },
+    {
+      "start": 280.34,
+      "duration": 0.3,
+      "text": "[singing] [music]",
+      "en": "[singing] [music]",
+      "zh": ""
+    },
+    {
+      "start": 280.47,
+      "duration": 0.3,
+      "text": "[music]",
+      "en": "[music]",
+      "zh": ""
+    },
+    {
+      "start": 280.48,
+      "duration": 3.35,
+      "text": "[music] >> Ooh, yeah.",
+      "en": "[music] >> Ooh, yeah.",
+      "zh": ""
+    },
+    {
+      "start": 286.88,
+      "duration": 0.3,
+      "text": "Sing my song.",
+      "en": "Sing my song.",
+      "zh": ""
+    },
+    {
+      "start": 286.89,
+      "duration": 2.3,
+      "text": "Sing my song. >> [singing and music]",
+      "en": "Sing my song. >> [singing and music]",
+      "zh": ""
+    },
+    {
+      "start": 291.47,
+      "duration": 0.3,
+      "text": ">> For as long as you're willing,",
+      "en": ">> For as long as you're willing,",
+      "zh": ""
+    },
+    {
+      "start": 291.48,
+      "duration": 0.91,
+      "text": ">> For as long as you're willing, >> [singing]",
+      "en": ">> For as long as you're willing, >> [singing]",
+      "zh": ""
+    },
+    {
+      "start": 292.39,
+      "duration": 0.3,
+      "text": ">> [singing]",
+      "en": ">> [singing]",
+      "zh": ""
+    },
+    {
+      "start": 292.4,
+      "duration": 1.43,
+      "text": ">> [singing] >> want you [music] to know that I'm",
+      "en": ">> [singing] >> want you [music] to know that I'm",
+      "zh": ""
+    },
+    {
+      "start": 293.83,
+      "duration": 0.3,
+      "text": ">> want you [music] to know that I'm",
+      "en": ">> want you [music] to know that I'm",
+      "zh": ""
+    },
+    {
+      "start": 293.84,
+      "duration": 1.83,
+      "text": ">> want you [music] to know that I'm willing to.",
+      "en": ">> want you [music] to know that I'm willing to.",
+      "zh": ""
+    },
+    {
+      "start": 295.67,
+      "duration": 0.3,
+      "text": "willing to.",
+      "en": "willing to.",
+      "zh": ""
+    },
+    {
+      "start": 295.68,
+      "duration": 3.51,
+      "text": "willing to. And the way you want me to go, [singing]",
+      "en": "willing to. And the way you want me to go, [singing]",
+      "zh": ""
+    },
+    {
+      "start": 299.19,
+      "duration": 0.3,
+      "text": "And the way you want me to go, [singing]",
+      "en": "And the way you want me to go, [singing]",
+      "zh": ""
+    },
+    {
+      "start": 299.2,
+      "duration": 2.07,
+      "text": "And the way you want me to go, [singing] I'll be willing [music] to go there for",
+      "en": "And the way you want me to go, [singing] I'll be willing [music] to go there for",
+      "zh": ""
+    },
+    {
+      "start": 301.27,
+      "duration": 0.3,
+      "text": "I'll be willing [music] to go there for",
+      "en": "I'll be willing [music] to go there for",
+      "zh": ""
+    },
+    {
+      "start": 301.28,
+      "duration": 1.23,
+      "text": "I'll be willing [music] to go there for you.",
+      "en": "I'll be willing [music] to go there for you.",
+      "zh": ""
+    },
+    {
+      "start": 302.51,
+      "duration": 0.3,
+      "text": "you.",
+      "en": "you.",
+      "zh": ""
+    },
+    {
+      "start": 302.52,
+      "duration": 2.7,
+      "text": "you. If you want me to take my",
+      "en": "you. If you want me to take my",
+      "zh": ""
+    },
+    {
+      "start": 305.22,
+      "duration": 0.3,
+      "text": "If you want me to take my",
+      "en": "If you want me to take my",
+      "zh": ""
+    },
+    {
+      "start": 305.23,
+      "duration": 0.56,
+      "text": "If you want me to take my >> [singing and music]",
+      "en": "If you want me to take my >> [singing and music]",
+      "zh": ""
+    },
+    {
+      "start": 305.79,
+      "duration": 0.3,
+      "text": ">> [singing and music]",
+      "en": ">> [singing and music]",
+      "zh": ""
+    },
+    {
+      "start": 305.8,
+      "duration": 3.35,
+      "text": ">> [singing and music] >> I'll be willing to spend the",
+      "en": ">> [singing and music] >> I'll be willing to spend the",
+      "zh": ""
+    },
+    {
+      "start": 309.15,
+      "duration": 0.3,
+      "text": ">> I'll be willing to spend the",
+      "en": ">> I'll be willing to spend the",
+      "zh": ""
+    },
+    {
+      "start": 309.16,
+      "duration": 3.07,
+      "text": ">> I'll be willing to spend the All you got to say is please stay,",
+      "en": ">> I'll be willing to spend the All you got to say is please stay,",
+      "zh": ""
+    },
+    {
+      "start": 312.23,
+      "duration": 0.3,
+      "text": "All you got to say is please stay,",
+      "en": "All you got to say is please stay,",
+      "zh": ""
+    },
+    {
+      "start": 312.24,
+      "duration": 1.5,
+      "text": "All you got to say is please stay, and I'll be staying as long",
+      "en": "All you got to say is please stay, and I'll be staying as long",
+      "zh": ""
+    },
+    {
+      "start": 313.74,
+      "duration": 0.3,
+      "text": "and I'll be staying as long",
+      "en": "and I'll be staying as long",
+      "zh": ""
+    },
+    {
+      "start": 313.75,
+      "duration": 1.64,
+      "text": "and I'll be staying as long [music and singing] as you say",
+      "en": "and I'll be staying as long [music and singing] as you say",
+      "zh": ""
+    },
+    {
+      "start": 315.39,
+      "duration": 0.3,
+      "text": "[music and singing] as you say",
+      "en": "[music and singing] as you say",
+      "zh": ""
+    },
+    {
+      "start": 315.4,
+      "duration": 1.79,
+      "text": "[music and singing] as you say more and more.",
+      "en": "[music and singing] as you say more and more.",
+      "zh": ""
+    },
+    {
+      "start": 317.19,
+      "duration": 0.3,
+      "text": "more and more.",
+      "en": "more and more.",
+      "zh": ""
+    },
+    {
+      "start": 317.2,
+      "duration": 2.79,
+      "text": "more and more. Then after that you want",
+      "en": "more and more. Then after that you want",
+      "zh": ""
+    },
+    {
+      "start": 319.99,
+      "duration": 0.3,
+      "text": "Then after that you want",
+      "en": "Then after that you want",
+      "zh": ""
+    },
+    {
+      "start": 320.0,
+      "duration": 1.6,
+      "text": "Then after that you want Yeah, [music] yeah.",
+      "en": "Then after that you want Yeah, [music] yeah.",
+      "zh": ""
+    },
+    {
+      "start": 321.6,
+      "duration": 0.3,
+      "text": "Yeah, [music] yeah.",
+      "en": "Yeah, [music] yeah.",
+      "zh": ""
+    },
+    {
+      "start": 321.61,
+      "duration": 5.82,
+      "text": "Yeah, [music] yeah. >> [singing]",
+      "en": "Yeah, [music] yeah. >> [singing]",
+      "zh": ""
+    },
+    {
+      "start": 330.63,
+      "duration": 0.3,
+      "text": ">> Said I hear you say",
+      "en": ">> Said I hear you say",
+      "zh": ""
+    },
+    {
+      "start": 330.64,
+      "duration": 2.09,
+      "text": ">> Said I hear you say More and more.",
+      "en": ">> Said I hear you say More and more.",
+      "zh": ""
+    },
+    {
+      "start": 332.73,
+      "duration": 0.3,
+      "text": "More and more.",
+      "en": "More and more.",
+      "zh": ""
+    },
+    {
+      "start": 332.74,
+      "duration": 1.25,
+      "text": "More and more. >> [singing and music]",
+      "en": "More and more. >> [singing and music]",
+      "zh": ""
+    },
+    {
+      "start": 333.99,
+      "duration": 0.3,
+      "text": ">> [singing and music]",
+      "en": ">> [singing and music]",
+      "zh": ""
+    },
+    {
+      "start": 334.0,
+      "duration": 3.97,
+      "text": ">> [singing and music] >> After that you want",
+      "en": ">> [singing and music] >> After that you want",
+      "zh": ""
+    },
+    {
+      "start": 343.87,
+      "duration": 0.3,
+      "text": ">> Girl, we'll be going from the bed",
+      "en": ">> Girl, we'll be going from the bed",
+      "zh": ""
+    },
+    {
+      "start": 343.88,
+      "duration": 0.87,
+      "text": ">> Girl, we'll be going from the bed >> [singing and music]",
+      "en": ">> Girl, we'll be going from the bed >> [singing and music]",
+      "zh": ""
+    },
+    {
+      "start": 344.75,
+      "duration": 0.3,
+      "text": ">> [singing and music]",
+      "en": ">> [singing and music]",
+      "zh": ""
+    },
+    {
+      "start": 344.76,
+      "duration": 3.55,
+      "text": ">> [singing and music] >> and then we'll be going",
+      "en": ">> [singing and music] >> and then we'll be going",
+      "zh": ""
+    },
+    {
+      "start": 348.31,
+      "duration": 0.3,
+      "text": ">> and then we'll be going",
+      "en": ">> and then we'll be going",
+      "zh": ""
+    },
+    {
+      "start": 348.32,
+      "duration": 3.11,
+      "text": ">> and then we'll be going Then [singing] we'll be going",
+      "en": ">> and then we'll be going Then [singing] we'll be going",
+      "zh": ""
+    },
+    {
+      "start": 351.43,
+      "duration": 0.3,
+      "text": "Then [singing] we'll be going",
+      "en": "Then [singing] we'll be going",
+      "zh": ""
+    },
+    {
+      "start": 351.44,
+      "duration": 3.23,
+      "text": "Then [singing] we'll be going then straight [music] to",
+      "en": "Then [singing] we'll be going then straight [music] to",
+      "zh": ""
+    },
+    {
+      "start": 354.67,
+      "duration": 0.3,
+      "text": "then straight [music] to",
+      "en": "then straight [music] to",
+      "zh": ""
+    },
+    {
+      "start": 354.68,
+      "duration": 1.63,
+      "text": "then straight [music] to I'll be taking you up",
+      "en": "then straight [music] to I'll be taking you up",
+      "zh": ""
+    },
+    {
+      "start": 356.31,
+      "duration": 0.3,
+      "text": "I'll be taking you up",
+      "en": "I'll be taking you up",
+      "zh": ""
+    },
+    {
+      "start": 356.32,
+      "duration": 1.47,
+      "text": "I'll be taking you up >> [singing]",
+      "en": "I'll be taking you up >> [singing]",
+      "zh": ""
+    },
+    {
+      "start": 357.79,
+      "duration": 0.3,
+      "text": ">> [singing]",
+      "en": ">> [singing]",
+      "zh": ""
+    },
+    {
+      "start": 357.8,
+      "duration": 3.47,
+      "text": ">> [singing] >> Ooh, I guarantee yeah.",
+      "en": ">> [singing] >> Ooh, I guarantee yeah.",
+      "zh": ""
+    },
+    {
+      "start": 361.27,
+      "duration": 0.3,
+      "text": ">> Ooh, I guarantee yeah.",
+      "en": ">> Ooh, I guarantee yeah.",
+      "zh": ""
+    },
+    {
+      "start": 361.28,
+      "duration": 3.27,
+      "text": ">> Ooh, I guarantee yeah. Be all over the house",
+      "en": ">> Ooh, I guarantee yeah. Be all over the house",
+      "zh": ""
+    },
+    {
+      "start": 364.55,
+      "duration": 0.3,
+      "text": "Be all over the house",
+      "en": "Be all over the house",
+      "zh": ""
+    },
+    {
+      "start": 364.56,
+      "duration": 4.2,
+      "text": "Be all over the house as long as you screaming for me.",
+      "en": "Be all over the house as long as you screaming for me.",
+      "zh": ""
+    },
+    {
+      "start": 368.76,
+      "duration": 0.3,
+      "text": "as long as you screaming for me.",
+      "en": "as long as you screaming for me.",
+      "zh": ""
+    },
+    {
+      "start": 368.77,
+      "duration": 4.94,
+      "text": "as long as you screaming for me. >> [singing]",
+      "en": "as long as you screaming for me. >> [singing]",
+      "zh": ""
+    },
+    {
+      "start": 377.93,
+      "duration": 0.3,
+      "text": "Oh baby.",
+      "en": "Oh baby.",
+      "zh": ""
+    },
+    {
+      "start": 377.94,
+      "duration": 1.3,
+      "text": "Oh baby. >> [singing]",
+      "en": "Oh baby. >> [singing]",
+      "zh": ""
+    },
+    {
+      "start": 379.24,
+      "duration": 0.3,
+      "text": ">> [singing]",
+      "en": ">> [singing]",
+      "zh": ""
+    },
+    {
+      "start": 379.25,
+      "duration": 0.54,
+      "text": ">> [singing] [music]",
+      "en": ">> [singing] [music]",
+      "zh": ""
+    },
+    {
+      "start": 379.79,
+      "duration": 0.3,
+      "text": "[music]",
+      "en": "[music]",
+      "zh": ""
+    },
+    {
+      "start": 379.8,
+      "duration": 4.68,
+      "text": "[music] >> I got to hear you say",
+      "en": "[music] >> I got to hear you say",
+      "zh": ""
+    },
+    {
+      "start": 386.03,
+      "duration": 0.3,
+      "text": ">> [music and singing]",
+      "en": ">> [music and singing]",
+      "zh": ""
+    },
+    {
+      "start": 386.04,
+      "duration": 3.27,
+      "text": ">> [music and singing] >> It's my time that I show you",
+      "en": ">> [music and singing] >> It's my time that I show you",
+      "zh": ""
+    },
+    {
+      "start": 389.31,
+      "duration": 0.3,
+      "text": ">> It's my time that I show you",
+      "en": ">> It's my time that I show you",
+      "zh": ""
+    },
+    {
+      "start": 389.32,
+      "duration": 3.31,
+      "text": ">> It's my time that I show you that I'm not your average true.",
+      "en": ">> It's my time that I show you that I'm not your average true.",
+      "zh": ""
+    },
+    {
+      "start": 392.63,
+      "duration": 0.3,
+      "text": "that I'm not your average true.",
+      "en": "that I'm not your average true.",
+      "zh": ""
+    },
+    {
+      "start": 392.64,
+      "duration": 3.87,
+      "text": "that I'm not your average true. All the ladies sing with me.",
+      "en": "that I'm not your average true. All the ladies sing with me.",
+      "zh": ""
+    },
+    {
+      "start": 400.2,
+      "duration": 0.3,
+      "text": ">> [music]",
+      "en": ">> [music]",
+      "zh": ""
+    },
+    {
+      "start": 400.21,
+      "duration": 0.54,
+      "text": ">> [music] [applause]",
+      "en": ">> [music] [applause]",
+      "zh": ""
+    },
+    {
+      "start": 400.75,
+      "duration": 0.3,
+      "text": "[applause]",
+      "en": "[applause]",
+      "zh": ""
+    },
+    {
+      "start": 400.76,
+      "duration": 4.02,
+      "text": "[applause] >> Ooh.",
+      "en": "[applause] >> Ooh.",
+      "zh": ""
+    },
+    {
+      "start": 404.91,
+      "duration": 0.3,
+      "text": ">> [singing]",
+      "en": ">> [singing]",
+      "zh": ""
+    },
+    {
+      "start": 404.92,
+      "duration": 1.83,
+      "text": ">> [singing] >> Yeah.",
+      "en": ">> [singing] >> Yeah.",
+      "zh": ""
+    },
+    {
+      "start": 406.75,
+      "duration": 0.3,
+      "text": ">> Yeah.",
+      "en": ">> Yeah.",
+      "zh": ""
+    },
+    {
+      "start": 406.76,
+      "duration": 3.75,
+      "text": ">> Yeah. >> [music]",
+      "en": ">> Yeah. >> [music]",
+      "zh": ""
+    },
+    {
+      "start": 412.64,
+      "duration": 0.3,
+      "text": ">> Is this all right?",
+      "en": ">> Is this all right?",
+      "zh": ""
+    },
+    {
+      "start": 412.65,
+      "duration": 0.3,
+      "text": ">> Is this all right? >> [music]",
+      "en": ">> Is this all right? >> [music]",
+      "zh": ""
+    },
+    {
+      "start": 412.87,
+      "duration": 0.3,
+      "text": ">> [music]",
+      "en": ">> [music]",
+      "zh": ""
+    },
+    {
+      "start": 412.88,
+      "duration": 2.19,
+      "text": ">> [music] >> Do you feel all right?",
+      "en": ">> [music] >> Do you feel all right?",
+      "zh": ""
+    },
+    {
+      "start": 415.07,
+      "duration": 0.3,
+      "text": ">> Do you feel all right?",
+      "en": ">> Do you feel all right?",
+      "zh": ""
+    },
+    {
+      "start": 415.08,
+      "duration": 1.87,
+      "text": ">> Do you feel all right? Hey.",
+      "en": ">> Do you feel all right? Hey.",
+      "zh": ""
+    },
+    {
+      "start": 416.95,
+      "duration": 0.3,
+      "text": "Hey.",
+      "en": "Hey.",
+      "zh": ""
+    },
+    {
+      "start": 418.68,
+      "duration": 1.87,
+      "text": "Hey. Ooh wee.",
+      "en": "Hey. Ooh wee.",
+      "zh": ""
+    },
+    {
+      "start": 420.55,
+      "duration": 0.3,
+      "text": "Ooh wee.",
+      "en": "Ooh wee.",
+      "zh": ""
+    },
+    {
+      "start": 437.79,
+      "duration": 0.3,
+      "text": ">> Take",
+      "en": ">> Take",
+      "zh": ""
+    },
+    {
+      "start": 437.8,
+      "duration": 3.35,
+      "text": ">> Take Baby lying on the [singing] bed, exotic",
+      "en": ">> Take Baby lying on the [singing] bed, exotic",
+      "zh": ""
+    },
+    {
+      "start": 441.15,
+      "duration": 0.3,
+      "text": "Baby lying on the [singing] bed, exotic",
+      "en": "Baby lying on the [singing] bed, exotic",
+      "zh": ""
+    },
+    {
+      "start": 441.16,
+      "duration": 4.23,
+      "text": "Baby lying on the [singing] bed, exotic fantasies going through [music] her",
+      "en": "Baby lying on the [singing] bed, exotic fantasies going through [music] her",
+      "zh": ""
+    },
+    {
+      "start": 445.39,
+      "duration": 0.3,
+      "text": "fantasies going through [music] her",
+      "en": "fantasies going through [music] her",
+      "zh": ""
+    },
+    {
+      "start": 445.4,
+      "duration": 3.51,
+      "text": "fantasies going through [music] her I jump into my [singing] self sex. I got",
+      "en": "fantasies going through [music] her I jump into my [singing] self sex. I got",
+      "zh": ""
+    },
+    {
+      "start": 448.91,
+      "duration": 0.3,
+      "text": "I jump into my [singing] self sex. I got",
+      "en": "I jump into my [singing] self sex. I got",
+      "zh": ""
+    },
+    {
+      "start": 448.92,
+      "duration": 3.83,
+      "text": "I jump into my [singing] self sex. I got to make my [music] way to the crib man",
+      "en": "I jump into my [singing] self sex. I got to make my [music] way to the crib man",
+      "zh": ""
+    },
+    {
+      "start": 452.75,
+      "duration": 0.3,
+      "text": "to make my [music] way to the crib man",
+      "en": "to make my [music] way to the crib man",
+      "zh": ""
+    },
+    {
+      "start": 452.76,
+      "duration": 3.12,
+      "text": "to make my [music] way to the crib man I see my baby as I step inside.",
+      "en": "to make my [music] way to the crib man I see my baby as I step inside.",
+      "zh": ""
+    },
+    {
+      "start": 455.88,
+      "duration": 0.3,
+      "text": "I see my baby as I step inside.",
+      "en": "I see my baby as I step inside.",
+      "zh": ""
+    },
+    {
+      "start": 455.88,
+      "duration": 0.75,
+      "text": "I see my baby as I step inside. [singing and music]",
+      "en": "I see my baby as I step inside. [singing and music]",
+      "zh": ""
+    },
+    {
+      "start": 456.63,
+      "duration": 0.3,
+      "text": "[singing and music]",
+      "en": "[singing and music]",
+      "zh": ""
+    },
+    {
+      "start": 456.64,
+      "duration": 2.67,
+      "text": "[singing and music] She's staring at me with those bedroom",
+      "en": "[singing and music] She's staring at me with those bedroom",
+      "zh": ""
+    },
+    {
+      "start": 459.31,
+      "duration": 0.3,
+      "text": "She's staring at me with those bedroom",
+      "en": "She's staring at me with those bedroom",
+      "zh": ""
+    },
+    {
+      "start": 459.32,
+      "duration": 1.43,
+      "text": "She's staring at me with those bedroom eyes.",
+      "en": "She's staring at me with those bedroom eyes.",
+      "zh": ""
+    },
+    {
+      "start": 460.75,
+      "duration": 0.3,
+      "text": "eyes.",
+      "en": "eyes.",
+      "zh": ""
+    },
+    {
+      "start": 460.76,
+      "duration": 2.32,
+      "text": "eyes. Honey sipping on some Chardonnay.",
+      "en": "eyes. Honey sipping on some Chardonnay.",
+      "zh": ""
+    },
+    {
+      "start": 463.08,
+      "duration": 0.3,
+      "text": "Honey sipping on some Chardonnay.",
+      "en": "Honey sipping on some Chardonnay.",
+      "zh": ""
+    },
+    {
+      "start": 463.09,
+      "duration": 0.82,
+      "text": "Honey sipping on some Chardonnay. [singing and music]",
+      "en": "Honey sipping on some Chardonnay. [singing and music]",
+      "zh": ""
+    },
+    {
+      "start": 463.91,
+      "duration": 0.3,
+      "text": "[singing and music]",
+      "en": "[singing and music]",
+      "zh": ""
+    },
+    {
+      "start": 463.92,
+      "duration": 2.15,
+      "text": "[singing and music] The sex is even better when she's",
+      "en": "[singing and music] The sex is even better when she's",
+      "zh": ""
+    },
+    {
+      "start": 466.07,
+      "duration": 0.3,
+      "text": "The sex is even better when she's",
+      "en": "The sex is even better when she's",
+      "zh": ""
+    },
+    {
+      "start": 466.08,
+      "duration": 3.55,
+      "text": "The sex is even better when she's feeling that way.",
+      "en": "The sex is even better when she's feeling that way.",
+      "zh": ""
+    },
+    {
+      "start": 488.27,
+      "duration": 0.3,
+      "text": "[singing]",
+      "en": "[singing]",
+      "zh": ""
+    },
+    {
+      "start": 488.28,
+      "duration": 1.66,
+      "text": "[singing] >> Make a love scene.",
+      "en": "[singing] >> Make a love scene.",
+      "zh": ""
+    },
+    {
+      "start": 489.94,
+      "duration": 0.3,
+      "text": ">> Make a love scene.",
+      "en": ">> Make a love scene.",
+      "zh": ""
+    },
+    {
+      "start": 489.94,
+      "duration": 5.24,
+      "text": ">> Make a love scene. >> [music]",
+      "en": ">> Make a love scene. >> [music]",
+      "zh": ""
+    },
+    {
+      "start": 504.51,
+      "duration": 0.3,
+      "text": ">> Make a",
+      "en": ">> Make a",
+      "zh": ""
+    },
+    {
+      "start": 504.52,
+      "duration": 2.44,
+      "text": ">> Make a love scene.",
+      "en": ">> Make a love scene.",
+      "zh": ""
+    },
+    {
+      "start": 507.23,
+      "duration": 0.3,
+      "text": ">> [music]",
+      "en": ">> [music]",
+      "zh": ""
+    },
+    {
+      "start": 507.24,
+      "duration": 3.0,
+      "text": ">> [music] >> Ooh, baby.",
+      "en": ">> [music] >> Ooh, baby.",
+      "zh": ""
+    },
+    {
+      "start": 510.87,
+      "duration": 0.3,
+      "text": ">> [singing]",
+      "en": ">> [singing]",
+      "zh": ""
+    },
+    {
+      "start": 510.88,
+      "duration": 1.98,
+      "text": ">> [singing] >> Yeah.",
+      "en": ">> [singing] >> Yeah.",
+      "zh": ""
+    },
+    {
+      "start": 512.86,
+      "duration": 0.3,
+      "text": ">> Yeah.",
+      "en": ">> Yeah.",
+      "zh": ""
+    },
+    {
+      "start": 512.87,
+      "duration": 7.85,
+      "text": ">> Yeah. >> [music]",
+      "en": ">> Yeah. >> [music]",
+      "zh": ""
+    },
+    {
+      "start": 534.43,
+      "duration": 0.3,
+      "text": ">> [music and singing]",
+      "en": ">> [music and singing]",
+      "zh": ""
+    },
+    {
+      "start": 534.44,
+      "duration": 1.35,
+      "text": ">> [music and singing] >> Let's make a",
+      "en": ">> [music and singing] >> Let's make a",
+      "zh": ""
+    },
+    {
+      "start": 535.79,
+      "duration": 0.3,
+      "text": ">> Let's make a",
+      "en": ">> Let's make a",
+      "zh": ""
+    },
+    {
+      "start": 535.8,
+      "duration": 2.51,
+      "text": ">> Let's make a love scene.",
+      "en": ">> Let's make a love scene.",
+      "zh": ""
+    },
+    {
+      "start": 542.43,
+      "duration": 0.3,
+      "text": ">> [singing and music]",
+      "en": ">> [singing and music]",
+      "zh": ""
+    },
+    {
+      "start": 542.44,
+      "duration": 2.43,
+      "text": ">> [singing and music] >> Anyway.",
+      "en": ">> [singing and music] >> Anyway.",
+      "zh": ""
+    },
+    {
+      "start": 544.87,
+      "duration": 0.3,
+      "text": ">> Anyway.",
+      "en": ">> Anyway.",
+      "zh": ""
+    },
+    {
+      "start": 544.88,
+      "duration": 2.7,
+      "text": ">> Anyway. I got to buy a new fan.",
+      "en": ">> Anyway. I got to buy a new fan.",
+      "zh": ""
+    },
+    {
+      "start": 547.58,
+      "duration": 0.3,
+      "text": "I got to buy a new fan.",
+      "en": "I got to buy a new fan.",
+      "zh": ""
+    },
+    {
+      "start": 547.59,
+      "duration": 1.95,
+      "text": "I got to buy a new fan. >> [music]",
+      "en": "I got to buy a new fan. >> [music]",
+      "zh": ""
+    },
+    {
+      "start": 549.54,
+      "duration": 0.3,
+      "text": ">> [music]",
+      "en": ">> [music]",
+      "zh": ""
+    },
+    {
+      "start": 549.55,
+      "duration": 0.36,
+      "text": ">> [music] [singing]",
+      "en": ">> [music] [singing]",
+      "zh": ""
+    },
+    {
+      "start": 549.91,
+      "duration": 0.3,
+      "text": "[singing]",
+      "en": "[singing]",
+      "zh": ""
+    },
+    {
+      "start": 549.92,
+      "duration": 1.39,
+      "text": "[singing] >> Let's make a",
+      "en": "[singing] >> Let's make a",
+      "zh": ""
+    },
+    {
+      "start": 551.31,
+      "duration": 0.3,
+      "text": ">> Let's make a",
+      "en": ">> Let's make a",
+      "zh": ""
+    },
+    {
+      "start": 551.32,
+      "duration": 1.5,
+      "text": ">> Let's make a love scene.",
+      "en": ">> Let's make a love scene.",
+      "zh": ""
+    },
+    {
+      "start": 552.82,
+      "duration": 0.3,
+      "text": "love scene.",
+      "en": "love scene.",
+      "zh": ""
+    },
+    {
+      "start": 552.83,
+      "duration": 0.76,
+      "text": "love scene. >> [music]",
+      "en": "love scene. >> [music]",
+      "zh": ""
+    },
+    {
+      "start": 553.59,
+      "duration": 0.3,
+      "text": ">> [music]",
+      "en": ">> [music]",
+      "zh": ""
+    },
+    {
+      "start": 553.6,
+      "duration": 3.15,
+      "text": ">> [music] >> Ooh, baby.",
+      "en": ">> [music] >> Ooh, baby.",
+      "zh": ""
+    },
+    {
+      "start": 562.64,
+      "duration": 0.3,
+      "text": ">> Girl, I'm down to take a",
+      "en": ">> Girl, I'm down to take a",
+      "zh": ""
+    },
+    {
+      "start": 562.65,
+      "duration": 5.46,
+      "text": ">> Girl, I'm down to take a >> [singing and music]",
+      "en": ">> Girl, I'm down to take a >> [singing and music]",
+      "zh": ""
+    },
+    {
+      "start": 570.47,
+      "duration": 0.3,
+      "text": ">> I'm down to take a sip from",
+      "en": ">> I'm down to take a sip from",
+      "zh": ""
+    },
+    {
+      "start": 570.48,
+      "duration": 3.51,
+      "text": ">> I'm down to take a sip from from your cup.",
+      "en": ">> I'm down to take a sip from from your cup.",
+      "zh": ""
+    },
+    {
+      "start": 576.4,
+      "duration": 0.3,
+      "text": "You know what? Hey. 69 [music]",
+      "en": "You know what? Hey. 69 [music]",
+      "zh": ""
+    },
+    {
+      "start": 576.41,
+      "duration": 3.3,
+      "text": "You know what? Hey. 69 [music] [singing] was a very good year.",
+      "en": "You know what? Hey. 69 [music] [singing] was a very good year.",
+      "zh": ""
+    },
+    {
+      "start": 579.71,
+      "duration": 0.3,
+      "text": "[singing] was a very good year.",
+      "en": "[singing] was a very good year.",
+      "zh": ""
+    },
+    {
+      "start": 579.72,
+      "duration": 1.63,
+      "text": "[singing] was a very good year. You know what I mean,",
+      "en": "[singing] was a very good year. You know what I mean,",
+      "zh": ""
+    },
+    {
+      "start": 581.35,
+      "duration": 0.3,
+      "text": "You know what I mean,",
+      "en": "You know what I mean,",
+      "zh": ""
+    },
+    {
+      "start": 581.36,
+      "duration": 1.95,
+      "text": "You know what I mean, my dear.",
+      "en": "You know what I mean, my dear.",
+      "zh": ""
+    },
+    {
+      "start": 583.31,
+      "duration": 0.3,
+      "text": "my dear.",
+      "en": "my dear.",
+      "zh": ""
+    },
+    {
+      "start": 583.32,
+      "duration": 2.71,
+      "text": "my dear. 69 was [music] a very good year.",
+      "en": "my dear. 69 was [music] a very good year.",
+      "zh": ""
+    },
+    {
+      "start": 586.03,
+      "duration": 0.3,
+      "text": "69 was [music] a very good year.",
+      "en": "69 was [music] a very good year.",
+      "zh": ""
+    },
+    {
+      "start": 586.04,
+      "duration": 1.51,
+      "text": "69 was [music] a very good year. >> Oh, baby.",
+      "en": "69 was [music] a very good year. >> Oh, baby.",
+      "zh": ""
+    },
+    {
+      "start": 587.55,
+      "duration": 0.3,
+      "text": ">> Oh, baby.",
+      "en": ">> Oh, baby.",
+      "zh": ""
+    },
+    {
+      "start": 587.56,
+      "duration": 1.31,
+      "text": ">> Oh, baby. >> Yeah.",
+      "en": ">> Oh, baby. >> Yeah.",
+      "zh": ""
+    },
+    {
+      "start": 588.87,
+      "duration": 0.3,
+      "text": ">> Yeah.",
+      "en": ">> Yeah.",
+      "zh": ""
+    },
+    {
+      "start": 588.88,
+      "duration": 0.79,
+      "text": ">> Yeah. >> Do it",
+      "en": ">> Yeah. >> Do it",
+      "zh": ""
+    },
+    {
+      "start": 589.67,
+      "duration": 0.3,
+      "text": ">> Do it",
+      "en": ">> Do it",
+      "zh": ""
+    },
+    {
+      "start": 589.68,
+      "duration": 1.19,
+      "text": ">> Do it over and",
+      "en": ">> Do it over and",
+      "zh": ""
+    },
+    {
+      "start": 590.87,
+      "duration": 0.3,
+      "text": "over and",
+      "en": "over and",
+      "zh": ""
+    },
+    {
+      "start": 590.88,
+      "duration": 2.31,
+      "text": "over and over again.",
+      "en": "over and over again.",
+      "zh": ""
+    },
+    {
+      "start": 593.19,
+      "duration": 0.3,
+      "text": "over again.",
+      "en": "over again.",
+      "zh": ""
+    },
+    {
+      "start": 593.2,
+      "duration": 2.19,
+      "text": "over again. >> It gets me so high.",
+      "en": "over again. >> It gets me so high.",
+      "zh": ""
+    },
+    {
+      "start": 595.39,
+      "duration": 0.3,
+      "text": ">> It gets me so high.",
+      "en": ">> It gets me so high.",
+      "zh": ""
+    },
+    {
+      "start": 595.4,
+      "duration": 0.51,
+      "text": ">> It gets me so high. >> [music]",
+      "en": ">> It gets me so high. >> [music]",
+      "zh": ""
+    },
+    {
+      "start": 595.91,
+      "duration": 0.3,
+      "text": ">> [music]",
+      "en": ">> [music]",
+      "zh": ""
+    },
+    {
+      "start": 595.92,
+      "duration": 1.39,
+      "text": ">> [music] >> It's like a love",
+      "en": ">> [music] >> It's like a love",
+      "zh": ""
+    },
+    {
+      "start": 597.31,
+      "duration": 0.3,
+      "text": ">> It's like a love",
+      "en": ">> It's like a love",
+      "zh": ""
+    },
+    {
+      "start": 597.32,
+      "duration": 2.43,
+      "text": ">> It's like a love scene.",
+      "en": ">> It's like a love scene.",
+      "zh": ""
+    },
+    {
+      "start": 602.91,
+      "duration": 0.3,
+      "text": "Let's do it on the floor.",
+      "en": "Let's do it on the floor.",
+      "zh": ""
+    },
+    {
+      "start": 602.92,
+      "duration": 4.03,
+      "text": "Let's do it on the floor. Anyway.",
+      "en": "Let's do it on the floor. Anyway.",
+      "zh": ""
+    },
+    {
+      "start": 608.07,
+      "duration": 0.3,
+      "text": "You're",
+      "en": "You're",
+      "zh": ""
+    },
+    {
+      "start": 608.08,
+      "duration": 6.31,
+      "text": "You're my kind of baby.",
+      "en": "You're my kind of baby.",
+      "zh": ""
+    },
+    {
+      "start": 614.99,
+      "duration": 0.3,
+      "text": ">> [music]",
+      "en": ">> [music]",
+      "zh": ""
+    },
+    {
+      "start": 615.0,
+      "duration": 5.39,
+      "text": ">> [music] >> Ooh, baby.",
+      "en": ">> [music] >> Ooh, baby.",
+      "zh": ""
+    },
+    {
+      "start": 622.51,
+      "duration": 0.3,
+      "text": "Let's do it.",
+      "en": "Let's do it.",
+      "zh": ""
+    },
+    {
+      "start": 622.52,
+      "duration": 5.62,
+      "text": "Let's do it. Do it again.",
+      "en": "Let's do it. Do it again.",
+      "zh": ""
+    },
+    {
+      "start": 629.39,
+      "duration": 0.3,
+      "text": ">> [music]",
+      "en": ">> [music]",
+      "zh": ""
+    },
+    {
+      "start": 629.4,
+      "duration": 2.15,
+      "text": ">> [music] >> Thank you so much.",
+      "en": ">> [music] >> Thank you so much.",
+      "zh": ""
+    },
+    {
+      "start": 631.55,
+      "duration": 0.3,
+      "text": ">> Thank you so much.",
+      "en": ">> Thank you so much.",
+      "zh": ""
+    },
+    {
+      "start": 631.56,
+      "duration": 1.87,
+      "text": ">> Thank you so much. I love this song cuz when I wrote it, I",
+      "en": ">> Thank you so much. I love this song cuz when I wrote it, I",
+      "zh": ""
+    },
+    {
+      "start": 633.43,
+      "duration": 0.3,
+      "text": "I love this song cuz when I wrote it, I",
+      "en": "I love this song cuz when I wrote it, I",
+      "zh": ""
+    },
+    {
+      "start": 633.44,
+      "duration": 2.43,
+      "text": "I love this song cuz when I wrote it, I knew it was special.",
+      "en": "I love this song cuz when I wrote it, I knew it was special.",
+      "zh": ""
+    },
+    {
+      "start": 635.87,
+      "duration": 0.3,
+      "text": "knew it was special.",
+      "en": "knew it was special.",
+      "zh": ""
+    },
+    {
+      "start": 635.88,
+      "duration": 2.71,
+      "text": "knew it was special. It goes like this.",
+      "en": "knew it was special. It goes like this.",
+      "zh": ""
+    },
+    {
+      "start": 638.59,
+      "duration": 0.3,
+      "text": "It goes like this.",
+      "en": "It goes like this.",
+      "zh": ""
+    },
+    {
+      "start": 638.6,
+      "duration": 1.47,
+      "text": "It goes like this. Tell me what kind [singing and music] of",
+      "en": "It goes like this. Tell me what kind [singing and music] of",
+      "zh": ""
+    },
+    {
+      "start": 640.07,
+      "duration": 0.3,
+      "text": "Tell me what kind [singing and music] of",
+      "en": "Tell me what kind [singing and music] of",
+      "zh": ""
+    },
+    {
+      "start": 640.08,
+      "duration": 3.19,
+      "text": "Tell me what kind [singing and music] of man would treat his woman so",
+      "en": "Tell me what kind [singing and music] of man would treat his woman so",
+      "zh": ""
+    },
+    {
+      "start": 643.27,
+      "duration": 0.3,
+      "text": "man would treat his woman so",
+      "en": "man would treat his woman so",
+      "zh": ""
+    },
+    {
+      "start": 643.28,
+      "duration": 2.51,
+      "text": "man would treat his woman so cold.",
+      "en": "man would treat his woman so cold.",
+      "zh": ""
+    },
+    {
+      "start": 645.79,
+      "duration": 0.3,
+      "text": "cold.",
+      "en": "cold.",
+      "zh": ""
+    },
+    {
+      "start": 645.8,
+      "duration": 1.31,
+      "text": "cold. Treat you like [music]",
+      "en": "cold. Treat you like [music]",
+      "zh": ""
+    },
+    {
+      "start": 647.11,
+      "duration": 0.3,
+      "text": "Treat you like [music]",
+      "en": "Treat you like [music]",
+      "zh": ""
+    },
+    {
+      "start": 647.12,
+      "duration": 1.79,
+      "text": "Treat you like [music] you're nothing",
+      "en": "Treat you like [music] you're nothing",
+      "zh": ""
+    },
+    {
+      "start": 648.91,
+      "duration": 0.3,
+      "text": "you're nothing",
+      "en": "you're nothing",
+      "zh": ""
+    },
+    {
+      "start": 648.92,
+      "duration": 4.47,
+      "text": "you're nothing when you're worth more than gold.",
+      "en": "you're nothing when you're worth more than gold.",
+      "zh": ""
+    },
+    {
+      "start": 653.39,
+      "duration": 0.3,
+      "text": "when you're worth more than gold.",
+      "en": "when you're worth more than gold.",
+      "zh": ""
+    },
+    {
+      "start": 653.4,
+      "duration": 1.35,
+      "text": "when you're worth more than gold. You're [music and singing] to me like a",
+      "en": "when you're worth more than gold. You're [music and singing] to me like a",
+      "zh": ""
+    },
+    {
+      "start": 654.75,
+      "duration": 0.3,
+      "text": "You're [music and singing] to me like a",
+      "en": "You're [music and singing] to me like a",
+      "zh": ""
+    },
+    {
+      "start": 654.76,
+      "duration": 1.63,
+      "text": "You're [music and singing] to me like a diamond.",
+      "en": "You're [music and singing] to me like a diamond.",
+      "zh": ""
+    },
+    {
+      "start": 656.39,
+      "duration": 0.3,
+      "text": "diamond.",
+      "en": "diamond.",
+      "zh": ""
+    },
+    {
+      "start": 656.4,
+      "duration": 3.99,
+      "text": "diamond. I love the way you shine.",
+      "en": "diamond. I love the way you shine.",
+      "zh": ""
+    },
+    {
+      "start": 660.39,
+      "duration": 0.3,
+      "text": "I love the way you shine.",
+      "en": "I love the way you shine.",
+      "zh": ""
+    },
+    {
+      "start": 660.4,
+      "duration": 1.55,
+      "text": "I love the way you shine. A hundred million [music] dollar",
+      "en": "I love the way you shine. A hundred million [music] dollar",
+      "zh": ""
+    },
+    {
+      "start": 661.95,
+      "duration": 0.3,
+      "text": "A hundred million [music] dollar",
+      "en": "A hundred million [music] dollar",
+      "zh": ""
+    },
+    {
+      "start": 661.96,
+      "duration": 1.55,
+      "text": "A hundred million [music] dollar treasure,",
+      "en": "A hundred million [music] dollar treasure,",
+      "zh": ""
+    },
+    {
+      "start": 663.51,
+      "duration": 0.3,
+      "text": "treasure,",
+      "en": "treasure,",
+      "zh": ""
+    },
+    {
+      "start": 663.52,
+      "duration": 2.61,
+      "text": "treasure, I give the world to make you mine.",
+      "en": "treasure, I give the world to make you mine.",
+      "zh": ""
+    },
+    {
+      "start": 666.13,
+      "duration": 0.3,
+      "text": "I give the world to make you mine.",
+      "en": "I give the world to make you mine.",
+      "zh": ""
+    },
+    {
+      "start": 666.14,
+      "duration": 2.53,
+      "text": "I give the world to make you mine. >> [singing and music]",
+      "en": "I give the world to make you mine. >> [singing and music]",
+      "zh": ""
+    },
+    {
+      "start": 670.91,
+      "duration": 0.3,
+      "text": ">> Put a string of pearls right in your",
+      "en": ">> Put a string of pearls right in your",
+      "zh": ""
+    },
+    {
+      "start": 670.92,
+      "duration": 1.11,
+      "text": ">> Put a string of pearls right in your hand.",
+      "en": ">> Put a string of pearls right in your hand.",
+      "zh": ""
+    },
+    {
+      "start": 672.03,
+      "duration": 0.3,
+      "text": "hand.",
+      "en": "hand.",
+      "zh": ""
+    },
+    {
+      "start": 672.04,
+      "duration": 1.91,
+      "text": "hand. Make love on [music] a beach of jet",
+      "en": "hand. Make love on [music] a beach of jet",
+      "zh": ""
+    },
+    {
+      "start": 673.95,
+      "duration": 0.3,
+      "text": "Make love on [music] a beach of jet",
+      "en": "Make love on [music] a beach of jet",
+      "zh": ""
+    },
+    {
+      "start": 673.96,
+      "duration": 1.79,
+      "text": "Make love on [music] a beach of jet black sand",
+      "en": "Make love on [music] a beach of jet black sand",
+      "zh": ""
+    },
+    {
+      "start": 675.75,
+      "duration": 0.3,
+      "text": "black sand",
+      "en": "black sand",
+      "zh": ""
+    },
+    {
+      "start": 675.76,
+      "duration": 0.85,
+      "text": "black sand inside of the",
+      "en": "black sand inside of the",
+      "zh": ""
+    },
+    {
+      "start": 676.61,
+      "duration": 0.3,
+      "text": "inside of the",
+      "en": "inside of the",
+      "zh": ""
+    },
+    {
+      "start": 676.62,
+      "duration": 0.3,
+      "text": "inside of the >> [singing]",
+      "en": "inside of the >> [singing]",
+      "zh": ""
+    },
+    {
+      "start": 676.67,
+      "duration": 0.3,
+      "text": ">> [singing]",
+      "en": ">> [singing]",
+      "zh": ""
+    },
+    {
+      "start": 676.68,
+      "duration": 1.31,
+      "text": ">> [singing] >> rain.",
+      "en": ">> [singing] >> rain.",
+      "zh": ""
+    },
+    {
+      "start": 677.99,
+      "duration": 0.3,
+      "text": ">> rain.",
+      "en": ">> rain.",
+      "zh": ""
+    },
+    {
+      "start": 678.0,
+      "duration": 1.67,
+      "text": ">> rain. We can do it.",
+      "en": ">> rain. We can do it.",
+      "zh": ""
+    },
+    {
+      "start": 679.67,
+      "duration": 0.3,
+      "text": "We can do it.",
+      "en": "We can do it.",
+      "zh": ""
+    },
+    {
+      "start": 679.68,
+      "duration": 2.17,
+      "text": "We can do it. Do it all night.",
+      "en": "We can do it. Do it all night.",
+      "zh": ""
+    },
+    {
+      "start": 681.85,
+      "duration": 0.3,
+      "text": "Do it all night.",
+      "en": "Do it all night.",
+      "zh": ""
+    },
+    {
+      "start": 681.86,
+      "duration": 0.97,
+      "text": "Do it all night. >> [music]",
+      "en": "Do it all night. >> [music]",
+      "zh": ""
+    },
+    {
+      "start": 682.83,
+      "duration": 0.3,
+      "text": ">> [music]",
+      "en": ">> [music]",
+      "zh": ""
+    },
+    {
+      "start": 682.84,
+      "duration": 3.51,
+      "text": ">> [music] >> I'll touch all the places he could not.",
+      "en": ">> [music] >> I'll touch all the places he could not.",
+      "zh": ""
+    },
+    {
+      "start": 686.35,
+      "duration": 0.3,
+      "text": ">> I'll touch all the places he could not.",
+      "en": ">> I'll touch all the places he could not.",
+      "zh": ""
+    },
+    {
+      "start": 686.36,
+      "duration": 2.19,
+      "text": ">> I'll touch all the places he could not. And Sammy never [singing] knew it get",
+      "en": ">> I'll touch all the places he could not. And Sammy never [singing] knew it get",
+      "zh": ""
+    },
+    {
+      "start": 688.55,
+      "duration": 0.3,
+      "text": "And Sammy never [singing] knew it get",
+      "en": "And Sammy never [singing] knew it get",
+      "zh": ""
+    },
+    {
+      "start": 688.56,
+      "duration": 1.91,
+      "text": "And Sammy never [singing] knew it get you hot.",
+      "en": "And Sammy never [singing] knew it get you hot.",
+      "zh": ""
+    },
+    {
+      "start": 690.47,
+      "duration": 0.3,
+      "text": "you hot.",
+      "en": "you hot.",
+      "zh": ""
+    },
+    {
+      "start": 690.48,
+      "duration": 1.75,
+      "text": "you hot. Nothing else would [music] be done",
+      "en": "you hot. Nothing else would [music] be done",
+      "zh": ""
+    },
+    {
+      "start": 692.23,
+      "duration": 0.3,
+      "text": "Nothing else would [music] be done",
+      "en": "Nothing else would [music] be done",
+      "zh": ""
+    },
+    {
+      "start": 692.24,
+      "duration": 1.4,
+      "text": "Nothing else would [music] be done when we turn.",
+      "en": "Nothing else would [music] be done when we turn.",
+      "zh": ""
+    },
+    {
+      "start": 693.64,
+      "duration": 0.3,
+      "text": "when we turn.",
+      "en": "when we turn.",
+      "zh": ""
+    },
+    {
+      "start": 693.65,
+      "duration": 2.54,
+      "text": "when we turn. >> [singing]",
+      "en": "when we turn. >> [singing]",
+      "zh": ""
+    },
+    {
+      "start": 697.59,
+      "duration": 0.3,
+      "text": ">> Now baby, [music]",
+      "en": ">> Now baby, [music]",
+      "zh": ""
+    },
+    {
+      "start": 697.6,
+      "duration": 0.55,
+      "text": ">> Now baby, [music] I",
+      "en": ">> Now baby, [music] I",
+      "zh": ""
+    },
+    {
+      "start": 698.15,
+      "duration": 0.3,
+      "text": "I",
+      "en": "I",
+      "zh": ""
+    },
+    {
+      "start": 698.16,
+      "duration": 1.23,
+      "text": "I >> I want to do",
+      "en": "I >> I want to do",
+      "zh": ""
+    },
+    {
+      "start": 699.39,
+      "duration": 0.3,
+      "text": ">> I want to do",
+      "en": ">> I want to do",
+      "zh": ""
+    },
+    {
+      "start": 700.2,
+      "duration": 0.67,
+      "text": ">> I want to do >> all [singing]",
+      "en": ">> I want to do >> all [singing]",
+      "zh": ""
+    },
+    {
+      "start": 700.87,
+      "duration": 0.3,
+      "text": ">> all [singing]",
+      "en": ">> all [singing]",
+      "zh": ""
+    },
+    {
+      "start": 700.88,
+      "duration": 0.3,
+      "text": ">> all [singing] the love",
+      "en": ">> all [singing] the love",
+      "zh": ""
+    },
+    {
+      "start": 701.07,
+      "duration": 0.3,
+      "text": "the love",
+      "en": "the love",
+      "zh": ""
+    },
+    {
+      "start": 701.08,
+      "duration": 0.91,
+      "text": "the love >> all the love",
+      "en": "the love >> all the love",
+      "zh": ""
+    },
+    {
+      "start": 701.99,
+      "duration": 0.3,
+      "text": ">> all the love",
+      "en": ">> all the love",
+      "zh": ""
+    },
+    {
+      "start": 702.0,
+      "duration": 2.43,
+      "text": ">> all the love >> things your man won't do.",
+      "en": ">> all the love >> things your man won't do.",
+      "zh": ""
+    },
+    {
+      "start": 704.43,
+      "duration": 0.3,
+      "text": ">> things your man won't do.",
+      "en": ">> things your man won't do.",
+      "zh": ""
+    },
+    {
+      "start": 704.44,
+      "duration": 2.67,
+      "text": ">> things your man won't do. >> Every little thing, every little thing",
+      "en": ">> things your man won't do. >> Every little thing, every little thing",
+      "zh": ""
+    },
+    {
+      "start": 707.11,
+      "duration": 0.3,
+      "text": ">> Every little thing, every little thing",
+      "en": ">> Every little thing, every little thing",
+      "zh": ""
+    },
+    {
+      "start": 707.12,
+      "duration": 1.63,
+      "text": ">> Every little thing, every little thing >> I'll do [singing and music] them for",
+      "en": ">> Every little thing, every little thing >> I'll do [singing and music] them for",
+      "zh": ""
+    },
+    {
+      "start": 708.75,
+      "duration": 0.3,
+      "text": ">> I'll do [singing and music] them for",
+      "en": ">> I'll do [singing and music] them for",
+      "zh": ""
+    },
+    {
+      "start": 708.76,
+      "duration": 2.23,
+      "text": ">> I'll do [singing and music] them for you.",
+      "en": ">> I'll do [singing and music] them for you.",
+      "zh": ""
+    },
+    {
+      "start": 711.95,
+      "duration": 0.3,
+      "text": "Baby",
+      "en": "Baby",
+      "zh": ""
+    },
+    {
+      "start": 711.96,
+      "duration": 0.71,
+      "text": "Baby >> Baby",
+      "en": "Baby >> Baby",
+      "zh": ""
+    },
+    {
+      "start": 712.67,
+      "duration": 0.3,
+      "text": ">> Baby",
+      "en": ">> Baby",
+      "zh": ""
+    },
+    {
+      "start": 712.68,
+      "duration": 1.07,
+      "text": ">> Baby >> I want [singing] to do",
+      "en": ">> Baby >> I want [singing] to do",
+      "zh": ""
+    },
+    {
+      "start": 713.75,
+      "duration": 0.3,
+      "text": ">> I want [singing] to do",
+      "en": ">> I want [singing] to do",
+      "zh": ""
+    },
+    {
+      "start": 713.76,
+      "duration": 0.91,
+      "text": ">> I want [singing] to do >> I want to do",
+      "en": ">> I want [singing] to do >> I want to do",
+      "zh": ""
+    },
+    {
+      "start": 714.67,
+      "duration": 0.3,
+      "text": ">> I want to do",
+      "en": ">> I want to do",
+      "zh": ""
+    },
+    {
+      "start": 714.68,
+      "duration": 1.07,
+      "text": ">> I want to do >> all the love [music]",
+      "en": ">> I want to do >> all the love [music]",
+      "zh": ""
+    },
+    {
+      "start": 715.75,
+      "duration": 0.3,
+      "text": ">> all the love [music]",
+      "en": ">> all the love [music]",
+      "zh": ""
+    },
+    {
+      "start": 715.76,
+      "duration": 0.91,
+      "text": ">> all the love [music] >> all the love",
+      "en": ">> all the love [music] >> all the love",
+      "zh": ""
+    },
+    {
+      "start": 716.67,
+      "duration": 0.3,
+      "text": ">> all the love",
+      "en": ">> all the love",
+      "zh": ""
+    },
+    {
+      "start": 716.68,
+      "duration": 2.27,
+      "text": ">> all the love >> things your man won't do.",
+      "en": ">> all the love >> things your man won't do.",
+      "zh": ""
+    },
+    {
+      "start": 718.95,
+      "duration": 0.3,
+      "text": ">> things your man won't do.",
+      "en": ">> things your man won't do.",
+      "zh": ""
+    },
+    {
+      "start": 718.96,
+      "duration": 2.67,
+      "text": ">> things your man won't do. >> Every little thing, I'll be there.",
+      "en": ">> things your man won't do. >> Every little thing, I'll be there.",
+      "zh": ""
+    },
+    {
+      "start": 721.63,
+      "duration": 0.3,
+      "text": ">> Every little thing, I'll be there.",
+      "en": ">> Every little thing, I'll be there.",
+      "zh": ""
+    },
+    {
+      "start": 721.64,
+      "duration": 1.31,
+      "text": ">> Every little thing, I'll be there. >> I'll do them",
+      "en": ">> Every little thing, I'll be there. >> I'll do them",
+      "zh": ""
+    },
+    {
+      "start": 722.95,
+      "duration": 0.3,
+      "text": ">> I'll do them",
+      "en": ">> I'll do them",
+      "zh": ""
+    },
+    {
+      "start": 722.96,
+      "duration": 2.55,
+      "text": ">> I'll do them for you. [singing and music]",
+      "en": ">> I'll do them for you. [singing and music]",
+      "zh": ""
+    },
+    {
+      "start": 730.71,
+      "duration": 0.3,
+      "text": ">> [music]",
+      "en": ">> [music]",
+      "zh": ""
+    },
+    {
+      "start": 730.72,
+      "duration": 3.43,
+      "text": ">> [music] >> We just can't lose cuz we got a night to",
+      "en": ">> [music] >> We just can't lose cuz we got a night to",
+      "zh": ""
+    },
+    {
+      "start": 734.15,
+      "duration": 0.3,
+      "text": ">> We just can't lose cuz we got a night to",
+      "en": ">> We just can't lose cuz we got a night to",
+      "zh": ""
+    },
+    {
+      "start": 734.16,
+      "duration": 3.79,
+      "text": ">> We just can't lose cuz we got a night to look forward to. You sing.",
+      "en": ">> We just can't lose cuz we got a night to look forward to. You sing.",
+      "zh": ""
+    },
+    {
+      "start": 737.95,
+      "duration": 0.3,
+      "text": "look forward to. You sing.",
+      "en": "look forward to. You sing.",
+      "zh": ""
+    },
+    {
+      "start": 737.96,
+      "duration": 1.53,
+      "text": "look forward to. You sing. >> What you going to do?",
+      "en": "look forward to. You sing. >> What you going to do?",
+      "zh": ""
+    },
+    {
+      "start": 739.49,
+      "duration": 0.3,
+      "text": ">> What you going to do?",
+      "en": ">> What you going to do?",
+      "zh": ""
+    },
+    {
+      "start": 739.5,
+      "duration": 0.3,
+      "text": ">> What you going to do? >> [music]",
+      "en": ">> What you going to do? >> [music]",
+      "zh": ""
+    },
+    {
+      "start": 739.55,
+      "duration": 0.3,
+      "text": ">> [music]",
+      "en": ">> [music]",
+      "zh": ""
+    },
+    {
+      "start": 739.56,
+      "duration": 0.95,
+      "text": ">> [music] >> Hey.",
+      "en": ">> [music] >> Hey.",
+      "zh": ""
+    },
+    {
+      "start": 740.51,
+      "duration": 0.3,
+      "text": ">> Hey.",
+      "en": ">> Hey.",
+      "zh": ""
+    },
+    {
+      "start": 740.52,
+      "duration": 2.71,
+      "text": ">> Hey. What good is a diamond [singing]",
+      "en": ">> Hey. What good is a diamond [singing]",
+      "zh": ""
+    },
+    {
+      "start": 743.23,
+      "duration": 0.3,
+      "text": "What good is a diamond [singing]",
+      "en": "What good is a diamond [singing]",
+      "zh": ""
+    },
+    {
+      "start": 743.24,
+      "duration": 3.43,
+      "text": "What good is a diamond [singing] nobody can [music] see?",
+      "en": "What good is a diamond [singing] nobody can [music] see?",
+      "zh": ""
+    },
+    {
+      "start": 748.66,
+      "duration": 0.3,
+      "text": "I hear he's got you",
+      "en": "I hear he's got you",
+      "zh": ""
+    },
+    {
+      "start": 748.67,
+      "duration": 0.3,
+      "text": "I hear he's got you >> [singing]",
+      "en": "I hear he's got you >> [singing]",
+      "zh": ""
+    },
+    {
+      "start": 748.95,
+      "duration": 0.3,
+      "text": ">> [singing]",
+      "en": ">> [singing]",
+      "zh": ""
+    },
+    {
+      "start": 748.96,
+      "duration": 1.35,
+      "text": ">> [singing] >> locked down,",
+      "en": ">> [singing] >> locked down,",
+      "zh": ""
+    },
+    {
+      "start": 750.31,
+      "duration": 0.3,
+      "text": ">> locked down,",
+      "en": ">> locked down,",
+      "zh": ""
+    },
+    {
+      "start": 750.32,
+      "duration": 4.79,
+      "text": ">> locked down, but I [music] got the master key.",
+      "en": ">> locked down, but I [music] got the master key.",
+      "zh": ""
+    },
+    {
+      "start": 757.79,
+      "duration": 0.3,
+      "text": "I'll light a thousand candles on my",
+      "en": "I'll light a thousand candles on my",
+      "zh": ""
+    },
+    {
+      "start": 757.8,
+      "duration": 1.03,
+      "text": "I'll light a thousand candles on my mound.",
+      "en": "I'll light a thousand candles on my mound.",
+      "zh": ""
+    },
+    {
+      "start": 758.83,
+      "duration": 0.3,
+      "text": "mound.",
+      "en": "mound.",
+      "zh": ""
+    },
+    {
+      "start": 758.84,
+      "duration": 3.58,
+      "text": "mound. Show me to burn it",
+      "en": "mound. Show me to burn it",
+      "zh": ""
+    },
+    {
+      "start": 762.55,
+      "duration": 0.3,
+      "text": ">> [music]",
+      "en": ">> [music]",
+      "zh": ""
+    },
+    {
+      "start": 762.56,
+      "duration": 6.41,
+      "text": ">> [music] >> Nothing can be sweeter than the sound.",
+      "en": ">> [music] >> Nothing can be sweeter than the sound.",
+      "zh": ""
+    },
+    {
+      "start": 769.79,
+      "duration": 0.3,
+      "text": ">> [music]",
+      "en": ">> [music]",
+      "zh": ""
+    },
+    {
+      "start": 769.8,
+      "duration": 3.43,
+      "text": ">> [music] >> Baby, when I start I just can't stop.",
+      "en": ">> [music] >> Baby, when I start I just can't stop.",
+      "zh": ""
+    },
+    {
+      "start": 773.23,
+      "duration": 0.3,
+      "text": ">> Baby, when I start I just can't stop.",
+      "en": ">> Baby, when I start I just can't stop.",
+      "zh": ""
+    },
+    {
+      "start": 773.24,
+      "duration": 2.55,
+      "text": ">> Baby, when I start I just can't stop. I'll love you from the bottom to the",
+      "en": ">> Baby, when I start I just can't stop. I'll love you from the bottom to the",
+      "zh": ""
+    },
+    {
+      "start": 775.79,
+      "duration": 0.3,
+      "text": "I'll love you from the bottom to the",
+      "en": "I'll love you from the bottom to the",
+      "zh": ""
+    },
+    {
+      "start": 775.8,
+      "duration": 1.03,
+      "text": "I'll love you from the bottom to the top.",
+      "en": "I'll love you from the bottom to the top.",
+      "zh": ""
+    },
+    {
+      "start": 776.83,
+      "duration": 0.3,
+      "text": "top.",
+      "en": "top.",
+      "zh": ""
+    },
+    {
+      "start": 776.84,
+      "duration": 0.3,
+      "text": "top. >> [music]",
+      "en": "top. >> [music]",
+      "zh": ""
+    },
+    {
+      "start": 777.07,
+      "duration": 0.3,
+      "text": ">> [music]",
+      "en": ">> [music]",
+      "zh": ""
+    },
+    {
+      "start": 777.08,
+      "duration": 2.39,
+      "text": ">> [music] >> Nothing is forbidden",
+      "en": ">> [music] >> Nothing is forbidden",
+      "zh": ""
+    },
+    {
+      "start": 779.47,
+      "duration": 0.3,
+      "text": ">> Nothing is forbidden",
+      "en": ">> Nothing is forbidden",
+      "zh": ""
+    },
+    {
+      "start": 779.48,
+      "duration": 1.93,
+      "text": ">> Nothing is forbidden when we turn.",
+      "en": ">> Nothing is forbidden when we turn.",
+      "zh": ""
+    },
+    {
+      "start": 781.41,
+      "duration": 0.3,
+      "text": "when we turn.",
+      "en": "when we turn.",
+      "zh": ""
+    },
+    {
+      "start": 781.42,
+      "duration": 2.05,
+      "text": "when we turn. >> [music]",
+      "en": "when we turn. >> [music]",
+      "zh": ""
+    },
+    {
+      "start": 784.43,
+      "duration": 0.3,
+      "text": ">> Baby",
+      "en": ">> Baby",
+      "zh": ""
+    },
+    {
+      "start": 785.32,
+      "duration": 1.87,
+      "text": ">> Baby >> I want to [singing] do",
+      "en": ">> Baby >> I want to [singing] do",
+      "zh": ""
+    },
+    {
+      "start": 787.19,
+      "duration": 0.3,
+      "text": ">> I want to [singing] do",
+      "en": ">> I want to [singing] do",
+      "zh": ""
+    },
+    {
+      "start": 787.2,
+      "duration": 1.79,
+      "text": ">> I want to [singing] do all the love",
+      "en": ">> I want to [singing] do all the love",
+      "zh": ""
+    },
+    {
+      "start": 788.99,
+      "duration": 0.3,
+      "text": "all the love",
+      "en": "all the love",
+      "zh": ""
+    },
+    {
+      "start": 789.0,
+      "duration": 2.47,
+      "text": "all the love things your man won't [music] do.",
+      "en": "all the love things your man won't [music] do.",
+      "zh": ""
+    },
+    {
+      "start": 791.47,
+      "duration": 0.3,
+      "text": "things your man won't [music] do.",
+      "en": "things your man won't [music] do.",
+      "zh": ""
+    },
+    {
+      "start": 791.48,
+      "duration": 2.67,
+      "text": "things your man won't [music] do. >> I'm going to I'm going to all the",
+      "en": "things your man won't [music] do. >> I'm going to I'm going to all the",
+      "zh": ""
+    },
+    {
+      "start": 794.15,
+      "duration": 0.3,
+      "text": ">> I'm going to I'm going to all the",
+      "en": ">> I'm going to I'm going to all the",
+      "zh": ""
+    },
+    {
+      "start": 794.16,
+      "duration": 1.23,
+      "text": ">> I'm going to I'm going to all the >> I'll do them [singing]",
+      "en": ">> I'm going to I'm going to all the >> I'll do them [singing]",
+      "zh": ""
+    },
+    {
+      "start": 795.39,
+      "duration": 0.3,
+      "text": ">> I'll do them [singing]",
+      "en": ">> I'll do them [singing]",
+      "zh": ""
+    },
+    {
+      "start": 795.4,
+      "duration": 2.39,
+      "text": ">> I'll do them [singing] for you.",
+      "en": ">> I'll do them [singing] for you.",
+      "zh": ""
+    },
+    {
+      "start": 797.79,
+      "duration": 0.3,
+      "text": "for you.",
+      "en": "for you.",
+      "zh": ""
+    },
+    {
+      "start": 797.8,
+      "duration": 0.3,
+      "text": "for you. >> [music]",
+      "en": "for you. >> [music]",
+      "zh": ""
+    },
+    {
+      "start": 797.95,
+      "duration": 0.3,
+      "text": ">> [music]",
+      "en": ">> [music]",
+      "zh": ""
+    },
+    {
+      "start": 797.96,
+      "duration": 0.91,
+      "text": ">> [music] >> Baby",
+      "en": ">> [music] >> Baby",
+      "zh": ""
+    },
+    {
+      "start": 798.87,
+      "duration": 0.3,
+      "text": ">> Baby",
+      "en": ">> Baby",
+      "zh": ""
+    },
+    {
+      "start": 799.64,
+      "duration": 1.03,
+      "text": ">> Baby >> I want to [singing] do",
+      "en": ">> Baby >> I want to [singing] do",
+      "zh": ""
+    },
+    {
+      "start": 800.67,
+      "duration": 0.3,
+      "text": ">> I want to [singing] do",
+      "en": ">> I want to [singing] do",
+      "zh": ""
+    },
+    {
+      "start": 800.68,
+      "duration": 0.87,
+      "text": ">> I want to [singing] do >> I want to do",
+      "en": ">> I want to [singing] do >> I want to do",
+      "zh": ""
+    },
+    {
+      "start": 801.55,
+      "duration": 0.3,
+      "text": ">> I want to do",
+      "en": ">> I want to do",
+      "zh": ""
+    },
+    {
+      "start": 801.56,
+      "duration": 0.91,
+      "text": ">> I want to do >> all the love",
+      "en": ">> I want to do >> all the love",
+      "zh": ""
+    },
+    {
+      "start": 802.47,
+      "duration": 0.3,
+      "text": ">> all the love",
+      "en": ">> all the love",
+      "zh": ""
+    },
+    {
+      "start": 803.44,
+      "duration": 3.52,
+      "text": ">> all the love >> things [music] your man won't do.",
+      "en": ">> all the love >> things [music] your man won't do.",
+      "zh": ""
+    },
+    {
+      "start": 806.96,
+      "duration": 0.3,
+      "text": ">> things [music] your man won't do.",
+      "en": ">> things [music] your man won't do.",
+      "zh": ""
+    },
+    {
+      "start": 806.97,
+      "duration": 1.54,
+      "text": ">> things [music] your man won't do. >> [singing]",
+      "en": ">> things [music] your man won't do. >> [singing]",
+      "zh": ""
+    },
+    {
+      "start": 808.51,
+      "duration": 0.3,
+      "text": ">> [singing]",
+      "en": ">> [singing]",
+      "zh": ""
+    },
+    {
+      "start": 808.52,
+      "duration": 1.11,
+      "text": ">> [singing] >> I'll do them",
+      "en": ">> [singing] >> I'll do them",
+      "zh": ""
+    },
+    {
+      "start": 809.63,
+      "duration": 0.3,
+      "text": ">> I'll do them",
+      "en": ">> I'll do them",
+      "zh": ""
+    },
+    {
+      "start": 809.64,
+      "duration": 0.31,
+      "text": ">> I'll do them for you.",
+      "en": ">> I'll do them for you.",
+      "zh": ""
+    },
+    {
+      "start": 809.95,
+      "duration": 0.3,
+      "text": "for you.",
+      "en": "for you.",
+      "zh": ""
+    },
+    {
+      "start": 809.96,
+      "duration": 2.15,
+      "text": "for you. >> All right, let's turn up here.",
+      "en": "for you. >> All right, let's turn up here.",
+      "zh": ""
+    },
+    {
+      "start": 812.11,
+      "duration": 0.3,
+      "text": ">> All right, let's turn up here.",
+      "en": ">> All right, let's turn up here.",
+      "zh": ""
+    },
+    {
+      "start": 812.12,
+      "duration": 1.99,
+      "text": ">> All right, let's turn up here. Say ooh, I got [music] a jones in my",
+      "en": ">> All right, let's turn up here. Say ooh, I got [music] a jones in my",
+      "zh": ""
+    },
+    {
+      "start": 814.11,
+      "duration": 0.3,
+      "text": "Say ooh, I got [music] a jones in my",
+      "en": "Say ooh, I got [music] a jones in my",
+      "zh": ""
+    },
+    {
+      "start": 814.12,
+      "duration": 2.11,
+      "text": "Say ooh, I got [music] a jones in my bones for you.",
+      "en": "Say ooh, I got [music] a jones in my bones for you.",
+      "zh": ""
+    },
+    {
+      "start": 816.23,
+      "duration": 0.3,
+      "text": "bones for you.",
+      "en": "bones for you.",
+      "zh": ""
+    },
+    {
+      "start": 816.24,
+      "duration": 2.67,
+      "text": "bones for you. There ain't a damn thing that",
+      "en": "bones for you. There ain't a damn thing that",
+      "zh": ""
+    },
+    {
+      "start": 818.91,
+      "duration": 0.3,
+      "text": "There ain't a damn thing that",
+      "en": "There ain't a damn thing that",
+      "zh": ""
+    },
+    {
+      "start": 818.92,
+      "duration": 3.59,
+      "text": "There ain't a damn thing that I won't do.",
+      "en": "There ain't a damn thing that I won't do.",
+      "zh": ""
+    },
+    {
+      "start": 823.23,
+      "duration": 0.3,
+      "text": "Say what?",
+      "en": "Say what?",
+      "zh": ""
+    },
+    {
+      "start": 823.24,
+      "duration": 3.37,
+      "text": "Say what? >> I won't climb a mountain.",
+      "en": "Say what? >> I won't climb a mountain.",
+      "zh": ""
+    },
+    {
+      "start": 836.03,
+      "duration": 0.3,
+      "text": "I want to do all of you.",
+      "en": "I want to do all of you.",
+      "zh": ""
+    },
+    {
+      "start": 836.04,
+      "duration": 3.55,
+      "text": "I want to do all of you. Hey.",
+      "en": "I want to do all of you. Hey.",
+      "zh": ""
+    },
+    {
+      "start": 840.95,
+      "duration": 0.3,
+      "text": "One more time.",
+      "en": "One more time.",
+      "zh": ""
+    },
+    {
+      "start": 840.96,
+      "duration": 2.03,
+      "text": "One more time. Say ooh, I got [music] a jones in my",
+      "en": "One more time. Say ooh, I got [music] a jones in my",
+      "zh": ""
+    },
+    {
+      "start": 842.99,
+      "duration": 0.3,
+      "text": "Say ooh, I got [music] a jones in my",
+      "en": "Say ooh, I got [music] a jones in my",
+      "zh": ""
+    },
+    {
+      "start": 843.0,
+      "duration": 2.11,
+      "text": "Say ooh, I got [music] a jones in my bones for you. Say what?",
+      "en": "Say ooh, I got [music] a jones in my bones for you. Say what?",
+      "zh": ""
+    },
+    {
+      "start": 845.11,
+      "duration": 0.3,
+      "text": "bones for you. Say what?",
+      "en": "bones for you. Say what?",
+      "zh": ""
+    },
+    {
+      "start": 845.12,
+      "duration": 2.95,
+      "text": "bones for you. Say what? >> There ain't a damn thing that",
+      "en": "bones for you. Say what? >> There ain't a damn thing that",
+      "zh": ""
+    },
+    {
+      "start": 848.07,
+      "duration": 0.3,
+      "text": ">> There ain't a damn thing that",
+      "en": ">> There ain't a damn thing that",
+      "zh": ""
+    },
+    {
+      "start": 848.08,
+      "duration": 0.47,
+      "text": ">> There ain't a damn thing that >> Say what?",
+      "en": ">> There ain't a damn thing that >> Say what?",
+      "zh": ""
+    },
+    {
+      "start": 848.55,
+      "duration": 0.3,
+      "text": ">> Say what?",
+      "en": ">> Say what?",
+      "zh": ""
+    },
+    {
+      "start": 848.56,
+      "duration": 1.47,
+      "text": ">> Say what? >> Change [music] my mind, drink the",
+      "en": ">> Say what? >> Change [music] my mind, drink the",
+      "zh": ""
+    },
+    {
+      "start": 850.03,
+      "duration": 0.3,
+      "text": ">> Change [music] my mind, drink the",
+      "en": ">> Change [music] my mind, drink the",
+      "zh": ""
+    },
+    {
+      "start": 850.04,
+      "duration": 2.15,
+      "text": ">> Change [music] my mind, drink the Mississippi.",
+      "en": ">> Change [music] my mind, drink the Mississippi.",
+      "zh": ""
+    },
+    {
+      "start": 852.19,
+      "duration": 0.3,
+      "text": "Mississippi.",
+      "en": "Mississippi.",
+      "zh": ""
+    },
+    {
+      "start": 852.2,
+      "duration": 1.71,
+      "text": "Mississippi. I won't climb a mountain, I hear your",
+      "en": "Mississippi. I won't climb a mountain, I hear your",
+      "zh": ""
+    },
+    {
+      "start": 853.91,
+      "duration": 0.3,
+      "text": "I won't climb a mountain, I hear your",
+      "en": "I won't climb a mountain, I hear your",
+      "zh": ""
+    },
+    {
+      "start": 853.92,
+      "duration": 1.51,
+      "text": "I won't climb a mountain, I hear your love bug",
+      "en": "I won't climb a mountain, I hear your love bug",
+      "zh": ""
+    },
+    {
+      "start": 855.43,
+      "duration": 0.3,
+      "text": "love bug",
+      "en": "love bug",
+      "zh": ""
+    },
+    {
+      "start": 855.44,
+      "duration": 5.23,
+      "text": "love bug >> [music]",
+      "en": "love bug >> [music]",
+      "zh": ""
+    },
+    {
+      "start": 861.98,
+      "duration": 0.3,
+      "text": "[cheering]",
+      "en": "[cheering]",
+      "zh": ""
+    },
+    {
+      "start": 861.99,
+      "duration": 3.26,
+      "text": "[cheering] [applause]",
+      "en": "[cheering] [applause]",
+      "zh": ""
+    },
+    {
+      "start": 866.87,
+      "duration": 0.3,
+      "text": "[music]",
+      "en": "[music]",
+      "zh": ""
+    },
+    {
+      "start": 866.88,
+      "duration": 3.39,
+      "text": "[music] >> Well.",
+      "en": "[music] >> Well.",
+      "zh": ""
+    },
+    {
+      "start": 871.27,
+      "duration": 0.3,
+      "text": "Ooh wee.",
+      "en": "Ooh wee.",
+      "zh": ""
+    },
+    {
+      "start": 871.28,
+      "duration": 1.11,
+      "text": "Ooh wee. >> Ooh wee.",
+      "en": "Ooh wee. >> Ooh wee.",
+      "zh": ""
+    },
+    {
+      "start": 872.39,
+      "duration": 0.3,
+      "text": ">> Ooh wee.",
+      "en": ">> Ooh wee.",
+      "zh": ""
+    },
+    {
+      "start": 873.28,
+      "duration": 1.79,
+      "text": ">> Ooh wee. Oh yeah.",
+      "en": ">> Ooh wee. Oh yeah.",
+      "zh": ""
+    },
+    {
+      "start": 875.07,
+      "duration": 0.3,
+      "text": "Oh yeah.",
+      "en": "Oh yeah.",
+      "zh": ""
+    },
+    {
+      "start": 875.08,
+      "duration": 1.27,
+      "text": "Oh yeah. Ooh woah.",
+      "en": "Oh yeah. Ooh woah.",
+      "zh": ""
+    },
+    {
+      "start": 876.35,
+      "duration": 0.3,
+      "text": "Ooh woah.",
+      "en": "Ooh woah.",
+      "zh": ""
+    },
+    {
+      "start": 876.36,
+      "duration": 1.31,
+      "text": "Ooh woah. I got a special guest for y'all this",
+      "en": "Ooh woah. I got a special guest for y'all this",
+      "zh": ""
+    },
+    {
+      "start": 877.67,
+      "duration": 0.3,
+      "text": "I got a special guest for y'all this",
+      "en": "I got a special guest for y'all this",
+      "zh": ""
+    },
+    {
+      "start": 877.68,
+      "duration": 1.95,
+      "text": "I got a special guest for y'all this evening.",
+      "en": "I got a special guest for y'all this evening.",
+      "zh": ""
+    },
+    {
+      "start": 879.63,
+      "duration": 0.3,
+      "text": "evening.",
+      "en": "evening.",
+      "zh": ""
+    },
+    {
+      "start": 879.64,
+      "duration": 2.75,
+      "text": "evening. When I say special, I mean very special.",
+      "en": "evening. When I say special, I mean very special.",
+      "zh": ""
+    },
+    {
+      "start": 882.39,
+      "duration": 0.3,
+      "text": "When I say special, I mean very special.",
+      "en": "When I say special, I mean very special.",
+      "zh": ""
+    },
+    {
+      "start": 882.4,
+      "duration": 2.35,
+      "text": "When I say special, I mean very special. Ladies and gentle gentlemen,",
+      "en": "When I say special, I mean very special. Ladies and gentle gentlemen,",
+      "zh": ""
+    },
+    {
+      "start": 884.75,
+      "duration": 0.3,
+      "text": "Ladies and gentle gentlemen,",
+      "en": "Ladies and gentle gentlemen,",
+      "zh": ""
+    },
+    {
+      "start": 884.76,
+      "duration": 1.55,
+      "text": "Ladies and gentle gentlemen, my baby girl is in the building. This is",
+      "en": "Ladies and gentle gentlemen, my baby girl is in the building. This is",
+      "zh": ""
+    },
+    {
+      "start": 886.31,
+      "duration": 0.3,
+      "text": "my baby girl is in the building. This is",
+      "en": "my baby girl is in the building. This is",
+      "zh": ""
+    },
+    {
+      "start": 886.32,
+      "duration": 3.82,
+      "text": "my baby girl is in the building. This is Kayla Thomas.",
+      "en": "my baby girl is in the building. This is Kayla Thomas.",
+      "zh": ""
+    },
+    {
+      "start": 890.79,
+      "duration": 0.3,
+      "text": ">> [applause]",
+      "en": ">> [applause]",
+      "zh": ""
+    },
+    {
+      "start": 890.8,
+      "duration": 3.11,
+      "text": ">> [applause] >> It's amazing how you knock me off my",
+      "en": ">> [applause] >> It's amazing how you knock me off my",
+      "zh": ""
+    },
+    {
+      "start": 893.91,
+      "duration": 0.3,
+      "text": ">> It's amazing how you knock me off my",
+      "en": ">> It's amazing how you knock me off my",
+      "zh": ""
+    },
+    {
+      "start": 893.92,
+      "duration": 1.43,
+      "text": ">> It's amazing how you knock me off my feet.",
+      "en": ">> It's amazing how you knock me off my feet.",
+      "zh": ""
+    },
+    {
+      "start": 895.35,
+      "duration": 0.3,
+      "text": "feet.",
+      "en": "feet.",
+      "zh": ""
+    },
+    {
+      "start": 895.36,
+      "duration": 2.67,
+      "text": "feet. I",
+      "en": "feet. I",
+      "zh": ""
+    },
+    {
+      "start": 900.71,
+      "duration": 0.3,
+      "text": "Every time you come around [singing] me,",
+      "en": "Every time you come around [singing] me,",
+      "zh": ""
+    },
+    {
+      "start": 900.72,
+      "duration": 3.18,
+      "text": "Every time you come around [singing] me, I get weak. No.",
+      "en": "Every time you come around [singing] me, I get weak. No.",
+      "zh": ""
+    },
+    {
+      "start": 903.9,
+      "duration": 0.3,
+      "text": "I get weak. No.",
+      "en": "I get weak. No.",
+      "zh": ""
+    },
+    {
+      "start": 903.91,
+      "duration": 1.44,
+      "text": "I get weak. No. >> [music]",
+      "en": "I get weak. No. >> [music]",
+      "zh": ""
+    },
+    {
+      "start": 905.35,
+      "duration": 0.3,
+      "text": ">> [music]",
+      "en": ">> [music]",
+      "zh": ""
+    },
+    {
+      "start": 905.36,
+      "duration": 7.19,
+      "text": ">> [music] >> Nobody ever made me feel this way.",
+      "en": ">> [music] >> Nobody ever made me feel this way.",
+      "zh": ""
+    },
+    {
+      "start": 915.31,
+      "duration": 0.3,
+      "text": "You kiss my lips and then you take my",
+      "en": "You kiss my lips and then you take my",
+      "zh": ""
+    },
+    {
+      "start": 915.32,
+      "duration": 1.87,
+      "text": "You kiss my lips and then you take my breath away.",
+      "en": "You kiss my lips and then you take my breath away.",
+      "zh": ""
+    },
+    {
+      "start": 917.19,
+      "duration": 0.3,
+      "text": "breath away.",
+      "en": "breath away.",
+      "zh": ""
+    },
+    {
+      "start": 917.2,
+      "duration": 1.59,
+      "text": "breath away. So,",
+      "en": "breath away. So,",
+      "zh": ""
+    },
+    {
+      "start": 918.79,
+      "duration": 0.3,
+      "text": "So,",
+      "en": "So,",
+      "zh": ""
+    },
+    {
+      "start": 918.8,
+      "duration": 1.39,
+      "text": "So, I want to know.",
+      "en": "So, I want to know.",
+      "zh": ""
+    },
+    {
+      "start": 920.19,
+      "duration": 0.3,
+      "text": "I want to know.",
+      "en": "I want to know.",
+      "zh": ""
+    },
+    {
+      "start": 920.2,
+      "duration": 0.73,
+      "text": "I want to know. >> I want to",
+      "en": "I want to know. >> I want to",
+      "zh": ""
+    },
+    {
+      "start": 920.93,
+      "duration": 0.3,
+      "text": ">> I want to",
+      "en": ">> I want to",
+      "zh": ""
+    },
+    {
+      "start": 920.94,
+      "duration": 0.37,
+      "text": ">> I want to >> [music]",
+      "en": ">> I want to >> [music]",
+      "zh": ""
+    },
+    {
+      "start": 921.31,
+      "duration": 0.3,
+      "text": ">> [music]",
+      "en": ">> [music]",
+      "zh": ""
+    },
+    {
+      "start": 921.32,
+      "duration": 0.92,
+      "text": ">> [music] >> know.",
+      "en": ">> [music] >> know.",
+      "zh": ""
+    },
+    {
+      "start": 922.24,
+      "duration": 0.3,
+      "text": ">> know.",
+      "en": ">> know.",
+      "zh": ""
+    },
+    {
+      "start": 922.25,
+      "duration": 0.5,
+      "text": ">> know. >> [singing]",
+      "en": ">> know. >> [singing]",
+      "zh": ""
+    },
+    {
+      "start": 922.75,
+      "duration": 0.3,
+      "text": ">> [singing]",
+      "en": ">> [singing]",
+      "zh": ""
+    },
+    {
+      "start": 922.76,
+      "duration": 3.43,
+      "text": ">> [singing] >> Ooh, sing my song this evening.",
+      "en": ">> [singing] >> Ooh, sing my song this evening.",
+      "zh": ""
+    },
+    {
+      "start": 927.48,
+      "duration": 0.3,
+      "text": "I want to [music] know.",
+      "en": "I want to [music] know.",
+      "zh": ""
+    },
+    {
+      "start": 927.49,
+      "duration": 4.58,
+      "text": "I want to [music] know. >> [singing]",
+      "en": "I want to [music] know. >> [singing]",
+      "zh": ""
+    },
+    {
+      "start": 932.72,
+      "duration": 0.3,
+      "text": "[music]",
+      "en": "[music]",
+      "zh": ""
+    },
+    {
+      "start": 932.73,
+      "duration": 0.62,
+      "text": "[music] [singing]",
+      "en": "[music] [singing]",
+      "zh": ""
+    },
+    {
+      "start": 933.35,
+      "duration": 0.3,
+      "text": "[singing]",
+      "en": "[singing]",
+      "zh": ""
+    },
+    {
+      "start": 933.36,
+      "duration": 4.6,
+      "text": "[singing] >> So, I want to know.",
+      "en": "[singing] >> So, I want to know.",
+      "zh": ""
+    },
+    {
+      "start": 938.62,
+      "duration": 0.3,
+      "text": ">> [music]",
+      "en": ">> [music]",
+      "zh": ""
+    },
+    {
+      "start": 938.62,
+      "duration": 1.77,
+      "text": ">> [music] [singing]",
+      "en": ">> [music] [singing]",
+      "zh": ""
+    },
+    {
+      "start": 940.39,
+      "duration": 0.3,
+      "text": "[singing]",
+      "en": "[singing]",
+      "zh": ""
+    },
+    {
+      "start": 940.4,
+      "duration": 2.14,
+      "text": "[singing] >> So,",
+      "en": "[singing] >> So,",
+      "zh": ""
+    },
+    {
+      "start": 942.54,
+      "duration": 0.3,
+      "text": ">> So,",
+      "en": ">> So,",
+      "zh": ""
+    },
+    {
+      "start": 942.55,
+      "duration": 4.72,
+      "text": ">> So, >> [music]",
+      "en": ">> So, >> [music]",
+      "zh": ""
+    },
+    {
+      "start": 949.87,
+      "duration": 0.3,
+      "text": ">> Listen, baby.",
+      "en": ">> Listen, baby.",
+      "zh": ""
+    },
+    {
+      "start": 949.88,
+      "duration": 3.47,
+      "text": ">> Listen, baby. Girl, he never understood what you were",
+      "en": ">> Listen, baby. Girl, he never understood what you were",
+      "zh": ""
+    },
+    {
+      "start": 953.35,
+      "duration": 0.3,
+      "text": "Girl, he never understood what you were",
+      "en": "Girl, he never understood what you were",
+      "zh": ""
+    },
+    {
+      "start": 953.36,
+      "duration": 1.75,
+      "text": "Girl, he never understood what you were worth. This is such a simple song,",
+      "en": "Girl, he never understood what you were worth. This is such a simple song,",
+      "zh": ""
+    },
+    {
+      "start": 955.11,
+      "duration": 0.3,
+      "text": "worth. This is such a simple song,",
+      "en": "worth. This is such a simple song,",
+      "zh": ""
+    },
+    {
+      "start": 955.12,
+      "duration": 2.43,
+      "text": "worth. This is such a simple song, right?",
+      "en": "worth. This is such a simple song, right?",
+      "zh": ""
+    },
+    {
+      "start": 959.58,
+      "duration": 0.3,
+      "text": "And he never took the time to",
+      "en": "And he never took the time to",
+      "zh": ""
+    },
+    {
+      "start": 959.59,
+      "duration": 5.2,
+      "text": "And he never took the time to [singing and music] make it work.",
+      "en": "And he never took the time to [singing and music] make it work.",
+      "zh": ""
+    },
+    {
+      "start": 967.31,
+      "duration": 0.3,
+      "text": "Baby, I'm the kind of [music] man who",
+      "en": "Baby, I'm the kind of [music] man who",
+      "zh": ""
+    },
+    {
+      "start": 967.32,
+      "duration": 1.99,
+      "text": "Baby, I'm the kind of [music] man who shows concern.",
+      "en": "Baby, I'm the kind of [music] man who shows concern.",
+      "zh": ""
+    },
+    {
+      "start": 969.31,
+      "duration": 0.3,
+      "text": "shows concern.",
+      "en": "shows concern.",
+      "zh": ""
+    },
+    {
+      "start": 969.32,
+      "duration": 2.83,
+      "text": "shows concern. Yes, I do.",
+      "en": "shows concern. Yes, I do.",
+      "zh": ""
+    },
+    {
+      "start": 972.15,
+      "duration": 0.3,
+      "text": "Yes, I do.",
+      "en": "Yes, I do.",
+      "zh": ""
+    },
+    {
+      "start": 972.16,
+      "duration": 1.43,
+      "text": "Yes, I do. Any way [music and singing] that I can",
+      "en": "Yes, I do. Any way [music and singing] that I can",
+      "zh": ""
+    },
+    {
+      "start": 973.59,
+      "duration": 0.3,
+      "text": "Any way [music and singing] that I can",
+      "en": "Any way [music and singing] that I can",
+      "zh": ""
+    },
+    {
+      "start": 973.6,
+      "duration": 3.03,
+      "text": "Any way [music and singing] that I can please you,",
+      "en": "Any way [music and singing] that I can please you,",
+      "zh": ""
+    },
+    {
+      "start": 978.23,
+      "duration": 0.3,
+      "text": "So,",
+      "en": "So,",
+      "zh": ""
+    },
+    {
+      "start": 978.24,
+      "duration": 3.75,
+      "text": "So, I want to know. [singing and music]",
+      "en": "So, I want to know. [singing and music]",
+      "zh": ""
+    },
+    {
+      "start": 983.55,
+      "duration": 0.3,
+      "text": "If you're with me this evening, sing the",
+      "en": "If you're with me this evening, sing the",
+      "zh": ""
+    },
+    {
+      "start": 983.56,
+      "duration": 2.03,
+      "text": "If you're with me this evening, sing the song with me.",
+      "en": "If you're with me this evening, sing the song with me.",
+      "zh": ""
+    },
+    {
+      "start": 985.59,
+      "duration": 0.3,
+      "text": "song with me.",
+      "en": "song with me.",
+      "zh": ""
+    },
+    {
+      "start": 985.6,
+      "duration": 1.49,
+      "text": "song with me. I like to know.",
+      "en": "song with me. I like to know.",
+      "zh": ""
+    },
+    {
+      "start": 987.09,
+      "duration": 0.3,
+      "text": "I like to know.",
+      "en": "I like to know.",
+      "zh": ""
+    },
+    {
+      "start": 987.1,
+      "duration": 4.57,
+      "text": "I like to know. >> [music and singing]",
+      "en": "I like to know. >> [music and singing]",
+      "zh": ""
+    },
+    {
+      "start": 993.03,
+      "duration": 0.3,
+      "text": "[singing]",
+      "en": "[singing]",
+      "zh": ""
+    },
+    {
+      "start": 993.04,
+      "duration": 5.18,
+      "text": "[singing] >> I like to know.",
+      "en": "[singing] >> I like to know.",
+      "zh": ""
+    },
+    {
+      "start": 998.95,
+      "duration": 0.3,
+      "text": ">> [singing]",
+      "en": ">> [singing]",
+      "zh": ""
+    },
+    {
+      "start": 998.96,
+      "duration": 3.19,
+      "text": ">> [singing] >> So,",
+      "en": ">> [singing] >> So,",
+      "zh": ""
+    },
+    {
+      "start": 1002.81,
+      "duration": 0.3,
+      "text": ">> [music]",
+      "en": ">> [music]",
+      "zh": ""
+    },
+    {
+      "start": 1002.82,
+      "duration": 1.17,
+      "text": ">> [music] [singing]",
+      "en": ">> [music] [singing]",
+      "zh": ""
+    },
+    {
+      "start": 1003.99,
+      "duration": 0.3,
+      "text": "[singing]",
+      "en": "[singing]",
+      "zh": ""
+    },
+    {
+      "start": 1004.0,
+      "duration": 4.35,
+      "text": "[singing] >> Always make you smile.",
+      "en": "[singing] >> Always make you smile.",
+      "zh": ""
+    },
+    {
+      "start": 1010.67,
+      "duration": 0.3,
+      "text": "Tell me what I got [singing] to do to",
+      "en": "Tell me what I got [singing] to do to",
+      "zh": ""
+    },
+    {
+      "start": 1010.68,
+      "duration": 4.43,
+      "text": "Tell me what I got [singing] to do to [music] please you. I hear you, baby.",
+      "en": "Tell me what I got [singing] to do to [music] please you. I hear you, baby.",
+      "zh": ""
+    },
+    {
+      "start": 1017.22,
+      "duration": 0.3,
+      "text": "I hear you, baby.",
+      "en": "I hear you, baby.",
+      "zh": ""
+    },
+    {
+      "start": 1017.23,
+      "duration": 0.64,
+      "text": "I hear you, baby. >> [singing]",
+      "en": "I hear you, baby. >> [singing]",
+      "zh": ""
+    },
+    {
+      "start": 1017.87,
+      "duration": 0.3,
+      "text": ">> [singing]",
+      "en": ">> [singing]",
+      "zh": ""
+    },
+    {
+      "start": 1017.88,
+      "duration": 1.07,
+      "text": ">> [singing] [music]",
+      "en": ">> [singing] [music]",
+      "zh": ""
+    },
+    {
+      "start": 1018.95,
+      "duration": 0.3,
+      "text": "[music]",
+      "en": "[music]",
+      "zh": ""
+    },
+    {
+      "start": 1018.96,
+      "duration": 3.23,
+      "text": "[music] >> All right.",
+      "en": "[music] >> All right.",
+      "zh": ""
+    },
+    {
+      "start": 1025.73,
+      "duration": 0.3,
+      "text": "Yeah. Tell me what I got to do to",
+      "en": "Yeah. Tell me what I got to do to",
+      "zh": ""
+    },
+    {
+      "start": 1025.74,
+      "duration": 0.3,
+      "text": "Yeah. Tell me what I got to do to >> [music and singing]",
+      "en": "Yeah. Tell me what I got to do to >> [music and singing]",
+      "zh": ""
+    },
+    {
+      "start": 1025.99,
+      "duration": 0.3,
+      "text": ">> [music and singing]",
+      "en": ">> [music and singing]",
+      "zh": ""
+    },
+    {
+      "start": 1026.0,
+      "duration": 3.67,
+      "text": ">> [music and singing] >> Oh, yeah.",
+      "en": ">> [music and singing] >> Oh, yeah.",
+      "zh": ""
+    },
+    {
+      "start": 1031.63,
+      "duration": 0.3,
+      "text": "I'll do it, girl.",
+      "en": "I'll do it, girl.",
+      "zh": ""
+    },
+    {
+      "start": 1031.64,
+      "duration": 1.3,
+      "text": "I'll do it, girl. >> [singing]",
+      "en": "I'll do it, girl. >> [singing]",
+      "zh": ""
+    },
+    {
+      "start": 1032.94,
+      "duration": 0.3,
+      "text": ">> [singing]",
+      "en": ">> [singing]",
+      "zh": ""
+    },
+    {
+      "start": 1032.95,
+      "duration": 0.4,
+      "text": ">> [singing] [music]",
+      "en": ">> [singing] [music]",
+      "zh": ""
+    },
+    {
+      "start": 1033.35,
+      "duration": 0.3,
+      "text": "[music]",
+      "en": "[music]",
+      "zh": ""
+    },
+    {
+      "start": 1033.36,
+      "duration": 2.11,
+      "text": "[music] >> All right.",
+      "en": "[music] >> All right.",
+      "zh": ""
+    },
+    {
+      "start": 1035.47,
+      "duration": 0.3,
+      "text": ">> All right.",
+      "en": ">> All right.",
+      "zh": ""
+    },
+    {
+      "start": 1035.48,
+      "duration": 1.79,
+      "text": ">> All right. Y'all sound so good.",
+      "en": ">> All right. Y'all sound so good.",
+      "zh": ""
+    },
+    {
+      "start": 1037.27,
+      "duration": 0.3,
+      "text": "Y'all sound so good.",
+      "en": "Y'all sound so good.",
+      "zh": ""
+    },
+    {
+      "start": 1037.28,
+      "duration": 1.59,
+      "text": "Y'all sound so good. Hey.",
+      "en": "Y'all sound so good. Hey.",
+      "zh": ""
+    },
+    {
+      "start": 1038.87,
+      "duration": 0.3,
+      "text": "Hey.",
+      "en": "Hey.",
+      "zh": ""
+    },
+    {
+      "start": 1038.88,
+      "duration": 1.59,
+      "text": "Hey. I wish that I could take [music] a",
+      "en": "Hey. I wish that I could take [music] a",
+      "zh": ""
+    },
+    {
+      "start": 1040.47,
+      "duration": 0.3,
+      "text": "I wish that I could take [music] a",
+      "en": "I wish that I could take [music] a",
+      "zh": ""
+    },
+    {
+      "start": 1040.48,
+      "duration": 1.63,
+      "text": "I wish that I could take [music] a journey through your",
+      "en": "I wish that I could take [music] a journey through your",
+      "zh": ""
+    },
+    {
+      "start": 1042.11,
+      "duration": 0.3,
+      "text": "journey through your",
+      "en": "journey through your",
+      "zh": ""
+    },
+    {
+      "start": 1042.12,
+      "duration": 2.23,
+      "text": "journey through your >> [singing]",
+      "en": "journey through your >> [singing]",
+      "zh": ""
+    },
+    {
+      "start": 1045.31,
+      "duration": 0.3,
+      "text": ">> mind,",
+      "en": ">> mind,",
+      "zh": ""
+    },
+    {
+      "start": 1045.32,
+      "duration": 2.03,
+      "text": ">> mind, all [music] right, and find emotions",
+      "en": ">> mind, all [music] right, and find emotions",
+      "zh": ""
+    },
+    {
+      "start": 1047.35,
+      "duration": 0.3,
+      "text": "all [music] right, and find emotions",
+      "en": "all [music] right, and find emotions",
+      "zh": ""
+    },
+    {
+      "start": 1047.36,
+      "duration": 2.87,
+      "text": "all [music] right, and find emotions that you always try to [singing] hide,",
+      "en": "all [music] right, and find emotions that you always try to [singing] hide,",
+      "zh": ""
+    },
+    {
+      "start": 1050.23,
+      "duration": 0.3,
+      "text": "that you always try to [singing] hide,",
+      "en": "that you always try to [singing] hide,",
+      "zh": ""
+    },
+    {
+      "start": 1050.24,
+      "duration": 3.15,
+      "text": "that you always try to [singing] hide, babe.",
+      "en": "that you always try to [singing] hide, babe.",
+      "zh": ""
+    },
+    {
+      "start": 1055.55,
+      "duration": 0.3,
+      "text": "I do believe [music] that there's a love",
+      "en": "I do believe [music] that there's a love",
+      "zh": ""
+    },
+    {
+      "start": 1055.56,
+      "duration": 2.92,
+      "text": "I do believe [music] that there's a love you want to share.",
+      "en": "I do believe [music] that there's a love you want to share.",
+      "zh": ""
+    },
+    {
+      "start": 1058.48,
+      "duration": 0.3,
+      "text": "you want to share.",
+      "en": "you want to share.",
+      "zh": ""
+    },
+    {
+      "start": 1058.49,
+      "duration": 1.96,
+      "text": "you want to share. >> [singing]",
+      "en": "you want to share. >> [singing]",
+      "zh": ""
+    },
+    {
+      "start": 1060.45,
+      "duration": 0.3,
+      "text": ">> [singing]",
+      "en": ">> [singing]",
+      "zh": ""
+    },
+    {
+      "start": 1060.46,
+      "duration": 0.3,
+      "text": ">> [singing] [music]",
+      "en": ">> [singing] [music]",
+      "zh": ""
+    },
+    {
+      "start": 1060.67,
+      "duration": 0.3,
+      "text": "[music]",
+      "en": "[music]",
+      "zh": ""
+    },
+    {
+      "start": 1060.68,
+      "duration": 2.71,
+      "text": "[music] >> I'll take care of you, lady. [singing]",
+      "en": "[music] >> I'll take care of you, lady. [singing]",
+      "zh": ""
+    },
+    {
+      "start": 1063.39,
+      "duration": 0.3,
+      "text": ">> I'll take care of you, lady. [singing]",
+      "en": ">> I'll take care of you, lady. [singing]",
+      "zh": ""
+    },
+    {
+      "start": 1063.4,
+      "duration": 2.75,
+      "text": ">> I'll take care of you, lady. [singing] Have no fear.",
+      "en": ">> I'll take care of you, lady. [singing] Have no fear.",
+      "zh": ""
+    },
+    {
+      "start": 1066.15,
+      "duration": 0.3,
+      "text": "Have no fear.",
+      "en": "Have no fear.",
+      "zh": ""
+    },
+    {
+      "start": 1066.16,
+      "duration": 2.8,
+      "text": "Have no fear. So, I want to know.",
+      "en": "Have no fear. So, I want to know.",
+      "zh": ""
+    },
+    {
+      "start": 1068.96,
+      "duration": 0.3,
+      "text": "So, I want to know.",
+      "en": "So, I want to know.",
+      "zh": ""
+    },
+    {
+      "start": 1068.97,
+      "duration": 3.66,
+      "text": "So, I want to know. >> [singing and music]",
+      "en": "So, I want to know. >> [singing and music]",
+      "zh": ""
+    },
+    {
+      "start": 1074.39,
+      "duration": 0.3,
+      "text": ">> I",
+      "en": ">> I",
+      "zh": ""
+    },
+    {
+      "start": 1074.4,
+      "duration": 1.77,
+      "text": ">> I I want to know.",
+      "en": ">> I I want to know.",
+      "zh": ""
+    },
+    {
+      "start": 1076.17,
+      "duration": 0.3,
+      "text": "I want to know.",
+      "en": "I want to know.",
+      "zh": ""
+    },
+    {
+      "start": 1076.18,
+      "duration": 0.64,
+      "text": "I want to know. >> [music]",
+      "en": "I want to know. >> [music]",
+      "zh": ""
+    },
+    {
+      "start": 1076.82,
+      "duration": 0.3,
+      "text": ">> [music]",
+      "en": ">> [music]",
+      "zh": ""
+    },
+    {
+      "start": 1076.83,
+      "duration": 4.32,
+      "text": ">> [music] [singing]",
+      "en": ">> [music] [singing]",
+      "zh": ""
+    },
+    {
+      "start": 1083.37,
+      "duration": 0.3,
+      "text": ">> I'd [music] like to know.",
+      "en": ">> I'd [music] like to know.",
+      "zh": ""
+    },
+    {
+      "start": 1083.38,
+      "duration": 3.27,
+      "text": ">> I'd [music] like to know. >> [singing]",
+      "en": ">> I'd [music] like to know. >> [singing]",
+      "zh": ""
+    },
+    {
+      "start": 1086.91,
+      "duration": 0.3,
+      "text": "[music]",
+      "en": "[music]",
+      "zh": ""
+    },
+    {
+      "start": 1086.92,
+      "duration": 3.0,
+      "text": "[music] >> So, oh.",
+      "en": "[music] >> So, oh.",
+      "zh": ""
+    },
+    {
+      "start": 1093.11,
+      "duration": 0.3,
+      "text": "[music]",
+      "en": "[music]",
+      "zh": ""
+    },
+    {
+      "start": 1093.12,
+      "duration": 3.83,
+      "text": "[music] >> So, go tell me. Tell me. Tell me what I",
+      "en": "[music] >> So, go tell me. Tell me. Tell me what I",
+      "zh": ""
+    },
+    {
+      "start": 1096.95,
+      "duration": 0.3,
+      "text": ">> So, go tell me. Tell me. Tell me what I",
+      "en": ">> So, go tell me. Tell me. Tell me what I",
+      "zh": ""
+    },
+    {
+      "start": 1096.96,
+      "duration": 3.91,
+      "text": ">> So, go tell me. Tell me. Tell me what I got to do to please you. Baby, anything",
+      "en": ">> So, go tell me. Tell me. Tell me what I got to do to please you. Baby, anything",
+      "zh": ""
+    },
+    {
+      "start": 1100.87,
+      "duration": 0.3,
+      "text": "got to do to please you. Baby, anything",
+      "en": "got to do to please you. Baby, anything",
+      "zh": ""
+    },
+    {
+      "start": 1100.88,
+      "duration": 2.43,
+      "text": "got to do to please you. Baby, anything you say I'll do",
+      "en": "got to do to please you. Baby, anything you say I'll do",
+      "zh": ""
+    },
+    {
+      "start": 1103.31,
+      "duration": 0.3,
+      "text": "you say I'll do",
+      "en": "you say I'll do",
+      "zh": ""
+    },
+    {
+      "start": 1103.32,
+      "duration": 2.32,
+      "text": "you say I'll do cuz I only want to make you happy.",
+      "en": "you say I'll do cuz I only want to make you happy.",
+      "zh": ""
+    },
+    {
+      "start": 1105.64,
+      "duration": 0.3,
+      "text": "cuz I only want to make you happy.",
+      "en": "cuz I only want to make you happy.",
+      "zh": ""
+    },
+    {
+      "start": 1105.65,
+      "duration": 1.26,
+      "text": "cuz I only want to make you happy. [singing and music]",
+      "en": "cuz I only want to make you happy. [singing and music]",
+      "zh": ""
+    },
+    {
+      "start": 1106.91,
+      "duration": 0.3,
+      "text": "[singing and music]",
+      "en": "[singing and music]",
+      "zh": ""
+    },
+    {
+      "start": 1106.92,
+      "duration": 2.15,
+      "text": "[singing and music] From the bottom of my heart,",
+      "en": "[singing and music] From the bottom of my heart,",
+      "zh": ""
+    },
+    {
+      "start": 1109.07,
+      "duration": 0.3,
+      "text": "From the bottom of my heart,",
+      "en": "From the bottom of my heart,",
+      "zh": ""
+    },
+    {
+      "start": 1109.08,
+      "duration": 0.71,
+      "text": "From the bottom of my heart, it's true.",
+      "en": "From the bottom of my heart, it's true.",
+      "zh": ""
+    },
+    {
+      "start": 1109.79,
+      "duration": 0.3,
+      "text": "it's true.",
+      "en": "it's true.",
+      "zh": ""
+    },
+    {
+      "start": 1109.8,
+      "duration": 0.67,
+      "text": "it's true. Hey,",
+      "en": "it's true. Hey,",
+      "zh": ""
+    },
+    {
+      "start": 1110.47,
+      "duration": 0.3,
+      "text": "Hey,",
+      "en": "Hey,",
+      "zh": ""
+    },
+    {
+      "start": 1110.48,
+      "duration": 2.27,
+      "text": "Hey, tell me [singing] what I got to do to",
+      "en": "Hey, tell me [singing] what I got to do to",
+      "zh": ""
+    },
+    {
+      "start": 1112.75,
+      "duration": 0.3,
+      "text": "tell me [singing] what I got to do to",
+      "en": "tell me [singing] what I got to do to",
+      "zh": ""
+    },
+    {
+      "start": 1112.76,
+      "duration": 0.83,
+      "text": "tell me [singing] what I got to do to please you.",
+      "en": "tell me [singing] what I got to do to please you.",
+      "zh": ""
+    },
+    {
+      "start": 1113.59,
+      "duration": 0.3,
+      "text": "please you.",
+      "en": "please you.",
+      "zh": ""
+    },
+    {
+      "start": 1113.6,
+      "duration": 0.63,
+      "text": "please you. >> Say what?",
+      "en": "please you. >> Say what?",
+      "zh": ""
+    },
+    {
+      "start": 1114.23,
+      "duration": 0.3,
+      "text": ">> Say what?",
+      "en": ">> Say what?",
+      "zh": ""
+    },
+    {
+      "start": 1114.24,
+      "duration": 2.83,
+      "text": ">> Say what? >> Baby, anything you say I'll do.",
+      "en": ">> Say what? >> Baby, anything you say I'll do.",
+      "zh": ""
+    },
+    {
+      "start": 1117.07,
+      "duration": 0.3,
+      "text": ">> Baby, anything you say I'll do.",
+      "en": ">> Baby, anything you say I'll do.",
+      "zh": ""
+    },
+    {
+      "start": 1117.08,
+      "duration": 0.67,
+      "text": ">> Baby, anything you say I'll do. >> Say what?",
+      "en": ">> Baby, anything you say I'll do. >> Say what?",
+      "zh": ""
+    },
+    {
+      "start": 1117.75,
+      "duration": 0.3,
+      "text": ">> Say what?",
+      "en": ">> Say what?",
+      "zh": ""
+    },
+    {
+      "start": 1117.76,
+      "duration": 3.83,
+      "text": ">> Say what? >> Cuz I only want to make you happy.",
+      "en": ">> Say what? >> Cuz I only want to make you happy.",
+      "zh": ""
+    },
+    {
+      "start": 1121.59,
+      "duration": 0.3,
+      "text": ">> Cuz I only want to make you happy.",
+      "en": ">> Cuz I only want to make you happy.",
+      "zh": ""
+    },
+    {
+      "start": 1121.6,
+      "duration": 2.55,
+      "text": ">> Cuz I only want to make you happy. And the bottom of my heart is true.",
+      "en": ">> Cuz I only want to make you happy. And the bottom of my heart is true.",
+      "zh": ""
+    },
+    {
+      "start": 1124.15,
+      "duration": 0.3,
+      "text": "And the bottom of my heart is true.",
+      "en": "And the bottom of my heart is true.",
+      "zh": ""
+    },
+    {
+      "start": 1124.16,
+      "duration": 1.79,
+      "text": "And the bottom of my heart is true. >> Hey, yeah, yeah, yeah, yeah, yeah.",
+      "en": "And the bottom of my heart is true. >> Hey, yeah, yeah, yeah, yeah, yeah.",
+      "zh": ""
+    },
+    {
+      "start": 1125.95,
+      "duration": 0.3,
+      "text": ">> Hey, yeah, yeah, yeah, yeah, yeah.",
+      "en": ">> Hey, yeah, yeah, yeah, yeah, yeah.",
+      "zh": ""
+    },
+    {
+      "start": 1125.96,
+      "duration": 0.51,
+      "text": ">> Hey, yeah, yeah, yeah, yeah, yeah. >> [music]",
+      "en": ">> Hey, yeah, yeah, yeah, yeah, yeah. >> [music]",
+      "zh": ""
+    },
+    {
+      "start": 1126.47,
+      "duration": 0.3,
+      "text": ">> [music]",
+      "en": ">> [music]",
+      "zh": ""
+    },
+    {
+      "start": 1126.48,
+      "duration": 1.43,
+      "text": ">> [music] >> Yeah.",
+      "en": ">> [music] >> Yeah.",
+      "zh": ""
+    },
+    {
+      "start": 1127.91,
+      "duration": 0.3,
+      "text": ">> Yeah.",
+      "en": ">> Yeah.",
+      "zh": ""
+    },
+    {
+      "start": 1127.92,
+      "duration": 0.75,
+      "text": ">> Yeah. >> [singing]",
+      "en": ">> Yeah. >> [singing]",
+      "zh": ""
+    },
+    {
+      "start": 1128.67,
+      "duration": 0.3,
+      "text": ">> [singing]",
+      "en": ">> [singing]",
+      "zh": ""
+    },
+    {
+      "start": 1128.68,
+      "duration": 3.55,
+      "text": ">> [singing] >> Yeah, yeah, yeah, yeah.",
+      "en": ">> [singing] >> Yeah, yeah, yeah, yeah.",
+      "zh": ""
+    },
+    {
+      "start": 1153.15,
+      "duration": 0.3,
+      "text": "[music]",
+      "en": "[music]",
+      "zh": ""
+    },
+    {
+      "start": 1153.16,
+      "duration": 1.95,
+      "text": "[music] >> Thank you so much.",
+      "en": "[music] >> Thank you so much.",
+      "zh": ""
+    },
+    {
+      "start": 1155.11,
+      "duration": 0.3,
+      "text": ">> Thank you so much.",
+      "en": ">> Thank you so much.",
+      "zh": ""
+    },
+    {
+      "start": 1155.12,
+      "duration": 2.92,
+      "text": ">> Thank you so much. Such a pleasure.",
+      "en": ">> Thank you so much. Such a pleasure.",
+      "zh": ""
+    },
+    {
+      "start": 1177.04,
+      "duration": 0.3,
+      "text": ">> APPRECIATE [cheering] YOU.",
+      "en": ">> APPRECIATE [cheering] YOU.",
+      "zh": ""
+    },
+    {
+      "start": 1177.05,
+      "duration": 5.23,
+      "text": ">> APPRECIATE [cheering] YOU. >> [applause]",
+      "en": ">> APPRECIATE [cheering] YOU. >> [applause]",
+      "zh": ""
+    },
+    {
+      "start": 1191.45,
+      "duration": 0.3,
+      "text": ">> [applause]",
+      "en": ">> [applause]",
+      "zh": ""
+    },
+    {
+      "start": 1191.46,
+      "duration": 2.02,
+      "text": ">> [applause] [cheering]",
+      "en": ">> [applause] [cheering]",
+      "zh": ""
+    }
+  ],
+  "words": []
+}
